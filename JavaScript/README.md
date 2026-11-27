@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020018 | [JavaScript: Inventory — Recovery for Public Dataset](Project_020018/README.md) |
 | 020019 | [JavaScript: Inventory — Reporting for Public Dataset](Project_020019/README.md) |
 | 020020 | [JavaScript: Inventory — Usability Improvement for Public Dataset](Project_020020/README.md) |
+| 020021 | [JavaScript: Inventory — Baseline Setup for Branch Office Simulator](Project_020021/README.md) |
+| 020022 | [JavaScript: Inventory — Automation for Branch Office Simulator](Project_020022/README.md) |
+| 020023 | [JavaScript: Inventory — Recovery for Branch Office Simulator](Project_020023/README.md) |
+| 020024 | [JavaScript: Inventory — Reporting for Branch Office Simulator](Project_020024/README.md) |
+| 020025 | [JavaScript: Inventory — Usability Improvement for Branch Office Simulator](Project_020025/README.md) |
+| 020026 | [JavaScript: Inventory — Baseline Setup for Offline Classroom](Project_020026/README.md) |
+| 020027 | [JavaScript: Inventory — Automation for Offline Classroom](Project_020027/README.md) |
+| 020028 | [JavaScript: Inventory — Recovery for Offline Classroom](Project_020028/README.md) |
+| 020029 | [JavaScript: Inventory — Reporting for Offline Classroom](Project_020029/README.md) |
+| 020030 | [JavaScript: Inventory — Usability Improvement for Offline Classroom](Project_020030/README.md) |
+| 020031 | [JavaScript: Inventory — Baseline Setup for Single-Host Lab](Project_020031/README.md) |
+| 020032 | [JavaScript: Inventory — Automation for Single-Host Lab](Project_020032/README.md) |
+| 020033 | [JavaScript: Inventory — Recovery for Single-Host Lab](Project_020033/README.md) |
+| 020034 | [JavaScript: Inventory — Reporting for Single-Host Lab](Project_020034/README.md) |
+| 020035 | [JavaScript: Inventory — Usability Improvement for Single-Host Lab](Project_020035/README.md) |
+| 020036 | [JavaScript: Inventory — Baseline Setup for Two-Node Lab](Project_020036/README.md) |
+| 020037 | [JavaScript: Inventory — Automation for Two-Node Lab](Project_020037/README.md) |
+| 020038 | [JavaScript: Inventory — Recovery for Two-Node Lab](Project_020038/README.md) |
+| 020039 | [JavaScript: Inventory — Reporting for Two-Node Lab](Project_020039/README.md) |
+| 020040 | [JavaScript: Inventory — Usability Improvement for Two-Node Lab](Project_020040/README.md) |
 
 [Back to the portfolio home](../README.md)
