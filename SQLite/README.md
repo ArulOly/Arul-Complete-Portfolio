@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028918 | [SQLite: Visual Reporting — Recovery for Public Dataset](Project_028918/README.md) |
 | 028919 | [SQLite: Visual Reporting — Reporting for Public Dataset](Project_028919/README.md) |
 | 028920 | [SQLite: Visual Reporting — Usability Improvement for Public Dataset](Project_028920/README.md) |
+| 028921 | [SQLite: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_028921/README.md) |
+| 028922 | [SQLite: Visual Reporting — Automation for Branch Office Simulator](Project_028922/README.md) |
+| 028923 | [SQLite: Visual Reporting — Recovery for Branch Office Simulator](Project_028923/README.md) |
+| 028924 | [SQLite: Visual Reporting — Reporting for Branch Office Simulator](Project_028924/README.md) |
+| 028925 | [SQLite: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_028925/README.md) |
+| 028926 | [SQLite: Visual Reporting — Baseline Setup for Offline Classroom](Project_028926/README.md) |
+| 028927 | [SQLite: Visual Reporting — Automation for Offline Classroom](Project_028927/README.md) |
+| 028928 | [SQLite: Visual Reporting — Recovery for Offline Classroom](Project_028928/README.md) |
+| 028929 | [SQLite: Visual Reporting — Reporting for Offline Classroom](Project_028929/README.md) |
+| 028930 | [SQLite: Visual Reporting — Usability Improvement for Offline Classroom](Project_028930/README.md) |
+| 028931 | [SQLite: Visual Reporting — Baseline Setup for Single-Host Lab](Project_028931/README.md) |
+| 028932 | [SQLite: Visual Reporting — Automation for Single-Host Lab](Project_028932/README.md) |
+| 028933 | [SQLite: Visual Reporting — Recovery for Single-Host Lab](Project_028933/README.md) |
+| 028934 | [SQLite: Visual Reporting — Reporting for Single-Host Lab](Project_028934/README.md) |
+| 028935 | [SQLite: Visual Reporting — Usability Improvement for Single-Host Lab](Project_028935/README.md) |
+| 028936 | [SQLite: Visual Reporting — Baseline Setup for Two-Node Lab](Project_028936/README.md) |
+| 028937 | [SQLite: Visual Reporting — Automation for Two-Node Lab](Project_028937/README.md) |
+| 028938 | [SQLite: Visual Reporting — Recovery for Two-Node Lab](Project_028938/README.md) |
+| 028939 | [SQLite: Visual Reporting — Reporting for Two-Node Lab](Project_028939/README.md) |
+| 028940 | [SQLite: Visual Reporting — Usability Improvement for Two-Node Lab](Project_028940/README.md) |
 
 [Back to the portfolio home](../README.md)
