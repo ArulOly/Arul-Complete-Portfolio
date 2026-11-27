@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025418 | [PostgreSQL: Alerting — Recovery for Public Dataset](Project_025418/README.md) |
 | 025419 | [PostgreSQL: Alerting — Reporting for Public Dataset](Project_025419/README.md) |
 | 025420 | [PostgreSQL: Alerting — Usability Improvement for Public Dataset](Project_025420/README.md) |
+| 025421 | [PostgreSQL: Alerting — Baseline Setup for Branch Office Simulator](Project_025421/README.md) |
+| 025422 | [PostgreSQL: Alerting — Automation for Branch Office Simulator](Project_025422/README.md) |
+| 025423 | [PostgreSQL: Alerting — Recovery for Branch Office Simulator](Project_025423/README.md) |
+| 025424 | [PostgreSQL: Alerting — Reporting for Branch Office Simulator](Project_025424/README.md) |
+| 025425 | [PostgreSQL: Alerting — Usability Improvement for Branch Office Simulator](Project_025425/README.md) |
+| 025426 | [PostgreSQL: Alerting — Baseline Setup for Offline Classroom](Project_025426/README.md) |
+| 025427 | [PostgreSQL: Alerting — Automation for Offline Classroom](Project_025427/README.md) |
+| 025428 | [PostgreSQL: Alerting — Recovery for Offline Classroom](Project_025428/README.md) |
+| 025429 | [PostgreSQL: Alerting — Reporting for Offline Classroom](Project_025429/README.md) |
+| 025430 | [PostgreSQL: Alerting — Usability Improvement for Offline Classroom](Project_025430/README.md) |
+| 025431 | [PostgreSQL: Alerting — Baseline Setup for Single-Host Lab](Project_025431/README.md) |
+| 025432 | [PostgreSQL: Alerting — Automation for Single-Host Lab](Project_025432/README.md) |
+| 025433 | [PostgreSQL: Alerting — Recovery for Single-Host Lab](Project_025433/README.md) |
+| 025434 | [PostgreSQL: Alerting — Reporting for Single-Host Lab](Project_025434/README.md) |
+| 025435 | [PostgreSQL: Alerting — Usability Improvement for Single-Host Lab](Project_025435/README.md) |
+| 025436 | [PostgreSQL: Alerting — Baseline Setup for Two-Node Lab](Project_025436/README.md) |
+| 025437 | [PostgreSQL: Alerting — Automation for Two-Node Lab](Project_025437/README.md) |
+| 025438 | [PostgreSQL: Alerting — Recovery for Two-Node Lab](Project_025438/README.md) |
+| 025439 | [PostgreSQL: Alerting — Reporting for Two-Node Lab](Project_025439/README.md) |
+| 025440 | [PostgreSQL: Alerting — Usability Improvement for Two-Node Lab](Project_025440/README.md) |
 
 [Back to the portfolio home](../README.md)
