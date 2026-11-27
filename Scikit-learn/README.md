@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034118 | [Scikit-learn: Audit — Recovery for Public Dataset](Project_034118/README.md) |
 | 034119 | [Scikit-learn: Audit — Reporting for Public Dataset](Project_034119/README.md) |
 | 034120 | [Scikit-learn: Audit — Usability Improvement for Public Dataset](Project_034120/README.md) |
+| 034121 | [Scikit-learn: Audit — Baseline Setup for Branch Office Simulator](Project_034121/README.md) |
+| 034122 | [Scikit-learn: Audit — Automation for Branch Office Simulator](Project_034122/README.md) |
+| 034123 | [Scikit-learn: Audit — Recovery for Branch Office Simulator](Project_034123/README.md) |
+| 034124 | [Scikit-learn: Audit — Reporting for Branch Office Simulator](Project_034124/README.md) |
+| 034125 | [Scikit-learn: Audit — Usability Improvement for Branch Office Simulator](Project_034125/README.md) |
+| 034126 | [Scikit-learn: Audit — Baseline Setup for Offline Classroom](Project_034126/README.md) |
+| 034127 | [Scikit-learn: Audit — Automation for Offline Classroom](Project_034127/README.md) |
+| 034128 | [Scikit-learn: Audit — Recovery for Offline Classroom](Project_034128/README.md) |
+| 034129 | [Scikit-learn: Audit — Reporting for Offline Classroom](Project_034129/README.md) |
+| 034130 | [Scikit-learn: Audit — Usability Improvement for Offline Classroom](Project_034130/README.md) |
+| 034131 | [Scikit-learn: Audit — Baseline Setup for Single-Host Lab](Project_034131/README.md) |
+| 034132 | [Scikit-learn: Audit — Automation for Single-Host Lab](Project_034132/README.md) |
+| 034133 | [Scikit-learn: Audit — Recovery for Single-Host Lab](Project_034133/README.md) |
+| 034134 | [Scikit-learn: Audit — Reporting for Single-Host Lab](Project_034134/README.md) |
+| 034135 | [Scikit-learn: Audit — Usability Improvement for Single-Host Lab](Project_034135/README.md) |
+| 034136 | [Scikit-learn: Audit — Baseline Setup for Two-Node Lab](Project_034136/README.md) |
+| 034137 | [Scikit-learn: Audit — Automation for Two-Node Lab](Project_034137/README.md) |
+| 034138 | [Scikit-learn: Audit — Recovery for Two-Node Lab](Project_034138/README.md) |
+| 034139 | [Scikit-learn: Audit — Reporting for Two-Node Lab](Project_034139/README.md) |
+| 034140 | [Scikit-learn: Audit — Usability Improvement for Two-Node Lab](Project_034140/README.md) |
 
 [Back to the portfolio home](../README.md)
