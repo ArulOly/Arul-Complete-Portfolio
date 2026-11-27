@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027118 | [MongoDB: Audit — Recovery for Public Dataset](Project_027118/README.md) |
 | 027119 | [MongoDB: Audit — Reporting for Public Dataset](Project_027119/README.md) |
 | 027120 | [MongoDB: Audit — Usability Improvement for Public Dataset](Project_027120/README.md) |
+| 027121 | [MongoDB: Audit — Baseline Setup for Branch Office Simulator](Project_027121/README.md) |
+| 027122 | [MongoDB: Audit — Automation for Branch Office Simulator](Project_027122/README.md) |
+| 027123 | [MongoDB: Audit — Recovery for Branch Office Simulator](Project_027123/README.md) |
+| 027124 | [MongoDB: Audit — Reporting for Branch Office Simulator](Project_027124/README.md) |
+| 027125 | [MongoDB: Audit — Usability Improvement for Branch Office Simulator](Project_027125/README.md) |
+| 027126 | [MongoDB: Audit — Baseline Setup for Offline Classroom](Project_027126/README.md) |
+| 027127 | [MongoDB: Audit — Automation for Offline Classroom](Project_027127/README.md) |
+| 027128 | [MongoDB: Audit — Recovery for Offline Classroom](Project_027128/README.md) |
+| 027129 | [MongoDB: Audit — Reporting for Offline Classroom](Project_027129/README.md) |
+| 027130 | [MongoDB: Audit — Usability Improvement for Offline Classroom](Project_027130/README.md) |
+| 027131 | [MongoDB: Audit — Baseline Setup for Single-Host Lab](Project_027131/README.md) |
+| 027132 | [MongoDB: Audit — Automation for Single-Host Lab](Project_027132/README.md) |
+| 027133 | [MongoDB: Audit — Recovery for Single-Host Lab](Project_027133/README.md) |
+| 027134 | [MongoDB: Audit — Reporting for Single-Host Lab](Project_027134/README.md) |
+| 027135 | [MongoDB: Audit — Usability Improvement for Single-Host Lab](Project_027135/README.md) |
+| 027136 | [MongoDB: Audit — Baseline Setup for Two-Node Lab](Project_027136/README.md) |
+| 027137 | [MongoDB: Audit — Automation for Two-Node Lab](Project_027137/README.md) |
+| 027138 | [MongoDB: Audit — Recovery for Two-Node Lab](Project_027138/README.md) |
+| 027139 | [MongoDB: Audit — Reporting for Two-Node Lab](Project_027139/README.md) |
+| 027140 | [MongoDB: Audit — Usability Improvement for Two-Node Lab](Project_027140/README.md) |
 
 [Back to the portfolio home](../README.md)
