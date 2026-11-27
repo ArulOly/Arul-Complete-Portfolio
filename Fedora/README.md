@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004818 | [Fedora: Documentation Generation — Recovery for Public Dataset](Project_004818/README.md) |
 | 004819 | [Fedora: Documentation Generation — Reporting for Public Dataset](Project_004819/README.md) |
 | 004820 | [Fedora: Documentation Generation — Usability Improvement for Public Dataset](Project_004820/README.md) |
+| 004821 | [Fedora: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_004821/README.md) |
+| 004822 | [Fedora: Documentation Generation — Automation for Branch Office Simulator](Project_004822/README.md) |
+| 004823 | [Fedora: Documentation Generation — Recovery for Branch Office Simulator](Project_004823/README.md) |
+| 004824 | [Fedora: Documentation Generation — Reporting for Branch Office Simulator](Project_004824/README.md) |
+| 004825 | [Fedora: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_004825/README.md) |
+| 004826 | [Fedora: Documentation Generation — Baseline Setup for Offline Classroom](Project_004826/README.md) |
+| 004827 | [Fedora: Documentation Generation — Automation for Offline Classroom](Project_004827/README.md) |
+| 004828 | [Fedora: Documentation Generation — Recovery for Offline Classroom](Project_004828/README.md) |
+| 004829 | [Fedora: Documentation Generation — Reporting for Offline Classroom](Project_004829/README.md) |
+| 004830 | [Fedora: Documentation Generation — Usability Improvement for Offline Classroom](Project_004830/README.md) |
+| 004831 | [Fedora: Documentation Generation — Baseline Setup for Single-Host Lab](Project_004831/README.md) |
+| 004832 | [Fedora: Documentation Generation — Automation for Single-Host Lab](Project_004832/README.md) |
+| 004833 | [Fedora: Documentation Generation — Recovery for Single-Host Lab](Project_004833/README.md) |
+| 004834 | [Fedora: Documentation Generation — Reporting for Single-Host Lab](Project_004834/README.md) |
+| 004835 | [Fedora: Documentation Generation — Usability Improvement for Single-Host Lab](Project_004835/README.md) |
+| 004836 | [Fedora: Documentation Generation — Baseline Setup for Two-Node Lab](Project_004836/README.md) |
+| 004837 | [Fedora: Documentation Generation — Automation for Two-Node Lab](Project_004837/README.md) |
+| 004838 | [Fedora: Documentation Generation — Recovery for Two-Node Lab](Project_004838/README.md) |
+| 004839 | [Fedora: Documentation Generation — Reporting for Two-Node Lab](Project_004839/README.md) |
+| 004840 | [Fedora: Documentation Generation — Usability Improvement for Two-Node Lab](Project_004840/README.md) |
 
 [Back to the portfolio home](../README.md)
