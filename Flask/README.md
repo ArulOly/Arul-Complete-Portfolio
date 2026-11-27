@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048218 | [Flask: Backup Verification — Recovery for Public Dataset](Project_048218/README.md) |
 | 048219 | [Flask: Backup Verification — Reporting for Public Dataset](Project_048219/README.md) |
 | 048220 | [Flask: Backup Verification — Usability Improvement for Public Dataset](Project_048220/README.md) |
+| 048221 | [Flask: Backup Verification — Baseline Setup for Branch Office Simulator](Project_048221/README.md) |
+| 048222 | [Flask: Backup Verification — Automation for Branch Office Simulator](Project_048222/README.md) |
+| 048223 | [Flask: Backup Verification — Recovery for Branch Office Simulator](Project_048223/README.md) |
+| 048224 | [Flask: Backup Verification — Reporting for Branch Office Simulator](Project_048224/README.md) |
+| 048225 | [Flask: Backup Verification — Usability Improvement for Branch Office Simulator](Project_048225/README.md) |
+| 048226 | [Flask: Backup Verification — Baseline Setup for Offline Classroom](Project_048226/README.md) |
+| 048227 | [Flask: Backup Verification — Automation for Offline Classroom](Project_048227/README.md) |
+| 048228 | [Flask: Backup Verification — Recovery for Offline Classroom](Project_048228/README.md) |
+| 048229 | [Flask: Backup Verification — Reporting for Offline Classroom](Project_048229/README.md) |
+| 048230 | [Flask: Backup Verification — Usability Improvement for Offline Classroom](Project_048230/README.md) |
+| 048231 | [Flask: Backup Verification — Baseline Setup for Single-Host Lab](Project_048231/README.md) |
+| 048232 | [Flask: Backup Verification — Automation for Single-Host Lab](Project_048232/README.md) |
+| 048233 | [Flask: Backup Verification — Recovery for Single-Host Lab](Project_048233/README.md) |
+| 048234 | [Flask: Backup Verification — Reporting for Single-Host Lab](Project_048234/README.md) |
+| 048235 | [Flask: Backup Verification — Usability Improvement for Single-Host Lab](Project_048235/README.md) |
+| 048236 | [Flask: Backup Verification — Baseline Setup for Two-Node Lab](Project_048236/README.md) |
+| 048237 | [Flask: Backup Verification — Automation for Two-Node Lab](Project_048237/README.md) |
+| 048238 | [Flask: Backup Verification — Recovery for Two-Node Lab](Project_048238/README.md) |
+| 048239 | [Flask: Backup Verification — Reporting for Two-Node Lab](Project_048239/README.md) |
+| 048240 | [Flask: Backup Verification — Usability Improvement for Two-Node Lab](Project_048240/README.md) |
 
 [Back to the portfolio home](../README.md)
