@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003098 | [Debian: Monitoring — Recovery for Portfolio Demo](Project_003098/README.md) |
 | 003099 | [Debian: Monitoring — Reporting for Portfolio Demo](Project_003099/README.md) |
 | 003100 | [Debian: Monitoring — Usability Improvement for Portfolio Demo](Project_003100/README.md) |
+| 003101 | [Debian: Audit — Baseline Setup for School Lab](Project_003101/README.md) |
+| 003102 | [Debian: Audit — Automation for School Lab](Project_003102/README.md) |
+| 003103 | [Debian: Audit — Recovery for School Lab](Project_003103/README.md) |
+| 003104 | [Debian: Audit — Reporting for School Lab](Project_003104/README.md) |
+| 003105 | [Debian: Audit — Usability Improvement for School Lab](Project_003105/README.md) |
+| 003106 | [Debian: Audit — Baseline Setup for Small Business](Project_003106/README.md) |
+| 003107 | [Debian: Audit — Automation for Small Business](Project_003107/README.md) |
+| 003108 | [Debian: Audit — Recovery for Small Business](Project_003108/README.md) |
+| 003109 | [Debian: Audit — Reporting for Small Business](Project_003109/README.md) |
+| 003110 | [Debian: Audit — Usability Improvement for Small Business](Project_003110/README.md) |
+| 003111 | [Debian: Audit — Baseline Setup for Home Development](Project_003111/README.md) |
+| 003112 | [Debian: Audit — Automation for Home Development](Project_003112/README.md) |
+| 003113 | [Debian: Audit — Recovery for Home Development](Project_003113/README.md) |
+| 003114 | [Debian: Audit — Reporting for Home Development](Project_003114/README.md) |
+| 003115 | [Debian: Audit — Usability Improvement for Home Development](Project_003115/README.md) |
+| 003116 | [Debian: Audit — Baseline Setup for Public Dataset](Project_003116/README.md) |
+| 003117 | [Debian: Audit — Automation for Public Dataset](Project_003117/README.md) |
+| 003118 | [Debian: Audit — Recovery for Public Dataset](Project_003118/README.md) |
+| 003119 | [Debian: Audit — Reporting for Public Dataset](Project_003119/README.md) |
+| 003120 | [Debian: Audit — Usability Improvement for Public Dataset](Project_003120/README.md) |
 
 [Back to the portfolio home](../README.md)
