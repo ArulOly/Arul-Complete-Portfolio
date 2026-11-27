@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -604,5 +604,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019558 | [Python: Performance Baseline — Recovery for Small Business](Project_019558/README.md) |
 | 019559 | [Python: Performance Baseline — Reporting for Small Business](Project_019559/README.md) |
 | 019560 | [Python: Performance Baseline — Usability Improvement for Small Business](Project_019560/README.md) |
+| 019561 | [Python: Performance Baseline — Baseline Setup for Home Development](Project_019561/README.md) |
+| 019562 | [Python: Performance Baseline — Automation for Home Development](Project_019562/README.md) |
+| 019563 | [Python: Performance Baseline — Recovery for Home Development](Project_019563/README.md) |
+| 019564 | [Python: Performance Baseline — Reporting for Home Development](Project_019564/README.md) |
+| 019565 | [Python: Performance Baseline — Usability Improvement for Home Development](Project_019565/README.md) |
+| 019566 | [Python: Performance Baseline — Baseline Setup for Public Dataset](Project_019566/README.md) |
+| 019567 | [Python: Performance Baseline — Automation for Public Dataset](Project_019567/README.md) |
+| 019568 | [Python: Performance Baseline — Recovery for Public Dataset](Project_019568/README.md) |
+| 019569 | [Python: Performance Baseline — Reporting for Public Dataset](Project_019569/README.md) |
+| 019570 | [Python: Performance Baseline — Usability Improvement for Public Dataset](Project_019570/README.md) |
+| 019571 | [Python: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_019571/README.md) |
+| 019572 | [Python: Performance Baseline — Automation for Branch Office Simulator](Project_019572/README.md) |
+| 019573 | [Python: Performance Baseline — Recovery for Branch Office Simulator](Project_019573/README.md) |
+| 019574 | [Python: Performance Baseline — Reporting for Branch Office Simulator](Project_019574/README.md) |
+| 019575 | [Python: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_019575/README.md) |
+| 019576 | [Python: Performance Baseline — Baseline Setup for Offline Classroom](Project_019576/README.md) |
+| 019577 | [Python: Performance Baseline — Automation for Offline Classroom](Project_019577/README.md) |
+| 019578 | [Python: Performance Baseline — Recovery for Offline Classroom](Project_019578/README.md) |
+| 019579 | [Python: Performance Baseline — Reporting for Offline Classroom](Project_019579/README.md) |
+| 019580 | [Python: Performance Baseline — Usability Improvement for Offline Classroom](Project_019580/README.md) |
 
 [Back to the portfolio home](../README.md)
