@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028338 | [SQLite: Data Export — Recovery for Two-Node Lab](Project_028338/README.md) |
 | 028339 | [SQLite: Data Export — Reporting for Two-Node Lab](Project_028339/README.md) |
 | 028340 | [SQLite: Data Export — Usability Improvement for Two-Node Lab](Project_028340/README.md) |
+| 028341 | [SQLite: Data Export — Baseline Setup for Help Desk](Project_028341/README.md) |
+| 028342 | [SQLite: Data Export — Automation for Help Desk](Project_028342/README.md) |
+| 028343 | [SQLite: Data Export — Recovery for Help Desk](Project_028343/README.md) |
+| 028344 | [SQLite: Data Export — Reporting for Help Desk](Project_028344/README.md) |
+| 028345 | [SQLite: Data Export — Usability Improvement for Help Desk](Project_028345/README.md) |
+| 028346 | [SQLite: Data Export — Baseline Setup for Portfolio Demo](Project_028346/README.md) |
+| 028347 | [SQLite: Data Export — Automation for Portfolio Demo](Project_028347/README.md) |
+| 028348 | [SQLite: Data Export — Recovery for Portfolio Demo](Project_028348/README.md) |
+| 028349 | [SQLite: Data Export — Reporting for Portfolio Demo](Project_028349/README.md) |
+| 028350 | [SQLite: Data Export — Usability Improvement for Portfolio Demo](Project_028350/README.md) |
+| 028351 | [SQLite: Dashboard — Baseline Setup for School Lab](Project_028351/README.md) |
+| 028352 | [SQLite: Dashboard — Automation for School Lab](Project_028352/README.md) |
+| 028353 | [SQLite: Dashboard — Recovery for School Lab](Project_028353/README.md) |
+| 028354 | [SQLite: Dashboard — Reporting for School Lab](Project_028354/README.md) |
+| 028355 | [SQLite: Dashboard — Usability Improvement for School Lab](Project_028355/README.md) |
+| 028356 | [SQLite: Dashboard — Baseline Setup for Small Business](Project_028356/README.md) |
+| 028357 | [SQLite: Dashboard — Automation for Small Business](Project_028357/README.md) |
+| 028358 | [SQLite: Dashboard — Recovery for Small Business](Project_028358/README.md) |
+| 028359 | [SQLite: Dashboard — Reporting for Small Business](Project_028359/README.md) |
+| 028360 | [SQLite: Dashboard — Usability Improvement for Small Business](Project_028360/README.md) |
 
 [Back to the portfolio home](../README.md)
