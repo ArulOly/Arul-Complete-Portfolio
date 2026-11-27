@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022598 | [Java: Performance Baseline — Recovery for Portfolio Demo](Project_022598/README.md) |
 | 022599 | [Java: Performance Baseline — Reporting for Portfolio Demo](Project_022599/README.md) |
 | 022600 | [Java: Performance Baseline — Usability Improvement for Portfolio Demo](Project_022600/README.md) |
+| 022601 | [Java: Service Check — Baseline Setup for School Lab](Project_022601/README.md) |
+| 022602 | [Java: Service Check — Automation for School Lab](Project_022602/README.md) |
+| 022603 | [Java: Service Check — Recovery for School Lab](Project_022603/README.md) |
+| 022604 | [Java: Service Check — Reporting for School Lab](Project_022604/README.md) |
+| 022605 | [Java: Service Check — Usability Improvement for School Lab](Project_022605/README.md) |
+| 022606 | [Java: Service Check — Baseline Setup for Small Business](Project_022606/README.md) |
+| 022607 | [Java: Service Check — Automation for Small Business](Project_022607/README.md) |
+| 022608 | [Java: Service Check — Recovery for Small Business](Project_022608/README.md) |
+| 022609 | [Java: Service Check — Reporting for Small Business](Project_022609/README.md) |
+| 022610 | [Java: Service Check — Usability Improvement for Small Business](Project_022610/README.md) |
+| 022611 | [Java: Service Check — Baseline Setup for Home Development](Project_022611/README.md) |
+| 022612 | [Java: Service Check — Automation for Home Development](Project_022612/README.md) |
+| 022613 | [Java: Service Check — Recovery for Home Development](Project_022613/README.md) |
+| 022614 | [Java: Service Check — Reporting for Home Development](Project_022614/README.md) |
+| 022615 | [Java: Service Check — Usability Improvement for Home Development](Project_022615/README.md) |
+| 022616 | [Java: Service Check — Baseline Setup for Public Dataset](Project_022616/README.md) |
+| 022617 | [Java: Service Check — Automation for Public Dataset](Project_022617/README.md) |
+| 022618 | [Java: Service Check — Recovery for Public Dataset](Project_022618/README.md) |
+| 022619 | [Java: Service Check — Reporting for Public Dataset](Project_022619/README.md) |
+| 022620 | [Java: Service Check — Usability Improvement for Public Dataset](Project_022620/README.md) |
 
 [Back to the portfolio home](../README.md)
