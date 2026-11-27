@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028078 | [SQLite: Monitoring — Recovery for Offline Classroom](Project_028078/README.md) |
 | 028079 | [SQLite: Monitoring — Reporting for Offline Classroom](Project_028079/README.md) |
 | 028080 | [SQLite: Monitoring — Usability Improvement for Offline Classroom](Project_028080/README.md) |
+| 028081 | [SQLite: Monitoring — Baseline Setup for Single-Host Lab](Project_028081/README.md) |
+| 028082 | [SQLite: Monitoring — Automation for Single-Host Lab](Project_028082/README.md) |
+| 028083 | [SQLite: Monitoring — Recovery for Single-Host Lab](Project_028083/README.md) |
+| 028084 | [SQLite: Monitoring — Reporting for Single-Host Lab](Project_028084/README.md) |
+| 028085 | [SQLite: Monitoring — Usability Improvement for Single-Host Lab](Project_028085/README.md) |
+| 028086 | [SQLite: Monitoring — Baseline Setup for Two-Node Lab](Project_028086/README.md) |
+| 028087 | [SQLite: Monitoring — Automation for Two-Node Lab](Project_028087/README.md) |
+| 028088 | [SQLite: Monitoring — Recovery for Two-Node Lab](Project_028088/README.md) |
+| 028089 | [SQLite: Monitoring — Reporting for Two-Node Lab](Project_028089/README.md) |
+| 028090 | [SQLite: Monitoring — Usability Improvement for Two-Node Lab](Project_028090/README.md) |
+| 028091 | [SQLite: Monitoring — Baseline Setup for Help Desk](Project_028091/README.md) |
+| 028092 | [SQLite: Monitoring — Automation for Help Desk](Project_028092/README.md) |
+| 028093 | [SQLite: Monitoring — Recovery for Help Desk](Project_028093/README.md) |
+| 028094 | [SQLite: Monitoring — Reporting for Help Desk](Project_028094/README.md) |
+| 028095 | [SQLite: Monitoring — Usability Improvement for Help Desk](Project_028095/README.md) |
+| 028096 | [SQLite: Monitoring — Baseline Setup for Portfolio Demo](Project_028096/README.md) |
+| 028097 | [SQLite: Monitoring — Automation for Portfolio Demo](Project_028097/README.md) |
+| 028098 | [SQLite: Monitoring — Recovery for Portfolio Demo](Project_028098/README.md) |
+| 028099 | [SQLite: Monitoring — Reporting for Portfolio Demo](Project_028099/README.md) |
+| 028100 | [SQLite: Monitoring — Usability Improvement for Portfolio Demo](Project_028100/README.md) |
 
 [Back to the portfolio home](../README.md)
