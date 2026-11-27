@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032578 | [Power BI: Performance Baseline — Recovery for Offline Classroom](Project_032578/README.md) |
 | 032579 | [Power BI: Performance Baseline — Reporting for Offline Classroom](Project_032579/README.md) |
 | 032580 | [Power BI: Performance Baseline — Usability Improvement for Offline Classroom](Project_032580/README.md) |
+| 032581 | [Power BI: Performance Baseline — Baseline Setup for Single-Host Lab](Project_032581/README.md) |
+| 032582 | [Power BI: Performance Baseline — Automation for Single-Host Lab](Project_032582/README.md) |
+| 032583 | [Power BI: Performance Baseline — Recovery for Single-Host Lab](Project_032583/README.md) |
+| 032584 | [Power BI: Performance Baseline — Reporting for Single-Host Lab](Project_032584/README.md) |
+| 032585 | [Power BI: Performance Baseline — Usability Improvement for Single-Host Lab](Project_032585/README.md) |
+| 032586 | [Power BI: Performance Baseline — Baseline Setup for Two-Node Lab](Project_032586/README.md) |
+| 032587 | [Power BI: Performance Baseline — Automation for Two-Node Lab](Project_032587/README.md) |
+| 032588 | [Power BI: Performance Baseline — Recovery for Two-Node Lab](Project_032588/README.md) |
+| 032589 | [Power BI: Performance Baseline — Reporting for Two-Node Lab](Project_032589/README.md) |
+| 032590 | [Power BI: Performance Baseline — Usability Improvement for Two-Node Lab](Project_032590/README.md) |
+| 032591 | [Power BI: Performance Baseline — Baseline Setup for Help Desk](Project_032591/README.md) |
+| 032592 | [Power BI: Performance Baseline — Automation for Help Desk](Project_032592/README.md) |
+| 032593 | [Power BI: Performance Baseline — Recovery for Help Desk](Project_032593/README.md) |
+| 032594 | [Power BI: Performance Baseline — Reporting for Help Desk](Project_032594/README.md) |
+| 032595 | [Power BI: Performance Baseline — Usability Improvement for Help Desk](Project_032595/README.md) |
+| 032596 | [Power BI: Performance Baseline — Baseline Setup for Portfolio Demo](Project_032596/README.md) |
+| 032597 | [Power BI: Performance Baseline — Automation for Portfolio Demo](Project_032597/README.md) |
+| 032598 | [Power BI: Performance Baseline — Recovery for Portfolio Demo](Project_032598/README.md) |
+| 032599 | [Power BI: Performance Baseline — Reporting for Portfolio Demo](Project_032599/README.md) |
+| 032600 | [Power BI: Performance Baseline — Usability Improvement for Portfolio Demo](Project_032600/README.md) |
 
 [Back to the portfolio home](../README.md)
