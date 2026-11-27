@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034258 | [Scikit-learn: Data Import — Recovery for Small Business](Project_034258/README.md) |
 | 034259 | [Scikit-learn: Data Import — Reporting for Small Business](Project_034259/README.md) |
 | 034260 | [Scikit-learn: Data Import — Usability Improvement for Small Business](Project_034260/README.md) |
+| 034261 | [Scikit-learn: Data Import — Baseline Setup for Home Development](Project_034261/README.md) |
+| 034262 | [Scikit-learn: Data Import — Automation for Home Development](Project_034262/README.md) |
+| 034263 | [Scikit-learn: Data Import — Recovery for Home Development](Project_034263/README.md) |
+| 034264 | [Scikit-learn: Data Import — Reporting for Home Development](Project_034264/README.md) |
+| 034265 | [Scikit-learn: Data Import — Usability Improvement for Home Development](Project_034265/README.md) |
+| 034266 | [Scikit-learn: Data Import — Baseline Setup for Public Dataset](Project_034266/README.md) |
+| 034267 | [Scikit-learn: Data Import — Automation for Public Dataset](Project_034267/README.md) |
+| 034268 | [Scikit-learn: Data Import — Recovery for Public Dataset](Project_034268/README.md) |
+| 034269 | [Scikit-learn: Data Import — Reporting for Public Dataset](Project_034269/README.md) |
+| 034270 | [Scikit-learn: Data Import — Usability Improvement for Public Dataset](Project_034270/README.md) |
+| 034271 | [Scikit-learn: Data Import — Baseline Setup for Branch Office Simulator](Project_034271/README.md) |
+| 034272 | [Scikit-learn: Data Import — Automation for Branch Office Simulator](Project_034272/README.md) |
+| 034273 | [Scikit-learn: Data Import — Recovery for Branch Office Simulator](Project_034273/README.md) |
+| 034274 | [Scikit-learn: Data Import — Reporting for Branch Office Simulator](Project_034274/README.md) |
+| 034275 | [Scikit-learn: Data Import — Usability Improvement for Branch Office Simulator](Project_034275/README.md) |
+| 034276 | [Scikit-learn: Data Import — Baseline Setup for Offline Classroom](Project_034276/README.md) |
+| 034277 | [Scikit-learn: Data Import — Automation for Offline Classroom](Project_034277/README.md) |
+| 034278 | [Scikit-learn: Data Import — Recovery for Offline Classroom](Project_034278/README.md) |
+| 034279 | [Scikit-learn: Data Import — Reporting for Offline Classroom](Project_034279/README.md) |
+| 034280 | [Scikit-learn: Data Import — Usability Improvement for Offline Classroom](Project_034280/README.md) |
 
 [Back to the portfolio home](../README.md)
