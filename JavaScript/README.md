@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020738 | [JavaScript: Error Handling — Recovery for Two-Node Lab](Project_020738/README.md) |
 | 020739 | [JavaScript: Error Handling — Reporting for Two-Node Lab](Project_020739/README.md) |
 | 020740 | [JavaScript: Error Handling — Usability Improvement for Two-Node Lab](Project_020740/README.md) |
+| 020741 | [JavaScript: Error Handling — Baseline Setup for Help Desk](Project_020741/README.md) |
+| 020742 | [JavaScript: Error Handling — Automation for Help Desk](Project_020742/README.md) |
+| 020743 | [JavaScript: Error Handling — Recovery for Help Desk](Project_020743/README.md) |
+| 020744 | [JavaScript: Error Handling — Reporting for Help Desk](Project_020744/README.md) |
+| 020745 | [JavaScript: Error Handling — Usability Improvement for Help Desk](Project_020745/README.md) |
+| 020746 | [JavaScript: Error Handling — Baseline Setup for Portfolio Demo](Project_020746/README.md) |
+| 020747 | [JavaScript: Error Handling — Automation for Portfolio Demo](Project_020747/README.md) |
+| 020748 | [JavaScript: Error Handling — Recovery for Portfolio Demo](Project_020748/README.md) |
+| 020749 | [JavaScript: Error Handling — Reporting for Portfolio Demo](Project_020749/README.md) |
+| 020750 | [JavaScript: Error Handling — Usability Improvement for Portfolio Demo](Project_020750/README.md) |
+| 020751 | [JavaScript: Data Validation — Baseline Setup for School Lab](Project_020751/README.md) |
+| 020752 | [JavaScript: Data Validation — Automation for School Lab](Project_020752/README.md) |
+| 020753 | [JavaScript: Data Validation — Recovery for School Lab](Project_020753/README.md) |
+| 020754 | [JavaScript: Data Validation — Reporting for School Lab](Project_020754/README.md) |
+| 020755 | [JavaScript: Data Validation — Usability Improvement for School Lab](Project_020755/README.md) |
+| 020756 | [JavaScript: Data Validation — Baseline Setup for Small Business](Project_020756/README.md) |
+| 020757 | [JavaScript: Data Validation — Automation for Small Business](Project_020757/README.md) |
+| 020758 | [JavaScript: Data Validation — Recovery for Small Business](Project_020758/README.md) |
+| 020759 | [JavaScript: Data Validation — Reporting for Small Business](Project_020759/README.md) |
+| 020760 | [JavaScript: Data Validation — Usability Improvement for Small Business](Project_020760/README.md) |
 
 [Back to the portfolio home](../README.md)
