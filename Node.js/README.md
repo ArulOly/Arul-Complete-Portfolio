@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024798 | [Node.js: Data Validation — Recovery for Portfolio Demo](Project_024798/README.md) |
 | 024799 | [Node.js: Data Validation — Reporting for Portfolio Demo](Project_024799/README.md) |
 | 024800 | [Node.js: Data Validation — Usability Improvement for Portfolio Demo](Project_024800/README.md) |
+| 024801 | [Node.js: Documentation Generation — Baseline Setup for School Lab](Project_024801/README.md) |
+| 024802 | [Node.js: Documentation Generation — Automation for School Lab](Project_024802/README.md) |
+| 024803 | [Node.js: Documentation Generation — Recovery for School Lab](Project_024803/README.md) |
+| 024804 | [Node.js: Documentation Generation — Reporting for School Lab](Project_024804/README.md) |
+| 024805 | [Node.js: Documentation Generation — Usability Improvement for School Lab](Project_024805/README.md) |
+| 024806 | [Node.js: Documentation Generation — Baseline Setup for Small Business](Project_024806/README.md) |
+| 024807 | [Node.js: Documentation Generation — Automation for Small Business](Project_024807/README.md) |
+| 024808 | [Node.js: Documentation Generation — Recovery for Small Business](Project_024808/README.md) |
+| 024809 | [Node.js: Documentation Generation — Reporting for Small Business](Project_024809/README.md) |
+| 024810 | [Node.js: Documentation Generation — Usability Improvement for Small Business](Project_024810/README.md) |
+| 024811 | [Node.js: Documentation Generation — Baseline Setup for Home Development](Project_024811/README.md) |
+| 024812 | [Node.js: Documentation Generation — Automation for Home Development](Project_024812/README.md) |
+| 024813 | [Node.js: Documentation Generation — Recovery for Home Development](Project_024813/README.md) |
+| 024814 | [Node.js: Documentation Generation — Reporting for Home Development](Project_024814/README.md) |
+| 024815 | [Node.js: Documentation Generation — Usability Improvement for Home Development](Project_024815/README.md) |
+| 024816 | [Node.js: Documentation Generation — Baseline Setup for Public Dataset](Project_024816/README.md) |
+| 024817 | [Node.js: Documentation Generation — Automation for Public Dataset](Project_024817/README.md) |
+| 024818 | [Node.js: Documentation Generation — Recovery for Public Dataset](Project_024818/README.md) |
+| 024819 | [Node.js: Documentation Generation — Reporting for Public Dataset](Project_024819/README.md) |
+| 024820 | [Node.js: Documentation Generation — Usability Improvement for Public Dataset](Project_024820/README.md) |
 
 [Back to the portfolio home](../README.md)
