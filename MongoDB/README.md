@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027318 | [MongoDB: Data Export — Recovery for Public Dataset](Project_027318/README.md) |
 | 027319 | [MongoDB: Data Export — Reporting for Public Dataset](Project_027319/README.md) |
 | 027320 | [MongoDB: Data Export — Usability Improvement for Public Dataset](Project_027320/README.md) |
+| 027321 | [MongoDB: Data Export — Baseline Setup for Branch Office Simulator](Project_027321/README.md) |
+| 027322 | [MongoDB: Data Export — Automation for Branch Office Simulator](Project_027322/README.md) |
+| 027323 | [MongoDB: Data Export — Recovery for Branch Office Simulator](Project_027323/README.md) |
+| 027324 | [MongoDB: Data Export — Reporting for Branch Office Simulator](Project_027324/README.md) |
+| 027325 | [MongoDB: Data Export — Usability Improvement for Branch Office Simulator](Project_027325/README.md) |
+| 027326 | [MongoDB: Data Export — Baseline Setup for Offline Classroom](Project_027326/README.md) |
+| 027327 | [MongoDB: Data Export — Automation for Offline Classroom](Project_027327/README.md) |
+| 027328 | [MongoDB: Data Export — Recovery for Offline Classroom](Project_027328/README.md) |
+| 027329 | [MongoDB: Data Export — Reporting for Offline Classroom](Project_027329/README.md) |
+| 027330 | [MongoDB: Data Export — Usability Improvement for Offline Classroom](Project_027330/README.md) |
+| 027331 | [MongoDB: Data Export — Baseline Setup for Single-Host Lab](Project_027331/README.md) |
+| 027332 | [MongoDB: Data Export — Automation for Single-Host Lab](Project_027332/README.md) |
+| 027333 | [MongoDB: Data Export — Recovery for Single-Host Lab](Project_027333/README.md) |
+| 027334 | [MongoDB: Data Export — Reporting for Single-Host Lab](Project_027334/README.md) |
+| 027335 | [MongoDB: Data Export — Usability Improvement for Single-Host Lab](Project_027335/README.md) |
+| 027336 | [MongoDB: Data Export — Baseline Setup for Two-Node Lab](Project_027336/README.md) |
+| 027337 | [MongoDB: Data Export — Automation for Two-Node Lab](Project_027337/README.md) |
+| 027338 | [MongoDB: Data Export — Recovery for Two-Node Lab](Project_027338/README.md) |
+| 027339 | [MongoDB: Data Export — Reporting for Two-Node Lab](Project_027339/README.md) |
+| 027340 | [MongoDB: Data Export — Usability Improvement for Two-Node Lab](Project_027340/README.md) |
 
 [Back to the portfolio home](../README.md)
