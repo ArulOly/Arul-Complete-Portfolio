@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003418 | [Debian: Alerting — Recovery for Public Dataset](Project_003418/README.md) |
 | 003419 | [Debian: Alerting — Reporting for Public Dataset](Project_003419/README.md) |
 | 003420 | [Debian: Alerting — Usability Improvement for Public Dataset](Project_003420/README.md) |
+| 003421 | [Debian: Alerting — Baseline Setup for Branch Office Simulator](Project_003421/README.md) |
+| 003422 | [Debian: Alerting — Automation for Branch Office Simulator](Project_003422/README.md) |
+| 003423 | [Debian: Alerting — Recovery for Branch Office Simulator](Project_003423/README.md) |
+| 003424 | [Debian: Alerting — Reporting for Branch Office Simulator](Project_003424/README.md) |
+| 003425 | [Debian: Alerting — Usability Improvement for Branch Office Simulator](Project_003425/README.md) |
+| 003426 | [Debian: Alerting — Baseline Setup for Offline Classroom](Project_003426/README.md) |
+| 003427 | [Debian: Alerting — Automation for Offline Classroom](Project_003427/README.md) |
+| 003428 | [Debian: Alerting — Recovery for Offline Classroom](Project_003428/README.md) |
+| 003429 | [Debian: Alerting — Reporting for Offline Classroom](Project_003429/README.md) |
+| 003430 | [Debian: Alerting — Usability Improvement for Offline Classroom](Project_003430/README.md) |
+| 003431 | [Debian: Alerting — Baseline Setup for Single-Host Lab](Project_003431/README.md) |
+| 003432 | [Debian: Alerting — Automation for Single-Host Lab](Project_003432/README.md) |
+| 003433 | [Debian: Alerting — Recovery for Single-Host Lab](Project_003433/README.md) |
+| 003434 | [Debian: Alerting — Reporting for Single-Host Lab](Project_003434/README.md) |
+| 003435 | [Debian: Alerting — Usability Improvement for Single-Host Lab](Project_003435/README.md) |
+| 003436 | [Debian: Alerting — Baseline Setup for Two-Node Lab](Project_003436/README.md) |
+| 003437 | [Debian: Alerting — Automation for Two-Node Lab](Project_003437/README.md) |
+| 003438 | [Debian: Alerting — Recovery for Two-Node Lab](Project_003438/README.md) |
+| 003439 | [Debian: Alerting — Reporting for Two-Node Lab](Project_003439/README.md) |
+| 003440 | [Debian: Alerting — Usability Improvement for Two-Node Lab](Project_003440/README.md) |
 
 [Back to the portfolio home](../README.md)
