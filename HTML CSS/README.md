@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023478 | [HTML CSS: Scheduled Reporting — Recovery for Offline Classroom](Project_023478/README.md) |
 | 023479 | [HTML CSS: Scheduled Reporting — Reporting for Offline Classroom](Project_023479/README.md) |
 | 023480 | [HTML CSS: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_023480/README.md) |
+| 023481 | [HTML CSS: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_023481/README.md) |
+| 023482 | [HTML CSS: Scheduled Reporting — Automation for Single-Host Lab](Project_023482/README.md) |
+| 023483 | [HTML CSS: Scheduled Reporting — Recovery for Single-Host Lab](Project_023483/README.md) |
+| 023484 | [HTML CSS: Scheduled Reporting — Reporting for Single-Host Lab](Project_023484/README.md) |
+| 023485 | [HTML CSS: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_023485/README.md) |
+| 023486 | [HTML CSS: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_023486/README.md) |
+| 023487 | [HTML CSS: Scheduled Reporting — Automation for Two-Node Lab](Project_023487/README.md) |
+| 023488 | [HTML CSS: Scheduled Reporting — Recovery for Two-Node Lab](Project_023488/README.md) |
+| 023489 | [HTML CSS: Scheduled Reporting — Reporting for Two-Node Lab](Project_023489/README.md) |
+| 023490 | [HTML CSS: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_023490/README.md) |
+| 023491 | [HTML CSS: Scheduled Reporting — Baseline Setup for Help Desk](Project_023491/README.md) |
+| 023492 | [HTML CSS: Scheduled Reporting — Automation for Help Desk](Project_023492/README.md) |
+| 023493 | [HTML CSS: Scheduled Reporting — Recovery for Help Desk](Project_023493/README.md) |
+| 023494 | [HTML CSS: Scheduled Reporting — Reporting for Help Desk](Project_023494/README.md) |
+| 023495 | [HTML CSS: Scheduled Reporting — Usability Improvement for Help Desk](Project_023495/README.md) |
+| 023496 | [HTML CSS: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_023496/README.md) |
+| 023497 | [HTML CSS: Scheduled Reporting — Automation for Portfolio Demo](Project_023497/README.md) |
+| 023498 | [HTML CSS: Scheduled Reporting — Recovery for Portfolio Demo](Project_023498/README.md) |
+| 023499 | [HTML CSS: Scheduled Reporting — Reporting for Portfolio Demo](Project_023499/README.md) |
+| 023500 | [HTML CSS: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_023500/README.md) |
 
 [Back to the portfolio home](../README.md)
