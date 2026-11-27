@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034638 | [Scikit-learn: Service Check — Recovery for Two-Node Lab](Project_034638/README.md) |
 | 034639 | [Scikit-learn: Service Check — Reporting for Two-Node Lab](Project_034639/README.md) |
 | 034640 | [Scikit-learn: Service Check — Usability Improvement for Two-Node Lab](Project_034640/README.md) |
+| 034641 | [Scikit-learn: Service Check — Baseline Setup for Help Desk](Project_034641/README.md) |
+| 034642 | [Scikit-learn: Service Check — Automation for Help Desk](Project_034642/README.md) |
+| 034643 | [Scikit-learn: Service Check — Recovery for Help Desk](Project_034643/README.md) |
+| 034644 | [Scikit-learn: Service Check — Reporting for Help Desk](Project_034644/README.md) |
+| 034645 | [Scikit-learn: Service Check — Usability Improvement for Help Desk](Project_034645/README.md) |
+| 034646 | [Scikit-learn: Service Check — Baseline Setup for Portfolio Demo](Project_034646/README.md) |
+| 034647 | [Scikit-learn: Service Check — Automation for Portfolio Demo](Project_034647/README.md) |
+| 034648 | [Scikit-learn: Service Check — Recovery for Portfolio Demo](Project_034648/README.md) |
+| 034649 | [Scikit-learn: Service Check — Reporting for Portfolio Demo](Project_034649/README.md) |
+| 034650 | [Scikit-learn: Service Check — Usability Improvement for Portfolio Demo](Project_034650/README.md) |
+| 034651 | [Scikit-learn: Configuration Comparison — Baseline Setup for School Lab](Project_034651/README.md) |
+| 034652 | [Scikit-learn: Configuration Comparison — Automation for School Lab](Project_034652/README.md) |
+| 034653 | [Scikit-learn: Configuration Comparison — Recovery for School Lab](Project_034653/README.md) |
+| 034654 | [Scikit-learn: Configuration Comparison — Reporting for School Lab](Project_034654/README.md) |
+| 034655 | [Scikit-learn: Configuration Comparison — Usability Improvement for School Lab](Project_034655/README.md) |
+| 034656 | [Scikit-learn: Configuration Comparison — Baseline Setup for Small Business](Project_034656/README.md) |
+| 034657 | [Scikit-learn: Configuration Comparison — Automation for Small Business](Project_034657/README.md) |
+| 034658 | [Scikit-learn: Configuration Comparison — Recovery for Small Business](Project_034658/README.md) |
+| 034659 | [Scikit-learn: Configuration Comparison — Reporting for Small Business](Project_034659/README.md) |
+| 034660 | [Scikit-learn: Configuration Comparison — Usability Improvement for Small Business](Project_034660/README.md) |
 
 [Back to the portfolio home](../README.md)
