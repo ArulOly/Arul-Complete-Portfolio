@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020898 | [JavaScript: Automation — Recovery for Portfolio Demo](Project_020898/README.md) |
 | 020899 | [JavaScript: Automation — Reporting for Portfolio Demo](Project_020899/README.md) |
 | 020900 | [JavaScript: Automation — Usability Improvement for Portfolio Demo](Project_020900/README.md) |
+| 020901 | [JavaScript: Visual Reporting — Baseline Setup for School Lab](Project_020901/README.md) |
+| 020902 | [JavaScript: Visual Reporting — Automation for School Lab](Project_020902/README.md) |
+| 020903 | [JavaScript: Visual Reporting — Recovery for School Lab](Project_020903/README.md) |
+| 020904 | [JavaScript: Visual Reporting — Reporting for School Lab](Project_020904/README.md) |
+| 020905 | [JavaScript: Visual Reporting — Usability Improvement for School Lab](Project_020905/README.md) |
+| 020906 | [JavaScript: Visual Reporting — Baseline Setup for Small Business](Project_020906/README.md) |
+| 020907 | [JavaScript: Visual Reporting — Automation for Small Business](Project_020907/README.md) |
+| 020908 | [JavaScript: Visual Reporting — Recovery for Small Business](Project_020908/README.md) |
+| 020909 | [JavaScript: Visual Reporting — Reporting for Small Business](Project_020909/README.md) |
+| 020910 | [JavaScript: Visual Reporting — Usability Improvement for Small Business](Project_020910/README.md) |
+| 020911 | [JavaScript: Visual Reporting — Baseline Setup for Home Development](Project_020911/README.md) |
+| 020912 | [JavaScript: Visual Reporting — Automation for Home Development](Project_020912/README.md) |
+| 020913 | [JavaScript: Visual Reporting — Recovery for Home Development](Project_020913/README.md) |
+| 020914 | [JavaScript: Visual Reporting — Reporting for Home Development](Project_020914/README.md) |
+| 020915 | [JavaScript: Visual Reporting — Usability Improvement for Home Development](Project_020915/README.md) |
+| 020916 | [JavaScript: Visual Reporting — Baseline Setup for Public Dataset](Project_020916/README.md) |
+| 020917 | [JavaScript: Visual Reporting — Automation for Public Dataset](Project_020917/README.md) |
+| 020918 | [JavaScript: Visual Reporting — Recovery for Public Dataset](Project_020918/README.md) |
+| 020919 | [JavaScript: Visual Reporting — Reporting for Public Dataset](Project_020919/README.md) |
+| 020920 | [JavaScript: Visual Reporting — Usability Improvement for Public Dataset](Project_020920/README.md) |
 
 [Back to the portfolio home](../README.md)
