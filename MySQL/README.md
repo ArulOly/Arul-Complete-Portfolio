@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026658 | [MySQL: Configuration Comparison — Recovery for Small Business](Project_026658/README.md) |
 | 026659 | [MySQL: Configuration Comparison — Reporting for Small Business](Project_026659/README.md) |
 | 026660 | [MySQL: Configuration Comparison — Usability Improvement for Small Business](Project_026660/README.md) |
+| 026661 | [MySQL: Configuration Comparison — Baseline Setup for Home Development](Project_026661/README.md) |
+| 026662 | [MySQL: Configuration Comparison — Automation for Home Development](Project_026662/README.md) |
+| 026663 | [MySQL: Configuration Comparison — Recovery for Home Development](Project_026663/README.md) |
+| 026664 | [MySQL: Configuration Comparison — Reporting for Home Development](Project_026664/README.md) |
+| 026665 | [MySQL: Configuration Comparison — Usability Improvement for Home Development](Project_026665/README.md) |
+| 026666 | [MySQL: Configuration Comparison — Baseline Setup for Public Dataset](Project_026666/README.md) |
+| 026667 | [MySQL: Configuration Comparison — Automation for Public Dataset](Project_026667/README.md) |
+| 026668 | [MySQL: Configuration Comparison — Recovery for Public Dataset](Project_026668/README.md) |
+| 026669 | [MySQL: Configuration Comparison — Reporting for Public Dataset](Project_026669/README.md) |
+| 026670 | [MySQL: Configuration Comparison — Usability Improvement for Public Dataset](Project_026670/README.md) |
+| 026671 | [MySQL: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_026671/README.md) |
+| 026672 | [MySQL: Configuration Comparison — Automation for Branch Office Simulator](Project_026672/README.md) |
+| 026673 | [MySQL: Configuration Comparison — Recovery for Branch Office Simulator](Project_026673/README.md) |
+| 026674 | [MySQL: Configuration Comparison — Reporting for Branch Office Simulator](Project_026674/README.md) |
+| 026675 | [MySQL: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_026675/README.md) |
+| 026676 | [MySQL: Configuration Comparison — Baseline Setup for Offline Classroom](Project_026676/README.md) |
+| 026677 | [MySQL: Configuration Comparison — Automation for Offline Classroom](Project_026677/README.md) |
+| 026678 | [MySQL: Configuration Comparison — Recovery for Offline Classroom](Project_026678/README.md) |
+| 026679 | [MySQL: Configuration Comparison — Reporting for Offline Classroom](Project_026679/README.md) |
+| 026680 | [MySQL: Configuration Comparison — Usability Improvement for Offline Classroom](Project_026680/README.md) |
 
 [Back to the portfolio home](../README.md)
