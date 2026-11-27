@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048978 | [Flask: Recovery Test — Recovery for Offline Classroom](Project_048978/README.md) |
 | 048979 | [Flask: Recovery Test — Reporting for Offline Classroom](Project_048979/README.md) |
 | 048980 | [Flask: Recovery Test — Usability Improvement for Offline Classroom](Project_048980/README.md) |
+| 048981 | [Flask: Recovery Test — Baseline Setup for Single-Host Lab](Project_048981/README.md) |
+| 048982 | [Flask: Recovery Test — Automation for Single-Host Lab](Project_048982/README.md) |
+| 048983 | [Flask: Recovery Test — Recovery for Single-Host Lab](Project_048983/README.md) |
+| 048984 | [Flask: Recovery Test — Reporting for Single-Host Lab](Project_048984/README.md) |
+| 048985 | [Flask: Recovery Test — Usability Improvement for Single-Host Lab](Project_048985/README.md) |
+| 048986 | [Flask: Recovery Test — Baseline Setup for Two-Node Lab](Project_048986/README.md) |
+| 048987 | [Flask: Recovery Test — Automation for Two-Node Lab](Project_048987/README.md) |
+| 048988 | [Flask: Recovery Test — Recovery for Two-Node Lab](Project_048988/README.md) |
+| 048989 | [Flask: Recovery Test — Reporting for Two-Node Lab](Project_048989/README.md) |
+| 048990 | [Flask: Recovery Test — Usability Improvement for Two-Node Lab](Project_048990/README.md) |
+| 048991 | [Flask: Recovery Test — Baseline Setup for Help Desk](Project_048991/README.md) |
+| 048992 | [Flask: Recovery Test — Automation for Help Desk](Project_048992/README.md) |
+| 048993 | [Flask: Recovery Test — Recovery for Help Desk](Project_048993/README.md) |
+| 048994 | [Flask: Recovery Test — Reporting for Help Desk](Project_048994/README.md) |
+| 048995 | [Flask: Recovery Test — Usability Improvement for Help Desk](Project_048995/README.md) |
+| 048996 | [Flask: Recovery Test — Baseline Setup for Portfolio Demo](Project_048996/README.md) |
+| 048997 | [Flask: Recovery Test — Automation for Portfolio Demo](Project_048997/README.md) |
+| 048998 | [Flask: Recovery Test — Recovery for Portfolio Demo](Project_048998/README.md) |
+| 048999 | [Flask: Recovery Test — Reporting for Portfolio Demo](Project_048999/README.md) |
+| 049000 | [Flask: Recovery Test — Usability Improvement for Portfolio Demo](Project_049000/README.md) |
 
 [Back to the portfolio home](../README.md)
