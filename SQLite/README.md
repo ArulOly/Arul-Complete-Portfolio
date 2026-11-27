@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028098 | [SQLite: Monitoring — Recovery for Portfolio Demo](Project_028098/README.md) |
 | 028099 | [SQLite: Monitoring — Reporting for Portfolio Demo](Project_028099/README.md) |
 | 028100 | [SQLite: Monitoring — Usability Improvement for Portfolio Demo](Project_028100/README.md) |
+| 028101 | [SQLite: Audit — Baseline Setup for School Lab](Project_028101/README.md) |
+| 028102 | [SQLite: Audit — Automation for School Lab](Project_028102/README.md) |
+| 028103 | [SQLite: Audit — Recovery for School Lab](Project_028103/README.md) |
+| 028104 | [SQLite: Audit — Reporting for School Lab](Project_028104/README.md) |
+| 028105 | [SQLite: Audit — Usability Improvement for School Lab](Project_028105/README.md) |
+| 028106 | [SQLite: Audit — Baseline Setup for Small Business](Project_028106/README.md) |
+| 028107 | [SQLite: Audit — Automation for Small Business](Project_028107/README.md) |
+| 028108 | [SQLite: Audit — Recovery for Small Business](Project_028108/README.md) |
+| 028109 | [SQLite: Audit — Reporting for Small Business](Project_028109/README.md) |
+| 028110 | [SQLite: Audit — Usability Improvement for Small Business](Project_028110/README.md) |
+| 028111 | [SQLite: Audit — Baseline Setup for Home Development](Project_028111/README.md) |
+| 028112 | [SQLite: Audit — Automation for Home Development](Project_028112/README.md) |
+| 028113 | [SQLite: Audit — Recovery for Home Development](Project_028113/README.md) |
+| 028114 | [SQLite: Audit — Reporting for Home Development](Project_028114/README.md) |
+| 028115 | [SQLite: Audit — Usability Improvement for Home Development](Project_028115/README.md) |
+| 028116 | [SQLite: Audit — Baseline Setup for Public Dataset](Project_028116/README.md) |
+| 028117 | [SQLite: Audit — Automation for Public Dataset](Project_028117/README.md) |
+| 028118 | [SQLite: Audit — Recovery for Public Dataset](Project_028118/README.md) |
+| 028119 | [SQLite: Audit — Reporting for Public Dataset](Project_028119/README.md) |
+| 028120 | [SQLite: Audit — Usability Improvement for Public Dataset](Project_028120/README.md) |
 
 [Back to the portfolio home](../README.md)
