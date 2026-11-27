@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028598 | [SQLite: Performance Baseline — Recovery for Portfolio Demo](Project_028598/README.md) |
 | 028599 | [SQLite: Performance Baseline — Reporting for Portfolio Demo](Project_028599/README.md) |
 | 028600 | [SQLite: Performance Baseline — Usability Improvement for Portfolio Demo](Project_028600/README.md) |
+| 028601 | [SQLite: Service Check — Baseline Setup for School Lab](Project_028601/README.md) |
+| 028602 | [SQLite: Service Check — Automation for School Lab](Project_028602/README.md) |
+| 028603 | [SQLite: Service Check — Recovery for School Lab](Project_028603/README.md) |
+| 028604 | [SQLite: Service Check — Reporting for School Lab](Project_028604/README.md) |
+| 028605 | [SQLite: Service Check — Usability Improvement for School Lab](Project_028605/README.md) |
+| 028606 | [SQLite: Service Check — Baseline Setup for Small Business](Project_028606/README.md) |
+| 028607 | [SQLite: Service Check — Automation for Small Business](Project_028607/README.md) |
+| 028608 | [SQLite: Service Check — Recovery for Small Business](Project_028608/README.md) |
+| 028609 | [SQLite: Service Check — Reporting for Small Business](Project_028609/README.md) |
+| 028610 | [SQLite: Service Check — Usability Improvement for Small Business](Project_028610/README.md) |
+| 028611 | [SQLite: Service Check — Baseline Setup for Home Development](Project_028611/README.md) |
+| 028612 | [SQLite: Service Check — Automation for Home Development](Project_028612/README.md) |
+| 028613 | [SQLite: Service Check — Recovery for Home Development](Project_028613/README.md) |
+| 028614 | [SQLite: Service Check — Reporting for Home Development](Project_028614/README.md) |
+| 028615 | [SQLite: Service Check — Usability Improvement for Home Development](Project_028615/README.md) |
+| 028616 | [SQLite: Service Check — Baseline Setup for Public Dataset](Project_028616/README.md) |
+| 028617 | [SQLite: Service Check — Automation for Public Dataset](Project_028617/README.md) |
+| 028618 | [SQLite: Service Check — Recovery for Public Dataset](Project_028618/README.md) |
+| 028619 | [SQLite: Service Check — Reporting for Public Dataset](Project_028619/README.md) |
+| 028620 | [SQLite: Service Check — Usability Improvement for Public Dataset](Project_028620/README.md) |
 
 [Back to the portfolio home](../README.md)
