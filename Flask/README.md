@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048498 | [Flask: Scheduled Reporting — Recovery for Portfolio Demo](Project_048498/README.md) |
 | 048499 | [Flask: Scheduled Reporting — Reporting for Portfolio Demo](Project_048499/README.md) |
 | 048500 | [Flask: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_048500/README.md) |
+| 048501 | [Flask: Access Review — Baseline Setup for School Lab](Project_048501/README.md) |
+| 048502 | [Flask: Access Review — Automation for School Lab](Project_048502/README.md) |
+| 048503 | [Flask: Access Review — Recovery for School Lab](Project_048503/README.md) |
+| 048504 | [Flask: Access Review — Reporting for School Lab](Project_048504/README.md) |
+| 048505 | [Flask: Access Review — Usability Improvement for School Lab](Project_048505/README.md) |
+| 048506 | [Flask: Access Review — Baseline Setup for Small Business](Project_048506/README.md) |
+| 048507 | [Flask: Access Review — Automation for Small Business](Project_048507/README.md) |
+| 048508 | [Flask: Access Review — Recovery for Small Business](Project_048508/README.md) |
+| 048509 | [Flask: Access Review — Reporting for Small Business](Project_048509/README.md) |
+| 048510 | [Flask: Access Review — Usability Improvement for Small Business](Project_048510/README.md) |
+| 048511 | [Flask: Access Review — Baseline Setup for Home Development](Project_048511/README.md) |
+| 048512 | [Flask: Access Review — Automation for Home Development](Project_048512/README.md) |
+| 048513 | [Flask: Access Review — Recovery for Home Development](Project_048513/README.md) |
+| 048514 | [Flask: Access Review — Reporting for Home Development](Project_048514/README.md) |
+| 048515 | [Flask: Access Review — Usability Improvement for Home Development](Project_048515/README.md) |
+| 048516 | [Flask: Access Review — Baseline Setup for Public Dataset](Project_048516/README.md) |
+| 048517 | [Flask: Access Review — Automation for Public Dataset](Project_048517/README.md) |
+| 048518 | [Flask: Access Review — Recovery for Public Dataset](Project_048518/README.md) |
+| 048519 | [Flask: Access Review — Reporting for Public Dataset](Project_048519/README.md) |
+| 048520 | [Flask: Access Review — Usability Improvement for Public Dataset](Project_048520/README.md) |
 
 [Back to the portfolio home](../README.md)
