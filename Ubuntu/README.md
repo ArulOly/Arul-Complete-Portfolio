@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002758 | [Ubuntu: Data Validation — Recovery for Small Business](Project_002758/README.md) |
 | 002759 | [Ubuntu: Data Validation — Reporting for Small Business](Project_002759/README.md) |
 | 002760 | [Ubuntu: Data Validation — Usability Improvement for Small Business](Project_002760/README.md) |
+| 002761 | [Ubuntu: Data Validation — Baseline Setup for Home Development](Project_002761/README.md) |
+| 002762 | [Ubuntu: Data Validation — Automation for Home Development](Project_002762/README.md) |
+| 002763 | [Ubuntu: Data Validation — Recovery for Home Development](Project_002763/README.md) |
+| 002764 | [Ubuntu: Data Validation — Reporting for Home Development](Project_002764/README.md) |
+| 002765 | [Ubuntu: Data Validation — Usability Improvement for Home Development](Project_002765/README.md) |
+| 002766 | [Ubuntu: Data Validation — Baseline Setup for Public Dataset](Project_002766/README.md) |
+| 002767 | [Ubuntu: Data Validation — Automation for Public Dataset](Project_002767/README.md) |
+| 002768 | [Ubuntu: Data Validation — Recovery for Public Dataset](Project_002768/README.md) |
+| 002769 | [Ubuntu: Data Validation — Reporting for Public Dataset](Project_002769/README.md) |
+| 002770 | [Ubuntu: Data Validation — Usability Improvement for Public Dataset](Project_002770/README.md) |
+| 002771 | [Ubuntu: Data Validation — Baseline Setup for Branch Office Simulator](Project_002771/README.md) |
+| 002772 | [Ubuntu: Data Validation — Automation for Branch Office Simulator](Project_002772/README.md) |
+| 002773 | [Ubuntu: Data Validation — Recovery for Branch Office Simulator](Project_002773/README.md) |
+| 002774 | [Ubuntu: Data Validation — Reporting for Branch Office Simulator](Project_002774/README.md) |
+| 002775 | [Ubuntu: Data Validation — Usability Improvement for Branch Office Simulator](Project_002775/README.md) |
+| 002776 | [Ubuntu: Data Validation — Baseline Setup for Offline Classroom](Project_002776/README.md) |
+| 002777 | [Ubuntu: Data Validation — Automation for Offline Classroom](Project_002777/README.md) |
+| 002778 | [Ubuntu: Data Validation — Recovery for Offline Classroom](Project_002778/README.md) |
+| 002779 | [Ubuntu: Data Validation — Reporting for Offline Classroom](Project_002779/README.md) |
+| 002780 | [Ubuntu: Data Validation — Usability Improvement for Offline Classroom](Project_002780/README.md) |
 
 [Back to the portfolio home](../README.md)
