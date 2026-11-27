@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023038 | [HTML CSS: Inventory — Recovery for Two-Node Lab](Project_023038/README.md) |
 | 023039 | [HTML CSS: Inventory — Reporting for Two-Node Lab](Project_023039/README.md) |
 | 023040 | [HTML CSS: Inventory — Usability Improvement for Two-Node Lab](Project_023040/README.md) |
+| 023041 | [HTML CSS: Inventory — Baseline Setup for Help Desk](Project_023041/README.md) |
+| 023042 | [HTML CSS: Inventory — Automation for Help Desk](Project_023042/README.md) |
+| 023043 | [HTML CSS: Inventory — Recovery for Help Desk](Project_023043/README.md) |
+| 023044 | [HTML CSS: Inventory — Reporting for Help Desk](Project_023044/README.md) |
+| 023045 | [HTML CSS: Inventory — Usability Improvement for Help Desk](Project_023045/README.md) |
+| 023046 | [HTML CSS: Inventory — Baseline Setup for Portfolio Demo](Project_023046/README.md) |
+| 023047 | [HTML CSS: Inventory — Automation for Portfolio Demo](Project_023047/README.md) |
+| 023048 | [HTML CSS: Inventory — Recovery for Portfolio Demo](Project_023048/README.md) |
+| 023049 | [HTML CSS: Inventory — Reporting for Portfolio Demo](Project_023049/README.md) |
+| 023050 | [HTML CSS: Inventory — Usability Improvement for Portfolio Demo](Project_023050/README.md) |
+| 023051 | [HTML CSS: Monitoring — Baseline Setup for School Lab](Project_023051/README.md) |
+| 023052 | [HTML CSS: Monitoring — Automation for School Lab](Project_023052/README.md) |
+| 023053 | [HTML CSS: Monitoring — Recovery for School Lab](Project_023053/README.md) |
+| 023054 | [HTML CSS: Monitoring — Reporting for School Lab](Project_023054/README.md) |
+| 023055 | [HTML CSS: Monitoring — Usability Improvement for School Lab](Project_023055/README.md) |
+| 023056 | [HTML CSS: Monitoring — Baseline Setup for Small Business](Project_023056/README.md) |
+| 023057 | [HTML CSS: Monitoring — Automation for Small Business](Project_023057/README.md) |
+| 023058 | [HTML CSS: Monitoring — Recovery for Small Business](Project_023058/README.md) |
+| 023059 | [HTML CSS: Monitoring — Reporting for Small Business](Project_023059/README.md) |
+| 023060 | [HTML CSS: Monitoring — Usability Improvement for Small Business](Project_023060/README.md) |
 
 [Back to the portfolio home](../README.md)
