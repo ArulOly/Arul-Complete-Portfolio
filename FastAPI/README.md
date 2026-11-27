@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049678 | [FastAPI: Configuration Comparison — Recovery for Offline Classroom](Project_049678/README.md) |
 | 049679 | [FastAPI: Configuration Comparison — Reporting for Offline Classroom](Project_049679/README.md) |
 | 049680 | [FastAPI: Configuration Comparison — Usability Improvement for Offline Classroom](Project_049680/README.md) |
+| 049681 | [FastAPI: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_049681/README.md) |
+| 049682 | [FastAPI: Configuration Comparison — Automation for Single-Host Lab](Project_049682/README.md) |
+| 049683 | [FastAPI: Configuration Comparison — Recovery for Single-Host Lab](Project_049683/README.md) |
+| 049684 | [FastAPI: Configuration Comparison — Reporting for Single-Host Lab](Project_049684/README.md) |
+| 049685 | [FastAPI: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_049685/README.md) |
+| 049686 | [FastAPI: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_049686/README.md) |
+| 049687 | [FastAPI: Configuration Comparison — Automation for Two-Node Lab](Project_049687/README.md) |
+| 049688 | [FastAPI: Configuration Comparison — Recovery for Two-Node Lab](Project_049688/README.md) |
+| 049689 | [FastAPI: Configuration Comparison — Reporting for Two-Node Lab](Project_049689/README.md) |
+| 049690 | [FastAPI: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_049690/README.md) |
+| 049691 | [FastAPI: Configuration Comparison — Baseline Setup for Help Desk](Project_049691/README.md) |
+| 049692 | [FastAPI: Configuration Comparison — Automation for Help Desk](Project_049692/README.md) |
+| 049693 | [FastAPI: Configuration Comparison — Recovery for Help Desk](Project_049693/README.md) |
+| 049694 | [FastAPI: Configuration Comparison — Reporting for Help Desk](Project_049694/README.md) |
+| 049695 | [FastAPI: Configuration Comparison — Usability Improvement for Help Desk](Project_049695/README.md) |
+| 049696 | [FastAPI: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_049696/README.md) |
+| 049697 | [FastAPI: Configuration Comparison — Automation for Portfolio Demo](Project_049697/README.md) |
+| 049698 | [FastAPI: Configuration Comparison — Recovery for Portfolio Demo](Project_049698/README.md) |
+| 049699 | [FastAPI: Configuration Comparison — Reporting for Portfolio Demo](Project_049699/README.md) |
+| 049700 | [FastAPI: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_049700/README.md) |
 
 [Back to the portfolio home](../README.md)
