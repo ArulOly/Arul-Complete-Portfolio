@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045558 | [Redis: Performance Baseline — Recovery for Small Business](Project_045558/README.md) |
 | 045559 | [Redis: Performance Baseline — Reporting for Small Business](Project_045559/README.md) |
 | 045560 | [Redis: Performance Baseline — Usability Improvement for Small Business](Project_045560/README.md) |
+| 045561 | [Redis: Performance Baseline — Baseline Setup for Home Development](Project_045561/README.md) |
+| 045562 | [Redis: Performance Baseline — Automation for Home Development](Project_045562/README.md) |
+| 045563 | [Redis: Performance Baseline — Recovery for Home Development](Project_045563/README.md) |
+| 045564 | [Redis: Performance Baseline — Reporting for Home Development](Project_045564/README.md) |
+| 045565 | [Redis: Performance Baseline — Usability Improvement for Home Development](Project_045565/README.md) |
+| 045566 | [Redis: Performance Baseline — Baseline Setup for Public Dataset](Project_045566/README.md) |
+| 045567 | [Redis: Performance Baseline — Automation for Public Dataset](Project_045567/README.md) |
+| 045568 | [Redis: Performance Baseline — Recovery for Public Dataset](Project_045568/README.md) |
+| 045569 | [Redis: Performance Baseline — Reporting for Public Dataset](Project_045569/README.md) |
+| 045570 | [Redis: Performance Baseline — Usability Improvement for Public Dataset](Project_045570/README.md) |
+| 045571 | [Redis: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_045571/README.md) |
+| 045572 | [Redis: Performance Baseline — Automation for Branch Office Simulator](Project_045572/README.md) |
+| 045573 | [Redis: Performance Baseline — Recovery for Branch Office Simulator](Project_045573/README.md) |
+| 045574 | [Redis: Performance Baseline — Reporting for Branch Office Simulator](Project_045574/README.md) |
+| 045575 | [Redis: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_045575/README.md) |
+| 045576 | [Redis: Performance Baseline — Baseline Setup for Offline Classroom](Project_045576/README.md) |
+| 045577 | [Redis: Performance Baseline — Automation for Offline Classroom](Project_045577/README.md) |
+| 045578 | [Redis: Performance Baseline — Recovery for Offline Classroom](Project_045578/README.md) |
+| 045579 | [Redis: Performance Baseline — Reporting for Offline Classroom](Project_045579/README.md) |
+| 045580 | [Redis: Performance Baseline — Usability Improvement for Offline Classroom](Project_045580/README.md) |
 
 [Back to the portfolio home](../README.md)
