@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045658 | [Redis: Configuration Comparison — Recovery for Small Business](Project_045658/README.md) |
 | 045659 | [Redis: Configuration Comparison — Reporting for Small Business](Project_045659/README.md) |
 | 045660 | [Redis: Configuration Comparison — Usability Improvement for Small Business](Project_045660/README.md) |
+| 045661 | [Redis: Configuration Comparison — Baseline Setup for Home Development](Project_045661/README.md) |
+| 045662 | [Redis: Configuration Comparison — Automation for Home Development](Project_045662/README.md) |
+| 045663 | [Redis: Configuration Comparison — Recovery for Home Development](Project_045663/README.md) |
+| 045664 | [Redis: Configuration Comparison — Reporting for Home Development](Project_045664/README.md) |
+| 045665 | [Redis: Configuration Comparison — Usability Improvement for Home Development](Project_045665/README.md) |
+| 045666 | [Redis: Configuration Comparison — Baseline Setup for Public Dataset](Project_045666/README.md) |
+| 045667 | [Redis: Configuration Comparison — Automation for Public Dataset](Project_045667/README.md) |
+| 045668 | [Redis: Configuration Comparison — Recovery for Public Dataset](Project_045668/README.md) |
+| 045669 | [Redis: Configuration Comparison — Reporting for Public Dataset](Project_045669/README.md) |
+| 045670 | [Redis: Configuration Comparison — Usability Improvement for Public Dataset](Project_045670/README.md) |
+| 045671 | [Redis: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_045671/README.md) |
+| 045672 | [Redis: Configuration Comparison — Automation for Branch Office Simulator](Project_045672/README.md) |
+| 045673 | [Redis: Configuration Comparison — Recovery for Branch Office Simulator](Project_045673/README.md) |
+| 045674 | [Redis: Configuration Comparison — Reporting for Branch Office Simulator](Project_045674/README.md) |
+| 045675 | [Redis: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_045675/README.md) |
+| 045676 | [Redis: Configuration Comparison — Baseline Setup for Offline Classroom](Project_045676/README.md) |
+| 045677 | [Redis: Configuration Comparison — Automation for Offline Classroom](Project_045677/README.md) |
+| 045678 | [Redis: Configuration Comparison — Recovery for Offline Classroom](Project_045678/README.md) |
+| 045679 | [Redis: Configuration Comparison — Reporting for Offline Classroom](Project_045679/README.md) |
+| 045680 | [Redis: Configuration Comparison — Usability Improvement for Offline Classroom](Project_045680/README.md) |
 
 [Back to the portfolio home](../README.md)
