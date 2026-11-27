@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026258 | [MySQL: Data Import — Recovery for Small Business](Project_026258/README.md) |
 | 026259 | [MySQL: Data Import — Reporting for Small Business](Project_026259/README.md) |
 | 026260 | [MySQL: Data Import — Usability Improvement for Small Business](Project_026260/README.md) |
+| 026261 | [MySQL: Data Import — Baseline Setup for Home Development](Project_026261/README.md) |
+| 026262 | [MySQL: Data Import — Automation for Home Development](Project_026262/README.md) |
+| 026263 | [MySQL: Data Import — Recovery for Home Development](Project_026263/README.md) |
+| 026264 | [MySQL: Data Import — Reporting for Home Development](Project_026264/README.md) |
+| 026265 | [MySQL: Data Import — Usability Improvement for Home Development](Project_026265/README.md) |
+| 026266 | [MySQL: Data Import — Baseline Setup for Public Dataset](Project_026266/README.md) |
+| 026267 | [MySQL: Data Import — Automation for Public Dataset](Project_026267/README.md) |
+| 026268 | [MySQL: Data Import — Recovery for Public Dataset](Project_026268/README.md) |
+| 026269 | [MySQL: Data Import — Reporting for Public Dataset](Project_026269/README.md) |
+| 026270 | [MySQL: Data Import — Usability Improvement for Public Dataset](Project_026270/README.md) |
+| 026271 | [MySQL: Data Import — Baseline Setup for Branch Office Simulator](Project_026271/README.md) |
+| 026272 | [MySQL: Data Import — Automation for Branch Office Simulator](Project_026272/README.md) |
+| 026273 | [MySQL: Data Import — Recovery for Branch Office Simulator](Project_026273/README.md) |
+| 026274 | [MySQL: Data Import — Reporting for Branch Office Simulator](Project_026274/README.md) |
+| 026275 | [MySQL: Data Import — Usability Improvement for Branch Office Simulator](Project_026275/README.md) |
+| 026276 | [MySQL: Data Import — Baseline Setup for Offline Classroom](Project_026276/README.md) |
+| 026277 | [MySQL: Data Import — Automation for Offline Classroom](Project_026277/README.md) |
+| 026278 | [MySQL: Data Import — Recovery for Offline Classroom](Project_026278/README.md) |
+| 026279 | [MySQL: Data Import — Reporting for Offline Classroom](Project_026279/README.md) |
+| 026280 | [MySQL: Data Import — Usability Improvement for Offline Classroom](Project_026280/README.md) |
 
 [Back to the portfolio home](../README.md)
