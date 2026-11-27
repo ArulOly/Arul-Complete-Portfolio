@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028838 | [SQLite: Documentation Generation — Recovery for Two-Node Lab](Project_028838/README.md) |
 | 028839 | [SQLite: Documentation Generation — Reporting for Two-Node Lab](Project_028839/README.md) |
 | 028840 | [SQLite: Documentation Generation — Usability Improvement for Two-Node Lab](Project_028840/README.md) |
+| 028841 | [SQLite: Documentation Generation — Baseline Setup for Help Desk](Project_028841/README.md) |
+| 028842 | [SQLite: Documentation Generation — Automation for Help Desk](Project_028842/README.md) |
+| 028843 | [SQLite: Documentation Generation — Recovery for Help Desk](Project_028843/README.md) |
+| 028844 | [SQLite: Documentation Generation — Reporting for Help Desk](Project_028844/README.md) |
+| 028845 | [SQLite: Documentation Generation — Usability Improvement for Help Desk](Project_028845/README.md) |
+| 028846 | [SQLite: Documentation Generation — Baseline Setup for Portfolio Demo](Project_028846/README.md) |
+| 028847 | [SQLite: Documentation Generation — Automation for Portfolio Demo](Project_028847/README.md) |
+| 028848 | [SQLite: Documentation Generation — Recovery for Portfolio Demo](Project_028848/README.md) |
+| 028849 | [SQLite: Documentation Generation — Reporting for Portfolio Demo](Project_028849/README.md) |
+| 028850 | [SQLite: Documentation Generation — Usability Improvement for Portfolio Demo](Project_028850/README.md) |
+| 028851 | [SQLite: Automation — Baseline Setup for School Lab](Project_028851/README.md) |
+| 028852 | [SQLite: Automation — Automation for School Lab](Project_028852/README.md) |
+| 028853 | [SQLite: Automation — Recovery for School Lab](Project_028853/README.md) |
+| 028854 | [SQLite: Automation — Reporting for School Lab](Project_028854/README.md) |
+| 028855 | [SQLite: Automation — Usability Improvement for School Lab](Project_028855/README.md) |
+| 028856 | [SQLite: Automation — Baseline Setup for Small Business](Project_028856/README.md) |
+| 028857 | [SQLite: Automation — Automation for Small Business](Project_028857/README.md) |
+| 028858 | [SQLite: Automation — Recovery for Small Business](Project_028858/README.md) |
+| 028859 | [SQLite: Automation — Reporting for Small Business](Project_028859/README.md) |
+| 028860 | [SQLite: Automation — Usability Improvement for Small Business](Project_028860/README.md) |
 
 [Back to the portfolio home](../README.md)
