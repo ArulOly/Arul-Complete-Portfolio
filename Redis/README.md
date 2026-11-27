@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045058 | [Redis: Monitoring — Recovery for Small Business](Project_045058/README.md) |
 | 045059 | [Redis: Monitoring — Reporting for Small Business](Project_045059/README.md) |
 | 045060 | [Redis: Monitoring — Usability Improvement for Small Business](Project_045060/README.md) |
+| 045061 | [Redis: Monitoring — Baseline Setup for Home Development](Project_045061/README.md) |
+| 045062 | [Redis: Monitoring — Automation for Home Development](Project_045062/README.md) |
+| 045063 | [Redis: Monitoring — Recovery for Home Development](Project_045063/README.md) |
+| 045064 | [Redis: Monitoring — Reporting for Home Development](Project_045064/README.md) |
+| 045065 | [Redis: Monitoring — Usability Improvement for Home Development](Project_045065/README.md) |
+| 045066 | [Redis: Monitoring — Baseline Setup for Public Dataset](Project_045066/README.md) |
+| 045067 | [Redis: Monitoring — Automation for Public Dataset](Project_045067/README.md) |
+| 045068 | [Redis: Monitoring — Recovery for Public Dataset](Project_045068/README.md) |
+| 045069 | [Redis: Monitoring — Reporting for Public Dataset](Project_045069/README.md) |
+| 045070 | [Redis: Monitoring — Usability Improvement for Public Dataset](Project_045070/README.md) |
+| 045071 | [Redis: Monitoring — Baseline Setup for Branch Office Simulator](Project_045071/README.md) |
+| 045072 | [Redis: Monitoring — Automation for Branch Office Simulator](Project_045072/README.md) |
+| 045073 | [Redis: Monitoring — Recovery for Branch Office Simulator](Project_045073/README.md) |
+| 045074 | [Redis: Monitoring — Reporting for Branch Office Simulator](Project_045074/README.md) |
+| 045075 | [Redis: Monitoring — Usability Improvement for Branch Office Simulator](Project_045075/README.md) |
+| 045076 | [Redis: Monitoring — Baseline Setup for Offline Classroom](Project_045076/README.md) |
+| 045077 | [Redis: Monitoring — Automation for Offline Classroom](Project_045077/README.md) |
+| 045078 | [Redis: Monitoring — Recovery for Offline Classroom](Project_045078/README.md) |
+| 045079 | [Redis: Monitoring — Reporting for Offline Classroom](Project_045079/README.md) |
+| 045080 | [Redis: Monitoring — Usability Improvement for Offline Classroom](Project_045080/README.md) |
 
 [Back to the portfolio home](../README.md)
