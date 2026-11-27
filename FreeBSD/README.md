@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005278 | [FreeBSD: Data Import — Recovery for Offline Classroom](Project_005278/README.md) |
 | 005279 | [FreeBSD: Data Import — Reporting for Offline Classroom](Project_005279/README.md) |
 | 005280 | [FreeBSD: Data Import — Usability Improvement for Offline Classroom](Project_005280/README.md) |
+| 005281 | [FreeBSD: Data Import — Baseline Setup for Single-Host Lab](Project_005281/README.md) |
+| 005282 | [FreeBSD: Data Import — Automation for Single-Host Lab](Project_005282/README.md) |
+| 005283 | [FreeBSD: Data Import — Recovery for Single-Host Lab](Project_005283/README.md) |
+| 005284 | [FreeBSD: Data Import — Reporting for Single-Host Lab](Project_005284/README.md) |
+| 005285 | [FreeBSD: Data Import — Usability Improvement for Single-Host Lab](Project_005285/README.md) |
+| 005286 | [FreeBSD: Data Import — Baseline Setup for Two-Node Lab](Project_005286/README.md) |
+| 005287 | [FreeBSD: Data Import — Automation for Two-Node Lab](Project_005287/README.md) |
+| 005288 | [FreeBSD: Data Import — Recovery for Two-Node Lab](Project_005288/README.md) |
+| 005289 | [FreeBSD: Data Import — Reporting for Two-Node Lab](Project_005289/README.md) |
+| 005290 | [FreeBSD: Data Import — Usability Improvement for Two-Node Lab](Project_005290/README.md) |
+| 005291 | [FreeBSD: Data Import — Baseline Setup for Help Desk](Project_005291/README.md) |
+| 005292 | [FreeBSD: Data Import — Automation for Help Desk](Project_005292/README.md) |
+| 005293 | [FreeBSD: Data Import — Recovery for Help Desk](Project_005293/README.md) |
+| 005294 | [FreeBSD: Data Import — Reporting for Help Desk](Project_005294/README.md) |
+| 005295 | [FreeBSD: Data Import — Usability Improvement for Help Desk](Project_005295/README.md) |
+| 005296 | [FreeBSD: Data Import — Baseline Setup for Portfolio Demo](Project_005296/README.md) |
+| 005297 | [FreeBSD: Data Import — Automation for Portfolio Demo](Project_005297/README.md) |
+| 005298 | [FreeBSD: Data Import — Recovery for Portfolio Demo](Project_005298/README.md) |
+| 005299 | [FreeBSD: Data Import — Reporting for Portfolio Demo](Project_005299/README.md) |
+| 005300 | [FreeBSD: Data Import — Usability Improvement for Portfolio Demo](Project_005300/README.md) |
 
 [Back to the portfolio home](../README.md)
