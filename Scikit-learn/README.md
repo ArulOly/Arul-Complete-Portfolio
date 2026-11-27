@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034938 | [Scikit-learn: Visual Reporting — Recovery for Two-Node Lab](Project_034938/README.md) |
 | 034939 | [Scikit-learn: Visual Reporting — Reporting for Two-Node Lab](Project_034939/README.md) |
 | 034940 | [Scikit-learn: Visual Reporting — Usability Improvement for Two-Node Lab](Project_034940/README.md) |
+| 034941 | [Scikit-learn: Visual Reporting — Baseline Setup for Help Desk](Project_034941/README.md) |
+| 034942 | [Scikit-learn: Visual Reporting — Automation for Help Desk](Project_034942/README.md) |
+| 034943 | [Scikit-learn: Visual Reporting — Recovery for Help Desk](Project_034943/README.md) |
+| 034944 | [Scikit-learn: Visual Reporting — Reporting for Help Desk](Project_034944/README.md) |
+| 034945 | [Scikit-learn: Visual Reporting — Usability Improvement for Help Desk](Project_034945/README.md) |
+| 034946 | [Scikit-learn: Visual Reporting — Baseline Setup for Portfolio Demo](Project_034946/README.md) |
+| 034947 | [Scikit-learn: Visual Reporting — Automation for Portfolio Demo](Project_034947/README.md) |
+| 034948 | [Scikit-learn: Visual Reporting — Recovery for Portfolio Demo](Project_034948/README.md) |
+| 034949 | [Scikit-learn: Visual Reporting — Reporting for Portfolio Demo](Project_034949/README.md) |
+| 034950 | [Scikit-learn: Visual Reporting — Usability Improvement for Portfolio Demo](Project_034950/README.md) |
+| 034951 | [Scikit-learn: Recovery Test — Baseline Setup for School Lab](Project_034951/README.md) |
+| 034952 | [Scikit-learn: Recovery Test — Automation for School Lab](Project_034952/README.md) |
+| 034953 | [Scikit-learn: Recovery Test — Recovery for School Lab](Project_034953/README.md) |
+| 034954 | [Scikit-learn: Recovery Test — Reporting for School Lab](Project_034954/README.md) |
+| 034955 | [Scikit-learn: Recovery Test — Usability Improvement for School Lab](Project_034955/README.md) |
+| 034956 | [Scikit-learn: Recovery Test — Baseline Setup for Small Business](Project_034956/README.md) |
+| 034957 | [Scikit-learn: Recovery Test — Automation for Small Business](Project_034957/README.md) |
+| 034958 | [Scikit-learn: Recovery Test — Recovery for Small Business](Project_034958/README.md) |
+| 034959 | [Scikit-learn: Recovery Test — Reporting for Small Business](Project_034959/README.md) |
+| 034960 | [Scikit-learn: Recovery Test — Usability Improvement for Small Business](Project_034960/README.md) |
 
 [Back to the portfolio home](../README.md)
