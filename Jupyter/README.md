@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033798 | [Jupyter: Data Validation — Recovery for Portfolio Demo](Project_033798/README.md) |
 | 033799 | [Jupyter: Data Validation — Reporting for Portfolio Demo](Project_033799/README.md) |
 | 033800 | [Jupyter: Data Validation — Usability Improvement for Portfolio Demo](Project_033800/README.md) |
+| 033801 | [Jupyter: Documentation Generation — Baseline Setup for School Lab](Project_033801/README.md) |
+| 033802 | [Jupyter: Documentation Generation — Automation for School Lab](Project_033802/README.md) |
+| 033803 | [Jupyter: Documentation Generation — Recovery for School Lab](Project_033803/README.md) |
+| 033804 | [Jupyter: Documentation Generation — Reporting for School Lab](Project_033804/README.md) |
+| 033805 | [Jupyter: Documentation Generation — Usability Improvement for School Lab](Project_033805/README.md) |
+| 033806 | [Jupyter: Documentation Generation — Baseline Setup for Small Business](Project_033806/README.md) |
+| 033807 | [Jupyter: Documentation Generation — Automation for Small Business](Project_033807/README.md) |
+| 033808 | [Jupyter: Documentation Generation — Recovery for Small Business](Project_033808/README.md) |
+| 033809 | [Jupyter: Documentation Generation — Reporting for Small Business](Project_033809/README.md) |
+| 033810 | [Jupyter: Documentation Generation — Usability Improvement for Small Business](Project_033810/README.md) |
+| 033811 | [Jupyter: Documentation Generation — Baseline Setup for Home Development](Project_033811/README.md) |
+| 033812 | [Jupyter: Documentation Generation — Automation for Home Development](Project_033812/README.md) |
+| 033813 | [Jupyter: Documentation Generation — Recovery for Home Development](Project_033813/README.md) |
+| 033814 | [Jupyter: Documentation Generation — Reporting for Home Development](Project_033814/README.md) |
+| 033815 | [Jupyter: Documentation Generation — Usability Improvement for Home Development](Project_033815/README.md) |
+| 033816 | [Jupyter: Documentation Generation — Baseline Setup for Public Dataset](Project_033816/README.md) |
+| 033817 | [Jupyter: Documentation Generation — Automation for Public Dataset](Project_033817/README.md) |
+| 033818 | [Jupyter: Documentation Generation — Recovery for Public Dataset](Project_033818/README.md) |
+| 033819 | [Jupyter: Documentation Generation — Reporting for Public Dataset](Project_033819/README.md) |
+| 033820 | [Jupyter: Documentation Generation — Usability Improvement for Public Dataset](Project_033820/README.md) |
 
 [Back to the portfolio home](../README.md)
