@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045718 | [Redis: Error Handling — Recovery for Public Dataset](Project_045718/README.md) |
 | 045719 | [Redis: Error Handling — Reporting for Public Dataset](Project_045719/README.md) |
 | 045720 | [Redis: Error Handling — Usability Improvement for Public Dataset](Project_045720/README.md) |
+| 045721 | [Redis: Error Handling — Baseline Setup for Branch Office Simulator](Project_045721/README.md) |
+| 045722 | [Redis: Error Handling — Automation for Branch Office Simulator](Project_045722/README.md) |
+| 045723 | [Redis: Error Handling — Recovery for Branch Office Simulator](Project_045723/README.md) |
+| 045724 | [Redis: Error Handling — Reporting for Branch Office Simulator](Project_045724/README.md) |
+| 045725 | [Redis: Error Handling — Usability Improvement for Branch Office Simulator](Project_045725/README.md) |
+| 045726 | [Redis: Error Handling — Baseline Setup for Offline Classroom](Project_045726/README.md) |
+| 045727 | [Redis: Error Handling — Automation for Offline Classroom](Project_045727/README.md) |
+| 045728 | [Redis: Error Handling — Recovery for Offline Classroom](Project_045728/README.md) |
+| 045729 | [Redis: Error Handling — Reporting for Offline Classroom](Project_045729/README.md) |
+| 045730 | [Redis: Error Handling — Usability Improvement for Offline Classroom](Project_045730/README.md) |
+| 045731 | [Redis: Error Handling — Baseline Setup for Single-Host Lab](Project_045731/README.md) |
+| 045732 | [Redis: Error Handling — Automation for Single-Host Lab](Project_045732/README.md) |
+| 045733 | [Redis: Error Handling — Recovery for Single-Host Lab](Project_045733/README.md) |
+| 045734 | [Redis: Error Handling — Reporting for Single-Host Lab](Project_045734/README.md) |
+| 045735 | [Redis: Error Handling — Usability Improvement for Single-Host Lab](Project_045735/README.md) |
+| 045736 | [Redis: Error Handling — Baseline Setup for Two-Node Lab](Project_045736/README.md) |
+| 045737 | [Redis: Error Handling — Automation for Two-Node Lab](Project_045737/README.md) |
+| 045738 | [Redis: Error Handling — Recovery for Two-Node Lab](Project_045738/README.md) |
+| 045739 | [Redis: Error Handling — Reporting for Two-Node Lab](Project_045739/README.md) |
+| 045740 | [Redis: Error Handling — Usability Improvement for Two-Node Lab](Project_045740/README.md) |
 
 [Back to the portfolio home](../README.md)
