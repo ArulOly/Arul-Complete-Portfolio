@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025938 | [PostgreSQL: Visual Reporting — Recovery for Two-Node Lab](Project_025938/README.md) |
 | 025939 | [PostgreSQL: Visual Reporting — Reporting for Two-Node Lab](Project_025939/README.md) |
 | 025940 | [PostgreSQL: Visual Reporting — Usability Improvement for Two-Node Lab](Project_025940/README.md) |
+| 025941 | [PostgreSQL: Visual Reporting — Baseline Setup for Help Desk](Project_025941/README.md) |
+| 025942 | [PostgreSQL: Visual Reporting — Automation for Help Desk](Project_025942/README.md) |
+| 025943 | [PostgreSQL: Visual Reporting — Recovery for Help Desk](Project_025943/README.md) |
+| 025944 | [PostgreSQL: Visual Reporting — Reporting for Help Desk](Project_025944/README.md) |
+| 025945 | [PostgreSQL: Visual Reporting — Usability Improvement for Help Desk](Project_025945/README.md) |
+| 025946 | [PostgreSQL: Visual Reporting — Baseline Setup for Portfolio Demo](Project_025946/README.md) |
+| 025947 | [PostgreSQL: Visual Reporting — Automation for Portfolio Demo](Project_025947/README.md) |
+| 025948 | [PostgreSQL: Visual Reporting — Recovery for Portfolio Demo](Project_025948/README.md) |
+| 025949 | [PostgreSQL: Visual Reporting — Reporting for Portfolio Demo](Project_025949/README.md) |
+| 025950 | [PostgreSQL: Visual Reporting — Usability Improvement for Portfolio Demo](Project_025950/README.md) |
+| 025951 | [PostgreSQL: Recovery Test — Baseline Setup for School Lab](Project_025951/README.md) |
+| 025952 | [PostgreSQL: Recovery Test — Automation for School Lab](Project_025952/README.md) |
+| 025953 | [PostgreSQL: Recovery Test — Recovery for School Lab](Project_025953/README.md) |
+| 025954 | [PostgreSQL: Recovery Test — Reporting for School Lab](Project_025954/README.md) |
+| 025955 | [PostgreSQL: Recovery Test — Usability Improvement for School Lab](Project_025955/README.md) |
+| 025956 | [PostgreSQL: Recovery Test — Baseline Setup for Small Business](Project_025956/README.md) |
+| 025957 | [PostgreSQL: Recovery Test — Automation for Small Business](Project_025957/README.md) |
+| 025958 | [PostgreSQL: Recovery Test — Recovery for Small Business](Project_025958/README.md) |
+| 025959 | [PostgreSQL: Recovery Test — Reporting for Small Business](Project_025959/README.md) |
+| 025960 | [PostgreSQL: Recovery Test — Usability Improvement for Small Business](Project_025960/README.md) |
 
 [Back to the portfolio home](../README.md)
