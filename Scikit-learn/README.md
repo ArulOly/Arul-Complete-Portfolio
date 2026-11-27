@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034238 | [Scikit-learn: Backup Verification — Recovery for Two-Node Lab](Project_034238/README.md) |
 | 034239 | [Scikit-learn: Backup Verification — Reporting for Two-Node Lab](Project_034239/README.md) |
 | 034240 | [Scikit-learn: Backup Verification — Usability Improvement for Two-Node Lab](Project_034240/README.md) |
+| 034241 | [Scikit-learn: Backup Verification — Baseline Setup for Help Desk](Project_034241/README.md) |
+| 034242 | [Scikit-learn: Backup Verification — Automation for Help Desk](Project_034242/README.md) |
+| 034243 | [Scikit-learn: Backup Verification — Recovery for Help Desk](Project_034243/README.md) |
+| 034244 | [Scikit-learn: Backup Verification — Reporting for Help Desk](Project_034244/README.md) |
+| 034245 | [Scikit-learn: Backup Verification — Usability Improvement for Help Desk](Project_034245/README.md) |
+| 034246 | [Scikit-learn: Backup Verification — Baseline Setup for Portfolio Demo](Project_034246/README.md) |
+| 034247 | [Scikit-learn: Backup Verification — Automation for Portfolio Demo](Project_034247/README.md) |
+| 034248 | [Scikit-learn: Backup Verification — Recovery for Portfolio Demo](Project_034248/README.md) |
+| 034249 | [Scikit-learn: Backup Verification — Reporting for Portfolio Demo](Project_034249/README.md) |
+| 034250 | [Scikit-learn: Backup Verification — Usability Improvement for Portfolio Demo](Project_034250/README.md) |
+| 034251 | [Scikit-learn: Data Import — Baseline Setup for School Lab](Project_034251/README.md) |
+| 034252 | [Scikit-learn: Data Import — Automation for School Lab](Project_034252/README.md) |
+| 034253 | [Scikit-learn: Data Import — Recovery for School Lab](Project_034253/README.md) |
+| 034254 | [Scikit-learn: Data Import — Reporting for School Lab](Project_034254/README.md) |
+| 034255 | [Scikit-learn: Data Import — Usability Improvement for School Lab](Project_034255/README.md) |
+| 034256 | [Scikit-learn: Data Import — Baseline Setup for Small Business](Project_034256/README.md) |
+| 034257 | [Scikit-learn: Data Import — Automation for Small Business](Project_034257/README.md) |
+| 034258 | [Scikit-learn: Data Import — Recovery for Small Business](Project_034258/README.md) |
+| 034259 | [Scikit-learn: Data Import — Reporting for Small Business](Project_034259/README.md) |
+| 034260 | [Scikit-learn: Data Import — Usability Improvement for Small Business](Project_034260/README.md) |
 
 [Back to the portfolio home](../README.md)
