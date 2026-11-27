@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049758 | [FastAPI: Data Validation — Recovery for Small Business](Project_049758/README.md) |
 | 049759 | [FastAPI: Data Validation — Reporting for Small Business](Project_049759/README.md) |
 | 049760 | [FastAPI: Data Validation — Usability Improvement for Small Business](Project_049760/README.md) |
+| 049761 | [FastAPI: Data Validation — Baseline Setup for Home Development](Project_049761/README.md) |
+| 049762 | [FastAPI: Data Validation — Automation for Home Development](Project_049762/README.md) |
+| 049763 | [FastAPI: Data Validation — Recovery for Home Development](Project_049763/README.md) |
+| 049764 | [FastAPI: Data Validation — Reporting for Home Development](Project_049764/README.md) |
+| 049765 | [FastAPI: Data Validation — Usability Improvement for Home Development](Project_049765/README.md) |
+| 049766 | [FastAPI: Data Validation — Baseline Setup for Public Dataset](Project_049766/README.md) |
+| 049767 | [FastAPI: Data Validation — Automation for Public Dataset](Project_049767/README.md) |
+| 049768 | [FastAPI: Data Validation — Recovery for Public Dataset](Project_049768/README.md) |
+| 049769 | [FastAPI: Data Validation — Reporting for Public Dataset](Project_049769/README.md) |
+| 049770 | [FastAPI: Data Validation — Usability Improvement for Public Dataset](Project_049770/README.md) |
+| 049771 | [FastAPI: Data Validation — Baseline Setup for Branch Office Simulator](Project_049771/README.md) |
+| 049772 | [FastAPI: Data Validation — Automation for Branch Office Simulator](Project_049772/README.md) |
+| 049773 | [FastAPI: Data Validation — Recovery for Branch Office Simulator](Project_049773/README.md) |
+| 049774 | [FastAPI: Data Validation — Reporting for Branch Office Simulator](Project_049774/README.md) |
+| 049775 | [FastAPI: Data Validation — Usability Improvement for Branch Office Simulator](Project_049775/README.md) |
+| 049776 | [FastAPI: Data Validation — Baseline Setup for Offline Classroom](Project_049776/README.md) |
+| 049777 | [FastAPI: Data Validation — Automation for Offline Classroom](Project_049777/README.md) |
+| 049778 | [FastAPI: Data Validation — Recovery for Offline Classroom](Project_049778/README.md) |
+| 049779 | [FastAPI: Data Validation — Reporting for Offline Classroom](Project_049779/README.md) |
+| 049780 | [FastAPI: Data Validation — Usability Improvement for Offline Classroom](Project_049780/README.md) |
 
 [Back to the portfolio home](../README.md)
