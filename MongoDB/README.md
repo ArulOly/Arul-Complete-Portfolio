@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027918 | [MongoDB: Visual Reporting — Recovery for Public Dataset](Project_027918/README.md) |
 | 027919 | [MongoDB: Visual Reporting — Reporting for Public Dataset](Project_027919/README.md) |
 | 027920 | [MongoDB: Visual Reporting — Usability Improvement for Public Dataset](Project_027920/README.md) |
+| 027921 | [MongoDB: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_027921/README.md) |
+| 027922 | [MongoDB: Visual Reporting — Automation for Branch Office Simulator](Project_027922/README.md) |
+| 027923 | [MongoDB: Visual Reporting — Recovery for Branch Office Simulator](Project_027923/README.md) |
+| 027924 | [MongoDB: Visual Reporting — Reporting for Branch Office Simulator](Project_027924/README.md) |
+| 027925 | [MongoDB: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_027925/README.md) |
+| 027926 | [MongoDB: Visual Reporting — Baseline Setup for Offline Classroom](Project_027926/README.md) |
+| 027927 | [MongoDB: Visual Reporting — Automation for Offline Classroom](Project_027927/README.md) |
+| 027928 | [MongoDB: Visual Reporting — Recovery for Offline Classroom](Project_027928/README.md) |
+| 027929 | [MongoDB: Visual Reporting — Reporting for Offline Classroom](Project_027929/README.md) |
+| 027930 | [MongoDB: Visual Reporting — Usability Improvement for Offline Classroom](Project_027930/README.md) |
+| 027931 | [MongoDB: Visual Reporting — Baseline Setup for Single-Host Lab](Project_027931/README.md) |
+| 027932 | [MongoDB: Visual Reporting — Automation for Single-Host Lab](Project_027932/README.md) |
+| 027933 | [MongoDB: Visual Reporting — Recovery for Single-Host Lab](Project_027933/README.md) |
+| 027934 | [MongoDB: Visual Reporting — Reporting for Single-Host Lab](Project_027934/README.md) |
+| 027935 | [MongoDB: Visual Reporting — Usability Improvement for Single-Host Lab](Project_027935/README.md) |
+| 027936 | [MongoDB: Visual Reporting — Baseline Setup for Two-Node Lab](Project_027936/README.md) |
+| 027937 | [MongoDB: Visual Reporting — Automation for Two-Node Lab](Project_027937/README.md) |
+| 027938 | [MongoDB: Visual Reporting — Recovery for Two-Node Lab](Project_027938/README.md) |
+| 027939 | [MongoDB: Visual Reporting — Reporting for Two-Node Lab](Project_027939/README.md) |
+| 027940 | [MongoDB: Visual Reporting — Usability Improvement for Two-Node Lab](Project_027940/README.md) |
 
 [Back to the portfolio home](../README.md)
