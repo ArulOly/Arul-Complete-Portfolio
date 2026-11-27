@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034498 | [Scikit-learn: Scheduled Reporting — Recovery for Portfolio Demo](Project_034498/README.md) |
 | 034499 | [Scikit-learn: Scheduled Reporting — Reporting for Portfolio Demo](Project_034499/README.md) |
 | 034500 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_034500/README.md) |
+| 034501 | [Scikit-learn: Access Review — Baseline Setup for School Lab](Project_034501/README.md) |
+| 034502 | [Scikit-learn: Access Review — Automation for School Lab](Project_034502/README.md) |
+| 034503 | [Scikit-learn: Access Review — Recovery for School Lab](Project_034503/README.md) |
+| 034504 | [Scikit-learn: Access Review — Reporting for School Lab](Project_034504/README.md) |
+| 034505 | [Scikit-learn: Access Review — Usability Improvement for School Lab](Project_034505/README.md) |
+| 034506 | [Scikit-learn: Access Review — Baseline Setup for Small Business](Project_034506/README.md) |
+| 034507 | [Scikit-learn: Access Review — Automation for Small Business](Project_034507/README.md) |
+| 034508 | [Scikit-learn: Access Review — Recovery for Small Business](Project_034508/README.md) |
+| 034509 | [Scikit-learn: Access Review — Reporting for Small Business](Project_034509/README.md) |
+| 034510 | [Scikit-learn: Access Review — Usability Improvement for Small Business](Project_034510/README.md) |
+| 034511 | [Scikit-learn: Access Review — Baseline Setup for Home Development](Project_034511/README.md) |
+| 034512 | [Scikit-learn: Access Review — Automation for Home Development](Project_034512/README.md) |
+| 034513 | [Scikit-learn: Access Review — Recovery for Home Development](Project_034513/README.md) |
+| 034514 | [Scikit-learn: Access Review — Reporting for Home Development](Project_034514/README.md) |
+| 034515 | [Scikit-learn: Access Review — Usability Improvement for Home Development](Project_034515/README.md) |
+| 034516 | [Scikit-learn: Access Review — Baseline Setup for Public Dataset](Project_034516/README.md) |
+| 034517 | [Scikit-learn: Access Review — Automation for Public Dataset](Project_034517/README.md) |
+| 034518 | [Scikit-learn: Access Review — Recovery for Public Dataset](Project_034518/README.md) |
+| 034519 | [Scikit-learn: Access Review — Reporting for Public Dataset](Project_034519/README.md) |
+| 034520 | [Scikit-learn: Access Review — Usability Improvement for Public Dataset](Project_034520/README.md) |
 
 [Back to the portfolio home](../README.md)
