@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022318 | [Java: Data Export — Recovery for Public Dataset](Project_022318/README.md) |
 | 022319 | [Java: Data Export — Reporting for Public Dataset](Project_022319/README.md) |
 | 022320 | [Java: Data Export — Usability Improvement for Public Dataset](Project_022320/README.md) |
+| 022321 | [Java: Data Export — Baseline Setup for Branch Office Simulator](Project_022321/README.md) |
+| 022322 | [Java: Data Export — Automation for Branch Office Simulator](Project_022322/README.md) |
+| 022323 | [Java: Data Export — Recovery for Branch Office Simulator](Project_022323/README.md) |
+| 022324 | [Java: Data Export — Reporting for Branch Office Simulator](Project_022324/README.md) |
+| 022325 | [Java: Data Export — Usability Improvement for Branch Office Simulator](Project_022325/README.md) |
+| 022326 | [Java: Data Export — Baseline Setup for Offline Classroom](Project_022326/README.md) |
+| 022327 | [Java: Data Export — Automation for Offline Classroom](Project_022327/README.md) |
+| 022328 | [Java: Data Export — Recovery for Offline Classroom](Project_022328/README.md) |
+| 022329 | [Java: Data Export — Reporting for Offline Classroom](Project_022329/README.md) |
+| 022330 | [Java: Data Export — Usability Improvement for Offline Classroom](Project_022330/README.md) |
+| 022331 | [Java: Data Export — Baseline Setup for Single-Host Lab](Project_022331/README.md) |
+| 022332 | [Java: Data Export — Automation for Single-Host Lab](Project_022332/README.md) |
+| 022333 | [Java: Data Export — Recovery for Single-Host Lab](Project_022333/README.md) |
+| 022334 | [Java: Data Export — Reporting for Single-Host Lab](Project_022334/README.md) |
+| 022335 | [Java: Data Export — Usability Improvement for Single-Host Lab](Project_022335/README.md) |
+| 022336 | [Java: Data Export — Baseline Setup for Two-Node Lab](Project_022336/README.md) |
+| 022337 | [Java: Data Export — Automation for Two-Node Lab](Project_022337/README.md) |
+| 022338 | [Java: Data Export — Recovery for Two-Node Lab](Project_022338/README.md) |
+| 022339 | [Java: Data Export — Reporting for Two-Node Lab](Project_022339/README.md) |
+| 022340 | [Java: Data Export — Usability Improvement for Two-Node Lab](Project_022340/README.md) |
 
 [Back to the portfolio home](../README.md)
