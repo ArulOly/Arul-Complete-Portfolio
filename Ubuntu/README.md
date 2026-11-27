@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002298 | [Ubuntu: Data Import — Recovery for Portfolio Demo](Project_002298/README.md) |
 | 002299 | [Ubuntu: Data Import — Reporting for Portfolio Demo](Project_002299/README.md) |
 | 002300 | [Ubuntu: Data Import — Usability Improvement for Portfolio Demo](Project_002300/README.md) |
+| 002301 | [Ubuntu: Data Export — Baseline Setup for School Lab](Project_002301/README.md) |
+| 002302 | [Ubuntu: Data Export — Automation for School Lab](Project_002302/README.md) |
+| 002303 | [Ubuntu: Data Export — Recovery for School Lab](Project_002303/README.md) |
+| 002304 | [Ubuntu: Data Export — Reporting for School Lab](Project_002304/README.md) |
+| 002305 | [Ubuntu: Data Export — Usability Improvement for School Lab](Project_002305/README.md) |
+| 002306 | [Ubuntu: Data Export — Baseline Setup for Small Business](Project_002306/README.md) |
+| 002307 | [Ubuntu: Data Export — Automation for Small Business](Project_002307/README.md) |
+| 002308 | [Ubuntu: Data Export — Recovery for Small Business](Project_002308/README.md) |
+| 002309 | [Ubuntu: Data Export — Reporting for Small Business](Project_002309/README.md) |
+| 002310 | [Ubuntu: Data Export — Usability Improvement for Small Business](Project_002310/README.md) |
+| 002311 | [Ubuntu: Data Export — Baseline Setup for Home Development](Project_002311/README.md) |
+| 002312 | [Ubuntu: Data Export — Automation for Home Development](Project_002312/README.md) |
+| 002313 | [Ubuntu: Data Export — Recovery for Home Development](Project_002313/README.md) |
+| 002314 | [Ubuntu: Data Export — Reporting for Home Development](Project_002314/README.md) |
+| 002315 | [Ubuntu: Data Export — Usability Improvement for Home Development](Project_002315/README.md) |
+| 002316 | [Ubuntu: Data Export — Baseline Setup for Public Dataset](Project_002316/README.md) |
+| 002317 | [Ubuntu: Data Export — Automation for Public Dataset](Project_002317/README.md) |
+| 002318 | [Ubuntu: Data Export — Recovery for Public Dataset](Project_002318/README.md) |
+| 002319 | [Ubuntu: Data Export — Reporting for Public Dataset](Project_002319/README.md) |
+| 002320 | [Ubuntu: Data Export — Usability Improvement for Public Dataset](Project_002320/README.md) |
 
 [Back to the portfolio home](../README.md)
