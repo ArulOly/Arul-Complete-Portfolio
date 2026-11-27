@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049298 | [FastAPI: Data Import — Recovery for Portfolio Demo](Project_049298/README.md) |
 | 049299 | [FastAPI: Data Import — Reporting for Portfolio Demo](Project_049299/README.md) |
 | 049300 | [FastAPI: Data Import — Usability Improvement for Portfolio Demo](Project_049300/README.md) |
+| 049301 | [FastAPI: Data Export — Baseline Setup for School Lab](Project_049301/README.md) |
+| 049302 | [FastAPI: Data Export — Automation for School Lab](Project_049302/README.md) |
+| 049303 | [FastAPI: Data Export — Recovery for School Lab](Project_049303/README.md) |
+| 049304 | [FastAPI: Data Export — Reporting for School Lab](Project_049304/README.md) |
+| 049305 | [FastAPI: Data Export — Usability Improvement for School Lab](Project_049305/README.md) |
+| 049306 | [FastAPI: Data Export — Baseline Setup for Small Business](Project_049306/README.md) |
+| 049307 | [FastAPI: Data Export — Automation for Small Business](Project_049307/README.md) |
+| 049308 | [FastAPI: Data Export — Recovery for Small Business](Project_049308/README.md) |
+| 049309 | [FastAPI: Data Export — Reporting for Small Business](Project_049309/README.md) |
+| 049310 | [FastAPI: Data Export — Usability Improvement for Small Business](Project_049310/README.md) |
+| 049311 | [FastAPI: Data Export — Baseline Setup for Home Development](Project_049311/README.md) |
+| 049312 | [FastAPI: Data Export — Automation for Home Development](Project_049312/README.md) |
+| 049313 | [FastAPI: Data Export — Recovery for Home Development](Project_049313/README.md) |
+| 049314 | [FastAPI: Data Export — Reporting for Home Development](Project_049314/README.md) |
+| 049315 | [FastAPI: Data Export — Usability Improvement for Home Development](Project_049315/README.md) |
+| 049316 | [FastAPI: Data Export — Baseline Setup for Public Dataset](Project_049316/README.md) |
+| 049317 | [FastAPI: Data Export — Automation for Public Dataset](Project_049317/README.md) |
+| 049318 | [FastAPI: Data Export — Recovery for Public Dataset](Project_049318/README.md) |
+| 049319 | [FastAPI: Data Export — Reporting for Public Dataset](Project_049319/README.md) |
+| 049320 | [FastAPI: Data Export — Usability Improvement for Public Dataset](Project_049320/README.md) |
 
 [Back to the portfolio home](../README.md)
