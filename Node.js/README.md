@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024978 | [Node.js: Recovery Test — Recovery for Offline Classroom](Project_024978/README.md) |
 | 024979 | [Node.js: Recovery Test — Reporting for Offline Classroom](Project_024979/README.md) |
 | 024980 | [Node.js: Recovery Test — Usability Improvement for Offline Classroom](Project_024980/README.md) |
+| 024981 | [Node.js: Recovery Test — Baseline Setup for Single-Host Lab](Project_024981/README.md) |
+| 024982 | [Node.js: Recovery Test — Automation for Single-Host Lab](Project_024982/README.md) |
+| 024983 | [Node.js: Recovery Test — Recovery for Single-Host Lab](Project_024983/README.md) |
+| 024984 | [Node.js: Recovery Test — Reporting for Single-Host Lab](Project_024984/README.md) |
+| 024985 | [Node.js: Recovery Test — Usability Improvement for Single-Host Lab](Project_024985/README.md) |
+| 024986 | [Node.js: Recovery Test — Baseline Setup for Two-Node Lab](Project_024986/README.md) |
+| 024987 | [Node.js: Recovery Test — Automation for Two-Node Lab](Project_024987/README.md) |
+| 024988 | [Node.js: Recovery Test — Recovery for Two-Node Lab](Project_024988/README.md) |
+| 024989 | [Node.js: Recovery Test — Reporting for Two-Node Lab](Project_024989/README.md) |
+| 024990 | [Node.js: Recovery Test — Usability Improvement for Two-Node Lab](Project_024990/README.md) |
+| 024991 | [Node.js: Recovery Test — Baseline Setup for Help Desk](Project_024991/README.md) |
+| 024992 | [Node.js: Recovery Test — Automation for Help Desk](Project_024992/README.md) |
+| 024993 | [Node.js: Recovery Test — Recovery for Help Desk](Project_024993/README.md) |
+| 024994 | [Node.js: Recovery Test — Reporting for Help Desk](Project_024994/README.md) |
+| 024995 | [Node.js: Recovery Test — Usability Improvement for Help Desk](Project_024995/README.md) |
+| 024996 | [Node.js: Recovery Test — Baseline Setup for Portfolio Demo](Project_024996/README.md) |
+| 024997 | [Node.js: Recovery Test — Automation for Portfolio Demo](Project_024997/README.md) |
+| 024998 | [Node.js: Recovery Test — Recovery for Portfolio Demo](Project_024998/README.md) |
+| 024999 | [Node.js: Recovery Test — Reporting for Portfolio Demo](Project_024999/README.md) |
+| 025000 | [Node.js: Recovery Test — Usability Improvement for Portfolio Demo](Project_025000/README.md) |
 
 [Back to the portfolio home](../README.md)
