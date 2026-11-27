@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003478 | [Debian: Scheduled Reporting — Recovery for Offline Classroom](Project_003478/README.md) |
 | 003479 | [Debian: Scheduled Reporting — Reporting for Offline Classroom](Project_003479/README.md) |
 | 003480 | [Debian: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_003480/README.md) |
+| 003481 | [Debian: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_003481/README.md) |
+| 003482 | [Debian: Scheduled Reporting — Automation for Single-Host Lab](Project_003482/README.md) |
+| 003483 | [Debian: Scheduled Reporting — Recovery for Single-Host Lab](Project_003483/README.md) |
+| 003484 | [Debian: Scheduled Reporting — Reporting for Single-Host Lab](Project_003484/README.md) |
+| 003485 | [Debian: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_003485/README.md) |
+| 003486 | [Debian: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_003486/README.md) |
+| 003487 | [Debian: Scheduled Reporting — Automation for Two-Node Lab](Project_003487/README.md) |
+| 003488 | [Debian: Scheduled Reporting — Recovery for Two-Node Lab](Project_003488/README.md) |
+| 003489 | [Debian: Scheduled Reporting — Reporting for Two-Node Lab](Project_003489/README.md) |
+| 003490 | [Debian: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_003490/README.md) |
+| 003491 | [Debian: Scheduled Reporting — Baseline Setup for Help Desk](Project_003491/README.md) |
+| 003492 | [Debian: Scheduled Reporting — Automation for Help Desk](Project_003492/README.md) |
+| 003493 | [Debian: Scheduled Reporting — Recovery for Help Desk](Project_003493/README.md) |
+| 003494 | [Debian: Scheduled Reporting — Reporting for Help Desk](Project_003494/README.md) |
+| 003495 | [Debian: Scheduled Reporting — Usability Improvement for Help Desk](Project_003495/README.md) |
+| 003496 | [Debian: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_003496/README.md) |
+| 003497 | [Debian: Scheduled Reporting — Automation for Portfolio Demo](Project_003497/README.md) |
+| 003498 | [Debian: Scheduled Reporting — Recovery for Portfolio Demo](Project_003498/README.md) |
+| 003499 | [Debian: Scheduled Reporting — Reporting for Portfolio Demo](Project_003499/README.md) |
+| 003500 | [Debian: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_003500/README.md) |
 
 [Back to the portfolio home](../README.md)
