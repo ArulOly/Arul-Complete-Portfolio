@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021758 | [TypeScript: Data Validation — Recovery for Small Business](Project_021758/README.md) |
 | 021759 | [TypeScript: Data Validation — Reporting for Small Business](Project_021759/README.md) |
 | 021760 | [TypeScript: Data Validation — Usability Improvement for Small Business](Project_021760/README.md) |
+| 021761 | [TypeScript: Data Validation — Baseline Setup for Home Development](Project_021761/README.md) |
+| 021762 | [TypeScript: Data Validation — Automation for Home Development](Project_021762/README.md) |
+| 021763 | [TypeScript: Data Validation — Recovery for Home Development](Project_021763/README.md) |
+| 021764 | [TypeScript: Data Validation — Reporting for Home Development](Project_021764/README.md) |
+| 021765 | [TypeScript: Data Validation — Usability Improvement for Home Development](Project_021765/README.md) |
+| 021766 | [TypeScript: Data Validation — Baseline Setup for Public Dataset](Project_021766/README.md) |
+| 021767 | [TypeScript: Data Validation — Automation for Public Dataset](Project_021767/README.md) |
+| 021768 | [TypeScript: Data Validation — Recovery for Public Dataset](Project_021768/README.md) |
+| 021769 | [TypeScript: Data Validation — Reporting for Public Dataset](Project_021769/README.md) |
+| 021770 | [TypeScript: Data Validation — Usability Improvement for Public Dataset](Project_021770/README.md) |
+| 021771 | [TypeScript: Data Validation — Baseline Setup for Branch Office Simulator](Project_021771/README.md) |
+| 021772 | [TypeScript: Data Validation — Automation for Branch Office Simulator](Project_021772/README.md) |
+| 021773 | [TypeScript: Data Validation — Recovery for Branch Office Simulator](Project_021773/README.md) |
+| 021774 | [TypeScript: Data Validation — Reporting for Branch Office Simulator](Project_021774/README.md) |
+| 021775 | [TypeScript: Data Validation — Usability Improvement for Branch Office Simulator](Project_021775/README.md) |
+| 021776 | [TypeScript: Data Validation — Baseline Setup for Offline Classroom](Project_021776/README.md) |
+| 021777 | [TypeScript: Data Validation — Automation for Offline Classroom](Project_021777/README.md) |
+| 021778 | [TypeScript: Data Validation — Recovery for Offline Classroom](Project_021778/README.md) |
+| 021779 | [TypeScript: Data Validation — Reporting for Offline Classroom](Project_021779/README.md) |
+| 021780 | [TypeScript: Data Validation — Usability Improvement for Offline Classroom](Project_021780/README.md) |
 
 [Back to the portfolio home](../README.md)
