@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033358 | [Jupyter: Dashboard — Recovery for Small Business](Project_033358/README.md) |
 | 033359 | [Jupyter: Dashboard — Reporting for Small Business](Project_033359/README.md) |
 | 033360 | [Jupyter: Dashboard — Usability Improvement for Small Business](Project_033360/README.md) |
+| 033361 | [Jupyter: Dashboard — Baseline Setup for Home Development](Project_033361/README.md) |
+| 033362 | [Jupyter: Dashboard — Automation for Home Development](Project_033362/README.md) |
+| 033363 | [Jupyter: Dashboard — Recovery for Home Development](Project_033363/README.md) |
+| 033364 | [Jupyter: Dashboard — Reporting for Home Development](Project_033364/README.md) |
+| 033365 | [Jupyter: Dashboard — Usability Improvement for Home Development](Project_033365/README.md) |
+| 033366 | [Jupyter: Dashboard — Baseline Setup for Public Dataset](Project_033366/README.md) |
+| 033367 | [Jupyter: Dashboard — Automation for Public Dataset](Project_033367/README.md) |
+| 033368 | [Jupyter: Dashboard — Recovery for Public Dataset](Project_033368/README.md) |
+| 033369 | [Jupyter: Dashboard — Reporting for Public Dataset](Project_033369/README.md) |
+| 033370 | [Jupyter: Dashboard — Usability Improvement for Public Dataset](Project_033370/README.md) |
+| 033371 | [Jupyter: Dashboard — Baseline Setup for Branch Office Simulator](Project_033371/README.md) |
+| 033372 | [Jupyter: Dashboard — Automation for Branch Office Simulator](Project_033372/README.md) |
+| 033373 | [Jupyter: Dashboard — Recovery for Branch Office Simulator](Project_033373/README.md) |
+| 033374 | [Jupyter: Dashboard — Reporting for Branch Office Simulator](Project_033374/README.md) |
+| 033375 | [Jupyter: Dashboard — Usability Improvement for Branch Office Simulator](Project_033375/README.md) |
+| 033376 | [Jupyter: Dashboard — Baseline Setup for Offline Classroom](Project_033376/README.md) |
+| 033377 | [Jupyter: Dashboard — Automation for Offline Classroom](Project_033377/README.md) |
+| 033378 | [Jupyter: Dashboard — Recovery for Offline Classroom](Project_033378/README.md) |
+| 033379 | [Jupyter: Dashboard — Reporting for Offline Classroom](Project_033379/README.md) |
+| 033380 | [Jupyter: Dashboard — Usability Improvement for Offline Classroom](Project_033380/README.md) |
 
 [Back to the portfolio home](../README.md)
