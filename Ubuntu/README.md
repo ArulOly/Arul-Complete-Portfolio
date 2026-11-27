@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002638 | [Ubuntu: Service Check — Recovery for Two-Node Lab](Project_002638/README.md) |
 | 002639 | [Ubuntu: Service Check — Reporting for Two-Node Lab](Project_002639/README.md) |
 | 002640 | [Ubuntu: Service Check — Usability Improvement for Two-Node Lab](Project_002640/README.md) |
+| 002641 | [Ubuntu: Service Check — Baseline Setup for Help Desk](Project_002641/README.md) |
+| 002642 | [Ubuntu: Service Check — Automation for Help Desk](Project_002642/README.md) |
+| 002643 | [Ubuntu: Service Check — Recovery for Help Desk](Project_002643/README.md) |
+| 002644 | [Ubuntu: Service Check — Reporting for Help Desk](Project_002644/README.md) |
+| 002645 | [Ubuntu: Service Check — Usability Improvement for Help Desk](Project_002645/README.md) |
+| 002646 | [Ubuntu: Service Check — Baseline Setup for Portfolio Demo](Project_002646/README.md) |
+| 002647 | [Ubuntu: Service Check — Automation for Portfolio Demo](Project_002647/README.md) |
+| 002648 | [Ubuntu: Service Check — Recovery for Portfolio Demo](Project_002648/README.md) |
+| 002649 | [Ubuntu: Service Check — Reporting for Portfolio Demo](Project_002649/README.md) |
+| 002650 | [Ubuntu: Service Check — Usability Improvement for Portfolio Demo](Project_002650/README.md) |
+| 002651 | [Ubuntu: Configuration Comparison — Baseline Setup for School Lab](Project_002651/README.md) |
+| 002652 | [Ubuntu: Configuration Comparison — Automation for School Lab](Project_002652/README.md) |
+| 002653 | [Ubuntu: Configuration Comparison — Recovery for School Lab](Project_002653/README.md) |
+| 002654 | [Ubuntu: Configuration Comparison — Reporting for School Lab](Project_002654/README.md) |
+| 002655 | [Ubuntu: Configuration Comparison — Usability Improvement for School Lab](Project_002655/README.md) |
+| 002656 | [Ubuntu: Configuration Comparison — Baseline Setup for Small Business](Project_002656/README.md) |
+| 002657 | [Ubuntu: Configuration Comparison — Automation for Small Business](Project_002657/README.md) |
+| 002658 | [Ubuntu: Configuration Comparison — Recovery for Small Business](Project_002658/README.md) |
+| 002659 | [Ubuntu: Configuration Comparison — Reporting for Small Business](Project_002659/README.md) |
+| 002660 | [Ubuntu: Configuration Comparison — Usability Improvement for Small Business](Project_002660/README.md) |
 
 [Back to the portfolio home](../README.md)
