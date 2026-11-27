@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026478 | [MySQL: Scheduled Reporting — Recovery for Offline Classroom](Project_026478/README.md) |
 | 026479 | [MySQL: Scheduled Reporting — Reporting for Offline Classroom](Project_026479/README.md) |
 | 026480 | [MySQL: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_026480/README.md) |
+| 026481 | [MySQL: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_026481/README.md) |
+| 026482 | [MySQL: Scheduled Reporting — Automation for Single-Host Lab](Project_026482/README.md) |
+| 026483 | [MySQL: Scheduled Reporting — Recovery for Single-Host Lab](Project_026483/README.md) |
+| 026484 | [MySQL: Scheduled Reporting — Reporting for Single-Host Lab](Project_026484/README.md) |
+| 026485 | [MySQL: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_026485/README.md) |
+| 026486 | [MySQL: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_026486/README.md) |
+| 026487 | [MySQL: Scheduled Reporting — Automation for Two-Node Lab](Project_026487/README.md) |
+| 026488 | [MySQL: Scheduled Reporting — Recovery for Two-Node Lab](Project_026488/README.md) |
+| 026489 | [MySQL: Scheduled Reporting — Reporting for Two-Node Lab](Project_026489/README.md) |
+| 026490 | [MySQL: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_026490/README.md) |
+| 026491 | [MySQL: Scheduled Reporting — Baseline Setup for Help Desk](Project_026491/README.md) |
+| 026492 | [MySQL: Scheduled Reporting — Automation for Help Desk](Project_026492/README.md) |
+| 026493 | [MySQL: Scheduled Reporting — Recovery for Help Desk](Project_026493/README.md) |
+| 026494 | [MySQL: Scheduled Reporting — Reporting for Help Desk](Project_026494/README.md) |
+| 026495 | [MySQL: Scheduled Reporting — Usability Improvement for Help Desk](Project_026495/README.md) |
+| 026496 | [MySQL: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_026496/README.md) |
+| 026497 | [MySQL: Scheduled Reporting — Automation for Portfolio Demo](Project_026497/README.md) |
+| 026498 | [MySQL: Scheduled Reporting — Recovery for Portfolio Demo](Project_026498/README.md) |
+| 026499 | [MySQL: Scheduled Reporting — Reporting for Portfolio Demo](Project_026499/README.md) |
+| 026500 | [MySQL: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_026500/README.md) |
 
 [Back to the portfolio home](../README.md)
