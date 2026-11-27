@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005558 | [FreeBSD: Performance Baseline — Recovery for Small Business](Project_005558/README.md) |
 | 005559 | [FreeBSD: Performance Baseline — Reporting for Small Business](Project_005559/README.md) |
 | 005560 | [FreeBSD: Performance Baseline — Usability Improvement for Small Business](Project_005560/README.md) |
+| 005561 | [FreeBSD: Performance Baseline — Baseline Setup for Home Development](Project_005561/README.md) |
+| 005562 | [FreeBSD: Performance Baseline — Automation for Home Development](Project_005562/README.md) |
+| 005563 | [FreeBSD: Performance Baseline — Recovery for Home Development](Project_005563/README.md) |
+| 005564 | [FreeBSD: Performance Baseline — Reporting for Home Development](Project_005564/README.md) |
+| 005565 | [FreeBSD: Performance Baseline — Usability Improvement for Home Development](Project_005565/README.md) |
+| 005566 | [FreeBSD: Performance Baseline — Baseline Setup for Public Dataset](Project_005566/README.md) |
+| 005567 | [FreeBSD: Performance Baseline — Automation for Public Dataset](Project_005567/README.md) |
+| 005568 | [FreeBSD: Performance Baseline — Recovery for Public Dataset](Project_005568/README.md) |
+| 005569 | [FreeBSD: Performance Baseline — Reporting for Public Dataset](Project_005569/README.md) |
+| 005570 | [FreeBSD: Performance Baseline — Usability Improvement for Public Dataset](Project_005570/README.md) |
+| 005571 | [FreeBSD: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_005571/README.md) |
+| 005572 | [FreeBSD: Performance Baseline — Automation for Branch Office Simulator](Project_005572/README.md) |
+| 005573 | [FreeBSD: Performance Baseline — Recovery for Branch Office Simulator](Project_005573/README.md) |
+| 005574 | [FreeBSD: Performance Baseline — Reporting for Branch Office Simulator](Project_005574/README.md) |
+| 005575 | [FreeBSD: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_005575/README.md) |
+| 005576 | [FreeBSD: Performance Baseline — Baseline Setup for Offline Classroom](Project_005576/README.md) |
+| 005577 | [FreeBSD: Performance Baseline — Automation for Offline Classroom](Project_005577/README.md) |
+| 005578 | [FreeBSD: Performance Baseline — Recovery for Offline Classroom](Project_005578/README.md) |
+| 005579 | [FreeBSD: Performance Baseline — Reporting for Offline Classroom](Project_005579/README.md) |
+| 005580 | [FreeBSD: Performance Baseline — Usability Improvement for Offline Classroom](Project_005580/README.md) |
 
 [Back to the portfolio home](../README.md)
