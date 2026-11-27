@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027558 | [MongoDB: Performance Baseline — Recovery for Small Business](Project_027558/README.md) |
 | 027559 | [MongoDB: Performance Baseline — Reporting for Small Business](Project_027559/README.md) |
 | 027560 | [MongoDB: Performance Baseline — Usability Improvement for Small Business](Project_027560/README.md) |
+| 027561 | [MongoDB: Performance Baseline — Baseline Setup for Home Development](Project_027561/README.md) |
+| 027562 | [MongoDB: Performance Baseline — Automation for Home Development](Project_027562/README.md) |
+| 027563 | [MongoDB: Performance Baseline — Recovery for Home Development](Project_027563/README.md) |
+| 027564 | [MongoDB: Performance Baseline — Reporting for Home Development](Project_027564/README.md) |
+| 027565 | [MongoDB: Performance Baseline — Usability Improvement for Home Development](Project_027565/README.md) |
+| 027566 | [MongoDB: Performance Baseline — Baseline Setup for Public Dataset](Project_027566/README.md) |
+| 027567 | [MongoDB: Performance Baseline — Automation for Public Dataset](Project_027567/README.md) |
+| 027568 | [MongoDB: Performance Baseline — Recovery for Public Dataset](Project_027568/README.md) |
+| 027569 | [MongoDB: Performance Baseline — Reporting for Public Dataset](Project_027569/README.md) |
+| 027570 | [MongoDB: Performance Baseline — Usability Improvement for Public Dataset](Project_027570/README.md) |
+| 027571 | [MongoDB: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_027571/README.md) |
+| 027572 | [MongoDB: Performance Baseline — Automation for Branch Office Simulator](Project_027572/README.md) |
+| 027573 | [MongoDB: Performance Baseline — Recovery for Branch Office Simulator](Project_027573/README.md) |
+| 027574 | [MongoDB: Performance Baseline — Reporting for Branch Office Simulator](Project_027574/README.md) |
+| 027575 | [MongoDB: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_027575/README.md) |
+| 027576 | [MongoDB: Performance Baseline — Baseline Setup for Offline Classroom](Project_027576/README.md) |
+| 027577 | [MongoDB: Performance Baseline — Automation for Offline Classroom](Project_027577/README.md) |
+| 027578 | [MongoDB: Performance Baseline — Recovery for Offline Classroom](Project_027578/README.md) |
+| 027579 | [MongoDB: Performance Baseline — Reporting for Offline Classroom](Project_027579/README.md) |
+| 027580 | [MongoDB: Performance Baseline — Usability Improvement for Offline Classroom](Project_027580/README.md) |
 
 [Back to the portfolio home](../README.md)
