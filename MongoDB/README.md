@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027758 | [MongoDB: Data Validation — Recovery for Small Business](Project_027758/README.md) |
 | 027759 | [MongoDB: Data Validation — Reporting for Small Business](Project_027759/README.md) |
 | 027760 | [MongoDB: Data Validation — Usability Improvement for Small Business](Project_027760/README.md) |
+| 027761 | [MongoDB: Data Validation — Baseline Setup for Home Development](Project_027761/README.md) |
+| 027762 | [MongoDB: Data Validation — Automation for Home Development](Project_027762/README.md) |
+| 027763 | [MongoDB: Data Validation — Recovery for Home Development](Project_027763/README.md) |
+| 027764 | [MongoDB: Data Validation — Reporting for Home Development](Project_027764/README.md) |
+| 027765 | [MongoDB: Data Validation — Usability Improvement for Home Development](Project_027765/README.md) |
+| 027766 | [MongoDB: Data Validation — Baseline Setup for Public Dataset](Project_027766/README.md) |
+| 027767 | [MongoDB: Data Validation — Automation for Public Dataset](Project_027767/README.md) |
+| 027768 | [MongoDB: Data Validation — Recovery for Public Dataset](Project_027768/README.md) |
+| 027769 | [MongoDB: Data Validation — Reporting for Public Dataset](Project_027769/README.md) |
+| 027770 | [MongoDB: Data Validation — Usability Improvement for Public Dataset](Project_027770/README.md) |
+| 027771 | [MongoDB: Data Validation — Baseline Setup for Branch Office Simulator](Project_027771/README.md) |
+| 027772 | [MongoDB: Data Validation — Automation for Branch Office Simulator](Project_027772/README.md) |
+| 027773 | [MongoDB: Data Validation — Recovery for Branch Office Simulator](Project_027773/README.md) |
+| 027774 | [MongoDB: Data Validation — Reporting for Branch Office Simulator](Project_027774/README.md) |
+| 027775 | [MongoDB: Data Validation — Usability Improvement for Branch Office Simulator](Project_027775/README.md) |
+| 027776 | [MongoDB: Data Validation — Baseline Setup for Offline Classroom](Project_027776/README.md) |
+| 027777 | [MongoDB: Data Validation — Automation for Offline Classroom](Project_027777/README.md) |
+| 027778 | [MongoDB: Data Validation — Recovery for Offline Classroom](Project_027778/README.md) |
+| 027779 | [MongoDB: Data Validation — Reporting for Offline Classroom](Project_027779/README.md) |
+| 027780 | [MongoDB: Data Validation — Usability Improvement for Offline Classroom](Project_027780/README.md) |
 
 [Back to the portfolio home](../README.md)
