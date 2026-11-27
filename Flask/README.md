@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048098 | [Flask: Monitoring — Recovery for Portfolio Demo](Project_048098/README.md) |
 | 048099 | [Flask: Monitoring — Reporting for Portfolio Demo](Project_048099/README.md) |
 | 048100 | [Flask: Monitoring — Usability Improvement for Portfolio Demo](Project_048100/README.md) |
+| 048101 | [Flask: Audit — Baseline Setup for School Lab](Project_048101/README.md) |
+| 048102 | [Flask: Audit — Automation for School Lab](Project_048102/README.md) |
+| 048103 | [Flask: Audit — Recovery for School Lab](Project_048103/README.md) |
+| 048104 | [Flask: Audit — Reporting for School Lab](Project_048104/README.md) |
+| 048105 | [Flask: Audit — Usability Improvement for School Lab](Project_048105/README.md) |
+| 048106 | [Flask: Audit — Baseline Setup for Small Business](Project_048106/README.md) |
+| 048107 | [Flask: Audit — Automation for Small Business](Project_048107/README.md) |
+| 048108 | [Flask: Audit — Recovery for Small Business](Project_048108/README.md) |
+| 048109 | [Flask: Audit — Reporting for Small Business](Project_048109/README.md) |
+| 048110 | [Flask: Audit — Usability Improvement for Small Business](Project_048110/README.md) |
+| 048111 | [Flask: Audit — Baseline Setup for Home Development](Project_048111/README.md) |
+| 048112 | [Flask: Audit — Automation for Home Development](Project_048112/README.md) |
+| 048113 | [Flask: Audit — Recovery for Home Development](Project_048113/README.md) |
+| 048114 | [Flask: Audit — Reporting for Home Development](Project_048114/README.md) |
+| 048115 | [Flask: Audit — Usability Improvement for Home Development](Project_048115/README.md) |
+| 048116 | [Flask: Audit — Baseline Setup for Public Dataset](Project_048116/README.md) |
+| 048117 | [Flask: Audit — Automation for Public Dataset](Project_048117/README.md) |
+| 048118 | [Flask: Audit — Recovery for Public Dataset](Project_048118/README.md) |
+| 048119 | [Flask: Audit — Reporting for Public Dataset](Project_048119/README.md) |
+| 048120 | [Flask: Audit — Usability Improvement for Public Dataset](Project_048120/README.md) |
 
 [Back to the portfolio home](../README.md)
