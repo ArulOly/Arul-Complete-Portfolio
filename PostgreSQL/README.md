@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025838 | [PostgreSQL: Documentation Generation — Recovery for Two-Node Lab](Project_025838/README.md) |
 | 025839 | [PostgreSQL: Documentation Generation — Reporting for Two-Node Lab](Project_025839/README.md) |
 | 025840 | [PostgreSQL: Documentation Generation — Usability Improvement for Two-Node Lab](Project_025840/README.md) |
+| 025841 | [PostgreSQL: Documentation Generation — Baseline Setup for Help Desk](Project_025841/README.md) |
+| 025842 | [PostgreSQL: Documentation Generation — Automation for Help Desk](Project_025842/README.md) |
+| 025843 | [PostgreSQL: Documentation Generation — Recovery for Help Desk](Project_025843/README.md) |
+| 025844 | [PostgreSQL: Documentation Generation — Reporting for Help Desk](Project_025844/README.md) |
+| 025845 | [PostgreSQL: Documentation Generation — Usability Improvement for Help Desk](Project_025845/README.md) |
+| 025846 | [PostgreSQL: Documentation Generation — Baseline Setup for Portfolio Demo](Project_025846/README.md) |
+| 025847 | [PostgreSQL: Documentation Generation — Automation for Portfolio Demo](Project_025847/README.md) |
+| 025848 | [PostgreSQL: Documentation Generation — Recovery for Portfolio Demo](Project_025848/README.md) |
+| 025849 | [PostgreSQL: Documentation Generation — Reporting for Portfolio Demo](Project_025849/README.md) |
+| 025850 | [PostgreSQL: Documentation Generation — Usability Improvement for Portfolio Demo](Project_025850/README.md) |
+| 025851 | [PostgreSQL: Automation — Baseline Setup for School Lab](Project_025851/README.md) |
+| 025852 | [PostgreSQL: Automation — Automation for School Lab](Project_025852/README.md) |
+| 025853 | [PostgreSQL: Automation — Recovery for School Lab](Project_025853/README.md) |
+| 025854 | [PostgreSQL: Automation — Reporting for School Lab](Project_025854/README.md) |
+| 025855 | [PostgreSQL: Automation — Usability Improvement for School Lab](Project_025855/README.md) |
+| 025856 | [PostgreSQL: Automation — Baseline Setup for Small Business](Project_025856/README.md) |
+| 025857 | [PostgreSQL: Automation — Automation for Small Business](Project_025857/README.md) |
+| 025858 | [PostgreSQL: Automation — Recovery for Small Business](Project_025858/README.md) |
+| 025859 | [PostgreSQL: Automation — Reporting for Small Business](Project_025859/README.md) |
+| 025860 | [PostgreSQL: Automation — Usability Improvement for Small Business](Project_025860/README.md) |
 
 [Back to the portfolio home](../README.md)
