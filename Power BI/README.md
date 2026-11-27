@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032018 | [Power BI: Inventory — Recovery for Public Dataset](Project_032018/README.md) |
 | 032019 | [Power BI: Inventory — Reporting for Public Dataset](Project_032019/README.md) |
 | 032020 | [Power BI: Inventory — Usability Improvement for Public Dataset](Project_032020/README.md) |
+| 032021 | [Power BI: Inventory — Baseline Setup for Branch Office Simulator](Project_032021/README.md) |
+| 032022 | [Power BI: Inventory — Automation for Branch Office Simulator](Project_032022/README.md) |
+| 032023 | [Power BI: Inventory — Recovery for Branch Office Simulator](Project_032023/README.md) |
+| 032024 | [Power BI: Inventory — Reporting for Branch Office Simulator](Project_032024/README.md) |
+| 032025 | [Power BI: Inventory — Usability Improvement for Branch Office Simulator](Project_032025/README.md) |
+| 032026 | [Power BI: Inventory — Baseline Setup for Offline Classroom](Project_032026/README.md) |
+| 032027 | [Power BI: Inventory — Automation for Offline Classroom](Project_032027/README.md) |
+| 032028 | [Power BI: Inventory — Recovery for Offline Classroom](Project_032028/README.md) |
+| 032029 | [Power BI: Inventory — Reporting for Offline Classroom](Project_032029/README.md) |
+| 032030 | [Power BI: Inventory — Usability Improvement for Offline Classroom](Project_032030/README.md) |
+| 032031 | [Power BI: Inventory — Baseline Setup for Single-Host Lab](Project_032031/README.md) |
+| 032032 | [Power BI: Inventory — Automation for Single-Host Lab](Project_032032/README.md) |
+| 032033 | [Power BI: Inventory — Recovery for Single-Host Lab](Project_032033/README.md) |
+| 032034 | [Power BI: Inventory — Reporting for Single-Host Lab](Project_032034/README.md) |
+| 032035 | [Power BI: Inventory — Usability Improvement for Single-Host Lab](Project_032035/README.md) |
+| 032036 | [Power BI: Inventory — Baseline Setup for Two-Node Lab](Project_032036/README.md) |
+| 032037 | [Power BI: Inventory — Automation for Two-Node Lab](Project_032037/README.md) |
+| 032038 | [Power BI: Inventory — Recovery for Two-Node Lab](Project_032038/README.md) |
+| 032039 | [Power BI: Inventory — Reporting for Two-Node Lab](Project_032039/README.md) |
+| 032040 | [Power BI: Inventory — Usability Improvement for Two-Node Lab](Project_032040/README.md) |
 
 [Back to the portfolio home](../README.md)
