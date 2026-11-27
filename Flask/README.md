@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048678 | [Flask: Configuration Comparison — Recovery for Offline Classroom](Project_048678/README.md) |
 | 048679 | [Flask: Configuration Comparison — Reporting for Offline Classroom](Project_048679/README.md) |
 | 048680 | [Flask: Configuration Comparison — Usability Improvement for Offline Classroom](Project_048680/README.md) |
+| 048681 | [Flask: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_048681/README.md) |
+| 048682 | [Flask: Configuration Comparison — Automation for Single-Host Lab](Project_048682/README.md) |
+| 048683 | [Flask: Configuration Comparison — Recovery for Single-Host Lab](Project_048683/README.md) |
+| 048684 | [Flask: Configuration Comparison — Reporting for Single-Host Lab](Project_048684/README.md) |
+| 048685 | [Flask: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_048685/README.md) |
+| 048686 | [Flask: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_048686/README.md) |
+| 048687 | [Flask: Configuration Comparison — Automation for Two-Node Lab](Project_048687/README.md) |
+| 048688 | [Flask: Configuration Comparison — Recovery for Two-Node Lab](Project_048688/README.md) |
+| 048689 | [Flask: Configuration Comparison — Reporting for Two-Node Lab](Project_048689/README.md) |
+| 048690 | [Flask: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_048690/README.md) |
+| 048691 | [Flask: Configuration Comparison — Baseline Setup for Help Desk](Project_048691/README.md) |
+| 048692 | [Flask: Configuration Comparison — Automation for Help Desk](Project_048692/README.md) |
+| 048693 | [Flask: Configuration Comparison — Recovery for Help Desk](Project_048693/README.md) |
+| 048694 | [Flask: Configuration Comparison — Reporting for Help Desk](Project_048694/README.md) |
+| 048695 | [Flask: Configuration Comparison — Usability Improvement for Help Desk](Project_048695/README.md) |
+| 048696 | [Flask: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_048696/README.md) |
+| 048697 | [Flask: Configuration Comparison — Automation for Portfolio Demo](Project_048697/README.md) |
+| 048698 | [Flask: Configuration Comparison — Recovery for Portfolio Demo](Project_048698/README.md) |
+| 048699 | [Flask: Configuration Comparison — Reporting for Portfolio Demo](Project_048699/README.md) |
+| 048700 | [Flask: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_048700/README.md) |
 
 [Back to the portfolio home](../README.md)
