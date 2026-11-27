@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003218 | [Debian: Backup Verification — Recovery for Public Dataset](Project_003218/README.md) |
 | 003219 | [Debian: Backup Verification — Reporting for Public Dataset](Project_003219/README.md) |
 | 003220 | [Debian: Backup Verification — Usability Improvement for Public Dataset](Project_003220/README.md) |
+| 003221 | [Debian: Backup Verification — Baseline Setup for Branch Office Simulator](Project_003221/README.md) |
+| 003222 | [Debian: Backup Verification — Automation for Branch Office Simulator](Project_003222/README.md) |
+| 003223 | [Debian: Backup Verification — Recovery for Branch Office Simulator](Project_003223/README.md) |
+| 003224 | [Debian: Backup Verification — Reporting for Branch Office Simulator](Project_003224/README.md) |
+| 003225 | [Debian: Backup Verification — Usability Improvement for Branch Office Simulator](Project_003225/README.md) |
+| 003226 | [Debian: Backup Verification — Baseline Setup for Offline Classroom](Project_003226/README.md) |
+| 003227 | [Debian: Backup Verification — Automation for Offline Classroom](Project_003227/README.md) |
+| 003228 | [Debian: Backup Verification — Recovery for Offline Classroom](Project_003228/README.md) |
+| 003229 | [Debian: Backup Verification — Reporting for Offline Classroom](Project_003229/README.md) |
+| 003230 | [Debian: Backup Verification — Usability Improvement for Offline Classroom](Project_003230/README.md) |
+| 003231 | [Debian: Backup Verification — Baseline Setup for Single-Host Lab](Project_003231/README.md) |
+| 003232 | [Debian: Backup Verification — Automation for Single-Host Lab](Project_003232/README.md) |
+| 003233 | [Debian: Backup Verification — Recovery for Single-Host Lab](Project_003233/README.md) |
+| 003234 | [Debian: Backup Verification — Reporting for Single-Host Lab](Project_003234/README.md) |
+| 003235 | [Debian: Backup Verification — Usability Improvement for Single-Host Lab](Project_003235/README.md) |
+| 003236 | [Debian: Backup Verification — Baseline Setup for Two-Node Lab](Project_003236/README.md) |
+| 003237 | [Debian: Backup Verification — Automation for Two-Node Lab](Project_003237/README.md) |
+| 003238 | [Debian: Backup Verification — Recovery for Two-Node Lab](Project_003238/README.md) |
+| 003239 | [Debian: Backup Verification — Reporting for Two-Node Lab](Project_003239/README.md) |
+| 003240 | [Debian: Backup Verification — Usability Improvement for Two-Node Lab](Project_003240/README.md) |
 
 [Back to the portfolio home](../README.md)
