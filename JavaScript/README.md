@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020538 | [JavaScript: Access Review — Recovery for Two-Node Lab](Project_020538/README.md) |
 | 020539 | [JavaScript: Access Review — Reporting for Two-Node Lab](Project_020539/README.md) |
 | 020540 | [JavaScript: Access Review — Usability Improvement for Two-Node Lab](Project_020540/README.md) |
+| 020541 | [JavaScript: Access Review — Baseline Setup for Help Desk](Project_020541/README.md) |
+| 020542 | [JavaScript: Access Review — Automation for Help Desk](Project_020542/README.md) |
+| 020543 | [JavaScript: Access Review — Recovery for Help Desk](Project_020543/README.md) |
+| 020544 | [JavaScript: Access Review — Reporting for Help Desk](Project_020544/README.md) |
+| 020545 | [JavaScript: Access Review — Usability Improvement for Help Desk](Project_020545/README.md) |
+| 020546 | [JavaScript: Access Review — Baseline Setup for Portfolio Demo](Project_020546/README.md) |
+| 020547 | [JavaScript: Access Review — Automation for Portfolio Demo](Project_020547/README.md) |
+| 020548 | [JavaScript: Access Review — Recovery for Portfolio Demo](Project_020548/README.md) |
+| 020549 | [JavaScript: Access Review — Reporting for Portfolio Demo](Project_020549/README.md) |
+| 020550 | [JavaScript: Access Review — Usability Improvement for Portfolio Demo](Project_020550/README.md) |
+| 020551 | [JavaScript: Performance Baseline — Baseline Setup for School Lab](Project_020551/README.md) |
+| 020552 | [JavaScript: Performance Baseline — Automation for School Lab](Project_020552/README.md) |
+| 020553 | [JavaScript: Performance Baseline — Recovery for School Lab](Project_020553/README.md) |
+| 020554 | [JavaScript: Performance Baseline — Reporting for School Lab](Project_020554/README.md) |
+| 020555 | [JavaScript: Performance Baseline — Usability Improvement for School Lab](Project_020555/README.md) |
+| 020556 | [JavaScript: Performance Baseline — Baseline Setup for Small Business](Project_020556/README.md) |
+| 020557 | [JavaScript: Performance Baseline — Automation for Small Business](Project_020557/README.md) |
+| 020558 | [JavaScript: Performance Baseline — Recovery for Small Business](Project_020558/README.md) |
+| 020559 | [JavaScript: Performance Baseline — Reporting for Small Business](Project_020559/README.md) |
+| 020560 | [JavaScript: Performance Baseline — Usability Improvement for Small Business](Project_020560/README.md) |
 
 [Back to the portfolio home](../README.md)
