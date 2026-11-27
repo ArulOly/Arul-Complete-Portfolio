@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002598 | [Ubuntu: Performance Baseline — Recovery for Portfolio Demo](Project_002598/README.md) |
 | 002599 | [Ubuntu: Performance Baseline — Reporting for Portfolio Demo](Project_002599/README.md) |
 | 002600 | [Ubuntu: Performance Baseline — Usability Improvement for Portfolio Demo](Project_002600/README.md) |
+| 002601 | [Ubuntu: Service Check — Baseline Setup for School Lab](Project_002601/README.md) |
+| 002602 | [Ubuntu: Service Check — Automation for School Lab](Project_002602/README.md) |
+| 002603 | [Ubuntu: Service Check — Recovery for School Lab](Project_002603/README.md) |
+| 002604 | [Ubuntu: Service Check — Reporting for School Lab](Project_002604/README.md) |
+| 002605 | [Ubuntu: Service Check — Usability Improvement for School Lab](Project_002605/README.md) |
+| 002606 | [Ubuntu: Service Check — Baseline Setup for Small Business](Project_002606/README.md) |
+| 002607 | [Ubuntu: Service Check — Automation for Small Business](Project_002607/README.md) |
+| 002608 | [Ubuntu: Service Check — Recovery for Small Business](Project_002608/README.md) |
+| 002609 | [Ubuntu: Service Check — Reporting for Small Business](Project_002609/README.md) |
+| 002610 | [Ubuntu: Service Check — Usability Improvement for Small Business](Project_002610/README.md) |
+| 002611 | [Ubuntu: Service Check — Baseline Setup for Home Development](Project_002611/README.md) |
+| 002612 | [Ubuntu: Service Check — Automation for Home Development](Project_002612/README.md) |
+| 002613 | [Ubuntu: Service Check — Recovery for Home Development](Project_002613/README.md) |
+| 002614 | [Ubuntu: Service Check — Reporting for Home Development](Project_002614/README.md) |
+| 002615 | [Ubuntu: Service Check — Usability Improvement for Home Development](Project_002615/README.md) |
+| 002616 | [Ubuntu: Service Check — Baseline Setup for Public Dataset](Project_002616/README.md) |
+| 002617 | [Ubuntu: Service Check — Automation for Public Dataset](Project_002617/README.md) |
+| 002618 | [Ubuntu: Service Check — Recovery for Public Dataset](Project_002618/README.md) |
+| 002619 | [Ubuntu: Service Check — Reporting for Public Dataset](Project_002619/README.md) |
+| 002620 | [Ubuntu: Service Check — Usability Improvement for Public Dataset](Project_002620/README.md) |
 
 [Back to the portfolio home](../README.md)
