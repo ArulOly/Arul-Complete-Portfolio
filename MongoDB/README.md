@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027858 | [MongoDB: Automation — Recovery for Small Business](Project_027858/README.md) |
 | 027859 | [MongoDB: Automation — Reporting for Small Business](Project_027859/README.md) |
 | 027860 | [MongoDB: Automation — Usability Improvement for Small Business](Project_027860/README.md) |
+| 027861 | [MongoDB: Automation — Baseline Setup for Home Development](Project_027861/README.md) |
+| 027862 | [MongoDB: Automation — Automation for Home Development](Project_027862/README.md) |
+| 027863 | [MongoDB: Automation — Recovery for Home Development](Project_027863/README.md) |
+| 027864 | [MongoDB: Automation — Reporting for Home Development](Project_027864/README.md) |
+| 027865 | [MongoDB: Automation — Usability Improvement for Home Development](Project_027865/README.md) |
+| 027866 | [MongoDB: Automation — Baseline Setup for Public Dataset](Project_027866/README.md) |
+| 027867 | [MongoDB: Automation — Automation for Public Dataset](Project_027867/README.md) |
+| 027868 | [MongoDB: Automation — Recovery for Public Dataset](Project_027868/README.md) |
+| 027869 | [MongoDB: Automation — Reporting for Public Dataset](Project_027869/README.md) |
+| 027870 | [MongoDB: Automation — Usability Improvement for Public Dataset](Project_027870/README.md) |
+| 027871 | [MongoDB: Automation — Baseline Setup for Branch Office Simulator](Project_027871/README.md) |
+| 027872 | [MongoDB: Automation — Automation for Branch Office Simulator](Project_027872/README.md) |
+| 027873 | [MongoDB: Automation — Recovery for Branch Office Simulator](Project_027873/README.md) |
+| 027874 | [MongoDB: Automation — Reporting for Branch Office Simulator](Project_027874/README.md) |
+| 027875 | [MongoDB: Automation — Usability Improvement for Branch Office Simulator](Project_027875/README.md) |
+| 027876 | [MongoDB: Automation — Baseline Setup for Offline Classroom](Project_027876/README.md) |
+| 027877 | [MongoDB: Automation — Automation for Offline Classroom](Project_027877/README.md) |
+| 027878 | [MongoDB: Automation — Recovery for Offline Classroom](Project_027878/README.md) |
+| 027879 | [MongoDB: Automation — Reporting for Offline Classroom](Project_027879/README.md) |
+| 027880 | [MongoDB: Automation — Usability Improvement for Offline Classroom](Project_027880/README.md) |
 
 [Back to the portfolio home](../README.md)
