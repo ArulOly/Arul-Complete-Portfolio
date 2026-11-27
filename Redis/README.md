@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045018 | [Redis: Inventory — Recovery for Public Dataset](Project_045018/README.md) |
 | 045019 | [Redis: Inventory — Reporting for Public Dataset](Project_045019/README.md) |
 | 045020 | [Redis: Inventory — Usability Improvement for Public Dataset](Project_045020/README.md) |
+| 045021 | [Redis: Inventory — Baseline Setup for Branch Office Simulator](Project_045021/README.md) |
+| 045022 | [Redis: Inventory — Automation for Branch Office Simulator](Project_045022/README.md) |
+| 045023 | [Redis: Inventory — Recovery for Branch Office Simulator](Project_045023/README.md) |
+| 045024 | [Redis: Inventory — Reporting for Branch Office Simulator](Project_045024/README.md) |
+| 045025 | [Redis: Inventory — Usability Improvement for Branch Office Simulator](Project_045025/README.md) |
+| 045026 | [Redis: Inventory — Baseline Setup for Offline Classroom](Project_045026/README.md) |
+| 045027 | [Redis: Inventory — Automation for Offline Classroom](Project_045027/README.md) |
+| 045028 | [Redis: Inventory — Recovery for Offline Classroom](Project_045028/README.md) |
+| 045029 | [Redis: Inventory — Reporting for Offline Classroom](Project_045029/README.md) |
+| 045030 | [Redis: Inventory — Usability Improvement for Offline Classroom](Project_045030/README.md) |
+| 045031 | [Redis: Inventory — Baseline Setup for Single-Host Lab](Project_045031/README.md) |
+| 045032 | [Redis: Inventory — Automation for Single-Host Lab](Project_045032/README.md) |
+| 045033 | [Redis: Inventory — Recovery for Single-Host Lab](Project_045033/README.md) |
+| 045034 | [Redis: Inventory — Reporting for Single-Host Lab](Project_045034/README.md) |
+| 045035 | [Redis: Inventory — Usability Improvement for Single-Host Lab](Project_045035/README.md) |
+| 045036 | [Redis: Inventory — Baseline Setup for Two-Node Lab](Project_045036/README.md) |
+| 045037 | [Redis: Inventory — Automation for Two-Node Lab](Project_045037/README.md) |
+| 045038 | [Redis: Inventory — Recovery for Two-Node Lab](Project_045038/README.md) |
+| 045039 | [Redis: Inventory — Reporting for Two-Node Lab](Project_045039/README.md) |
+| 045040 | [Redis: Inventory — Usability Improvement for Two-Node Lab](Project_045040/README.md) |
 
 [Back to the portfolio home](../README.md)
