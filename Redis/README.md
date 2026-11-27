@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045258 | [Redis: Data Import — Recovery for Small Business](Project_045258/README.md) |
 | 045259 | [Redis: Data Import — Reporting for Small Business](Project_045259/README.md) |
 | 045260 | [Redis: Data Import — Usability Improvement for Small Business](Project_045260/README.md) |
+| 045261 | [Redis: Data Import — Baseline Setup for Home Development](Project_045261/README.md) |
+| 045262 | [Redis: Data Import — Automation for Home Development](Project_045262/README.md) |
+| 045263 | [Redis: Data Import — Recovery for Home Development](Project_045263/README.md) |
+| 045264 | [Redis: Data Import — Reporting for Home Development](Project_045264/README.md) |
+| 045265 | [Redis: Data Import — Usability Improvement for Home Development](Project_045265/README.md) |
+| 045266 | [Redis: Data Import — Baseline Setup for Public Dataset](Project_045266/README.md) |
+| 045267 | [Redis: Data Import — Automation for Public Dataset](Project_045267/README.md) |
+| 045268 | [Redis: Data Import — Recovery for Public Dataset](Project_045268/README.md) |
+| 045269 | [Redis: Data Import — Reporting for Public Dataset](Project_045269/README.md) |
+| 045270 | [Redis: Data Import — Usability Improvement for Public Dataset](Project_045270/README.md) |
+| 045271 | [Redis: Data Import — Baseline Setup for Branch Office Simulator](Project_045271/README.md) |
+| 045272 | [Redis: Data Import — Automation for Branch Office Simulator](Project_045272/README.md) |
+| 045273 | [Redis: Data Import — Recovery for Branch Office Simulator](Project_045273/README.md) |
+| 045274 | [Redis: Data Import — Reporting for Branch Office Simulator](Project_045274/README.md) |
+| 045275 | [Redis: Data Import — Usability Improvement for Branch Office Simulator](Project_045275/README.md) |
+| 045276 | [Redis: Data Import — Baseline Setup for Offline Classroom](Project_045276/README.md) |
+| 045277 | [Redis: Data Import — Automation for Offline Classroom](Project_045277/README.md) |
+| 045278 | [Redis: Data Import — Recovery for Offline Classroom](Project_045278/README.md) |
+| 045279 | [Redis: Data Import — Reporting for Offline Classroom](Project_045279/README.md) |
+| 045280 | [Redis: Data Import — Usability Improvement for Offline Classroom](Project_045280/README.md) |
 
 [Back to the portfolio home](../README.md)
