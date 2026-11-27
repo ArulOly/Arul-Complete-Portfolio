@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022138 | [Java: Audit — Recovery for Two-Node Lab](Project_022138/README.md) |
 | 022139 | [Java: Audit — Reporting for Two-Node Lab](Project_022139/README.md) |
 | 022140 | [Java: Audit — Usability Improvement for Two-Node Lab](Project_022140/README.md) |
+| 022141 | [Java: Audit — Baseline Setup for Help Desk](Project_022141/README.md) |
+| 022142 | [Java: Audit — Automation for Help Desk](Project_022142/README.md) |
+| 022143 | [Java: Audit — Recovery for Help Desk](Project_022143/README.md) |
+| 022144 | [Java: Audit — Reporting for Help Desk](Project_022144/README.md) |
+| 022145 | [Java: Audit — Usability Improvement for Help Desk](Project_022145/README.md) |
+| 022146 | [Java: Audit — Baseline Setup for Portfolio Demo](Project_022146/README.md) |
+| 022147 | [Java: Audit — Automation for Portfolio Demo](Project_022147/README.md) |
+| 022148 | [Java: Audit — Recovery for Portfolio Demo](Project_022148/README.md) |
+| 022149 | [Java: Audit — Reporting for Portfolio Demo](Project_022149/README.md) |
+| 022150 | [Java: Audit — Usability Improvement for Portfolio Demo](Project_022150/README.md) |
+| 022151 | [Java: Log Analysis — Baseline Setup for School Lab](Project_022151/README.md) |
+| 022152 | [Java: Log Analysis — Automation for School Lab](Project_022152/README.md) |
+| 022153 | [Java: Log Analysis — Recovery for School Lab](Project_022153/README.md) |
+| 022154 | [Java: Log Analysis — Reporting for School Lab](Project_022154/README.md) |
+| 022155 | [Java: Log Analysis — Usability Improvement for School Lab](Project_022155/README.md) |
+| 022156 | [Java: Log Analysis — Baseline Setup for Small Business](Project_022156/README.md) |
+| 022157 | [Java: Log Analysis — Automation for Small Business](Project_022157/README.md) |
+| 022158 | [Java: Log Analysis — Recovery for Small Business](Project_022158/README.md) |
+| 022159 | [Java: Log Analysis — Reporting for Small Business](Project_022159/README.md) |
+| 022160 | [Java: Log Analysis — Usability Improvement for Small Business](Project_022160/README.md) |
 
 [Back to the portfolio home](../README.md)
