@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045958 | [Redis: Recovery Test — Recovery for Small Business](Project_045958/README.md) |
 | 045959 | [Redis: Recovery Test — Reporting for Small Business](Project_045959/README.md) |
 | 045960 | [Redis: Recovery Test — Usability Improvement for Small Business](Project_045960/README.md) |
+| 045961 | [Redis: Recovery Test — Baseline Setup for Home Development](Project_045961/README.md) |
+| 045962 | [Redis: Recovery Test — Automation for Home Development](Project_045962/README.md) |
+| 045963 | [Redis: Recovery Test — Recovery for Home Development](Project_045963/README.md) |
+| 045964 | [Redis: Recovery Test — Reporting for Home Development](Project_045964/README.md) |
+| 045965 | [Redis: Recovery Test — Usability Improvement for Home Development](Project_045965/README.md) |
+| 045966 | [Redis: Recovery Test — Baseline Setup for Public Dataset](Project_045966/README.md) |
+| 045967 | [Redis: Recovery Test — Automation for Public Dataset](Project_045967/README.md) |
+| 045968 | [Redis: Recovery Test — Recovery for Public Dataset](Project_045968/README.md) |
+| 045969 | [Redis: Recovery Test — Reporting for Public Dataset](Project_045969/README.md) |
+| 045970 | [Redis: Recovery Test — Usability Improvement for Public Dataset](Project_045970/README.md) |
+| 045971 | [Redis: Recovery Test — Baseline Setup for Branch Office Simulator](Project_045971/README.md) |
+| 045972 | [Redis: Recovery Test — Automation for Branch Office Simulator](Project_045972/README.md) |
+| 045973 | [Redis: Recovery Test — Recovery for Branch Office Simulator](Project_045973/README.md) |
+| 045974 | [Redis: Recovery Test — Reporting for Branch Office Simulator](Project_045974/README.md) |
+| 045975 | [Redis: Recovery Test — Usability Improvement for Branch Office Simulator](Project_045975/README.md) |
+| 045976 | [Redis: Recovery Test — Baseline Setup for Offline Classroom](Project_045976/README.md) |
+| 045977 | [Redis: Recovery Test — Automation for Offline Classroom](Project_045977/README.md) |
+| 045978 | [Redis: Recovery Test — Recovery for Offline Classroom](Project_045978/README.md) |
+| 045979 | [Redis: Recovery Test — Reporting for Offline Classroom](Project_045979/README.md) |
+| 045980 | [Redis: Recovery Test — Usability Improvement for Offline Classroom](Project_045980/README.md) |
 
 [Back to the portfolio home](../README.md)
