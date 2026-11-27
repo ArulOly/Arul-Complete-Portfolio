@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024918 | [Node.js: Visual Reporting — Recovery for Public Dataset](Project_024918/README.md) |
 | 024919 | [Node.js: Visual Reporting — Reporting for Public Dataset](Project_024919/README.md) |
 | 024920 | [Node.js: Visual Reporting — Usability Improvement for Public Dataset](Project_024920/README.md) |
+| 024921 | [Node.js: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_024921/README.md) |
+| 024922 | [Node.js: Visual Reporting — Automation for Branch Office Simulator](Project_024922/README.md) |
+| 024923 | [Node.js: Visual Reporting — Recovery for Branch Office Simulator](Project_024923/README.md) |
+| 024924 | [Node.js: Visual Reporting — Reporting for Branch Office Simulator](Project_024924/README.md) |
+| 024925 | [Node.js: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_024925/README.md) |
+| 024926 | [Node.js: Visual Reporting — Baseline Setup for Offline Classroom](Project_024926/README.md) |
+| 024927 | [Node.js: Visual Reporting — Automation for Offline Classroom](Project_024927/README.md) |
+| 024928 | [Node.js: Visual Reporting — Recovery for Offline Classroom](Project_024928/README.md) |
+| 024929 | [Node.js: Visual Reporting — Reporting for Offline Classroom](Project_024929/README.md) |
+| 024930 | [Node.js: Visual Reporting — Usability Improvement for Offline Classroom](Project_024930/README.md) |
+| 024931 | [Node.js: Visual Reporting — Baseline Setup for Single-Host Lab](Project_024931/README.md) |
+| 024932 | [Node.js: Visual Reporting — Automation for Single-Host Lab](Project_024932/README.md) |
+| 024933 | [Node.js: Visual Reporting — Recovery for Single-Host Lab](Project_024933/README.md) |
+| 024934 | [Node.js: Visual Reporting — Reporting for Single-Host Lab](Project_024934/README.md) |
+| 024935 | [Node.js: Visual Reporting — Usability Improvement for Single-Host Lab](Project_024935/README.md) |
+| 024936 | [Node.js: Visual Reporting — Baseline Setup for Two-Node Lab](Project_024936/README.md) |
+| 024937 | [Node.js: Visual Reporting — Automation for Two-Node Lab](Project_024937/README.md) |
+| 024938 | [Node.js: Visual Reporting — Recovery for Two-Node Lab](Project_024938/README.md) |
+| 024939 | [Node.js: Visual Reporting — Reporting for Two-Node Lab](Project_024939/README.md) |
+| 024940 | [Node.js: Visual Reporting — Usability Improvement for Two-Node Lab](Project_024940/README.md) |
 
 [Back to the portfolio home](../README.md)
