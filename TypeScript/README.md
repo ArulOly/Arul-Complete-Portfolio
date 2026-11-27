@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021858 | [TypeScript: Automation — Recovery for Small Business](Project_021858/README.md) |
 | 021859 | [TypeScript: Automation — Reporting for Small Business](Project_021859/README.md) |
 | 021860 | [TypeScript: Automation — Usability Improvement for Small Business](Project_021860/README.md) |
+| 021861 | [TypeScript: Automation — Baseline Setup for Home Development](Project_021861/README.md) |
+| 021862 | [TypeScript: Automation — Automation for Home Development](Project_021862/README.md) |
+| 021863 | [TypeScript: Automation — Recovery for Home Development](Project_021863/README.md) |
+| 021864 | [TypeScript: Automation — Reporting for Home Development](Project_021864/README.md) |
+| 021865 | [TypeScript: Automation — Usability Improvement for Home Development](Project_021865/README.md) |
+| 021866 | [TypeScript: Automation — Baseline Setup for Public Dataset](Project_021866/README.md) |
+| 021867 | [TypeScript: Automation — Automation for Public Dataset](Project_021867/README.md) |
+| 021868 | [TypeScript: Automation — Recovery for Public Dataset](Project_021868/README.md) |
+| 021869 | [TypeScript: Automation — Reporting for Public Dataset](Project_021869/README.md) |
+| 021870 | [TypeScript: Automation — Usability Improvement for Public Dataset](Project_021870/README.md) |
+| 021871 | [TypeScript: Automation — Baseline Setup for Branch Office Simulator](Project_021871/README.md) |
+| 021872 | [TypeScript: Automation — Automation for Branch Office Simulator](Project_021872/README.md) |
+| 021873 | [TypeScript: Automation — Recovery for Branch Office Simulator](Project_021873/README.md) |
+| 021874 | [TypeScript: Automation — Reporting for Branch Office Simulator](Project_021874/README.md) |
+| 021875 | [TypeScript: Automation — Usability Improvement for Branch Office Simulator](Project_021875/README.md) |
+| 021876 | [TypeScript: Automation — Baseline Setup for Offline Classroom](Project_021876/README.md) |
+| 021877 | [TypeScript: Automation — Automation for Offline Classroom](Project_021877/README.md) |
+| 021878 | [TypeScript: Automation — Recovery for Offline Classroom](Project_021878/README.md) |
+| 021879 | [TypeScript: Automation — Reporting for Offline Classroom](Project_021879/README.md) |
+| 021880 | [TypeScript: Automation — Usability Improvement for Offline Classroom](Project_021880/README.md) |
 
 [Back to the portfolio home](../README.md)
