@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -864,5 +864,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019818 | [Python: Documentation Generation — Recovery for Public Dataset](Project_019818/README.md) |
 | 019819 | [Python: Documentation Generation — Reporting for Public Dataset](Project_019819/README.md) |
 | 019820 | [Python: Documentation Generation — Usability Improvement for Public Dataset](Project_019820/README.md) |
+| 019821 | [Python: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_019821/README.md) |
+| 019822 | [Python: Documentation Generation — Automation for Branch Office Simulator](Project_019822/README.md) |
+| 019823 | [Python: Documentation Generation — Recovery for Branch Office Simulator](Project_019823/README.md) |
+| 019824 | [Python: Documentation Generation — Reporting for Branch Office Simulator](Project_019824/README.md) |
+| 019825 | [Python: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_019825/README.md) |
+| 019826 | [Python: Documentation Generation — Baseline Setup for Offline Classroom](Project_019826/README.md) |
+| 019827 | [Python: Documentation Generation — Automation for Offline Classroom](Project_019827/README.md) |
+| 019828 | [Python: Documentation Generation — Recovery for Offline Classroom](Project_019828/README.md) |
+| 019829 | [Python: Documentation Generation — Reporting for Offline Classroom](Project_019829/README.md) |
+| 019830 | [Python: Documentation Generation — Usability Improvement for Offline Classroom](Project_019830/README.md) |
+| 019831 | [Python: Documentation Generation — Baseline Setup for Single-Host Lab](Project_019831/README.md) |
+| 019832 | [Python: Documentation Generation — Automation for Single-Host Lab](Project_019832/README.md) |
+| 019833 | [Python: Documentation Generation — Recovery for Single-Host Lab](Project_019833/README.md) |
+| 019834 | [Python: Documentation Generation — Reporting for Single-Host Lab](Project_019834/README.md) |
+| 019835 | [Python: Documentation Generation — Usability Improvement for Single-Host Lab](Project_019835/README.md) |
+| 019836 | [Python: Documentation Generation — Baseline Setup for Two-Node Lab](Project_019836/README.md) |
+| 019837 | [Python: Documentation Generation — Automation for Two-Node Lab](Project_019837/README.md) |
+| 019838 | [Python: Documentation Generation — Recovery for Two-Node Lab](Project_019838/README.md) |
+| 019839 | [Python: Documentation Generation — Reporting for Two-Node Lab](Project_019839/README.md) |
+| 019840 | [Python: Documentation Generation — Usability Improvement for Two-Node Lab](Project_019840/README.md) |
 
 [Back to the portfolio home](../README.md)
