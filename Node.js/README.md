@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024358 | [Node.js: Dashboard — Recovery for Small Business](Project_024358/README.md) |
 | 024359 | [Node.js: Dashboard — Reporting for Small Business](Project_024359/README.md) |
 | 024360 | [Node.js: Dashboard — Usability Improvement for Small Business](Project_024360/README.md) |
+| 024361 | [Node.js: Dashboard — Baseline Setup for Home Development](Project_024361/README.md) |
+| 024362 | [Node.js: Dashboard — Automation for Home Development](Project_024362/README.md) |
+| 024363 | [Node.js: Dashboard — Recovery for Home Development](Project_024363/README.md) |
+| 024364 | [Node.js: Dashboard — Reporting for Home Development](Project_024364/README.md) |
+| 024365 | [Node.js: Dashboard — Usability Improvement for Home Development](Project_024365/README.md) |
+| 024366 | [Node.js: Dashboard — Baseline Setup for Public Dataset](Project_024366/README.md) |
+| 024367 | [Node.js: Dashboard — Automation for Public Dataset](Project_024367/README.md) |
+| 024368 | [Node.js: Dashboard — Recovery for Public Dataset](Project_024368/README.md) |
+| 024369 | [Node.js: Dashboard — Reporting for Public Dataset](Project_024369/README.md) |
+| 024370 | [Node.js: Dashboard — Usability Improvement for Public Dataset](Project_024370/README.md) |
+| 024371 | [Node.js: Dashboard — Baseline Setup for Branch Office Simulator](Project_024371/README.md) |
+| 024372 | [Node.js: Dashboard — Automation for Branch Office Simulator](Project_024372/README.md) |
+| 024373 | [Node.js: Dashboard — Recovery for Branch Office Simulator](Project_024373/README.md) |
+| 024374 | [Node.js: Dashboard — Reporting for Branch Office Simulator](Project_024374/README.md) |
+| 024375 | [Node.js: Dashboard — Usability Improvement for Branch Office Simulator](Project_024375/README.md) |
+| 024376 | [Node.js: Dashboard — Baseline Setup for Offline Classroom](Project_024376/README.md) |
+| 024377 | [Node.js: Dashboard — Automation for Offline Classroom](Project_024377/README.md) |
+| 024378 | [Node.js: Dashboard — Recovery for Offline Classroom](Project_024378/README.md) |
+| 024379 | [Node.js: Dashboard — Reporting for Offline Classroom](Project_024379/README.md) |
+| 024380 | [Node.js: Dashboard — Usability Improvement for Offline Classroom](Project_024380/README.md) |
 
 [Back to the portfolio home](../README.md)
