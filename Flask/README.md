@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048338 | [Flask: Data Export — Recovery for Two-Node Lab](Project_048338/README.md) |
 | 048339 | [Flask: Data Export — Reporting for Two-Node Lab](Project_048339/README.md) |
 | 048340 | [Flask: Data Export — Usability Improvement for Two-Node Lab](Project_048340/README.md) |
+| 048341 | [Flask: Data Export — Baseline Setup for Help Desk](Project_048341/README.md) |
+| 048342 | [Flask: Data Export — Automation for Help Desk](Project_048342/README.md) |
+| 048343 | [Flask: Data Export — Recovery for Help Desk](Project_048343/README.md) |
+| 048344 | [Flask: Data Export — Reporting for Help Desk](Project_048344/README.md) |
+| 048345 | [Flask: Data Export — Usability Improvement for Help Desk](Project_048345/README.md) |
+| 048346 | [Flask: Data Export — Baseline Setup for Portfolio Demo](Project_048346/README.md) |
+| 048347 | [Flask: Data Export — Automation for Portfolio Demo](Project_048347/README.md) |
+| 048348 | [Flask: Data Export — Recovery for Portfolio Demo](Project_048348/README.md) |
+| 048349 | [Flask: Data Export — Reporting for Portfolio Demo](Project_048349/README.md) |
+| 048350 | [Flask: Data Export — Usability Improvement for Portfolio Demo](Project_048350/README.md) |
+| 048351 | [Flask: Dashboard — Baseline Setup for School Lab](Project_048351/README.md) |
+| 048352 | [Flask: Dashboard — Automation for School Lab](Project_048352/README.md) |
+| 048353 | [Flask: Dashboard — Recovery for School Lab](Project_048353/README.md) |
+| 048354 | [Flask: Dashboard — Reporting for School Lab](Project_048354/README.md) |
+| 048355 | [Flask: Dashboard — Usability Improvement for School Lab](Project_048355/README.md) |
+| 048356 | [Flask: Dashboard — Baseline Setup for Small Business](Project_048356/README.md) |
+| 048357 | [Flask: Dashboard — Automation for Small Business](Project_048357/README.md) |
+| 048358 | [Flask: Dashboard — Recovery for Small Business](Project_048358/README.md) |
+| 048359 | [Flask: Dashboard — Reporting for Small Business](Project_048359/README.md) |
+| 048360 | [Flask: Dashboard — Usability Improvement for Small Business](Project_048360/README.md) |
 
 [Back to the portfolio home](../README.md)
