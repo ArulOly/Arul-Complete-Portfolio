@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049258 | [FastAPI: Data Import — Recovery for Small Business](Project_049258/README.md) |
 | 049259 | [FastAPI: Data Import — Reporting for Small Business](Project_049259/README.md) |
 | 049260 | [FastAPI: Data Import — Usability Improvement for Small Business](Project_049260/README.md) |
+| 049261 | [FastAPI: Data Import — Baseline Setup for Home Development](Project_049261/README.md) |
+| 049262 | [FastAPI: Data Import — Automation for Home Development](Project_049262/README.md) |
+| 049263 | [FastAPI: Data Import — Recovery for Home Development](Project_049263/README.md) |
+| 049264 | [FastAPI: Data Import — Reporting for Home Development](Project_049264/README.md) |
+| 049265 | [FastAPI: Data Import — Usability Improvement for Home Development](Project_049265/README.md) |
+| 049266 | [FastAPI: Data Import — Baseline Setup for Public Dataset](Project_049266/README.md) |
+| 049267 | [FastAPI: Data Import — Automation for Public Dataset](Project_049267/README.md) |
+| 049268 | [FastAPI: Data Import — Recovery for Public Dataset](Project_049268/README.md) |
+| 049269 | [FastAPI: Data Import — Reporting for Public Dataset](Project_049269/README.md) |
+| 049270 | [FastAPI: Data Import — Usability Improvement for Public Dataset](Project_049270/README.md) |
+| 049271 | [FastAPI: Data Import — Baseline Setup for Branch Office Simulator](Project_049271/README.md) |
+| 049272 | [FastAPI: Data Import — Automation for Branch Office Simulator](Project_049272/README.md) |
+| 049273 | [FastAPI: Data Import — Recovery for Branch Office Simulator](Project_049273/README.md) |
+| 049274 | [FastAPI: Data Import — Reporting for Branch Office Simulator](Project_049274/README.md) |
+| 049275 | [FastAPI: Data Import — Usability Improvement for Branch Office Simulator](Project_049275/README.md) |
+| 049276 | [FastAPI: Data Import — Baseline Setup for Offline Classroom](Project_049276/README.md) |
+| 049277 | [FastAPI: Data Import — Automation for Offline Classroom](Project_049277/README.md) |
+| 049278 | [FastAPI: Data Import — Recovery for Offline Classroom](Project_049278/README.md) |
+| 049279 | [FastAPI: Data Import — Reporting for Offline Classroom](Project_049279/README.md) |
+| 049280 | [FastAPI: Data Import — Usability Improvement for Offline Classroom](Project_049280/README.md) |
 
 [Back to the portfolio home](../README.md)
