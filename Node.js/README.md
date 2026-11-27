@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024158 | [Node.js: Log Analysis — Recovery for Small Business](Project_024158/README.md) |
 | 024159 | [Node.js: Log Analysis — Reporting for Small Business](Project_024159/README.md) |
 | 024160 | [Node.js: Log Analysis — Usability Improvement for Small Business](Project_024160/README.md) |
+| 024161 | [Node.js: Log Analysis — Baseline Setup for Home Development](Project_024161/README.md) |
+| 024162 | [Node.js: Log Analysis — Automation for Home Development](Project_024162/README.md) |
+| 024163 | [Node.js: Log Analysis — Recovery for Home Development](Project_024163/README.md) |
+| 024164 | [Node.js: Log Analysis — Reporting for Home Development](Project_024164/README.md) |
+| 024165 | [Node.js: Log Analysis — Usability Improvement for Home Development](Project_024165/README.md) |
+| 024166 | [Node.js: Log Analysis — Baseline Setup for Public Dataset](Project_024166/README.md) |
+| 024167 | [Node.js: Log Analysis — Automation for Public Dataset](Project_024167/README.md) |
+| 024168 | [Node.js: Log Analysis — Recovery for Public Dataset](Project_024168/README.md) |
+| 024169 | [Node.js: Log Analysis — Reporting for Public Dataset](Project_024169/README.md) |
+| 024170 | [Node.js: Log Analysis — Usability Improvement for Public Dataset](Project_024170/README.md) |
+| 024171 | [Node.js: Log Analysis — Baseline Setup for Branch Office Simulator](Project_024171/README.md) |
+| 024172 | [Node.js: Log Analysis — Automation for Branch Office Simulator](Project_024172/README.md) |
+| 024173 | [Node.js: Log Analysis — Recovery for Branch Office Simulator](Project_024173/README.md) |
+| 024174 | [Node.js: Log Analysis — Reporting for Branch Office Simulator](Project_024174/README.md) |
+| 024175 | [Node.js: Log Analysis — Usability Improvement for Branch Office Simulator](Project_024175/README.md) |
+| 024176 | [Node.js: Log Analysis — Baseline Setup for Offline Classroom](Project_024176/README.md) |
+| 024177 | [Node.js: Log Analysis — Automation for Offline Classroom](Project_024177/README.md) |
+| 024178 | [Node.js: Log Analysis — Recovery for Offline Classroom](Project_024178/README.md) |
+| 024179 | [Node.js: Log Analysis — Reporting for Offline Classroom](Project_024179/README.md) |
+| 024180 | [Node.js: Log Analysis — Usability Improvement for Offline Classroom](Project_024180/README.md) |
 
 [Back to the portfolio home](../README.md)
