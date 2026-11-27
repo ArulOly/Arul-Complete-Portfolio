@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024498 | [Node.js: Scheduled Reporting — Recovery for Portfolio Demo](Project_024498/README.md) |
 | 024499 | [Node.js: Scheduled Reporting — Reporting for Portfolio Demo](Project_024499/README.md) |
 | 024500 | [Node.js: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_024500/README.md) |
+| 024501 | [Node.js: Access Review — Baseline Setup for School Lab](Project_024501/README.md) |
+| 024502 | [Node.js: Access Review — Automation for School Lab](Project_024502/README.md) |
+| 024503 | [Node.js: Access Review — Recovery for School Lab](Project_024503/README.md) |
+| 024504 | [Node.js: Access Review — Reporting for School Lab](Project_024504/README.md) |
+| 024505 | [Node.js: Access Review — Usability Improvement for School Lab](Project_024505/README.md) |
+| 024506 | [Node.js: Access Review — Baseline Setup for Small Business](Project_024506/README.md) |
+| 024507 | [Node.js: Access Review — Automation for Small Business](Project_024507/README.md) |
+| 024508 | [Node.js: Access Review — Recovery for Small Business](Project_024508/README.md) |
+| 024509 | [Node.js: Access Review — Reporting for Small Business](Project_024509/README.md) |
+| 024510 | [Node.js: Access Review — Usability Improvement for Small Business](Project_024510/README.md) |
+| 024511 | [Node.js: Access Review — Baseline Setup for Home Development](Project_024511/README.md) |
+| 024512 | [Node.js: Access Review — Automation for Home Development](Project_024512/README.md) |
+| 024513 | [Node.js: Access Review — Recovery for Home Development](Project_024513/README.md) |
+| 024514 | [Node.js: Access Review — Reporting for Home Development](Project_024514/README.md) |
+| 024515 | [Node.js: Access Review — Usability Improvement for Home Development](Project_024515/README.md) |
+| 024516 | [Node.js: Access Review — Baseline Setup for Public Dataset](Project_024516/README.md) |
+| 024517 | [Node.js: Access Review — Automation for Public Dataset](Project_024517/README.md) |
+| 024518 | [Node.js: Access Review — Recovery for Public Dataset](Project_024518/README.md) |
+| 024519 | [Node.js: Access Review — Reporting for Public Dataset](Project_024519/README.md) |
+| 024520 | [Node.js: Access Review — Usability Improvement for Public Dataset](Project_024520/README.md) |
 
 [Back to the portfolio home](../README.md)
