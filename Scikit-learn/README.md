@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034378 | [Scikit-learn: Dashboard — Recovery for Offline Classroom](Project_034378/README.md) |
 | 034379 | [Scikit-learn: Dashboard — Reporting for Offline Classroom](Project_034379/README.md) |
 | 034380 | [Scikit-learn: Dashboard — Usability Improvement for Offline Classroom](Project_034380/README.md) |
+| 034381 | [Scikit-learn: Dashboard — Baseline Setup for Single-Host Lab](Project_034381/README.md) |
+| 034382 | [Scikit-learn: Dashboard — Automation for Single-Host Lab](Project_034382/README.md) |
+| 034383 | [Scikit-learn: Dashboard — Recovery for Single-Host Lab](Project_034383/README.md) |
+| 034384 | [Scikit-learn: Dashboard — Reporting for Single-Host Lab](Project_034384/README.md) |
+| 034385 | [Scikit-learn: Dashboard — Usability Improvement for Single-Host Lab](Project_034385/README.md) |
+| 034386 | [Scikit-learn: Dashboard — Baseline Setup for Two-Node Lab](Project_034386/README.md) |
+| 034387 | [Scikit-learn: Dashboard — Automation for Two-Node Lab](Project_034387/README.md) |
+| 034388 | [Scikit-learn: Dashboard — Recovery for Two-Node Lab](Project_034388/README.md) |
+| 034389 | [Scikit-learn: Dashboard — Reporting for Two-Node Lab](Project_034389/README.md) |
+| 034390 | [Scikit-learn: Dashboard — Usability Improvement for Two-Node Lab](Project_034390/README.md) |
+| 034391 | [Scikit-learn: Dashboard — Baseline Setup for Help Desk](Project_034391/README.md) |
+| 034392 | [Scikit-learn: Dashboard — Automation for Help Desk](Project_034392/README.md) |
+| 034393 | [Scikit-learn: Dashboard — Recovery for Help Desk](Project_034393/README.md) |
+| 034394 | [Scikit-learn: Dashboard — Reporting for Help Desk](Project_034394/README.md) |
+| 034395 | [Scikit-learn: Dashboard — Usability Improvement for Help Desk](Project_034395/README.md) |
+| 034396 | [Scikit-learn: Dashboard — Baseline Setup for Portfolio Demo](Project_034396/README.md) |
+| 034397 | [Scikit-learn: Dashboard — Automation for Portfolio Demo](Project_034397/README.md) |
+| 034398 | [Scikit-learn: Dashboard — Recovery for Portfolio Demo](Project_034398/README.md) |
+| 034399 | [Scikit-learn: Dashboard — Reporting for Portfolio Demo](Project_034399/README.md) |
+| 034400 | [Scikit-learn: Dashboard — Usability Improvement for Portfolio Demo](Project_034400/README.md) |
 
 [Back to the portfolio home](../README.md)
