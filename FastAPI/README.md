@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049598 | [FastAPI: Performance Baseline — Recovery for Portfolio Demo](Project_049598/README.md) |
 | 049599 | [FastAPI: Performance Baseline — Reporting for Portfolio Demo](Project_049599/README.md) |
 | 049600 | [FastAPI: Performance Baseline — Usability Improvement for Portfolio Demo](Project_049600/README.md) |
+| 049601 | [FastAPI: Service Check — Baseline Setup for School Lab](Project_049601/README.md) |
+| 049602 | [FastAPI: Service Check — Automation for School Lab](Project_049602/README.md) |
+| 049603 | [FastAPI: Service Check — Recovery for School Lab](Project_049603/README.md) |
+| 049604 | [FastAPI: Service Check — Reporting for School Lab](Project_049604/README.md) |
+| 049605 | [FastAPI: Service Check — Usability Improvement for School Lab](Project_049605/README.md) |
+| 049606 | [FastAPI: Service Check — Baseline Setup for Small Business](Project_049606/README.md) |
+| 049607 | [FastAPI: Service Check — Automation for Small Business](Project_049607/README.md) |
+| 049608 | [FastAPI: Service Check — Recovery for Small Business](Project_049608/README.md) |
+| 049609 | [FastAPI: Service Check — Reporting for Small Business](Project_049609/README.md) |
+| 049610 | [FastAPI: Service Check — Usability Improvement for Small Business](Project_049610/README.md) |
+| 049611 | [FastAPI: Service Check — Baseline Setup for Home Development](Project_049611/README.md) |
+| 049612 | [FastAPI: Service Check — Automation for Home Development](Project_049612/README.md) |
+| 049613 | [FastAPI: Service Check — Recovery for Home Development](Project_049613/README.md) |
+| 049614 | [FastAPI: Service Check — Reporting for Home Development](Project_049614/README.md) |
+| 049615 | [FastAPI: Service Check — Usability Improvement for Home Development](Project_049615/README.md) |
+| 049616 | [FastAPI: Service Check — Baseline Setup for Public Dataset](Project_049616/README.md) |
+| 049617 | [FastAPI: Service Check — Automation for Public Dataset](Project_049617/README.md) |
+| 049618 | [FastAPI: Service Check — Recovery for Public Dataset](Project_049618/README.md) |
+| 049619 | [FastAPI: Service Check — Reporting for Public Dataset](Project_049619/README.md) |
+| 049620 | [FastAPI: Service Check — Usability Improvement for Public Dataset](Project_049620/README.md) |
 
 [Back to the portfolio home](../README.md)
