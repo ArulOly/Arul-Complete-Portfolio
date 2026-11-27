@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028418 | [SQLite: Alerting — Recovery for Public Dataset](Project_028418/README.md) |
 | 028419 | [SQLite: Alerting — Reporting for Public Dataset](Project_028419/README.md) |
 | 028420 | [SQLite: Alerting — Usability Improvement for Public Dataset](Project_028420/README.md) |
+| 028421 | [SQLite: Alerting — Baseline Setup for Branch Office Simulator](Project_028421/README.md) |
+| 028422 | [SQLite: Alerting — Automation for Branch Office Simulator](Project_028422/README.md) |
+| 028423 | [SQLite: Alerting — Recovery for Branch Office Simulator](Project_028423/README.md) |
+| 028424 | [SQLite: Alerting — Reporting for Branch Office Simulator](Project_028424/README.md) |
+| 028425 | [SQLite: Alerting — Usability Improvement for Branch Office Simulator](Project_028425/README.md) |
+| 028426 | [SQLite: Alerting — Baseline Setup for Offline Classroom](Project_028426/README.md) |
+| 028427 | [SQLite: Alerting — Automation for Offline Classroom](Project_028427/README.md) |
+| 028428 | [SQLite: Alerting — Recovery for Offline Classroom](Project_028428/README.md) |
+| 028429 | [SQLite: Alerting — Reporting for Offline Classroom](Project_028429/README.md) |
+| 028430 | [SQLite: Alerting — Usability Improvement for Offline Classroom](Project_028430/README.md) |
+| 028431 | [SQLite: Alerting — Baseline Setup for Single-Host Lab](Project_028431/README.md) |
+| 028432 | [SQLite: Alerting — Automation for Single-Host Lab](Project_028432/README.md) |
+| 028433 | [SQLite: Alerting — Recovery for Single-Host Lab](Project_028433/README.md) |
+| 028434 | [SQLite: Alerting — Reporting for Single-Host Lab](Project_028434/README.md) |
+| 028435 | [SQLite: Alerting — Usability Improvement for Single-Host Lab](Project_028435/README.md) |
+| 028436 | [SQLite: Alerting — Baseline Setup for Two-Node Lab](Project_028436/README.md) |
+| 028437 | [SQLite: Alerting — Automation for Two-Node Lab](Project_028437/README.md) |
+| 028438 | [SQLite: Alerting — Recovery for Two-Node Lab](Project_028438/README.md) |
+| 028439 | [SQLite: Alerting — Reporting for Two-Node Lab](Project_028439/README.md) |
+| 028440 | [SQLite: Alerting — Usability Improvement for Two-Node Lab](Project_028440/README.md) |
 
 [Back to the portfolio home](../README.md)
