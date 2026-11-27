@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024938 | [Node.js: Visual Reporting — Recovery for Two-Node Lab](Project_024938/README.md) |
 | 024939 | [Node.js: Visual Reporting — Reporting for Two-Node Lab](Project_024939/README.md) |
 | 024940 | [Node.js: Visual Reporting — Usability Improvement for Two-Node Lab](Project_024940/README.md) |
+| 024941 | [Node.js: Visual Reporting — Baseline Setup for Help Desk](Project_024941/README.md) |
+| 024942 | [Node.js: Visual Reporting — Automation for Help Desk](Project_024942/README.md) |
+| 024943 | [Node.js: Visual Reporting — Recovery for Help Desk](Project_024943/README.md) |
+| 024944 | [Node.js: Visual Reporting — Reporting for Help Desk](Project_024944/README.md) |
+| 024945 | [Node.js: Visual Reporting — Usability Improvement for Help Desk](Project_024945/README.md) |
+| 024946 | [Node.js: Visual Reporting — Baseline Setup for Portfolio Demo](Project_024946/README.md) |
+| 024947 | [Node.js: Visual Reporting — Automation for Portfolio Demo](Project_024947/README.md) |
+| 024948 | [Node.js: Visual Reporting — Recovery for Portfolio Demo](Project_024948/README.md) |
+| 024949 | [Node.js: Visual Reporting — Reporting for Portfolio Demo](Project_024949/README.md) |
+| 024950 | [Node.js: Visual Reporting — Usability Improvement for Portfolio Demo](Project_024950/README.md) |
+| 024951 | [Node.js: Recovery Test — Baseline Setup for School Lab](Project_024951/README.md) |
+| 024952 | [Node.js: Recovery Test — Automation for School Lab](Project_024952/README.md) |
+| 024953 | [Node.js: Recovery Test — Recovery for School Lab](Project_024953/README.md) |
+| 024954 | [Node.js: Recovery Test — Reporting for School Lab](Project_024954/README.md) |
+| 024955 | [Node.js: Recovery Test — Usability Improvement for School Lab](Project_024955/README.md) |
+| 024956 | [Node.js: Recovery Test — Baseline Setup for Small Business](Project_024956/README.md) |
+| 024957 | [Node.js: Recovery Test — Automation for Small Business](Project_024957/README.md) |
+| 024958 | [Node.js: Recovery Test — Recovery for Small Business](Project_024958/README.md) |
+| 024959 | [Node.js: Recovery Test — Reporting for Small Business](Project_024959/README.md) |
+| 024960 | [Node.js: Recovery Test — Usability Improvement for Small Business](Project_024960/README.md) |
 
 [Back to the portfolio home](../README.md)
