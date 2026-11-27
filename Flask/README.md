@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048078 | [Flask: Monitoring — Recovery for Offline Classroom](Project_048078/README.md) |
 | 048079 | [Flask: Monitoring — Reporting for Offline Classroom](Project_048079/README.md) |
 | 048080 | [Flask: Monitoring — Usability Improvement for Offline Classroom](Project_048080/README.md) |
+| 048081 | [Flask: Monitoring — Baseline Setup for Single-Host Lab](Project_048081/README.md) |
+| 048082 | [Flask: Monitoring — Automation for Single-Host Lab](Project_048082/README.md) |
+| 048083 | [Flask: Monitoring — Recovery for Single-Host Lab](Project_048083/README.md) |
+| 048084 | [Flask: Monitoring — Reporting for Single-Host Lab](Project_048084/README.md) |
+| 048085 | [Flask: Monitoring — Usability Improvement for Single-Host Lab](Project_048085/README.md) |
+| 048086 | [Flask: Monitoring — Baseline Setup for Two-Node Lab](Project_048086/README.md) |
+| 048087 | [Flask: Monitoring — Automation for Two-Node Lab](Project_048087/README.md) |
+| 048088 | [Flask: Monitoring — Recovery for Two-Node Lab](Project_048088/README.md) |
+| 048089 | [Flask: Monitoring — Reporting for Two-Node Lab](Project_048089/README.md) |
+| 048090 | [Flask: Monitoring — Usability Improvement for Two-Node Lab](Project_048090/README.md) |
+| 048091 | [Flask: Monitoring — Baseline Setup for Help Desk](Project_048091/README.md) |
+| 048092 | [Flask: Monitoring — Automation for Help Desk](Project_048092/README.md) |
+| 048093 | [Flask: Monitoring — Recovery for Help Desk](Project_048093/README.md) |
+| 048094 | [Flask: Monitoring — Reporting for Help Desk](Project_048094/README.md) |
+| 048095 | [Flask: Monitoring — Usability Improvement for Help Desk](Project_048095/README.md) |
+| 048096 | [Flask: Monitoring — Baseline Setup for Portfolio Demo](Project_048096/README.md) |
+| 048097 | [Flask: Monitoring — Automation for Portfolio Demo](Project_048097/README.md) |
+| 048098 | [Flask: Monitoring — Recovery for Portfolio Demo](Project_048098/README.md) |
+| 048099 | [Flask: Monitoring — Reporting for Portfolio Demo](Project_048099/README.md) |
+| 048100 | [Flask: Monitoring — Usability Improvement for Portfolio Demo](Project_048100/README.md) |
 
 [Back to the portfolio home](../README.md)
