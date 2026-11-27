@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020678 | [JavaScript: Configuration Comparison — Recovery for Offline Classroom](Project_020678/README.md) |
 | 020679 | [JavaScript: Configuration Comparison — Reporting for Offline Classroom](Project_020679/README.md) |
 | 020680 | [JavaScript: Configuration Comparison — Usability Improvement for Offline Classroom](Project_020680/README.md) |
+| 020681 | [JavaScript: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_020681/README.md) |
+| 020682 | [JavaScript: Configuration Comparison — Automation for Single-Host Lab](Project_020682/README.md) |
+| 020683 | [JavaScript: Configuration Comparison — Recovery for Single-Host Lab](Project_020683/README.md) |
+| 020684 | [JavaScript: Configuration Comparison — Reporting for Single-Host Lab](Project_020684/README.md) |
+| 020685 | [JavaScript: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_020685/README.md) |
+| 020686 | [JavaScript: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_020686/README.md) |
+| 020687 | [JavaScript: Configuration Comparison — Automation for Two-Node Lab](Project_020687/README.md) |
+| 020688 | [JavaScript: Configuration Comparison — Recovery for Two-Node Lab](Project_020688/README.md) |
+| 020689 | [JavaScript: Configuration Comparison — Reporting for Two-Node Lab](Project_020689/README.md) |
+| 020690 | [JavaScript: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_020690/README.md) |
+| 020691 | [JavaScript: Configuration Comparison — Baseline Setup for Help Desk](Project_020691/README.md) |
+| 020692 | [JavaScript: Configuration Comparison — Automation for Help Desk](Project_020692/README.md) |
+| 020693 | [JavaScript: Configuration Comparison — Recovery for Help Desk](Project_020693/README.md) |
+| 020694 | [JavaScript: Configuration Comparison — Reporting for Help Desk](Project_020694/README.md) |
+| 020695 | [JavaScript: Configuration Comparison — Usability Improvement for Help Desk](Project_020695/README.md) |
+| 020696 | [JavaScript: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_020696/README.md) |
+| 020697 | [JavaScript: Configuration Comparison — Automation for Portfolio Demo](Project_020697/README.md) |
+| 020698 | [JavaScript: Configuration Comparison — Recovery for Portfolio Demo](Project_020698/README.md) |
+| 020699 | [JavaScript: Configuration Comparison — Reporting for Portfolio Demo](Project_020699/README.md) |
+| 020700 | [JavaScript: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_020700/README.md) |
 
 [Back to the portfolio home](../README.md)
