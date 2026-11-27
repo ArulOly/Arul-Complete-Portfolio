@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048138 | [Flask: Audit — Recovery for Two-Node Lab](Project_048138/README.md) |
 | 048139 | [Flask: Audit — Reporting for Two-Node Lab](Project_048139/README.md) |
 | 048140 | [Flask: Audit — Usability Improvement for Two-Node Lab](Project_048140/README.md) |
+| 048141 | [Flask: Audit — Baseline Setup for Help Desk](Project_048141/README.md) |
+| 048142 | [Flask: Audit — Automation for Help Desk](Project_048142/README.md) |
+| 048143 | [Flask: Audit — Recovery for Help Desk](Project_048143/README.md) |
+| 048144 | [Flask: Audit — Reporting for Help Desk](Project_048144/README.md) |
+| 048145 | [Flask: Audit — Usability Improvement for Help Desk](Project_048145/README.md) |
+| 048146 | [Flask: Audit — Baseline Setup for Portfolio Demo](Project_048146/README.md) |
+| 048147 | [Flask: Audit — Automation for Portfolio Demo](Project_048147/README.md) |
+| 048148 | [Flask: Audit — Recovery for Portfolio Demo](Project_048148/README.md) |
+| 048149 | [Flask: Audit — Reporting for Portfolio Demo](Project_048149/README.md) |
+| 048150 | [Flask: Audit — Usability Improvement for Portfolio Demo](Project_048150/README.md) |
+| 048151 | [Flask: Log Analysis — Baseline Setup for School Lab](Project_048151/README.md) |
+| 048152 | [Flask: Log Analysis — Automation for School Lab](Project_048152/README.md) |
+| 048153 | [Flask: Log Analysis — Recovery for School Lab](Project_048153/README.md) |
+| 048154 | [Flask: Log Analysis — Reporting for School Lab](Project_048154/README.md) |
+| 048155 | [Flask: Log Analysis — Usability Improvement for School Lab](Project_048155/README.md) |
+| 048156 | [Flask: Log Analysis — Baseline Setup for Small Business](Project_048156/README.md) |
+| 048157 | [Flask: Log Analysis — Automation for Small Business](Project_048157/README.md) |
+| 048158 | [Flask: Log Analysis — Recovery for Small Business](Project_048158/README.md) |
+| 048159 | [Flask: Log Analysis — Reporting for Small Business](Project_048159/README.md) |
+| 048160 | [Flask: Log Analysis — Usability Improvement for Small Business](Project_048160/README.md) |
 
 [Back to the portfolio home](../README.md)
