@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033878 | [Jupyter: Automation — Recovery for Offline Classroom](Project_033878/README.md) |
 | 033879 | [Jupyter: Automation — Reporting for Offline Classroom](Project_033879/README.md) |
 | 033880 | [Jupyter: Automation — Usability Improvement for Offline Classroom](Project_033880/README.md) |
+| 033881 | [Jupyter: Automation — Baseline Setup for Single-Host Lab](Project_033881/README.md) |
+| 033882 | [Jupyter: Automation — Automation for Single-Host Lab](Project_033882/README.md) |
+| 033883 | [Jupyter: Automation — Recovery for Single-Host Lab](Project_033883/README.md) |
+| 033884 | [Jupyter: Automation — Reporting for Single-Host Lab](Project_033884/README.md) |
+| 033885 | [Jupyter: Automation — Usability Improvement for Single-Host Lab](Project_033885/README.md) |
+| 033886 | [Jupyter: Automation — Baseline Setup for Two-Node Lab](Project_033886/README.md) |
+| 033887 | [Jupyter: Automation — Automation for Two-Node Lab](Project_033887/README.md) |
+| 033888 | [Jupyter: Automation — Recovery for Two-Node Lab](Project_033888/README.md) |
+| 033889 | [Jupyter: Automation — Reporting for Two-Node Lab](Project_033889/README.md) |
+| 033890 | [Jupyter: Automation — Usability Improvement for Two-Node Lab](Project_033890/README.md) |
+| 033891 | [Jupyter: Automation — Baseline Setup for Help Desk](Project_033891/README.md) |
+| 033892 | [Jupyter: Automation — Automation for Help Desk](Project_033892/README.md) |
+| 033893 | [Jupyter: Automation — Recovery for Help Desk](Project_033893/README.md) |
+| 033894 | [Jupyter: Automation — Reporting for Help Desk](Project_033894/README.md) |
+| 033895 | [Jupyter: Automation — Usability Improvement for Help Desk](Project_033895/README.md) |
+| 033896 | [Jupyter: Automation — Baseline Setup for Portfolio Demo](Project_033896/README.md) |
+| 033897 | [Jupyter: Automation — Automation for Portfolio Demo](Project_033897/README.md) |
+| 033898 | [Jupyter: Automation — Recovery for Portfolio Demo](Project_033898/README.md) |
+| 033899 | [Jupyter: Automation — Reporting for Portfolio Demo](Project_033899/README.md) |
+| 033900 | [Jupyter: Automation — Usability Improvement for Portfolio Demo](Project_033900/README.md) |
 
 [Back to the portfolio home](../README.md)
