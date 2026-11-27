@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002118 | [Ubuntu: Audit — Recovery for Public Dataset](Project_002118/README.md) |
 | 002119 | [Ubuntu: Audit — Reporting for Public Dataset](Project_002119/README.md) |
 | 002120 | [Ubuntu: Audit — Usability Improvement for Public Dataset](Project_002120/README.md) |
+| 002121 | [Ubuntu: Audit — Baseline Setup for Branch Office Simulator](Project_002121/README.md) |
+| 002122 | [Ubuntu: Audit — Automation for Branch Office Simulator](Project_002122/README.md) |
+| 002123 | [Ubuntu: Audit — Recovery for Branch Office Simulator](Project_002123/README.md) |
+| 002124 | [Ubuntu: Audit — Reporting for Branch Office Simulator](Project_002124/README.md) |
+| 002125 | [Ubuntu: Audit — Usability Improvement for Branch Office Simulator](Project_002125/README.md) |
+| 002126 | [Ubuntu: Audit — Baseline Setup for Offline Classroom](Project_002126/README.md) |
+| 002127 | [Ubuntu: Audit — Automation for Offline Classroom](Project_002127/README.md) |
+| 002128 | [Ubuntu: Audit — Recovery for Offline Classroom](Project_002128/README.md) |
+| 002129 | [Ubuntu: Audit — Reporting for Offline Classroom](Project_002129/README.md) |
+| 002130 | [Ubuntu: Audit — Usability Improvement for Offline Classroom](Project_002130/README.md) |
+| 002131 | [Ubuntu: Audit — Baseline Setup for Single-Host Lab](Project_002131/README.md) |
+| 002132 | [Ubuntu: Audit — Automation for Single-Host Lab](Project_002132/README.md) |
+| 002133 | [Ubuntu: Audit — Recovery for Single-Host Lab](Project_002133/README.md) |
+| 002134 | [Ubuntu: Audit — Reporting for Single-Host Lab](Project_002134/README.md) |
+| 002135 | [Ubuntu: Audit — Usability Improvement for Single-Host Lab](Project_002135/README.md) |
+| 002136 | [Ubuntu: Audit — Baseline Setup for Two-Node Lab](Project_002136/README.md) |
+| 002137 | [Ubuntu: Audit — Automation for Two-Node Lab](Project_002137/README.md) |
+| 002138 | [Ubuntu: Audit — Recovery for Two-Node Lab](Project_002138/README.md) |
+| 002139 | [Ubuntu: Audit — Reporting for Two-Node Lab](Project_002139/README.md) |
+| 002140 | [Ubuntu: Audit — Usability Improvement for Two-Node Lab](Project_002140/README.md) |
 
 [Back to the portfolio home](../README.md)
