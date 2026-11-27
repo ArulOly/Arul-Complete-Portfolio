@@ -16,6 +16,11 @@ This repository contains a collection of practical information technology projec
 | [Node.js](./Node.js/) | Node.js command-line projects using built-in modules |
 | [Flask](./Flask/) | Local HTTP APIs for structured data workflows |
 | [FastAPI](./FastAPI/) | Local JSON APIs for structured data workflows |
+| [PostgreSQL](./PostgreSQL/) | JSONB, temporary tables, and SQL reporting |
+| [MySQL](./MySQL/) | JSON queries, temporary tables, and batch summaries |
+| [MongoDB](./MongoDB/) | BSON documents, indexed lookups, and aggregation |
+| [SQLite](./SQLite/) | In-memory SQL, temporary tables, and JSON queries |
+| [Redis](./Redis/) | Hashes, transactions, and expiring data |
 
 ## Repository Structure
 
@@ -31,6 +36,11 @@ Each project is documented in an individual README.md file containing its object
 - HTML and CSS
 - Flask
 - FastAPI
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+- Redis
 - Git
 - GitHub
 - Markdown
