@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028818 | [SQLite: Documentation Generation — Recovery for Public Dataset](Project_028818/README.md) |
 | 028819 | [SQLite: Documentation Generation — Reporting for Public Dataset](Project_028819/README.md) |
 | 028820 | [SQLite: Documentation Generation — Usability Improvement for Public Dataset](Project_028820/README.md) |
+| 028821 | [SQLite: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_028821/README.md) |
+| 028822 | [SQLite: Documentation Generation — Automation for Branch Office Simulator](Project_028822/README.md) |
+| 028823 | [SQLite: Documentation Generation — Recovery for Branch Office Simulator](Project_028823/README.md) |
+| 028824 | [SQLite: Documentation Generation — Reporting for Branch Office Simulator](Project_028824/README.md) |
+| 028825 | [SQLite: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_028825/README.md) |
+| 028826 | [SQLite: Documentation Generation — Baseline Setup for Offline Classroom](Project_028826/README.md) |
+| 028827 | [SQLite: Documentation Generation — Automation for Offline Classroom](Project_028827/README.md) |
+| 028828 | [SQLite: Documentation Generation — Recovery for Offline Classroom](Project_028828/README.md) |
+| 028829 | [SQLite: Documentation Generation — Reporting for Offline Classroom](Project_028829/README.md) |
+| 028830 | [SQLite: Documentation Generation — Usability Improvement for Offline Classroom](Project_028830/README.md) |
+| 028831 | [SQLite: Documentation Generation — Baseline Setup for Single-Host Lab](Project_028831/README.md) |
+| 028832 | [SQLite: Documentation Generation — Automation for Single-Host Lab](Project_028832/README.md) |
+| 028833 | [SQLite: Documentation Generation — Recovery for Single-Host Lab](Project_028833/README.md) |
+| 028834 | [SQLite: Documentation Generation — Reporting for Single-Host Lab](Project_028834/README.md) |
+| 028835 | [SQLite: Documentation Generation — Usability Improvement for Single-Host Lab](Project_028835/README.md) |
+| 028836 | [SQLite: Documentation Generation — Baseline Setup for Two-Node Lab](Project_028836/README.md) |
+| 028837 | [SQLite: Documentation Generation — Automation for Two-Node Lab](Project_028837/README.md) |
+| 028838 | [SQLite: Documentation Generation — Recovery for Two-Node Lab](Project_028838/README.md) |
+| 028839 | [SQLite: Documentation Generation — Reporting for Two-Node Lab](Project_028839/README.md) |
+| 028840 | [SQLite: Documentation Generation — Usability Improvement for Two-Node Lab](Project_028840/README.md) |
 
 [Back to the portfolio home](../README.md)
