@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -924,5 +924,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019878 | [Python: Automation — Recovery for Offline Classroom](Project_019878/README.md) |
 | 019879 | [Python: Automation — Reporting for Offline Classroom](Project_019879/README.md) |
 | 019880 | [Python: Automation — Usability Improvement for Offline Classroom](Project_019880/README.md) |
+| 019881 | [Python: Automation — Baseline Setup for Single-Host Lab](Project_019881/README.md) |
+| 019882 | [Python: Automation — Automation for Single-Host Lab](Project_019882/README.md) |
+| 019883 | [Python: Automation — Recovery for Single-Host Lab](Project_019883/README.md) |
+| 019884 | [Python: Automation — Reporting for Single-Host Lab](Project_019884/README.md) |
+| 019885 | [Python: Automation — Usability Improvement for Single-Host Lab](Project_019885/README.md) |
+| 019886 | [Python: Automation — Baseline Setup for Two-Node Lab](Project_019886/README.md) |
+| 019887 | [Python: Automation — Automation for Two-Node Lab](Project_019887/README.md) |
+| 019888 | [Python: Automation — Recovery for Two-Node Lab](Project_019888/README.md) |
+| 019889 | [Python: Automation — Reporting for Two-Node Lab](Project_019889/README.md) |
+| 019890 | [Python: Automation — Usability Improvement for Two-Node Lab](Project_019890/README.md) |
+| 019891 | [Python: Automation — Baseline Setup for Help Desk](Project_019891/README.md) |
+| 019892 | [Python: Automation — Automation for Help Desk](Project_019892/README.md) |
+| 019893 | [Python: Automation — Recovery for Help Desk](Project_019893/README.md) |
+| 019894 | [Python: Automation — Reporting for Help Desk](Project_019894/README.md) |
+| 019895 | [Python: Automation — Usability Improvement for Help Desk](Project_019895/README.md) |
+| 019896 | [Python: Automation — Baseline Setup for Portfolio Demo](Project_019896/README.md) |
+| 019897 | [Python: Automation — Automation for Portfolio Demo](Project_019897/README.md) |
+| 019898 | [Python: Automation — Recovery for Portfolio Demo](Project_019898/README.md) |
+| 019899 | [Python: Automation — Reporting for Portfolio Demo](Project_019899/README.md) |
+| 019900 | [Python: Automation — Usability Improvement for Portfolio Demo](Project_019900/README.md) |
 
 [Back to the portfolio home](../README.md)
