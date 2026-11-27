@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048058 | [Flask: Monitoring — Recovery for Small Business](Project_048058/README.md) |
 | 048059 | [Flask: Monitoring — Reporting for Small Business](Project_048059/README.md) |
 | 048060 | [Flask: Monitoring — Usability Improvement for Small Business](Project_048060/README.md) |
+| 048061 | [Flask: Monitoring — Baseline Setup for Home Development](Project_048061/README.md) |
+| 048062 | [Flask: Monitoring — Automation for Home Development](Project_048062/README.md) |
+| 048063 | [Flask: Monitoring — Recovery for Home Development](Project_048063/README.md) |
+| 048064 | [Flask: Monitoring — Reporting for Home Development](Project_048064/README.md) |
+| 048065 | [Flask: Monitoring — Usability Improvement for Home Development](Project_048065/README.md) |
+| 048066 | [Flask: Monitoring — Baseline Setup for Public Dataset](Project_048066/README.md) |
+| 048067 | [Flask: Monitoring — Automation for Public Dataset](Project_048067/README.md) |
+| 048068 | [Flask: Monitoring — Recovery for Public Dataset](Project_048068/README.md) |
+| 048069 | [Flask: Monitoring — Reporting for Public Dataset](Project_048069/README.md) |
+| 048070 | [Flask: Monitoring — Usability Improvement for Public Dataset](Project_048070/README.md) |
+| 048071 | [Flask: Monitoring — Baseline Setup for Branch Office Simulator](Project_048071/README.md) |
+| 048072 | [Flask: Monitoring — Automation for Branch Office Simulator](Project_048072/README.md) |
+| 048073 | [Flask: Monitoring — Recovery for Branch Office Simulator](Project_048073/README.md) |
+| 048074 | [Flask: Monitoring — Reporting for Branch Office Simulator](Project_048074/README.md) |
+| 048075 | [Flask: Monitoring — Usability Improvement for Branch Office Simulator](Project_048075/README.md) |
+| 048076 | [Flask: Monitoring — Baseline Setup for Offline Classroom](Project_048076/README.md) |
+| 048077 | [Flask: Monitoring — Automation for Offline Classroom](Project_048077/README.md) |
+| 048078 | [Flask: Monitoring — Recovery for Offline Classroom](Project_048078/README.md) |
+| 048079 | [Flask: Monitoring — Reporting for Offline Classroom](Project_048079/README.md) |
+| 048080 | [Flask: Monitoring — Usability Improvement for Offline Classroom](Project_048080/README.md) |
 
 [Back to the portfolio home](../README.md)
