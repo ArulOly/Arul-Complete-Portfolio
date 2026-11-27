@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025698 | [PostgreSQL: Configuration Comparison — Recovery for Portfolio Demo](Project_025698/README.md) |
 | 025699 | [PostgreSQL: Configuration Comparison — Reporting for Portfolio Demo](Project_025699/README.md) |
 | 025700 | [PostgreSQL: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_025700/README.md) |
+| 025701 | [PostgreSQL: Error Handling — Baseline Setup for School Lab](Project_025701/README.md) |
+| 025702 | [PostgreSQL: Error Handling — Automation for School Lab](Project_025702/README.md) |
+| 025703 | [PostgreSQL: Error Handling — Recovery for School Lab](Project_025703/README.md) |
+| 025704 | [PostgreSQL: Error Handling — Reporting for School Lab](Project_025704/README.md) |
+| 025705 | [PostgreSQL: Error Handling — Usability Improvement for School Lab](Project_025705/README.md) |
+| 025706 | [PostgreSQL: Error Handling — Baseline Setup for Small Business](Project_025706/README.md) |
+| 025707 | [PostgreSQL: Error Handling — Automation for Small Business](Project_025707/README.md) |
+| 025708 | [PostgreSQL: Error Handling — Recovery for Small Business](Project_025708/README.md) |
+| 025709 | [PostgreSQL: Error Handling — Reporting for Small Business](Project_025709/README.md) |
+| 025710 | [PostgreSQL: Error Handling — Usability Improvement for Small Business](Project_025710/README.md) |
+| 025711 | [PostgreSQL: Error Handling — Baseline Setup for Home Development](Project_025711/README.md) |
+| 025712 | [PostgreSQL: Error Handling — Automation for Home Development](Project_025712/README.md) |
+| 025713 | [PostgreSQL: Error Handling — Recovery for Home Development](Project_025713/README.md) |
+| 025714 | [PostgreSQL: Error Handling — Reporting for Home Development](Project_025714/README.md) |
+| 025715 | [PostgreSQL: Error Handling — Usability Improvement for Home Development](Project_025715/README.md) |
+| 025716 | [PostgreSQL: Error Handling — Baseline Setup for Public Dataset](Project_025716/README.md) |
+| 025717 | [PostgreSQL: Error Handling — Automation for Public Dataset](Project_025717/README.md) |
+| 025718 | [PostgreSQL: Error Handling — Recovery for Public Dataset](Project_025718/README.md) |
+| 025719 | [PostgreSQL: Error Handling — Reporting for Public Dataset](Project_025719/README.md) |
+| 025720 | [PostgreSQL: Error Handling — Usability Improvement for Public Dataset](Project_025720/README.md) |
 
 [Back to the portfolio home](../README.md)
