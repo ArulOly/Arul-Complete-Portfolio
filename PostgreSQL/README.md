@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025918 | [PostgreSQL: Visual Reporting — Recovery for Public Dataset](Project_025918/README.md) |
 | 025919 | [PostgreSQL: Visual Reporting — Reporting for Public Dataset](Project_025919/README.md) |
 | 025920 | [PostgreSQL: Visual Reporting — Usability Improvement for Public Dataset](Project_025920/README.md) |
+| 025921 | [PostgreSQL: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_025921/README.md) |
+| 025922 | [PostgreSQL: Visual Reporting — Automation for Branch Office Simulator](Project_025922/README.md) |
+| 025923 | [PostgreSQL: Visual Reporting — Recovery for Branch Office Simulator](Project_025923/README.md) |
+| 025924 | [PostgreSQL: Visual Reporting — Reporting for Branch Office Simulator](Project_025924/README.md) |
+| 025925 | [PostgreSQL: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_025925/README.md) |
+| 025926 | [PostgreSQL: Visual Reporting — Baseline Setup for Offline Classroom](Project_025926/README.md) |
+| 025927 | [PostgreSQL: Visual Reporting — Automation for Offline Classroom](Project_025927/README.md) |
+| 025928 | [PostgreSQL: Visual Reporting — Recovery for Offline Classroom](Project_025928/README.md) |
+| 025929 | [PostgreSQL: Visual Reporting — Reporting for Offline Classroom](Project_025929/README.md) |
+| 025930 | [PostgreSQL: Visual Reporting — Usability Improvement for Offline Classroom](Project_025930/README.md) |
+| 025931 | [PostgreSQL: Visual Reporting — Baseline Setup for Single-Host Lab](Project_025931/README.md) |
+| 025932 | [PostgreSQL: Visual Reporting — Automation for Single-Host Lab](Project_025932/README.md) |
+| 025933 | [PostgreSQL: Visual Reporting — Recovery for Single-Host Lab](Project_025933/README.md) |
+| 025934 | [PostgreSQL: Visual Reporting — Reporting for Single-Host Lab](Project_025934/README.md) |
+| 025935 | [PostgreSQL: Visual Reporting — Usability Improvement for Single-Host Lab](Project_025935/README.md) |
+| 025936 | [PostgreSQL: Visual Reporting — Baseline Setup for Two-Node Lab](Project_025936/README.md) |
+| 025937 | [PostgreSQL: Visual Reporting — Automation for Two-Node Lab](Project_025937/README.md) |
+| 025938 | [PostgreSQL: Visual Reporting — Recovery for Two-Node Lab](Project_025938/README.md) |
+| 025939 | [PostgreSQL: Visual Reporting — Reporting for Two-Node Lab](Project_025939/README.md) |
+| 025940 | [PostgreSQL: Visual Reporting — Usability Improvement for Two-Node Lab](Project_025940/README.md) |
 
 [Back to the portfolio home](../README.md)
