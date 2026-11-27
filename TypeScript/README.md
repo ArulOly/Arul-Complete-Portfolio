@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021118 | [TypeScript: Audit — Recovery for Public Dataset](Project_021118/README.md) |
 | 021119 | [TypeScript: Audit — Reporting for Public Dataset](Project_021119/README.md) |
 | 021120 | [TypeScript: Audit — Usability Improvement for Public Dataset](Project_021120/README.md) |
+| 021121 | [TypeScript: Audit — Baseline Setup for Branch Office Simulator](Project_021121/README.md) |
+| 021122 | [TypeScript: Audit — Automation for Branch Office Simulator](Project_021122/README.md) |
+| 021123 | [TypeScript: Audit — Recovery for Branch Office Simulator](Project_021123/README.md) |
+| 021124 | [TypeScript: Audit — Reporting for Branch Office Simulator](Project_021124/README.md) |
+| 021125 | [TypeScript: Audit — Usability Improvement for Branch Office Simulator](Project_021125/README.md) |
+| 021126 | [TypeScript: Audit — Baseline Setup for Offline Classroom](Project_021126/README.md) |
+| 021127 | [TypeScript: Audit — Automation for Offline Classroom](Project_021127/README.md) |
+| 021128 | [TypeScript: Audit — Recovery for Offline Classroom](Project_021128/README.md) |
+| 021129 | [TypeScript: Audit — Reporting for Offline Classroom](Project_021129/README.md) |
+| 021130 | [TypeScript: Audit — Usability Improvement for Offline Classroom](Project_021130/README.md) |
+| 021131 | [TypeScript: Audit — Baseline Setup for Single-Host Lab](Project_021131/README.md) |
+| 021132 | [TypeScript: Audit — Automation for Single-Host Lab](Project_021132/README.md) |
+| 021133 | [TypeScript: Audit — Recovery for Single-Host Lab](Project_021133/README.md) |
+| 021134 | [TypeScript: Audit — Reporting for Single-Host Lab](Project_021134/README.md) |
+| 021135 | [TypeScript: Audit — Usability Improvement for Single-Host Lab](Project_021135/README.md) |
+| 021136 | [TypeScript: Audit — Baseline Setup for Two-Node Lab](Project_021136/README.md) |
+| 021137 | [TypeScript: Audit — Automation for Two-Node Lab](Project_021137/README.md) |
+| 021138 | [TypeScript: Audit — Recovery for Two-Node Lab](Project_021138/README.md) |
+| 021139 | [TypeScript: Audit — Reporting for Two-Node Lab](Project_021139/README.md) |
+| 021140 | [TypeScript: Audit — Usability Improvement for Two-Node Lab](Project_021140/README.md) |
 
 [Back to the portfolio home](../README.md)
