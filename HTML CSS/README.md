@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023278 | [HTML CSS: Data Import — Recovery for Offline Classroom](Project_023278/README.md) |
 | 023279 | [HTML CSS: Data Import — Reporting for Offline Classroom](Project_023279/README.md) |
 | 023280 | [HTML CSS: Data Import — Usability Improvement for Offline Classroom](Project_023280/README.md) |
+| 023281 | [HTML CSS: Data Import — Baseline Setup for Single-Host Lab](Project_023281/README.md) |
+| 023282 | [HTML CSS: Data Import — Automation for Single-Host Lab](Project_023282/README.md) |
+| 023283 | [HTML CSS: Data Import — Recovery for Single-Host Lab](Project_023283/README.md) |
+| 023284 | [HTML CSS: Data Import — Reporting for Single-Host Lab](Project_023284/README.md) |
+| 023285 | [HTML CSS: Data Import — Usability Improvement for Single-Host Lab](Project_023285/README.md) |
+| 023286 | [HTML CSS: Data Import — Baseline Setup for Two-Node Lab](Project_023286/README.md) |
+| 023287 | [HTML CSS: Data Import — Automation for Two-Node Lab](Project_023287/README.md) |
+| 023288 | [HTML CSS: Data Import — Recovery for Two-Node Lab](Project_023288/README.md) |
+| 023289 | [HTML CSS: Data Import — Reporting for Two-Node Lab](Project_023289/README.md) |
+| 023290 | [HTML CSS: Data Import — Usability Improvement for Two-Node Lab](Project_023290/README.md) |
+| 023291 | [HTML CSS: Data Import — Baseline Setup for Help Desk](Project_023291/README.md) |
+| 023292 | [HTML CSS: Data Import — Automation for Help Desk](Project_023292/README.md) |
+| 023293 | [HTML CSS: Data Import — Recovery for Help Desk](Project_023293/README.md) |
+| 023294 | [HTML CSS: Data Import — Reporting for Help Desk](Project_023294/README.md) |
+| 023295 | [HTML CSS: Data Import — Usability Improvement for Help Desk](Project_023295/README.md) |
+| 023296 | [HTML CSS: Data Import — Baseline Setup for Portfolio Demo](Project_023296/README.md) |
+| 023297 | [HTML CSS: Data Import — Automation for Portfolio Demo](Project_023297/README.md) |
+| 023298 | [HTML CSS: Data Import — Recovery for Portfolio Demo](Project_023298/README.md) |
+| 023299 | [HTML CSS: Data Import — Reporting for Portfolio Demo](Project_023299/README.md) |
+| 023300 | [HTML CSS: Data Import — Usability Improvement for Portfolio Demo](Project_023300/README.md) |
 
 [Back to the portfolio home](../README.md)
