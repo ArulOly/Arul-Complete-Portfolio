@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032158 | [Power BI: Log Analysis — Recovery for Small Business](Project_032158/README.md) |
 | 032159 | [Power BI: Log Analysis — Reporting for Small Business](Project_032159/README.md) |
 | 032160 | [Power BI: Log Analysis — Usability Improvement for Small Business](Project_032160/README.md) |
+| 032161 | [Power BI: Log Analysis — Baseline Setup for Home Development](Project_032161/README.md) |
+| 032162 | [Power BI: Log Analysis — Automation for Home Development](Project_032162/README.md) |
+| 032163 | [Power BI: Log Analysis — Recovery for Home Development](Project_032163/README.md) |
+| 032164 | [Power BI: Log Analysis — Reporting for Home Development](Project_032164/README.md) |
+| 032165 | [Power BI: Log Analysis — Usability Improvement for Home Development](Project_032165/README.md) |
+| 032166 | [Power BI: Log Analysis — Baseline Setup for Public Dataset](Project_032166/README.md) |
+| 032167 | [Power BI: Log Analysis — Automation for Public Dataset](Project_032167/README.md) |
+| 032168 | [Power BI: Log Analysis — Recovery for Public Dataset](Project_032168/README.md) |
+| 032169 | [Power BI: Log Analysis — Reporting for Public Dataset](Project_032169/README.md) |
+| 032170 | [Power BI: Log Analysis — Usability Improvement for Public Dataset](Project_032170/README.md) |
+| 032171 | [Power BI: Log Analysis — Baseline Setup for Branch Office Simulator](Project_032171/README.md) |
+| 032172 | [Power BI: Log Analysis — Automation for Branch Office Simulator](Project_032172/README.md) |
+| 032173 | [Power BI: Log Analysis — Recovery for Branch Office Simulator](Project_032173/README.md) |
+| 032174 | [Power BI: Log Analysis — Reporting for Branch Office Simulator](Project_032174/README.md) |
+| 032175 | [Power BI: Log Analysis — Usability Improvement for Branch Office Simulator](Project_032175/README.md) |
+| 032176 | [Power BI: Log Analysis — Baseline Setup for Offline Classroom](Project_032176/README.md) |
+| 032177 | [Power BI: Log Analysis — Automation for Offline Classroom](Project_032177/README.md) |
+| 032178 | [Power BI: Log Analysis — Recovery for Offline Classroom](Project_032178/README.md) |
+| 032179 | [Power BI: Log Analysis — Reporting for Offline Classroom](Project_032179/README.md) |
+| 032180 | [Power BI: Log Analysis — Usability Improvement for Offline Classroom](Project_032180/README.md) |
 
 [Back to the portfolio home](../README.md)
