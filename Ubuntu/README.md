@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002178 | [Ubuntu: Log Analysis — Recovery for Offline Classroom](Project_002178/README.md) |
 | 002179 | [Ubuntu: Log Analysis — Reporting for Offline Classroom](Project_002179/README.md) |
 | 002180 | [Ubuntu: Log Analysis — Usability Improvement for Offline Classroom](Project_002180/README.md) |
+| 002181 | [Ubuntu: Log Analysis — Baseline Setup for Single-Host Lab](Project_002181/README.md) |
+| 002182 | [Ubuntu: Log Analysis — Automation for Single-Host Lab](Project_002182/README.md) |
+| 002183 | [Ubuntu: Log Analysis — Recovery for Single-Host Lab](Project_002183/README.md) |
+| 002184 | [Ubuntu: Log Analysis — Reporting for Single-Host Lab](Project_002184/README.md) |
+| 002185 | [Ubuntu: Log Analysis — Usability Improvement for Single-Host Lab](Project_002185/README.md) |
+| 002186 | [Ubuntu: Log Analysis — Baseline Setup for Two-Node Lab](Project_002186/README.md) |
+| 002187 | [Ubuntu: Log Analysis — Automation for Two-Node Lab](Project_002187/README.md) |
+| 002188 | [Ubuntu: Log Analysis — Recovery for Two-Node Lab](Project_002188/README.md) |
+| 002189 | [Ubuntu: Log Analysis — Reporting for Two-Node Lab](Project_002189/README.md) |
+| 002190 | [Ubuntu: Log Analysis — Usability Improvement for Two-Node Lab](Project_002190/README.md) |
+| 002191 | [Ubuntu: Log Analysis — Baseline Setup for Help Desk](Project_002191/README.md) |
+| 002192 | [Ubuntu: Log Analysis — Automation for Help Desk](Project_002192/README.md) |
+| 002193 | [Ubuntu: Log Analysis — Recovery for Help Desk](Project_002193/README.md) |
+| 002194 | [Ubuntu: Log Analysis — Reporting for Help Desk](Project_002194/README.md) |
+| 002195 | [Ubuntu: Log Analysis — Usability Improvement for Help Desk](Project_002195/README.md) |
+| 002196 | [Ubuntu: Log Analysis — Baseline Setup for Portfolio Demo](Project_002196/README.md) |
+| 002197 | [Ubuntu: Log Analysis — Automation for Portfolio Demo](Project_002197/README.md) |
+| 002198 | [Ubuntu: Log Analysis — Recovery for Portfolio Demo](Project_002198/README.md) |
+| 002199 | [Ubuntu: Log Analysis — Reporting for Portfolio Demo](Project_002199/README.md) |
+| 002200 | [Ubuntu: Log Analysis — Usability Improvement for Portfolio Demo](Project_002200/README.md) |
 
 [Back to the portfolio home](../README.md)
