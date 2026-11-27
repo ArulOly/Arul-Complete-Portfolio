@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049378 | [FastAPI: Dashboard — Recovery for Offline Classroom](Project_049378/README.md) |
 | 049379 | [FastAPI: Dashboard — Reporting for Offline Classroom](Project_049379/README.md) |
 | 049380 | [FastAPI: Dashboard — Usability Improvement for Offline Classroom](Project_049380/README.md) |
+| 049381 | [FastAPI: Dashboard — Baseline Setup for Single-Host Lab](Project_049381/README.md) |
+| 049382 | [FastAPI: Dashboard — Automation for Single-Host Lab](Project_049382/README.md) |
+| 049383 | [FastAPI: Dashboard — Recovery for Single-Host Lab](Project_049383/README.md) |
+| 049384 | [FastAPI: Dashboard — Reporting for Single-Host Lab](Project_049384/README.md) |
+| 049385 | [FastAPI: Dashboard — Usability Improvement for Single-Host Lab](Project_049385/README.md) |
+| 049386 | [FastAPI: Dashboard — Baseline Setup for Two-Node Lab](Project_049386/README.md) |
+| 049387 | [FastAPI: Dashboard — Automation for Two-Node Lab](Project_049387/README.md) |
+| 049388 | [FastAPI: Dashboard — Recovery for Two-Node Lab](Project_049388/README.md) |
+| 049389 | [FastAPI: Dashboard — Reporting for Two-Node Lab](Project_049389/README.md) |
+| 049390 | [FastAPI: Dashboard — Usability Improvement for Two-Node Lab](Project_049390/README.md) |
+| 049391 | [FastAPI: Dashboard — Baseline Setup for Help Desk](Project_049391/README.md) |
+| 049392 | [FastAPI: Dashboard — Automation for Help Desk](Project_049392/README.md) |
+| 049393 | [FastAPI: Dashboard — Recovery for Help Desk](Project_049393/README.md) |
+| 049394 | [FastAPI: Dashboard — Reporting for Help Desk](Project_049394/README.md) |
+| 049395 | [FastAPI: Dashboard — Usability Improvement for Help Desk](Project_049395/README.md) |
+| 049396 | [FastAPI: Dashboard — Baseline Setup for Portfolio Demo](Project_049396/README.md) |
+| 049397 | [FastAPI: Dashboard — Automation for Portfolio Demo](Project_049397/README.md) |
+| 049398 | [FastAPI: Dashboard — Recovery for Portfolio Demo](Project_049398/README.md) |
+| 049399 | [FastAPI: Dashboard — Reporting for Portfolio Demo](Project_049399/README.md) |
+| 049400 | [FastAPI: Dashboard — Usability Improvement for Portfolio Demo](Project_049400/README.md) |
 
 [Back to the portfolio home](../README.md)
