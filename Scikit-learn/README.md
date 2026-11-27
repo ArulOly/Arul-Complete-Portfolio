@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034798 | [Scikit-learn: Data Validation — Recovery for Portfolio Demo](Project_034798/README.md) |
 | 034799 | [Scikit-learn: Data Validation — Reporting for Portfolio Demo](Project_034799/README.md) |
 | 034800 | [Scikit-learn: Data Validation — Usability Improvement for Portfolio Demo](Project_034800/README.md) |
+| 034801 | [Scikit-learn: Documentation Generation — Baseline Setup for School Lab](Project_034801/README.md) |
+| 034802 | [Scikit-learn: Documentation Generation — Automation for School Lab](Project_034802/README.md) |
+| 034803 | [Scikit-learn: Documentation Generation — Recovery for School Lab](Project_034803/README.md) |
+| 034804 | [Scikit-learn: Documentation Generation — Reporting for School Lab](Project_034804/README.md) |
+| 034805 | [Scikit-learn: Documentation Generation — Usability Improvement for School Lab](Project_034805/README.md) |
+| 034806 | [Scikit-learn: Documentation Generation — Baseline Setup for Small Business](Project_034806/README.md) |
+| 034807 | [Scikit-learn: Documentation Generation — Automation for Small Business](Project_034807/README.md) |
+| 034808 | [Scikit-learn: Documentation Generation — Recovery for Small Business](Project_034808/README.md) |
+| 034809 | [Scikit-learn: Documentation Generation — Reporting for Small Business](Project_034809/README.md) |
+| 034810 | [Scikit-learn: Documentation Generation — Usability Improvement for Small Business](Project_034810/README.md) |
+| 034811 | [Scikit-learn: Documentation Generation — Baseline Setup for Home Development](Project_034811/README.md) |
+| 034812 | [Scikit-learn: Documentation Generation — Automation for Home Development](Project_034812/README.md) |
+| 034813 | [Scikit-learn: Documentation Generation — Recovery for Home Development](Project_034813/README.md) |
+| 034814 | [Scikit-learn: Documentation Generation — Reporting for Home Development](Project_034814/README.md) |
+| 034815 | [Scikit-learn: Documentation Generation — Usability Improvement for Home Development](Project_034815/README.md) |
+| 034816 | [Scikit-learn: Documentation Generation — Baseline Setup for Public Dataset](Project_034816/README.md) |
+| 034817 | [Scikit-learn: Documentation Generation — Automation for Public Dataset](Project_034817/README.md) |
+| 034818 | [Scikit-learn: Documentation Generation — Recovery for Public Dataset](Project_034818/README.md) |
+| 034819 | [Scikit-learn: Documentation Generation — Reporting for Public Dataset](Project_034819/README.md) |
+| 034820 | [Scikit-learn: Documentation Generation — Usability Improvement for Public Dataset](Project_034820/README.md) |
 
 [Back to the portfolio home](../README.md)
