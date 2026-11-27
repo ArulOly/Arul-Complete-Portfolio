@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -344,5 +344,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019298 | [Python: Data Import — Recovery for Portfolio Demo](Project_019298/README.md) |
 | 019299 | [Python: Data Import — Reporting for Portfolio Demo](Project_019299/README.md) |
 | 019300 | [Python: Data Import — Usability Improvement for Portfolio Demo](Project_019300/README.md) |
+| 019301 | [Python: Data Export — Baseline Setup for School Lab](Project_019301/README.md) |
+| 019302 | [Python: Data Export — Automation for School Lab](Project_019302/README.md) |
+| 019303 | [Python: Data Export — Recovery for School Lab](Project_019303/README.md) |
+| 019304 | [Python: Data Export — Reporting for School Lab](Project_019304/README.md) |
+| 019305 | [Python: Data Export — Usability Improvement for School Lab](Project_019305/README.md) |
+| 019306 | [Python: Data Export — Baseline Setup for Small Business](Project_019306/README.md) |
+| 019307 | [Python: Data Export — Automation for Small Business](Project_019307/README.md) |
+| 019308 | [Python: Data Export — Recovery for Small Business](Project_019308/README.md) |
+| 019309 | [Python: Data Export — Reporting for Small Business](Project_019309/README.md) |
+| 019310 | [Python: Data Export — Usability Improvement for Small Business](Project_019310/README.md) |
+| 019311 | [Python: Data Export — Baseline Setup for Home Development](Project_019311/README.md) |
+| 019312 | [Python: Data Export — Automation for Home Development](Project_019312/README.md) |
+| 019313 | [Python: Data Export — Recovery for Home Development](Project_019313/README.md) |
+| 019314 | [Python: Data Export — Reporting for Home Development](Project_019314/README.md) |
+| 019315 | [Python: Data Export — Usability Improvement for Home Development](Project_019315/README.md) |
+| 019316 | [Python: Data Export — Baseline Setup for Public Dataset](Project_019316/README.md) |
+| 019317 | [Python: Data Export — Automation for Public Dataset](Project_019317/README.md) |
+| 019318 | [Python: Data Export — Recovery for Public Dataset](Project_019318/README.md) |
+| 019319 | [Python: Data Export — Reporting for Public Dataset](Project_019319/README.md) |
+| 019320 | [Python: Data Export — Usability Improvement for Public Dataset](Project_019320/README.md) |
 
 [Back to the portfolio home](../README.md)
