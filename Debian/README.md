@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003058 | [Debian: Monitoring — Recovery for Small Business](Project_003058/README.md) |
 | 003059 | [Debian: Monitoring — Reporting for Small Business](Project_003059/README.md) |
 | 003060 | [Debian: Monitoring — Usability Improvement for Small Business](Project_003060/README.md) |
+| 003061 | [Debian: Monitoring — Baseline Setup for Home Development](Project_003061/README.md) |
+| 003062 | [Debian: Monitoring — Automation for Home Development](Project_003062/README.md) |
+| 003063 | [Debian: Monitoring — Recovery for Home Development](Project_003063/README.md) |
+| 003064 | [Debian: Monitoring — Reporting for Home Development](Project_003064/README.md) |
+| 003065 | [Debian: Monitoring — Usability Improvement for Home Development](Project_003065/README.md) |
+| 003066 | [Debian: Monitoring — Baseline Setup for Public Dataset](Project_003066/README.md) |
+| 003067 | [Debian: Monitoring — Automation for Public Dataset](Project_003067/README.md) |
+| 003068 | [Debian: Monitoring — Recovery for Public Dataset](Project_003068/README.md) |
+| 003069 | [Debian: Monitoring — Reporting for Public Dataset](Project_003069/README.md) |
+| 003070 | [Debian: Monitoring — Usability Improvement for Public Dataset](Project_003070/README.md) |
+| 003071 | [Debian: Monitoring — Baseline Setup for Branch Office Simulator](Project_003071/README.md) |
+| 003072 | [Debian: Monitoring — Automation for Branch Office Simulator](Project_003072/README.md) |
+| 003073 | [Debian: Monitoring — Recovery for Branch Office Simulator](Project_003073/README.md) |
+| 003074 | [Debian: Monitoring — Reporting for Branch Office Simulator](Project_003074/README.md) |
+| 003075 | [Debian: Monitoring — Usability Improvement for Branch Office Simulator](Project_003075/README.md) |
+| 003076 | [Debian: Monitoring — Baseline Setup for Offline Classroom](Project_003076/README.md) |
+| 003077 | [Debian: Monitoring — Automation for Offline Classroom](Project_003077/README.md) |
+| 003078 | [Debian: Monitoring — Recovery for Offline Classroom](Project_003078/README.md) |
+| 003079 | [Debian: Monitoring — Reporting for Offline Classroom](Project_003079/README.md) |
+| 003080 | [Debian: Monitoring — Usability Improvement for Offline Classroom](Project_003080/README.md) |
 
 [Back to the portfolio home](../README.md)
