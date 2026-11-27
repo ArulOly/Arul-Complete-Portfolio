@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026918 | [MySQL: Visual Reporting — Recovery for Public Dataset](Project_026918/README.md) |
 | 026919 | [MySQL: Visual Reporting — Reporting for Public Dataset](Project_026919/README.md) |
 | 026920 | [MySQL: Visual Reporting — Usability Improvement for Public Dataset](Project_026920/README.md) |
+| 026921 | [MySQL: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_026921/README.md) |
+| 026922 | [MySQL: Visual Reporting — Automation for Branch Office Simulator](Project_026922/README.md) |
+| 026923 | [MySQL: Visual Reporting — Recovery for Branch Office Simulator](Project_026923/README.md) |
+| 026924 | [MySQL: Visual Reporting — Reporting for Branch Office Simulator](Project_026924/README.md) |
+| 026925 | [MySQL: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_026925/README.md) |
+| 026926 | [MySQL: Visual Reporting — Baseline Setup for Offline Classroom](Project_026926/README.md) |
+| 026927 | [MySQL: Visual Reporting — Automation for Offline Classroom](Project_026927/README.md) |
+| 026928 | [MySQL: Visual Reporting — Recovery for Offline Classroom](Project_026928/README.md) |
+| 026929 | [MySQL: Visual Reporting — Reporting for Offline Classroom](Project_026929/README.md) |
+| 026930 | [MySQL: Visual Reporting — Usability Improvement for Offline Classroom](Project_026930/README.md) |
+| 026931 | [MySQL: Visual Reporting — Baseline Setup for Single-Host Lab](Project_026931/README.md) |
+| 026932 | [MySQL: Visual Reporting — Automation for Single-Host Lab](Project_026932/README.md) |
+| 026933 | [MySQL: Visual Reporting — Recovery for Single-Host Lab](Project_026933/README.md) |
+| 026934 | [MySQL: Visual Reporting — Reporting for Single-Host Lab](Project_026934/README.md) |
+| 026935 | [MySQL: Visual Reporting — Usability Improvement for Single-Host Lab](Project_026935/README.md) |
+| 026936 | [MySQL: Visual Reporting — Baseline Setup for Two-Node Lab](Project_026936/README.md) |
+| 026937 | [MySQL: Visual Reporting — Automation for Two-Node Lab](Project_026937/README.md) |
+| 026938 | [MySQL: Visual Reporting — Recovery for Two-Node Lab](Project_026938/README.md) |
+| 026939 | [MySQL: Visual Reporting — Reporting for Two-Node Lab](Project_026939/README.md) |
+| 026940 | [MySQL: Visual Reporting — Usability Improvement for Two-Node Lab](Project_026940/README.md) |
 
 [Back to the portfolio home](../README.md)
