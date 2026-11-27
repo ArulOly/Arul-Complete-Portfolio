@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025038 | [PostgreSQL: Inventory — Recovery for Two-Node Lab](Project_025038/README.md) |
 | 025039 | [PostgreSQL: Inventory — Reporting for Two-Node Lab](Project_025039/README.md) |
 | 025040 | [PostgreSQL: Inventory — Usability Improvement for Two-Node Lab](Project_025040/README.md) |
+| 025041 | [PostgreSQL: Inventory — Baseline Setup for Help Desk](Project_025041/README.md) |
+| 025042 | [PostgreSQL: Inventory — Automation for Help Desk](Project_025042/README.md) |
+| 025043 | [PostgreSQL: Inventory — Recovery for Help Desk](Project_025043/README.md) |
+| 025044 | [PostgreSQL: Inventory — Reporting for Help Desk](Project_025044/README.md) |
+| 025045 | [PostgreSQL: Inventory — Usability Improvement for Help Desk](Project_025045/README.md) |
+| 025046 | [PostgreSQL: Inventory — Baseline Setup for Portfolio Demo](Project_025046/README.md) |
+| 025047 | [PostgreSQL: Inventory — Automation for Portfolio Demo](Project_025047/README.md) |
+| 025048 | [PostgreSQL: Inventory — Recovery for Portfolio Demo](Project_025048/README.md) |
+| 025049 | [PostgreSQL: Inventory — Reporting for Portfolio Demo](Project_025049/README.md) |
+| 025050 | [PostgreSQL: Inventory — Usability Improvement for Portfolio Demo](Project_025050/README.md) |
+| 025051 | [PostgreSQL: Monitoring — Baseline Setup for School Lab](Project_025051/README.md) |
+| 025052 | [PostgreSQL: Monitoring — Automation for School Lab](Project_025052/README.md) |
+| 025053 | [PostgreSQL: Monitoring — Recovery for School Lab](Project_025053/README.md) |
+| 025054 | [PostgreSQL: Monitoring — Reporting for School Lab](Project_025054/README.md) |
+| 025055 | [PostgreSQL: Monitoring — Usability Improvement for School Lab](Project_025055/README.md) |
+| 025056 | [PostgreSQL: Monitoring — Baseline Setup for Small Business](Project_025056/README.md) |
+| 025057 | [PostgreSQL: Monitoring — Automation for Small Business](Project_025057/README.md) |
+| 025058 | [PostgreSQL: Monitoring — Recovery for Small Business](Project_025058/README.md) |
+| 025059 | [PostgreSQL: Monitoring — Reporting for Small Business](Project_025059/README.md) |
+| 025060 | [PostgreSQL: Monitoring — Usability Improvement for Small Business](Project_025060/README.md) |
 
 [Back to the portfolio home](../README.md)
