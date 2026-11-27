@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049858 | [FastAPI: Automation — Recovery for Small Business](Project_049858/README.md) |
 | 049859 | [FastAPI: Automation — Reporting for Small Business](Project_049859/README.md) |
 | 049860 | [FastAPI: Automation — Usability Improvement for Small Business](Project_049860/README.md) |
+| 049861 | [FastAPI: Automation — Baseline Setup for Home Development](Project_049861/README.md) |
+| 049862 | [FastAPI: Automation — Automation for Home Development](Project_049862/README.md) |
+| 049863 | [FastAPI: Automation — Recovery for Home Development](Project_049863/README.md) |
+| 049864 | [FastAPI: Automation — Reporting for Home Development](Project_049864/README.md) |
+| 049865 | [FastAPI: Automation — Usability Improvement for Home Development](Project_049865/README.md) |
+| 049866 | [FastAPI: Automation — Baseline Setup for Public Dataset](Project_049866/README.md) |
+| 049867 | [FastAPI: Automation — Automation for Public Dataset](Project_049867/README.md) |
+| 049868 | [FastAPI: Automation — Recovery for Public Dataset](Project_049868/README.md) |
+| 049869 | [FastAPI: Automation — Reporting for Public Dataset](Project_049869/README.md) |
+| 049870 | [FastAPI: Automation — Usability Improvement for Public Dataset](Project_049870/README.md) |
+| 049871 | [FastAPI: Automation — Baseline Setup for Branch Office Simulator](Project_049871/README.md) |
+| 049872 | [FastAPI: Automation — Automation for Branch Office Simulator](Project_049872/README.md) |
+| 049873 | [FastAPI: Automation — Recovery for Branch Office Simulator](Project_049873/README.md) |
+| 049874 | [FastAPI: Automation — Reporting for Branch Office Simulator](Project_049874/README.md) |
+| 049875 | [FastAPI: Automation — Usability Improvement for Branch Office Simulator](Project_049875/README.md) |
+| 049876 | [FastAPI: Automation — Baseline Setup for Offline Classroom](Project_049876/README.md) |
+| 049877 | [FastAPI: Automation — Automation for Offline Classroom](Project_049877/README.md) |
+| 049878 | [FastAPI: Automation — Recovery for Offline Classroom](Project_049878/README.md) |
+| 049879 | [FastAPI: Automation — Reporting for Offline Classroom](Project_049879/README.md) |
+| 049880 | [FastAPI: Automation — Usability Improvement for Offline Classroom](Project_049880/README.md) |
 
 [Back to the portfolio home](../README.md)
