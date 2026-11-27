@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005898 | [FreeBSD: Automation — Recovery for Portfolio Demo](Project_005898/README.md) |
 | 005899 | [FreeBSD: Automation — Reporting for Portfolio Demo](Project_005899/README.md) |
 | 005900 | [FreeBSD: Automation — Usability Improvement for Portfolio Demo](Project_005900/README.md) |
+| 005901 | [FreeBSD: Visual Reporting — Baseline Setup for School Lab](Project_005901/README.md) |
+| 005902 | [FreeBSD: Visual Reporting — Automation for School Lab](Project_005902/README.md) |
+| 005903 | [FreeBSD: Visual Reporting — Recovery for School Lab](Project_005903/README.md) |
+| 005904 | [FreeBSD: Visual Reporting — Reporting for School Lab](Project_005904/README.md) |
+| 005905 | [FreeBSD: Visual Reporting — Usability Improvement for School Lab](Project_005905/README.md) |
+| 005906 | [FreeBSD: Visual Reporting — Baseline Setup for Small Business](Project_005906/README.md) |
+| 005907 | [FreeBSD: Visual Reporting — Automation for Small Business](Project_005907/README.md) |
+| 005908 | [FreeBSD: Visual Reporting — Recovery for Small Business](Project_005908/README.md) |
+| 005909 | [FreeBSD: Visual Reporting — Reporting for Small Business](Project_005909/README.md) |
+| 005910 | [FreeBSD: Visual Reporting — Usability Improvement for Small Business](Project_005910/README.md) |
+| 005911 | [FreeBSD: Visual Reporting — Baseline Setup for Home Development](Project_005911/README.md) |
+| 005912 | [FreeBSD: Visual Reporting — Automation for Home Development](Project_005912/README.md) |
+| 005913 | [FreeBSD: Visual Reporting — Recovery for Home Development](Project_005913/README.md) |
+| 005914 | [FreeBSD: Visual Reporting — Reporting for Home Development](Project_005914/README.md) |
+| 005915 | [FreeBSD: Visual Reporting — Usability Improvement for Home Development](Project_005915/README.md) |
+| 005916 | [FreeBSD: Visual Reporting — Baseline Setup for Public Dataset](Project_005916/README.md) |
+| 005917 | [FreeBSD: Visual Reporting — Automation for Public Dataset](Project_005917/README.md) |
+| 005918 | [FreeBSD: Visual Reporting — Recovery for Public Dataset](Project_005918/README.md) |
+| 005919 | [FreeBSD: Visual Reporting — Reporting for Public Dataset](Project_005919/README.md) |
+| 005920 | [FreeBSD: Visual Reporting — Usability Improvement for Public Dataset](Project_005920/README.md) |
 
 [Back to the portfolio home](../README.md)
