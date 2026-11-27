@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020838 | [JavaScript: Documentation Generation — Recovery for Two-Node Lab](Project_020838/README.md) |
 | 020839 | [JavaScript: Documentation Generation — Reporting for Two-Node Lab](Project_020839/README.md) |
 | 020840 | [JavaScript: Documentation Generation — Usability Improvement for Two-Node Lab](Project_020840/README.md) |
+| 020841 | [JavaScript: Documentation Generation — Baseline Setup for Help Desk](Project_020841/README.md) |
+| 020842 | [JavaScript: Documentation Generation — Automation for Help Desk](Project_020842/README.md) |
+| 020843 | [JavaScript: Documentation Generation — Recovery for Help Desk](Project_020843/README.md) |
+| 020844 | [JavaScript: Documentation Generation — Reporting for Help Desk](Project_020844/README.md) |
+| 020845 | [JavaScript: Documentation Generation — Usability Improvement for Help Desk](Project_020845/README.md) |
+| 020846 | [JavaScript: Documentation Generation — Baseline Setup for Portfolio Demo](Project_020846/README.md) |
+| 020847 | [JavaScript: Documentation Generation — Automation for Portfolio Demo](Project_020847/README.md) |
+| 020848 | [JavaScript: Documentation Generation — Recovery for Portfolio Demo](Project_020848/README.md) |
+| 020849 | [JavaScript: Documentation Generation — Reporting for Portfolio Demo](Project_020849/README.md) |
+| 020850 | [JavaScript: Documentation Generation — Usability Improvement for Portfolio Demo](Project_020850/README.md) |
+| 020851 | [JavaScript: Automation — Baseline Setup for School Lab](Project_020851/README.md) |
+| 020852 | [JavaScript: Automation — Automation for School Lab](Project_020852/README.md) |
+| 020853 | [JavaScript: Automation — Recovery for School Lab](Project_020853/README.md) |
+| 020854 | [JavaScript: Automation — Reporting for School Lab](Project_020854/README.md) |
+| 020855 | [JavaScript: Automation — Usability Improvement for School Lab](Project_020855/README.md) |
+| 020856 | [JavaScript: Automation — Baseline Setup for Small Business](Project_020856/README.md) |
+| 020857 | [JavaScript: Automation — Automation for Small Business](Project_020857/README.md) |
+| 020858 | [JavaScript: Automation — Recovery for Small Business](Project_020858/README.md) |
+| 020859 | [JavaScript: Automation — Reporting for Small Business](Project_020859/README.md) |
+| 020860 | [JavaScript: Automation — Usability Improvement for Small Business](Project_020860/README.md) |
 
 [Back to the portfolio home](../README.md)
