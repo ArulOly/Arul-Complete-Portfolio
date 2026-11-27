@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033278 | [Jupyter: Data Import — Recovery for Offline Classroom](Project_033278/README.md) |
 | 033279 | [Jupyter: Data Import — Reporting for Offline Classroom](Project_033279/README.md) |
 | 033280 | [Jupyter: Data Import — Usability Improvement for Offline Classroom](Project_033280/README.md) |
+| 033281 | [Jupyter: Data Import — Baseline Setup for Single-Host Lab](Project_033281/README.md) |
+| 033282 | [Jupyter: Data Import — Automation for Single-Host Lab](Project_033282/README.md) |
+| 033283 | [Jupyter: Data Import — Recovery for Single-Host Lab](Project_033283/README.md) |
+| 033284 | [Jupyter: Data Import — Reporting for Single-Host Lab](Project_033284/README.md) |
+| 033285 | [Jupyter: Data Import — Usability Improvement for Single-Host Lab](Project_033285/README.md) |
+| 033286 | [Jupyter: Data Import — Baseline Setup for Two-Node Lab](Project_033286/README.md) |
+| 033287 | [Jupyter: Data Import — Automation for Two-Node Lab](Project_033287/README.md) |
+| 033288 | [Jupyter: Data Import — Recovery for Two-Node Lab](Project_033288/README.md) |
+| 033289 | [Jupyter: Data Import — Reporting for Two-Node Lab](Project_033289/README.md) |
+| 033290 | [Jupyter: Data Import — Usability Improvement for Two-Node Lab](Project_033290/README.md) |
+| 033291 | [Jupyter: Data Import — Baseline Setup for Help Desk](Project_033291/README.md) |
+| 033292 | [Jupyter: Data Import — Automation for Help Desk](Project_033292/README.md) |
+| 033293 | [Jupyter: Data Import — Recovery for Help Desk](Project_033293/README.md) |
+| 033294 | [Jupyter: Data Import — Reporting for Help Desk](Project_033294/README.md) |
+| 033295 | [Jupyter: Data Import — Usability Improvement for Help Desk](Project_033295/README.md) |
+| 033296 | [Jupyter: Data Import — Baseline Setup for Portfolio Demo](Project_033296/README.md) |
+| 033297 | [Jupyter: Data Import — Automation for Portfolio Demo](Project_033297/README.md) |
+| 033298 | [Jupyter: Data Import — Recovery for Portfolio Demo](Project_033298/README.md) |
+| 033299 | [Jupyter: Data Import — Reporting for Portfolio Demo](Project_033299/README.md) |
+| 033300 | [Jupyter: Data Import — Usability Improvement for Portfolio Demo](Project_033300/README.md) |
 
 [Back to the portfolio home](../README.md)
