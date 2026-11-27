@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049118 | [FastAPI: Audit — Recovery for Public Dataset](Project_049118/README.md) |
 | 049119 | [FastAPI: Audit — Reporting for Public Dataset](Project_049119/README.md) |
 | 049120 | [FastAPI: Audit — Usability Improvement for Public Dataset](Project_049120/README.md) |
+| 049121 | [FastAPI: Audit — Baseline Setup for Branch Office Simulator](Project_049121/README.md) |
+| 049122 | [FastAPI: Audit — Automation for Branch Office Simulator](Project_049122/README.md) |
+| 049123 | [FastAPI: Audit — Recovery for Branch Office Simulator](Project_049123/README.md) |
+| 049124 | [FastAPI: Audit — Reporting for Branch Office Simulator](Project_049124/README.md) |
+| 049125 | [FastAPI: Audit — Usability Improvement for Branch Office Simulator](Project_049125/README.md) |
+| 049126 | [FastAPI: Audit — Baseline Setup for Offline Classroom](Project_049126/README.md) |
+| 049127 | [FastAPI: Audit — Automation for Offline Classroom](Project_049127/README.md) |
+| 049128 | [FastAPI: Audit — Recovery for Offline Classroom](Project_049128/README.md) |
+| 049129 | [FastAPI: Audit — Reporting for Offline Classroom](Project_049129/README.md) |
+| 049130 | [FastAPI: Audit — Usability Improvement for Offline Classroom](Project_049130/README.md) |
+| 049131 | [FastAPI: Audit — Baseline Setup for Single-Host Lab](Project_049131/README.md) |
+| 049132 | [FastAPI: Audit — Automation for Single-Host Lab](Project_049132/README.md) |
+| 049133 | [FastAPI: Audit — Recovery for Single-Host Lab](Project_049133/README.md) |
+| 049134 | [FastAPI: Audit — Reporting for Single-Host Lab](Project_049134/README.md) |
+| 049135 | [FastAPI: Audit — Usability Improvement for Single-Host Lab](Project_049135/README.md) |
+| 049136 | [FastAPI: Audit — Baseline Setup for Two-Node Lab](Project_049136/README.md) |
+| 049137 | [FastAPI: Audit — Automation for Two-Node Lab](Project_049137/README.md) |
+| 049138 | [FastAPI: Audit — Recovery for Two-Node Lab](Project_049138/README.md) |
+| 049139 | [FastAPI: Audit — Reporting for Two-Node Lab](Project_049139/README.md) |
+| 049140 | [FastAPI: Audit — Usability Improvement for Two-Node Lab](Project_049140/README.md) |
 
 [Back to the portfolio home](../README.md)
