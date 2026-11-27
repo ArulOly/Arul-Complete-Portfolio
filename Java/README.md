@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022158 | [Java: Log Analysis — Recovery for Small Business](Project_022158/README.md) |
 | 022159 | [Java: Log Analysis — Reporting for Small Business](Project_022159/README.md) |
 | 022160 | [Java: Log Analysis — Usability Improvement for Small Business](Project_022160/README.md) |
+| 022161 | [Java: Log Analysis — Baseline Setup for Home Development](Project_022161/README.md) |
+| 022162 | [Java: Log Analysis — Automation for Home Development](Project_022162/README.md) |
+| 022163 | [Java: Log Analysis — Recovery for Home Development](Project_022163/README.md) |
+| 022164 | [Java: Log Analysis — Reporting for Home Development](Project_022164/README.md) |
+| 022165 | [Java: Log Analysis — Usability Improvement for Home Development](Project_022165/README.md) |
+| 022166 | [Java: Log Analysis — Baseline Setup for Public Dataset](Project_022166/README.md) |
+| 022167 | [Java: Log Analysis — Automation for Public Dataset](Project_022167/README.md) |
+| 022168 | [Java: Log Analysis — Recovery for Public Dataset](Project_022168/README.md) |
+| 022169 | [Java: Log Analysis — Reporting for Public Dataset](Project_022169/README.md) |
+| 022170 | [Java: Log Analysis — Usability Improvement for Public Dataset](Project_022170/README.md) |
+| 022171 | [Java: Log Analysis — Baseline Setup for Branch Office Simulator](Project_022171/README.md) |
+| 022172 | [Java: Log Analysis — Automation for Branch Office Simulator](Project_022172/README.md) |
+| 022173 | [Java: Log Analysis — Recovery for Branch Office Simulator](Project_022173/README.md) |
+| 022174 | [Java: Log Analysis — Reporting for Branch Office Simulator](Project_022174/README.md) |
+| 022175 | [Java: Log Analysis — Usability Improvement for Branch Office Simulator](Project_022175/README.md) |
+| 022176 | [Java: Log Analysis — Baseline Setup for Offline Classroom](Project_022176/README.md) |
+| 022177 | [Java: Log Analysis — Automation for Offline Classroom](Project_022177/README.md) |
+| 022178 | [Java: Log Analysis — Recovery for Offline Classroom](Project_022178/README.md) |
+| 022179 | [Java: Log Analysis — Reporting for Offline Classroom](Project_022179/README.md) |
+| 022180 | [Java: Log Analysis — Usability Improvement for Offline Classroom](Project_022180/README.md) |
 
 [Back to the portfolio home](../README.md)
