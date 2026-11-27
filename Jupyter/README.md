@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033198 | [Jupyter: Log Analysis — Recovery for Portfolio Demo](Project_033198/README.md) |
 | 033199 | [Jupyter: Log Analysis — Reporting for Portfolio Demo](Project_033199/README.md) |
 | 033200 | [Jupyter: Log Analysis — Usability Improvement for Portfolio Demo](Project_033200/README.md) |
+| 033201 | [Jupyter: Backup Verification — Baseline Setup for School Lab](Project_033201/README.md) |
+| 033202 | [Jupyter: Backup Verification — Automation for School Lab](Project_033202/README.md) |
+| 033203 | [Jupyter: Backup Verification — Recovery for School Lab](Project_033203/README.md) |
+| 033204 | [Jupyter: Backup Verification — Reporting for School Lab](Project_033204/README.md) |
+| 033205 | [Jupyter: Backup Verification — Usability Improvement for School Lab](Project_033205/README.md) |
+| 033206 | [Jupyter: Backup Verification — Baseline Setup for Small Business](Project_033206/README.md) |
+| 033207 | [Jupyter: Backup Verification — Automation for Small Business](Project_033207/README.md) |
+| 033208 | [Jupyter: Backup Verification — Recovery for Small Business](Project_033208/README.md) |
+| 033209 | [Jupyter: Backup Verification — Reporting for Small Business](Project_033209/README.md) |
+| 033210 | [Jupyter: Backup Verification — Usability Improvement for Small Business](Project_033210/README.md) |
+| 033211 | [Jupyter: Backup Verification — Baseline Setup for Home Development](Project_033211/README.md) |
+| 033212 | [Jupyter: Backup Verification — Automation for Home Development](Project_033212/README.md) |
+| 033213 | [Jupyter: Backup Verification — Recovery for Home Development](Project_033213/README.md) |
+| 033214 | [Jupyter: Backup Verification — Reporting for Home Development](Project_033214/README.md) |
+| 033215 | [Jupyter: Backup Verification — Usability Improvement for Home Development](Project_033215/README.md) |
+| 033216 | [Jupyter: Backup Verification — Baseline Setup for Public Dataset](Project_033216/README.md) |
+| 033217 | [Jupyter: Backup Verification — Automation for Public Dataset](Project_033217/README.md) |
+| 033218 | [Jupyter: Backup Verification — Recovery for Public Dataset](Project_033218/README.md) |
+| 033219 | [Jupyter: Backup Verification — Reporting for Public Dataset](Project_033219/README.md) |
+| 033220 | [Jupyter: Backup Verification — Usability Improvement for Public Dataset](Project_033220/README.md) |
 
 [Back to the portfolio home](../README.md)
