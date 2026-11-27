@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005738 | [FreeBSD: Error Handling — Recovery for Two-Node Lab](Project_005738/README.md) |
 | 005739 | [FreeBSD: Error Handling — Reporting for Two-Node Lab](Project_005739/README.md) |
 | 005740 | [FreeBSD: Error Handling — Usability Improvement for Two-Node Lab](Project_005740/README.md) |
+| 005741 | [FreeBSD: Error Handling — Baseline Setup for Help Desk](Project_005741/README.md) |
+| 005742 | [FreeBSD: Error Handling — Automation for Help Desk](Project_005742/README.md) |
+| 005743 | [FreeBSD: Error Handling — Recovery for Help Desk](Project_005743/README.md) |
+| 005744 | [FreeBSD: Error Handling — Reporting for Help Desk](Project_005744/README.md) |
+| 005745 | [FreeBSD: Error Handling — Usability Improvement for Help Desk](Project_005745/README.md) |
+| 005746 | [FreeBSD: Error Handling — Baseline Setup for Portfolio Demo](Project_005746/README.md) |
+| 005747 | [FreeBSD: Error Handling — Automation for Portfolio Demo](Project_005747/README.md) |
+| 005748 | [FreeBSD: Error Handling — Recovery for Portfolio Demo](Project_005748/README.md) |
+| 005749 | [FreeBSD: Error Handling — Reporting for Portfolio Demo](Project_005749/README.md) |
+| 005750 | [FreeBSD: Error Handling — Usability Improvement for Portfolio Demo](Project_005750/README.md) |
+| 005751 | [FreeBSD: Data Validation — Baseline Setup for School Lab](Project_005751/README.md) |
+| 005752 | [FreeBSD: Data Validation — Automation for School Lab](Project_005752/README.md) |
+| 005753 | [FreeBSD: Data Validation — Recovery for School Lab](Project_005753/README.md) |
+| 005754 | [FreeBSD: Data Validation — Reporting for School Lab](Project_005754/README.md) |
+| 005755 | [FreeBSD: Data Validation — Usability Improvement for School Lab](Project_005755/README.md) |
+| 005756 | [FreeBSD: Data Validation — Baseline Setup for Small Business](Project_005756/README.md) |
+| 005757 | [FreeBSD: Data Validation — Automation for Small Business](Project_005757/README.md) |
+| 005758 | [FreeBSD: Data Validation — Recovery for Small Business](Project_005758/README.md) |
+| 005759 | [FreeBSD: Data Validation — Reporting for Small Business](Project_005759/README.md) |
+| 005760 | [FreeBSD: Data Validation — Usability Improvement for Small Business](Project_005760/README.md) |
 
 [Back to the portfolio home](../README.md)
