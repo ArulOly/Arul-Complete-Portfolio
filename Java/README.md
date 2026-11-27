@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022178 | [Java: Log Analysis — Recovery for Offline Classroom](Project_022178/README.md) |
 | 022179 | [Java: Log Analysis — Reporting for Offline Classroom](Project_022179/README.md) |
 | 022180 | [Java: Log Analysis — Usability Improvement for Offline Classroom](Project_022180/README.md) |
+| 022181 | [Java: Log Analysis — Baseline Setup for Single-Host Lab](Project_022181/README.md) |
+| 022182 | [Java: Log Analysis — Automation for Single-Host Lab](Project_022182/README.md) |
+| 022183 | [Java: Log Analysis — Recovery for Single-Host Lab](Project_022183/README.md) |
+| 022184 | [Java: Log Analysis — Reporting for Single-Host Lab](Project_022184/README.md) |
+| 022185 | [Java: Log Analysis — Usability Improvement for Single-Host Lab](Project_022185/README.md) |
+| 022186 | [Java: Log Analysis — Baseline Setup for Two-Node Lab](Project_022186/README.md) |
+| 022187 | [Java: Log Analysis — Automation for Two-Node Lab](Project_022187/README.md) |
+| 022188 | [Java: Log Analysis — Recovery for Two-Node Lab](Project_022188/README.md) |
+| 022189 | [Java: Log Analysis — Reporting for Two-Node Lab](Project_022189/README.md) |
+| 022190 | [Java: Log Analysis — Usability Improvement for Two-Node Lab](Project_022190/README.md) |
+| 022191 | [Java: Log Analysis — Baseline Setup for Help Desk](Project_022191/README.md) |
+| 022192 | [Java: Log Analysis — Automation for Help Desk](Project_022192/README.md) |
+| 022193 | [Java: Log Analysis — Recovery for Help Desk](Project_022193/README.md) |
+| 022194 | [Java: Log Analysis — Reporting for Help Desk](Project_022194/README.md) |
+| 022195 | [Java: Log Analysis — Usability Improvement for Help Desk](Project_022195/README.md) |
+| 022196 | [Java: Log Analysis — Baseline Setup for Portfolio Demo](Project_022196/README.md) |
+| 022197 | [Java: Log Analysis — Automation for Portfolio Demo](Project_022197/README.md) |
+| 022198 | [Java: Log Analysis — Recovery for Portfolio Demo](Project_022198/README.md) |
+| 022199 | [Java: Log Analysis — Reporting for Portfolio Demo](Project_022199/README.md) |
+| 022200 | [Java: Log Analysis — Usability Improvement for Portfolio Demo](Project_022200/README.md) |
 
 [Back to the portfolio home](../README.md)
