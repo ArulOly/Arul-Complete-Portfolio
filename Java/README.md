@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022498 | [Java: Scheduled Reporting — Recovery for Portfolio Demo](Project_022498/README.md) |
 | 022499 | [Java: Scheduled Reporting — Reporting for Portfolio Demo](Project_022499/README.md) |
 | 022500 | [Java: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_022500/README.md) |
+| 022501 | [Java: Access Review — Baseline Setup for School Lab](Project_022501/README.md) |
+| 022502 | [Java: Access Review — Automation for School Lab](Project_022502/README.md) |
+| 022503 | [Java: Access Review — Recovery for School Lab](Project_022503/README.md) |
+| 022504 | [Java: Access Review — Reporting for School Lab](Project_022504/README.md) |
+| 022505 | [Java: Access Review — Usability Improvement for School Lab](Project_022505/README.md) |
+| 022506 | [Java: Access Review — Baseline Setup for Small Business](Project_022506/README.md) |
+| 022507 | [Java: Access Review — Automation for Small Business](Project_022507/README.md) |
+| 022508 | [Java: Access Review — Recovery for Small Business](Project_022508/README.md) |
+| 022509 | [Java: Access Review — Reporting for Small Business](Project_022509/README.md) |
+| 022510 | [Java: Access Review — Usability Improvement for Small Business](Project_022510/README.md) |
+| 022511 | [Java: Access Review — Baseline Setup for Home Development](Project_022511/README.md) |
+| 022512 | [Java: Access Review — Automation for Home Development](Project_022512/README.md) |
+| 022513 | [Java: Access Review — Recovery for Home Development](Project_022513/README.md) |
+| 022514 | [Java: Access Review — Reporting for Home Development](Project_022514/README.md) |
+| 022515 | [Java: Access Review — Usability Improvement for Home Development](Project_022515/README.md) |
+| 022516 | [Java: Access Review — Baseline Setup for Public Dataset](Project_022516/README.md) |
+| 022517 | [Java: Access Review — Automation for Public Dataset](Project_022517/README.md) |
+| 022518 | [Java: Access Review — Recovery for Public Dataset](Project_022518/README.md) |
+| 022519 | [Java: Access Review — Reporting for Public Dataset](Project_022519/README.md) |
+| 022520 | [Java: Access Review — Usability Improvement for Public Dataset](Project_022520/README.md) |
 
 [Back to the portfolio home](../README.md)
