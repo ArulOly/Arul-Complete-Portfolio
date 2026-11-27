@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024198 | [Node.js: Log Analysis — Recovery for Portfolio Demo](Project_024198/README.md) |
 | 024199 | [Node.js: Log Analysis — Reporting for Portfolio Demo](Project_024199/README.md) |
 | 024200 | [Node.js: Log Analysis — Usability Improvement for Portfolio Demo](Project_024200/README.md) |
+| 024201 | [Node.js: Backup Verification — Baseline Setup for School Lab](Project_024201/README.md) |
+| 024202 | [Node.js: Backup Verification — Automation for School Lab](Project_024202/README.md) |
+| 024203 | [Node.js: Backup Verification — Recovery for School Lab](Project_024203/README.md) |
+| 024204 | [Node.js: Backup Verification — Reporting for School Lab](Project_024204/README.md) |
+| 024205 | [Node.js: Backup Verification — Usability Improvement for School Lab](Project_024205/README.md) |
+| 024206 | [Node.js: Backup Verification — Baseline Setup for Small Business](Project_024206/README.md) |
+| 024207 | [Node.js: Backup Verification — Automation for Small Business](Project_024207/README.md) |
+| 024208 | [Node.js: Backup Verification — Recovery for Small Business](Project_024208/README.md) |
+| 024209 | [Node.js: Backup Verification — Reporting for Small Business](Project_024209/README.md) |
+| 024210 | [Node.js: Backup Verification — Usability Improvement for Small Business](Project_024210/README.md) |
+| 024211 | [Node.js: Backup Verification — Baseline Setup for Home Development](Project_024211/README.md) |
+| 024212 | [Node.js: Backup Verification — Automation for Home Development](Project_024212/README.md) |
+| 024213 | [Node.js: Backup Verification — Recovery for Home Development](Project_024213/README.md) |
+| 024214 | [Node.js: Backup Verification — Reporting for Home Development](Project_024214/README.md) |
+| 024215 | [Node.js: Backup Verification — Usability Improvement for Home Development](Project_024215/README.md) |
+| 024216 | [Node.js: Backup Verification — Baseline Setup for Public Dataset](Project_024216/README.md) |
+| 024217 | [Node.js: Backup Verification — Automation for Public Dataset](Project_024217/README.md) |
+| 024218 | [Node.js: Backup Verification — Recovery for Public Dataset](Project_024218/README.md) |
+| 024219 | [Node.js: Backup Verification — Reporting for Public Dataset](Project_024219/README.md) |
+| 024220 | [Node.js: Backup Verification — Usability Improvement for Public Dataset](Project_024220/README.md) |
 
 [Back to the portfolio home](../README.md)
