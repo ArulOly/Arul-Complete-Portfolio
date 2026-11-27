@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -904,5 +904,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019858 | [Python: Automation — Recovery for Small Business](Project_019858/README.md) |
 | 019859 | [Python: Automation — Reporting for Small Business](Project_019859/README.md) |
 | 019860 | [Python: Automation — Usability Improvement for Small Business](Project_019860/README.md) |
+| 019861 | [Python: Automation — Baseline Setup for Home Development](Project_019861/README.md) |
+| 019862 | [Python: Automation — Automation for Home Development](Project_019862/README.md) |
+| 019863 | [Python: Automation — Recovery for Home Development](Project_019863/README.md) |
+| 019864 | [Python: Automation — Reporting for Home Development](Project_019864/README.md) |
+| 019865 | [Python: Automation — Usability Improvement for Home Development](Project_019865/README.md) |
+| 019866 | [Python: Automation — Baseline Setup for Public Dataset](Project_019866/README.md) |
+| 019867 | [Python: Automation — Automation for Public Dataset](Project_019867/README.md) |
+| 019868 | [Python: Automation — Recovery for Public Dataset](Project_019868/README.md) |
+| 019869 | [Python: Automation — Reporting for Public Dataset](Project_019869/README.md) |
+| 019870 | [Python: Automation — Usability Improvement for Public Dataset](Project_019870/README.md) |
+| 019871 | [Python: Automation — Baseline Setup for Branch Office Simulator](Project_019871/README.md) |
+| 019872 | [Python: Automation — Automation for Branch Office Simulator](Project_019872/README.md) |
+| 019873 | [Python: Automation — Recovery for Branch Office Simulator](Project_019873/README.md) |
+| 019874 | [Python: Automation — Reporting for Branch Office Simulator](Project_019874/README.md) |
+| 019875 | [Python: Automation — Usability Improvement for Branch Office Simulator](Project_019875/README.md) |
+| 019876 | [Python: Automation — Baseline Setup for Offline Classroom](Project_019876/README.md) |
+| 019877 | [Python: Automation — Automation for Offline Classroom](Project_019877/README.md) |
+| 019878 | [Python: Automation — Recovery for Offline Classroom](Project_019878/README.md) |
+| 019879 | [Python: Automation — Reporting for Offline Classroom](Project_019879/README.md) |
+| 019880 | [Python: Automation — Usability Improvement for Offline Classroom](Project_019880/README.md) |
 
 [Back to the portfolio home](../README.md)
