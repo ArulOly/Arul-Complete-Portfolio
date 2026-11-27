@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032638 | [Power BI: Service Check — Recovery for Two-Node Lab](Project_032638/README.md) |
 | 032639 | [Power BI: Service Check — Reporting for Two-Node Lab](Project_032639/README.md) |
 | 032640 | [Power BI: Service Check — Usability Improvement for Two-Node Lab](Project_032640/README.md) |
+| 032641 | [Power BI: Service Check — Baseline Setup for Help Desk](Project_032641/README.md) |
+| 032642 | [Power BI: Service Check — Automation for Help Desk](Project_032642/README.md) |
+| 032643 | [Power BI: Service Check — Recovery for Help Desk](Project_032643/README.md) |
+| 032644 | [Power BI: Service Check — Reporting for Help Desk](Project_032644/README.md) |
+| 032645 | [Power BI: Service Check — Usability Improvement for Help Desk](Project_032645/README.md) |
+| 032646 | [Power BI: Service Check — Baseline Setup for Portfolio Demo](Project_032646/README.md) |
+| 032647 | [Power BI: Service Check — Automation for Portfolio Demo](Project_032647/README.md) |
+| 032648 | [Power BI: Service Check — Recovery for Portfolio Demo](Project_032648/README.md) |
+| 032649 | [Power BI: Service Check — Reporting for Portfolio Demo](Project_032649/README.md) |
+| 032650 | [Power BI: Service Check — Usability Improvement for Portfolio Demo](Project_032650/README.md) |
+| 032651 | [Power BI: Configuration Comparison — Baseline Setup for School Lab](Project_032651/README.md) |
+| 032652 | [Power BI: Configuration Comparison — Automation for School Lab](Project_032652/README.md) |
+| 032653 | [Power BI: Configuration Comparison — Recovery for School Lab](Project_032653/README.md) |
+| 032654 | [Power BI: Configuration Comparison — Reporting for School Lab](Project_032654/README.md) |
+| 032655 | [Power BI: Configuration Comparison — Usability Improvement for School Lab](Project_032655/README.md) |
+| 032656 | [Power BI: Configuration Comparison — Baseline Setup for Small Business](Project_032656/README.md) |
+| 032657 | [Power BI: Configuration Comparison — Automation for Small Business](Project_032657/README.md) |
+| 032658 | [Power BI: Configuration Comparison — Recovery for Small Business](Project_032658/README.md) |
+| 032659 | [Power BI: Configuration Comparison — Reporting for Small Business](Project_032659/README.md) |
+| 032660 | [Power BI: Configuration Comparison — Usability Improvement for Small Business](Project_032660/README.md) |
 
 [Back to the portfolio home](../README.md)
