@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022718 | [Java: Error Handling — Recovery for Public Dataset](Project_022718/README.md) |
 | 022719 | [Java: Error Handling — Reporting for Public Dataset](Project_022719/README.md) |
 | 022720 | [Java: Error Handling — Usability Improvement for Public Dataset](Project_022720/README.md) |
+| 022721 | [Java: Error Handling — Baseline Setup for Branch Office Simulator](Project_022721/README.md) |
+| 022722 | [Java: Error Handling — Automation for Branch Office Simulator](Project_022722/README.md) |
+| 022723 | [Java: Error Handling — Recovery for Branch Office Simulator](Project_022723/README.md) |
+| 022724 | [Java: Error Handling — Reporting for Branch Office Simulator](Project_022724/README.md) |
+| 022725 | [Java: Error Handling — Usability Improvement for Branch Office Simulator](Project_022725/README.md) |
+| 022726 | [Java: Error Handling — Baseline Setup for Offline Classroom](Project_022726/README.md) |
+| 022727 | [Java: Error Handling — Automation for Offline Classroom](Project_022727/README.md) |
+| 022728 | [Java: Error Handling — Recovery for Offline Classroom](Project_022728/README.md) |
+| 022729 | [Java: Error Handling — Reporting for Offline Classroom](Project_022729/README.md) |
+| 022730 | [Java: Error Handling — Usability Improvement for Offline Classroom](Project_022730/README.md) |
+| 022731 | [Java: Error Handling — Baseline Setup for Single-Host Lab](Project_022731/README.md) |
+| 022732 | [Java: Error Handling — Automation for Single-Host Lab](Project_022732/README.md) |
+| 022733 | [Java: Error Handling — Recovery for Single-Host Lab](Project_022733/README.md) |
+| 022734 | [Java: Error Handling — Reporting for Single-Host Lab](Project_022734/README.md) |
+| 022735 | [Java: Error Handling — Usability Improvement for Single-Host Lab](Project_022735/README.md) |
+| 022736 | [Java: Error Handling — Baseline Setup for Two-Node Lab](Project_022736/README.md) |
+| 022737 | [Java: Error Handling — Automation for Two-Node Lab](Project_022737/README.md) |
+| 022738 | [Java: Error Handling — Recovery for Two-Node Lab](Project_022738/README.md) |
+| 022739 | [Java: Error Handling — Reporting for Two-Node Lab](Project_022739/README.md) |
+| 022740 | [Java: Error Handling — Usability Improvement for Two-Node Lab](Project_022740/README.md) |
 
 [Back to the portfolio home](../README.md)
