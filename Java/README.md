@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022858 | [Java: Automation — Recovery for Small Business](Project_022858/README.md) |
 | 022859 | [Java: Automation — Reporting for Small Business](Project_022859/README.md) |
 | 022860 | [Java: Automation — Usability Improvement for Small Business](Project_022860/README.md) |
+| 022861 | [Java: Automation — Baseline Setup for Home Development](Project_022861/README.md) |
+| 022862 | [Java: Automation — Automation for Home Development](Project_022862/README.md) |
+| 022863 | [Java: Automation — Recovery for Home Development](Project_022863/README.md) |
+| 022864 | [Java: Automation — Reporting for Home Development](Project_022864/README.md) |
+| 022865 | [Java: Automation — Usability Improvement for Home Development](Project_022865/README.md) |
+| 022866 | [Java: Automation — Baseline Setup for Public Dataset](Project_022866/README.md) |
+| 022867 | [Java: Automation — Automation for Public Dataset](Project_022867/README.md) |
+| 022868 | [Java: Automation — Recovery for Public Dataset](Project_022868/README.md) |
+| 022869 | [Java: Automation — Reporting for Public Dataset](Project_022869/README.md) |
+| 022870 | [Java: Automation — Usability Improvement for Public Dataset](Project_022870/README.md) |
+| 022871 | [Java: Automation — Baseline Setup for Branch Office Simulator](Project_022871/README.md) |
+| 022872 | [Java: Automation — Automation for Branch Office Simulator](Project_022872/README.md) |
+| 022873 | [Java: Automation — Recovery for Branch Office Simulator](Project_022873/README.md) |
+| 022874 | [Java: Automation — Reporting for Branch Office Simulator](Project_022874/README.md) |
+| 022875 | [Java: Automation — Usability Improvement for Branch Office Simulator](Project_022875/README.md) |
+| 022876 | [Java: Automation — Baseline Setup for Offline Classroom](Project_022876/README.md) |
+| 022877 | [Java: Automation — Automation for Offline Classroom](Project_022877/README.md) |
+| 022878 | [Java: Automation — Recovery for Offline Classroom](Project_022878/README.md) |
+| 022879 | [Java: Automation — Reporting for Offline Classroom](Project_022879/README.md) |
+| 022880 | [Java: Automation — Usability Improvement for Offline Classroom](Project_022880/README.md) |
 
 [Back to the portfolio home](../README.md)
