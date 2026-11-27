@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024118 | [Node.js: Audit — Recovery for Public Dataset](Project_024118/README.md) |
 | 024119 | [Node.js: Audit — Reporting for Public Dataset](Project_024119/README.md) |
 | 024120 | [Node.js: Audit — Usability Improvement for Public Dataset](Project_024120/README.md) |
+| 024121 | [Node.js: Audit — Baseline Setup for Branch Office Simulator](Project_024121/README.md) |
+| 024122 | [Node.js: Audit — Automation for Branch Office Simulator](Project_024122/README.md) |
+| 024123 | [Node.js: Audit — Recovery for Branch Office Simulator](Project_024123/README.md) |
+| 024124 | [Node.js: Audit — Reporting for Branch Office Simulator](Project_024124/README.md) |
+| 024125 | [Node.js: Audit — Usability Improvement for Branch Office Simulator](Project_024125/README.md) |
+| 024126 | [Node.js: Audit — Baseline Setup for Offline Classroom](Project_024126/README.md) |
+| 024127 | [Node.js: Audit — Automation for Offline Classroom](Project_024127/README.md) |
+| 024128 | [Node.js: Audit — Recovery for Offline Classroom](Project_024128/README.md) |
+| 024129 | [Node.js: Audit — Reporting for Offline Classroom](Project_024129/README.md) |
+| 024130 | [Node.js: Audit — Usability Improvement for Offline Classroom](Project_024130/README.md) |
+| 024131 | [Node.js: Audit — Baseline Setup for Single-Host Lab](Project_024131/README.md) |
+| 024132 | [Node.js: Audit — Automation for Single-Host Lab](Project_024132/README.md) |
+| 024133 | [Node.js: Audit — Recovery for Single-Host Lab](Project_024133/README.md) |
+| 024134 | [Node.js: Audit — Reporting for Single-Host Lab](Project_024134/README.md) |
+| 024135 | [Node.js: Audit — Usability Improvement for Single-Host Lab](Project_024135/README.md) |
+| 024136 | [Node.js: Audit — Baseline Setup for Two-Node Lab](Project_024136/README.md) |
+| 024137 | [Node.js: Audit — Automation for Two-Node Lab](Project_024137/README.md) |
+| 024138 | [Node.js: Audit — Recovery for Two-Node Lab](Project_024138/README.md) |
+| 024139 | [Node.js: Audit — Reporting for Two-Node Lab](Project_024139/README.md) |
+| 024140 | [Node.js: Audit — Usability Improvement for Two-Node Lab](Project_024140/README.md) |
 
 [Back to the portfolio home](../README.md)
