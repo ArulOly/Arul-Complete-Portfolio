@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028858 | [SQLite: Automation — Recovery for Small Business](Project_028858/README.md) |
 | 028859 | [SQLite: Automation — Reporting for Small Business](Project_028859/README.md) |
 | 028860 | [SQLite: Automation — Usability Improvement for Small Business](Project_028860/README.md) |
+| 028861 | [SQLite: Automation — Baseline Setup for Home Development](Project_028861/README.md) |
+| 028862 | [SQLite: Automation — Automation for Home Development](Project_028862/README.md) |
+| 028863 | [SQLite: Automation — Recovery for Home Development](Project_028863/README.md) |
+| 028864 | [SQLite: Automation — Reporting for Home Development](Project_028864/README.md) |
+| 028865 | [SQLite: Automation — Usability Improvement for Home Development](Project_028865/README.md) |
+| 028866 | [SQLite: Automation — Baseline Setup for Public Dataset](Project_028866/README.md) |
+| 028867 | [SQLite: Automation — Automation for Public Dataset](Project_028867/README.md) |
+| 028868 | [SQLite: Automation — Recovery for Public Dataset](Project_028868/README.md) |
+| 028869 | [SQLite: Automation — Reporting for Public Dataset](Project_028869/README.md) |
+| 028870 | [SQLite: Automation — Usability Improvement for Public Dataset](Project_028870/README.md) |
+| 028871 | [SQLite: Automation — Baseline Setup for Branch Office Simulator](Project_028871/README.md) |
+| 028872 | [SQLite: Automation — Automation for Branch Office Simulator](Project_028872/README.md) |
+| 028873 | [SQLite: Automation — Recovery for Branch Office Simulator](Project_028873/README.md) |
+| 028874 | [SQLite: Automation — Reporting for Branch Office Simulator](Project_028874/README.md) |
+| 028875 | [SQLite: Automation — Usability Improvement for Branch Office Simulator](Project_028875/README.md) |
+| 028876 | [SQLite: Automation — Baseline Setup for Offline Classroom](Project_028876/README.md) |
+| 028877 | [SQLite: Automation — Automation for Offline Classroom](Project_028877/README.md) |
+| 028878 | [SQLite: Automation — Recovery for Offline Classroom](Project_028878/README.md) |
+| 028879 | [SQLite: Automation — Reporting for Offline Classroom](Project_028879/README.md) |
+| 028880 | [SQLite: Automation — Usability Improvement for Offline Classroom](Project_028880/README.md) |
 
 [Back to the portfolio home](../README.md)
