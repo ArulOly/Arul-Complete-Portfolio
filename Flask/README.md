@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048258 | [Flask: Data Import — Recovery for Small Business](Project_048258/README.md) |
 | 048259 | [Flask: Data Import — Reporting for Small Business](Project_048259/README.md) |
 | 048260 | [Flask: Data Import — Usability Improvement for Small Business](Project_048260/README.md) |
+| 048261 | [Flask: Data Import — Baseline Setup for Home Development](Project_048261/README.md) |
+| 048262 | [Flask: Data Import — Automation for Home Development](Project_048262/README.md) |
+| 048263 | [Flask: Data Import — Recovery for Home Development](Project_048263/README.md) |
+| 048264 | [Flask: Data Import — Reporting for Home Development](Project_048264/README.md) |
+| 048265 | [Flask: Data Import — Usability Improvement for Home Development](Project_048265/README.md) |
+| 048266 | [Flask: Data Import — Baseline Setup for Public Dataset](Project_048266/README.md) |
+| 048267 | [Flask: Data Import — Automation for Public Dataset](Project_048267/README.md) |
+| 048268 | [Flask: Data Import — Recovery for Public Dataset](Project_048268/README.md) |
+| 048269 | [Flask: Data Import — Reporting for Public Dataset](Project_048269/README.md) |
+| 048270 | [Flask: Data Import — Usability Improvement for Public Dataset](Project_048270/README.md) |
+| 048271 | [Flask: Data Import — Baseline Setup for Branch Office Simulator](Project_048271/README.md) |
+| 048272 | [Flask: Data Import — Automation for Branch Office Simulator](Project_048272/README.md) |
+| 048273 | [Flask: Data Import — Recovery for Branch Office Simulator](Project_048273/README.md) |
+| 048274 | [Flask: Data Import — Reporting for Branch Office Simulator](Project_048274/README.md) |
+| 048275 | [Flask: Data Import — Usability Improvement for Branch Office Simulator](Project_048275/README.md) |
+| 048276 | [Flask: Data Import — Baseline Setup for Offline Classroom](Project_048276/README.md) |
+| 048277 | [Flask: Data Import — Automation for Offline Classroom](Project_048277/README.md) |
+| 048278 | [Flask: Data Import — Recovery for Offline Classroom](Project_048278/README.md) |
+| 048279 | [Flask: Data Import — Reporting for Offline Classroom](Project_048279/README.md) |
+| 048280 | [Flask: Data Import — Usability Improvement for Offline Classroom](Project_048280/README.md) |
 
 [Back to the portfolio home](../README.md)
