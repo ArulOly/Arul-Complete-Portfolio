@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005358 | [FreeBSD: Dashboard — Recovery for Small Business](Project_005358/README.md) |
 | 005359 | [FreeBSD: Dashboard — Reporting for Small Business](Project_005359/README.md) |
 | 005360 | [FreeBSD: Dashboard — Usability Improvement for Small Business](Project_005360/README.md) |
+| 005361 | [FreeBSD: Dashboard — Baseline Setup for Home Development](Project_005361/README.md) |
+| 005362 | [FreeBSD: Dashboard — Automation for Home Development](Project_005362/README.md) |
+| 005363 | [FreeBSD: Dashboard — Recovery for Home Development](Project_005363/README.md) |
+| 005364 | [FreeBSD: Dashboard — Reporting for Home Development](Project_005364/README.md) |
+| 005365 | [FreeBSD: Dashboard — Usability Improvement for Home Development](Project_005365/README.md) |
+| 005366 | [FreeBSD: Dashboard — Baseline Setup for Public Dataset](Project_005366/README.md) |
+| 005367 | [FreeBSD: Dashboard — Automation for Public Dataset](Project_005367/README.md) |
+| 005368 | [FreeBSD: Dashboard — Recovery for Public Dataset](Project_005368/README.md) |
+| 005369 | [FreeBSD: Dashboard — Reporting for Public Dataset](Project_005369/README.md) |
+| 005370 | [FreeBSD: Dashboard — Usability Improvement for Public Dataset](Project_005370/README.md) |
+| 005371 | [FreeBSD: Dashboard — Baseline Setup for Branch Office Simulator](Project_005371/README.md) |
+| 005372 | [FreeBSD: Dashboard — Automation for Branch Office Simulator](Project_005372/README.md) |
+| 005373 | [FreeBSD: Dashboard — Recovery for Branch Office Simulator](Project_005373/README.md) |
+| 005374 | [FreeBSD: Dashboard — Reporting for Branch Office Simulator](Project_005374/README.md) |
+| 005375 | [FreeBSD: Dashboard — Usability Improvement for Branch Office Simulator](Project_005375/README.md) |
+| 005376 | [FreeBSD: Dashboard — Baseline Setup for Offline Classroom](Project_005376/README.md) |
+| 005377 | [FreeBSD: Dashboard — Automation for Offline Classroom](Project_005377/README.md) |
+| 005378 | [FreeBSD: Dashboard — Recovery for Offline Classroom](Project_005378/README.md) |
+| 005379 | [FreeBSD: Dashboard — Reporting for Offline Classroom](Project_005379/README.md) |
+| 005380 | [FreeBSD: Dashboard — Usability Improvement for Offline Classroom](Project_005380/README.md) |
 
 [Back to the portfolio home](../README.md)
