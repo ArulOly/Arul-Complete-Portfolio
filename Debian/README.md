@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003818 | [Debian: Documentation Generation — Recovery for Public Dataset](Project_003818/README.md) |
 | 003819 | [Debian: Documentation Generation — Reporting for Public Dataset](Project_003819/README.md) |
 | 003820 | [Debian: Documentation Generation — Usability Improvement for Public Dataset](Project_003820/README.md) |
+| 003821 | [Debian: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_003821/README.md) |
+| 003822 | [Debian: Documentation Generation — Automation for Branch Office Simulator](Project_003822/README.md) |
+| 003823 | [Debian: Documentation Generation — Recovery for Branch Office Simulator](Project_003823/README.md) |
+| 003824 | [Debian: Documentation Generation — Reporting for Branch Office Simulator](Project_003824/README.md) |
+| 003825 | [Debian: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_003825/README.md) |
+| 003826 | [Debian: Documentation Generation — Baseline Setup for Offline Classroom](Project_003826/README.md) |
+| 003827 | [Debian: Documentation Generation — Automation for Offline Classroom](Project_003827/README.md) |
+| 003828 | [Debian: Documentation Generation — Recovery for Offline Classroom](Project_003828/README.md) |
+| 003829 | [Debian: Documentation Generation — Reporting for Offline Classroom](Project_003829/README.md) |
+| 003830 | [Debian: Documentation Generation — Usability Improvement for Offline Classroom](Project_003830/README.md) |
+| 003831 | [Debian: Documentation Generation — Baseline Setup for Single-Host Lab](Project_003831/README.md) |
+| 003832 | [Debian: Documentation Generation — Automation for Single-Host Lab](Project_003832/README.md) |
+| 003833 | [Debian: Documentation Generation — Recovery for Single-Host Lab](Project_003833/README.md) |
+| 003834 | [Debian: Documentation Generation — Reporting for Single-Host Lab](Project_003834/README.md) |
+| 003835 | [Debian: Documentation Generation — Usability Improvement for Single-Host Lab](Project_003835/README.md) |
+| 003836 | [Debian: Documentation Generation — Baseline Setup for Two-Node Lab](Project_003836/README.md) |
+| 003837 | [Debian: Documentation Generation — Automation for Two-Node Lab](Project_003837/README.md) |
+| 003838 | [Debian: Documentation Generation — Recovery for Two-Node Lab](Project_003838/README.md) |
+| 003839 | [Debian: Documentation Generation — Reporting for Two-Node Lab](Project_003839/README.md) |
+| 003840 | [Debian: Documentation Generation — Usability Improvement for Two-Node Lab](Project_003840/README.md) |
 
 [Back to the portfolio home](../README.md)
