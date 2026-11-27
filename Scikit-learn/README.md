@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034818 | [Scikit-learn: Documentation Generation — Recovery for Public Dataset](Project_034818/README.md) |
 | 034819 | [Scikit-learn: Documentation Generation — Reporting for Public Dataset](Project_034819/README.md) |
 | 034820 | [Scikit-learn: Documentation Generation — Usability Improvement for Public Dataset](Project_034820/README.md) |
+| 034821 | [Scikit-learn: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_034821/README.md) |
+| 034822 | [Scikit-learn: Documentation Generation — Automation for Branch Office Simulator](Project_034822/README.md) |
+| 034823 | [Scikit-learn: Documentation Generation — Recovery for Branch Office Simulator](Project_034823/README.md) |
+| 034824 | [Scikit-learn: Documentation Generation — Reporting for Branch Office Simulator](Project_034824/README.md) |
+| 034825 | [Scikit-learn: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_034825/README.md) |
+| 034826 | [Scikit-learn: Documentation Generation — Baseline Setup for Offline Classroom](Project_034826/README.md) |
+| 034827 | [Scikit-learn: Documentation Generation — Automation for Offline Classroom](Project_034827/README.md) |
+| 034828 | [Scikit-learn: Documentation Generation — Recovery for Offline Classroom](Project_034828/README.md) |
+| 034829 | [Scikit-learn: Documentation Generation — Reporting for Offline Classroom](Project_034829/README.md) |
+| 034830 | [Scikit-learn: Documentation Generation — Usability Improvement for Offline Classroom](Project_034830/README.md) |
+| 034831 | [Scikit-learn: Documentation Generation — Baseline Setup for Single-Host Lab](Project_034831/README.md) |
+| 034832 | [Scikit-learn: Documentation Generation — Automation for Single-Host Lab](Project_034832/README.md) |
+| 034833 | [Scikit-learn: Documentation Generation — Recovery for Single-Host Lab](Project_034833/README.md) |
+| 034834 | [Scikit-learn: Documentation Generation — Reporting for Single-Host Lab](Project_034834/README.md) |
+| 034835 | [Scikit-learn: Documentation Generation — Usability Improvement for Single-Host Lab](Project_034835/README.md) |
+| 034836 | [Scikit-learn: Documentation Generation — Baseline Setup for Two-Node Lab](Project_034836/README.md) |
+| 034837 | [Scikit-learn: Documentation Generation — Automation for Two-Node Lab](Project_034837/README.md) |
+| 034838 | [Scikit-learn: Documentation Generation — Recovery for Two-Node Lab](Project_034838/README.md) |
+| 034839 | [Scikit-learn: Documentation Generation — Reporting for Two-Node Lab](Project_034839/README.md) |
+| 034840 | [Scikit-learn: Documentation Generation — Usability Improvement for Two-Node Lab](Project_034840/README.md) |
 
 [Back to the portfolio home](../README.md)
