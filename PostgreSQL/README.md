@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025398 | [PostgreSQL: Dashboard — Recovery for Portfolio Demo](Project_025398/README.md) |
 | 025399 | [PostgreSQL: Dashboard — Reporting for Portfolio Demo](Project_025399/README.md) |
 | 025400 | [PostgreSQL: Dashboard — Usability Improvement for Portfolio Demo](Project_025400/README.md) |
+| 025401 | [PostgreSQL: Alerting — Baseline Setup for School Lab](Project_025401/README.md) |
+| 025402 | [PostgreSQL: Alerting — Automation for School Lab](Project_025402/README.md) |
+| 025403 | [PostgreSQL: Alerting — Recovery for School Lab](Project_025403/README.md) |
+| 025404 | [PostgreSQL: Alerting — Reporting for School Lab](Project_025404/README.md) |
+| 025405 | [PostgreSQL: Alerting — Usability Improvement for School Lab](Project_025405/README.md) |
+| 025406 | [PostgreSQL: Alerting — Baseline Setup for Small Business](Project_025406/README.md) |
+| 025407 | [PostgreSQL: Alerting — Automation for Small Business](Project_025407/README.md) |
+| 025408 | [PostgreSQL: Alerting — Recovery for Small Business](Project_025408/README.md) |
+| 025409 | [PostgreSQL: Alerting — Reporting for Small Business](Project_025409/README.md) |
+| 025410 | [PostgreSQL: Alerting — Usability Improvement for Small Business](Project_025410/README.md) |
+| 025411 | [PostgreSQL: Alerting — Baseline Setup for Home Development](Project_025411/README.md) |
+| 025412 | [PostgreSQL: Alerting — Automation for Home Development](Project_025412/README.md) |
+| 025413 | [PostgreSQL: Alerting — Recovery for Home Development](Project_025413/README.md) |
+| 025414 | [PostgreSQL: Alerting — Reporting for Home Development](Project_025414/README.md) |
+| 025415 | [PostgreSQL: Alerting — Usability Improvement for Home Development](Project_025415/README.md) |
+| 025416 | [PostgreSQL: Alerting — Baseline Setup for Public Dataset](Project_025416/README.md) |
+| 025417 | [PostgreSQL: Alerting — Automation for Public Dataset](Project_025417/README.md) |
+| 025418 | [PostgreSQL: Alerting — Recovery for Public Dataset](Project_025418/README.md) |
+| 025419 | [PostgreSQL: Alerting — Reporting for Public Dataset](Project_025419/README.md) |
+| 025420 | [PostgreSQL: Alerting — Usability Improvement for Public Dataset](Project_025420/README.md) |
 
 [Back to the portfolio home](../README.md)
