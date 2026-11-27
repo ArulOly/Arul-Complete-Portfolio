@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045478 | [Redis: Scheduled Reporting — Recovery for Offline Classroom](Project_045478/README.md) |
 | 045479 | [Redis: Scheduled Reporting — Reporting for Offline Classroom](Project_045479/README.md) |
 | 045480 | [Redis: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_045480/README.md) |
+| 045481 | [Redis: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_045481/README.md) |
+| 045482 | [Redis: Scheduled Reporting — Automation for Single-Host Lab](Project_045482/README.md) |
+| 045483 | [Redis: Scheduled Reporting — Recovery for Single-Host Lab](Project_045483/README.md) |
+| 045484 | [Redis: Scheduled Reporting — Reporting for Single-Host Lab](Project_045484/README.md) |
+| 045485 | [Redis: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_045485/README.md) |
+| 045486 | [Redis: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_045486/README.md) |
+| 045487 | [Redis: Scheduled Reporting — Automation for Two-Node Lab](Project_045487/README.md) |
+| 045488 | [Redis: Scheduled Reporting — Recovery for Two-Node Lab](Project_045488/README.md) |
+| 045489 | [Redis: Scheduled Reporting — Reporting for Two-Node Lab](Project_045489/README.md) |
+| 045490 | [Redis: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_045490/README.md) |
+| 045491 | [Redis: Scheduled Reporting — Baseline Setup for Help Desk](Project_045491/README.md) |
+| 045492 | [Redis: Scheduled Reporting — Automation for Help Desk](Project_045492/README.md) |
+| 045493 | [Redis: Scheduled Reporting — Recovery for Help Desk](Project_045493/README.md) |
+| 045494 | [Redis: Scheduled Reporting — Reporting for Help Desk](Project_045494/README.md) |
+| 045495 | [Redis: Scheduled Reporting — Usability Improvement for Help Desk](Project_045495/README.md) |
+| 045496 | [Redis: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_045496/README.md) |
+| 045497 | [Redis: Scheduled Reporting — Automation for Portfolio Demo](Project_045497/README.md) |
+| 045498 | [Redis: Scheduled Reporting — Recovery for Portfolio Demo](Project_045498/README.md) |
+| 045499 | [Redis: Scheduled Reporting — Reporting for Portfolio Demo](Project_045499/README.md) |
+| 045500 | [Redis: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_045500/README.md) |
 
 [Back to the portfolio home](../README.md)
