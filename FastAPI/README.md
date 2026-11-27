@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049318 | [FastAPI: Data Export — Recovery for Public Dataset](Project_049318/README.md) |
 | 049319 | [FastAPI: Data Export — Reporting for Public Dataset](Project_049319/README.md) |
 | 049320 | [FastAPI: Data Export — Usability Improvement for Public Dataset](Project_049320/README.md) |
+| 049321 | [FastAPI: Data Export — Baseline Setup for Branch Office Simulator](Project_049321/README.md) |
+| 049322 | [FastAPI: Data Export — Automation for Branch Office Simulator](Project_049322/README.md) |
+| 049323 | [FastAPI: Data Export — Recovery for Branch Office Simulator](Project_049323/README.md) |
+| 049324 | [FastAPI: Data Export — Reporting for Branch Office Simulator](Project_049324/README.md) |
+| 049325 | [FastAPI: Data Export — Usability Improvement for Branch Office Simulator](Project_049325/README.md) |
+| 049326 | [FastAPI: Data Export — Baseline Setup for Offline Classroom](Project_049326/README.md) |
+| 049327 | [FastAPI: Data Export — Automation for Offline Classroom](Project_049327/README.md) |
+| 049328 | [FastAPI: Data Export — Recovery for Offline Classroom](Project_049328/README.md) |
+| 049329 | [FastAPI: Data Export — Reporting for Offline Classroom](Project_049329/README.md) |
+| 049330 | [FastAPI: Data Export — Usability Improvement for Offline Classroom](Project_049330/README.md) |
+| 049331 | [FastAPI: Data Export — Baseline Setup for Single-Host Lab](Project_049331/README.md) |
+| 049332 | [FastAPI: Data Export — Automation for Single-Host Lab](Project_049332/README.md) |
+| 049333 | [FastAPI: Data Export — Recovery for Single-Host Lab](Project_049333/README.md) |
+| 049334 | [FastAPI: Data Export — Reporting for Single-Host Lab](Project_049334/README.md) |
+| 049335 | [FastAPI: Data Export — Usability Improvement for Single-Host Lab](Project_049335/README.md) |
+| 049336 | [FastAPI: Data Export — Baseline Setup for Two-Node Lab](Project_049336/README.md) |
+| 049337 | [FastAPI: Data Export — Automation for Two-Node Lab](Project_049337/README.md) |
+| 049338 | [FastAPI: Data Export — Recovery for Two-Node Lab](Project_049338/README.md) |
+| 049339 | [FastAPI: Data Export — Reporting for Two-Node Lab](Project_049339/README.md) |
+| 049340 | [FastAPI: Data Export — Usability Improvement for Two-Node Lab](Project_049340/README.md) |
 
 [Back to the portfolio home](../README.md)
