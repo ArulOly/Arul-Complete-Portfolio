@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025878 | [PostgreSQL: Automation — Recovery for Offline Classroom](Project_025878/README.md) |
 | 025879 | [PostgreSQL: Automation — Reporting for Offline Classroom](Project_025879/README.md) |
 | 025880 | [PostgreSQL: Automation — Usability Improvement for Offline Classroom](Project_025880/README.md) |
+| 025881 | [PostgreSQL: Automation — Baseline Setup for Single-Host Lab](Project_025881/README.md) |
+| 025882 | [PostgreSQL: Automation — Automation for Single-Host Lab](Project_025882/README.md) |
+| 025883 | [PostgreSQL: Automation — Recovery for Single-Host Lab](Project_025883/README.md) |
+| 025884 | [PostgreSQL: Automation — Reporting for Single-Host Lab](Project_025884/README.md) |
+| 025885 | [PostgreSQL: Automation — Usability Improvement for Single-Host Lab](Project_025885/README.md) |
+| 025886 | [PostgreSQL: Automation — Baseline Setup for Two-Node Lab](Project_025886/README.md) |
+| 025887 | [PostgreSQL: Automation — Automation for Two-Node Lab](Project_025887/README.md) |
+| 025888 | [PostgreSQL: Automation — Recovery for Two-Node Lab](Project_025888/README.md) |
+| 025889 | [PostgreSQL: Automation — Reporting for Two-Node Lab](Project_025889/README.md) |
+| 025890 | [PostgreSQL: Automation — Usability Improvement for Two-Node Lab](Project_025890/README.md) |
+| 025891 | [PostgreSQL: Automation — Baseline Setup for Help Desk](Project_025891/README.md) |
+| 025892 | [PostgreSQL: Automation — Automation for Help Desk](Project_025892/README.md) |
+| 025893 | [PostgreSQL: Automation — Recovery for Help Desk](Project_025893/README.md) |
+| 025894 | [PostgreSQL: Automation — Reporting for Help Desk](Project_025894/README.md) |
+| 025895 | [PostgreSQL: Automation — Usability Improvement for Help Desk](Project_025895/README.md) |
+| 025896 | [PostgreSQL: Automation — Baseline Setup for Portfolio Demo](Project_025896/README.md) |
+| 025897 | [PostgreSQL: Automation — Automation for Portfolio Demo](Project_025897/README.md) |
+| 025898 | [PostgreSQL: Automation — Recovery for Portfolio Demo](Project_025898/README.md) |
+| 025899 | [PostgreSQL: Automation — Reporting for Portfolio Demo](Project_025899/README.md) |
+| 025900 | [PostgreSQL: Automation — Usability Improvement for Portfolio Demo](Project_025900/README.md) |
 
 [Back to the portfolio home](../README.md)
