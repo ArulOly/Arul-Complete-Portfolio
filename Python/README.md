@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -124,5 +124,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019078 | [Python: Monitoring — Recovery for Offline Classroom](Project_019078/README.md) |
 | 019079 | [Python: Monitoring — Reporting for Offline Classroom](Project_019079/README.md) |
 | 019080 | [Python: Monitoring — Usability Improvement for Offline Classroom](Project_019080/README.md) |
+| 019081 | [Python: Monitoring — Baseline Setup for Single-Host Lab](Project_019081/README.md) |
+| 019082 | [Python: Monitoring — Automation for Single-Host Lab](Project_019082/README.md) |
+| 019083 | [Python: Monitoring — Recovery for Single-Host Lab](Project_019083/README.md) |
+| 019084 | [Python: Monitoring — Reporting for Single-Host Lab](Project_019084/README.md) |
+| 019085 | [Python: Monitoring — Usability Improvement for Single-Host Lab](Project_019085/README.md) |
+| 019086 | [Python: Monitoring — Baseline Setup for Two-Node Lab](Project_019086/README.md) |
+| 019087 | [Python: Monitoring — Automation for Two-Node Lab](Project_019087/README.md) |
+| 019088 | [Python: Monitoring — Recovery for Two-Node Lab](Project_019088/README.md) |
+| 019089 | [Python: Monitoring — Reporting for Two-Node Lab](Project_019089/README.md) |
+| 019090 | [Python: Monitoring — Usability Improvement for Two-Node Lab](Project_019090/README.md) |
+| 019091 | [Python: Monitoring — Baseline Setup for Help Desk](Project_019091/README.md) |
+| 019092 | [Python: Monitoring — Automation for Help Desk](Project_019092/README.md) |
+| 019093 | [Python: Monitoring — Recovery for Help Desk](Project_019093/README.md) |
+| 019094 | [Python: Monitoring — Reporting for Help Desk](Project_019094/README.md) |
+| 019095 | [Python: Monitoring — Usability Improvement for Help Desk](Project_019095/README.md) |
+| 019096 | [Python: Monitoring — Baseline Setup for Portfolio Demo](Project_019096/README.md) |
+| 019097 | [Python: Monitoring — Automation for Portfolio Demo](Project_019097/README.md) |
+| 019098 | [Python: Monitoring — Recovery for Portfolio Demo](Project_019098/README.md) |
+| 019099 | [Python: Monitoring — Reporting for Portfolio Demo](Project_019099/README.md) |
+| 019100 | [Python: Monitoring — Usability Improvement for Portfolio Demo](Project_019100/README.md) |
 
 [Back to the portfolio home](../README.md)
