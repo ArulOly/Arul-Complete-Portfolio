@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020658 | [JavaScript: Configuration Comparison — Recovery for Small Business](Project_020658/README.md) |
 | 020659 | [JavaScript: Configuration Comparison — Reporting for Small Business](Project_020659/README.md) |
 | 020660 | [JavaScript: Configuration Comparison — Usability Improvement for Small Business](Project_020660/README.md) |
+| 020661 | [JavaScript: Configuration Comparison — Baseline Setup for Home Development](Project_020661/README.md) |
+| 020662 | [JavaScript: Configuration Comparison — Automation for Home Development](Project_020662/README.md) |
+| 020663 | [JavaScript: Configuration Comparison — Recovery for Home Development](Project_020663/README.md) |
+| 020664 | [JavaScript: Configuration Comparison — Reporting for Home Development](Project_020664/README.md) |
+| 020665 | [JavaScript: Configuration Comparison — Usability Improvement for Home Development](Project_020665/README.md) |
+| 020666 | [JavaScript: Configuration Comparison — Baseline Setup for Public Dataset](Project_020666/README.md) |
+| 020667 | [JavaScript: Configuration Comparison — Automation for Public Dataset](Project_020667/README.md) |
+| 020668 | [JavaScript: Configuration Comparison — Recovery for Public Dataset](Project_020668/README.md) |
+| 020669 | [JavaScript: Configuration Comparison — Reporting for Public Dataset](Project_020669/README.md) |
+| 020670 | [JavaScript: Configuration Comparison — Usability Improvement for Public Dataset](Project_020670/README.md) |
+| 020671 | [JavaScript: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_020671/README.md) |
+| 020672 | [JavaScript: Configuration Comparison — Automation for Branch Office Simulator](Project_020672/README.md) |
+| 020673 | [JavaScript: Configuration Comparison — Recovery for Branch Office Simulator](Project_020673/README.md) |
+| 020674 | [JavaScript: Configuration Comparison — Reporting for Branch Office Simulator](Project_020674/README.md) |
+| 020675 | [JavaScript: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_020675/README.md) |
+| 020676 | [JavaScript: Configuration Comparison — Baseline Setup for Offline Classroom](Project_020676/README.md) |
+| 020677 | [JavaScript: Configuration Comparison — Automation for Offline Classroom](Project_020677/README.md) |
+| 020678 | [JavaScript: Configuration Comparison — Recovery for Offline Classroom](Project_020678/README.md) |
+| 020679 | [JavaScript: Configuration Comparison — Reporting for Offline Classroom](Project_020679/README.md) |
+| 020680 | [JavaScript: Configuration Comparison — Usability Improvement for Offline Classroom](Project_020680/README.md) |
 
 [Back to the portfolio home](../README.md)
