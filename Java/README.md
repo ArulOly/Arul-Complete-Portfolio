@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022978 | [Java: Recovery Test — Recovery for Offline Classroom](Project_022978/README.md) |
 | 022979 | [Java: Recovery Test — Reporting for Offline Classroom](Project_022979/README.md) |
 | 022980 | [Java: Recovery Test — Usability Improvement for Offline Classroom](Project_022980/README.md) |
+| 022981 | [Java: Recovery Test — Baseline Setup for Single-Host Lab](Project_022981/README.md) |
+| 022982 | [Java: Recovery Test — Automation for Single-Host Lab](Project_022982/README.md) |
+| 022983 | [Java: Recovery Test — Recovery for Single-Host Lab](Project_022983/README.md) |
+| 022984 | [Java: Recovery Test — Reporting for Single-Host Lab](Project_022984/README.md) |
+| 022985 | [Java: Recovery Test — Usability Improvement for Single-Host Lab](Project_022985/README.md) |
+| 022986 | [Java: Recovery Test — Baseline Setup for Two-Node Lab](Project_022986/README.md) |
+| 022987 | [Java: Recovery Test — Automation for Two-Node Lab](Project_022987/README.md) |
+| 022988 | [Java: Recovery Test — Recovery for Two-Node Lab](Project_022988/README.md) |
+| 022989 | [Java: Recovery Test — Reporting for Two-Node Lab](Project_022989/README.md) |
+| 022990 | [Java: Recovery Test — Usability Improvement for Two-Node Lab](Project_022990/README.md) |
+| 022991 | [Java: Recovery Test — Baseline Setup for Help Desk](Project_022991/README.md) |
+| 022992 | [Java: Recovery Test — Automation for Help Desk](Project_022992/README.md) |
+| 022993 | [Java: Recovery Test — Recovery for Help Desk](Project_022993/README.md) |
+| 022994 | [Java: Recovery Test — Reporting for Help Desk](Project_022994/README.md) |
+| 022995 | [Java: Recovery Test — Usability Improvement for Help Desk](Project_022995/README.md) |
+| 022996 | [Java: Recovery Test — Baseline Setup for Portfolio Demo](Project_022996/README.md) |
+| 022997 | [Java: Recovery Test — Automation for Portfolio Demo](Project_022997/README.md) |
+| 022998 | [Java: Recovery Test — Recovery for Portfolio Demo](Project_022998/README.md) |
+| 022999 | [Java: Recovery Test — Reporting for Portfolio Demo](Project_022999/README.md) |
+| 023000 | [Java: Recovery Test — Usability Improvement for Portfolio Demo](Project_023000/README.md) |
 
 [Back to the portfolio home](../README.md)
