@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045278 | [Redis: Data Import — Recovery for Offline Classroom](Project_045278/README.md) |
 | 045279 | [Redis: Data Import — Reporting for Offline Classroom](Project_045279/README.md) |
 | 045280 | [Redis: Data Import — Usability Improvement for Offline Classroom](Project_045280/README.md) |
+| 045281 | [Redis: Data Import — Baseline Setup for Single-Host Lab](Project_045281/README.md) |
+| 045282 | [Redis: Data Import — Automation for Single-Host Lab](Project_045282/README.md) |
+| 045283 | [Redis: Data Import — Recovery for Single-Host Lab](Project_045283/README.md) |
+| 045284 | [Redis: Data Import — Reporting for Single-Host Lab](Project_045284/README.md) |
+| 045285 | [Redis: Data Import — Usability Improvement for Single-Host Lab](Project_045285/README.md) |
+| 045286 | [Redis: Data Import — Baseline Setup for Two-Node Lab](Project_045286/README.md) |
+| 045287 | [Redis: Data Import — Automation for Two-Node Lab](Project_045287/README.md) |
+| 045288 | [Redis: Data Import — Recovery for Two-Node Lab](Project_045288/README.md) |
+| 045289 | [Redis: Data Import — Reporting for Two-Node Lab](Project_045289/README.md) |
+| 045290 | [Redis: Data Import — Usability Improvement for Two-Node Lab](Project_045290/README.md) |
+| 045291 | [Redis: Data Import — Baseline Setup for Help Desk](Project_045291/README.md) |
+| 045292 | [Redis: Data Import — Automation for Help Desk](Project_045292/README.md) |
+| 045293 | [Redis: Data Import — Recovery for Help Desk](Project_045293/README.md) |
+| 045294 | [Redis: Data Import — Reporting for Help Desk](Project_045294/README.md) |
+| 045295 | [Redis: Data Import — Usability Improvement for Help Desk](Project_045295/README.md) |
+| 045296 | [Redis: Data Import — Baseline Setup for Portfolio Demo](Project_045296/README.md) |
+| 045297 | [Redis: Data Import — Automation for Portfolio Demo](Project_045297/README.md) |
+| 045298 | [Redis: Data Import — Recovery for Portfolio Demo](Project_045298/README.md) |
+| 045299 | [Redis: Data Import — Reporting for Portfolio Demo](Project_045299/README.md) |
+| 045300 | [Redis: Data Import — Usability Improvement for Portfolio Demo](Project_045300/README.md) |
 
 [Back to the portfolio home](../README.md)
