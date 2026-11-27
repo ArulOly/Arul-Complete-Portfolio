@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003978 | [Debian: Recovery Test — Recovery for Offline Classroom](Project_003978/README.md) |
 | 003979 | [Debian: Recovery Test — Reporting for Offline Classroom](Project_003979/README.md) |
 | 003980 | [Debian: Recovery Test — Usability Improvement for Offline Classroom](Project_003980/README.md) |
+| 003981 | [Debian: Recovery Test — Baseline Setup for Single-Host Lab](Project_003981/README.md) |
+| 003982 | [Debian: Recovery Test — Automation for Single-Host Lab](Project_003982/README.md) |
+| 003983 | [Debian: Recovery Test — Recovery for Single-Host Lab](Project_003983/README.md) |
+| 003984 | [Debian: Recovery Test — Reporting for Single-Host Lab](Project_003984/README.md) |
+| 003985 | [Debian: Recovery Test — Usability Improvement for Single-Host Lab](Project_003985/README.md) |
+| 003986 | [Debian: Recovery Test — Baseline Setup for Two-Node Lab](Project_003986/README.md) |
+| 003987 | [Debian: Recovery Test — Automation for Two-Node Lab](Project_003987/README.md) |
+| 003988 | [Debian: Recovery Test — Recovery for Two-Node Lab](Project_003988/README.md) |
+| 003989 | [Debian: Recovery Test — Reporting for Two-Node Lab](Project_003989/README.md) |
+| 003990 | [Debian: Recovery Test — Usability Improvement for Two-Node Lab](Project_003990/README.md) |
+| 003991 | [Debian: Recovery Test — Baseline Setup for Help Desk](Project_003991/README.md) |
+| 003992 | [Debian: Recovery Test — Automation for Help Desk](Project_003992/README.md) |
+| 003993 | [Debian: Recovery Test — Recovery for Help Desk](Project_003993/README.md) |
+| 003994 | [Debian: Recovery Test — Reporting for Help Desk](Project_003994/README.md) |
+| 003995 | [Debian: Recovery Test — Usability Improvement for Help Desk](Project_003995/README.md) |
+| 003996 | [Debian: Recovery Test — Baseline Setup for Portfolio Demo](Project_003996/README.md) |
+| 003997 | [Debian: Recovery Test — Automation for Portfolio Demo](Project_003997/README.md) |
+| 003998 | [Debian: Recovery Test — Recovery for Portfolio Demo](Project_003998/README.md) |
+| 003999 | [Debian: Recovery Test — Reporting for Portfolio Demo](Project_003999/README.md) |
+| 004000 | [Debian: Recovery Test — Usability Improvement for Portfolio Demo](Project_004000/README.md) |
 
 [Back to the portfolio home](../README.md)
