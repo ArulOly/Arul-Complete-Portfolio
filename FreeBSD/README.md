@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005138 | [FreeBSD: Audit — Recovery for Two-Node Lab](Project_005138/README.md) |
 | 005139 | [FreeBSD: Audit — Reporting for Two-Node Lab](Project_005139/README.md) |
 | 005140 | [FreeBSD: Audit — Usability Improvement for Two-Node Lab](Project_005140/README.md) |
+| 005141 | [FreeBSD: Audit — Baseline Setup for Help Desk](Project_005141/README.md) |
+| 005142 | [FreeBSD: Audit — Automation for Help Desk](Project_005142/README.md) |
+| 005143 | [FreeBSD: Audit — Recovery for Help Desk](Project_005143/README.md) |
+| 005144 | [FreeBSD: Audit — Reporting for Help Desk](Project_005144/README.md) |
+| 005145 | [FreeBSD: Audit — Usability Improvement for Help Desk](Project_005145/README.md) |
+| 005146 | [FreeBSD: Audit — Baseline Setup for Portfolio Demo](Project_005146/README.md) |
+| 005147 | [FreeBSD: Audit — Automation for Portfolio Demo](Project_005147/README.md) |
+| 005148 | [FreeBSD: Audit — Recovery for Portfolio Demo](Project_005148/README.md) |
+| 005149 | [FreeBSD: Audit — Reporting for Portfolio Demo](Project_005149/README.md) |
+| 005150 | [FreeBSD: Audit — Usability Improvement for Portfolio Demo](Project_005150/README.md) |
+| 005151 | [FreeBSD: Log Analysis — Baseline Setup for School Lab](Project_005151/README.md) |
+| 005152 | [FreeBSD: Log Analysis — Automation for School Lab](Project_005152/README.md) |
+| 005153 | [FreeBSD: Log Analysis — Recovery for School Lab](Project_005153/README.md) |
+| 005154 | [FreeBSD: Log Analysis — Reporting for School Lab](Project_005154/README.md) |
+| 005155 | [FreeBSD: Log Analysis — Usability Improvement for School Lab](Project_005155/README.md) |
+| 005156 | [FreeBSD: Log Analysis — Baseline Setup for Small Business](Project_005156/README.md) |
+| 005157 | [FreeBSD: Log Analysis — Automation for Small Business](Project_005157/README.md) |
+| 005158 | [FreeBSD: Log Analysis — Recovery for Small Business](Project_005158/README.md) |
+| 005159 | [FreeBSD: Log Analysis — Reporting for Small Business](Project_005159/README.md) |
+| 005160 | [FreeBSD: Log Analysis — Usability Improvement for Small Business](Project_005160/README.md) |
 
 [Back to the portfolio home](../README.md)
