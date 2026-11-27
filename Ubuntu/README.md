@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002718 | [Ubuntu: Error Handling — Recovery for Public Dataset](Project_002718/README.md) |
 | 002719 | [Ubuntu: Error Handling — Reporting for Public Dataset](Project_002719/README.md) |
 | 002720 | [Ubuntu: Error Handling — Usability Improvement for Public Dataset](Project_002720/README.md) |
+| 002721 | [Ubuntu: Error Handling — Baseline Setup for Branch Office Simulator](Project_002721/README.md) |
+| 002722 | [Ubuntu: Error Handling — Automation for Branch Office Simulator](Project_002722/README.md) |
+| 002723 | [Ubuntu: Error Handling — Recovery for Branch Office Simulator](Project_002723/README.md) |
+| 002724 | [Ubuntu: Error Handling — Reporting for Branch Office Simulator](Project_002724/README.md) |
+| 002725 | [Ubuntu: Error Handling — Usability Improvement for Branch Office Simulator](Project_002725/README.md) |
+| 002726 | [Ubuntu: Error Handling — Baseline Setup for Offline Classroom](Project_002726/README.md) |
+| 002727 | [Ubuntu: Error Handling — Automation for Offline Classroom](Project_002727/README.md) |
+| 002728 | [Ubuntu: Error Handling — Recovery for Offline Classroom](Project_002728/README.md) |
+| 002729 | [Ubuntu: Error Handling — Reporting for Offline Classroom](Project_002729/README.md) |
+| 002730 | [Ubuntu: Error Handling — Usability Improvement for Offline Classroom](Project_002730/README.md) |
+| 002731 | [Ubuntu: Error Handling — Baseline Setup for Single-Host Lab](Project_002731/README.md) |
+| 002732 | [Ubuntu: Error Handling — Automation for Single-Host Lab](Project_002732/README.md) |
+| 002733 | [Ubuntu: Error Handling — Recovery for Single-Host Lab](Project_002733/README.md) |
+| 002734 | [Ubuntu: Error Handling — Reporting for Single-Host Lab](Project_002734/README.md) |
+| 002735 | [Ubuntu: Error Handling — Usability Improvement for Single-Host Lab](Project_002735/README.md) |
+| 002736 | [Ubuntu: Error Handling — Baseline Setup for Two-Node Lab](Project_002736/README.md) |
+| 002737 | [Ubuntu: Error Handling — Automation for Two-Node Lab](Project_002737/README.md) |
+| 002738 | [Ubuntu: Error Handling — Recovery for Two-Node Lab](Project_002738/README.md) |
+| 002739 | [Ubuntu: Error Handling — Reporting for Two-Node Lab](Project_002739/README.md) |
+| 002740 | [Ubuntu: Error Handling — Usability Improvement for Two-Node Lab](Project_002740/README.md) |
 
 [Back to the portfolio home](../README.md)
