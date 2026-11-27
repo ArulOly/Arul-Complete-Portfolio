@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021878 | [TypeScript: Automation — Recovery for Offline Classroom](Project_021878/README.md) |
 | 021879 | [TypeScript: Automation — Reporting for Offline Classroom](Project_021879/README.md) |
 | 021880 | [TypeScript: Automation — Usability Improvement for Offline Classroom](Project_021880/README.md) |
+| 021881 | [TypeScript: Automation — Baseline Setup for Single-Host Lab](Project_021881/README.md) |
+| 021882 | [TypeScript: Automation — Automation for Single-Host Lab](Project_021882/README.md) |
+| 021883 | [TypeScript: Automation — Recovery for Single-Host Lab](Project_021883/README.md) |
+| 021884 | [TypeScript: Automation — Reporting for Single-Host Lab](Project_021884/README.md) |
+| 021885 | [TypeScript: Automation — Usability Improvement for Single-Host Lab](Project_021885/README.md) |
+| 021886 | [TypeScript: Automation — Baseline Setup for Two-Node Lab](Project_021886/README.md) |
+| 021887 | [TypeScript: Automation — Automation for Two-Node Lab](Project_021887/README.md) |
+| 021888 | [TypeScript: Automation — Recovery for Two-Node Lab](Project_021888/README.md) |
+| 021889 | [TypeScript: Automation — Reporting for Two-Node Lab](Project_021889/README.md) |
+| 021890 | [TypeScript: Automation — Usability Improvement for Two-Node Lab](Project_021890/README.md) |
+| 021891 | [TypeScript: Automation — Baseline Setup for Help Desk](Project_021891/README.md) |
+| 021892 | [TypeScript: Automation — Automation for Help Desk](Project_021892/README.md) |
+| 021893 | [TypeScript: Automation — Recovery for Help Desk](Project_021893/README.md) |
+| 021894 | [TypeScript: Automation — Reporting for Help Desk](Project_021894/README.md) |
+| 021895 | [TypeScript: Automation — Usability Improvement for Help Desk](Project_021895/README.md) |
+| 021896 | [TypeScript: Automation — Baseline Setup for Portfolio Demo](Project_021896/README.md) |
+| 021897 | [TypeScript: Automation — Automation for Portfolio Demo](Project_021897/README.md) |
+| 021898 | [TypeScript: Automation — Recovery for Portfolio Demo](Project_021898/README.md) |
+| 021899 | [TypeScript: Automation — Reporting for Portfolio Demo](Project_021899/README.md) |
+| 021900 | [TypeScript: Automation — Usability Improvement for Portfolio Demo](Project_021900/README.md) |
 
 [Back to the portfolio home](../README.md)
