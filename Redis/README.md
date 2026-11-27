@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045498 | [Redis: Scheduled Reporting — Recovery for Portfolio Demo](Project_045498/README.md) |
 | 045499 | [Redis: Scheduled Reporting — Reporting for Portfolio Demo](Project_045499/README.md) |
 | 045500 | [Redis: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_045500/README.md) |
+| 045501 | [Redis: Access Review — Baseline Setup for School Lab](Project_045501/README.md) |
+| 045502 | [Redis: Access Review — Automation for School Lab](Project_045502/README.md) |
+| 045503 | [Redis: Access Review — Recovery for School Lab](Project_045503/README.md) |
+| 045504 | [Redis: Access Review — Reporting for School Lab](Project_045504/README.md) |
+| 045505 | [Redis: Access Review — Usability Improvement for School Lab](Project_045505/README.md) |
+| 045506 | [Redis: Access Review — Baseline Setup for Small Business](Project_045506/README.md) |
+| 045507 | [Redis: Access Review — Automation for Small Business](Project_045507/README.md) |
+| 045508 | [Redis: Access Review — Recovery for Small Business](Project_045508/README.md) |
+| 045509 | [Redis: Access Review — Reporting for Small Business](Project_045509/README.md) |
+| 045510 | [Redis: Access Review — Usability Improvement for Small Business](Project_045510/README.md) |
+| 045511 | [Redis: Access Review — Baseline Setup for Home Development](Project_045511/README.md) |
+| 045512 | [Redis: Access Review — Automation for Home Development](Project_045512/README.md) |
+| 045513 | [Redis: Access Review — Recovery for Home Development](Project_045513/README.md) |
+| 045514 | [Redis: Access Review — Reporting for Home Development](Project_045514/README.md) |
+| 045515 | [Redis: Access Review — Usability Improvement for Home Development](Project_045515/README.md) |
+| 045516 | [Redis: Access Review — Baseline Setup for Public Dataset](Project_045516/README.md) |
+| 045517 | [Redis: Access Review — Automation for Public Dataset](Project_045517/README.md) |
+| 045518 | [Redis: Access Review — Recovery for Public Dataset](Project_045518/README.md) |
+| 045519 | [Redis: Access Review — Reporting for Public Dataset](Project_045519/README.md) |
+| 045520 | [Redis: Access Review — Usability Improvement for Public Dataset](Project_045520/README.md) |
 
 [Back to the portfolio home](../README.md)
