@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032058 | [Power BI: Monitoring — Recovery for Small Business](Project_032058/README.md) |
 | 032059 | [Power BI: Monitoring — Reporting for Small Business](Project_032059/README.md) |
 | 032060 | [Power BI: Monitoring — Usability Improvement for Small Business](Project_032060/README.md) |
+| 032061 | [Power BI: Monitoring — Baseline Setup for Home Development](Project_032061/README.md) |
+| 032062 | [Power BI: Monitoring — Automation for Home Development](Project_032062/README.md) |
+| 032063 | [Power BI: Monitoring — Recovery for Home Development](Project_032063/README.md) |
+| 032064 | [Power BI: Monitoring — Reporting for Home Development](Project_032064/README.md) |
+| 032065 | [Power BI: Monitoring — Usability Improvement for Home Development](Project_032065/README.md) |
+| 032066 | [Power BI: Monitoring — Baseline Setup for Public Dataset](Project_032066/README.md) |
+| 032067 | [Power BI: Monitoring — Automation for Public Dataset](Project_032067/README.md) |
+| 032068 | [Power BI: Monitoring — Recovery for Public Dataset](Project_032068/README.md) |
+| 032069 | [Power BI: Monitoring — Reporting for Public Dataset](Project_032069/README.md) |
+| 032070 | [Power BI: Monitoring — Usability Improvement for Public Dataset](Project_032070/README.md) |
+| 032071 | [Power BI: Monitoring — Baseline Setup for Branch Office Simulator](Project_032071/README.md) |
+| 032072 | [Power BI: Monitoring — Automation for Branch Office Simulator](Project_032072/README.md) |
+| 032073 | [Power BI: Monitoring — Recovery for Branch Office Simulator](Project_032073/README.md) |
+| 032074 | [Power BI: Monitoring — Reporting for Branch Office Simulator](Project_032074/README.md) |
+| 032075 | [Power BI: Monitoring — Usability Improvement for Branch Office Simulator](Project_032075/README.md) |
+| 032076 | [Power BI: Monitoring — Baseline Setup for Offline Classroom](Project_032076/README.md) |
+| 032077 | [Power BI: Monitoring — Automation for Offline Classroom](Project_032077/README.md) |
+| 032078 | [Power BI: Monitoring — Recovery for Offline Classroom](Project_032078/README.md) |
+| 032079 | [Power BI: Monitoring — Reporting for Offline Classroom](Project_032079/README.md) |
+| 032080 | [Power BI: Monitoring — Usability Improvement for Offline Classroom](Project_032080/README.md) |
 
 [Back to the portfolio home](../README.md)
