@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020078 | [JavaScript: Monitoring — Recovery for Offline Classroom](Project_020078/README.md) |
 | 020079 | [JavaScript: Monitoring — Reporting for Offline Classroom](Project_020079/README.md) |
 | 020080 | [JavaScript: Monitoring — Usability Improvement for Offline Classroom](Project_020080/README.md) |
+| 020081 | [JavaScript: Monitoring — Baseline Setup for Single-Host Lab](Project_020081/README.md) |
+| 020082 | [JavaScript: Monitoring — Automation for Single-Host Lab](Project_020082/README.md) |
+| 020083 | [JavaScript: Monitoring — Recovery for Single-Host Lab](Project_020083/README.md) |
+| 020084 | [JavaScript: Monitoring — Reporting for Single-Host Lab](Project_020084/README.md) |
+| 020085 | [JavaScript: Monitoring — Usability Improvement for Single-Host Lab](Project_020085/README.md) |
+| 020086 | [JavaScript: Monitoring — Baseline Setup for Two-Node Lab](Project_020086/README.md) |
+| 020087 | [JavaScript: Monitoring — Automation for Two-Node Lab](Project_020087/README.md) |
+| 020088 | [JavaScript: Monitoring — Recovery for Two-Node Lab](Project_020088/README.md) |
+| 020089 | [JavaScript: Monitoring — Reporting for Two-Node Lab](Project_020089/README.md) |
+| 020090 | [JavaScript: Monitoring — Usability Improvement for Two-Node Lab](Project_020090/README.md) |
+| 020091 | [JavaScript: Monitoring — Baseline Setup for Help Desk](Project_020091/README.md) |
+| 020092 | [JavaScript: Monitoring — Automation for Help Desk](Project_020092/README.md) |
+| 020093 | [JavaScript: Monitoring — Recovery for Help Desk](Project_020093/README.md) |
+| 020094 | [JavaScript: Monitoring — Reporting for Help Desk](Project_020094/README.md) |
+| 020095 | [JavaScript: Monitoring — Usability Improvement for Help Desk](Project_020095/README.md) |
+| 020096 | [JavaScript: Monitoring — Baseline Setup for Portfolio Demo](Project_020096/README.md) |
+| 020097 | [JavaScript: Monitoring — Automation for Portfolio Demo](Project_020097/README.md) |
+| 020098 | [JavaScript: Monitoring — Recovery for Portfolio Demo](Project_020098/README.md) |
+| 020099 | [JavaScript: Monitoring — Reporting for Portfolio Demo](Project_020099/README.md) |
+| 020100 | [JavaScript: Monitoring — Usability Improvement for Portfolio Demo](Project_020100/README.md) |
 
 [Back to the portfolio home](../README.md)
