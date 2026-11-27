@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034918 | [Scikit-learn: Visual Reporting — Recovery for Public Dataset](Project_034918/README.md) |
 | 034919 | [Scikit-learn: Visual Reporting — Reporting for Public Dataset](Project_034919/README.md) |
 | 034920 | [Scikit-learn: Visual Reporting — Usability Improvement for Public Dataset](Project_034920/README.md) |
+| 034921 | [Scikit-learn: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_034921/README.md) |
+| 034922 | [Scikit-learn: Visual Reporting — Automation for Branch Office Simulator](Project_034922/README.md) |
+| 034923 | [Scikit-learn: Visual Reporting — Recovery for Branch Office Simulator](Project_034923/README.md) |
+| 034924 | [Scikit-learn: Visual Reporting — Reporting for Branch Office Simulator](Project_034924/README.md) |
+| 034925 | [Scikit-learn: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_034925/README.md) |
+| 034926 | [Scikit-learn: Visual Reporting — Baseline Setup for Offline Classroom](Project_034926/README.md) |
+| 034927 | [Scikit-learn: Visual Reporting — Automation for Offline Classroom](Project_034927/README.md) |
+| 034928 | [Scikit-learn: Visual Reporting — Recovery for Offline Classroom](Project_034928/README.md) |
+| 034929 | [Scikit-learn: Visual Reporting — Reporting for Offline Classroom](Project_034929/README.md) |
+| 034930 | [Scikit-learn: Visual Reporting — Usability Improvement for Offline Classroom](Project_034930/README.md) |
+| 034931 | [Scikit-learn: Visual Reporting — Baseline Setup for Single-Host Lab](Project_034931/README.md) |
+| 034932 | [Scikit-learn: Visual Reporting — Automation for Single-Host Lab](Project_034932/README.md) |
+| 034933 | [Scikit-learn: Visual Reporting — Recovery for Single-Host Lab](Project_034933/README.md) |
+| 034934 | [Scikit-learn: Visual Reporting — Reporting for Single-Host Lab](Project_034934/README.md) |
+| 034935 | [Scikit-learn: Visual Reporting — Usability Improvement for Single-Host Lab](Project_034935/README.md) |
+| 034936 | [Scikit-learn: Visual Reporting — Baseline Setup for Two-Node Lab](Project_034936/README.md) |
+| 034937 | [Scikit-learn: Visual Reporting — Automation for Two-Node Lab](Project_034937/README.md) |
+| 034938 | [Scikit-learn: Visual Reporting — Recovery for Two-Node Lab](Project_034938/README.md) |
+| 034939 | [Scikit-learn: Visual Reporting — Reporting for Two-Node Lab](Project_034939/README.md) |
+| 034940 | [Scikit-learn: Visual Reporting — Usability Improvement for Two-Node Lab](Project_034940/README.md) |
 
 [Back to the portfolio home](../README.md)
