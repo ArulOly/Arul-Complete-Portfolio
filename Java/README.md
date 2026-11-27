@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022918 | [Java: Visual Reporting — Recovery for Public Dataset](Project_022918/README.md) |
 | 022919 | [Java: Visual Reporting — Reporting for Public Dataset](Project_022919/README.md) |
 | 022920 | [Java: Visual Reporting — Usability Improvement for Public Dataset](Project_022920/README.md) |
+| 022921 | [Java: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_022921/README.md) |
+| 022922 | [Java: Visual Reporting — Automation for Branch Office Simulator](Project_022922/README.md) |
+| 022923 | [Java: Visual Reporting — Recovery for Branch Office Simulator](Project_022923/README.md) |
+| 022924 | [Java: Visual Reporting — Reporting for Branch Office Simulator](Project_022924/README.md) |
+| 022925 | [Java: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_022925/README.md) |
+| 022926 | [Java: Visual Reporting — Baseline Setup for Offline Classroom](Project_022926/README.md) |
+| 022927 | [Java: Visual Reporting — Automation for Offline Classroom](Project_022927/README.md) |
+| 022928 | [Java: Visual Reporting — Recovery for Offline Classroom](Project_022928/README.md) |
+| 022929 | [Java: Visual Reporting — Reporting for Offline Classroom](Project_022929/README.md) |
+| 022930 | [Java: Visual Reporting — Usability Improvement for Offline Classroom](Project_022930/README.md) |
+| 022931 | [Java: Visual Reporting — Baseline Setup for Single-Host Lab](Project_022931/README.md) |
+| 022932 | [Java: Visual Reporting — Automation for Single-Host Lab](Project_022932/README.md) |
+| 022933 | [Java: Visual Reporting — Recovery for Single-Host Lab](Project_022933/README.md) |
+| 022934 | [Java: Visual Reporting — Reporting for Single-Host Lab](Project_022934/README.md) |
+| 022935 | [Java: Visual Reporting — Usability Improvement for Single-Host Lab](Project_022935/README.md) |
+| 022936 | [Java: Visual Reporting — Baseline Setup for Two-Node Lab](Project_022936/README.md) |
+| 022937 | [Java: Visual Reporting — Automation for Two-Node Lab](Project_022937/README.md) |
+| 022938 | [Java: Visual Reporting — Recovery for Two-Node Lab](Project_022938/README.md) |
+| 022939 | [Java: Visual Reporting — Reporting for Two-Node Lab](Project_022939/README.md) |
+| 022940 | [Java: Visual Reporting — Usability Improvement for Two-Node Lab](Project_022940/README.md) |
 
 [Back to the portfolio home](../README.md)
