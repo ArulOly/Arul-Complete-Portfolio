@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033178 | [Jupyter: Log Analysis — Recovery for Offline Classroom](Project_033178/README.md) |
 | 033179 | [Jupyter: Log Analysis — Reporting for Offline Classroom](Project_033179/README.md) |
 | 033180 | [Jupyter: Log Analysis — Usability Improvement for Offline Classroom](Project_033180/README.md) |
+| 033181 | [Jupyter: Log Analysis — Baseline Setup for Single-Host Lab](Project_033181/README.md) |
+| 033182 | [Jupyter: Log Analysis — Automation for Single-Host Lab](Project_033182/README.md) |
+| 033183 | [Jupyter: Log Analysis — Recovery for Single-Host Lab](Project_033183/README.md) |
+| 033184 | [Jupyter: Log Analysis — Reporting for Single-Host Lab](Project_033184/README.md) |
+| 033185 | [Jupyter: Log Analysis — Usability Improvement for Single-Host Lab](Project_033185/README.md) |
+| 033186 | [Jupyter: Log Analysis — Baseline Setup for Two-Node Lab](Project_033186/README.md) |
+| 033187 | [Jupyter: Log Analysis — Automation for Two-Node Lab](Project_033187/README.md) |
+| 033188 | [Jupyter: Log Analysis — Recovery for Two-Node Lab](Project_033188/README.md) |
+| 033189 | [Jupyter: Log Analysis — Reporting for Two-Node Lab](Project_033189/README.md) |
+| 033190 | [Jupyter: Log Analysis — Usability Improvement for Two-Node Lab](Project_033190/README.md) |
+| 033191 | [Jupyter: Log Analysis — Baseline Setup for Help Desk](Project_033191/README.md) |
+| 033192 | [Jupyter: Log Analysis — Automation for Help Desk](Project_033192/README.md) |
+| 033193 | [Jupyter: Log Analysis — Recovery for Help Desk](Project_033193/README.md) |
+| 033194 | [Jupyter: Log Analysis — Reporting for Help Desk](Project_033194/README.md) |
+| 033195 | [Jupyter: Log Analysis — Usability Improvement for Help Desk](Project_033195/README.md) |
+| 033196 | [Jupyter: Log Analysis — Baseline Setup for Portfolio Demo](Project_033196/README.md) |
+| 033197 | [Jupyter: Log Analysis — Automation for Portfolio Demo](Project_033197/README.md) |
+| 033198 | [Jupyter: Log Analysis — Recovery for Portfolio Demo](Project_033198/README.md) |
+| 033199 | [Jupyter: Log Analysis — Reporting for Portfolio Demo](Project_033199/README.md) |
+| 033200 | [Jupyter: Log Analysis — Usability Improvement for Portfolio Demo](Project_033200/README.md) |
 
 [Back to the portfolio home](../README.md)
