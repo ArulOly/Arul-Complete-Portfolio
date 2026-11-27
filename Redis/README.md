@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045698 | [Redis: Configuration Comparison — Recovery for Portfolio Demo](Project_045698/README.md) |
 | 045699 | [Redis: Configuration Comparison — Reporting for Portfolio Demo](Project_045699/README.md) |
 | 045700 | [Redis: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_045700/README.md) |
+| 045701 | [Redis: Error Handling — Baseline Setup for School Lab](Project_045701/README.md) |
+| 045702 | [Redis: Error Handling — Automation for School Lab](Project_045702/README.md) |
+| 045703 | [Redis: Error Handling — Recovery for School Lab](Project_045703/README.md) |
+| 045704 | [Redis: Error Handling — Reporting for School Lab](Project_045704/README.md) |
+| 045705 | [Redis: Error Handling — Usability Improvement for School Lab](Project_045705/README.md) |
+| 045706 | [Redis: Error Handling — Baseline Setup for Small Business](Project_045706/README.md) |
+| 045707 | [Redis: Error Handling — Automation for Small Business](Project_045707/README.md) |
+| 045708 | [Redis: Error Handling — Recovery for Small Business](Project_045708/README.md) |
+| 045709 | [Redis: Error Handling — Reporting for Small Business](Project_045709/README.md) |
+| 045710 | [Redis: Error Handling — Usability Improvement for Small Business](Project_045710/README.md) |
+| 045711 | [Redis: Error Handling — Baseline Setup for Home Development](Project_045711/README.md) |
+| 045712 | [Redis: Error Handling — Automation for Home Development](Project_045712/README.md) |
+| 045713 | [Redis: Error Handling — Recovery for Home Development](Project_045713/README.md) |
+| 045714 | [Redis: Error Handling — Reporting for Home Development](Project_045714/README.md) |
+| 045715 | [Redis: Error Handling — Usability Improvement for Home Development](Project_045715/README.md) |
+| 045716 | [Redis: Error Handling — Baseline Setup for Public Dataset](Project_045716/README.md) |
+| 045717 | [Redis: Error Handling — Automation for Public Dataset](Project_045717/README.md) |
+| 045718 | [Redis: Error Handling — Recovery for Public Dataset](Project_045718/README.md) |
+| 045719 | [Redis: Error Handling — Reporting for Public Dataset](Project_045719/README.md) |
+| 045720 | [Redis: Error Handling — Usability Improvement for Public Dataset](Project_045720/README.md) |
 
 [Back to the portfolio home](../README.md)
