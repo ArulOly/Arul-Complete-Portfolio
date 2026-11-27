@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049238 | [FastAPI: Backup Verification — Recovery for Two-Node Lab](Project_049238/README.md) |
 | 049239 | [FastAPI: Backup Verification — Reporting for Two-Node Lab](Project_049239/README.md) |
 | 049240 | [FastAPI: Backup Verification — Usability Improvement for Two-Node Lab](Project_049240/README.md) |
+| 049241 | [FastAPI: Backup Verification — Baseline Setup for Help Desk](Project_049241/README.md) |
+| 049242 | [FastAPI: Backup Verification — Automation for Help Desk](Project_049242/README.md) |
+| 049243 | [FastAPI: Backup Verification — Recovery for Help Desk](Project_049243/README.md) |
+| 049244 | [FastAPI: Backup Verification — Reporting for Help Desk](Project_049244/README.md) |
+| 049245 | [FastAPI: Backup Verification — Usability Improvement for Help Desk](Project_049245/README.md) |
+| 049246 | [FastAPI: Backup Verification — Baseline Setup for Portfolio Demo](Project_049246/README.md) |
+| 049247 | [FastAPI: Backup Verification — Automation for Portfolio Demo](Project_049247/README.md) |
+| 049248 | [FastAPI: Backup Verification — Recovery for Portfolio Demo](Project_049248/README.md) |
+| 049249 | [FastAPI: Backup Verification — Reporting for Portfolio Demo](Project_049249/README.md) |
+| 049250 | [FastAPI: Backup Verification — Usability Improvement for Portfolio Demo](Project_049250/README.md) |
+| 049251 | [FastAPI: Data Import — Baseline Setup for School Lab](Project_049251/README.md) |
+| 049252 | [FastAPI: Data Import — Automation for School Lab](Project_049252/README.md) |
+| 049253 | [FastAPI: Data Import — Recovery for School Lab](Project_049253/README.md) |
+| 049254 | [FastAPI: Data Import — Reporting for School Lab](Project_049254/README.md) |
+| 049255 | [FastAPI: Data Import — Usability Improvement for School Lab](Project_049255/README.md) |
+| 049256 | [FastAPI: Data Import — Baseline Setup for Small Business](Project_049256/README.md) |
+| 049257 | [FastAPI: Data Import — Automation for Small Business](Project_049257/README.md) |
+| 049258 | [FastAPI: Data Import — Recovery for Small Business](Project_049258/README.md) |
+| 049259 | [FastAPI: Data Import — Reporting for Small Business](Project_049259/README.md) |
+| 049260 | [FastAPI: Data Import — Usability Improvement for Small Business](Project_049260/README.md) |
 
 [Back to the portfolio home](../README.md)
