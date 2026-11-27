@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025138 | [PostgreSQL: Audit — Recovery for Two-Node Lab](Project_025138/README.md) |
 | 025139 | [PostgreSQL: Audit — Reporting for Two-Node Lab](Project_025139/README.md) |
 | 025140 | [PostgreSQL: Audit — Usability Improvement for Two-Node Lab](Project_025140/README.md) |
+| 025141 | [PostgreSQL: Audit — Baseline Setup for Help Desk](Project_025141/README.md) |
+| 025142 | [PostgreSQL: Audit — Automation for Help Desk](Project_025142/README.md) |
+| 025143 | [PostgreSQL: Audit — Recovery for Help Desk](Project_025143/README.md) |
+| 025144 | [PostgreSQL: Audit — Reporting for Help Desk](Project_025144/README.md) |
+| 025145 | [PostgreSQL: Audit — Usability Improvement for Help Desk](Project_025145/README.md) |
+| 025146 | [PostgreSQL: Audit — Baseline Setup for Portfolio Demo](Project_025146/README.md) |
+| 025147 | [PostgreSQL: Audit — Automation for Portfolio Demo](Project_025147/README.md) |
+| 025148 | [PostgreSQL: Audit — Recovery for Portfolio Demo](Project_025148/README.md) |
+| 025149 | [PostgreSQL: Audit — Reporting for Portfolio Demo](Project_025149/README.md) |
+| 025150 | [PostgreSQL: Audit — Usability Improvement for Portfolio Demo](Project_025150/README.md) |
+| 025151 | [PostgreSQL: Log Analysis — Baseline Setup for School Lab](Project_025151/README.md) |
+| 025152 | [PostgreSQL: Log Analysis — Automation for School Lab](Project_025152/README.md) |
+| 025153 | [PostgreSQL: Log Analysis — Recovery for School Lab](Project_025153/README.md) |
+| 025154 | [PostgreSQL: Log Analysis — Reporting for School Lab](Project_025154/README.md) |
+| 025155 | [PostgreSQL: Log Analysis — Usability Improvement for School Lab](Project_025155/README.md) |
+| 025156 | [PostgreSQL: Log Analysis — Baseline Setup for Small Business](Project_025156/README.md) |
+| 025157 | [PostgreSQL: Log Analysis — Automation for Small Business](Project_025157/README.md) |
+| 025158 | [PostgreSQL: Log Analysis — Recovery for Small Business](Project_025158/README.md) |
+| 025159 | [PostgreSQL: Log Analysis — Reporting for Small Business](Project_025159/README.md) |
+| 025160 | [PostgreSQL: Log Analysis — Usability Improvement for Small Business](Project_025160/README.md) |
 
 [Back to the portfolio home](../README.md)
