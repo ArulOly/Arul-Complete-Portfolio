@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049518 | [FastAPI: Access Review — Recovery for Public Dataset](Project_049518/README.md) |
 | 049519 | [FastAPI: Access Review — Reporting for Public Dataset](Project_049519/README.md) |
 | 049520 | [FastAPI: Access Review — Usability Improvement for Public Dataset](Project_049520/README.md) |
+| 049521 | [FastAPI: Access Review — Baseline Setup for Branch Office Simulator](Project_049521/README.md) |
+| 049522 | [FastAPI: Access Review — Automation for Branch Office Simulator](Project_049522/README.md) |
+| 049523 | [FastAPI: Access Review — Recovery for Branch Office Simulator](Project_049523/README.md) |
+| 049524 | [FastAPI: Access Review — Reporting for Branch Office Simulator](Project_049524/README.md) |
+| 049525 | [FastAPI: Access Review — Usability Improvement for Branch Office Simulator](Project_049525/README.md) |
+| 049526 | [FastAPI: Access Review — Baseline Setup for Offline Classroom](Project_049526/README.md) |
+| 049527 | [FastAPI: Access Review — Automation for Offline Classroom](Project_049527/README.md) |
+| 049528 | [FastAPI: Access Review — Recovery for Offline Classroom](Project_049528/README.md) |
+| 049529 | [FastAPI: Access Review — Reporting for Offline Classroom](Project_049529/README.md) |
+| 049530 | [FastAPI: Access Review — Usability Improvement for Offline Classroom](Project_049530/README.md) |
+| 049531 | [FastAPI: Access Review — Baseline Setup for Single-Host Lab](Project_049531/README.md) |
+| 049532 | [FastAPI: Access Review — Automation for Single-Host Lab](Project_049532/README.md) |
+| 049533 | [FastAPI: Access Review — Recovery for Single-Host Lab](Project_049533/README.md) |
+| 049534 | [FastAPI: Access Review — Reporting for Single-Host Lab](Project_049534/README.md) |
+| 049535 | [FastAPI: Access Review — Usability Improvement for Single-Host Lab](Project_049535/README.md) |
+| 049536 | [FastAPI: Access Review — Baseline Setup for Two-Node Lab](Project_049536/README.md) |
+| 049537 | [FastAPI: Access Review — Automation for Two-Node Lab](Project_049537/README.md) |
+| 049538 | [FastAPI: Access Review — Recovery for Two-Node Lab](Project_049538/README.md) |
+| 049539 | [FastAPI: Access Review — Reporting for Two-Node Lab](Project_049539/README.md) |
+| 049540 | [FastAPI: Access Review — Usability Improvement for Two-Node Lab](Project_049540/README.md) |
 
 [Back to the portfolio home](../README.md)
