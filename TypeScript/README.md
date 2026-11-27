@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021178 | [TypeScript: Log Analysis — Recovery for Offline Classroom](Project_021178/README.md) |
 | 021179 | [TypeScript: Log Analysis — Reporting for Offline Classroom](Project_021179/README.md) |
 | 021180 | [TypeScript: Log Analysis — Usability Improvement for Offline Classroom](Project_021180/README.md) |
+| 021181 | [TypeScript: Log Analysis — Baseline Setup for Single-Host Lab](Project_021181/README.md) |
+| 021182 | [TypeScript: Log Analysis — Automation for Single-Host Lab](Project_021182/README.md) |
+| 021183 | [TypeScript: Log Analysis — Recovery for Single-Host Lab](Project_021183/README.md) |
+| 021184 | [TypeScript: Log Analysis — Reporting for Single-Host Lab](Project_021184/README.md) |
+| 021185 | [TypeScript: Log Analysis — Usability Improvement for Single-Host Lab](Project_021185/README.md) |
+| 021186 | [TypeScript: Log Analysis — Baseline Setup for Two-Node Lab](Project_021186/README.md) |
+| 021187 | [TypeScript: Log Analysis — Automation for Two-Node Lab](Project_021187/README.md) |
+| 021188 | [TypeScript: Log Analysis — Recovery for Two-Node Lab](Project_021188/README.md) |
+| 021189 | [TypeScript: Log Analysis — Reporting for Two-Node Lab](Project_021189/README.md) |
+| 021190 | [TypeScript: Log Analysis — Usability Improvement for Two-Node Lab](Project_021190/README.md) |
+| 021191 | [TypeScript: Log Analysis — Baseline Setup for Help Desk](Project_021191/README.md) |
+| 021192 | [TypeScript: Log Analysis — Automation for Help Desk](Project_021192/README.md) |
+| 021193 | [TypeScript: Log Analysis — Recovery for Help Desk](Project_021193/README.md) |
+| 021194 | [TypeScript: Log Analysis — Reporting for Help Desk](Project_021194/README.md) |
+| 021195 | [TypeScript: Log Analysis — Usability Improvement for Help Desk](Project_021195/README.md) |
+| 021196 | [TypeScript: Log Analysis — Baseline Setup for Portfolio Demo](Project_021196/README.md) |
+| 021197 | [TypeScript: Log Analysis — Automation for Portfolio Demo](Project_021197/README.md) |
+| 021198 | [TypeScript: Log Analysis — Recovery for Portfolio Demo](Project_021198/README.md) |
+| 021199 | [TypeScript: Log Analysis — Reporting for Portfolio Demo](Project_021199/README.md) |
+| 021200 | [TypeScript: Log Analysis — Usability Improvement for Portfolio Demo](Project_021200/README.md) |
 
 [Back to the portfolio home](../README.md)
