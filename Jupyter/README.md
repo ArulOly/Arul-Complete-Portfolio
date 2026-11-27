@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033818 | [Jupyter: Documentation Generation — Recovery for Public Dataset](Project_033818/README.md) |
 | 033819 | [Jupyter: Documentation Generation — Reporting for Public Dataset](Project_033819/README.md) |
 | 033820 | [Jupyter: Documentation Generation — Usability Improvement for Public Dataset](Project_033820/README.md) |
+| 033821 | [Jupyter: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_033821/README.md) |
+| 033822 | [Jupyter: Documentation Generation — Automation for Branch Office Simulator](Project_033822/README.md) |
+| 033823 | [Jupyter: Documentation Generation — Recovery for Branch Office Simulator](Project_033823/README.md) |
+| 033824 | [Jupyter: Documentation Generation — Reporting for Branch Office Simulator](Project_033824/README.md) |
+| 033825 | [Jupyter: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_033825/README.md) |
+| 033826 | [Jupyter: Documentation Generation — Baseline Setup for Offline Classroom](Project_033826/README.md) |
+| 033827 | [Jupyter: Documentation Generation — Automation for Offline Classroom](Project_033827/README.md) |
+| 033828 | [Jupyter: Documentation Generation — Recovery for Offline Classroom](Project_033828/README.md) |
+| 033829 | [Jupyter: Documentation Generation — Reporting for Offline Classroom](Project_033829/README.md) |
+| 033830 | [Jupyter: Documentation Generation — Usability Improvement for Offline Classroom](Project_033830/README.md) |
+| 033831 | [Jupyter: Documentation Generation — Baseline Setup for Single-Host Lab](Project_033831/README.md) |
+| 033832 | [Jupyter: Documentation Generation — Automation for Single-Host Lab](Project_033832/README.md) |
+| 033833 | [Jupyter: Documentation Generation — Recovery for Single-Host Lab](Project_033833/README.md) |
+| 033834 | [Jupyter: Documentation Generation — Reporting for Single-Host Lab](Project_033834/README.md) |
+| 033835 | [Jupyter: Documentation Generation — Usability Improvement for Single-Host Lab](Project_033835/README.md) |
+| 033836 | [Jupyter: Documentation Generation — Baseline Setup for Two-Node Lab](Project_033836/README.md) |
+| 033837 | [Jupyter: Documentation Generation — Automation for Two-Node Lab](Project_033837/README.md) |
+| 033838 | [Jupyter: Documentation Generation — Recovery for Two-Node Lab](Project_033838/README.md) |
+| 033839 | [Jupyter: Documentation Generation — Reporting for Two-Node Lab](Project_033839/README.md) |
+| 033840 | [Jupyter: Documentation Generation — Usability Improvement for Two-Node Lab](Project_033840/README.md) |
 
 [Back to the portfolio home](../README.md)
