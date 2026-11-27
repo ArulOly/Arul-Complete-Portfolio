@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003598 | [Debian: Performance Baseline — Recovery for Portfolio Demo](Project_003598/README.md) |
 | 003599 | [Debian: Performance Baseline — Reporting for Portfolio Demo](Project_003599/README.md) |
 | 003600 | [Debian: Performance Baseline — Usability Improvement for Portfolio Demo](Project_003600/README.md) |
+| 003601 | [Debian: Service Check — Baseline Setup for School Lab](Project_003601/README.md) |
+| 003602 | [Debian: Service Check — Automation for School Lab](Project_003602/README.md) |
+| 003603 | [Debian: Service Check — Recovery for School Lab](Project_003603/README.md) |
+| 003604 | [Debian: Service Check — Reporting for School Lab](Project_003604/README.md) |
+| 003605 | [Debian: Service Check — Usability Improvement for School Lab](Project_003605/README.md) |
+| 003606 | [Debian: Service Check — Baseline Setup for Small Business](Project_003606/README.md) |
+| 003607 | [Debian: Service Check — Automation for Small Business](Project_003607/README.md) |
+| 003608 | [Debian: Service Check — Recovery for Small Business](Project_003608/README.md) |
+| 003609 | [Debian: Service Check — Reporting for Small Business](Project_003609/README.md) |
+| 003610 | [Debian: Service Check — Usability Improvement for Small Business](Project_003610/README.md) |
+| 003611 | [Debian: Service Check — Baseline Setup for Home Development](Project_003611/README.md) |
+| 003612 | [Debian: Service Check — Automation for Home Development](Project_003612/README.md) |
+| 003613 | [Debian: Service Check — Recovery for Home Development](Project_003613/README.md) |
+| 003614 | [Debian: Service Check — Reporting for Home Development](Project_003614/README.md) |
+| 003615 | [Debian: Service Check — Usability Improvement for Home Development](Project_003615/README.md) |
+| 003616 | [Debian: Service Check — Baseline Setup for Public Dataset](Project_003616/README.md) |
+| 003617 | [Debian: Service Check — Automation for Public Dataset](Project_003617/README.md) |
+| 003618 | [Debian: Service Check — Recovery for Public Dataset](Project_003618/README.md) |
+| 003619 | [Debian: Service Check — Reporting for Public Dataset](Project_003619/README.md) |
+| 003620 | [Debian: Service Check — Usability Improvement for Public Dataset](Project_003620/README.md) |
 
 [Back to the portfolio home](../README.md)
