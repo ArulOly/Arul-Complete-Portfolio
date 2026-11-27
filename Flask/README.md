@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048278 | [Flask: Data Import — Recovery for Offline Classroom](Project_048278/README.md) |
 | 048279 | [Flask: Data Import — Reporting for Offline Classroom](Project_048279/README.md) |
 | 048280 | [Flask: Data Import — Usability Improvement for Offline Classroom](Project_048280/README.md) |
+| 048281 | [Flask: Data Import — Baseline Setup for Single-Host Lab](Project_048281/README.md) |
+| 048282 | [Flask: Data Import — Automation for Single-Host Lab](Project_048282/README.md) |
+| 048283 | [Flask: Data Import — Recovery for Single-Host Lab](Project_048283/README.md) |
+| 048284 | [Flask: Data Import — Reporting for Single-Host Lab](Project_048284/README.md) |
+| 048285 | [Flask: Data Import — Usability Improvement for Single-Host Lab](Project_048285/README.md) |
+| 048286 | [Flask: Data Import — Baseline Setup for Two-Node Lab](Project_048286/README.md) |
+| 048287 | [Flask: Data Import — Automation for Two-Node Lab](Project_048287/README.md) |
+| 048288 | [Flask: Data Import — Recovery for Two-Node Lab](Project_048288/README.md) |
+| 048289 | [Flask: Data Import — Reporting for Two-Node Lab](Project_048289/README.md) |
+| 048290 | [Flask: Data Import — Usability Improvement for Two-Node Lab](Project_048290/README.md) |
+| 048291 | [Flask: Data Import — Baseline Setup for Help Desk](Project_048291/README.md) |
+| 048292 | [Flask: Data Import — Automation for Help Desk](Project_048292/README.md) |
+| 048293 | [Flask: Data Import — Recovery for Help Desk](Project_048293/README.md) |
+| 048294 | [Flask: Data Import — Reporting for Help Desk](Project_048294/README.md) |
+| 048295 | [Flask: Data Import — Usability Improvement for Help Desk](Project_048295/README.md) |
+| 048296 | [Flask: Data Import — Baseline Setup for Portfolio Demo](Project_048296/README.md) |
+| 048297 | [Flask: Data Import — Automation for Portfolio Demo](Project_048297/README.md) |
+| 048298 | [Flask: Data Import — Recovery for Portfolio Demo](Project_048298/README.md) |
+| 048299 | [Flask: Data Import — Reporting for Portfolio Demo](Project_048299/README.md) |
+| 048300 | [Flask: Data Import — Usability Improvement for Portfolio Demo](Project_048300/README.md) |
 
 [Back to the portfolio home](../README.md)
