@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002138 | [Ubuntu: Audit — Recovery for Two-Node Lab](Project_002138/README.md) |
 | 002139 | [Ubuntu: Audit — Reporting for Two-Node Lab](Project_002139/README.md) |
 | 002140 | [Ubuntu: Audit — Usability Improvement for Two-Node Lab](Project_002140/README.md) |
+| 002141 | [Ubuntu: Audit — Baseline Setup for Help Desk](Project_002141/README.md) |
+| 002142 | [Ubuntu: Audit — Automation for Help Desk](Project_002142/README.md) |
+| 002143 | [Ubuntu: Audit — Recovery for Help Desk](Project_002143/README.md) |
+| 002144 | [Ubuntu: Audit — Reporting for Help Desk](Project_002144/README.md) |
+| 002145 | [Ubuntu: Audit — Usability Improvement for Help Desk](Project_002145/README.md) |
+| 002146 | [Ubuntu: Audit — Baseline Setup for Portfolio Demo](Project_002146/README.md) |
+| 002147 | [Ubuntu: Audit — Automation for Portfolio Demo](Project_002147/README.md) |
+| 002148 | [Ubuntu: Audit — Recovery for Portfolio Demo](Project_002148/README.md) |
+| 002149 | [Ubuntu: Audit — Reporting for Portfolio Demo](Project_002149/README.md) |
+| 002150 | [Ubuntu: Audit — Usability Improvement for Portfolio Demo](Project_002150/README.md) |
+| 002151 | [Ubuntu: Log Analysis — Baseline Setup for School Lab](Project_002151/README.md) |
+| 002152 | [Ubuntu: Log Analysis — Automation for School Lab](Project_002152/README.md) |
+| 002153 | [Ubuntu: Log Analysis — Recovery for School Lab](Project_002153/README.md) |
+| 002154 | [Ubuntu: Log Analysis — Reporting for School Lab](Project_002154/README.md) |
+| 002155 | [Ubuntu: Log Analysis — Usability Improvement for School Lab](Project_002155/README.md) |
+| 002156 | [Ubuntu: Log Analysis — Baseline Setup for Small Business](Project_002156/README.md) |
+| 002157 | [Ubuntu: Log Analysis — Automation for Small Business](Project_002157/README.md) |
+| 002158 | [Ubuntu: Log Analysis — Recovery for Small Business](Project_002158/README.md) |
+| 002159 | [Ubuntu: Log Analysis — Reporting for Small Business](Project_002159/README.md) |
+| 002160 | [Ubuntu: Log Analysis — Usability Improvement for Small Business](Project_002160/README.md) |
 
 [Back to the portfolio home](../README.md)
