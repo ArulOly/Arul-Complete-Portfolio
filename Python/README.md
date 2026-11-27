@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -964,5 +964,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019918 | [Python: Visual Reporting — Recovery for Public Dataset](Project_019918/README.md) |
 | 019919 | [Python: Visual Reporting — Reporting for Public Dataset](Project_019919/README.md) |
 | 019920 | [Python: Visual Reporting — Usability Improvement for Public Dataset](Project_019920/README.md) |
+| 019921 | [Python: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_019921/README.md) |
+| 019922 | [Python: Visual Reporting — Automation for Branch Office Simulator](Project_019922/README.md) |
+| 019923 | [Python: Visual Reporting — Recovery for Branch Office Simulator](Project_019923/README.md) |
+| 019924 | [Python: Visual Reporting — Reporting for Branch Office Simulator](Project_019924/README.md) |
+| 019925 | [Python: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_019925/README.md) |
+| 019926 | [Python: Visual Reporting — Baseline Setup for Offline Classroom](Project_019926/README.md) |
+| 019927 | [Python: Visual Reporting — Automation for Offline Classroom](Project_019927/README.md) |
+| 019928 | [Python: Visual Reporting — Recovery for Offline Classroom](Project_019928/README.md) |
+| 019929 | [Python: Visual Reporting — Reporting for Offline Classroom](Project_019929/README.md) |
+| 019930 | [Python: Visual Reporting — Usability Improvement for Offline Classroom](Project_019930/README.md) |
+| 019931 | [Python: Visual Reporting — Baseline Setup for Single-Host Lab](Project_019931/README.md) |
+| 019932 | [Python: Visual Reporting — Automation for Single-Host Lab](Project_019932/README.md) |
+| 019933 | [Python: Visual Reporting — Recovery for Single-Host Lab](Project_019933/README.md) |
+| 019934 | [Python: Visual Reporting — Reporting for Single-Host Lab](Project_019934/README.md) |
+| 019935 | [Python: Visual Reporting — Usability Improvement for Single-Host Lab](Project_019935/README.md) |
+| 019936 | [Python: Visual Reporting — Baseline Setup for Two-Node Lab](Project_019936/README.md) |
+| 019937 | [Python: Visual Reporting — Automation for Two-Node Lab](Project_019937/README.md) |
+| 019938 | [Python: Visual Reporting — Recovery for Two-Node Lab](Project_019938/README.md) |
+| 019939 | [Python: Visual Reporting — Reporting for Two-Node Lab](Project_019939/README.md) |
+| 019940 | [Python: Visual Reporting — Usability Improvement for Two-Node Lab](Project_019940/README.md) |
 
 [Back to the portfolio home](../README.md)
