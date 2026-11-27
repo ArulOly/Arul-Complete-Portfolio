@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023758 | [HTML CSS: Data Validation — Recovery for Small Business](Project_023758/README.md) |
 | 023759 | [HTML CSS: Data Validation — Reporting for Small Business](Project_023759/README.md) |
 | 023760 | [HTML CSS: Data Validation — Usability Improvement for Small Business](Project_023760/README.md) |
+| 023761 | [HTML CSS: Data Validation — Baseline Setup for Home Development](Project_023761/README.md) |
+| 023762 | [HTML CSS: Data Validation — Automation for Home Development](Project_023762/README.md) |
+| 023763 | [HTML CSS: Data Validation — Recovery for Home Development](Project_023763/README.md) |
+| 023764 | [HTML CSS: Data Validation — Reporting for Home Development](Project_023764/README.md) |
+| 023765 | [HTML CSS: Data Validation — Usability Improvement for Home Development](Project_023765/README.md) |
+| 023766 | [HTML CSS: Data Validation — Baseline Setup for Public Dataset](Project_023766/README.md) |
+| 023767 | [HTML CSS: Data Validation — Automation for Public Dataset](Project_023767/README.md) |
+| 023768 | [HTML CSS: Data Validation — Recovery for Public Dataset](Project_023768/README.md) |
+| 023769 | [HTML CSS: Data Validation — Reporting for Public Dataset](Project_023769/README.md) |
+| 023770 | [HTML CSS: Data Validation — Usability Improvement for Public Dataset](Project_023770/README.md) |
+| 023771 | [HTML CSS: Data Validation — Baseline Setup for Branch Office Simulator](Project_023771/README.md) |
+| 023772 | [HTML CSS: Data Validation — Automation for Branch Office Simulator](Project_023772/README.md) |
+| 023773 | [HTML CSS: Data Validation — Recovery for Branch Office Simulator](Project_023773/README.md) |
+| 023774 | [HTML CSS: Data Validation — Reporting for Branch Office Simulator](Project_023774/README.md) |
+| 023775 | [HTML CSS: Data Validation — Usability Improvement for Branch Office Simulator](Project_023775/README.md) |
+| 023776 | [HTML CSS: Data Validation — Baseline Setup for Offline Classroom](Project_023776/README.md) |
+| 023777 | [HTML CSS: Data Validation — Automation for Offline Classroom](Project_023777/README.md) |
+| 023778 | [HTML CSS: Data Validation — Recovery for Offline Classroom](Project_023778/README.md) |
+| 023779 | [HTML CSS: Data Validation — Reporting for Offline Classroom](Project_023779/README.md) |
+| 023780 | [HTML CSS: Data Validation — Usability Improvement for Offline Classroom](Project_023780/README.md) |
 
 [Back to the portfolio home](../README.md)
