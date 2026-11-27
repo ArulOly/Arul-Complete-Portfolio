@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032318 | [Power BI: Data Export — Recovery for Public Dataset](Project_032318/README.md) |
 | 032319 | [Power BI: Data Export — Reporting for Public Dataset](Project_032319/README.md) |
 | 032320 | [Power BI: Data Export — Usability Improvement for Public Dataset](Project_032320/README.md) |
+| 032321 | [Power BI: Data Export — Baseline Setup for Branch Office Simulator](Project_032321/README.md) |
+| 032322 | [Power BI: Data Export — Automation for Branch Office Simulator](Project_032322/README.md) |
+| 032323 | [Power BI: Data Export — Recovery for Branch Office Simulator](Project_032323/README.md) |
+| 032324 | [Power BI: Data Export — Reporting for Branch Office Simulator](Project_032324/README.md) |
+| 032325 | [Power BI: Data Export — Usability Improvement for Branch Office Simulator](Project_032325/README.md) |
+| 032326 | [Power BI: Data Export — Baseline Setup for Offline Classroom](Project_032326/README.md) |
+| 032327 | [Power BI: Data Export — Automation for Offline Classroom](Project_032327/README.md) |
+| 032328 | [Power BI: Data Export — Recovery for Offline Classroom](Project_032328/README.md) |
+| 032329 | [Power BI: Data Export — Reporting for Offline Classroom](Project_032329/README.md) |
+| 032330 | [Power BI: Data Export — Usability Improvement for Offline Classroom](Project_032330/README.md) |
+| 032331 | [Power BI: Data Export — Baseline Setup for Single-Host Lab](Project_032331/README.md) |
+| 032332 | [Power BI: Data Export — Automation for Single-Host Lab](Project_032332/README.md) |
+| 032333 | [Power BI: Data Export — Recovery for Single-Host Lab](Project_032333/README.md) |
+| 032334 | [Power BI: Data Export — Reporting for Single-Host Lab](Project_032334/README.md) |
+| 032335 | [Power BI: Data Export — Usability Improvement for Single-Host Lab](Project_032335/README.md) |
+| 032336 | [Power BI: Data Export — Baseline Setup for Two-Node Lab](Project_032336/README.md) |
+| 032337 | [Power BI: Data Export — Automation for Two-Node Lab](Project_032337/README.md) |
+| 032338 | [Power BI: Data Export — Recovery for Two-Node Lab](Project_032338/README.md) |
+| 032339 | [Power BI: Data Export — Reporting for Two-Node Lab](Project_032339/README.md) |
+| 032340 | [Power BI: Data Export — Usability Improvement for Two-Node Lab](Project_032340/README.md) |
 
 [Back to the portfolio home](../README.md)
