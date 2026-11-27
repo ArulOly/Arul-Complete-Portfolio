@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020058 | [JavaScript: Monitoring — Recovery for Small Business](Project_020058/README.md) |
 | 020059 | [JavaScript: Monitoring — Reporting for Small Business](Project_020059/README.md) |
 | 020060 | [JavaScript: Monitoring — Usability Improvement for Small Business](Project_020060/README.md) |
+| 020061 | [JavaScript: Monitoring — Baseline Setup for Home Development](Project_020061/README.md) |
+| 020062 | [JavaScript: Monitoring — Automation for Home Development](Project_020062/README.md) |
+| 020063 | [JavaScript: Monitoring — Recovery for Home Development](Project_020063/README.md) |
+| 020064 | [JavaScript: Monitoring — Reporting for Home Development](Project_020064/README.md) |
+| 020065 | [JavaScript: Monitoring — Usability Improvement for Home Development](Project_020065/README.md) |
+| 020066 | [JavaScript: Monitoring — Baseline Setup for Public Dataset](Project_020066/README.md) |
+| 020067 | [JavaScript: Monitoring — Automation for Public Dataset](Project_020067/README.md) |
+| 020068 | [JavaScript: Monitoring — Recovery for Public Dataset](Project_020068/README.md) |
+| 020069 | [JavaScript: Monitoring — Reporting for Public Dataset](Project_020069/README.md) |
+| 020070 | [JavaScript: Monitoring — Usability Improvement for Public Dataset](Project_020070/README.md) |
+| 020071 | [JavaScript: Monitoring — Baseline Setup for Branch Office Simulator](Project_020071/README.md) |
+| 020072 | [JavaScript: Monitoring — Automation for Branch Office Simulator](Project_020072/README.md) |
+| 020073 | [JavaScript: Monitoring — Recovery for Branch Office Simulator](Project_020073/README.md) |
+| 020074 | [JavaScript: Monitoring — Reporting for Branch Office Simulator](Project_020074/README.md) |
+| 020075 | [JavaScript: Monitoring — Usability Improvement for Branch Office Simulator](Project_020075/README.md) |
+| 020076 | [JavaScript: Monitoring — Baseline Setup for Offline Classroom](Project_020076/README.md) |
+| 020077 | [JavaScript: Monitoring — Automation for Offline Classroom](Project_020077/README.md) |
+| 020078 | [JavaScript: Monitoring — Recovery for Offline Classroom](Project_020078/README.md) |
+| 020079 | [JavaScript: Monitoring — Reporting for Offline Classroom](Project_020079/README.md) |
+| 020080 | [JavaScript: Monitoring — Usability Improvement for Offline Classroom](Project_020080/README.md) |
 
 [Back to the portfolio home](../README.md)
