@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048358 | [Flask: Dashboard — Recovery for Small Business](Project_048358/README.md) |
 | 048359 | [Flask: Dashboard — Reporting for Small Business](Project_048359/README.md) |
 | 048360 | [Flask: Dashboard — Usability Improvement for Small Business](Project_048360/README.md) |
+| 048361 | [Flask: Dashboard — Baseline Setup for Home Development](Project_048361/README.md) |
+| 048362 | [Flask: Dashboard — Automation for Home Development](Project_048362/README.md) |
+| 048363 | [Flask: Dashboard — Recovery for Home Development](Project_048363/README.md) |
+| 048364 | [Flask: Dashboard — Reporting for Home Development](Project_048364/README.md) |
+| 048365 | [Flask: Dashboard — Usability Improvement for Home Development](Project_048365/README.md) |
+| 048366 | [Flask: Dashboard — Baseline Setup for Public Dataset](Project_048366/README.md) |
+| 048367 | [Flask: Dashboard — Automation for Public Dataset](Project_048367/README.md) |
+| 048368 | [Flask: Dashboard — Recovery for Public Dataset](Project_048368/README.md) |
+| 048369 | [Flask: Dashboard — Reporting for Public Dataset](Project_048369/README.md) |
+| 048370 | [Flask: Dashboard — Usability Improvement for Public Dataset](Project_048370/README.md) |
+| 048371 | [Flask: Dashboard — Baseline Setup for Branch Office Simulator](Project_048371/README.md) |
+| 048372 | [Flask: Dashboard — Automation for Branch Office Simulator](Project_048372/README.md) |
+| 048373 | [Flask: Dashboard — Recovery for Branch Office Simulator](Project_048373/README.md) |
+| 048374 | [Flask: Dashboard — Reporting for Branch Office Simulator](Project_048374/README.md) |
+| 048375 | [Flask: Dashboard — Usability Improvement for Branch Office Simulator](Project_048375/README.md) |
+| 048376 | [Flask: Dashboard — Baseline Setup for Offline Classroom](Project_048376/README.md) |
+| 048377 | [Flask: Dashboard — Automation for Offline Classroom](Project_048377/README.md) |
+| 048378 | [Flask: Dashboard — Recovery for Offline Classroom](Project_048378/README.md) |
+| 048379 | [Flask: Dashboard — Reporting for Offline Classroom](Project_048379/README.md) |
+| 048380 | [Flask: Dashboard — Usability Improvement for Offline Classroom](Project_048380/README.md) |
 
 [Back to the portfolio home](../README.md)
