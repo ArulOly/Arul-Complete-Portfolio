@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027178 | [MongoDB: Log Analysis — Recovery for Offline Classroom](Project_027178/README.md) |
 | 027179 | [MongoDB: Log Analysis — Reporting for Offline Classroom](Project_027179/README.md) |
 | 027180 | [MongoDB: Log Analysis — Usability Improvement for Offline Classroom](Project_027180/README.md) |
+| 027181 | [MongoDB: Log Analysis — Baseline Setup for Single-Host Lab](Project_027181/README.md) |
+| 027182 | [MongoDB: Log Analysis — Automation for Single-Host Lab](Project_027182/README.md) |
+| 027183 | [MongoDB: Log Analysis — Recovery for Single-Host Lab](Project_027183/README.md) |
+| 027184 | [MongoDB: Log Analysis — Reporting for Single-Host Lab](Project_027184/README.md) |
+| 027185 | [MongoDB: Log Analysis — Usability Improvement for Single-Host Lab](Project_027185/README.md) |
+| 027186 | [MongoDB: Log Analysis — Baseline Setup for Two-Node Lab](Project_027186/README.md) |
+| 027187 | [MongoDB: Log Analysis — Automation for Two-Node Lab](Project_027187/README.md) |
+| 027188 | [MongoDB: Log Analysis — Recovery for Two-Node Lab](Project_027188/README.md) |
+| 027189 | [MongoDB: Log Analysis — Reporting for Two-Node Lab](Project_027189/README.md) |
+| 027190 | [MongoDB: Log Analysis — Usability Improvement for Two-Node Lab](Project_027190/README.md) |
+| 027191 | [MongoDB: Log Analysis — Baseline Setup for Help Desk](Project_027191/README.md) |
+| 027192 | [MongoDB: Log Analysis — Automation for Help Desk](Project_027192/README.md) |
+| 027193 | [MongoDB: Log Analysis — Recovery for Help Desk](Project_027193/README.md) |
+| 027194 | [MongoDB: Log Analysis — Reporting for Help Desk](Project_027194/README.md) |
+| 027195 | [MongoDB: Log Analysis — Usability Improvement for Help Desk](Project_027195/README.md) |
+| 027196 | [MongoDB: Log Analysis — Baseline Setup for Portfolio Demo](Project_027196/README.md) |
+| 027197 | [MongoDB: Log Analysis — Automation for Portfolio Demo](Project_027197/README.md) |
+| 027198 | [MongoDB: Log Analysis — Recovery for Portfolio Demo](Project_027198/README.md) |
+| 027199 | [MongoDB: Log Analysis — Reporting for Portfolio Demo](Project_027199/README.md) |
+| 027200 | [MongoDB: Log Analysis — Usability Improvement for Portfolio Demo](Project_027200/README.md) |
 
 [Back to the portfolio home](../README.md)
