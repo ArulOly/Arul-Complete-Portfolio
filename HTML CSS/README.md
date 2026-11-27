@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023458 | [HTML CSS: Scheduled Reporting — Recovery for Small Business](Project_023458/README.md) |
 | 023459 | [HTML CSS: Scheduled Reporting — Reporting for Small Business](Project_023459/README.md) |
 | 023460 | [HTML CSS: Scheduled Reporting — Usability Improvement for Small Business](Project_023460/README.md) |
+| 023461 | [HTML CSS: Scheduled Reporting — Baseline Setup for Home Development](Project_023461/README.md) |
+| 023462 | [HTML CSS: Scheduled Reporting — Automation for Home Development](Project_023462/README.md) |
+| 023463 | [HTML CSS: Scheduled Reporting — Recovery for Home Development](Project_023463/README.md) |
+| 023464 | [HTML CSS: Scheduled Reporting — Reporting for Home Development](Project_023464/README.md) |
+| 023465 | [HTML CSS: Scheduled Reporting — Usability Improvement for Home Development](Project_023465/README.md) |
+| 023466 | [HTML CSS: Scheduled Reporting — Baseline Setup for Public Dataset](Project_023466/README.md) |
+| 023467 | [HTML CSS: Scheduled Reporting — Automation for Public Dataset](Project_023467/README.md) |
+| 023468 | [HTML CSS: Scheduled Reporting — Recovery for Public Dataset](Project_023468/README.md) |
+| 023469 | [HTML CSS: Scheduled Reporting — Reporting for Public Dataset](Project_023469/README.md) |
+| 023470 | [HTML CSS: Scheduled Reporting — Usability Improvement for Public Dataset](Project_023470/README.md) |
+| 023471 | [HTML CSS: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_023471/README.md) |
+| 023472 | [HTML CSS: Scheduled Reporting — Automation for Branch Office Simulator](Project_023472/README.md) |
+| 023473 | [HTML CSS: Scheduled Reporting — Recovery for Branch Office Simulator](Project_023473/README.md) |
+| 023474 | [HTML CSS: Scheduled Reporting — Reporting for Branch Office Simulator](Project_023474/README.md) |
+| 023475 | [HTML CSS: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_023475/README.md) |
+| 023476 | [HTML CSS: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_023476/README.md) |
+| 023477 | [HTML CSS: Scheduled Reporting — Automation for Offline Classroom](Project_023477/README.md) |
+| 023478 | [HTML CSS: Scheduled Reporting — Recovery for Offline Classroom](Project_023478/README.md) |
+| 023479 | [HTML CSS: Scheduled Reporting — Reporting for Offline Classroom](Project_023479/README.md) |
+| 023480 | [HTML CSS: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_023480/README.md) |
 
 [Back to the portfolio home](../README.md)
