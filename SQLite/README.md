@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028718 | [SQLite: Error Handling — Recovery for Public Dataset](Project_028718/README.md) |
 | 028719 | [SQLite: Error Handling — Reporting for Public Dataset](Project_028719/README.md) |
 | 028720 | [SQLite: Error Handling — Usability Improvement for Public Dataset](Project_028720/README.md) |
+| 028721 | [SQLite: Error Handling — Baseline Setup for Branch Office Simulator](Project_028721/README.md) |
+| 028722 | [SQLite: Error Handling — Automation for Branch Office Simulator](Project_028722/README.md) |
+| 028723 | [SQLite: Error Handling — Recovery for Branch Office Simulator](Project_028723/README.md) |
+| 028724 | [SQLite: Error Handling — Reporting for Branch Office Simulator](Project_028724/README.md) |
+| 028725 | [SQLite: Error Handling — Usability Improvement for Branch Office Simulator](Project_028725/README.md) |
+| 028726 | [SQLite: Error Handling — Baseline Setup for Offline Classroom](Project_028726/README.md) |
+| 028727 | [SQLite: Error Handling — Automation for Offline Classroom](Project_028727/README.md) |
+| 028728 | [SQLite: Error Handling — Recovery for Offline Classroom](Project_028728/README.md) |
+| 028729 | [SQLite: Error Handling — Reporting for Offline Classroom](Project_028729/README.md) |
+| 028730 | [SQLite: Error Handling — Usability Improvement for Offline Classroom](Project_028730/README.md) |
+| 028731 | [SQLite: Error Handling — Baseline Setup for Single-Host Lab](Project_028731/README.md) |
+| 028732 | [SQLite: Error Handling — Automation for Single-Host Lab](Project_028732/README.md) |
+| 028733 | [SQLite: Error Handling — Recovery for Single-Host Lab](Project_028733/README.md) |
+| 028734 | [SQLite: Error Handling — Reporting for Single-Host Lab](Project_028734/README.md) |
+| 028735 | [SQLite: Error Handling — Usability Improvement for Single-Host Lab](Project_028735/README.md) |
+| 028736 | [SQLite: Error Handling — Baseline Setup for Two-Node Lab](Project_028736/README.md) |
+| 028737 | [SQLite: Error Handling — Automation for Two-Node Lab](Project_028737/README.md) |
+| 028738 | [SQLite: Error Handling — Recovery for Two-Node Lab](Project_028738/README.md) |
+| 028739 | [SQLite: Error Handling — Reporting for Two-Node Lab](Project_028739/README.md) |
+| 028740 | [SQLite: Error Handling — Usability Improvement for Two-Node Lab](Project_028740/README.md) |
 
 [Back to the portfolio home](../README.md)
