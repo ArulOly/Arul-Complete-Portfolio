@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033558 | [Jupyter: Performance Baseline — Recovery for Small Business](Project_033558/README.md) |
 | 033559 | [Jupyter: Performance Baseline — Reporting for Small Business](Project_033559/README.md) |
 | 033560 | [Jupyter: Performance Baseline — Usability Improvement for Small Business](Project_033560/README.md) |
+| 033561 | [Jupyter: Performance Baseline — Baseline Setup for Home Development](Project_033561/README.md) |
+| 033562 | [Jupyter: Performance Baseline — Automation for Home Development](Project_033562/README.md) |
+| 033563 | [Jupyter: Performance Baseline — Recovery for Home Development](Project_033563/README.md) |
+| 033564 | [Jupyter: Performance Baseline — Reporting for Home Development](Project_033564/README.md) |
+| 033565 | [Jupyter: Performance Baseline — Usability Improvement for Home Development](Project_033565/README.md) |
+| 033566 | [Jupyter: Performance Baseline — Baseline Setup for Public Dataset](Project_033566/README.md) |
+| 033567 | [Jupyter: Performance Baseline — Automation for Public Dataset](Project_033567/README.md) |
+| 033568 | [Jupyter: Performance Baseline — Recovery for Public Dataset](Project_033568/README.md) |
+| 033569 | [Jupyter: Performance Baseline — Reporting for Public Dataset](Project_033569/README.md) |
+| 033570 | [Jupyter: Performance Baseline — Usability Improvement for Public Dataset](Project_033570/README.md) |
+| 033571 | [Jupyter: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_033571/README.md) |
+| 033572 | [Jupyter: Performance Baseline — Automation for Branch Office Simulator](Project_033572/README.md) |
+| 033573 | [Jupyter: Performance Baseline — Recovery for Branch Office Simulator](Project_033573/README.md) |
+| 033574 | [Jupyter: Performance Baseline — Reporting for Branch Office Simulator](Project_033574/README.md) |
+| 033575 | [Jupyter: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_033575/README.md) |
+| 033576 | [Jupyter: Performance Baseline — Baseline Setup for Offline Classroom](Project_033576/README.md) |
+| 033577 | [Jupyter: Performance Baseline — Automation for Offline Classroom](Project_033577/README.md) |
+| 033578 | [Jupyter: Performance Baseline — Recovery for Offline Classroom](Project_033578/README.md) |
+| 033579 | [Jupyter: Performance Baseline — Reporting for Offline Classroom](Project_033579/README.md) |
+| 033580 | [Jupyter: Performance Baseline — Usability Improvement for Offline Classroom](Project_033580/README.md) |
 
 [Back to the portfolio home](../README.md)
