@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -884,5 +884,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019838 | [Python: Documentation Generation — Recovery for Two-Node Lab](Project_019838/README.md) |
 | 019839 | [Python: Documentation Generation — Reporting for Two-Node Lab](Project_019839/README.md) |
 | 019840 | [Python: Documentation Generation — Usability Improvement for Two-Node Lab](Project_019840/README.md) |
+| 019841 | [Python: Documentation Generation — Baseline Setup for Help Desk](Project_019841/README.md) |
+| 019842 | [Python: Documentation Generation — Automation for Help Desk](Project_019842/README.md) |
+| 019843 | [Python: Documentation Generation — Recovery for Help Desk](Project_019843/README.md) |
+| 019844 | [Python: Documentation Generation — Reporting for Help Desk](Project_019844/README.md) |
+| 019845 | [Python: Documentation Generation — Usability Improvement for Help Desk](Project_019845/README.md) |
+| 019846 | [Python: Documentation Generation — Baseline Setup for Portfolio Demo](Project_019846/README.md) |
+| 019847 | [Python: Documentation Generation — Automation for Portfolio Demo](Project_019847/README.md) |
+| 019848 | [Python: Documentation Generation — Recovery for Portfolio Demo](Project_019848/README.md) |
+| 019849 | [Python: Documentation Generation — Reporting for Portfolio Demo](Project_019849/README.md) |
+| 019850 | [Python: Documentation Generation — Usability Improvement for Portfolio Demo](Project_019850/README.md) |
+| 019851 | [Python: Automation — Baseline Setup for School Lab](Project_019851/README.md) |
+| 019852 | [Python: Automation — Automation for School Lab](Project_019852/README.md) |
+| 019853 | [Python: Automation — Recovery for School Lab](Project_019853/README.md) |
+| 019854 | [Python: Automation — Reporting for School Lab](Project_019854/README.md) |
+| 019855 | [Python: Automation — Usability Improvement for School Lab](Project_019855/README.md) |
+| 019856 | [Python: Automation — Baseline Setup for Small Business](Project_019856/README.md) |
+| 019857 | [Python: Automation — Automation for Small Business](Project_019857/README.md) |
+| 019858 | [Python: Automation — Recovery for Small Business](Project_019858/README.md) |
+| 019859 | [Python: Automation — Reporting for Small Business](Project_019859/README.md) |
+| 019860 | [Python: Automation — Usability Improvement for Small Business](Project_019860/README.md) |
 
 [Back to the portfolio home](../README.md)
