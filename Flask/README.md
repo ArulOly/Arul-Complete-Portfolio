@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048638 | [Flask: Service Check — Recovery for Two-Node Lab](Project_048638/README.md) |
 | 048639 | [Flask: Service Check — Reporting for Two-Node Lab](Project_048639/README.md) |
 | 048640 | [Flask: Service Check — Usability Improvement for Two-Node Lab](Project_048640/README.md) |
+| 048641 | [Flask: Service Check — Baseline Setup for Help Desk](Project_048641/README.md) |
+| 048642 | [Flask: Service Check — Automation for Help Desk](Project_048642/README.md) |
+| 048643 | [Flask: Service Check — Recovery for Help Desk](Project_048643/README.md) |
+| 048644 | [Flask: Service Check — Reporting for Help Desk](Project_048644/README.md) |
+| 048645 | [Flask: Service Check — Usability Improvement for Help Desk](Project_048645/README.md) |
+| 048646 | [Flask: Service Check — Baseline Setup for Portfolio Demo](Project_048646/README.md) |
+| 048647 | [Flask: Service Check — Automation for Portfolio Demo](Project_048647/README.md) |
+| 048648 | [Flask: Service Check — Recovery for Portfolio Demo](Project_048648/README.md) |
+| 048649 | [Flask: Service Check — Reporting for Portfolio Demo](Project_048649/README.md) |
+| 048650 | [Flask: Service Check — Usability Improvement for Portfolio Demo](Project_048650/README.md) |
+| 048651 | [Flask: Configuration Comparison — Baseline Setup for School Lab](Project_048651/README.md) |
+| 048652 | [Flask: Configuration Comparison — Automation for School Lab](Project_048652/README.md) |
+| 048653 | [Flask: Configuration Comparison — Recovery for School Lab](Project_048653/README.md) |
+| 048654 | [Flask: Configuration Comparison — Reporting for School Lab](Project_048654/README.md) |
+| 048655 | [Flask: Configuration Comparison — Usability Improvement for School Lab](Project_048655/README.md) |
+| 048656 | [Flask: Configuration Comparison — Baseline Setup for Small Business](Project_048656/README.md) |
+| 048657 | [Flask: Configuration Comparison — Automation for Small Business](Project_048657/README.md) |
+| 048658 | [Flask: Configuration Comparison — Recovery for Small Business](Project_048658/README.md) |
+| 048659 | [Flask: Configuration Comparison — Reporting for Small Business](Project_048659/README.md) |
+| 048660 | [Flask: Configuration Comparison — Usability Improvement for Small Business](Project_048660/README.md) |
 
 [Back to the portfolio home](../README.md)
