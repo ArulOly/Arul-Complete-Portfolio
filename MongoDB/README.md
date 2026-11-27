@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027658 | [MongoDB: Configuration Comparison — Recovery for Small Business](Project_027658/README.md) |
 | 027659 | [MongoDB: Configuration Comparison — Reporting for Small Business](Project_027659/README.md) |
 | 027660 | [MongoDB: Configuration Comparison — Usability Improvement for Small Business](Project_027660/README.md) |
+| 027661 | [MongoDB: Configuration Comparison — Baseline Setup for Home Development](Project_027661/README.md) |
+| 027662 | [MongoDB: Configuration Comparison — Automation for Home Development](Project_027662/README.md) |
+| 027663 | [MongoDB: Configuration Comparison — Recovery for Home Development](Project_027663/README.md) |
+| 027664 | [MongoDB: Configuration Comparison — Reporting for Home Development](Project_027664/README.md) |
+| 027665 | [MongoDB: Configuration Comparison — Usability Improvement for Home Development](Project_027665/README.md) |
+| 027666 | [MongoDB: Configuration Comparison — Baseline Setup for Public Dataset](Project_027666/README.md) |
+| 027667 | [MongoDB: Configuration Comparison — Automation for Public Dataset](Project_027667/README.md) |
+| 027668 | [MongoDB: Configuration Comparison — Recovery for Public Dataset](Project_027668/README.md) |
+| 027669 | [MongoDB: Configuration Comparison — Reporting for Public Dataset](Project_027669/README.md) |
+| 027670 | [MongoDB: Configuration Comparison — Usability Improvement for Public Dataset](Project_027670/README.md) |
+| 027671 | [MongoDB: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_027671/README.md) |
+| 027672 | [MongoDB: Configuration Comparison — Automation for Branch Office Simulator](Project_027672/README.md) |
+| 027673 | [MongoDB: Configuration Comparison — Recovery for Branch Office Simulator](Project_027673/README.md) |
+| 027674 | [MongoDB: Configuration Comparison — Reporting for Branch Office Simulator](Project_027674/README.md) |
+| 027675 | [MongoDB: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_027675/README.md) |
+| 027676 | [MongoDB: Configuration Comparison — Baseline Setup for Offline Classroom](Project_027676/README.md) |
+| 027677 | [MongoDB: Configuration Comparison — Automation for Offline Classroom](Project_027677/README.md) |
+| 027678 | [MongoDB: Configuration Comparison — Recovery for Offline Classroom](Project_027678/README.md) |
+| 027679 | [MongoDB: Configuration Comparison — Reporting for Offline Classroom](Project_027679/README.md) |
+| 027680 | [MongoDB: Configuration Comparison — Usability Improvement for Offline Classroom](Project_027680/README.md) |
 
 [Back to the portfolio home](../README.md)
