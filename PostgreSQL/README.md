@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025978 | [PostgreSQL: Recovery Test — Recovery for Offline Classroom](Project_025978/README.md) |
 | 025979 | [PostgreSQL: Recovery Test — Reporting for Offline Classroom](Project_025979/README.md) |
 | 025980 | [PostgreSQL: Recovery Test — Usability Improvement for Offline Classroom](Project_025980/README.md) |
+| 025981 | [PostgreSQL: Recovery Test — Baseline Setup for Single-Host Lab](Project_025981/README.md) |
+| 025982 | [PostgreSQL: Recovery Test — Automation for Single-Host Lab](Project_025982/README.md) |
+| 025983 | [PostgreSQL: Recovery Test — Recovery for Single-Host Lab](Project_025983/README.md) |
+| 025984 | [PostgreSQL: Recovery Test — Reporting for Single-Host Lab](Project_025984/README.md) |
+| 025985 | [PostgreSQL: Recovery Test — Usability Improvement for Single-Host Lab](Project_025985/README.md) |
+| 025986 | [PostgreSQL: Recovery Test — Baseline Setup for Two-Node Lab](Project_025986/README.md) |
+| 025987 | [PostgreSQL: Recovery Test — Automation for Two-Node Lab](Project_025987/README.md) |
+| 025988 | [PostgreSQL: Recovery Test — Recovery for Two-Node Lab](Project_025988/README.md) |
+| 025989 | [PostgreSQL: Recovery Test — Reporting for Two-Node Lab](Project_025989/README.md) |
+| 025990 | [PostgreSQL: Recovery Test — Usability Improvement for Two-Node Lab](Project_025990/README.md) |
+| 025991 | [PostgreSQL: Recovery Test — Baseline Setup for Help Desk](Project_025991/README.md) |
+| 025992 | [PostgreSQL: Recovery Test — Automation for Help Desk](Project_025992/README.md) |
+| 025993 | [PostgreSQL: Recovery Test — Recovery for Help Desk](Project_025993/README.md) |
+| 025994 | [PostgreSQL: Recovery Test — Reporting for Help Desk](Project_025994/README.md) |
+| 025995 | [PostgreSQL: Recovery Test — Usability Improvement for Help Desk](Project_025995/README.md) |
+| 025996 | [PostgreSQL: Recovery Test — Baseline Setup for Portfolio Demo](Project_025996/README.md) |
+| 025997 | [PostgreSQL: Recovery Test — Automation for Portfolio Demo](Project_025997/README.md) |
+| 025998 | [PostgreSQL: Recovery Test — Recovery for Portfolio Demo](Project_025998/README.md) |
+| 025999 | [PostgreSQL: Recovery Test — Reporting for Portfolio Demo](Project_025999/README.md) |
+| 026000 | [PostgreSQL: Recovery Test — Usability Improvement for Portfolio Demo](Project_026000/README.md) |
 
 [Back to the portfolio home](../README.md)
