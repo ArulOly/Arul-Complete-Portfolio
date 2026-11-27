@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021458 | [TypeScript: Scheduled Reporting — Recovery for Small Business](Project_021458/README.md) |
 | 021459 | [TypeScript: Scheduled Reporting — Reporting for Small Business](Project_021459/README.md) |
 | 021460 | [TypeScript: Scheduled Reporting — Usability Improvement for Small Business](Project_021460/README.md) |
+| 021461 | [TypeScript: Scheduled Reporting — Baseline Setup for Home Development](Project_021461/README.md) |
+| 021462 | [TypeScript: Scheduled Reporting — Automation for Home Development](Project_021462/README.md) |
+| 021463 | [TypeScript: Scheduled Reporting — Recovery for Home Development](Project_021463/README.md) |
+| 021464 | [TypeScript: Scheduled Reporting — Reporting for Home Development](Project_021464/README.md) |
+| 021465 | [TypeScript: Scheduled Reporting — Usability Improvement for Home Development](Project_021465/README.md) |
+| 021466 | [TypeScript: Scheduled Reporting — Baseline Setup for Public Dataset](Project_021466/README.md) |
+| 021467 | [TypeScript: Scheduled Reporting — Automation for Public Dataset](Project_021467/README.md) |
+| 021468 | [TypeScript: Scheduled Reporting — Recovery for Public Dataset](Project_021468/README.md) |
+| 021469 | [TypeScript: Scheduled Reporting — Reporting for Public Dataset](Project_021469/README.md) |
+| 021470 | [TypeScript: Scheduled Reporting — Usability Improvement for Public Dataset](Project_021470/README.md) |
+| 021471 | [TypeScript: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_021471/README.md) |
+| 021472 | [TypeScript: Scheduled Reporting — Automation for Branch Office Simulator](Project_021472/README.md) |
+| 021473 | [TypeScript: Scheduled Reporting — Recovery for Branch Office Simulator](Project_021473/README.md) |
+| 021474 | [TypeScript: Scheduled Reporting — Reporting for Branch Office Simulator](Project_021474/README.md) |
+| 021475 | [TypeScript: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_021475/README.md) |
+| 021476 | [TypeScript: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_021476/README.md) |
+| 021477 | [TypeScript: Scheduled Reporting — Automation for Offline Classroom](Project_021477/README.md) |
+| 021478 | [TypeScript: Scheduled Reporting — Recovery for Offline Classroom](Project_021478/README.md) |
+| 021479 | [TypeScript: Scheduled Reporting — Reporting for Offline Classroom](Project_021479/README.md) |
+| 021480 | [TypeScript: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_021480/README.md) |
 
 [Back to the portfolio home](../README.md)
