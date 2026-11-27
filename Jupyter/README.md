@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033678 | [Jupyter: Configuration Comparison — Recovery for Offline Classroom](Project_033678/README.md) |
 | 033679 | [Jupyter: Configuration Comparison — Reporting for Offline Classroom](Project_033679/README.md) |
 | 033680 | [Jupyter: Configuration Comparison — Usability Improvement for Offline Classroom](Project_033680/README.md) |
+| 033681 | [Jupyter: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_033681/README.md) |
+| 033682 | [Jupyter: Configuration Comparison — Automation for Single-Host Lab](Project_033682/README.md) |
+| 033683 | [Jupyter: Configuration Comparison — Recovery for Single-Host Lab](Project_033683/README.md) |
+| 033684 | [Jupyter: Configuration Comparison — Reporting for Single-Host Lab](Project_033684/README.md) |
+| 033685 | [Jupyter: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_033685/README.md) |
+| 033686 | [Jupyter: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_033686/README.md) |
+| 033687 | [Jupyter: Configuration Comparison — Automation for Two-Node Lab](Project_033687/README.md) |
+| 033688 | [Jupyter: Configuration Comparison — Recovery for Two-Node Lab](Project_033688/README.md) |
+| 033689 | [Jupyter: Configuration Comparison — Reporting for Two-Node Lab](Project_033689/README.md) |
+| 033690 | [Jupyter: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_033690/README.md) |
+| 033691 | [Jupyter: Configuration Comparison — Baseline Setup for Help Desk](Project_033691/README.md) |
+| 033692 | [Jupyter: Configuration Comparison — Automation for Help Desk](Project_033692/README.md) |
+| 033693 | [Jupyter: Configuration Comparison — Recovery for Help Desk](Project_033693/README.md) |
+| 033694 | [Jupyter: Configuration Comparison — Reporting for Help Desk](Project_033694/README.md) |
+| 033695 | [Jupyter: Configuration Comparison — Usability Improvement for Help Desk](Project_033695/README.md) |
+| 033696 | [Jupyter: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_033696/README.md) |
+| 033697 | [Jupyter: Configuration Comparison — Automation for Portfolio Demo](Project_033697/README.md) |
+| 033698 | [Jupyter: Configuration Comparison — Recovery for Portfolio Demo](Project_033698/README.md) |
+| 033699 | [Jupyter: Configuration Comparison — Reporting for Portfolio Demo](Project_033699/README.md) |
+| 033700 | [Jupyter: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_033700/README.md) |
 
 [Back to the portfolio home](../README.md)
