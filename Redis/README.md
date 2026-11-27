@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045978 | [Redis: Recovery Test — Recovery for Offline Classroom](Project_045978/README.md) |
 | 045979 | [Redis: Recovery Test — Reporting for Offline Classroom](Project_045979/README.md) |
 | 045980 | [Redis: Recovery Test — Usability Improvement for Offline Classroom](Project_045980/README.md) |
+| 045981 | [Redis: Recovery Test — Baseline Setup for Single-Host Lab](Project_045981/README.md) |
+| 045982 | [Redis: Recovery Test — Automation for Single-Host Lab](Project_045982/README.md) |
+| 045983 | [Redis: Recovery Test — Recovery for Single-Host Lab](Project_045983/README.md) |
+| 045984 | [Redis: Recovery Test — Reporting for Single-Host Lab](Project_045984/README.md) |
+| 045985 | [Redis: Recovery Test — Usability Improvement for Single-Host Lab](Project_045985/README.md) |
+| 045986 | [Redis: Recovery Test — Baseline Setup for Two-Node Lab](Project_045986/README.md) |
+| 045987 | [Redis: Recovery Test — Automation for Two-Node Lab](Project_045987/README.md) |
+| 045988 | [Redis: Recovery Test — Recovery for Two-Node Lab](Project_045988/README.md) |
+| 045989 | [Redis: Recovery Test — Reporting for Two-Node Lab](Project_045989/README.md) |
+| 045990 | [Redis: Recovery Test — Usability Improvement for Two-Node Lab](Project_045990/README.md) |
+| 045991 | [Redis: Recovery Test — Baseline Setup for Help Desk](Project_045991/README.md) |
+| 045992 | [Redis: Recovery Test — Automation for Help Desk](Project_045992/README.md) |
+| 045993 | [Redis: Recovery Test — Recovery for Help Desk](Project_045993/README.md) |
+| 045994 | [Redis: Recovery Test — Reporting for Help Desk](Project_045994/README.md) |
+| 045995 | [Redis: Recovery Test — Usability Improvement for Help Desk](Project_045995/README.md) |
+| 045996 | [Redis: Recovery Test — Baseline Setup for Portfolio Demo](Project_045996/README.md) |
+| 045997 | [Redis: Recovery Test — Automation for Portfolio Demo](Project_045997/README.md) |
+| 045998 | [Redis: Recovery Test — Recovery for Portfolio Demo](Project_045998/README.md) |
+| 045999 | [Redis: Recovery Test — Reporting for Portfolio Demo](Project_045999/README.md) |
+| 046000 | [Redis: Recovery Test — Usability Improvement for Portfolio Demo](Project_046000/README.md) |
 
 [Back to the portfolio home](../README.md)
