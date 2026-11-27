@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048378 | [Flask: Dashboard — Recovery for Offline Classroom](Project_048378/README.md) |
 | 048379 | [Flask: Dashboard — Reporting for Offline Classroom](Project_048379/README.md) |
 | 048380 | [Flask: Dashboard — Usability Improvement for Offline Classroom](Project_048380/README.md) |
+| 048381 | [Flask: Dashboard — Baseline Setup for Single-Host Lab](Project_048381/README.md) |
+| 048382 | [Flask: Dashboard — Automation for Single-Host Lab](Project_048382/README.md) |
+| 048383 | [Flask: Dashboard — Recovery for Single-Host Lab](Project_048383/README.md) |
+| 048384 | [Flask: Dashboard — Reporting for Single-Host Lab](Project_048384/README.md) |
+| 048385 | [Flask: Dashboard — Usability Improvement for Single-Host Lab](Project_048385/README.md) |
+| 048386 | [Flask: Dashboard — Baseline Setup for Two-Node Lab](Project_048386/README.md) |
+| 048387 | [Flask: Dashboard — Automation for Two-Node Lab](Project_048387/README.md) |
+| 048388 | [Flask: Dashboard — Recovery for Two-Node Lab](Project_048388/README.md) |
+| 048389 | [Flask: Dashboard — Reporting for Two-Node Lab](Project_048389/README.md) |
+| 048390 | [Flask: Dashboard — Usability Improvement for Two-Node Lab](Project_048390/README.md) |
+| 048391 | [Flask: Dashboard — Baseline Setup for Help Desk](Project_048391/README.md) |
+| 048392 | [Flask: Dashboard — Automation for Help Desk](Project_048392/README.md) |
+| 048393 | [Flask: Dashboard — Recovery for Help Desk](Project_048393/README.md) |
+| 048394 | [Flask: Dashboard — Reporting for Help Desk](Project_048394/README.md) |
+| 048395 | [Flask: Dashboard — Usability Improvement for Help Desk](Project_048395/README.md) |
+| 048396 | [Flask: Dashboard — Baseline Setup for Portfolio Demo](Project_048396/README.md) |
+| 048397 | [Flask: Dashboard — Automation for Portfolio Demo](Project_048397/README.md) |
+| 048398 | [Flask: Dashboard — Recovery for Portfolio Demo](Project_048398/README.md) |
+| 048399 | [Flask: Dashboard — Reporting for Portfolio Demo](Project_048399/README.md) |
+| 048400 | [Flask: Dashboard — Usability Improvement for Portfolio Demo](Project_048400/README.md) |
 
 [Back to the portfolio home](../README.md)
