@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020478 | [JavaScript: Scheduled Reporting — Recovery for Offline Classroom](Project_020478/README.md) |
 | 020479 | [JavaScript: Scheduled Reporting — Reporting for Offline Classroom](Project_020479/README.md) |
 | 020480 | [JavaScript: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_020480/README.md) |
+| 020481 | [JavaScript: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_020481/README.md) |
+| 020482 | [JavaScript: Scheduled Reporting — Automation for Single-Host Lab](Project_020482/README.md) |
+| 020483 | [JavaScript: Scheduled Reporting — Recovery for Single-Host Lab](Project_020483/README.md) |
+| 020484 | [JavaScript: Scheduled Reporting — Reporting for Single-Host Lab](Project_020484/README.md) |
+| 020485 | [JavaScript: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_020485/README.md) |
+| 020486 | [JavaScript: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_020486/README.md) |
+| 020487 | [JavaScript: Scheduled Reporting — Automation for Two-Node Lab](Project_020487/README.md) |
+| 020488 | [JavaScript: Scheduled Reporting — Recovery for Two-Node Lab](Project_020488/README.md) |
+| 020489 | [JavaScript: Scheduled Reporting — Reporting for Two-Node Lab](Project_020489/README.md) |
+| 020490 | [JavaScript: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_020490/README.md) |
+| 020491 | [JavaScript: Scheduled Reporting — Baseline Setup for Help Desk](Project_020491/README.md) |
+| 020492 | [JavaScript: Scheduled Reporting — Automation for Help Desk](Project_020492/README.md) |
+| 020493 | [JavaScript: Scheduled Reporting — Recovery for Help Desk](Project_020493/README.md) |
+| 020494 | [JavaScript: Scheduled Reporting — Reporting for Help Desk](Project_020494/README.md) |
+| 020495 | [JavaScript: Scheduled Reporting — Usability Improvement for Help Desk](Project_020495/README.md) |
+| 020496 | [JavaScript: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_020496/README.md) |
+| 020497 | [JavaScript: Scheduled Reporting — Automation for Portfolio Demo](Project_020497/README.md) |
+| 020498 | [JavaScript: Scheduled Reporting — Recovery for Portfolio Demo](Project_020498/README.md) |
+| 020499 | [JavaScript: Scheduled Reporting — Reporting for Portfolio Demo](Project_020499/README.md) |
+| 020500 | [JavaScript: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_020500/README.md) |
 
 [Back to the portfolio home](../README.md)
