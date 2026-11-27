@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033698 | [Jupyter: Configuration Comparison — Recovery for Portfolio Demo](Project_033698/README.md) |
 | 033699 | [Jupyter: Configuration Comparison — Reporting for Portfolio Demo](Project_033699/README.md) |
 | 033700 | [Jupyter: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_033700/README.md) |
+| 033701 | [Jupyter: Error Handling — Baseline Setup for School Lab](Project_033701/README.md) |
+| 033702 | [Jupyter: Error Handling — Automation for School Lab](Project_033702/README.md) |
+| 033703 | [Jupyter: Error Handling — Recovery for School Lab](Project_033703/README.md) |
+| 033704 | [Jupyter: Error Handling — Reporting for School Lab](Project_033704/README.md) |
+| 033705 | [Jupyter: Error Handling — Usability Improvement for School Lab](Project_033705/README.md) |
+| 033706 | [Jupyter: Error Handling — Baseline Setup for Small Business](Project_033706/README.md) |
+| 033707 | [Jupyter: Error Handling — Automation for Small Business](Project_033707/README.md) |
+| 033708 | [Jupyter: Error Handling — Recovery for Small Business](Project_033708/README.md) |
+| 033709 | [Jupyter: Error Handling — Reporting for Small Business](Project_033709/README.md) |
+| 033710 | [Jupyter: Error Handling — Usability Improvement for Small Business](Project_033710/README.md) |
+| 033711 | [Jupyter: Error Handling — Baseline Setup for Home Development](Project_033711/README.md) |
+| 033712 | [Jupyter: Error Handling — Automation for Home Development](Project_033712/README.md) |
+| 033713 | [Jupyter: Error Handling — Recovery for Home Development](Project_033713/README.md) |
+| 033714 | [Jupyter: Error Handling — Reporting for Home Development](Project_033714/README.md) |
+| 033715 | [Jupyter: Error Handling — Usability Improvement for Home Development](Project_033715/README.md) |
+| 033716 | [Jupyter: Error Handling — Baseline Setup for Public Dataset](Project_033716/README.md) |
+| 033717 | [Jupyter: Error Handling — Automation for Public Dataset](Project_033717/README.md) |
+| 033718 | [Jupyter: Error Handling — Recovery for Public Dataset](Project_033718/README.md) |
+| 033719 | [Jupyter: Error Handling — Reporting for Public Dataset](Project_033719/README.md) |
+| 033720 | [Jupyter: Error Handling — Usability Improvement for Public Dataset](Project_033720/README.md) |
 
 [Back to the portfolio home](../README.md)
