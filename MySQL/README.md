@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026598 | [MySQL: Performance Baseline — Recovery for Portfolio Demo](Project_026598/README.md) |
 | 026599 | [MySQL: Performance Baseline — Reporting for Portfolio Demo](Project_026599/README.md) |
 | 026600 | [MySQL: Performance Baseline — Usability Improvement for Portfolio Demo](Project_026600/README.md) |
+| 026601 | [MySQL: Service Check — Baseline Setup for School Lab](Project_026601/README.md) |
+| 026602 | [MySQL: Service Check — Automation for School Lab](Project_026602/README.md) |
+| 026603 | [MySQL: Service Check — Recovery for School Lab](Project_026603/README.md) |
+| 026604 | [MySQL: Service Check — Reporting for School Lab](Project_026604/README.md) |
+| 026605 | [MySQL: Service Check — Usability Improvement for School Lab](Project_026605/README.md) |
+| 026606 | [MySQL: Service Check — Baseline Setup for Small Business](Project_026606/README.md) |
+| 026607 | [MySQL: Service Check — Automation for Small Business](Project_026607/README.md) |
+| 026608 | [MySQL: Service Check — Recovery for Small Business](Project_026608/README.md) |
+| 026609 | [MySQL: Service Check — Reporting for Small Business](Project_026609/README.md) |
+| 026610 | [MySQL: Service Check — Usability Improvement for Small Business](Project_026610/README.md) |
+| 026611 | [MySQL: Service Check — Baseline Setup for Home Development](Project_026611/README.md) |
+| 026612 | [MySQL: Service Check — Automation for Home Development](Project_026612/README.md) |
+| 026613 | [MySQL: Service Check — Recovery for Home Development](Project_026613/README.md) |
+| 026614 | [MySQL: Service Check — Reporting for Home Development](Project_026614/README.md) |
+| 026615 | [MySQL: Service Check — Usability Improvement for Home Development](Project_026615/README.md) |
+| 026616 | [MySQL: Service Check — Baseline Setup for Public Dataset](Project_026616/README.md) |
+| 026617 | [MySQL: Service Check — Automation for Public Dataset](Project_026617/README.md) |
+| 026618 | [MySQL: Service Check — Recovery for Public Dataset](Project_026618/README.md) |
+| 026619 | [MySQL: Service Check — Reporting for Public Dataset](Project_026619/README.md) |
+| 026620 | [MySQL: Service Check — Usability Improvement for Public Dataset](Project_026620/README.md) |
 
 [Back to the portfolio home](../README.md)
