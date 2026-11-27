@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033778 | [Jupyter: Data Validation — Recovery for Offline Classroom](Project_033778/README.md) |
 | 033779 | [Jupyter: Data Validation — Reporting for Offline Classroom](Project_033779/README.md) |
 | 033780 | [Jupyter: Data Validation — Usability Improvement for Offline Classroom](Project_033780/README.md) |
+| 033781 | [Jupyter: Data Validation — Baseline Setup for Single-Host Lab](Project_033781/README.md) |
+| 033782 | [Jupyter: Data Validation — Automation for Single-Host Lab](Project_033782/README.md) |
+| 033783 | [Jupyter: Data Validation — Recovery for Single-Host Lab](Project_033783/README.md) |
+| 033784 | [Jupyter: Data Validation — Reporting for Single-Host Lab](Project_033784/README.md) |
+| 033785 | [Jupyter: Data Validation — Usability Improvement for Single-Host Lab](Project_033785/README.md) |
+| 033786 | [Jupyter: Data Validation — Baseline Setup for Two-Node Lab](Project_033786/README.md) |
+| 033787 | [Jupyter: Data Validation — Automation for Two-Node Lab](Project_033787/README.md) |
+| 033788 | [Jupyter: Data Validation — Recovery for Two-Node Lab](Project_033788/README.md) |
+| 033789 | [Jupyter: Data Validation — Reporting for Two-Node Lab](Project_033789/README.md) |
+| 033790 | [Jupyter: Data Validation — Usability Improvement for Two-Node Lab](Project_033790/README.md) |
+| 033791 | [Jupyter: Data Validation — Baseline Setup for Help Desk](Project_033791/README.md) |
+| 033792 | [Jupyter: Data Validation — Automation for Help Desk](Project_033792/README.md) |
+| 033793 | [Jupyter: Data Validation — Recovery for Help Desk](Project_033793/README.md) |
+| 033794 | [Jupyter: Data Validation — Reporting for Help Desk](Project_033794/README.md) |
+| 033795 | [Jupyter: Data Validation — Usability Improvement for Help Desk](Project_033795/README.md) |
+| 033796 | [Jupyter: Data Validation — Baseline Setup for Portfolio Demo](Project_033796/README.md) |
+| 033797 | [Jupyter: Data Validation — Automation for Portfolio Demo](Project_033797/README.md) |
+| 033798 | [Jupyter: Data Validation — Recovery for Portfolio Demo](Project_033798/README.md) |
+| 033799 | [Jupyter: Data Validation — Reporting for Portfolio Demo](Project_033799/README.md) |
+| 033800 | [Jupyter: Data Validation — Usability Improvement for Portfolio Demo](Project_033800/README.md) |
 
 [Back to the portfolio home](../README.md)
