@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022478 | [Java: Scheduled Reporting — Recovery for Offline Classroom](Project_022478/README.md) |
 | 022479 | [Java: Scheduled Reporting — Reporting for Offline Classroom](Project_022479/README.md) |
 | 022480 | [Java: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_022480/README.md) |
+| 022481 | [Java: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_022481/README.md) |
+| 022482 | [Java: Scheduled Reporting — Automation for Single-Host Lab](Project_022482/README.md) |
+| 022483 | [Java: Scheduled Reporting — Recovery for Single-Host Lab](Project_022483/README.md) |
+| 022484 | [Java: Scheduled Reporting — Reporting for Single-Host Lab](Project_022484/README.md) |
+| 022485 | [Java: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_022485/README.md) |
+| 022486 | [Java: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_022486/README.md) |
+| 022487 | [Java: Scheduled Reporting — Automation for Two-Node Lab](Project_022487/README.md) |
+| 022488 | [Java: Scheduled Reporting — Recovery for Two-Node Lab](Project_022488/README.md) |
+| 022489 | [Java: Scheduled Reporting — Reporting for Two-Node Lab](Project_022489/README.md) |
+| 022490 | [Java: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_022490/README.md) |
+| 022491 | [Java: Scheduled Reporting — Baseline Setup for Help Desk](Project_022491/README.md) |
+| 022492 | [Java: Scheduled Reporting — Automation for Help Desk](Project_022492/README.md) |
+| 022493 | [Java: Scheduled Reporting — Recovery for Help Desk](Project_022493/README.md) |
+| 022494 | [Java: Scheduled Reporting — Reporting for Help Desk](Project_022494/README.md) |
+| 022495 | [Java: Scheduled Reporting — Usability Improvement for Help Desk](Project_022495/README.md) |
+| 022496 | [Java: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_022496/README.md) |
+| 022497 | [Java: Scheduled Reporting — Automation for Portfolio Demo](Project_022497/README.md) |
+| 022498 | [Java: Scheduled Reporting — Recovery for Portfolio Demo](Project_022498/README.md) |
+| 022499 | [Java: Scheduled Reporting — Reporting for Portfolio Demo](Project_022499/README.md) |
+| 022500 | [Java: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_022500/README.md) |
 
 [Back to the portfolio home](../README.md)
