@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005658 | [FreeBSD: Configuration Comparison — Recovery for Small Business](Project_005658/README.md) |
 | 005659 | [FreeBSD: Configuration Comparison — Reporting for Small Business](Project_005659/README.md) |
 | 005660 | [FreeBSD: Configuration Comparison — Usability Improvement for Small Business](Project_005660/README.md) |
+| 005661 | [FreeBSD: Configuration Comparison — Baseline Setup for Home Development](Project_005661/README.md) |
+| 005662 | [FreeBSD: Configuration Comparison — Automation for Home Development](Project_005662/README.md) |
+| 005663 | [FreeBSD: Configuration Comparison — Recovery for Home Development](Project_005663/README.md) |
+| 005664 | [FreeBSD: Configuration Comparison — Reporting for Home Development](Project_005664/README.md) |
+| 005665 | [FreeBSD: Configuration Comparison — Usability Improvement for Home Development](Project_005665/README.md) |
+| 005666 | [FreeBSD: Configuration Comparison — Baseline Setup for Public Dataset](Project_005666/README.md) |
+| 005667 | [FreeBSD: Configuration Comparison — Automation for Public Dataset](Project_005667/README.md) |
+| 005668 | [FreeBSD: Configuration Comparison — Recovery for Public Dataset](Project_005668/README.md) |
+| 005669 | [FreeBSD: Configuration Comparison — Reporting for Public Dataset](Project_005669/README.md) |
+| 005670 | [FreeBSD: Configuration Comparison — Usability Improvement for Public Dataset](Project_005670/README.md) |
+| 005671 | [FreeBSD: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_005671/README.md) |
+| 005672 | [FreeBSD: Configuration Comparison — Automation for Branch Office Simulator](Project_005672/README.md) |
+| 005673 | [FreeBSD: Configuration Comparison — Recovery for Branch Office Simulator](Project_005673/README.md) |
+| 005674 | [FreeBSD: Configuration Comparison — Reporting for Branch Office Simulator](Project_005674/README.md) |
+| 005675 | [FreeBSD: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_005675/README.md) |
+| 005676 | [FreeBSD: Configuration Comparison — Baseline Setup for Offline Classroom](Project_005676/README.md) |
+| 005677 | [FreeBSD: Configuration Comparison — Automation for Offline Classroom](Project_005677/README.md) |
+| 005678 | [FreeBSD: Configuration Comparison — Recovery for Offline Classroom](Project_005678/README.md) |
+| 005679 | [FreeBSD: Configuration Comparison — Reporting for Offline Classroom](Project_005679/README.md) |
+| 005680 | [FreeBSD: Configuration Comparison — Usability Improvement for Offline Classroom](Project_005680/README.md) |
 
 [Back to the portfolio home](../README.md)
