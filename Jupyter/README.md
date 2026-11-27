@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033538 | [Jupyter: Access Review — Recovery for Two-Node Lab](Project_033538/README.md) |
 | 033539 | [Jupyter: Access Review — Reporting for Two-Node Lab](Project_033539/README.md) |
 | 033540 | [Jupyter: Access Review — Usability Improvement for Two-Node Lab](Project_033540/README.md) |
+| 033541 | [Jupyter: Access Review — Baseline Setup for Help Desk](Project_033541/README.md) |
+| 033542 | [Jupyter: Access Review — Automation for Help Desk](Project_033542/README.md) |
+| 033543 | [Jupyter: Access Review — Recovery for Help Desk](Project_033543/README.md) |
+| 033544 | [Jupyter: Access Review — Reporting for Help Desk](Project_033544/README.md) |
+| 033545 | [Jupyter: Access Review — Usability Improvement for Help Desk](Project_033545/README.md) |
+| 033546 | [Jupyter: Access Review — Baseline Setup for Portfolio Demo](Project_033546/README.md) |
+| 033547 | [Jupyter: Access Review — Automation for Portfolio Demo](Project_033547/README.md) |
+| 033548 | [Jupyter: Access Review — Recovery for Portfolio Demo](Project_033548/README.md) |
+| 033549 | [Jupyter: Access Review — Reporting for Portfolio Demo](Project_033549/README.md) |
+| 033550 | [Jupyter: Access Review — Usability Improvement for Portfolio Demo](Project_033550/README.md) |
+| 033551 | [Jupyter: Performance Baseline — Baseline Setup for School Lab](Project_033551/README.md) |
+| 033552 | [Jupyter: Performance Baseline — Automation for School Lab](Project_033552/README.md) |
+| 033553 | [Jupyter: Performance Baseline — Recovery for School Lab](Project_033553/README.md) |
+| 033554 | [Jupyter: Performance Baseline — Reporting for School Lab](Project_033554/README.md) |
+| 033555 | [Jupyter: Performance Baseline — Usability Improvement for School Lab](Project_033555/README.md) |
+| 033556 | [Jupyter: Performance Baseline — Baseline Setup for Small Business](Project_033556/README.md) |
+| 033557 | [Jupyter: Performance Baseline — Automation for Small Business](Project_033557/README.md) |
+| 033558 | [Jupyter: Performance Baseline — Recovery for Small Business](Project_033558/README.md) |
+| 033559 | [Jupyter: Performance Baseline — Reporting for Small Business](Project_033559/README.md) |
+| 033560 | [Jupyter: Performance Baseline — Usability Improvement for Small Business](Project_033560/README.md) |
 
 [Back to the portfolio home](../README.md)
