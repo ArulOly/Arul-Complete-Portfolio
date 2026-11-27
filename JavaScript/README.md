@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020398 | [JavaScript: Dashboard — Recovery for Portfolio Demo](Project_020398/README.md) |
 | 020399 | [JavaScript: Dashboard — Reporting for Portfolio Demo](Project_020399/README.md) |
 | 020400 | [JavaScript: Dashboard — Usability Improvement for Portfolio Demo](Project_020400/README.md) |
+| 020401 | [JavaScript: Alerting — Baseline Setup for School Lab](Project_020401/README.md) |
+| 020402 | [JavaScript: Alerting — Automation for School Lab](Project_020402/README.md) |
+| 020403 | [JavaScript: Alerting — Recovery for School Lab](Project_020403/README.md) |
+| 020404 | [JavaScript: Alerting — Reporting for School Lab](Project_020404/README.md) |
+| 020405 | [JavaScript: Alerting — Usability Improvement for School Lab](Project_020405/README.md) |
+| 020406 | [JavaScript: Alerting — Baseline Setup for Small Business](Project_020406/README.md) |
+| 020407 | [JavaScript: Alerting — Automation for Small Business](Project_020407/README.md) |
+| 020408 | [JavaScript: Alerting — Recovery for Small Business](Project_020408/README.md) |
+| 020409 | [JavaScript: Alerting — Reporting for Small Business](Project_020409/README.md) |
+| 020410 | [JavaScript: Alerting — Usability Improvement for Small Business](Project_020410/README.md) |
+| 020411 | [JavaScript: Alerting — Baseline Setup for Home Development](Project_020411/README.md) |
+| 020412 | [JavaScript: Alerting — Automation for Home Development](Project_020412/README.md) |
+| 020413 | [JavaScript: Alerting — Recovery for Home Development](Project_020413/README.md) |
+| 020414 | [JavaScript: Alerting — Reporting for Home Development](Project_020414/README.md) |
+| 020415 | [JavaScript: Alerting — Usability Improvement for Home Development](Project_020415/README.md) |
+| 020416 | [JavaScript: Alerting — Baseline Setup for Public Dataset](Project_020416/README.md) |
+| 020417 | [JavaScript: Alerting — Automation for Public Dataset](Project_020417/README.md) |
+| 020418 | [JavaScript: Alerting — Recovery for Public Dataset](Project_020418/README.md) |
+| 020419 | [JavaScript: Alerting — Reporting for Public Dataset](Project_020419/README.md) |
+| 020420 | [JavaScript: Alerting — Usability Improvement for Public Dataset](Project_020420/README.md) |
 
 [Back to the portfolio home](../README.md)
