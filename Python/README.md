@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -804,5 +804,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019758 | [Python: Data Validation — Recovery for Small Business](Project_019758/README.md) |
 | 019759 | [Python: Data Validation — Reporting for Small Business](Project_019759/README.md) |
 | 019760 | [Python: Data Validation — Usability Improvement for Small Business](Project_019760/README.md) |
+| 019761 | [Python: Data Validation — Baseline Setup for Home Development](Project_019761/README.md) |
+| 019762 | [Python: Data Validation — Automation for Home Development](Project_019762/README.md) |
+| 019763 | [Python: Data Validation — Recovery for Home Development](Project_019763/README.md) |
+| 019764 | [Python: Data Validation — Reporting for Home Development](Project_019764/README.md) |
+| 019765 | [Python: Data Validation — Usability Improvement for Home Development](Project_019765/README.md) |
+| 019766 | [Python: Data Validation — Baseline Setup for Public Dataset](Project_019766/README.md) |
+| 019767 | [Python: Data Validation — Automation for Public Dataset](Project_019767/README.md) |
+| 019768 | [Python: Data Validation — Recovery for Public Dataset](Project_019768/README.md) |
+| 019769 | [Python: Data Validation — Reporting for Public Dataset](Project_019769/README.md) |
+| 019770 | [Python: Data Validation — Usability Improvement for Public Dataset](Project_019770/README.md) |
+| 019771 | [Python: Data Validation — Baseline Setup for Branch Office Simulator](Project_019771/README.md) |
+| 019772 | [Python: Data Validation — Automation for Branch Office Simulator](Project_019772/README.md) |
+| 019773 | [Python: Data Validation — Recovery for Branch Office Simulator](Project_019773/README.md) |
+| 019774 | [Python: Data Validation — Reporting for Branch Office Simulator](Project_019774/README.md) |
+| 019775 | [Python: Data Validation — Usability Improvement for Branch Office Simulator](Project_019775/README.md) |
+| 019776 | [Python: Data Validation — Baseline Setup for Offline Classroom](Project_019776/README.md) |
+| 019777 | [Python: Data Validation — Automation for Offline Classroom](Project_019777/README.md) |
+| 019778 | [Python: Data Validation — Recovery for Offline Classroom](Project_019778/README.md) |
+| 019779 | [Python: Data Validation — Reporting for Offline Classroom](Project_019779/README.md) |
+| 019780 | [Python: Data Validation — Usability Improvement for Offline Classroom](Project_019780/README.md) |
 
 [Back to the portfolio home](../README.md)
