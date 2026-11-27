@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023698 | [HTML CSS: Configuration Comparison — Recovery for Portfolio Demo](Project_023698/README.md) |
 | 023699 | [HTML CSS: Configuration Comparison — Reporting for Portfolio Demo](Project_023699/README.md) |
 | 023700 | [HTML CSS: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_023700/README.md) |
+| 023701 | [HTML CSS: Error Handling — Baseline Setup for School Lab](Project_023701/README.md) |
+| 023702 | [HTML CSS: Error Handling — Automation for School Lab](Project_023702/README.md) |
+| 023703 | [HTML CSS: Error Handling — Recovery for School Lab](Project_023703/README.md) |
+| 023704 | [HTML CSS: Error Handling — Reporting for School Lab](Project_023704/README.md) |
+| 023705 | [HTML CSS: Error Handling — Usability Improvement for School Lab](Project_023705/README.md) |
+| 023706 | [HTML CSS: Error Handling — Baseline Setup for Small Business](Project_023706/README.md) |
+| 023707 | [HTML CSS: Error Handling — Automation for Small Business](Project_023707/README.md) |
+| 023708 | [HTML CSS: Error Handling — Recovery for Small Business](Project_023708/README.md) |
+| 023709 | [HTML CSS: Error Handling — Reporting for Small Business](Project_023709/README.md) |
+| 023710 | [HTML CSS: Error Handling — Usability Improvement for Small Business](Project_023710/README.md) |
+| 023711 | [HTML CSS: Error Handling — Baseline Setup for Home Development](Project_023711/README.md) |
+| 023712 | [HTML CSS: Error Handling — Automation for Home Development](Project_023712/README.md) |
+| 023713 | [HTML CSS: Error Handling — Recovery for Home Development](Project_023713/README.md) |
+| 023714 | [HTML CSS: Error Handling — Reporting for Home Development](Project_023714/README.md) |
+| 023715 | [HTML CSS: Error Handling — Usability Improvement for Home Development](Project_023715/README.md) |
+| 023716 | [HTML CSS: Error Handling — Baseline Setup for Public Dataset](Project_023716/README.md) |
+| 023717 | [HTML CSS: Error Handling — Automation for Public Dataset](Project_023717/README.md) |
+| 023718 | [HTML CSS: Error Handling — Recovery for Public Dataset](Project_023718/README.md) |
+| 023719 | [HTML CSS: Error Handling — Reporting for Public Dataset](Project_023719/README.md) |
+| 023720 | [HTML CSS: Error Handling — Usability Improvement for Public Dataset](Project_023720/README.md) |
 
 [Back to the portfolio home](../README.md)
