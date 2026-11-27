@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005758 | [FreeBSD: Data Validation — Recovery for Small Business](Project_005758/README.md) |
 | 005759 | [FreeBSD: Data Validation — Reporting for Small Business](Project_005759/README.md) |
 | 005760 | [FreeBSD: Data Validation — Usability Improvement for Small Business](Project_005760/README.md) |
+| 005761 | [FreeBSD: Data Validation — Baseline Setup for Home Development](Project_005761/README.md) |
+| 005762 | [FreeBSD: Data Validation — Automation for Home Development](Project_005762/README.md) |
+| 005763 | [FreeBSD: Data Validation — Recovery for Home Development](Project_005763/README.md) |
+| 005764 | [FreeBSD: Data Validation — Reporting for Home Development](Project_005764/README.md) |
+| 005765 | [FreeBSD: Data Validation — Usability Improvement for Home Development](Project_005765/README.md) |
+| 005766 | [FreeBSD: Data Validation — Baseline Setup for Public Dataset](Project_005766/README.md) |
+| 005767 | [FreeBSD: Data Validation — Automation for Public Dataset](Project_005767/README.md) |
+| 005768 | [FreeBSD: Data Validation — Recovery for Public Dataset](Project_005768/README.md) |
+| 005769 | [FreeBSD: Data Validation — Reporting for Public Dataset](Project_005769/README.md) |
+| 005770 | [FreeBSD: Data Validation — Usability Improvement for Public Dataset](Project_005770/README.md) |
+| 005771 | [FreeBSD: Data Validation — Baseline Setup for Branch Office Simulator](Project_005771/README.md) |
+| 005772 | [FreeBSD: Data Validation — Automation for Branch Office Simulator](Project_005772/README.md) |
+| 005773 | [FreeBSD: Data Validation — Recovery for Branch Office Simulator](Project_005773/README.md) |
+| 005774 | [FreeBSD: Data Validation — Reporting for Branch Office Simulator](Project_005774/README.md) |
+| 005775 | [FreeBSD: Data Validation — Usability Improvement for Branch Office Simulator](Project_005775/README.md) |
+| 005776 | [FreeBSD: Data Validation — Baseline Setup for Offline Classroom](Project_005776/README.md) |
+| 005777 | [FreeBSD: Data Validation — Automation for Offline Classroom](Project_005777/README.md) |
+| 005778 | [FreeBSD: Data Validation — Recovery for Offline Classroom](Project_005778/README.md) |
+| 005779 | [FreeBSD: Data Validation — Reporting for Offline Classroom](Project_005779/README.md) |
+| 005780 | [FreeBSD: Data Validation — Usability Improvement for Offline Classroom](Project_005780/README.md) |
 
 [Back to the portfolio home](../README.md)
