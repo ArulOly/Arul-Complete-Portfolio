@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025298 | [PostgreSQL: Data Import — Recovery for Portfolio Demo](Project_025298/README.md) |
 | 025299 | [PostgreSQL: Data Import — Reporting for Portfolio Demo](Project_025299/README.md) |
 | 025300 | [PostgreSQL: Data Import — Usability Improvement for Portfolio Demo](Project_025300/README.md) |
+| 025301 | [PostgreSQL: Data Export — Baseline Setup for School Lab](Project_025301/README.md) |
+| 025302 | [PostgreSQL: Data Export — Automation for School Lab](Project_025302/README.md) |
+| 025303 | [PostgreSQL: Data Export — Recovery for School Lab](Project_025303/README.md) |
+| 025304 | [PostgreSQL: Data Export — Reporting for School Lab](Project_025304/README.md) |
+| 025305 | [PostgreSQL: Data Export — Usability Improvement for School Lab](Project_025305/README.md) |
+| 025306 | [PostgreSQL: Data Export — Baseline Setup for Small Business](Project_025306/README.md) |
+| 025307 | [PostgreSQL: Data Export — Automation for Small Business](Project_025307/README.md) |
+| 025308 | [PostgreSQL: Data Export — Recovery for Small Business](Project_025308/README.md) |
+| 025309 | [PostgreSQL: Data Export — Reporting for Small Business](Project_025309/README.md) |
+| 025310 | [PostgreSQL: Data Export — Usability Improvement for Small Business](Project_025310/README.md) |
+| 025311 | [PostgreSQL: Data Export — Baseline Setup for Home Development](Project_025311/README.md) |
+| 025312 | [PostgreSQL: Data Export — Automation for Home Development](Project_025312/README.md) |
+| 025313 | [PostgreSQL: Data Export — Recovery for Home Development](Project_025313/README.md) |
+| 025314 | [PostgreSQL: Data Export — Reporting for Home Development](Project_025314/README.md) |
+| 025315 | [PostgreSQL: Data Export — Usability Improvement for Home Development](Project_025315/README.md) |
+| 025316 | [PostgreSQL: Data Export — Baseline Setup for Public Dataset](Project_025316/README.md) |
+| 025317 | [PostgreSQL: Data Export — Automation for Public Dataset](Project_025317/README.md) |
+| 025318 | [PostgreSQL: Data Export — Recovery for Public Dataset](Project_025318/README.md) |
+| 025319 | [PostgreSQL: Data Export — Reporting for Public Dataset](Project_025319/README.md) |
+| 025320 | [PostgreSQL: Data Export — Usability Improvement for Public Dataset](Project_025320/README.md) |
 
 [Back to the portfolio home](../README.md)
