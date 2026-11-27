@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027878 | [MongoDB: Automation — Recovery for Offline Classroom](Project_027878/README.md) |
 | 027879 | [MongoDB: Automation — Reporting for Offline Classroom](Project_027879/README.md) |
 | 027880 | [MongoDB: Automation — Usability Improvement for Offline Classroom](Project_027880/README.md) |
+| 027881 | [MongoDB: Automation — Baseline Setup for Single-Host Lab](Project_027881/README.md) |
+| 027882 | [MongoDB: Automation — Automation for Single-Host Lab](Project_027882/README.md) |
+| 027883 | [MongoDB: Automation — Recovery for Single-Host Lab](Project_027883/README.md) |
+| 027884 | [MongoDB: Automation — Reporting for Single-Host Lab](Project_027884/README.md) |
+| 027885 | [MongoDB: Automation — Usability Improvement for Single-Host Lab](Project_027885/README.md) |
+| 027886 | [MongoDB: Automation — Baseline Setup for Two-Node Lab](Project_027886/README.md) |
+| 027887 | [MongoDB: Automation — Automation for Two-Node Lab](Project_027887/README.md) |
+| 027888 | [MongoDB: Automation — Recovery for Two-Node Lab](Project_027888/README.md) |
+| 027889 | [MongoDB: Automation — Reporting for Two-Node Lab](Project_027889/README.md) |
+| 027890 | [MongoDB: Automation — Usability Improvement for Two-Node Lab](Project_027890/README.md) |
+| 027891 | [MongoDB: Automation — Baseline Setup for Help Desk](Project_027891/README.md) |
+| 027892 | [MongoDB: Automation — Automation for Help Desk](Project_027892/README.md) |
+| 027893 | [MongoDB: Automation — Recovery for Help Desk](Project_027893/README.md) |
+| 027894 | [MongoDB: Automation — Reporting for Help Desk](Project_027894/README.md) |
+| 027895 | [MongoDB: Automation — Usability Improvement for Help Desk](Project_027895/README.md) |
+| 027896 | [MongoDB: Automation — Baseline Setup for Portfolio Demo](Project_027896/README.md) |
+| 027897 | [MongoDB: Automation — Automation for Portfolio Demo](Project_027897/README.md) |
+| 027898 | [MongoDB: Automation — Recovery for Portfolio Demo](Project_027898/README.md) |
+| 027899 | [MongoDB: Automation — Reporting for Portfolio Demo](Project_027899/README.md) |
+| 027900 | [MongoDB: Automation — Usability Improvement for Portfolio Demo](Project_027900/README.md) |
 
 [Back to the portfolio home](../README.md)
