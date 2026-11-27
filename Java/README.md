@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022198 | [Java: Log Analysis — Recovery for Portfolio Demo](Project_022198/README.md) |
 | 022199 | [Java: Log Analysis — Reporting for Portfolio Demo](Project_022199/README.md) |
 | 022200 | [Java: Log Analysis — Usability Improvement for Portfolio Demo](Project_022200/README.md) |
+| 022201 | [Java: Backup Verification — Baseline Setup for School Lab](Project_022201/README.md) |
+| 022202 | [Java: Backup Verification — Automation for School Lab](Project_022202/README.md) |
+| 022203 | [Java: Backup Verification — Recovery for School Lab](Project_022203/README.md) |
+| 022204 | [Java: Backup Verification — Reporting for School Lab](Project_022204/README.md) |
+| 022205 | [Java: Backup Verification — Usability Improvement for School Lab](Project_022205/README.md) |
+| 022206 | [Java: Backup Verification — Baseline Setup for Small Business](Project_022206/README.md) |
+| 022207 | [Java: Backup Verification — Automation for Small Business](Project_022207/README.md) |
+| 022208 | [Java: Backup Verification — Recovery for Small Business](Project_022208/README.md) |
+| 022209 | [Java: Backup Verification — Reporting for Small Business](Project_022209/README.md) |
+| 022210 | [Java: Backup Verification — Usability Improvement for Small Business](Project_022210/README.md) |
+| 022211 | [Java: Backup Verification — Baseline Setup for Home Development](Project_022211/README.md) |
+| 022212 | [Java: Backup Verification — Automation for Home Development](Project_022212/README.md) |
+| 022213 | [Java: Backup Verification — Recovery for Home Development](Project_022213/README.md) |
+| 022214 | [Java: Backup Verification — Reporting for Home Development](Project_022214/README.md) |
+| 022215 | [Java: Backup Verification — Usability Improvement for Home Development](Project_022215/README.md) |
+| 022216 | [Java: Backup Verification — Baseline Setup for Public Dataset](Project_022216/README.md) |
+| 022217 | [Java: Backup Verification — Automation for Public Dataset](Project_022217/README.md) |
+| 022218 | [Java: Backup Verification — Recovery for Public Dataset](Project_022218/README.md) |
+| 022219 | [Java: Backup Verification — Reporting for Public Dataset](Project_022219/README.md) |
+| 022220 | [Java: Backup Verification — Usability Improvement for Public Dataset](Project_022220/README.md) |
 
 [Back to the portfolio home](../README.md)
