@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024818 | [Node.js: Documentation Generation — Recovery for Public Dataset](Project_024818/README.md) |
 | 024819 | [Node.js: Documentation Generation — Reporting for Public Dataset](Project_024819/README.md) |
 | 024820 | [Node.js: Documentation Generation — Usability Improvement for Public Dataset](Project_024820/README.md) |
+| 024821 | [Node.js: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_024821/README.md) |
+| 024822 | [Node.js: Documentation Generation — Automation for Branch Office Simulator](Project_024822/README.md) |
+| 024823 | [Node.js: Documentation Generation — Recovery for Branch Office Simulator](Project_024823/README.md) |
+| 024824 | [Node.js: Documentation Generation — Reporting for Branch Office Simulator](Project_024824/README.md) |
+| 024825 | [Node.js: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_024825/README.md) |
+| 024826 | [Node.js: Documentation Generation — Baseline Setup for Offline Classroom](Project_024826/README.md) |
+| 024827 | [Node.js: Documentation Generation — Automation for Offline Classroom](Project_024827/README.md) |
+| 024828 | [Node.js: Documentation Generation — Recovery for Offline Classroom](Project_024828/README.md) |
+| 024829 | [Node.js: Documentation Generation — Reporting for Offline Classroom](Project_024829/README.md) |
+| 024830 | [Node.js: Documentation Generation — Usability Improvement for Offline Classroom](Project_024830/README.md) |
+| 024831 | [Node.js: Documentation Generation — Baseline Setup for Single-Host Lab](Project_024831/README.md) |
+| 024832 | [Node.js: Documentation Generation — Automation for Single-Host Lab](Project_024832/README.md) |
+| 024833 | [Node.js: Documentation Generation — Recovery for Single-Host Lab](Project_024833/README.md) |
+| 024834 | [Node.js: Documentation Generation — Reporting for Single-Host Lab](Project_024834/README.md) |
+| 024835 | [Node.js: Documentation Generation — Usability Improvement for Single-Host Lab](Project_024835/README.md) |
+| 024836 | [Node.js: Documentation Generation — Baseline Setup for Two-Node Lab](Project_024836/README.md) |
+| 024837 | [Node.js: Documentation Generation — Automation for Two-Node Lab](Project_024837/README.md) |
+| 024838 | [Node.js: Documentation Generation — Recovery for Two-Node Lab](Project_024838/README.md) |
+| 024839 | [Node.js: Documentation Generation — Reporting for Two-Node Lab](Project_024839/README.md) |
+| 024840 | [Node.js: Documentation Generation — Usability Improvement for Two-Node Lab](Project_024840/README.md) |
 
 [Back to the portfolio home](../README.md)
