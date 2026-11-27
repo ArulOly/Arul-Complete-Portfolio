@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028038 | [SQLite: Inventory — Recovery for Two-Node Lab](Project_028038/README.md) |
 | 028039 | [SQLite: Inventory — Reporting for Two-Node Lab](Project_028039/README.md) |
 | 028040 | [SQLite: Inventory — Usability Improvement for Two-Node Lab](Project_028040/README.md) |
+| 028041 | [SQLite: Inventory — Baseline Setup for Help Desk](Project_028041/README.md) |
+| 028042 | [SQLite: Inventory — Automation for Help Desk](Project_028042/README.md) |
+| 028043 | [SQLite: Inventory — Recovery for Help Desk](Project_028043/README.md) |
+| 028044 | [SQLite: Inventory — Reporting for Help Desk](Project_028044/README.md) |
+| 028045 | [SQLite: Inventory — Usability Improvement for Help Desk](Project_028045/README.md) |
+| 028046 | [SQLite: Inventory — Baseline Setup for Portfolio Demo](Project_028046/README.md) |
+| 028047 | [SQLite: Inventory — Automation for Portfolio Demo](Project_028047/README.md) |
+| 028048 | [SQLite: Inventory — Recovery for Portfolio Demo](Project_028048/README.md) |
+| 028049 | [SQLite: Inventory — Reporting for Portfolio Demo](Project_028049/README.md) |
+| 028050 | [SQLite: Inventory — Usability Improvement for Portfolio Demo](Project_028050/README.md) |
+| 028051 | [SQLite: Monitoring — Baseline Setup for School Lab](Project_028051/README.md) |
+| 028052 | [SQLite: Monitoring — Automation for School Lab](Project_028052/README.md) |
+| 028053 | [SQLite: Monitoring — Recovery for School Lab](Project_028053/README.md) |
+| 028054 | [SQLite: Monitoring — Reporting for School Lab](Project_028054/README.md) |
+| 028055 | [SQLite: Monitoring — Usability Improvement for School Lab](Project_028055/README.md) |
+| 028056 | [SQLite: Monitoring — Baseline Setup for Small Business](Project_028056/README.md) |
+| 028057 | [SQLite: Monitoring — Automation for Small Business](Project_028057/README.md) |
+| 028058 | [SQLite: Monitoring — Recovery for Small Business](Project_028058/README.md) |
+| 028059 | [SQLite: Monitoring — Reporting for Small Business](Project_028059/README.md) |
+| 028060 | [SQLite: Monitoring — Usability Improvement for Small Business](Project_028060/README.md) |
 
 [Back to the portfolio home](../README.md)
