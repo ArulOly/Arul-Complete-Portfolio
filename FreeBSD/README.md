@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005498 | [FreeBSD: Scheduled Reporting — Recovery for Portfolio Demo](Project_005498/README.md) |
 | 005499 | [FreeBSD: Scheduled Reporting — Reporting for Portfolio Demo](Project_005499/README.md) |
 | 005500 | [FreeBSD: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_005500/README.md) |
+| 005501 | [FreeBSD: Access Review — Baseline Setup for School Lab](Project_005501/README.md) |
+| 005502 | [FreeBSD: Access Review — Automation for School Lab](Project_005502/README.md) |
+| 005503 | [FreeBSD: Access Review — Recovery for School Lab](Project_005503/README.md) |
+| 005504 | [FreeBSD: Access Review — Reporting for School Lab](Project_005504/README.md) |
+| 005505 | [FreeBSD: Access Review — Usability Improvement for School Lab](Project_005505/README.md) |
+| 005506 | [FreeBSD: Access Review — Baseline Setup for Small Business](Project_005506/README.md) |
+| 005507 | [FreeBSD: Access Review — Automation for Small Business](Project_005507/README.md) |
+| 005508 | [FreeBSD: Access Review — Recovery for Small Business](Project_005508/README.md) |
+| 005509 | [FreeBSD: Access Review — Reporting for Small Business](Project_005509/README.md) |
+| 005510 | [FreeBSD: Access Review — Usability Improvement for Small Business](Project_005510/README.md) |
+| 005511 | [FreeBSD: Access Review — Baseline Setup for Home Development](Project_005511/README.md) |
+| 005512 | [FreeBSD: Access Review — Automation for Home Development](Project_005512/README.md) |
+| 005513 | [FreeBSD: Access Review — Recovery for Home Development](Project_005513/README.md) |
+| 005514 | [FreeBSD: Access Review — Reporting for Home Development](Project_005514/README.md) |
+| 005515 | [FreeBSD: Access Review — Usability Improvement for Home Development](Project_005515/README.md) |
+| 005516 | [FreeBSD: Access Review — Baseline Setup for Public Dataset](Project_005516/README.md) |
+| 005517 | [FreeBSD: Access Review — Automation for Public Dataset](Project_005517/README.md) |
+| 005518 | [FreeBSD: Access Review — Recovery for Public Dataset](Project_005518/README.md) |
+| 005519 | [FreeBSD: Access Review — Reporting for Public Dataset](Project_005519/README.md) |
+| 005520 | [FreeBSD: Access Review — Usability Improvement for Public Dataset](Project_005520/README.md) |
 
 [Back to the portfolio home](../README.md)
