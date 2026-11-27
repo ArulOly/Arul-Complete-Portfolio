@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048878 | [Flask: Automation — Recovery for Offline Classroom](Project_048878/README.md) |
 | 048879 | [Flask: Automation — Reporting for Offline Classroom](Project_048879/README.md) |
 | 048880 | [Flask: Automation — Usability Improvement for Offline Classroom](Project_048880/README.md) |
+| 048881 | [Flask: Automation — Baseline Setup for Single-Host Lab](Project_048881/README.md) |
+| 048882 | [Flask: Automation — Automation for Single-Host Lab](Project_048882/README.md) |
+| 048883 | [Flask: Automation — Recovery for Single-Host Lab](Project_048883/README.md) |
+| 048884 | [Flask: Automation — Reporting for Single-Host Lab](Project_048884/README.md) |
+| 048885 | [Flask: Automation — Usability Improvement for Single-Host Lab](Project_048885/README.md) |
+| 048886 | [Flask: Automation — Baseline Setup for Two-Node Lab](Project_048886/README.md) |
+| 048887 | [Flask: Automation — Automation for Two-Node Lab](Project_048887/README.md) |
+| 048888 | [Flask: Automation — Recovery for Two-Node Lab](Project_048888/README.md) |
+| 048889 | [Flask: Automation — Reporting for Two-Node Lab](Project_048889/README.md) |
+| 048890 | [Flask: Automation — Usability Improvement for Two-Node Lab](Project_048890/README.md) |
+| 048891 | [Flask: Automation — Baseline Setup for Help Desk](Project_048891/README.md) |
+| 048892 | [Flask: Automation — Automation for Help Desk](Project_048892/README.md) |
+| 048893 | [Flask: Automation — Recovery for Help Desk](Project_048893/README.md) |
+| 048894 | [Flask: Automation — Reporting for Help Desk](Project_048894/README.md) |
+| 048895 | [Flask: Automation — Usability Improvement for Help Desk](Project_048895/README.md) |
+| 048896 | [Flask: Automation — Baseline Setup for Portfolio Demo](Project_048896/README.md) |
+| 048897 | [Flask: Automation — Automation for Portfolio Demo](Project_048897/README.md) |
+| 048898 | [Flask: Automation — Recovery for Portfolio Demo](Project_048898/README.md) |
+| 048899 | [Flask: Automation — Reporting for Portfolio Demo](Project_048899/README.md) |
+| 048900 | [Flask: Automation — Usability Improvement for Portfolio Demo](Project_048900/README.md) |
 
 [Back to the portfolio home](../README.md)
