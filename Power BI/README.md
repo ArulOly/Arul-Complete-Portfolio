@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032818 | [Power BI: Documentation Generation — Recovery for Public Dataset](Project_032818/README.md) |
 | 032819 | [Power BI: Documentation Generation — Reporting for Public Dataset](Project_032819/README.md) |
 | 032820 | [Power BI: Documentation Generation — Usability Improvement for Public Dataset](Project_032820/README.md) |
+| 032821 | [Power BI: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_032821/README.md) |
+| 032822 | [Power BI: Documentation Generation — Automation for Branch Office Simulator](Project_032822/README.md) |
+| 032823 | [Power BI: Documentation Generation — Recovery for Branch Office Simulator](Project_032823/README.md) |
+| 032824 | [Power BI: Documentation Generation — Reporting for Branch Office Simulator](Project_032824/README.md) |
+| 032825 | [Power BI: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_032825/README.md) |
+| 032826 | [Power BI: Documentation Generation — Baseline Setup for Offline Classroom](Project_032826/README.md) |
+| 032827 | [Power BI: Documentation Generation — Automation for Offline Classroom](Project_032827/README.md) |
+| 032828 | [Power BI: Documentation Generation — Recovery for Offline Classroom](Project_032828/README.md) |
+| 032829 | [Power BI: Documentation Generation — Reporting for Offline Classroom](Project_032829/README.md) |
+| 032830 | [Power BI: Documentation Generation — Usability Improvement for Offline Classroom](Project_032830/README.md) |
+| 032831 | [Power BI: Documentation Generation — Baseline Setup for Single-Host Lab](Project_032831/README.md) |
+| 032832 | [Power BI: Documentation Generation — Automation for Single-Host Lab](Project_032832/README.md) |
+| 032833 | [Power BI: Documentation Generation — Recovery for Single-Host Lab](Project_032833/README.md) |
+| 032834 | [Power BI: Documentation Generation — Reporting for Single-Host Lab](Project_032834/README.md) |
+| 032835 | [Power BI: Documentation Generation — Usability Improvement for Single-Host Lab](Project_032835/README.md) |
+| 032836 | [Power BI: Documentation Generation — Baseline Setup for Two-Node Lab](Project_032836/README.md) |
+| 032837 | [Power BI: Documentation Generation — Automation for Two-Node Lab](Project_032837/README.md) |
+| 032838 | [Power BI: Documentation Generation — Recovery for Two-Node Lab](Project_032838/README.md) |
+| 032839 | [Power BI: Documentation Generation — Reporting for Two-Node Lab](Project_032839/README.md) |
+| 032840 | [Power BI: Documentation Generation — Usability Improvement for Two-Node Lab](Project_032840/README.md) |
 
 [Back to the portfolio home](../README.md)
