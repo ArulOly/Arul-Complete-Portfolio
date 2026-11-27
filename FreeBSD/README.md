@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005058 | [FreeBSD: Monitoring — Recovery for Small Business](Project_005058/README.md) |
 | 005059 | [FreeBSD: Monitoring — Reporting for Small Business](Project_005059/README.md) |
 | 005060 | [FreeBSD: Monitoring — Usability Improvement for Small Business](Project_005060/README.md) |
+| 005061 | [FreeBSD: Monitoring — Baseline Setup for Home Development](Project_005061/README.md) |
+| 005062 | [FreeBSD: Monitoring — Automation for Home Development](Project_005062/README.md) |
+| 005063 | [FreeBSD: Monitoring — Recovery for Home Development](Project_005063/README.md) |
+| 005064 | [FreeBSD: Monitoring — Reporting for Home Development](Project_005064/README.md) |
+| 005065 | [FreeBSD: Monitoring — Usability Improvement for Home Development](Project_005065/README.md) |
+| 005066 | [FreeBSD: Monitoring — Baseline Setup for Public Dataset](Project_005066/README.md) |
+| 005067 | [FreeBSD: Monitoring — Automation for Public Dataset](Project_005067/README.md) |
+| 005068 | [FreeBSD: Monitoring — Recovery for Public Dataset](Project_005068/README.md) |
+| 005069 | [FreeBSD: Monitoring — Reporting for Public Dataset](Project_005069/README.md) |
+| 005070 | [FreeBSD: Monitoring — Usability Improvement for Public Dataset](Project_005070/README.md) |
+| 005071 | [FreeBSD: Monitoring — Baseline Setup for Branch Office Simulator](Project_005071/README.md) |
+| 005072 | [FreeBSD: Monitoring — Automation for Branch Office Simulator](Project_005072/README.md) |
+| 005073 | [FreeBSD: Monitoring — Recovery for Branch Office Simulator](Project_005073/README.md) |
+| 005074 | [FreeBSD: Monitoring — Reporting for Branch Office Simulator](Project_005074/README.md) |
+| 005075 | [FreeBSD: Monitoring — Usability Improvement for Branch Office Simulator](Project_005075/README.md) |
+| 005076 | [FreeBSD: Monitoring — Baseline Setup for Offline Classroom](Project_005076/README.md) |
+| 005077 | [FreeBSD: Monitoring — Automation for Offline Classroom](Project_005077/README.md) |
+| 005078 | [FreeBSD: Monitoring — Recovery for Offline Classroom](Project_005078/README.md) |
+| 005079 | [FreeBSD: Monitoring — Reporting for Offline Classroom](Project_005079/README.md) |
+| 005080 | [FreeBSD: Monitoring — Usability Improvement for Offline Classroom](Project_005080/README.md) |
 
 [Back to the portfolio home](../README.md)
