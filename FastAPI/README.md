@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049978 | [FastAPI: Recovery Test — Recovery for Offline Classroom](Project_049978/README.md) |
 | 049979 | [FastAPI: Recovery Test — Reporting for Offline Classroom](Project_049979/README.md) |
 | 049980 | [FastAPI: Recovery Test — Usability Improvement for Offline Classroom](Project_049980/README.md) |
+| 049981 | [FastAPI: Recovery Test — Baseline Setup for Single-Host Lab](Project_049981/README.md) |
+| 049982 | [FastAPI: Recovery Test — Automation for Single-Host Lab](Project_049982/README.md) |
+| 049983 | [FastAPI: Recovery Test — Recovery for Single-Host Lab](Project_049983/README.md) |
+| 049984 | [FastAPI: Recovery Test — Reporting for Single-Host Lab](Project_049984/README.md) |
+| 049985 | [FastAPI: Recovery Test — Usability Improvement for Single-Host Lab](Project_049985/README.md) |
+| 049986 | [FastAPI: Recovery Test — Baseline Setup for Two-Node Lab](Project_049986/README.md) |
+| 049987 | [FastAPI: Recovery Test — Automation for Two-Node Lab](Project_049987/README.md) |
+| 049988 | [FastAPI: Recovery Test — Recovery for Two-Node Lab](Project_049988/README.md) |
+| 049989 | [FastAPI: Recovery Test — Reporting for Two-Node Lab](Project_049989/README.md) |
+| 049990 | [FastAPI: Recovery Test — Usability Improvement for Two-Node Lab](Project_049990/README.md) |
+| 049991 | [FastAPI: Recovery Test — Baseline Setup for Help Desk](Project_049991/README.md) |
+| 049992 | [FastAPI: Recovery Test — Automation for Help Desk](Project_049992/README.md) |
+| 049993 | [FastAPI: Recovery Test — Recovery for Help Desk](Project_049993/README.md) |
+| 049994 | [FastAPI: Recovery Test — Reporting for Help Desk](Project_049994/README.md) |
+| 049995 | [FastAPI: Recovery Test — Usability Improvement for Help Desk](Project_049995/README.md) |
+| 049996 | [FastAPI: Recovery Test — Baseline Setup for Portfolio Demo](Project_049996/README.md) |
+| 049997 | [FastAPI: Recovery Test — Automation for Portfolio Demo](Project_049997/README.md) |
+| 049998 | [FastAPI: Recovery Test — Recovery for Portfolio Demo](Project_049998/README.md) |
+| 049999 | [FastAPI: Recovery Test — Reporting for Portfolio Demo](Project_049999/README.md) |
+| 050000 | [FastAPI: Recovery Test — Usability Improvement for Portfolio Demo](Project_050000/README.md) |
 
 [Back to the portfolio home](../README.md)
