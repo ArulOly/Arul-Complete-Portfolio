@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026538 | [MySQL: Access Review — Recovery for Two-Node Lab](Project_026538/README.md) |
 | 026539 | [MySQL: Access Review — Reporting for Two-Node Lab](Project_026539/README.md) |
 | 026540 | [MySQL: Access Review — Usability Improvement for Two-Node Lab](Project_026540/README.md) |
+| 026541 | [MySQL: Access Review — Baseline Setup for Help Desk](Project_026541/README.md) |
+| 026542 | [MySQL: Access Review — Automation for Help Desk](Project_026542/README.md) |
+| 026543 | [MySQL: Access Review — Recovery for Help Desk](Project_026543/README.md) |
+| 026544 | [MySQL: Access Review — Reporting for Help Desk](Project_026544/README.md) |
+| 026545 | [MySQL: Access Review — Usability Improvement for Help Desk](Project_026545/README.md) |
+| 026546 | [MySQL: Access Review — Baseline Setup for Portfolio Demo](Project_026546/README.md) |
+| 026547 | [MySQL: Access Review — Automation for Portfolio Demo](Project_026547/README.md) |
+| 026548 | [MySQL: Access Review — Recovery for Portfolio Demo](Project_026548/README.md) |
+| 026549 | [MySQL: Access Review — Reporting for Portfolio Demo](Project_026549/README.md) |
+| 026550 | [MySQL: Access Review — Usability Improvement for Portfolio Demo](Project_026550/README.md) |
+| 026551 | [MySQL: Performance Baseline — Baseline Setup for School Lab](Project_026551/README.md) |
+| 026552 | [MySQL: Performance Baseline — Automation for School Lab](Project_026552/README.md) |
+| 026553 | [MySQL: Performance Baseline — Recovery for School Lab](Project_026553/README.md) |
+| 026554 | [MySQL: Performance Baseline — Reporting for School Lab](Project_026554/README.md) |
+| 026555 | [MySQL: Performance Baseline — Usability Improvement for School Lab](Project_026555/README.md) |
+| 026556 | [MySQL: Performance Baseline — Baseline Setup for Small Business](Project_026556/README.md) |
+| 026557 | [MySQL: Performance Baseline — Automation for Small Business](Project_026557/README.md) |
+| 026558 | [MySQL: Performance Baseline — Recovery for Small Business](Project_026558/README.md) |
+| 026559 | [MySQL: Performance Baseline — Reporting for Small Business](Project_026559/README.md) |
+| 026560 | [MySQL: Performance Baseline — Usability Improvement for Small Business](Project_026560/README.md) |
 
 [Back to the portfolio home](../README.md)
