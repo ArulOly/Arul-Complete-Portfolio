@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024618 | [Node.js: Service Check — Recovery for Public Dataset](Project_024618/README.md) |
 | 024619 | [Node.js: Service Check — Reporting for Public Dataset](Project_024619/README.md) |
 | 024620 | [Node.js: Service Check — Usability Improvement for Public Dataset](Project_024620/README.md) |
+| 024621 | [Node.js: Service Check — Baseline Setup for Branch Office Simulator](Project_024621/README.md) |
+| 024622 | [Node.js: Service Check — Automation for Branch Office Simulator](Project_024622/README.md) |
+| 024623 | [Node.js: Service Check — Recovery for Branch Office Simulator](Project_024623/README.md) |
+| 024624 | [Node.js: Service Check — Reporting for Branch Office Simulator](Project_024624/README.md) |
+| 024625 | [Node.js: Service Check — Usability Improvement for Branch Office Simulator](Project_024625/README.md) |
+| 024626 | [Node.js: Service Check — Baseline Setup for Offline Classroom](Project_024626/README.md) |
+| 024627 | [Node.js: Service Check — Automation for Offline Classroom](Project_024627/README.md) |
+| 024628 | [Node.js: Service Check — Recovery for Offline Classroom](Project_024628/README.md) |
+| 024629 | [Node.js: Service Check — Reporting for Offline Classroom](Project_024629/README.md) |
+| 024630 | [Node.js: Service Check — Usability Improvement for Offline Classroom](Project_024630/README.md) |
+| 024631 | [Node.js: Service Check — Baseline Setup for Single-Host Lab](Project_024631/README.md) |
+| 024632 | [Node.js: Service Check — Automation for Single-Host Lab](Project_024632/README.md) |
+| 024633 | [Node.js: Service Check — Recovery for Single-Host Lab](Project_024633/README.md) |
+| 024634 | [Node.js: Service Check — Reporting for Single-Host Lab](Project_024634/README.md) |
+| 024635 | [Node.js: Service Check — Usability Improvement for Single-Host Lab](Project_024635/README.md) |
+| 024636 | [Node.js: Service Check — Baseline Setup for Two-Node Lab](Project_024636/README.md) |
+| 024637 | [Node.js: Service Check — Automation for Two-Node Lab](Project_024637/README.md) |
+| 024638 | [Node.js: Service Check — Recovery for Two-Node Lab](Project_024638/README.md) |
+| 024639 | [Node.js: Service Check — Reporting for Two-Node Lab](Project_024639/README.md) |
+| 024640 | [Node.js: Service Check — Usability Improvement for Two-Node Lab](Project_024640/README.md) |
 
 [Back to the portfolio home](../README.md)
