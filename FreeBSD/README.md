@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005198 | [FreeBSD: Log Analysis — Recovery for Portfolio Demo](Project_005198/README.md) |
 | 005199 | [FreeBSD: Log Analysis — Reporting for Portfolio Demo](Project_005199/README.md) |
 | 005200 | [FreeBSD: Log Analysis — Usability Improvement for Portfolio Demo](Project_005200/README.md) |
+| 005201 | [FreeBSD: Backup Verification — Baseline Setup for School Lab](Project_005201/README.md) |
+| 005202 | [FreeBSD: Backup Verification — Automation for School Lab](Project_005202/README.md) |
+| 005203 | [FreeBSD: Backup Verification — Recovery for School Lab](Project_005203/README.md) |
+| 005204 | [FreeBSD: Backup Verification — Reporting for School Lab](Project_005204/README.md) |
+| 005205 | [FreeBSD: Backup Verification — Usability Improvement for School Lab](Project_005205/README.md) |
+| 005206 | [FreeBSD: Backup Verification — Baseline Setup for Small Business](Project_005206/README.md) |
+| 005207 | [FreeBSD: Backup Verification — Automation for Small Business](Project_005207/README.md) |
+| 005208 | [FreeBSD: Backup Verification — Recovery for Small Business](Project_005208/README.md) |
+| 005209 | [FreeBSD: Backup Verification — Reporting for Small Business](Project_005209/README.md) |
+| 005210 | [FreeBSD: Backup Verification — Usability Improvement for Small Business](Project_005210/README.md) |
+| 005211 | [FreeBSD: Backup Verification — Baseline Setup for Home Development](Project_005211/README.md) |
+| 005212 | [FreeBSD: Backup Verification — Automation for Home Development](Project_005212/README.md) |
+| 005213 | [FreeBSD: Backup Verification — Recovery for Home Development](Project_005213/README.md) |
+| 005214 | [FreeBSD: Backup Verification — Reporting for Home Development](Project_005214/README.md) |
+| 005215 | [FreeBSD: Backup Verification — Usability Improvement for Home Development](Project_005215/README.md) |
+| 005216 | [FreeBSD: Backup Verification — Baseline Setup for Public Dataset](Project_005216/README.md) |
+| 005217 | [FreeBSD: Backup Verification — Automation for Public Dataset](Project_005217/README.md) |
+| 005218 | [FreeBSD: Backup Verification — Recovery for Public Dataset](Project_005218/README.md) |
+| 005219 | [FreeBSD: Backup Verification — Reporting for Public Dataset](Project_005219/README.md) |
+| 005220 | [FreeBSD: Backup Verification — Usability Improvement for Public Dataset](Project_005220/README.md) |
 
 [Back to the portfolio home](../README.md)
