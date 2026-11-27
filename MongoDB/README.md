@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027258 | [MongoDB: Data Import — Recovery for Small Business](Project_027258/README.md) |
 | 027259 | [MongoDB: Data Import — Reporting for Small Business](Project_027259/README.md) |
 | 027260 | [MongoDB: Data Import — Usability Improvement for Small Business](Project_027260/README.md) |
+| 027261 | [MongoDB: Data Import — Baseline Setup for Home Development](Project_027261/README.md) |
+| 027262 | [MongoDB: Data Import — Automation for Home Development](Project_027262/README.md) |
+| 027263 | [MongoDB: Data Import — Recovery for Home Development](Project_027263/README.md) |
+| 027264 | [MongoDB: Data Import — Reporting for Home Development](Project_027264/README.md) |
+| 027265 | [MongoDB: Data Import — Usability Improvement for Home Development](Project_027265/README.md) |
+| 027266 | [MongoDB: Data Import — Baseline Setup for Public Dataset](Project_027266/README.md) |
+| 027267 | [MongoDB: Data Import — Automation for Public Dataset](Project_027267/README.md) |
+| 027268 | [MongoDB: Data Import — Recovery for Public Dataset](Project_027268/README.md) |
+| 027269 | [MongoDB: Data Import — Reporting for Public Dataset](Project_027269/README.md) |
+| 027270 | [MongoDB: Data Import — Usability Improvement for Public Dataset](Project_027270/README.md) |
+| 027271 | [MongoDB: Data Import — Baseline Setup for Branch Office Simulator](Project_027271/README.md) |
+| 027272 | [MongoDB: Data Import — Automation for Branch Office Simulator](Project_027272/README.md) |
+| 027273 | [MongoDB: Data Import — Recovery for Branch Office Simulator](Project_027273/README.md) |
+| 027274 | [MongoDB: Data Import — Reporting for Branch Office Simulator](Project_027274/README.md) |
+| 027275 | [MongoDB: Data Import — Usability Improvement for Branch Office Simulator](Project_027275/README.md) |
+| 027276 | [MongoDB: Data Import — Baseline Setup for Offline Classroom](Project_027276/README.md) |
+| 027277 | [MongoDB: Data Import — Automation for Offline Classroom](Project_027277/README.md) |
+| 027278 | [MongoDB: Data Import — Recovery for Offline Classroom](Project_027278/README.md) |
+| 027279 | [MongoDB: Data Import — Reporting for Offline Classroom](Project_027279/README.md) |
+| 027280 | [MongoDB: Data Import — Usability Improvement for Offline Classroom](Project_027280/README.md) |
 
 [Back to the portfolio home](../README.md)
