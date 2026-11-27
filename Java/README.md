@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022938 | [Java: Visual Reporting — Recovery for Two-Node Lab](Project_022938/README.md) |
 | 022939 | [Java: Visual Reporting — Reporting for Two-Node Lab](Project_022939/README.md) |
 | 022940 | [Java: Visual Reporting — Usability Improvement for Two-Node Lab](Project_022940/README.md) |
+| 022941 | [Java: Visual Reporting — Baseline Setup for Help Desk](Project_022941/README.md) |
+| 022942 | [Java: Visual Reporting — Automation for Help Desk](Project_022942/README.md) |
+| 022943 | [Java: Visual Reporting — Recovery for Help Desk](Project_022943/README.md) |
+| 022944 | [Java: Visual Reporting — Reporting for Help Desk](Project_022944/README.md) |
+| 022945 | [Java: Visual Reporting — Usability Improvement for Help Desk](Project_022945/README.md) |
+| 022946 | [Java: Visual Reporting — Baseline Setup for Portfolio Demo](Project_022946/README.md) |
+| 022947 | [Java: Visual Reporting — Automation for Portfolio Demo](Project_022947/README.md) |
+| 022948 | [Java: Visual Reporting — Recovery for Portfolio Demo](Project_022948/README.md) |
+| 022949 | [Java: Visual Reporting — Reporting for Portfolio Demo](Project_022949/README.md) |
+| 022950 | [Java: Visual Reporting — Usability Improvement for Portfolio Demo](Project_022950/README.md) |
+| 022951 | [Java: Recovery Test — Baseline Setup for School Lab](Project_022951/README.md) |
+| 022952 | [Java: Recovery Test — Automation for School Lab](Project_022952/README.md) |
+| 022953 | [Java: Recovery Test — Recovery for School Lab](Project_022953/README.md) |
+| 022954 | [Java: Recovery Test — Reporting for School Lab](Project_022954/README.md) |
+| 022955 | [Java: Recovery Test — Usability Improvement for School Lab](Project_022955/README.md) |
+| 022956 | [Java: Recovery Test — Baseline Setup for Small Business](Project_022956/README.md) |
+| 022957 | [Java: Recovery Test — Automation for Small Business](Project_022957/README.md) |
+| 022958 | [Java: Recovery Test — Recovery for Small Business](Project_022958/README.md) |
+| 022959 | [Java: Recovery Test — Reporting for Small Business](Project_022959/README.md) |
+| 022960 | [Java: Recovery Test — Usability Improvement for Small Business](Project_022960/README.md) |
 
 [Back to the portfolio home](../README.md)
