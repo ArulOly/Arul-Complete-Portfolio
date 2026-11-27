@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032798 | [Power BI: Data Validation — Recovery for Portfolio Demo](Project_032798/README.md) |
 | 032799 | [Power BI: Data Validation — Reporting for Portfolio Demo](Project_032799/README.md) |
 | 032800 | [Power BI: Data Validation — Usability Improvement for Portfolio Demo](Project_032800/README.md) |
+| 032801 | [Power BI: Documentation Generation — Baseline Setup for School Lab](Project_032801/README.md) |
+| 032802 | [Power BI: Documentation Generation — Automation for School Lab](Project_032802/README.md) |
+| 032803 | [Power BI: Documentation Generation — Recovery for School Lab](Project_032803/README.md) |
+| 032804 | [Power BI: Documentation Generation — Reporting for School Lab](Project_032804/README.md) |
+| 032805 | [Power BI: Documentation Generation — Usability Improvement for School Lab](Project_032805/README.md) |
+| 032806 | [Power BI: Documentation Generation — Baseline Setup for Small Business](Project_032806/README.md) |
+| 032807 | [Power BI: Documentation Generation — Automation for Small Business](Project_032807/README.md) |
+| 032808 | [Power BI: Documentation Generation — Recovery for Small Business](Project_032808/README.md) |
+| 032809 | [Power BI: Documentation Generation — Reporting for Small Business](Project_032809/README.md) |
+| 032810 | [Power BI: Documentation Generation — Usability Improvement for Small Business](Project_032810/README.md) |
+| 032811 | [Power BI: Documentation Generation — Baseline Setup for Home Development](Project_032811/README.md) |
+| 032812 | [Power BI: Documentation Generation — Automation for Home Development](Project_032812/README.md) |
+| 032813 | [Power BI: Documentation Generation — Recovery for Home Development](Project_032813/README.md) |
+| 032814 | [Power BI: Documentation Generation — Reporting for Home Development](Project_032814/README.md) |
+| 032815 | [Power BI: Documentation Generation — Usability Improvement for Home Development](Project_032815/README.md) |
+| 032816 | [Power BI: Documentation Generation — Baseline Setup for Public Dataset](Project_032816/README.md) |
+| 032817 | [Power BI: Documentation Generation — Automation for Public Dataset](Project_032817/README.md) |
+| 032818 | [Power BI: Documentation Generation — Recovery for Public Dataset](Project_032818/README.md) |
+| 032819 | [Power BI: Documentation Generation — Reporting for Public Dataset](Project_032819/README.md) |
+| 032820 | [Power BI: Documentation Generation — Usability Improvement for Public Dataset](Project_032820/README.md) |
 
 [Back to the portfolio home](../README.md)
