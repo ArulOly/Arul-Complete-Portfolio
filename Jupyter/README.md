@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033438 | [Jupyter: Alerting — Recovery for Two-Node Lab](Project_033438/README.md) |
 | 033439 | [Jupyter: Alerting — Reporting for Two-Node Lab](Project_033439/README.md) |
 | 033440 | [Jupyter: Alerting — Usability Improvement for Two-Node Lab](Project_033440/README.md) |
+| 033441 | [Jupyter: Alerting — Baseline Setup for Help Desk](Project_033441/README.md) |
+| 033442 | [Jupyter: Alerting — Automation for Help Desk](Project_033442/README.md) |
+| 033443 | [Jupyter: Alerting — Recovery for Help Desk](Project_033443/README.md) |
+| 033444 | [Jupyter: Alerting — Reporting for Help Desk](Project_033444/README.md) |
+| 033445 | [Jupyter: Alerting — Usability Improvement for Help Desk](Project_033445/README.md) |
+| 033446 | [Jupyter: Alerting — Baseline Setup for Portfolio Demo](Project_033446/README.md) |
+| 033447 | [Jupyter: Alerting — Automation for Portfolio Demo](Project_033447/README.md) |
+| 033448 | [Jupyter: Alerting — Recovery for Portfolio Demo](Project_033448/README.md) |
+| 033449 | [Jupyter: Alerting — Reporting for Portfolio Demo](Project_033449/README.md) |
+| 033450 | [Jupyter: Alerting — Usability Improvement for Portfolio Demo](Project_033450/README.md) |
+| 033451 | [Jupyter: Scheduled Reporting — Baseline Setup for School Lab](Project_033451/README.md) |
+| 033452 | [Jupyter: Scheduled Reporting — Automation for School Lab](Project_033452/README.md) |
+| 033453 | [Jupyter: Scheduled Reporting — Recovery for School Lab](Project_033453/README.md) |
+| 033454 | [Jupyter: Scheduled Reporting — Reporting for School Lab](Project_033454/README.md) |
+| 033455 | [Jupyter: Scheduled Reporting — Usability Improvement for School Lab](Project_033455/README.md) |
+| 033456 | [Jupyter: Scheduled Reporting — Baseline Setup for Small Business](Project_033456/README.md) |
+| 033457 | [Jupyter: Scheduled Reporting — Automation for Small Business](Project_033457/README.md) |
+| 033458 | [Jupyter: Scheduled Reporting — Recovery for Small Business](Project_033458/README.md) |
+| 033459 | [Jupyter: Scheduled Reporting — Reporting for Small Business](Project_033459/README.md) |
+| 033460 | [Jupyter: Scheduled Reporting — Usability Improvement for Small Business](Project_033460/README.md) |
 
 [Back to the portfolio home](../README.md)
