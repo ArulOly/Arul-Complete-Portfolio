@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021298 | [TypeScript: Data Import — Recovery for Portfolio Demo](Project_021298/README.md) |
 | 021299 | [TypeScript: Data Import — Reporting for Portfolio Demo](Project_021299/README.md) |
 | 021300 | [TypeScript: Data Import — Usability Improvement for Portfolio Demo](Project_021300/README.md) |
+| 021301 | [TypeScript: Data Export — Baseline Setup for School Lab](Project_021301/README.md) |
+| 021302 | [TypeScript: Data Export — Automation for School Lab](Project_021302/README.md) |
+| 021303 | [TypeScript: Data Export — Recovery for School Lab](Project_021303/README.md) |
+| 021304 | [TypeScript: Data Export — Reporting for School Lab](Project_021304/README.md) |
+| 021305 | [TypeScript: Data Export — Usability Improvement for School Lab](Project_021305/README.md) |
+| 021306 | [TypeScript: Data Export — Baseline Setup for Small Business](Project_021306/README.md) |
+| 021307 | [TypeScript: Data Export — Automation for Small Business](Project_021307/README.md) |
+| 021308 | [TypeScript: Data Export — Recovery for Small Business](Project_021308/README.md) |
+| 021309 | [TypeScript: Data Export — Reporting for Small Business](Project_021309/README.md) |
+| 021310 | [TypeScript: Data Export — Usability Improvement for Small Business](Project_021310/README.md) |
+| 021311 | [TypeScript: Data Export — Baseline Setup for Home Development](Project_021311/README.md) |
+| 021312 | [TypeScript: Data Export — Automation for Home Development](Project_021312/README.md) |
+| 021313 | [TypeScript: Data Export — Recovery for Home Development](Project_021313/README.md) |
+| 021314 | [TypeScript: Data Export — Reporting for Home Development](Project_021314/README.md) |
+| 021315 | [TypeScript: Data Export — Usability Improvement for Home Development](Project_021315/README.md) |
+| 021316 | [TypeScript: Data Export — Baseline Setup for Public Dataset](Project_021316/README.md) |
+| 021317 | [TypeScript: Data Export — Automation for Public Dataset](Project_021317/README.md) |
+| 021318 | [TypeScript: Data Export — Recovery for Public Dataset](Project_021318/README.md) |
+| 021319 | [TypeScript: Data Export — Reporting for Public Dataset](Project_021319/README.md) |
+| 021320 | [TypeScript: Data Export — Usability Improvement for Public Dataset](Project_021320/README.md) |
 
 [Back to the portfolio home](../README.md)
