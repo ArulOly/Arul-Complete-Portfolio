@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025658 | [PostgreSQL: Configuration Comparison — Recovery for Small Business](Project_025658/README.md) |
 | 025659 | [PostgreSQL: Configuration Comparison — Reporting for Small Business](Project_025659/README.md) |
 | 025660 | [PostgreSQL: Configuration Comparison — Usability Improvement for Small Business](Project_025660/README.md) |
+| 025661 | [PostgreSQL: Configuration Comparison — Baseline Setup for Home Development](Project_025661/README.md) |
+| 025662 | [PostgreSQL: Configuration Comparison — Automation for Home Development](Project_025662/README.md) |
+| 025663 | [PostgreSQL: Configuration Comparison — Recovery for Home Development](Project_025663/README.md) |
+| 025664 | [PostgreSQL: Configuration Comparison — Reporting for Home Development](Project_025664/README.md) |
+| 025665 | [PostgreSQL: Configuration Comparison — Usability Improvement for Home Development](Project_025665/README.md) |
+| 025666 | [PostgreSQL: Configuration Comparison — Baseline Setup for Public Dataset](Project_025666/README.md) |
+| 025667 | [PostgreSQL: Configuration Comparison — Automation for Public Dataset](Project_025667/README.md) |
+| 025668 | [PostgreSQL: Configuration Comparison — Recovery for Public Dataset](Project_025668/README.md) |
+| 025669 | [PostgreSQL: Configuration Comparison — Reporting for Public Dataset](Project_025669/README.md) |
+| 025670 | [PostgreSQL: Configuration Comparison — Usability Improvement for Public Dataset](Project_025670/README.md) |
+| 025671 | [PostgreSQL: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_025671/README.md) |
+| 025672 | [PostgreSQL: Configuration Comparison — Automation for Branch Office Simulator](Project_025672/README.md) |
+| 025673 | [PostgreSQL: Configuration Comparison — Recovery for Branch Office Simulator](Project_025673/README.md) |
+| 025674 | [PostgreSQL: Configuration Comparison — Reporting for Branch Office Simulator](Project_025674/README.md) |
+| 025675 | [PostgreSQL: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_025675/README.md) |
+| 025676 | [PostgreSQL: Configuration Comparison — Baseline Setup for Offline Classroom](Project_025676/README.md) |
+| 025677 | [PostgreSQL: Configuration Comparison — Automation for Offline Classroom](Project_025677/README.md) |
+| 025678 | [PostgreSQL: Configuration Comparison — Recovery for Offline Classroom](Project_025678/README.md) |
+| 025679 | [PostgreSQL: Configuration Comparison — Reporting for Offline Classroom](Project_025679/README.md) |
+| 025680 | [PostgreSQL: Configuration Comparison — Usability Improvement for Offline Classroom](Project_025680/README.md) |
 
 [Back to the portfolio home](../README.md)
