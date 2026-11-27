@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027818 | [MongoDB: Documentation Generation — Recovery for Public Dataset](Project_027818/README.md) |
 | 027819 | [MongoDB: Documentation Generation — Reporting for Public Dataset](Project_027819/README.md) |
 | 027820 | [MongoDB: Documentation Generation — Usability Improvement for Public Dataset](Project_027820/README.md) |
+| 027821 | [MongoDB: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_027821/README.md) |
+| 027822 | [MongoDB: Documentation Generation — Automation for Branch Office Simulator](Project_027822/README.md) |
+| 027823 | [MongoDB: Documentation Generation — Recovery for Branch Office Simulator](Project_027823/README.md) |
+| 027824 | [MongoDB: Documentation Generation — Reporting for Branch Office Simulator](Project_027824/README.md) |
+| 027825 | [MongoDB: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_027825/README.md) |
+| 027826 | [MongoDB: Documentation Generation — Baseline Setup for Offline Classroom](Project_027826/README.md) |
+| 027827 | [MongoDB: Documentation Generation — Automation for Offline Classroom](Project_027827/README.md) |
+| 027828 | [MongoDB: Documentation Generation — Recovery for Offline Classroom](Project_027828/README.md) |
+| 027829 | [MongoDB: Documentation Generation — Reporting for Offline Classroom](Project_027829/README.md) |
+| 027830 | [MongoDB: Documentation Generation — Usability Improvement for Offline Classroom](Project_027830/README.md) |
+| 027831 | [MongoDB: Documentation Generation — Baseline Setup for Single-Host Lab](Project_027831/README.md) |
+| 027832 | [MongoDB: Documentation Generation — Automation for Single-Host Lab](Project_027832/README.md) |
+| 027833 | [MongoDB: Documentation Generation — Recovery for Single-Host Lab](Project_027833/README.md) |
+| 027834 | [MongoDB: Documentation Generation — Reporting for Single-Host Lab](Project_027834/README.md) |
+| 027835 | [MongoDB: Documentation Generation — Usability Improvement for Single-Host Lab](Project_027835/README.md) |
+| 027836 | [MongoDB: Documentation Generation — Baseline Setup for Two-Node Lab](Project_027836/README.md) |
+| 027837 | [MongoDB: Documentation Generation — Automation for Two-Node Lab](Project_027837/README.md) |
+| 027838 | [MongoDB: Documentation Generation — Recovery for Two-Node Lab](Project_027838/README.md) |
+| 027839 | [MongoDB: Documentation Generation — Reporting for Two-Node Lab](Project_027839/README.md) |
+| 027840 | [MongoDB: Documentation Generation — Usability Improvement for Two-Node Lab](Project_027840/README.md) |
 
 [Back to the portfolio home](../README.md)
