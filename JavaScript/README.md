@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020698 | [JavaScript: Configuration Comparison — Recovery for Portfolio Demo](Project_020698/README.md) |
 | 020699 | [JavaScript: Configuration Comparison — Reporting for Portfolio Demo](Project_020699/README.md) |
 | 020700 | [JavaScript: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_020700/README.md) |
+| 020701 | [JavaScript: Error Handling — Baseline Setup for School Lab](Project_020701/README.md) |
+| 020702 | [JavaScript: Error Handling — Automation for School Lab](Project_020702/README.md) |
+| 020703 | [JavaScript: Error Handling — Recovery for School Lab](Project_020703/README.md) |
+| 020704 | [JavaScript: Error Handling — Reporting for School Lab](Project_020704/README.md) |
+| 020705 | [JavaScript: Error Handling — Usability Improvement for School Lab](Project_020705/README.md) |
+| 020706 | [JavaScript: Error Handling — Baseline Setup for Small Business](Project_020706/README.md) |
+| 020707 | [JavaScript: Error Handling — Automation for Small Business](Project_020707/README.md) |
+| 020708 | [JavaScript: Error Handling — Recovery for Small Business](Project_020708/README.md) |
+| 020709 | [JavaScript: Error Handling — Reporting for Small Business](Project_020709/README.md) |
+| 020710 | [JavaScript: Error Handling — Usability Improvement for Small Business](Project_020710/README.md) |
+| 020711 | [JavaScript: Error Handling — Baseline Setup for Home Development](Project_020711/README.md) |
+| 020712 | [JavaScript: Error Handling — Automation for Home Development](Project_020712/README.md) |
+| 020713 | [JavaScript: Error Handling — Recovery for Home Development](Project_020713/README.md) |
+| 020714 | [JavaScript: Error Handling — Reporting for Home Development](Project_020714/README.md) |
+| 020715 | [JavaScript: Error Handling — Usability Improvement for Home Development](Project_020715/README.md) |
+| 020716 | [JavaScript: Error Handling — Baseline Setup for Public Dataset](Project_020716/README.md) |
+| 020717 | [JavaScript: Error Handling — Automation for Public Dataset](Project_020717/README.md) |
+| 020718 | [JavaScript: Error Handling — Recovery for Public Dataset](Project_020718/README.md) |
+| 020719 | [JavaScript: Error Handling — Reporting for Public Dataset](Project_020719/README.md) |
+| 020720 | [JavaScript: Error Handling — Usability Improvement for Public Dataset](Project_020720/README.md) |
 
 [Back to the portfolio home](../README.md)
