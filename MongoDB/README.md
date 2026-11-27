@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027898 | [MongoDB: Automation — Recovery for Portfolio Demo](Project_027898/README.md) |
 | 027899 | [MongoDB: Automation — Reporting for Portfolio Demo](Project_027899/README.md) |
 | 027900 | [MongoDB: Automation — Usability Improvement for Portfolio Demo](Project_027900/README.md) |
+| 027901 | [MongoDB: Visual Reporting — Baseline Setup for School Lab](Project_027901/README.md) |
+| 027902 | [MongoDB: Visual Reporting — Automation for School Lab](Project_027902/README.md) |
+| 027903 | [MongoDB: Visual Reporting — Recovery for School Lab](Project_027903/README.md) |
+| 027904 | [MongoDB: Visual Reporting — Reporting for School Lab](Project_027904/README.md) |
+| 027905 | [MongoDB: Visual Reporting — Usability Improvement for School Lab](Project_027905/README.md) |
+| 027906 | [MongoDB: Visual Reporting — Baseline Setup for Small Business](Project_027906/README.md) |
+| 027907 | [MongoDB: Visual Reporting — Automation for Small Business](Project_027907/README.md) |
+| 027908 | [MongoDB: Visual Reporting — Recovery for Small Business](Project_027908/README.md) |
+| 027909 | [MongoDB: Visual Reporting — Reporting for Small Business](Project_027909/README.md) |
+| 027910 | [MongoDB: Visual Reporting — Usability Improvement for Small Business](Project_027910/README.md) |
+| 027911 | [MongoDB: Visual Reporting — Baseline Setup for Home Development](Project_027911/README.md) |
+| 027912 | [MongoDB: Visual Reporting — Automation for Home Development](Project_027912/README.md) |
+| 027913 | [MongoDB: Visual Reporting — Recovery for Home Development](Project_027913/README.md) |
+| 027914 | [MongoDB: Visual Reporting — Reporting for Home Development](Project_027914/README.md) |
+| 027915 | [MongoDB: Visual Reporting — Usability Improvement for Home Development](Project_027915/README.md) |
+| 027916 | [MongoDB: Visual Reporting — Baseline Setup for Public Dataset](Project_027916/README.md) |
+| 027917 | [MongoDB: Visual Reporting — Automation for Public Dataset](Project_027917/README.md) |
+| 027918 | [MongoDB: Visual Reporting — Recovery for Public Dataset](Project_027918/README.md) |
+| 027919 | [MongoDB: Visual Reporting — Reporting for Public Dataset](Project_027919/README.md) |
+| 027920 | [MongoDB: Visual Reporting — Usability Improvement for Public Dataset](Project_027920/README.md) |
 
 [Back to the portfolio home](../README.md)
