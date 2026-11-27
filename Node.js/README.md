@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024218 | [Node.js: Backup Verification — Recovery for Public Dataset](Project_024218/README.md) |
 | 024219 | [Node.js: Backup Verification — Reporting for Public Dataset](Project_024219/README.md) |
 | 024220 | [Node.js: Backup Verification — Usability Improvement for Public Dataset](Project_024220/README.md) |
+| 024221 | [Node.js: Backup Verification — Baseline Setup for Branch Office Simulator](Project_024221/README.md) |
+| 024222 | [Node.js: Backup Verification — Automation for Branch Office Simulator](Project_024222/README.md) |
+| 024223 | [Node.js: Backup Verification — Recovery for Branch Office Simulator](Project_024223/README.md) |
+| 024224 | [Node.js: Backup Verification — Reporting for Branch Office Simulator](Project_024224/README.md) |
+| 024225 | [Node.js: Backup Verification — Usability Improvement for Branch Office Simulator](Project_024225/README.md) |
+| 024226 | [Node.js: Backup Verification — Baseline Setup for Offline Classroom](Project_024226/README.md) |
+| 024227 | [Node.js: Backup Verification — Automation for Offline Classroom](Project_024227/README.md) |
+| 024228 | [Node.js: Backup Verification — Recovery for Offline Classroom](Project_024228/README.md) |
+| 024229 | [Node.js: Backup Verification — Reporting for Offline Classroom](Project_024229/README.md) |
+| 024230 | [Node.js: Backup Verification — Usability Improvement for Offline Classroom](Project_024230/README.md) |
+| 024231 | [Node.js: Backup Verification — Baseline Setup for Single-Host Lab](Project_024231/README.md) |
+| 024232 | [Node.js: Backup Verification — Automation for Single-Host Lab](Project_024232/README.md) |
+| 024233 | [Node.js: Backup Verification — Recovery for Single-Host Lab](Project_024233/README.md) |
+| 024234 | [Node.js: Backup Verification — Reporting for Single-Host Lab](Project_024234/README.md) |
+| 024235 | [Node.js: Backup Verification — Usability Improvement for Single-Host Lab](Project_024235/README.md) |
+| 024236 | [Node.js: Backup Verification — Baseline Setup for Two-Node Lab](Project_024236/README.md) |
+| 024237 | [Node.js: Backup Verification — Automation for Two-Node Lab](Project_024237/README.md) |
+| 024238 | [Node.js: Backup Verification — Recovery for Two-Node Lab](Project_024238/README.md) |
+| 024239 | [Node.js: Backup Verification — Reporting for Two-Node Lab](Project_024239/README.md) |
+| 024240 | [Node.js: Backup Verification — Usability Improvement for Two-Node Lab](Project_024240/README.md) |
 
 [Back to the portfolio home](../README.md)
