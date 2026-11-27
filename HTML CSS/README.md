@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023538 | [HTML CSS: Access Review — Recovery for Two-Node Lab](Project_023538/README.md) |
 | 023539 | [HTML CSS: Access Review — Reporting for Two-Node Lab](Project_023539/README.md) |
 | 023540 | [HTML CSS: Access Review — Usability Improvement for Two-Node Lab](Project_023540/README.md) |
+| 023541 | [HTML CSS: Access Review — Baseline Setup for Help Desk](Project_023541/README.md) |
+| 023542 | [HTML CSS: Access Review — Automation for Help Desk](Project_023542/README.md) |
+| 023543 | [HTML CSS: Access Review — Recovery for Help Desk](Project_023543/README.md) |
+| 023544 | [HTML CSS: Access Review — Reporting for Help Desk](Project_023544/README.md) |
+| 023545 | [HTML CSS: Access Review — Usability Improvement for Help Desk](Project_023545/README.md) |
+| 023546 | [HTML CSS: Access Review — Baseline Setup for Portfolio Demo](Project_023546/README.md) |
+| 023547 | [HTML CSS: Access Review — Automation for Portfolio Demo](Project_023547/README.md) |
+| 023548 | [HTML CSS: Access Review — Recovery for Portfolio Demo](Project_023548/README.md) |
+| 023549 | [HTML CSS: Access Review — Reporting for Portfolio Demo](Project_023549/README.md) |
+| 023550 | [HTML CSS: Access Review — Usability Improvement for Portfolio Demo](Project_023550/README.md) |
+| 023551 | [HTML CSS: Performance Baseline — Baseline Setup for School Lab](Project_023551/README.md) |
+| 023552 | [HTML CSS: Performance Baseline — Automation for School Lab](Project_023552/README.md) |
+| 023553 | [HTML CSS: Performance Baseline — Recovery for School Lab](Project_023553/README.md) |
+| 023554 | [HTML CSS: Performance Baseline — Reporting for School Lab](Project_023554/README.md) |
+| 023555 | [HTML CSS: Performance Baseline — Usability Improvement for School Lab](Project_023555/README.md) |
+| 023556 | [HTML CSS: Performance Baseline — Baseline Setup for Small Business](Project_023556/README.md) |
+| 023557 | [HTML CSS: Performance Baseline — Automation for Small Business](Project_023557/README.md) |
+| 023558 | [HTML CSS: Performance Baseline — Recovery for Small Business](Project_023558/README.md) |
+| 023559 | [HTML CSS: Performance Baseline — Reporting for Small Business](Project_023559/README.md) |
+| 023560 | [HTML CSS: Performance Baseline — Usability Improvement for Small Business](Project_023560/README.md) |
 
 [Back to the portfolio home](../README.md)
