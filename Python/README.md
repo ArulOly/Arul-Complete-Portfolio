@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -824,5 +824,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019778 | [Python: Data Validation — Recovery for Offline Classroom](Project_019778/README.md) |
 | 019779 | [Python: Data Validation — Reporting for Offline Classroom](Project_019779/README.md) |
 | 019780 | [Python: Data Validation — Usability Improvement for Offline Classroom](Project_019780/README.md) |
+| 019781 | [Python: Data Validation — Baseline Setup for Single-Host Lab](Project_019781/README.md) |
+| 019782 | [Python: Data Validation — Automation for Single-Host Lab](Project_019782/README.md) |
+| 019783 | [Python: Data Validation — Recovery for Single-Host Lab](Project_019783/README.md) |
+| 019784 | [Python: Data Validation — Reporting for Single-Host Lab](Project_019784/README.md) |
+| 019785 | [Python: Data Validation — Usability Improvement for Single-Host Lab](Project_019785/README.md) |
+| 019786 | [Python: Data Validation — Baseline Setup for Two-Node Lab](Project_019786/README.md) |
+| 019787 | [Python: Data Validation — Automation for Two-Node Lab](Project_019787/README.md) |
+| 019788 | [Python: Data Validation — Recovery for Two-Node Lab](Project_019788/README.md) |
+| 019789 | [Python: Data Validation — Reporting for Two-Node Lab](Project_019789/README.md) |
+| 019790 | [Python: Data Validation — Usability Improvement for Two-Node Lab](Project_019790/README.md) |
+| 019791 | [Python: Data Validation — Baseline Setup for Help Desk](Project_019791/README.md) |
+| 019792 | [Python: Data Validation — Automation for Help Desk](Project_019792/README.md) |
+| 019793 | [Python: Data Validation — Recovery for Help Desk](Project_019793/README.md) |
+| 019794 | [Python: Data Validation — Reporting for Help Desk](Project_019794/README.md) |
+| 019795 | [Python: Data Validation — Usability Improvement for Help Desk](Project_019795/README.md) |
+| 019796 | [Python: Data Validation — Baseline Setup for Portfolio Demo](Project_019796/README.md) |
+| 019797 | [Python: Data Validation — Automation for Portfolio Demo](Project_019797/README.md) |
+| 019798 | [Python: Data Validation — Recovery for Portfolio Demo](Project_019798/README.md) |
+| 019799 | [Python: Data Validation — Reporting for Portfolio Demo](Project_019799/README.md) |
+| 019800 | [Python: Data Validation — Usability Improvement for Portfolio Demo](Project_019800/README.md) |
 
 [Back to the portfolio home](../README.md)
