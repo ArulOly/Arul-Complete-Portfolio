@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049698 | [FastAPI: Configuration Comparison — Recovery for Portfolio Demo](Project_049698/README.md) |
 | 049699 | [FastAPI: Configuration Comparison — Reporting for Portfolio Demo](Project_049699/README.md) |
 | 049700 | [FastAPI: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_049700/README.md) |
+| 049701 | [FastAPI: Error Handling — Baseline Setup for School Lab](Project_049701/README.md) |
+| 049702 | [FastAPI: Error Handling — Automation for School Lab](Project_049702/README.md) |
+| 049703 | [FastAPI: Error Handling — Recovery for School Lab](Project_049703/README.md) |
+| 049704 | [FastAPI: Error Handling — Reporting for School Lab](Project_049704/README.md) |
+| 049705 | [FastAPI: Error Handling — Usability Improvement for School Lab](Project_049705/README.md) |
+| 049706 | [FastAPI: Error Handling — Baseline Setup for Small Business](Project_049706/README.md) |
+| 049707 | [FastAPI: Error Handling — Automation for Small Business](Project_049707/README.md) |
+| 049708 | [FastAPI: Error Handling — Recovery for Small Business](Project_049708/README.md) |
+| 049709 | [FastAPI: Error Handling — Reporting for Small Business](Project_049709/README.md) |
+| 049710 | [FastAPI: Error Handling — Usability Improvement for Small Business](Project_049710/README.md) |
+| 049711 | [FastAPI: Error Handling — Baseline Setup for Home Development](Project_049711/README.md) |
+| 049712 | [FastAPI: Error Handling — Automation for Home Development](Project_049712/README.md) |
+| 049713 | [FastAPI: Error Handling — Recovery for Home Development](Project_049713/README.md) |
+| 049714 | [FastAPI: Error Handling — Reporting for Home Development](Project_049714/README.md) |
+| 049715 | [FastAPI: Error Handling — Usability Improvement for Home Development](Project_049715/README.md) |
+| 049716 | [FastAPI: Error Handling — Baseline Setup for Public Dataset](Project_049716/README.md) |
+| 049717 | [FastAPI: Error Handling — Automation for Public Dataset](Project_049717/README.md) |
+| 049718 | [FastAPI: Error Handling — Recovery for Public Dataset](Project_049718/README.md) |
+| 049719 | [FastAPI: Error Handling — Reporting for Public Dataset](Project_049719/README.md) |
+| 049720 | [FastAPI: Error Handling — Usability Improvement for Public Dataset](Project_049720/README.md) |
 
 [Back to the portfolio home](../README.md)
