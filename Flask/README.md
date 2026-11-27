@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048458 | [Flask: Scheduled Reporting — Recovery for Small Business](Project_048458/README.md) |
 | 048459 | [Flask: Scheduled Reporting — Reporting for Small Business](Project_048459/README.md) |
 | 048460 | [Flask: Scheduled Reporting — Usability Improvement for Small Business](Project_048460/README.md) |
+| 048461 | [Flask: Scheduled Reporting — Baseline Setup for Home Development](Project_048461/README.md) |
+| 048462 | [Flask: Scheduled Reporting — Automation for Home Development](Project_048462/README.md) |
+| 048463 | [Flask: Scheduled Reporting — Recovery for Home Development](Project_048463/README.md) |
+| 048464 | [Flask: Scheduled Reporting — Reporting for Home Development](Project_048464/README.md) |
+| 048465 | [Flask: Scheduled Reporting — Usability Improvement for Home Development](Project_048465/README.md) |
+| 048466 | [Flask: Scheduled Reporting — Baseline Setup for Public Dataset](Project_048466/README.md) |
+| 048467 | [Flask: Scheduled Reporting — Automation for Public Dataset](Project_048467/README.md) |
+| 048468 | [Flask: Scheduled Reporting — Recovery for Public Dataset](Project_048468/README.md) |
+| 048469 | [Flask: Scheduled Reporting — Reporting for Public Dataset](Project_048469/README.md) |
+| 048470 | [Flask: Scheduled Reporting — Usability Improvement for Public Dataset](Project_048470/README.md) |
+| 048471 | [Flask: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_048471/README.md) |
+| 048472 | [Flask: Scheduled Reporting — Automation for Branch Office Simulator](Project_048472/README.md) |
+| 048473 | [Flask: Scheduled Reporting — Recovery for Branch Office Simulator](Project_048473/README.md) |
+| 048474 | [Flask: Scheduled Reporting — Reporting for Branch Office Simulator](Project_048474/README.md) |
+| 048475 | [Flask: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_048475/README.md) |
+| 048476 | [Flask: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_048476/README.md) |
+| 048477 | [Flask: Scheduled Reporting — Automation for Offline Classroom](Project_048477/README.md) |
+| 048478 | [Flask: Scheduled Reporting — Recovery for Offline Classroom](Project_048478/README.md) |
+| 048479 | [Flask: Scheduled Reporting — Reporting for Offline Classroom](Project_048479/README.md) |
+| 048480 | [Flask: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_048480/README.md) |
 
 [Back to the portfolio home](../README.md)
