@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -624,5 +624,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019578 | [Python: Performance Baseline — Recovery for Offline Classroom](Project_019578/README.md) |
 | 019579 | [Python: Performance Baseline — Reporting for Offline Classroom](Project_019579/README.md) |
 | 019580 | [Python: Performance Baseline — Usability Improvement for Offline Classroom](Project_019580/README.md) |
+| 019581 | [Python: Performance Baseline — Baseline Setup for Single-Host Lab](Project_019581/README.md) |
+| 019582 | [Python: Performance Baseline — Automation for Single-Host Lab](Project_019582/README.md) |
+| 019583 | [Python: Performance Baseline — Recovery for Single-Host Lab](Project_019583/README.md) |
+| 019584 | [Python: Performance Baseline — Reporting for Single-Host Lab](Project_019584/README.md) |
+| 019585 | [Python: Performance Baseline — Usability Improvement for Single-Host Lab](Project_019585/README.md) |
+| 019586 | [Python: Performance Baseline — Baseline Setup for Two-Node Lab](Project_019586/README.md) |
+| 019587 | [Python: Performance Baseline — Automation for Two-Node Lab](Project_019587/README.md) |
+| 019588 | [Python: Performance Baseline — Recovery for Two-Node Lab](Project_019588/README.md) |
+| 019589 | [Python: Performance Baseline — Reporting for Two-Node Lab](Project_019589/README.md) |
+| 019590 | [Python: Performance Baseline — Usability Improvement for Two-Node Lab](Project_019590/README.md) |
+| 019591 | [Python: Performance Baseline — Baseline Setup for Help Desk](Project_019591/README.md) |
+| 019592 | [Python: Performance Baseline — Automation for Help Desk](Project_019592/README.md) |
+| 019593 | [Python: Performance Baseline — Recovery for Help Desk](Project_019593/README.md) |
+| 019594 | [Python: Performance Baseline — Reporting for Help Desk](Project_019594/README.md) |
+| 019595 | [Python: Performance Baseline — Usability Improvement for Help Desk](Project_019595/README.md) |
+| 019596 | [Python: Performance Baseline — Baseline Setup for Portfolio Demo](Project_019596/README.md) |
+| 019597 | [Python: Performance Baseline — Automation for Portfolio Demo](Project_019597/README.md) |
+| 019598 | [Python: Performance Baseline — Recovery for Portfolio Demo](Project_019598/README.md) |
+| 019599 | [Python: Performance Baseline — Reporting for Portfolio Demo](Project_019599/README.md) |
+| 019600 | [Python: Performance Baseline — Usability Improvement for Portfolio Demo](Project_019600/README.md) |
 
 [Back to the portfolio home](../README.md)
