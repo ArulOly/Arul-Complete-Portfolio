@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004158 | [Fedora: Log Analysis — Recovery for Small Business](Project_004158/README.md) |
 | 004159 | [Fedora: Log Analysis — Reporting for Small Business](Project_004159/README.md) |
 | 004160 | [Fedora: Log Analysis — Usability Improvement for Small Business](Project_004160/README.md) |
+| 004161 | [Fedora: Log Analysis — Baseline Setup for Home Development](Project_004161/README.md) |
+| 004162 | [Fedora: Log Analysis — Automation for Home Development](Project_004162/README.md) |
+| 004163 | [Fedora: Log Analysis — Recovery for Home Development](Project_004163/README.md) |
+| 004164 | [Fedora: Log Analysis — Reporting for Home Development](Project_004164/README.md) |
+| 004165 | [Fedora: Log Analysis — Usability Improvement for Home Development](Project_004165/README.md) |
+| 004166 | [Fedora: Log Analysis — Baseline Setup for Public Dataset](Project_004166/README.md) |
+| 004167 | [Fedora: Log Analysis — Automation for Public Dataset](Project_004167/README.md) |
+| 004168 | [Fedora: Log Analysis — Recovery for Public Dataset](Project_004168/README.md) |
+| 004169 | [Fedora: Log Analysis — Reporting for Public Dataset](Project_004169/README.md) |
+| 004170 | [Fedora: Log Analysis — Usability Improvement for Public Dataset](Project_004170/README.md) |
+| 004171 | [Fedora: Log Analysis — Baseline Setup for Branch Office Simulator](Project_004171/README.md) |
+| 004172 | [Fedora: Log Analysis — Automation for Branch Office Simulator](Project_004172/README.md) |
+| 004173 | [Fedora: Log Analysis — Recovery for Branch Office Simulator](Project_004173/README.md) |
+| 004174 | [Fedora: Log Analysis — Reporting for Branch Office Simulator](Project_004174/README.md) |
+| 004175 | [Fedora: Log Analysis — Usability Improvement for Branch Office Simulator](Project_004175/README.md) |
+| 004176 | [Fedora: Log Analysis — Baseline Setup for Offline Classroom](Project_004176/README.md) |
+| 004177 | [Fedora: Log Analysis — Automation for Offline Classroom](Project_004177/README.md) |
+| 004178 | [Fedora: Log Analysis — Recovery for Offline Classroom](Project_004178/README.md) |
+| 004179 | [Fedora: Log Analysis — Reporting for Offline Classroom](Project_004179/README.md) |
+| 004180 | [Fedora: Log Analysis — Usability Improvement for Offline Classroom](Project_004180/README.md) |
 
 [Back to the portfolio home](../README.md)
