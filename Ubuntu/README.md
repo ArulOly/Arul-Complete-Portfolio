@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002878 | [Ubuntu: Automation — Recovery for Offline Classroom](Project_002878/README.md) |
 | 002879 | [Ubuntu: Automation — Reporting for Offline Classroom](Project_002879/README.md) |
 | 002880 | [Ubuntu: Automation — Usability Improvement for Offline Classroom](Project_002880/README.md) |
+| 002881 | [Ubuntu: Automation — Baseline Setup for Single-Host Lab](Project_002881/README.md) |
+| 002882 | [Ubuntu: Automation — Automation for Single-Host Lab](Project_002882/README.md) |
+| 002883 | [Ubuntu: Automation — Recovery for Single-Host Lab](Project_002883/README.md) |
+| 002884 | [Ubuntu: Automation — Reporting for Single-Host Lab](Project_002884/README.md) |
+| 002885 | [Ubuntu: Automation — Usability Improvement for Single-Host Lab](Project_002885/README.md) |
+| 002886 | [Ubuntu: Automation — Baseline Setup for Two-Node Lab](Project_002886/README.md) |
+| 002887 | [Ubuntu: Automation — Automation for Two-Node Lab](Project_002887/README.md) |
+| 002888 | [Ubuntu: Automation — Recovery for Two-Node Lab](Project_002888/README.md) |
+| 002889 | [Ubuntu: Automation — Reporting for Two-Node Lab](Project_002889/README.md) |
+| 002890 | [Ubuntu: Automation — Usability Improvement for Two-Node Lab](Project_002890/README.md) |
+| 002891 | [Ubuntu: Automation — Baseline Setup for Help Desk](Project_002891/README.md) |
+| 002892 | [Ubuntu: Automation — Automation for Help Desk](Project_002892/README.md) |
+| 002893 | [Ubuntu: Automation — Recovery for Help Desk](Project_002893/README.md) |
+| 002894 | [Ubuntu: Automation — Reporting for Help Desk](Project_002894/README.md) |
+| 002895 | [Ubuntu: Automation — Usability Improvement for Help Desk](Project_002895/README.md) |
+| 002896 | [Ubuntu: Automation — Baseline Setup for Portfolio Demo](Project_002896/README.md) |
+| 002897 | [Ubuntu: Automation — Automation for Portfolio Demo](Project_002897/README.md) |
+| 002898 | [Ubuntu: Automation — Recovery for Portfolio Demo](Project_002898/README.md) |
+| 002899 | [Ubuntu: Automation — Reporting for Portfolio Demo](Project_002899/README.md) |
+| 002900 | [Ubuntu: Automation — Usability Improvement for Portfolio Demo](Project_002900/README.md) |
 
 [Back to the portfolio home](../README.md)
