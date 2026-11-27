@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020858 | [JavaScript: Automation — Recovery for Small Business](Project_020858/README.md) |
 | 020859 | [JavaScript: Automation — Reporting for Small Business](Project_020859/README.md) |
 | 020860 | [JavaScript: Automation — Usability Improvement for Small Business](Project_020860/README.md) |
+| 020861 | [JavaScript: Automation — Baseline Setup for Home Development](Project_020861/README.md) |
+| 020862 | [JavaScript: Automation — Automation for Home Development](Project_020862/README.md) |
+| 020863 | [JavaScript: Automation — Recovery for Home Development](Project_020863/README.md) |
+| 020864 | [JavaScript: Automation — Reporting for Home Development](Project_020864/README.md) |
+| 020865 | [JavaScript: Automation — Usability Improvement for Home Development](Project_020865/README.md) |
+| 020866 | [JavaScript: Automation — Baseline Setup for Public Dataset](Project_020866/README.md) |
+| 020867 | [JavaScript: Automation — Automation for Public Dataset](Project_020867/README.md) |
+| 020868 | [JavaScript: Automation — Recovery for Public Dataset](Project_020868/README.md) |
+| 020869 | [JavaScript: Automation — Reporting for Public Dataset](Project_020869/README.md) |
+| 020870 | [JavaScript: Automation — Usability Improvement for Public Dataset](Project_020870/README.md) |
+| 020871 | [JavaScript: Automation — Baseline Setup for Branch Office Simulator](Project_020871/README.md) |
+| 020872 | [JavaScript: Automation — Automation for Branch Office Simulator](Project_020872/README.md) |
+| 020873 | [JavaScript: Automation — Recovery for Branch Office Simulator](Project_020873/README.md) |
+| 020874 | [JavaScript: Automation — Reporting for Branch Office Simulator](Project_020874/README.md) |
+| 020875 | [JavaScript: Automation — Usability Improvement for Branch Office Simulator](Project_020875/README.md) |
+| 020876 | [JavaScript: Automation — Baseline Setup for Offline Classroom](Project_020876/README.md) |
+| 020877 | [JavaScript: Automation — Automation for Offline Classroom](Project_020877/README.md) |
+| 020878 | [JavaScript: Automation — Recovery for Offline Classroom](Project_020878/README.md) |
+| 020879 | [JavaScript: Automation — Reporting for Offline Classroom](Project_020879/README.md) |
+| 020880 | [JavaScript: Automation — Usability Improvement for Offline Classroom](Project_020880/README.md) |
 
 [Back to the portfolio home](../README.md)
