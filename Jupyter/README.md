@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033018 | [Jupyter: Inventory — Recovery for Public Dataset](Project_033018/README.md) |
 | 033019 | [Jupyter: Inventory — Reporting for Public Dataset](Project_033019/README.md) |
 | 033020 | [Jupyter: Inventory — Usability Improvement for Public Dataset](Project_033020/README.md) |
+| 033021 | [Jupyter: Inventory — Baseline Setup for Branch Office Simulator](Project_033021/README.md) |
+| 033022 | [Jupyter: Inventory — Automation for Branch Office Simulator](Project_033022/README.md) |
+| 033023 | [Jupyter: Inventory — Recovery for Branch Office Simulator](Project_033023/README.md) |
+| 033024 | [Jupyter: Inventory — Reporting for Branch Office Simulator](Project_033024/README.md) |
+| 033025 | [Jupyter: Inventory — Usability Improvement for Branch Office Simulator](Project_033025/README.md) |
+| 033026 | [Jupyter: Inventory — Baseline Setup for Offline Classroom](Project_033026/README.md) |
+| 033027 | [Jupyter: Inventory — Automation for Offline Classroom](Project_033027/README.md) |
+| 033028 | [Jupyter: Inventory — Recovery for Offline Classroom](Project_033028/README.md) |
+| 033029 | [Jupyter: Inventory — Reporting for Offline Classroom](Project_033029/README.md) |
+| 033030 | [Jupyter: Inventory — Usability Improvement for Offline Classroom](Project_033030/README.md) |
+| 033031 | [Jupyter: Inventory — Baseline Setup for Single-Host Lab](Project_033031/README.md) |
+| 033032 | [Jupyter: Inventory — Automation for Single-Host Lab](Project_033032/README.md) |
+| 033033 | [Jupyter: Inventory — Recovery for Single-Host Lab](Project_033033/README.md) |
+| 033034 | [Jupyter: Inventory — Reporting for Single-Host Lab](Project_033034/README.md) |
+| 033035 | [Jupyter: Inventory — Usability Improvement for Single-Host Lab](Project_033035/README.md) |
+| 033036 | [Jupyter: Inventory — Baseline Setup for Two-Node Lab](Project_033036/README.md) |
+| 033037 | [Jupyter: Inventory — Automation for Two-Node Lab](Project_033037/README.md) |
+| 033038 | [Jupyter: Inventory — Recovery for Two-Node Lab](Project_033038/README.md) |
+| 033039 | [Jupyter: Inventory — Reporting for Two-Node Lab](Project_033039/README.md) |
+| 033040 | [Jupyter: Inventory — Usability Improvement for Two-Node Lab](Project_033040/README.md) |
 
 [Back to the portfolio home](../README.md)
