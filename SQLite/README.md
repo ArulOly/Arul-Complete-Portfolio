@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028658 | [SQLite: Configuration Comparison — Recovery for Small Business](Project_028658/README.md) |
 | 028659 | [SQLite: Configuration Comparison — Reporting for Small Business](Project_028659/README.md) |
 | 028660 | [SQLite: Configuration Comparison — Usability Improvement for Small Business](Project_028660/README.md) |
+| 028661 | [SQLite: Configuration Comparison — Baseline Setup for Home Development](Project_028661/README.md) |
+| 028662 | [SQLite: Configuration Comparison — Automation for Home Development](Project_028662/README.md) |
+| 028663 | [SQLite: Configuration Comparison — Recovery for Home Development](Project_028663/README.md) |
+| 028664 | [SQLite: Configuration Comparison — Reporting for Home Development](Project_028664/README.md) |
+| 028665 | [SQLite: Configuration Comparison — Usability Improvement for Home Development](Project_028665/README.md) |
+| 028666 | [SQLite: Configuration Comparison — Baseline Setup for Public Dataset](Project_028666/README.md) |
+| 028667 | [SQLite: Configuration Comparison — Automation for Public Dataset](Project_028667/README.md) |
+| 028668 | [SQLite: Configuration Comparison — Recovery for Public Dataset](Project_028668/README.md) |
+| 028669 | [SQLite: Configuration Comparison — Reporting for Public Dataset](Project_028669/README.md) |
+| 028670 | [SQLite: Configuration Comparison — Usability Improvement for Public Dataset](Project_028670/README.md) |
+| 028671 | [SQLite: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_028671/README.md) |
+| 028672 | [SQLite: Configuration Comparison — Automation for Branch Office Simulator](Project_028672/README.md) |
+| 028673 | [SQLite: Configuration Comparison — Recovery for Branch Office Simulator](Project_028673/README.md) |
+| 028674 | [SQLite: Configuration Comparison — Reporting for Branch Office Simulator](Project_028674/README.md) |
+| 028675 | [SQLite: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_028675/README.md) |
+| 028676 | [SQLite: Configuration Comparison — Baseline Setup for Offline Classroom](Project_028676/README.md) |
+| 028677 | [SQLite: Configuration Comparison — Automation for Offline Classroom](Project_028677/README.md) |
+| 028678 | [SQLite: Configuration Comparison — Recovery for Offline Classroom](Project_028678/README.md) |
+| 028679 | [SQLite: Configuration Comparison — Reporting for Offline Classroom](Project_028679/README.md) |
+| 028680 | [SQLite: Configuration Comparison — Usability Improvement for Offline Classroom](Project_028680/README.md) |
 
 [Back to the portfolio home](../README.md)
