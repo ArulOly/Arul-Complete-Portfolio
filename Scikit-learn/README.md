@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034898 | [Scikit-learn: Automation — Recovery for Portfolio Demo](Project_034898/README.md) |
 | 034899 | [Scikit-learn: Automation — Reporting for Portfolio Demo](Project_034899/README.md) |
 | 034900 | [Scikit-learn: Automation — Usability Improvement for Portfolio Demo](Project_034900/README.md) |
+| 034901 | [Scikit-learn: Visual Reporting — Baseline Setup for School Lab](Project_034901/README.md) |
+| 034902 | [Scikit-learn: Visual Reporting — Automation for School Lab](Project_034902/README.md) |
+| 034903 | [Scikit-learn: Visual Reporting — Recovery for School Lab](Project_034903/README.md) |
+| 034904 | [Scikit-learn: Visual Reporting — Reporting for School Lab](Project_034904/README.md) |
+| 034905 | [Scikit-learn: Visual Reporting — Usability Improvement for School Lab](Project_034905/README.md) |
+| 034906 | [Scikit-learn: Visual Reporting — Baseline Setup for Small Business](Project_034906/README.md) |
+| 034907 | [Scikit-learn: Visual Reporting — Automation for Small Business](Project_034907/README.md) |
+| 034908 | [Scikit-learn: Visual Reporting — Recovery for Small Business](Project_034908/README.md) |
+| 034909 | [Scikit-learn: Visual Reporting — Reporting for Small Business](Project_034909/README.md) |
+| 034910 | [Scikit-learn: Visual Reporting — Usability Improvement for Small Business](Project_034910/README.md) |
+| 034911 | [Scikit-learn: Visual Reporting — Baseline Setup for Home Development](Project_034911/README.md) |
+| 034912 | [Scikit-learn: Visual Reporting — Automation for Home Development](Project_034912/README.md) |
+| 034913 | [Scikit-learn: Visual Reporting — Recovery for Home Development](Project_034913/README.md) |
+| 034914 | [Scikit-learn: Visual Reporting — Reporting for Home Development](Project_034914/README.md) |
+| 034915 | [Scikit-learn: Visual Reporting — Usability Improvement for Home Development](Project_034915/README.md) |
+| 034916 | [Scikit-learn: Visual Reporting — Baseline Setup for Public Dataset](Project_034916/README.md) |
+| 034917 | [Scikit-learn: Visual Reporting — Automation for Public Dataset](Project_034917/README.md) |
+| 034918 | [Scikit-learn: Visual Reporting — Recovery for Public Dataset](Project_034918/README.md) |
+| 034919 | [Scikit-learn: Visual Reporting — Reporting for Public Dataset](Project_034919/README.md) |
+| 034920 | [Scikit-learn: Visual Reporting — Usability Improvement for Public Dataset](Project_034920/README.md) |
 
 [Back to the portfolio home](../README.md)
