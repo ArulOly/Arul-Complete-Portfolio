@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021738 | [TypeScript: Error Handling — Recovery for Two-Node Lab](Project_021738/README.md) |
 | 021739 | [TypeScript: Error Handling — Reporting for Two-Node Lab](Project_021739/README.md) |
 | 021740 | [TypeScript: Error Handling — Usability Improvement for Two-Node Lab](Project_021740/README.md) |
+| 021741 | [TypeScript: Error Handling — Baseline Setup for Help Desk](Project_021741/README.md) |
+| 021742 | [TypeScript: Error Handling — Automation for Help Desk](Project_021742/README.md) |
+| 021743 | [TypeScript: Error Handling — Recovery for Help Desk](Project_021743/README.md) |
+| 021744 | [TypeScript: Error Handling — Reporting for Help Desk](Project_021744/README.md) |
+| 021745 | [TypeScript: Error Handling — Usability Improvement for Help Desk](Project_021745/README.md) |
+| 021746 | [TypeScript: Error Handling — Baseline Setup for Portfolio Demo](Project_021746/README.md) |
+| 021747 | [TypeScript: Error Handling — Automation for Portfolio Demo](Project_021747/README.md) |
+| 021748 | [TypeScript: Error Handling — Recovery for Portfolio Demo](Project_021748/README.md) |
+| 021749 | [TypeScript: Error Handling — Reporting for Portfolio Demo](Project_021749/README.md) |
+| 021750 | [TypeScript: Error Handling — Usability Improvement for Portfolio Demo](Project_021750/README.md) |
+| 021751 | [TypeScript: Data Validation — Baseline Setup for School Lab](Project_021751/README.md) |
+| 021752 | [TypeScript: Data Validation — Automation for School Lab](Project_021752/README.md) |
+| 021753 | [TypeScript: Data Validation — Recovery for School Lab](Project_021753/README.md) |
+| 021754 | [TypeScript: Data Validation — Reporting for School Lab](Project_021754/README.md) |
+| 021755 | [TypeScript: Data Validation — Usability Improvement for School Lab](Project_021755/README.md) |
+| 021756 | [TypeScript: Data Validation — Baseline Setup for Small Business](Project_021756/README.md) |
+| 021757 | [TypeScript: Data Validation — Automation for Small Business](Project_021757/README.md) |
+| 021758 | [TypeScript: Data Validation — Recovery for Small Business](Project_021758/README.md) |
+| 021759 | [TypeScript: Data Validation — Reporting for Small Business](Project_021759/README.md) |
+| 021760 | [TypeScript: Data Validation — Usability Improvement for Small Business](Project_021760/README.md) |
 
 [Back to the portfolio home](../README.md)
