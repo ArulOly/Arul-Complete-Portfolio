@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026078 | [MySQL: Monitoring — Recovery for Offline Classroom](Project_026078/README.md) |
 | 026079 | [MySQL: Monitoring — Reporting for Offline Classroom](Project_026079/README.md) |
 | 026080 | [MySQL: Monitoring — Usability Improvement for Offline Classroom](Project_026080/README.md) |
+| 026081 | [MySQL: Monitoring — Baseline Setup for Single-Host Lab](Project_026081/README.md) |
+| 026082 | [MySQL: Monitoring — Automation for Single-Host Lab](Project_026082/README.md) |
+| 026083 | [MySQL: Monitoring — Recovery for Single-Host Lab](Project_026083/README.md) |
+| 026084 | [MySQL: Monitoring — Reporting for Single-Host Lab](Project_026084/README.md) |
+| 026085 | [MySQL: Monitoring — Usability Improvement for Single-Host Lab](Project_026085/README.md) |
+| 026086 | [MySQL: Monitoring — Baseline Setup for Two-Node Lab](Project_026086/README.md) |
+| 026087 | [MySQL: Monitoring — Automation for Two-Node Lab](Project_026087/README.md) |
+| 026088 | [MySQL: Monitoring — Recovery for Two-Node Lab](Project_026088/README.md) |
+| 026089 | [MySQL: Monitoring — Reporting for Two-Node Lab](Project_026089/README.md) |
+| 026090 | [MySQL: Monitoring — Usability Improvement for Two-Node Lab](Project_026090/README.md) |
+| 026091 | [MySQL: Monitoring — Baseline Setup for Help Desk](Project_026091/README.md) |
+| 026092 | [MySQL: Monitoring — Automation for Help Desk](Project_026092/README.md) |
+| 026093 | [MySQL: Monitoring — Recovery for Help Desk](Project_026093/README.md) |
+| 026094 | [MySQL: Monitoring — Reporting for Help Desk](Project_026094/README.md) |
+| 026095 | [MySQL: Monitoring — Usability Improvement for Help Desk](Project_026095/README.md) |
+| 026096 | [MySQL: Monitoring — Baseline Setup for Portfolio Demo](Project_026096/README.md) |
+| 026097 | [MySQL: Monitoring — Automation for Portfolio Demo](Project_026097/README.md) |
+| 026098 | [MySQL: Monitoring — Recovery for Portfolio Demo](Project_026098/README.md) |
+| 026099 | [MySQL: Monitoring — Reporting for Portfolio Demo](Project_026099/README.md) |
+| 026100 | [MySQL: Monitoring — Usability Improvement for Portfolio Demo](Project_026100/README.md) |
 
 [Back to the portfolio home](../README.md)
