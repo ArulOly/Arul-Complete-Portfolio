@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034198 | [Scikit-learn: Log Analysis — Recovery for Portfolio Demo](Project_034198/README.md) |
 | 034199 | [Scikit-learn: Log Analysis — Reporting for Portfolio Demo](Project_034199/README.md) |
 | 034200 | [Scikit-learn: Log Analysis — Usability Improvement for Portfolio Demo](Project_034200/README.md) |
+| 034201 | [Scikit-learn: Backup Verification — Baseline Setup for School Lab](Project_034201/README.md) |
+| 034202 | [Scikit-learn: Backup Verification — Automation for School Lab](Project_034202/README.md) |
+| 034203 | [Scikit-learn: Backup Verification — Recovery for School Lab](Project_034203/README.md) |
+| 034204 | [Scikit-learn: Backup Verification — Reporting for School Lab](Project_034204/README.md) |
+| 034205 | [Scikit-learn: Backup Verification — Usability Improvement for School Lab](Project_034205/README.md) |
+| 034206 | [Scikit-learn: Backup Verification — Baseline Setup for Small Business](Project_034206/README.md) |
+| 034207 | [Scikit-learn: Backup Verification — Automation for Small Business](Project_034207/README.md) |
+| 034208 | [Scikit-learn: Backup Verification — Recovery for Small Business](Project_034208/README.md) |
+| 034209 | [Scikit-learn: Backup Verification — Reporting for Small Business](Project_034209/README.md) |
+| 034210 | [Scikit-learn: Backup Verification — Usability Improvement for Small Business](Project_034210/README.md) |
+| 034211 | [Scikit-learn: Backup Verification — Baseline Setup for Home Development](Project_034211/README.md) |
+| 034212 | [Scikit-learn: Backup Verification — Automation for Home Development](Project_034212/README.md) |
+| 034213 | [Scikit-learn: Backup Verification — Recovery for Home Development](Project_034213/README.md) |
+| 034214 | [Scikit-learn: Backup Verification — Reporting for Home Development](Project_034214/README.md) |
+| 034215 | [Scikit-learn: Backup Verification — Usability Improvement for Home Development](Project_034215/README.md) |
+| 034216 | [Scikit-learn: Backup Verification — Baseline Setup for Public Dataset](Project_034216/README.md) |
+| 034217 | [Scikit-learn: Backup Verification — Automation for Public Dataset](Project_034217/README.md) |
+| 034218 | [Scikit-learn: Backup Verification — Recovery for Public Dataset](Project_034218/README.md) |
+| 034219 | [Scikit-learn: Backup Verification — Reporting for Public Dataset](Project_034219/README.md) |
+| 034220 | [Scikit-learn: Backup Verification — Usability Improvement for Public Dataset](Project_034220/README.md) |
 
 [Back to the portfolio home](../README.md)
