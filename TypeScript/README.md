@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021098 | [TypeScript: Monitoring — Recovery for Portfolio Demo](Project_021098/README.md) |
 | 021099 | [TypeScript: Monitoring — Reporting for Portfolio Demo](Project_021099/README.md) |
 | 021100 | [TypeScript: Monitoring — Usability Improvement for Portfolio Demo](Project_021100/README.md) |
+| 021101 | [TypeScript: Audit — Baseline Setup for School Lab](Project_021101/README.md) |
+| 021102 | [TypeScript: Audit — Automation for School Lab](Project_021102/README.md) |
+| 021103 | [TypeScript: Audit — Recovery for School Lab](Project_021103/README.md) |
+| 021104 | [TypeScript: Audit — Reporting for School Lab](Project_021104/README.md) |
+| 021105 | [TypeScript: Audit — Usability Improvement for School Lab](Project_021105/README.md) |
+| 021106 | [TypeScript: Audit — Baseline Setup for Small Business](Project_021106/README.md) |
+| 021107 | [TypeScript: Audit — Automation for Small Business](Project_021107/README.md) |
+| 021108 | [TypeScript: Audit — Recovery for Small Business](Project_021108/README.md) |
+| 021109 | [TypeScript: Audit — Reporting for Small Business](Project_021109/README.md) |
+| 021110 | [TypeScript: Audit — Usability Improvement for Small Business](Project_021110/README.md) |
+| 021111 | [TypeScript: Audit — Baseline Setup for Home Development](Project_021111/README.md) |
+| 021112 | [TypeScript: Audit — Automation for Home Development](Project_021112/README.md) |
+| 021113 | [TypeScript: Audit — Recovery for Home Development](Project_021113/README.md) |
+| 021114 | [TypeScript: Audit — Reporting for Home Development](Project_021114/README.md) |
+| 021115 | [TypeScript: Audit — Usability Improvement for Home Development](Project_021115/README.md) |
+| 021116 | [TypeScript: Audit — Baseline Setup for Public Dataset](Project_021116/README.md) |
+| 021117 | [TypeScript: Audit — Automation for Public Dataset](Project_021117/README.md) |
+| 021118 | [TypeScript: Audit — Recovery for Public Dataset](Project_021118/README.md) |
+| 021119 | [TypeScript: Audit — Reporting for Public Dataset](Project_021119/README.md) |
+| 021120 | [TypeScript: Audit — Usability Improvement for Public Dataset](Project_021120/README.md) |
 
 [Back to the portfolio home](../README.md)
