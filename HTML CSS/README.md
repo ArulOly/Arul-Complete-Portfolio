@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023398 | [HTML CSS: Dashboard — Recovery for Portfolio Demo](Project_023398/README.md) |
 | 023399 | [HTML CSS: Dashboard — Reporting for Portfolio Demo](Project_023399/README.md) |
 | 023400 | [HTML CSS: Dashboard — Usability Improvement for Portfolio Demo](Project_023400/README.md) |
+| 023401 | [HTML CSS: Alerting — Baseline Setup for School Lab](Project_023401/README.md) |
+| 023402 | [HTML CSS: Alerting — Automation for School Lab](Project_023402/README.md) |
+| 023403 | [HTML CSS: Alerting — Recovery for School Lab](Project_023403/README.md) |
+| 023404 | [HTML CSS: Alerting — Reporting for School Lab](Project_023404/README.md) |
+| 023405 | [HTML CSS: Alerting — Usability Improvement for School Lab](Project_023405/README.md) |
+| 023406 | [HTML CSS: Alerting — Baseline Setup for Small Business](Project_023406/README.md) |
+| 023407 | [HTML CSS: Alerting — Automation for Small Business](Project_023407/README.md) |
+| 023408 | [HTML CSS: Alerting — Recovery for Small Business](Project_023408/README.md) |
+| 023409 | [HTML CSS: Alerting — Reporting for Small Business](Project_023409/README.md) |
+| 023410 | [HTML CSS: Alerting — Usability Improvement for Small Business](Project_023410/README.md) |
+| 023411 | [HTML CSS: Alerting — Baseline Setup for Home Development](Project_023411/README.md) |
+| 023412 | [HTML CSS: Alerting — Automation for Home Development](Project_023412/README.md) |
+| 023413 | [HTML CSS: Alerting — Recovery for Home Development](Project_023413/README.md) |
+| 023414 | [HTML CSS: Alerting — Reporting for Home Development](Project_023414/README.md) |
+| 023415 | [HTML CSS: Alerting — Usability Improvement for Home Development](Project_023415/README.md) |
+| 023416 | [HTML CSS: Alerting — Baseline Setup for Public Dataset](Project_023416/README.md) |
+| 023417 | [HTML CSS: Alerting — Automation for Public Dataset](Project_023417/README.md) |
+| 023418 | [HTML CSS: Alerting — Recovery for Public Dataset](Project_023418/README.md) |
+| 023419 | [HTML CSS: Alerting — Reporting for Public Dataset](Project_023419/README.md) |
+| 023420 | [HTML CSS: Alerting — Usability Improvement for Public Dataset](Project_023420/README.md) |
 
 [Back to the portfolio home](../README.md)
