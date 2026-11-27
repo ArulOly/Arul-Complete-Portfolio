@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003858 | [Debian: Automation — Recovery for Small Business](Project_003858/README.md) |
 | 003859 | [Debian: Automation — Reporting for Small Business](Project_003859/README.md) |
 | 003860 | [Debian: Automation — Usability Improvement for Small Business](Project_003860/README.md) |
+| 003861 | [Debian: Automation — Baseline Setup for Home Development](Project_003861/README.md) |
+| 003862 | [Debian: Automation — Automation for Home Development](Project_003862/README.md) |
+| 003863 | [Debian: Automation — Recovery for Home Development](Project_003863/README.md) |
+| 003864 | [Debian: Automation — Reporting for Home Development](Project_003864/README.md) |
+| 003865 | [Debian: Automation — Usability Improvement for Home Development](Project_003865/README.md) |
+| 003866 | [Debian: Automation — Baseline Setup for Public Dataset](Project_003866/README.md) |
+| 003867 | [Debian: Automation — Automation for Public Dataset](Project_003867/README.md) |
+| 003868 | [Debian: Automation — Recovery for Public Dataset](Project_003868/README.md) |
+| 003869 | [Debian: Automation — Reporting for Public Dataset](Project_003869/README.md) |
+| 003870 | [Debian: Automation — Usability Improvement for Public Dataset](Project_003870/README.md) |
+| 003871 | [Debian: Automation — Baseline Setup for Branch Office Simulator](Project_003871/README.md) |
+| 003872 | [Debian: Automation — Automation for Branch Office Simulator](Project_003872/README.md) |
+| 003873 | [Debian: Automation — Recovery for Branch Office Simulator](Project_003873/README.md) |
+| 003874 | [Debian: Automation — Reporting for Branch Office Simulator](Project_003874/README.md) |
+| 003875 | [Debian: Automation — Usability Improvement for Branch Office Simulator](Project_003875/README.md) |
+| 003876 | [Debian: Automation — Baseline Setup for Offline Classroom](Project_003876/README.md) |
+| 003877 | [Debian: Automation — Automation for Offline Classroom](Project_003877/README.md) |
+| 003878 | [Debian: Automation — Recovery for Offline Classroom](Project_003878/README.md) |
+| 003879 | [Debian: Automation — Reporting for Offline Classroom](Project_003879/README.md) |
+| 003880 | [Debian: Automation — Usability Improvement for Offline Classroom](Project_003880/README.md) |
 
 [Back to the portfolio home](../README.md)
