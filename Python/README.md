@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -324,5 +324,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019278 | [Python: Data Import — Recovery for Offline Classroom](Project_019278/README.md) |
 | 019279 | [Python: Data Import — Reporting for Offline Classroom](Project_019279/README.md) |
 | 019280 | [Python: Data Import — Usability Improvement for Offline Classroom](Project_019280/README.md) |
+| 019281 | [Python: Data Import — Baseline Setup for Single-Host Lab](Project_019281/README.md) |
+| 019282 | [Python: Data Import — Automation for Single-Host Lab](Project_019282/README.md) |
+| 019283 | [Python: Data Import — Recovery for Single-Host Lab](Project_019283/README.md) |
+| 019284 | [Python: Data Import — Reporting for Single-Host Lab](Project_019284/README.md) |
+| 019285 | [Python: Data Import — Usability Improvement for Single-Host Lab](Project_019285/README.md) |
+| 019286 | [Python: Data Import — Baseline Setup for Two-Node Lab](Project_019286/README.md) |
+| 019287 | [Python: Data Import — Automation for Two-Node Lab](Project_019287/README.md) |
+| 019288 | [Python: Data Import — Recovery for Two-Node Lab](Project_019288/README.md) |
+| 019289 | [Python: Data Import — Reporting for Two-Node Lab](Project_019289/README.md) |
+| 019290 | [Python: Data Import — Usability Improvement for Two-Node Lab](Project_019290/README.md) |
+| 019291 | [Python: Data Import — Baseline Setup for Help Desk](Project_019291/README.md) |
+| 019292 | [Python: Data Import — Automation for Help Desk](Project_019292/README.md) |
+| 019293 | [Python: Data Import — Recovery for Help Desk](Project_019293/README.md) |
+| 019294 | [Python: Data Import — Reporting for Help Desk](Project_019294/README.md) |
+| 019295 | [Python: Data Import — Usability Improvement for Help Desk](Project_019295/README.md) |
+| 019296 | [Python: Data Import — Baseline Setup for Portfolio Demo](Project_019296/README.md) |
+| 019297 | [Python: Data Import — Automation for Portfolio Demo](Project_019297/README.md) |
+| 019298 | [Python: Data Import — Recovery for Portfolio Demo](Project_019298/README.md) |
+| 019299 | [Python: Data Import — Reporting for Portfolio Demo](Project_019299/README.md) |
+| 019300 | [Python: Data Import — Usability Improvement for Portfolio Demo](Project_019300/README.md) |
 
 [Back to the portfolio home](../README.md)
