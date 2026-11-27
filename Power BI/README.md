@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032118 | [Power BI: Audit — Recovery for Public Dataset](Project_032118/README.md) |
 | 032119 | [Power BI: Audit — Reporting for Public Dataset](Project_032119/README.md) |
 | 032120 | [Power BI: Audit — Usability Improvement for Public Dataset](Project_032120/README.md) |
+| 032121 | [Power BI: Audit — Baseline Setup for Branch Office Simulator](Project_032121/README.md) |
+| 032122 | [Power BI: Audit — Automation for Branch Office Simulator](Project_032122/README.md) |
+| 032123 | [Power BI: Audit — Recovery for Branch Office Simulator](Project_032123/README.md) |
+| 032124 | [Power BI: Audit — Reporting for Branch Office Simulator](Project_032124/README.md) |
+| 032125 | [Power BI: Audit — Usability Improvement for Branch Office Simulator](Project_032125/README.md) |
+| 032126 | [Power BI: Audit — Baseline Setup for Offline Classroom](Project_032126/README.md) |
+| 032127 | [Power BI: Audit — Automation for Offline Classroom](Project_032127/README.md) |
+| 032128 | [Power BI: Audit — Recovery for Offline Classroom](Project_032128/README.md) |
+| 032129 | [Power BI: Audit — Reporting for Offline Classroom](Project_032129/README.md) |
+| 032130 | [Power BI: Audit — Usability Improvement for Offline Classroom](Project_032130/README.md) |
+| 032131 | [Power BI: Audit — Baseline Setup for Single-Host Lab](Project_032131/README.md) |
+| 032132 | [Power BI: Audit — Automation for Single-Host Lab](Project_032132/README.md) |
+| 032133 | [Power BI: Audit — Recovery for Single-Host Lab](Project_032133/README.md) |
+| 032134 | [Power BI: Audit — Reporting for Single-Host Lab](Project_032134/README.md) |
+| 032135 | [Power BI: Audit — Usability Improvement for Single-Host Lab](Project_032135/README.md) |
+| 032136 | [Power BI: Audit — Baseline Setup for Two-Node Lab](Project_032136/README.md) |
+| 032137 | [Power BI: Audit — Automation for Two-Node Lab](Project_032137/README.md) |
+| 032138 | [Power BI: Audit — Recovery for Two-Node Lab](Project_032138/README.md) |
+| 032139 | [Power BI: Audit — Reporting for Two-Node Lab](Project_032139/README.md) |
+| 032140 | [Power BI: Audit — Usability Improvement for Two-Node Lab](Project_032140/README.md) |
 
 [Back to the portfolio home](../README.md)
