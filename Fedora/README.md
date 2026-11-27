@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004098 | [Fedora: Monitoring — Recovery for Portfolio Demo](Project_004098/README.md) |
 | 004099 | [Fedora: Monitoring — Reporting for Portfolio Demo](Project_004099/README.md) |
 | 004100 | [Fedora: Monitoring — Usability Improvement for Portfolio Demo](Project_004100/README.md) |
+| 004101 | [Fedora: Audit — Baseline Setup for School Lab](Project_004101/README.md) |
+| 004102 | [Fedora: Audit — Automation for School Lab](Project_004102/README.md) |
+| 004103 | [Fedora: Audit — Recovery for School Lab](Project_004103/README.md) |
+| 004104 | [Fedora: Audit — Reporting for School Lab](Project_004104/README.md) |
+| 004105 | [Fedora: Audit — Usability Improvement for School Lab](Project_004105/README.md) |
+| 004106 | [Fedora: Audit — Baseline Setup for Small Business](Project_004106/README.md) |
+| 004107 | [Fedora: Audit — Automation for Small Business](Project_004107/README.md) |
+| 004108 | [Fedora: Audit — Recovery for Small Business](Project_004108/README.md) |
+| 004109 | [Fedora: Audit — Reporting for Small Business](Project_004109/README.md) |
+| 004110 | [Fedora: Audit — Usability Improvement for Small Business](Project_004110/README.md) |
+| 004111 | [Fedora: Audit — Baseline Setup for Home Development](Project_004111/README.md) |
+| 004112 | [Fedora: Audit — Automation for Home Development](Project_004112/README.md) |
+| 004113 | [Fedora: Audit — Recovery for Home Development](Project_004113/README.md) |
+| 004114 | [Fedora: Audit — Reporting for Home Development](Project_004114/README.md) |
+| 004115 | [Fedora: Audit — Usability Improvement for Home Development](Project_004115/README.md) |
+| 004116 | [Fedora: Audit — Baseline Setup for Public Dataset](Project_004116/README.md) |
+| 004117 | [Fedora: Audit — Automation for Public Dataset](Project_004117/README.md) |
+| 004118 | [Fedora: Audit — Recovery for Public Dataset](Project_004118/README.md) |
+| 004119 | [Fedora: Audit — Reporting for Public Dataset](Project_004119/README.md) |
+| 004120 | [Fedora: Audit — Usability Improvement for Public Dataset](Project_004120/README.md) |
 
 [Back to the portfolio home](../README.md)
