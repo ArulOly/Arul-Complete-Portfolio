@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027638 | [MongoDB: Service Check — Recovery for Two-Node Lab](Project_027638/README.md) |
 | 027639 | [MongoDB: Service Check — Reporting for Two-Node Lab](Project_027639/README.md) |
 | 027640 | [MongoDB: Service Check — Usability Improvement for Two-Node Lab](Project_027640/README.md) |
+| 027641 | [MongoDB: Service Check — Baseline Setup for Help Desk](Project_027641/README.md) |
+| 027642 | [MongoDB: Service Check — Automation for Help Desk](Project_027642/README.md) |
+| 027643 | [MongoDB: Service Check — Recovery for Help Desk](Project_027643/README.md) |
+| 027644 | [MongoDB: Service Check — Reporting for Help Desk](Project_027644/README.md) |
+| 027645 | [MongoDB: Service Check — Usability Improvement for Help Desk](Project_027645/README.md) |
+| 027646 | [MongoDB: Service Check — Baseline Setup for Portfolio Demo](Project_027646/README.md) |
+| 027647 | [MongoDB: Service Check — Automation for Portfolio Demo](Project_027647/README.md) |
+| 027648 | [MongoDB: Service Check — Recovery for Portfolio Demo](Project_027648/README.md) |
+| 027649 | [MongoDB: Service Check — Reporting for Portfolio Demo](Project_027649/README.md) |
+| 027650 | [MongoDB: Service Check — Usability Improvement for Portfolio Demo](Project_027650/README.md) |
+| 027651 | [MongoDB: Configuration Comparison — Baseline Setup for School Lab](Project_027651/README.md) |
+| 027652 | [MongoDB: Configuration Comparison — Automation for School Lab](Project_027652/README.md) |
+| 027653 | [MongoDB: Configuration Comparison — Recovery for School Lab](Project_027653/README.md) |
+| 027654 | [MongoDB: Configuration Comparison — Reporting for School Lab](Project_027654/README.md) |
+| 027655 | [MongoDB: Configuration Comparison — Usability Improvement for School Lab](Project_027655/README.md) |
+| 027656 | [MongoDB: Configuration Comparison — Baseline Setup for Small Business](Project_027656/README.md) |
+| 027657 | [MongoDB: Configuration Comparison — Automation for Small Business](Project_027657/README.md) |
+| 027658 | [MongoDB: Configuration Comparison — Recovery for Small Business](Project_027658/README.md) |
+| 027659 | [MongoDB: Configuration Comparison — Reporting for Small Business](Project_027659/README.md) |
+| 027660 | [MongoDB: Configuration Comparison — Usability Improvement for Small Business](Project_027660/README.md) |
 
 [Back to the portfolio home](../README.md)
