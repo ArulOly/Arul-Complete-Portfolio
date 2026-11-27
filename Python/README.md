@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -304,5 +304,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019258 | [Python: Data Import — Recovery for Small Business](Project_019258/README.md) |
 | 019259 | [Python: Data Import — Reporting for Small Business](Project_019259/README.md) |
 | 019260 | [Python: Data Import — Usability Improvement for Small Business](Project_019260/README.md) |
+| 019261 | [Python: Data Import — Baseline Setup for Home Development](Project_019261/README.md) |
+| 019262 | [Python: Data Import — Automation for Home Development](Project_019262/README.md) |
+| 019263 | [Python: Data Import — Recovery for Home Development](Project_019263/README.md) |
+| 019264 | [Python: Data Import — Reporting for Home Development](Project_019264/README.md) |
+| 019265 | [Python: Data Import — Usability Improvement for Home Development](Project_019265/README.md) |
+| 019266 | [Python: Data Import — Baseline Setup for Public Dataset](Project_019266/README.md) |
+| 019267 | [Python: Data Import — Automation for Public Dataset](Project_019267/README.md) |
+| 019268 | [Python: Data Import — Recovery for Public Dataset](Project_019268/README.md) |
+| 019269 | [Python: Data Import — Reporting for Public Dataset](Project_019269/README.md) |
+| 019270 | [Python: Data Import — Usability Improvement for Public Dataset](Project_019270/README.md) |
+| 019271 | [Python: Data Import — Baseline Setup for Branch Office Simulator](Project_019271/README.md) |
+| 019272 | [Python: Data Import — Automation for Branch Office Simulator](Project_019272/README.md) |
+| 019273 | [Python: Data Import — Recovery for Branch Office Simulator](Project_019273/README.md) |
+| 019274 | [Python: Data Import — Reporting for Branch Office Simulator](Project_019274/README.md) |
+| 019275 | [Python: Data Import — Usability Improvement for Branch Office Simulator](Project_019275/README.md) |
+| 019276 | [Python: Data Import — Baseline Setup for Offline Classroom](Project_019276/README.md) |
+| 019277 | [Python: Data Import — Automation for Offline Classroom](Project_019277/README.md) |
+| 019278 | [Python: Data Import — Recovery for Offline Classroom](Project_019278/README.md) |
+| 019279 | [Python: Data Import — Reporting for Offline Classroom](Project_019279/README.md) |
+| 019280 | [Python: Data Import — Usability Improvement for Offline Classroom](Project_019280/README.md) |
 
 [Back to the portfolio home](../README.md)
