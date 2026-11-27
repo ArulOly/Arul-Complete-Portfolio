@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005238 | [FreeBSD: Backup Verification — Recovery for Two-Node Lab](Project_005238/README.md) |
 | 005239 | [FreeBSD: Backup Verification — Reporting for Two-Node Lab](Project_005239/README.md) |
 | 005240 | [FreeBSD: Backup Verification — Usability Improvement for Two-Node Lab](Project_005240/README.md) |
+| 005241 | [FreeBSD: Backup Verification — Baseline Setup for Help Desk](Project_005241/README.md) |
+| 005242 | [FreeBSD: Backup Verification — Automation for Help Desk](Project_005242/README.md) |
+| 005243 | [FreeBSD: Backup Verification — Recovery for Help Desk](Project_005243/README.md) |
+| 005244 | [FreeBSD: Backup Verification — Reporting for Help Desk](Project_005244/README.md) |
+| 005245 | [FreeBSD: Backup Verification — Usability Improvement for Help Desk](Project_005245/README.md) |
+| 005246 | [FreeBSD: Backup Verification — Baseline Setup for Portfolio Demo](Project_005246/README.md) |
+| 005247 | [FreeBSD: Backup Verification — Automation for Portfolio Demo](Project_005247/README.md) |
+| 005248 | [FreeBSD: Backup Verification — Recovery for Portfolio Demo](Project_005248/README.md) |
+| 005249 | [FreeBSD: Backup Verification — Reporting for Portfolio Demo](Project_005249/README.md) |
+| 005250 | [FreeBSD: Backup Verification — Usability Improvement for Portfolio Demo](Project_005250/README.md) |
+| 005251 | [FreeBSD: Data Import — Baseline Setup for School Lab](Project_005251/README.md) |
+| 005252 | [FreeBSD: Data Import — Automation for School Lab](Project_005252/README.md) |
+| 005253 | [FreeBSD: Data Import — Recovery for School Lab](Project_005253/README.md) |
+| 005254 | [FreeBSD: Data Import — Reporting for School Lab](Project_005254/README.md) |
+| 005255 | [FreeBSD: Data Import — Usability Improvement for School Lab](Project_005255/README.md) |
+| 005256 | [FreeBSD: Data Import — Baseline Setup for Small Business](Project_005256/README.md) |
+| 005257 | [FreeBSD: Data Import — Automation for Small Business](Project_005257/README.md) |
+| 005258 | [FreeBSD: Data Import — Recovery for Small Business](Project_005258/README.md) |
+| 005259 | [FreeBSD: Data Import — Reporting for Small Business](Project_005259/README.md) |
+| 005260 | [FreeBSD: Data Import — Usability Improvement for Small Business](Project_005260/README.md) |
 
 [Back to the portfolio home](../README.md)
