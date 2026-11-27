@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005858 | [FreeBSD: Automation — Recovery for Small Business](Project_005858/README.md) |
 | 005859 | [FreeBSD: Automation — Reporting for Small Business](Project_005859/README.md) |
 | 005860 | [FreeBSD: Automation — Usability Improvement for Small Business](Project_005860/README.md) |
+| 005861 | [FreeBSD: Automation — Baseline Setup for Home Development](Project_005861/README.md) |
+| 005862 | [FreeBSD: Automation — Automation for Home Development](Project_005862/README.md) |
+| 005863 | [FreeBSD: Automation — Recovery for Home Development](Project_005863/README.md) |
+| 005864 | [FreeBSD: Automation — Reporting for Home Development](Project_005864/README.md) |
+| 005865 | [FreeBSD: Automation — Usability Improvement for Home Development](Project_005865/README.md) |
+| 005866 | [FreeBSD: Automation — Baseline Setup for Public Dataset](Project_005866/README.md) |
+| 005867 | [FreeBSD: Automation — Automation for Public Dataset](Project_005867/README.md) |
+| 005868 | [FreeBSD: Automation — Recovery for Public Dataset](Project_005868/README.md) |
+| 005869 | [FreeBSD: Automation — Reporting for Public Dataset](Project_005869/README.md) |
+| 005870 | [FreeBSD: Automation — Usability Improvement for Public Dataset](Project_005870/README.md) |
+| 005871 | [FreeBSD: Automation — Baseline Setup for Branch Office Simulator](Project_005871/README.md) |
+| 005872 | [FreeBSD: Automation — Automation for Branch Office Simulator](Project_005872/README.md) |
+| 005873 | [FreeBSD: Automation — Recovery for Branch Office Simulator](Project_005873/README.md) |
+| 005874 | [FreeBSD: Automation — Reporting for Branch Office Simulator](Project_005874/README.md) |
+| 005875 | [FreeBSD: Automation — Usability Improvement for Branch Office Simulator](Project_005875/README.md) |
+| 005876 | [FreeBSD: Automation — Baseline Setup for Offline Classroom](Project_005876/README.md) |
+| 005877 | [FreeBSD: Automation — Automation for Offline Classroom](Project_005877/README.md) |
+| 005878 | [FreeBSD: Automation — Recovery for Offline Classroom](Project_005878/README.md) |
+| 005879 | [FreeBSD: Automation — Reporting for Offline Classroom](Project_005879/README.md) |
+| 005880 | [FreeBSD: Automation — Usability Improvement for Offline Classroom](Project_005880/README.md) |
 
 [Back to the portfolio home](../README.md)
