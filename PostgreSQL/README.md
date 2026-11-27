@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025238 | [PostgreSQL: Backup Verification — Recovery for Two-Node Lab](Project_025238/README.md) |
 | 025239 | [PostgreSQL: Backup Verification — Reporting for Two-Node Lab](Project_025239/README.md) |
 | 025240 | [PostgreSQL: Backup Verification — Usability Improvement for Two-Node Lab](Project_025240/README.md) |
+| 025241 | [PostgreSQL: Backup Verification — Baseline Setup for Help Desk](Project_025241/README.md) |
+| 025242 | [PostgreSQL: Backup Verification — Automation for Help Desk](Project_025242/README.md) |
+| 025243 | [PostgreSQL: Backup Verification — Recovery for Help Desk](Project_025243/README.md) |
+| 025244 | [PostgreSQL: Backup Verification — Reporting for Help Desk](Project_025244/README.md) |
+| 025245 | [PostgreSQL: Backup Verification — Usability Improvement for Help Desk](Project_025245/README.md) |
+| 025246 | [PostgreSQL: Backup Verification — Baseline Setup for Portfolio Demo](Project_025246/README.md) |
+| 025247 | [PostgreSQL: Backup Verification — Automation for Portfolio Demo](Project_025247/README.md) |
+| 025248 | [PostgreSQL: Backup Verification — Recovery for Portfolio Demo](Project_025248/README.md) |
+| 025249 | [PostgreSQL: Backup Verification — Reporting for Portfolio Demo](Project_025249/README.md) |
+| 025250 | [PostgreSQL: Backup Verification — Usability Improvement for Portfolio Demo](Project_025250/README.md) |
+| 025251 | [PostgreSQL: Data Import — Baseline Setup for School Lab](Project_025251/README.md) |
+| 025252 | [PostgreSQL: Data Import — Automation for School Lab](Project_025252/README.md) |
+| 025253 | [PostgreSQL: Data Import — Recovery for School Lab](Project_025253/README.md) |
+| 025254 | [PostgreSQL: Data Import — Reporting for School Lab](Project_025254/README.md) |
+| 025255 | [PostgreSQL: Data Import — Usability Improvement for School Lab](Project_025255/README.md) |
+| 025256 | [PostgreSQL: Data Import — Baseline Setup for Small Business](Project_025256/README.md) |
+| 025257 | [PostgreSQL: Data Import — Automation for Small Business](Project_025257/README.md) |
+| 025258 | [PostgreSQL: Data Import — Recovery for Small Business](Project_025258/README.md) |
+| 025259 | [PostgreSQL: Data Import — Reporting for Small Business](Project_025259/README.md) |
+| 025260 | [PostgreSQL: Data Import — Usability Improvement for Small Business](Project_025260/README.md) |
 
 [Back to the portfolio home](../README.md)
