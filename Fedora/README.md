@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004038 | [Fedora: Inventory — Recovery for Two-Node Lab](Project_004038/README.md) |
 | 004039 | [Fedora: Inventory — Reporting for Two-Node Lab](Project_004039/README.md) |
 | 004040 | [Fedora: Inventory — Usability Improvement for Two-Node Lab](Project_004040/README.md) |
+| 004041 | [Fedora: Inventory — Baseline Setup for Help Desk](Project_004041/README.md) |
+| 004042 | [Fedora: Inventory — Automation for Help Desk](Project_004042/README.md) |
+| 004043 | [Fedora: Inventory — Recovery for Help Desk](Project_004043/README.md) |
+| 004044 | [Fedora: Inventory — Reporting for Help Desk](Project_004044/README.md) |
+| 004045 | [Fedora: Inventory — Usability Improvement for Help Desk](Project_004045/README.md) |
+| 004046 | [Fedora: Inventory — Baseline Setup for Portfolio Demo](Project_004046/README.md) |
+| 004047 | [Fedora: Inventory — Automation for Portfolio Demo](Project_004047/README.md) |
+| 004048 | [Fedora: Inventory — Recovery for Portfolio Demo](Project_004048/README.md) |
+| 004049 | [Fedora: Inventory — Reporting for Portfolio Demo](Project_004049/README.md) |
+| 004050 | [Fedora: Inventory — Usability Improvement for Portfolio Demo](Project_004050/README.md) |
+| 004051 | [Fedora: Monitoring — Baseline Setup for School Lab](Project_004051/README.md) |
+| 004052 | [Fedora: Monitoring — Automation for School Lab](Project_004052/README.md) |
+| 004053 | [Fedora: Monitoring — Recovery for School Lab](Project_004053/README.md) |
+| 004054 | [Fedora: Monitoring — Reporting for School Lab](Project_004054/README.md) |
+| 004055 | [Fedora: Monitoring — Usability Improvement for School Lab](Project_004055/README.md) |
+| 004056 | [Fedora: Monitoring — Baseline Setup for Small Business](Project_004056/README.md) |
+| 004057 | [Fedora: Monitoring — Automation for Small Business](Project_004057/README.md) |
+| 004058 | [Fedora: Monitoring — Recovery for Small Business](Project_004058/README.md) |
+| 004059 | [Fedora: Monitoring — Reporting for Small Business](Project_004059/README.md) |
+| 004060 | [Fedora: Monitoring — Usability Improvement for Small Business](Project_004060/README.md) |
 
 [Back to the portfolio home](../README.md)
