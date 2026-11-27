@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028878 | [SQLite: Automation — Recovery for Offline Classroom](Project_028878/README.md) |
 | 028879 | [SQLite: Automation — Reporting for Offline Classroom](Project_028879/README.md) |
 | 028880 | [SQLite: Automation — Usability Improvement for Offline Classroom](Project_028880/README.md) |
+| 028881 | [SQLite: Automation — Baseline Setup for Single-Host Lab](Project_028881/README.md) |
+| 028882 | [SQLite: Automation — Automation for Single-Host Lab](Project_028882/README.md) |
+| 028883 | [SQLite: Automation — Recovery for Single-Host Lab](Project_028883/README.md) |
+| 028884 | [SQLite: Automation — Reporting for Single-Host Lab](Project_028884/README.md) |
+| 028885 | [SQLite: Automation — Usability Improvement for Single-Host Lab](Project_028885/README.md) |
+| 028886 | [SQLite: Automation — Baseline Setup for Two-Node Lab](Project_028886/README.md) |
+| 028887 | [SQLite: Automation — Automation for Two-Node Lab](Project_028887/README.md) |
+| 028888 | [SQLite: Automation — Recovery for Two-Node Lab](Project_028888/README.md) |
+| 028889 | [SQLite: Automation — Reporting for Two-Node Lab](Project_028889/README.md) |
+| 028890 | [SQLite: Automation — Usability Improvement for Two-Node Lab](Project_028890/README.md) |
+| 028891 | [SQLite: Automation — Baseline Setup for Help Desk](Project_028891/README.md) |
+| 028892 | [SQLite: Automation — Automation for Help Desk](Project_028892/README.md) |
+| 028893 | [SQLite: Automation — Recovery for Help Desk](Project_028893/README.md) |
+| 028894 | [SQLite: Automation — Reporting for Help Desk](Project_028894/README.md) |
+| 028895 | [SQLite: Automation — Usability Improvement for Help Desk](Project_028895/README.md) |
+| 028896 | [SQLite: Automation — Baseline Setup for Portfolio Demo](Project_028896/README.md) |
+| 028897 | [SQLite: Automation — Automation for Portfolio Demo](Project_028897/README.md) |
+| 028898 | [SQLite: Automation — Recovery for Portfolio Demo](Project_028898/README.md) |
+| 028899 | [SQLite: Automation — Reporting for Portfolio Demo](Project_028899/README.md) |
+| 028900 | [SQLite: Automation — Usability Improvement for Portfolio Demo](Project_028900/README.md) |
 
 [Back to the portfolio home](../README.md)
