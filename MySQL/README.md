@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026058 | [MySQL: Monitoring — Recovery for Small Business](Project_026058/README.md) |
 | 026059 | [MySQL: Monitoring — Reporting for Small Business](Project_026059/README.md) |
 | 026060 | [MySQL: Monitoring — Usability Improvement for Small Business](Project_026060/README.md) |
+| 026061 | [MySQL: Monitoring — Baseline Setup for Home Development](Project_026061/README.md) |
+| 026062 | [MySQL: Monitoring — Automation for Home Development](Project_026062/README.md) |
+| 026063 | [MySQL: Monitoring — Recovery for Home Development](Project_026063/README.md) |
+| 026064 | [MySQL: Monitoring — Reporting for Home Development](Project_026064/README.md) |
+| 026065 | [MySQL: Monitoring — Usability Improvement for Home Development](Project_026065/README.md) |
+| 026066 | [MySQL: Monitoring — Baseline Setup for Public Dataset](Project_026066/README.md) |
+| 026067 | [MySQL: Monitoring — Automation for Public Dataset](Project_026067/README.md) |
+| 026068 | [MySQL: Monitoring — Recovery for Public Dataset](Project_026068/README.md) |
+| 026069 | [MySQL: Monitoring — Reporting for Public Dataset](Project_026069/README.md) |
+| 026070 | [MySQL: Monitoring — Usability Improvement for Public Dataset](Project_026070/README.md) |
+| 026071 | [MySQL: Monitoring — Baseline Setup for Branch Office Simulator](Project_026071/README.md) |
+| 026072 | [MySQL: Monitoring — Automation for Branch Office Simulator](Project_026072/README.md) |
+| 026073 | [MySQL: Monitoring — Recovery for Branch Office Simulator](Project_026073/README.md) |
+| 026074 | [MySQL: Monitoring — Reporting for Branch Office Simulator](Project_026074/README.md) |
+| 026075 | [MySQL: Monitoring — Usability Improvement for Branch Office Simulator](Project_026075/README.md) |
+| 026076 | [MySQL: Monitoring — Baseline Setup for Offline Classroom](Project_026076/README.md) |
+| 026077 | [MySQL: Monitoring — Automation for Offline Classroom](Project_026077/README.md) |
+| 026078 | [MySQL: Monitoring — Recovery for Offline Classroom](Project_026078/README.md) |
+| 026079 | [MySQL: Monitoring — Reporting for Offline Classroom](Project_026079/README.md) |
+| 026080 | [MySQL: Monitoring — Usability Improvement for Offline Classroom](Project_026080/README.md) |
 
 [Back to the portfolio home](../README.md)
