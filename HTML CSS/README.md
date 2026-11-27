@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023338 | [HTML CSS: Data Export — Recovery for Two-Node Lab](Project_023338/README.md) |
 | 023339 | [HTML CSS: Data Export — Reporting for Two-Node Lab](Project_023339/README.md) |
 | 023340 | [HTML CSS: Data Export — Usability Improvement for Two-Node Lab](Project_023340/README.md) |
+| 023341 | [HTML CSS: Data Export — Baseline Setup for Help Desk](Project_023341/README.md) |
+| 023342 | [HTML CSS: Data Export — Automation for Help Desk](Project_023342/README.md) |
+| 023343 | [HTML CSS: Data Export — Recovery for Help Desk](Project_023343/README.md) |
+| 023344 | [HTML CSS: Data Export — Reporting for Help Desk](Project_023344/README.md) |
+| 023345 | [HTML CSS: Data Export — Usability Improvement for Help Desk](Project_023345/README.md) |
+| 023346 | [HTML CSS: Data Export — Baseline Setup for Portfolio Demo](Project_023346/README.md) |
+| 023347 | [HTML CSS: Data Export — Automation for Portfolio Demo](Project_023347/README.md) |
+| 023348 | [HTML CSS: Data Export — Recovery for Portfolio Demo](Project_023348/README.md) |
+| 023349 | [HTML CSS: Data Export — Reporting for Portfolio Demo](Project_023349/README.md) |
+| 023350 | [HTML CSS: Data Export — Usability Improvement for Portfolio Demo](Project_023350/README.md) |
+| 023351 | [HTML CSS: Dashboard — Baseline Setup for School Lab](Project_023351/README.md) |
+| 023352 | [HTML CSS: Dashboard — Automation for School Lab](Project_023352/README.md) |
+| 023353 | [HTML CSS: Dashboard — Recovery for School Lab](Project_023353/README.md) |
+| 023354 | [HTML CSS: Dashboard — Reporting for School Lab](Project_023354/README.md) |
+| 023355 | [HTML CSS: Dashboard — Usability Improvement for School Lab](Project_023355/README.md) |
+| 023356 | [HTML CSS: Dashboard — Baseline Setup for Small Business](Project_023356/README.md) |
+| 023357 | [HTML CSS: Dashboard — Automation for Small Business](Project_023357/README.md) |
+| 023358 | [HTML CSS: Dashboard — Recovery for Small Business](Project_023358/README.md) |
+| 023359 | [HTML CSS: Dashboard — Reporting for Small Business](Project_023359/README.md) |
+| 023360 | [HTML CSS: Dashboard — Usability Improvement for Small Business](Project_023360/README.md) |
 
 [Back to the portfolio home](../README.md)
