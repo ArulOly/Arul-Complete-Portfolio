@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021258 | [TypeScript: Data Import — Recovery for Small Business](Project_021258/README.md) |
 | 021259 | [TypeScript: Data Import — Reporting for Small Business](Project_021259/README.md) |
 | 021260 | [TypeScript: Data Import — Usability Improvement for Small Business](Project_021260/README.md) |
+| 021261 | [TypeScript: Data Import — Baseline Setup for Home Development](Project_021261/README.md) |
+| 021262 | [TypeScript: Data Import — Automation for Home Development](Project_021262/README.md) |
+| 021263 | [TypeScript: Data Import — Recovery for Home Development](Project_021263/README.md) |
+| 021264 | [TypeScript: Data Import — Reporting for Home Development](Project_021264/README.md) |
+| 021265 | [TypeScript: Data Import — Usability Improvement for Home Development](Project_021265/README.md) |
+| 021266 | [TypeScript: Data Import — Baseline Setup for Public Dataset](Project_021266/README.md) |
+| 021267 | [TypeScript: Data Import — Automation for Public Dataset](Project_021267/README.md) |
+| 021268 | [TypeScript: Data Import — Recovery for Public Dataset](Project_021268/README.md) |
+| 021269 | [TypeScript: Data Import — Reporting for Public Dataset](Project_021269/README.md) |
+| 021270 | [TypeScript: Data Import — Usability Improvement for Public Dataset](Project_021270/README.md) |
+| 021271 | [TypeScript: Data Import — Baseline Setup for Branch Office Simulator](Project_021271/README.md) |
+| 021272 | [TypeScript: Data Import — Automation for Branch Office Simulator](Project_021272/README.md) |
+| 021273 | [TypeScript: Data Import — Recovery for Branch Office Simulator](Project_021273/README.md) |
+| 021274 | [TypeScript: Data Import — Reporting for Branch Office Simulator](Project_021274/README.md) |
+| 021275 | [TypeScript: Data Import — Usability Improvement for Branch Office Simulator](Project_021275/README.md) |
+| 021276 | [TypeScript: Data Import — Baseline Setup for Offline Classroom](Project_021276/README.md) |
+| 021277 | [TypeScript: Data Import — Automation for Offline Classroom](Project_021277/README.md) |
+| 021278 | [TypeScript: Data Import — Recovery for Offline Classroom](Project_021278/README.md) |
+| 021279 | [TypeScript: Data Import — Reporting for Offline Classroom](Project_021279/README.md) |
+| 021280 | [TypeScript: Data Import — Usability Improvement for Offline Classroom](Project_021280/README.md) |
 
 [Back to the portfolio home](../README.md)
