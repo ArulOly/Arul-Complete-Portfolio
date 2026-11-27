@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048538 | [Flask: Access Review — Recovery for Two-Node Lab](Project_048538/README.md) |
 | 048539 | [Flask: Access Review — Reporting for Two-Node Lab](Project_048539/README.md) |
 | 048540 | [Flask: Access Review — Usability Improvement for Two-Node Lab](Project_048540/README.md) |
+| 048541 | [Flask: Access Review — Baseline Setup for Help Desk](Project_048541/README.md) |
+| 048542 | [Flask: Access Review — Automation for Help Desk](Project_048542/README.md) |
+| 048543 | [Flask: Access Review — Recovery for Help Desk](Project_048543/README.md) |
+| 048544 | [Flask: Access Review — Reporting for Help Desk](Project_048544/README.md) |
+| 048545 | [Flask: Access Review — Usability Improvement for Help Desk](Project_048545/README.md) |
+| 048546 | [Flask: Access Review — Baseline Setup for Portfolio Demo](Project_048546/README.md) |
+| 048547 | [Flask: Access Review — Automation for Portfolio Demo](Project_048547/README.md) |
+| 048548 | [Flask: Access Review — Recovery for Portfolio Demo](Project_048548/README.md) |
+| 048549 | [Flask: Access Review — Reporting for Portfolio Demo](Project_048549/README.md) |
+| 048550 | [Flask: Access Review — Usability Improvement for Portfolio Demo](Project_048550/README.md) |
+| 048551 | [Flask: Performance Baseline — Baseline Setup for School Lab](Project_048551/README.md) |
+| 048552 | [Flask: Performance Baseline — Automation for School Lab](Project_048552/README.md) |
+| 048553 | [Flask: Performance Baseline — Recovery for School Lab](Project_048553/README.md) |
+| 048554 | [Flask: Performance Baseline — Reporting for School Lab](Project_048554/README.md) |
+| 048555 | [Flask: Performance Baseline — Usability Improvement for School Lab](Project_048555/README.md) |
+| 048556 | [Flask: Performance Baseline — Baseline Setup for Small Business](Project_048556/README.md) |
+| 048557 | [Flask: Performance Baseline — Automation for Small Business](Project_048557/README.md) |
+| 048558 | [Flask: Performance Baseline — Recovery for Small Business](Project_048558/README.md) |
+| 048559 | [Flask: Performance Baseline — Reporting for Small Business](Project_048559/README.md) |
+| 048560 | [Flask: Performance Baseline — Usability Improvement for Small Business](Project_048560/README.md) |
 
 [Back to the portfolio home](../README.md)
