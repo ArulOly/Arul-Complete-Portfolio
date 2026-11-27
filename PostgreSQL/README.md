@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025518 | [PostgreSQL: Access Review — Recovery for Public Dataset](Project_025518/README.md) |
 | 025519 | [PostgreSQL: Access Review — Reporting for Public Dataset](Project_025519/README.md) |
 | 025520 | [PostgreSQL: Access Review — Usability Improvement for Public Dataset](Project_025520/README.md) |
+| 025521 | [PostgreSQL: Access Review — Baseline Setup for Branch Office Simulator](Project_025521/README.md) |
+| 025522 | [PostgreSQL: Access Review — Automation for Branch Office Simulator](Project_025522/README.md) |
+| 025523 | [PostgreSQL: Access Review — Recovery for Branch Office Simulator](Project_025523/README.md) |
+| 025524 | [PostgreSQL: Access Review — Reporting for Branch Office Simulator](Project_025524/README.md) |
+| 025525 | [PostgreSQL: Access Review — Usability Improvement for Branch Office Simulator](Project_025525/README.md) |
+| 025526 | [PostgreSQL: Access Review — Baseline Setup for Offline Classroom](Project_025526/README.md) |
+| 025527 | [PostgreSQL: Access Review — Automation for Offline Classroom](Project_025527/README.md) |
+| 025528 | [PostgreSQL: Access Review — Recovery for Offline Classroom](Project_025528/README.md) |
+| 025529 | [PostgreSQL: Access Review — Reporting for Offline Classroom](Project_025529/README.md) |
+| 025530 | [PostgreSQL: Access Review — Usability Improvement for Offline Classroom](Project_025530/README.md) |
+| 025531 | [PostgreSQL: Access Review — Baseline Setup for Single-Host Lab](Project_025531/README.md) |
+| 025532 | [PostgreSQL: Access Review — Automation for Single-Host Lab](Project_025532/README.md) |
+| 025533 | [PostgreSQL: Access Review — Recovery for Single-Host Lab](Project_025533/README.md) |
+| 025534 | [PostgreSQL: Access Review — Reporting for Single-Host Lab](Project_025534/README.md) |
+| 025535 | [PostgreSQL: Access Review — Usability Improvement for Single-Host Lab](Project_025535/README.md) |
+| 025536 | [PostgreSQL: Access Review — Baseline Setup for Two-Node Lab](Project_025536/README.md) |
+| 025537 | [PostgreSQL: Access Review — Automation for Two-Node Lab](Project_025537/README.md) |
+| 025538 | [PostgreSQL: Access Review — Recovery for Two-Node Lab](Project_025538/README.md) |
+| 025539 | [PostgreSQL: Access Review — Reporting for Two-Node Lab](Project_025539/README.md) |
+| 025540 | [PostgreSQL: Access Review — Usability Improvement for Two-Node Lab](Project_025540/README.md) |
 
 [Back to the portfolio home](../README.md)
