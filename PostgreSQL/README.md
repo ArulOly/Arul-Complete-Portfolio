@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025098 | [PostgreSQL: Monitoring — Recovery for Portfolio Demo](Project_025098/README.md) |
 | 025099 | [PostgreSQL: Monitoring — Reporting for Portfolio Demo](Project_025099/README.md) |
 | 025100 | [PostgreSQL: Monitoring — Usability Improvement for Portfolio Demo](Project_025100/README.md) |
+| 025101 | [PostgreSQL: Audit — Baseline Setup for School Lab](Project_025101/README.md) |
+| 025102 | [PostgreSQL: Audit — Automation for School Lab](Project_025102/README.md) |
+| 025103 | [PostgreSQL: Audit — Recovery for School Lab](Project_025103/README.md) |
+| 025104 | [PostgreSQL: Audit — Reporting for School Lab](Project_025104/README.md) |
+| 025105 | [PostgreSQL: Audit — Usability Improvement for School Lab](Project_025105/README.md) |
+| 025106 | [PostgreSQL: Audit — Baseline Setup for Small Business](Project_025106/README.md) |
+| 025107 | [PostgreSQL: Audit — Automation for Small Business](Project_025107/README.md) |
+| 025108 | [PostgreSQL: Audit — Recovery for Small Business](Project_025108/README.md) |
+| 025109 | [PostgreSQL: Audit — Reporting for Small Business](Project_025109/README.md) |
+| 025110 | [PostgreSQL: Audit — Usability Improvement for Small Business](Project_025110/README.md) |
+| 025111 | [PostgreSQL: Audit — Baseline Setup for Home Development](Project_025111/README.md) |
+| 025112 | [PostgreSQL: Audit — Automation for Home Development](Project_025112/README.md) |
+| 025113 | [PostgreSQL: Audit — Recovery for Home Development](Project_025113/README.md) |
+| 025114 | [PostgreSQL: Audit — Reporting for Home Development](Project_025114/README.md) |
+| 025115 | [PostgreSQL: Audit — Usability Improvement for Home Development](Project_025115/README.md) |
+| 025116 | [PostgreSQL: Audit — Baseline Setup for Public Dataset](Project_025116/README.md) |
+| 025117 | [PostgreSQL: Audit — Automation for Public Dataset](Project_025117/README.md) |
+| 025118 | [PostgreSQL: Audit — Recovery for Public Dataset](Project_025118/README.md) |
+| 025119 | [PostgreSQL: Audit — Reporting for Public Dataset](Project_025119/README.md) |
+| 025120 | [PostgreSQL: Audit — Usability Improvement for Public Dataset](Project_025120/README.md) |
 
 [Back to the portfolio home](../README.md)
