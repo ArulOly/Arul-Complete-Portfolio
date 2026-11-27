@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034338 | [Scikit-learn: Data Export — Recovery for Two-Node Lab](Project_034338/README.md) |
 | 034339 | [Scikit-learn: Data Export — Reporting for Two-Node Lab](Project_034339/README.md) |
 | 034340 | [Scikit-learn: Data Export — Usability Improvement for Two-Node Lab](Project_034340/README.md) |
+| 034341 | [Scikit-learn: Data Export — Baseline Setup for Help Desk](Project_034341/README.md) |
+| 034342 | [Scikit-learn: Data Export — Automation for Help Desk](Project_034342/README.md) |
+| 034343 | [Scikit-learn: Data Export — Recovery for Help Desk](Project_034343/README.md) |
+| 034344 | [Scikit-learn: Data Export — Reporting for Help Desk](Project_034344/README.md) |
+| 034345 | [Scikit-learn: Data Export — Usability Improvement for Help Desk](Project_034345/README.md) |
+| 034346 | [Scikit-learn: Data Export — Baseline Setup for Portfolio Demo](Project_034346/README.md) |
+| 034347 | [Scikit-learn: Data Export — Automation for Portfolio Demo](Project_034347/README.md) |
+| 034348 | [Scikit-learn: Data Export — Recovery for Portfolio Demo](Project_034348/README.md) |
+| 034349 | [Scikit-learn: Data Export — Reporting for Portfolio Demo](Project_034349/README.md) |
+| 034350 | [Scikit-learn: Data Export — Usability Improvement for Portfolio Demo](Project_034350/README.md) |
+| 034351 | [Scikit-learn: Dashboard — Baseline Setup for School Lab](Project_034351/README.md) |
+| 034352 | [Scikit-learn: Dashboard — Automation for School Lab](Project_034352/README.md) |
+| 034353 | [Scikit-learn: Dashboard — Recovery for School Lab](Project_034353/README.md) |
+| 034354 | [Scikit-learn: Dashboard — Reporting for School Lab](Project_034354/README.md) |
+| 034355 | [Scikit-learn: Dashboard — Usability Improvement for School Lab](Project_034355/README.md) |
+| 034356 | [Scikit-learn: Dashboard — Baseline Setup for Small Business](Project_034356/README.md) |
+| 034357 | [Scikit-learn: Dashboard — Automation for Small Business](Project_034357/README.md) |
+| 034358 | [Scikit-learn: Dashboard — Recovery for Small Business](Project_034358/README.md) |
+| 034359 | [Scikit-learn: Dashboard — Reporting for Small Business](Project_034359/README.md) |
+| 034360 | [Scikit-learn: Dashboard — Usability Improvement for Small Business](Project_034360/README.md) |
 
 [Back to the portfolio home](../README.md)
