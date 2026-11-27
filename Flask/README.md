@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048918 | [Flask: Visual Reporting — Recovery for Public Dataset](Project_048918/README.md) |
 | 048919 | [Flask: Visual Reporting — Reporting for Public Dataset](Project_048919/README.md) |
 | 048920 | [Flask: Visual Reporting — Usability Improvement for Public Dataset](Project_048920/README.md) |
+| 048921 | [Flask: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_048921/README.md) |
+| 048922 | [Flask: Visual Reporting — Automation for Branch Office Simulator](Project_048922/README.md) |
+| 048923 | [Flask: Visual Reporting — Recovery for Branch Office Simulator](Project_048923/README.md) |
+| 048924 | [Flask: Visual Reporting — Reporting for Branch Office Simulator](Project_048924/README.md) |
+| 048925 | [Flask: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_048925/README.md) |
+| 048926 | [Flask: Visual Reporting — Baseline Setup for Offline Classroom](Project_048926/README.md) |
+| 048927 | [Flask: Visual Reporting — Automation for Offline Classroom](Project_048927/README.md) |
+| 048928 | [Flask: Visual Reporting — Recovery for Offline Classroom](Project_048928/README.md) |
+| 048929 | [Flask: Visual Reporting — Reporting for Offline Classroom](Project_048929/README.md) |
+| 048930 | [Flask: Visual Reporting — Usability Improvement for Offline Classroom](Project_048930/README.md) |
+| 048931 | [Flask: Visual Reporting — Baseline Setup for Single-Host Lab](Project_048931/README.md) |
+| 048932 | [Flask: Visual Reporting — Automation for Single-Host Lab](Project_048932/README.md) |
+| 048933 | [Flask: Visual Reporting — Recovery for Single-Host Lab](Project_048933/README.md) |
+| 048934 | [Flask: Visual Reporting — Reporting for Single-Host Lab](Project_048934/README.md) |
+| 048935 | [Flask: Visual Reporting — Usability Improvement for Single-Host Lab](Project_048935/README.md) |
+| 048936 | [Flask: Visual Reporting — Baseline Setup for Two-Node Lab](Project_048936/README.md) |
+| 048937 | [Flask: Visual Reporting — Automation for Two-Node Lab](Project_048937/README.md) |
+| 048938 | [Flask: Visual Reporting — Recovery for Two-Node Lab](Project_048938/README.md) |
+| 048939 | [Flask: Visual Reporting — Reporting for Two-Node Lab](Project_048939/README.md) |
+| 048940 | [Flask: Visual Reporting — Usability Improvement for Two-Node Lab](Project_048940/README.md) |
 
 [Back to the portfolio home](../README.md)
