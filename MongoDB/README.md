@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027838 | [MongoDB: Documentation Generation — Recovery for Two-Node Lab](Project_027838/README.md) |
 | 027839 | [MongoDB: Documentation Generation — Reporting for Two-Node Lab](Project_027839/README.md) |
 | 027840 | [MongoDB: Documentation Generation — Usability Improvement for Two-Node Lab](Project_027840/README.md) |
+| 027841 | [MongoDB: Documentation Generation — Baseline Setup for Help Desk](Project_027841/README.md) |
+| 027842 | [MongoDB: Documentation Generation — Automation for Help Desk](Project_027842/README.md) |
+| 027843 | [MongoDB: Documentation Generation — Recovery for Help Desk](Project_027843/README.md) |
+| 027844 | [MongoDB: Documentation Generation — Reporting for Help Desk](Project_027844/README.md) |
+| 027845 | [MongoDB: Documentation Generation — Usability Improvement for Help Desk](Project_027845/README.md) |
+| 027846 | [MongoDB: Documentation Generation — Baseline Setup for Portfolio Demo](Project_027846/README.md) |
+| 027847 | [MongoDB: Documentation Generation — Automation for Portfolio Demo](Project_027847/README.md) |
+| 027848 | [MongoDB: Documentation Generation — Recovery for Portfolio Demo](Project_027848/README.md) |
+| 027849 | [MongoDB: Documentation Generation — Reporting for Portfolio Demo](Project_027849/README.md) |
+| 027850 | [MongoDB: Documentation Generation — Usability Improvement for Portfolio Demo](Project_027850/README.md) |
+| 027851 | [MongoDB: Automation — Baseline Setup for School Lab](Project_027851/README.md) |
+| 027852 | [MongoDB: Automation — Automation for School Lab](Project_027852/README.md) |
+| 027853 | [MongoDB: Automation — Recovery for School Lab](Project_027853/README.md) |
+| 027854 | [MongoDB: Automation — Reporting for School Lab](Project_027854/README.md) |
+| 027855 | [MongoDB: Automation — Usability Improvement for School Lab](Project_027855/README.md) |
+| 027856 | [MongoDB: Automation — Baseline Setup for Small Business](Project_027856/README.md) |
+| 027857 | [MongoDB: Automation — Automation for Small Business](Project_027857/README.md) |
+| 027858 | [MongoDB: Automation — Recovery for Small Business](Project_027858/README.md) |
+| 027859 | [MongoDB: Automation — Reporting for Small Business](Project_027859/README.md) |
+| 027860 | [MongoDB: Automation — Usability Improvement for Small Business](Project_027860/README.md) |
 
 [Back to the portfolio home](../README.md)
