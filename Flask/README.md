@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048118 | [Flask: Audit — Recovery for Public Dataset](Project_048118/README.md) |
 | 048119 | [Flask: Audit — Reporting for Public Dataset](Project_048119/README.md) |
 | 048120 | [Flask: Audit — Usability Improvement for Public Dataset](Project_048120/README.md) |
+| 048121 | [Flask: Audit — Baseline Setup for Branch Office Simulator](Project_048121/README.md) |
+| 048122 | [Flask: Audit — Automation for Branch Office Simulator](Project_048122/README.md) |
+| 048123 | [Flask: Audit — Recovery for Branch Office Simulator](Project_048123/README.md) |
+| 048124 | [Flask: Audit — Reporting for Branch Office Simulator](Project_048124/README.md) |
+| 048125 | [Flask: Audit — Usability Improvement for Branch Office Simulator](Project_048125/README.md) |
+| 048126 | [Flask: Audit — Baseline Setup for Offline Classroom](Project_048126/README.md) |
+| 048127 | [Flask: Audit — Automation for Offline Classroom](Project_048127/README.md) |
+| 048128 | [Flask: Audit — Recovery for Offline Classroom](Project_048128/README.md) |
+| 048129 | [Flask: Audit — Reporting for Offline Classroom](Project_048129/README.md) |
+| 048130 | [Flask: Audit — Usability Improvement for Offline Classroom](Project_048130/README.md) |
+| 048131 | [Flask: Audit — Baseline Setup for Single-Host Lab](Project_048131/README.md) |
+| 048132 | [Flask: Audit — Automation for Single-Host Lab](Project_048132/README.md) |
+| 048133 | [Flask: Audit — Recovery for Single-Host Lab](Project_048133/README.md) |
+| 048134 | [Flask: Audit — Reporting for Single-Host Lab](Project_048134/README.md) |
+| 048135 | [Flask: Audit — Usability Improvement for Single-Host Lab](Project_048135/README.md) |
+| 048136 | [Flask: Audit — Baseline Setup for Two-Node Lab](Project_048136/README.md) |
+| 048137 | [Flask: Audit — Automation for Two-Node Lab](Project_048137/README.md) |
+| 048138 | [Flask: Audit — Recovery for Two-Node Lab](Project_048138/README.md) |
+| 048139 | [Flask: Audit — Reporting for Two-Node Lab](Project_048139/README.md) |
+| 048140 | [Flask: Audit — Usability Improvement for Two-Node Lab](Project_048140/README.md) |
 
 [Back to the portfolio home](../README.md)
