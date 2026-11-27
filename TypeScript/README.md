@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021718 | [TypeScript: Error Handling — Recovery for Public Dataset](Project_021718/README.md) |
 | 021719 | [TypeScript: Error Handling — Reporting for Public Dataset](Project_021719/README.md) |
 | 021720 | [TypeScript: Error Handling — Usability Improvement for Public Dataset](Project_021720/README.md) |
+| 021721 | [TypeScript: Error Handling — Baseline Setup for Branch Office Simulator](Project_021721/README.md) |
+| 021722 | [TypeScript: Error Handling — Automation for Branch Office Simulator](Project_021722/README.md) |
+| 021723 | [TypeScript: Error Handling — Recovery for Branch Office Simulator](Project_021723/README.md) |
+| 021724 | [TypeScript: Error Handling — Reporting for Branch Office Simulator](Project_021724/README.md) |
+| 021725 | [TypeScript: Error Handling — Usability Improvement for Branch Office Simulator](Project_021725/README.md) |
+| 021726 | [TypeScript: Error Handling — Baseline Setup for Offline Classroom](Project_021726/README.md) |
+| 021727 | [TypeScript: Error Handling — Automation for Offline Classroom](Project_021727/README.md) |
+| 021728 | [TypeScript: Error Handling — Recovery for Offline Classroom](Project_021728/README.md) |
+| 021729 | [TypeScript: Error Handling — Reporting for Offline Classroom](Project_021729/README.md) |
+| 021730 | [TypeScript: Error Handling — Usability Improvement for Offline Classroom](Project_021730/README.md) |
+| 021731 | [TypeScript: Error Handling — Baseline Setup for Single-Host Lab](Project_021731/README.md) |
+| 021732 | [TypeScript: Error Handling — Automation for Single-Host Lab](Project_021732/README.md) |
+| 021733 | [TypeScript: Error Handling — Recovery for Single-Host Lab](Project_021733/README.md) |
+| 021734 | [TypeScript: Error Handling — Reporting for Single-Host Lab](Project_021734/README.md) |
+| 021735 | [TypeScript: Error Handling — Usability Improvement for Single-Host Lab](Project_021735/README.md) |
+| 021736 | [TypeScript: Error Handling — Baseline Setup for Two-Node Lab](Project_021736/README.md) |
+| 021737 | [TypeScript: Error Handling — Automation for Two-Node Lab](Project_021737/README.md) |
+| 021738 | [TypeScript: Error Handling — Recovery for Two-Node Lab](Project_021738/README.md) |
+| 021739 | [TypeScript: Error Handling — Reporting for Two-Node Lab](Project_021739/README.md) |
+| 021740 | [TypeScript: Error Handling — Usability Improvement for Two-Node Lab](Project_021740/README.md) |
 
 [Back to the portfolio home](../README.md)
