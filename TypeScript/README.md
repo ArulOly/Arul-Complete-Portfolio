@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021778 | [TypeScript: Data Validation — Recovery for Offline Classroom](Project_021778/README.md) |
 | 021779 | [TypeScript: Data Validation — Reporting for Offline Classroom](Project_021779/README.md) |
 | 021780 | [TypeScript: Data Validation — Usability Improvement for Offline Classroom](Project_021780/README.md) |
+| 021781 | [TypeScript: Data Validation — Baseline Setup for Single-Host Lab](Project_021781/README.md) |
+| 021782 | [TypeScript: Data Validation — Automation for Single-Host Lab](Project_021782/README.md) |
+| 021783 | [TypeScript: Data Validation — Recovery for Single-Host Lab](Project_021783/README.md) |
+| 021784 | [TypeScript: Data Validation — Reporting for Single-Host Lab](Project_021784/README.md) |
+| 021785 | [TypeScript: Data Validation — Usability Improvement for Single-Host Lab](Project_021785/README.md) |
+| 021786 | [TypeScript: Data Validation — Baseline Setup for Two-Node Lab](Project_021786/README.md) |
+| 021787 | [TypeScript: Data Validation — Automation for Two-Node Lab](Project_021787/README.md) |
+| 021788 | [TypeScript: Data Validation — Recovery for Two-Node Lab](Project_021788/README.md) |
+| 021789 | [TypeScript: Data Validation — Reporting for Two-Node Lab](Project_021789/README.md) |
+| 021790 | [TypeScript: Data Validation — Usability Improvement for Two-Node Lab](Project_021790/README.md) |
+| 021791 | [TypeScript: Data Validation — Baseline Setup for Help Desk](Project_021791/README.md) |
+| 021792 | [TypeScript: Data Validation — Automation for Help Desk](Project_021792/README.md) |
+| 021793 | [TypeScript: Data Validation — Recovery for Help Desk](Project_021793/README.md) |
+| 021794 | [TypeScript: Data Validation — Reporting for Help Desk](Project_021794/README.md) |
+| 021795 | [TypeScript: Data Validation — Usability Improvement for Help Desk](Project_021795/README.md) |
+| 021796 | [TypeScript: Data Validation — Baseline Setup for Portfolio Demo](Project_021796/README.md) |
+| 021797 | [TypeScript: Data Validation — Automation for Portfolio Demo](Project_021797/README.md) |
+| 021798 | [TypeScript: Data Validation — Recovery for Portfolio Demo](Project_021798/README.md) |
+| 021799 | [TypeScript: Data Validation — Reporting for Portfolio Demo](Project_021799/README.md) |
+| 021800 | [TypeScript: Data Validation — Usability Improvement for Portfolio Demo](Project_021800/README.md) |
 
 [Back to the portfolio home](../README.md)
