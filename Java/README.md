@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022838 | [Java: Documentation Generation — Recovery for Two-Node Lab](Project_022838/README.md) |
 | 022839 | [Java: Documentation Generation — Reporting for Two-Node Lab](Project_022839/README.md) |
 | 022840 | [Java: Documentation Generation — Usability Improvement for Two-Node Lab](Project_022840/README.md) |
+| 022841 | [Java: Documentation Generation — Baseline Setup for Help Desk](Project_022841/README.md) |
+| 022842 | [Java: Documentation Generation — Automation for Help Desk](Project_022842/README.md) |
+| 022843 | [Java: Documentation Generation — Recovery for Help Desk](Project_022843/README.md) |
+| 022844 | [Java: Documentation Generation — Reporting for Help Desk](Project_022844/README.md) |
+| 022845 | [Java: Documentation Generation — Usability Improvement for Help Desk](Project_022845/README.md) |
+| 022846 | [Java: Documentation Generation — Baseline Setup for Portfolio Demo](Project_022846/README.md) |
+| 022847 | [Java: Documentation Generation — Automation for Portfolio Demo](Project_022847/README.md) |
+| 022848 | [Java: Documentation Generation — Recovery for Portfolio Demo](Project_022848/README.md) |
+| 022849 | [Java: Documentation Generation — Reporting for Portfolio Demo](Project_022849/README.md) |
+| 022850 | [Java: Documentation Generation — Usability Improvement for Portfolio Demo](Project_022850/README.md) |
+| 022851 | [Java: Automation — Baseline Setup for School Lab](Project_022851/README.md) |
+| 022852 | [Java: Automation — Automation for School Lab](Project_022852/README.md) |
+| 022853 | [Java: Automation — Recovery for School Lab](Project_022853/README.md) |
+| 022854 | [Java: Automation — Reporting for School Lab](Project_022854/README.md) |
+| 022855 | [Java: Automation — Usability Improvement for School Lab](Project_022855/README.md) |
+| 022856 | [Java: Automation — Baseline Setup for Small Business](Project_022856/README.md) |
+| 022857 | [Java: Automation — Automation for Small Business](Project_022857/README.md) |
+| 022858 | [Java: Automation — Recovery for Small Business](Project_022858/README.md) |
+| 022859 | [Java: Automation — Reporting for Small Business](Project_022859/README.md) |
+| 022860 | [Java: Automation — Usability Improvement for Small Business](Project_022860/README.md) |
 
 [Back to the portfolio home](../README.md)
