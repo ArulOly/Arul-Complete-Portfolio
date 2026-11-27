@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049838 | [FastAPI: Documentation Generation — Recovery for Two-Node Lab](Project_049838/README.md) |
 | 049839 | [FastAPI: Documentation Generation — Reporting for Two-Node Lab](Project_049839/README.md) |
 | 049840 | [FastAPI: Documentation Generation — Usability Improvement for Two-Node Lab](Project_049840/README.md) |
+| 049841 | [FastAPI: Documentation Generation — Baseline Setup for Help Desk](Project_049841/README.md) |
+| 049842 | [FastAPI: Documentation Generation — Automation for Help Desk](Project_049842/README.md) |
+| 049843 | [FastAPI: Documentation Generation — Recovery for Help Desk](Project_049843/README.md) |
+| 049844 | [FastAPI: Documentation Generation — Reporting for Help Desk](Project_049844/README.md) |
+| 049845 | [FastAPI: Documentation Generation — Usability Improvement for Help Desk](Project_049845/README.md) |
+| 049846 | [FastAPI: Documentation Generation — Baseline Setup for Portfolio Demo](Project_049846/README.md) |
+| 049847 | [FastAPI: Documentation Generation — Automation for Portfolio Demo](Project_049847/README.md) |
+| 049848 | [FastAPI: Documentation Generation — Recovery for Portfolio Demo](Project_049848/README.md) |
+| 049849 | [FastAPI: Documentation Generation — Reporting for Portfolio Demo](Project_049849/README.md) |
+| 049850 | [FastAPI: Documentation Generation — Usability Improvement for Portfolio Demo](Project_049850/README.md) |
+| 049851 | [FastAPI: Automation — Baseline Setup for School Lab](Project_049851/README.md) |
+| 049852 | [FastAPI: Automation — Automation for School Lab](Project_049852/README.md) |
+| 049853 | [FastAPI: Automation — Recovery for School Lab](Project_049853/README.md) |
+| 049854 | [FastAPI: Automation — Reporting for School Lab](Project_049854/README.md) |
+| 049855 | [FastAPI: Automation — Usability Improvement for School Lab](Project_049855/README.md) |
+| 049856 | [FastAPI: Automation — Baseline Setup for Small Business](Project_049856/README.md) |
+| 049857 | [FastAPI: Automation — Automation for Small Business](Project_049857/README.md) |
+| 049858 | [FastAPI: Automation — Recovery for Small Business](Project_049858/README.md) |
+| 049859 | [FastAPI: Automation — Reporting for Small Business](Project_049859/README.md) |
+| 049860 | [FastAPI: Automation — Usability Improvement for Small Business](Project_049860/README.md) |
 
 [Back to the portfolio home](../README.md)
