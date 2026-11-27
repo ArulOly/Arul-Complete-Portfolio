@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002818 | [Ubuntu: Documentation Generation — Recovery for Public Dataset](Project_002818/README.md) |
 | 002819 | [Ubuntu: Documentation Generation — Reporting for Public Dataset](Project_002819/README.md) |
 | 002820 | [Ubuntu: Documentation Generation — Usability Improvement for Public Dataset](Project_002820/README.md) |
+| 002821 | [Ubuntu: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_002821/README.md) |
+| 002822 | [Ubuntu: Documentation Generation — Automation for Branch Office Simulator](Project_002822/README.md) |
+| 002823 | [Ubuntu: Documentation Generation — Recovery for Branch Office Simulator](Project_002823/README.md) |
+| 002824 | [Ubuntu: Documentation Generation — Reporting for Branch Office Simulator](Project_002824/README.md) |
+| 002825 | [Ubuntu: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_002825/README.md) |
+| 002826 | [Ubuntu: Documentation Generation — Baseline Setup for Offline Classroom](Project_002826/README.md) |
+| 002827 | [Ubuntu: Documentation Generation — Automation for Offline Classroom](Project_002827/README.md) |
+| 002828 | [Ubuntu: Documentation Generation — Recovery for Offline Classroom](Project_002828/README.md) |
+| 002829 | [Ubuntu: Documentation Generation — Reporting for Offline Classroom](Project_002829/README.md) |
+| 002830 | [Ubuntu: Documentation Generation — Usability Improvement for Offline Classroom](Project_002830/README.md) |
+| 002831 | [Ubuntu: Documentation Generation — Baseline Setup for Single-Host Lab](Project_002831/README.md) |
+| 002832 | [Ubuntu: Documentation Generation — Automation for Single-Host Lab](Project_002832/README.md) |
+| 002833 | [Ubuntu: Documentation Generation — Recovery for Single-Host Lab](Project_002833/README.md) |
+| 002834 | [Ubuntu: Documentation Generation — Reporting for Single-Host Lab](Project_002834/README.md) |
+| 002835 | [Ubuntu: Documentation Generation — Usability Improvement for Single-Host Lab](Project_002835/README.md) |
+| 002836 | [Ubuntu: Documentation Generation — Baseline Setup for Two-Node Lab](Project_002836/README.md) |
+| 002837 | [Ubuntu: Documentation Generation — Automation for Two-Node Lab](Project_002837/README.md) |
+| 002838 | [Ubuntu: Documentation Generation — Recovery for Two-Node Lab](Project_002838/README.md) |
+| 002839 | [Ubuntu: Documentation Generation — Reporting for Two-Node Lab](Project_002839/README.md) |
+| 002840 | [Ubuntu: Documentation Generation — Usability Improvement for Two-Node Lab](Project_002840/README.md) |
 
 [Back to the portfolio home](../README.md)
