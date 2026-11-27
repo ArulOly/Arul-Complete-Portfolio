@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045618 | [Redis: Service Check — Recovery for Public Dataset](Project_045618/README.md) |
 | 045619 | [Redis: Service Check — Reporting for Public Dataset](Project_045619/README.md) |
 | 045620 | [Redis: Service Check — Usability Improvement for Public Dataset](Project_045620/README.md) |
+| 045621 | [Redis: Service Check — Baseline Setup for Branch Office Simulator](Project_045621/README.md) |
+| 045622 | [Redis: Service Check — Automation for Branch Office Simulator](Project_045622/README.md) |
+| 045623 | [Redis: Service Check — Recovery for Branch Office Simulator](Project_045623/README.md) |
+| 045624 | [Redis: Service Check — Reporting for Branch Office Simulator](Project_045624/README.md) |
+| 045625 | [Redis: Service Check — Usability Improvement for Branch Office Simulator](Project_045625/README.md) |
+| 045626 | [Redis: Service Check — Baseline Setup for Offline Classroom](Project_045626/README.md) |
+| 045627 | [Redis: Service Check — Automation for Offline Classroom](Project_045627/README.md) |
+| 045628 | [Redis: Service Check — Recovery for Offline Classroom](Project_045628/README.md) |
+| 045629 | [Redis: Service Check — Reporting for Offline Classroom](Project_045629/README.md) |
+| 045630 | [Redis: Service Check — Usability Improvement for Offline Classroom](Project_045630/README.md) |
+| 045631 | [Redis: Service Check — Baseline Setup for Single-Host Lab](Project_045631/README.md) |
+| 045632 | [Redis: Service Check — Automation for Single-Host Lab](Project_045632/README.md) |
+| 045633 | [Redis: Service Check — Recovery for Single-Host Lab](Project_045633/README.md) |
+| 045634 | [Redis: Service Check — Reporting for Single-Host Lab](Project_045634/README.md) |
+| 045635 | [Redis: Service Check — Usability Improvement for Single-Host Lab](Project_045635/README.md) |
+| 045636 | [Redis: Service Check — Baseline Setup for Two-Node Lab](Project_045636/README.md) |
+| 045637 | [Redis: Service Check — Automation for Two-Node Lab](Project_045637/README.md) |
+| 045638 | [Redis: Service Check — Recovery for Two-Node Lab](Project_045638/README.md) |
+| 045639 | [Redis: Service Check — Reporting for Two-Node Lab](Project_045639/README.md) |
+| 045640 | [Redis: Service Check — Usability Improvement for Two-Node Lab](Project_045640/README.md) |
 
 [Back to the portfolio home](../README.md)
