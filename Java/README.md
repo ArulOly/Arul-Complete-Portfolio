@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022238 | [Java: Backup Verification — Recovery for Two-Node Lab](Project_022238/README.md) |
 | 022239 | [Java: Backup Verification — Reporting for Two-Node Lab](Project_022239/README.md) |
 | 022240 | [Java: Backup Verification — Usability Improvement for Two-Node Lab](Project_022240/README.md) |
+| 022241 | [Java: Backup Verification — Baseline Setup for Help Desk](Project_022241/README.md) |
+| 022242 | [Java: Backup Verification — Automation for Help Desk](Project_022242/README.md) |
+| 022243 | [Java: Backup Verification — Recovery for Help Desk](Project_022243/README.md) |
+| 022244 | [Java: Backup Verification — Reporting for Help Desk](Project_022244/README.md) |
+| 022245 | [Java: Backup Verification — Usability Improvement for Help Desk](Project_022245/README.md) |
+| 022246 | [Java: Backup Verification — Baseline Setup for Portfolio Demo](Project_022246/README.md) |
+| 022247 | [Java: Backup Verification — Automation for Portfolio Demo](Project_022247/README.md) |
+| 022248 | [Java: Backup Verification — Recovery for Portfolio Demo](Project_022248/README.md) |
+| 022249 | [Java: Backup Verification — Reporting for Portfolio Demo](Project_022249/README.md) |
+| 022250 | [Java: Backup Verification — Usability Improvement for Portfolio Demo](Project_022250/README.md) |
+| 022251 | [Java: Data Import — Baseline Setup for School Lab](Project_022251/README.md) |
+| 022252 | [Java: Data Import — Automation for School Lab](Project_022252/README.md) |
+| 022253 | [Java: Data Import — Recovery for School Lab](Project_022253/README.md) |
+| 022254 | [Java: Data Import — Reporting for School Lab](Project_022254/README.md) |
+| 022255 | [Java: Data Import — Usability Improvement for School Lab](Project_022255/README.md) |
+| 022256 | [Java: Data Import — Baseline Setup for Small Business](Project_022256/README.md) |
+| 022257 | [Java: Data Import — Automation for Small Business](Project_022257/README.md) |
+| 022258 | [Java: Data Import — Recovery for Small Business](Project_022258/README.md) |
+| 022259 | [Java: Data Import — Reporting for Small Business](Project_022259/README.md) |
+| 022260 | [Java: Data Import — Usability Improvement for Small Business](Project_022260/README.md) |
 
 [Back to the portfolio home](../README.md)
