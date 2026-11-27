@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003618 | [Debian: Service Check — Recovery for Public Dataset](Project_003618/README.md) |
 | 003619 | [Debian: Service Check — Reporting for Public Dataset](Project_003619/README.md) |
 | 003620 | [Debian: Service Check — Usability Improvement for Public Dataset](Project_003620/README.md) |
+| 003621 | [Debian: Service Check — Baseline Setup for Branch Office Simulator](Project_003621/README.md) |
+| 003622 | [Debian: Service Check — Automation for Branch Office Simulator](Project_003622/README.md) |
+| 003623 | [Debian: Service Check — Recovery for Branch Office Simulator](Project_003623/README.md) |
+| 003624 | [Debian: Service Check — Reporting for Branch Office Simulator](Project_003624/README.md) |
+| 003625 | [Debian: Service Check — Usability Improvement for Branch Office Simulator](Project_003625/README.md) |
+| 003626 | [Debian: Service Check — Baseline Setup for Offline Classroom](Project_003626/README.md) |
+| 003627 | [Debian: Service Check — Automation for Offline Classroom](Project_003627/README.md) |
+| 003628 | [Debian: Service Check — Recovery for Offline Classroom](Project_003628/README.md) |
+| 003629 | [Debian: Service Check — Reporting for Offline Classroom](Project_003629/README.md) |
+| 003630 | [Debian: Service Check — Usability Improvement for Offline Classroom](Project_003630/README.md) |
+| 003631 | [Debian: Service Check — Baseline Setup for Single-Host Lab](Project_003631/README.md) |
+| 003632 | [Debian: Service Check — Automation for Single-Host Lab](Project_003632/README.md) |
+| 003633 | [Debian: Service Check — Recovery for Single-Host Lab](Project_003633/README.md) |
+| 003634 | [Debian: Service Check — Reporting for Single-Host Lab](Project_003634/README.md) |
+| 003635 | [Debian: Service Check — Usability Improvement for Single-Host Lab](Project_003635/README.md) |
+| 003636 | [Debian: Service Check — Baseline Setup for Two-Node Lab](Project_003636/README.md) |
+| 003637 | [Debian: Service Check — Automation for Two-Node Lab](Project_003637/README.md) |
+| 003638 | [Debian: Service Check — Recovery for Two-Node Lab](Project_003638/README.md) |
+| 003639 | [Debian: Service Check — Reporting for Two-Node Lab](Project_003639/README.md) |
+| 003640 | [Debian: Service Check — Usability Improvement for Two-Node Lab](Project_003640/README.md) |
 
 [Back to the portfolio home](../README.md)
