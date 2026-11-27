@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023958 | [HTML CSS: Recovery Test — Recovery for Small Business](Project_023958/README.md) |
 | 023959 | [HTML CSS: Recovery Test — Reporting for Small Business](Project_023959/README.md) |
 | 023960 | [HTML CSS: Recovery Test — Usability Improvement for Small Business](Project_023960/README.md) |
+| 023961 | [HTML CSS: Recovery Test — Baseline Setup for Home Development](Project_023961/README.md) |
+| 023962 | [HTML CSS: Recovery Test — Automation for Home Development](Project_023962/README.md) |
+| 023963 | [HTML CSS: Recovery Test — Recovery for Home Development](Project_023963/README.md) |
+| 023964 | [HTML CSS: Recovery Test — Reporting for Home Development](Project_023964/README.md) |
+| 023965 | [HTML CSS: Recovery Test — Usability Improvement for Home Development](Project_023965/README.md) |
+| 023966 | [HTML CSS: Recovery Test — Baseline Setup for Public Dataset](Project_023966/README.md) |
+| 023967 | [HTML CSS: Recovery Test — Automation for Public Dataset](Project_023967/README.md) |
+| 023968 | [HTML CSS: Recovery Test — Recovery for Public Dataset](Project_023968/README.md) |
+| 023969 | [HTML CSS: Recovery Test — Reporting for Public Dataset](Project_023969/README.md) |
+| 023970 | [HTML CSS: Recovery Test — Usability Improvement for Public Dataset](Project_023970/README.md) |
+| 023971 | [HTML CSS: Recovery Test — Baseline Setup for Branch Office Simulator](Project_023971/README.md) |
+| 023972 | [HTML CSS: Recovery Test — Automation for Branch Office Simulator](Project_023972/README.md) |
+| 023973 | [HTML CSS: Recovery Test — Recovery for Branch Office Simulator](Project_023973/README.md) |
+| 023974 | [HTML CSS: Recovery Test — Reporting for Branch Office Simulator](Project_023974/README.md) |
+| 023975 | [HTML CSS: Recovery Test — Usability Improvement for Branch Office Simulator](Project_023975/README.md) |
+| 023976 | [HTML CSS: Recovery Test — Baseline Setup for Offline Classroom](Project_023976/README.md) |
+| 023977 | [HTML CSS: Recovery Test — Automation for Offline Classroom](Project_023977/README.md) |
+| 023978 | [HTML CSS: Recovery Test — Recovery for Offline Classroom](Project_023978/README.md) |
+| 023979 | [HTML CSS: Recovery Test — Reporting for Offline Classroom](Project_023979/README.md) |
+| 023980 | [HTML CSS: Recovery Test — Usability Improvement for Offline Classroom](Project_023980/README.md) |
 
 [Back to the portfolio home](../README.md)
