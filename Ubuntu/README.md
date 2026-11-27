@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002318 | [Ubuntu: Data Export — Recovery for Public Dataset](Project_002318/README.md) |
 | 002319 | [Ubuntu: Data Export — Reporting for Public Dataset](Project_002319/README.md) |
 | 002320 | [Ubuntu: Data Export — Usability Improvement for Public Dataset](Project_002320/README.md) |
+| 002321 | [Ubuntu: Data Export — Baseline Setup for Branch Office Simulator](Project_002321/README.md) |
+| 002322 | [Ubuntu: Data Export — Automation for Branch Office Simulator](Project_002322/README.md) |
+| 002323 | [Ubuntu: Data Export — Recovery for Branch Office Simulator](Project_002323/README.md) |
+| 002324 | [Ubuntu: Data Export — Reporting for Branch Office Simulator](Project_002324/README.md) |
+| 002325 | [Ubuntu: Data Export — Usability Improvement for Branch Office Simulator](Project_002325/README.md) |
+| 002326 | [Ubuntu: Data Export — Baseline Setup for Offline Classroom](Project_002326/README.md) |
+| 002327 | [Ubuntu: Data Export — Automation for Offline Classroom](Project_002327/README.md) |
+| 002328 | [Ubuntu: Data Export — Recovery for Offline Classroom](Project_002328/README.md) |
+| 002329 | [Ubuntu: Data Export — Reporting for Offline Classroom](Project_002329/README.md) |
+| 002330 | [Ubuntu: Data Export — Usability Improvement for Offline Classroom](Project_002330/README.md) |
+| 002331 | [Ubuntu: Data Export — Baseline Setup for Single-Host Lab](Project_002331/README.md) |
+| 002332 | [Ubuntu: Data Export — Automation for Single-Host Lab](Project_002332/README.md) |
+| 002333 | [Ubuntu: Data Export — Recovery for Single-Host Lab](Project_002333/README.md) |
+| 002334 | [Ubuntu: Data Export — Reporting for Single-Host Lab](Project_002334/README.md) |
+| 002335 | [Ubuntu: Data Export — Usability Improvement for Single-Host Lab](Project_002335/README.md) |
+| 002336 | [Ubuntu: Data Export — Baseline Setup for Two-Node Lab](Project_002336/README.md) |
+| 002337 | [Ubuntu: Data Export — Automation for Two-Node Lab](Project_002337/README.md) |
+| 002338 | [Ubuntu: Data Export — Recovery for Two-Node Lab](Project_002338/README.md) |
+| 002339 | [Ubuntu: Data Export — Reporting for Two-Node Lab](Project_002339/README.md) |
+| 002340 | [Ubuntu: Data Export — Usability Improvement for Two-Node Lab](Project_002340/README.md) |
 
 [Back to the portfolio home](../README.md)
