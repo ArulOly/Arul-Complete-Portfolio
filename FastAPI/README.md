@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049798 | [FastAPI: Data Validation — Recovery for Portfolio Demo](Project_049798/README.md) |
 | 049799 | [FastAPI: Data Validation — Reporting for Portfolio Demo](Project_049799/README.md) |
 | 049800 | [FastAPI: Data Validation — Usability Improvement for Portfolio Demo](Project_049800/README.md) |
+| 049801 | [FastAPI: Documentation Generation — Baseline Setup for School Lab](Project_049801/README.md) |
+| 049802 | [FastAPI: Documentation Generation — Automation for School Lab](Project_049802/README.md) |
+| 049803 | [FastAPI: Documentation Generation — Recovery for School Lab](Project_049803/README.md) |
+| 049804 | [FastAPI: Documentation Generation — Reporting for School Lab](Project_049804/README.md) |
+| 049805 | [FastAPI: Documentation Generation — Usability Improvement for School Lab](Project_049805/README.md) |
+| 049806 | [FastAPI: Documentation Generation — Baseline Setup for Small Business](Project_049806/README.md) |
+| 049807 | [FastAPI: Documentation Generation — Automation for Small Business](Project_049807/README.md) |
+| 049808 | [FastAPI: Documentation Generation — Recovery for Small Business](Project_049808/README.md) |
+| 049809 | [FastAPI: Documentation Generation — Reporting for Small Business](Project_049809/README.md) |
+| 049810 | [FastAPI: Documentation Generation — Usability Improvement for Small Business](Project_049810/README.md) |
+| 049811 | [FastAPI: Documentation Generation — Baseline Setup for Home Development](Project_049811/README.md) |
+| 049812 | [FastAPI: Documentation Generation — Automation for Home Development](Project_049812/README.md) |
+| 049813 | [FastAPI: Documentation Generation — Recovery for Home Development](Project_049813/README.md) |
+| 049814 | [FastAPI: Documentation Generation — Reporting for Home Development](Project_049814/README.md) |
+| 049815 | [FastAPI: Documentation Generation — Usability Improvement for Home Development](Project_049815/README.md) |
+| 049816 | [FastAPI: Documentation Generation — Baseline Setup for Public Dataset](Project_049816/README.md) |
+| 049817 | [FastAPI: Documentation Generation — Automation for Public Dataset](Project_049817/README.md) |
+| 049818 | [FastAPI: Documentation Generation — Recovery for Public Dataset](Project_049818/README.md) |
+| 049819 | [FastAPI: Documentation Generation — Reporting for Public Dataset](Project_049819/README.md) |
+| 049820 | [FastAPI: Documentation Generation — Usability Improvement for Public Dataset](Project_049820/README.md) |
 
 [Back to the portfolio home](../README.md)
