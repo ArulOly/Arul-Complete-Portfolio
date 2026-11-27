@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023778 | [HTML CSS: Data Validation — Recovery for Offline Classroom](Project_023778/README.md) |
 | 023779 | [HTML CSS: Data Validation — Reporting for Offline Classroom](Project_023779/README.md) |
 | 023780 | [HTML CSS: Data Validation — Usability Improvement for Offline Classroom](Project_023780/README.md) |
+| 023781 | [HTML CSS: Data Validation — Baseline Setup for Single-Host Lab](Project_023781/README.md) |
+| 023782 | [HTML CSS: Data Validation — Automation for Single-Host Lab](Project_023782/README.md) |
+| 023783 | [HTML CSS: Data Validation — Recovery for Single-Host Lab](Project_023783/README.md) |
+| 023784 | [HTML CSS: Data Validation — Reporting for Single-Host Lab](Project_023784/README.md) |
+| 023785 | [HTML CSS: Data Validation — Usability Improvement for Single-Host Lab](Project_023785/README.md) |
+| 023786 | [HTML CSS: Data Validation — Baseline Setup for Two-Node Lab](Project_023786/README.md) |
+| 023787 | [HTML CSS: Data Validation — Automation for Two-Node Lab](Project_023787/README.md) |
+| 023788 | [HTML CSS: Data Validation — Recovery for Two-Node Lab](Project_023788/README.md) |
+| 023789 | [HTML CSS: Data Validation — Reporting for Two-Node Lab](Project_023789/README.md) |
+| 023790 | [HTML CSS: Data Validation — Usability Improvement for Two-Node Lab](Project_023790/README.md) |
+| 023791 | [HTML CSS: Data Validation — Baseline Setup for Help Desk](Project_023791/README.md) |
+| 023792 | [HTML CSS: Data Validation — Automation for Help Desk](Project_023792/README.md) |
+| 023793 | [HTML CSS: Data Validation — Recovery for Help Desk](Project_023793/README.md) |
+| 023794 | [HTML CSS: Data Validation — Reporting for Help Desk](Project_023794/README.md) |
+| 023795 | [HTML CSS: Data Validation — Usability Improvement for Help Desk](Project_023795/README.md) |
+| 023796 | [HTML CSS: Data Validation — Baseline Setup for Portfolio Demo](Project_023796/README.md) |
+| 023797 | [HTML CSS: Data Validation — Automation for Portfolio Demo](Project_023797/README.md) |
+| 023798 | [HTML CSS: Data Validation — Recovery for Portfolio Demo](Project_023798/README.md) |
+| 023799 | [HTML CSS: Data Validation — Reporting for Portfolio Demo](Project_023799/README.md) |
+| 023800 | [HTML CSS: Data Validation — Usability Improvement for Portfolio Demo](Project_023800/README.md) |
 
 [Back to the portfolio home](../README.md)
