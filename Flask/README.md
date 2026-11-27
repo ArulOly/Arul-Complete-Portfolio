@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048958 | [Flask: Recovery Test — Recovery for Small Business](Project_048958/README.md) |
 | 048959 | [Flask: Recovery Test — Reporting for Small Business](Project_048959/README.md) |
 | 048960 | [Flask: Recovery Test — Usability Improvement for Small Business](Project_048960/README.md) |
+| 048961 | [Flask: Recovery Test — Baseline Setup for Home Development](Project_048961/README.md) |
+| 048962 | [Flask: Recovery Test — Automation for Home Development](Project_048962/README.md) |
+| 048963 | [Flask: Recovery Test — Recovery for Home Development](Project_048963/README.md) |
+| 048964 | [Flask: Recovery Test — Reporting for Home Development](Project_048964/README.md) |
+| 048965 | [Flask: Recovery Test — Usability Improvement for Home Development](Project_048965/README.md) |
+| 048966 | [Flask: Recovery Test — Baseline Setup for Public Dataset](Project_048966/README.md) |
+| 048967 | [Flask: Recovery Test — Automation for Public Dataset](Project_048967/README.md) |
+| 048968 | [Flask: Recovery Test — Recovery for Public Dataset](Project_048968/README.md) |
+| 048969 | [Flask: Recovery Test — Reporting for Public Dataset](Project_048969/README.md) |
+| 048970 | [Flask: Recovery Test — Usability Improvement for Public Dataset](Project_048970/README.md) |
+| 048971 | [Flask: Recovery Test — Baseline Setup for Branch Office Simulator](Project_048971/README.md) |
+| 048972 | [Flask: Recovery Test — Automation for Branch Office Simulator](Project_048972/README.md) |
+| 048973 | [Flask: Recovery Test — Recovery for Branch Office Simulator](Project_048973/README.md) |
+| 048974 | [Flask: Recovery Test — Reporting for Branch Office Simulator](Project_048974/README.md) |
+| 048975 | [Flask: Recovery Test — Usability Improvement for Branch Office Simulator](Project_048975/README.md) |
+| 048976 | [Flask: Recovery Test — Baseline Setup for Offline Classroom](Project_048976/README.md) |
+| 048977 | [Flask: Recovery Test — Automation for Offline Classroom](Project_048977/README.md) |
+| 048978 | [Flask: Recovery Test — Recovery for Offline Classroom](Project_048978/README.md) |
+| 048979 | [Flask: Recovery Test — Reporting for Offline Classroom](Project_048979/README.md) |
+| 048980 | [Flask: Recovery Test — Usability Improvement for Offline Classroom](Project_048980/README.md) |
 
 [Back to the portfolio home](../README.md)
