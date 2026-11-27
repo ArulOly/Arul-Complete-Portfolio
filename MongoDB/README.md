@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027698 | [MongoDB: Configuration Comparison — Recovery for Portfolio Demo](Project_027698/README.md) |
 | 027699 | [MongoDB: Configuration Comparison — Reporting for Portfolio Demo](Project_027699/README.md) |
 | 027700 | [MongoDB: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_027700/README.md) |
+| 027701 | [MongoDB: Error Handling — Baseline Setup for School Lab](Project_027701/README.md) |
+| 027702 | [MongoDB: Error Handling — Automation for School Lab](Project_027702/README.md) |
+| 027703 | [MongoDB: Error Handling — Recovery for School Lab](Project_027703/README.md) |
+| 027704 | [MongoDB: Error Handling — Reporting for School Lab](Project_027704/README.md) |
+| 027705 | [MongoDB: Error Handling — Usability Improvement for School Lab](Project_027705/README.md) |
+| 027706 | [MongoDB: Error Handling — Baseline Setup for Small Business](Project_027706/README.md) |
+| 027707 | [MongoDB: Error Handling — Automation for Small Business](Project_027707/README.md) |
+| 027708 | [MongoDB: Error Handling — Recovery for Small Business](Project_027708/README.md) |
+| 027709 | [MongoDB: Error Handling — Reporting for Small Business](Project_027709/README.md) |
+| 027710 | [MongoDB: Error Handling — Usability Improvement for Small Business](Project_027710/README.md) |
+| 027711 | [MongoDB: Error Handling — Baseline Setup for Home Development](Project_027711/README.md) |
+| 027712 | [MongoDB: Error Handling — Automation for Home Development](Project_027712/README.md) |
+| 027713 | [MongoDB: Error Handling — Recovery for Home Development](Project_027713/README.md) |
+| 027714 | [MongoDB: Error Handling — Reporting for Home Development](Project_027714/README.md) |
+| 027715 | [MongoDB: Error Handling — Usability Improvement for Home Development](Project_027715/README.md) |
+| 027716 | [MongoDB: Error Handling — Baseline Setup for Public Dataset](Project_027716/README.md) |
+| 027717 | [MongoDB: Error Handling — Automation for Public Dataset](Project_027717/README.md) |
+| 027718 | [MongoDB: Error Handling — Recovery for Public Dataset](Project_027718/README.md) |
+| 027719 | [MongoDB: Error Handling — Reporting for Public Dataset](Project_027719/README.md) |
+| 027720 | [MongoDB: Error Handling — Usability Improvement for Public Dataset](Project_027720/README.md) |
 
 [Back to the portfolio home](../README.md)
