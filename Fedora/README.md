@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004358 | [Fedora: Dashboard — Recovery for Small Business](Project_004358/README.md) |
 | 004359 | [Fedora: Dashboard — Reporting for Small Business](Project_004359/README.md) |
 | 004360 | [Fedora: Dashboard — Usability Improvement for Small Business](Project_004360/README.md) |
+| 004361 | [Fedora: Dashboard — Baseline Setup for Home Development](Project_004361/README.md) |
+| 004362 | [Fedora: Dashboard — Automation for Home Development](Project_004362/README.md) |
+| 004363 | [Fedora: Dashboard — Recovery for Home Development](Project_004363/README.md) |
+| 004364 | [Fedora: Dashboard — Reporting for Home Development](Project_004364/README.md) |
+| 004365 | [Fedora: Dashboard — Usability Improvement for Home Development](Project_004365/README.md) |
+| 004366 | [Fedora: Dashboard — Baseline Setup for Public Dataset](Project_004366/README.md) |
+| 004367 | [Fedora: Dashboard — Automation for Public Dataset](Project_004367/README.md) |
+| 004368 | [Fedora: Dashboard — Recovery for Public Dataset](Project_004368/README.md) |
+| 004369 | [Fedora: Dashboard — Reporting for Public Dataset](Project_004369/README.md) |
+| 004370 | [Fedora: Dashboard — Usability Improvement for Public Dataset](Project_004370/README.md) |
+| 004371 | [Fedora: Dashboard — Baseline Setup for Branch Office Simulator](Project_004371/README.md) |
+| 004372 | [Fedora: Dashboard — Automation for Branch Office Simulator](Project_004372/README.md) |
+| 004373 | [Fedora: Dashboard — Recovery for Branch Office Simulator](Project_004373/README.md) |
+| 004374 | [Fedora: Dashboard — Reporting for Branch Office Simulator](Project_004374/README.md) |
+| 004375 | [Fedora: Dashboard — Usability Improvement for Branch Office Simulator](Project_004375/README.md) |
+| 004376 | [Fedora: Dashboard — Baseline Setup for Offline Classroom](Project_004376/README.md) |
+| 004377 | [Fedora: Dashboard — Automation for Offline Classroom](Project_004377/README.md) |
+| 004378 | [Fedora: Dashboard — Recovery for Offline Classroom](Project_004378/README.md) |
+| 004379 | [Fedora: Dashboard — Reporting for Offline Classroom](Project_004379/README.md) |
+| 004380 | [Fedora: Dashboard — Usability Improvement for Offline Classroom](Project_004380/README.md) |
 
 [Back to the portfolio home](../README.md)
