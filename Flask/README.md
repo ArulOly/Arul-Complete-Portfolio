@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048798 | [Flask: Data Validation — Recovery for Portfolio Demo](Project_048798/README.md) |
 | 048799 | [Flask: Data Validation — Reporting for Portfolio Demo](Project_048799/README.md) |
 | 048800 | [Flask: Data Validation — Usability Improvement for Portfolio Demo](Project_048800/README.md) |
+| 048801 | [Flask: Documentation Generation — Baseline Setup for School Lab](Project_048801/README.md) |
+| 048802 | [Flask: Documentation Generation — Automation for School Lab](Project_048802/README.md) |
+| 048803 | [Flask: Documentation Generation — Recovery for School Lab](Project_048803/README.md) |
+| 048804 | [Flask: Documentation Generation — Reporting for School Lab](Project_048804/README.md) |
+| 048805 | [Flask: Documentation Generation — Usability Improvement for School Lab](Project_048805/README.md) |
+| 048806 | [Flask: Documentation Generation — Baseline Setup for Small Business](Project_048806/README.md) |
+| 048807 | [Flask: Documentation Generation — Automation for Small Business](Project_048807/README.md) |
+| 048808 | [Flask: Documentation Generation — Recovery for Small Business](Project_048808/README.md) |
+| 048809 | [Flask: Documentation Generation — Reporting for Small Business](Project_048809/README.md) |
+| 048810 | [Flask: Documentation Generation — Usability Improvement for Small Business](Project_048810/README.md) |
+| 048811 | [Flask: Documentation Generation — Baseline Setup for Home Development](Project_048811/README.md) |
+| 048812 | [Flask: Documentation Generation — Automation for Home Development](Project_048812/README.md) |
+| 048813 | [Flask: Documentation Generation — Recovery for Home Development](Project_048813/README.md) |
+| 048814 | [Flask: Documentation Generation — Reporting for Home Development](Project_048814/README.md) |
+| 048815 | [Flask: Documentation Generation — Usability Improvement for Home Development](Project_048815/README.md) |
+| 048816 | [Flask: Documentation Generation — Baseline Setup for Public Dataset](Project_048816/README.md) |
+| 048817 | [Flask: Documentation Generation — Automation for Public Dataset](Project_048817/README.md) |
+| 048818 | [Flask: Documentation Generation — Recovery for Public Dataset](Project_048818/README.md) |
+| 048819 | [Flask: Documentation Generation — Reporting for Public Dataset](Project_048819/README.md) |
+| 048820 | [Flask: Documentation Generation — Usability Improvement for Public Dataset](Project_048820/README.md) |
 
 [Back to the portfolio home](../README.md)
