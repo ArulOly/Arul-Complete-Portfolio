@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032378 | [Power BI: Dashboard — Recovery for Offline Classroom](Project_032378/README.md) |
 | 032379 | [Power BI: Dashboard — Reporting for Offline Classroom](Project_032379/README.md) |
 | 032380 | [Power BI: Dashboard — Usability Improvement for Offline Classroom](Project_032380/README.md) |
+| 032381 | [Power BI: Dashboard — Baseline Setup for Single-Host Lab](Project_032381/README.md) |
+| 032382 | [Power BI: Dashboard — Automation for Single-Host Lab](Project_032382/README.md) |
+| 032383 | [Power BI: Dashboard — Recovery for Single-Host Lab](Project_032383/README.md) |
+| 032384 | [Power BI: Dashboard — Reporting for Single-Host Lab](Project_032384/README.md) |
+| 032385 | [Power BI: Dashboard — Usability Improvement for Single-Host Lab](Project_032385/README.md) |
+| 032386 | [Power BI: Dashboard — Baseline Setup for Two-Node Lab](Project_032386/README.md) |
+| 032387 | [Power BI: Dashboard — Automation for Two-Node Lab](Project_032387/README.md) |
+| 032388 | [Power BI: Dashboard — Recovery for Two-Node Lab](Project_032388/README.md) |
+| 032389 | [Power BI: Dashboard — Reporting for Two-Node Lab](Project_032389/README.md) |
+| 032390 | [Power BI: Dashboard — Usability Improvement for Two-Node Lab](Project_032390/README.md) |
+| 032391 | [Power BI: Dashboard — Baseline Setup for Help Desk](Project_032391/README.md) |
+| 032392 | [Power BI: Dashboard — Automation for Help Desk](Project_032392/README.md) |
+| 032393 | [Power BI: Dashboard — Recovery for Help Desk](Project_032393/README.md) |
+| 032394 | [Power BI: Dashboard — Reporting for Help Desk](Project_032394/README.md) |
+| 032395 | [Power BI: Dashboard — Usability Improvement for Help Desk](Project_032395/README.md) |
+| 032396 | [Power BI: Dashboard — Baseline Setup for Portfolio Demo](Project_032396/README.md) |
+| 032397 | [Power BI: Dashboard — Automation for Portfolio Demo](Project_032397/README.md) |
+| 032398 | [Power BI: Dashboard — Recovery for Portfolio Demo](Project_032398/README.md) |
+| 032399 | [Power BI: Dashboard — Reporting for Portfolio Demo](Project_032399/README.md) |
+| 032400 | [Power BI: Dashboard — Usability Improvement for Portfolio Demo](Project_032400/README.md) |
 
 [Back to the portfolio home](../README.md)
