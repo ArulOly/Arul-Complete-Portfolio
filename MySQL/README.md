@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026518 | [MySQL: Access Review — Recovery for Public Dataset](Project_026518/README.md) |
 | 026519 | [MySQL: Access Review — Reporting for Public Dataset](Project_026519/README.md) |
 | 026520 | [MySQL: Access Review — Usability Improvement for Public Dataset](Project_026520/README.md) |
+| 026521 | [MySQL: Access Review — Baseline Setup for Branch Office Simulator](Project_026521/README.md) |
+| 026522 | [MySQL: Access Review — Automation for Branch Office Simulator](Project_026522/README.md) |
+| 026523 | [MySQL: Access Review — Recovery for Branch Office Simulator](Project_026523/README.md) |
+| 026524 | [MySQL: Access Review — Reporting for Branch Office Simulator](Project_026524/README.md) |
+| 026525 | [MySQL: Access Review — Usability Improvement for Branch Office Simulator](Project_026525/README.md) |
+| 026526 | [MySQL: Access Review — Baseline Setup for Offline Classroom](Project_026526/README.md) |
+| 026527 | [MySQL: Access Review — Automation for Offline Classroom](Project_026527/README.md) |
+| 026528 | [MySQL: Access Review — Recovery for Offline Classroom](Project_026528/README.md) |
+| 026529 | [MySQL: Access Review — Reporting for Offline Classroom](Project_026529/README.md) |
+| 026530 | [MySQL: Access Review — Usability Improvement for Offline Classroom](Project_026530/README.md) |
+| 026531 | [MySQL: Access Review — Baseline Setup for Single-Host Lab](Project_026531/README.md) |
+| 026532 | [MySQL: Access Review — Automation for Single-Host Lab](Project_026532/README.md) |
+| 026533 | [MySQL: Access Review — Recovery for Single-Host Lab](Project_026533/README.md) |
+| 026534 | [MySQL: Access Review — Reporting for Single-Host Lab](Project_026534/README.md) |
+| 026535 | [MySQL: Access Review — Usability Improvement for Single-Host Lab](Project_026535/README.md) |
+| 026536 | [MySQL: Access Review — Baseline Setup for Two-Node Lab](Project_026536/README.md) |
+| 026537 | [MySQL: Access Review — Automation for Two-Node Lab](Project_026537/README.md) |
+| 026538 | [MySQL: Access Review — Recovery for Two-Node Lab](Project_026538/README.md) |
+| 026539 | [MySQL: Access Review — Reporting for Two-Node Lab](Project_026539/README.md) |
+| 026540 | [MySQL: Access Review — Usability Improvement for Two-Node Lab](Project_026540/README.md) |
 
 [Back to the portfolio home](../README.md)
