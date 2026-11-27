@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025758 | [PostgreSQL: Data Validation — Recovery for Small Business](Project_025758/README.md) |
 | 025759 | [PostgreSQL: Data Validation — Reporting for Small Business](Project_025759/README.md) |
 | 025760 | [PostgreSQL: Data Validation — Usability Improvement for Small Business](Project_025760/README.md) |
+| 025761 | [PostgreSQL: Data Validation — Baseline Setup for Home Development](Project_025761/README.md) |
+| 025762 | [PostgreSQL: Data Validation — Automation for Home Development](Project_025762/README.md) |
+| 025763 | [PostgreSQL: Data Validation — Recovery for Home Development](Project_025763/README.md) |
+| 025764 | [PostgreSQL: Data Validation — Reporting for Home Development](Project_025764/README.md) |
+| 025765 | [PostgreSQL: Data Validation — Usability Improvement for Home Development](Project_025765/README.md) |
+| 025766 | [PostgreSQL: Data Validation — Baseline Setup for Public Dataset](Project_025766/README.md) |
+| 025767 | [PostgreSQL: Data Validation — Automation for Public Dataset](Project_025767/README.md) |
+| 025768 | [PostgreSQL: Data Validation — Recovery for Public Dataset](Project_025768/README.md) |
+| 025769 | [PostgreSQL: Data Validation — Reporting for Public Dataset](Project_025769/README.md) |
+| 025770 | [PostgreSQL: Data Validation — Usability Improvement for Public Dataset](Project_025770/README.md) |
+| 025771 | [PostgreSQL: Data Validation — Baseline Setup for Branch Office Simulator](Project_025771/README.md) |
+| 025772 | [PostgreSQL: Data Validation — Automation for Branch Office Simulator](Project_025772/README.md) |
+| 025773 | [PostgreSQL: Data Validation — Recovery for Branch Office Simulator](Project_025773/README.md) |
+| 025774 | [PostgreSQL: Data Validation — Reporting for Branch Office Simulator](Project_025774/README.md) |
+| 025775 | [PostgreSQL: Data Validation — Usability Improvement for Branch Office Simulator](Project_025775/README.md) |
+| 025776 | [PostgreSQL: Data Validation — Baseline Setup for Offline Classroom](Project_025776/README.md) |
+| 025777 | [PostgreSQL: Data Validation — Automation for Offline Classroom](Project_025777/README.md) |
+| 025778 | [PostgreSQL: Data Validation — Recovery for Offline Classroom](Project_025778/README.md) |
+| 025779 | [PostgreSQL: Data Validation — Reporting for Offline Classroom](Project_025779/README.md) |
+| 025780 | [PostgreSQL: Data Validation — Usability Improvement for Offline Classroom](Project_025780/README.md) |
 
 [Back to the portfolio home](../README.md)
