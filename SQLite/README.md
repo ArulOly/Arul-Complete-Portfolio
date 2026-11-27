@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028678 | [SQLite: Configuration Comparison — Recovery for Offline Classroom](Project_028678/README.md) |
 | 028679 | [SQLite: Configuration Comparison — Reporting for Offline Classroom](Project_028679/README.md) |
 | 028680 | [SQLite: Configuration Comparison — Usability Improvement for Offline Classroom](Project_028680/README.md) |
+| 028681 | [SQLite: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_028681/README.md) |
+| 028682 | [SQLite: Configuration Comparison — Automation for Single-Host Lab](Project_028682/README.md) |
+| 028683 | [SQLite: Configuration Comparison — Recovery for Single-Host Lab](Project_028683/README.md) |
+| 028684 | [SQLite: Configuration Comparison — Reporting for Single-Host Lab](Project_028684/README.md) |
+| 028685 | [SQLite: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_028685/README.md) |
+| 028686 | [SQLite: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_028686/README.md) |
+| 028687 | [SQLite: Configuration Comparison — Automation for Two-Node Lab](Project_028687/README.md) |
+| 028688 | [SQLite: Configuration Comparison — Recovery for Two-Node Lab](Project_028688/README.md) |
+| 028689 | [SQLite: Configuration Comparison — Reporting for Two-Node Lab](Project_028689/README.md) |
+| 028690 | [SQLite: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_028690/README.md) |
+| 028691 | [SQLite: Configuration Comparison — Baseline Setup for Help Desk](Project_028691/README.md) |
+| 028692 | [SQLite: Configuration Comparison — Automation for Help Desk](Project_028692/README.md) |
+| 028693 | [SQLite: Configuration Comparison — Recovery for Help Desk](Project_028693/README.md) |
+| 028694 | [SQLite: Configuration Comparison — Reporting for Help Desk](Project_028694/README.md) |
+| 028695 | [SQLite: Configuration Comparison — Usability Improvement for Help Desk](Project_028695/README.md) |
+| 028696 | [SQLite: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_028696/README.md) |
+| 028697 | [SQLite: Configuration Comparison — Automation for Portfolio Demo](Project_028697/README.md) |
+| 028698 | [SQLite: Configuration Comparison — Recovery for Portfolio Demo](Project_028698/README.md) |
+| 028699 | [SQLite: Configuration Comparison — Reporting for Portfolio Demo](Project_028699/README.md) |
+| 028700 | [SQLite: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_028700/README.md) |
 
 [Back to the portfolio home](../README.md)
