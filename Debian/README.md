@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003398 | [Debian: Dashboard — Recovery for Portfolio Demo](Project_003398/README.md) |
 | 003399 | [Debian: Dashboard — Reporting for Portfolio Demo](Project_003399/README.md) |
 | 003400 | [Debian: Dashboard — Usability Improvement for Portfolio Demo](Project_003400/README.md) |
+| 003401 | [Debian: Alerting — Baseline Setup for School Lab](Project_003401/README.md) |
+| 003402 | [Debian: Alerting — Automation for School Lab](Project_003402/README.md) |
+| 003403 | [Debian: Alerting — Recovery for School Lab](Project_003403/README.md) |
+| 003404 | [Debian: Alerting — Reporting for School Lab](Project_003404/README.md) |
+| 003405 | [Debian: Alerting — Usability Improvement for School Lab](Project_003405/README.md) |
+| 003406 | [Debian: Alerting — Baseline Setup for Small Business](Project_003406/README.md) |
+| 003407 | [Debian: Alerting — Automation for Small Business](Project_003407/README.md) |
+| 003408 | [Debian: Alerting — Recovery for Small Business](Project_003408/README.md) |
+| 003409 | [Debian: Alerting — Reporting for Small Business](Project_003409/README.md) |
+| 003410 | [Debian: Alerting — Usability Improvement for Small Business](Project_003410/README.md) |
+| 003411 | [Debian: Alerting — Baseline Setup for Home Development](Project_003411/README.md) |
+| 003412 | [Debian: Alerting — Automation for Home Development](Project_003412/README.md) |
+| 003413 | [Debian: Alerting — Recovery for Home Development](Project_003413/README.md) |
+| 003414 | [Debian: Alerting — Reporting for Home Development](Project_003414/README.md) |
+| 003415 | [Debian: Alerting — Usability Improvement for Home Development](Project_003415/README.md) |
+| 003416 | [Debian: Alerting — Baseline Setup for Public Dataset](Project_003416/README.md) |
+| 003417 | [Debian: Alerting — Automation for Public Dataset](Project_003417/README.md) |
+| 003418 | [Debian: Alerting — Recovery for Public Dataset](Project_003418/README.md) |
+| 003419 | [Debian: Alerting — Reporting for Public Dataset](Project_003419/README.md) |
+| 003420 | [Debian: Alerting — Usability Improvement for Public Dataset](Project_003420/README.md) |
 
 [Back to the portfolio home](../README.md)
