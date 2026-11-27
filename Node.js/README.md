@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024518 | [Node.js: Access Review — Recovery for Public Dataset](Project_024518/README.md) |
 | 024519 | [Node.js: Access Review — Reporting for Public Dataset](Project_024519/README.md) |
 | 024520 | [Node.js: Access Review — Usability Improvement for Public Dataset](Project_024520/README.md) |
+| 024521 | [Node.js: Access Review — Baseline Setup for Branch Office Simulator](Project_024521/README.md) |
+| 024522 | [Node.js: Access Review — Automation for Branch Office Simulator](Project_024522/README.md) |
+| 024523 | [Node.js: Access Review — Recovery for Branch Office Simulator](Project_024523/README.md) |
+| 024524 | [Node.js: Access Review — Reporting for Branch Office Simulator](Project_024524/README.md) |
+| 024525 | [Node.js: Access Review — Usability Improvement for Branch Office Simulator](Project_024525/README.md) |
+| 024526 | [Node.js: Access Review — Baseline Setup for Offline Classroom](Project_024526/README.md) |
+| 024527 | [Node.js: Access Review — Automation for Offline Classroom](Project_024527/README.md) |
+| 024528 | [Node.js: Access Review — Recovery for Offline Classroom](Project_024528/README.md) |
+| 024529 | [Node.js: Access Review — Reporting for Offline Classroom](Project_024529/README.md) |
+| 024530 | [Node.js: Access Review — Usability Improvement for Offline Classroom](Project_024530/README.md) |
+| 024531 | [Node.js: Access Review — Baseline Setup for Single-Host Lab](Project_024531/README.md) |
+| 024532 | [Node.js: Access Review — Automation for Single-Host Lab](Project_024532/README.md) |
+| 024533 | [Node.js: Access Review — Recovery for Single-Host Lab](Project_024533/README.md) |
+| 024534 | [Node.js: Access Review — Reporting for Single-Host Lab](Project_024534/README.md) |
+| 024535 | [Node.js: Access Review — Usability Improvement for Single-Host Lab](Project_024535/README.md) |
+| 024536 | [Node.js: Access Review — Baseline Setup for Two-Node Lab](Project_024536/README.md) |
+| 024537 | [Node.js: Access Review — Automation for Two-Node Lab](Project_024537/README.md) |
+| 024538 | [Node.js: Access Review — Recovery for Two-Node Lab](Project_024538/README.md) |
+| 024539 | [Node.js: Access Review — Reporting for Two-Node Lab](Project_024539/README.md) |
+| 024540 | [Node.js: Access Review — Usability Improvement for Two-Node Lab](Project_024540/README.md) |
 
 [Back to the portfolio home](../README.md)
