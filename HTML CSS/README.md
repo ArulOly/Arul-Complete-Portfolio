@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023078 | [HTML CSS: Monitoring — Recovery for Offline Classroom](Project_023078/README.md) |
 | 023079 | [HTML CSS: Monitoring — Reporting for Offline Classroom](Project_023079/README.md) |
 | 023080 | [HTML CSS: Monitoring — Usability Improvement for Offline Classroom](Project_023080/README.md) |
+| 023081 | [HTML CSS: Monitoring — Baseline Setup for Single-Host Lab](Project_023081/README.md) |
+| 023082 | [HTML CSS: Monitoring — Automation for Single-Host Lab](Project_023082/README.md) |
+| 023083 | [HTML CSS: Monitoring — Recovery for Single-Host Lab](Project_023083/README.md) |
+| 023084 | [HTML CSS: Monitoring — Reporting for Single-Host Lab](Project_023084/README.md) |
+| 023085 | [HTML CSS: Monitoring — Usability Improvement for Single-Host Lab](Project_023085/README.md) |
+| 023086 | [HTML CSS: Monitoring — Baseline Setup for Two-Node Lab](Project_023086/README.md) |
+| 023087 | [HTML CSS: Monitoring — Automation for Two-Node Lab](Project_023087/README.md) |
+| 023088 | [HTML CSS: Monitoring — Recovery for Two-Node Lab](Project_023088/README.md) |
+| 023089 | [HTML CSS: Monitoring — Reporting for Two-Node Lab](Project_023089/README.md) |
+| 023090 | [HTML CSS: Monitoring — Usability Improvement for Two-Node Lab](Project_023090/README.md) |
+| 023091 | [HTML CSS: Monitoring — Baseline Setup for Help Desk](Project_023091/README.md) |
+| 023092 | [HTML CSS: Monitoring — Automation for Help Desk](Project_023092/README.md) |
+| 023093 | [HTML CSS: Monitoring — Recovery for Help Desk](Project_023093/README.md) |
+| 023094 | [HTML CSS: Monitoring — Reporting for Help Desk](Project_023094/README.md) |
+| 023095 | [HTML CSS: Monitoring — Usability Improvement for Help Desk](Project_023095/README.md) |
+| 023096 | [HTML CSS: Monitoring — Baseline Setup for Portfolio Demo](Project_023096/README.md) |
+| 023097 | [HTML CSS: Monitoring — Automation for Portfolio Demo](Project_023097/README.md) |
+| 023098 | [HTML CSS: Monitoring — Recovery for Portfolio Demo](Project_023098/README.md) |
+| 023099 | [HTML CSS: Monitoring — Reporting for Portfolio Demo](Project_023099/README.md) |
+| 023100 | [HTML CSS: Monitoring — Usability Improvement for Portfolio Demo](Project_023100/README.md) |
 
 [Back to the portfolio home](../README.md)
