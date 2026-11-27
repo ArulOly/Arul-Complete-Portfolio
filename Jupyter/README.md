@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033138 | [Jupyter: Audit — Recovery for Two-Node Lab](Project_033138/README.md) |
 | 033139 | [Jupyter: Audit — Reporting for Two-Node Lab](Project_033139/README.md) |
 | 033140 | [Jupyter: Audit — Usability Improvement for Two-Node Lab](Project_033140/README.md) |
+| 033141 | [Jupyter: Audit — Baseline Setup for Help Desk](Project_033141/README.md) |
+| 033142 | [Jupyter: Audit — Automation for Help Desk](Project_033142/README.md) |
+| 033143 | [Jupyter: Audit — Recovery for Help Desk](Project_033143/README.md) |
+| 033144 | [Jupyter: Audit — Reporting for Help Desk](Project_033144/README.md) |
+| 033145 | [Jupyter: Audit — Usability Improvement for Help Desk](Project_033145/README.md) |
+| 033146 | [Jupyter: Audit — Baseline Setup for Portfolio Demo](Project_033146/README.md) |
+| 033147 | [Jupyter: Audit — Automation for Portfolio Demo](Project_033147/README.md) |
+| 033148 | [Jupyter: Audit — Recovery for Portfolio Demo](Project_033148/README.md) |
+| 033149 | [Jupyter: Audit — Reporting for Portfolio Demo](Project_033149/README.md) |
+| 033150 | [Jupyter: Audit — Usability Improvement for Portfolio Demo](Project_033150/README.md) |
+| 033151 | [Jupyter: Log Analysis — Baseline Setup for School Lab](Project_033151/README.md) |
+| 033152 | [Jupyter: Log Analysis — Automation for School Lab](Project_033152/README.md) |
+| 033153 | [Jupyter: Log Analysis — Recovery for School Lab](Project_033153/README.md) |
+| 033154 | [Jupyter: Log Analysis — Reporting for School Lab](Project_033154/README.md) |
+| 033155 | [Jupyter: Log Analysis — Usability Improvement for School Lab](Project_033155/README.md) |
+| 033156 | [Jupyter: Log Analysis — Baseline Setup for Small Business](Project_033156/README.md) |
+| 033157 | [Jupyter: Log Analysis — Automation for Small Business](Project_033157/README.md) |
+| 033158 | [Jupyter: Log Analysis — Recovery for Small Business](Project_033158/README.md) |
+| 033159 | [Jupyter: Log Analysis — Reporting for Small Business](Project_033159/README.md) |
+| 033160 | [Jupyter: Log Analysis — Usability Improvement for Small Business](Project_033160/README.md) |
 
 [Back to the portfolio home](../README.md)
