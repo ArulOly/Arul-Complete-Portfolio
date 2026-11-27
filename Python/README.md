@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -524,5 +524,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019478 | [Python: Scheduled Reporting — Recovery for Offline Classroom](Project_019478/README.md) |
 | 019479 | [Python: Scheduled Reporting — Reporting for Offline Classroom](Project_019479/README.md) |
 | 019480 | [Python: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_019480/README.md) |
+| 019481 | [Python: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_019481/README.md) |
+| 019482 | [Python: Scheduled Reporting — Automation for Single-Host Lab](Project_019482/README.md) |
+| 019483 | [Python: Scheduled Reporting — Recovery for Single-Host Lab](Project_019483/README.md) |
+| 019484 | [Python: Scheduled Reporting — Reporting for Single-Host Lab](Project_019484/README.md) |
+| 019485 | [Python: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_019485/README.md) |
+| 019486 | [Python: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_019486/README.md) |
+| 019487 | [Python: Scheduled Reporting — Automation for Two-Node Lab](Project_019487/README.md) |
+| 019488 | [Python: Scheduled Reporting — Recovery for Two-Node Lab](Project_019488/README.md) |
+| 019489 | [Python: Scheduled Reporting — Reporting for Two-Node Lab](Project_019489/README.md) |
+| 019490 | [Python: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_019490/README.md) |
+| 019491 | [Python: Scheduled Reporting — Baseline Setup for Help Desk](Project_019491/README.md) |
+| 019492 | [Python: Scheduled Reporting — Automation for Help Desk](Project_019492/README.md) |
+| 019493 | [Python: Scheduled Reporting — Recovery for Help Desk](Project_019493/README.md) |
+| 019494 | [Python: Scheduled Reporting — Reporting for Help Desk](Project_019494/README.md) |
+| 019495 | [Python: Scheduled Reporting — Usability Improvement for Help Desk](Project_019495/README.md) |
+| 019496 | [Python: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_019496/README.md) |
+| 019497 | [Python: Scheduled Reporting — Automation for Portfolio Demo](Project_019497/README.md) |
+| 019498 | [Python: Scheduled Reporting — Recovery for Portfolio Demo](Project_019498/README.md) |
+| 019499 | [Python: Scheduled Reporting — Reporting for Portfolio Demo](Project_019499/README.md) |
+| 019500 | [Python: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_019500/README.md) |
 
 [Back to the portfolio home](../README.md)
