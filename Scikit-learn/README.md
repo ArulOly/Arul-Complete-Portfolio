@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034758 | [Scikit-learn: Data Validation — Recovery for Small Business](Project_034758/README.md) |
 | 034759 | [Scikit-learn: Data Validation — Reporting for Small Business](Project_034759/README.md) |
 | 034760 | [Scikit-learn: Data Validation — Usability Improvement for Small Business](Project_034760/README.md) |
+| 034761 | [Scikit-learn: Data Validation — Baseline Setup for Home Development](Project_034761/README.md) |
+| 034762 | [Scikit-learn: Data Validation — Automation for Home Development](Project_034762/README.md) |
+| 034763 | [Scikit-learn: Data Validation — Recovery for Home Development](Project_034763/README.md) |
+| 034764 | [Scikit-learn: Data Validation — Reporting for Home Development](Project_034764/README.md) |
+| 034765 | [Scikit-learn: Data Validation — Usability Improvement for Home Development](Project_034765/README.md) |
+| 034766 | [Scikit-learn: Data Validation — Baseline Setup for Public Dataset](Project_034766/README.md) |
+| 034767 | [Scikit-learn: Data Validation — Automation for Public Dataset](Project_034767/README.md) |
+| 034768 | [Scikit-learn: Data Validation — Recovery for Public Dataset](Project_034768/README.md) |
+| 034769 | [Scikit-learn: Data Validation — Reporting for Public Dataset](Project_034769/README.md) |
+| 034770 | [Scikit-learn: Data Validation — Usability Improvement for Public Dataset](Project_034770/README.md) |
+| 034771 | [Scikit-learn: Data Validation — Baseline Setup for Branch Office Simulator](Project_034771/README.md) |
+| 034772 | [Scikit-learn: Data Validation — Automation for Branch Office Simulator](Project_034772/README.md) |
+| 034773 | [Scikit-learn: Data Validation — Recovery for Branch Office Simulator](Project_034773/README.md) |
+| 034774 | [Scikit-learn: Data Validation — Reporting for Branch Office Simulator](Project_034774/README.md) |
+| 034775 | [Scikit-learn: Data Validation — Usability Improvement for Branch Office Simulator](Project_034775/README.md) |
+| 034776 | [Scikit-learn: Data Validation — Baseline Setup for Offline Classroom](Project_034776/README.md) |
+| 034777 | [Scikit-learn: Data Validation — Automation for Offline Classroom](Project_034777/README.md) |
+| 034778 | [Scikit-learn: Data Validation — Recovery for Offline Classroom](Project_034778/README.md) |
+| 034779 | [Scikit-learn: Data Validation — Reporting for Offline Classroom](Project_034779/README.md) |
+| 034780 | [Scikit-learn: Data Validation — Usability Improvement for Offline Classroom](Project_034780/README.md) |
 
 [Back to the portfolio home](../README.md)
