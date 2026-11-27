@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045918 | [Redis: Visual Reporting — Recovery for Public Dataset](Project_045918/README.md) |
 | 045919 | [Redis: Visual Reporting — Reporting for Public Dataset](Project_045919/README.md) |
 | 045920 | [Redis: Visual Reporting — Usability Improvement for Public Dataset](Project_045920/README.md) |
+| 045921 | [Redis: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_045921/README.md) |
+| 045922 | [Redis: Visual Reporting — Automation for Branch Office Simulator](Project_045922/README.md) |
+| 045923 | [Redis: Visual Reporting — Recovery for Branch Office Simulator](Project_045923/README.md) |
+| 045924 | [Redis: Visual Reporting — Reporting for Branch Office Simulator](Project_045924/README.md) |
+| 045925 | [Redis: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_045925/README.md) |
+| 045926 | [Redis: Visual Reporting — Baseline Setup for Offline Classroom](Project_045926/README.md) |
+| 045927 | [Redis: Visual Reporting — Automation for Offline Classroom](Project_045927/README.md) |
+| 045928 | [Redis: Visual Reporting — Recovery for Offline Classroom](Project_045928/README.md) |
+| 045929 | [Redis: Visual Reporting — Reporting for Offline Classroom](Project_045929/README.md) |
+| 045930 | [Redis: Visual Reporting — Usability Improvement for Offline Classroom](Project_045930/README.md) |
+| 045931 | [Redis: Visual Reporting — Baseline Setup for Single-Host Lab](Project_045931/README.md) |
+| 045932 | [Redis: Visual Reporting — Automation for Single-Host Lab](Project_045932/README.md) |
+| 045933 | [Redis: Visual Reporting — Recovery for Single-Host Lab](Project_045933/README.md) |
+| 045934 | [Redis: Visual Reporting — Reporting for Single-Host Lab](Project_045934/README.md) |
+| 045935 | [Redis: Visual Reporting — Usability Improvement for Single-Host Lab](Project_045935/README.md) |
+| 045936 | [Redis: Visual Reporting — Baseline Setup for Two-Node Lab](Project_045936/README.md) |
+| 045937 | [Redis: Visual Reporting — Automation for Two-Node Lab](Project_045937/README.md) |
+| 045938 | [Redis: Visual Reporting — Recovery for Two-Node Lab](Project_045938/README.md) |
+| 045939 | [Redis: Visual Reporting — Reporting for Two-Node Lab](Project_045939/README.md) |
+| 045940 | [Redis: Visual Reporting — Usability Improvement for Two-Node Lab](Project_045940/README.md) |
 
 [Back to the portfolio home](../README.md)
