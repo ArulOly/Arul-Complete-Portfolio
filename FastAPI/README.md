@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049398 | [FastAPI: Dashboard — Recovery for Portfolio Demo](Project_049398/README.md) |
 | 049399 | [FastAPI: Dashboard — Reporting for Portfolio Demo](Project_049399/README.md) |
 | 049400 | [FastAPI: Dashboard — Usability Improvement for Portfolio Demo](Project_049400/README.md) |
+| 049401 | [FastAPI: Alerting — Baseline Setup for School Lab](Project_049401/README.md) |
+| 049402 | [FastAPI: Alerting — Automation for School Lab](Project_049402/README.md) |
+| 049403 | [FastAPI: Alerting — Recovery for School Lab](Project_049403/README.md) |
+| 049404 | [FastAPI: Alerting — Reporting for School Lab](Project_049404/README.md) |
+| 049405 | [FastAPI: Alerting — Usability Improvement for School Lab](Project_049405/README.md) |
+| 049406 | [FastAPI: Alerting — Baseline Setup for Small Business](Project_049406/README.md) |
+| 049407 | [FastAPI: Alerting — Automation for Small Business](Project_049407/README.md) |
+| 049408 | [FastAPI: Alerting — Recovery for Small Business](Project_049408/README.md) |
+| 049409 | [FastAPI: Alerting — Reporting for Small Business](Project_049409/README.md) |
+| 049410 | [FastAPI: Alerting — Usability Improvement for Small Business](Project_049410/README.md) |
+| 049411 | [FastAPI: Alerting — Baseline Setup for Home Development](Project_049411/README.md) |
+| 049412 | [FastAPI: Alerting — Automation for Home Development](Project_049412/README.md) |
+| 049413 | [FastAPI: Alerting — Recovery for Home Development](Project_049413/README.md) |
+| 049414 | [FastAPI: Alerting — Reporting for Home Development](Project_049414/README.md) |
+| 049415 | [FastAPI: Alerting — Usability Improvement for Home Development](Project_049415/README.md) |
+| 049416 | [FastAPI: Alerting — Baseline Setup for Public Dataset](Project_049416/README.md) |
+| 049417 | [FastAPI: Alerting — Automation for Public Dataset](Project_049417/README.md) |
+| 049418 | [FastAPI: Alerting — Recovery for Public Dataset](Project_049418/README.md) |
+| 049419 | [FastAPI: Alerting — Reporting for Public Dataset](Project_049419/README.md) |
+| 049420 | [FastAPI: Alerting — Usability Improvement for Public Dataset](Project_049420/README.md) |
 
 [Back to the portfolio home](../README.md)
