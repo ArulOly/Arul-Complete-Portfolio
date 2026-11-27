@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026618 | [MySQL: Service Check — Recovery for Public Dataset](Project_026618/README.md) |
 | 026619 | [MySQL: Service Check — Reporting for Public Dataset](Project_026619/README.md) |
 | 026620 | [MySQL: Service Check — Usability Improvement for Public Dataset](Project_026620/README.md) |
+| 026621 | [MySQL: Service Check — Baseline Setup for Branch Office Simulator](Project_026621/README.md) |
+| 026622 | [MySQL: Service Check — Automation for Branch Office Simulator](Project_026622/README.md) |
+| 026623 | [MySQL: Service Check — Recovery for Branch Office Simulator](Project_026623/README.md) |
+| 026624 | [MySQL: Service Check — Reporting for Branch Office Simulator](Project_026624/README.md) |
+| 026625 | [MySQL: Service Check — Usability Improvement for Branch Office Simulator](Project_026625/README.md) |
+| 026626 | [MySQL: Service Check — Baseline Setup for Offline Classroom](Project_026626/README.md) |
+| 026627 | [MySQL: Service Check — Automation for Offline Classroom](Project_026627/README.md) |
+| 026628 | [MySQL: Service Check — Recovery for Offline Classroom](Project_026628/README.md) |
+| 026629 | [MySQL: Service Check — Reporting for Offline Classroom](Project_026629/README.md) |
+| 026630 | [MySQL: Service Check — Usability Improvement for Offline Classroom](Project_026630/README.md) |
+| 026631 | [MySQL: Service Check — Baseline Setup for Single-Host Lab](Project_026631/README.md) |
+| 026632 | [MySQL: Service Check — Automation for Single-Host Lab](Project_026632/README.md) |
+| 026633 | [MySQL: Service Check — Recovery for Single-Host Lab](Project_026633/README.md) |
+| 026634 | [MySQL: Service Check — Reporting for Single-Host Lab](Project_026634/README.md) |
+| 026635 | [MySQL: Service Check — Usability Improvement for Single-Host Lab](Project_026635/README.md) |
+| 026636 | [MySQL: Service Check — Baseline Setup for Two-Node Lab](Project_026636/README.md) |
+| 026637 | [MySQL: Service Check — Automation for Two-Node Lab](Project_026637/README.md) |
+| 026638 | [MySQL: Service Check — Recovery for Two-Node Lab](Project_026638/README.md) |
+| 026639 | [MySQL: Service Check — Reporting for Two-Node Lab](Project_026639/README.md) |
+| 026640 | [MySQL: Service Check — Usability Improvement for Two-Node Lab](Project_026640/README.md) |
 
 [Back to the portfolio home](../README.md)
