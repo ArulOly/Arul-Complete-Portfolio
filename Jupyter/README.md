@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033118 | [Jupyter: Audit — Recovery for Public Dataset](Project_033118/README.md) |
 | 033119 | [Jupyter: Audit — Reporting for Public Dataset](Project_033119/README.md) |
 | 033120 | [Jupyter: Audit — Usability Improvement for Public Dataset](Project_033120/README.md) |
+| 033121 | [Jupyter: Audit — Baseline Setup for Branch Office Simulator](Project_033121/README.md) |
+| 033122 | [Jupyter: Audit — Automation for Branch Office Simulator](Project_033122/README.md) |
+| 033123 | [Jupyter: Audit — Recovery for Branch Office Simulator](Project_033123/README.md) |
+| 033124 | [Jupyter: Audit — Reporting for Branch Office Simulator](Project_033124/README.md) |
+| 033125 | [Jupyter: Audit — Usability Improvement for Branch Office Simulator](Project_033125/README.md) |
+| 033126 | [Jupyter: Audit — Baseline Setup for Offline Classroom](Project_033126/README.md) |
+| 033127 | [Jupyter: Audit — Automation for Offline Classroom](Project_033127/README.md) |
+| 033128 | [Jupyter: Audit — Recovery for Offline Classroom](Project_033128/README.md) |
+| 033129 | [Jupyter: Audit — Reporting for Offline Classroom](Project_033129/README.md) |
+| 033130 | [Jupyter: Audit — Usability Improvement for Offline Classroom](Project_033130/README.md) |
+| 033131 | [Jupyter: Audit — Baseline Setup for Single-Host Lab](Project_033131/README.md) |
+| 033132 | [Jupyter: Audit — Automation for Single-Host Lab](Project_033132/README.md) |
+| 033133 | [Jupyter: Audit — Recovery for Single-Host Lab](Project_033133/README.md) |
+| 033134 | [Jupyter: Audit — Reporting for Single-Host Lab](Project_033134/README.md) |
+| 033135 | [Jupyter: Audit — Usability Improvement for Single-Host Lab](Project_033135/README.md) |
+| 033136 | [Jupyter: Audit — Baseline Setup for Two-Node Lab](Project_033136/README.md) |
+| 033137 | [Jupyter: Audit — Automation for Two-Node Lab](Project_033137/README.md) |
+| 033138 | [Jupyter: Audit — Recovery for Two-Node Lab](Project_033138/README.md) |
+| 033139 | [Jupyter: Audit — Reporting for Two-Node Lab](Project_033139/README.md) |
+| 033140 | [Jupyter: Audit — Usability Improvement for Two-Node Lab](Project_033140/README.md) |
 
 [Back to the portfolio home](../README.md)
