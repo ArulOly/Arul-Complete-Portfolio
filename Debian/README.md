@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003898 | [Debian: Automation — Recovery for Portfolio Demo](Project_003898/README.md) |
 | 003899 | [Debian: Automation — Reporting for Portfolio Demo](Project_003899/README.md) |
 | 003900 | [Debian: Automation — Usability Improvement for Portfolio Demo](Project_003900/README.md) |
+| 003901 | [Debian: Visual Reporting — Baseline Setup for School Lab](Project_003901/README.md) |
+| 003902 | [Debian: Visual Reporting — Automation for School Lab](Project_003902/README.md) |
+| 003903 | [Debian: Visual Reporting — Recovery for School Lab](Project_003903/README.md) |
+| 003904 | [Debian: Visual Reporting — Reporting for School Lab](Project_003904/README.md) |
+| 003905 | [Debian: Visual Reporting — Usability Improvement for School Lab](Project_003905/README.md) |
+| 003906 | [Debian: Visual Reporting — Baseline Setup for Small Business](Project_003906/README.md) |
+| 003907 | [Debian: Visual Reporting — Automation for Small Business](Project_003907/README.md) |
+| 003908 | [Debian: Visual Reporting — Recovery for Small Business](Project_003908/README.md) |
+| 003909 | [Debian: Visual Reporting — Reporting for Small Business](Project_003909/README.md) |
+| 003910 | [Debian: Visual Reporting — Usability Improvement for Small Business](Project_003910/README.md) |
+| 003911 | [Debian: Visual Reporting — Baseline Setup for Home Development](Project_003911/README.md) |
+| 003912 | [Debian: Visual Reporting — Automation for Home Development](Project_003912/README.md) |
+| 003913 | [Debian: Visual Reporting — Recovery for Home Development](Project_003913/README.md) |
+| 003914 | [Debian: Visual Reporting — Reporting for Home Development](Project_003914/README.md) |
+| 003915 | [Debian: Visual Reporting — Usability Improvement for Home Development](Project_003915/README.md) |
+| 003916 | [Debian: Visual Reporting — Baseline Setup for Public Dataset](Project_003916/README.md) |
+| 003917 | [Debian: Visual Reporting — Automation for Public Dataset](Project_003917/README.md) |
+| 003918 | [Debian: Visual Reporting — Recovery for Public Dataset](Project_003918/README.md) |
+| 003919 | [Debian: Visual Reporting — Reporting for Public Dataset](Project_003919/README.md) |
+| 003920 | [Debian: Visual Reporting — Usability Improvement for Public Dataset](Project_003920/README.md) |
 
 [Back to the portfolio home](../README.md)
