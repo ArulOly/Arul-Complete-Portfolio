@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023838 | [HTML CSS: Documentation Generation — Recovery for Two-Node Lab](Project_023838/README.md) |
 | 023839 | [HTML CSS: Documentation Generation — Reporting for Two-Node Lab](Project_023839/README.md) |
 | 023840 | [HTML CSS: Documentation Generation — Usability Improvement for Two-Node Lab](Project_023840/README.md) |
+| 023841 | [HTML CSS: Documentation Generation — Baseline Setup for Help Desk](Project_023841/README.md) |
+| 023842 | [HTML CSS: Documentation Generation — Automation for Help Desk](Project_023842/README.md) |
+| 023843 | [HTML CSS: Documentation Generation — Recovery for Help Desk](Project_023843/README.md) |
+| 023844 | [HTML CSS: Documentation Generation — Reporting for Help Desk](Project_023844/README.md) |
+| 023845 | [HTML CSS: Documentation Generation — Usability Improvement for Help Desk](Project_023845/README.md) |
+| 023846 | [HTML CSS: Documentation Generation — Baseline Setup for Portfolio Demo](Project_023846/README.md) |
+| 023847 | [HTML CSS: Documentation Generation — Automation for Portfolio Demo](Project_023847/README.md) |
+| 023848 | [HTML CSS: Documentation Generation — Recovery for Portfolio Demo](Project_023848/README.md) |
+| 023849 | [HTML CSS: Documentation Generation — Reporting for Portfolio Demo](Project_023849/README.md) |
+| 023850 | [HTML CSS: Documentation Generation — Usability Improvement for Portfolio Demo](Project_023850/README.md) |
+| 023851 | [HTML CSS: Automation — Baseline Setup for School Lab](Project_023851/README.md) |
+| 023852 | [HTML CSS: Automation — Automation for School Lab](Project_023852/README.md) |
+| 023853 | [HTML CSS: Automation — Recovery for School Lab](Project_023853/README.md) |
+| 023854 | [HTML CSS: Automation — Reporting for School Lab](Project_023854/README.md) |
+| 023855 | [HTML CSS: Automation — Usability Improvement for School Lab](Project_023855/README.md) |
+| 023856 | [HTML CSS: Automation — Baseline Setup for Small Business](Project_023856/README.md) |
+| 023857 | [HTML CSS: Automation — Automation for Small Business](Project_023857/README.md) |
+| 023858 | [HTML CSS: Automation — Recovery for Small Business](Project_023858/README.md) |
+| 023859 | [HTML CSS: Automation — Reporting for Small Business](Project_023859/README.md) |
+| 023860 | [HTML CSS: Automation — Usability Improvement for Small Business](Project_023860/README.md) |
 
 [Back to the portfolio home](../README.md)
