@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -224,5 +224,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019178 | [Python: Log Analysis — Recovery for Offline Classroom](Project_019178/README.md) |
 | 019179 | [Python: Log Analysis — Reporting for Offline Classroom](Project_019179/README.md) |
 | 019180 | [Python: Log Analysis — Usability Improvement for Offline Classroom](Project_019180/README.md) |
+| 019181 | [Python: Log Analysis — Baseline Setup for Single-Host Lab](Project_019181/README.md) |
+| 019182 | [Python: Log Analysis — Automation for Single-Host Lab](Project_019182/README.md) |
+| 019183 | [Python: Log Analysis — Recovery for Single-Host Lab](Project_019183/README.md) |
+| 019184 | [Python: Log Analysis — Reporting for Single-Host Lab](Project_019184/README.md) |
+| 019185 | [Python: Log Analysis — Usability Improvement for Single-Host Lab](Project_019185/README.md) |
+| 019186 | [Python: Log Analysis — Baseline Setup for Two-Node Lab](Project_019186/README.md) |
+| 019187 | [Python: Log Analysis — Automation for Two-Node Lab](Project_019187/README.md) |
+| 019188 | [Python: Log Analysis — Recovery for Two-Node Lab](Project_019188/README.md) |
+| 019189 | [Python: Log Analysis — Reporting for Two-Node Lab](Project_019189/README.md) |
+| 019190 | [Python: Log Analysis — Usability Improvement for Two-Node Lab](Project_019190/README.md) |
+| 019191 | [Python: Log Analysis — Baseline Setup for Help Desk](Project_019191/README.md) |
+| 019192 | [Python: Log Analysis — Automation for Help Desk](Project_019192/README.md) |
+| 019193 | [Python: Log Analysis — Recovery for Help Desk](Project_019193/README.md) |
+| 019194 | [Python: Log Analysis — Reporting for Help Desk](Project_019194/README.md) |
+| 019195 | [Python: Log Analysis — Usability Improvement for Help Desk](Project_019195/README.md) |
+| 019196 | [Python: Log Analysis — Baseline Setup for Portfolio Demo](Project_019196/README.md) |
+| 019197 | [Python: Log Analysis — Automation for Portfolio Demo](Project_019197/README.md) |
+| 019198 | [Python: Log Analysis — Recovery for Portfolio Demo](Project_019198/README.md) |
+| 019199 | [Python: Log Analysis — Reporting for Portfolio Demo](Project_019199/README.md) |
+| 019200 | [Python: Log Analysis — Usability Improvement for Portfolio Demo](Project_019200/README.md) |
 
 [Back to the portfolio home](../README.md)
