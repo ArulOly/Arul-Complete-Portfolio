@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048938 | [Flask: Visual Reporting — Recovery for Two-Node Lab](Project_048938/README.md) |
 | 048939 | [Flask: Visual Reporting — Reporting for Two-Node Lab](Project_048939/README.md) |
 | 048940 | [Flask: Visual Reporting — Usability Improvement for Two-Node Lab](Project_048940/README.md) |
+| 048941 | [Flask: Visual Reporting — Baseline Setup for Help Desk](Project_048941/README.md) |
+| 048942 | [Flask: Visual Reporting — Automation for Help Desk](Project_048942/README.md) |
+| 048943 | [Flask: Visual Reporting — Recovery for Help Desk](Project_048943/README.md) |
+| 048944 | [Flask: Visual Reporting — Reporting for Help Desk](Project_048944/README.md) |
+| 048945 | [Flask: Visual Reporting — Usability Improvement for Help Desk](Project_048945/README.md) |
+| 048946 | [Flask: Visual Reporting — Baseline Setup for Portfolio Demo](Project_048946/README.md) |
+| 048947 | [Flask: Visual Reporting — Automation for Portfolio Demo](Project_048947/README.md) |
+| 048948 | [Flask: Visual Reporting — Recovery for Portfolio Demo](Project_048948/README.md) |
+| 048949 | [Flask: Visual Reporting — Reporting for Portfolio Demo](Project_048949/README.md) |
+| 048950 | [Flask: Visual Reporting — Usability Improvement for Portfolio Demo](Project_048950/README.md) |
+| 048951 | [Flask: Recovery Test — Baseline Setup for School Lab](Project_048951/README.md) |
+| 048952 | [Flask: Recovery Test — Automation for School Lab](Project_048952/README.md) |
+| 048953 | [Flask: Recovery Test — Recovery for School Lab](Project_048953/README.md) |
+| 048954 | [Flask: Recovery Test — Reporting for School Lab](Project_048954/README.md) |
+| 048955 | [Flask: Recovery Test — Usability Improvement for School Lab](Project_048955/README.md) |
+| 048956 | [Flask: Recovery Test — Baseline Setup for Small Business](Project_048956/README.md) |
+| 048957 | [Flask: Recovery Test — Automation for Small Business](Project_048957/README.md) |
+| 048958 | [Flask: Recovery Test — Recovery for Small Business](Project_048958/README.md) |
+| 048959 | [Flask: Recovery Test — Reporting for Small Business](Project_048959/README.md) |
+| 048960 | [Flask: Recovery Test — Usability Improvement for Small Business](Project_048960/README.md) |
 
 [Back to the portfolio home](../README.md)
