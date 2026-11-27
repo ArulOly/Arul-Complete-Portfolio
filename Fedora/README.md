@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004678 | [Fedora: Configuration Comparison — Recovery for Offline Classroom](Project_004678/README.md) |
 | 004679 | [Fedora: Configuration Comparison — Reporting for Offline Classroom](Project_004679/README.md) |
 | 004680 | [Fedora: Configuration Comparison — Usability Improvement for Offline Classroom](Project_004680/README.md) |
+| 004681 | [Fedora: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_004681/README.md) |
+| 004682 | [Fedora: Configuration Comparison — Automation for Single-Host Lab](Project_004682/README.md) |
+| 004683 | [Fedora: Configuration Comparison — Recovery for Single-Host Lab](Project_004683/README.md) |
+| 004684 | [Fedora: Configuration Comparison — Reporting for Single-Host Lab](Project_004684/README.md) |
+| 004685 | [Fedora: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_004685/README.md) |
+| 004686 | [Fedora: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_004686/README.md) |
+| 004687 | [Fedora: Configuration Comparison — Automation for Two-Node Lab](Project_004687/README.md) |
+| 004688 | [Fedora: Configuration Comparison — Recovery for Two-Node Lab](Project_004688/README.md) |
+| 004689 | [Fedora: Configuration Comparison — Reporting for Two-Node Lab](Project_004689/README.md) |
+| 004690 | [Fedora: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_004690/README.md) |
+| 004691 | [Fedora: Configuration Comparison — Baseline Setup for Help Desk](Project_004691/README.md) |
+| 004692 | [Fedora: Configuration Comparison — Automation for Help Desk](Project_004692/README.md) |
+| 004693 | [Fedora: Configuration Comparison — Recovery for Help Desk](Project_004693/README.md) |
+| 004694 | [Fedora: Configuration Comparison — Reporting for Help Desk](Project_004694/README.md) |
+| 004695 | [Fedora: Configuration Comparison — Usability Improvement for Help Desk](Project_004695/README.md) |
+| 004696 | [Fedora: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_004696/README.md) |
+| 004697 | [Fedora: Configuration Comparison — Automation for Portfolio Demo](Project_004697/README.md) |
+| 004698 | [Fedora: Configuration Comparison — Recovery for Portfolio Demo](Project_004698/README.md) |
+| 004699 | [Fedora: Configuration Comparison — Reporting for Portfolio Demo](Project_004699/README.md) |
+| 004700 | [Fedora: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_004700/README.md) |
 
 [Back to the portfolio home](../README.md)
