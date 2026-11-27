@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033318 | [Jupyter: Data Export — Recovery for Public Dataset](Project_033318/README.md) |
 | 033319 | [Jupyter: Data Export — Reporting for Public Dataset](Project_033319/README.md) |
 | 033320 | [Jupyter: Data Export — Usability Improvement for Public Dataset](Project_033320/README.md) |
+| 033321 | [Jupyter: Data Export — Baseline Setup for Branch Office Simulator](Project_033321/README.md) |
+| 033322 | [Jupyter: Data Export — Automation for Branch Office Simulator](Project_033322/README.md) |
+| 033323 | [Jupyter: Data Export — Recovery for Branch Office Simulator](Project_033323/README.md) |
+| 033324 | [Jupyter: Data Export — Reporting for Branch Office Simulator](Project_033324/README.md) |
+| 033325 | [Jupyter: Data Export — Usability Improvement for Branch Office Simulator](Project_033325/README.md) |
+| 033326 | [Jupyter: Data Export — Baseline Setup for Offline Classroom](Project_033326/README.md) |
+| 033327 | [Jupyter: Data Export — Automation for Offline Classroom](Project_033327/README.md) |
+| 033328 | [Jupyter: Data Export — Recovery for Offline Classroom](Project_033328/README.md) |
+| 033329 | [Jupyter: Data Export — Reporting for Offline Classroom](Project_033329/README.md) |
+| 033330 | [Jupyter: Data Export — Usability Improvement for Offline Classroom](Project_033330/README.md) |
+| 033331 | [Jupyter: Data Export — Baseline Setup for Single-Host Lab](Project_033331/README.md) |
+| 033332 | [Jupyter: Data Export — Automation for Single-Host Lab](Project_033332/README.md) |
+| 033333 | [Jupyter: Data Export — Recovery for Single-Host Lab](Project_033333/README.md) |
+| 033334 | [Jupyter: Data Export — Reporting for Single-Host Lab](Project_033334/README.md) |
+| 033335 | [Jupyter: Data Export — Usability Improvement for Single-Host Lab](Project_033335/README.md) |
+| 033336 | [Jupyter: Data Export — Baseline Setup for Two-Node Lab](Project_033336/README.md) |
+| 033337 | [Jupyter: Data Export — Automation for Two-Node Lab](Project_033337/README.md) |
+| 033338 | [Jupyter: Data Export — Recovery for Two-Node Lab](Project_033338/README.md) |
+| 033339 | [Jupyter: Data Export — Reporting for Two-Node Lab](Project_033339/README.md) |
+| 033340 | [Jupyter: Data Export — Usability Improvement for Two-Node Lab](Project_033340/README.md) |
 
 [Back to the portfolio home](../README.md)
