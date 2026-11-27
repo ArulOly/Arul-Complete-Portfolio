@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025158 | [PostgreSQL: Log Analysis — Recovery for Small Business](Project_025158/README.md) |
 | 025159 | [PostgreSQL: Log Analysis — Reporting for Small Business](Project_025159/README.md) |
 | 025160 | [PostgreSQL: Log Analysis — Usability Improvement for Small Business](Project_025160/README.md) |
+| 025161 | [PostgreSQL: Log Analysis — Baseline Setup for Home Development](Project_025161/README.md) |
+| 025162 | [PostgreSQL: Log Analysis — Automation for Home Development](Project_025162/README.md) |
+| 025163 | [PostgreSQL: Log Analysis — Recovery for Home Development](Project_025163/README.md) |
+| 025164 | [PostgreSQL: Log Analysis — Reporting for Home Development](Project_025164/README.md) |
+| 025165 | [PostgreSQL: Log Analysis — Usability Improvement for Home Development](Project_025165/README.md) |
+| 025166 | [PostgreSQL: Log Analysis — Baseline Setup for Public Dataset](Project_025166/README.md) |
+| 025167 | [PostgreSQL: Log Analysis — Automation for Public Dataset](Project_025167/README.md) |
+| 025168 | [PostgreSQL: Log Analysis — Recovery for Public Dataset](Project_025168/README.md) |
+| 025169 | [PostgreSQL: Log Analysis — Reporting for Public Dataset](Project_025169/README.md) |
+| 025170 | [PostgreSQL: Log Analysis — Usability Improvement for Public Dataset](Project_025170/README.md) |
+| 025171 | [PostgreSQL: Log Analysis — Baseline Setup for Branch Office Simulator](Project_025171/README.md) |
+| 025172 | [PostgreSQL: Log Analysis — Automation for Branch Office Simulator](Project_025172/README.md) |
+| 025173 | [PostgreSQL: Log Analysis — Recovery for Branch Office Simulator](Project_025173/README.md) |
+| 025174 | [PostgreSQL: Log Analysis — Reporting for Branch Office Simulator](Project_025174/README.md) |
+| 025175 | [PostgreSQL: Log Analysis — Usability Improvement for Branch Office Simulator](Project_025175/README.md) |
+| 025176 | [PostgreSQL: Log Analysis — Baseline Setup for Offline Classroom](Project_025176/README.md) |
+| 025177 | [PostgreSQL: Log Analysis — Automation for Offline Classroom](Project_025177/README.md) |
+| 025178 | [PostgreSQL: Log Analysis — Recovery for Offline Classroom](Project_025178/README.md) |
+| 025179 | [PostgreSQL: Log Analysis — Reporting for Offline Classroom](Project_025179/README.md) |
+| 025180 | [PostgreSQL: Log Analysis — Usability Improvement for Offline Classroom](Project_025180/README.md) |
 
 [Back to the portfolio home](../README.md)
