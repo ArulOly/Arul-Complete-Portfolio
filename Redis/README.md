@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045358 | [Redis: Dashboard — Recovery for Small Business](Project_045358/README.md) |
 | 045359 | [Redis: Dashboard — Reporting for Small Business](Project_045359/README.md) |
 | 045360 | [Redis: Dashboard — Usability Improvement for Small Business](Project_045360/README.md) |
+| 045361 | [Redis: Dashboard — Baseline Setup for Home Development](Project_045361/README.md) |
+| 045362 | [Redis: Dashboard — Automation for Home Development](Project_045362/README.md) |
+| 045363 | [Redis: Dashboard — Recovery for Home Development](Project_045363/README.md) |
+| 045364 | [Redis: Dashboard — Reporting for Home Development](Project_045364/README.md) |
+| 045365 | [Redis: Dashboard — Usability Improvement for Home Development](Project_045365/README.md) |
+| 045366 | [Redis: Dashboard — Baseline Setup for Public Dataset](Project_045366/README.md) |
+| 045367 | [Redis: Dashboard — Automation for Public Dataset](Project_045367/README.md) |
+| 045368 | [Redis: Dashboard — Recovery for Public Dataset](Project_045368/README.md) |
+| 045369 | [Redis: Dashboard — Reporting for Public Dataset](Project_045369/README.md) |
+| 045370 | [Redis: Dashboard — Usability Improvement for Public Dataset](Project_045370/README.md) |
+| 045371 | [Redis: Dashboard — Baseline Setup for Branch Office Simulator](Project_045371/README.md) |
+| 045372 | [Redis: Dashboard — Automation for Branch Office Simulator](Project_045372/README.md) |
+| 045373 | [Redis: Dashboard — Recovery for Branch Office Simulator](Project_045373/README.md) |
+| 045374 | [Redis: Dashboard — Reporting for Branch Office Simulator](Project_045374/README.md) |
+| 045375 | [Redis: Dashboard — Usability Improvement for Branch Office Simulator](Project_045375/README.md) |
+| 045376 | [Redis: Dashboard — Baseline Setup for Offline Classroom](Project_045376/README.md) |
+| 045377 | [Redis: Dashboard — Automation for Offline Classroom](Project_045377/README.md) |
+| 045378 | [Redis: Dashboard — Recovery for Offline Classroom](Project_045378/README.md) |
+| 045379 | [Redis: Dashboard — Reporting for Offline Classroom](Project_045379/README.md) |
+| 045380 | [Redis: Dashboard — Usability Improvement for Offline Classroom](Project_045380/README.md) |
 
 [Back to the portfolio home](../README.md)
