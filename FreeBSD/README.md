@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005538 | [FreeBSD: Access Review — Recovery for Two-Node Lab](Project_005538/README.md) |
 | 005539 | [FreeBSD: Access Review — Reporting for Two-Node Lab](Project_005539/README.md) |
 | 005540 | [FreeBSD: Access Review — Usability Improvement for Two-Node Lab](Project_005540/README.md) |
+| 005541 | [FreeBSD: Access Review — Baseline Setup for Help Desk](Project_005541/README.md) |
+| 005542 | [FreeBSD: Access Review — Automation for Help Desk](Project_005542/README.md) |
+| 005543 | [FreeBSD: Access Review — Recovery for Help Desk](Project_005543/README.md) |
+| 005544 | [FreeBSD: Access Review — Reporting for Help Desk](Project_005544/README.md) |
+| 005545 | [FreeBSD: Access Review — Usability Improvement for Help Desk](Project_005545/README.md) |
+| 005546 | [FreeBSD: Access Review — Baseline Setup for Portfolio Demo](Project_005546/README.md) |
+| 005547 | [FreeBSD: Access Review — Automation for Portfolio Demo](Project_005547/README.md) |
+| 005548 | [FreeBSD: Access Review — Recovery for Portfolio Demo](Project_005548/README.md) |
+| 005549 | [FreeBSD: Access Review — Reporting for Portfolio Demo](Project_005549/README.md) |
+| 005550 | [FreeBSD: Access Review — Usability Improvement for Portfolio Demo](Project_005550/README.md) |
+| 005551 | [FreeBSD: Performance Baseline — Baseline Setup for School Lab](Project_005551/README.md) |
+| 005552 | [FreeBSD: Performance Baseline — Automation for School Lab](Project_005552/README.md) |
+| 005553 | [FreeBSD: Performance Baseline — Recovery for School Lab](Project_005553/README.md) |
+| 005554 | [FreeBSD: Performance Baseline — Reporting for School Lab](Project_005554/README.md) |
+| 005555 | [FreeBSD: Performance Baseline — Usability Improvement for School Lab](Project_005555/README.md) |
+| 005556 | [FreeBSD: Performance Baseline — Baseline Setup for Small Business](Project_005556/README.md) |
+| 005557 | [FreeBSD: Performance Baseline — Automation for Small Business](Project_005557/README.md) |
+| 005558 | [FreeBSD: Performance Baseline — Recovery for Small Business](Project_005558/README.md) |
+| 005559 | [FreeBSD: Performance Baseline — Reporting for Small Business](Project_005559/README.md) |
+| 005560 | [FreeBSD: Performance Baseline — Usability Improvement for Small Business](Project_005560/README.md) |
 
 [Back to the portfolio home](../README.md)
