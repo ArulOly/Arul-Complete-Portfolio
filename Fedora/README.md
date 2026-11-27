@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004718 | [Fedora: Error Handling — Recovery for Public Dataset](Project_004718/README.md) |
 | 004719 | [Fedora: Error Handling — Reporting for Public Dataset](Project_004719/README.md) |
 | 004720 | [Fedora: Error Handling — Usability Improvement for Public Dataset](Project_004720/README.md) |
+| 004721 | [Fedora: Error Handling — Baseline Setup for Branch Office Simulator](Project_004721/README.md) |
+| 004722 | [Fedora: Error Handling — Automation for Branch Office Simulator](Project_004722/README.md) |
+| 004723 | [Fedora: Error Handling — Recovery for Branch Office Simulator](Project_004723/README.md) |
+| 004724 | [Fedora: Error Handling — Reporting for Branch Office Simulator](Project_004724/README.md) |
+| 004725 | [Fedora: Error Handling — Usability Improvement for Branch Office Simulator](Project_004725/README.md) |
+| 004726 | [Fedora: Error Handling — Baseline Setup for Offline Classroom](Project_004726/README.md) |
+| 004727 | [Fedora: Error Handling — Automation for Offline Classroom](Project_004727/README.md) |
+| 004728 | [Fedora: Error Handling — Recovery for Offline Classroom](Project_004728/README.md) |
+| 004729 | [Fedora: Error Handling — Reporting for Offline Classroom](Project_004729/README.md) |
+| 004730 | [Fedora: Error Handling — Usability Improvement for Offline Classroom](Project_004730/README.md) |
+| 004731 | [Fedora: Error Handling — Baseline Setup for Single-Host Lab](Project_004731/README.md) |
+| 004732 | [Fedora: Error Handling — Automation for Single-Host Lab](Project_004732/README.md) |
+| 004733 | [Fedora: Error Handling — Recovery for Single-Host Lab](Project_004733/README.md) |
+| 004734 | [Fedora: Error Handling — Reporting for Single-Host Lab](Project_004734/README.md) |
+| 004735 | [Fedora: Error Handling — Usability Improvement for Single-Host Lab](Project_004735/README.md) |
+| 004736 | [Fedora: Error Handling — Baseline Setup for Two-Node Lab](Project_004736/README.md) |
+| 004737 | [Fedora: Error Handling — Automation for Two-Node Lab](Project_004737/README.md) |
+| 004738 | [Fedora: Error Handling — Recovery for Two-Node Lab](Project_004738/README.md) |
+| 004739 | [Fedora: Error Handling — Reporting for Two-Node Lab](Project_004739/README.md) |
+| 004740 | [Fedora: Error Handling — Usability Improvement for Two-Node Lab](Project_004740/README.md) |
 
 [Back to the portfolio home](../README.md)
