@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049038 | [FastAPI: Inventory — Recovery for Two-Node Lab](Project_049038/README.md) |
 | 049039 | [FastAPI: Inventory — Reporting for Two-Node Lab](Project_049039/README.md) |
 | 049040 | [FastAPI: Inventory — Usability Improvement for Two-Node Lab](Project_049040/README.md) |
+| 049041 | [FastAPI: Inventory — Baseline Setup for Help Desk](Project_049041/README.md) |
+| 049042 | [FastAPI: Inventory — Automation for Help Desk](Project_049042/README.md) |
+| 049043 | [FastAPI: Inventory — Recovery for Help Desk](Project_049043/README.md) |
+| 049044 | [FastAPI: Inventory — Reporting for Help Desk](Project_049044/README.md) |
+| 049045 | [FastAPI: Inventory — Usability Improvement for Help Desk](Project_049045/README.md) |
+| 049046 | [FastAPI: Inventory — Baseline Setup for Portfolio Demo](Project_049046/README.md) |
+| 049047 | [FastAPI: Inventory — Automation for Portfolio Demo](Project_049047/README.md) |
+| 049048 | [FastAPI: Inventory — Recovery for Portfolio Demo](Project_049048/README.md) |
+| 049049 | [FastAPI: Inventory — Reporting for Portfolio Demo](Project_049049/README.md) |
+| 049050 | [FastAPI: Inventory — Usability Improvement for Portfolio Demo](Project_049050/README.md) |
+| 049051 | [FastAPI: Monitoring — Baseline Setup for School Lab](Project_049051/README.md) |
+| 049052 | [FastAPI: Monitoring — Automation for School Lab](Project_049052/README.md) |
+| 049053 | [FastAPI: Monitoring — Recovery for School Lab](Project_049053/README.md) |
+| 049054 | [FastAPI: Monitoring — Reporting for School Lab](Project_049054/README.md) |
+| 049055 | [FastAPI: Monitoring — Usability Improvement for School Lab](Project_049055/README.md) |
+| 049056 | [FastAPI: Monitoring — Baseline Setup for Small Business](Project_049056/README.md) |
+| 049057 | [FastAPI: Monitoring — Automation for Small Business](Project_049057/README.md) |
+| 049058 | [FastAPI: Monitoring — Recovery for Small Business](Project_049058/README.md) |
+| 049059 | [FastAPI: Monitoring — Reporting for Small Business](Project_049059/README.md) |
+| 049060 | [FastAPI: Monitoring — Usability Improvement for Small Business](Project_049060/README.md) |
 
 [Back to the portfolio home](../README.md)
