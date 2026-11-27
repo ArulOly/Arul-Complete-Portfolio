@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022438 | [Java: Alerting — Recovery for Two-Node Lab](Project_022438/README.md) |
 | 022439 | [Java: Alerting — Reporting for Two-Node Lab](Project_022439/README.md) |
 | 022440 | [Java: Alerting — Usability Improvement for Two-Node Lab](Project_022440/README.md) |
+| 022441 | [Java: Alerting — Baseline Setup for Help Desk](Project_022441/README.md) |
+| 022442 | [Java: Alerting — Automation for Help Desk](Project_022442/README.md) |
+| 022443 | [Java: Alerting — Recovery for Help Desk](Project_022443/README.md) |
+| 022444 | [Java: Alerting — Reporting for Help Desk](Project_022444/README.md) |
+| 022445 | [Java: Alerting — Usability Improvement for Help Desk](Project_022445/README.md) |
+| 022446 | [Java: Alerting — Baseline Setup for Portfolio Demo](Project_022446/README.md) |
+| 022447 | [Java: Alerting — Automation for Portfolio Demo](Project_022447/README.md) |
+| 022448 | [Java: Alerting — Recovery for Portfolio Demo](Project_022448/README.md) |
+| 022449 | [Java: Alerting — Reporting for Portfolio Demo](Project_022449/README.md) |
+| 022450 | [Java: Alerting — Usability Improvement for Portfolio Demo](Project_022450/README.md) |
+| 022451 | [Java: Scheduled Reporting — Baseline Setup for School Lab](Project_022451/README.md) |
+| 022452 | [Java: Scheduled Reporting — Automation for School Lab](Project_022452/README.md) |
+| 022453 | [Java: Scheduled Reporting — Recovery for School Lab](Project_022453/README.md) |
+| 022454 | [Java: Scheduled Reporting — Reporting for School Lab](Project_022454/README.md) |
+| 022455 | [Java: Scheduled Reporting — Usability Improvement for School Lab](Project_022455/README.md) |
+| 022456 | [Java: Scheduled Reporting — Baseline Setup for Small Business](Project_022456/README.md) |
+| 022457 | [Java: Scheduled Reporting — Automation for Small Business](Project_022457/README.md) |
+| 022458 | [Java: Scheduled Reporting — Recovery for Small Business](Project_022458/README.md) |
+| 022459 | [Java: Scheduled Reporting — Reporting for Small Business](Project_022459/README.md) |
+| 022460 | [Java: Scheduled Reporting — Usability Improvement for Small Business](Project_022460/README.md) |
 
 [Back to the portfolio home](../README.md)
