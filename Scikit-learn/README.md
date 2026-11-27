@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034578 | [Scikit-learn: Performance Baseline — Recovery for Offline Classroom](Project_034578/README.md) |
 | 034579 | [Scikit-learn: Performance Baseline — Reporting for Offline Classroom](Project_034579/README.md) |
 | 034580 | [Scikit-learn: Performance Baseline — Usability Improvement for Offline Classroom](Project_034580/README.md) |
+| 034581 | [Scikit-learn: Performance Baseline — Baseline Setup for Single-Host Lab](Project_034581/README.md) |
+| 034582 | [Scikit-learn: Performance Baseline — Automation for Single-Host Lab](Project_034582/README.md) |
+| 034583 | [Scikit-learn: Performance Baseline — Recovery for Single-Host Lab](Project_034583/README.md) |
+| 034584 | [Scikit-learn: Performance Baseline — Reporting for Single-Host Lab](Project_034584/README.md) |
+| 034585 | [Scikit-learn: Performance Baseline — Usability Improvement for Single-Host Lab](Project_034585/README.md) |
+| 034586 | [Scikit-learn: Performance Baseline — Baseline Setup for Two-Node Lab](Project_034586/README.md) |
+| 034587 | [Scikit-learn: Performance Baseline — Automation for Two-Node Lab](Project_034587/README.md) |
+| 034588 | [Scikit-learn: Performance Baseline — Recovery for Two-Node Lab](Project_034588/README.md) |
+| 034589 | [Scikit-learn: Performance Baseline — Reporting for Two-Node Lab](Project_034589/README.md) |
+| 034590 | [Scikit-learn: Performance Baseline — Usability Improvement for Two-Node Lab](Project_034590/README.md) |
+| 034591 | [Scikit-learn: Performance Baseline — Baseline Setup for Help Desk](Project_034591/README.md) |
+| 034592 | [Scikit-learn: Performance Baseline — Automation for Help Desk](Project_034592/README.md) |
+| 034593 | [Scikit-learn: Performance Baseline — Recovery for Help Desk](Project_034593/README.md) |
+| 034594 | [Scikit-learn: Performance Baseline — Reporting for Help Desk](Project_034594/README.md) |
+| 034595 | [Scikit-learn: Performance Baseline — Usability Improvement for Help Desk](Project_034595/README.md) |
+| 034596 | [Scikit-learn: Performance Baseline — Baseline Setup for Portfolio Demo](Project_034596/README.md) |
+| 034597 | [Scikit-learn: Performance Baseline — Automation for Portfolio Demo](Project_034597/README.md) |
+| 034598 | [Scikit-learn: Performance Baseline — Recovery for Portfolio Demo](Project_034598/README.md) |
+| 034599 | [Scikit-learn: Performance Baseline — Reporting for Portfolio Demo](Project_034599/README.md) |
+| 034600 | [Scikit-learn: Performance Baseline — Usability Improvement for Portfolio Demo](Project_034600/README.md) |
 
 [Back to the portfolio home](../README.md)
