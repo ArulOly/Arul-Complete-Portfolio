@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033478 | [Jupyter: Scheduled Reporting — Recovery for Offline Classroom](Project_033478/README.md) |
 | 033479 | [Jupyter: Scheduled Reporting — Reporting for Offline Classroom](Project_033479/README.md) |
 | 033480 | [Jupyter: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_033480/README.md) |
+| 033481 | [Jupyter: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_033481/README.md) |
+| 033482 | [Jupyter: Scheduled Reporting — Automation for Single-Host Lab](Project_033482/README.md) |
+| 033483 | [Jupyter: Scheduled Reporting — Recovery for Single-Host Lab](Project_033483/README.md) |
+| 033484 | [Jupyter: Scheduled Reporting — Reporting for Single-Host Lab](Project_033484/README.md) |
+| 033485 | [Jupyter: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_033485/README.md) |
+| 033486 | [Jupyter: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_033486/README.md) |
+| 033487 | [Jupyter: Scheduled Reporting — Automation for Two-Node Lab](Project_033487/README.md) |
+| 033488 | [Jupyter: Scheduled Reporting — Recovery for Two-Node Lab](Project_033488/README.md) |
+| 033489 | [Jupyter: Scheduled Reporting — Reporting for Two-Node Lab](Project_033489/README.md) |
+| 033490 | [Jupyter: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_033490/README.md) |
+| 033491 | [Jupyter: Scheduled Reporting — Baseline Setup for Help Desk](Project_033491/README.md) |
+| 033492 | [Jupyter: Scheduled Reporting — Automation for Help Desk](Project_033492/README.md) |
+| 033493 | [Jupyter: Scheduled Reporting — Recovery for Help Desk](Project_033493/README.md) |
+| 033494 | [Jupyter: Scheduled Reporting — Reporting for Help Desk](Project_033494/README.md) |
+| 033495 | [Jupyter: Scheduled Reporting — Usability Improvement for Help Desk](Project_033495/README.md) |
+| 033496 | [Jupyter: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_033496/README.md) |
+| 033497 | [Jupyter: Scheduled Reporting — Automation for Portfolio Demo](Project_033497/README.md) |
+| 033498 | [Jupyter: Scheduled Reporting — Recovery for Portfolio Demo](Project_033498/README.md) |
+| 033499 | [Jupyter: Scheduled Reporting — Reporting for Portfolio Demo](Project_033499/README.md) |
+| 033500 | [Jupyter: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_033500/README.md) |
 
 [Back to the portfolio home](../README.md)
