@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049098 | [FastAPI: Monitoring — Recovery for Portfolio Demo](Project_049098/README.md) |
 | 049099 | [FastAPI: Monitoring — Reporting for Portfolio Demo](Project_049099/README.md) |
 | 049100 | [FastAPI: Monitoring — Usability Improvement for Portfolio Demo](Project_049100/README.md) |
+| 049101 | [FastAPI: Audit — Baseline Setup for School Lab](Project_049101/README.md) |
+| 049102 | [FastAPI: Audit — Automation for School Lab](Project_049102/README.md) |
+| 049103 | [FastAPI: Audit — Recovery for School Lab](Project_049103/README.md) |
+| 049104 | [FastAPI: Audit — Reporting for School Lab](Project_049104/README.md) |
+| 049105 | [FastAPI: Audit — Usability Improvement for School Lab](Project_049105/README.md) |
+| 049106 | [FastAPI: Audit — Baseline Setup for Small Business](Project_049106/README.md) |
+| 049107 | [FastAPI: Audit — Automation for Small Business](Project_049107/README.md) |
+| 049108 | [FastAPI: Audit — Recovery for Small Business](Project_049108/README.md) |
+| 049109 | [FastAPI: Audit — Reporting for Small Business](Project_049109/README.md) |
+| 049110 | [FastAPI: Audit — Usability Improvement for Small Business](Project_049110/README.md) |
+| 049111 | [FastAPI: Audit — Baseline Setup for Home Development](Project_049111/README.md) |
+| 049112 | [FastAPI: Audit — Automation for Home Development](Project_049112/README.md) |
+| 049113 | [FastAPI: Audit — Recovery for Home Development](Project_049113/README.md) |
+| 049114 | [FastAPI: Audit — Reporting for Home Development](Project_049114/README.md) |
+| 049115 | [FastAPI: Audit — Usability Improvement for Home Development](Project_049115/README.md) |
+| 049116 | [FastAPI: Audit — Baseline Setup for Public Dataset](Project_049116/README.md) |
+| 049117 | [FastAPI: Audit — Automation for Public Dataset](Project_049117/README.md) |
+| 049118 | [FastAPI: Audit — Recovery for Public Dataset](Project_049118/README.md) |
+| 049119 | [FastAPI: Audit — Reporting for Public Dataset](Project_049119/README.md) |
+| 049120 | [FastAPI: Audit — Usability Improvement for Public Dataset](Project_049120/README.md) |
 
 [Back to the portfolio home](../README.md)
