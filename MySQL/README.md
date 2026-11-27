@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026798 | [MySQL: Data Validation — Recovery for Portfolio Demo](Project_026798/README.md) |
 | 026799 | [MySQL: Data Validation — Reporting for Portfolio Demo](Project_026799/README.md) |
 | 026800 | [MySQL: Data Validation — Usability Improvement for Portfolio Demo](Project_026800/README.md) |
+| 026801 | [MySQL: Documentation Generation — Baseline Setup for School Lab](Project_026801/README.md) |
+| 026802 | [MySQL: Documentation Generation — Automation for School Lab](Project_026802/README.md) |
+| 026803 | [MySQL: Documentation Generation — Recovery for School Lab](Project_026803/README.md) |
+| 026804 | [MySQL: Documentation Generation — Reporting for School Lab](Project_026804/README.md) |
+| 026805 | [MySQL: Documentation Generation — Usability Improvement for School Lab](Project_026805/README.md) |
+| 026806 | [MySQL: Documentation Generation — Baseline Setup for Small Business](Project_026806/README.md) |
+| 026807 | [MySQL: Documentation Generation — Automation for Small Business](Project_026807/README.md) |
+| 026808 | [MySQL: Documentation Generation — Recovery for Small Business](Project_026808/README.md) |
+| 026809 | [MySQL: Documentation Generation — Reporting for Small Business](Project_026809/README.md) |
+| 026810 | [MySQL: Documentation Generation — Usability Improvement for Small Business](Project_026810/README.md) |
+| 026811 | [MySQL: Documentation Generation — Baseline Setup for Home Development](Project_026811/README.md) |
+| 026812 | [MySQL: Documentation Generation — Automation for Home Development](Project_026812/README.md) |
+| 026813 | [MySQL: Documentation Generation — Recovery for Home Development](Project_026813/README.md) |
+| 026814 | [MySQL: Documentation Generation — Reporting for Home Development](Project_026814/README.md) |
+| 026815 | [MySQL: Documentation Generation — Usability Improvement for Home Development](Project_026815/README.md) |
+| 026816 | [MySQL: Documentation Generation — Baseline Setup for Public Dataset](Project_026816/README.md) |
+| 026817 | [MySQL: Documentation Generation — Automation for Public Dataset](Project_026817/README.md) |
+| 026818 | [MySQL: Documentation Generation — Recovery for Public Dataset](Project_026818/README.md) |
+| 026819 | [MySQL: Documentation Generation — Reporting for Public Dataset](Project_026819/README.md) |
+| 026820 | [MySQL: Documentation Generation — Usability Improvement for Public Dataset](Project_026820/README.md) |
 
 [Back to the portfolio home](../README.md)
