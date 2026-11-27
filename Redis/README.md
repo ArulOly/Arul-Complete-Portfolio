@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045798 | [Redis: Data Validation — Recovery for Portfolio Demo](Project_045798/README.md) |
 | 045799 | [Redis: Data Validation — Reporting for Portfolio Demo](Project_045799/README.md) |
 | 045800 | [Redis: Data Validation — Usability Improvement for Portfolio Demo](Project_045800/README.md) |
+| 045801 | [Redis: Documentation Generation — Baseline Setup for School Lab](Project_045801/README.md) |
+| 045802 | [Redis: Documentation Generation — Automation for School Lab](Project_045802/README.md) |
+| 045803 | [Redis: Documentation Generation — Recovery for School Lab](Project_045803/README.md) |
+| 045804 | [Redis: Documentation Generation — Reporting for School Lab](Project_045804/README.md) |
+| 045805 | [Redis: Documentation Generation — Usability Improvement for School Lab](Project_045805/README.md) |
+| 045806 | [Redis: Documentation Generation — Baseline Setup for Small Business](Project_045806/README.md) |
+| 045807 | [Redis: Documentation Generation — Automation for Small Business](Project_045807/README.md) |
+| 045808 | [Redis: Documentation Generation — Recovery for Small Business](Project_045808/README.md) |
+| 045809 | [Redis: Documentation Generation — Reporting for Small Business](Project_045809/README.md) |
+| 045810 | [Redis: Documentation Generation — Usability Improvement for Small Business](Project_045810/README.md) |
+| 045811 | [Redis: Documentation Generation — Baseline Setup for Home Development](Project_045811/README.md) |
+| 045812 | [Redis: Documentation Generation — Automation for Home Development](Project_045812/README.md) |
+| 045813 | [Redis: Documentation Generation — Recovery for Home Development](Project_045813/README.md) |
+| 045814 | [Redis: Documentation Generation — Reporting for Home Development](Project_045814/README.md) |
+| 045815 | [Redis: Documentation Generation — Usability Improvement for Home Development](Project_045815/README.md) |
+| 045816 | [Redis: Documentation Generation — Baseline Setup for Public Dataset](Project_045816/README.md) |
+| 045817 | [Redis: Documentation Generation — Automation for Public Dataset](Project_045817/README.md) |
+| 045818 | [Redis: Documentation Generation — Recovery for Public Dataset](Project_045818/README.md) |
+| 045819 | [Redis: Documentation Generation — Reporting for Public Dataset](Project_045819/README.md) |
+| 045820 | [Redis: Documentation Generation — Usability Improvement for Public Dataset](Project_045820/README.md) |
 
 [Back to the portfolio home](../README.md)
