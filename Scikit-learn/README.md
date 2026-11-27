@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034178 | [Scikit-learn: Log Analysis — Recovery for Offline Classroom](Project_034178/README.md) |
 | 034179 | [Scikit-learn: Log Analysis — Reporting for Offline Classroom](Project_034179/README.md) |
 | 034180 | [Scikit-learn: Log Analysis — Usability Improvement for Offline Classroom](Project_034180/README.md) |
+| 034181 | [Scikit-learn: Log Analysis — Baseline Setup for Single-Host Lab](Project_034181/README.md) |
+| 034182 | [Scikit-learn: Log Analysis — Automation for Single-Host Lab](Project_034182/README.md) |
+| 034183 | [Scikit-learn: Log Analysis — Recovery for Single-Host Lab](Project_034183/README.md) |
+| 034184 | [Scikit-learn: Log Analysis — Reporting for Single-Host Lab](Project_034184/README.md) |
+| 034185 | [Scikit-learn: Log Analysis — Usability Improvement for Single-Host Lab](Project_034185/README.md) |
+| 034186 | [Scikit-learn: Log Analysis — Baseline Setup for Two-Node Lab](Project_034186/README.md) |
+| 034187 | [Scikit-learn: Log Analysis — Automation for Two-Node Lab](Project_034187/README.md) |
+| 034188 | [Scikit-learn: Log Analysis — Recovery for Two-Node Lab](Project_034188/README.md) |
+| 034189 | [Scikit-learn: Log Analysis — Reporting for Two-Node Lab](Project_034189/README.md) |
+| 034190 | [Scikit-learn: Log Analysis — Usability Improvement for Two-Node Lab](Project_034190/README.md) |
+| 034191 | [Scikit-learn: Log Analysis — Baseline Setup for Help Desk](Project_034191/README.md) |
+| 034192 | [Scikit-learn: Log Analysis — Automation for Help Desk](Project_034192/README.md) |
+| 034193 | [Scikit-learn: Log Analysis — Recovery for Help Desk](Project_034193/README.md) |
+| 034194 | [Scikit-learn: Log Analysis — Reporting for Help Desk](Project_034194/README.md) |
+| 034195 | [Scikit-learn: Log Analysis — Usability Improvement for Help Desk](Project_034195/README.md) |
+| 034196 | [Scikit-learn: Log Analysis — Baseline Setup for Portfolio Demo](Project_034196/README.md) |
+| 034197 | [Scikit-learn: Log Analysis — Automation for Portfolio Demo](Project_034197/README.md) |
+| 034198 | [Scikit-learn: Log Analysis — Recovery for Portfolio Demo](Project_034198/README.md) |
+| 034199 | [Scikit-learn: Log Analysis — Reporting for Portfolio Demo](Project_034199/README.md) |
+| 034200 | [Scikit-learn: Log Analysis — Usability Improvement for Portfolio Demo](Project_034200/README.md) |
 
 [Back to the portfolio home](../README.md)
