@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005478 | [FreeBSD: Scheduled Reporting — Recovery for Offline Classroom](Project_005478/README.md) |
 | 005479 | [FreeBSD: Scheduled Reporting — Reporting for Offline Classroom](Project_005479/README.md) |
 | 005480 | [FreeBSD: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_005480/README.md) |
+| 005481 | [FreeBSD: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_005481/README.md) |
+| 005482 | [FreeBSD: Scheduled Reporting — Automation for Single-Host Lab](Project_005482/README.md) |
+| 005483 | [FreeBSD: Scheduled Reporting — Recovery for Single-Host Lab](Project_005483/README.md) |
+| 005484 | [FreeBSD: Scheduled Reporting — Reporting for Single-Host Lab](Project_005484/README.md) |
+| 005485 | [FreeBSD: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_005485/README.md) |
+| 005486 | [FreeBSD: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_005486/README.md) |
+| 005487 | [FreeBSD: Scheduled Reporting — Automation for Two-Node Lab](Project_005487/README.md) |
+| 005488 | [FreeBSD: Scheduled Reporting — Recovery for Two-Node Lab](Project_005488/README.md) |
+| 005489 | [FreeBSD: Scheduled Reporting — Reporting for Two-Node Lab](Project_005489/README.md) |
+| 005490 | [FreeBSD: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_005490/README.md) |
+| 005491 | [FreeBSD: Scheduled Reporting — Baseline Setup for Help Desk](Project_005491/README.md) |
+| 005492 | [FreeBSD: Scheduled Reporting — Automation for Help Desk](Project_005492/README.md) |
+| 005493 | [FreeBSD: Scheduled Reporting — Recovery for Help Desk](Project_005493/README.md) |
+| 005494 | [FreeBSD: Scheduled Reporting — Reporting for Help Desk](Project_005494/README.md) |
+| 005495 | [FreeBSD: Scheduled Reporting — Usability Improvement for Help Desk](Project_005495/README.md) |
+| 005496 | [FreeBSD: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_005496/README.md) |
+| 005497 | [FreeBSD: Scheduled Reporting — Automation for Portfolio Demo](Project_005497/README.md) |
+| 005498 | [FreeBSD: Scheduled Reporting — Recovery for Portfolio Demo](Project_005498/README.md) |
+| 005499 | [FreeBSD: Scheduled Reporting — Reporting for Portfolio Demo](Project_005499/README.md) |
+| 005500 | [FreeBSD: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_005500/README.md) |
 
 [Back to the portfolio home](../README.md)
