@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004638 | [Fedora: Service Check — Recovery for Two-Node Lab](Project_004638/README.md) |
 | 004639 | [Fedora: Service Check — Reporting for Two-Node Lab](Project_004639/README.md) |
 | 004640 | [Fedora: Service Check — Usability Improvement for Two-Node Lab](Project_004640/README.md) |
+| 004641 | [Fedora: Service Check — Baseline Setup for Help Desk](Project_004641/README.md) |
+| 004642 | [Fedora: Service Check — Automation for Help Desk](Project_004642/README.md) |
+| 004643 | [Fedora: Service Check — Recovery for Help Desk](Project_004643/README.md) |
+| 004644 | [Fedora: Service Check — Reporting for Help Desk](Project_004644/README.md) |
+| 004645 | [Fedora: Service Check — Usability Improvement for Help Desk](Project_004645/README.md) |
+| 004646 | [Fedora: Service Check — Baseline Setup for Portfolio Demo](Project_004646/README.md) |
+| 004647 | [Fedora: Service Check — Automation for Portfolio Demo](Project_004647/README.md) |
+| 004648 | [Fedora: Service Check — Recovery for Portfolio Demo](Project_004648/README.md) |
+| 004649 | [Fedora: Service Check — Reporting for Portfolio Demo](Project_004649/README.md) |
+| 004650 | [Fedora: Service Check — Usability Improvement for Portfolio Demo](Project_004650/README.md) |
+| 004651 | [Fedora: Configuration Comparison — Baseline Setup for School Lab](Project_004651/README.md) |
+| 004652 | [Fedora: Configuration Comparison — Automation for School Lab](Project_004652/README.md) |
+| 004653 | [Fedora: Configuration Comparison — Recovery for School Lab](Project_004653/README.md) |
+| 004654 | [Fedora: Configuration Comparison — Reporting for School Lab](Project_004654/README.md) |
+| 004655 | [Fedora: Configuration Comparison — Usability Improvement for School Lab](Project_004655/README.md) |
+| 004656 | [Fedora: Configuration Comparison — Baseline Setup for Small Business](Project_004656/README.md) |
+| 004657 | [Fedora: Configuration Comparison — Automation for Small Business](Project_004657/README.md) |
+| 004658 | [Fedora: Configuration Comparison — Recovery for Small Business](Project_004658/README.md) |
+| 004659 | [Fedora: Configuration Comparison — Reporting for Small Business](Project_004659/README.md) |
+| 004660 | [Fedora: Configuration Comparison — Usability Improvement for Small Business](Project_004660/README.md) |
 
 [Back to the portfolio home](../README.md)
