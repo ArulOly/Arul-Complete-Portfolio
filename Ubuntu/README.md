@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002098 | [Ubuntu: Monitoring — Recovery for Portfolio Demo](Project_002098/README.md) |
 | 002099 | [Ubuntu: Monitoring — Reporting for Portfolio Demo](Project_002099/README.md) |
 | 002100 | [Ubuntu: Monitoring — Usability Improvement for Portfolio Demo](Project_002100/README.md) |
+| 002101 | [Ubuntu: Audit — Baseline Setup for School Lab](Project_002101/README.md) |
+| 002102 | [Ubuntu: Audit — Automation for School Lab](Project_002102/README.md) |
+| 002103 | [Ubuntu: Audit — Recovery for School Lab](Project_002103/README.md) |
+| 002104 | [Ubuntu: Audit — Reporting for School Lab](Project_002104/README.md) |
+| 002105 | [Ubuntu: Audit — Usability Improvement for School Lab](Project_002105/README.md) |
+| 002106 | [Ubuntu: Audit — Baseline Setup for Small Business](Project_002106/README.md) |
+| 002107 | [Ubuntu: Audit — Automation for Small Business](Project_002107/README.md) |
+| 002108 | [Ubuntu: Audit — Recovery for Small Business](Project_002108/README.md) |
+| 002109 | [Ubuntu: Audit — Reporting for Small Business](Project_002109/README.md) |
+| 002110 | [Ubuntu: Audit — Usability Improvement for Small Business](Project_002110/README.md) |
+| 002111 | [Ubuntu: Audit — Baseline Setup for Home Development](Project_002111/README.md) |
+| 002112 | [Ubuntu: Audit — Automation for Home Development](Project_002112/README.md) |
+| 002113 | [Ubuntu: Audit — Recovery for Home Development](Project_002113/README.md) |
+| 002114 | [Ubuntu: Audit — Reporting for Home Development](Project_002114/README.md) |
+| 002115 | [Ubuntu: Audit — Usability Improvement for Home Development](Project_002115/README.md) |
+| 002116 | [Ubuntu: Audit — Baseline Setup for Public Dataset](Project_002116/README.md) |
+| 002117 | [Ubuntu: Audit — Automation for Public Dataset](Project_002117/README.md) |
+| 002118 | [Ubuntu: Audit — Recovery for Public Dataset](Project_002118/README.md) |
+| 002119 | [Ubuntu: Audit — Reporting for Public Dataset](Project_002119/README.md) |
+| 002120 | [Ubuntu: Audit — Usability Improvement for Public Dataset](Project_002120/README.md) |
 
 [Back to the portfolio home](../README.md)
