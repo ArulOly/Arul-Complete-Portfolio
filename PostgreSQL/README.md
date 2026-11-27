@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025198 | [PostgreSQL: Log Analysis — Recovery for Portfolio Demo](Project_025198/README.md) |
 | 025199 | [PostgreSQL: Log Analysis — Reporting for Portfolio Demo](Project_025199/README.md) |
 | 025200 | [PostgreSQL: Log Analysis — Usability Improvement for Portfolio Demo](Project_025200/README.md) |
+| 025201 | [PostgreSQL: Backup Verification — Baseline Setup for School Lab](Project_025201/README.md) |
+| 025202 | [PostgreSQL: Backup Verification — Automation for School Lab](Project_025202/README.md) |
+| 025203 | [PostgreSQL: Backup Verification — Recovery for School Lab](Project_025203/README.md) |
+| 025204 | [PostgreSQL: Backup Verification — Reporting for School Lab](Project_025204/README.md) |
+| 025205 | [PostgreSQL: Backup Verification — Usability Improvement for School Lab](Project_025205/README.md) |
+| 025206 | [PostgreSQL: Backup Verification — Baseline Setup for Small Business](Project_025206/README.md) |
+| 025207 | [PostgreSQL: Backup Verification — Automation for Small Business](Project_025207/README.md) |
+| 025208 | [PostgreSQL: Backup Verification — Recovery for Small Business](Project_025208/README.md) |
+| 025209 | [PostgreSQL: Backup Verification — Reporting for Small Business](Project_025209/README.md) |
+| 025210 | [PostgreSQL: Backup Verification — Usability Improvement for Small Business](Project_025210/README.md) |
+| 025211 | [PostgreSQL: Backup Verification — Baseline Setup for Home Development](Project_025211/README.md) |
+| 025212 | [PostgreSQL: Backup Verification — Automation for Home Development](Project_025212/README.md) |
+| 025213 | [PostgreSQL: Backup Verification — Recovery for Home Development](Project_025213/README.md) |
+| 025214 | [PostgreSQL: Backup Verification — Reporting for Home Development](Project_025214/README.md) |
+| 025215 | [PostgreSQL: Backup Verification — Usability Improvement for Home Development](Project_025215/README.md) |
+| 025216 | [PostgreSQL: Backup Verification — Baseline Setup for Public Dataset](Project_025216/README.md) |
+| 025217 | [PostgreSQL: Backup Verification — Automation for Public Dataset](Project_025217/README.md) |
+| 025218 | [PostgreSQL: Backup Verification — Recovery for Public Dataset](Project_025218/README.md) |
+| 025219 | [PostgreSQL: Backup Verification — Reporting for Public Dataset](Project_025219/README.md) |
+| 025220 | [PostgreSQL: Backup Verification — Usability Improvement for Public Dataset](Project_025220/README.md) |
 
 [Back to the portfolio home](../README.md)
