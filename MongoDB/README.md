@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027298 | [MongoDB: Data Import — Recovery for Portfolio Demo](Project_027298/README.md) |
 | 027299 | [MongoDB: Data Import — Reporting for Portfolio Demo](Project_027299/README.md) |
 | 027300 | [MongoDB: Data Import — Usability Improvement for Portfolio Demo](Project_027300/README.md) |
+| 027301 | [MongoDB: Data Export — Baseline Setup for School Lab](Project_027301/README.md) |
+| 027302 | [MongoDB: Data Export — Automation for School Lab](Project_027302/README.md) |
+| 027303 | [MongoDB: Data Export — Recovery for School Lab](Project_027303/README.md) |
+| 027304 | [MongoDB: Data Export — Reporting for School Lab](Project_027304/README.md) |
+| 027305 | [MongoDB: Data Export — Usability Improvement for School Lab](Project_027305/README.md) |
+| 027306 | [MongoDB: Data Export — Baseline Setup for Small Business](Project_027306/README.md) |
+| 027307 | [MongoDB: Data Export — Automation for Small Business](Project_027307/README.md) |
+| 027308 | [MongoDB: Data Export — Recovery for Small Business](Project_027308/README.md) |
+| 027309 | [MongoDB: Data Export — Reporting for Small Business](Project_027309/README.md) |
+| 027310 | [MongoDB: Data Export — Usability Improvement for Small Business](Project_027310/README.md) |
+| 027311 | [MongoDB: Data Export — Baseline Setup for Home Development](Project_027311/README.md) |
+| 027312 | [MongoDB: Data Export — Automation for Home Development](Project_027312/README.md) |
+| 027313 | [MongoDB: Data Export — Recovery for Home Development](Project_027313/README.md) |
+| 027314 | [MongoDB: Data Export — Reporting for Home Development](Project_027314/README.md) |
+| 027315 | [MongoDB: Data Export — Usability Improvement for Home Development](Project_027315/README.md) |
+| 027316 | [MongoDB: Data Export — Baseline Setup for Public Dataset](Project_027316/README.md) |
+| 027317 | [MongoDB: Data Export — Automation for Public Dataset](Project_027317/README.md) |
+| 027318 | [MongoDB: Data Export — Recovery for Public Dataset](Project_027318/README.md) |
+| 027319 | [MongoDB: Data Export — Reporting for Public Dataset](Project_027319/README.md) |
+| 027320 | [MongoDB: Data Export — Usability Improvement for Public Dataset](Project_027320/README.md) |
 
 [Back to the portfolio home](../README.md)
