@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -724,5 +724,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019678 | [Python: Configuration Comparison — Recovery for Offline Classroom](Project_019678/README.md) |
 | 019679 | [Python: Configuration Comparison — Reporting for Offline Classroom](Project_019679/README.md) |
 | 019680 | [Python: Configuration Comparison — Usability Improvement for Offline Classroom](Project_019680/README.md) |
+| 019681 | [Python: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_019681/README.md) |
+| 019682 | [Python: Configuration Comparison — Automation for Single-Host Lab](Project_019682/README.md) |
+| 019683 | [Python: Configuration Comparison — Recovery for Single-Host Lab](Project_019683/README.md) |
+| 019684 | [Python: Configuration Comparison — Reporting for Single-Host Lab](Project_019684/README.md) |
+| 019685 | [Python: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_019685/README.md) |
+| 019686 | [Python: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_019686/README.md) |
+| 019687 | [Python: Configuration Comparison — Automation for Two-Node Lab](Project_019687/README.md) |
+| 019688 | [Python: Configuration Comparison — Recovery for Two-Node Lab](Project_019688/README.md) |
+| 019689 | [Python: Configuration Comparison — Reporting for Two-Node Lab](Project_019689/README.md) |
+| 019690 | [Python: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_019690/README.md) |
+| 019691 | [Python: Configuration Comparison — Baseline Setup for Help Desk](Project_019691/README.md) |
+| 019692 | [Python: Configuration Comparison — Automation for Help Desk](Project_019692/README.md) |
+| 019693 | [Python: Configuration Comparison — Recovery for Help Desk](Project_019693/README.md) |
+| 019694 | [Python: Configuration Comparison — Reporting for Help Desk](Project_019694/README.md) |
+| 019695 | [Python: Configuration Comparison — Usability Improvement for Help Desk](Project_019695/README.md) |
+| 019696 | [Python: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_019696/README.md) |
+| 019697 | [Python: Configuration Comparison — Automation for Portfolio Demo](Project_019697/README.md) |
+| 019698 | [Python: Configuration Comparison — Recovery for Portfolio Demo](Project_019698/README.md) |
+| 019699 | [Python: Configuration Comparison — Reporting for Portfolio Demo](Project_019699/README.md) |
+| 019700 | [Python: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_019700/README.md) |
 
 [Back to the portfolio home](../README.md)
