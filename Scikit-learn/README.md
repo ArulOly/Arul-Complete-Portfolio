@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034438 | [Scikit-learn: Alerting — Recovery for Two-Node Lab](Project_034438/README.md) |
 | 034439 | [Scikit-learn: Alerting — Reporting for Two-Node Lab](Project_034439/README.md) |
 | 034440 | [Scikit-learn: Alerting — Usability Improvement for Two-Node Lab](Project_034440/README.md) |
+| 034441 | [Scikit-learn: Alerting — Baseline Setup for Help Desk](Project_034441/README.md) |
+| 034442 | [Scikit-learn: Alerting — Automation for Help Desk](Project_034442/README.md) |
+| 034443 | [Scikit-learn: Alerting — Recovery for Help Desk](Project_034443/README.md) |
+| 034444 | [Scikit-learn: Alerting — Reporting for Help Desk](Project_034444/README.md) |
+| 034445 | [Scikit-learn: Alerting — Usability Improvement for Help Desk](Project_034445/README.md) |
+| 034446 | [Scikit-learn: Alerting — Baseline Setup for Portfolio Demo](Project_034446/README.md) |
+| 034447 | [Scikit-learn: Alerting — Automation for Portfolio Demo](Project_034447/README.md) |
+| 034448 | [Scikit-learn: Alerting — Recovery for Portfolio Demo](Project_034448/README.md) |
+| 034449 | [Scikit-learn: Alerting — Reporting for Portfolio Demo](Project_034449/README.md) |
+| 034450 | [Scikit-learn: Alerting — Usability Improvement for Portfolio Demo](Project_034450/README.md) |
+| 034451 | [Scikit-learn: Scheduled Reporting — Baseline Setup for School Lab](Project_034451/README.md) |
+| 034452 | [Scikit-learn: Scheduled Reporting — Automation for School Lab](Project_034452/README.md) |
+| 034453 | [Scikit-learn: Scheduled Reporting — Recovery for School Lab](Project_034453/README.md) |
+| 034454 | [Scikit-learn: Scheduled Reporting — Reporting for School Lab](Project_034454/README.md) |
+| 034455 | [Scikit-learn: Scheduled Reporting — Usability Improvement for School Lab](Project_034455/README.md) |
+| 034456 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Small Business](Project_034456/README.md) |
+| 034457 | [Scikit-learn: Scheduled Reporting — Automation for Small Business](Project_034457/README.md) |
+| 034458 | [Scikit-learn: Scheduled Reporting — Recovery for Small Business](Project_034458/README.md) |
+| 034459 | [Scikit-learn: Scheduled Reporting — Reporting for Small Business](Project_034459/README.md) |
+| 034460 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Small Business](Project_034460/README.md) |
 
 [Back to the portfolio home](../README.md)
