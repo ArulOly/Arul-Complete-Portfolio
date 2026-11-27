@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023138 | [HTML CSS: Audit — Recovery for Two-Node Lab](Project_023138/README.md) |
 | 023139 | [HTML CSS: Audit — Reporting for Two-Node Lab](Project_023139/README.md) |
 | 023140 | [HTML CSS: Audit — Usability Improvement for Two-Node Lab](Project_023140/README.md) |
+| 023141 | [HTML CSS: Audit — Baseline Setup for Help Desk](Project_023141/README.md) |
+| 023142 | [HTML CSS: Audit — Automation for Help Desk](Project_023142/README.md) |
+| 023143 | [HTML CSS: Audit — Recovery for Help Desk](Project_023143/README.md) |
+| 023144 | [HTML CSS: Audit — Reporting for Help Desk](Project_023144/README.md) |
+| 023145 | [HTML CSS: Audit — Usability Improvement for Help Desk](Project_023145/README.md) |
+| 023146 | [HTML CSS: Audit — Baseline Setup for Portfolio Demo](Project_023146/README.md) |
+| 023147 | [HTML CSS: Audit — Automation for Portfolio Demo](Project_023147/README.md) |
+| 023148 | [HTML CSS: Audit — Recovery for Portfolio Demo](Project_023148/README.md) |
+| 023149 | [HTML CSS: Audit — Reporting for Portfolio Demo](Project_023149/README.md) |
+| 023150 | [HTML CSS: Audit — Usability Improvement for Portfolio Demo](Project_023150/README.md) |
+| 023151 | [HTML CSS: Log Analysis — Baseline Setup for School Lab](Project_023151/README.md) |
+| 023152 | [HTML CSS: Log Analysis — Automation for School Lab](Project_023152/README.md) |
+| 023153 | [HTML CSS: Log Analysis — Recovery for School Lab](Project_023153/README.md) |
+| 023154 | [HTML CSS: Log Analysis — Reporting for School Lab](Project_023154/README.md) |
+| 023155 | [HTML CSS: Log Analysis — Usability Improvement for School Lab](Project_023155/README.md) |
+| 023156 | [HTML CSS: Log Analysis — Baseline Setup for Small Business](Project_023156/README.md) |
+| 023157 | [HTML CSS: Log Analysis — Automation for Small Business](Project_023157/README.md) |
+| 023158 | [HTML CSS: Log Analysis — Recovery for Small Business](Project_023158/README.md) |
+| 023159 | [HTML CSS: Log Analysis — Reporting for Small Business](Project_023159/README.md) |
+| 023160 | [HTML CSS: Log Analysis — Usability Improvement for Small Business](Project_023160/README.md) |
 
 [Back to the portfolio home](../README.md)
