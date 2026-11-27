@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022898 | [Java: Automation — Recovery for Portfolio Demo](Project_022898/README.md) |
 | 022899 | [Java: Automation — Reporting for Portfolio Demo](Project_022899/README.md) |
 | 022900 | [Java: Automation — Usability Improvement for Portfolio Demo](Project_022900/README.md) |
+| 022901 | [Java: Visual Reporting — Baseline Setup for School Lab](Project_022901/README.md) |
+| 022902 | [Java: Visual Reporting — Automation for School Lab](Project_022902/README.md) |
+| 022903 | [Java: Visual Reporting — Recovery for School Lab](Project_022903/README.md) |
+| 022904 | [Java: Visual Reporting — Reporting for School Lab](Project_022904/README.md) |
+| 022905 | [Java: Visual Reporting — Usability Improvement for School Lab](Project_022905/README.md) |
+| 022906 | [Java: Visual Reporting — Baseline Setup for Small Business](Project_022906/README.md) |
+| 022907 | [Java: Visual Reporting — Automation for Small Business](Project_022907/README.md) |
+| 022908 | [Java: Visual Reporting — Recovery for Small Business](Project_022908/README.md) |
+| 022909 | [Java: Visual Reporting — Reporting for Small Business](Project_022909/README.md) |
+| 022910 | [Java: Visual Reporting — Usability Improvement for Small Business](Project_022910/README.md) |
+| 022911 | [Java: Visual Reporting — Baseline Setup for Home Development](Project_022911/README.md) |
+| 022912 | [Java: Visual Reporting — Automation for Home Development](Project_022912/README.md) |
+| 022913 | [Java: Visual Reporting — Recovery for Home Development](Project_022913/README.md) |
+| 022914 | [Java: Visual Reporting — Reporting for Home Development](Project_022914/README.md) |
+| 022915 | [Java: Visual Reporting — Usability Improvement for Home Development](Project_022915/README.md) |
+| 022916 | [Java: Visual Reporting — Baseline Setup for Public Dataset](Project_022916/README.md) |
+| 022917 | [Java: Visual Reporting — Automation for Public Dataset](Project_022917/README.md) |
+| 022918 | [Java: Visual Reporting — Recovery for Public Dataset](Project_022918/README.md) |
+| 022919 | [Java: Visual Reporting — Reporting for Public Dataset](Project_022919/README.md) |
+| 022920 | [Java: Visual Reporting — Usability Improvement for Public Dataset](Project_022920/README.md) |
 
 [Back to the portfolio home](../README.md)
