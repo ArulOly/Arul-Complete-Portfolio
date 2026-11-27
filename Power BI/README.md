@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032658 | [Power BI: Configuration Comparison — Recovery for Small Business](Project_032658/README.md) |
 | 032659 | [Power BI: Configuration Comparison — Reporting for Small Business](Project_032659/README.md) |
 | 032660 | [Power BI: Configuration Comparison — Usability Improvement for Small Business](Project_032660/README.md) |
+| 032661 | [Power BI: Configuration Comparison — Baseline Setup for Home Development](Project_032661/README.md) |
+| 032662 | [Power BI: Configuration Comparison — Automation for Home Development](Project_032662/README.md) |
+| 032663 | [Power BI: Configuration Comparison — Recovery for Home Development](Project_032663/README.md) |
+| 032664 | [Power BI: Configuration Comparison — Reporting for Home Development](Project_032664/README.md) |
+| 032665 | [Power BI: Configuration Comparison — Usability Improvement for Home Development](Project_032665/README.md) |
+| 032666 | [Power BI: Configuration Comparison — Baseline Setup for Public Dataset](Project_032666/README.md) |
+| 032667 | [Power BI: Configuration Comparison — Automation for Public Dataset](Project_032667/README.md) |
+| 032668 | [Power BI: Configuration Comparison — Recovery for Public Dataset](Project_032668/README.md) |
+| 032669 | [Power BI: Configuration Comparison — Reporting for Public Dataset](Project_032669/README.md) |
+| 032670 | [Power BI: Configuration Comparison — Usability Improvement for Public Dataset](Project_032670/README.md) |
+| 032671 | [Power BI: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_032671/README.md) |
+| 032672 | [Power BI: Configuration Comparison — Automation for Branch Office Simulator](Project_032672/README.md) |
+| 032673 | [Power BI: Configuration Comparison — Recovery for Branch Office Simulator](Project_032673/README.md) |
+| 032674 | [Power BI: Configuration Comparison — Reporting for Branch Office Simulator](Project_032674/README.md) |
+| 032675 | [Power BI: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_032675/README.md) |
+| 032676 | [Power BI: Configuration Comparison — Baseline Setup for Offline Classroom](Project_032676/README.md) |
+| 032677 | [Power BI: Configuration Comparison — Automation for Offline Classroom](Project_032677/README.md) |
+| 032678 | [Power BI: Configuration Comparison — Recovery for Offline Classroom](Project_032678/README.md) |
+| 032679 | [Power BI: Configuration Comparison — Reporting for Offline Classroom](Project_032679/README.md) |
+| 032680 | [Power BI: Configuration Comparison — Usability Improvement for Offline Classroom](Project_032680/README.md) |
 
 [Back to the portfolio home](../README.md)
