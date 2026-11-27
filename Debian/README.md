@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003658 | [Debian: Configuration Comparison — Recovery for Small Business](Project_003658/README.md) |
 | 003659 | [Debian: Configuration Comparison — Reporting for Small Business](Project_003659/README.md) |
 | 003660 | [Debian: Configuration Comparison — Usability Improvement for Small Business](Project_003660/README.md) |
+| 003661 | [Debian: Configuration Comparison — Baseline Setup for Home Development](Project_003661/README.md) |
+| 003662 | [Debian: Configuration Comparison — Automation for Home Development](Project_003662/README.md) |
+| 003663 | [Debian: Configuration Comparison — Recovery for Home Development](Project_003663/README.md) |
+| 003664 | [Debian: Configuration Comparison — Reporting for Home Development](Project_003664/README.md) |
+| 003665 | [Debian: Configuration Comparison — Usability Improvement for Home Development](Project_003665/README.md) |
+| 003666 | [Debian: Configuration Comparison — Baseline Setup for Public Dataset](Project_003666/README.md) |
+| 003667 | [Debian: Configuration Comparison — Automation for Public Dataset](Project_003667/README.md) |
+| 003668 | [Debian: Configuration Comparison — Recovery for Public Dataset](Project_003668/README.md) |
+| 003669 | [Debian: Configuration Comparison — Reporting for Public Dataset](Project_003669/README.md) |
+| 003670 | [Debian: Configuration Comparison — Usability Improvement for Public Dataset](Project_003670/README.md) |
+| 003671 | [Debian: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_003671/README.md) |
+| 003672 | [Debian: Configuration Comparison — Automation for Branch Office Simulator](Project_003672/README.md) |
+| 003673 | [Debian: Configuration Comparison — Recovery for Branch Office Simulator](Project_003673/README.md) |
+| 003674 | [Debian: Configuration Comparison — Reporting for Branch Office Simulator](Project_003674/README.md) |
+| 003675 | [Debian: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_003675/README.md) |
+| 003676 | [Debian: Configuration Comparison — Baseline Setup for Offline Classroom](Project_003676/README.md) |
+| 003677 | [Debian: Configuration Comparison — Automation for Offline Classroom](Project_003677/README.md) |
+| 003678 | [Debian: Configuration Comparison — Recovery for Offline Classroom](Project_003678/README.md) |
+| 003679 | [Debian: Configuration Comparison — Reporting for Offline Classroom](Project_003679/README.md) |
+| 003680 | [Debian: Configuration Comparison — Usability Improvement for Offline Classroom](Project_003680/README.md) |
 
 [Back to the portfolio home](../README.md)
