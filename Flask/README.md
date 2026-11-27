@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048418 | [Flask: Alerting — Recovery for Public Dataset](Project_048418/README.md) |
 | 048419 | [Flask: Alerting — Reporting for Public Dataset](Project_048419/README.md) |
 | 048420 | [Flask: Alerting — Usability Improvement for Public Dataset](Project_048420/README.md) |
+| 048421 | [Flask: Alerting — Baseline Setup for Branch Office Simulator](Project_048421/README.md) |
+| 048422 | [Flask: Alerting — Automation for Branch Office Simulator](Project_048422/README.md) |
+| 048423 | [Flask: Alerting — Recovery for Branch Office Simulator](Project_048423/README.md) |
+| 048424 | [Flask: Alerting — Reporting for Branch Office Simulator](Project_048424/README.md) |
+| 048425 | [Flask: Alerting — Usability Improvement for Branch Office Simulator](Project_048425/README.md) |
+| 048426 | [Flask: Alerting — Baseline Setup for Offline Classroom](Project_048426/README.md) |
+| 048427 | [Flask: Alerting — Automation for Offline Classroom](Project_048427/README.md) |
+| 048428 | [Flask: Alerting — Recovery for Offline Classroom](Project_048428/README.md) |
+| 048429 | [Flask: Alerting — Reporting for Offline Classroom](Project_048429/README.md) |
+| 048430 | [Flask: Alerting — Usability Improvement for Offline Classroom](Project_048430/README.md) |
+| 048431 | [Flask: Alerting — Baseline Setup for Single-Host Lab](Project_048431/README.md) |
+| 048432 | [Flask: Alerting — Automation for Single-Host Lab](Project_048432/README.md) |
+| 048433 | [Flask: Alerting — Recovery for Single-Host Lab](Project_048433/README.md) |
+| 048434 | [Flask: Alerting — Reporting for Single-Host Lab](Project_048434/README.md) |
+| 048435 | [Flask: Alerting — Usability Improvement for Single-Host Lab](Project_048435/README.md) |
+| 048436 | [Flask: Alerting — Baseline Setup for Two-Node Lab](Project_048436/README.md) |
+| 048437 | [Flask: Alerting — Automation for Two-Node Lab](Project_048437/README.md) |
+| 048438 | [Flask: Alerting — Recovery for Two-Node Lab](Project_048438/README.md) |
+| 048439 | [Flask: Alerting — Reporting for Two-Node Lab](Project_048439/README.md) |
+| 048440 | [Flask: Alerting — Usability Improvement for Two-Node Lab](Project_048440/README.md) |
 
 [Back to the portfolio home](../README.md)
