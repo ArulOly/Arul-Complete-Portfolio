@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002418 | [Ubuntu: Alerting — Recovery for Public Dataset](Project_002418/README.md) |
 | 002419 | [Ubuntu: Alerting — Reporting for Public Dataset](Project_002419/README.md) |
 | 002420 | [Ubuntu: Alerting — Usability Improvement for Public Dataset](Project_002420/README.md) |
+| 002421 | [Ubuntu: Alerting — Baseline Setup for Branch Office Simulator](Project_002421/README.md) |
+| 002422 | [Ubuntu: Alerting — Automation for Branch Office Simulator](Project_002422/README.md) |
+| 002423 | [Ubuntu: Alerting — Recovery for Branch Office Simulator](Project_002423/README.md) |
+| 002424 | [Ubuntu: Alerting — Reporting for Branch Office Simulator](Project_002424/README.md) |
+| 002425 | [Ubuntu: Alerting — Usability Improvement for Branch Office Simulator](Project_002425/README.md) |
+| 002426 | [Ubuntu: Alerting — Baseline Setup for Offline Classroom](Project_002426/README.md) |
+| 002427 | [Ubuntu: Alerting — Automation for Offline Classroom](Project_002427/README.md) |
+| 002428 | [Ubuntu: Alerting — Recovery for Offline Classroom](Project_002428/README.md) |
+| 002429 | [Ubuntu: Alerting — Reporting for Offline Classroom](Project_002429/README.md) |
+| 002430 | [Ubuntu: Alerting — Usability Improvement for Offline Classroom](Project_002430/README.md) |
+| 002431 | [Ubuntu: Alerting — Baseline Setup for Single-Host Lab](Project_002431/README.md) |
+| 002432 | [Ubuntu: Alerting — Automation for Single-Host Lab](Project_002432/README.md) |
+| 002433 | [Ubuntu: Alerting — Recovery for Single-Host Lab](Project_002433/README.md) |
+| 002434 | [Ubuntu: Alerting — Reporting for Single-Host Lab](Project_002434/README.md) |
+| 002435 | [Ubuntu: Alerting — Usability Improvement for Single-Host Lab](Project_002435/README.md) |
+| 002436 | [Ubuntu: Alerting — Baseline Setup for Two-Node Lab](Project_002436/README.md) |
+| 002437 | [Ubuntu: Alerting — Automation for Two-Node Lab](Project_002437/README.md) |
+| 002438 | [Ubuntu: Alerting — Recovery for Two-Node Lab](Project_002438/README.md) |
+| 002439 | [Ubuntu: Alerting — Reporting for Two-Node Lab](Project_002439/README.md) |
+| 002440 | [Ubuntu: Alerting — Usability Improvement for Two-Node Lab](Project_002440/README.md) |
 
 [Back to the portfolio home](../README.md)
