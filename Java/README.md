@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022218 | [Java: Backup Verification — Recovery for Public Dataset](Project_022218/README.md) |
 | 022219 | [Java: Backup Verification — Reporting for Public Dataset](Project_022219/README.md) |
 | 022220 | [Java: Backup Verification — Usability Improvement for Public Dataset](Project_022220/README.md) |
+| 022221 | [Java: Backup Verification — Baseline Setup for Branch Office Simulator](Project_022221/README.md) |
+| 022222 | [Java: Backup Verification — Automation for Branch Office Simulator](Project_022222/README.md) |
+| 022223 | [Java: Backup Verification — Recovery for Branch Office Simulator](Project_022223/README.md) |
+| 022224 | [Java: Backup Verification — Reporting for Branch Office Simulator](Project_022224/README.md) |
+| 022225 | [Java: Backup Verification — Usability Improvement for Branch Office Simulator](Project_022225/README.md) |
+| 022226 | [Java: Backup Verification — Baseline Setup for Offline Classroom](Project_022226/README.md) |
+| 022227 | [Java: Backup Verification — Automation for Offline Classroom](Project_022227/README.md) |
+| 022228 | [Java: Backup Verification — Recovery for Offline Classroom](Project_022228/README.md) |
+| 022229 | [Java: Backup Verification — Reporting for Offline Classroom](Project_022229/README.md) |
+| 022230 | [Java: Backup Verification — Usability Improvement for Offline Classroom](Project_022230/README.md) |
+| 022231 | [Java: Backup Verification — Baseline Setup for Single-Host Lab](Project_022231/README.md) |
+| 022232 | [Java: Backup Verification — Automation for Single-Host Lab](Project_022232/README.md) |
+| 022233 | [Java: Backup Verification — Recovery for Single-Host Lab](Project_022233/README.md) |
+| 022234 | [Java: Backup Verification — Reporting for Single-Host Lab](Project_022234/README.md) |
+| 022235 | [Java: Backup Verification — Usability Improvement for Single-Host Lab](Project_022235/README.md) |
+| 022236 | [Java: Backup Verification — Baseline Setup for Two-Node Lab](Project_022236/README.md) |
+| 022237 | [Java: Backup Verification — Automation for Two-Node Lab](Project_022237/README.md) |
+| 022238 | [Java: Backup Verification — Recovery for Two-Node Lab](Project_022238/README.md) |
+| 022239 | [Java: Backup Verification — Reporting for Two-Node Lab](Project_022239/README.md) |
+| 022240 | [Java: Backup Verification — Usability Improvement for Two-Node Lab](Project_022240/README.md) |
 
 [Back to the portfolio home](../README.md)
