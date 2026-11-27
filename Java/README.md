@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022298 | [Java: Data Import — Recovery for Portfolio Demo](Project_022298/README.md) |
 | 022299 | [Java: Data Import — Reporting for Portfolio Demo](Project_022299/README.md) |
 | 022300 | [Java: Data Import — Usability Improvement for Portfolio Demo](Project_022300/README.md) |
+| 022301 | [Java: Data Export — Baseline Setup for School Lab](Project_022301/README.md) |
+| 022302 | [Java: Data Export — Automation for School Lab](Project_022302/README.md) |
+| 022303 | [Java: Data Export — Recovery for School Lab](Project_022303/README.md) |
+| 022304 | [Java: Data Export — Reporting for School Lab](Project_022304/README.md) |
+| 022305 | [Java: Data Export — Usability Improvement for School Lab](Project_022305/README.md) |
+| 022306 | [Java: Data Export — Baseline Setup for Small Business](Project_022306/README.md) |
+| 022307 | [Java: Data Export — Automation for Small Business](Project_022307/README.md) |
+| 022308 | [Java: Data Export — Recovery for Small Business](Project_022308/README.md) |
+| 022309 | [Java: Data Export — Reporting for Small Business](Project_022309/README.md) |
+| 022310 | [Java: Data Export — Usability Improvement for Small Business](Project_022310/README.md) |
+| 022311 | [Java: Data Export — Baseline Setup for Home Development](Project_022311/README.md) |
+| 022312 | [Java: Data Export — Automation for Home Development](Project_022312/README.md) |
+| 022313 | [Java: Data Export — Recovery for Home Development](Project_022313/README.md) |
+| 022314 | [Java: Data Export — Reporting for Home Development](Project_022314/README.md) |
+| 022315 | [Java: Data Export — Usability Improvement for Home Development](Project_022315/README.md) |
+| 022316 | [Java: Data Export — Baseline Setup for Public Dataset](Project_022316/README.md) |
+| 022317 | [Java: Data Export — Automation for Public Dataset](Project_022317/README.md) |
+| 022318 | [Java: Data Export — Recovery for Public Dataset](Project_022318/README.md) |
+| 022319 | [Java: Data Export — Reporting for Public Dataset](Project_022319/README.md) |
+| 022320 | [Java: Data Export — Usability Improvement for Public Dataset](Project_022320/README.md) |
 
 [Back to the portfolio home](../README.md)
