@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021358 | [TypeScript: Dashboard — Recovery for Small Business](Project_021358/README.md) |
 | 021359 | [TypeScript: Dashboard — Reporting for Small Business](Project_021359/README.md) |
 | 021360 | [TypeScript: Dashboard — Usability Improvement for Small Business](Project_021360/README.md) |
+| 021361 | [TypeScript: Dashboard — Baseline Setup for Home Development](Project_021361/README.md) |
+| 021362 | [TypeScript: Dashboard — Automation for Home Development](Project_021362/README.md) |
+| 021363 | [TypeScript: Dashboard — Recovery for Home Development](Project_021363/README.md) |
+| 021364 | [TypeScript: Dashboard — Reporting for Home Development](Project_021364/README.md) |
+| 021365 | [TypeScript: Dashboard — Usability Improvement for Home Development](Project_021365/README.md) |
+| 021366 | [TypeScript: Dashboard — Baseline Setup for Public Dataset](Project_021366/README.md) |
+| 021367 | [TypeScript: Dashboard — Automation for Public Dataset](Project_021367/README.md) |
+| 021368 | [TypeScript: Dashboard — Recovery for Public Dataset](Project_021368/README.md) |
+| 021369 | [TypeScript: Dashboard — Reporting for Public Dataset](Project_021369/README.md) |
+| 021370 | [TypeScript: Dashboard — Usability Improvement for Public Dataset](Project_021370/README.md) |
+| 021371 | [TypeScript: Dashboard — Baseline Setup for Branch Office Simulator](Project_021371/README.md) |
+| 021372 | [TypeScript: Dashboard — Automation for Branch Office Simulator](Project_021372/README.md) |
+| 021373 | [TypeScript: Dashboard — Recovery for Branch Office Simulator](Project_021373/README.md) |
+| 021374 | [TypeScript: Dashboard — Reporting for Branch Office Simulator](Project_021374/README.md) |
+| 021375 | [TypeScript: Dashboard — Usability Improvement for Branch Office Simulator](Project_021375/README.md) |
+| 021376 | [TypeScript: Dashboard — Baseline Setup for Offline Classroom](Project_021376/README.md) |
+| 021377 | [TypeScript: Dashboard — Automation for Offline Classroom](Project_021377/README.md) |
+| 021378 | [TypeScript: Dashboard — Recovery for Offline Classroom](Project_021378/README.md) |
+| 021379 | [TypeScript: Dashboard — Reporting for Offline Classroom](Project_021379/README.md) |
+| 021380 | [TypeScript: Dashboard — Usability Improvement for Offline Classroom](Project_021380/README.md) |
 
 [Back to the portfolio home](../README.md)
