@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021958 | [TypeScript: Recovery Test — Recovery for Small Business](Project_021958/README.md) |
 | 021959 | [TypeScript: Recovery Test — Reporting for Small Business](Project_021959/README.md) |
 | 021960 | [TypeScript: Recovery Test — Usability Improvement for Small Business](Project_021960/README.md) |
+| 021961 | [TypeScript: Recovery Test — Baseline Setup for Home Development](Project_021961/README.md) |
+| 021962 | [TypeScript: Recovery Test — Automation for Home Development](Project_021962/README.md) |
+| 021963 | [TypeScript: Recovery Test — Recovery for Home Development](Project_021963/README.md) |
+| 021964 | [TypeScript: Recovery Test — Reporting for Home Development](Project_021964/README.md) |
+| 021965 | [TypeScript: Recovery Test — Usability Improvement for Home Development](Project_021965/README.md) |
+| 021966 | [TypeScript: Recovery Test — Baseline Setup for Public Dataset](Project_021966/README.md) |
+| 021967 | [TypeScript: Recovery Test — Automation for Public Dataset](Project_021967/README.md) |
+| 021968 | [TypeScript: Recovery Test — Recovery for Public Dataset](Project_021968/README.md) |
+| 021969 | [TypeScript: Recovery Test — Reporting for Public Dataset](Project_021969/README.md) |
+| 021970 | [TypeScript: Recovery Test — Usability Improvement for Public Dataset](Project_021970/README.md) |
+| 021971 | [TypeScript: Recovery Test — Baseline Setup for Branch Office Simulator](Project_021971/README.md) |
+| 021972 | [TypeScript: Recovery Test — Automation for Branch Office Simulator](Project_021972/README.md) |
+| 021973 | [TypeScript: Recovery Test — Recovery for Branch Office Simulator](Project_021973/README.md) |
+| 021974 | [TypeScript: Recovery Test — Reporting for Branch Office Simulator](Project_021974/README.md) |
+| 021975 | [TypeScript: Recovery Test — Usability Improvement for Branch Office Simulator](Project_021975/README.md) |
+| 021976 | [TypeScript: Recovery Test — Baseline Setup for Offline Classroom](Project_021976/README.md) |
+| 021977 | [TypeScript: Recovery Test — Automation for Offline Classroom](Project_021977/README.md) |
+| 021978 | [TypeScript: Recovery Test — Recovery for Offline Classroom](Project_021978/README.md) |
+| 021979 | [TypeScript: Recovery Test — Reporting for Offline Classroom](Project_021979/README.md) |
+| 021980 | [TypeScript: Recovery Test — Usability Improvement for Offline Classroom](Project_021980/README.md) |
 
 [Back to the portfolio home](../README.md)
