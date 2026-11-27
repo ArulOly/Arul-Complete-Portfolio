@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033258 | [Jupyter: Data Import — Recovery for Small Business](Project_033258/README.md) |
 | 033259 | [Jupyter: Data Import — Reporting for Small Business](Project_033259/README.md) |
 | 033260 | [Jupyter: Data Import — Usability Improvement for Small Business](Project_033260/README.md) |
+| 033261 | [Jupyter: Data Import — Baseline Setup for Home Development](Project_033261/README.md) |
+| 033262 | [Jupyter: Data Import — Automation for Home Development](Project_033262/README.md) |
+| 033263 | [Jupyter: Data Import — Recovery for Home Development](Project_033263/README.md) |
+| 033264 | [Jupyter: Data Import — Reporting for Home Development](Project_033264/README.md) |
+| 033265 | [Jupyter: Data Import — Usability Improvement for Home Development](Project_033265/README.md) |
+| 033266 | [Jupyter: Data Import — Baseline Setup for Public Dataset](Project_033266/README.md) |
+| 033267 | [Jupyter: Data Import — Automation for Public Dataset](Project_033267/README.md) |
+| 033268 | [Jupyter: Data Import — Recovery for Public Dataset](Project_033268/README.md) |
+| 033269 | [Jupyter: Data Import — Reporting for Public Dataset](Project_033269/README.md) |
+| 033270 | [Jupyter: Data Import — Usability Improvement for Public Dataset](Project_033270/README.md) |
+| 033271 | [Jupyter: Data Import — Baseline Setup for Branch Office Simulator](Project_033271/README.md) |
+| 033272 | [Jupyter: Data Import — Automation for Branch Office Simulator](Project_033272/README.md) |
+| 033273 | [Jupyter: Data Import — Recovery for Branch Office Simulator](Project_033273/README.md) |
+| 033274 | [Jupyter: Data Import — Reporting for Branch Office Simulator](Project_033274/README.md) |
+| 033275 | [Jupyter: Data Import — Usability Improvement for Branch Office Simulator](Project_033275/README.md) |
+| 033276 | [Jupyter: Data Import — Baseline Setup for Offline Classroom](Project_033276/README.md) |
+| 033277 | [Jupyter: Data Import — Automation for Offline Classroom](Project_033277/README.md) |
+| 033278 | [Jupyter: Data Import — Recovery for Offline Classroom](Project_033278/README.md) |
+| 033279 | [Jupyter: Data Import — Reporting for Offline Classroom](Project_033279/README.md) |
+| 033280 | [Jupyter: Data Import — Usability Improvement for Offline Classroom](Project_033280/README.md) |
 
 [Back to the portfolio home](../README.md)
