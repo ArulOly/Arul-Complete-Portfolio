@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034018 | [Scikit-learn: Inventory — Recovery for Public Dataset](Project_034018/README.md) |
 | 034019 | [Scikit-learn: Inventory — Reporting for Public Dataset](Project_034019/README.md) |
 | 034020 | [Scikit-learn: Inventory — Usability Improvement for Public Dataset](Project_034020/README.md) |
+| 034021 | [Scikit-learn: Inventory — Baseline Setup for Branch Office Simulator](Project_034021/README.md) |
+| 034022 | [Scikit-learn: Inventory — Automation for Branch Office Simulator](Project_034022/README.md) |
+| 034023 | [Scikit-learn: Inventory — Recovery for Branch Office Simulator](Project_034023/README.md) |
+| 034024 | [Scikit-learn: Inventory — Reporting for Branch Office Simulator](Project_034024/README.md) |
+| 034025 | [Scikit-learn: Inventory — Usability Improvement for Branch Office Simulator](Project_034025/README.md) |
+| 034026 | [Scikit-learn: Inventory — Baseline Setup for Offline Classroom](Project_034026/README.md) |
+| 034027 | [Scikit-learn: Inventory — Automation for Offline Classroom](Project_034027/README.md) |
+| 034028 | [Scikit-learn: Inventory — Recovery for Offline Classroom](Project_034028/README.md) |
+| 034029 | [Scikit-learn: Inventory — Reporting for Offline Classroom](Project_034029/README.md) |
+| 034030 | [Scikit-learn: Inventory — Usability Improvement for Offline Classroom](Project_034030/README.md) |
+| 034031 | [Scikit-learn: Inventory — Baseline Setup for Single-Host Lab](Project_034031/README.md) |
+| 034032 | [Scikit-learn: Inventory — Automation for Single-Host Lab](Project_034032/README.md) |
+| 034033 | [Scikit-learn: Inventory — Recovery for Single-Host Lab](Project_034033/README.md) |
+| 034034 | [Scikit-learn: Inventory — Reporting for Single-Host Lab](Project_034034/README.md) |
+| 034035 | [Scikit-learn: Inventory — Usability Improvement for Single-Host Lab](Project_034035/README.md) |
+| 034036 | [Scikit-learn: Inventory — Baseline Setup for Two-Node Lab](Project_034036/README.md) |
+| 034037 | [Scikit-learn: Inventory — Automation for Two-Node Lab](Project_034037/README.md) |
+| 034038 | [Scikit-learn: Inventory — Recovery for Two-Node Lab](Project_034038/README.md) |
+| 034039 | [Scikit-learn: Inventory — Reporting for Two-Node Lab](Project_034039/README.md) |
+| 034040 | [Scikit-learn: Inventory — Usability Improvement for Two-Node Lab](Project_034040/README.md) |
 
 [Back to the portfolio home](../README.md)
