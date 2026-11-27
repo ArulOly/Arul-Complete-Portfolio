@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003378 | [Debian: Dashboard — Recovery for Offline Classroom](Project_003378/README.md) |
 | 003379 | [Debian: Dashboard — Reporting for Offline Classroom](Project_003379/README.md) |
 | 003380 | [Debian: Dashboard — Usability Improvement for Offline Classroom](Project_003380/README.md) |
+| 003381 | [Debian: Dashboard — Baseline Setup for Single-Host Lab](Project_003381/README.md) |
+| 003382 | [Debian: Dashboard — Automation for Single-Host Lab](Project_003382/README.md) |
+| 003383 | [Debian: Dashboard — Recovery for Single-Host Lab](Project_003383/README.md) |
+| 003384 | [Debian: Dashboard — Reporting for Single-Host Lab](Project_003384/README.md) |
+| 003385 | [Debian: Dashboard — Usability Improvement for Single-Host Lab](Project_003385/README.md) |
+| 003386 | [Debian: Dashboard — Baseline Setup for Two-Node Lab](Project_003386/README.md) |
+| 003387 | [Debian: Dashboard — Automation for Two-Node Lab](Project_003387/README.md) |
+| 003388 | [Debian: Dashboard — Recovery for Two-Node Lab](Project_003388/README.md) |
+| 003389 | [Debian: Dashboard — Reporting for Two-Node Lab](Project_003389/README.md) |
+| 003390 | [Debian: Dashboard — Usability Improvement for Two-Node Lab](Project_003390/README.md) |
+| 003391 | [Debian: Dashboard — Baseline Setup for Help Desk](Project_003391/README.md) |
+| 003392 | [Debian: Dashboard — Automation for Help Desk](Project_003392/README.md) |
+| 003393 | [Debian: Dashboard — Recovery for Help Desk](Project_003393/README.md) |
+| 003394 | [Debian: Dashboard — Reporting for Help Desk](Project_003394/README.md) |
+| 003395 | [Debian: Dashboard — Usability Improvement for Help Desk](Project_003395/README.md) |
+| 003396 | [Debian: Dashboard — Baseline Setup for Portfolio Demo](Project_003396/README.md) |
+| 003397 | [Debian: Dashboard — Automation for Portfolio Demo](Project_003397/README.md) |
+| 003398 | [Debian: Dashboard — Recovery for Portfolio Demo](Project_003398/README.md) |
+| 003399 | [Debian: Dashboard — Reporting for Portfolio Demo](Project_003399/README.md) |
+| 003400 | [Debian: Dashboard — Usability Improvement for Portfolio Demo](Project_003400/README.md) |
 
 [Back to the portfolio home](../README.md)
