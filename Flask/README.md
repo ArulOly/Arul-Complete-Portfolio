@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048758 | [Flask: Data Validation — Recovery for Small Business](Project_048758/README.md) |
 | 048759 | [Flask: Data Validation — Reporting for Small Business](Project_048759/README.md) |
 | 048760 | [Flask: Data Validation — Usability Improvement for Small Business](Project_048760/README.md) |
+| 048761 | [Flask: Data Validation — Baseline Setup for Home Development](Project_048761/README.md) |
+| 048762 | [Flask: Data Validation — Automation for Home Development](Project_048762/README.md) |
+| 048763 | [Flask: Data Validation — Recovery for Home Development](Project_048763/README.md) |
+| 048764 | [Flask: Data Validation — Reporting for Home Development](Project_048764/README.md) |
+| 048765 | [Flask: Data Validation — Usability Improvement for Home Development](Project_048765/README.md) |
+| 048766 | [Flask: Data Validation — Baseline Setup for Public Dataset](Project_048766/README.md) |
+| 048767 | [Flask: Data Validation — Automation for Public Dataset](Project_048767/README.md) |
+| 048768 | [Flask: Data Validation — Recovery for Public Dataset](Project_048768/README.md) |
+| 048769 | [Flask: Data Validation — Reporting for Public Dataset](Project_048769/README.md) |
+| 048770 | [Flask: Data Validation — Usability Improvement for Public Dataset](Project_048770/README.md) |
+| 048771 | [Flask: Data Validation — Baseline Setup for Branch Office Simulator](Project_048771/README.md) |
+| 048772 | [Flask: Data Validation — Automation for Branch Office Simulator](Project_048772/README.md) |
+| 048773 | [Flask: Data Validation — Recovery for Branch Office Simulator](Project_048773/README.md) |
+| 048774 | [Flask: Data Validation — Reporting for Branch Office Simulator](Project_048774/README.md) |
+| 048775 | [Flask: Data Validation — Usability Improvement for Branch Office Simulator](Project_048775/README.md) |
+| 048776 | [Flask: Data Validation — Baseline Setup for Offline Classroom](Project_048776/README.md) |
+| 048777 | [Flask: Data Validation — Automation for Offline Classroom](Project_048777/README.md) |
+| 048778 | [Flask: Data Validation — Recovery for Offline Classroom](Project_048778/README.md) |
+| 048779 | [Flask: Data Validation — Reporting for Offline Classroom](Project_048779/README.md) |
+| 048780 | [Flask: Data Validation — Usability Improvement for Offline Classroom](Project_048780/README.md) |
 
 [Back to the portfolio home](../README.md)
