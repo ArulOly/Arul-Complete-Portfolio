@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025718 | [PostgreSQL: Error Handling — Recovery for Public Dataset](Project_025718/README.md) |
 | 025719 | [PostgreSQL: Error Handling — Reporting for Public Dataset](Project_025719/README.md) |
 | 025720 | [PostgreSQL: Error Handling — Usability Improvement for Public Dataset](Project_025720/README.md) |
+| 025721 | [PostgreSQL: Error Handling — Baseline Setup for Branch Office Simulator](Project_025721/README.md) |
+| 025722 | [PostgreSQL: Error Handling — Automation for Branch Office Simulator](Project_025722/README.md) |
+| 025723 | [PostgreSQL: Error Handling — Recovery for Branch Office Simulator](Project_025723/README.md) |
+| 025724 | [PostgreSQL: Error Handling — Reporting for Branch Office Simulator](Project_025724/README.md) |
+| 025725 | [PostgreSQL: Error Handling — Usability Improvement for Branch Office Simulator](Project_025725/README.md) |
+| 025726 | [PostgreSQL: Error Handling — Baseline Setup for Offline Classroom](Project_025726/README.md) |
+| 025727 | [PostgreSQL: Error Handling — Automation for Offline Classroom](Project_025727/README.md) |
+| 025728 | [PostgreSQL: Error Handling — Recovery for Offline Classroom](Project_025728/README.md) |
+| 025729 | [PostgreSQL: Error Handling — Reporting for Offline Classroom](Project_025729/README.md) |
+| 025730 | [PostgreSQL: Error Handling — Usability Improvement for Offline Classroom](Project_025730/README.md) |
+| 025731 | [PostgreSQL: Error Handling — Baseline Setup for Single-Host Lab](Project_025731/README.md) |
+| 025732 | [PostgreSQL: Error Handling — Automation for Single-Host Lab](Project_025732/README.md) |
+| 025733 | [PostgreSQL: Error Handling — Recovery for Single-Host Lab](Project_025733/README.md) |
+| 025734 | [PostgreSQL: Error Handling — Reporting for Single-Host Lab](Project_025734/README.md) |
+| 025735 | [PostgreSQL: Error Handling — Usability Improvement for Single-Host Lab](Project_025735/README.md) |
+| 025736 | [PostgreSQL: Error Handling — Baseline Setup for Two-Node Lab](Project_025736/README.md) |
+| 025737 | [PostgreSQL: Error Handling — Automation for Two-Node Lab](Project_025737/README.md) |
+| 025738 | [PostgreSQL: Error Handling — Recovery for Two-Node Lab](Project_025738/README.md) |
+| 025739 | [PostgreSQL: Error Handling — Reporting for Two-Node Lab](Project_025739/README.md) |
+| 025740 | [PostgreSQL: Error Handling — Usability Improvement for Two-Node Lab](Project_025740/README.md) |
 
 [Back to the portfolio home](../README.md)
