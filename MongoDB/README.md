@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027598 | [MongoDB: Performance Baseline — Recovery for Portfolio Demo](Project_027598/README.md) |
 | 027599 | [MongoDB: Performance Baseline — Reporting for Portfolio Demo](Project_027599/README.md) |
 | 027600 | [MongoDB: Performance Baseline — Usability Improvement for Portfolio Demo](Project_027600/README.md) |
+| 027601 | [MongoDB: Service Check — Baseline Setup for School Lab](Project_027601/README.md) |
+| 027602 | [MongoDB: Service Check — Automation for School Lab](Project_027602/README.md) |
+| 027603 | [MongoDB: Service Check — Recovery for School Lab](Project_027603/README.md) |
+| 027604 | [MongoDB: Service Check — Reporting for School Lab](Project_027604/README.md) |
+| 027605 | [MongoDB: Service Check — Usability Improvement for School Lab](Project_027605/README.md) |
+| 027606 | [MongoDB: Service Check — Baseline Setup for Small Business](Project_027606/README.md) |
+| 027607 | [MongoDB: Service Check — Automation for Small Business](Project_027607/README.md) |
+| 027608 | [MongoDB: Service Check — Recovery for Small Business](Project_027608/README.md) |
+| 027609 | [MongoDB: Service Check — Reporting for Small Business](Project_027609/README.md) |
+| 027610 | [MongoDB: Service Check — Usability Improvement for Small Business](Project_027610/README.md) |
+| 027611 | [MongoDB: Service Check — Baseline Setup for Home Development](Project_027611/README.md) |
+| 027612 | [MongoDB: Service Check — Automation for Home Development](Project_027612/README.md) |
+| 027613 | [MongoDB: Service Check — Recovery for Home Development](Project_027613/README.md) |
+| 027614 | [MongoDB: Service Check — Reporting for Home Development](Project_027614/README.md) |
+| 027615 | [MongoDB: Service Check — Usability Improvement for Home Development](Project_027615/README.md) |
+| 027616 | [MongoDB: Service Check — Baseline Setup for Public Dataset](Project_027616/README.md) |
+| 027617 | [MongoDB: Service Check — Automation for Public Dataset](Project_027617/README.md) |
+| 027618 | [MongoDB: Service Check — Recovery for Public Dataset](Project_027618/README.md) |
+| 027619 | [MongoDB: Service Check — Reporting for Public Dataset](Project_027619/README.md) |
+| 027620 | [MongoDB: Service Check — Usability Improvement for Public Dataset](Project_027620/README.md) |
 
 [Back to the portfolio home](../README.md)
