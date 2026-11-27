@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024378 | [Node.js: Dashboard — Recovery for Offline Classroom](Project_024378/README.md) |
 | 024379 | [Node.js: Dashboard — Reporting for Offline Classroom](Project_024379/README.md) |
 | 024380 | [Node.js: Dashboard — Usability Improvement for Offline Classroom](Project_024380/README.md) |
+| 024381 | [Node.js: Dashboard — Baseline Setup for Single-Host Lab](Project_024381/README.md) |
+| 024382 | [Node.js: Dashboard — Automation for Single-Host Lab](Project_024382/README.md) |
+| 024383 | [Node.js: Dashboard — Recovery for Single-Host Lab](Project_024383/README.md) |
+| 024384 | [Node.js: Dashboard — Reporting for Single-Host Lab](Project_024384/README.md) |
+| 024385 | [Node.js: Dashboard — Usability Improvement for Single-Host Lab](Project_024385/README.md) |
+| 024386 | [Node.js: Dashboard — Baseline Setup for Two-Node Lab](Project_024386/README.md) |
+| 024387 | [Node.js: Dashboard — Automation for Two-Node Lab](Project_024387/README.md) |
+| 024388 | [Node.js: Dashboard — Recovery for Two-Node Lab](Project_024388/README.md) |
+| 024389 | [Node.js: Dashboard — Reporting for Two-Node Lab](Project_024389/README.md) |
+| 024390 | [Node.js: Dashboard — Usability Improvement for Two-Node Lab](Project_024390/README.md) |
+| 024391 | [Node.js: Dashboard — Baseline Setup for Help Desk](Project_024391/README.md) |
+| 024392 | [Node.js: Dashboard — Automation for Help Desk](Project_024392/README.md) |
+| 024393 | [Node.js: Dashboard — Recovery for Help Desk](Project_024393/README.md) |
+| 024394 | [Node.js: Dashboard — Reporting for Help Desk](Project_024394/README.md) |
+| 024395 | [Node.js: Dashboard — Usability Improvement for Help Desk](Project_024395/README.md) |
+| 024396 | [Node.js: Dashboard — Baseline Setup for Portfolio Demo](Project_024396/README.md) |
+| 024397 | [Node.js: Dashboard — Automation for Portfolio Demo](Project_024397/README.md) |
+| 024398 | [Node.js: Dashboard — Recovery for Portfolio Demo](Project_024398/README.md) |
+| 024399 | [Node.js: Dashboard — Reporting for Portfolio Demo](Project_024399/README.md) |
+| 024400 | [Node.js: Dashboard — Usability Improvement for Portfolio Demo](Project_024400/README.md) |
 
 [Back to the portfolio home](../README.md)
