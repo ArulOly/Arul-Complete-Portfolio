@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004658 | [Fedora: Configuration Comparison — Recovery for Small Business](Project_004658/README.md) |
 | 004659 | [Fedora: Configuration Comparison — Reporting for Small Business](Project_004659/README.md) |
 | 004660 | [Fedora: Configuration Comparison — Usability Improvement for Small Business](Project_004660/README.md) |
+| 004661 | [Fedora: Configuration Comparison — Baseline Setup for Home Development](Project_004661/README.md) |
+| 004662 | [Fedora: Configuration Comparison — Automation for Home Development](Project_004662/README.md) |
+| 004663 | [Fedora: Configuration Comparison — Recovery for Home Development](Project_004663/README.md) |
+| 004664 | [Fedora: Configuration Comparison — Reporting for Home Development](Project_004664/README.md) |
+| 004665 | [Fedora: Configuration Comparison — Usability Improvement for Home Development](Project_004665/README.md) |
+| 004666 | [Fedora: Configuration Comparison — Baseline Setup for Public Dataset](Project_004666/README.md) |
+| 004667 | [Fedora: Configuration Comparison — Automation for Public Dataset](Project_004667/README.md) |
+| 004668 | [Fedora: Configuration Comparison — Recovery for Public Dataset](Project_004668/README.md) |
+| 004669 | [Fedora: Configuration Comparison — Reporting for Public Dataset](Project_004669/README.md) |
+| 004670 | [Fedora: Configuration Comparison — Usability Improvement for Public Dataset](Project_004670/README.md) |
+| 004671 | [Fedora: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_004671/README.md) |
+| 004672 | [Fedora: Configuration Comparison — Automation for Branch Office Simulator](Project_004672/README.md) |
+| 004673 | [Fedora: Configuration Comparison — Recovery for Branch Office Simulator](Project_004673/README.md) |
+| 004674 | [Fedora: Configuration Comparison — Reporting for Branch Office Simulator](Project_004674/README.md) |
+| 004675 | [Fedora: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_004675/README.md) |
+| 004676 | [Fedora: Configuration Comparison — Baseline Setup for Offline Classroom](Project_004676/README.md) |
+| 004677 | [Fedora: Configuration Comparison — Automation for Offline Classroom](Project_004677/README.md) |
+| 004678 | [Fedora: Configuration Comparison — Recovery for Offline Classroom](Project_004678/README.md) |
+| 004679 | [Fedora: Configuration Comparison — Reporting for Offline Classroom](Project_004679/README.md) |
+| 004680 | [Fedora: Configuration Comparison — Usability Improvement for Offline Classroom](Project_004680/README.md) |
 
 [Back to the portfolio home](../README.md)
