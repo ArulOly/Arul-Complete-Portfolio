@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004338 | [Fedora: Data Export — Recovery for Two-Node Lab](Project_004338/README.md) |
 | 004339 | [Fedora: Data Export — Reporting for Two-Node Lab](Project_004339/README.md) |
 | 004340 | [Fedora: Data Export — Usability Improvement for Two-Node Lab](Project_004340/README.md) |
+| 004341 | [Fedora: Data Export — Baseline Setup for Help Desk](Project_004341/README.md) |
+| 004342 | [Fedora: Data Export — Automation for Help Desk](Project_004342/README.md) |
+| 004343 | [Fedora: Data Export — Recovery for Help Desk](Project_004343/README.md) |
+| 004344 | [Fedora: Data Export — Reporting for Help Desk](Project_004344/README.md) |
+| 004345 | [Fedora: Data Export — Usability Improvement for Help Desk](Project_004345/README.md) |
+| 004346 | [Fedora: Data Export — Baseline Setup for Portfolio Demo](Project_004346/README.md) |
+| 004347 | [Fedora: Data Export — Automation for Portfolio Demo](Project_004347/README.md) |
+| 004348 | [Fedora: Data Export — Recovery for Portfolio Demo](Project_004348/README.md) |
+| 004349 | [Fedora: Data Export — Reporting for Portfolio Demo](Project_004349/README.md) |
+| 004350 | [Fedora: Data Export — Usability Improvement for Portfolio Demo](Project_004350/README.md) |
+| 004351 | [Fedora: Dashboard — Baseline Setup for School Lab](Project_004351/README.md) |
+| 004352 | [Fedora: Dashboard — Automation for School Lab](Project_004352/README.md) |
+| 004353 | [Fedora: Dashboard — Recovery for School Lab](Project_004353/README.md) |
+| 004354 | [Fedora: Dashboard — Reporting for School Lab](Project_004354/README.md) |
+| 004355 | [Fedora: Dashboard — Usability Improvement for School Lab](Project_004355/README.md) |
+| 004356 | [Fedora: Dashboard — Baseline Setup for Small Business](Project_004356/README.md) |
+| 004357 | [Fedora: Dashboard — Automation for Small Business](Project_004357/README.md) |
+| 004358 | [Fedora: Dashboard — Recovery for Small Business](Project_004358/README.md) |
+| 004359 | [Fedora: Dashboard — Reporting for Small Business](Project_004359/README.md) |
+| 004360 | [Fedora: Dashboard — Usability Improvement for Small Business](Project_004360/README.md) |
 
 [Back to the portfolio home](../README.md)
