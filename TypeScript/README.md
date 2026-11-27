@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021478 | [TypeScript: Scheduled Reporting — Recovery for Offline Classroom](Project_021478/README.md) |
 | 021479 | [TypeScript: Scheduled Reporting — Reporting for Offline Classroom](Project_021479/README.md) |
 | 021480 | [TypeScript: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_021480/README.md) |
+| 021481 | [TypeScript: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_021481/README.md) |
+| 021482 | [TypeScript: Scheduled Reporting — Automation for Single-Host Lab](Project_021482/README.md) |
+| 021483 | [TypeScript: Scheduled Reporting — Recovery for Single-Host Lab](Project_021483/README.md) |
+| 021484 | [TypeScript: Scheduled Reporting — Reporting for Single-Host Lab](Project_021484/README.md) |
+| 021485 | [TypeScript: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_021485/README.md) |
+| 021486 | [TypeScript: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_021486/README.md) |
+| 021487 | [TypeScript: Scheduled Reporting — Automation for Two-Node Lab](Project_021487/README.md) |
+| 021488 | [TypeScript: Scheduled Reporting — Recovery for Two-Node Lab](Project_021488/README.md) |
+| 021489 | [TypeScript: Scheduled Reporting — Reporting for Two-Node Lab](Project_021489/README.md) |
+| 021490 | [TypeScript: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_021490/README.md) |
+| 021491 | [TypeScript: Scheduled Reporting — Baseline Setup for Help Desk](Project_021491/README.md) |
+| 021492 | [TypeScript: Scheduled Reporting — Automation for Help Desk](Project_021492/README.md) |
+| 021493 | [TypeScript: Scheduled Reporting — Recovery for Help Desk](Project_021493/README.md) |
+| 021494 | [TypeScript: Scheduled Reporting — Reporting for Help Desk](Project_021494/README.md) |
+| 021495 | [TypeScript: Scheduled Reporting — Usability Improvement for Help Desk](Project_021495/README.md) |
+| 021496 | [TypeScript: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_021496/README.md) |
+| 021497 | [TypeScript: Scheduled Reporting — Automation for Portfolio Demo](Project_021497/README.md) |
+| 021498 | [TypeScript: Scheduled Reporting — Recovery for Portfolio Demo](Project_021498/README.md) |
+| 021499 | [TypeScript: Scheduled Reporting — Reporting for Portfolio Demo](Project_021499/README.md) |
+| 021500 | [TypeScript: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_021500/README.md) |
 
 [Back to the portfolio home](../README.md)
