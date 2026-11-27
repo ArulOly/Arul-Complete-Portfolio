@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025498 | [PostgreSQL: Scheduled Reporting — Recovery for Portfolio Demo](Project_025498/README.md) |
 | 025499 | [PostgreSQL: Scheduled Reporting — Reporting for Portfolio Demo](Project_025499/README.md) |
 | 025500 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_025500/README.md) |
+| 025501 | [PostgreSQL: Access Review — Baseline Setup for School Lab](Project_025501/README.md) |
+| 025502 | [PostgreSQL: Access Review — Automation for School Lab](Project_025502/README.md) |
+| 025503 | [PostgreSQL: Access Review — Recovery for School Lab](Project_025503/README.md) |
+| 025504 | [PostgreSQL: Access Review — Reporting for School Lab](Project_025504/README.md) |
+| 025505 | [PostgreSQL: Access Review — Usability Improvement for School Lab](Project_025505/README.md) |
+| 025506 | [PostgreSQL: Access Review — Baseline Setup for Small Business](Project_025506/README.md) |
+| 025507 | [PostgreSQL: Access Review — Automation for Small Business](Project_025507/README.md) |
+| 025508 | [PostgreSQL: Access Review — Recovery for Small Business](Project_025508/README.md) |
+| 025509 | [PostgreSQL: Access Review — Reporting for Small Business](Project_025509/README.md) |
+| 025510 | [PostgreSQL: Access Review — Usability Improvement for Small Business](Project_025510/README.md) |
+| 025511 | [PostgreSQL: Access Review — Baseline Setup for Home Development](Project_025511/README.md) |
+| 025512 | [PostgreSQL: Access Review — Automation for Home Development](Project_025512/README.md) |
+| 025513 | [PostgreSQL: Access Review — Recovery for Home Development](Project_025513/README.md) |
+| 025514 | [PostgreSQL: Access Review — Reporting for Home Development](Project_025514/README.md) |
+| 025515 | [PostgreSQL: Access Review — Usability Improvement for Home Development](Project_025515/README.md) |
+| 025516 | [PostgreSQL: Access Review — Baseline Setup for Public Dataset](Project_025516/README.md) |
+| 025517 | [PostgreSQL: Access Review — Automation for Public Dataset](Project_025517/README.md) |
+| 025518 | [PostgreSQL: Access Review — Recovery for Public Dataset](Project_025518/README.md) |
+| 025519 | [PostgreSQL: Access Review — Reporting for Public Dataset](Project_025519/README.md) |
+| 025520 | [PostgreSQL: Access Review — Usability Improvement for Public Dataset](Project_025520/README.md) |
 
 [Back to the portfolio home](../README.md)
