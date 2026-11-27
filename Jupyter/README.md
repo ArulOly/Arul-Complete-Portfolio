@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033978 | [Jupyter: Recovery Test — Recovery for Offline Classroom](Project_033978/README.md) |
 | 033979 | [Jupyter: Recovery Test — Reporting for Offline Classroom](Project_033979/README.md) |
 | 033980 | [Jupyter: Recovery Test — Usability Improvement for Offline Classroom](Project_033980/README.md) |
+| 033981 | [Jupyter: Recovery Test — Baseline Setup for Single-Host Lab](Project_033981/README.md) |
+| 033982 | [Jupyter: Recovery Test — Automation for Single-Host Lab](Project_033982/README.md) |
+| 033983 | [Jupyter: Recovery Test — Recovery for Single-Host Lab](Project_033983/README.md) |
+| 033984 | [Jupyter: Recovery Test — Reporting for Single-Host Lab](Project_033984/README.md) |
+| 033985 | [Jupyter: Recovery Test — Usability Improvement for Single-Host Lab](Project_033985/README.md) |
+| 033986 | [Jupyter: Recovery Test — Baseline Setup for Two-Node Lab](Project_033986/README.md) |
+| 033987 | [Jupyter: Recovery Test — Automation for Two-Node Lab](Project_033987/README.md) |
+| 033988 | [Jupyter: Recovery Test — Recovery for Two-Node Lab](Project_033988/README.md) |
+| 033989 | [Jupyter: Recovery Test — Reporting for Two-Node Lab](Project_033989/README.md) |
+| 033990 | [Jupyter: Recovery Test — Usability Improvement for Two-Node Lab](Project_033990/README.md) |
+| 033991 | [Jupyter: Recovery Test — Baseline Setup for Help Desk](Project_033991/README.md) |
+| 033992 | [Jupyter: Recovery Test — Automation for Help Desk](Project_033992/README.md) |
+| 033993 | [Jupyter: Recovery Test — Recovery for Help Desk](Project_033993/README.md) |
+| 033994 | [Jupyter: Recovery Test — Reporting for Help Desk](Project_033994/README.md) |
+| 033995 | [Jupyter: Recovery Test — Usability Improvement for Help Desk](Project_033995/README.md) |
+| 033996 | [Jupyter: Recovery Test — Baseline Setup for Portfolio Demo](Project_033996/README.md) |
+| 033997 | [Jupyter: Recovery Test — Automation for Portfolio Demo](Project_033997/README.md) |
+| 033998 | [Jupyter: Recovery Test — Recovery for Portfolio Demo](Project_033998/README.md) |
+| 033999 | [Jupyter: Recovery Test — Reporting for Portfolio Demo](Project_033999/README.md) |
+| 034000 | [Jupyter: Recovery Test — Usability Improvement for Portfolio Demo](Project_034000/README.md) |
 
 [Back to the portfolio home](../README.md)
