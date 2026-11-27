@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027458 | [MongoDB: Scheduled Reporting — Recovery for Small Business](Project_027458/README.md) |
 | 027459 | [MongoDB: Scheduled Reporting — Reporting for Small Business](Project_027459/README.md) |
 | 027460 | [MongoDB: Scheduled Reporting — Usability Improvement for Small Business](Project_027460/README.md) |
+| 027461 | [MongoDB: Scheduled Reporting — Baseline Setup for Home Development](Project_027461/README.md) |
+| 027462 | [MongoDB: Scheduled Reporting — Automation for Home Development](Project_027462/README.md) |
+| 027463 | [MongoDB: Scheduled Reporting — Recovery for Home Development](Project_027463/README.md) |
+| 027464 | [MongoDB: Scheduled Reporting — Reporting for Home Development](Project_027464/README.md) |
+| 027465 | [MongoDB: Scheduled Reporting — Usability Improvement for Home Development](Project_027465/README.md) |
+| 027466 | [MongoDB: Scheduled Reporting — Baseline Setup for Public Dataset](Project_027466/README.md) |
+| 027467 | [MongoDB: Scheduled Reporting — Automation for Public Dataset](Project_027467/README.md) |
+| 027468 | [MongoDB: Scheduled Reporting — Recovery for Public Dataset](Project_027468/README.md) |
+| 027469 | [MongoDB: Scheduled Reporting — Reporting for Public Dataset](Project_027469/README.md) |
+| 027470 | [MongoDB: Scheduled Reporting — Usability Improvement for Public Dataset](Project_027470/README.md) |
+| 027471 | [MongoDB: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_027471/README.md) |
+| 027472 | [MongoDB: Scheduled Reporting — Automation for Branch Office Simulator](Project_027472/README.md) |
+| 027473 | [MongoDB: Scheduled Reporting — Recovery for Branch Office Simulator](Project_027473/README.md) |
+| 027474 | [MongoDB: Scheduled Reporting — Reporting for Branch Office Simulator](Project_027474/README.md) |
+| 027475 | [MongoDB: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_027475/README.md) |
+| 027476 | [MongoDB: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_027476/README.md) |
+| 027477 | [MongoDB: Scheduled Reporting — Automation for Offline Classroom](Project_027477/README.md) |
+| 027478 | [MongoDB: Scheduled Reporting — Recovery for Offline Classroom](Project_027478/README.md) |
+| 027479 | [MongoDB: Scheduled Reporting — Reporting for Offline Classroom](Project_027479/README.md) |
+| 027480 | [MongoDB: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_027480/README.md) |
 
 [Back to the portfolio home](../README.md)
