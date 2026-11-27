@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005878 | [FreeBSD: Automation — Recovery for Offline Classroom](Project_005878/README.md) |
 | 005879 | [FreeBSD: Automation — Reporting for Offline Classroom](Project_005879/README.md) |
 | 005880 | [FreeBSD: Automation — Usability Improvement for Offline Classroom](Project_005880/README.md) |
+| 005881 | [FreeBSD: Automation — Baseline Setup for Single-Host Lab](Project_005881/README.md) |
+| 005882 | [FreeBSD: Automation — Automation for Single-Host Lab](Project_005882/README.md) |
+| 005883 | [FreeBSD: Automation — Recovery for Single-Host Lab](Project_005883/README.md) |
+| 005884 | [FreeBSD: Automation — Reporting for Single-Host Lab](Project_005884/README.md) |
+| 005885 | [FreeBSD: Automation — Usability Improvement for Single-Host Lab](Project_005885/README.md) |
+| 005886 | [FreeBSD: Automation — Baseline Setup for Two-Node Lab](Project_005886/README.md) |
+| 005887 | [FreeBSD: Automation — Automation for Two-Node Lab](Project_005887/README.md) |
+| 005888 | [FreeBSD: Automation — Recovery for Two-Node Lab](Project_005888/README.md) |
+| 005889 | [FreeBSD: Automation — Reporting for Two-Node Lab](Project_005889/README.md) |
+| 005890 | [FreeBSD: Automation — Usability Improvement for Two-Node Lab](Project_005890/README.md) |
+| 005891 | [FreeBSD: Automation — Baseline Setup for Help Desk](Project_005891/README.md) |
+| 005892 | [FreeBSD: Automation — Automation for Help Desk](Project_005892/README.md) |
+| 005893 | [FreeBSD: Automation — Recovery for Help Desk](Project_005893/README.md) |
+| 005894 | [FreeBSD: Automation — Reporting for Help Desk](Project_005894/README.md) |
+| 005895 | [FreeBSD: Automation — Usability Improvement for Help Desk](Project_005895/README.md) |
+| 005896 | [FreeBSD: Automation — Baseline Setup for Portfolio Demo](Project_005896/README.md) |
+| 005897 | [FreeBSD: Automation — Automation for Portfolio Demo](Project_005897/README.md) |
+| 005898 | [FreeBSD: Automation — Recovery for Portfolio Demo](Project_005898/README.md) |
+| 005899 | [FreeBSD: Automation — Reporting for Portfolio Demo](Project_005899/README.md) |
+| 005900 | [FreeBSD: Automation — Usability Improvement for Portfolio Demo](Project_005900/README.md) |
 
 [Back to the portfolio home](../README.md)
