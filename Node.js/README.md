@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024758 | [Node.js: Data Validation — Recovery for Small Business](Project_024758/README.md) |
 | 024759 | [Node.js: Data Validation — Reporting for Small Business](Project_024759/README.md) |
 | 024760 | [Node.js: Data Validation — Usability Improvement for Small Business](Project_024760/README.md) |
+| 024761 | [Node.js: Data Validation — Baseline Setup for Home Development](Project_024761/README.md) |
+| 024762 | [Node.js: Data Validation — Automation for Home Development](Project_024762/README.md) |
+| 024763 | [Node.js: Data Validation — Recovery for Home Development](Project_024763/README.md) |
+| 024764 | [Node.js: Data Validation — Reporting for Home Development](Project_024764/README.md) |
+| 024765 | [Node.js: Data Validation — Usability Improvement for Home Development](Project_024765/README.md) |
+| 024766 | [Node.js: Data Validation — Baseline Setup for Public Dataset](Project_024766/README.md) |
+| 024767 | [Node.js: Data Validation — Automation for Public Dataset](Project_024767/README.md) |
+| 024768 | [Node.js: Data Validation — Recovery for Public Dataset](Project_024768/README.md) |
+| 024769 | [Node.js: Data Validation — Reporting for Public Dataset](Project_024769/README.md) |
+| 024770 | [Node.js: Data Validation — Usability Improvement for Public Dataset](Project_024770/README.md) |
+| 024771 | [Node.js: Data Validation — Baseline Setup for Branch Office Simulator](Project_024771/README.md) |
+| 024772 | [Node.js: Data Validation — Automation for Branch Office Simulator](Project_024772/README.md) |
+| 024773 | [Node.js: Data Validation — Recovery for Branch Office Simulator](Project_024773/README.md) |
+| 024774 | [Node.js: Data Validation — Reporting for Branch Office Simulator](Project_024774/README.md) |
+| 024775 | [Node.js: Data Validation — Usability Improvement for Branch Office Simulator](Project_024775/README.md) |
+| 024776 | [Node.js: Data Validation — Baseline Setup for Offline Classroom](Project_024776/README.md) |
+| 024777 | [Node.js: Data Validation — Automation for Offline Classroom](Project_024777/README.md) |
+| 024778 | [Node.js: Data Validation — Recovery for Offline Classroom](Project_024778/README.md) |
+| 024779 | [Node.js: Data Validation — Reporting for Offline Classroom](Project_024779/README.md) |
+| 024780 | [Node.js: Data Validation — Usability Improvement for Offline Classroom](Project_024780/README.md) |
 
 [Back to the portfolio home](../README.md)
