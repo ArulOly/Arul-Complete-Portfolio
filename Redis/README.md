@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045078 | [Redis: Monitoring — Recovery for Offline Classroom](Project_045078/README.md) |
 | 045079 | [Redis: Monitoring — Reporting for Offline Classroom](Project_045079/README.md) |
 | 045080 | [Redis: Monitoring — Usability Improvement for Offline Classroom](Project_045080/README.md) |
+| 045081 | [Redis: Monitoring — Baseline Setup for Single-Host Lab](Project_045081/README.md) |
+| 045082 | [Redis: Monitoring — Automation for Single-Host Lab](Project_045082/README.md) |
+| 045083 | [Redis: Monitoring — Recovery for Single-Host Lab](Project_045083/README.md) |
+| 045084 | [Redis: Monitoring — Reporting for Single-Host Lab](Project_045084/README.md) |
+| 045085 | [Redis: Monitoring — Usability Improvement for Single-Host Lab](Project_045085/README.md) |
+| 045086 | [Redis: Monitoring — Baseline Setup for Two-Node Lab](Project_045086/README.md) |
+| 045087 | [Redis: Monitoring — Automation for Two-Node Lab](Project_045087/README.md) |
+| 045088 | [Redis: Monitoring — Recovery for Two-Node Lab](Project_045088/README.md) |
+| 045089 | [Redis: Monitoring — Reporting for Two-Node Lab](Project_045089/README.md) |
+| 045090 | [Redis: Monitoring — Usability Improvement for Two-Node Lab](Project_045090/README.md) |
+| 045091 | [Redis: Monitoring — Baseline Setup for Help Desk](Project_045091/README.md) |
+| 045092 | [Redis: Monitoring — Automation for Help Desk](Project_045092/README.md) |
+| 045093 | [Redis: Monitoring — Recovery for Help Desk](Project_045093/README.md) |
+| 045094 | [Redis: Monitoring — Reporting for Help Desk](Project_045094/README.md) |
+| 045095 | [Redis: Monitoring — Usability Improvement for Help Desk](Project_045095/README.md) |
+| 045096 | [Redis: Monitoring — Baseline Setup for Portfolio Demo](Project_045096/README.md) |
+| 045097 | [Redis: Monitoring — Automation for Portfolio Demo](Project_045097/README.md) |
+| 045098 | [Redis: Monitoring — Recovery for Portfolio Demo](Project_045098/README.md) |
+| 045099 | [Redis: Monitoring — Reporting for Portfolio Demo](Project_045099/README.md) |
+| 045100 | [Redis: Monitoring — Usability Improvement for Portfolio Demo](Project_045100/README.md) |
 
 [Back to the portfolio home](../README.md)
