@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004498 | [Fedora: Scheduled Reporting — Recovery for Portfolio Demo](Project_004498/README.md) |
 | 004499 | [Fedora: Scheduled Reporting — Reporting for Portfolio Demo](Project_004499/README.md) |
 | 004500 | [Fedora: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_004500/README.md) |
+| 004501 | [Fedora: Access Review — Baseline Setup for School Lab](Project_004501/README.md) |
+| 004502 | [Fedora: Access Review — Automation for School Lab](Project_004502/README.md) |
+| 004503 | [Fedora: Access Review — Recovery for School Lab](Project_004503/README.md) |
+| 004504 | [Fedora: Access Review — Reporting for School Lab](Project_004504/README.md) |
+| 004505 | [Fedora: Access Review — Usability Improvement for School Lab](Project_004505/README.md) |
+| 004506 | [Fedora: Access Review — Baseline Setup for Small Business](Project_004506/README.md) |
+| 004507 | [Fedora: Access Review — Automation for Small Business](Project_004507/README.md) |
+| 004508 | [Fedora: Access Review — Recovery for Small Business](Project_004508/README.md) |
+| 004509 | [Fedora: Access Review — Reporting for Small Business](Project_004509/README.md) |
+| 004510 | [Fedora: Access Review — Usability Improvement for Small Business](Project_004510/README.md) |
+| 004511 | [Fedora: Access Review — Baseline Setup for Home Development](Project_004511/README.md) |
+| 004512 | [Fedora: Access Review — Automation for Home Development](Project_004512/README.md) |
+| 004513 | [Fedora: Access Review — Recovery for Home Development](Project_004513/README.md) |
+| 004514 | [Fedora: Access Review — Reporting for Home Development](Project_004514/README.md) |
+| 004515 | [Fedora: Access Review — Usability Improvement for Home Development](Project_004515/README.md) |
+| 004516 | [Fedora: Access Review — Baseline Setup for Public Dataset](Project_004516/README.md) |
+| 004517 | [Fedora: Access Review — Automation for Public Dataset](Project_004517/README.md) |
+| 004518 | [Fedora: Access Review — Recovery for Public Dataset](Project_004518/README.md) |
+| 004519 | [Fedora: Access Review — Reporting for Public Dataset](Project_004519/README.md) |
+| 004520 | [Fedora: Access Review — Usability Improvement for Public Dataset](Project_004520/README.md) |
 
 [Back to the portfolio home](../README.md)
