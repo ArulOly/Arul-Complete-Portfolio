@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023678 | [HTML CSS: Configuration Comparison — Recovery for Offline Classroom](Project_023678/README.md) |
 | 023679 | [HTML CSS: Configuration Comparison — Reporting for Offline Classroom](Project_023679/README.md) |
 | 023680 | [HTML CSS: Configuration Comparison — Usability Improvement for Offline Classroom](Project_023680/README.md) |
+| 023681 | [HTML CSS: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_023681/README.md) |
+| 023682 | [HTML CSS: Configuration Comparison — Automation for Single-Host Lab](Project_023682/README.md) |
+| 023683 | [HTML CSS: Configuration Comparison — Recovery for Single-Host Lab](Project_023683/README.md) |
+| 023684 | [HTML CSS: Configuration Comparison — Reporting for Single-Host Lab](Project_023684/README.md) |
+| 023685 | [HTML CSS: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_023685/README.md) |
+| 023686 | [HTML CSS: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_023686/README.md) |
+| 023687 | [HTML CSS: Configuration Comparison — Automation for Two-Node Lab](Project_023687/README.md) |
+| 023688 | [HTML CSS: Configuration Comparison — Recovery for Two-Node Lab](Project_023688/README.md) |
+| 023689 | [HTML CSS: Configuration Comparison — Reporting for Two-Node Lab](Project_023689/README.md) |
+| 023690 | [HTML CSS: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_023690/README.md) |
+| 023691 | [HTML CSS: Configuration Comparison — Baseline Setup for Help Desk](Project_023691/README.md) |
+| 023692 | [HTML CSS: Configuration Comparison — Automation for Help Desk](Project_023692/README.md) |
+| 023693 | [HTML CSS: Configuration Comparison — Recovery for Help Desk](Project_023693/README.md) |
+| 023694 | [HTML CSS: Configuration Comparison — Reporting for Help Desk](Project_023694/README.md) |
+| 023695 | [HTML CSS: Configuration Comparison — Usability Improvement for Help Desk](Project_023695/README.md) |
+| 023696 | [HTML CSS: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_023696/README.md) |
+| 023697 | [HTML CSS: Configuration Comparison — Automation for Portfolio Demo](Project_023697/README.md) |
+| 023698 | [HTML CSS: Configuration Comparison — Recovery for Portfolio Demo](Project_023698/README.md) |
+| 023699 | [HTML CSS: Configuration Comparison — Reporting for Portfolio Demo](Project_023699/README.md) |
+| 023700 | [HTML CSS: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_023700/README.md) |
 
 [Back to the portfolio home](../README.md)
