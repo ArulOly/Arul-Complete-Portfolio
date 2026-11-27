@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028738 | [SQLite: Error Handling — Recovery for Two-Node Lab](Project_028738/README.md) |
 | 028739 | [SQLite: Error Handling — Reporting for Two-Node Lab](Project_028739/README.md) |
 | 028740 | [SQLite: Error Handling — Usability Improvement for Two-Node Lab](Project_028740/README.md) |
+| 028741 | [SQLite: Error Handling — Baseline Setup for Help Desk](Project_028741/README.md) |
+| 028742 | [SQLite: Error Handling — Automation for Help Desk](Project_028742/README.md) |
+| 028743 | [SQLite: Error Handling — Recovery for Help Desk](Project_028743/README.md) |
+| 028744 | [SQLite: Error Handling — Reporting for Help Desk](Project_028744/README.md) |
+| 028745 | [SQLite: Error Handling — Usability Improvement for Help Desk](Project_028745/README.md) |
+| 028746 | [SQLite: Error Handling — Baseline Setup for Portfolio Demo](Project_028746/README.md) |
+| 028747 | [SQLite: Error Handling — Automation for Portfolio Demo](Project_028747/README.md) |
+| 028748 | [SQLite: Error Handling — Recovery for Portfolio Demo](Project_028748/README.md) |
+| 028749 | [SQLite: Error Handling — Reporting for Portfolio Demo](Project_028749/README.md) |
+| 028750 | [SQLite: Error Handling — Usability Improvement for Portfolio Demo](Project_028750/README.md) |
+| 028751 | [SQLite: Data Validation — Baseline Setup for School Lab](Project_028751/README.md) |
+| 028752 | [SQLite: Data Validation — Automation for School Lab](Project_028752/README.md) |
+| 028753 | [SQLite: Data Validation — Recovery for School Lab](Project_028753/README.md) |
+| 028754 | [SQLite: Data Validation — Reporting for School Lab](Project_028754/README.md) |
+| 028755 | [SQLite: Data Validation — Usability Improvement for School Lab](Project_028755/README.md) |
+| 028756 | [SQLite: Data Validation — Baseline Setup for Small Business](Project_028756/README.md) |
+| 028757 | [SQLite: Data Validation — Automation for Small Business](Project_028757/README.md) |
+| 028758 | [SQLite: Data Validation — Recovery for Small Business](Project_028758/README.md) |
+| 028759 | [SQLite: Data Validation — Reporting for Small Business](Project_028759/README.md) |
+| 028760 | [SQLite: Data Validation — Usability Improvement for Small Business](Project_028760/README.md) |
 
 [Back to the portfolio home](../README.md)
