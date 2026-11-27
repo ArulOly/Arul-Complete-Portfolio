@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004458 | [Fedora: Scheduled Reporting — Recovery for Small Business](Project_004458/README.md) |
 | 004459 | [Fedora: Scheduled Reporting — Reporting for Small Business](Project_004459/README.md) |
 | 004460 | [Fedora: Scheduled Reporting — Usability Improvement for Small Business](Project_004460/README.md) |
+| 004461 | [Fedora: Scheduled Reporting — Baseline Setup for Home Development](Project_004461/README.md) |
+| 004462 | [Fedora: Scheduled Reporting — Automation for Home Development](Project_004462/README.md) |
+| 004463 | [Fedora: Scheduled Reporting — Recovery for Home Development](Project_004463/README.md) |
+| 004464 | [Fedora: Scheduled Reporting — Reporting for Home Development](Project_004464/README.md) |
+| 004465 | [Fedora: Scheduled Reporting — Usability Improvement for Home Development](Project_004465/README.md) |
+| 004466 | [Fedora: Scheduled Reporting — Baseline Setup for Public Dataset](Project_004466/README.md) |
+| 004467 | [Fedora: Scheduled Reporting — Automation for Public Dataset](Project_004467/README.md) |
+| 004468 | [Fedora: Scheduled Reporting — Recovery for Public Dataset](Project_004468/README.md) |
+| 004469 | [Fedora: Scheduled Reporting — Reporting for Public Dataset](Project_004469/README.md) |
+| 004470 | [Fedora: Scheduled Reporting — Usability Improvement for Public Dataset](Project_004470/README.md) |
+| 004471 | [Fedora: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_004471/README.md) |
+| 004472 | [Fedora: Scheduled Reporting — Automation for Branch Office Simulator](Project_004472/README.md) |
+| 004473 | [Fedora: Scheduled Reporting — Recovery for Branch Office Simulator](Project_004473/README.md) |
+| 004474 | [Fedora: Scheduled Reporting — Reporting for Branch Office Simulator](Project_004474/README.md) |
+| 004475 | [Fedora: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_004475/README.md) |
+| 004476 | [Fedora: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_004476/README.md) |
+| 004477 | [Fedora: Scheduled Reporting — Automation for Offline Classroom](Project_004477/README.md) |
+| 004478 | [Fedora: Scheduled Reporting — Recovery for Offline Classroom](Project_004478/README.md) |
+| 004479 | [Fedora: Scheduled Reporting — Reporting for Offline Classroom](Project_004479/README.md) |
+| 004480 | [Fedora: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_004480/README.md) |
 
 [Back to the portfolio home](../README.md)
