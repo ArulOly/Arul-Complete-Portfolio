@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028318 | [SQLite: Data Export — Recovery for Public Dataset](Project_028318/README.md) |
 | 028319 | [SQLite: Data Export — Reporting for Public Dataset](Project_028319/README.md) |
 | 028320 | [SQLite: Data Export — Usability Improvement for Public Dataset](Project_028320/README.md) |
+| 028321 | [SQLite: Data Export — Baseline Setup for Branch Office Simulator](Project_028321/README.md) |
+| 028322 | [SQLite: Data Export — Automation for Branch Office Simulator](Project_028322/README.md) |
+| 028323 | [SQLite: Data Export — Recovery for Branch Office Simulator](Project_028323/README.md) |
+| 028324 | [SQLite: Data Export — Reporting for Branch Office Simulator](Project_028324/README.md) |
+| 028325 | [SQLite: Data Export — Usability Improvement for Branch Office Simulator](Project_028325/README.md) |
+| 028326 | [SQLite: Data Export — Baseline Setup for Offline Classroom](Project_028326/README.md) |
+| 028327 | [SQLite: Data Export — Automation for Offline Classroom](Project_028327/README.md) |
+| 028328 | [SQLite: Data Export — Recovery for Offline Classroom](Project_028328/README.md) |
+| 028329 | [SQLite: Data Export — Reporting for Offline Classroom](Project_028329/README.md) |
+| 028330 | [SQLite: Data Export — Usability Improvement for Offline Classroom](Project_028330/README.md) |
+| 028331 | [SQLite: Data Export — Baseline Setup for Single-Host Lab](Project_028331/README.md) |
+| 028332 | [SQLite: Data Export — Automation for Single-Host Lab](Project_028332/README.md) |
+| 028333 | [SQLite: Data Export — Recovery for Single-Host Lab](Project_028333/README.md) |
+| 028334 | [SQLite: Data Export — Reporting for Single-Host Lab](Project_028334/README.md) |
+| 028335 | [SQLite: Data Export — Usability Improvement for Single-Host Lab](Project_028335/README.md) |
+| 028336 | [SQLite: Data Export — Baseline Setup for Two-Node Lab](Project_028336/README.md) |
+| 028337 | [SQLite: Data Export — Automation for Two-Node Lab](Project_028337/README.md) |
+| 028338 | [SQLite: Data Export — Recovery for Two-Node Lab](Project_028338/README.md) |
+| 028339 | [SQLite: Data Export — Reporting for Two-Node Lab](Project_028339/README.md) |
+| 028340 | [SQLite: Data Export — Usability Improvement for Two-Node Lab](Project_028340/README.md) |
 
 [Back to the portfolio home](../README.md)
