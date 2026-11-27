@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022958 | [Java: Recovery Test — Recovery for Small Business](Project_022958/README.md) |
 | 022959 | [Java: Recovery Test — Reporting for Small Business](Project_022959/README.md) |
 | 022960 | [Java: Recovery Test — Usability Improvement for Small Business](Project_022960/README.md) |
+| 022961 | [Java: Recovery Test — Baseline Setup for Home Development](Project_022961/README.md) |
+| 022962 | [Java: Recovery Test — Automation for Home Development](Project_022962/README.md) |
+| 022963 | [Java: Recovery Test — Recovery for Home Development](Project_022963/README.md) |
+| 022964 | [Java: Recovery Test — Reporting for Home Development](Project_022964/README.md) |
+| 022965 | [Java: Recovery Test — Usability Improvement for Home Development](Project_022965/README.md) |
+| 022966 | [Java: Recovery Test — Baseline Setup for Public Dataset](Project_022966/README.md) |
+| 022967 | [Java: Recovery Test — Automation for Public Dataset](Project_022967/README.md) |
+| 022968 | [Java: Recovery Test — Recovery for Public Dataset](Project_022968/README.md) |
+| 022969 | [Java: Recovery Test — Reporting for Public Dataset](Project_022969/README.md) |
+| 022970 | [Java: Recovery Test — Usability Improvement for Public Dataset](Project_022970/README.md) |
+| 022971 | [Java: Recovery Test — Baseline Setup for Branch Office Simulator](Project_022971/README.md) |
+| 022972 | [Java: Recovery Test — Automation for Branch Office Simulator](Project_022972/README.md) |
+| 022973 | [Java: Recovery Test — Recovery for Branch Office Simulator](Project_022973/README.md) |
+| 022974 | [Java: Recovery Test — Reporting for Branch Office Simulator](Project_022974/README.md) |
+| 022975 | [Java: Recovery Test — Usability Improvement for Branch Office Simulator](Project_022975/README.md) |
+| 022976 | [Java: Recovery Test — Baseline Setup for Offline Classroom](Project_022976/README.md) |
+| 022977 | [Java: Recovery Test — Automation for Offline Classroom](Project_022977/README.md) |
+| 022978 | [Java: Recovery Test — Recovery for Offline Classroom](Project_022978/README.md) |
+| 022979 | [Java: Recovery Test — Reporting for Offline Classroom](Project_022979/README.md) |
+| 022980 | [Java: Recovery Test — Usability Improvement for Offline Classroom](Project_022980/README.md) |
 
 [Back to the portfolio home](../README.md)
