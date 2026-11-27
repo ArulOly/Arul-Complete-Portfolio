@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002058 | [Ubuntu: Monitoring — Recovery for Small Business](Project_002058/README.md) |
 | 002059 | [Ubuntu: Monitoring — Reporting for Small Business](Project_002059/README.md) |
 | 002060 | [Ubuntu: Monitoring — Usability Improvement for Small Business](Project_002060/README.md) |
+| 002061 | [Ubuntu: Monitoring — Baseline Setup for Home Development](Project_002061/README.md) |
+| 002062 | [Ubuntu: Monitoring — Automation for Home Development](Project_002062/README.md) |
+| 002063 | [Ubuntu: Monitoring — Recovery for Home Development](Project_002063/README.md) |
+| 002064 | [Ubuntu: Monitoring — Reporting for Home Development](Project_002064/README.md) |
+| 002065 | [Ubuntu: Monitoring — Usability Improvement for Home Development](Project_002065/README.md) |
+| 002066 | [Ubuntu: Monitoring — Baseline Setup for Public Dataset](Project_002066/README.md) |
+| 002067 | [Ubuntu: Monitoring — Automation for Public Dataset](Project_002067/README.md) |
+| 002068 | [Ubuntu: Monitoring — Recovery for Public Dataset](Project_002068/README.md) |
+| 002069 | [Ubuntu: Monitoring — Reporting for Public Dataset](Project_002069/README.md) |
+| 002070 | [Ubuntu: Monitoring — Usability Improvement for Public Dataset](Project_002070/README.md) |
+| 002071 | [Ubuntu: Monitoring — Baseline Setup for Branch Office Simulator](Project_002071/README.md) |
+| 002072 | [Ubuntu: Monitoring — Automation for Branch Office Simulator](Project_002072/README.md) |
+| 002073 | [Ubuntu: Monitoring — Recovery for Branch Office Simulator](Project_002073/README.md) |
+| 002074 | [Ubuntu: Monitoring — Reporting for Branch Office Simulator](Project_002074/README.md) |
+| 002075 | [Ubuntu: Monitoring — Usability Improvement for Branch Office Simulator](Project_002075/README.md) |
+| 002076 | [Ubuntu: Monitoring — Baseline Setup for Offline Classroom](Project_002076/README.md) |
+| 002077 | [Ubuntu: Monitoring — Automation for Offline Classroom](Project_002077/README.md) |
+| 002078 | [Ubuntu: Monitoring — Recovery for Offline Classroom](Project_002078/README.md) |
+| 002079 | [Ubuntu: Monitoring — Reporting for Offline Classroom](Project_002079/README.md) |
+| 002080 | [Ubuntu: Monitoring — Usability Improvement for Offline Classroom](Project_002080/README.md) |
 
 [Back to the portfolio home](../README.md)
