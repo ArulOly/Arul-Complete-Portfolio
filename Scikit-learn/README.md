@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034078 | [Scikit-learn: Monitoring — Recovery for Offline Classroom](Project_034078/README.md) |
 | 034079 | [Scikit-learn: Monitoring — Reporting for Offline Classroom](Project_034079/README.md) |
 | 034080 | [Scikit-learn: Monitoring — Usability Improvement for Offline Classroom](Project_034080/README.md) |
+| 034081 | [Scikit-learn: Monitoring — Baseline Setup for Single-Host Lab](Project_034081/README.md) |
+| 034082 | [Scikit-learn: Monitoring — Automation for Single-Host Lab](Project_034082/README.md) |
+| 034083 | [Scikit-learn: Monitoring — Recovery for Single-Host Lab](Project_034083/README.md) |
+| 034084 | [Scikit-learn: Monitoring — Reporting for Single-Host Lab](Project_034084/README.md) |
+| 034085 | [Scikit-learn: Monitoring — Usability Improvement for Single-Host Lab](Project_034085/README.md) |
+| 034086 | [Scikit-learn: Monitoring — Baseline Setup for Two-Node Lab](Project_034086/README.md) |
+| 034087 | [Scikit-learn: Monitoring — Automation for Two-Node Lab](Project_034087/README.md) |
+| 034088 | [Scikit-learn: Monitoring — Recovery for Two-Node Lab](Project_034088/README.md) |
+| 034089 | [Scikit-learn: Monitoring — Reporting for Two-Node Lab](Project_034089/README.md) |
+| 034090 | [Scikit-learn: Monitoring — Usability Improvement for Two-Node Lab](Project_034090/README.md) |
+| 034091 | [Scikit-learn: Monitoring — Baseline Setup for Help Desk](Project_034091/README.md) |
+| 034092 | [Scikit-learn: Monitoring — Automation for Help Desk](Project_034092/README.md) |
+| 034093 | [Scikit-learn: Monitoring — Recovery for Help Desk](Project_034093/README.md) |
+| 034094 | [Scikit-learn: Monitoring — Reporting for Help Desk](Project_034094/README.md) |
+| 034095 | [Scikit-learn: Monitoring — Usability Improvement for Help Desk](Project_034095/README.md) |
+| 034096 | [Scikit-learn: Monitoring — Baseline Setup for Portfolio Demo](Project_034096/README.md) |
+| 034097 | [Scikit-learn: Monitoring — Automation for Portfolio Demo](Project_034097/README.md) |
+| 034098 | [Scikit-learn: Monitoring — Recovery for Portfolio Demo](Project_034098/README.md) |
+| 034099 | [Scikit-learn: Monitoring — Reporting for Portfolio Demo](Project_034099/README.md) |
+| 034100 | [Scikit-learn: Monitoring — Usability Improvement for Portfolio Demo](Project_034100/README.md) |
 
 [Back to the portfolio home](../README.md)
