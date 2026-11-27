@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026178 | [MySQL: Log Analysis — Recovery for Offline Classroom](Project_026178/README.md) |
 | 026179 | [MySQL: Log Analysis — Reporting for Offline Classroom](Project_026179/README.md) |
 | 026180 | [MySQL: Log Analysis — Usability Improvement for Offline Classroom](Project_026180/README.md) |
+| 026181 | [MySQL: Log Analysis — Baseline Setup for Single-Host Lab](Project_026181/README.md) |
+| 026182 | [MySQL: Log Analysis — Automation for Single-Host Lab](Project_026182/README.md) |
+| 026183 | [MySQL: Log Analysis — Recovery for Single-Host Lab](Project_026183/README.md) |
+| 026184 | [MySQL: Log Analysis — Reporting for Single-Host Lab](Project_026184/README.md) |
+| 026185 | [MySQL: Log Analysis — Usability Improvement for Single-Host Lab](Project_026185/README.md) |
+| 026186 | [MySQL: Log Analysis — Baseline Setup for Two-Node Lab](Project_026186/README.md) |
+| 026187 | [MySQL: Log Analysis — Automation for Two-Node Lab](Project_026187/README.md) |
+| 026188 | [MySQL: Log Analysis — Recovery for Two-Node Lab](Project_026188/README.md) |
+| 026189 | [MySQL: Log Analysis — Reporting for Two-Node Lab](Project_026189/README.md) |
+| 026190 | [MySQL: Log Analysis — Usability Improvement for Two-Node Lab](Project_026190/README.md) |
+| 026191 | [MySQL: Log Analysis — Baseline Setup for Help Desk](Project_026191/README.md) |
+| 026192 | [MySQL: Log Analysis — Automation for Help Desk](Project_026192/README.md) |
+| 026193 | [MySQL: Log Analysis — Recovery for Help Desk](Project_026193/README.md) |
+| 026194 | [MySQL: Log Analysis — Reporting for Help Desk](Project_026194/README.md) |
+| 026195 | [MySQL: Log Analysis — Usability Improvement for Help Desk](Project_026195/README.md) |
+| 026196 | [MySQL: Log Analysis — Baseline Setup for Portfolio Demo](Project_026196/README.md) |
+| 026197 | [MySQL: Log Analysis — Automation for Portfolio Demo](Project_026197/README.md) |
+| 026198 | [MySQL: Log Analysis — Recovery for Portfolio Demo](Project_026198/README.md) |
+| 026199 | [MySQL: Log Analysis — Reporting for Portfolio Demo](Project_026199/README.md) |
+| 026200 | [MySQL: Log Analysis — Usability Improvement for Portfolio Demo](Project_026200/README.md) |
 
 [Back to the portfolio home](../README.md)
