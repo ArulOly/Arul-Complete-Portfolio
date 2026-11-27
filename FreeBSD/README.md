@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005598 | [FreeBSD: Performance Baseline — Recovery for Portfolio Demo](Project_005598/README.md) |
 | 005599 | [FreeBSD: Performance Baseline — Reporting for Portfolio Demo](Project_005599/README.md) |
 | 005600 | [FreeBSD: Performance Baseline — Usability Improvement for Portfolio Demo](Project_005600/README.md) |
+| 005601 | [FreeBSD: Service Check — Baseline Setup for School Lab](Project_005601/README.md) |
+| 005602 | [FreeBSD: Service Check — Automation for School Lab](Project_005602/README.md) |
+| 005603 | [FreeBSD: Service Check — Recovery for School Lab](Project_005603/README.md) |
+| 005604 | [FreeBSD: Service Check — Reporting for School Lab](Project_005604/README.md) |
+| 005605 | [FreeBSD: Service Check — Usability Improvement for School Lab](Project_005605/README.md) |
+| 005606 | [FreeBSD: Service Check — Baseline Setup for Small Business](Project_005606/README.md) |
+| 005607 | [FreeBSD: Service Check — Automation for Small Business](Project_005607/README.md) |
+| 005608 | [FreeBSD: Service Check — Recovery for Small Business](Project_005608/README.md) |
+| 005609 | [FreeBSD: Service Check — Reporting for Small Business](Project_005609/README.md) |
+| 005610 | [FreeBSD: Service Check — Usability Improvement for Small Business](Project_005610/README.md) |
+| 005611 | [FreeBSD: Service Check — Baseline Setup for Home Development](Project_005611/README.md) |
+| 005612 | [FreeBSD: Service Check — Automation for Home Development](Project_005612/README.md) |
+| 005613 | [FreeBSD: Service Check — Recovery for Home Development](Project_005613/README.md) |
+| 005614 | [FreeBSD: Service Check — Reporting for Home Development](Project_005614/README.md) |
+| 005615 | [FreeBSD: Service Check — Usability Improvement for Home Development](Project_005615/README.md) |
+| 005616 | [FreeBSD: Service Check — Baseline Setup for Public Dataset](Project_005616/README.md) |
+| 005617 | [FreeBSD: Service Check — Automation for Public Dataset](Project_005617/README.md) |
+| 005618 | [FreeBSD: Service Check — Recovery for Public Dataset](Project_005618/README.md) |
+| 005619 | [FreeBSD: Service Check — Reporting for Public Dataset](Project_005619/README.md) |
+| 005620 | [FreeBSD: Service Check — Usability Improvement for Public Dataset](Project_005620/README.md) |
 
 [Back to the portfolio home](../README.md)
