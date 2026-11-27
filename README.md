@@ -21,6 +21,9 @@ This repository contains a collection of practical information technology projec
 | [MongoDB](./MongoDB/) | BSON documents, indexed lookups, and aggregation |
 | [SQLite](./SQLite/) | In-memory SQL, temporary tables, and JSON queries |
 | [Redis](./Redis/) | Hashes, transactions, and expiring data |
+| [Jupyter](./Jupyter/) | Reproducible notebook workflows and rich Python output |
+| [Power BI](./Power%20BI/) | Power Query transformations and report tables |
+| [Scikit-learn](./Scikit-learn/) | Feature engineering and synthetic reference-profile comparisons |
 
 ## Repository Structure
 
@@ -43,6 +46,9 @@ Each project is documented in an individual README.md file containing its object
 - Redis
 - Git
 - GitHub
+- Jupyter
+- Power BI and Power Query M
+- Scikit-learn
 - Markdown
 
 ## Purpose
