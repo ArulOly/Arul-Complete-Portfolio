@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048618 | [Flask: Service Check — Recovery for Public Dataset](Project_048618/README.md) |
 | 048619 | [Flask: Service Check — Reporting for Public Dataset](Project_048619/README.md) |
 | 048620 | [Flask: Service Check — Usability Improvement for Public Dataset](Project_048620/README.md) |
+| 048621 | [Flask: Service Check — Baseline Setup for Branch Office Simulator](Project_048621/README.md) |
+| 048622 | [Flask: Service Check — Automation for Branch Office Simulator](Project_048622/README.md) |
+| 048623 | [Flask: Service Check — Recovery for Branch Office Simulator](Project_048623/README.md) |
+| 048624 | [Flask: Service Check — Reporting for Branch Office Simulator](Project_048624/README.md) |
+| 048625 | [Flask: Service Check — Usability Improvement for Branch Office Simulator](Project_048625/README.md) |
+| 048626 | [Flask: Service Check — Baseline Setup for Offline Classroom](Project_048626/README.md) |
+| 048627 | [Flask: Service Check — Automation for Offline Classroom](Project_048627/README.md) |
+| 048628 | [Flask: Service Check — Recovery for Offline Classroom](Project_048628/README.md) |
+| 048629 | [Flask: Service Check — Reporting for Offline Classroom](Project_048629/README.md) |
+| 048630 | [Flask: Service Check — Usability Improvement for Offline Classroom](Project_048630/README.md) |
+| 048631 | [Flask: Service Check — Baseline Setup for Single-Host Lab](Project_048631/README.md) |
+| 048632 | [Flask: Service Check — Automation for Single-Host Lab](Project_048632/README.md) |
+| 048633 | [Flask: Service Check — Recovery for Single-Host Lab](Project_048633/README.md) |
+| 048634 | [Flask: Service Check — Reporting for Single-Host Lab](Project_048634/README.md) |
+| 048635 | [Flask: Service Check — Usability Improvement for Single-Host Lab](Project_048635/README.md) |
+| 048636 | [Flask: Service Check — Baseline Setup for Two-Node Lab](Project_048636/README.md) |
+| 048637 | [Flask: Service Check — Automation for Two-Node Lab](Project_048637/README.md) |
+| 048638 | [Flask: Service Check — Recovery for Two-Node Lab](Project_048638/README.md) |
+| 048639 | [Flask: Service Check — Reporting for Two-Node Lab](Project_048639/README.md) |
+| 048640 | [Flask: Service Check — Usability Improvement for Two-Node Lab](Project_048640/README.md) |
 
 [Back to the portfolio home](../README.md)
