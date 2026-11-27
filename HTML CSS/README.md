@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023738 | [HTML CSS: Error Handling — Recovery for Two-Node Lab](Project_023738/README.md) |
 | 023739 | [HTML CSS: Error Handling — Reporting for Two-Node Lab](Project_023739/README.md) |
 | 023740 | [HTML CSS: Error Handling — Usability Improvement for Two-Node Lab](Project_023740/README.md) |
+| 023741 | [HTML CSS: Error Handling — Baseline Setup for Help Desk](Project_023741/README.md) |
+| 023742 | [HTML CSS: Error Handling — Automation for Help Desk](Project_023742/README.md) |
+| 023743 | [HTML CSS: Error Handling — Recovery for Help Desk](Project_023743/README.md) |
+| 023744 | [HTML CSS: Error Handling — Reporting for Help Desk](Project_023744/README.md) |
+| 023745 | [HTML CSS: Error Handling — Usability Improvement for Help Desk](Project_023745/README.md) |
+| 023746 | [HTML CSS: Error Handling — Baseline Setup for Portfolio Demo](Project_023746/README.md) |
+| 023747 | [HTML CSS: Error Handling — Automation for Portfolio Demo](Project_023747/README.md) |
+| 023748 | [HTML CSS: Error Handling — Recovery for Portfolio Demo](Project_023748/README.md) |
+| 023749 | [HTML CSS: Error Handling — Reporting for Portfolio Demo](Project_023749/README.md) |
+| 023750 | [HTML CSS: Error Handling — Usability Improvement for Portfolio Demo](Project_023750/README.md) |
+| 023751 | [HTML CSS: Data Validation — Baseline Setup for School Lab](Project_023751/README.md) |
+| 023752 | [HTML CSS: Data Validation — Automation for School Lab](Project_023752/README.md) |
+| 023753 | [HTML CSS: Data Validation — Recovery for School Lab](Project_023753/README.md) |
+| 023754 | [HTML CSS: Data Validation — Reporting for School Lab](Project_023754/README.md) |
+| 023755 | [HTML CSS: Data Validation — Usability Improvement for School Lab](Project_023755/README.md) |
+| 023756 | [HTML CSS: Data Validation — Baseline Setup for Small Business](Project_023756/README.md) |
+| 023757 | [HTML CSS: Data Validation — Automation for Small Business](Project_023757/README.md) |
+| 023758 | [HTML CSS: Data Validation — Recovery for Small Business](Project_023758/README.md) |
+| 023759 | [HTML CSS: Data Validation — Reporting for Small Business](Project_023759/README.md) |
+| 023760 | [HTML CSS: Data Validation — Usability Improvement for Small Business](Project_023760/README.md) |
 
 [Back to the portfolio home](../README.md)
