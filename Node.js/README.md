@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024858 | [Node.js: Automation — Recovery for Small Business](Project_024858/README.md) |
 | 024859 | [Node.js: Automation — Reporting for Small Business](Project_024859/README.md) |
 | 024860 | [Node.js: Automation — Usability Improvement for Small Business](Project_024860/README.md) |
+| 024861 | [Node.js: Automation — Baseline Setup for Home Development](Project_024861/README.md) |
+| 024862 | [Node.js: Automation — Automation for Home Development](Project_024862/README.md) |
+| 024863 | [Node.js: Automation — Recovery for Home Development](Project_024863/README.md) |
+| 024864 | [Node.js: Automation — Reporting for Home Development](Project_024864/README.md) |
+| 024865 | [Node.js: Automation — Usability Improvement for Home Development](Project_024865/README.md) |
+| 024866 | [Node.js: Automation — Baseline Setup for Public Dataset](Project_024866/README.md) |
+| 024867 | [Node.js: Automation — Automation for Public Dataset](Project_024867/README.md) |
+| 024868 | [Node.js: Automation — Recovery for Public Dataset](Project_024868/README.md) |
+| 024869 | [Node.js: Automation — Reporting for Public Dataset](Project_024869/README.md) |
+| 024870 | [Node.js: Automation — Usability Improvement for Public Dataset](Project_024870/README.md) |
+| 024871 | [Node.js: Automation — Baseline Setup for Branch Office Simulator](Project_024871/README.md) |
+| 024872 | [Node.js: Automation — Automation for Branch Office Simulator](Project_024872/README.md) |
+| 024873 | [Node.js: Automation — Recovery for Branch Office Simulator](Project_024873/README.md) |
+| 024874 | [Node.js: Automation — Reporting for Branch Office Simulator](Project_024874/README.md) |
+| 024875 | [Node.js: Automation — Usability Improvement for Branch Office Simulator](Project_024875/README.md) |
+| 024876 | [Node.js: Automation — Baseline Setup for Offline Classroom](Project_024876/README.md) |
+| 024877 | [Node.js: Automation — Automation for Offline Classroom](Project_024877/README.md) |
+| 024878 | [Node.js: Automation — Recovery for Offline Classroom](Project_024878/README.md) |
+| 024879 | [Node.js: Automation — Reporting for Offline Classroom](Project_024879/README.md) |
+| 024880 | [Node.js: Automation — Usability Improvement for Offline Classroom](Project_024880/README.md) |
 
 [Back to the portfolio home](../README.md)
