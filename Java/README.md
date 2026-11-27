@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022418 | [Java: Alerting — Recovery for Public Dataset](Project_022418/README.md) |
 | 022419 | [Java: Alerting — Reporting for Public Dataset](Project_022419/README.md) |
 | 022420 | [Java: Alerting — Usability Improvement for Public Dataset](Project_022420/README.md) |
+| 022421 | [Java: Alerting — Baseline Setup for Branch Office Simulator](Project_022421/README.md) |
+| 022422 | [Java: Alerting — Automation for Branch Office Simulator](Project_022422/README.md) |
+| 022423 | [Java: Alerting — Recovery for Branch Office Simulator](Project_022423/README.md) |
+| 022424 | [Java: Alerting — Reporting for Branch Office Simulator](Project_022424/README.md) |
+| 022425 | [Java: Alerting — Usability Improvement for Branch Office Simulator](Project_022425/README.md) |
+| 022426 | [Java: Alerting — Baseline Setup for Offline Classroom](Project_022426/README.md) |
+| 022427 | [Java: Alerting — Automation for Offline Classroom](Project_022427/README.md) |
+| 022428 | [Java: Alerting — Recovery for Offline Classroom](Project_022428/README.md) |
+| 022429 | [Java: Alerting — Reporting for Offline Classroom](Project_022429/README.md) |
+| 022430 | [Java: Alerting — Usability Improvement for Offline Classroom](Project_022430/README.md) |
+| 022431 | [Java: Alerting — Baseline Setup for Single-Host Lab](Project_022431/README.md) |
+| 022432 | [Java: Alerting — Automation for Single-Host Lab](Project_022432/README.md) |
+| 022433 | [Java: Alerting — Recovery for Single-Host Lab](Project_022433/README.md) |
+| 022434 | [Java: Alerting — Reporting for Single-Host Lab](Project_022434/README.md) |
+| 022435 | [Java: Alerting — Usability Improvement for Single-Host Lab](Project_022435/README.md) |
+| 022436 | [Java: Alerting — Baseline Setup for Two-Node Lab](Project_022436/README.md) |
+| 022437 | [Java: Alerting — Automation for Two-Node Lab](Project_022437/README.md) |
+| 022438 | [Java: Alerting — Recovery for Two-Node Lab](Project_022438/README.md) |
+| 022439 | [Java: Alerting — Reporting for Two-Node Lab](Project_022439/README.md) |
+| 022440 | [Java: Alerting — Usability Improvement for Two-Node Lab](Project_022440/README.md) |
 
 [Back to the portfolio home](../README.md)
