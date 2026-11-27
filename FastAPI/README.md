@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049938 | [FastAPI: Visual Reporting — Recovery for Two-Node Lab](Project_049938/README.md) |
 | 049939 | [FastAPI: Visual Reporting — Reporting for Two-Node Lab](Project_049939/README.md) |
 | 049940 | [FastAPI: Visual Reporting — Usability Improvement for Two-Node Lab](Project_049940/README.md) |
+| 049941 | [FastAPI: Visual Reporting — Baseline Setup for Help Desk](Project_049941/README.md) |
+| 049942 | [FastAPI: Visual Reporting — Automation for Help Desk](Project_049942/README.md) |
+| 049943 | [FastAPI: Visual Reporting — Recovery for Help Desk](Project_049943/README.md) |
+| 049944 | [FastAPI: Visual Reporting — Reporting for Help Desk](Project_049944/README.md) |
+| 049945 | [FastAPI: Visual Reporting — Usability Improvement for Help Desk](Project_049945/README.md) |
+| 049946 | [FastAPI: Visual Reporting — Baseline Setup for Portfolio Demo](Project_049946/README.md) |
+| 049947 | [FastAPI: Visual Reporting — Automation for Portfolio Demo](Project_049947/README.md) |
+| 049948 | [FastAPI: Visual Reporting — Recovery for Portfolio Demo](Project_049948/README.md) |
+| 049949 | [FastAPI: Visual Reporting — Reporting for Portfolio Demo](Project_049949/README.md) |
+| 049950 | [FastAPI: Visual Reporting — Usability Improvement for Portfolio Demo](Project_049950/README.md) |
+| 049951 | [FastAPI: Recovery Test — Baseline Setup for School Lab](Project_049951/README.md) |
+| 049952 | [FastAPI: Recovery Test — Automation for School Lab](Project_049952/README.md) |
+| 049953 | [FastAPI: Recovery Test — Recovery for School Lab](Project_049953/README.md) |
+| 049954 | [FastAPI: Recovery Test — Reporting for School Lab](Project_049954/README.md) |
+| 049955 | [FastAPI: Recovery Test — Usability Improvement for School Lab](Project_049955/README.md) |
+| 049956 | [FastAPI: Recovery Test — Baseline Setup for Small Business](Project_049956/README.md) |
+| 049957 | [FastAPI: Recovery Test — Automation for Small Business](Project_049957/README.md) |
+| 049958 | [FastAPI: Recovery Test — Recovery for Small Business](Project_049958/README.md) |
+| 049959 | [FastAPI: Recovery Test — Reporting for Small Business](Project_049959/README.md) |
+| 049960 | [FastAPI: Recovery Test — Usability Improvement for Small Business](Project_049960/README.md) |
 
 [Back to the portfolio home](../README.md)
