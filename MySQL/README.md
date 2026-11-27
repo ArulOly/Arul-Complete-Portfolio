@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026818 | [MySQL: Documentation Generation — Recovery for Public Dataset](Project_026818/README.md) |
 | 026819 | [MySQL: Documentation Generation — Reporting for Public Dataset](Project_026819/README.md) |
 | 026820 | [MySQL: Documentation Generation — Usability Improvement for Public Dataset](Project_026820/README.md) |
+| 026821 | [MySQL: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_026821/README.md) |
+| 026822 | [MySQL: Documentation Generation — Automation for Branch Office Simulator](Project_026822/README.md) |
+| 026823 | [MySQL: Documentation Generation — Recovery for Branch Office Simulator](Project_026823/README.md) |
+| 026824 | [MySQL: Documentation Generation — Reporting for Branch Office Simulator](Project_026824/README.md) |
+| 026825 | [MySQL: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_026825/README.md) |
+| 026826 | [MySQL: Documentation Generation — Baseline Setup for Offline Classroom](Project_026826/README.md) |
+| 026827 | [MySQL: Documentation Generation — Automation for Offline Classroom](Project_026827/README.md) |
+| 026828 | [MySQL: Documentation Generation — Recovery for Offline Classroom](Project_026828/README.md) |
+| 026829 | [MySQL: Documentation Generation — Reporting for Offline Classroom](Project_026829/README.md) |
+| 026830 | [MySQL: Documentation Generation — Usability Improvement for Offline Classroom](Project_026830/README.md) |
+| 026831 | [MySQL: Documentation Generation — Baseline Setup for Single-Host Lab](Project_026831/README.md) |
+| 026832 | [MySQL: Documentation Generation — Automation for Single-Host Lab](Project_026832/README.md) |
+| 026833 | [MySQL: Documentation Generation — Recovery for Single-Host Lab](Project_026833/README.md) |
+| 026834 | [MySQL: Documentation Generation — Reporting for Single-Host Lab](Project_026834/README.md) |
+| 026835 | [MySQL: Documentation Generation — Usability Improvement for Single-Host Lab](Project_026835/README.md) |
+| 026836 | [MySQL: Documentation Generation — Baseline Setup for Two-Node Lab](Project_026836/README.md) |
+| 026837 | [MySQL: Documentation Generation — Automation for Two-Node Lab](Project_026837/README.md) |
+| 026838 | [MySQL: Documentation Generation — Recovery for Two-Node Lab](Project_026838/README.md) |
+| 026839 | [MySQL: Documentation Generation — Reporting for Two-Node Lab](Project_026839/README.md) |
+| 026840 | [MySQL: Documentation Generation — Usability Improvement for Two-Node Lab](Project_026840/README.md) |
 
 [Back to the portfolio home](../README.md)
