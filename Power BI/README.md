@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032918 | [Power BI: Visual Reporting — Recovery for Public Dataset](Project_032918/README.md) |
 | 032919 | [Power BI: Visual Reporting — Reporting for Public Dataset](Project_032919/README.md) |
 | 032920 | [Power BI: Visual Reporting — Usability Improvement for Public Dataset](Project_032920/README.md) |
+| 032921 | [Power BI: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_032921/README.md) |
+| 032922 | [Power BI: Visual Reporting — Automation for Branch Office Simulator](Project_032922/README.md) |
+| 032923 | [Power BI: Visual Reporting — Recovery for Branch Office Simulator](Project_032923/README.md) |
+| 032924 | [Power BI: Visual Reporting — Reporting for Branch Office Simulator](Project_032924/README.md) |
+| 032925 | [Power BI: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_032925/README.md) |
+| 032926 | [Power BI: Visual Reporting — Baseline Setup for Offline Classroom](Project_032926/README.md) |
+| 032927 | [Power BI: Visual Reporting — Automation for Offline Classroom](Project_032927/README.md) |
+| 032928 | [Power BI: Visual Reporting — Recovery for Offline Classroom](Project_032928/README.md) |
+| 032929 | [Power BI: Visual Reporting — Reporting for Offline Classroom](Project_032929/README.md) |
+| 032930 | [Power BI: Visual Reporting — Usability Improvement for Offline Classroom](Project_032930/README.md) |
+| 032931 | [Power BI: Visual Reporting — Baseline Setup for Single-Host Lab](Project_032931/README.md) |
+| 032932 | [Power BI: Visual Reporting — Automation for Single-Host Lab](Project_032932/README.md) |
+| 032933 | [Power BI: Visual Reporting — Recovery for Single-Host Lab](Project_032933/README.md) |
+| 032934 | [Power BI: Visual Reporting — Reporting for Single-Host Lab](Project_032934/README.md) |
+| 032935 | [Power BI: Visual Reporting — Usability Improvement for Single-Host Lab](Project_032935/README.md) |
+| 032936 | [Power BI: Visual Reporting — Baseline Setup for Two-Node Lab](Project_032936/README.md) |
+| 032937 | [Power BI: Visual Reporting — Automation for Two-Node Lab](Project_032937/README.md) |
+| 032938 | [Power BI: Visual Reporting — Recovery for Two-Node Lab](Project_032938/README.md) |
+| 032939 | [Power BI: Visual Reporting — Reporting for Two-Node Lab](Project_032939/README.md) |
+| 032940 | [Power BI: Visual Reporting — Usability Improvement for Two-Node Lab](Project_032940/README.md) |
 
 [Back to the portfolio home](../README.md)
