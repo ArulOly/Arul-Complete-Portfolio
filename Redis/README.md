@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045218 | [Redis: Backup Verification — Recovery for Public Dataset](Project_045218/README.md) |
 | 045219 | [Redis: Backup Verification — Reporting for Public Dataset](Project_045219/README.md) |
 | 045220 | [Redis: Backup Verification — Usability Improvement for Public Dataset](Project_045220/README.md) |
+| 045221 | [Redis: Backup Verification — Baseline Setup for Branch Office Simulator](Project_045221/README.md) |
+| 045222 | [Redis: Backup Verification — Automation for Branch Office Simulator](Project_045222/README.md) |
+| 045223 | [Redis: Backup Verification — Recovery for Branch Office Simulator](Project_045223/README.md) |
+| 045224 | [Redis: Backup Verification — Reporting for Branch Office Simulator](Project_045224/README.md) |
+| 045225 | [Redis: Backup Verification — Usability Improvement for Branch Office Simulator](Project_045225/README.md) |
+| 045226 | [Redis: Backup Verification — Baseline Setup for Offline Classroom](Project_045226/README.md) |
+| 045227 | [Redis: Backup Verification — Automation for Offline Classroom](Project_045227/README.md) |
+| 045228 | [Redis: Backup Verification — Recovery for Offline Classroom](Project_045228/README.md) |
+| 045229 | [Redis: Backup Verification — Reporting for Offline Classroom](Project_045229/README.md) |
+| 045230 | [Redis: Backup Verification — Usability Improvement for Offline Classroom](Project_045230/README.md) |
+| 045231 | [Redis: Backup Verification — Baseline Setup for Single-Host Lab](Project_045231/README.md) |
+| 045232 | [Redis: Backup Verification — Automation for Single-Host Lab](Project_045232/README.md) |
+| 045233 | [Redis: Backup Verification — Recovery for Single-Host Lab](Project_045233/README.md) |
+| 045234 | [Redis: Backup Verification — Reporting for Single-Host Lab](Project_045234/README.md) |
+| 045235 | [Redis: Backup Verification — Usability Improvement for Single-Host Lab](Project_045235/README.md) |
+| 045236 | [Redis: Backup Verification — Baseline Setup for Two-Node Lab](Project_045236/README.md) |
+| 045237 | [Redis: Backup Verification — Automation for Two-Node Lab](Project_045237/README.md) |
+| 045238 | [Redis: Backup Verification — Recovery for Two-Node Lab](Project_045238/README.md) |
+| 045239 | [Redis: Backup Verification — Reporting for Two-Node Lab](Project_045239/README.md) |
+| 045240 | [Redis: Backup Verification — Usability Improvement for Two-Node Lab](Project_045240/README.md) |
 
 [Back to the portfolio home](../README.md)
