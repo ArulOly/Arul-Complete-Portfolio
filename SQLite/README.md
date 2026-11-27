@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028058 | [SQLite: Monitoring — Recovery for Small Business](Project_028058/README.md) |
 | 028059 | [SQLite: Monitoring — Reporting for Small Business](Project_028059/README.md) |
 | 028060 | [SQLite: Monitoring — Usability Improvement for Small Business](Project_028060/README.md) |
+| 028061 | [SQLite: Monitoring — Baseline Setup for Home Development](Project_028061/README.md) |
+| 028062 | [SQLite: Monitoring — Automation for Home Development](Project_028062/README.md) |
+| 028063 | [SQLite: Monitoring — Recovery for Home Development](Project_028063/README.md) |
+| 028064 | [SQLite: Monitoring — Reporting for Home Development](Project_028064/README.md) |
+| 028065 | [SQLite: Monitoring — Usability Improvement for Home Development](Project_028065/README.md) |
+| 028066 | [SQLite: Monitoring — Baseline Setup for Public Dataset](Project_028066/README.md) |
+| 028067 | [SQLite: Monitoring — Automation for Public Dataset](Project_028067/README.md) |
+| 028068 | [SQLite: Monitoring — Recovery for Public Dataset](Project_028068/README.md) |
+| 028069 | [SQLite: Monitoring — Reporting for Public Dataset](Project_028069/README.md) |
+| 028070 | [SQLite: Monitoring — Usability Improvement for Public Dataset](Project_028070/README.md) |
+| 028071 | [SQLite: Monitoring — Baseline Setup for Branch Office Simulator](Project_028071/README.md) |
+| 028072 | [SQLite: Monitoring — Automation for Branch Office Simulator](Project_028072/README.md) |
+| 028073 | [SQLite: Monitoring — Recovery for Branch Office Simulator](Project_028073/README.md) |
+| 028074 | [SQLite: Monitoring — Reporting for Branch Office Simulator](Project_028074/README.md) |
+| 028075 | [SQLite: Monitoring — Usability Improvement for Branch Office Simulator](Project_028075/README.md) |
+| 028076 | [SQLite: Monitoring — Baseline Setup for Offline Classroom](Project_028076/README.md) |
+| 028077 | [SQLite: Monitoring — Automation for Offline Classroom](Project_028077/README.md) |
+| 028078 | [SQLite: Monitoring — Recovery for Offline Classroom](Project_028078/README.md) |
+| 028079 | [SQLite: Monitoring — Reporting for Offline Classroom](Project_028079/README.md) |
+| 028080 | [SQLite: Monitoring — Usability Improvement for Offline Classroom](Project_028080/README.md) |
 
 [Back to the portfolio home](../README.md)
