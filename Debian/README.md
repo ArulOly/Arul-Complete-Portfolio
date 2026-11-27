@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003738 | [Debian: Error Handling — Recovery for Two-Node Lab](Project_003738/README.md) |
 | 003739 | [Debian: Error Handling — Reporting for Two-Node Lab](Project_003739/README.md) |
 | 003740 | [Debian: Error Handling — Usability Improvement for Two-Node Lab](Project_003740/README.md) |
+| 003741 | [Debian: Error Handling — Baseline Setup for Help Desk](Project_003741/README.md) |
+| 003742 | [Debian: Error Handling — Automation for Help Desk](Project_003742/README.md) |
+| 003743 | [Debian: Error Handling — Recovery for Help Desk](Project_003743/README.md) |
+| 003744 | [Debian: Error Handling — Reporting for Help Desk](Project_003744/README.md) |
+| 003745 | [Debian: Error Handling — Usability Improvement for Help Desk](Project_003745/README.md) |
+| 003746 | [Debian: Error Handling — Baseline Setup for Portfolio Demo](Project_003746/README.md) |
+| 003747 | [Debian: Error Handling — Automation for Portfolio Demo](Project_003747/README.md) |
+| 003748 | [Debian: Error Handling — Recovery for Portfolio Demo](Project_003748/README.md) |
+| 003749 | [Debian: Error Handling — Reporting for Portfolio Demo](Project_003749/README.md) |
+| 003750 | [Debian: Error Handling — Usability Improvement for Portfolio Demo](Project_003750/README.md) |
+| 003751 | [Debian: Data Validation — Baseline Setup for School Lab](Project_003751/README.md) |
+| 003752 | [Debian: Data Validation — Automation for School Lab](Project_003752/README.md) |
+| 003753 | [Debian: Data Validation — Recovery for School Lab](Project_003753/README.md) |
+| 003754 | [Debian: Data Validation — Reporting for School Lab](Project_003754/README.md) |
+| 003755 | [Debian: Data Validation — Usability Improvement for School Lab](Project_003755/README.md) |
+| 003756 | [Debian: Data Validation — Baseline Setup for Small Business](Project_003756/README.md) |
+| 003757 | [Debian: Data Validation — Automation for Small Business](Project_003757/README.md) |
+| 003758 | [Debian: Data Validation — Recovery for Small Business](Project_003758/README.md) |
+| 003759 | [Debian: Data Validation — Reporting for Small Business](Project_003759/README.md) |
+| 003760 | [Debian: Data Validation — Usability Improvement for Small Business](Project_003760/README.md) |
 
 [Back to the portfolio home](../README.md)
