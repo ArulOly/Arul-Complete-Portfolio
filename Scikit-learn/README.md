@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034458 | [Scikit-learn: Scheduled Reporting — Recovery for Small Business](Project_034458/README.md) |
 | 034459 | [Scikit-learn: Scheduled Reporting — Reporting for Small Business](Project_034459/README.md) |
 | 034460 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Small Business](Project_034460/README.md) |
+| 034461 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Home Development](Project_034461/README.md) |
+| 034462 | [Scikit-learn: Scheduled Reporting — Automation for Home Development](Project_034462/README.md) |
+| 034463 | [Scikit-learn: Scheduled Reporting — Recovery for Home Development](Project_034463/README.md) |
+| 034464 | [Scikit-learn: Scheduled Reporting — Reporting for Home Development](Project_034464/README.md) |
+| 034465 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Home Development](Project_034465/README.md) |
+| 034466 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Public Dataset](Project_034466/README.md) |
+| 034467 | [Scikit-learn: Scheduled Reporting — Automation for Public Dataset](Project_034467/README.md) |
+| 034468 | [Scikit-learn: Scheduled Reporting — Recovery for Public Dataset](Project_034468/README.md) |
+| 034469 | [Scikit-learn: Scheduled Reporting — Reporting for Public Dataset](Project_034469/README.md) |
+| 034470 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Public Dataset](Project_034470/README.md) |
+| 034471 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_034471/README.md) |
+| 034472 | [Scikit-learn: Scheduled Reporting — Automation for Branch Office Simulator](Project_034472/README.md) |
+| 034473 | [Scikit-learn: Scheduled Reporting — Recovery for Branch Office Simulator](Project_034473/README.md) |
+| 034474 | [Scikit-learn: Scheduled Reporting — Reporting for Branch Office Simulator](Project_034474/README.md) |
+| 034475 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_034475/README.md) |
+| 034476 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_034476/README.md) |
+| 034477 | [Scikit-learn: Scheduled Reporting — Automation for Offline Classroom](Project_034477/README.md) |
+| 034478 | [Scikit-learn: Scheduled Reporting — Recovery for Offline Classroom](Project_034478/README.md) |
+| 034479 | [Scikit-learn: Scheduled Reporting — Reporting for Offline Classroom](Project_034479/README.md) |
+| 034480 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_034480/README.md) |
 
 [Back to the portfolio home](../README.md)
