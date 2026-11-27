@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025458 | [PostgreSQL: Scheduled Reporting — Recovery for Small Business](Project_025458/README.md) |
 | 025459 | [PostgreSQL: Scheduled Reporting — Reporting for Small Business](Project_025459/README.md) |
 | 025460 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Small Business](Project_025460/README.md) |
+| 025461 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Home Development](Project_025461/README.md) |
+| 025462 | [PostgreSQL: Scheduled Reporting — Automation for Home Development](Project_025462/README.md) |
+| 025463 | [PostgreSQL: Scheduled Reporting — Recovery for Home Development](Project_025463/README.md) |
+| 025464 | [PostgreSQL: Scheduled Reporting — Reporting for Home Development](Project_025464/README.md) |
+| 025465 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Home Development](Project_025465/README.md) |
+| 025466 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Public Dataset](Project_025466/README.md) |
+| 025467 | [PostgreSQL: Scheduled Reporting — Automation for Public Dataset](Project_025467/README.md) |
+| 025468 | [PostgreSQL: Scheduled Reporting — Recovery for Public Dataset](Project_025468/README.md) |
+| 025469 | [PostgreSQL: Scheduled Reporting — Reporting for Public Dataset](Project_025469/README.md) |
+| 025470 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Public Dataset](Project_025470/README.md) |
+| 025471 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_025471/README.md) |
+| 025472 | [PostgreSQL: Scheduled Reporting — Automation for Branch Office Simulator](Project_025472/README.md) |
+| 025473 | [PostgreSQL: Scheduled Reporting — Recovery for Branch Office Simulator](Project_025473/README.md) |
+| 025474 | [PostgreSQL: Scheduled Reporting — Reporting for Branch Office Simulator](Project_025474/README.md) |
+| 025475 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_025475/README.md) |
+| 025476 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_025476/README.md) |
+| 025477 | [PostgreSQL: Scheduled Reporting — Automation for Offline Classroom](Project_025477/README.md) |
+| 025478 | [PostgreSQL: Scheduled Reporting — Recovery for Offline Classroom](Project_025478/README.md) |
+| 025479 | [PostgreSQL: Scheduled Reporting — Reporting for Offline Classroom](Project_025479/README.md) |
+| 025480 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_025480/README.md) |
 
 [Back to the portfolio home](../README.md)
