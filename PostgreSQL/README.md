@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025618 | [PostgreSQL: Service Check — Recovery for Public Dataset](Project_025618/README.md) |
 | 025619 | [PostgreSQL: Service Check — Reporting for Public Dataset](Project_025619/README.md) |
 | 025620 | [PostgreSQL: Service Check — Usability Improvement for Public Dataset](Project_025620/README.md) |
+| 025621 | [PostgreSQL: Service Check — Baseline Setup for Branch Office Simulator](Project_025621/README.md) |
+| 025622 | [PostgreSQL: Service Check — Automation for Branch Office Simulator](Project_025622/README.md) |
+| 025623 | [PostgreSQL: Service Check — Recovery for Branch Office Simulator](Project_025623/README.md) |
+| 025624 | [PostgreSQL: Service Check — Reporting for Branch Office Simulator](Project_025624/README.md) |
+| 025625 | [PostgreSQL: Service Check — Usability Improvement for Branch Office Simulator](Project_025625/README.md) |
+| 025626 | [PostgreSQL: Service Check — Baseline Setup for Offline Classroom](Project_025626/README.md) |
+| 025627 | [PostgreSQL: Service Check — Automation for Offline Classroom](Project_025627/README.md) |
+| 025628 | [PostgreSQL: Service Check — Recovery for Offline Classroom](Project_025628/README.md) |
+| 025629 | [PostgreSQL: Service Check — Reporting for Offline Classroom](Project_025629/README.md) |
+| 025630 | [PostgreSQL: Service Check — Usability Improvement for Offline Classroom](Project_025630/README.md) |
+| 025631 | [PostgreSQL: Service Check — Baseline Setup for Single-Host Lab](Project_025631/README.md) |
+| 025632 | [PostgreSQL: Service Check — Automation for Single-Host Lab](Project_025632/README.md) |
+| 025633 | [PostgreSQL: Service Check — Recovery for Single-Host Lab](Project_025633/README.md) |
+| 025634 | [PostgreSQL: Service Check — Reporting for Single-Host Lab](Project_025634/README.md) |
+| 025635 | [PostgreSQL: Service Check — Usability Improvement for Single-Host Lab](Project_025635/README.md) |
+| 025636 | [PostgreSQL: Service Check — Baseline Setup for Two-Node Lab](Project_025636/README.md) |
+| 025637 | [PostgreSQL: Service Check — Automation for Two-Node Lab](Project_025637/README.md) |
+| 025638 | [PostgreSQL: Service Check — Recovery for Two-Node Lab](Project_025638/README.md) |
+| 025639 | [PostgreSQL: Service Check — Reporting for Two-Node Lab](Project_025639/README.md) |
+| 025640 | [PostgreSQL: Service Check — Usability Improvement for Two-Node Lab](Project_025640/README.md) |
 
 [Back to the portfolio home](../README.md)
