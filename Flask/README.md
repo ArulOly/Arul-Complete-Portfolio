@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048238 | [Flask: Backup Verification — Recovery for Two-Node Lab](Project_048238/README.md) |
 | 048239 | [Flask: Backup Verification — Reporting for Two-Node Lab](Project_048239/README.md) |
 | 048240 | [Flask: Backup Verification — Usability Improvement for Two-Node Lab](Project_048240/README.md) |
+| 048241 | [Flask: Backup Verification — Baseline Setup for Help Desk](Project_048241/README.md) |
+| 048242 | [Flask: Backup Verification — Automation for Help Desk](Project_048242/README.md) |
+| 048243 | [Flask: Backup Verification — Recovery for Help Desk](Project_048243/README.md) |
+| 048244 | [Flask: Backup Verification — Reporting for Help Desk](Project_048244/README.md) |
+| 048245 | [Flask: Backup Verification — Usability Improvement for Help Desk](Project_048245/README.md) |
+| 048246 | [Flask: Backup Verification — Baseline Setup for Portfolio Demo](Project_048246/README.md) |
+| 048247 | [Flask: Backup Verification — Automation for Portfolio Demo](Project_048247/README.md) |
+| 048248 | [Flask: Backup Verification — Recovery for Portfolio Demo](Project_048248/README.md) |
+| 048249 | [Flask: Backup Verification — Reporting for Portfolio Demo](Project_048249/README.md) |
+| 048250 | [Flask: Backup Verification — Usability Improvement for Portfolio Demo](Project_048250/README.md) |
+| 048251 | [Flask: Data Import — Baseline Setup for School Lab](Project_048251/README.md) |
+| 048252 | [Flask: Data Import — Automation for School Lab](Project_048252/README.md) |
+| 048253 | [Flask: Data Import — Recovery for School Lab](Project_048253/README.md) |
+| 048254 | [Flask: Data Import — Reporting for School Lab](Project_048254/README.md) |
+| 048255 | [Flask: Data Import — Usability Improvement for School Lab](Project_048255/README.md) |
+| 048256 | [Flask: Data Import — Baseline Setup for Small Business](Project_048256/README.md) |
+| 048257 | [Flask: Data Import — Automation for Small Business](Project_048257/README.md) |
+| 048258 | [Flask: Data Import — Recovery for Small Business](Project_048258/README.md) |
+| 048259 | [Flask: Data Import — Reporting for Small Business](Project_048259/README.md) |
+| 048260 | [Flask: Data Import — Usability Improvement for Small Business](Project_048260/README.md) |
 
 [Back to the portfolio home](../README.md)
