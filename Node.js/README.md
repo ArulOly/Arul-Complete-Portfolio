@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024238 | [Node.js: Backup Verification — Recovery for Two-Node Lab](Project_024238/README.md) |
 | 024239 | [Node.js: Backup Verification — Reporting for Two-Node Lab](Project_024239/README.md) |
 | 024240 | [Node.js: Backup Verification — Usability Improvement for Two-Node Lab](Project_024240/README.md) |
+| 024241 | [Node.js: Backup Verification — Baseline Setup for Help Desk](Project_024241/README.md) |
+| 024242 | [Node.js: Backup Verification — Automation for Help Desk](Project_024242/README.md) |
+| 024243 | [Node.js: Backup Verification — Recovery for Help Desk](Project_024243/README.md) |
+| 024244 | [Node.js: Backup Verification — Reporting for Help Desk](Project_024244/README.md) |
+| 024245 | [Node.js: Backup Verification — Usability Improvement for Help Desk](Project_024245/README.md) |
+| 024246 | [Node.js: Backup Verification — Baseline Setup for Portfolio Demo](Project_024246/README.md) |
+| 024247 | [Node.js: Backup Verification — Automation for Portfolio Demo](Project_024247/README.md) |
+| 024248 | [Node.js: Backup Verification — Recovery for Portfolio Demo](Project_024248/README.md) |
+| 024249 | [Node.js: Backup Verification — Reporting for Portfolio Demo](Project_024249/README.md) |
+| 024250 | [Node.js: Backup Verification — Usability Improvement for Portfolio Demo](Project_024250/README.md) |
+| 024251 | [Node.js: Data Import — Baseline Setup for School Lab](Project_024251/README.md) |
+| 024252 | [Node.js: Data Import — Automation for School Lab](Project_024252/README.md) |
+| 024253 | [Node.js: Data Import — Recovery for School Lab](Project_024253/README.md) |
+| 024254 | [Node.js: Data Import — Reporting for School Lab](Project_024254/README.md) |
+| 024255 | [Node.js: Data Import — Usability Improvement for School Lab](Project_024255/README.md) |
+| 024256 | [Node.js: Data Import — Baseline Setup for Small Business](Project_024256/README.md) |
+| 024257 | [Node.js: Data Import — Automation for Small Business](Project_024257/README.md) |
+| 024258 | [Node.js: Data Import — Recovery for Small Business](Project_024258/README.md) |
+| 024259 | [Node.js: Data Import — Reporting for Small Business](Project_024259/README.md) |
+| 024260 | [Node.js: Data Import — Usability Improvement for Small Business](Project_024260/README.md) |
 
 [Back to the portfolio home](../README.md)
