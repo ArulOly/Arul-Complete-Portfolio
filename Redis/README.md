@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045758 | [Redis: Data Validation — Recovery for Small Business](Project_045758/README.md) |
 | 045759 | [Redis: Data Validation — Reporting for Small Business](Project_045759/README.md) |
 | 045760 | [Redis: Data Validation — Usability Improvement for Small Business](Project_045760/README.md) |
+| 045761 | [Redis: Data Validation — Baseline Setup for Home Development](Project_045761/README.md) |
+| 045762 | [Redis: Data Validation — Automation for Home Development](Project_045762/README.md) |
+| 045763 | [Redis: Data Validation — Recovery for Home Development](Project_045763/README.md) |
+| 045764 | [Redis: Data Validation — Reporting for Home Development](Project_045764/README.md) |
+| 045765 | [Redis: Data Validation — Usability Improvement for Home Development](Project_045765/README.md) |
+| 045766 | [Redis: Data Validation — Baseline Setup for Public Dataset](Project_045766/README.md) |
+| 045767 | [Redis: Data Validation — Automation for Public Dataset](Project_045767/README.md) |
+| 045768 | [Redis: Data Validation — Recovery for Public Dataset](Project_045768/README.md) |
+| 045769 | [Redis: Data Validation — Reporting for Public Dataset](Project_045769/README.md) |
+| 045770 | [Redis: Data Validation — Usability Improvement for Public Dataset](Project_045770/README.md) |
+| 045771 | [Redis: Data Validation — Baseline Setup for Branch Office Simulator](Project_045771/README.md) |
+| 045772 | [Redis: Data Validation — Automation for Branch Office Simulator](Project_045772/README.md) |
+| 045773 | [Redis: Data Validation — Recovery for Branch Office Simulator](Project_045773/README.md) |
+| 045774 | [Redis: Data Validation — Reporting for Branch Office Simulator](Project_045774/README.md) |
+| 045775 | [Redis: Data Validation — Usability Improvement for Branch Office Simulator](Project_045775/README.md) |
+| 045776 | [Redis: Data Validation — Baseline Setup for Offline Classroom](Project_045776/README.md) |
+| 045777 | [Redis: Data Validation — Automation for Offline Classroom](Project_045777/README.md) |
+| 045778 | [Redis: Data Validation — Recovery for Offline Classroom](Project_045778/README.md) |
+| 045779 | [Redis: Data Validation — Reporting for Offline Classroom](Project_045779/README.md) |
+| 045780 | [Redis: Data Validation — Usability Improvement for Offline Classroom](Project_045780/README.md) |
 
 [Back to the portfolio home](../README.md)
