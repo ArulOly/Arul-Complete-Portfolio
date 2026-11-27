@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049418 | [FastAPI: Alerting — Recovery for Public Dataset](Project_049418/README.md) |
 | 049419 | [FastAPI: Alerting — Reporting for Public Dataset](Project_049419/README.md) |
 | 049420 | [FastAPI: Alerting — Usability Improvement for Public Dataset](Project_049420/README.md) |
+| 049421 | [FastAPI: Alerting — Baseline Setup for Branch Office Simulator](Project_049421/README.md) |
+| 049422 | [FastAPI: Alerting — Automation for Branch Office Simulator](Project_049422/README.md) |
+| 049423 | [FastAPI: Alerting — Recovery for Branch Office Simulator](Project_049423/README.md) |
+| 049424 | [FastAPI: Alerting — Reporting for Branch Office Simulator](Project_049424/README.md) |
+| 049425 | [FastAPI: Alerting — Usability Improvement for Branch Office Simulator](Project_049425/README.md) |
+| 049426 | [FastAPI: Alerting — Baseline Setup for Offline Classroom](Project_049426/README.md) |
+| 049427 | [FastAPI: Alerting — Automation for Offline Classroom](Project_049427/README.md) |
+| 049428 | [FastAPI: Alerting — Recovery for Offline Classroom](Project_049428/README.md) |
+| 049429 | [FastAPI: Alerting — Reporting for Offline Classroom](Project_049429/README.md) |
+| 049430 | [FastAPI: Alerting — Usability Improvement for Offline Classroom](Project_049430/README.md) |
+| 049431 | [FastAPI: Alerting — Baseline Setup for Single-Host Lab](Project_049431/README.md) |
+| 049432 | [FastAPI: Alerting — Automation for Single-Host Lab](Project_049432/README.md) |
+| 049433 | [FastAPI: Alerting — Recovery for Single-Host Lab](Project_049433/README.md) |
+| 049434 | [FastAPI: Alerting — Reporting for Single-Host Lab](Project_049434/README.md) |
+| 049435 | [FastAPI: Alerting — Usability Improvement for Single-Host Lab](Project_049435/README.md) |
+| 049436 | [FastAPI: Alerting — Baseline Setup for Two-Node Lab](Project_049436/README.md) |
+| 049437 | [FastAPI: Alerting — Automation for Two-Node Lab](Project_049437/README.md) |
+| 049438 | [FastAPI: Alerting — Recovery for Two-Node Lab](Project_049438/README.md) |
+| 049439 | [FastAPI: Alerting — Reporting for Two-Node Lab](Project_049439/README.md) |
+| 049440 | [FastAPI: Alerting — Usability Improvement for Two-Node Lab](Project_049440/README.md) |
 
 [Back to the portfolio home](../README.md)
