@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -204,5 +204,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019158 | [Python: Log Analysis — Recovery for Small Business](Project_019158/README.md) |
 | 019159 | [Python: Log Analysis — Reporting for Small Business](Project_019159/README.md) |
 | 019160 | [Python: Log Analysis — Usability Improvement for Small Business](Project_019160/README.md) |
+| 019161 | [Python: Log Analysis — Baseline Setup for Home Development](Project_019161/README.md) |
+| 019162 | [Python: Log Analysis — Automation for Home Development](Project_019162/README.md) |
+| 019163 | [Python: Log Analysis — Recovery for Home Development](Project_019163/README.md) |
+| 019164 | [Python: Log Analysis — Reporting for Home Development](Project_019164/README.md) |
+| 019165 | [Python: Log Analysis — Usability Improvement for Home Development](Project_019165/README.md) |
+| 019166 | [Python: Log Analysis — Baseline Setup for Public Dataset](Project_019166/README.md) |
+| 019167 | [Python: Log Analysis — Automation for Public Dataset](Project_019167/README.md) |
+| 019168 | [Python: Log Analysis — Recovery for Public Dataset](Project_019168/README.md) |
+| 019169 | [Python: Log Analysis — Reporting for Public Dataset](Project_019169/README.md) |
+| 019170 | [Python: Log Analysis — Usability Improvement for Public Dataset](Project_019170/README.md) |
+| 019171 | [Python: Log Analysis — Baseline Setup for Branch Office Simulator](Project_019171/README.md) |
+| 019172 | [Python: Log Analysis — Automation for Branch Office Simulator](Project_019172/README.md) |
+| 019173 | [Python: Log Analysis — Recovery for Branch Office Simulator](Project_019173/README.md) |
+| 019174 | [Python: Log Analysis — Reporting for Branch Office Simulator](Project_019174/README.md) |
+| 019175 | [Python: Log Analysis — Usability Improvement for Branch Office Simulator](Project_019175/README.md) |
+| 019176 | [Python: Log Analysis — Baseline Setup for Offline Classroom](Project_019176/README.md) |
+| 019177 | [Python: Log Analysis — Automation for Offline Classroom](Project_019177/README.md) |
+| 019178 | [Python: Log Analysis — Recovery for Offline Classroom](Project_019178/README.md) |
+| 019179 | [Python: Log Analysis — Reporting for Offline Classroom](Project_019179/README.md) |
+| 019180 | [Python: Log Analysis — Usability Improvement for Offline Classroom](Project_019180/README.md) |
 
 [Back to the portfolio home](../README.md)
