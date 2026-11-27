@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027538 | [MongoDB: Access Review — Recovery for Two-Node Lab](Project_027538/README.md) |
 | 027539 | [MongoDB: Access Review — Reporting for Two-Node Lab](Project_027539/README.md) |
 | 027540 | [MongoDB: Access Review — Usability Improvement for Two-Node Lab](Project_027540/README.md) |
+| 027541 | [MongoDB: Access Review — Baseline Setup for Help Desk](Project_027541/README.md) |
+| 027542 | [MongoDB: Access Review — Automation for Help Desk](Project_027542/README.md) |
+| 027543 | [MongoDB: Access Review — Recovery for Help Desk](Project_027543/README.md) |
+| 027544 | [MongoDB: Access Review — Reporting for Help Desk](Project_027544/README.md) |
+| 027545 | [MongoDB: Access Review — Usability Improvement for Help Desk](Project_027545/README.md) |
+| 027546 | [MongoDB: Access Review — Baseline Setup for Portfolio Demo](Project_027546/README.md) |
+| 027547 | [MongoDB: Access Review — Automation for Portfolio Demo](Project_027547/README.md) |
+| 027548 | [MongoDB: Access Review — Recovery for Portfolio Demo](Project_027548/README.md) |
+| 027549 | [MongoDB: Access Review — Reporting for Portfolio Demo](Project_027549/README.md) |
+| 027550 | [MongoDB: Access Review — Usability Improvement for Portfolio Demo](Project_027550/README.md) |
+| 027551 | [MongoDB: Performance Baseline — Baseline Setup for School Lab](Project_027551/README.md) |
+| 027552 | [MongoDB: Performance Baseline — Automation for School Lab](Project_027552/README.md) |
+| 027553 | [MongoDB: Performance Baseline — Recovery for School Lab](Project_027553/README.md) |
+| 027554 | [MongoDB: Performance Baseline — Reporting for School Lab](Project_027554/README.md) |
+| 027555 | [MongoDB: Performance Baseline — Usability Improvement for School Lab](Project_027555/README.md) |
+| 027556 | [MongoDB: Performance Baseline — Baseline Setup for Small Business](Project_027556/README.md) |
+| 027557 | [MongoDB: Performance Baseline — Automation for Small Business](Project_027557/README.md) |
+| 027558 | [MongoDB: Performance Baseline — Recovery for Small Business](Project_027558/README.md) |
+| 027559 | [MongoDB: Performance Baseline — Reporting for Small Business](Project_027559/README.md) |
+| 027560 | [MongoDB: Performance Baseline — Usability Improvement for Small Business](Project_027560/README.md) |
 
 [Back to the portfolio home](../README.md)
