@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033938 | [Jupyter: Visual Reporting — Recovery for Two-Node Lab](Project_033938/README.md) |
 | 033939 | [Jupyter: Visual Reporting — Reporting for Two-Node Lab](Project_033939/README.md) |
 | 033940 | [Jupyter: Visual Reporting — Usability Improvement for Two-Node Lab](Project_033940/README.md) |
+| 033941 | [Jupyter: Visual Reporting — Baseline Setup for Help Desk](Project_033941/README.md) |
+| 033942 | [Jupyter: Visual Reporting — Automation for Help Desk](Project_033942/README.md) |
+| 033943 | [Jupyter: Visual Reporting — Recovery for Help Desk](Project_033943/README.md) |
+| 033944 | [Jupyter: Visual Reporting — Reporting for Help Desk](Project_033944/README.md) |
+| 033945 | [Jupyter: Visual Reporting — Usability Improvement for Help Desk](Project_033945/README.md) |
+| 033946 | [Jupyter: Visual Reporting — Baseline Setup for Portfolio Demo](Project_033946/README.md) |
+| 033947 | [Jupyter: Visual Reporting — Automation for Portfolio Demo](Project_033947/README.md) |
+| 033948 | [Jupyter: Visual Reporting — Recovery for Portfolio Demo](Project_033948/README.md) |
+| 033949 | [Jupyter: Visual Reporting — Reporting for Portfolio Demo](Project_033949/README.md) |
+| 033950 | [Jupyter: Visual Reporting — Usability Improvement for Portfolio Demo](Project_033950/README.md) |
+| 033951 | [Jupyter: Recovery Test — Baseline Setup for School Lab](Project_033951/README.md) |
+| 033952 | [Jupyter: Recovery Test — Automation for School Lab](Project_033952/README.md) |
+| 033953 | [Jupyter: Recovery Test — Recovery for School Lab](Project_033953/README.md) |
+| 033954 | [Jupyter: Recovery Test — Reporting for School Lab](Project_033954/README.md) |
+| 033955 | [Jupyter: Recovery Test — Usability Improvement for School Lab](Project_033955/README.md) |
+| 033956 | [Jupyter: Recovery Test — Baseline Setup for Small Business](Project_033956/README.md) |
+| 033957 | [Jupyter: Recovery Test — Automation for Small Business](Project_033957/README.md) |
+| 033958 | [Jupyter: Recovery Test — Recovery for Small Business](Project_033958/README.md) |
+| 033959 | [Jupyter: Recovery Test — Reporting for Small Business](Project_033959/README.md) |
+| 033960 | [Jupyter: Recovery Test — Usability Improvement for Small Business](Project_033960/README.md) |
 
 [Back to the portfolio home](../README.md)
