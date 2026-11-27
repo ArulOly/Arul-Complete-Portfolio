@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005798 | [FreeBSD: Data Validation — Recovery for Portfolio Demo](Project_005798/README.md) |
 | 005799 | [FreeBSD: Data Validation — Reporting for Portfolio Demo](Project_005799/README.md) |
 | 005800 | [FreeBSD: Data Validation — Usability Improvement for Portfolio Demo](Project_005800/README.md) |
+| 005801 | [FreeBSD: Documentation Generation — Baseline Setup for School Lab](Project_005801/README.md) |
+| 005802 | [FreeBSD: Documentation Generation — Automation for School Lab](Project_005802/README.md) |
+| 005803 | [FreeBSD: Documentation Generation — Recovery for School Lab](Project_005803/README.md) |
+| 005804 | [FreeBSD: Documentation Generation — Reporting for School Lab](Project_005804/README.md) |
+| 005805 | [FreeBSD: Documentation Generation — Usability Improvement for School Lab](Project_005805/README.md) |
+| 005806 | [FreeBSD: Documentation Generation — Baseline Setup for Small Business](Project_005806/README.md) |
+| 005807 | [FreeBSD: Documentation Generation — Automation for Small Business](Project_005807/README.md) |
+| 005808 | [FreeBSD: Documentation Generation — Recovery for Small Business](Project_005808/README.md) |
+| 005809 | [FreeBSD: Documentation Generation — Reporting for Small Business](Project_005809/README.md) |
+| 005810 | [FreeBSD: Documentation Generation — Usability Improvement for Small Business](Project_005810/README.md) |
+| 005811 | [FreeBSD: Documentation Generation — Baseline Setup for Home Development](Project_005811/README.md) |
+| 005812 | [FreeBSD: Documentation Generation — Automation for Home Development](Project_005812/README.md) |
+| 005813 | [FreeBSD: Documentation Generation — Recovery for Home Development](Project_005813/README.md) |
+| 005814 | [FreeBSD: Documentation Generation — Reporting for Home Development](Project_005814/README.md) |
+| 005815 | [FreeBSD: Documentation Generation — Usability Improvement for Home Development](Project_005815/README.md) |
+| 005816 | [FreeBSD: Documentation Generation — Baseline Setup for Public Dataset](Project_005816/README.md) |
+| 005817 | [FreeBSD: Documentation Generation — Automation for Public Dataset](Project_005817/README.md) |
+| 005818 | [FreeBSD: Documentation Generation — Recovery for Public Dataset](Project_005818/README.md) |
+| 005819 | [FreeBSD: Documentation Generation — Reporting for Public Dataset](Project_005819/README.md) |
+| 005820 | [FreeBSD: Documentation Generation — Usability Improvement for Public Dataset](Project_005820/README.md) |
 
 [Back to the portfolio home](../README.md)
