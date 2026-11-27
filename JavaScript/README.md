@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020878 | [JavaScript: Automation — Recovery for Offline Classroom](Project_020878/README.md) |
 | 020879 | [JavaScript: Automation — Reporting for Offline Classroom](Project_020879/README.md) |
 | 020880 | [JavaScript: Automation — Usability Improvement for Offline Classroom](Project_020880/README.md) |
+| 020881 | [JavaScript: Automation — Baseline Setup for Single-Host Lab](Project_020881/README.md) |
+| 020882 | [JavaScript: Automation — Automation for Single-Host Lab](Project_020882/README.md) |
+| 020883 | [JavaScript: Automation — Recovery for Single-Host Lab](Project_020883/README.md) |
+| 020884 | [JavaScript: Automation — Reporting for Single-Host Lab](Project_020884/README.md) |
+| 020885 | [JavaScript: Automation — Usability Improvement for Single-Host Lab](Project_020885/README.md) |
+| 020886 | [JavaScript: Automation — Baseline Setup for Two-Node Lab](Project_020886/README.md) |
+| 020887 | [JavaScript: Automation — Automation for Two-Node Lab](Project_020887/README.md) |
+| 020888 | [JavaScript: Automation — Recovery for Two-Node Lab](Project_020888/README.md) |
+| 020889 | [JavaScript: Automation — Reporting for Two-Node Lab](Project_020889/README.md) |
+| 020890 | [JavaScript: Automation — Usability Improvement for Two-Node Lab](Project_020890/README.md) |
+| 020891 | [JavaScript: Automation — Baseline Setup for Help Desk](Project_020891/README.md) |
+| 020892 | [JavaScript: Automation — Automation for Help Desk](Project_020892/README.md) |
+| 020893 | [JavaScript: Automation — Recovery for Help Desk](Project_020893/README.md) |
+| 020894 | [JavaScript: Automation — Reporting for Help Desk](Project_020894/README.md) |
+| 020895 | [JavaScript: Automation — Usability Improvement for Help Desk](Project_020895/README.md) |
+| 020896 | [JavaScript: Automation — Baseline Setup for Portfolio Demo](Project_020896/README.md) |
+| 020897 | [JavaScript: Automation — Automation for Portfolio Demo](Project_020897/README.md) |
+| 020898 | [JavaScript: Automation — Recovery for Portfolio Demo](Project_020898/README.md) |
+| 020899 | [JavaScript: Automation — Reporting for Portfolio Demo](Project_020899/README.md) |
+| 020900 | [JavaScript: Automation — Usability Improvement for Portfolio Demo](Project_020900/README.md) |
 
 [Back to the portfolio home](../README.md)
