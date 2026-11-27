@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045158 | [Redis: Log Analysis — Recovery for Small Business](Project_045158/README.md) |
 | 045159 | [Redis: Log Analysis — Reporting for Small Business](Project_045159/README.md) |
 | 045160 | [Redis: Log Analysis — Usability Improvement for Small Business](Project_045160/README.md) |
+| 045161 | [Redis: Log Analysis — Baseline Setup for Home Development](Project_045161/README.md) |
+| 045162 | [Redis: Log Analysis — Automation for Home Development](Project_045162/README.md) |
+| 045163 | [Redis: Log Analysis — Recovery for Home Development](Project_045163/README.md) |
+| 045164 | [Redis: Log Analysis — Reporting for Home Development](Project_045164/README.md) |
+| 045165 | [Redis: Log Analysis — Usability Improvement for Home Development](Project_045165/README.md) |
+| 045166 | [Redis: Log Analysis — Baseline Setup for Public Dataset](Project_045166/README.md) |
+| 045167 | [Redis: Log Analysis — Automation for Public Dataset](Project_045167/README.md) |
+| 045168 | [Redis: Log Analysis — Recovery for Public Dataset](Project_045168/README.md) |
+| 045169 | [Redis: Log Analysis — Reporting for Public Dataset](Project_045169/README.md) |
+| 045170 | [Redis: Log Analysis — Usability Improvement for Public Dataset](Project_045170/README.md) |
+| 045171 | [Redis: Log Analysis — Baseline Setup for Branch Office Simulator](Project_045171/README.md) |
+| 045172 | [Redis: Log Analysis — Automation for Branch Office Simulator](Project_045172/README.md) |
+| 045173 | [Redis: Log Analysis — Recovery for Branch Office Simulator](Project_045173/README.md) |
+| 045174 | [Redis: Log Analysis — Reporting for Branch Office Simulator](Project_045174/README.md) |
+| 045175 | [Redis: Log Analysis — Usability Improvement for Branch Office Simulator](Project_045175/README.md) |
+| 045176 | [Redis: Log Analysis — Baseline Setup for Offline Classroom](Project_045176/README.md) |
+| 045177 | [Redis: Log Analysis — Automation for Offline Classroom](Project_045177/README.md) |
+| 045178 | [Redis: Log Analysis — Recovery for Offline Classroom](Project_045178/README.md) |
+| 045179 | [Redis: Log Analysis — Reporting for Offline Classroom](Project_045179/README.md) |
+| 045180 | [Redis: Log Analysis — Usability Improvement for Offline Classroom](Project_045180/README.md) |
 
 [Back to the portfolio home](../README.md)
