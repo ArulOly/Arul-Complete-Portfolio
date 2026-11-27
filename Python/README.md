@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -384,5 +384,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019338 | [Python: Data Export — Recovery for Two-Node Lab](Project_019338/README.md) |
 | 019339 | [Python: Data Export — Reporting for Two-Node Lab](Project_019339/README.md) |
 | 019340 | [Python: Data Export — Usability Improvement for Two-Node Lab](Project_019340/README.md) |
+| 019341 | [Python: Data Export — Baseline Setup for Help Desk](Project_019341/README.md) |
+| 019342 | [Python: Data Export — Automation for Help Desk](Project_019342/README.md) |
+| 019343 | [Python: Data Export — Recovery for Help Desk](Project_019343/README.md) |
+| 019344 | [Python: Data Export — Reporting for Help Desk](Project_019344/README.md) |
+| 019345 | [Python: Data Export — Usability Improvement for Help Desk](Project_019345/README.md) |
+| 019346 | [Python: Data Export — Baseline Setup for Portfolio Demo](Project_019346/README.md) |
+| 019347 | [Python: Data Export — Automation for Portfolio Demo](Project_019347/README.md) |
+| 019348 | [Python: Data Export — Recovery for Portfolio Demo](Project_019348/README.md) |
+| 019349 | [Python: Data Export — Reporting for Portfolio Demo](Project_019349/README.md) |
+| 019350 | [Python: Data Export — Usability Improvement for Portfolio Demo](Project_019350/README.md) |
+| 019351 | [Python: Dashboard — Baseline Setup for School Lab](Project_019351/README.md) |
+| 019352 | [Python: Dashboard — Automation for School Lab](Project_019352/README.md) |
+| 019353 | [Python: Dashboard — Recovery for School Lab](Project_019353/README.md) |
+| 019354 | [Python: Dashboard — Reporting for School Lab](Project_019354/README.md) |
+| 019355 | [Python: Dashboard — Usability Improvement for School Lab](Project_019355/README.md) |
+| 019356 | [Python: Dashboard — Baseline Setup for Small Business](Project_019356/README.md) |
+| 019357 | [Python: Dashboard — Automation for Small Business](Project_019357/README.md) |
+| 019358 | [Python: Dashboard — Recovery for Small Business](Project_019358/README.md) |
+| 019359 | [Python: Dashboard — Reporting for Small Business](Project_019359/README.md) |
+| 019360 | [Python: Dashboard — Usability Improvement for Small Business](Project_019360/README.md) |
 
 [Back to the portfolio home](../README.md)
