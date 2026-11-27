@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024058 | [Node.js: Monitoring — Recovery for Small Business](Project_024058/README.md) |
 | 024059 | [Node.js: Monitoring — Reporting for Small Business](Project_024059/README.md) |
 | 024060 | [Node.js: Monitoring — Usability Improvement for Small Business](Project_024060/README.md) |
+| 024061 | [Node.js: Monitoring — Baseline Setup for Home Development](Project_024061/README.md) |
+| 024062 | [Node.js: Monitoring — Automation for Home Development](Project_024062/README.md) |
+| 024063 | [Node.js: Monitoring — Recovery for Home Development](Project_024063/README.md) |
+| 024064 | [Node.js: Monitoring — Reporting for Home Development](Project_024064/README.md) |
+| 024065 | [Node.js: Monitoring — Usability Improvement for Home Development](Project_024065/README.md) |
+| 024066 | [Node.js: Monitoring — Baseline Setup for Public Dataset](Project_024066/README.md) |
+| 024067 | [Node.js: Monitoring — Automation for Public Dataset](Project_024067/README.md) |
+| 024068 | [Node.js: Monitoring — Recovery for Public Dataset](Project_024068/README.md) |
+| 024069 | [Node.js: Monitoring — Reporting for Public Dataset](Project_024069/README.md) |
+| 024070 | [Node.js: Monitoring — Usability Improvement for Public Dataset](Project_024070/README.md) |
+| 024071 | [Node.js: Monitoring — Baseline Setup for Branch Office Simulator](Project_024071/README.md) |
+| 024072 | [Node.js: Monitoring — Automation for Branch Office Simulator](Project_024072/README.md) |
+| 024073 | [Node.js: Monitoring — Recovery for Branch Office Simulator](Project_024073/README.md) |
+| 024074 | [Node.js: Monitoring — Reporting for Branch Office Simulator](Project_024074/README.md) |
+| 024075 | [Node.js: Monitoring — Usability Improvement for Branch Office Simulator](Project_024075/README.md) |
+| 024076 | [Node.js: Monitoring — Baseline Setup for Offline Classroom](Project_024076/README.md) |
+| 024077 | [Node.js: Monitoring — Automation for Offline Classroom](Project_024077/README.md) |
+| 024078 | [Node.js: Monitoring — Recovery for Offline Classroom](Project_024078/README.md) |
+| 024079 | [Node.js: Monitoring — Reporting for Offline Classroom](Project_024079/README.md) |
+| 024080 | [Node.js: Monitoring — Usability Improvement for Offline Classroom](Project_024080/README.md) |
 
 [Back to the portfolio home](../README.md)
