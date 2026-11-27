@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022118 | [Java: Audit — Recovery for Public Dataset](Project_022118/README.md) |
 | 022119 | [Java: Audit — Reporting for Public Dataset](Project_022119/README.md) |
 | 022120 | [Java: Audit — Usability Improvement for Public Dataset](Project_022120/README.md) |
+| 022121 | [Java: Audit — Baseline Setup for Branch Office Simulator](Project_022121/README.md) |
+| 022122 | [Java: Audit — Automation for Branch Office Simulator](Project_022122/README.md) |
+| 022123 | [Java: Audit — Recovery for Branch Office Simulator](Project_022123/README.md) |
+| 022124 | [Java: Audit — Reporting for Branch Office Simulator](Project_022124/README.md) |
+| 022125 | [Java: Audit — Usability Improvement for Branch Office Simulator](Project_022125/README.md) |
+| 022126 | [Java: Audit — Baseline Setup for Offline Classroom](Project_022126/README.md) |
+| 022127 | [Java: Audit — Automation for Offline Classroom](Project_022127/README.md) |
+| 022128 | [Java: Audit — Recovery for Offline Classroom](Project_022128/README.md) |
+| 022129 | [Java: Audit — Reporting for Offline Classroom](Project_022129/README.md) |
+| 022130 | [Java: Audit — Usability Improvement for Offline Classroom](Project_022130/README.md) |
+| 022131 | [Java: Audit — Baseline Setup for Single-Host Lab](Project_022131/README.md) |
+| 022132 | [Java: Audit — Automation for Single-Host Lab](Project_022132/README.md) |
+| 022133 | [Java: Audit — Recovery for Single-Host Lab](Project_022133/README.md) |
+| 022134 | [Java: Audit — Reporting for Single-Host Lab](Project_022134/README.md) |
+| 022135 | [Java: Audit — Usability Improvement for Single-Host Lab](Project_022135/README.md) |
+| 022136 | [Java: Audit — Baseline Setup for Two-Node Lab](Project_022136/README.md) |
+| 022137 | [Java: Audit — Automation for Two-Node Lab](Project_022137/README.md) |
+| 022138 | [Java: Audit — Recovery for Two-Node Lab](Project_022138/README.md) |
+| 022139 | [Java: Audit — Reporting for Two-Node Lab](Project_022139/README.md) |
+| 022140 | [Java: Audit — Usability Improvement for Two-Node Lab](Project_022140/README.md) |
 
 [Back to the portfolio home](../README.md)
