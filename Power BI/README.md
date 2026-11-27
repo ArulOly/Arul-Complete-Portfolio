@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032078 | [Power BI: Monitoring — Recovery for Offline Classroom](Project_032078/README.md) |
 | 032079 | [Power BI: Monitoring — Reporting for Offline Classroom](Project_032079/README.md) |
 | 032080 | [Power BI: Monitoring — Usability Improvement for Offline Classroom](Project_032080/README.md) |
+| 032081 | [Power BI: Monitoring — Baseline Setup for Single-Host Lab](Project_032081/README.md) |
+| 032082 | [Power BI: Monitoring — Automation for Single-Host Lab](Project_032082/README.md) |
+| 032083 | [Power BI: Monitoring — Recovery for Single-Host Lab](Project_032083/README.md) |
+| 032084 | [Power BI: Monitoring — Reporting for Single-Host Lab](Project_032084/README.md) |
+| 032085 | [Power BI: Monitoring — Usability Improvement for Single-Host Lab](Project_032085/README.md) |
+| 032086 | [Power BI: Monitoring — Baseline Setup for Two-Node Lab](Project_032086/README.md) |
+| 032087 | [Power BI: Monitoring — Automation for Two-Node Lab](Project_032087/README.md) |
+| 032088 | [Power BI: Monitoring — Recovery for Two-Node Lab](Project_032088/README.md) |
+| 032089 | [Power BI: Monitoring — Reporting for Two-Node Lab](Project_032089/README.md) |
+| 032090 | [Power BI: Monitoring — Usability Improvement for Two-Node Lab](Project_032090/README.md) |
+| 032091 | [Power BI: Monitoring — Baseline Setup for Help Desk](Project_032091/README.md) |
+| 032092 | [Power BI: Monitoring — Automation for Help Desk](Project_032092/README.md) |
+| 032093 | [Power BI: Monitoring — Recovery for Help Desk](Project_032093/README.md) |
+| 032094 | [Power BI: Monitoring — Reporting for Help Desk](Project_032094/README.md) |
+| 032095 | [Power BI: Monitoring — Usability Improvement for Help Desk](Project_032095/README.md) |
+| 032096 | [Power BI: Monitoring — Baseline Setup for Portfolio Demo](Project_032096/README.md) |
+| 032097 | [Power BI: Monitoring — Automation for Portfolio Demo](Project_032097/README.md) |
+| 032098 | [Power BI: Monitoring — Recovery for Portfolio Demo](Project_032098/README.md) |
+| 032099 | [Power BI: Monitoring — Reporting for Portfolio Demo](Project_032099/README.md) |
+| 032100 | [Power BI: Monitoring — Usability Improvement for Portfolio Demo](Project_032100/README.md) |
 
 [Back to the portfolio home](../README.md)
