@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023098 | [HTML CSS: Monitoring — Recovery for Portfolio Demo](Project_023098/README.md) |
 | 023099 | [HTML CSS: Monitoring — Reporting for Portfolio Demo](Project_023099/README.md) |
 | 023100 | [HTML CSS: Monitoring — Usability Improvement for Portfolio Demo](Project_023100/README.md) |
+| 023101 | [HTML CSS: Audit — Baseline Setup for School Lab](Project_023101/README.md) |
+| 023102 | [HTML CSS: Audit — Automation for School Lab](Project_023102/README.md) |
+| 023103 | [HTML CSS: Audit — Recovery for School Lab](Project_023103/README.md) |
+| 023104 | [HTML CSS: Audit — Reporting for School Lab](Project_023104/README.md) |
+| 023105 | [HTML CSS: Audit — Usability Improvement for School Lab](Project_023105/README.md) |
+| 023106 | [HTML CSS: Audit — Baseline Setup for Small Business](Project_023106/README.md) |
+| 023107 | [HTML CSS: Audit — Automation for Small Business](Project_023107/README.md) |
+| 023108 | [HTML CSS: Audit — Recovery for Small Business](Project_023108/README.md) |
+| 023109 | [HTML CSS: Audit — Reporting for Small Business](Project_023109/README.md) |
+| 023110 | [HTML CSS: Audit — Usability Improvement for Small Business](Project_023110/README.md) |
+| 023111 | [HTML CSS: Audit — Baseline Setup for Home Development](Project_023111/README.md) |
+| 023112 | [HTML CSS: Audit — Automation for Home Development](Project_023112/README.md) |
+| 023113 | [HTML CSS: Audit — Recovery for Home Development](Project_023113/README.md) |
+| 023114 | [HTML CSS: Audit — Reporting for Home Development](Project_023114/README.md) |
+| 023115 | [HTML CSS: Audit — Usability Improvement for Home Development](Project_023115/README.md) |
+| 023116 | [HTML CSS: Audit — Baseline Setup for Public Dataset](Project_023116/README.md) |
+| 023117 | [HTML CSS: Audit — Automation for Public Dataset](Project_023117/README.md) |
+| 023118 | [HTML CSS: Audit — Recovery for Public Dataset](Project_023118/README.md) |
+| 023119 | [HTML CSS: Audit — Reporting for Public Dataset](Project_023119/README.md) |
+| 023120 | [HTML CSS: Audit — Usability Improvement for Public Dataset](Project_023120/README.md) |
 
 [Back to the portfolio home](../README.md)
