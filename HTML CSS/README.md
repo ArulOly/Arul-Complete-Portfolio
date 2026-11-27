@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023978 | [HTML CSS: Recovery Test — Recovery for Offline Classroom](Project_023978/README.md) |
 | 023979 | [HTML CSS: Recovery Test — Reporting for Offline Classroom](Project_023979/README.md) |
 | 023980 | [HTML CSS: Recovery Test — Usability Improvement for Offline Classroom](Project_023980/README.md) |
+| 023981 | [HTML CSS: Recovery Test — Baseline Setup for Single-Host Lab](Project_023981/README.md) |
+| 023982 | [HTML CSS: Recovery Test — Automation for Single-Host Lab](Project_023982/README.md) |
+| 023983 | [HTML CSS: Recovery Test — Recovery for Single-Host Lab](Project_023983/README.md) |
+| 023984 | [HTML CSS: Recovery Test — Reporting for Single-Host Lab](Project_023984/README.md) |
+| 023985 | [HTML CSS: Recovery Test — Usability Improvement for Single-Host Lab](Project_023985/README.md) |
+| 023986 | [HTML CSS: Recovery Test — Baseline Setup for Two-Node Lab](Project_023986/README.md) |
+| 023987 | [HTML CSS: Recovery Test — Automation for Two-Node Lab](Project_023987/README.md) |
+| 023988 | [HTML CSS: Recovery Test — Recovery for Two-Node Lab](Project_023988/README.md) |
+| 023989 | [HTML CSS: Recovery Test — Reporting for Two-Node Lab](Project_023989/README.md) |
+| 023990 | [HTML CSS: Recovery Test — Usability Improvement for Two-Node Lab](Project_023990/README.md) |
+| 023991 | [HTML CSS: Recovery Test — Baseline Setup for Help Desk](Project_023991/README.md) |
+| 023992 | [HTML CSS: Recovery Test — Automation for Help Desk](Project_023992/README.md) |
+| 023993 | [HTML CSS: Recovery Test — Recovery for Help Desk](Project_023993/README.md) |
+| 023994 | [HTML CSS: Recovery Test — Reporting for Help Desk](Project_023994/README.md) |
+| 023995 | [HTML CSS: Recovery Test — Usability Improvement for Help Desk](Project_023995/README.md) |
+| 023996 | [HTML CSS: Recovery Test — Baseline Setup for Portfolio Demo](Project_023996/README.md) |
+| 023997 | [HTML CSS: Recovery Test — Automation for Portfolio Demo](Project_023997/README.md) |
+| 023998 | [HTML CSS: Recovery Test — Recovery for Portfolio Demo](Project_023998/README.md) |
+| 023999 | [HTML CSS: Recovery Test — Reporting for Portfolio Demo](Project_023999/README.md) |
+| 024000 | [HTML CSS: Recovery Test — Usability Improvement for Portfolio Demo](Project_024000/README.md) |
 
 [Back to the portfolio home](../README.md)
