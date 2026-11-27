@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023498 | [HTML CSS: Scheduled Reporting — Recovery for Portfolio Demo](Project_023498/README.md) |
 | 023499 | [HTML CSS: Scheduled Reporting — Reporting for Portfolio Demo](Project_023499/README.md) |
 | 023500 | [HTML CSS: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_023500/README.md) |
+| 023501 | [HTML CSS: Access Review — Baseline Setup for School Lab](Project_023501/README.md) |
+| 023502 | [HTML CSS: Access Review — Automation for School Lab](Project_023502/README.md) |
+| 023503 | [HTML CSS: Access Review — Recovery for School Lab](Project_023503/README.md) |
+| 023504 | [HTML CSS: Access Review — Reporting for School Lab](Project_023504/README.md) |
+| 023505 | [HTML CSS: Access Review — Usability Improvement for School Lab](Project_023505/README.md) |
+| 023506 | [HTML CSS: Access Review — Baseline Setup for Small Business](Project_023506/README.md) |
+| 023507 | [HTML CSS: Access Review — Automation for Small Business](Project_023507/README.md) |
+| 023508 | [HTML CSS: Access Review — Recovery for Small Business](Project_023508/README.md) |
+| 023509 | [HTML CSS: Access Review — Reporting for Small Business](Project_023509/README.md) |
+| 023510 | [HTML CSS: Access Review — Usability Improvement for Small Business](Project_023510/README.md) |
+| 023511 | [HTML CSS: Access Review — Baseline Setup for Home Development](Project_023511/README.md) |
+| 023512 | [HTML CSS: Access Review — Automation for Home Development](Project_023512/README.md) |
+| 023513 | [HTML CSS: Access Review — Recovery for Home Development](Project_023513/README.md) |
+| 023514 | [HTML CSS: Access Review — Reporting for Home Development](Project_023514/README.md) |
+| 023515 | [HTML CSS: Access Review — Usability Improvement for Home Development](Project_023515/README.md) |
+| 023516 | [HTML CSS: Access Review — Baseline Setup for Public Dataset](Project_023516/README.md) |
+| 023517 | [HTML CSS: Access Review — Automation for Public Dataset](Project_023517/README.md) |
+| 023518 | [HTML CSS: Access Review — Recovery for Public Dataset](Project_023518/README.md) |
+| 023519 | [HTML CSS: Access Review — Reporting for Public Dataset](Project_023519/README.md) |
+| 023520 | [HTML CSS: Access Review — Usability Improvement for Public Dataset](Project_023520/README.md) |
 
 [Back to the portfolio home](../README.md)
