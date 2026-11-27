@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026278 | [MySQL: Data Import — Recovery for Offline Classroom](Project_026278/README.md) |
 | 026279 | [MySQL: Data Import — Reporting for Offline Classroom](Project_026279/README.md) |
 | 026280 | [MySQL: Data Import — Usability Improvement for Offline Classroom](Project_026280/README.md) |
+| 026281 | [MySQL: Data Import — Baseline Setup for Single-Host Lab](Project_026281/README.md) |
+| 026282 | [MySQL: Data Import — Automation for Single-Host Lab](Project_026282/README.md) |
+| 026283 | [MySQL: Data Import — Recovery for Single-Host Lab](Project_026283/README.md) |
+| 026284 | [MySQL: Data Import — Reporting for Single-Host Lab](Project_026284/README.md) |
+| 026285 | [MySQL: Data Import — Usability Improvement for Single-Host Lab](Project_026285/README.md) |
+| 026286 | [MySQL: Data Import — Baseline Setup for Two-Node Lab](Project_026286/README.md) |
+| 026287 | [MySQL: Data Import — Automation for Two-Node Lab](Project_026287/README.md) |
+| 026288 | [MySQL: Data Import — Recovery for Two-Node Lab](Project_026288/README.md) |
+| 026289 | [MySQL: Data Import — Reporting for Two-Node Lab](Project_026289/README.md) |
+| 026290 | [MySQL: Data Import — Usability Improvement for Two-Node Lab](Project_026290/README.md) |
+| 026291 | [MySQL: Data Import — Baseline Setup for Help Desk](Project_026291/README.md) |
+| 026292 | [MySQL: Data Import — Automation for Help Desk](Project_026292/README.md) |
+| 026293 | [MySQL: Data Import — Recovery for Help Desk](Project_026293/README.md) |
+| 026294 | [MySQL: Data Import — Reporting for Help Desk](Project_026294/README.md) |
+| 026295 | [MySQL: Data Import — Usability Improvement for Help Desk](Project_026295/README.md) |
+| 026296 | [MySQL: Data Import — Baseline Setup for Portfolio Demo](Project_026296/README.md) |
+| 026297 | [MySQL: Data Import — Automation for Portfolio Demo](Project_026297/README.md) |
+| 026298 | [MySQL: Data Import — Recovery for Portfolio Demo](Project_026298/README.md) |
+| 026299 | [MySQL: Data Import — Reporting for Portfolio Demo](Project_026299/README.md) |
+| 026300 | [MySQL: Data Import — Usability Improvement for Portfolio Demo](Project_026300/README.md) |
 
 [Back to the portfolio home](../README.md)
