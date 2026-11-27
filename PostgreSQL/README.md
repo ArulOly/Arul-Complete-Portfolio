@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025278 | [PostgreSQL: Data Import — Recovery for Offline Classroom](Project_025278/README.md) |
 | 025279 | [PostgreSQL: Data Import — Reporting for Offline Classroom](Project_025279/README.md) |
 | 025280 | [PostgreSQL: Data Import — Usability Improvement for Offline Classroom](Project_025280/README.md) |
+| 025281 | [PostgreSQL: Data Import — Baseline Setup for Single-Host Lab](Project_025281/README.md) |
+| 025282 | [PostgreSQL: Data Import — Automation for Single-Host Lab](Project_025282/README.md) |
+| 025283 | [PostgreSQL: Data Import — Recovery for Single-Host Lab](Project_025283/README.md) |
+| 025284 | [PostgreSQL: Data Import — Reporting for Single-Host Lab](Project_025284/README.md) |
+| 025285 | [PostgreSQL: Data Import — Usability Improvement for Single-Host Lab](Project_025285/README.md) |
+| 025286 | [PostgreSQL: Data Import — Baseline Setup for Two-Node Lab](Project_025286/README.md) |
+| 025287 | [PostgreSQL: Data Import — Automation for Two-Node Lab](Project_025287/README.md) |
+| 025288 | [PostgreSQL: Data Import — Recovery for Two-Node Lab](Project_025288/README.md) |
+| 025289 | [PostgreSQL: Data Import — Reporting for Two-Node Lab](Project_025289/README.md) |
+| 025290 | [PostgreSQL: Data Import — Usability Improvement for Two-Node Lab](Project_025290/README.md) |
+| 025291 | [PostgreSQL: Data Import — Baseline Setup for Help Desk](Project_025291/README.md) |
+| 025292 | [PostgreSQL: Data Import — Automation for Help Desk](Project_025292/README.md) |
+| 025293 | [PostgreSQL: Data Import — Recovery for Help Desk](Project_025293/README.md) |
+| 025294 | [PostgreSQL: Data Import — Reporting for Help Desk](Project_025294/README.md) |
+| 025295 | [PostgreSQL: Data Import — Usability Improvement for Help Desk](Project_025295/README.md) |
+| 025296 | [PostgreSQL: Data Import — Baseline Setup for Portfolio Demo](Project_025296/README.md) |
+| 025297 | [PostgreSQL: Data Import — Automation for Portfolio Demo](Project_025297/README.md) |
+| 025298 | [PostgreSQL: Data Import — Recovery for Portfolio Demo](Project_025298/README.md) |
+| 025299 | [PostgreSQL: Data Import — Reporting for Portfolio Demo](Project_025299/README.md) |
+| 025300 | [PostgreSQL: Data Import — Usability Improvement for Portfolio Demo](Project_025300/README.md) |
 
 [Back to the portfolio home](../README.md)
