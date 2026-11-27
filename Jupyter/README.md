@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033058 | [Jupyter: Monitoring — Recovery for Small Business](Project_033058/README.md) |
 | 033059 | [Jupyter: Monitoring — Reporting for Small Business](Project_033059/README.md) |
 | 033060 | [Jupyter: Monitoring — Usability Improvement for Small Business](Project_033060/README.md) |
+| 033061 | [Jupyter: Monitoring — Baseline Setup for Home Development](Project_033061/README.md) |
+| 033062 | [Jupyter: Monitoring — Automation for Home Development](Project_033062/README.md) |
+| 033063 | [Jupyter: Monitoring — Recovery for Home Development](Project_033063/README.md) |
+| 033064 | [Jupyter: Monitoring — Reporting for Home Development](Project_033064/README.md) |
+| 033065 | [Jupyter: Monitoring — Usability Improvement for Home Development](Project_033065/README.md) |
+| 033066 | [Jupyter: Monitoring — Baseline Setup for Public Dataset](Project_033066/README.md) |
+| 033067 | [Jupyter: Monitoring — Automation for Public Dataset](Project_033067/README.md) |
+| 033068 | [Jupyter: Monitoring — Recovery for Public Dataset](Project_033068/README.md) |
+| 033069 | [Jupyter: Monitoring — Reporting for Public Dataset](Project_033069/README.md) |
+| 033070 | [Jupyter: Monitoring — Usability Improvement for Public Dataset](Project_033070/README.md) |
+| 033071 | [Jupyter: Monitoring — Baseline Setup for Branch Office Simulator](Project_033071/README.md) |
+| 033072 | [Jupyter: Monitoring — Automation for Branch Office Simulator](Project_033072/README.md) |
+| 033073 | [Jupyter: Monitoring — Recovery for Branch Office Simulator](Project_033073/README.md) |
+| 033074 | [Jupyter: Monitoring — Reporting for Branch Office Simulator](Project_033074/README.md) |
+| 033075 | [Jupyter: Monitoring — Usability Improvement for Branch Office Simulator](Project_033075/README.md) |
+| 033076 | [Jupyter: Monitoring — Baseline Setup for Offline Classroom](Project_033076/README.md) |
+| 033077 | [Jupyter: Monitoring — Automation for Offline Classroom](Project_033077/README.md) |
+| 033078 | [Jupyter: Monitoring — Recovery for Offline Classroom](Project_033078/README.md) |
+| 033079 | [Jupyter: Monitoring — Reporting for Offline Classroom](Project_033079/README.md) |
+| 033080 | [Jupyter: Monitoring — Usability Improvement for Offline Classroom](Project_033080/README.md) |
 
 [Back to the portfolio home](../README.md)
