@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021598 | [TypeScript: Performance Baseline — Recovery for Portfolio Demo](Project_021598/README.md) |
 | 021599 | [TypeScript: Performance Baseline — Reporting for Portfolio Demo](Project_021599/README.md) |
 | 021600 | [TypeScript: Performance Baseline — Usability Improvement for Portfolio Demo](Project_021600/README.md) |
+| 021601 | [TypeScript: Service Check — Baseline Setup for School Lab](Project_021601/README.md) |
+| 021602 | [TypeScript: Service Check — Automation for School Lab](Project_021602/README.md) |
+| 021603 | [TypeScript: Service Check — Recovery for School Lab](Project_021603/README.md) |
+| 021604 | [TypeScript: Service Check — Reporting for School Lab](Project_021604/README.md) |
+| 021605 | [TypeScript: Service Check — Usability Improvement for School Lab](Project_021605/README.md) |
+| 021606 | [TypeScript: Service Check — Baseline Setup for Small Business](Project_021606/README.md) |
+| 021607 | [TypeScript: Service Check — Automation for Small Business](Project_021607/README.md) |
+| 021608 | [TypeScript: Service Check — Recovery for Small Business](Project_021608/README.md) |
+| 021609 | [TypeScript: Service Check — Reporting for Small Business](Project_021609/README.md) |
+| 021610 | [TypeScript: Service Check — Usability Improvement for Small Business](Project_021610/README.md) |
+| 021611 | [TypeScript: Service Check — Baseline Setup for Home Development](Project_021611/README.md) |
+| 021612 | [TypeScript: Service Check — Automation for Home Development](Project_021612/README.md) |
+| 021613 | [TypeScript: Service Check — Recovery for Home Development](Project_021613/README.md) |
+| 021614 | [TypeScript: Service Check — Reporting for Home Development](Project_021614/README.md) |
+| 021615 | [TypeScript: Service Check — Usability Improvement for Home Development](Project_021615/README.md) |
+| 021616 | [TypeScript: Service Check — Baseline Setup for Public Dataset](Project_021616/README.md) |
+| 021617 | [TypeScript: Service Check — Automation for Public Dataset](Project_021617/README.md) |
+| 021618 | [TypeScript: Service Check — Recovery for Public Dataset](Project_021618/README.md) |
+| 021619 | [TypeScript: Service Check — Reporting for Public Dataset](Project_021619/README.md) |
+| 021620 | [TypeScript: Service Check — Usability Improvement for Public Dataset](Project_021620/README.md) |
 
 [Back to the portfolio home](../README.md)
