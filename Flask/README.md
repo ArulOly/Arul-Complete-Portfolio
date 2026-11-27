@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048578 | [Flask: Performance Baseline — Recovery for Offline Classroom](Project_048578/README.md) |
 | 048579 | [Flask: Performance Baseline — Reporting for Offline Classroom](Project_048579/README.md) |
 | 048580 | [Flask: Performance Baseline — Usability Improvement for Offline Classroom](Project_048580/README.md) |
+| 048581 | [Flask: Performance Baseline — Baseline Setup for Single-Host Lab](Project_048581/README.md) |
+| 048582 | [Flask: Performance Baseline — Automation for Single-Host Lab](Project_048582/README.md) |
+| 048583 | [Flask: Performance Baseline — Recovery for Single-Host Lab](Project_048583/README.md) |
+| 048584 | [Flask: Performance Baseline — Reporting for Single-Host Lab](Project_048584/README.md) |
+| 048585 | [Flask: Performance Baseline — Usability Improvement for Single-Host Lab](Project_048585/README.md) |
+| 048586 | [Flask: Performance Baseline — Baseline Setup for Two-Node Lab](Project_048586/README.md) |
+| 048587 | [Flask: Performance Baseline — Automation for Two-Node Lab](Project_048587/README.md) |
+| 048588 | [Flask: Performance Baseline — Recovery for Two-Node Lab](Project_048588/README.md) |
+| 048589 | [Flask: Performance Baseline — Reporting for Two-Node Lab](Project_048589/README.md) |
+| 048590 | [Flask: Performance Baseline — Usability Improvement for Two-Node Lab](Project_048590/README.md) |
+| 048591 | [Flask: Performance Baseline — Baseline Setup for Help Desk](Project_048591/README.md) |
+| 048592 | [Flask: Performance Baseline — Automation for Help Desk](Project_048592/README.md) |
+| 048593 | [Flask: Performance Baseline — Recovery for Help Desk](Project_048593/README.md) |
+| 048594 | [Flask: Performance Baseline — Reporting for Help Desk](Project_048594/README.md) |
+| 048595 | [Flask: Performance Baseline — Usability Improvement for Help Desk](Project_048595/README.md) |
+| 048596 | [Flask: Performance Baseline — Baseline Setup for Portfolio Demo](Project_048596/README.md) |
+| 048597 | [Flask: Performance Baseline — Automation for Portfolio Demo](Project_048597/README.md) |
+| 048598 | [Flask: Performance Baseline — Recovery for Portfolio Demo](Project_048598/README.md) |
+| 048599 | [Flask: Performance Baseline — Reporting for Portfolio Demo](Project_048599/README.md) |
+| 048600 | [Flask: Performance Baseline — Usability Improvement for Portfolio Demo](Project_048600/README.md) |
 
 [Back to the portfolio home](../README.md)
