@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020958 | [JavaScript: Recovery Test — Recovery for Small Business](Project_020958/README.md) |
 | 020959 | [JavaScript: Recovery Test — Reporting for Small Business](Project_020959/README.md) |
 | 020960 | [JavaScript: Recovery Test — Usability Improvement for Small Business](Project_020960/README.md) |
+| 020961 | [JavaScript: Recovery Test — Baseline Setup for Home Development](Project_020961/README.md) |
+| 020962 | [JavaScript: Recovery Test — Automation for Home Development](Project_020962/README.md) |
+| 020963 | [JavaScript: Recovery Test — Recovery for Home Development](Project_020963/README.md) |
+| 020964 | [JavaScript: Recovery Test — Reporting for Home Development](Project_020964/README.md) |
+| 020965 | [JavaScript: Recovery Test — Usability Improvement for Home Development](Project_020965/README.md) |
+| 020966 | [JavaScript: Recovery Test — Baseline Setup for Public Dataset](Project_020966/README.md) |
+| 020967 | [JavaScript: Recovery Test — Automation for Public Dataset](Project_020967/README.md) |
+| 020968 | [JavaScript: Recovery Test — Recovery for Public Dataset](Project_020968/README.md) |
+| 020969 | [JavaScript: Recovery Test — Reporting for Public Dataset](Project_020969/README.md) |
+| 020970 | [JavaScript: Recovery Test — Usability Improvement for Public Dataset](Project_020970/README.md) |
+| 020971 | [JavaScript: Recovery Test — Baseline Setup for Branch Office Simulator](Project_020971/README.md) |
+| 020972 | [JavaScript: Recovery Test — Automation for Branch Office Simulator](Project_020972/README.md) |
+| 020973 | [JavaScript: Recovery Test — Recovery for Branch Office Simulator](Project_020973/README.md) |
+| 020974 | [JavaScript: Recovery Test — Reporting for Branch Office Simulator](Project_020974/README.md) |
+| 020975 | [JavaScript: Recovery Test — Usability Improvement for Branch Office Simulator](Project_020975/README.md) |
+| 020976 | [JavaScript: Recovery Test — Baseline Setup for Offline Classroom](Project_020976/README.md) |
+| 020977 | [JavaScript: Recovery Test — Automation for Offline Classroom](Project_020977/README.md) |
+| 020978 | [JavaScript: Recovery Test — Recovery for Offline Classroom](Project_020978/README.md) |
+| 020979 | [JavaScript: Recovery Test — Reporting for Offline Classroom](Project_020979/README.md) |
+| 020980 | [JavaScript: Recovery Test — Usability Improvement for Offline Classroom](Project_020980/README.md) |
 
 [Back to the portfolio home](../README.md)
