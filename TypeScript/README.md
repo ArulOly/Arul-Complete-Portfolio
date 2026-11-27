@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021338 | [TypeScript: Data Export — Recovery for Two-Node Lab](Project_021338/README.md) |
 | 021339 | [TypeScript: Data Export — Reporting for Two-Node Lab](Project_021339/README.md) |
 | 021340 | [TypeScript: Data Export — Usability Improvement for Two-Node Lab](Project_021340/README.md) |
+| 021341 | [TypeScript: Data Export — Baseline Setup for Help Desk](Project_021341/README.md) |
+| 021342 | [TypeScript: Data Export — Automation for Help Desk](Project_021342/README.md) |
+| 021343 | [TypeScript: Data Export — Recovery for Help Desk](Project_021343/README.md) |
+| 021344 | [TypeScript: Data Export — Reporting for Help Desk](Project_021344/README.md) |
+| 021345 | [TypeScript: Data Export — Usability Improvement for Help Desk](Project_021345/README.md) |
+| 021346 | [TypeScript: Data Export — Baseline Setup for Portfolio Demo](Project_021346/README.md) |
+| 021347 | [TypeScript: Data Export — Automation for Portfolio Demo](Project_021347/README.md) |
+| 021348 | [TypeScript: Data Export — Recovery for Portfolio Demo](Project_021348/README.md) |
+| 021349 | [TypeScript: Data Export — Reporting for Portfolio Demo](Project_021349/README.md) |
+| 021350 | [TypeScript: Data Export — Usability Improvement for Portfolio Demo](Project_021350/README.md) |
+| 021351 | [TypeScript: Dashboard — Baseline Setup for School Lab](Project_021351/README.md) |
+| 021352 | [TypeScript: Dashboard — Automation for School Lab](Project_021352/README.md) |
+| 021353 | [TypeScript: Dashboard — Recovery for School Lab](Project_021353/README.md) |
+| 021354 | [TypeScript: Dashboard — Reporting for School Lab](Project_021354/README.md) |
+| 021355 | [TypeScript: Dashboard — Usability Improvement for School Lab](Project_021355/README.md) |
+| 021356 | [TypeScript: Dashboard — Baseline Setup for Small Business](Project_021356/README.md) |
+| 021357 | [TypeScript: Dashboard — Automation for Small Business](Project_021357/README.md) |
+| 021358 | [TypeScript: Dashboard — Recovery for Small Business](Project_021358/README.md) |
+| 021359 | [TypeScript: Dashboard — Reporting for Small Business](Project_021359/README.md) |
+| 021360 | [TypeScript: Dashboard — Usability Improvement for Small Business](Project_021360/README.md) |
 
 [Back to the portfolio home](../README.md)
