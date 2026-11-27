@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020578 | [JavaScript: Performance Baseline — Recovery for Offline Classroom](Project_020578/README.md) |
 | 020579 | [JavaScript: Performance Baseline — Reporting for Offline Classroom](Project_020579/README.md) |
 | 020580 | [JavaScript: Performance Baseline — Usability Improvement for Offline Classroom](Project_020580/README.md) |
+| 020581 | [JavaScript: Performance Baseline — Baseline Setup for Single-Host Lab](Project_020581/README.md) |
+| 020582 | [JavaScript: Performance Baseline — Automation for Single-Host Lab](Project_020582/README.md) |
+| 020583 | [JavaScript: Performance Baseline — Recovery for Single-Host Lab](Project_020583/README.md) |
+| 020584 | [JavaScript: Performance Baseline — Reporting for Single-Host Lab](Project_020584/README.md) |
+| 020585 | [JavaScript: Performance Baseline — Usability Improvement for Single-Host Lab](Project_020585/README.md) |
+| 020586 | [JavaScript: Performance Baseline — Baseline Setup for Two-Node Lab](Project_020586/README.md) |
+| 020587 | [JavaScript: Performance Baseline — Automation for Two-Node Lab](Project_020587/README.md) |
+| 020588 | [JavaScript: Performance Baseline — Recovery for Two-Node Lab](Project_020588/README.md) |
+| 020589 | [JavaScript: Performance Baseline — Reporting for Two-Node Lab](Project_020589/README.md) |
+| 020590 | [JavaScript: Performance Baseline — Usability Improvement for Two-Node Lab](Project_020590/README.md) |
+| 020591 | [JavaScript: Performance Baseline — Baseline Setup for Help Desk](Project_020591/README.md) |
+| 020592 | [JavaScript: Performance Baseline — Automation for Help Desk](Project_020592/README.md) |
+| 020593 | [JavaScript: Performance Baseline — Recovery for Help Desk](Project_020593/README.md) |
+| 020594 | [JavaScript: Performance Baseline — Reporting for Help Desk](Project_020594/README.md) |
+| 020595 | [JavaScript: Performance Baseline — Usability Improvement for Help Desk](Project_020595/README.md) |
+| 020596 | [JavaScript: Performance Baseline — Baseline Setup for Portfolio Demo](Project_020596/README.md) |
+| 020597 | [JavaScript: Performance Baseline — Automation for Portfolio Demo](Project_020597/README.md) |
+| 020598 | [JavaScript: Performance Baseline — Recovery for Portfolio Demo](Project_020598/README.md) |
+| 020599 | [JavaScript: Performance Baseline — Reporting for Portfolio Demo](Project_020599/README.md) |
+| 020600 | [JavaScript: Performance Baseline — Usability Improvement for Portfolio Demo](Project_020600/README.md) |
 
 [Back to the portfolio home](../README.md)
