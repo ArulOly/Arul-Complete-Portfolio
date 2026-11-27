@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027138 | [MongoDB: Audit — Recovery for Two-Node Lab](Project_027138/README.md) |
 | 027139 | [MongoDB: Audit — Reporting for Two-Node Lab](Project_027139/README.md) |
 | 027140 | [MongoDB: Audit — Usability Improvement for Two-Node Lab](Project_027140/README.md) |
+| 027141 | [MongoDB: Audit — Baseline Setup for Help Desk](Project_027141/README.md) |
+| 027142 | [MongoDB: Audit — Automation for Help Desk](Project_027142/README.md) |
+| 027143 | [MongoDB: Audit — Recovery for Help Desk](Project_027143/README.md) |
+| 027144 | [MongoDB: Audit — Reporting for Help Desk](Project_027144/README.md) |
+| 027145 | [MongoDB: Audit — Usability Improvement for Help Desk](Project_027145/README.md) |
+| 027146 | [MongoDB: Audit — Baseline Setup for Portfolio Demo](Project_027146/README.md) |
+| 027147 | [MongoDB: Audit — Automation for Portfolio Demo](Project_027147/README.md) |
+| 027148 | [MongoDB: Audit — Recovery for Portfolio Demo](Project_027148/README.md) |
+| 027149 | [MongoDB: Audit — Reporting for Portfolio Demo](Project_027149/README.md) |
+| 027150 | [MongoDB: Audit — Usability Improvement for Portfolio Demo](Project_027150/README.md) |
+| 027151 | [MongoDB: Log Analysis — Baseline Setup for School Lab](Project_027151/README.md) |
+| 027152 | [MongoDB: Log Analysis — Automation for School Lab](Project_027152/README.md) |
+| 027153 | [MongoDB: Log Analysis — Recovery for School Lab](Project_027153/README.md) |
+| 027154 | [MongoDB: Log Analysis — Reporting for School Lab](Project_027154/README.md) |
+| 027155 | [MongoDB: Log Analysis — Usability Improvement for School Lab](Project_027155/README.md) |
+| 027156 | [MongoDB: Log Analysis — Baseline Setup for Small Business](Project_027156/README.md) |
+| 027157 | [MongoDB: Log Analysis — Automation for Small Business](Project_027157/README.md) |
+| 027158 | [MongoDB: Log Analysis — Recovery for Small Business](Project_027158/README.md) |
+| 027159 | [MongoDB: Log Analysis — Reporting for Small Business](Project_027159/README.md) |
+| 027160 | [MongoDB: Log Analysis — Usability Improvement for Small Business](Project_027160/README.md) |
 
 [Back to the portfolio home](../README.md)
