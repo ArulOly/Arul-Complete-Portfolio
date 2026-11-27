@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005838 | [FreeBSD: Documentation Generation — Recovery for Two-Node Lab](Project_005838/README.md) |
 | 005839 | [FreeBSD: Documentation Generation — Reporting for Two-Node Lab](Project_005839/README.md) |
 | 005840 | [FreeBSD: Documentation Generation — Usability Improvement for Two-Node Lab](Project_005840/README.md) |
+| 005841 | [FreeBSD: Documentation Generation — Baseline Setup for Help Desk](Project_005841/README.md) |
+| 005842 | [FreeBSD: Documentation Generation — Automation for Help Desk](Project_005842/README.md) |
+| 005843 | [FreeBSD: Documentation Generation — Recovery for Help Desk](Project_005843/README.md) |
+| 005844 | [FreeBSD: Documentation Generation — Reporting for Help Desk](Project_005844/README.md) |
+| 005845 | [FreeBSD: Documentation Generation — Usability Improvement for Help Desk](Project_005845/README.md) |
+| 005846 | [FreeBSD: Documentation Generation — Baseline Setup for Portfolio Demo](Project_005846/README.md) |
+| 005847 | [FreeBSD: Documentation Generation — Automation for Portfolio Demo](Project_005847/README.md) |
+| 005848 | [FreeBSD: Documentation Generation — Recovery for Portfolio Demo](Project_005848/README.md) |
+| 005849 | [FreeBSD: Documentation Generation — Reporting for Portfolio Demo](Project_005849/README.md) |
+| 005850 | [FreeBSD: Documentation Generation — Usability Improvement for Portfolio Demo](Project_005850/README.md) |
+| 005851 | [FreeBSD: Automation — Baseline Setup for School Lab](Project_005851/README.md) |
+| 005852 | [FreeBSD: Automation — Automation for School Lab](Project_005852/README.md) |
+| 005853 | [FreeBSD: Automation — Recovery for School Lab](Project_005853/README.md) |
+| 005854 | [FreeBSD: Automation — Reporting for School Lab](Project_005854/README.md) |
+| 005855 | [FreeBSD: Automation — Usability Improvement for School Lab](Project_005855/README.md) |
+| 005856 | [FreeBSD: Automation — Baseline Setup for Small Business](Project_005856/README.md) |
+| 005857 | [FreeBSD: Automation — Automation for Small Business](Project_005857/README.md) |
+| 005858 | [FreeBSD: Automation — Recovery for Small Business](Project_005858/README.md) |
+| 005859 | [FreeBSD: Automation — Reporting for Small Business](Project_005859/README.md) |
+| 005860 | [FreeBSD: Automation — Usability Improvement for Small Business](Project_005860/README.md) |
 
 [Back to the portfolio home](../README.md)
