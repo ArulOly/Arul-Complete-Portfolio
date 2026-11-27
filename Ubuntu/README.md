@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002898 | [Ubuntu: Automation — Recovery for Portfolio Demo](Project_002898/README.md) |
 | 002899 | [Ubuntu: Automation — Reporting for Portfolio Demo](Project_002899/README.md) |
 | 002900 | [Ubuntu: Automation — Usability Improvement for Portfolio Demo](Project_002900/README.md) |
+| 002901 | [Ubuntu: Visual Reporting — Baseline Setup for School Lab](Project_002901/README.md) |
+| 002902 | [Ubuntu: Visual Reporting — Automation for School Lab](Project_002902/README.md) |
+| 002903 | [Ubuntu: Visual Reporting — Recovery for School Lab](Project_002903/README.md) |
+| 002904 | [Ubuntu: Visual Reporting — Reporting for School Lab](Project_002904/README.md) |
+| 002905 | [Ubuntu: Visual Reporting — Usability Improvement for School Lab](Project_002905/README.md) |
+| 002906 | [Ubuntu: Visual Reporting — Baseline Setup for Small Business](Project_002906/README.md) |
+| 002907 | [Ubuntu: Visual Reporting — Automation for Small Business](Project_002907/README.md) |
+| 002908 | [Ubuntu: Visual Reporting — Recovery for Small Business](Project_002908/README.md) |
+| 002909 | [Ubuntu: Visual Reporting — Reporting for Small Business](Project_002909/README.md) |
+| 002910 | [Ubuntu: Visual Reporting — Usability Improvement for Small Business](Project_002910/README.md) |
+| 002911 | [Ubuntu: Visual Reporting — Baseline Setup for Home Development](Project_002911/README.md) |
+| 002912 | [Ubuntu: Visual Reporting — Automation for Home Development](Project_002912/README.md) |
+| 002913 | [Ubuntu: Visual Reporting — Recovery for Home Development](Project_002913/README.md) |
+| 002914 | [Ubuntu: Visual Reporting — Reporting for Home Development](Project_002914/README.md) |
+| 002915 | [Ubuntu: Visual Reporting — Usability Improvement for Home Development](Project_002915/README.md) |
+| 002916 | [Ubuntu: Visual Reporting — Baseline Setup for Public Dataset](Project_002916/README.md) |
+| 002917 | [Ubuntu: Visual Reporting — Automation for Public Dataset](Project_002917/README.md) |
+| 002918 | [Ubuntu: Visual Reporting — Recovery for Public Dataset](Project_002918/README.md) |
+| 002919 | [Ubuntu: Visual Reporting — Reporting for Public Dataset](Project_002919/README.md) |
+| 002920 | [Ubuntu: Visual Reporting — Usability Improvement for Public Dataset](Project_002920/README.md) |
 
 [Back to the portfolio home](../README.md)
