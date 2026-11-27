@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -764,5 +764,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019718 | [Python: Error Handling — Recovery for Public Dataset](Project_019718/README.md) |
 | 019719 | [Python: Error Handling — Reporting for Public Dataset](Project_019719/README.md) |
 | 019720 | [Python: Error Handling — Usability Improvement for Public Dataset](Project_019720/README.md) |
+| 019721 | [Python: Error Handling — Baseline Setup for Branch Office Simulator](Project_019721/README.md) |
+| 019722 | [Python: Error Handling — Automation for Branch Office Simulator](Project_019722/README.md) |
+| 019723 | [Python: Error Handling — Recovery for Branch Office Simulator](Project_019723/README.md) |
+| 019724 | [Python: Error Handling — Reporting for Branch Office Simulator](Project_019724/README.md) |
+| 019725 | [Python: Error Handling — Usability Improvement for Branch Office Simulator](Project_019725/README.md) |
+| 019726 | [Python: Error Handling — Baseline Setup for Offline Classroom](Project_019726/README.md) |
+| 019727 | [Python: Error Handling — Automation for Offline Classroom](Project_019727/README.md) |
+| 019728 | [Python: Error Handling — Recovery for Offline Classroom](Project_019728/README.md) |
+| 019729 | [Python: Error Handling — Reporting for Offline Classroom](Project_019729/README.md) |
+| 019730 | [Python: Error Handling — Usability Improvement for Offline Classroom](Project_019730/README.md) |
+| 019731 | [Python: Error Handling — Baseline Setup for Single-Host Lab](Project_019731/README.md) |
+| 019732 | [Python: Error Handling — Automation for Single-Host Lab](Project_019732/README.md) |
+| 019733 | [Python: Error Handling — Recovery for Single-Host Lab](Project_019733/README.md) |
+| 019734 | [Python: Error Handling — Reporting for Single-Host Lab](Project_019734/README.md) |
+| 019735 | [Python: Error Handling — Usability Improvement for Single-Host Lab](Project_019735/README.md) |
+| 019736 | [Python: Error Handling — Baseline Setup for Two-Node Lab](Project_019736/README.md) |
+| 019737 | [Python: Error Handling — Automation for Two-Node Lab](Project_019737/README.md) |
+| 019738 | [Python: Error Handling — Recovery for Two-Node Lab](Project_019738/README.md) |
+| 019739 | [Python: Error Handling — Reporting for Two-Node Lab](Project_019739/README.md) |
+| 019740 | [Python: Error Handling — Usability Improvement for Two-Node Lab](Project_019740/README.md) |
 
 [Back to the portfolio home](../README.md)
