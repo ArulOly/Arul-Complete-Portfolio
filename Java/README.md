@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022098 | [Java: Monitoring — Recovery for Portfolio Demo](Project_022098/README.md) |
 | 022099 | [Java: Monitoring — Reporting for Portfolio Demo](Project_022099/README.md) |
 | 022100 | [Java: Monitoring — Usability Improvement for Portfolio Demo](Project_022100/README.md) |
+| 022101 | [Java: Audit — Baseline Setup for School Lab](Project_022101/README.md) |
+| 022102 | [Java: Audit — Automation for School Lab](Project_022102/README.md) |
+| 022103 | [Java: Audit — Recovery for School Lab](Project_022103/README.md) |
+| 022104 | [Java: Audit — Reporting for School Lab](Project_022104/README.md) |
+| 022105 | [Java: Audit — Usability Improvement for School Lab](Project_022105/README.md) |
+| 022106 | [Java: Audit — Baseline Setup for Small Business](Project_022106/README.md) |
+| 022107 | [Java: Audit — Automation for Small Business](Project_022107/README.md) |
+| 022108 | [Java: Audit — Recovery for Small Business](Project_022108/README.md) |
+| 022109 | [Java: Audit — Reporting for Small Business](Project_022109/README.md) |
+| 022110 | [Java: Audit — Usability Improvement for Small Business](Project_022110/README.md) |
+| 022111 | [Java: Audit — Baseline Setup for Home Development](Project_022111/README.md) |
+| 022112 | [Java: Audit — Automation for Home Development](Project_022112/README.md) |
+| 022113 | [Java: Audit — Recovery for Home Development](Project_022113/README.md) |
+| 022114 | [Java: Audit — Reporting for Home Development](Project_022114/README.md) |
+| 022115 | [Java: Audit — Usability Improvement for Home Development](Project_022115/README.md) |
+| 022116 | [Java: Audit — Baseline Setup for Public Dataset](Project_022116/README.md) |
+| 022117 | [Java: Audit — Automation for Public Dataset](Project_022117/README.md) |
+| 022118 | [Java: Audit — Recovery for Public Dataset](Project_022118/README.md) |
+| 022119 | [Java: Audit — Reporting for Public Dataset](Project_022119/README.md) |
+| 022120 | [Java: Audit — Usability Improvement for Public Dataset](Project_022120/README.md) |
 
 [Back to the portfolio home](../README.md)
