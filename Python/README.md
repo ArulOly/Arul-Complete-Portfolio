@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -504,5 +504,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019458 | [Python: Scheduled Reporting — Recovery for Small Business](Project_019458/README.md) |
 | 019459 | [Python: Scheduled Reporting — Reporting for Small Business](Project_019459/README.md) |
 | 019460 | [Python: Scheduled Reporting — Usability Improvement for Small Business](Project_019460/README.md) |
+| 019461 | [Python: Scheduled Reporting — Baseline Setup for Home Development](Project_019461/README.md) |
+| 019462 | [Python: Scheduled Reporting — Automation for Home Development](Project_019462/README.md) |
+| 019463 | [Python: Scheduled Reporting — Recovery for Home Development](Project_019463/README.md) |
+| 019464 | [Python: Scheduled Reporting — Reporting for Home Development](Project_019464/README.md) |
+| 019465 | [Python: Scheduled Reporting — Usability Improvement for Home Development](Project_019465/README.md) |
+| 019466 | [Python: Scheduled Reporting — Baseline Setup for Public Dataset](Project_019466/README.md) |
+| 019467 | [Python: Scheduled Reporting — Automation for Public Dataset](Project_019467/README.md) |
+| 019468 | [Python: Scheduled Reporting — Recovery for Public Dataset](Project_019468/README.md) |
+| 019469 | [Python: Scheduled Reporting — Reporting for Public Dataset](Project_019469/README.md) |
+| 019470 | [Python: Scheduled Reporting — Usability Improvement for Public Dataset](Project_019470/README.md) |
+| 019471 | [Python: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_019471/README.md) |
+| 019472 | [Python: Scheduled Reporting — Automation for Branch Office Simulator](Project_019472/README.md) |
+| 019473 | [Python: Scheduled Reporting — Recovery for Branch Office Simulator](Project_019473/README.md) |
+| 019474 | [Python: Scheduled Reporting — Reporting for Branch Office Simulator](Project_019474/README.md) |
+| 019475 | [Python: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_019475/README.md) |
+| 019476 | [Python: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_019476/README.md) |
+| 019477 | [Python: Scheduled Reporting — Automation for Offline Classroom](Project_019477/README.md) |
+| 019478 | [Python: Scheduled Reporting — Recovery for Offline Classroom](Project_019478/README.md) |
+| 019479 | [Python: Scheduled Reporting — Reporting for Offline Classroom](Project_019479/README.md) |
+| 019480 | [Python: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_019480/README.md) |
 
 [Back to the portfolio home](../README.md)
