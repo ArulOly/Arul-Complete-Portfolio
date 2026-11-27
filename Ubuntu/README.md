@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002938 | [Ubuntu: Visual Reporting — Recovery for Two-Node Lab](Project_002938/README.md) |
 | 002939 | [Ubuntu: Visual Reporting — Reporting for Two-Node Lab](Project_002939/README.md) |
 | 002940 | [Ubuntu: Visual Reporting — Usability Improvement for Two-Node Lab](Project_002940/README.md) |
+| 002941 | [Ubuntu: Visual Reporting — Baseline Setup for Help Desk](Project_002941/README.md) |
+| 002942 | [Ubuntu: Visual Reporting — Automation for Help Desk](Project_002942/README.md) |
+| 002943 | [Ubuntu: Visual Reporting — Recovery for Help Desk](Project_002943/README.md) |
+| 002944 | [Ubuntu: Visual Reporting — Reporting for Help Desk](Project_002944/README.md) |
+| 002945 | [Ubuntu: Visual Reporting — Usability Improvement for Help Desk](Project_002945/README.md) |
+| 002946 | [Ubuntu: Visual Reporting — Baseline Setup for Portfolio Demo](Project_002946/README.md) |
+| 002947 | [Ubuntu: Visual Reporting — Automation for Portfolio Demo](Project_002947/README.md) |
+| 002948 | [Ubuntu: Visual Reporting — Recovery for Portfolio Demo](Project_002948/README.md) |
+| 002949 | [Ubuntu: Visual Reporting — Reporting for Portfolio Demo](Project_002949/README.md) |
+| 002950 | [Ubuntu: Visual Reporting — Usability Improvement for Portfolio Demo](Project_002950/README.md) |
+| 002951 | [Ubuntu: Recovery Test — Baseline Setup for School Lab](Project_002951/README.md) |
+| 002952 | [Ubuntu: Recovery Test — Automation for School Lab](Project_002952/README.md) |
+| 002953 | [Ubuntu: Recovery Test — Recovery for School Lab](Project_002953/README.md) |
+| 002954 | [Ubuntu: Recovery Test — Reporting for School Lab](Project_002954/README.md) |
+| 002955 | [Ubuntu: Recovery Test — Usability Improvement for School Lab](Project_002955/README.md) |
+| 002956 | [Ubuntu: Recovery Test — Baseline Setup for Small Business](Project_002956/README.md) |
+| 002957 | [Ubuntu: Recovery Test — Automation for Small Business](Project_002957/README.md) |
+| 002958 | [Ubuntu: Recovery Test — Recovery for Small Business](Project_002958/README.md) |
+| 002959 | [Ubuntu: Recovery Test — Reporting for Small Business](Project_002959/README.md) |
+| 002960 | [Ubuntu: Recovery Test — Usability Improvement for Small Business](Project_002960/README.md) |
 
 [Back to the portfolio home](../README.md)
