@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020938 | [JavaScript: Visual Reporting — Recovery for Two-Node Lab](Project_020938/README.md) |
 | 020939 | [JavaScript: Visual Reporting — Reporting for Two-Node Lab](Project_020939/README.md) |
 | 020940 | [JavaScript: Visual Reporting — Usability Improvement for Two-Node Lab](Project_020940/README.md) |
+| 020941 | [JavaScript: Visual Reporting — Baseline Setup for Help Desk](Project_020941/README.md) |
+| 020942 | [JavaScript: Visual Reporting — Automation for Help Desk](Project_020942/README.md) |
+| 020943 | [JavaScript: Visual Reporting — Recovery for Help Desk](Project_020943/README.md) |
+| 020944 | [JavaScript: Visual Reporting — Reporting for Help Desk](Project_020944/README.md) |
+| 020945 | [JavaScript: Visual Reporting — Usability Improvement for Help Desk](Project_020945/README.md) |
+| 020946 | [JavaScript: Visual Reporting — Baseline Setup for Portfolio Demo](Project_020946/README.md) |
+| 020947 | [JavaScript: Visual Reporting — Automation for Portfolio Demo](Project_020947/README.md) |
+| 020948 | [JavaScript: Visual Reporting — Recovery for Portfolio Demo](Project_020948/README.md) |
+| 020949 | [JavaScript: Visual Reporting — Reporting for Portfolio Demo](Project_020949/README.md) |
+| 020950 | [JavaScript: Visual Reporting — Usability Improvement for Portfolio Demo](Project_020950/README.md) |
+| 020951 | [JavaScript: Recovery Test — Baseline Setup for School Lab](Project_020951/README.md) |
+| 020952 | [JavaScript: Recovery Test — Automation for School Lab](Project_020952/README.md) |
+| 020953 | [JavaScript: Recovery Test — Recovery for School Lab](Project_020953/README.md) |
+| 020954 | [JavaScript: Recovery Test — Reporting for School Lab](Project_020954/README.md) |
+| 020955 | [JavaScript: Recovery Test — Usability Improvement for School Lab](Project_020955/README.md) |
+| 020956 | [JavaScript: Recovery Test — Baseline Setup for Small Business](Project_020956/README.md) |
+| 020957 | [JavaScript: Recovery Test — Automation for Small Business](Project_020957/README.md) |
+| 020958 | [JavaScript: Recovery Test — Recovery for Small Business](Project_020958/README.md) |
+| 020959 | [JavaScript: Recovery Test — Reporting for Small Business](Project_020959/README.md) |
+| 020960 | [JavaScript: Recovery Test — Usability Improvement for Small Business](Project_020960/README.md) |
 
 [Back to the portfolio home](../README.md)
