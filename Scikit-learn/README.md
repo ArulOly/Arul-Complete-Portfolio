@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034878 | [Scikit-learn: Automation — Recovery for Offline Classroom](Project_034878/README.md) |
 | 034879 | [Scikit-learn: Automation — Reporting for Offline Classroom](Project_034879/README.md) |
 | 034880 | [Scikit-learn: Automation — Usability Improvement for Offline Classroom](Project_034880/README.md) |
+| 034881 | [Scikit-learn: Automation — Baseline Setup for Single-Host Lab](Project_034881/README.md) |
+| 034882 | [Scikit-learn: Automation — Automation for Single-Host Lab](Project_034882/README.md) |
+| 034883 | [Scikit-learn: Automation — Recovery for Single-Host Lab](Project_034883/README.md) |
+| 034884 | [Scikit-learn: Automation — Reporting for Single-Host Lab](Project_034884/README.md) |
+| 034885 | [Scikit-learn: Automation — Usability Improvement for Single-Host Lab](Project_034885/README.md) |
+| 034886 | [Scikit-learn: Automation — Baseline Setup for Two-Node Lab](Project_034886/README.md) |
+| 034887 | [Scikit-learn: Automation — Automation for Two-Node Lab](Project_034887/README.md) |
+| 034888 | [Scikit-learn: Automation — Recovery for Two-Node Lab](Project_034888/README.md) |
+| 034889 | [Scikit-learn: Automation — Reporting for Two-Node Lab](Project_034889/README.md) |
+| 034890 | [Scikit-learn: Automation — Usability Improvement for Two-Node Lab](Project_034890/README.md) |
+| 034891 | [Scikit-learn: Automation — Baseline Setup for Help Desk](Project_034891/README.md) |
+| 034892 | [Scikit-learn: Automation — Automation for Help Desk](Project_034892/README.md) |
+| 034893 | [Scikit-learn: Automation — Recovery for Help Desk](Project_034893/README.md) |
+| 034894 | [Scikit-learn: Automation — Reporting for Help Desk](Project_034894/README.md) |
+| 034895 | [Scikit-learn: Automation — Usability Improvement for Help Desk](Project_034895/README.md) |
+| 034896 | [Scikit-learn: Automation — Baseline Setup for Portfolio Demo](Project_034896/README.md) |
+| 034897 | [Scikit-learn: Automation — Automation for Portfolio Demo](Project_034897/README.md) |
+| 034898 | [Scikit-learn: Automation — Recovery for Portfolio Demo](Project_034898/README.md) |
+| 034899 | [Scikit-learn: Automation — Reporting for Portfolio Demo](Project_034899/README.md) |
+| 034900 | [Scikit-learn: Automation — Usability Improvement for Portfolio Demo](Project_034900/README.md) |
 
 [Back to the portfolio home](../README.md)
