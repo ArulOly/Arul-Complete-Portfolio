@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005638 | [FreeBSD: Service Check — Recovery for Two-Node Lab](Project_005638/README.md) |
 | 005639 | [FreeBSD: Service Check — Reporting for Two-Node Lab](Project_005639/README.md) |
 | 005640 | [FreeBSD: Service Check — Usability Improvement for Two-Node Lab](Project_005640/README.md) |
+| 005641 | [FreeBSD: Service Check — Baseline Setup for Help Desk](Project_005641/README.md) |
+| 005642 | [FreeBSD: Service Check — Automation for Help Desk](Project_005642/README.md) |
+| 005643 | [FreeBSD: Service Check — Recovery for Help Desk](Project_005643/README.md) |
+| 005644 | [FreeBSD: Service Check — Reporting for Help Desk](Project_005644/README.md) |
+| 005645 | [FreeBSD: Service Check — Usability Improvement for Help Desk](Project_005645/README.md) |
+| 005646 | [FreeBSD: Service Check — Baseline Setup for Portfolio Demo](Project_005646/README.md) |
+| 005647 | [FreeBSD: Service Check — Automation for Portfolio Demo](Project_005647/README.md) |
+| 005648 | [FreeBSD: Service Check — Recovery for Portfolio Demo](Project_005648/README.md) |
+| 005649 | [FreeBSD: Service Check — Reporting for Portfolio Demo](Project_005649/README.md) |
+| 005650 | [FreeBSD: Service Check — Usability Improvement for Portfolio Demo](Project_005650/README.md) |
+| 005651 | [FreeBSD: Configuration Comparison — Baseline Setup for School Lab](Project_005651/README.md) |
+| 005652 | [FreeBSD: Configuration Comparison — Automation for School Lab](Project_005652/README.md) |
+| 005653 | [FreeBSD: Configuration Comparison — Recovery for School Lab](Project_005653/README.md) |
+| 005654 | [FreeBSD: Configuration Comparison — Reporting for School Lab](Project_005654/README.md) |
+| 005655 | [FreeBSD: Configuration Comparison — Usability Improvement for School Lab](Project_005655/README.md) |
+| 005656 | [FreeBSD: Configuration Comparison — Baseline Setup for Small Business](Project_005656/README.md) |
+| 005657 | [FreeBSD: Configuration Comparison — Automation for Small Business](Project_005657/README.md) |
+| 005658 | [FreeBSD: Configuration Comparison — Recovery for Small Business](Project_005658/README.md) |
+| 005659 | [FreeBSD: Configuration Comparison — Reporting for Small Business](Project_005659/README.md) |
+| 005660 | [FreeBSD: Configuration Comparison — Usability Improvement for Small Business](Project_005660/README.md) |
 
 [Back to the portfolio home](../README.md)
