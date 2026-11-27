@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021198 | [TypeScript: Log Analysis — Recovery for Portfolio Demo](Project_021198/README.md) |
 | 021199 | [TypeScript: Log Analysis — Reporting for Portfolio Demo](Project_021199/README.md) |
 | 021200 | [TypeScript: Log Analysis — Usability Improvement for Portfolio Demo](Project_021200/README.md) |
+| 021201 | [TypeScript: Backup Verification — Baseline Setup for School Lab](Project_021201/README.md) |
+| 021202 | [TypeScript: Backup Verification — Automation for School Lab](Project_021202/README.md) |
+| 021203 | [TypeScript: Backup Verification — Recovery for School Lab](Project_021203/README.md) |
+| 021204 | [TypeScript: Backup Verification — Reporting for School Lab](Project_021204/README.md) |
+| 021205 | [TypeScript: Backup Verification — Usability Improvement for School Lab](Project_021205/README.md) |
+| 021206 | [TypeScript: Backup Verification — Baseline Setup for Small Business](Project_021206/README.md) |
+| 021207 | [TypeScript: Backup Verification — Automation for Small Business](Project_021207/README.md) |
+| 021208 | [TypeScript: Backup Verification — Recovery for Small Business](Project_021208/README.md) |
+| 021209 | [TypeScript: Backup Verification — Reporting for Small Business](Project_021209/README.md) |
+| 021210 | [TypeScript: Backup Verification — Usability Improvement for Small Business](Project_021210/README.md) |
+| 021211 | [TypeScript: Backup Verification — Baseline Setup for Home Development](Project_021211/README.md) |
+| 021212 | [TypeScript: Backup Verification — Automation for Home Development](Project_021212/README.md) |
+| 021213 | [TypeScript: Backup Verification — Recovery for Home Development](Project_021213/README.md) |
+| 021214 | [TypeScript: Backup Verification — Reporting for Home Development](Project_021214/README.md) |
+| 021215 | [TypeScript: Backup Verification — Usability Improvement for Home Development](Project_021215/README.md) |
+| 021216 | [TypeScript: Backup Verification — Baseline Setup for Public Dataset](Project_021216/README.md) |
+| 021217 | [TypeScript: Backup Verification — Automation for Public Dataset](Project_021217/README.md) |
+| 021218 | [TypeScript: Backup Verification — Recovery for Public Dataset](Project_021218/README.md) |
+| 021219 | [TypeScript: Backup Verification — Reporting for Public Dataset](Project_021219/README.md) |
+| 021220 | [TypeScript: Backup Verification — Usability Improvement for Public Dataset](Project_021220/README.md) |
 
 [Back to the portfolio home](../README.md)
