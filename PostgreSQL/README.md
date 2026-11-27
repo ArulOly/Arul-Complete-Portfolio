@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025178 | [PostgreSQL: Log Analysis — Recovery for Offline Classroom](Project_025178/README.md) |
 | 025179 | [PostgreSQL: Log Analysis — Reporting for Offline Classroom](Project_025179/README.md) |
 | 025180 | [PostgreSQL: Log Analysis — Usability Improvement for Offline Classroom](Project_025180/README.md) |
+| 025181 | [PostgreSQL: Log Analysis — Baseline Setup for Single-Host Lab](Project_025181/README.md) |
+| 025182 | [PostgreSQL: Log Analysis — Automation for Single-Host Lab](Project_025182/README.md) |
+| 025183 | [PostgreSQL: Log Analysis — Recovery for Single-Host Lab](Project_025183/README.md) |
+| 025184 | [PostgreSQL: Log Analysis — Reporting for Single-Host Lab](Project_025184/README.md) |
+| 025185 | [PostgreSQL: Log Analysis — Usability Improvement for Single-Host Lab](Project_025185/README.md) |
+| 025186 | [PostgreSQL: Log Analysis — Baseline Setup for Two-Node Lab](Project_025186/README.md) |
+| 025187 | [PostgreSQL: Log Analysis — Automation for Two-Node Lab](Project_025187/README.md) |
+| 025188 | [PostgreSQL: Log Analysis — Recovery for Two-Node Lab](Project_025188/README.md) |
+| 025189 | [PostgreSQL: Log Analysis — Reporting for Two-Node Lab](Project_025189/README.md) |
+| 025190 | [PostgreSQL: Log Analysis — Usability Improvement for Two-Node Lab](Project_025190/README.md) |
+| 025191 | [PostgreSQL: Log Analysis — Baseline Setup for Help Desk](Project_025191/README.md) |
+| 025192 | [PostgreSQL: Log Analysis — Automation for Help Desk](Project_025192/README.md) |
+| 025193 | [PostgreSQL: Log Analysis — Recovery for Help Desk](Project_025193/README.md) |
+| 025194 | [PostgreSQL: Log Analysis — Reporting for Help Desk](Project_025194/README.md) |
+| 025195 | [PostgreSQL: Log Analysis — Usability Improvement for Help Desk](Project_025195/README.md) |
+| 025196 | [PostgreSQL: Log Analysis — Baseline Setup for Portfolio Demo](Project_025196/README.md) |
+| 025197 | [PostgreSQL: Log Analysis — Automation for Portfolio Demo](Project_025197/README.md) |
+| 025198 | [PostgreSQL: Log Analysis — Recovery for Portfolio Demo](Project_025198/README.md) |
+| 025199 | [PostgreSQL: Log Analysis — Reporting for Portfolio Demo](Project_025199/README.md) |
+| 025200 | [PostgreSQL: Log Analysis — Usability Improvement for Portfolio Demo](Project_025200/README.md) |
 
 [Back to the portfolio home](../README.md)
