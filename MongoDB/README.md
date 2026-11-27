@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027418 | [MongoDB: Alerting — Recovery for Public Dataset](Project_027418/README.md) |
 | 027419 | [MongoDB: Alerting — Reporting for Public Dataset](Project_027419/README.md) |
 | 027420 | [MongoDB: Alerting — Usability Improvement for Public Dataset](Project_027420/README.md) |
+| 027421 | [MongoDB: Alerting — Baseline Setup for Branch Office Simulator](Project_027421/README.md) |
+| 027422 | [MongoDB: Alerting — Automation for Branch Office Simulator](Project_027422/README.md) |
+| 027423 | [MongoDB: Alerting — Recovery for Branch Office Simulator](Project_027423/README.md) |
+| 027424 | [MongoDB: Alerting — Reporting for Branch Office Simulator](Project_027424/README.md) |
+| 027425 | [MongoDB: Alerting — Usability Improvement for Branch Office Simulator](Project_027425/README.md) |
+| 027426 | [MongoDB: Alerting — Baseline Setup for Offline Classroom](Project_027426/README.md) |
+| 027427 | [MongoDB: Alerting — Automation for Offline Classroom](Project_027427/README.md) |
+| 027428 | [MongoDB: Alerting — Recovery for Offline Classroom](Project_027428/README.md) |
+| 027429 | [MongoDB: Alerting — Reporting for Offline Classroom](Project_027429/README.md) |
+| 027430 | [MongoDB: Alerting — Usability Improvement for Offline Classroom](Project_027430/README.md) |
+| 027431 | [MongoDB: Alerting — Baseline Setup for Single-Host Lab](Project_027431/README.md) |
+| 027432 | [MongoDB: Alerting — Automation for Single-Host Lab](Project_027432/README.md) |
+| 027433 | [MongoDB: Alerting — Recovery for Single-Host Lab](Project_027433/README.md) |
+| 027434 | [MongoDB: Alerting — Reporting for Single-Host Lab](Project_027434/README.md) |
+| 027435 | [MongoDB: Alerting — Usability Improvement for Single-Host Lab](Project_027435/README.md) |
+| 027436 | [MongoDB: Alerting — Baseline Setup for Two-Node Lab](Project_027436/README.md) |
+| 027437 | [MongoDB: Alerting — Automation for Two-Node Lab](Project_027437/README.md) |
+| 027438 | [MongoDB: Alerting — Recovery for Two-Node Lab](Project_027438/README.md) |
+| 027439 | [MongoDB: Alerting — Reporting for Two-Node Lab](Project_027439/README.md) |
+| 027440 | [MongoDB: Alerting — Usability Improvement for Two-Node Lab](Project_027440/README.md) |
 
 [Back to the portfolio home](../README.md)
