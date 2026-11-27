@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028238 | [SQLite: Backup Verification — Recovery for Two-Node Lab](Project_028238/README.md) |
 | 028239 | [SQLite: Backup Verification — Reporting for Two-Node Lab](Project_028239/README.md) |
 | 028240 | [SQLite: Backup Verification — Usability Improvement for Two-Node Lab](Project_028240/README.md) |
+| 028241 | [SQLite: Backup Verification — Baseline Setup for Help Desk](Project_028241/README.md) |
+| 028242 | [SQLite: Backup Verification — Automation for Help Desk](Project_028242/README.md) |
+| 028243 | [SQLite: Backup Verification — Recovery for Help Desk](Project_028243/README.md) |
+| 028244 | [SQLite: Backup Verification — Reporting for Help Desk](Project_028244/README.md) |
+| 028245 | [SQLite: Backup Verification — Usability Improvement for Help Desk](Project_028245/README.md) |
+| 028246 | [SQLite: Backup Verification — Baseline Setup for Portfolio Demo](Project_028246/README.md) |
+| 028247 | [SQLite: Backup Verification — Automation for Portfolio Demo](Project_028247/README.md) |
+| 028248 | [SQLite: Backup Verification — Recovery for Portfolio Demo](Project_028248/README.md) |
+| 028249 | [SQLite: Backup Verification — Reporting for Portfolio Demo](Project_028249/README.md) |
+| 028250 | [SQLite: Backup Verification — Usability Improvement for Portfolio Demo](Project_028250/README.md) |
+| 028251 | [SQLite: Data Import — Baseline Setup for School Lab](Project_028251/README.md) |
+| 028252 | [SQLite: Data Import — Automation for School Lab](Project_028252/README.md) |
+| 028253 | [SQLite: Data Import — Recovery for School Lab](Project_028253/README.md) |
+| 028254 | [SQLite: Data Import — Reporting for School Lab](Project_028254/README.md) |
+| 028255 | [SQLite: Data Import — Usability Improvement for School Lab](Project_028255/README.md) |
+| 028256 | [SQLite: Data Import — Baseline Setup for Small Business](Project_028256/README.md) |
+| 028257 | [SQLite: Data Import — Automation for Small Business](Project_028257/README.md) |
+| 028258 | [SQLite: Data Import — Recovery for Small Business](Project_028258/README.md) |
+| 028259 | [SQLite: Data Import — Reporting for Small Business](Project_028259/README.md) |
+| 028260 | [SQLite: Data Import — Usability Improvement for Small Business](Project_028260/README.md) |
 
 [Back to the portfolio home](../README.md)
