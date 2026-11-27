@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -484,5 +484,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019438 | [Python: Alerting — Recovery for Two-Node Lab](Project_019438/README.md) |
 | 019439 | [Python: Alerting — Reporting for Two-Node Lab](Project_019439/README.md) |
 | 019440 | [Python: Alerting — Usability Improvement for Two-Node Lab](Project_019440/README.md) |
+| 019441 | [Python: Alerting — Baseline Setup for Help Desk](Project_019441/README.md) |
+| 019442 | [Python: Alerting — Automation for Help Desk](Project_019442/README.md) |
+| 019443 | [Python: Alerting — Recovery for Help Desk](Project_019443/README.md) |
+| 019444 | [Python: Alerting — Reporting for Help Desk](Project_019444/README.md) |
+| 019445 | [Python: Alerting — Usability Improvement for Help Desk](Project_019445/README.md) |
+| 019446 | [Python: Alerting — Baseline Setup for Portfolio Demo](Project_019446/README.md) |
+| 019447 | [Python: Alerting — Automation for Portfolio Demo](Project_019447/README.md) |
+| 019448 | [Python: Alerting — Recovery for Portfolio Demo](Project_019448/README.md) |
+| 019449 | [Python: Alerting — Reporting for Portfolio Demo](Project_019449/README.md) |
+| 019450 | [Python: Alerting — Usability Improvement for Portfolio Demo](Project_019450/README.md) |
+| 019451 | [Python: Scheduled Reporting — Baseline Setup for School Lab](Project_019451/README.md) |
+| 019452 | [Python: Scheduled Reporting — Automation for School Lab](Project_019452/README.md) |
+| 019453 | [Python: Scheduled Reporting — Recovery for School Lab](Project_019453/README.md) |
+| 019454 | [Python: Scheduled Reporting — Reporting for School Lab](Project_019454/README.md) |
+| 019455 | [Python: Scheduled Reporting — Usability Improvement for School Lab](Project_019455/README.md) |
+| 019456 | [Python: Scheduled Reporting — Baseline Setup for Small Business](Project_019456/README.md) |
+| 019457 | [Python: Scheduled Reporting — Automation for Small Business](Project_019457/README.md) |
+| 019458 | [Python: Scheduled Reporting — Recovery for Small Business](Project_019458/README.md) |
+| 019459 | [Python: Scheduled Reporting — Reporting for Small Business](Project_019459/README.md) |
+| 019460 | [Python: Scheduled Reporting — Usability Improvement for Small Business](Project_019460/README.md) |
 
 [Back to the portfolio home](../README.md)
