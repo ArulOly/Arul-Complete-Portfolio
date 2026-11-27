@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045818 | [Redis: Documentation Generation — Recovery for Public Dataset](Project_045818/README.md) |
 | 045819 | [Redis: Documentation Generation — Reporting for Public Dataset](Project_045819/README.md) |
 | 045820 | [Redis: Documentation Generation — Usability Improvement for Public Dataset](Project_045820/README.md) |
+| 045821 | [Redis: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_045821/README.md) |
+| 045822 | [Redis: Documentation Generation — Automation for Branch Office Simulator](Project_045822/README.md) |
+| 045823 | [Redis: Documentation Generation — Recovery for Branch Office Simulator](Project_045823/README.md) |
+| 045824 | [Redis: Documentation Generation — Reporting for Branch Office Simulator](Project_045824/README.md) |
+| 045825 | [Redis: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_045825/README.md) |
+| 045826 | [Redis: Documentation Generation — Baseline Setup for Offline Classroom](Project_045826/README.md) |
+| 045827 | [Redis: Documentation Generation — Automation for Offline Classroom](Project_045827/README.md) |
+| 045828 | [Redis: Documentation Generation — Recovery for Offline Classroom](Project_045828/README.md) |
+| 045829 | [Redis: Documentation Generation — Reporting for Offline Classroom](Project_045829/README.md) |
+| 045830 | [Redis: Documentation Generation — Usability Improvement for Offline Classroom](Project_045830/README.md) |
+| 045831 | [Redis: Documentation Generation — Baseline Setup for Single-Host Lab](Project_045831/README.md) |
+| 045832 | [Redis: Documentation Generation — Automation for Single-Host Lab](Project_045832/README.md) |
+| 045833 | [Redis: Documentation Generation — Recovery for Single-Host Lab](Project_045833/README.md) |
+| 045834 | [Redis: Documentation Generation — Reporting for Single-Host Lab](Project_045834/README.md) |
+| 045835 | [Redis: Documentation Generation — Usability Improvement for Single-Host Lab](Project_045835/README.md) |
+| 045836 | [Redis: Documentation Generation — Baseline Setup for Two-Node Lab](Project_045836/README.md) |
+| 045837 | [Redis: Documentation Generation — Automation for Two-Node Lab](Project_045837/README.md) |
+| 045838 | [Redis: Documentation Generation — Recovery for Two-Node Lab](Project_045838/README.md) |
+| 045839 | [Redis: Documentation Generation — Reporting for Two-Node Lab](Project_045839/README.md) |
+| 045840 | [Redis: Documentation Generation — Usability Improvement for Two-Node Lab](Project_045840/README.md) |
 
 [Back to the portfolio home](../README.md)
