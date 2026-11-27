@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045338 | [Redis: Data Export — Recovery for Two-Node Lab](Project_045338/README.md) |
 | 045339 | [Redis: Data Export — Reporting for Two-Node Lab](Project_045339/README.md) |
 | 045340 | [Redis: Data Export — Usability Improvement for Two-Node Lab](Project_045340/README.md) |
+| 045341 | [Redis: Data Export — Baseline Setup for Help Desk](Project_045341/README.md) |
+| 045342 | [Redis: Data Export — Automation for Help Desk](Project_045342/README.md) |
+| 045343 | [Redis: Data Export — Recovery for Help Desk](Project_045343/README.md) |
+| 045344 | [Redis: Data Export — Reporting for Help Desk](Project_045344/README.md) |
+| 045345 | [Redis: Data Export — Usability Improvement for Help Desk](Project_045345/README.md) |
+| 045346 | [Redis: Data Export — Baseline Setup for Portfolio Demo](Project_045346/README.md) |
+| 045347 | [Redis: Data Export — Automation for Portfolio Demo](Project_045347/README.md) |
+| 045348 | [Redis: Data Export — Recovery for Portfolio Demo](Project_045348/README.md) |
+| 045349 | [Redis: Data Export — Reporting for Portfolio Demo](Project_045349/README.md) |
+| 045350 | [Redis: Data Export — Usability Improvement for Portfolio Demo](Project_045350/README.md) |
+| 045351 | [Redis: Dashboard — Baseline Setup for School Lab](Project_045351/README.md) |
+| 045352 | [Redis: Dashboard — Automation for School Lab](Project_045352/README.md) |
+| 045353 | [Redis: Dashboard — Recovery for School Lab](Project_045353/README.md) |
+| 045354 | [Redis: Dashboard — Reporting for School Lab](Project_045354/README.md) |
+| 045355 | [Redis: Dashboard — Usability Improvement for School Lab](Project_045355/README.md) |
+| 045356 | [Redis: Dashboard — Baseline Setup for Small Business](Project_045356/README.md) |
+| 045357 | [Redis: Dashboard — Automation for Small Business](Project_045357/README.md) |
+| 045358 | [Redis: Dashboard — Recovery for Small Business](Project_045358/README.md) |
+| 045359 | [Redis: Dashboard — Reporting for Small Business](Project_045359/README.md) |
+| 045360 | [Redis: Dashboard — Usability Improvement for Small Business](Project_045360/README.md) |
 
 [Back to the portfolio home](../README.md)
