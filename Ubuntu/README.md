@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002538 | [Ubuntu: Access Review — Recovery for Two-Node Lab](Project_002538/README.md) |
 | 002539 | [Ubuntu: Access Review — Reporting for Two-Node Lab](Project_002539/README.md) |
 | 002540 | [Ubuntu: Access Review — Usability Improvement for Two-Node Lab](Project_002540/README.md) |
+| 002541 | [Ubuntu: Access Review — Baseline Setup for Help Desk](Project_002541/README.md) |
+| 002542 | [Ubuntu: Access Review — Automation for Help Desk](Project_002542/README.md) |
+| 002543 | [Ubuntu: Access Review — Recovery for Help Desk](Project_002543/README.md) |
+| 002544 | [Ubuntu: Access Review — Reporting for Help Desk](Project_002544/README.md) |
+| 002545 | [Ubuntu: Access Review — Usability Improvement for Help Desk](Project_002545/README.md) |
+| 002546 | [Ubuntu: Access Review — Baseline Setup for Portfolio Demo](Project_002546/README.md) |
+| 002547 | [Ubuntu: Access Review — Automation for Portfolio Demo](Project_002547/README.md) |
+| 002548 | [Ubuntu: Access Review — Recovery for Portfolio Demo](Project_002548/README.md) |
+| 002549 | [Ubuntu: Access Review — Reporting for Portfolio Demo](Project_002549/README.md) |
+| 002550 | [Ubuntu: Access Review — Usability Improvement for Portfolio Demo](Project_002550/README.md) |
+| 002551 | [Ubuntu: Performance Baseline — Baseline Setup for School Lab](Project_002551/README.md) |
+| 002552 | [Ubuntu: Performance Baseline — Automation for School Lab](Project_002552/README.md) |
+| 002553 | [Ubuntu: Performance Baseline — Recovery for School Lab](Project_002553/README.md) |
+| 002554 | [Ubuntu: Performance Baseline — Reporting for School Lab](Project_002554/README.md) |
+| 002555 | [Ubuntu: Performance Baseline — Usability Improvement for School Lab](Project_002555/README.md) |
+| 002556 | [Ubuntu: Performance Baseline — Baseline Setup for Small Business](Project_002556/README.md) |
+| 002557 | [Ubuntu: Performance Baseline — Automation for Small Business](Project_002557/README.md) |
+| 002558 | [Ubuntu: Performance Baseline — Recovery for Small Business](Project_002558/README.md) |
+| 002559 | [Ubuntu: Performance Baseline — Reporting for Small Business](Project_002559/README.md) |
+| 002560 | [Ubuntu: Performance Baseline — Usability Improvement for Small Business](Project_002560/README.md) |
 
 [Back to the portfolio home](../README.md)
