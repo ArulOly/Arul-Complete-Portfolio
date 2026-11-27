@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020978 | [JavaScript: Recovery Test — Recovery for Offline Classroom](Project_020978/README.md) |
 | 020979 | [JavaScript: Recovery Test — Reporting for Offline Classroom](Project_020979/README.md) |
 | 020980 | [JavaScript: Recovery Test — Usability Improvement for Offline Classroom](Project_020980/README.md) |
+| 020981 | [JavaScript: Recovery Test — Baseline Setup for Single-Host Lab](Project_020981/README.md) |
+| 020982 | [JavaScript: Recovery Test — Automation for Single-Host Lab](Project_020982/README.md) |
+| 020983 | [JavaScript: Recovery Test — Recovery for Single-Host Lab](Project_020983/README.md) |
+| 020984 | [JavaScript: Recovery Test — Reporting for Single-Host Lab](Project_020984/README.md) |
+| 020985 | [JavaScript: Recovery Test — Usability Improvement for Single-Host Lab](Project_020985/README.md) |
+| 020986 | [JavaScript: Recovery Test — Baseline Setup for Two-Node Lab](Project_020986/README.md) |
+| 020987 | [JavaScript: Recovery Test — Automation for Two-Node Lab](Project_020987/README.md) |
+| 020988 | [JavaScript: Recovery Test — Recovery for Two-Node Lab](Project_020988/README.md) |
+| 020989 | [JavaScript: Recovery Test — Reporting for Two-Node Lab](Project_020989/README.md) |
+| 020990 | [JavaScript: Recovery Test — Usability Improvement for Two-Node Lab](Project_020990/README.md) |
+| 020991 | [JavaScript: Recovery Test — Baseline Setup for Help Desk](Project_020991/README.md) |
+| 020992 | [JavaScript: Recovery Test — Automation for Help Desk](Project_020992/README.md) |
+| 020993 | [JavaScript: Recovery Test — Recovery for Help Desk](Project_020993/README.md) |
+| 020994 | [JavaScript: Recovery Test — Reporting for Help Desk](Project_020994/README.md) |
+| 020995 | [JavaScript: Recovery Test — Usability Improvement for Help Desk](Project_020995/README.md) |
+| 020996 | [JavaScript: Recovery Test — Baseline Setup for Portfolio Demo](Project_020996/README.md) |
+| 020997 | [JavaScript: Recovery Test — Automation for Portfolio Demo](Project_020997/README.md) |
+| 020998 | [JavaScript: Recovery Test — Recovery for Portfolio Demo](Project_020998/README.md) |
+| 020999 | [JavaScript: Recovery Test — Reporting for Portfolio Demo](Project_020999/README.md) |
+| 021000 | [JavaScript: Recovery Test — Usability Improvement for Portfolio Demo](Project_021000/README.md) |
 
 [Back to the portfolio home](../README.md)
