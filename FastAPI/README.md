@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049458 | [FastAPI: Scheduled Reporting — Recovery for Small Business](Project_049458/README.md) |
 | 049459 | [FastAPI: Scheduled Reporting — Reporting for Small Business](Project_049459/README.md) |
 | 049460 | [FastAPI: Scheduled Reporting — Usability Improvement for Small Business](Project_049460/README.md) |
+| 049461 | [FastAPI: Scheduled Reporting — Baseline Setup for Home Development](Project_049461/README.md) |
+| 049462 | [FastAPI: Scheduled Reporting — Automation for Home Development](Project_049462/README.md) |
+| 049463 | [FastAPI: Scheduled Reporting — Recovery for Home Development](Project_049463/README.md) |
+| 049464 | [FastAPI: Scheduled Reporting — Reporting for Home Development](Project_049464/README.md) |
+| 049465 | [FastAPI: Scheduled Reporting — Usability Improvement for Home Development](Project_049465/README.md) |
+| 049466 | [FastAPI: Scheduled Reporting — Baseline Setup for Public Dataset](Project_049466/README.md) |
+| 049467 | [FastAPI: Scheduled Reporting — Automation for Public Dataset](Project_049467/README.md) |
+| 049468 | [FastAPI: Scheduled Reporting — Recovery for Public Dataset](Project_049468/README.md) |
+| 049469 | [FastAPI: Scheduled Reporting — Reporting for Public Dataset](Project_049469/README.md) |
+| 049470 | [FastAPI: Scheduled Reporting — Usability Improvement for Public Dataset](Project_049470/README.md) |
+| 049471 | [FastAPI: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_049471/README.md) |
+| 049472 | [FastAPI: Scheduled Reporting — Automation for Branch Office Simulator](Project_049472/README.md) |
+| 049473 | [FastAPI: Scheduled Reporting — Recovery for Branch Office Simulator](Project_049473/README.md) |
+| 049474 | [FastAPI: Scheduled Reporting — Reporting for Branch Office Simulator](Project_049474/README.md) |
+| 049475 | [FastAPI: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_049475/README.md) |
+| 049476 | [FastAPI: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_049476/README.md) |
+| 049477 | [FastAPI: Scheduled Reporting — Automation for Offline Classroom](Project_049477/README.md) |
+| 049478 | [FastAPI: Scheduled Reporting — Recovery for Offline Classroom](Project_049478/README.md) |
+| 049479 | [FastAPI: Scheduled Reporting — Reporting for Offline Classroom](Project_049479/README.md) |
+| 049480 | [FastAPI: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_049480/README.md) |
 
 [Back to the portfolio home](../README.md)
