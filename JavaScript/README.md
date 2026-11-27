@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020378 | [JavaScript: Dashboard — Recovery for Offline Classroom](Project_020378/README.md) |
 | 020379 | [JavaScript: Dashboard — Reporting for Offline Classroom](Project_020379/README.md) |
 | 020380 | [JavaScript: Dashboard — Usability Improvement for Offline Classroom](Project_020380/README.md) |
+| 020381 | [JavaScript: Dashboard — Baseline Setup for Single-Host Lab](Project_020381/README.md) |
+| 020382 | [JavaScript: Dashboard — Automation for Single-Host Lab](Project_020382/README.md) |
+| 020383 | [JavaScript: Dashboard — Recovery for Single-Host Lab](Project_020383/README.md) |
+| 020384 | [JavaScript: Dashboard — Reporting for Single-Host Lab](Project_020384/README.md) |
+| 020385 | [JavaScript: Dashboard — Usability Improvement for Single-Host Lab](Project_020385/README.md) |
+| 020386 | [JavaScript: Dashboard — Baseline Setup for Two-Node Lab](Project_020386/README.md) |
+| 020387 | [JavaScript: Dashboard — Automation for Two-Node Lab](Project_020387/README.md) |
+| 020388 | [JavaScript: Dashboard — Recovery for Two-Node Lab](Project_020388/README.md) |
+| 020389 | [JavaScript: Dashboard — Reporting for Two-Node Lab](Project_020389/README.md) |
+| 020390 | [JavaScript: Dashboard — Usability Improvement for Two-Node Lab](Project_020390/README.md) |
+| 020391 | [JavaScript: Dashboard — Baseline Setup for Help Desk](Project_020391/README.md) |
+| 020392 | [JavaScript: Dashboard — Automation for Help Desk](Project_020392/README.md) |
+| 020393 | [JavaScript: Dashboard — Recovery for Help Desk](Project_020393/README.md) |
+| 020394 | [JavaScript: Dashboard — Reporting for Help Desk](Project_020394/README.md) |
+| 020395 | [JavaScript: Dashboard — Usability Improvement for Help Desk](Project_020395/README.md) |
+| 020396 | [JavaScript: Dashboard — Baseline Setup for Portfolio Demo](Project_020396/README.md) |
+| 020397 | [JavaScript: Dashboard — Automation for Portfolio Demo](Project_020397/README.md) |
+| 020398 | [JavaScript: Dashboard — Recovery for Portfolio Demo](Project_020398/README.md) |
+| 020399 | [JavaScript: Dashboard — Reporting for Portfolio Demo](Project_020399/README.md) |
+| 020400 | [JavaScript: Dashboard — Usability Improvement for Portfolio Demo](Project_020400/README.md) |
 
 [Back to the portfolio home](../README.md)
