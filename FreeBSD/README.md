@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005178 | [FreeBSD: Log Analysis — Recovery for Offline Classroom](Project_005178/README.md) |
 | 005179 | [FreeBSD: Log Analysis — Reporting for Offline Classroom](Project_005179/README.md) |
 | 005180 | [FreeBSD: Log Analysis — Usability Improvement for Offline Classroom](Project_005180/README.md) |
+| 005181 | [FreeBSD: Log Analysis — Baseline Setup for Single-Host Lab](Project_005181/README.md) |
+| 005182 | [FreeBSD: Log Analysis — Automation for Single-Host Lab](Project_005182/README.md) |
+| 005183 | [FreeBSD: Log Analysis — Recovery for Single-Host Lab](Project_005183/README.md) |
+| 005184 | [FreeBSD: Log Analysis — Reporting for Single-Host Lab](Project_005184/README.md) |
+| 005185 | [FreeBSD: Log Analysis — Usability Improvement for Single-Host Lab](Project_005185/README.md) |
+| 005186 | [FreeBSD: Log Analysis — Baseline Setup for Two-Node Lab](Project_005186/README.md) |
+| 005187 | [FreeBSD: Log Analysis — Automation for Two-Node Lab](Project_005187/README.md) |
+| 005188 | [FreeBSD: Log Analysis — Recovery for Two-Node Lab](Project_005188/README.md) |
+| 005189 | [FreeBSD: Log Analysis — Reporting for Two-Node Lab](Project_005189/README.md) |
+| 005190 | [FreeBSD: Log Analysis — Usability Improvement for Two-Node Lab](Project_005190/README.md) |
+| 005191 | [FreeBSD: Log Analysis — Baseline Setup for Help Desk](Project_005191/README.md) |
+| 005192 | [FreeBSD: Log Analysis — Automation for Help Desk](Project_005192/README.md) |
+| 005193 | [FreeBSD: Log Analysis — Recovery for Help Desk](Project_005193/README.md) |
+| 005194 | [FreeBSD: Log Analysis — Reporting for Help Desk](Project_005194/README.md) |
+| 005195 | [FreeBSD: Log Analysis — Usability Improvement for Help Desk](Project_005195/README.md) |
+| 005196 | [FreeBSD: Log Analysis — Baseline Setup for Portfolio Demo](Project_005196/README.md) |
+| 005197 | [FreeBSD: Log Analysis — Automation for Portfolio Demo](Project_005197/README.md) |
+| 005198 | [FreeBSD: Log Analysis — Recovery for Portfolio Demo](Project_005198/README.md) |
+| 005199 | [FreeBSD: Log Analysis — Reporting for Portfolio Demo](Project_005199/README.md) |
+| 005200 | [FreeBSD: Log Analysis — Usability Improvement for Portfolio Demo](Project_005200/README.md) |
 
 [Back to the portfolio home](../README.md)
