@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045238 | [Redis: Backup Verification — Recovery for Two-Node Lab](Project_045238/README.md) |
 | 045239 | [Redis: Backup Verification — Reporting for Two-Node Lab](Project_045239/README.md) |
 | 045240 | [Redis: Backup Verification — Usability Improvement for Two-Node Lab](Project_045240/README.md) |
+| 045241 | [Redis: Backup Verification — Baseline Setup for Help Desk](Project_045241/README.md) |
+| 045242 | [Redis: Backup Verification — Automation for Help Desk](Project_045242/README.md) |
+| 045243 | [Redis: Backup Verification — Recovery for Help Desk](Project_045243/README.md) |
+| 045244 | [Redis: Backup Verification — Reporting for Help Desk](Project_045244/README.md) |
+| 045245 | [Redis: Backup Verification — Usability Improvement for Help Desk](Project_045245/README.md) |
+| 045246 | [Redis: Backup Verification — Baseline Setup for Portfolio Demo](Project_045246/README.md) |
+| 045247 | [Redis: Backup Verification — Automation for Portfolio Demo](Project_045247/README.md) |
+| 045248 | [Redis: Backup Verification — Recovery for Portfolio Demo](Project_045248/README.md) |
+| 045249 | [Redis: Backup Verification — Reporting for Portfolio Demo](Project_045249/README.md) |
+| 045250 | [Redis: Backup Verification — Usability Improvement for Portfolio Demo](Project_045250/README.md) |
+| 045251 | [Redis: Data Import — Baseline Setup for School Lab](Project_045251/README.md) |
+| 045252 | [Redis: Data Import — Automation for School Lab](Project_045252/README.md) |
+| 045253 | [Redis: Data Import — Recovery for School Lab](Project_045253/README.md) |
+| 045254 | [Redis: Data Import — Reporting for School Lab](Project_045254/README.md) |
+| 045255 | [Redis: Data Import — Usability Improvement for School Lab](Project_045255/README.md) |
+| 045256 | [Redis: Data Import — Baseline Setup for Small Business](Project_045256/README.md) |
+| 045257 | [Redis: Data Import — Automation for Small Business](Project_045257/README.md) |
+| 045258 | [Redis: Data Import — Recovery for Small Business](Project_045258/README.md) |
+| 045259 | [Redis: Data Import — Reporting for Small Business](Project_045259/README.md) |
+| 045260 | [Redis: Data Import — Usability Improvement for Small Business](Project_045260/README.md) |
 
 [Back to the portfolio home](../README.md)
