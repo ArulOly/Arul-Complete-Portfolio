@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045198 | [Redis: Log Analysis — Recovery for Portfolio Demo](Project_045198/README.md) |
 | 045199 | [Redis: Log Analysis — Reporting for Portfolio Demo](Project_045199/README.md) |
 | 045200 | [Redis: Log Analysis — Usability Improvement for Portfolio Demo](Project_045200/README.md) |
+| 045201 | [Redis: Backup Verification — Baseline Setup for School Lab](Project_045201/README.md) |
+| 045202 | [Redis: Backup Verification — Automation for School Lab](Project_045202/README.md) |
+| 045203 | [Redis: Backup Verification — Recovery for School Lab](Project_045203/README.md) |
+| 045204 | [Redis: Backup Verification — Reporting for School Lab](Project_045204/README.md) |
+| 045205 | [Redis: Backup Verification — Usability Improvement for School Lab](Project_045205/README.md) |
+| 045206 | [Redis: Backup Verification — Baseline Setup for Small Business](Project_045206/README.md) |
+| 045207 | [Redis: Backup Verification — Automation for Small Business](Project_045207/README.md) |
+| 045208 | [Redis: Backup Verification — Recovery for Small Business](Project_045208/README.md) |
+| 045209 | [Redis: Backup Verification — Reporting for Small Business](Project_045209/README.md) |
+| 045210 | [Redis: Backup Verification — Usability Improvement for Small Business](Project_045210/README.md) |
+| 045211 | [Redis: Backup Verification — Baseline Setup for Home Development](Project_045211/README.md) |
+| 045212 | [Redis: Backup Verification — Automation for Home Development](Project_045212/README.md) |
+| 045213 | [Redis: Backup Verification — Recovery for Home Development](Project_045213/README.md) |
+| 045214 | [Redis: Backup Verification — Reporting for Home Development](Project_045214/README.md) |
+| 045215 | [Redis: Backup Verification — Usability Improvement for Home Development](Project_045215/README.md) |
+| 045216 | [Redis: Backup Verification — Baseline Setup for Public Dataset](Project_045216/README.md) |
+| 045217 | [Redis: Backup Verification — Automation for Public Dataset](Project_045217/README.md) |
+| 045218 | [Redis: Backup Verification — Recovery for Public Dataset](Project_045218/README.md) |
+| 045219 | [Redis: Backup Verification — Reporting for Public Dataset](Project_045219/README.md) |
+| 045220 | [Redis: Backup Verification — Usability Improvement for Public Dataset](Project_045220/README.md) |
 
 [Back to the portfolio home](../README.md)
