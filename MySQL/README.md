@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026878 | [MySQL: Automation — Recovery for Offline Classroom](Project_026878/README.md) |
 | 026879 | [MySQL: Automation — Reporting for Offline Classroom](Project_026879/README.md) |
 | 026880 | [MySQL: Automation — Usability Improvement for Offline Classroom](Project_026880/README.md) |
+| 026881 | [MySQL: Automation — Baseline Setup for Single-Host Lab](Project_026881/README.md) |
+| 026882 | [MySQL: Automation — Automation for Single-Host Lab](Project_026882/README.md) |
+| 026883 | [MySQL: Automation — Recovery for Single-Host Lab](Project_026883/README.md) |
+| 026884 | [MySQL: Automation — Reporting for Single-Host Lab](Project_026884/README.md) |
+| 026885 | [MySQL: Automation — Usability Improvement for Single-Host Lab](Project_026885/README.md) |
+| 026886 | [MySQL: Automation — Baseline Setup for Two-Node Lab](Project_026886/README.md) |
+| 026887 | [MySQL: Automation — Automation for Two-Node Lab](Project_026887/README.md) |
+| 026888 | [MySQL: Automation — Recovery for Two-Node Lab](Project_026888/README.md) |
+| 026889 | [MySQL: Automation — Reporting for Two-Node Lab](Project_026889/README.md) |
+| 026890 | [MySQL: Automation — Usability Improvement for Two-Node Lab](Project_026890/README.md) |
+| 026891 | [MySQL: Automation — Baseline Setup for Help Desk](Project_026891/README.md) |
+| 026892 | [MySQL: Automation — Automation for Help Desk](Project_026892/README.md) |
+| 026893 | [MySQL: Automation — Recovery for Help Desk](Project_026893/README.md) |
+| 026894 | [MySQL: Automation — Reporting for Help Desk](Project_026894/README.md) |
+| 026895 | [MySQL: Automation — Usability Improvement for Help Desk](Project_026895/README.md) |
+| 026896 | [MySQL: Automation — Baseline Setup for Portfolio Demo](Project_026896/README.md) |
+| 026897 | [MySQL: Automation — Automation for Portfolio Demo](Project_026897/README.md) |
+| 026898 | [MySQL: Automation — Recovery for Portfolio Demo](Project_026898/README.md) |
+| 026899 | [MySQL: Automation — Reporting for Portfolio Demo](Project_026899/README.md) |
+| 026900 | [MySQL: Automation — Usability Improvement for Portfolio Demo](Project_026900/README.md) |
 
 [Back to the portfolio home](../README.md)
