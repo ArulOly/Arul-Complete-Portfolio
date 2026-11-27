@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034478 | [Scikit-learn: Scheduled Reporting — Recovery for Offline Classroom](Project_034478/README.md) |
 | 034479 | [Scikit-learn: Scheduled Reporting — Reporting for Offline Classroom](Project_034479/README.md) |
 | 034480 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_034480/README.md) |
+| 034481 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_034481/README.md) |
+| 034482 | [Scikit-learn: Scheduled Reporting — Automation for Single-Host Lab](Project_034482/README.md) |
+| 034483 | [Scikit-learn: Scheduled Reporting — Recovery for Single-Host Lab](Project_034483/README.md) |
+| 034484 | [Scikit-learn: Scheduled Reporting — Reporting for Single-Host Lab](Project_034484/README.md) |
+| 034485 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_034485/README.md) |
+| 034486 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_034486/README.md) |
+| 034487 | [Scikit-learn: Scheduled Reporting — Automation for Two-Node Lab](Project_034487/README.md) |
+| 034488 | [Scikit-learn: Scheduled Reporting — Recovery for Two-Node Lab](Project_034488/README.md) |
+| 034489 | [Scikit-learn: Scheduled Reporting — Reporting for Two-Node Lab](Project_034489/README.md) |
+| 034490 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_034490/README.md) |
+| 034491 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Help Desk](Project_034491/README.md) |
+| 034492 | [Scikit-learn: Scheduled Reporting — Automation for Help Desk](Project_034492/README.md) |
+| 034493 | [Scikit-learn: Scheduled Reporting — Recovery for Help Desk](Project_034493/README.md) |
+| 034494 | [Scikit-learn: Scheduled Reporting — Reporting for Help Desk](Project_034494/README.md) |
+| 034495 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Help Desk](Project_034495/README.md) |
+| 034496 | [Scikit-learn: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_034496/README.md) |
+| 034497 | [Scikit-learn: Scheduled Reporting — Automation for Portfolio Demo](Project_034497/README.md) |
+| 034498 | [Scikit-learn: Scheduled Reporting — Recovery for Portfolio Demo](Project_034498/README.md) |
+| 034499 | [Scikit-learn: Scheduled Reporting — Reporting for Portfolio Demo](Project_034499/README.md) |
+| 034500 | [Scikit-learn: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_034500/README.md) |
 
 [Back to the portfolio home](../README.md)
