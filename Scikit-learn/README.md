@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034138 | [Scikit-learn: Audit — Recovery for Two-Node Lab](Project_034138/README.md) |
 | 034139 | [Scikit-learn: Audit — Reporting for Two-Node Lab](Project_034139/README.md) |
 | 034140 | [Scikit-learn: Audit — Usability Improvement for Two-Node Lab](Project_034140/README.md) |
+| 034141 | [Scikit-learn: Audit — Baseline Setup for Help Desk](Project_034141/README.md) |
+| 034142 | [Scikit-learn: Audit — Automation for Help Desk](Project_034142/README.md) |
+| 034143 | [Scikit-learn: Audit — Recovery for Help Desk](Project_034143/README.md) |
+| 034144 | [Scikit-learn: Audit — Reporting for Help Desk](Project_034144/README.md) |
+| 034145 | [Scikit-learn: Audit — Usability Improvement for Help Desk](Project_034145/README.md) |
+| 034146 | [Scikit-learn: Audit — Baseline Setup for Portfolio Demo](Project_034146/README.md) |
+| 034147 | [Scikit-learn: Audit — Automation for Portfolio Demo](Project_034147/README.md) |
+| 034148 | [Scikit-learn: Audit — Recovery for Portfolio Demo](Project_034148/README.md) |
+| 034149 | [Scikit-learn: Audit — Reporting for Portfolio Demo](Project_034149/README.md) |
+| 034150 | [Scikit-learn: Audit — Usability Improvement for Portfolio Demo](Project_034150/README.md) |
+| 034151 | [Scikit-learn: Log Analysis — Baseline Setup for School Lab](Project_034151/README.md) |
+| 034152 | [Scikit-learn: Log Analysis — Automation for School Lab](Project_034152/README.md) |
+| 034153 | [Scikit-learn: Log Analysis — Recovery for School Lab](Project_034153/README.md) |
+| 034154 | [Scikit-learn: Log Analysis — Reporting for School Lab](Project_034154/README.md) |
+| 034155 | [Scikit-learn: Log Analysis — Usability Improvement for School Lab](Project_034155/README.md) |
+| 034156 | [Scikit-learn: Log Analysis — Baseline Setup for Small Business](Project_034156/README.md) |
+| 034157 | [Scikit-learn: Log Analysis — Automation for Small Business](Project_034157/README.md) |
+| 034158 | [Scikit-learn: Log Analysis — Recovery for Small Business](Project_034158/README.md) |
+| 034159 | [Scikit-learn: Log Analysis — Reporting for Small Business](Project_034159/README.md) |
+| 034160 | [Scikit-learn: Log Analysis — Usability Improvement for Small Business](Project_034160/README.md) |
 
 [Back to the portfolio home](../README.md)
