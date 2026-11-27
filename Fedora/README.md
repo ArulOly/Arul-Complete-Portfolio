@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004738 | [Fedora: Error Handling — Recovery for Two-Node Lab](Project_004738/README.md) |
 | 004739 | [Fedora: Error Handling — Reporting for Two-Node Lab](Project_004739/README.md) |
 | 004740 | [Fedora: Error Handling — Usability Improvement for Two-Node Lab](Project_004740/README.md) |
+| 004741 | [Fedora: Error Handling — Baseline Setup for Help Desk](Project_004741/README.md) |
+| 004742 | [Fedora: Error Handling — Automation for Help Desk](Project_004742/README.md) |
+| 004743 | [Fedora: Error Handling — Recovery for Help Desk](Project_004743/README.md) |
+| 004744 | [Fedora: Error Handling — Reporting for Help Desk](Project_004744/README.md) |
+| 004745 | [Fedora: Error Handling — Usability Improvement for Help Desk](Project_004745/README.md) |
+| 004746 | [Fedora: Error Handling — Baseline Setup for Portfolio Demo](Project_004746/README.md) |
+| 004747 | [Fedora: Error Handling — Automation for Portfolio Demo](Project_004747/README.md) |
+| 004748 | [Fedora: Error Handling — Recovery for Portfolio Demo](Project_004748/README.md) |
+| 004749 | [Fedora: Error Handling — Reporting for Portfolio Demo](Project_004749/README.md) |
+| 004750 | [Fedora: Error Handling — Usability Improvement for Portfolio Demo](Project_004750/README.md) |
+| 004751 | [Fedora: Data Validation — Baseline Setup for School Lab](Project_004751/README.md) |
+| 004752 | [Fedora: Data Validation — Automation for School Lab](Project_004752/README.md) |
+| 004753 | [Fedora: Data Validation — Recovery for School Lab](Project_004753/README.md) |
+| 004754 | [Fedora: Data Validation — Reporting for School Lab](Project_004754/README.md) |
+| 004755 | [Fedora: Data Validation — Usability Improvement for School Lab](Project_004755/README.md) |
+| 004756 | [Fedora: Data Validation — Baseline Setup for Small Business](Project_004756/README.md) |
+| 004757 | [Fedora: Data Validation — Automation for Small Business](Project_004757/README.md) |
+| 004758 | [Fedora: Data Validation — Recovery for Small Business](Project_004758/README.md) |
+| 004759 | [Fedora: Data Validation — Reporting for Small Business](Project_004759/README.md) |
+| 004760 | [Fedora: Data Validation — Usability Improvement for Small Business](Project_004760/README.md) |
 
 [Back to the portfolio home](../README.md)
