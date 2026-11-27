@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005578 | [FreeBSD: Performance Baseline — Recovery for Offline Classroom](Project_005578/README.md) |
 | 005579 | [FreeBSD: Performance Baseline — Reporting for Offline Classroom](Project_005579/README.md) |
 | 005580 | [FreeBSD: Performance Baseline — Usability Improvement for Offline Classroom](Project_005580/README.md) |
+| 005581 | [FreeBSD: Performance Baseline — Baseline Setup for Single-Host Lab](Project_005581/README.md) |
+| 005582 | [FreeBSD: Performance Baseline — Automation for Single-Host Lab](Project_005582/README.md) |
+| 005583 | [FreeBSD: Performance Baseline — Recovery for Single-Host Lab](Project_005583/README.md) |
+| 005584 | [FreeBSD: Performance Baseline — Reporting for Single-Host Lab](Project_005584/README.md) |
+| 005585 | [FreeBSD: Performance Baseline — Usability Improvement for Single-Host Lab](Project_005585/README.md) |
+| 005586 | [FreeBSD: Performance Baseline — Baseline Setup for Two-Node Lab](Project_005586/README.md) |
+| 005587 | [FreeBSD: Performance Baseline — Automation for Two-Node Lab](Project_005587/README.md) |
+| 005588 | [FreeBSD: Performance Baseline — Recovery for Two-Node Lab](Project_005588/README.md) |
+| 005589 | [FreeBSD: Performance Baseline — Reporting for Two-Node Lab](Project_005589/README.md) |
+| 005590 | [FreeBSD: Performance Baseline — Usability Improvement for Two-Node Lab](Project_005590/README.md) |
+| 005591 | [FreeBSD: Performance Baseline — Baseline Setup for Help Desk](Project_005591/README.md) |
+| 005592 | [FreeBSD: Performance Baseline — Automation for Help Desk](Project_005592/README.md) |
+| 005593 | [FreeBSD: Performance Baseline — Recovery for Help Desk](Project_005593/README.md) |
+| 005594 | [FreeBSD: Performance Baseline — Reporting for Help Desk](Project_005594/README.md) |
+| 005595 | [FreeBSD: Performance Baseline — Usability Improvement for Help Desk](Project_005595/README.md) |
+| 005596 | [FreeBSD: Performance Baseline — Baseline Setup for Portfolio Demo](Project_005596/README.md) |
+| 005597 | [FreeBSD: Performance Baseline — Automation for Portfolio Demo](Project_005597/README.md) |
+| 005598 | [FreeBSD: Performance Baseline — Recovery for Portfolio Demo](Project_005598/README.md) |
+| 005599 | [FreeBSD: Performance Baseline — Reporting for Portfolio Demo](Project_005599/README.md) |
+| 005600 | [FreeBSD: Performance Baseline — Usability Improvement for Portfolio Demo](Project_005600/README.md) |
 
 [Back to the portfolio home](../README.md)
