@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -144,5 +144,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019098 | [Python: Monitoring — Recovery for Portfolio Demo](Project_019098/README.md) |
 | 019099 | [Python: Monitoring — Reporting for Portfolio Demo](Project_019099/README.md) |
 | 019100 | [Python: Monitoring — Usability Improvement for Portfolio Demo](Project_019100/README.md) |
+| 019101 | [Python: Audit — Baseline Setup for School Lab](Project_019101/README.md) |
+| 019102 | [Python: Audit — Automation for School Lab](Project_019102/README.md) |
+| 019103 | [Python: Audit — Recovery for School Lab](Project_019103/README.md) |
+| 019104 | [Python: Audit — Reporting for School Lab](Project_019104/README.md) |
+| 019105 | [Python: Audit — Usability Improvement for School Lab](Project_019105/README.md) |
+| 019106 | [Python: Audit — Baseline Setup for Small Business](Project_019106/README.md) |
+| 019107 | [Python: Audit — Automation for Small Business](Project_019107/README.md) |
+| 019108 | [Python: Audit — Recovery for Small Business](Project_019108/README.md) |
+| 019109 | [Python: Audit — Reporting for Small Business](Project_019109/README.md) |
+| 019110 | [Python: Audit — Usability Improvement for Small Business](Project_019110/README.md) |
+| 019111 | [Python: Audit — Baseline Setup for Home Development](Project_019111/README.md) |
+| 019112 | [Python: Audit — Automation for Home Development](Project_019112/README.md) |
+| 019113 | [Python: Audit — Recovery for Home Development](Project_019113/README.md) |
+| 019114 | [Python: Audit — Reporting for Home Development](Project_019114/README.md) |
+| 019115 | [Python: Audit — Usability Improvement for Home Development](Project_019115/README.md) |
+| 019116 | [Python: Audit — Baseline Setup for Public Dataset](Project_019116/README.md) |
+| 019117 | [Python: Audit — Automation for Public Dataset](Project_019117/README.md) |
+| 019118 | [Python: Audit — Recovery for Public Dataset](Project_019118/README.md) |
+| 019119 | [Python: Audit — Reporting for Public Dataset](Project_019119/README.md) |
+| 019120 | [Python: Audit — Usability Improvement for Public Dataset](Project_019120/README.md) |
 
 [Back to the portfolio home](../README.md)
