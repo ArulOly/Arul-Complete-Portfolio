@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034558 | [Scikit-learn: Performance Baseline — Recovery for Small Business](Project_034558/README.md) |
 | 034559 | [Scikit-learn: Performance Baseline — Reporting for Small Business](Project_034559/README.md) |
 | 034560 | [Scikit-learn: Performance Baseline — Usability Improvement for Small Business](Project_034560/README.md) |
+| 034561 | [Scikit-learn: Performance Baseline — Baseline Setup for Home Development](Project_034561/README.md) |
+| 034562 | [Scikit-learn: Performance Baseline — Automation for Home Development](Project_034562/README.md) |
+| 034563 | [Scikit-learn: Performance Baseline — Recovery for Home Development](Project_034563/README.md) |
+| 034564 | [Scikit-learn: Performance Baseline — Reporting for Home Development](Project_034564/README.md) |
+| 034565 | [Scikit-learn: Performance Baseline — Usability Improvement for Home Development](Project_034565/README.md) |
+| 034566 | [Scikit-learn: Performance Baseline — Baseline Setup for Public Dataset](Project_034566/README.md) |
+| 034567 | [Scikit-learn: Performance Baseline — Automation for Public Dataset](Project_034567/README.md) |
+| 034568 | [Scikit-learn: Performance Baseline — Recovery for Public Dataset](Project_034568/README.md) |
+| 034569 | [Scikit-learn: Performance Baseline — Reporting for Public Dataset](Project_034569/README.md) |
+| 034570 | [Scikit-learn: Performance Baseline — Usability Improvement for Public Dataset](Project_034570/README.md) |
+| 034571 | [Scikit-learn: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_034571/README.md) |
+| 034572 | [Scikit-learn: Performance Baseline — Automation for Branch Office Simulator](Project_034572/README.md) |
+| 034573 | [Scikit-learn: Performance Baseline — Recovery for Branch Office Simulator](Project_034573/README.md) |
+| 034574 | [Scikit-learn: Performance Baseline — Reporting for Branch Office Simulator](Project_034574/README.md) |
+| 034575 | [Scikit-learn: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_034575/README.md) |
+| 034576 | [Scikit-learn: Performance Baseline — Baseline Setup for Offline Classroom](Project_034576/README.md) |
+| 034577 | [Scikit-learn: Performance Baseline — Automation for Offline Classroom](Project_034577/README.md) |
+| 034578 | [Scikit-learn: Performance Baseline — Recovery for Offline Classroom](Project_034578/README.md) |
+| 034579 | [Scikit-learn: Performance Baseline — Reporting for Offline Classroom](Project_034579/README.md) |
+| 034580 | [Scikit-learn: Performance Baseline — Usability Improvement for Offline Classroom](Project_034580/README.md) |
 
 [Back to the portfolio home](../README.md)
