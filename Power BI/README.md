@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032898 | [Power BI: Automation — Recovery for Portfolio Demo](Project_032898/README.md) |
 | 032899 | [Power BI: Automation — Reporting for Portfolio Demo](Project_032899/README.md) |
 | 032900 | [Power BI: Automation — Usability Improvement for Portfolio Demo](Project_032900/README.md) |
+| 032901 | [Power BI: Visual Reporting — Baseline Setup for School Lab](Project_032901/README.md) |
+| 032902 | [Power BI: Visual Reporting — Automation for School Lab](Project_032902/README.md) |
+| 032903 | [Power BI: Visual Reporting — Recovery for School Lab](Project_032903/README.md) |
+| 032904 | [Power BI: Visual Reporting — Reporting for School Lab](Project_032904/README.md) |
+| 032905 | [Power BI: Visual Reporting — Usability Improvement for School Lab](Project_032905/README.md) |
+| 032906 | [Power BI: Visual Reporting — Baseline Setup for Small Business](Project_032906/README.md) |
+| 032907 | [Power BI: Visual Reporting — Automation for Small Business](Project_032907/README.md) |
+| 032908 | [Power BI: Visual Reporting — Recovery for Small Business](Project_032908/README.md) |
+| 032909 | [Power BI: Visual Reporting — Reporting for Small Business](Project_032909/README.md) |
+| 032910 | [Power BI: Visual Reporting — Usability Improvement for Small Business](Project_032910/README.md) |
+| 032911 | [Power BI: Visual Reporting — Baseline Setup for Home Development](Project_032911/README.md) |
+| 032912 | [Power BI: Visual Reporting — Automation for Home Development](Project_032912/README.md) |
+| 032913 | [Power BI: Visual Reporting — Recovery for Home Development](Project_032913/README.md) |
+| 032914 | [Power BI: Visual Reporting — Reporting for Home Development](Project_032914/README.md) |
+| 032915 | [Power BI: Visual Reporting — Usability Improvement for Home Development](Project_032915/README.md) |
+| 032916 | [Power BI: Visual Reporting — Baseline Setup for Public Dataset](Project_032916/README.md) |
+| 032917 | [Power BI: Visual Reporting — Automation for Public Dataset](Project_032917/README.md) |
+| 032918 | [Power BI: Visual Reporting — Recovery for Public Dataset](Project_032918/README.md) |
+| 032919 | [Power BI: Visual Reporting — Reporting for Public Dataset](Project_032919/README.md) |
+| 032920 | [Power BI: Visual Reporting — Usability Improvement for Public Dataset](Project_032920/README.md) |
 
 [Back to the portfolio home](../README.md)
