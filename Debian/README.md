@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003698 | [Debian: Configuration Comparison — Recovery for Portfolio Demo](Project_003698/README.md) |
 | 003699 | [Debian: Configuration Comparison — Reporting for Portfolio Demo](Project_003699/README.md) |
 | 003700 | [Debian: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_003700/README.md) |
+| 003701 | [Debian: Error Handling — Baseline Setup for School Lab](Project_003701/README.md) |
+| 003702 | [Debian: Error Handling — Automation for School Lab](Project_003702/README.md) |
+| 003703 | [Debian: Error Handling — Recovery for School Lab](Project_003703/README.md) |
+| 003704 | [Debian: Error Handling — Reporting for School Lab](Project_003704/README.md) |
+| 003705 | [Debian: Error Handling — Usability Improvement for School Lab](Project_003705/README.md) |
+| 003706 | [Debian: Error Handling — Baseline Setup for Small Business](Project_003706/README.md) |
+| 003707 | [Debian: Error Handling — Automation for Small Business](Project_003707/README.md) |
+| 003708 | [Debian: Error Handling — Recovery for Small Business](Project_003708/README.md) |
+| 003709 | [Debian: Error Handling — Reporting for Small Business](Project_003709/README.md) |
+| 003710 | [Debian: Error Handling — Usability Improvement for Small Business](Project_003710/README.md) |
+| 003711 | [Debian: Error Handling — Baseline Setup for Home Development](Project_003711/README.md) |
+| 003712 | [Debian: Error Handling — Automation for Home Development](Project_003712/README.md) |
+| 003713 | [Debian: Error Handling — Recovery for Home Development](Project_003713/README.md) |
+| 003714 | [Debian: Error Handling — Reporting for Home Development](Project_003714/README.md) |
+| 003715 | [Debian: Error Handling — Usability Improvement for Home Development](Project_003715/README.md) |
+| 003716 | [Debian: Error Handling — Baseline Setup for Public Dataset](Project_003716/README.md) |
+| 003717 | [Debian: Error Handling — Automation for Public Dataset](Project_003717/README.md) |
+| 003718 | [Debian: Error Handling — Recovery for Public Dataset](Project_003718/README.md) |
+| 003719 | [Debian: Error Handling — Reporting for Public Dataset](Project_003719/README.md) |
+| 003720 | [Debian: Error Handling — Usability Improvement for Public Dataset](Project_003720/README.md) |
 
 [Back to the portfolio home](../README.md)
