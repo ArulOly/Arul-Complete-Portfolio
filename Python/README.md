@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -644,5 +644,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019598 | [Python: Performance Baseline — Recovery for Portfolio Demo](Project_019598/README.md) |
 | 019599 | [Python: Performance Baseline — Reporting for Portfolio Demo](Project_019599/README.md) |
 | 019600 | [Python: Performance Baseline — Usability Improvement for Portfolio Demo](Project_019600/README.md) |
+| 019601 | [Python: Service Check — Baseline Setup for School Lab](Project_019601/README.md) |
+| 019602 | [Python: Service Check — Automation for School Lab](Project_019602/README.md) |
+| 019603 | [Python: Service Check — Recovery for School Lab](Project_019603/README.md) |
+| 019604 | [Python: Service Check — Reporting for School Lab](Project_019604/README.md) |
+| 019605 | [Python: Service Check — Usability Improvement for School Lab](Project_019605/README.md) |
+| 019606 | [Python: Service Check — Baseline Setup for Small Business](Project_019606/README.md) |
+| 019607 | [Python: Service Check — Automation for Small Business](Project_019607/README.md) |
+| 019608 | [Python: Service Check — Recovery for Small Business](Project_019608/README.md) |
+| 019609 | [Python: Service Check — Reporting for Small Business](Project_019609/README.md) |
+| 019610 | [Python: Service Check — Usability Improvement for Small Business](Project_019610/README.md) |
+| 019611 | [Python: Service Check — Baseline Setup for Home Development](Project_019611/README.md) |
+| 019612 | [Python: Service Check — Automation for Home Development](Project_019612/README.md) |
+| 019613 | [Python: Service Check — Recovery for Home Development](Project_019613/README.md) |
+| 019614 | [Python: Service Check — Reporting for Home Development](Project_019614/README.md) |
+| 019615 | [Python: Service Check — Usability Improvement for Home Development](Project_019615/README.md) |
+| 019616 | [Python: Service Check — Baseline Setup for Public Dataset](Project_019616/README.md) |
+| 019617 | [Python: Service Check — Automation for Public Dataset](Project_019617/README.md) |
+| 019618 | [Python: Service Check — Recovery for Public Dataset](Project_019618/README.md) |
+| 019619 | [Python: Service Check — Reporting for Public Dataset](Project_019619/README.md) |
+| 019620 | [Python: Service Check — Usability Improvement for Public Dataset](Project_019620/README.md) |
 
 [Back to the portfolio home](../README.md)
