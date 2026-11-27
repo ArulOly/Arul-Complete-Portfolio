@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026958 | [MySQL: Recovery Test — Recovery for Small Business](Project_026958/README.md) |
 | 026959 | [MySQL: Recovery Test — Reporting for Small Business](Project_026959/README.md) |
 | 026960 | [MySQL: Recovery Test — Usability Improvement for Small Business](Project_026960/README.md) |
+| 026961 | [MySQL: Recovery Test — Baseline Setup for Home Development](Project_026961/README.md) |
+| 026962 | [MySQL: Recovery Test — Automation for Home Development](Project_026962/README.md) |
+| 026963 | [MySQL: Recovery Test — Recovery for Home Development](Project_026963/README.md) |
+| 026964 | [MySQL: Recovery Test — Reporting for Home Development](Project_026964/README.md) |
+| 026965 | [MySQL: Recovery Test — Usability Improvement for Home Development](Project_026965/README.md) |
+| 026966 | [MySQL: Recovery Test — Baseline Setup for Public Dataset](Project_026966/README.md) |
+| 026967 | [MySQL: Recovery Test — Automation for Public Dataset](Project_026967/README.md) |
+| 026968 | [MySQL: Recovery Test — Recovery for Public Dataset](Project_026968/README.md) |
+| 026969 | [MySQL: Recovery Test — Reporting for Public Dataset](Project_026969/README.md) |
+| 026970 | [MySQL: Recovery Test — Usability Improvement for Public Dataset](Project_026970/README.md) |
+| 026971 | [MySQL: Recovery Test — Baseline Setup for Branch Office Simulator](Project_026971/README.md) |
+| 026972 | [MySQL: Recovery Test — Automation for Branch Office Simulator](Project_026972/README.md) |
+| 026973 | [MySQL: Recovery Test — Recovery for Branch Office Simulator](Project_026973/README.md) |
+| 026974 | [MySQL: Recovery Test — Reporting for Branch Office Simulator](Project_026974/README.md) |
+| 026975 | [MySQL: Recovery Test — Usability Improvement for Branch Office Simulator](Project_026975/README.md) |
+| 026976 | [MySQL: Recovery Test — Baseline Setup for Offline Classroom](Project_026976/README.md) |
+| 026977 | [MySQL: Recovery Test — Automation for Offline Classroom](Project_026977/README.md) |
+| 026978 | [MySQL: Recovery Test — Recovery for Offline Classroom](Project_026978/README.md) |
+| 026979 | [MySQL: Recovery Test — Reporting for Offline Classroom](Project_026979/README.md) |
+| 026980 | [MySQL: Recovery Test — Usability Improvement for Offline Classroom](Project_026980/README.md) |
 
 [Back to the portfolio home](../README.md)
