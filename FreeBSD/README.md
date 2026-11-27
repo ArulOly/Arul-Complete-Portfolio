@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005718 | [FreeBSD: Error Handling — Recovery for Public Dataset](Project_005718/README.md) |
 | 005719 | [FreeBSD: Error Handling — Reporting for Public Dataset](Project_005719/README.md) |
 | 005720 | [FreeBSD: Error Handling — Usability Improvement for Public Dataset](Project_005720/README.md) |
+| 005721 | [FreeBSD: Error Handling — Baseline Setup for Branch Office Simulator](Project_005721/README.md) |
+| 005722 | [FreeBSD: Error Handling — Automation for Branch Office Simulator](Project_005722/README.md) |
+| 005723 | [FreeBSD: Error Handling — Recovery for Branch Office Simulator](Project_005723/README.md) |
+| 005724 | [FreeBSD: Error Handling — Reporting for Branch Office Simulator](Project_005724/README.md) |
+| 005725 | [FreeBSD: Error Handling — Usability Improvement for Branch Office Simulator](Project_005725/README.md) |
+| 005726 | [FreeBSD: Error Handling — Baseline Setup for Offline Classroom](Project_005726/README.md) |
+| 005727 | [FreeBSD: Error Handling — Automation for Offline Classroom](Project_005727/README.md) |
+| 005728 | [FreeBSD: Error Handling — Recovery for Offline Classroom](Project_005728/README.md) |
+| 005729 | [FreeBSD: Error Handling — Reporting for Offline Classroom](Project_005729/README.md) |
+| 005730 | [FreeBSD: Error Handling — Usability Improvement for Offline Classroom](Project_005730/README.md) |
+| 005731 | [FreeBSD: Error Handling — Baseline Setup for Single-Host Lab](Project_005731/README.md) |
+| 005732 | [FreeBSD: Error Handling — Automation for Single-Host Lab](Project_005732/README.md) |
+| 005733 | [FreeBSD: Error Handling — Recovery for Single-Host Lab](Project_005733/README.md) |
+| 005734 | [FreeBSD: Error Handling — Reporting for Single-Host Lab](Project_005734/README.md) |
+| 005735 | [FreeBSD: Error Handling — Usability Improvement for Single-Host Lab](Project_005735/README.md) |
+| 005736 | [FreeBSD: Error Handling — Baseline Setup for Two-Node Lab](Project_005736/README.md) |
+| 005737 | [FreeBSD: Error Handling — Automation for Two-Node Lab](Project_005737/README.md) |
+| 005738 | [FreeBSD: Error Handling — Recovery for Two-Node Lab](Project_005738/README.md) |
+| 005739 | [FreeBSD: Error Handling — Reporting for Two-Node Lab](Project_005739/README.md) |
+| 005740 | [FreeBSD: Error Handling — Usability Improvement for Two-Node Lab](Project_005740/README.md) |
 
 [Back to the portfolio home](../README.md)
