@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004198 | [Fedora: Log Analysis — Recovery for Portfolio Demo](Project_004198/README.md) |
 | 004199 | [Fedora: Log Analysis — Reporting for Portfolio Demo](Project_004199/README.md) |
 | 004200 | [Fedora: Log Analysis — Usability Improvement for Portfolio Demo](Project_004200/README.md) |
+| 004201 | [Fedora: Backup Verification — Baseline Setup for School Lab](Project_004201/README.md) |
+| 004202 | [Fedora: Backup Verification — Automation for School Lab](Project_004202/README.md) |
+| 004203 | [Fedora: Backup Verification — Recovery for School Lab](Project_004203/README.md) |
+| 004204 | [Fedora: Backup Verification — Reporting for School Lab](Project_004204/README.md) |
+| 004205 | [Fedora: Backup Verification — Usability Improvement for School Lab](Project_004205/README.md) |
+| 004206 | [Fedora: Backup Verification — Baseline Setup for Small Business](Project_004206/README.md) |
+| 004207 | [Fedora: Backup Verification — Automation for Small Business](Project_004207/README.md) |
+| 004208 | [Fedora: Backup Verification — Recovery for Small Business](Project_004208/README.md) |
+| 004209 | [Fedora: Backup Verification — Reporting for Small Business](Project_004209/README.md) |
+| 004210 | [Fedora: Backup Verification — Usability Improvement for Small Business](Project_004210/README.md) |
+| 004211 | [Fedora: Backup Verification — Baseline Setup for Home Development](Project_004211/README.md) |
+| 004212 | [Fedora: Backup Verification — Automation for Home Development](Project_004212/README.md) |
+| 004213 | [Fedora: Backup Verification — Recovery for Home Development](Project_004213/README.md) |
+| 004214 | [Fedora: Backup Verification — Reporting for Home Development](Project_004214/README.md) |
+| 004215 | [Fedora: Backup Verification — Usability Improvement for Home Development](Project_004215/README.md) |
+| 004216 | [Fedora: Backup Verification — Baseline Setup for Public Dataset](Project_004216/README.md) |
+| 004217 | [Fedora: Backup Verification — Automation for Public Dataset](Project_004217/README.md) |
+| 004218 | [Fedora: Backup Verification — Recovery for Public Dataset](Project_004218/README.md) |
+| 004219 | [Fedora: Backup Verification — Reporting for Public Dataset](Project_004219/README.md) |
+| 004220 | [Fedora: Backup Verification — Usability Improvement for Public Dataset](Project_004220/README.md) |
 
 [Back to the portfolio home](../README.md)
