@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022458 | [Java: Scheduled Reporting — Recovery for Small Business](Project_022458/README.md) |
 | 022459 | [Java: Scheduled Reporting — Reporting for Small Business](Project_022459/README.md) |
 | 022460 | [Java: Scheduled Reporting — Usability Improvement for Small Business](Project_022460/README.md) |
+| 022461 | [Java: Scheduled Reporting — Baseline Setup for Home Development](Project_022461/README.md) |
+| 022462 | [Java: Scheduled Reporting — Automation for Home Development](Project_022462/README.md) |
+| 022463 | [Java: Scheduled Reporting — Recovery for Home Development](Project_022463/README.md) |
+| 022464 | [Java: Scheduled Reporting — Reporting for Home Development](Project_022464/README.md) |
+| 022465 | [Java: Scheduled Reporting — Usability Improvement for Home Development](Project_022465/README.md) |
+| 022466 | [Java: Scheduled Reporting — Baseline Setup for Public Dataset](Project_022466/README.md) |
+| 022467 | [Java: Scheduled Reporting — Automation for Public Dataset](Project_022467/README.md) |
+| 022468 | [Java: Scheduled Reporting — Recovery for Public Dataset](Project_022468/README.md) |
+| 022469 | [Java: Scheduled Reporting — Reporting for Public Dataset](Project_022469/README.md) |
+| 022470 | [Java: Scheduled Reporting — Usability Improvement for Public Dataset](Project_022470/README.md) |
+| 022471 | [Java: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_022471/README.md) |
+| 022472 | [Java: Scheduled Reporting — Automation for Branch Office Simulator](Project_022472/README.md) |
+| 022473 | [Java: Scheduled Reporting — Recovery for Branch Office Simulator](Project_022473/README.md) |
+| 022474 | [Java: Scheduled Reporting — Reporting for Branch Office Simulator](Project_022474/README.md) |
+| 022475 | [Java: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_022475/README.md) |
+| 022476 | [Java: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_022476/README.md) |
+| 022477 | [Java: Scheduled Reporting — Automation for Offline Classroom](Project_022477/README.md) |
+| 022478 | [Java: Scheduled Reporting — Recovery for Offline Classroom](Project_022478/README.md) |
+| 022479 | [Java: Scheduled Reporting — Reporting for Offline Classroom](Project_022479/README.md) |
+| 022480 | [Java: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_022480/README.md) |
 
 [Back to the portfolio home](../README.md)
