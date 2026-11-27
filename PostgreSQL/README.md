@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025218 | [PostgreSQL: Backup Verification — Recovery for Public Dataset](Project_025218/README.md) |
 | 025219 | [PostgreSQL: Backup Verification — Reporting for Public Dataset](Project_025219/README.md) |
 | 025220 | [PostgreSQL: Backup Verification — Usability Improvement for Public Dataset](Project_025220/README.md) |
+| 025221 | [PostgreSQL: Backup Verification — Baseline Setup for Branch Office Simulator](Project_025221/README.md) |
+| 025222 | [PostgreSQL: Backup Verification — Automation for Branch Office Simulator](Project_025222/README.md) |
+| 025223 | [PostgreSQL: Backup Verification — Recovery for Branch Office Simulator](Project_025223/README.md) |
+| 025224 | [PostgreSQL: Backup Verification — Reporting for Branch Office Simulator](Project_025224/README.md) |
+| 025225 | [PostgreSQL: Backup Verification — Usability Improvement for Branch Office Simulator](Project_025225/README.md) |
+| 025226 | [PostgreSQL: Backup Verification — Baseline Setup for Offline Classroom](Project_025226/README.md) |
+| 025227 | [PostgreSQL: Backup Verification — Automation for Offline Classroom](Project_025227/README.md) |
+| 025228 | [PostgreSQL: Backup Verification — Recovery for Offline Classroom](Project_025228/README.md) |
+| 025229 | [PostgreSQL: Backup Verification — Reporting for Offline Classroom](Project_025229/README.md) |
+| 025230 | [PostgreSQL: Backup Verification — Usability Improvement for Offline Classroom](Project_025230/README.md) |
+| 025231 | [PostgreSQL: Backup Verification — Baseline Setup for Single-Host Lab](Project_025231/README.md) |
+| 025232 | [PostgreSQL: Backup Verification — Automation for Single-Host Lab](Project_025232/README.md) |
+| 025233 | [PostgreSQL: Backup Verification — Recovery for Single-Host Lab](Project_025233/README.md) |
+| 025234 | [PostgreSQL: Backup Verification — Reporting for Single-Host Lab](Project_025234/README.md) |
+| 025235 | [PostgreSQL: Backup Verification — Usability Improvement for Single-Host Lab](Project_025235/README.md) |
+| 025236 | [PostgreSQL: Backup Verification — Baseline Setup for Two-Node Lab](Project_025236/README.md) |
+| 025237 | [PostgreSQL: Backup Verification — Automation for Two-Node Lab](Project_025237/README.md) |
+| 025238 | [PostgreSQL: Backup Verification — Recovery for Two-Node Lab](Project_025238/README.md) |
+| 025239 | [PostgreSQL: Backup Verification — Reporting for Two-Node Lab](Project_025239/README.md) |
+| 025240 | [PostgreSQL: Backup Verification — Usability Improvement for Two-Node Lab](Project_025240/README.md) |
 
 [Back to the portfolio home](../README.md)
