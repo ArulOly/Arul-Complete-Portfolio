@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024598 | [Node.js: Performance Baseline — Recovery for Portfolio Demo](Project_024598/README.md) |
 | 024599 | [Node.js: Performance Baseline — Reporting for Portfolio Demo](Project_024599/README.md) |
 | 024600 | [Node.js: Performance Baseline — Usability Improvement for Portfolio Demo](Project_024600/README.md) |
+| 024601 | [Node.js: Service Check — Baseline Setup for School Lab](Project_024601/README.md) |
+| 024602 | [Node.js: Service Check — Automation for School Lab](Project_024602/README.md) |
+| 024603 | [Node.js: Service Check — Recovery for School Lab](Project_024603/README.md) |
+| 024604 | [Node.js: Service Check — Reporting for School Lab](Project_024604/README.md) |
+| 024605 | [Node.js: Service Check — Usability Improvement for School Lab](Project_024605/README.md) |
+| 024606 | [Node.js: Service Check — Baseline Setup for Small Business](Project_024606/README.md) |
+| 024607 | [Node.js: Service Check — Automation for Small Business](Project_024607/README.md) |
+| 024608 | [Node.js: Service Check — Recovery for Small Business](Project_024608/README.md) |
+| 024609 | [Node.js: Service Check — Reporting for Small Business](Project_024609/README.md) |
+| 024610 | [Node.js: Service Check — Usability Improvement for Small Business](Project_024610/README.md) |
+| 024611 | [Node.js: Service Check — Baseline Setup for Home Development](Project_024611/README.md) |
+| 024612 | [Node.js: Service Check — Automation for Home Development](Project_024612/README.md) |
+| 024613 | [Node.js: Service Check — Recovery for Home Development](Project_024613/README.md) |
+| 024614 | [Node.js: Service Check — Reporting for Home Development](Project_024614/README.md) |
+| 024615 | [Node.js: Service Check — Usability Improvement for Home Development](Project_024615/README.md) |
+| 024616 | [Node.js: Service Check — Baseline Setup for Public Dataset](Project_024616/README.md) |
+| 024617 | [Node.js: Service Check — Automation for Public Dataset](Project_024617/README.md) |
+| 024618 | [Node.js: Service Check — Recovery for Public Dataset](Project_024618/README.md) |
+| 024619 | [Node.js: Service Check — Reporting for Public Dataset](Project_024619/README.md) |
+| 024620 | [Node.js: Service Check — Usability Improvement for Public Dataset](Project_024620/README.md) |
 
 [Back to the portfolio home](../README.md)
