@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002978 | [Ubuntu: Recovery Test — Recovery for Offline Classroom](Project_002978/README.md) |
 | 002979 | [Ubuntu: Recovery Test — Reporting for Offline Classroom](Project_002979/README.md) |
 | 002980 | [Ubuntu: Recovery Test — Usability Improvement for Offline Classroom](Project_002980/README.md) |
+| 002981 | [Ubuntu: Recovery Test — Baseline Setup for Single-Host Lab](Project_002981/README.md) |
+| 002982 | [Ubuntu: Recovery Test — Automation for Single-Host Lab](Project_002982/README.md) |
+| 002983 | [Ubuntu: Recovery Test — Recovery for Single-Host Lab](Project_002983/README.md) |
+| 002984 | [Ubuntu: Recovery Test — Reporting for Single-Host Lab](Project_002984/README.md) |
+| 002985 | [Ubuntu: Recovery Test — Usability Improvement for Single-Host Lab](Project_002985/README.md) |
+| 002986 | [Ubuntu: Recovery Test — Baseline Setup for Two-Node Lab](Project_002986/README.md) |
+| 002987 | [Ubuntu: Recovery Test — Automation for Two-Node Lab](Project_002987/README.md) |
+| 002988 | [Ubuntu: Recovery Test — Recovery for Two-Node Lab](Project_002988/README.md) |
+| 002989 | [Ubuntu: Recovery Test — Reporting for Two-Node Lab](Project_002989/README.md) |
+| 002990 | [Ubuntu: Recovery Test — Usability Improvement for Two-Node Lab](Project_002990/README.md) |
+| 002991 | [Ubuntu: Recovery Test — Baseline Setup for Help Desk](Project_002991/README.md) |
+| 002992 | [Ubuntu: Recovery Test — Automation for Help Desk](Project_002992/README.md) |
+| 002993 | [Ubuntu: Recovery Test — Recovery for Help Desk](Project_002993/README.md) |
+| 002994 | [Ubuntu: Recovery Test — Reporting for Help Desk](Project_002994/README.md) |
+| 002995 | [Ubuntu: Recovery Test — Usability Improvement for Help Desk](Project_002995/README.md) |
+| 002996 | [Ubuntu: Recovery Test — Baseline Setup for Portfolio Demo](Project_002996/README.md) |
+| 002997 | [Ubuntu: Recovery Test — Automation for Portfolio Demo](Project_002997/README.md) |
+| 002998 | [Ubuntu: Recovery Test — Recovery for Portfolio Demo](Project_002998/README.md) |
+| 002999 | [Ubuntu: Recovery Test — Reporting for Portfolio Demo](Project_002999/README.md) |
+| 003000 | [Ubuntu: Recovery Test — Usability Improvement for Portfolio Demo](Project_003000/README.md) |
 
 [Back to the portfolio home](../README.md)
