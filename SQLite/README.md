@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028358 | [SQLite: Dashboard — Recovery for Small Business](Project_028358/README.md) |
 | 028359 | [SQLite: Dashboard — Reporting for Small Business](Project_028359/README.md) |
 | 028360 | [SQLite: Dashboard — Usability Improvement for Small Business](Project_028360/README.md) |
+| 028361 | [SQLite: Dashboard — Baseline Setup for Home Development](Project_028361/README.md) |
+| 028362 | [SQLite: Dashboard — Automation for Home Development](Project_028362/README.md) |
+| 028363 | [SQLite: Dashboard — Recovery for Home Development](Project_028363/README.md) |
+| 028364 | [SQLite: Dashboard — Reporting for Home Development](Project_028364/README.md) |
+| 028365 | [SQLite: Dashboard — Usability Improvement for Home Development](Project_028365/README.md) |
+| 028366 | [SQLite: Dashboard — Baseline Setup for Public Dataset](Project_028366/README.md) |
+| 028367 | [SQLite: Dashboard — Automation for Public Dataset](Project_028367/README.md) |
+| 028368 | [SQLite: Dashboard — Recovery for Public Dataset](Project_028368/README.md) |
+| 028369 | [SQLite: Dashboard — Reporting for Public Dataset](Project_028369/README.md) |
+| 028370 | [SQLite: Dashboard — Usability Improvement for Public Dataset](Project_028370/README.md) |
+| 028371 | [SQLite: Dashboard — Baseline Setup for Branch Office Simulator](Project_028371/README.md) |
+| 028372 | [SQLite: Dashboard — Automation for Branch Office Simulator](Project_028372/README.md) |
+| 028373 | [SQLite: Dashboard — Recovery for Branch Office Simulator](Project_028373/README.md) |
+| 028374 | [SQLite: Dashboard — Reporting for Branch Office Simulator](Project_028374/README.md) |
+| 028375 | [SQLite: Dashboard — Usability Improvement for Branch Office Simulator](Project_028375/README.md) |
+| 028376 | [SQLite: Dashboard — Baseline Setup for Offline Classroom](Project_028376/README.md) |
+| 028377 | [SQLite: Dashboard — Automation for Offline Classroom](Project_028377/README.md) |
+| 028378 | [SQLite: Dashboard — Recovery for Offline Classroom](Project_028378/README.md) |
+| 028379 | [SQLite: Dashboard — Reporting for Offline Classroom](Project_028379/README.md) |
+| 028380 | [SQLite: Dashboard — Usability Improvement for Offline Classroom](Project_028380/README.md) |
 
 [Back to the portfolio home](../README.md)
