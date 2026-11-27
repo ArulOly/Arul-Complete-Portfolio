@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024958 | [Node.js: Recovery Test — Recovery for Small Business](Project_024958/README.md) |
 | 024959 | [Node.js: Recovery Test — Reporting for Small Business](Project_024959/README.md) |
 | 024960 | [Node.js: Recovery Test — Usability Improvement for Small Business](Project_024960/README.md) |
+| 024961 | [Node.js: Recovery Test — Baseline Setup for Home Development](Project_024961/README.md) |
+| 024962 | [Node.js: Recovery Test — Automation for Home Development](Project_024962/README.md) |
+| 024963 | [Node.js: Recovery Test — Recovery for Home Development](Project_024963/README.md) |
+| 024964 | [Node.js: Recovery Test — Reporting for Home Development](Project_024964/README.md) |
+| 024965 | [Node.js: Recovery Test — Usability Improvement for Home Development](Project_024965/README.md) |
+| 024966 | [Node.js: Recovery Test — Baseline Setup for Public Dataset](Project_024966/README.md) |
+| 024967 | [Node.js: Recovery Test — Automation for Public Dataset](Project_024967/README.md) |
+| 024968 | [Node.js: Recovery Test — Recovery for Public Dataset](Project_024968/README.md) |
+| 024969 | [Node.js: Recovery Test — Reporting for Public Dataset](Project_024969/README.md) |
+| 024970 | [Node.js: Recovery Test — Usability Improvement for Public Dataset](Project_024970/README.md) |
+| 024971 | [Node.js: Recovery Test — Baseline Setup for Branch Office Simulator](Project_024971/README.md) |
+| 024972 | [Node.js: Recovery Test — Automation for Branch Office Simulator](Project_024972/README.md) |
+| 024973 | [Node.js: Recovery Test — Recovery for Branch Office Simulator](Project_024973/README.md) |
+| 024974 | [Node.js: Recovery Test — Reporting for Branch Office Simulator](Project_024974/README.md) |
+| 024975 | [Node.js: Recovery Test — Usability Improvement for Branch Office Simulator](Project_024975/README.md) |
+| 024976 | [Node.js: Recovery Test — Baseline Setup for Offline Classroom](Project_024976/README.md) |
+| 024977 | [Node.js: Recovery Test — Automation for Offline Classroom](Project_024977/README.md) |
+| 024978 | [Node.js: Recovery Test — Recovery for Offline Classroom](Project_024978/README.md) |
+| 024979 | [Node.js: Recovery Test — Reporting for Offline Classroom](Project_024979/README.md) |
+| 024980 | [Node.js: Recovery Test — Usability Improvement for Offline Classroom](Project_024980/README.md) |
 
 [Back to the portfolio home](../README.md)
