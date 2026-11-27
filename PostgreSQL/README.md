@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025578 | [PostgreSQL: Performance Baseline — Recovery for Offline Classroom](Project_025578/README.md) |
 | 025579 | [PostgreSQL: Performance Baseline — Reporting for Offline Classroom](Project_025579/README.md) |
 | 025580 | [PostgreSQL: Performance Baseline — Usability Improvement for Offline Classroom](Project_025580/README.md) |
+| 025581 | [PostgreSQL: Performance Baseline — Baseline Setup for Single-Host Lab](Project_025581/README.md) |
+| 025582 | [PostgreSQL: Performance Baseline — Automation for Single-Host Lab](Project_025582/README.md) |
+| 025583 | [PostgreSQL: Performance Baseline — Recovery for Single-Host Lab](Project_025583/README.md) |
+| 025584 | [PostgreSQL: Performance Baseline — Reporting for Single-Host Lab](Project_025584/README.md) |
+| 025585 | [PostgreSQL: Performance Baseline — Usability Improvement for Single-Host Lab](Project_025585/README.md) |
+| 025586 | [PostgreSQL: Performance Baseline — Baseline Setup for Two-Node Lab](Project_025586/README.md) |
+| 025587 | [PostgreSQL: Performance Baseline — Automation for Two-Node Lab](Project_025587/README.md) |
+| 025588 | [PostgreSQL: Performance Baseline — Recovery for Two-Node Lab](Project_025588/README.md) |
+| 025589 | [PostgreSQL: Performance Baseline — Reporting for Two-Node Lab](Project_025589/README.md) |
+| 025590 | [PostgreSQL: Performance Baseline — Usability Improvement for Two-Node Lab](Project_025590/README.md) |
+| 025591 | [PostgreSQL: Performance Baseline — Baseline Setup for Help Desk](Project_025591/README.md) |
+| 025592 | [PostgreSQL: Performance Baseline — Automation for Help Desk](Project_025592/README.md) |
+| 025593 | [PostgreSQL: Performance Baseline — Recovery for Help Desk](Project_025593/README.md) |
+| 025594 | [PostgreSQL: Performance Baseline — Reporting for Help Desk](Project_025594/README.md) |
+| 025595 | [PostgreSQL: Performance Baseline — Usability Improvement for Help Desk](Project_025595/README.md) |
+| 025596 | [PostgreSQL: Performance Baseline — Baseline Setup for Portfolio Demo](Project_025596/README.md) |
+| 025597 | [PostgreSQL: Performance Baseline — Automation for Portfolio Demo](Project_025597/README.md) |
+| 025598 | [PostgreSQL: Performance Baseline — Recovery for Portfolio Demo](Project_025598/README.md) |
+| 025599 | [PostgreSQL: Performance Baseline — Reporting for Portfolio Demo](Project_025599/README.md) |
+| 025600 | [PostgreSQL: Performance Baseline — Usability Improvement for Portfolio Demo](Project_025600/README.md) |
 
 [Back to the portfolio home](../README.md)
