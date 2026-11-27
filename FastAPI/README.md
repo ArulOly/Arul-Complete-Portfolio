@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049538 | [FastAPI: Access Review — Recovery for Two-Node Lab](Project_049538/README.md) |
 | 049539 | [FastAPI: Access Review — Reporting for Two-Node Lab](Project_049539/README.md) |
 | 049540 | [FastAPI: Access Review — Usability Improvement for Two-Node Lab](Project_049540/README.md) |
+| 049541 | [FastAPI: Access Review — Baseline Setup for Help Desk](Project_049541/README.md) |
+| 049542 | [FastAPI: Access Review — Automation for Help Desk](Project_049542/README.md) |
+| 049543 | [FastAPI: Access Review — Recovery for Help Desk](Project_049543/README.md) |
+| 049544 | [FastAPI: Access Review — Reporting for Help Desk](Project_049544/README.md) |
+| 049545 | [FastAPI: Access Review — Usability Improvement for Help Desk](Project_049545/README.md) |
+| 049546 | [FastAPI: Access Review — Baseline Setup for Portfolio Demo](Project_049546/README.md) |
+| 049547 | [FastAPI: Access Review — Automation for Portfolio Demo](Project_049547/README.md) |
+| 049548 | [FastAPI: Access Review — Recovery for Portfolio Demo](Project_049548/README.md) |
+| 049549 | [FastAPI: Access Review — Reporting for Portfolio Demo](Project_049549/README.md) |
+| 049550 | [FastAPI: Access Review — Usability Improvement for Portfolio Demo](Project_049550/README.md) |
+| 049551 | [FastAPI: Performance Baseline — Baseline Setup for School Lab](Project_049551/README.md) |
+| 049552 | [FastAPI: Performance Baseline — Automation for School Lab](Project_049552/README.md) |
+| 049553 | [FastAPI: Performance Baseline — Recovery for School Lab](Project_049553/README.md) |
+| 049554 | [FastAPI: Performance Baseline — Reporting for School Lab](Project_049554/README.md) |
+| 049555 | [FastAPI: Performance Baseline — Usability Improvement for School Lab](Project_049555/README.md) |
+| 049556 | [FastAPI: Performance Baseline — Baseline Setup for Small Business](Project_049556/README.md) |
+| 049557 | [FastAPI: Performance Baseline — Automation for Small Business](Project_049557/README.md) |
+| 049558 | [FastAPI: Performance Baseline — Recovery for Small Business](Project_049558/README.md) |
+| 049559 | [FastAPI: Performance Baseline — Reporting for Small Business](Project_049559/README.md) |
+| 049560 | [FastAPI: Performance Baseline — Usability Improvement for Small Business](Project_049560/README.md) |
 
 [Back to the portfolio home](../README.md)
