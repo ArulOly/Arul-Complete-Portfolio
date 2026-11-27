@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004378 | [Fedora: Dashboard — Recovery for Offline Classroom](Project_004378/README.md) |
 | 004379 | [Fedora: Dashboard — Reporting for Offline Classroom](Project_004379/README.md) |
 | 004380 | [Fedora: Dashboard — Usability Improvement for Offline Classroom](Project_004380/README.md) |
+| 004381 | [Fedora: Dashboard — Baseline Setup for Single-Host Lab](Project_004381/README.md) |
+| 004382 | [Fedora: Dashboard — Automation for Single-Host Lab](Project_004382/README.md) |
+| 004383 | [Fedora: Dashboard — Recovery for Single-Host Lab](Project_004383/README.md) |
+| 004384 | [Fedora: Dashboard — Reporting for Single-Host Lab](Project_004384/README.md) |
+| 004385 | [Fedora: Dashboard — Usability Improvement for Single-Host Lab](Project_004385/README.md) |
+| 004386 | [Fedora: Dashboard — Baseline Setup for Two-Node Lab](Project_004386/README.md) |
+| 004387 | [Fedora: Dashboard — Automation for Two-Node Lab](Project_004387/README.md) |
+| 004388 | [Fedora: Dashboard — Recovery for Two-Node Lab](Project_004388/README.md) |
+| 004389 | [Fedora: Dashboard — Reporting for Two-Node Lab](Project_004389/README.md) |
+| 004390 | [Fedora: Dashboard — Usability Improvement for Two-Node Lab](Project_004390/README.md) |
+| 004391 | [Fedora: Dashboard — Baseline Setup for Help Desk](Project_004391/README.md) |
+| 004392 | [Fedora: Dashboard — Automation for Help Desk](Project_004392/README.md) |
+| 004393 | [Fedora: Dashboard — Recovery for Help Desk](Project_004393/README.md) |
+| 004394 | [Fedora: Dashboard — Reporting for Help Desk](Project_004394/README.md) |
+| 004395 | [Fedora: Dashboard — Usability Improvement for Help Desk](Project_004395/README.md) |
+| 004396 | [Fedora: Dashboard — Baseline Setup for Portfolio Demo](Project_004396/README.md) |
+| 004397 | [Fedora: Dashboard — Automation for Portfolio Demo](Project_004397/README.md) |
+| 004398 | [Fedora: Dashboard — Recovery for Portfolio Demo](Project_004398/README.md) |
+| 004399 | [Fedora: Dashboard — Reporting for Portfolio Demo](Project_004399/README.md) |
+| 004400 | [Fedora: Dashboard — Usability Improvement for Portfolio Demo](Project_004400/README.md) |
 
 [Back to the portfolio home](../README.md)
