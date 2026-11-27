@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022578 | [Java: Performance Baseline — Recovery for Offline Classroom](Project_022578/README.md) |
 | 022579 | [Java: Performance Baseline — Reporting for Offline Classroom](Project_022579/README.md) |
 | 022580 | [Java: Performance Baseline — Usability Improvement for Offline Classroom](Project_022580/README.md) |
+| 022581 | [Java: Performance Baseline — Baseline Setup for Single-Host Lab](Project_022581/README.md) |
+| 022582 | [Java: Performance Baseline — Automation for Single-Host Lab](Project_022582/README.md) |
+| 022583 | [Java: Performance Baseline — Recovery for Single-Host Lab](Project_022583/README.md) |
+| 022584 | [Java: Performance Baseline — Reporting for Single-Host Lab](Project_022584/README.md) |
+| 022585 | [Java: Performance Baseline — Usability Improvement for Single-Host Lab](Project_022585/README.md) |
+| 022586 | [Java: Performance Baseline — Baseline Setup for Two-Node Lab](Project_022586/README.md) |
+| 022587 | [Java: Performance Baseline — Automation for Two-Node Lab](Project_022587/README.md) |
+| 022588 | [Java: Performance Baseline — Recovery for Two-Node Lab](Project_022588/README.md) |
+| 022589 | [Java: Performance Baseline — Reporting for Two-Node Lab](Project_022589/README.md) |
+| 022590 | [Java: Performance Baseline — Usability Improvement for Two-Node Lab](Project_022590/README.md) |
+| 022591 | [Java: Performance Baseline — Baseline Setup for Help Desk](Project_022591/README.md) |
+| 022592 | [Java: Performance Baseline — Automation for Help Desk](Project_022592/README.md) |
+| 022593 | [Java: Performance Baseline — Recovery for Help Desk](Project_022593/README.md) |
+| 022594 | [Java: Performance Baseline — Reporting for Help Desk](Project_022594/README.md) |
+| 022595 | [Java: Performance Baseline — Usability Improvement for Help Desk](Project_022595/README.md) |
+| 022596 | [Java: Performance Baseline — Baseline Setup for Portfolio Demo](Project_022596/README.md) |
+| 022597 | [Java: Performance Baseline — Automation for Portfolio Demo](Project_022597/README.md) |
+| 022598 | [Java: Performance Baseline — Recovery for Portfolio Demo](Project_022598/README.md) |
+| 022599 | [Java: Performance Baseline — Reporting for Portfolio Demo](Project_022599/README.md) |
+| 022600 | [Java: Performance Baseline — Usability Improvement for Portfolio Demo](Project_022600/README.md) |
 
 [Back to the portfolio home](../README.md)
