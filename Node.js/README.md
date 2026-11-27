@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024898 | [Node.js: Automation — Recovery for Portfolio Demo](Project_024898/README.md) |
 | 024899 | [Node.js: Automation — Reporting for Portfolio Demo](Project_024899/README.md) |
 | 024900 | [Node.js: Automation — Usability Improvement for Portfolio Demo](Project_024900/README.md) |
+| 024901 | [Node.js: Visual Reporting — Baseline Setup for School Lab](Project_024901/README.md) |
+| 024902 | [Node.js: Visual Reporting — Automation for School Lab](Project_024902/README.md) |
+| 024903 | [Node.js: Visual Reporting — Recovery for School Lab](Project_024903/README.md) |
+| 024904 | [Node.js: Visual Reporting — Reporting for School Lab](Project_024904/README.md) |
+| 024905 | [Node.js: Visual Reporting — Usability Improvement for School Lab](Project_024905/README.md) |
+| 024906 | [Node.js: Visual Reporting — Baseline Setup for Small Business](Project_024906/README.md) |
+| 024907 | [Node.js: Visual Reporting — Automation for Small Business](Project_024907/README.md) |
+| 024908 | [Node.js: Visual Reporting — Recovery for Small Business](Project_024908/README.md) |
+| 024909 | [Node.js: Visual Reporting — Reporting for Small Business](Project_024909/README.md) |
+| 024910 | [Node.js: Visual Reporting — Usability Improvement for Small Business](Project_024910/README.md) |
+| 024911 | [Node.js: Visual Reporting — Baseline Setup for Home Development](Project_024911/README.md) |
+| 024912 | [Node.js: Visual Reporting — Automation for Home Development](Project_024912/README.md) |
+| 024913 | [Node.js: Visual Reporting — Recovery for Home Development](Project_024913/README.md) |
+| 024914 | [Node.js: Visual Reporting — Reporting for Home Development](Project_024914/README.md) |
+| 024915 | [Node.js: Visual Reporting — Usability Improvement for Home Development](Project_024915/README.md) |
+| 024916 | [Node.js: Visual Reporting — Baseline Setup for Public Dataset](Project_024916/README.md) |
+| 024917 | [Node.js: Visual Reporting — Automation for Public Dataset](Project_024917/README.md) |
+| 024918 | [Node.js: Visual Reporting — Recovery for Public Dataset](Project_024918/README.md) |
+| 024919 | [Node.js: Visual Reporting — Reporting for Public Dataset](Project_024919/README.md) |
+| 024920 | [Node.js: Visual Reporting — Usability Improvement for Public Dataset](Project_024920/README.md) |
 
 [Back to the portfolio home](../README.md)
