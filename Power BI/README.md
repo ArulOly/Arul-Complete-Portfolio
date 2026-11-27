@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032278 | [Power BI: Data Import — Recovery for Offline Classroom](Project_032278/README.md) |
 | 032279 | [Power BI: Data Import — Reporting for Offline Classroom](Project_032279/README.md) |
 | 032280 | [Power BI: Data Import — Usability Improvement for Offline Classroom](Project_032280/README.md) |
+| 032281 | [Power BI: Data Import — Baseline Setup for Single-Host Lab](Project_032281/README.md) |
+| 032282 | [Power BI: Data Import — Automation for Single-Host Lab](Project_032282/README.md) |
+| 032283 | [Power BI: Data Import — Recovery for Single-Host Lab](Project_032283/README.md) |
+| 032284 | [Power BI: Data Import — Reporting for Single-Host Lab](Project_032284/README.md) |
+| 032285 | [Power BI: Data Import — Usability Improvement for Single-Host Lab](Project_032285/README.md) |
+| 032286 | [Power BI: Data Import — Baseline Setup for Two-Node Lab](Project_032286/README.md) |
+| 032287 | [Power BI: Data Import — Automation for Two-Node Lab](Project_032287/README.md) |
+| 032288 | [Power BI: Data Import — Recovery for Two-Node Lab](Project_032288/README.md) |
+| 032289 | [Power BI: Data Import — Reporting for Two-Node Lab](Project_032289/README.md) |
+| 032290 | [Power BI: Data Import — Usability Improvement for Two-Node Lab](Project_032290/README.md) |
+| 032291 | [Power BI: Data Import — Baseline Setup for Help Desk](Project_032291/README.md) |
+| 032292 | [Power BI: Data Import — Automation for Help Desk](Project_032292/README.md) |
+| 032293 | [Power BI: Data Import — Recovery for Help Desk](Project_032293/README.md) |
+| 032294 | [Power BI: Data Import — Reporting for Help Desk](Project_032294/README.md) |
+| 032295 | [Power BI: Data Import — Usability Improvement for Help Desk](Project_032295/README.md) |
+| 032296 | [Power BI: Data Import — Baseline Setup for Portfolio Demo](Project_032296/README.md) |
+| 032297 | [Power BI: Data Import — Automation for Portfolio Demo](Project_032297/README.md) |
+| 032298 | [Power BI: Data Import — Recovery for Portfolio Demo](Project_032298/README.md) |
+| 032299 | [Power BI: Data Import — Reporting for Portfolio Demo](Project_032299/README.md) |
+| 032300 | [Power BI: Data Import — Usability Improvement for Portfolio Demo](Project_032300/README.md) |
 
 [Back to the portfolio home](../README.md)
