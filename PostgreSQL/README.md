@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025778 | [PostgreSQL: Data Validation — Recovery for Offline Classroom](Project_025778/README.md) |
 | 025779 | [PostgreSQL: Data Validation — Reporting for Offline Classroom](Project_025779/README.md) |
 | 025780 | [PostgreSQL: Data Validation — Usability Improvement for Offline Classroom](Project_025780/README.md) |
+| 025781 | [PostgreSQL: Data Validation — Baseline Setup for Single-Host Lab](Project_025781/README.md) |
+| 025782 | [PostgreSQL: Data Validation — Automation for Single-Host Lab](Project_025782/README.md) |
+| 025783 | [PostgreSQL: Data Validation — Recovery for Single-Host Lab](Project_025783/README.md) |
+| 025784 | [PostgreSQL: Data Validation — Reporting for Single-Host Lab](Project_025784/README.md) |
+| 025785 | [PostgreSQL: Data Validation — Usability Improvement for Single-Host Lab](Project_025785/README.md) |
+| 025786 | [PostgreSQL: Data Validation — Baseline Setup for Two-Node Lab](Project_025786/README.md) |
+| 025787 | [PostgreSQL: Data Validation — Automation for Two-Node Lab](Project_025787/README.md) |
+| 025788 | [PostgreSQL: Data Validation — Recovery for Two-Node Lab](Project_025788/README.md) |
+| 025789 | [PostgreSQL: Data Validation — Reporting for Two-Node Lab](Project_025789/README.md) |
+| 025790 | [PostgreSQL: Data Validation — Usability Improvement for Two-Node Lab](Project_025790/README.md) |
+| 025791 | [PostgreSQL: Data Validation — Baseline Setup for Help Desk](Project_025791/README.md) |
+| 025792 | [PostgreSQL: Data Validation — Automation for Help Desk](Project_025792/README.md) |
+| 025793 | [PostgreSQL: Data Validation — Recovery for Help Desk](Project_025793/README.md) |
+| 025794 | [PostgreSQL: Data Validation — Reporting for Help Desk](Project_025794/README.md) |
+| 025795 | [PostgreSQL: Data Validation — Usability Improvement for Help Desk](Project_025795/README.md) |
+| 025796 | [PostgreSQL: Data Validation — Baseline Setup for Portfolio Demo](Project_025796/README.md) |
+| 025797 | [PostgreSQL: Data Validation — Automation for Portfolio Demo](Project_025797/README.md) |
+| 025798 | [PostgreSQL: Data Validation — Recovery for Portfolio Demo](Project_025798/README.md) |
+| 025799 | [PostgreSQL: Data Validation — Reporting for Portfolio Demo](Project_025799/README.md) |
+| 025800 | [PostgreSQL: Data Validation — Usability Improvement for Portfolio Demo](Project_025800/README.md) |
 
 [Back to the portfolio home](../README.md)
