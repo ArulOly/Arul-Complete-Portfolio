@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025058 | [PostgreSQL: Monitoring — Recovery for Small Business](Project_025058/README.md) |
 | 025059 | [PostgreSQL: Monitoring — Reporting for Small Business](Project_025059/README.md) |
 | 025060 | [PostgreSQL: Monitoring — Usability Improvement for Small Business](Project_025060/README.md) |
+| 025061 | [PostgreSQL: Monitoring — Baseline Setup for Home Development](Project_025061/README.md) |
+| 025062 | [PostgreSQL: Monitoring — Automation for Home Development](Project_025062/README.md) |
+| 025063 | [PostgreSQL: Monitoring — Recovery for Home Development](Project_025063/README.md) |
+| 025064 | [PostgreSQL: Monitoring — Reporting for Home Development](Project_025064/README.md) |
+| 025065 | [PostgreSQL: Monitoring — Usability Improvement for Home Development](Project_025065/README.md) |
+| 025066 | [PostgreSQL: Monitoring — Baseline Setup for Public Dataset](Project_025066/README.md) |
+| 025067 | [PostgreSQL: Monitoring — Automation for Public Dataset](Project_025067/README.md) |
+| 025068 | [PostgreSQL: Monitoring — Recovery for Public Dataset](Project_025068/README.md) |
+| 025069 | [PostgreSQL: Monitoring — Reporting for Public Dataset](Project_025069/README.md) |
+| 025070 | [PostgreSQL: Monitoring — Usability Improvement for Public Dataset](Project_025070/README.md) |
+| 025071 | [PostgreSQL: Monitoring — Baseline Setup for Branch Office Simulator](Project_025071/README.md) |
+| 025072 | [PostgreSQL: Monitoring — Automation for Branch Office Simulator](Project_025072/README.md) |
+| 025073 | [PostgreSQL: Monitoring — Recovery for Branch Office Simulator](Project_025073/README.md) |
+| 025074 | [PostgreSQL: Monitoring — Reporting for Branch Office Simulator](Project_025074/README.md) |
+| 025075 | [PostgreSQL: Monitoring — Usability Improvement for Branch Office Simulator](Project_025075/README.md) |
+| 025076 | [PostgreSQL: Monitoring — Baseline Setup for Offline Classroom](Project_025076/README.md) |
+| 025077 | [PostgreSQL: Monitoring — Automation for Offline Classroom](Project_025077/README.md) |
+| 025078 | [PostgreSQL: Monitoring — Recovery for Offline Classroom](Project_025078/README.md) |
+| 025079 | [PostgreSQL: Monitoring — Reporting for Offline Classroom](Project_025079/README.md) |
+| 025080 | [PostgreSQL: Monitoring — Usability Improvement for Offline Classroom](Project_025080/README.md) |
 
 [Back to the portfolio home](../README.md)
