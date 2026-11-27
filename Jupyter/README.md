@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033518 | [Jupyter: Access Review — Recovery for Public Dataset](Project_033518/README.md) |
 | 033519 | [Jupyter: Access Review — Reporting for Public Dataset](Project_033519/README.md) |
 | 033520 | [Jupyter: Access Review — Usability Improvement for Public Dataset](Project_033520/README.md) |
+| 033521 | [Jupyter: Access Review — Baseline Setup for Branch Office Simulator](Project_033521/README.md) |
+| 033522 | [Jupyter: Access Review — Automation for Branch Office Simulator](Project_033522/README.md) |
+| 033523 | [Jupyter: Access Review — Recovery for Branch Office Simulator](Project_033523/README.md) |
+| 033524 | [Jupyter: Access Review — Reporting for Branch Office Simulator](Project_033524/README.md) |
+| 033525 | [Jupyter: Access Review — Usability Improvement for Branch Office Simulator](Project_033525/README.md) |
+| 033526 | [Jupyter: Access Review — Baseline Setup for Offline Classroom](Project_033526/README.md) |
+| 033527 | [Jupyter: Access Review — Automation for Offline Classroom](Project_033527/README.md) |
+| 033528 | [Jupyter: Access Review — Recovery for Offline Classroom](Project_033528/README.md) |
+| 033529 | [Jupyter: Access Review — Reporting for Offline Classroom](Project_033529/README.md) |
+| 033530 | [Jupyter: Access Review — Usability Improvement for Offline Classroom](Project_033530/README.md) |
+| 033531 | [Jupyter: Access Review — Baseline Setup for Single-Host Lab](Project_033531/README.md) |
+| 033532 | [Jupyter: Access Review — Automation for Single-Host Lab](Project_033532/README.md) |
+| 033533 | [Jupyter: Access Review — Recovery for Single-Host Lab](Project_033533/README.md) |
+| 033534 | [Jupyter: Access Review — Reporting for Single-Host Lab](Project_033534/README.md) |
+| 033535 | [Jupyter: Access Review — Usability Improvement for Single-Host Lab](Project_033535/README.md) |
+| 033536 | [Jupyter: Access Review — Baseline Setup for Two-Node Lab](Project_033536/README.md) |
+| 033537 | [Jupyter: Access Review — Automation for Two-Node Lab](Project_033537/README.md) |
+| 033538 | [Jupyter: Access Review — Recovery for Two-Node Lab](Project_033538/README.md) |
+| 033539 | [Jupyter: Access Review — Reporting for Two-Node Lab](Project_033539/README.md) |
+| 033540 | [Jupyter: Access Review — Usability Improvement for Two-Node Lab](Project_033540/README.md) |
 
 [Back to the portfolio home](../README.md)
