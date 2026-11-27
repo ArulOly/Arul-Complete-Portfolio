@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032198 | [Power BI: Log Analysis — Recovery for Portfolio Demo](Project_032198/README.md) |
 | 032199 | [Power BI: Log Analysis — Reporting for Portfolio Demo](Project_032199/README.md) |
 | 032200 | [Power BI: Log Analysis — Usability Improvement for Portfolio Demo](Project_032200/README.md) |
+| 032201 | [Power BI: Backup Verification — Baseline Setup for School Lab](Project_032201/README.md) |
+| 032202 | [Power BI: Backup Verification — Automation for School Lab](Project_032202/README.md) |
+| 032203 | [Power BI: Backup Verification — Recovery for School Lab](Project_032203/README.md) |
+| 032204 | [Power BI: Backup Verification — Reporting for School Lab](Project_032204/README.md) |
+| 032205 | [Power BI: Backup Verification — Usability Improvement for School Lab](Project_032205/README.md) |
+| 032206 | [Power BI: Backup Verification — Baseline Setup for Small Business](Project_032206/README.md) |
+| 032207 | [Power BI: Backup Verification — Automation for Small Business](Project_032207/README.md) |
+| 032208 | [Power BI: Backup Verification — Recovery for Small Business](Project_032208/README.md) |
+| 032209 | [Power BI: Backup Verification — Reporting for Small Business](Project_032209/README.md) |
+| 032210 | [Power BI: Backup Verification — Usability Improvement for Small Business](Project_032210/README.md) |
+| 032211 | [Power BI: Backup Verification — Baseline Setup for Home Development](Project_032211/README.md) |
+| 032212 | [Power BI: Backup Verification — Automation for Home Development](Project_032212/README.md) |
+| 032213 | [Power BI: Backup Verification — Recovery for Home Development](Project_032213/README.md) |
+| 032214 | [Power BI: Backup Verification — Reporting for Home Development](Project_032214/README.md) |
+| 032215 | [Power BI: Backup Verification — Usability Improvement for Home Development](Project_032215/README.md) |
+| 032216 | [Power BI: Backup Verification — Baseline Setup for Public Dataset](Project_032216/README.md) |
+| 032217 | [Power BI: Backup Verification — Automation for Public Dataset](Project_032217/README.md) |
+| 032218 | [Power BI: Backup Verification — Recovery for Public Dataset](Project_032218/README.md) |
+| 032219 | [Power BI: Backup Verification — Reporting for Public Dataset](Project_032219/README.md) |
+| 032220 | [Power BI: Backup Verification — Usability Improvement for Public Dataset](Project_032220/README.md) |
 
 [Back to the portfolio home](../README.md)
