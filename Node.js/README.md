@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024738 | [Node.js: Error Handling — Recovery for Two-Node Lab](Project_024738/README.md) |
 | 024739 | [Node.js: Error Handling — Reporting for Two-Node Lab](Project_024739/README.md) |
 | 024740 | [Node.js: Error Handling — Usability Improvement for Two-Node Lab](Project_024740/README.md) |
+| 024741 | [Node.js: Error Handling — Baseline Setup for Help Desk](Project_024741/README.md) |
+| 024742 | [Node.js: Error Handling — Automation for Help Desk](Project_024742/README.md) |
+| 024743 | [Node.js: Error Handling — Recovery for Help Desk](Project_024743/README.md) |
+| 024744 | [Node.js: Error Handling — Reporting for Help Desk](Project_024744/README.md) |
+| 024745 | [Node.js: Error Handling — Usability Improvement for Help Desk](Project_024745/README.md) |
+| 024746 | [Node.js: Error Handling — Baseline Setup for Portfolio Demo](Project_024746/README.md) |
+| 024747 | [Node.js: Error Handling — Automation for Portfolio Demo](Project_024747/README.md) |
+| 024748 | [Node.js: Error Handling — Recovery for Portfolio Demo](Project_024748/README.md) |
+| 024749 | [Node.js: Error Handling — Reporting for Portfolio Demo](Project_024749/README.md) |
+| 024750 | [Node.js: Error Handling — Usability Improvement for Portfolio Demo](Project_024750/README.md) |
+| 024751 | [Node.js: Data Validation — Baseline Setup for School Lab](Project_024751/README.md) |
+| 024752 | [Node.js: Data Validation — Automation for School Lab](Project_024752/README.md) |
+| 024753 | [Node.js: Data Validation — Recovery for School Lab](Project_024753/README.md) |
+| 024754 | [Node.js: Data Validation — Reporting for School Lab](Project_024754/README.md) |
+| 024755 | [Node.js: Data Validation — Usability Improvement for School Lab](Project_024755/README.md) |
+| 024756 | [Node.js: Data Validation — Baseline Setup for Small Business](Project_024756/README.md) |
+| 024757 | [Node.js: Data Validation — Automation for Small Business](Project_024757/README.md) |
+| 024758 | [Node.js: Data Validation — Recovery for Small Business](Project_024758/README.md) |
+| 024759 | [Node.js: Data Validation — Reporting for Small Business](Project_024759/README.md) |
+| 024760 | [Node.js: Data Validation — Usability Improvement for Small Business](Project_024760/README.md) |
 
 [Back to the portfolio home](../README.md)
