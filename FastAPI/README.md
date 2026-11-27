@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049438 | [FastAPI: Alerting — Recovery for Two-Node Lab](Project_049438/README.md) |
 | 049439 | [FastAPI: Alerting — Reporting for Two-Node Lab](Project_049439/README.md) |
 | 049440 | [FastAPI: Alerting — Usability Improvement for Two-Node Lab](Project_049440/README.md) |
+| 049441 | [FastAPI: Alerting — Baseline Setup for Help Desk](Project_049441/README.md) |
+| 049442 | [FastAPI: Alerting — Automation for Help Desk](Project_049442/README.md) |
+| 049443 | [FastAPI: Alerting — Recovery for Help Desk](Project_049443/README.md) |
+| 049444 | [FastAPI: Alerting — Reporting for Help Desk](Project_049444/README.md) |
+| 049445 | [FastAPI: Alerting — Usability Improvement for Help Desk](Project_049445/README.md) |
+| 049446 | [FastAPI: Alerting — Baseline Setup for Portfolio Demo](Project_049446/README.md) |
+| 049447 | [FastAPI: Alerting — Automation for Portfolio Demo](Project_049447/README.md) |
+| 049448 | [FastAPI: Alerting — Recovery for Portfolio Demo](Project_049448/README.md) |
+| 049449 | [FastAPI: Alerting — Reporting for Portfolio Demo](Project_049449/README.md) |
+| 049450 | [FastAPI: Alerting — Usability Improvement for Portfolio Demo](Project_049450/README.md) |
+| 049451 | [FastAPI: Scheduled Reporting — Baseline Setup for School Lab](Project_049451/README.md) |
+| 049452 | [FastAPI: Scheduled Reporting — Automation for School Lab](Project_049452/README.md) |
+| 049453 | [FastAPI: Scheduled Reporting — Recovery for School Lab](Project_049453/README.md) |
+| 049454 | [FastAPI: Scheduled Reporting — Reporting for School Lab](Project_049454/README.md) |
+| 049455 | [FastAPI: Scheduled Reporting — Usability Improvement for School Lab](Project_049455/README.md) |
+| 049456 | [FastAPI: Scheduled Reporting — Baseline Setup for Small Business](Project_049456/README.md) |
+| 049457 | [FastAPI: Scheduled Reporting — Automation for Small Business](Project_049457/README.md) |
+| 049458 | [FastAPI: Scheduled Reporting — Recovery for Small Business](Project_049458/README.md) |
+| 049459 | [FastAPI: Scheduled Reporting — Reporting for Small Business](Project_049459/README.md) |
+| 049460 | [FastAPI: Scheduled Reporting — Usability Improvement for Small Business](Project_049460/README.md) |
 
 [Back to the portfolio home](../README.md)
