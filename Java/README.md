@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022818 | [Java: Documentation Generation — Recovery for Public Dataset](Project_022818/README.md) |
 | 022819 | [Java: Documentation Generation — Reporting for Public Dataset](Project_022819/README.md) |
 | 022820 | [Java: Documentation Generation — Usability Improvement for Public Dataset](Project_022820/README.md) |
+| 022821 | [Java: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_022821/README.md) |
+| 022822 | [Java: Documentation Generation — Automation for Branch Office Simulator](Project_022822/README.md) |
+| 022823 | [Java: Documentation Generation — Recovery for Branch Office Simulator](Project_022823/README.md) |
+| 022824 | [Java: Documentation Generation — Reporting for Branch Office Simulator](Project_022824/README.md) |
+| 022825 | [Java: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_022825/README.md) |
+| 022826 | [Java: Documentation Generation — Baseline Setup for Offline Classroom](Project_022826/README.md) |
+| 022827 | [Java: Documentation Generation — Automation for Offline Classroom](Project_022827/README.md) |
+| 022828 | [Java: Documentation Generation — Recovery for Offline Classroom](Project_022828/README.md) |
+| 022829 | [Java: Documentation Generation — Reporting for Offline Classroom](Project_022829/README.md) |
+| 022830 | [Java: Documentation Generation — Usability Improvement for Offline Classroom](Project_022830/README.md) |
+| 022831 | [Java: Documentation Generation — Baseline Setup for Single-Host Lab](Project_022831/README.md) |
+| 022832 | [Java: Documentation Generation — Automation for Single-Host Lab](Project_022832/README.md) |
+| 022833 | [Java: Documentation Generation — Recovery for Single-Host Lab](Project_022833/README.md) |
+| 022834 | [Java: Documentation Generation — Reporting for Single-Host Lab](Project_022834/README.md) |
+| 022835 | [Java: Documentation Generation — Usability Improvement for Single-Host Lab](Project_022835/README.md) |
+| 022836 | [Java: Documentation Generation — Baseline Setup for Two-Node Lab](Project_022836/README.md) |
+| 022837 | [Java: Documentation Generation — Automation for Two-Node Lab](Project_022837/README.md) |
+| 022838 | [Java: Documentation Generation — Recovery for Two-Node Lab](Project_022838/README.md) |
+| 022839 | [Java: Documentation Generation — Reporting for Two-Node Lab](Project_022839/README.md) |
+| 022840 | [Java: Documentation Generation — Usability Improvement for Two-Node Lab](Project_022840/README.md) |
 
 [Back to the portfolio home](../README.md)
