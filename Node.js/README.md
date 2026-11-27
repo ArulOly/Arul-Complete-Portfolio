@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024038 | [Node.js: Inventory — Recovery for Two-Node Lab](Project_024038/README.md) |
 | 024039 | [Node.js: Inventory — Reporting for Two-Node Lab](Project_024039/README.md) |
 | 024040 | [Node.js: Inventory — Usability Improvement for Two-Node Lab](Project_024040/README.md) |
+| 024041 | [Node.js: Inventory — Baseline Setup for Help Desk](Project_024041/README.md) |
+| 024042 | [Node.js: Inventory — Automation for Help Desk](Project_024042/README.md) |
+| 024043 | [Node.js: Inventory — Recovery for Help Desk](Project_024043/README.md) |
+| 024044 | [Node.js: Inventory — Reporting for Help Desk](Project_024044/README.md) |
+| 024045 | [Node.js: Inventory — Usability Improvement for Help Desk](Project_024045/README.md) |
+| 024046 | [Node.js: Inventory — Baseline Setup for Portfolio Demo](Project_024046/README.md) |
+| 024047 | [Node.js: Inventory — Automation for Portfolio Demo](Project_024047/README.md) |
+| 024048 | [Node.js: Inventory — Recovery for Portfolio Demo](Project_024048/README.md) |
+| 024049 | [Node.js: Inventory — Reporting for Portfolio Demo](Project_024049/README.md) |
+| 024050 | [Node.js: Inventory — Usability Improvement for Portfolio Demo](Project_024050/README.md) |
+| 024051 | [Node.js: Monitoring — Baseline Setup for School Lab](Project_024051/README.md) |
+| 024052 | [Node.js: Monitoring — Automation for School Lab](Project_024052/README.md) |
+| 024053 | [Node.js: Monitoring — Recovery for School Lab](Project_024053/README.md) |
+| 024054 | [Node.js: Monitoring — Reporting for School Lab](Project_024054/README.md) |
+| 024055 | [Node.js: Monitoring — Usability Improvement for School Lab](Project_024055/README.md) |
+| 024056 | [Node.js: Monitoring — Baseline Setup for Small Business](Project_024056/README.md) |
+| 024057 | [Node.js: Monitoring — Automation for Small Business](Project_024057/README.md) |
+| 024058 | [Node.js: Monitoring — Recovery for Small Business](Project_024058/README.md) |
+| 024059 | [Node.js: Monitoring — Reporting for Small Business](Project_024059/README.md) |
+| 024060 | [Node.js: Monitoring — Usability Improvement for Small Business](Project_024060/README.md) |
 
 [Back to the portfolio home](../README.md)
