@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032678 | [Power BI: Configuration Comparison — Recovery for Offline Classroom](Project_032678/README.md) |
 | 032679 | [Power BI: Configuration Comparison — Reporting for Offline Classroom](Project_032679/README.md) |
 | 032680 | [Power BI: Configuration Comparison — Usability Improvement for Offline Classroom](Project_032680/README.md) |
+| 032681 | [Power BI: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_032681/README.md) |
+| 032682 | [Power BI: Configuration Comparison — Automation for Single-Host Lab](Project_032682/README.md) |
+| 032683 | [Power BI: Configuration Comparison — Recovery for Single-Host Lab](Project_032683/README.md) |
+| 032684 | [Power BI: Configuration Comparison — Reporting for Single-Host Lab](Project_032684/README.md) |
+| 032685 | [Power BI: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_032685/README.md) |
+| 032686 | [Power BI: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_032686/README.md) |
+| 032687 | [Power BI: Configuration Comparison — Automation for Two-Node Lab](Project_032687/README.md) |
+| 032688 | [Power BI: Configuration Comparison — Recovery for Two-Node Lab](Project_032688/README.md) |
+| 032689 | [Power BI: Configuration Comparison — Reporting for Two-Node Lab](Project_032689/README.md) |
+| 032690 | [Power BI: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_032690/README.md) |
+| 032691 | [Power BI: Configuration Comparison — Baseline Setup for Help Desk](Project_032691/README.md) |
+| 032692 | [Power BI: Configuration Comparison — Automation for Help Desk](Project_032692/README.md) |
+| 032693 | [Power BI: Configuration Comparison — Recovery for Help Desk](Project_032693/README.md) |
+| 032694 | [Power BI: Configuration Comparison — Reporting for Help Desk](Project_032694/README.md) |
+| 032695 | [Power BI: Configuration Comparison — Usability Improvement for Help Desk](Project_032695/README.md) |
+| 032696 | [Power BI: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_032696/README.md) |
+| 032697 | [Power BI: Configuration Comparison — Automation for Portfolio Demo](Project_032697/README.md) |
+| 032698 | [Power BI: Configuration Comparison — Recovery for Portfolio Demo](Project_032698/README.md) |
+| 032699 | [Power BI: Configuration Comparison — Reporting for Portfolio Demo](Project_032699/README.md) |
+| 032700 | [Power BI: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_032700/README.md) |
 
 [Back to the portfolio home](../README.md)
