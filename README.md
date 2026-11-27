@@ -24,6 +24,10 @@ This repository contains a collection of practical information technology projec
 | [Jupyter](./Jupyter/) | Reproducible notebook workflows and rich Python output |
 | [Power BI](./Power%20BI/) | Power Query transformations and report tables |
 | [Scikit-learn](./Scikit-learn/) | Feature engineering and synthetic reference-profile comparisons |
+| [Ubuntu](./Ubuntu/) | Synthetic operations workflows tested on Ubuntu 24.04 |
+| [Debian](./Debian/) | Synthetic operations workflows tested on Debian 12 |
+| [Fedora](./Fedora/) | Synthetic operations workflows tested on Fedora 43 |
+| [FreeBSD](./FreeBSD/) | Synthetic operations workflows for FreeBSD |
 
 ## Repository Structure
 
@@ -49,6 +53,10 @@ Each project is documented in an individual README.md file containing its object
 - Jupyter
 - Power BI and Power Query M
 - Scikit-learn
+- Ubuntu
+- Debian
+- Fedora
+- FreeBSD
 - Markdown
 
 ## Purpose
