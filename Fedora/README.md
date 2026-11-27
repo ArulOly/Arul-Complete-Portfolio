@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004938 | [Fedora: Visual Reporting — Recovery for Two-Node Lab](Project_004938/README.md) |
 | 004939 | [Fedora: Visual Reporting — Reporting for Two-Node Lab](Project_004939/README.md) |
 | 004940 | [Fedora: Visual Reporting — Usability Improvement for Two-Node Lab](Project_004940/README.md) |
+| 004941 | [Fedora: Visual Reporting — Baseline Setup for Help Desk](Project_004941/README.md) |
+| 004942 | [Fedora: Visual Reporting — Automation for Help Desk](Project_004942/README.md) |
+| 004943 | [Fedora: Visual Reporting — Recovery for Help Desk](Project_004943/README.md) |
+| 004944 | [Fedora: Visual Reporting — Reporting for Help Desk](Project_004944/README.md) |
+| 004945 | [Fedora: Visual Reporting — Usability Improvement for Help Desk](Project_004945/README.md) |
+| 004946 | [Fedora: Visual Reporting — Baseline Setup for Portfolio Demo](Project_004946/README.md) |
+| 004947 | [Fedora: Visual Reporting — Automation for Portfolio Demo](Project_004947/README.md) |
+| 004948 | [Fedora: Visual Reporting — Recovery for Portfolio Demo](Project_004948/README.md) |
+| 004949 | [Fedora: Visual Reporting — Reporting for Portfolio Demo](Project_004949/README.md) |
+| 004950 | [Fedora: Visual Reporting — Usability Improvement for Portfolio Demo](Project_004950/README.md) |
+| 004951 | [Fedora: Recovery Test — Baseline Setup for School Lab](Project_004951/README.md) |
+| 004952 | [Fedora: Recovery Test — Automation for School Lab](Project_004952/README.md) |
+| 004953 | [Fedora: Recovery Test — Recovery for School Lab](Project_004953/README.md) |
+| 004954 | [Fedora: Recovery Test — Reporting for School Lab](Project_004954/README.md) |
+| 004955 | [Fedora: Recovery Test — Usability Improvement for School Lab](Project_004955/README.md) |
+| 004956 | [Fedora: Recovery Test — Baseline Setup for Small Business](Project_004956/README.md) |
+| 004957 | [Fedora: Recovery Test — Automation for Small Business](Project_004957/README.md) |
+| 004958 | [Fedora: Recovery Test — Recovery for Small Business](Project_004958/README.md) |
+| 004959 | [Fedora: Recovery Test — Reporting for Small Business](Project_004959/README.md) |
+| 004960 | [Fedora: Recovery Test — Usability Improvement for Small Business](Project_004960/README.md) |
 
 [Back to the portfolio home](../README.md)
