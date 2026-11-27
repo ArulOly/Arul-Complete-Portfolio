@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023598 | [HTML CSS: Performance Baseline — Recovery for Portfolio Demo](Project_023598/README.md) |
 | 023599 | [HTML CSS: Performance Baseline — Reporting for Portfolio Demo](Project_023599/README.md) |
 | 023600 | [HTML CSS: Performance Baseline — Usability Improvement for Portfolio Demo](Project_023600/README.md) |
+| 023601 | [HTML CSS: Service Check — Baseline Setup for School Lab](Project_023601/README.md) |
+| 023602 | [HTML CSS: Service Check — Automation for School Lab](Project_023602/README.md) |
+| 023603 | [HTML CSS: Service Check — Recovery for School Lab](Project_023603/README.md) |
+| 023604 | [HTML CSS: Service Check — Reporting for School Lab](Project_023604/README.md) |
+| 023605 | [HTML CSS: Service Check — Usability Improvement for School Lab](Project_023605/README.md) |
+| 023606 | [HTML CSS: Service Check — Baseline Setup for Small Business](Project_023606/README.md) |
+| 023607 | [HTML CSS: Service Check — Automation for Small Business](Project_023607/README.md) |
+| 023608 | [HTML CSS: Service Check — Recovery for Small Business](Project_023608/README.md) |
+| 023609 | [HTML CSS: Service Check — Reporting for Small Business](Project_023609/README.md) |
+| 023610 | [HTML CSS: Service Check — Usability Improvement for Small Business](Project_023610/README.md) |
+| 023611 | [HTML CSS: Service Check — Baseline Setup for Home Development](Project_023611/README.md) |
+| 023612 | [HTML CSS: Service Check — Automation for Home Development](Project_023612/README.md) |
+| 023613 | [HTML CSS: Service Check — Recovery for Home Development](Project_023613/README.md) |
+| 023614 | [HTML CSS: Service Check — Reporting for Home Development](Project_023614/README.md) |
+| 023615 | [HTML CSS: Service Check — Usability Improvement for Home Development](Project_023615/README.md) |
+| 023616 | [HTML CSS: Service Check — Baseline Setup for Public Dataset](Project_023616/README.md) |
+| 023617 | [HTML CSS: Service Check — Automation for Public Dataset](Project_023617/README.md) |
+| 023618 | [HTML CSS: Service Check — Recovery for Public Dataset](Project_023618/README.md) |
+| 023619 | [HTML CSS: Service Check — Reporting for Public Dataset](Project_023619/README.md) |
+| 023620 | [HTML CSS: Service Check — Usability Improvement for Public Dataset](Project_023620/README.md) |
 
 [Back to the portfolio home](../README.md)
