@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021158 | [TypeScript: Log Analysis — Recovery for Small Business](Project_021158/README.md) |
 | 021159 | [TypeScript: Log Analysis — Reporting for Small Business](Project_021159/README.md) |
 | 021160 | [TypeScript: Log Analysis — Usability Improvement for Small Business](Project_021160/README.md) |
+| 021161 | [TypeScript: Log Analysis — Baseline Setup for Home Development](Project_021161/README.md) |
+| 021162 | [TypeScript: Log Analysis — Automation for Home Development](Project_021162/README.md) |
+| 021163 | [TypeScript: Log Analysis — Recovery for Home Development](Project_021163/README.md) |
+| 021164 | [TypeScript: Log Analysis — Reporting for Home Development](Project_021164/README.md) |
+| 021165 | [TypeScript: Log Analysis — Usability Improvement for Home Development](Project_021165/README.md) |
+| 021166 | [TypeScript: Log Analysis — Baseline Setup for Public Dataset](Project_021166/README.md) |
+| 021167 | [TypeScript: Log Analysis — Automation for Public Dataset](Project_021167/README.md) |
+| 021168 | [TypeScript: Log Analysis — Recovery for Public Dataset](Project_021168/README.md) |
+| 021169 | [TypeScript: Log Analysis — Reporting for Public Dataset](Project_021169/README.md) |
+| 021170 | [TypeScript: Log Analysis — Usability Improvement for Public Dataset](Project_021170/README.md) |
+| 021171 | [TypeScript: Log Analysis — Baseline Setup for Branch Office Simulator](Project_021171/README.md) |
+| 021172 | [TypeScript: Log Analysis — Automation for Branch Office Simulator](Project_021172/README.md) |
+| 021173 | [TypeScript: Log Analysis — Recovery for Branch Office Simulator](Project_021173/README.md) |
+| 021174 | [TypeScript: Log Analysis — Reporting for Branch Office Simulator](Project_021174/README.md) |
+| 021175 | [TypeScript: Log Analysis — Usability Improvement for Branch Office Simulator](Project_021175/README.md) |
+| 021176 | [TypeScript: Log Analysis — Baseline Setup for Offline Classroom](Project_021176/README.md) |
+| 021177 | [TypeScript: Log Analysis — Automation for Offline Classroom](Project_021177/README.md) |
+| 021178 | [TypeScript: Log Analysis — Recovery for Offline Classroom](Project_021178/README.md) |
+| 021179 | [TypeScript: Log Analysis — Reporting for Offline Classroom](Project_021179/README.md) |
+| 021180 | [TypeScript: Log Analysis — Usability Improvement for Offline Classroom](Project_021180/README.md) |
 
 [Back to the portfolio home](../README.md)
