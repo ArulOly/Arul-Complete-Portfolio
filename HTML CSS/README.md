@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023558 | [HTML CSS: Performance Baseline — Recovery for Small Business](Project_023558/README.md) |
 | 023559 | [HTML CSS: Performance Baseline — Reporting for Small Business](Project_023559/README.md) |
 | 023560 | [HTML CSS: Performance Baseline — Usability Improvement for Small Business](Project_023560/README.md) |
+| 023561 | [HTML CSS: Performance Baseline — Baseline Setup for Home Development](Project_023561/README.md) |
+| 023562 | [HTML CSS: Performance Baseline — Automation for Home Development](Project_023562/README.md) |
+| 023563 | [HTML CSS: Performance Baseline — Recovery for Home Development](Project_023563/README.md) |
+| 023564 | [HTML CSS: Performance Baseline — Reporting for Home Development](Project_023564/README.md) |
+| 023565 | [HTML CSS: Performance Baseline — Usability Improvement for Home Development](Project_023565/README.md) |
+| 023566 | [HTML CSS: Performance Baseline — Baseline Setup for Public Dataset](Project_023566/README.md) |
+| 023567 | [HTML CSS: Performance Baseline — Automation for Public Dataset](Project_023567/README.md) |
+| 023568 | [HTML CSS: Performance Baseline — Recovery for Public Dataset](Project_023568/README.md) |
+| 023569 | [HTML CSS: Performance Baseline — Reporting for Public Dataset](Project_023569/README.md) |
+| 023570 | [HTML CSS: Performance Baseline — Usability Improvement for Public Dataset](Project_023570/README.md) |
+| 023571 | [HTML CSS: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_023571/README.md) |
+| 023572 | [HTML CSS: Performance Baseline — Automation for Branch Office Simulator](Project_023572/README.md) |
+| 023573 | [HTML CSS: Performance Baseline — Recovery for Branch Office Simulator](Project_023573/README.md) |
+| 023574 | [HTML CSS: Performance Baseline — Reporting for Branch Office Simulator](Project_023574/README.md) |
+| 023575 | [HTML CSS: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_023575/README.md) |
+| 023576 | [HTML CSS: Performance Baseline — Baseline Setup for Offline Classroom](Project_023576/README.md) |
+| 023577 | [HTML CSS: Performance Baseline — Automation for Offline Classroom](Project_023577/README.md) |
+| 023578 | [HTML CSS: Performance Baseline — Recovery for Offline Classroom](Project_023578/README.md) |
+| 023579 | [HTML CSS: Performance Baseline — Reporting for Offline Classroom](Project_023579/README.md) |
+| 023580 | [HTML CSS: Performance Baseline — Usability Improvement for Offline Classroom](Project_023580/README.md) |
 
 [Back to the portfolio home](../README.md)
