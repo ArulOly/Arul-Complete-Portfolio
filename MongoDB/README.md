@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027978 | [MongoDB: Recovery Test — Recovery for Offline Classroom](Project_027978/README.md) |
 | 027979 | [MongoDB: Recovery Test — Reporting for Offline Classroom](Project_027979/README.md) |
 | 027980 | [MongoDB: Recovery Test — Usability Improvement for Offline Classroom](Project_027980/README.md) |
+| 027981 | [MongoDB: Recovery Test — Baseline Setup for Single-Host Lab](Project_027981/README.md) |
+| 027982 | [MongoDB: Recovery Test — Automation for Single-Host Lab](Project_027982/README.md) |
+| 027983 | [MongoDB: Recovery Test — Recovery for Single-Host Lab](Project_027983/README.md) |
+| 027984 | [MongoDB: Recovery Test — Reporting for Single-Host Lab](Project_027984/README.md) |
+| 027985 | [MongoDB: Recovery Test — Usability Improvement for Single-Host Lab](Project_027985/README.md) |
+| 027986 | [MongoDB: Recovery Test — Baseline Setup for Two-Node Lab](Project_027986/README.md) |
+| 027987 | [MongoDB: Recovery Test — Automation for Two-Node Lab](Project_027987/README.md) |
+| 027988 | [MongoDB: Recovery Test — Recovery for Two-Node Lab](Project_027988/README.md) |
+| 027989 | [MongoDB: Recovery Test — Reporting for Two-Node Lab](Project_027989/README.md) |
+| 027990 | [MongoDB: Recovery Test — Usability Improvement for Two-Node Lab](Project_027990/README.md) |
+| 027991 | [MongoDB: Recovery Test — Baseline Setup for Help Desk](Project_027991/README.md) |
+| 027992 | [MongoDB: Recovery Test — Automation for Help Desk](Project_027992/README.md) |
+| 027993 | [MongoDB: Recovery Test — Recovery for Help Desk](Project_027993/README.md) |
+| 027994 | [MongoDB: Recovery Test — Reporting for Help Desk](Project_027994/README.md) |
+| 027995 | [MongoDB: Recovery Test — Usability Improvement for Help Desk](Project_027995/README.md) |
+| 027996 | [MongoDB: Recovery Test — Baseline Setup for Portfolio Demo](Project_027996/README.md) |
+| 027997 | [MongoDB: Recovery Test — Automation for Portfolio Demo](Project_027997/README.md) |
+| 027998 | [MongoDB: Recovery Test — Recovery for Portfolio Demo](Project_027998/README.md) |
+| 027999 | [MongoDB: Recovery Test — Reporting for Portfolio Demo](Project_027999/README.md) |
+| 028000 | [MongoDB: Recovery Test — Usability Improvement for Portfolio Demo](Project_028000/README.md) |
 
 [Back to the portfolio home](../README.md)
