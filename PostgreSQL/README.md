@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025738 | [PostgreSQL: Error Handling — Recovery for Two-Node Lab](Project_025738/README.md) |
 | 025739 | [PostgreSQL: Error Handling — Reporting for Two-Node Lab](Project_025739/README.md) |
 | 025740 | [PostgreSQL: Error Handling — Usability Improvement for Two-Node Lab](Project_025740/README.md) |
+| 025741 | [PostgreSQL: Error Handling — Baseline Setup for Help Desk](Project_025741/README.md) |
+| 025742 | [PostgreSQL: Error Handling — Automation for Help Desk](Project_025742/README.md) |
+| 025743 | [PostgreSQL: Error Handling — Recovery for Help Desk](Project_025743/README.md) |
+| 025744 | [PostgreSQL: Error Handling — Reporting for Help Desk](Project_025744/README.md) |
+| 025745 | [PostgreSQL: Error Handling — Usability Improvement for Help Desk](Project_025745/README.md) |
+| 025746 | [PostgreSQL: Error Handling — Baseline Setup for Portfolio Demo](Project_025746/README.md) |
+| 025747 | [PostgreSQL: Error Handling — Automation for Portfolio Demo](Project_025747/README.md) |
+| 025748 | [PostgreSQL: Error Handling — Recovery for Portfolio Demo](Project_025748/README.md) |
+| 025749 | [PostgreSQL: Error Handling — Reporting for Portfolio Demo](Project_025749/README.md) |
+| 025750 | [PostgreSQL: Error Handling — Usability Improvement for Portfolio Demo](Project_025750/README.md) |
+| 025751 | [PostgreSQL: Data Validation — Baseline Setup for School Lab](Project_025751/README.md) |
+| 025752 | [PostgreSQL: Data Validation — Automation for School Lab](Project_025752/README.md) |
+| 025753 | [PostgreSQL: Data Validation — Recovery for School Lab](Project_025753/README.md) |
+| 025754 | [PostgreSQL: Data Validation — Reporting for School Lab](Project_025754/README.md) |
+| 025755 | [PostgreSQL: Data Validation — Usability Improvement for School Lab](Project_025755/README.md) |
+| 025756 | [PostgreSQL: Data Validation — Baseline Setup for Small Business](Project_025756/README.md) |
+| 025757 | [PostgreSQL: Data Validation — Automation for Small Business](Project_025757/README.md) |
+| 025758 | [PostgreSQL: Data Validation — Recovery for Small Business](Project_025758/README.md) |
+| 025759 | [PostgreSQL: Data Validation — Reporting for Small Business](Project_025759/README.md) |
+| 025760 | [PostgreSQL: Data Validation — Usability Improvement for Small Business](Project_025760/README.md) |
 
 [Back to the portfolio home](../README.md)
