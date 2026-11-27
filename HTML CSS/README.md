@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023918 | [HTML CSS: Visual Reporting — Recovery for Public Dataset](Project_023918/README.md) |
 | 023919 | [HTML CSS: Visual Reporting — Reporting for Public Dataset](Project_023919/README.md) |
 | 023920 | [HTML CSS: Visual Reporting — Usability Improvement for Public Dataset](Project_023920/README.md) |
+| 023921 | [HTML CSS: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_023921/README.md) |
+| 023922 | [HTML CSS: Visual Reporting — Automation for Branch Office Simulator](Project_023922/README.md) |
+| 023923 | [HTML CSS: Visual Reporting — Recovery for Branch Office Simulator](Project_023923/README.md) |
+| 023924 | [HTML CSS: Visual Reporting — Reporting for Branch Office Simulator](Project_023924/README.md) |
+| 023925 | [HTML CSS: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_023925/README.md) |
+| 023926 | [HTML CSS: Visual Reporting — Baseline Setup for Offline Classroom](Project_023926/README.md) |
+| 023927 | [HTML CSS: Visual Reporting — Automation for Offline Classroom](Project_023927/README.md) |
+| 023928 | [HTML CSS: Visual Reporting — Recovery for Offline Classroom](Project_023928/README.md) |
+| 023929 | [HTML CSS: Visual Reporting — Reporting for Offline Classroom](Project_023929/README.md) |
+| 023930 | [HTML CSS: Visual Reporting — Usability Improvement for Offline Classroom](Project_023930/README.md) |
+| 023931 | [HTML CSS: Visual Reporting — Baseline Setup for Single-Host Lab](Project_023931/README.md) |
+| 023932 | [HTML CSS: Visual Reporting — Automation for Single-Host Lab](Project_023932/README.md) |
+| 023933 | [HTML CSS: Visual Reporting — Recovery for Single-Host Lab](Project_023933/README.md) |
+| 023934 | [HTML CSS: Visual Reporting — Reporting for Single-Host Lab](Project_023934/README.md) |
+| 023935 | [HTML CSS: Visual Reporting — Usability Improvement for Single-Host Lab](Project_023935/README.md) |
+| 023936 | [HTML CSS: Visual Reporting — Baseline Setup for Two-Node Lab](Project_023936/README.md) |
+| 023937 | [HTML CSS: Visual Reporting — Automation for Two-Node Lab](Project_023937/README.md) |
+| 023938 | [HTML CSS: Visual Reporting — Recovery for Two-Node Lab](Project_023938/README.md) |
+| 023939 | [HTML CSS: Visual Reporting — Reporting for Two-Node Lab](Project_023939/README.md) |
+| 023940 | [HTML CSS: Visual Reporting — Usability Improvement for Two-Node Lab](Project_023940/README.md) |
 
 [Back to the portfolio home](../README.md)
