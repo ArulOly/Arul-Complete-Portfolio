@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002698 | [Ubuntu: Configuration Comparison — Recovery for Portfolio Demo](Project_002698/README.md) |
 | 002699 | [Ubuntu: Configuration Comparison — Reporting for Portfolio Demo](Project_002699/README.md) |
 | 002700 | [Ubuntu: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_002700/README.md) |
+| 002701 | [Ubuntu: Error Handling — Baseline Setup for School Lab](Project_002701/README.md) |
+| 002702 | [Ubuntu: Error Handling — Automation for School Lab](Project_002702/README.md) |
+| 002703 | [Ubuntu: Error Handling — Recovery for School Lab](Project_002703/README.md) |
+| 002704 | [Ubuntu: Error Handling — Reporting for School Lab](Project_002704/README.md) |
+| 002705 | [Ubuntu: Error Handling — Usability Improvement for School Lab](Project_002705/README.md) |
+| 002706 | [Ubuntu: Error Handling — Baseline Setup for Small Business](Project_002706/README.md) |
+| 002707 | [Ubuntu: Error Handling — Automation for Small Business](Project_002707/README.md) |
+| 002708 | [Ubuntu: Error Handling — Recovery for Small Business](Project_002708/README.md) |
+| 002709 | [Ubuntu: Error Handling — Reporting for Small Business](Project_002709/README.md) |
+| 002710 | [Ubuntu: Error Handling — Usability Improvement for Small Business](Project_002710/README.md) |
+| 002711 | [Ubuntu: Error Handling — Baseline Setup for Home Development](Project_002711/README.md) |
+| 002712 | [Ubuntu: Error Handling — Automation for Home Development](Project_002712/README.md) |
+| 002713 | [Ubuntu: Error Handling — Recovery for Home Development](Project_002713/README.md) |
+| 002714 | [Ubuntu: Error Handling — Reporting for Home Development](Project_002714/README.md) |
+| 002715 | [Ubuntu: Error Handling — Usability Improvement for Home Development](Project_002715/README.md) |
+| 002716 | [Ubuntu: Error Handling — Baseline Setup for Public Dataset](Project_002716/README.md) |
+| 002717 | [Ubuntu: Error Handling — Automation for Public Dataset](Project_002717/README.md) |
+| 002718 | [Ubuntu: Error Handling — Recovery for Public Dataset](Project_002718/README.md) |
+| 002719 | [Ubuntu: Error Handling — Reporting for Public Dataset](Project_002719/README.md) |
+| 002720 | [Ubuntu: Error Handling — Usability Improvement for Public Dataset](Project_002720/README.md) |
 
 [Back to the portfolio home](../README.md)
