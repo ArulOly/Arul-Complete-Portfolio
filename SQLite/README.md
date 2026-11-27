@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028398 | [SQLite: Dashboard — Recovery for Portfolio Demo](Project_028398/README.md) |
 | 028399 | [SQLite: Dashboard — Reporting for Portfolio Demo](Project_028399/README.md) |
 | 028400 | [SQLite: Dashboard — Usability Improvement for Portfolio Demo](Project_028400/README.md) |
+| 028401 | [SQLite: Alerting — Baseline Setup for School Lab](Project_028401/README.md) |
+| 028402 | [SQLite: Alerting — Automation for School Lab](Project_028402/README.md) |
+| 028403 | [SQLite: Alerting — Recovery for School Lab](Project_028403/README.md) |
+| 028404 | [SQLite: Alerting — Reporting for School Lab](Project_028404/README.md) |
+| 028405 | [SQLite: Alerting — Usability Improvement for School Lab](Project_028405/README.md) |
+| 028406 | [SQLite: Alerting — Baseline Setup for Small Business](Project_028406/README.md) |
+| 028407 | [SQLite: Alerting — Automation for Small Business](Project_028407/README.md) |
+| 028408 | [SQLite: Alerting — Recovery for Small Business](Project_028408/README.md) |
+| 028409 | [SQLite: Alerting — Reporting for Small Business](Project_028409/README.md) |
+| 028410 | [SQLite: Alerting — Usability Improvement for Small Business](Project_028410/README.md) |
+| 028411 | [SQLite: Alerting — Baseline Setup for Home Development](Project_028411/README.md) |
+| 028412 | [SQLite: Alerting — Automation for Home Development](Project_028412/README.md) |
+| 028413 | [SQLite: Alerting — Recovery for Home Development](Project_028413/README.md) |
+| 028414 | [SQLite: Alerting — Reporting for Home Development](Project_028414/README.md) |
+| 028415 | [SQLite: Alerting — Usability Improvement for Home Development](Project_028415/README.md) |
+| 028416 | [SQLite: Alerting — Baseline Setup for Public Dataset](Project_028416/README.md) |
+| 028417 | [SQLite: Alerting — Automation for Public Dataset](Project_028417/README.md) |
+| 028418 | [SQLite: Alerting — Recovery for Public Dataset](Project_028418/README.md) |
+| 028419 | [SQLite: Alerting — Reporting for Public Dataset](Project_028419/README.md) |
+| 028420 | [SQLite: Alerting — Usability Improvement for Public Dataset](Project_028420/README.md) |
 
 [Back to the portfolio home](../README.md)
