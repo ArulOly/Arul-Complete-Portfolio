@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020458 | [JavaScript: Scheduled Reporting — Recovery for Small Business](Project_020458/README.md) |
 | 020459 | [JavaScript: Scheduled Reporting — Reporting for Small Business](Project_020459/README.md) |
 | 020460 | [JavaScript: Scheduled Reporting — Usability Improvement for Small Business](Project_020460/README.md) |
+| 020461 | [JavaScript: Scheduled Reporting — Baseline Setup for Home Development](Project_020461/README.md) |
+| 020462 | [JavaScript: Scheduled Reporting — Automation for Home Development](Project_020462/README.md) |
+| 020463 | [JavaScript: Scheduled Reporting — Recovery for Home Development](Project_020463/README.md) |
+| 020464 | [JavaScript: Scheduled Reporting — Reporting for Home Development](Project_020464/README.md) |
+| 020465 | [JavaScript: Scheduled Reporting — Usability Improvement for Home Development](Project_020465/README.md) |
+| 020466 | [JavaScript: Scheduled Reporting — Baseline Setup for Public Dataset](Project_020466/README.md) |
+| 020467 | [JavaScript: Scheduled Reporting — Automation for Public Dataset](Project_020467/README.md) |
+| 020468 | [JavaScript: Scheduled Reporting — Recovery for Public Dataset](Project_020468/README.md) |
+| 020469 | [JavaScript: Scheduled Reporting — Reporting for Public Dataset](Project_020469/README.md) |
+| 020470 | [JavaScript: Scheduled Reporting — Usability Improvement for Public Dataset](Project_020470/README.md) |
+| 020471 | [JavaScript: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_020471/README.md) |
+| 020472 | [JavaScript: Scheduled Reporting — Automation for Branch Office Simulator](Project_020472/README.md) |
+| 020473 | [JavaScript: Scheduled Reporting — Recovery for Branch Office Simulator](Project_020473/README.md) |
+| 020474 | [JavaScript: Scheduled Reporting — Reporting for Branch Office Simulator](Project_020474/README.md) |
+| 020475 | [JavaScript: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_020475/README.md) |
+| 020476 | [JavaScript: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_020476/README.md) |
+| 020477 | [JavaScript: Scheduled Reporting — Automation for Offline Classroom](Project_020477/README.md) |
+| 020478 | [JavaScript: Scheduled Reporting — Recovery for Offline Classroom](Project_020478/README.md) |
+| 020479 | [JavaScript: Scheduled Reporting — Reporting for Offline Classroom](Project_020479/README.md) |
+| 020480 | [JavaScript: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_020480/README.md) |
 
 [Back to the portfolio home](../README.md)
