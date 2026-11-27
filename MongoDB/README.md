@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027618 | [MongoDB: Service Check — Recovery for Public Dataset](Project_027618/README.md) |
 | 027619 | [MongoDB: Service Check — Reporting for Public Dataset](Project_027619/README.md) |
 | 027620 | [MongoDB: Service Check — Usability Improvement for Public Dataset](Project_027620/README.md) |
+| 027621 | [MongoDB: Service Check — Baseline Setup for Branch Office Simulator](Project_027621/README.md) |
+| 027622 | [MongoDB: Service Check — Automation for Branch Office Simulator](Project_027622/README.md) |
+| 027623 | [MongoDB: Service Check — Recovery for Branch Office Simulator](Project_027623/README.md) |
+| 027624 | [MongoDB: Service Check — Reporting for Branch Office Simulator](Project_027624/README.md) |
+| 027625 | [MongoDB: Service Check — Usability Improvement for Branch Office Simulator](Project_027625/README.md) |
+| 027626 | [MongoDB: Service Check — Baseline Setup for Offline Classroom](Project_027626/README.md) |
+| 027627 | [MongoDB: Service Check — Automation for Offline Classroom](Project_027627/README.md) |
+| 027628 | [MongoDB: Service Check — Recovery for Offline Classroom](Project_027628/README.md) |
+| 027629 | [MongoDB: Service Check — Reporting for Offline Classroom](Project_027629/README.md) |
+| 027630 | [MongoDB: Service Check — Usability Improvement for Offline Classroom](Project_027630/README.md) |
+| 027631 | [MongoDB: Service Check — Baseline Setup for Single-Host Lab](Project_027631/README.md) |
+| 027632 | [MongoDB: Service Check — Automation for Single-Host Lab](Project_027632/README.md) |
+| 027633 | [MongoDB: Service Check — Recovery for Single-Host Lab](Project_027633/README.md) |
+| 027634 | [MongoDB: Service Check — Reporting for Single-Host Lab](Project_027634/README.md) |
+| 027635 | [MongoDB: Service Check — Usability Improvement for Single-Host Lab](Project_027635/README.md) |
+| 027636 | [MongoDB: Service Check — Baseline Setup for Two-Node Lab](Project_027636/README.md) |
+| 027637 | [MongoDB: Service Check — Automation for Two-Node Lab](Project_027637/README.md) |
+| 027638 | [MongoDB: Service Check — Recovery for Two-Node Lab](Project_027638/README.md) |
+| 027639 | [MongoDB: Service Check — Reporting for Two-Node Lab](Project_027639/README.md) |
+| 027640 | [MongoDB: Service Check — Usability Improvement for Two-Node Lab](Project_027640/README.md) |
 
 [Back to the portfolio home](../README.md)
