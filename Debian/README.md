@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003178 | [Debian: Log Analysis — Recovery for Offline Classroom](Project_003178/README.md) |
 | 003179 | [Debian: Log Analysis — Reporting for Offline Classroom](Project_003179/README.md) |
 | 003180 | [Debian: Log Analysis — Usability Improvement for Offline Classroom](Project_003180/README.md) |
+| 003181 | [Debian: Log Analysis — Baseline Setup for Single-Host Lab](Project_003181/README.md) |
+| 003182 | [Debian: Log Analysis — Automation for Single-Host Lab](Project_003182/README.md) |
+| 003183 | [Debian: Log Analysis — Recovery for Single-Host Lab](Project_003183/README.md) |
+| 003184 | [Debian: Log Analysis — Reporting for Single-Host Lab](Project_003184/README.md) |
+| 003185 | [Debian: Log Analysis — Usability Improvement for Single-Host Lab](Project_003185/README.md) |
+| 003186 | [Debian: Log Analysis — Baseline Setup for Two-Node Lab](Project_003186/README.md) |
+| 003187 | [Debian: Log Analysis — Automation for Two-Node Lab](Project_003187/README.md) |
+| 003188 | [Debian: Log Analysis — Recovery for Two-Node Lab](Project_003188/README.md) |
+| 003189 | [Debian: Log Analysis — Reporting for Two-Node Lab](Project_003189/README.md) |
+| 003190 | [Debian: Log Analysis — Usability Improvement for Two-Node Lab](Project_003190/README.md) |
+| 003191 | [Debian: Log Analysis — Baseline Setup for Help Desk](Project_003191/README.md) |
+| 003192 | [Debian: Log Analysis — Automation for Help Desk](Project_003192/README.md) |
+| 003193 | [Debian: Log Analysis — Recovery for Help Desk](Project_003193/README.md) |
+| 003194 | [Debian: Log Analysis — Reporting for Help Desk](Project_003194/README.md) |
+| 003195 | [Debian: Log Analysis — Usability Improvement for Help Desk](Project_003195/README.md) |
+| 003196 | [Debian: Log Analysis — Baseline Setup for Portfolio Demo](Project_003196/README.md) |
+| 003197 | [Debian: Log Analysis — Automation for Portfolio Demo](Project_003197/README.md) |
+| 003198 | [Debian: Log Analysis — Recovery for Portfolio Demo](Project_003198/README.md) |
+| 003199 | [Debian: Log Analysis — Reporting for Portfolio Demo](Project_003199/README.md) |
+| 003200 | [Debian: Log Analysis — Usability Improvement for Portfolio Demo](Project_003200/README.md) |
 
 [Back to the portfolio home](../README.md)
