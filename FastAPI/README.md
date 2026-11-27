@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049338 | [FastAPI: Data Export — Recovery for Two-Node Lab](Project_049338/README.md) |
 | 049339 | [FastAPI: Data Export — Reporting for Two-Node Lab](Project_049339/README.md) |
 | 049340 | [FastAPI: Data Export — Usability Improvement for Two-Node Lab](Project_049340/README.md) |
+| 049341 | [FastAPI: Data Export — Baseline Setup for Help Desk](Project_049341/README.md) |
+| 049342 | [FastAPI: Data Export — Automation for Help Desk](Project_049342/README.md) |
+| 049343 | [FastAPI: Data Export — Recovery for Help Desk](Project_049343/README.md) |
+| 049344 | [FastAPI: Data Export — Reporting for Help Desk](Project_049344/README.md) |
+| 049345 | [FastAPI: Data Export — Usability Improvement for Help Desk](Project_049345/README.md) |
+| 049346 | [FastAPI: Data Export — Baseline Setup for Portfolio Demo](Project_049346/README.md) |
+| 049347 | [FastAPI: Data Export — Automation for Portfolio Demo](Project_049347/README.md) |
+| 049348 | [FastAPI: Data Export — Recovery for Portfolio Demo](Project_049348/README.md) |
+| 049349 | [FastAPI: Data Export — Reporting for Portfolio Demo](Project_049349/README.md) |
+| 049350 | [FastAPI: Data Export — Usability Improvement for Portfolio Demo](Project_049350/README.md) |
+| 049351 | [FastAPI: Dashboard — Baseline Setup for School Lab](Project_049351/README.md) |
+| 049352 | [FastAPI: Dashboard — Automation for School Lab](Project_049352/README.md) |
+| 049353 | [FastAPI: Dashboard — Recovery for School Lab](Project_049353/README.md) |
+| 049354 | [FastAPI: Dashboard — Reporting for School Lab](Project_049354/README.md) |
+| 049355 | [FastAPI: Dashboard — Usability Improvement for School Lab](Project_049355/README.md) |
+| 049356 | [FastAPI: Dashboard — Baseline Setup for Small Business](Project_049356/README.md) |
+| 049357 | [FastAPI: Dashboard — Automation for Small Business](Project_049357/README.md) |
+| 049358 | [FastAPI: Dashboard — Recovery for Small Business](Project_049358/README.md) |
+| 049359 | [FastAPI: Dashboard — Reporting for Small Business](Project_049359/README.md) |
+| 049360 | [FastAPI: Dashboard — Usability Improvement for Small Business](Project_049360/README.md) |
 
 [Back to the portfolio home](../README.md)
