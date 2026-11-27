@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022058 | [Java: Monitoring — Recovery for Small Business](Project_022058/README.md) |
 | 022059 | [Java: Monitoring — Reporting for Small Business](Project_022059/README.md) |
 | 022060 | [Java: Monitoring — Usability Improvement for Small Business](Project_022060/README.md) |
+| 022061 | [Java: Monitoring — Baseline Setup for Home Development](Project_022061/README.md) |
+| 022062 | [Java: Monitoring — Automation for Home Development](Project_022062/README.md) |
+| 022063 | [Java: Monitoring — Recovery for Home Development](Project_022063/README.md) |
+| 022064 | [Java: Monitoring — Reporting for Home Development](Project_022064/README.md) |
+| 022065 | [Java: Monitoring — Usability Improvement for Home Development](Project_022065/README.md) |
+| 022066 | [Java: Monitoring — Baseline Setup for Public Dataset](Project_022066/README.md) |
+| 022067 | [Java: Monitoring — Automation for Public Dataset](Project_022067/README.md) |
+| 022068 | [Java: Monitoring — Recovery for Public Dataset](Project_022068/README.md) |
+| 022069 | [Java: Monitoring — Reporting for Public Dataset](Project_022069/README.md) |
+| 022070 | [Java: Monitoring — Usability Improvement for Public Dataset](Project_022070/README.md) |
+| 022071 | [Java: Monitoring — Baseline Setup for Branch Office Simulator](Project_022071/README.md) |
+| 022072 | [Java: Monitoring — Automation for Branch Office Simulator](Project_022072/README.md) |
+| 022073 | [Java: Monitoring — Recovery for Branch Office Simulator](Project_022073/README.md) |
+| 022074 | [Java: Monitoring — Reporting for Branch Office Simulator](Project_022074/README.md) |
+| 022075 | [Java: Monitoring — Usability Improvement for Branch Office Simulator](Project_022075/README.md) |
+| 022076 | [Java: Monitoring — Baseline Setup for Offline Classroom](Project_022076/README.md) |
+| 022077 | [Java: Monitoring — Automation for Offline Classroom](Project_022077/README.md) |
+| 022078 | [Java: Monitoring — Recovery for Offline Classroom](Project_022078/README.md) |
+| 022079 | [Java: Monitoring — Reporting for Offline Classroom](Project_022079/README.md) |
+| 022080 | [Java: Monitoring — Usability Improvement for Offline Classroom](Project_022080/README.md) |
 
 [Back to the portfolio home](../README.md)
