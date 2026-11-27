@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023638 | [HTML CSS: Service Check — Recovery for Two-Node Lab](Project_023638/README.md) |
 | 023639 | [HTML CSS: Service Check — Reporting for Two-Node Lab](Project_023639/README.md) |
 | 023640 | [HTML CSS: Service Check — Usability Improvement for Two-Node Lab](Project_023640/README.md) |
+| 023641 | [HTML CSS: Service Check — Baseline Setup for Help Desk](Project_023641/README.md) |
+| 023642 | [HTML CSS: Service Check — Automation for Help Desk](Project_023642/README.md) |
+| 023643 | [HTML CSS: Service Check — Recovery for Help Desk](Project_023643/README.md) |
+| 023644 | [HTML CSS: Service Check — Reporting for Help Desk](Project_023644/README.md) |
+| 023645 | [HTML CSS: Service Check — Usability Improvement for Help Desk](Project_023645/README.md) |
+| 023646 | [HTML CSS: Service Check — Baseline Setup for Portfolio Demo](Project_023646/README.md) |
+| 023647 | [HTML CSS: Service Check — Automation for Portfolio Demo](Project_023647/README.md) |
+| 023648 | [HTML CSS: Service Check — Recovery for Portfolio Demo](Project_023648/README.md) |
+| 023649 | [HTML CSS: Service Check — Reporting for Portfolio Demo](Project_023649/README.md) |
+| 023650 | [HTML CSS: Service Check — Usability Improvement for Portfolio Demo](Project_023650/README.md) |
+| 023651 | [HTML CSS: Configuration Comparison — Baseline Setup for School Lab](Project_023651/README.md) |
+| 023652 | [HTML CSS: Configuration Comparison — Automation for School Lab](Project_023652/README.md) |
+| 023653 | [HTML CSS: Configuration Comparison — Recovery for School Lab](Project_023653/README.md) |
+| 023654 | [HTML CSS: Configuration Comparison — Reporting for School Lab](Project_023654/README.md) |
+| 023655 | [HTML CSS: Configuration Comparison — Usability Improvement for School Lab](Project_023655/README.md) |
+| 023656 | [HTML CSS: Configuration Comparison — Baseline Setup for Small Business](Project_023656/README.md) |
+| 023657 | [HTML CSS: Configuration Comparison — Automation for Small Business](Project_023657/README.md) |
+| 023658 | [HTML CSS: Configuration Comparison — Recovery for Small Business](Project_023658/README.md) |
+| 023659 | [HTML CSS: Configuration Comparison — Reporting for Small Business](Project_023659/README.md) |
+| 023660 | [HTML CSS: Configuration Comparison — Usability Improvement for Small Business](Project_023660/README.md) |
 
 [Back to the portfolio home](../README.md)
