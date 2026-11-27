@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049578 | [FastAPI: Performance Baseline — Recovery for Offline Classroom](Project_049578/README.md) |
 | 049579 | [FastAPI: Performance Baseline — Reporting for Offline Classroom](Project_049579/README.md) |
 | 049580 | [FastAPI: Performance Baseline — Usability Improvement for Offline Classroom](Project_049580/README.md) |
+| 049581 | [FastAPI: Performance Baseline — Baseline Setup for Single-Host Lab](Project_049581/README.md) |
+| 049582 | [FastAPI: Performance Baseline — Automation for Single-Host Lab](Project_049582/README.md) |
+| 049583 | [FastAPI: Performance Baseline — Recovery for Single-Host Lab](Project_049583/README.md) |
+| 049584 | [FastAPI: Performance Baseline — Reporting for Single-Host Lab](Project_049584/README.md) |
+| 049585 | [FastAPI: Performance Baseline — Usability Improvement for Single-Host Lab](Project_049585/README.md) |
+| 049586 | [FastAPI: Performance Baseline — Baseline Setup for Two-Node Lab](Project_049586/README.md) |
+| 049587 | [FastAPI: Performance Baseline — Automation for Two-Node Lab](Project_049587/README.md) |
+| 049588 | [FastAPI: Performance Baseline — Recovery for Two-Node Lab](Project_049588/README.md) |
+| 049589 | [FastAPI: Performance Baseline — Reporting for Two-Node Lab](Project_049589/README.md) |
+| 049590 | [FastAPI: Performance Baseline — Usability Improvement for Two-Node Lab](Project_049590/README.md) |
+| 049591 | [FastAPI: Performance Baseline — Baseline Setup for Help Desk](Project_049591/README.md) |
+| 049592 | [FastAPI: Performance Baseline — Automation for Help Desk](Project_049592/README.md) |
+| 049593 | [FastAPI: Performance Baseline — Recovery for Help Desk](Project_049593/README.md) |
+| 049594 | [FastAPI: Performance Baseline — Reporting for Help Desk](Project_049594/README.md) |
+| 049595 | [FastAPI: Performance Baseline — Usability Improvement for Help Desk](Project_049595/README.md) |
+| 049596 | [FastAPI: Performance Baseline — Baseline Setup for Portfolio Demo](Project_049596/README.md) |
+| 049597 | [FastAPI: Performance Baseline — Automation for Portfolio Demo](Project_049597/README.md) |
+| 049598 | [FastAPI: Performance Baseline — Recovery for Portfolio Demo](Project_049598/README.md) |
+| 049599 | [FastAPI: Performance Baseline — Reporting for Portfolio Demo](Project_049599/README.md) |
+| 049600 | [FastAPI: Performance Baseline — Usability Improvement for Portfolio Demo](Project_049600/README.md) |
 
 [Back to the portfolio home](../README.md)
