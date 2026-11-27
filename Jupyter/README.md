@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033598 | [Jupyter: Performance Baseline — Recovery for Portfolio Demo](Project_033598/README.md) |
 | 033599 | [Jupyter: Performance Baseline — Reporting for Portfolio Demo](Project_033599/README.md) |
 | 033600 | [Jupyter: Performance Baseline — Usability Improvement for Portfolio Demo](Project_033600/README.md) |
+| 033601 | [Jupyter: Service Check — Baseline Setup for School Lab](Project_033601/README.md) |
+| 033602 | [Jupyter: Service Check — Automation for School Lab](Project_033602/README.md) |
+| 033603 | [Jupyter: Service Check — Recovery for School Lab](Project_033603/README.md) |
+| 033604 | [Jupyter: Service Check — Reporting for School Lab](Project_033604/README.md) |
+| 033605 | [Jupyter: Service Check — Usability Improvement for School Lab](Project_033605/README.md) |
+| 033606 | [Jupyter: Service Check — Baseline Setup for Small Business](Project_033606/README.md) |
+| 033607 | [Jupyter: Service Check — Automation for Small Business](Project_033607/README.md) |
+| 033608 | [Jupyter: Service Check — Recovery for Small Business](Project_033608/README.md) |
+| 033609 | [Jupyter: Service Check — Reporting for Small Business](Project_033609/README.md) |
+| 033610 | [Jupyter: Service Check — Usability Improvement for Small Business](Project_033610/README.md) |
+| 033611 | [Jupyter: Service Check — Baseline Setup for Home Development](Project_033611/README.md) |
+| 033612 | [Jupyter: Service Check — Automation for Home Development](Project_033612/README.md) |
+| 033613 | [Jupyter: Service Check — Recovery for Home Development](Project_033613/README.md) |
+| 033614 | [Jupyter: Service Check — Reporting for Home Development](Project_033614/README.md) |
+| 033615 | [Jupyter: Service Check — Usability Improvement for Home Development](Project_033615/README.md) |
+| 033616 | [Jupyter: Service Check — Baseline Setup for Public Dataset](Project_033616/README.md) |
+| 033617 | [Jupyter: Service Check — Automation for Public Dataset](Project_033617/README.md) |
+| 033618 | [Jupyter: Service Check — Recovery for Public Dataset](Project_033618/README.md) |
+| 033619 | [Jupyter: Service Check — Reporting for Public Dataset](Project_033619/README.md) |
+| 033620 | [Jupyter: Service Check — Usability Improvement for Public Dataset](Project_033620/README.md) |
 
 [Back to the portfolio home](../README.md)
