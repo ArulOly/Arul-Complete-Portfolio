@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032038 | [Power BI: Inventory — Recovery for Two-Node Lab](Project_032038/README.md) |
 | 032039 | [Power BI: Inventory — Reporting for Two-Node Lab](Project_032039/README.md) |
 | 032040 | [Power BI: Inventory — Usability Improvement for Two-Node Lab](Project_032040/README.md) |
+| 032041 | [Power BI: Inventory — Baseline Setup for Help Desk](Project_032041/README.md) |
+| 032042 | [Power BI: Inventory — Automation for Help Desk](Project_032042/README.md) |
+| 032043 | [Power BI: Inventory — Recovery for Help Desk](Project_032043/README.md) |
+| 032044 | [Power BI: Inventory — Reporting for Help Desk](Project_032044/README.md) |
+| 032045 | [Power BI: Inventory — Usability Improvement for Help Desk](Project_032045/README.md) |
+| 032046 | [Power BI: Inventory — Baseline Setup for Portfolio Demo](Project_032046/README.md) |
+| 032047 | [Power BI: Inventory — Automation for Portfolio Demo](Project_032047/README.md) |
+| 032048 | [Power BI: Inventory — Recovery for Portfolio Demo](Project_032048/README.md) |
+| 032049 | [Power BI: Inventory — Reporting for Portfolio Demo](Project_032049/README.md) |
+| 032050 | [Power BI: Inventory — Usability Improvement for Portfolio Demo](Project_032050/README.md) |
+| 032051 | [Power BI: Monitoring — Baseline Setup for School Lab](Project_032051/README.md) |
+| 032052 | [Power BI: Monitoring — Automation for School Lab](Project_032052/README.md) |
+| 032053 | [Power BI: Monitoring — Recovery for School Lab](Project_032053/README.md) |
+| 032054 | [Power BI: Monitoring — Reporting for School Lab](Project_032054/README.md) |
+| 032055 | [Power BI: Monitoring — Usability Improvement for School Lab](Project_032055/README.md) |
+| 032056 | [Power BI: Monitoring — Baseline Setup for Small Business](Project_032056/README.md) |
+| 032057 | [Power BI: Monitoring — Automation for Small Business](Project_032057/README.md) |
+| 032058 | [Power BI: Monitoring — Recovery for Small Business](Project_032058/README.md) |
+| 032059 | [Power BI: Monitoring — Reporting for Small Business](Project_032059/README.md) |
+| 032060 | [Power BI: Monitoring — Usability Improvement for Small Business](Project_032060/README.md) |
 
 [Back to the portfolio home](../README.md)
