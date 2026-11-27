@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026938 | [MySQL: Visual Reporting — Recovery for Two-Node Lab](Project_026938/README.md) |
 | 026939 | [MySQL: Visual Reporting — Reporting for Two-Node Lab](Project_026939/README.md) |
 | 026940 | [MySQL: Visual Reporting — Usability Improvement for Two-Node Lab](Project_026940/README.md) |
+| 026941 | [MySQL: Visual Reporting — Baseline Setup for Help Desk](Project_026941/README.md) |
+| 026942 | [MySQL: Visual Reporting — Automation for Help Desk](Project_026942/README.md) |
+| 026943 | [MySQL: Visual Reporting — Recovery for Help Desk](Project_026943/README.md) |
+| 026944 | [MySQL: Visual Reporting — Reporting for Help Desk](Project_026944/README.md) |
+| 026945 | [MySQL: Visual Reporting — Usability Improvement for Help Desk](Project_026945/README.md) |
+| 026946 | [MySQL: Visual Reporting — Baseline Setup for Portfolio Demo](Project_026946/README.md) |
+| 026947 | [MySQL: Visual Reporting — Automation for Portfolio Demo](Project_026947/README.md) |
+| 026948 | [MySQL: Visual Reporting — Recovery for Portfolio Demo](Project_026948/README.md) |
+| 026949 | [MySQL: Visual Reporting — Reporting for Portfolio Demo](Project_026949/README.md) |
+| 026950 | [MySQL: Visual Reporting — Usability Improvement for Portfolio Demo](Project_026950/README.md) |
+| 026951 | [MySQL: Recovery Test — Baseline Setup for School Lab](Project_026951/README.md) |
+| 026952 | [MySQL: Recovery Test — Automation for School Lab](Project_026952/README.md) |
+| 026953 | [MySQL: Recovery Test — Recovery for School Lab](Project_026953/README.md) |
+| 026954 | [MySQL: Recovery Test — Reporting for School Lab](Project_026954/README.md) |
+| 026955 | [MySQL: Recovery Test — Usability Improvement for School Lab](Project_026955/README.md) |
+| 026956 | [MySQL: Recovery Test — Baseline Setup for Small Business](Project_026956/README.md) |
+| 026957 | [MySQL: Recovery Test — Automation for Small Business](Project_026957/README.md) |
+| 026958 | [MySQL: Recovery Test — Recovery for Small Business](Project_026958/README.md) |
+| 026959 | [MySQL: Recovery Test — Reporting for Small Business](Project_026959/README.md) |
+| 026960 | [MySQL: Recovery Test — Usability Improvement for Small Business](Project_026960/README.md) |
 
 [Back to the portfolio home](../README.md)
