@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004898 | [Fedora: Automation — Recovery for Portfolio Demo](Project_004898/README.md) |
 | 004899 | [Fedora: Automation — Reporting for Portfolio Demo](Project_004899/README.md) |
 | 004900 | [Fedora: Automation — Usability Improvement for Portfolio Demo](Project_004900/README.md) |
+| 004901 | [Fedora: Visual Reporting — Baseline Setup for School Lab](Project_004901/README.md) |
+| 004902 | [Fedora: Visual Reporting — Automation for School Lab](Project_004902/README.md) |
+| 004903 | [Fedora: Visual Reporting — Recovery for School Lab](Project_004903/README.md) |
+| 004904 | [Fedora: Visual Reporting — Reporting for School Lab](Project_004904/README.md) |
+| 004905 | [Fedora: Visual Reporting — Usability Improvement for School Lab](Project_004905/README.md) |
+| 004906 | [Fedora: Visual Reporting — Baseline Setup for Small Business](Project_004906/README.md) |
+| 004907 | [Fedora: Visual Reporting — Automation for Small Business](Project_004907/README.md) |
+| 004908 | [Fedora: Visual Reporting — Recovery for Small Business](Project_004908/README.md) |
+| 004909 | [Fedora: Visual Reporting — Reporting for Small Business](Project_004909/README.md) |
+| 004910 | [Fedora: Visual Reporting — Usability Improvement for Small Business](Project_004910/README.md) |
+| 004911 | [Fedora: Visual Reporting — Baseline Setup for Home Development](Project_004911/README.md) |
+| 004912 | [Fedora: Visual Reporting — Automation for Home Development](Project_004912/README.md) |
+| 004913 | [Fedora: Visual Reporting — Recovery for Home Development](Project_004913/README.md) |
+| 004914 | [Fedora: Visual Reporting — Reporting for Home Development](Project_004914/README.md) |
+| 004915 | [Fedora: Visual Reporting — Usability Improvement for Home Development](Project_004915/README.md) |
+| 004916 | [Fedora: Visual Reporting — Baseline Setup for Public Dataset](Project_004916/README.md) |
+| 004917 | [Fedora: Visual Reporting — Automation for Public Dataset](Project_004917/README.md) |
+| 004918 | [Fedora: Visual Reporting — Recovery for Public Dataset](Project_004918/README.md) |
+| 004919 | [Fedora: Visual Reporting — Reporting for Public Dataset](Project_004919/README.md) |
+| 004920 | [Fedora: Visual Reporting — Usability Improvement for Public Dataset](Project_004920/README.md) |
 
 [Back to the portfolio home](../README.md)
