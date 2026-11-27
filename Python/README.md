@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -464,5 +464,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019418 | [Python: Alerting — Recovery for Public Dataset](Project_019418/README.md) |
 | 019419 | [Python: Alerting — Reporting for Public Dataset](Project_019419/README.md) |
 | 019420 | [Python: Alerting — Usability Improvement for Public Dataset](Project_019420/README.md) |
+| 019421 | [Python: Alerting — Baseline Setup for Branch Office Simulator](Project_019421/README.md) |
+| 019422 | [Python: Alerting — Automation for Branch Office Simulator](Project_019422/README.md) |
+| 019423 | [Python: Alerting — Recovery for Branch Office Simulator](Project_019423/README.md) |
+| 019424 | [Python: Alerting — Reporting for Branch Office Simulator](Project_019424/README.md) |
+| 019425 | [Python: Alerting — Usability Improvement for Branch Office Simulator](Project_019425/README.md) |
+| 019426 | [Python: Alerting — Baseline Setup for Offline Classroom](Project_019426/README.md) |
+| 019427 | [Python: Alerting — Automation for Offline Classroom](Project_019427/README.md) |
+| 019428 | [Python: Alerting — Recovery for Offline Classroom](Project_019428/README.md) |
+| 019429 | [Python: Alerting — Reporting for Offline Classroom](Project_019429/README.md) |
+| 019430 | [Python: Alerting — Usability Improvement for Offline Classroom](Project_019430/README.md) |
+| 019431 | [Python: Alerting — Baseline Setup for Single-Host Lab](Project_019431/README.md) |
+| 019432 | [Python: Alerting — Automation for Single-Host Lab](Project_019432/README.md) |
+| 019433 | [Python: Alerting — Recovery for Single-Host Lab](Project_019433/README.md) |
+| 019434 | [Python: Alerting — Reporting for Single-Host Lab](Project_019434/README.md) |
+| 019435 | [Python: Alerting — Usability Improvement for Single-Host Lab](Project_019435/README.md) |
+| 019436 | [Python: Alerting — Baseline Setup for Two-Node Lab](Project_019436/README.md) |
+| 019437 | [Python: Alerting — Automation for Two-Node Lab](Project_019437/README.md) |
+| 019438 | [Python: Alerting — Recovery for Two-Node Lab](Project_019438/README.md) |
+| 019439 | [Python: Alerting — Reporting for Two-Node Lab](Project_019439/README.md) |
+| 019440 | [Python: Alerting — Usability Improvement for Two-Node Lab](Project_019440/README.md) |
 
 [Back to the portfolio home](../README.md)
