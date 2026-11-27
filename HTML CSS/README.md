@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023818 | [HTML CSS: Documentation Generation — Recovery for Public Dataset](Project_023818/README.md) |
 | 023819 | [HTML CSS: Documentation Generation — Reporting for Public Dataset](Project_023819/README.md) |
 | 023820 | [HTML CSS: Documentation Generation — Usability Improvement for Public Dataset](Project_023820/README.md) |
+| 023821 | [HTML CSS: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_023821/README.md) |
+| 023822 | [HTML CSS: Documentation Generation — Automation for Branch Office Simulator](Project_023822/README.md) |
+| 023823 | [HTML CSS: Documentation Generation — Recovery for Branch Office Simulator](Project_023823/README.md) |
+| 023824 | [HTML CSS: Documentation Generation — Reporting for Branch Office Simulator](Project_023824/README.md) |
+| 023825 | [HTML CSS: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_023825/README.md) |
+| 023826 | [HTML CSS: Documentation Generation — Baseline Setup for Offline Classroom](Project_023826/README.md) |
+| 023827 | [HTML CSS: Documentation Generation — Automation for Offline Classroom](Project_023827/README.md) |
+| 023828 | [HTML CSS: Documentation Generation — Recovery for Offline Classroom](Project_023828/README.md) |
+| 023829 | [HTML CSS: Documentation Generation — Reporting for Offline Classroom](Project_023829/README.md) |
+| 023830 | [HTML CSS: Documentation Generation — Usability Improvement for Offline Classroom](Project_023830/README.md) |
+| 023831 | [HTML CSS: Documentation Generation — Baseline Setup for Single-Host Lab](Project_023831/README.md) |
+| 023832 | [HTML CSS: Documentation Generation — Automation for Single-Host Lab](Project_023832/README.md) |
+| 023833 | [HTML CSS: Documentation Generation — Recovery for Single-Host Lab](Project_023833/README.md) |
+| 023834 | [HTML CSS: Documentation Generation — Reporting for Single-Host Lab](Project_023834/README.md) |
+| 023835 | [HTML CSS: Documentation Generation — Usability Improvement for Single-Host Lab](Project_023835/README.md) |
+| 023836 | [HTML CSS: Documentation Generation — Baseline Setup for Two-Node Lab](Project_023836/README.md) |
+| 023837 | [HTML CSS: Documentation Generation — Automation for Two-Node Lab](Project_023837/README.md) |
+| 023838 | [HTML CSS: Documentation Generation — Recovery for Two-Node Lab](Project_023838/README.md) |
+| 023839 | [HTML CSS: Documentation Generation — Reporting for Two-Node Lab](Project_023839/README.md) |
+| 023840 | [HTML CSS: Documentation Generation — Usability Improvement for Two-Node Lab](Project_023840/README.md) |
 
 [Back to the portfolio home](../README.md)
