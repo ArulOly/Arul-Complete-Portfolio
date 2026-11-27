@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034038 | [Scikit-learn: Inventory — Recovery for Two-Node Lab](Project_034038/README.md) |
 | 034039 | [Scikit-learn: Inventory — Reporting for Two-Node Lab](Project_034039/README.md) |
 | 034040 | [Scikit-learn: Inventory — Usability Improvement for Two-Node Lab](Project_034040/README.md) |
+| 034041 | [Scikit-learn: Inventory — Baseline Setup for Help Desk](Project_034041/README.md) |
+| 034042 | [Scikit-learn: Inventory — Automation for Help Desk](Project_034042/README.md) |
+| 034043 | [Scikit-learn: Inventory — Recovery for Help Desk](Project_034043/README.md) |
+| 034044 | [Scikit-learn: Inventory — Reporting for Help Desk](Project_034044/README.md) |
+| 034045 | [Scikit-learn: Inventory — Usability Improvement for Help Desk](Project_034045/README.md) |
+| 034046 | [Scikit-learn: Inventory — Baseline Setup for Portfolio Demo](Project_034046/README.md) |
+| 034047 | [Scikit-learn: Inventory — Automation for Portfolio Demo](Project_034047/README.md) |
+| 034048 | [Scikit-learn: Inventory — Recovery for Portfolio Demo](Project_034048/README.md) |
+| 034049 | [Scikit-learn: Inventory — Reporting for Portfolio Demo](Project_034049/README.md) |
+| 034050 | [Scikit-learn: Inventory — Usability Improvement for Portfolio Demo](Project_034050/README.md) |
+| 034051 | [Scikit-learn: Monitoring — Baseline Setup for School Lab](Project_034051/README.md) |
+| 034052 | [Scikit-learn: Monitoring — Automation for School Lab](Project_034052/README.md) |
+| 034053 | [Scikit-learn: Monitoring — Recovery for School Lab](Project_034053/README.md) |
+| 034054 | [Scikit-learn: Monitoring — Reporting for School Lab](Project_034054/README.md) |
+| 034055 | [Scikit-learn: Monitoring — Usability Improvement for School Lab](Project_034055/README.md) |
+| 034056 | [Scikit-learn: Monitoring — Baseline Setup for Small Business](Project_034056/README.md) |
+| 034057 | [Scikit-learn: Monitoring — Automation for Small Business](Project_034057/README.md) |
+| 034058 | [Scikit-learn: Monitoring — Recovery for Small Business](Project_034058/README.md) |
+| 034059 | [Scikit-learn: Monitoring — Reporting for Small Business](Project_034059/README.md) |
+| 034060 | [Scikit-learn: Monitoring — Usability Improvement for Small Business](Project_034060/README.md) |
 
 [Back to the portfolio home](../README.md)
