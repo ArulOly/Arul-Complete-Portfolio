@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021618 | [TypeScript: Service Check — Recovery for Public Dataset](Project_021618/README.md) |
 | 021619 | [TypeScript: Service Check — Reporting for Public Dataset](Project_021619/README.md) |
 | 021620 | [TypeScript: Service Check — Usability Improvement for Public Dataset](Project_021620/README.md) |
+| 021621 | [TypeScript: Service Check — Baseline Setup for Branch Office Simulator](Project_021621/README.md) |
+| 021622 | [TypeScript: Service Check — Automation for Branch Office Simulator](Project_021622/README.md) |
+| 021623 | [TypeScript: Service Check — Recovery for Branch Office Simulator](Project_021623/README.md) |
+| 021624 | [TypeScript: Service Check — Reporting for Branch Office Simulator](Project_021624/README.md) |
+| 021625 | [TypeScript: Service Check — Usability Improvement for Branch Office Simulator](Project_021625/README.md) |
+| 021626 | [TypeScript: Service Check — Baseline Setup for Offline Classroom](Project_021626/README.md) |
+| 021627 | [TypeScript: Service Check — Automation for Offline Classroom](Project_021627/README.md) |
+| 021628 | [TypeScript: Service Check — Recovery for Offline Classroom](Project_021628/README.md) |
+| 021629 | [TypeScript: Service Check — Reporting for Offline Classroom](Project_021629/README.md) |
+| 021630 | [TypeScript: Service Check — Usability Improvement for Offline Classroom](Project_021630/README.md) |
+| 021631 | [TypeScript: Service Check — Baseline Setup for Single-Host Lab](Project_021631/README.md) |
+| 021632 | [TypeScript: Service Check — Automation for Single-Host Lab](Project_021632/README.md) |
+| 021633 | [TypeScript: Service Check — Recovery for Single-Host Lab](Project_021633/README.md) |
+| 021634 | [TypeScript: Service Check — Reporting for Single-Host Lab](Project_021634/README.md) |
+| 021635 | [TypeScript: Service Check — Usability Improvement for Single-Host Lab](Project_021635/README.md) |
+| 021636 | [TypeScript: Service Check — Baseline Setup for Two-Node Lab](Project_021636/README.md) |
+| 021637 | [TypeScript: Service Check — Automation for Two-Node Lab](Project_021637/README.md) |
+| 021638 | [TypeScript: Service Check — Recovery for Two-Node Lab](Project_021638/README.md) |
+| 021639 | [TypeScript: Service Check — Reporting for Two-Node Lab](Project_021639/README.md) |
+| 021640 | [TypeScript: Service Check — Usability Improvement for Two-Node Lab](Project_021640/README.md) |
 
 [Back to the portfolio home](../README.md)
