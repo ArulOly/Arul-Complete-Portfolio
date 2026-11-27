@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -364,5 +364,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019318 | [Python: Data Export — Recovery for Public Dataset](Project_019318/README.md) |
 | 019319 | [Python: Data Export — Reporting for Public Dataset](Project_019319/README.md) |
 | 019320 | [Python: Data Export — Usability Improvement for Public Dataset](Project_019320/README.md) |
+| 019321 | [Python: Data Export — Baseline Setup for Branch Office Simulator](Project_019321/README.md) |
+| 019322 | [Python: Data Export — Automation for Branch Office Simulator](Project_019322/README.md) |
+| 019323 | [Python: Data Export — Recovery for Branch Office Simulator](Project_019323/README.md) |
+| 019324 | [Python: Data Export — Reporting for Branch Office Simulator](Project_019324/README.md) |
+| 019325 | [Python: Data Export — Usability Improvement for Branch Office Simulator](Project_019325/README.md) |
+| 019326 | [Python: Data Export — Baseline Setup for Offline Classroom](Project_019326/README.md) |
+| 019327 | [Python: Data Export — Automation for Offline Classroom](Project_019327/README.md) |
+| 019328 | [Python: Data Export — Recovery for Offline Classroom](Project_019328/README.md) |
+| 019329 | [Python: Data Export — Reporting for Offline Classroom](Project_019329/README.md) |
+| 019330 | [Python: Data Export — Usability Improvement for Offline Classroom](Project_019330/README.md) |
+| 019331 | [Python: Data Export — Baseline Setup for Single-Host Lab](Project_019331/README.md) |
+| 019332 | [Python: Data Export — Automation for Single-Host Lab](Project_019332/README.md) |
+| 019333 | [Python: Data Export — Recovery for Single-Host Lab](Project_019333/README.md) |
+| 019334 | [Python: Data Export — Reporting for Single-Host Lab](Project_019334/README.md) |
+| 019335 | [Python: Data Export — Usability Improvement for Single-Host Lab](Project_019335/README.md) |
+| 019336 | [Python: Data Export — Baseline Setup for Two-Node Lab](Project_019336/README.md) |
+| 019337 | [Python: Data Export — Automation for Two-Node Lab](Project_019337/README.md) |
+| 019338 | [Python: Data Export — Recovery for Two-Node Lab](Project_019338/README.md) |
+| 019339 | [Python: Data Export — Reporting for Two-Node Lab](Project_019339/README.md) |
+| 019340 | [Python: Data Export — Usability Improvement for Two-Node Lab](Project_019340/README.md) |
 
 [Back to the portfolio home](../README.md)
