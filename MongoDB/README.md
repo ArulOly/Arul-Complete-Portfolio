@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027398 | [MongoDB: Dashboard — Recovery for Portfolio Demo](Project_027398/README.md) |
 | 027399 | [MongoDB: Dashboard — Reporting for Portfolio Demo](Project_027399/README.md) |
 | 027400 | [MongoDB: Dashboard — Usability Improvement for Portfolio Demo](Project_027400/README.md) |
+| 027401 | [MongoDB: Alerting — Baseline Setup for School Lab](Project_027401/README.md) |
+| 027402 | [MongoDB: Alerting — Automation for School Lab](Project_027402/README.md) |
+| 027403 | [MongoDB: Alerting — Recovery for School Lab](Project_027403/README.md) |
+| 027404 | [MongoDB: Alerting — Reporting for School Lab](Project_027404/README.md) |
+| 027405 | [MongoDB: Alerting — Usability Improvement for School Lab](Project_027405/README.md) |
+| 027406 | [MongoDB: Alerting — Baseline Setup for Small Business](Project_027406/README.md) |
+| 027407 | [MongoDB: Alerting — Automation for Small Business](Project_027407/README.md) |
+| 027408 | [MongoDB: Alerting — Recovery for Small Business](Project_027408/README.md) |
+| 027409 | [MongoDB: Alerting — Reporting for Small Business](Project_027409/README.md) |
+| 027410 | [MongoDB: Alerting — Usability Improvement for Small Business](Project_027410/README.md) |
+| 027411 | [MongoDB: Alerting — Baseline Setup for Home Development](Project_027411/README.md) |
+| 027412 | [MongoDB: Alerting — Automation for Home Development](Project_027412/README.md) |
+| 027413 | [MongoDB: Alerting — Recovery for Home Development](Project_027413/README.md) |
+| 027414 | [MongoDB: Alerting — Reporting for Home Development](Project_027414/README.md) |
+| 027415 | [MongoDB: Alerting — Usability Improvement for Home Development](Project_027415/README.md) |
+| 027416 | [MongoDB: Alerting — Baseline Setup for Public Dataset](Project_027416/README.md) |
+| 027417 | [MongoDB: Alerting — Automation for Public Dataset](Project_027417/README.md) |
+| 027418 | [MongoDB: Alerting — Recovery for Public Dataset](Project_027418/README.md) |
+| 027419 | [MongoDB: Alerting — Reporting for Public Dataset](Project_027419/README.md) |
+| 027420 | [MongoDB: Alerting — Usability Improvement for Public Dataset](Project_027420/README.md) |
 
 [Back to the portfolio home](../README.md)
