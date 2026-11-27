@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003438 | [Debian: Alerting — Recovery for Two-Node Lab](Project_003438/README.md) |
 | 003439 | [Debian: Alerting — Reporting for Two-Node Lab](Project_003439/README.md) |
 | 003440 | [Debian: Alerting — Usability Improvement for Two-Node Lab](Project_003440/README.md) |
+| 003441 | [Debian: Alerting — Baseline Setup for Help Desk](Project_003441/README.md) |
+| 003442 | [Debian: Alerting — Automation for Help Desk](Project_003442/README.md) |
+| 003443 | [Debian: Alerting — Recovery for Help Desk](Project_003443/README.md) |
+| 003444 | [Debian: Alerting — Reporting for Help Desk](Project_003444/README.md) |
+| 003445 | [Debian: Alerting — Usability Improvement for Help Desk](Project_003445/README.md) |
+| 003446 | [Debian: Alerting — Baseline Setup for Portfolio Demo](Project_003446/README.md) |
+| 003447 | [Debian: Alerting — Automation for Portfolio Demo](Project_003447/README.md) |
+| 003448 | [Debian: Alerting — Recovery for Portfolio Demo](Project_003448/README.md) |
+| 003449 | [Debian: Alerting — Reporting for Portfolio Demo](Project_003449/README.md) |
+| 003450 | [Debian: Alerting — Usability Improvement for Portfolio Demo](Project_003450/README.md) |
+| 003451 | [Debian: Scheduled Reporting — Baseline Setup for School Lab](Project_003451/README.md) |
+| 003452 | [Debian: Scheduled Reporting — Automation for School Lab](Project_003452/README.md) |
+| 003453 | [Debian: Scheduled Reporting — Recovery for School Lab](Project_003453/README.md) |
+| 003454 | [Debian: Scheduled Reporting — Reporting for School Lab](Project_003454/README.md) |
+| 003455 | [Debian: Scheduled Reporting — Usability Improvement for School Lab](Project_003455/README.md) |
+| 003456 | [Debian: Scheduled Reporting — Baseline Setup for Small Business](Project_003456/README.md) |
+| 003457 | [Debian: Scheduled Reporting — Automation for Small Business](Project_003457/README.md) |
+| 003458 | [Debian: Scheduled Reporting — Recovery for Small Business](Project_003458/README.md) |
+| 003459 | [Debian: Scheduled Reporting — Reporting for Small Business](Project_003459/README.md) |
+| 003460 | [Debian: Scheduled Reporting — Usability Improvement for Small Business](Project_003460/README.md) |
 
 [Back to the portfolio home](../README.md)
