@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002238 | [Ubuntu: Backup Verification — Recovery for Two-Node Lab](Project_002238/README.md) |
 | 002239 | [Ubuntu: Backup Verification — Reporting for Two-Node Lab](Project_002239/README.md) |
 | 002240 | [Ubuntu: Backup Verification — Usability Improvement for Two-Node Lab](Project_002240/README.md) |
+| 002241 | [Ubuntu: Backup Verification — Baseline Setup for Help Desk](Project_002241/README.md) |
+| 002242 | [Ubuntu: Backup Verification — Automation for Help Desk](Project_002242/README.md) |
+| 002243 | [Ubuntu: Backup Verification — Recovery for Help Desk](Project_002243/README.md) |
+| 002244 | [Ubuntu: Backup Verification — Reporting for Help Desk](Project_002244/README.md) |
+| 002245 | [Ubuntu: Backup Verification — Usability Improvement for Help Desk](Project_002245/README.md) |
+| 002246 | [Ubuntu: Backup Verification — Baseline Setup for Portfolio Demo](Project_002246/README.md) |
+| 002247 | [Ubuntu: Backup Verification — Automation for Portfolio Demo](Project_002247/README.md) |
+| 002248 | [Ubuntu: Backup Verification — Recovery for Portfolio Demo](Project_002248/README.md) |
+| 002249 | [Ubuntu: Backup Verification — Reporting for Portfolio Demo](Project_002249/README.md) |
+| 002250 | [Ubuntu: Backup Verification — Usability Improvement for Portfolio Demo](Project_002250/README.md) |
+| 002251 | [Ubuntu: Data Import — Baseline Setup for School Lab](Project_002251/README.md) |
+| 002252 | [Ubuntu: Data Import — Automation for School Lab](Project_002252/README.md) |
+| 002253 | [Ubuntu: Data Import — Recovery for School Lab](Project_002253/README.md) |
+| 002254 | [Ubuntu: Data Import — Reporting for School Lab](Project_002254/README.md) |
+| 002255 | [Ubuntu: Data Import — Usability Improvement for School Lab](Project_002255/README.md) |
+| 002256 | [Ubuntu: Data Import — Baseline Setup for Small Business](Project_002256/README.md) |
+| 002257 | [Ubuntu: Data Import — Automation for Small Business](Project_002257/README.md) |
+| 002258 | [Ubuntu: Data Import — Recovery for Small Business](Project_002258/README.md) |
+| 002259 | [Ubuntu: Data Import — Reporting for Small Business](Project_002259/README.md) |
+| 002260 | [Ubuntu: Data Import — Usability Improvement for Small Business](Project_002260/README.md) |
 
 [Back to the portfolio home](../README.md)
