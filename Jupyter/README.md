@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033238 | [Jupyter: Backup Verification — Recovery for Two-Node Lab](Project_033238/README.md) |
 | 033239 | [Jupyter: Backup Verification — Reporting for Two-Node Lab](Project_033239/README.md) |
 | 033240 | [Jupyter: Backup Verification — Usability Improvement for Two-Node Lab](Project_033240/README.md) |
+| 033241 | [Jupyter: Backup Verification — Baseline Setup for Help Desk](Project_033241/README.md) |
+| 033242 | [Jupyter: Backup Verification — Automation for Help Desk](Project_033242/README.md) |
+| 033243 | [Jupyter: Backup Verification — Recovery for Help Desk](Project_033243/README.md) |
+| 033244 | [Jupyter: Backup Verification — Reporting for Help Desk](Project_033244/README.md) |
+| 033245 | [Jupyter: Backup Verification — Usability Improvement for Help Desk](Project_033245/README.md) |
+| 033246 | [Jupyter: Backup Verification — Baseline Setup for Portfolio Demo](Project_033246/README.md) |
+| 033247 | [Jupyter: Backup Verification — Automation for Portfolio Demo](Project_033247/README.md) |
+| 033248 | [Jupyter: Backup Verification — Recovery for Portfolio Demo](Project_033248/README.md) |
+| 033249 | [Jupyter: Backup Verification — Reporting for Portfolio Demo](Project_033249/README.md) |
+| 033250 | [Jupyter: Backup Verification — Usability Improvement for Portfolio Demo](Project_033250/README.md) |
+| 033251 | [Jupyter: Data Import — Baseline Setup for School Lab](Project_033251/README.md) |
+| 033252 | [Jupyter: Data Import — Automation for School Lab](Project_033252/README.md) |
+| 033253 | [Jupyter: Data Import — Recovery for School Lab](Project_033253/README.md) |
+| 033254 | [Jupyter: Data Import — Reporting for School Lab](Project_033254/README.md) |
+| 033255 | [Jupyter: Data Import — Usability Improvement for School Lab](Project_033255/README.md) |
+| 033256 | [Jupyter: Data Import — Baseline Setup for Small Business](Project_033256/README.md) |
+| 033257 | [Jupyter: Data Import — Automation for Small Business](Project_033257/README.md) |
+| 033258 | [Jupyter: Data Import — Recovery for Small Business](Project_033258/README.md) |
+| 033259 | [Jupyter: Data Import — Reporting for Small Business](Project_033259/README.md) |
+| 033260 | [Jupyter: Data Import — Usability Improvement for Small Business](Project_033260/README.md) |
 
 [Back to the portfolio home](../README.md)
