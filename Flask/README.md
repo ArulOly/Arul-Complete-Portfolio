@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048178 | [Flask: Log Analysis — Recovery for Offline Classroom](Project_048178/README.md) |
 | 048179 | [Flask: Log Analysis — Reporting for Offline Classroom](Project_048179/README.md) |
 | 048180 | [Flask: Log Analysis — Usability Improvement for Offline Classroom](Project_048180/README.md) |
+| 048181 | [Flask: Log Analysis — Baseline Setup for Single-Host Lab](Project_048181/README.md) |
+| 048182 | [Flask: Log Analysis — Automation for Single-Host Lab](Project_048182/README.md) |
+| 048183 | [Flask: Log Analysis — Recovery for Single-Host Lab](Project_048183/README.md) |
+| 048184 | [Flask: Log Analysis — Reporting for Single-Host Lab](Project_048184/README.md) |
+| 048185 | [Flask: Log Analysis — Usability Improvement for Single-Host Lab](Project_048185/README.md) |
+| 048186 | [Flask: Log Analysis — Baseline Setup for Two-Node Lab](Project_048186/README.md) |
+| 048187 | [Flask: Log Analysis — Automation for Two-Node Lab](Project_048187/README.md) |
+| 048188 | [Flask: Log Analysis — Recovery for Two-Node Lab](Project_048188/README.md) |
+| 048189 | [Flask: Log Analysis — Reporting for Two-Node Lab](Project_048189/README.md) |
+| 048190 | [Flask: Log Analysis — Usability Improvement for Two-Node Lab](Project_048190/README.md) |
+| 048191 | [Flask: Log Analysis — Baseline Setup for Help Desk](Project_048191/README.md) |
+| 048192 | [Flask: Log Analysis — Automation for Help Desk](Project_048192/README.md) |
+| 048193 | [Flask: Log Analysis — Recovery for Help Desk](Project_048193/README.md) |
+| 048194 | [Flask: Log Analysis — Reporting for Help Desk](Project_048194/README.md) |
+| 048195 | [Flask: Log Analysis — Usability Improvement for Help Desk](Project_048195/README.md) |
+| 048196 | [Flask: Log Analysis — Baseline Setup for Portfolio Demo](Project_048196/README.md) |
+| 048197 | [Flask: Log Analysis — Automation for Portfolio Demo](Project_048197/README.md) |
+| 048198 | [Flask: Log Analysis — Recovery for Portfolio Demo](Project_048198/README.md) |
+| 048199 | [Flask: Log Analysis — Reporting for Portfolio Demo](Project_048199/README.md) |
+| 048200 | [Flask: Log Analysis — Usability Improvement for Portfolio Demo](Project_048200/README.md) |
 
 [Back to the portfolio home](../README.md)
