@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020918 | [JavaScript: Visual Reporting — Recovery for Public Dataset](Project_020918/README.md) |
 | 020919 | [JavaScript: Visual Reporting — Reporting for Public Dataset](Project_020919/README.md) |
 | 020920 | [JavaScript: Visual Reporting — Usability Improvement for Public Dataset](Project_020920/README.md) |
+| 020921 | [JavaScript: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_020921/README.md) |
+| 020922 | [JavaScript: Visual Reporting — Automation for Branch Office Simulator](Project_020922/README.md) |
+| 020923 | [JavaScript: Visual Reporting — Recovery for Branch Office Simulator](Project_020923/README.md) |
+| 020924 | [JavaScript: Visual Reporting — Reporting for Branch Office Simulator](Project_020924/README.md) |
+| 020925 | [JavaScript: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_020925/README.md) |
+| 020926 | [JavaScript: Visual Reporting — Baseline Setup for Offline Classroom](Project_020926/README.md) |
+| 020927 | [JavaScript: Visual Reporting — Automation for Offline Classroom](Project_020927/README.md) |
+| 020928 | [JavaScript: Visual Reporting — Recovery for Offline Classroom](Project_020928/README.md) |
+| 020929 | [JavaScript: Visual Reporting — Reporting for Offline Classroom](Project_020929/README.md) |
+| 020930 | [JavaScript: Visual Reporting — Usability Improvement for Offline Classroom](Project_020930/README.md) |
+| 020931 | [JavaScript: Visual Reporting — Baseline Setup for Single-Host Lab](Project_020931/README.md) |
+| 020932 | [JavaScript: Visual Reporting — Automation for Single-Host Lab](Project_020932/README.md) |
+| 020933 | [JavaScript: Visual Reporting — Recovery for Single-Host Lab](Project_020933/README.md) |
+| 020934 | [JavaScript: Visual Reporting — Reporting for Single-Host Lab](Project_020934/README.md) |
+| 020935 | [JavaScript: Visual Reporting — Usability Improvement for Single-Host Lab](Project_020935/README.md) |
+| 020936 | [JavaScript: Visual Reporting — Baseline Setup for Two-Node Lab](Project_020936/README.md) |
+| 020937 | [JavaScript: Visual Reporting — Automation for Two-Node Lab](Project_020937/README.md) |
+| 020938 | [JavaScript: Visual Reporting — Recovery for Two-Node Lab](Project_020938/README.md) |
+| 020939 | [JavaScript: Visual Reporting — Reporting for Two-Node Lab](Project_020939/README.md) |
+| 020940 | [JavaScript: Visual Reporting — Usability Improvement for Two-Node Lab](Project_020940/README.md) |
 
 [Back to the portfolio home](../README.md)
