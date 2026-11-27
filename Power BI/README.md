@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032238 | [Power BI: Backup Verification — Recovery for Two-Node Lab](Project_032238/README.md) |
 | 032239 | [Power BI: Backup Verification — Reporting for Two-Node Lab](Project_032239/README.md) |
 | 032240 | [Power BI: Backup Verification — Usability Improvement for Two-Node Lab](Project_032240/README.md) |
+| 032241 | [Power BI: Backup Verification — Baseline Setup for Help Desk](Project_032241/README.md) |
+| 032242 | [Power BI: Backup Verification — Automation for Help Desk](Project_032242/README.md) |
+| 032243 | [Power BI: Backup Verification — Recovery for Help Desk](Project_032243/README.md) |
+| 032244 | [Power BI: Backup Verification — Reporting for Help Desk](Project_032244/README.md) |
+| 032245 | [Power BI: Backup Verification — Usability Improvement for Help Desk](Project_032245/README.md) |
+| 032246 | [Power BI: Backup Verification — Baseline Setup for Portfolio Demo](Project_032246/README.md) |
+| 032247 | [Power BI: Backup Verification — Automation for Portfolio Demo](Project_032247/README.md) |
+| 032248 | [Power BI: Backup Verification — Recovery for Portfolio Demo](Project_032248/README.md) |
+| 032249 | [Power BI: Backup Verification — Reporting for Portfolio Demo](Project_032249/README.md) |
+| 032250 | [Power BI: Backup Verification — Usability Improvement for Portfolio Demo](Project_032250/README.md) |
+| 032251 | [Power BI: Data Import — Baseline Setup for School Lab](Project_032251/README.md) |
+| 032252 | [Power BI: Data Import — Automation for School Lab](Project_032252/README.md) |
+| 032253 | [Power BI: Data Import — Recovery for School Lab](Project_032253/README.md) |
+| 032254 | [Power BI: Data Import — Reporting for School Lab](Project_032254/README.md) |
+| 032255 | [Power BI: Data Import — Usability Improvement for School Lab](Project_032255/README.md) |
+| 032256 | [Power BI: Data Import — Baseline Setup for Small Business](Project_032256/README.md) |
+| 032257 | [Power BI: Data Import — Automation for Small Business](Project_032257/README.md) |
+| 032258 | [Power BI: Data Import — Recovery for Small Business](Project_032258/README.md) |
+| 032259 | [Power BI: Data Import — Reporting for Small Business](Project_032259/README.md) |
+| 032260 | [Power BI: Data Import — Usability Improvement for Small Business](Project_032260/README.md) |
 
 [Back to the portfolio home](../README.md)
