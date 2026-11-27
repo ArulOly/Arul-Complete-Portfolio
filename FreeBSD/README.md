@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005078 | [FreeBSD: Monitoring — Recovery for Offline Classroom](Project_005078/README.md) |
 | 005079 | [FreeBSD: Monitoring — Reporting for Offline Classroom](Project_005079/README.md) |
 | 005080 | [FreeBSD: Monitoring — Usability Improvement for Offline Classroom](Project_005080/README.md) |
+| 005081 | [FreeBSD: Monitoring — Baseline Setup for Single-Host Lab](Project_005081/README.md) |
+| 005082 | [FreeBSD: Monitoring — Automation for Single-Host Lab](Project_005082/README.md) |
+| 005083 | [FreeBSD: Monitoring — Recovery for Single-Host Lab](Project_005083/README.md) |
+| 005084 | [FreeBSD: Monitoring — Reporting for Single-Host Lab](Project_005084/README.md) |
+| 005085 | [FreeBSD: Monitoring — Usability Improvement for Single-Host Lab](Project_005085/README.md) |
+| 005086 | [FreeBSD: Monitoring — Baseline Setup for Two-Node Lab](Project_005086/README.md) |
+| 005087 | [FreeBSD: Monitoring — Automation for Two-Node Lab](Project_005087/README.md) |
+| 005088 | [FreeBSD: Monitoring — Recovery for Two-Node Lab](Project_005088/README.md) |
+| 005089 | [FreeBSD: Monitoring — Reporting for Two-Node Lab](Project_005089/README.md) |
+| 005090 | [FreeBSD: Monitoring — Usability Improvement for Two-Node Lab](Project_005090/README.md) |
+| 005091 | [FreeBSD: Monitoring — Baseline Setup for Help Desk](Project_005091/README.md) |
+| 005092 | [FreeBSD: Monitoring — Automation for Help Desk](Project_005092/README.md) |
+| 005093 | [FreeBSD: Monitoring — Recovery for Help Desk](Project_005093/README.md) |
+| 005094 | [FreeBSD: Monitoring — Reporting for Help Desk](Project_005094/README.md) |
+| 005095 | [FreeBSD: Monitoring — Usability Improvement for Help Desk](Project_005095/README.md) |
+| 005096 | [FreeBSD: Monitoring — Baseline Setup for Portfolio Demo](Project_005096/README.md) |
+| 005097 | [FreeBSD: Monitoring — Automation for Portfolio Demo](Project_005097/README.md) |
+| 005098 | [FreeBSD: Monitoring — Recovery for Portfolio Demo](Project_005098/README.md) |
+| 005099 | [FreeBSD: Monitoring — Reporting for Portfolio Demo](Project_005099/README.md) |
+| 005100 | [FreeBSD: Monitoring — Usability Improvement for Portfolio Demo](Project_005100/README.md) |
 
 [Back to the portfolio home](../README.md)
