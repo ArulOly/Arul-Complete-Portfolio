@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028278 | [SQLite: Data Import — Recovery for Offline Classroom](Project_028278/README.md) |
 | 028279 | [SQLite: Data Import — Reporting for Offline Classroom](Project_028279/README.md) |
 | 028280 | [SQLite: Data Import — Usability Improvement for Offline Classroom](Project_028280/README.md) |
+| 028281 | [SQLite: Data Import — Baseline Setup for Single-Host Lab](Project_028281/README.md) |
+| 028282 | [SQLite: Data Import — Automation for Single-Host Lab](Project_028282/README.md) |
+| 028283 | [SQLite: Data Import — Recovery for Single-Host Lab](Project_028283/README.md) |
+| 028284 | [SQLite: Data Import — Reporting for Single-Host Lab](Project_028284/README.md) |
+| 028285 | [SQLite: Data Import — Usability Improvement for Single-Host Lab](Project_028285/README.md) |
+| 028286 | [SQLite: Data Import — Baseline Setup for Two-Node Lab](Project_028286/README.md) |
+| 028287 | [SQLite: Data Import — Automation for Two-Node Lab](Project_028287/README.md) |
+| 028288 | [SQLite: Data Import — Recovery for Two-Node Lab](Project_028288/README.md) |
+| 028289 | [SQLite: Data Import — Reporting for Two-Node Lab](Project_028289/README.md) |
+| 028290 | [SQLite: Data Import — Usability Improvement for Two-Node Lab](Project_028290/README.md) |
+| 028291 | [SQLite: Data Import — Baseline Setup for Help Desk](Project_028291/README.md) |
+| 028292 | [SQLite: Data Import — Automation for Help Desk](Project_028292/README.md) |
+| 028293 | [SQLite: Data Import — Recovery for Help Desk](Project_028293/README.md) |
+| 028294 | [SQLite: Data Import — Reporting for Help Desk](Project_028294/README.md) |
+| 028295 | [SQLite: Data Import — Usability Improvement for Help Desk](Project_028295/README.md) |
+| 028296 | [SQLite: Data Import — Baseline Setup for Portfolio Demo](Project_028296/README.md) |
+| 028297 | [SQLite: Data Import — Automation for Portfolio Demo](Project_028297/README.md) |
+| 028298 | [SQLite: Data Import — Recovery for Portfolio Demo](Project_028298/README.md) |
+| 028299 | [SQLite: Data Import — Reporting for Portfolio Demo](Project_028299/README.md) |
+| 028300 | [SQLite: Data Import — Usability Improvement for Portfolio Demo](Project_028300/README.md) |
 
 [Back to the portfolio home](../README.md)
