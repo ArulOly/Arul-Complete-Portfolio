@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020318 | [JavaScript: Data Export — Recovery for Public Dataset](Project_020318/README.md) |
 | 020319 | [JavaScript: Data Export — Reporting for Public Dataset](Project_020319/README.md) |
 | 020320 | [JavaScript: Data Export — Usability Improvement for Public Dataset](Project_020320/README.md) |
+| 020321 | [JavaScript: Data Export — Baseline Setup for Branch Office Simulator](Project_020321/README.md) |
+| 020322 | [JavaScript: Data Export — Automation for Branch Office Simulator](Project_020322/README.md) |
+| 020323 | [JavaScript: Data Export — Recovery for Branch Office Simulator](Project_020323/README.md) |
+| 020324 | [JavaScript: Data Export — Reporting for Branch Office Simulator](Project_020324/README.md) |
+| 020325 | [JavaScript: Data Export — Usability Improvement for Branch Office Simulator](Project_020325/README.md) |
+| 020326 | [JavaScript: Data Export — Baseline Setup for Offline Classroom](Project_020326/README.md) |
+| 020327 | [JavaScript: Data Export — Automation for Offline Classroom](Project_020327/README.md) |
+| 020328 | [JavaScript: Data Export — Recovery for Offline Classroom](Project_020328/README.md) |
+| 020329 | [JavaScript: Data Export — Reporting for Offline Classroom](Project_020329/README.md) |
+| 020330 | [JavaScript: Data Export — Usability Improvement for Offline Classroom](Project_020330/README.md) |
+| 020331 | [JavaScript: Data Export — Baseline Setup for Single-Host Lab](Project_020331/README.md) |
+| 020332 | [JavaScript: Data Export — Automation for Single-Host Lab](Project_020332/README.md) |
+| 020333 | [JavaScript: Data Export — Recovery for Single-Host Lab](Project_020333/README.md) |
+| 020334 | [JavaScript: Data Export — Reporting for Single-Host Lab](Project_020334/README.md) |
+| 020335 | [JavaScript: Data Export — Usability Improvement for Single-Host Lab](Project_020335/README.md) |
+| 020336 | [JavaScript: Data Export — Baseline Setup for Two-Node Lab](Project_020336/README.md) |
+| 020337 | [JavaScript: Data Export — Automation for Two-Node Lab](Project_020337/README.md) |
+| 020338 | [JavaScript: Data Export — Recovery for Two-Node Lab](Project_020338/README.md) |
+| 020339 | [JavaScript: Data Export — Reporting for Two-Node Lab](Project_020339/README.md) |
+| 020340 | [JavaScript: Data Export — Usability Improvement for Two-Node Lab](Project_020340/README.md) |
 
 [Back to the portfolio home](../README.md)
