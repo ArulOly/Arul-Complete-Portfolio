@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025338 | [PostgreSQL: Data Export — Recovery for Two-Node Lab](Project_025338/README.md) |
 | 025339 | [PostgreSQL: Data Export — Reporting for Two-Node Lab](Project_025339/README.md) |
 | 025340 | [PostgreSQL: Data Export — Usability Improvement for Two-Node Lab](Project_025340/README.md) |
+| 025341 | [PostgreSQL: Data Export — Baseline Setup for Help Desk](Project_025341/README.md) |
+| 025342 | [PostgreSQL: Data Export — Automation for Help Desk](Project_025342/README.md) |
+| 025343 | [PostgreSQL: Data Export — Recovery for Help Desk](Project_025343/README.md) |
+| 025344 | [PostgreSQL: Data Export — Reporting for Help Desk](Project_025344/README.md) |
+| 025345 | [PostgreSQL: Data Export — Usability Improvement for Help Desk](Project_025345/README.md) |
+| 025346 | [PostgreSQL: Data Export — Baseline Setup for Portfolio Demo](Project_025346/README.md) |
+| 025347 | [PostgreSQL: Data Export — Automation for Portfolio Demo](Project_025347/README.md) |
+| 025348 | [PostgreSQL: Data Export — Recovery for Portfolio Demo](Project_025348/README.md) |
+| 025349 | [PostgreSQL: Data Export — Reporting for Portfolio Demo](Project_025349/README.md) |
+| 025350 | [PostgreSQL: Data Export — Usability Improvement for Portfolio Demo](Project_025350/README.md) |
+| 025351 | [PostgreSQL: Dashboard — Baseline Setup for School Lab](Project_025351/README.md) |
+| 025352 | [PostgreSQL: Dashboard — Automation for School Lab](Project_025352/README.md) |
+| 025353 | [PostgreSQL: Dashboard — Recovery for School Lab](Project_025353/README.md) |
+| 025354 | [PostgreSQL: Dashboard — Reporting for School Lab](Project_025354/README.md) |
+| 025355 | [PostgreSQL: Dashboard — Usability Improvement for School Lab](Project_025355/README.md) |
+| 025356 | [PostgreSQL: Dashboard — Baseline Setup for Small Business](Project_025356/README.md) |
+| 025357 | [PostgreSQL: Dashboard — Automation for Small Business](Project_025357/README.md) |
+| 025358 | [PostgreSQL: Dashboard — Recovery for Small Business](Project_025358/README.md) |
+| 025359 | [PostgreSQL: Dashboard — Reporting for Small Business](Project_025359/README.md) |
+| 025360 | [PostgreSQL: Dashboard — Usability Improvement for Small Business](Project_025360/README.md) |
 
 [Back to the portfolio home](../README.md)
