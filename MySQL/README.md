@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026378 | [MySQL: Dashboard — Recovery for Offline Classroom](Project_026378/README.md) |
 | 026379 | [MySQL: Dashboard — Reporting for Offline Classroom](Project_026379/README.md) |
 | 026380 | [MySQL: Dashboard — Usability Improvement for Offline Classroom](Project_026380/README.md) |
+| 026381 | [MySQL: Dashboard — Baseline Setup for Single-Host Lab](Project_026381/README.md) |
+| 026382 | [MySQL: Dashboard — Automation for Single-Host Lab](Project_026382/README.md) |
+| 026383 | [MySQL: Dashboard — Recovery for Single-Host Lab](Project_026383/README.md) |
+| 026384 | [MySQL: Dashboard — Reporting for Single-Host Lab](Project_026384/README.md) |
+| 026385 | [MySQL: Dashboard — Usability Improvement for Single-Host Lab](Project_026385/README.md) |
+| 026386 | [MySQL: Dashboard — Baseline Setup for Two-Node Lab](Project_026386/README.md) |
+| 026387 | [MySQL: Dashboard — Automation for Two-Node Lab](Project_026387/README.md) |
+| 026388 | [MySQL: Dashboard — Recovery for Two-Node Lab](Project_026388/README.md) |
+| 026389 | [MySQL: Dashboard — Reporting for Two-Node Lab](Project_026389/README.md) |
+| 026390 | [MySQL: Dashboard — Usability Improvement for Two-Node Lab](Project_026390/README.md) |
+| 026391 | [MySQL: Dashboard — Baseline Setup for Help Desk](Project_026391/README.md) |
+| 026392 | [MySQL: Dashboard — Automation for Help Desk](Project_026392/README.md) |
+| 026393 | [MySQL: Dashboard — Recovery for Help Desk](Project_026393/README.md) |
+| 026394 | [MySQL: Dashboard — Reporting for Help Desk](Project_026394/README.md) |
+| 026395 | [MySQL: Dashboard — Usability Improvement for Help Desk](Project_026395/README.md) |
+| 026396 | [MySQL: Dashboard — Baseline Setup for Portfolio Demo](Project_026396/README.md) |
+| 026397 | [MySQL: Dashboard — Automation for Portfolio Demo](Project_026397/README.md) |
+| 026398 | [MySQL: Dashboard — Recovery for Portfolio Demo](Project_026398/README.md) |
+| 026399 | [MySQL: Dashboard — Reporting for Portfolio Demo](Project_026399/README.md) |
+| 026400 | [MySQL: Dashboard — Usability Improvement for Portfolio Demo](Project_026400/README.md) |
 
 [Back to the portfolio home](../README.md)
