@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028198 | [SQLite: Log Analysis — Recovery for Portfolio Demo](Project_028198/README.md) |
 | 028199 | [SQLite: Log Analysis — Reporting for Portfolio Demo](Project_028199/README.md) |
 | 028200 | [SQLite: Log Analysis — Usability Improvement for Portfolio Demo](Project_028200/README.md) |
+| 028201 | [SQLite: Backup Verification — Baseline Setup for School Lab](Project_028201/README.md) |
+| 028202 | [SQLite: Backup Verification — Automation for School Lab](Project_028202/README.md) |
+| 028203 | [SQLite: Backup Verification — Recovery for School Lab](Project_028203/README.md) |
+| 028204 | [SQLite: Backup Verification — Reporting for School Lab](Project_028204/README.md) |
+| 028205 | [SQLite: Backup Verification — Usability Improvement for School Lab](Project_028205/README.md) |
+| 028206 | [SQLite: Backup Verification — Baseline Setup for Small Business](Project_028206/README.md) |
+| 028207 | [SQLite: Backup Verification — Automation for Small Business](Project_028207/README.md) |
+| 028208 | [SQLite: Backup Verification — Recovery for Small Business](Project_028208/README.md) |
+| 028209 | [SQLite: Backup Verification — Reporting for Small Business](Project_028209/README.md) |
+| 028210 | [SQLite: Backup Verification — Usability Improvement for Small Business](Project_028210/README.md) |
+| 028211 | [SQLite: Backup Verification — Baseline Setup for Home Development](Project_028211/README.md) |
+| 028212 | [SQLite: Backup Verification — Automation for Home Development](Project_028212/README.md) |
+| 028213 | [SQLite: Backup Verification — Recovery for Home Development](Project_028213/README.md) |
+| 028214 | [SQLite: Backup Verification — Reporting for Home Development](Project_028214/README.md) |
+| 028215 | [SQLite: Backup Verification — Usability Improvement for Home Development](Project_028215/README.md) |
+| 028216 | [SQLite: Backup Verification — Baseline Setup for Public Dataset](Project_028216/README.md) |
+| 028217 | [SQLite: Backup Verification — Automation for Public Dataset](Project_028217/README.md) |
+| 028218 | [SQLite: Backup Verification — Recovery for Public Dataset](Project_028218/README.md) |
+| 028219 | [SQLite: Backup Verification — Reporting for Public Dataset](Project_028219/README.md) |
+| 028220 | [SQLite: Backup Verification — Usability Improvement for Public Dataset](Project_028220/README.md) |
 
 [Back to the portfolio home](../README.md)
