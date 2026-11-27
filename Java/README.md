@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022398 | [Java: Dashboard — Recovery for Portfolio Demo](Project_022398/README.md) |
 | 022399 | [Java: Dashboard — Reporting for Portfolio Demo](Project_022399/README.md) |
 | 022400 | [Java: Dashboard — Usability Improvement for Portfolio Demo](Project_022400/README.md) |
+| 022401 | [Java: Alerting — Baseline Setup for School Lab](Project_022401/README.md) |
+| 022402 | [Java: Alerting — Automation for School Lab](Project_022402/README.md) |
+| 022403 | [Java: Alerting — Recovery for School Lab](Project_022403/README.md) |
+| 022404 | [Java: Alerting — Reporting for School Lab](Project_022404/README.md) |
+| 022405 | [Java: Alerting — Usability Improvement for School Lab](Project_022405/README.md) |
+| 022406 | [Java: Alerting — Baseline Setup for Small Business](Project_022406/README.md) |
+| 022407 | [Java: Alerting — Automation for Small Business](Project_022407/README.md) |
+| 022408 | [Java: Alerting — Recovery for Small Business](Project_022408/README.md) |
+| 022409 | [Java: Alerting — Reporting for Small Business](Project_022409/README.md) |
+| 022410 | [Java: Alerting — Usability Improvement for Small Business](Project_022410/README.md) |
+| 022411 | [Java: Alerting — Baseline Setup for Home Development](Project_022411/README.md) |
+| 022412 | [Java: Alerting — Automation for Home Development](Project_022412/README.md) |
+| 022413 | [Java: Alerting — Recovery for Home Development](Project_022413/README.md) |
+| 022414 | [Java: Alerting — Reporting for Home Development](Project_022414/README.md) |
+| 022415 | [Java: Alerting — Usability Improvement for Home Development](Project_022415/README.md) |
+| 022416 | [Java: Alerting — Baseline Setup for Public Dataset](Project_022416/README.md) |
+| 022417 | [Java: Alerting — Automation for Public Dataset](Project_022417/README.md) |
+| 022418 | [Java: Alerting — Recovery for Public Dataset](Project_022418/README.md) |
+| 022419 | [Java: Alerting — Reporting for Public Dataset](Project_022419/README.md) |
+| 022420 | [Java: Alerting — Usability Improvement for Public Dataset](Project_022420/README.md) |
 
 [Back to the portfolio home](../README.md)
