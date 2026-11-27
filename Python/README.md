@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -684,5 +684,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019638 | [Python: Service Check — Recovery for Two-Node Lab](Project_019638/README.md) |
 | 019639 | [Python: Service Check — Reporting for Two-Node Lab](Project_019639/README.md) |
 | 019640 | [Python: Service Check — Usability Improvement for Two-Node Lab](Project_019640/README.md) |
+| 019641 | [Python: Service Check — Baseline Setup for Help Desk](Project_019641/README.md) |
+| 019642 | [Python: Service Check — Automation for Help Desk](Project_019642/README.md) |
+| 019643 | [Python: Service Check — Recovery for Help Desk](Project_019643/README.md) |
+| 019644 | [Python: Service Check — Reporting for Help Desk](Project_019644/README.md) |
+| 019645 | [Python: Service Check — Usability Improvement for Help Desk](Project_019645/README.md) |
+| 019646 | [Python: Service Check — Baseline Setup for Portfolio Demo](Project_019646/README.md) |
+| 019647 | [Python: Service Check — Automation for Portfolio Demo](Project_019647/README.md) |
+| 019648 | [Python: Service Check — Recovery for Portfolio Demo](Project_019648/README.md) |
+| 019649 | [Python: Service Check — Reporting for Portfolio Demo](Project_019649/README.md) |
+| 019650 | [Python: Service Check — Usability Improvement for Portfolio Demo](Project_019650/README.md) |
+| 019651 | [Python: Configuration Comparison — Baseline Setup for School Lab](Project_019651/README.md) |
+| 019652 | [Python: Configuration Comparison — Automation for School Lab](Project_019652/README.md) |
+| 019653 | [Python: Configuration Comparison — Recovery for School Lab](Project_019653/README.md) |
+| 019654 | [Python: Configuration Comparison — Reporting for School Lab](Project_019654/README.md) |
+| 019655 | [Python: Configuration Comparison — Usability Improvement for School Lab](Project_019655/README.md) |
+| 019656 | [Python: Configuration Comparison — Baseline Setup for Small Business](Project_019656/README.md) |
+| 019657 | [Python: Configuration Comparison — Automation for Small Business](Project_019657/README.md) |
+| 019658 | [Python: Configuration Comparison — Recovery for Small Business](Project_019658/README.md) |
+| 019659 | [Python: Configuration Comparison — Reporting for Small Business](Project_019659/README.md) |
+| 019660 | [Python: Configuration Comparison — Usability Improvement for Small Business](Project_019660/README.md) |
 
 [Back to the portfolio home](../README.md)
