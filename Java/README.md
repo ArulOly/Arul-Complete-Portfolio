@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022798 | [Java: Data Validation — Recovery for Portfolio Demo](Project_022798/README.md) |
 | 022799 | [Java: Data Validation — Reporting for Portfolio Demo](Project_022799/README.md) |
 | 022800 | [Java: Data Validation — Usability Improvement for Portfolio Demo](Project_022800/README.md) |
+| 022801 | [Java: Documentation Generation — Baseline Setup for School Lab](Project_022801/README.md) |
+| 022802 | [Java: Documentation Generation — Automation for School Lab](Project_022802/README.md) |
+| 022803 | [Java: Documentation Generation — Recovery for School Lab](Project_022803/README.md) |
+| 022804 | [Java: Documentation Generation — Reporting for School Lab](Project_022804/README.md) |
+| 022805 | [Java: Documentation Generation — Usability Improvement for School Lab](Project_022805/README.md) |
+| 022806 | [Java: Documentation Generation — Baseline Setup for Small Business](Project_022806/README.md) |
+| 022807 | [Java: Documentation Generation — Automation for Small Business](Project_022807/README.md) |
+| 022808 | [Java: Documentation Generation — Recovery for Small Business](Project_022808/README.md) |
+| 022809 | [Java: Documentation Generation — Reporting for Small Business](Project_022809/README.md) |
+| 022810 | [Java: Documentation Generation — Usability Improvement for Small Business](Project_022810/README.md) |
+| 022811 | [Java: Documentation Generation — Baseline Setup for Home Development](Project_022811/README.md) |
+| 022812 | [Java: Documentation Generation — Automation for Home Development](Project_022812/README.md) |
+| 022813 | [Java: Documentation Generation — Recovery for Home Development](Project_022813/README.md) |
+| 022814 | [Java: Documentation Generation — Reporting for Home Development](Project_022814/README.md) |
+| 022815 | [Java: Documentation Generation — Usability Improvement for Home Development](Project_022815/README.md) |
+| 022816 | [Java: Documentation Generation — Baseline Setup for Public Dataset](Project_022816/README.md) |
+| 022817 | [Java: Documentation Generation — Automation for Public Dataset](Project_022817/README.md) |
+| 022818 | [Java: Documentation Generation — Recovery for Public Dataset](Project_022818/README.md) |
+| 022819 | [Java: Documentation Generation — Reporting for Public Dataset](Project_022819/README.md) |
+| 022820 | [Java: Documentation Generation — Usability Improvement for Public Dataset](Project_022820/README.md) |
 
 [Back to the portfolio home](../README.md)
