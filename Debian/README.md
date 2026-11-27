@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003778 | [Debian: Data Validation — Recovery for Offline Classroom](Project_003778/README.md) |
 | 003779 | [Debian: Data Validation — Reporting for Offline Classroom](Project_003779/README.md) |
 | 003780 | [Debian: Data Validation — Usability Improvement for Offline Classroom](Project_003780/README.md) |
+| 003781 | [Debian: Data Validation — Baseline Setup for Single-Host Lab](Project_003781/README.md) |
+| 003782 | [Debian: Data Validation — Automation for Single-Host Lab](Project_003782/README.md) |
+| 003783 | [Debian: Data Validation — Recovery for Single-Host Lab](Project_003783/README.md) |
+| 003784 | [Debian: Data Validation — Reporting for Single-Host Lab](Project_003784/README.md) |
+| 003785 | [Debian: Data Validation — Usability Improvement for Single-Host Lab](Project_003785/README.md) |
+| 003786 | [Debian: Data Validation — Baseline Setup for Two-Node Lab](Project_003786/README.md) |
+| 003787 | [Debian: Data Validation — Automation for Two-Node Lab](Project_003787/README.md) |
+| 003788 | [Debian: Data Validation — Recovery for Two-Node Lab](Project_003788/README.md) |
+| 003789 | [Debian: Data Validation — Reporting for Two-Node Lab](Project_003789/README.md) |
+| 003790 | [Debian: Data Validation — Usability Improvement for Two-Node Lab](Project_003790/README.md) |
+| 003791 | [Debian: Data Validation — Baseline Setup for Help Desk](Project_003791/README.md) |
+| 003792 | [Debian: Data Validation — Automation for Help Desk](Project_003792/README.md) |
+| 003793 | [Debian: Data Validation — Recovery for Help Desk](Project_003793/README.md) |
+| 003794 | [Debian: Data Validation — Reporting for Help Desk](Project_003794/README.md) |
+| 003795 | [Debian: Data Validation — Usability Improvement for Help Desk](Project_003795/README.md) |
+| 003796 | [Debian: Data Validation — Baseline Setup for Portfolio Demo](Project_003796/README.md) |
+| 003797 | [Debian: Data Validation — Automation for Portfolio Demo](Project_003797/README.md) |
+| 003798 | [Debian: Data Validation — Recovery for Portfolio Demo](Project_003798/README.md) |
+| 003799 | [Debian: Data Validation — Reporting for Portfolio Demo](Project_003799/README.md) |
+| 003800 | [Debian: Data Validation — Usability Improvement for Portfolio Demo](Project_003800/README.md) |
 
 [Back to the portfolio home](../README.md)
