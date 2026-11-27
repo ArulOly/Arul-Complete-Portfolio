@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020758 | [JavaScript: Data Validation — Recovery for Small Business](Project_020758/README.md) |
 | 020759 | [JavaScript: Data Validation — Reporting for Small Business](Project_020759/README.md) |
 | 020760 | [JavaScript: Data Validation — Usability Improvement for Small Business](Project_020760/README.md) |
+| 020761 | [JavaScript: Data Validation — Baseline Setup for Home Development](Project_020761/README.md) |
+| 020762 | [JavaScript: Data Validation — Automation for Home Development](Project_020762/README.md) |
+| 020763 | [JavaScript: Data Validation — Recovery for Home Development](Project_020763/README.md) |
+| 020764 | [JavaScript: Data Validation — Reporting for Home Development](Project_020764/README.md) |
+| 020765 | [JavaScript: Data Validation — Usability Improvement for Home Development](Project_020765/README.md) |
+| 020766 | [JavaScript: Data Validation — Baseline Setup for Public Dataset](Project_020766/README.md) |
+| 020767 | [JavaScript: Data Validation — Automation for Public Dataset](Project_020767/README.md) |
+| 020768 | [JavaScript: Data Validation — Recovery for Public Dataset](Project_020768/README.md) |
+| 020769 | [JavaScript: Data Validation — Reporting for Public Dataset](Project_020769/README.md) |
+| 020770 | [JavaScript: Data Validation — Usability Improvement for Public Dataset](Project_020770/README.md) |
+| 020771 | [JavaScript: Data Validation — Baseline Setup for Branch Office Simulator](Project_020771/README.md) |
+| 020772 | [JavaScript: Data Validation — Automation for Branch Office Simulator](Project_020772/README.md) |
+| 020773 | [JavaScript: Data Validation — Recovery for Branch Office Simulator](Project_020773/README.md) |
+| 020774 | [JavaScript: Data Validation — Reporting for Branch Office Simulator](Project_020774/README.md) |
+| 020775 | [JavaScript: Data Validation — Usability Improvement for Branch Office Simulator](Project_020775/README.md) |
+| 020776 | [JavaScript: Data Validation — Baseline Setup for Offline Classroom](Project_020776/README.md) |
+| 020777 | [JavaScript: Data Validation — Automation for Offline Classroom](Project_020777/README.md) |
+| 020778 | [JavaScript: Data Validation — Recovery for Offline Classroom](Project_020778/README.md) |
+| 020779 | [JavaScript: Data Validation — Reporting for Offline Classroom](Project_020779/README.md) |
+| 020780 | [JavaScript: Data Validation — Usability Improvement for Offline Classroom](Project_020780/README.md) |
 
 [Back to the portfolio home](../README.md)
