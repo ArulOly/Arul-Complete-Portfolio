@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002438 | [Ubuntu: Alerting — Recovery for Two-Node Lab](Project_002438/README.md) |
 | 002439 | [Ubuntu: Alerting — Reporting for Two-Node Lab](Project_002439/README.md) |
 | 002440 | [Ubuntu: Alerting — Usability Improvement for Two-Node Lab](Project_002440/README.md) |
+| 002441 | [Ubuntu: Alerting — Baseline Setup for Help Desk](Project_002441/README.md) |
+| 002442 | [Ubuntu: Alerting — Automation for Help Desk](Project_002442/README.md) |
+| 002443 | [Ubuntu: Alerting — Recovery for Help Desk](Project_002443/README.md) |
+| 002444 | [Ubuntu: Alerting — Reporting for Help Desk](Project_002444/README.md) |
+| 002445 | [Ubuntu: Alerting — Usability Improvement for Help Desk](Project_002445/README.md) |
+| 002446 | [Ubuntu: Alerting — Baseline Setup for Portfolio Demo](Project_002446/README.md) |
+| 002447 | [Ubuntu: Alerting — Automation for Portfolio Demo](Project_002447/README.md) |
+| 002448 | [Ubuntu: Alerting — Recovery for Portfolio Demo](Project_002448/README.md) |
+| 002449 | [Ubuntu: Alerting — Reporting for Portfolio Demo](Project_002449/README.md) |
+| 002450 | [Ubuntu: Alerting — Usability Improvement for Portfolio Demo](Project_002450/README.md) |
+| 002451 | [Ubuntu: Scheduled Reporting — Baseline Setup for School Lab](Project_002451/README.md) |
+| 002452 | [Ubuntu: Scheduled Reporting — Automation for School Lab](Project_002452/README.md) |
+| 002453 | [Ubuntu: Scheduled Reporting — Recovery for School Lab](Project_002453/README.md) |
+| 002454 | [Ubuntu: Scheduled Reporting — Reporting for School Lab](Project_002454/README.md) |
+| 002455 | [Ubuntu: Scheduled Reporting — Usability Improvement for School Lab](Project_002455/README.md) |
+| 002456 | [Ubuntu: Scheduled Reporting — Baseline Setup for Small Business](Project_002456/README.md) |
+| 002457 | [Ubuntu: Scheduled Reporting — Automation for Small Business](Project_002457/README.md) |
+| 002458 | [Ubuntu: Scheduled Reporting — Recovery for Small Business](Project_002458/README.md) |
+| 002459 | [Ubuntu: Scheduled Reporting — Reporting for Small Business](Project_002459/README.md) |
+| 002460 | [Ubuntu: Scheduled Reporting — Usability Improvement for Small Business](Project_002460/README.md) |
 
 [Back to the portfolio home](../README.md)
