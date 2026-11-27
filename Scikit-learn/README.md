@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034698 | [Scikit-learn: Configuration Comparison — Recovery for Portfolio Demo](Project_034698/README.md) |
 | 034699 | [Scikit-learn: Configuration Comparison — Reporting for Portfolio Demo](Project_034699/README.md) |
 | 034700 | [Scikit-learn: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_034700/README.md) |
+| 034701 | [Scikit-learn: Error Handling — Baseline Setup for School Lab](Project_034701/README.md) |
+| 034702 | [Scikit-learn: Error Handling — Automation for School Lab](Project_034702/README.md) |
+| 034703 | [Scikit-learn: Error Handling — Recovery for School Lab](Project_034703/README.md) |
+| 034704 | [Scikit-learn: Error Handling — Reporting for School Lab](Project_034704/README.md) |
+| 034705 | [Scikit-learn: Error Handling — Usability Improvement for School Lab](Project_034705/README.md) |
+| 034706 | [Scikit-learn: Error Handling — Baseline Setup for Small Business](Project_034706/README.md) |
+| 034707 | [Scikit-learn: Error Handling — Automation for Small Business](Project_034707/README.md) |
+| 034708 | [Scikit-learn: Error Handling — Recovery for Small Business](Project_034708/README.md) |
+| 034709 | [Scikit-learn: Error Handling — Reporting for Small Business](Project_034709/README.md) |
+| 034710 | [Scikit-learn: Error Handling — Usability Improvement for Small Business](Project_034710/README.md) |
+| 034711 | [Scikit-learn: Error Handling — Baseline Setup for Home Development](Project_034711/README.md) |
+| 034712 | [Scikit-learn: Error Handling — Automation for Home Development](Project_034712/README.md) |
+| 034713 | [Scikit-learn: Error Handling — Recovery for Home Development](Project_034713/README.md) |
+| 034714 | [Scikit-learn: Error Handling — Reporting for Home Development](Project_034714/README.md) |
+| 034715 | [Scikit-learn: Error Handling — Usability Improvement for Home Development](Project_034715/README.md) |
+| 034716 | [Scikit-learn: Error Handling — Baseline Setup for Public Dataset](Project_034716/README.md) |
+| 034717 | [Scikit-learn: Error Handling — Automation for Public Dataset](Project_034717/README.md) |
+| 034718 | [Scikit-learn: Error Handling — Recovery for Public Dataset](Project_034718/README.md) |
+| 034719 | [Scikit-learn: Error Handling — Reporting for Public Dataset](Project_034719/README.md) |
+| 034720 | [Scikit-learn: Error Handling — Usability Improvement for Public Dataset](Project_034720/README.md) |
 
 [Back to the portfolio home](../README.md)
