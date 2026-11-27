@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021318 | [TypeScript: Data Export — Recovery for Public Dataset](Project_021318/README.md) |
 | 021319 | [TypeScript: Data Export — Reporting for Public Dataset](Project_021319/README.md) |
 | 021320 | [TypeScript: Data Export — Usability Improvement for Public Dataset](Project_021320/README.md) |
+| 021321 | [TypeScript: Data Export — Baseline Setup for Branch Office Simulator](Project_021321/README.md) |
+| 021322 | [TypeScript: Data Export — Automation for Branch Office Simulator](Project_021322/README.md) |
+| 021323 | [TypeScript: Data Export — Recovery for Branch Office Simulator](Project_021323/README.md) |
+| 021324 | [TypeScript: Data Export — Reporting for Branch Office Simulator](Project_021324/README.md) |
+| 021325 | [TypeScript: Data Export — Usability Improvement for Branch Office Simulator](Project_021325/README.md) |
+| 021326 | [TypeScript: Data Export — Baseline Setup for Offline Classroom](Project_021326/README.md) |
+| 021327 | [TypeScript: Data Export — Automation for Offline Classroom](Project_021327/README.md) |
+| 021328 | [TypeScript: Data Export — Recovery for Offline Classroom](Project_021328/README.md) |
+| 021329 | [TypeScript: Data Export — Reporting for Offline Classroom](Project_021329/README.md) |
+| 021330 | [TypeScript: Data Export — Usability Improvement for Offline Classroom](Project_021330/README.md) |
+| 021331 | [TypeScript: Data Export — Baseline Setup for Single-Host Lab](Project_021331/README.md) |
+| 021332 | [TypeScript: Data Export — Automation for Single-Host Lab](Project_021332/README.md) |
+| 021333 | [TypeScript: Data Export — Recovery for Single-Host Lab](Project_021333/README.md) |
+| 021334 | [TypeScript: Data Export — Reporting for Single-Host Lab](Project_021334/README.md) |
+| 021335 | [TypeScript: Data Export — Usability Improvement for Single-Host Lab](Project_021335/README.md) |
+| 021336 | [TypeScript: Data Export — Baseline Setup for Two-Node Lab](Project_021336/README.md) |
+| 021337 | [TypeScript: Data Export — Automation for Two-Node Lab](Project_021337/README.md) |
+| 021338 | [TypeScript: Data Export — Recovery for Two-Node Lab](Project_021338/README.md) |
+| 021339 | [TypeScript: Data Export — Reporting for Two-Node Lab](Project_021339/README.md) |
+| 021340 | [TypeScript: Data Export — Usability Improvement for Two-Node Lab](Project_021340/README.md) |
 
 [Back to the portfolio home](../README.md)
