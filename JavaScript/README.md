@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020598 | [JavaScript: Performance Baseline — Recovery for Portfolio Demo](Project_020598/README.md) |
 | 020599 | [JavaScript: Performance Baseline — Reporting for Portfolio Demo](Project_020599/README.md) |
 | 020600 | [JavaScript: Performance Baseline — Usability Improvement for Portfolio Demo](Project_020600/README.md) |
+| 020601 | [JavaScript: Service Check — Baseline Setup for School Lab](Project_020601/README.md) |
+| 020602 | [JavaScript: Service Check — Automation for School Lab](Project_020602/README.md) |
+| 020603 | [JavaScript: Service Check — Recovery for School Lab](Project_020603/README.md) |
+| 020604 | [JavaScript: Service Check — Reporting for School Lab](Project_020604/README.md) |
+| 020605 | [JavaScript: Service Check — Usability Improvement for School Lab](Project_020605/README.md) |
+| 020606 | [JavaScript: Service Check — Baseline Setup for Small Business](Project_020606/README.md) |
+| 020607 | [JavaScript: Service Check — Automation for Small Business](Project_020607/README.md) |
+| 020608 | [JavaScript: Service Check — Recovery for Small Business](Project_020608/README.md) |
+| 020609 | [JavaScript: Service Check — Reporting for Small Business](Project_020609/README.md) |
+| 020610 | [JavaScript: Service Check — Usability Improvement for Small Business](Project_020610/README.md) |
+| 020611 | [JavaScript: Service Check — Baseline Setup for Home Development](Project_020611/README.md) |
+| 020612 | [JavaScript: Service Check — Automation for Home Development](Project_020612/README.md) |
+| 020613 | [JavaScript: Service Check — Recovery for Home Development](Project_020613/README.md) |
+| 020614 | [JavaScript: Service Check — Reporting for Home Development](Project_020614/README.md) |
+| 020615 | [JavaScript: Service Check — Usability Improvement for Home Development](Project_020615/README.md) |
+| 020616 | [JavaScript: Service Check — Baseline Setup for Public Dataset](Project_020616/README.md) |
+| 020617 | [JavaScript: Service Check — Automation for Public Dataset](Project_020617/README.md) |
+| 020618 | [JavaScript: Service Check — Recovery for Public Dataset](Project_020618/README.md) |
+| 020619 | [JavaScript: Service Check — Reporting for Public Dataset](Project_020619/README.md) |
+| 020620 | [JavaScript: Service Check — Usability Improvement for Public Dataset](Project_020620/README.md) |
 
 [Back to the portfolio home](../README.md)
