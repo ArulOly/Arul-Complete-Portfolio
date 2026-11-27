@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049138 | [FastAPI: Audit — Recovery for Two-Node Lab](Project_049138/README.md) |
 | 049139 | [FastAPI: Audit — Reporting for Two-Node Lab](Project_049139/README.md) |
 | 049140 | [FastAPI: Audit — Usability Improvement for Two-Node Lab](Project_049140/README.md) |
+| 049141 | [FastAPI: Audit — Baseline Setup for Help Desk](Project_049141/README.md) |
+| 049142 | [FastAPI: Audit — Automation for Help Desk](Project_049142/README.md) |
+| 049143 | [FastAPI: Audit — Recovery for Help Desk](Project_049143/README.md) |
+| 049144 | [FastAPI: Audit — Reporting for Help Desk](Project_049144/README.md) |
+| 049145 | [FastAPI: Audit — Usability Improvement for Help Desk](Project_049145/README.md) |
+| 049146 | [FastAPI: Audit — Baseline Setup for Portfolio Demo](Project_049146/README.md) |
+| 049147 | [FastAPI: Audit — Automation for Portfolio Demo](Project_049147/README.md) |
+| 049148 | [FastAPI: Audit — Recovery for Portfolio Demo](Project_049148/README.md) |
+| 049149 | [FastAPI: Audit — Reporting for Portfolio Demo](Project_049149/README.md) |
+| 049150 | [FastAPI: Audit — Usability Improvement for Portfolio Demo](Project_049150/README.md) |
+| 049151 | [FastAPI: Log Analysis — Baseline Setup for School Lab](Project_049151/README.md) |
+| 049152 | [FastAPI: Log Analysis — Automation for School Lab](Project_049152/README.md) |
+| 049153 | [FastAPI: Log Analysis — Recovery for School Lab](Project_049153/README.md) |
+| 049154 | [FastAPI: Log Analysis — Reporting for School Lab](Project_049154/README.md) |
+| 049155 | [FastAPI: Log Analysis — Usability Improvement for School Lab](Project_049155/README.md) |
+| 049156 | [FastAPI: Log Analysis — Baseline Setup for Small Business](Project_049156/README.md) |
+| 049157 | [FastAPI: Log Analysis — Automation for Small Business](Project_049157/README.md) |
+| 049158 | [FastAPI: Log Analysis — Recovery for Small Business](Project_049158/README.md) |
+| 049159 | [FastAPI: Log Analysis — Reporting for Small Business](Project_049159/README.md) |
+| 049160 | [FastAPI: Log Analysis — Usability Improvement for Small Business](Project_049160/README.md) |
 
 [Back to the portfolio home](../README.md)
