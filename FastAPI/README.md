@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049358 | [FastAPI: Dashboard — Recovery for Small Business](Project_049358/README.md) |
 | 049359 | [FastAPI: Dashboard — Reporting for Small Business](Project_049359/README.md) |
 | 049360 | [FastAPI: Dashboard — Usability Improvement for Small Business](Project_049360/README.md) |
+| 049361 | [FastAPI: Dashboard — Baseline Setup for Home Development](Project_049361/README.md) |
+| 049362 | [FastAPI: Dashboard — Automation for Home Development](Project_049362/README.md) |
+| 049363 | [FastAPI: Dashboard — Recovery for Home Development](Project_049363/README.md) |
+| 049364 | [FastAPI: Dashboard — Reporting for Home Development](Project_049364/README.md) |
+| 049365 | [FastAPI: Dashboard — Usability Improvement for Home Development](Project_049365/README.md) |
+| 049366 | [FastAPI: Dashboard — Baseline Setup for Public Dataset](Project_049366/README.md) |
+| 049367 | [FastAPI: Dashboard — Automation for Public Dataset](Project_049367/README.md) |
+| 049368 | [FastAPI: Dashboard — Recovery for Public Dataset](Project_049368/README.md) |
+| 049369 | [FastAPI: Dashboard — Reporting for Public Dataset](Project_049369/README.md) |
+| 049370 | [FastAPI: Dashboard — Usability Improvement for Public Dataset](Project_049370/README.md) |
+| 049371 | [FastAPI: Dashboard — Baseline Setup for Branch Office Simulator](Project_049371/README.md) |
+| 049372 | [FastAPI: Dashboard — Automation for Branch Office Simulator](Project_049372/README.md) |
+| 049373 | [FastAPI: Dashboard — Recovery for Branch Office Simulator](Project_049373/README.md) |
+| 049374 | [FastAPI: Dashboard — Reporting for Branch Office Simulator](Project_049374/README.md) |
+| 049375 | [FastAPI: Dashboard — Usability Improvement for Branch Office Simulator](Project_049375/README.md) |
+| 049376 | [FastAPI: Dashboard — Baseline Setup for Offline Classroom](Project_049376/README.md) |
+| 049377 | [FastAPI: Dashboard — Automation for Offline Classroom](Project_049377/README.md) |
+| 049378 | [FastAPI: Dashboard — Recovery for Offline Classroom](Project_049378/README.md) |
+| 049379 | [FastAPI: Dashboard — Reporting for Offline Classroom](Project_049379/README.md) |
+| 049380 | [FastAPI: Dashboard — Usability Improvement for Offline Classroom](Project_049380/README.md) |
 
 [Back to the portfolio home](../README.md)
