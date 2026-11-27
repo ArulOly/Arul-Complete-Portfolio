@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022518 | [Java: Access Review — Recovery for Public Dataset](Project_022518/README.md) |
 | 022519 | [Java: Access Review — Reporting for Public Dataset](Project_022519/README.md) |
 | 022520 | [Java: Access Review — Usability Improvement for Public Dataset](Project_022520/README.md) |
+| 022521 | [Java: Access Review — Baseline Setup for Branch Office Simulator](Project_022521/README.md) |
+| 022522 | [Java: Access Review — Automation for Branch Office Simulator](Project_022522/README.md) |
+| 022523 | [Java: Access Review — Recovery for Branch Office Simulator](Project_022523/README.md) |
+| 022524 | [Java: Access Review — Reporting for Branch Office Simulator](Project_022524/README.md) |
+| 022525 | [Java: Access Review — Usability Improvement for Branch Office Simulator](Project_022525/README.md) |
+| 022526 | [Java: Access Review — Baseline Setup for Offline Classroom](Project_022526/README.md) |
+| 022527 | [Java: Access Review — Automation for Offline Classroom](Project_022527/README.md) |
+| 022528 | [Java: Access Review — Recovery for Offline Classroom](Project_022528/README.md) |
+| 022529 | [Java: Access Review — Reporting for Offline Classroom](Project_022529/README.md) |
+| 022530 | [Java: Access Review — Usability Improvement for Offline Classroom](Project_022530/README.md) |
+| 022531 | [Java: Access Review — Baseline Setup for Single-Host Lab](Project_022531/README.md) |
+| 022532 | [Java: Access Review — Automation for Single-Host Lab](Project_022532/README.md) |
+| 022533 | [Java: Access Review — Recovery for Single-Host Lab](Project_022533/README.md) |
+| 022534 | [Java: Access Review — Reporting for Single-Host Lab](Project_022534/README.md) |
+| 022535 | [Java: Access Review — Usability Improvement for Single-Host Lab](Project_022535/README.md) |
+| 022536 | [Java: Access Review — Baseline Setup for Two-Node Lab](Project_022536/README.md) |
+| 022537 | [Java: Access Review — Automation for Two-Node Lab](Project_022537/README.md) |
+| 022538 | [Java: Access Review — Recovery for Two-Node Lab](Project_022538/README.md) |
+| 022539 | [Java: Access Review — Reporting for Two-Node Lab](Project_022539/README.md) |
+| 022540 | [Java: Access Review — Usability Improvement for Two-Node Lab](Project_022540/README.md) |
 
 [Back to the portfolio home](../README.md)
