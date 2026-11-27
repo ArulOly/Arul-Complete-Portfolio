@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032698 | [Power BI: Configuration Comparison — Recovery for Portfolio Demo](Project_032698/README.md) |
 | 032699 | [Power BI: Configuration Comparison — Reporting for Portfolio Demo](Project_032699/README.md) |
 | 032700 | [Power BI: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_032700/README.md) |
+| 032701 | [Power BI: Error Handling — Baseline Setup for School Lab](Project_032701/README.md) |
+| 032702 | [Power BI: Error Handling — Automation for School Lab](Project_032702/README.md) |
+| 032703 | [Power BI: Error Handling — Recovery for School Lab](Project_032703/README.md) |
+| 032704 | [Power BI: Error Handling — Reporting for School Lab](Project_032704/README.md) |
+| 032705 | [Power BI: Error Handling — Usability Improvement for School Lab](Project_032705/README.md) |
+| 032706 | [Power BI: Error Handling — Baseline Setup for Small Business](Project_032706/README.md) |
+| 032707 | [Power BI: Error Handling — Automation for Small Business](Project_032707/README.md) |
+| 032708 | [Power BI: Error Handling — Recovery for Small Business](Project_032708/README.md) |
+| 032709 | [Power BI: Error Handling — Reporting for Small Business](Project_032709/README.md) |
+| 032710 | [Power BI: Error Handling — Usability Improvement for Small Business](Project_032710/README.md) |
+| 032711 | [Power BI: Error Handling — Baseline Setup for Home Development](Project_032711/README.md) |
+| 032712 | [Power BI: Error Handling — Automation for Home Development](Project_032712/README.md) |
+| 032713 | [Power BI: Error Handling — Recovery for Home Development](Project_032713/README.md) |
+| 032714 | [Power BI: Error Handling — Reporting for Home Development](Project_032714/README.md) |
+| 032715 | [Power BI: Error Handling — Usability Improvement for Home Development](Project_032715/README.md) |
+| 032716 | [Power BI: Error Handling — Baseline Setup for Public Dataset](Project_032716/README.md) |
+| 032717 | [Power BI: Error Handling — Automation for Public Dataset](Project_032717/README.md) |
+| 032718 | [Power BI: Error Handling — Recovery for Public Dataset](Project_032718/README.md) |
+| 032719 | [Power BI: Error Handling — Reporting for Public Dataset](Project_032719/README.md) |
+| 032720 | [Power BI: Error Handling — Usability Improvement for Public Dataset](Project_032720/README.md) |
 
 [Back to the portfolio home](../README.md)
