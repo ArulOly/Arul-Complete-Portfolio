@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028478 | [SQLite: Scheduled Reporting — Recovery for Offline Classroom](Project_028478/README.md) |
 | 028479 | [SQLite: Scheduled Reporting — Reporting for Offline Classroom](Project_028479/README.md) |
 | 028480 | [SQLite: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_028480/README.md) |
+| 028481 | [SQLite: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_028481/README.md) |
+| 028482 | [SQLite: Scheduled Reporting — Automation for Single-Host Lab](Project_028482/README.md) |
+| 028483 | [SQLite: Scheduled Reporting — Recovery for Single-Host Lab](Project_028483/README.md) |
+| 028484 | [SQLite: Scheduled Reporting — Reporting for Single-Host Lab](Project_028484/README.md) |
+| 028485 | [SQLite: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_028485/README.md) |
+| 028486 | [SQLite: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_028486/README.md) |
+| 028487 | [SQLite: Scheduled Reporting — Automation for Two-Node Lab](Project_028487/README.md) |
+| 028488 | [SQLite: Scheduled Reporting — Recovery for Two-Node Lab](Project_028488/README.md) |
+| 028489 | [SQLite: Scheduled Reporting — Reporting for Two-Node Lab](Project_028489/README.md) |
+| 028490 | [SQLite: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_028490/README.md) |
+| 028491 | [SQLite: Scheduled Reporting — Baseline Setup for Help Desk](Project_028491/README.md) |
+| 028492 | [SQLite: Scheduled Reporting — Automation for Help Desk](Project_028492/README.md) |
+| 028493 | [SQLite: Scheduled Reporting — Recovery for Help Desk](Project_028493/README.md) |
+| 028494 | [SQLite: Scheduled Reporting — Reporting for Help Desk](Project_028494/README.md) |
+| 028495 | [SQLite: Scheduled Reporting — Usability Improvement for Help Desk](Project_028495/README.md) |
+| 028496 | [SQLite: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_028496/README.md) |
+| 028497 | [SQLite: Scheduled Reporting — Automation for Portfolio Demo](Project_028497/README.md) |
+| 028498 | [SQLite: Scheduled Reporting — Recovery for Portfolio Demo](Project_028498/README.md) |
+| 028499 | [SQLite: Scheduled Reporting — Reporting for Portfolio Demo](Project_028499/README.md) |
+| 028500 | [SQLite: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_028500/README.md) |
 
 [Back to the portfolio home](../README.md)
