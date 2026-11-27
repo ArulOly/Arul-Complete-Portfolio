@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027518 | [MongoDB: Access Review — Recovery for Public Dataset](Project_027518/README.md) |
 | 027519 | [MongoDB: Access Review — Reporting for Public Dataset](Project_027519/README.md) |
 | 027520 | [MongoDB: Access Review — Usability Improvement for Public Dataset](Project_027520/README.md) |
+| 027521 | [MongoDB: Access Review — Baseline Setup for Branch Office Simulator](Project_027521/README.md) |
+| 027522 | [MongoDB: Access Review — Automation for Branch Office Simulator](Project_027522/README.md) |
+| 027523 | [MongoDB: Access Review — Recovery for Branch Office Simulator](Project_027523/README.md) |
+| 027524 | [MongoDB: Access Review — Reporting for Branch Office Simulator](Project_027524/README.md) |
+| 027525 | [MongoDB: Access Review — Usability Improvement for Branch Office Simulator](Project_027525/README.md) |
+| 027526 | [MongoDB: Access Review — Baseline Setup for Offline Classroom](Project_027526/README.md) |
+| 027527 | [MongoDB: Access Review — Automation for Offline Classroom](Project_027527/README.md) |
+| 027528 | [MongoDB: Access Review — Recovery for Offline Classroom](Project_027528/README.md) |
+| 027529 | [MongoDB: Access Review — Reporting for Offline Classroom](Project_027529/README.md) |
+| 027530 | [MongoDB: Access Review — Usability Improvement for Offline Classroom](Project_027530/README.md) |
+| 027531 | [MongoDB: Access Review — Baseline Setup for Single-Host Lab](Project_027531/README.md) |
+| 027532 | [MongoDB: Access Review — Automation for Single-Host Lab](Project_027532/README.md) |
+| 027533 | [MongoDB: Access Review — Recovery for Single-Host Lab](Project_027533/README.md) |
+| 027534 | [MongoDB: Access Review — Reporting for Single-Host Lab](Project_027534/README.md) |
+| 027535 | [MongoDB: Access Review — Usability Improvement for Single-Host Lab](Project_027535/README.md) |
+| 027536 | [MongoDB: Access Review — Baseline Setup for Two-Node Lab](Project_027536/README.md) |
+| 027537 | [MongoDB: Access Review — Automation for Two-Node Lab](Project_027537/README.md) |
+| 027538 | [MongoDB: Access Review — Recovery for Two-Node Lab](Project_027538/README.md) |
+| 027539 | [MongoDB: Access Review — Reporting for Two-Node Lab](Project_027539/README.md) |
+| 027540 | [MongoDB: Access Review — Usability Improvement for Two-Node Lab](Project_027540/README.md) |
 
 [Back to the portfolio home](../README.md)
