@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021938 | [TypeScript: Visual Reporting — Recovery for Two-Node Lab](Project_021938/README.md) |
 | 021939 | [TypeScript: Visual Reporting — Reporting for Two-Node Lab](Project_021939/README.md) |
 | 021940 | [TypeScript: Visual Reporting — Usability Improvement for Two-Node Lab](Project_021940/README.md) |
+| 021941 | [TypeScript: Visual Reporting — Baseline Setup for Help Desk](Project_021941/README.md) |
+| 021942 | [TypeScript: Visual Reporting — Automation for Help Desk](Project_021942/README.md) |
+| 021943 | [TypeScript: Visual Reporting — Recovery for Help Desk](Project_021943/README.md) |
+| 021944 | [TypeScript: Visual Reporting — Reporting for Help Desk](Project_021944/README.md) |
+| 021945 | [TypeScript: Visual Reporting — Usability Improvement for Help Desk](Project_021945/README.md) |
+| 021946 | [TypeScript: Visual Reporting — Baseline Setup for Portfolio Demo](Project_021946/README.md) |
+| 021947 | [TypeScript: Visual Reporting — Automation for Portfolio Demo](Project_021947/README.md) |
+| 021948 | [TypeScript: Visual Reporting — Recovery for Portfolio Demo](Project_021948/README.md) |
+| 021949 | [TypeScript: Visual Reporting — Reporting for Portfolio Demo](Project_021949/README.md) |
+| 021950 | [TypeScript: Visual Reporting — Usability Improvement for Portfolio Demo](Project_021950/README.md) |
+| 021951 | [TypeScript: Recovery Test — Baseline Setup for School Lab](Project_021951/README.md) |
+| 021952 | [TypeScript: Recovery Test — Automation for School Lab](Project_021952/README.md) |
+| 021953 | [TypeScript: Recovery Test — Recovery for School Lab](Project_021953/README.md) |
+| 021954 | [TypeScript: Recovery Test — Reporting for School Lab](Project_021954/README.md) |
+| 021955 | [TypeScript: Recovery Test — Usability Improvement for School Lab](Project_021955/README.md) |
+| 021956 | [TypeScript: Recovery Test — Baseline Setup for Small Business](Project_021956/README.md) |
+| 021957 | [TypeScript: Recovery Test — Automation for Small Business](Project_021957/README.md) |
+| 021958 | [TypeScript: Recovery Test — Recovery for Small Business](Project_021958/README.md) |
+| 021959 | [TypeScript: Recovery Test — Reporting for Small Business](Project_021959/README.md) |
+| 021960 | [TypeScript: Recovery Test — Usability Improvement for Small Business](Project_021960/README.md) |
 
 [Back to the portfolio home](../README.md)
