@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024018 | [Node.js: Inventory — Recovery for Public Dataset](Project_024018/README.md) |
 | 024019 | [Node.js: Inventory — Reporting for Public Dataset](Project_024019/README.md) |
 | 024020 | [Node.js: Inventory — Usability Improvement for Public Dataset](Project_024020/README.md) |
+| 024021 | [Node.js: Inventory — Baseline Setup for Branch Office Simulator](Project_024021/README.md) |
+| 024022 | [Node.js: Inventory — Automation for Branch Office Simulator](Project_024022/README.md) |
+| 024023 | [Node.js: Inventory — Recovery for Branch Office Simulator](Project_024023/README.md) |
+| 024024 | [Node.js: Inventory — Reporting for Branch Office Simulator](Project_024024/README.md) |
+| 024025 | [Node.js: Inventory — Usability Improvement for Branch Office Simulator](Project_024025/README.md) |
+| 024026 | [Node.js: Inventory — Baseline Setup for Offline Classroom](Project_024026/README.md) |
+| 024027 | [Node.js: Inventory — Automation for Offline Classroom](Project_024027/README.md) |
+| 024028 | [Node.js: Inventory — Recovery for Offline Classroom](Project_024028/README.md) |
+| 024029 | [Node.js: Inventory — Reporting for Offline Classroom](Project_024029/README.md) |
+| 024030 | [Node.js: Inventory — Usability Improvement for Offline Classroom](Project_024030/README.md) |
+| 024031 | [Node.js: Inventory — Baseline Setup for Single-Host Lab](Project_024031/README.md) |
+| 024032 | [Node.js: Inventory — Automation for Single-Host Lab](Project_024032/README.md) |
+| 024033 | [Node.js: Inventory — Recovery for Single-Host Lab](Project_024033/README.md) |
+| 024034 | [Node.js: Inventory — Reporting for Single-Host Lab](Project_024034/README.md) |
+| 024035 | [Node.js: Inventory — Usability Improvement for Single-Host Lab](Project_024035/README.md) |
+| 024036 | [Node.js: Inventory — Baseline Setup for Two-Node Lab](Project_024036/README.md) |
+| 024037 | [Node.js: Inventory — Automation for Two-Node Lab](Project_024037/README.md) |
+| 024038 | [Node.js: Inventory — Recovery for Two-Node Lab](Project_024038/README.md) |
+| 024039 | [Node.js: Inventory — Reporting for Two-Node Lab](Project_024039/README.md) |
+| 024040 | [Node.js: Inventory — Usability Improvement for Two-Node Lab](Project_024040/README.md) |
 
 [Back to the portfolio home](../README.md)
