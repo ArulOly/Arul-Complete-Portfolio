@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033958 | [Jupyter: Recovery Test — Recovery for Small Business](Project_033958/README.md) |
 | 033959 | [Jupyter: Recovery Test — Reporting for Small Business](Project_033959/README.md) |
 | 033960 | [Jupyter: Recovery Test — Usability Improvement for Small Business](Project_033960/README.md) |
+| 033961 | [Jupyter: Recovery Test — Baseline Setup for Home Development](Project_033961/README.md) |
+| 033962 | [Jupyter: Recovery Test — Automation for Home Development](Project_033962/README.md) |
+| 033963 | [Jupyter: Recovery Test — Recovery for Home Development](Project_033963/README.md) |
+| 033964 | [Jupyter: Recovery Test — Reporting for Home Development](Project_033964/README.md) |
+| 033965 | [Jupyter: Recovery Test — Usability Improvement for Home Development](Project_033965/README.md) |
+| 033966 | [Jupyter: Recovery Test — Baseline Setup for Public Dataset](Project_033966/README.md) |
+| 033967 | [Jupyter: Recovery Test — Automation for Public Dataset](Project_033967/README.md) |
+| 033968 | [Jupyter: Recovery Test — Recovery for Public Dataset](Project_033968/README.md) |
+| 033969 | [Jupyter: Recovery Test — Reporting for Public Dataset](Project_033969/README.md) |
+| 033970 | [Jupyter: Recovery Test — Usability Improvement for Public Dataset](Project_033970/README.md) |
+| 033971 | [Jupyter: Recovery Test — Baseline Setup for Branch Office Simulator](Project_033971/README.md) |
+| 033972 | [Jupyter: Recovery Test — Automation for Branch Office Simulator](Project_033972/README.md) |
+| 033973 | [Jupyter: Recovery Test — Recovery for Branch Office Simulator](Project_033973/README.md) |
+| 033974 | [Jupyter: Recovery Test — Reporting for Branch Office Simulator](Project_033974/README.md) |
+| 033975 | [Jupyter: Recovery Test — Usability Improvement for Branch Office Simulator](Project_033975/README.md) |
+| 033976 | [Jupyter: Recovery Test — Baseline Setup for Offline Classroom](Project_033976/README.md) |
+| 033977 | [Jupyter: Recovery Test — Automation for Offline Classroom](Project_033977/README.md) |
+| 033978 | [Jupyter: Recovery Test — Recovery for Offline Classroom](Project_033978/README.md) |
+| 033979 | [Jupyter: Recovery Test — Reporting for Offline Classroom](Project_033979/README.md) |
+| 033980 | [Jupyter: Recovery Test — Usability Improvement for Offline Classroom](Project_033980/README.md) |
 
 [Back to the portfolio home](../README.md)
