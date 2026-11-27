@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025438 | [PostgreSQL: Alerting — Recovery for Two-Node Lab](Project_025438/README.md) |
 | 025439 | [PostgreSQL: Alerting — Reporting for Two-Node Lab](Project_025439/README.md) |
 | 025440 | [PostgreSQL: Alerting — Usability Improvement for Two-Node Lab](Project_025440/README.md) |
+| 025441 | [PostgreSQL: Alerting — Baseline Setup for Help Desk](Project_025441/README.md) |
+| 025442 | [PostgreSQL: Alerting — Automation for Help Desk](Project_025442/README.md) |
+| 025443 | [PostgreSQL: Alerting — Recovery for Help Desk](Project_025443/README.md) |
+| 025444 | [PostgreSQL: Alerting — Reporting for Help Desk](Project_025444/README.md) |
+| 025445 | [PostgreSQL: Alerting — Usability Improvement for Help Desk](Project_025445/README.md) |
+| 025446 | [PostgreSQL: Alerting — Baseline Setup for Portfolio Demo](Project_025446/README.md) |
+| 025447 | [PostgreSQL: Alerting — Automation for Portfolio Demo](Project_025447/README.md) |
+| 025448 | [PostgreSQL: Alerting — Recovery for Portfolio Demo](Project_025448/README.md) |
+| 025449 | [PostgreSQL: Alerting — Reporting for Portfolio Demo](Project_025449/README.md) |
+| 025450 | [PostgreSQL: Alerting — Usability Improvement for Portfolio Demo](Project_025450/README.md) |
+| 025451 | [PostgreSQL: Scheduled Reporting — Baseline Setup for School Lab](Project_025451/README.md) |
+| 025452 | [PostgreSQL: Scheduled Reporting — Automation for School Lab](Project_025452/README.md) |
+| 025453 | [PostgreSQL: Scheduled Reporting — Recovery for School Lab](Project_025453/README.md) |
+| 025454 | [PostgreSQL: Scheduled Reporting — Reporting for School Lab](Project_025454/README.md) |
+| 025455 | [PostgreSQL: Scheduled Reporting — Usability Improvement for School Lab](Project_025455/README.md) |
+| 025456 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Small Business](Project_025456/README.md) |
+| 025457 | [PostgreSQL: Scheduled Reporting — Automation for Small Business](Project_025457/README.md) |
+| 025458 | [PostgreSQL: Scheduled Reporting — Recovery for Small Business](Project_025458/README.md) |
+| 025459 | [PostgreSQL: Scheduled Reporting — Reporting for Small Business](Project_025459/README.md) |
+| 025460 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Small Business](Project_025460/README.md) |
 
 [Back to the portfolio home](../README.md)
