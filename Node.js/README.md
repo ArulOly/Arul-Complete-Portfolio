@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024658 | [Node.js: Configuration Comparison — Recovery for Small Business](Project_024658/README.md) |
 | 024659 | [Node.js: Configuration Comparison — Reporting for Small Business](Project_024659/README.md) |
 | 024660 | [Node.js: Configuration Comparison — Usability Improvement for Small Business](Project_024660/README.md) |
+| 024661 | [Node.js: Configuration Comparison — Baseline Setup for Home Development](Project_024661/README.md) |
+| 024662 | [Node.js: Configuration Comparison — Automation for Home Development](Project_024662/README.md) |
+| 024663 | [Node.js: Configuration Comparison — Recovery for Home Development](Project_024663/README.md) |
+| 024664 | [Node.js: Configuration Comparison — Reporting for Home Development](Project_024664/README.md) |
+| 024665 | [Node.js: Configuration Comparison — Usability Improvement for Home Development](Project_024665/README.md) |
+| 024666 | [Node.js: Configuration Comparison — Baseline Setup for Public Dataset](Project_024666/README.md) |
+| 024667 | [Node.js: Configuration Comparison — Automation for Public Dataset](Project_024667/README.md) |
+| 024668 | [Node.js: Configuration Comparison — Recovery for Public Dataset](Project_024668/README.md) |
+| 024669 | [Node.js: Configuration Comparison — Reporting for Public Dataset](Project_024669/README.md) |
+| 024670 | [Node.js: Configuration Comparison — Usability Improvement for Public Dataset](Project_024670/README.md) |
+| 024671 | [Node.js: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_024671/README.md) |
+| 024672 | [Node.js: Configuration Comparison — Automation for Branch Office Simulator](Project_024672/README.md) |
+| 024673 | [Node.js: Configuration Comparison — Recovery for Branch Office Simulator](Project_024673/README.md) |
+| 024674 | [Node.js: Configuration Comparison — Reporting for Branch Office Simulator](Project_024674/README.md) |
+| 024675 | [Node.js: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_024675/README.md) |
+| 024676 | [Node.js: Configuration Comparison — Baseline Setup for Offline Classroom](Project_024676/README.md) |
+| 024677 | [Node.js: Configuration Comparison — Automation for Offline Classroom](Project_024677/README.md) |
+| 024678 | [Node.js: Configuration Comparison — Recovery for Offline Classroom](Project_024678/README.md) |
+| 024679 | [Node.js: Configuration Comparison — Reporting for Offline Classroom](Project_024679/README.md) |
+| 024680 | [Node.js: Configuration Comparison — Usability Improvement for Offline Classroom](Project_024680/README.md) |
 
 [Back to the portfolio home](../README.md)
