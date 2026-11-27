@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026638 | [MySQL: Service Check — Recovery for Two-Node Lab](Project_026638/README.md) |
 | 026639 | [MySQL: Service Check — Reporting for Two-Node Lab](Project_026639/README.md) |
 | 026640 | [MySQL: Service Check — Usability Improvement for Two-Node Lab](Project_026640/README.md) |
+| 026641 | [MySQL: Service Check — Baseline Setup for Help Desk](Project_026641/README.md) |
+| 026642 | [MySQL: Service Check — Automation for Help Desk](Project_026642/README.md) |
+| 026643 | [MySQL: Service Check — Recovery for Help Desk](Project_026643/README.md) |
+| 026644 | [MySQL: Service Check — Reporting for Help Desk](Project_026644/README.md) |
+| 026645 | [MySQL: Service Check — Usability Improvement for Help Desk](Project_026645/README.md) |
+| 026646 | [MySQL: Service Check — Baseline Setup for Portfolio Demo](Project_026646/README.md) |
+| 026647 | [MySQL: Service Check — Automation for Portfolio Demo](Project_026647/README.md) |
+| 026648 | [MySQL: Service Check — Recovery for Portfolio Demo](Project_026648/README.md) |
+| 026649 | [MySQL: Service Check — Reporting for Portfolio Demo](Project_026649/README.md) |
+| 026650 | [MySQL: Service Check — Usability Improvement for Portfolio Demo](Project_026650/README.md) |
+| 026651 | [MySQL: Configuration Comparison — Baseline Setup for School Lab](Project_026651/README.md) |
+| 026652 | [MySQL: Configuration Comparison — Automation for School Lab](Project_026652/README.md) |
+| 026653 | [MySQL: Configuration Comparison — Recovery for School Lab](Project_026653/README.md) |
+| 026654 | [MySQL: Configuration Comparison — Reporting for School Lab](Project_026654/README.md) |
+| 026655 | [MySQL: Configuration Comparison — Usability Improvement for School Lab](Project_026655/README.md) |
+| 026656 | [MySQL: Configuration Comparison — Baseline Setup for Small Business](Project_026656/README.md) |
+| 026657 | [MySQL: Configuration Comparison — Automation for Small Business](Project_026657/README.md) |
+| 026658 | [MySQL: Configuration Comparison — Recovery for Small Business](Project_026658/README.md) |
+| 026659 | [MySQL: Configuration Comparison — Reporting for Small Business](Project_026659/README.md) |
+| 026660 | [MySQL: Configuration Comparison — Usability Improvement for Small Business](Project_026660/README.md) |
 
 [Back to the portfolio home](../README.md)
