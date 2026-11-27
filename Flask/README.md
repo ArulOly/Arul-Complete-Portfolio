@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048858 | [Flask: Automation — Recovery for Small Business](Project_048858/README.md) |
 | 048859 | [Flask: Automation — Reporting for Small Business](Project_048859/README.md) |
 | 048860 | [Flask: Automation — Usability Improvement for Small Business](Project_048860/README.md) |
+| 048861 | [Flask: Automation — Baseline Setup for Home Development](Project_048861/README.md) |
+| 048862 | [Flask: Automation — Automation for Home Development](Project_048862/README.md) |
+| 048863 | [Flask: Automation — Recovery for Home Development](Project_048863/README.md) |
+| 048864 | [Flask: Automation — Reporting for Home Development](Project_048864/README.md) |
+| 048865 | [Flask: Automation — Usability Improvement for Home Development](Project_048865/README.md) |
+| 048866 | [Flask: Automation — Baseline Setup for Public Dataset](Project_048866/README.md) |
+| 048867 | [Flask: Automation — Automation for Public Dataset](Project_048867/README.md) |
+| 048868 | [Flask: Automation — Recovery for Public Dataset](Project_048868/README.md) |
+| 048869 | [Flask: Automation — Reporting for Public Dataset](Project_048869/README.md) |
+| 048870 | [Flask: Automation — Usability Improvement for Public Dataset](Project_048870/README.md) |
+| 048871 | [Flask: Automation — Baseline Setup for Branch Office Simulator](Project_048871/README.md) |
+| 048872 | [Flask: Automation — Automation for Branch Office Simulator](Project_048872/README.md) |
+| 048873 | [Flask: Automation — Recovery for Branch Office Simulator](Project_048873/README.md) |
+| 048874 | [Flask: Automation — Reporting for Branch Office Simulator](Project_048874/README.md) |
+| 048875 | [Flask: Automation — Usability Improvement for Branch Office Simulator](Project_048875/README.md) |
+| 048876 | [Flask: Automation — Baseline Setup for Offline Classroom](Project_048876/README.md) |
+| 048877 | [Flask: Automation — Automation for Offline Classroom](Project_048877/README.md) |
+| 048878 | [Flask: Automation — Recovery for Offline Classroom](Project_048878/README.md) |
+| 048879 | [Flask: Automation — Reporting for Offline Classroom](Project_048879/README.md) |
+| 048880 | [Flask: Automation — Usability Improvement for Offline Classroom](Project_048880/README.md) |
 
 [Back to the portfolio home](../README.md)
