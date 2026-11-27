@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002918 | [Ubuntu: Visual Reporting — Recovery for Public Dataset](Project_002918/README.md) |
 | 002919 | [Ubuntu: Visual Reporting — Reporting for Public Dataset](Project_002919/README.md) |
 | 002920 | [Ubuntu: Visual Reporting — Usability Improvement for Public Dataset](Project_002920/README.md) |
+| 002921 | [Ubuntu: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_002921/README.md) |
+| 002922 | [Ubuntu: Visual Reporting — Automation for Branch Office Simulator](Project_002922/README.md) |
+| 002923 | [Ubuntu: Visual Reporting — Recovery for Branch Office Simulator](Project_002923/README.md) |
+| 002924 | [Ubuntu: Visual Reporting — Reporting for Branch Office Simulator](Project_002924/README.md) |
+| 002925 | [Ubuntu: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_002925/README.md) |
+| 002926 | [Ubuntu: Visual Reporting — Baseline Setup for Offline Classroom](Project_002926/README.md) |
+| 002927 | [Ubuntu: Visual Reporting — Automation for Offline Classroom](Project_002927/README.md) |
+| 002928 | [Ubuntu: Visual Reporting — Recovery for Offline Classroom](Project_002928/README.md) |
+| 002929 | [Ubuntu: Visual Reporting — Reporting for Offline Classroom](Project_002929/README.md) |
+| 002930 | [Ubuntu: Visual Reporting — Usability Improvement for Offline Classroom](Project_002930/README.md) |
+| 002931 | [Ubuntu: Visual Reporting — Baseline Setup for Single-Host Lab](Project_002931/README.md) |
+| 002932 | [Ubuntu: Visual Reporting — Automation for Single-Host Lab](Project_002932/README.md) |
+| 002933 | [Ubuntu: Visual Reporting — Recovery for Single-Host Lab](Project_002933/README.md) |
+| 002934 | [Ubuntu: Visual Reporting — Reporting for Single-Host Lab](Project_002934/README.md) |
+| 002935 | [Ubuntu: Visual Reporting — Usability Improvement for Single-Host Lab](Project_002935/README.md) |
+| 002936 | [Ubuntu: Visual Reporting — Baseline Setup for Two-Node Lab](Project_002936/README.md) |
+| 002937 | [Ubuntu: Visual Reporting — Automation for Two-Node Lab](Project_002937/README.md) |
+| 002938 | [Ubuntu: Visual Reporting — Recovery for Two-Node Lab](Project_002938/README.md) |
+| 002939 | [Ubuntu: Visual Reporting — Reporting for Two-Node Lab](Project_002939/README.md) |
+| 002940 | [Ubuntu: Visual Reporting — Usability Improvement for Two-Node Lab](Project_002940/README.md) |
 
 [Back to the portfolio home](../README.md)
