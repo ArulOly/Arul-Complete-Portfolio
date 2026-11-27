@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021078 | [TypeScript: Monitoring — Recovery for Offline Classroom](Project_021078/README.md) |
 | 021079 | [TypeScript: Monitoring — Reporting for Offline Classroom](Project_021079/README.md) |
 | 021080 | [TypeScript: Monitoring — Usability Improvement for Offline Classroom](Project_021080/README.md) |
+| 021081 | [TypeScript: Monitoring — Baseline Setup for Single-Host Lab](Project_021081/README.md) |
+| 021082 | [TypeScript: Monitoring — Automation for Single-Host Lab](Project_021082/README.md) |
+| 021083 | [TypeScript: Monitoring — Recovery for Single-Host Lab](Project_021083/README.md) |
+| 021084 | [TypeScript: Monitoring — Reporting for Single-Host Lab](Project_021084/README.md) |
+| 021085 | [TypeScript: Monitoring — Usability Improvement for Single-Host Lab](Project_021085/README.md) |
+| 021086 | [TypeScript: Monitoring — Baseline Setup for Two-Node Lab](Project_021086/README.md) |
+| 021087 | [TypeScript: Monitoring — Automation for Two-Node Lab](Project_021087/README.md) |
+| 021088 | [TypeScript: Monitoring — Recovery for Two-Node Lab](Project_021088/README.md) |
+| 021089 | [TypeScript: Monitoring — Reporting for Two-Node Lab](Project_021089/README.md) |
+| 021090 | [TypeScript: Monitoring — Usability Improvement for Two-Node Lab](Project_021090/README.md) |
+| 021091 | [TypeScript: Monitoring — Baseline Setup for Help Desk](Project_021091/README.md) |
+| 021092 | [TypeScript: Monitoring — Automation for Help Desk](Project_021092/README.md) |
+| 021093 | [TypeScript: Monitoring — Recovery for Help Desk](Project_021093/README.md) |
+| 021094 | [TypeScript: Monitoring — Reporting for Help Desk](Project_021094/README.md) |
+| 021095 | [TypeScript: Monitoring — Usability Improvement for Help Desk](Project_021095/README.md) |
+| 021096 | [TypeScript: Monitoring — Baseline Setup for Portfolio Demo](Project_021096/README.md) |
+| 021097 | [TypeScript: Monitoring — Automation for Portfolio Demo](Project_021097/README.md) |
+| 021098 | [TypeScript: Monitoring — Recovery for Portfolio Demo](Project_021098/README.md) |
+| 021099 | [TypeScript: Monitoring — Reporting for Portfolio Demo](Project_021099/README.md) |
+| 021100 | [TypeScript: Monitoring — Usability Improvement for Portfolio Demo](Project_021100/README.md) |
 
 [Back to the portfolio home](../README.md)
