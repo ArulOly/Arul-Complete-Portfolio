@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033618 | [Jupyter: Service Check — Recovery for Public Dataset](Project_033618/README.md) |
 | 033619 | [Jupyter: Service Check — Reporting for Public Dataset](Project_033619/README.md) |
 | 033620 | [Jupyter: Service Check — Usability Improvement for Public Dataset](Project_033620/README.md) |
+| 033621 | [Jupyter: Service Check — Baseline Setup for Branch Office Simulator](Project_033621/README.md) |
+| 033622 | [Jupyter: Service Check — Automation for Branch Office Simulator](Project_033622/README.md) |
+| 033623 | [Jupyter: Service Check — Recovery for Branch Office Simulator](Project_033623/README.md) |
+| 033624 | [Jupyter: Service Check — Reporting for Branch Office Simulator](Project_033624/README.md) |
+| 033625 | [Jupyter: Service Check — Usability Improvement for Branch Office Simulator](Project_033625/README.md) |
+| 033626 | [Jupyter: Service Check — Baseline Setup for Offline Classroom](Project_033626/README.md) |
+| 033627 | [Jupyter: Service Check — Automation for Offline Classroom](Project_033627/README.md) |
+| 033628 | [Jupyter: Service Check — Recovery for Offline Classroom](Project_033628/README.md) |
+| 033629 | [Jupyter: Service Check — Reporting for Offline Classroom](Project_033629/README.md) |
+| 033630 | [Jupyter: Service Check — Usability Improvement for Offline Classroom](Project_033630/README.md) |
+| 033631 | [Jupyter: Service Check — Baseline Setup for Single-Host Lab](Project_033631/README.md) |
+| 033632 | [Jupyter: Service Check — Automation for Single-Host Lab](Project_033632/README.md) |
+| 033633 | [Jupyter: Service Check — Recovery for Single-Host Lab](Project_033633/README.md) |
+| 033634 | [Jupyter: Service Check — Reporting for Single-Host Lab](Project_033634/README.md) |
+| 033635 | [Jupyter: Service Check — Usability Improvement for Single-Host Lab](Project_033635/README.md) |
+| 033636 | [Jupyter: Service Check — Baseline Setup for Two-Node Lab](Project_033636/README.md) |
+| 033637 | [Jupyter: Service Check — Automation for Two-Node Lab](Project_033637/README.md) |
+| 033638 | [Jupyter: Service Check — Recovery for Two-Node Lab](Project_033638/README.md) |
+| 033639 | [Jupyter: Service Check — Reporting for Two-Node Lab](Project_033639/README.md) |
+| 033640 | [Jupyter: Service Check — Usability Improvement for Two-Node Lab](Project_033640/README.md) |
 
 [Back to the portfolio home](../README.md)
