@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023118 | [HTML CSS: Audit — Recovery for Public Dataset](Project_023118/README.md) |
 | 023119 | [HTML CSS: Audit — Reporting for Public Dataset](Project_023119/README.md) |
 | 023120 | [HTML CSS: Audit — Usability Improvement for Public Dataset](Project_023120/README.md) |
+| 023121 | [HTML CSS: Audit — Baseline Setup for Branch Office Simulator](Project_023121/README.md) |
+| 023122 | [HTML CSS: Audit — Automation for Branch Office Simulator](Project_023122/README.md) |
+| 023123 | [HTML CSS: Audit — Recovery for Branch Office Simulator](Project_023123/README.md) |
+| 023124 | [HTML CSS: Audit — Reporting for Branch Office Simulator](Project_023124/README.md) |
+| 023125 | [HTML CSS: Audit — Usability Improvement for Branch Office Simulator](Project_023125/README.md) |
+| 023126 | [HTML CSS: Audit — Baseline Setup for Offline Classroom](Project_023126/README.md) |
+| 023127 | [HTML CSS: Audit — Automation for Offline Classroom](Project_023127/README.md) |
+| 023128 | [HTML CSS: Audit — Recovery for Offline Classroom](Project_023128/README.md) |
+| 023129 | [HTML CSS: Audit — Reporting for Offline Classroom](Project_023129/README.md) |
+| 023130 | [HTML CSS: Audit — Usability Improvement for Offline Classroom](Project_023130/README.md) |
+| 023131 | [HTML CSS: Audit — Baseline Setup for Single-Host Lab](Project_023131/README.md) |
+| 023132 | [HTML CSS: Audit — Automation for Single-Host Lab](Project_023132/README.md) |
+| 023133 | [HTML CSS: Audit — Recovery for Single-Host Lab](Project_023133/README.md) |
+| 023134 | [HTML CSS: Audit — Reporting for Single-Host Lab](Project_023134/README.md) |
+| 023135 | [HTML CSS: Audit — Usability Improvement for Single-Host Lab](Project_023135/README.md) |
+| 023136 | [HTML CSS: Audit — Baseline Setup for Two-Node Lab](Project_023136/README.md) |
+| 023137 | [HTML CSS: Audit — Automation for Two-Node Lab](Project_023137/README.md) |
+| 023138 | [HTML CSS: Audit — Recovery for Two-Node Lab](Project_023138/README.md) |
+| 023139 | [HTML CSS: Audit — Reporting for Two-Node Lab](Project_023139/README.md) |
+| 023140 | [HTML CSS: Audit — Usability Improvement for Two-Node Lab](Project_023140/README.md) |
 
 [Back to the portfolio home](../README.md)
