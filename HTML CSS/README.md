@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023158 | [HTML CSS: Log Analysis — Recovery for Small Business](Project_023158/README.md) |
 | 023159 | [HTML CSS: Log Analysis — Reporting for Small Business](Project_023159/README.md) |
 | 023160 | [HTML CSS: Log Analysis — Usability Improvement for Small Business](Project_023160/README.md) |
+| 023161 | [HTML CSS: Log Analysis — Baseline Setup for Home Development](Project_023161/README.md) |
+| 023162 | [HTML CSS: Log Analysis — Automation for Home Development](Project_023162/README.md) |
+| 023163 | [HTML CSS: Log Analysis — Recovery for Home Development](Project_023163/README.md) |
+| 023164 | [HTML CSS: Log Analysis — Reporting for Home Development](Project_023164/README.md) |
+| 023165 | [HTML CSS: Log Analysis — Usability Improvement for Home Development](Project_023165/README.md) |
+| 023166 | [HTML CSS: Log Analysis — Baseline Setup for Public Dataset](Project_023166/README.md) |
+| 023167 | [HTML CSS: Log Analysis — Automation for Public Dataset](Project_023167/README.md) |
+| 023168 | [HTML CSS: Log Analysis — Recovery for Public Dataset](Project_023168/README.md) |
+| 023169 | [HTML CSS: Log Analysis — Reporting for Public Dataset](Project_023169/README.md) |
+| 023170 | [HTML CSS: Log Analysis — Usability Improvement for Public Dataset](Project_023170/README.md) |
+| 023171 | [HTML CSS: Log Analysis — Baseline Setup for Branch Office Simulator](Project_023171/README.md) |
+| 023172 | [HTML CSS: Log Analysis — Automation for Branch Office Simulator](Project_023172/README.md) |
+| 023173 | [HTML CSS: Log Analysis — Recovery for Branch Office Simulator](Project_023173/README.md) |
+| 023174 | [HTML CSS: Log Analysis — Reporting for Branch Office Simulator](Project_023174/README.md) |
+| 023175 | [HTML CSS: Log Analysis — Usability Improvement for Branch Office Simulator](Project_023175/README.md) |
+| 023176 | [HTML CSS: Log Analysis — Baseline Setup for Offline Classroom](Project_023176/README.md) |
+| 023177 | [HTML CSS: Log Analysis — Automation for Offline Classroom](Project_023177/README.md) |
+| 023178 | [HTML CSS: Log Analysis — Recovery for Offline Classroom](Project_023178/README.md) |
+| 023179 | [HTML CSS: Log Analysis — Reporting for Offline Classroom](Project_023179/README.md) |
+| 023180 | [HTML CSS: Log Analysis — Usability Improvement for Offline Classroom](Project_023180/README.md) |
 
 [Back to the portfolio home](../README.md)
