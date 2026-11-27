@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -704,5 +704,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019658 | [Python: Configuration Comparison — Recovery for Small Business](Project_019658/README.md) |
 | 019659 | [Python: Configuration Comparison — Reporting for Small Business](Project_019659/README.md) |
 | 019660 | [Python: Configuration Comparison — Usability Improvement for Small Business](Project_019660/README.md) |
+| 019661 | [Python: Configuration Comparison — Baseline Setup for Home Development](Project_019661/README.md) |
+| 019662 | [Python: Configuration Comparison — Automation for Home Development](Project_019662/README.md) |
+| 019663 | [Python: Configuration Comparison — Recovery for Home Development](Project_019663/README.md) |
+| 019664 | [Python: Configuration Comparison — Reporting for Home Development](Project_019664/README.md) |
+| 019665 | [Python: Configuration Comparison — Usability Improvement for Home Development](Project_019665/README.md) |
+| 019666 | [Python: Configuration Comparison — Baseline Setup for Public Dataset](Project_019666/README.md) |
+| 019667 | [Python: Configuration Comparison — Automation for Public Dataset](Project_019667/README.md) |
+| 019668 | [Python: Configuration Comparison — Recovery for Public Dataset](Project_019668/README.md) |
+| 019669 | [Python: Configuration Comparison — Reporting for Public Dataset](Project_019669/README.md) |
+| 019670 | [Python: Configuration Comparison — Usability Improvement for Public Dataset](Project_019670/README.md) |
+| 019671 | [Python: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_019671/README.md) |
+| 019672 | [Python: Configuration Comparison — Automation for Branch Office Simulator](Project_019672/README.md) |
+| 019673 | [Python: Configuration Comparison — Recovery for Branch Office Simulator](Project_019673/README.md) |
+| 019674 | [Python: Configuration Comparison — Reporting for Branch Office Simulator](Project_019674/README.md) |
+| 019675 | [Python: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_019675/README.md) |
+| 019676 | [Python: Configuration Comparison — Baseline Setup for Offline Classroom](Project_019676/README.md) |
+| 019677 | [Python: Configuration Comparison — Automation for Offline Classroom](Project_019677/README.md) |
+| 019678 | [Python: Configuration Comparison — Recovery for Offline Classroom](Project_019678/README.md) |
+| 019679 | [Python: Configuration Comparison — Reporting for Offline Classroom](Project_019679/README.md) |
+| 019680 | [Python: Configuration Comparison — Usability Improvement for Offline Classroom](Project_019680/README.md) |
 
 [Back to the portfolio home](../README.md)
