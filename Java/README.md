@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022738 | [Java: Error Handling — Recovery for Two-Node Lab](Project_022738/README.md) |
 | 022739 | [Java: Error Handling — Reporting for Two-Node Lab](Project_022739/README.md) |
 | 022740 | [Java: Error Handling — Usability Improvement for Two-Node Lab](Project_022740/README.md) |
+| 022741 | [Java: Error Handling — Baseline Setup for Help Desk](Project_022741/README.md) |
+| 022742 | [Java: Error Handling — Automation for Help Desk](Project_022742/README.md) |
+| 022743 | [Java: Error Handling — Recovery for Help Desk](Project_022743/README.md) |
+| 022744 | [Java: Error Handling — Reporting for Help Desk](Project_022744/README.md) |
+| 022745 | [Java: Error Handling — Usability Improvement for Help Desk](Project_022745/README.md) |
+| 022746 | [Java: Error Handling — Baseline Setup for Portfolio Demo](Project_022746/README.md) |
+| 022747 | [Java: Error Handling — Automation for Portfolio Demo](Project_022747/README.md) |
+| 022748 | [Java: Error Handling — Recovery for Portfolio Demo](Project_022748/README.md) |
+| 022749 | [Java: Error Handling — Reporting for Portfolio Demo](Project_022749/README.md) |
+| 022750 | [Java: Error Handling — Usability Improvement for Portfolio Demo](Project_022750/README.md) |
+| 022751 | [Java: Data Validation — Baseline Setup for School Lab](Project_022751/README.md) |
+| 022752 | [Java: Data Validation — Automation for School Lab](Project_022752/README.md) |
+| 022753 | [Java: Data Validation — Recovery for School Lab](Project_022753/README.md) |
+| 022754 | [Java: Data Validation — Reporting for School Lab](Project_022754/README.md) |
+| 022755 | [Java: Data Validation — Usability Improvement for School Lab](Project_022755/README.md) |
+| 022756 | [Java: Data Validation — Baseline Setup for Small Business](Project_022756/README.md) |
+| 022757 | [Java: Data Validation — Automation for Small Business](Project_022757/README.md) |
+| 022758 | [Java: Data Validation — Recovery for Small Business](Project_022758/README.md) |
+| 022759 | [Java: Data Validation — Reporting for Small Business](Project_022759/README.md) |
+| 022760 | [Java: Data Validation — Usability Improvement for Small Business](Project_022760/README.md) |
 
 [Back to the portfolio home](../README.md)
