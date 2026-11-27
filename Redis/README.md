@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045318 | [Redis: Data Export — Recovery for Public Dataset](Project_045318/README.md) |
 | 045319 | [Redis: Data Export — Reporting for Public Dataset](Project_045319/README.md) |
 | 045320 | [Redis: Data Export — Usability Improvement for Public Dataset](Project_045320/README.md) |
+| 045321 | [Redis: Data Export — Baseline Setup for Branch Office Simulator](Project_045321/README.md) |
+| 045322 | [Redis: Data Export — Automation for Branch Office Simulator](Project_045322/README.md) |
+| 045323 | [Redis: Data Export — Recovery for Branch Office Simulator](Project_045323/README.md) |
+| 045324 | [Redis: Data Export — Reporting for Branch Office Simulator](Project_045324/README.md) |
+| 045325 | [Redis: Data Export — Usability Improvement for Branch Office Simulator](Project_045325/README.md) |
+| 045326 | [Redis: Data Export — Baseline Setup for Offline Classroom](Project_045326/README.md) |
+| 045327 | [Redis: Data Export — Automation for Offline Classroom](Project_045327/README.md) |
+| 045328 | [Redis: Data Export — Recovery for Offline Classroom](Project_045328/README.md) |
+| 045329 | [Redis: Data Export — Reporting for Offline Classroom](Project_045329/README.md) |
+| 045330 | [Redis: Data Export — Usability Improvement for Offline Classroom](Project_045330/README.md) |
+| 045331 | [Redis: Data Export — Baseline Setup for Single-Host Lab](Project_045331/README.md) |
+| 045332 | [Redis: Data Export — Automation for Single-Host Lab](Project_045332/README.md) |
+| 045333 | [Redis: Data Export — Recovery for Single-Host Lab](Project_045333/README.md) |
+| 045334 | [Redis: Data Export — Reporting for Single-Host Lab](Project_045334/README.md) |
+| 045335 | [Redis: Data Export — Usability Improvement for Single-Host Lab](Project_045335/README.md) |
+| 045336 | [Redis: Data Export — Baseline Setup for Two-Node Lab](Project_045336/README.md) |
+| 045337 | [Redis: Data Export — Automation for Two-Node Lab](Project_045337/README.md) |
+| 045338 | [Redis: Data Export — Recovery for Two-Node Lab](Project_045338/README.md) |
+| 045339 | [Redis: Data Export — Reporting for Two-Node Lab](Project_045339/README.md) |
+| 045340 | [Redis: Data Export — Usability Improvement for Two-Node Lab](Project_045340/README.md) |
 
 [Back to the portfolio home](../README.md)
