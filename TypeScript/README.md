@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021918 | [TypeScript: Visual Reporting — Recovery for Public Dataset](Project_021918/README.md) |
 | 021919 | [TypeScript: Visual Reporting — Reporting for Public Dataset](Project_021919/README.md) |
 | 021920 | [TypeScript: Visual Reporting — Usability Improvement for Public Dataset](Project_021920/README.md) |
+| 021921 | [TypeScript: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_021921/README.md) |
+| 021922 | [TypeScript: Visual Reporting — Automation for Branch Office Simulator](Project_021922/README.md) |
+| 021923 | [TypeScript: Visual Reporting — Recovery for Branch Office Simulator](Project_021923/README.md) |
+| 021924 | [TypeScript: Visual Reporting — Reporting for Branch Office Simulator](Project_021924/README.md) |
+| 021925 | [TypeScript: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_021925/README.md) |
+| 021926 | [TypeScript: Visual Reporting — Baseline Setup for Offline Classroom](Project_021926/README.md) |
+| 021927 | [TypeScript: Visual Reporting — Automation for Offline Classroom](Project_021927/README.md) |
+| 021928 | [TypeScript: Visual Reporting — Recovery for Offline Classroom](Project_021928/README.md) |
+| 021929 | [TypeScript: Visual Reporting — Reporting for Offline Classroom](Project_021929/README.md) |
+| 021930 | [TypeScript: Visual Reporting — Usability Improvement for Offline Classroom](Project_021930/README.md) |
+| 021931 | [TypeScript: Visual Reporting — Baseline Setup for Single-Host Lab](Project_021931/README.md) |
+| 021932 | [TypeScript: Visual Reporting — Automation for Single-Host Lab](Project_021932/README.md) |
+| 021933 | [TypeScript: Visual Reporting — Recovery for Single-Host Lab](Project_021933/README.md) |
+| 021934 | [TypeScript: Visual Reporting — Reporting for Single-Host Lab](Project_021934/README.md) |
+| 021935 | [TypeScript: Visual Reporting — Usability Improvement for Single-Host Lab](Project_021935/README.md) |
+| 021936 | [TypeScript: Visual Reporting — Baseline Setup for Two-Node Lab](Project_021936/README.md) |
+| 021937 | [TypeScript: Visual Reporting — Automation for Two-Node Lab](Project_021937/README.md) |
+| 021938 | [TypeScript: Visual Reporting — Recovery for Two-Node Lab](Project_021938/README.md) |
+| 021939 | [TypeScript: Visual Reporting — Reporting for Two-Node Lab](Project_021939/README.md) |
+| 021940 | [TypeScript: Visual Reporting — Usability Improvement for Two-Node Lab](Project_021940/README.md) |
 
 [Back to the portfolio home](../README.md)
