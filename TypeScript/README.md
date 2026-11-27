@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021818 | [TypeScript: Documentation Generation — Recovery for Public Dataset](Project_021818/README.md) |
 | 021819 | [TypeScript: Documentation Generation — Reporting for Public Dataset](Project_021819/README.md) |
 | 021820 | [TypeScript: Documentation Generation — Usability Improvement for Public Dataset](Project_021820/README.md) |
+| 021821 | [TypeScript: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_021821/README.md) |
+| 021822 | [TypeScript: Documentation Generation — Automation for Branch Office Simulator](Project_021822/README.md) |
+| 021823 | [TypeScript: Documentation Generation — Recovery for Branch Office Simulator](Project_021823/README.md) |
+| 021824 | [TypeScript: Documentation Generation — Reporting for Branch Office Simulator](Project_021824/README.md) |
+| 021825 | [TypeScript: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_021825/README.md) |
+| 021826 | [TypeScript: Documentation Generation — Baseline Setup for Offline Classroom](Project_021826/README.md) |
+| 021827 | [TypeScript: Documentation Generation — Automation for Offline Classroom](Project_021827/README.md) |
+| 021828 | [TypeScript: Documentation Generation — Recovery for Offline Classroom](Project_021828/README.md) |
+| 021829 | [TypeScript: Documentation Generation — Reporting for Offline Classroom](Project_021829/README.md) |
+| 021830 | [TypeScript: Documentation Generation — Usability Improvement for Offline Classroom](Project_021830/README.md) |
+| 021831 | [TypeScript: Documentation Generation — Baseline Setup for Single-Host Lab](Project_021831/README.md) |
+| 021832 | [TypeScript: Documentation Generation — Automation for Single-Host Lab](Project_021832/README.md) |
+| 021833 | [TypeScript: Documentation Generation — Recovery for Single-Host Lab](Project_021833/README.md) |
+| 021834 | [TypeScript: Documentation Generation — Reporting for Single-Host Lab](Project_021834/README.md) |
+| 021835 | [TypeScript: Documentation Generation — Usability Improvement for Single-Host Lab](Project_021835/README.md) |
+| 021836 | [TypeScript: Documentation Generation — Baseline Setup for Two-Node Lab](Project_021836/README.md) |
+| 021837 | [TypeScript: Documentation Generation — Automation for Two-Node Lab](Project_021837/README.md) |
+| 021838 | [TypeScript: Documentation Generation — Recovery for Two-Node Lab](Project_021838/README.md) |
+| 021839 | [TypeScript: Documentation Generation — Reporting for Two-Node Lab](Project_021839/README.md) |
+| 021840 | [TypeScript: Documentation Generation — Usability Improvement for Two-Node Lab](Project_021840/README.md) |
 
 [Back to the portfolio home](../README.md)
