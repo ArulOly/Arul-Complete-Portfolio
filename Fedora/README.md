@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004858 | [Fedora: Automation — Recovery for Small Business](Project_004858/README.md) |
 | 004859 | [Fedora: Automation — Reporting for Small Business](Project_004859/README.md) |
 | 004860 | [Fedora: Automation — Usability Improvement for Small Business](Project_004860/README.md) |
+| 004861 | [Fedora: Automation — Baseline Setup for Home Development](Project_004861/README.md) |
+| 004862 | [Fedora: Automation — Automation for Home Development](Project_004862/README.md) |
+| 004863 | [Fedora: Automation — Recovery for Home Development](Project_004863/README.md) |
+| 004864 | [Fedora: Automation — Reporting for Home Development](Project_004864/README.md) |
+| 004865 | [Fedora: Automation — Usability Improvement for Home Development](Project_004865/README.md) |
+| 004866 | [Fedora: Automation — Baseline Setup for Public Dataset](Project_004866/README.md) |
+| 004867 | [Fedora: Automation — Automation for Public Dataset](Project_004867/README.md) |
+| 004868 | [Fedora: Automation — Recovery for Public Dataset](Project_004868/README.md) |
+| 004869 | [Fedora: Automation — Reporting for Public Dataset](Project_004869/README.md) |
+| 004870 | [Fedora: Automation — Usability Improvement for Public Dataset](Project_004870/README.md) |
+| 004871 | [Fedora: Automation — Baseline Setup for Branch Office Simulator](Project_004871/README.md) |
+| 004872 | [Fedora: Automation — Automation for Branch Office Simulator](Project_004872/README.md) |
+| 004873 | [Fedora: Automation — Recovery for Branch Office Simulator](Project_004873/README.md) |
+| 004874 | [Fedora: Automation — Reporting for Branch Office Simulator](Project_004874/README.md) |
+| 004875 | [Fedora: Automation — Usability Improvement for Branch Office Simulator](Project_004875/README.md) |
+| 004876 | [Fedora: Automation — Baseline Setup for Offline Classroom](Project_004876/README.md) |
+| 004877 | [Fedora: Automation — Automation for Offline Classroom](Project_004877/README.md) |
+| 004878 | [Fedora: Automation — Recovery for Offline Classroom](Project_004878/README.md) |
+| 004879 | [Fedora: Automation — Reporting for Offline Classroom](Project_004879/README.md) |
+| 004880 | [Fedora: Automation — Usability Improvement for Offline Classroom](Project_004880/README.md) |
 
 [Back to the portfolio home](../README.md)
