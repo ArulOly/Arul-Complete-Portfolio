@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033638 | [Jupyter: Service Check — Recovery for Two-Node Lab](Project_033638/README.md) |
 | 033639 | [Jupyter: Service Check — Reporting for Two-Node Lab](Project_033639/README.md) |
 | 033640 | [Jupyter: Service Check — Usability Improvement for Two-Node Lab](Project_033640/README.md) |
+| 033641 | [Jupyter: Service Check — Baseline Setup for Help Desk](Project_033641/README.md) |
+| 033642 | [Jupyter: Service Check — Automation for Help Desk](Project_033642/README.md) |
+| 033643 | [Jupyter: Service Check — Recovery for Help Desk](Project_033643/README.md) |
+| 033644 | [Jupyter: Service Check — Reporting for Help Desk](Project_033644/README.md) |
+| 033645 | [Jupyter: Service Check — Usability Improvement for Help Desk](Project_033645/README.md) |
+| 033646 | [Jupyter: Service Check — Baseline Setup for Portfolio Demo](Project_033646/README.md) |
+| 033647 | [Jupyter: Service Check — Automation for Portfolio Demo](Project_033647/README.md) |
+| 033648 | [Jupyter: Service Check — Recovery for Portfolio Demo](Project_033648/README.md) |
+| 033649 | [Jupyter: Service Check — Reporting for Portfolio Demo](Project_033649/README.md) |
+| 033650 | [Jupyter: Service Check — Usability Improvement for Portfolio Demo](Project_033650/README.md) |
+| 033651 | [Jupyter: Configuration Comparison — Baseline Setup for School Lab](Project_033651/README.md) |
+| 033652 | [Jupyter: Configuration Comparison — Automation for School Lab](Project_033652/README.md) |
+| 033653 | [Jupyter: Configuration Comparison — Recovery for School Lab](Project_033653/README.md) |
+| 033654 | [Jupyter: Configuration Comparison — Reporting for School Lab](Project_033654/README.md) |
+| 033655 | [Jupyter: Configuration Comparison — Usability Improvement for School Lab](Project_033655/README.md) |
+| 033656 | [Jupyter: Configuration Comparison — Baseline Setup for Small Business](Project_033656/README.md) |
+| 033657 | [Jupyter: Configuration Comparison — Automation for Small Business](Project_033657/README.md) |
+| 033658 | [Jupyter: Configuration Comparison — Recovery for Small Business](Project_033658/README.md) |
+| 033659 | [Jupyter: Configuration Comparison — Reporting for Small Business](Project_033659/README.md) |
+| 033660 | [Jupyter: Configuration Comparison — Usability Improvement for Small Business](Project_033660/README.md) |
 
 [Back to the portfolio home](../README.md)
