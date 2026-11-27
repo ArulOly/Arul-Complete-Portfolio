@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032858 | [Power BI: Automation — Recovery for Small Business](Project_032858/README.md) |
 | 032859 | [Power BI: Automation — Reporting for Small Business](Project_032859/README.md) |
 | 032860 | [Power BI: Automation — Usability Improvement for Small Business](Project_032860/README.md) |
+| 032861 | [Power BI: Automation — Baseline Setup for Home Development](Project_032861/README.md) |
+| 032862 | [Power BI: Automation — Automation for Home Development](Project_032862/README.md) |
+| 032863 | [Power BI: Automation — Recovery for Home Development](Project_032863/README.md) |
+| 032864 | [Power BI: Automation — Reporting for Home Development](Project_032864/README.md) |
+| 032865 | [Power BI: Automation — Usability Improvement for Home Development](Project_032865/README.md) |
+| 032866 | [Power BI: Automation — Baseline Setup for Public Dataset](Project_032866/README.md) |
+| 032867 | [Power BI: Automation — Automation for Public Dataset](Project_032867/README.md) |
+| 032868 | [Power BI: Automation — Recovery for Public Dataset](Project_032868/README.md) |
+| 032869 | [Power BI: Automation — Reporting for Public Dataset](Project_032869/README.md) |
+| 032870 | [Power BI: Automation — Usability Improvement for Public Dataset](Project_032870/README.md) |
+| 032871 | [Power BI: Automation — Baseline Setup for Branch Office Simulator](Project_032871/README.md) |
+| 032872 | [Power BI: Automation — Automation for Branch Office Simulator](Project_032872/README.md) |
+| 032873 | [Power BI: Automation — Recovery for Branch Office Simulator](Project_032873/README.md) |
+| 032874 | [Power BI: Automation — Reporting for Branch Office Simulator](Project_032874/README.md) |
+| 032875 | [Power BI: Automation — Usability Improvement for Branch Office Simulator](Project_032875/README.md) |
+| 032876 | [Power BI: Automation — Baseline Setup for Offline Classroom](Project_032876/README.md) |
+| 032877 | [Power BI: Automation — Automation for Offline Classroom](Project_032877/README.md) |
+| 032878 | [Power BI: Automation — Recovery for Offline Classroom](Project_032878/README.md) |
+| 032879 | [Power BI: Automation — Reporting for Offline Classroom](Project_032879/README.md) |
+| 032880 | [Power BI: Automation — Usability Improvement for Offline Classroom](Project_032880/README.md) |
 
 [Back to the portfolio home](../README.md)
