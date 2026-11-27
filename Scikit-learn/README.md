@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034518 | [Scikit-learn: Access Review — Recovery for Public Dataset](Project_034518/README.md) |
 | 034519 | [Scikit-learn: Access Review — Reporting for Public Dataset](Project_034519/README.md) |
 | 034520 | [Scikit-learn: Access Review — Usability Improvement for Public Dataset](Project_034520/README.md) |
+| 034521 | [Scikit-learn: Access Review — Baseline Setup for Branch Office Simulator](Project_034521/README.md) |
+| 034522 | [Scikit-learn: Access Review — Automation for Branch Office Simulator](Project_034522/README.md) |
+| 034523 | [Scikit-learn: Access Review — Recovery for Branch Office Simulator](Project_034523/README.md) |
+| 034524 | [Scikit-learn: Access Review — Reporting for Branch Office Simulator](Project_034524/README.md) |
+| 034525 | [Scikit-learn: Access Review — Usability Improvement for Branch Office Simulator](Project_034525/README.md) |
+| 034526 | [Scikit-learn: Access Review — Baseline Setup for Offline Classroom](Project_034526/README.md) |
+| 034527 | [Scikit-learn: Access Review — Automation for Offline Classroom](Project_034527/README.md) |
+| 034528 | [Scikit-learn: Access Review — Recovery for Offline Classroom](Project_034528/README.md) |
+| 034529 | [Scikit-learn: Access Review — Reporting for Offline Classroom](Project_034529/README.md) |
+| 034530 | [Scikit-learn: Access Review — Usability Improvement for Offline Classroom](Project_034530/README.md) |
+| 034531 | [Scikit-learn: Access Review — Baseline Setup for Single-Host Lab](Project_034531/README.md) |
+| 034532 | [Scikit-learn: Access Review — Automation for Single-Host Lab](Project_034532/README.md) |
+| 034533 | [Scikit-learn: Access Review — Recovery for Single-Host Lab](Project_034533/README.md) |
+| 034534 | [Scikit-learn: Access Review — Reporting for Single-Host Lab](Project_034534/README.md) |
+| 034535 | [Scikit-learn: Access Review — Usability Improvement for Single-Host Lab](Project_034535/README.md) |
+| 034536 | [Scikit-learn: Access Review — Baseline Setup for Two-Node Lab](Project_034536/README.md) |
+| 034537 | [Scikit-learn: Access Review — Automation for Two-Node Lab](Project_034537/README.md) |
+| 034538 | [Scikit-learn: Access Review — Recovery for Two-Node Lab](Project_034538/README.md) |
+| 034539 | [Scikit-learn: Access Review — Reporting for Two-Node Lab](Project_034539/README.md) |
+| 034540 | [Scikit-learn: Access Review — Usability Improvement for Two-Node Lab](Project_034540/README.md) |
 
 [Back to the portfolio home](../README.md)
