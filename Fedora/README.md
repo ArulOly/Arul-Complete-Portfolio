@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004178 | [Fedora: Log Analysis — Recovery for Offline Classroom](Project_004178/README.md) |
 | 004179 | [Fedora: Log Analysis — Reporting for Offline Classroom](Project_004179/README.md) |
 | 004180 | [Fedora: Log Analysis — Usability Improvement for Offline Classroom](Project_004180/README.md) |
+| 004181 | [Fedora: Log Analysis — Baseline Setup for Single-Host Lab](Project_004181/README.md) |
+| 004182 | [Fedora: Log Analysis — Automation for Single-Host Lab](Project_004182/README.md) |
+| 004183 | [Fedora: Log Analysis — Recovery for Single-Host Lab](Project_004183/README.md) |
+| 004184 | [Fedora: Log Analysis — Reporting for Single-Host Lab](Project_004184/README.md) |
+| 004185 | [Fedora: Log Analysis — Usability Improvement for Single-Host Lab](Project_004185/README.md) |
+| 004186 | [Fedora: Log Analysis — Baseline Setup for Two-Node Lab](Project_004186/README.md) |
+| 004187 | [Fedora: Log Analysis — Automation for Two-Node Lab](Project_004187/README.md) |
+| 004188 | [Fedora: Log Analysis — Recovery for Two-Node Lab](Project_004188/README.md) |
+| 004189 | [Fedora: Log Analysis — Reporting for Two-Node Lab](Project_004189/README.md) |
+| 004190 | [Fedora: Log Analysis — Usability Improvement for Two-Node Lab](Project_004190/README.md) |
+| 004191 | [Fedora: Log Analysis — Baseline Setup for Help Desk](Project_004191/README.md) |
+| 004192 | [Fedora: Log Analysis — Automation for Help Desk](Project_004192/README.md) |
+| 004193 | [Fedora: Log Analysis — Recovery for Help Desk](Project_004193/README.md) |
+| 004194 | [Fedora: Log Analysis — Reporting for Help Desk](Project_004194/README.md) |
+| 004195 | [Fedora: Log Analysis — Usability Improvement for Help Desk](Project_004195/README.md) |
+| 004196 | [Fedora: Log Analysis — Baseline Setup for Portfolio Demo](Project_004196/README.md) |
+| 004197 | [Fedora: Log Analysis — Automation for Portfolio Demo](Project_004197/README.md) |
+| 004198 | [Fedora: Log Analysis — Recovery for Portfolio Demo](Project_004198/README.md) |
+| 004199 | [Fedora: Log Analysis — Reporting for Portfolio Demo](Project_004199/README.md) |
+| 004200 | [Fedora: Log Analysis — Usability Improvement for Portfolio Demo](Project_004200/README.md) |
 
 [Back to the portfolio home](../README.md)
