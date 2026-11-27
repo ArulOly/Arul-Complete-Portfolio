@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024298 | [Node.js: Data Import — Recovery for Portfolio Demo](Project_024298/README.md) |
 | 024299 | [Node.js: Data Import — Reporting for Portfolio Demo](Project_024299/README.md) |
 | 024300 | [Node.js: Data Import — Usability Improvement for Portfolio Demo](Project_024300/README.md) |
+| 024301 | [Node.js: Data Export — Baseline Setup for School Lab](Project_024301/README.md) |
+| 024302 | [Node.js: Data Export — Automation for School Lab](Project_024302/README.md) |
+| 024303 | [Node.js: Data Export — Recovery for School Lab](Project_024303/README.md) |
+| 024304 | [Node.js: Data Export — Reporting for School Lab](Project_024304/README.md) |
+| 024305 | [Node.js: Data Export — Usability Improvement for School Lab](Project_024305/README.md) |
+| 024306 | [Node.js: Data Export — Baseline Setup for Small Business](Project_024306/README.md) |
+| 024307 | [Node.js: Data Export — Automation for Small Business](Project_024307/README.md) |
+| 024308 | [Node.js: Data Export — Recovery for Small Business](Project_024308/README.md) |
+| 024309 | [Node.js: Data Export — Reporting for Small Business](Project_024309/README.md) |
+| 024310 | [Node.js: Data Export — Usability Improvement for Small Business](Project_024310/README.md) |
+| 024311 | [Node.js: Data Export — Baseline Setup for Home Development](Project_024311/README.md) |
+| 024312 | [Node.js: Data Export — Automation for Home Development](Project_024312/README.md) |
+| 024313 | [Node.js: Data Export — Recovery for Home Development](Project_024313/README.md) |
+| 024314 | [Node.js: Data Export — Reporting for Home Development](Project_024314/README.md) |
+| 024315 | [Node.js: Data Export — Usability Improvement for Home Development](Project_024315/README.md) |
+| 024316 | [Node.js: Data Export — Baseline Setup for Public Dataset](Project_024316/README.md) |
+| 024317 | [Node.js: Data Export — Automation for Public Dataset](Project_024317/README.md) |
+| 024318 | [Node.js: Data Export — Recovery for Public Dataset](Project_024318/README.md) |
+| 024319 | [Node.js: Data Export — Reporting for Public Dataset](Project_024319/README.md) |
+| 024320 | [Node.js: Data Export — Usability Improvement for Public Dataset](Project_024320/README.md) |
 
 [Back to the portfolio home](../README.md)
