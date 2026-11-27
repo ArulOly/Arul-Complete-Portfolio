@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034978 | [Scikit-learn: Recovery Test — Recovery for Offline Classroom](Project_034978/README.md) |
 | 034979 | [Scikit-learn: Recovery Test — Reporting for Offline Classroom](Project_034979/README.md) |
 | 034980 | [Scikit-learn: Recovery Test — Usability Improvement for Offline Classroom](Project_034980/README.md) |
+| 034981 | [Scikit-learn: Recovery Test — Baseline Setup for Single-Host Lab](Project_034981/README.md) |
+| 034982 | [Scikit-learn: Recovery Test — Automation for Single-Host Lab](Project_034982/README.md) |
+| 034983 | [Scikit-learn: Recovery Test — Recovery for Single-Host Lab](Project_034983/README.md) |
+| 034984 | [Scikit-learn: Recovery Test — Reporting for Single-Host Lab](Project_034984/README.md) |
+| 034985 | [Scikit-learn: Recovery Test — Usability Improvement for Single-Host Lab](Project_034985/README.md) |
+| 034986 | [Scikit-learn: Recovery Test — Baseline Setup for Two-Node Lab](Project_034986/README.md) |
+| 034987 | [Scikit-learn: Recovery Test — Automation for Two-Node Lab](Project_034987/README.md) |
+| 034988 | [Scikit-learn: Recovery Test — Recovery for Two-Node Lab](Project_034988/README.md) |
+| 034989 | [Scikit-learn: Recovery Test — Reporting for Two-Node Lab](Project_034989/README.md) |
+| 034990 | [Scikit-learn: Recovery Test — Usability Improvement for Two-Node Lab](Project_034990/README.md) |
+| 034991 | [Scikit-learn: Recovery Test — Baseline Setup for Help Desk](Project_034991/README.md) |
+| 034992 | [Scikit-learn: Recovery Test — Automation for Help Desk](Project_034992/README.md) |
+| 034993 | [Scikit-learn: Recovery Test — Recovery for Help Desk](Project_034993/README.md) |
+| 034994 | [Scikit-learn: Recovery Test — Reporting for Help Desk](Project_034994/README.md) |
+| 034995 | [Scikit-learn: Recovery Test — Usability Improvement for Help Desk](Project_034995/README.md) |
+| 034996 | [Scikit-learn: Recovery Test — Baseline Setup for Portfolio Demo](Project_034996/README.md) |
+| 034997 | [Scikit-learn: Recovery Test — Automation for Portfolio Demo](Project_034997/README.md) |
+| 034998 | [Scikit-learn: Recovery Test — Recovery for Portfolio Demo](Project_034998/README.md) |
+| 034999 | [Scikit-learn: Recovery Test — Reporting for Portfolio Demo](Project_034999/README.md) |
+| 035000 | [Scikit-learn: Recovery Test — Usability Improvement for Portfolio Demo](Project_035000/README.md) |
 
 [Back to the portfolio home](../README.md)
