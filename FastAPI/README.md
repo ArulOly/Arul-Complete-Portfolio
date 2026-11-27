@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049218 | [FastAPI: Backup Verification — Recovery for Public Dataset](Project_049218/README.md) |
 | 049219 | [FastAPI: Backup Verification — Reporting for Public Dataset](Project_049219/README.md) |
 | 049220 | [FastAPI: Backup Verification — Usability Improvement for Public Dataset](Project_049220/README.md) |
+| 049221 | [FastAPI: Backup Verification — Baseline Setup for Branch Office Simulator](Project_049221/README.md) |
+| 049222 | [FastAPI: Backup Verification — Automation for Branch Office Simulator](Project_049222/README.md) |
+| 049223 | [FastAPI: Backup Verification — Recovery for Branch Office Simulator](Project_049223/README.md) |
+| 049224 | [FastAPI: Backup Verification — Reporting for Branch Office Simulator](Project_049224/README.md) |
+| 049225 | [FastAPI: Backup Verification — Usability Improvement for Branch Office Simulator](Project_049225/README.md) |
+| 049226 | [FastAPI: Backup Verification — Baseline Setup for Offline Classroom](Project_049226/README.md) |
+| 049227 | [FastAPI: Backup Verification — Automation for Offline Classroom](Project_049227/README.md) |
+| 049228 | [FastAPI: Backup Verification — Recovery for Offline Classroom](Project_049228/README.md) |
+| 049229 | [FastAPI: Backup Verification — Reporting for Offline Classroom](Project_049229/README.md) |
+| 049230 | [FastAPI: Backup Verification — Usability Improvement for Offline Classroom](Project_049230/README.md) |
+| 049231 | [FastAPI: Backup Verification — Baseline Setup for Single-Host Lab](Project_049231/README.md) |
+| 049232 | [FastAPI: Backup Verification — Automation for Single-Host Lab](Project_049232/README.md) |
+| 049233 | [FastAPI: Backup Verification — Recovery for Single-Host Lab](Project_049233/README.md) |
+| 049234 | [FastAPI: Backup Verification — Reporting for Single-Host Lab](Project_049234/README.md) |
+| 049235 | [FastAPI: Backup Verification — Usability Improvement for Single-Host Lab](Project_049235/README.md) |
+| 049236 | [FastAPI: Backup Verification — Baseline Setup for Two-Node Lab](Project_049236/README.md) |
+| 049237 | [FastAPI: Backup Verification — Automation for Two-Node Lab](Project_049237/README.md) |
+| 049238 | [FastAPI: Backup Verification — Recovery for Two-Node Lab](Project_049238/README.md) |
+| 049239 | [FastAPI: Backup Verification — Reporting for Two-Node Lab](Project_049239/README.md) |
+| 049240 | [FastAPI: Backup Verification — Usability Improvement for Two-Node Lab](Project_049240/README.md) |
 
 [Back to the portfolio home](../README.md)
