@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032758 | [Power BI: Data Validation — Recovery for Small Business](Project_032758/README.md) |
 | 032759 | [Power BI: Data Validation — Reporting for Small Business](Project_032759/README.md) |
 | 032760 | [Power BI: Data Validation — Usability Improvement for Small Business](Project_032760/README.md) |
+| 032761 | [Power BI: Data Validation — Baseline Setup for Home Development](Project_032761/README.md) |
+| 032762 | [Power BI: Data Validation — Automation for Home Development](Project_032762/README.md) |
+| 032763 | [Power BI: Data Validation — Recovery for Home Development](Project_032763/README.md) |
+| 032764 | [Power BI: Data Validation — Reporting for Home Development](Project_032764/README.md) |
+| 032765 | [Power BI: Data Validation — Usability Improvement for Home Development](Project_032765/README.md) |
+| 032766 | [Power BI: Data Validation — Baseline Setup for Public Dataset](Project_032766/README.md) |
+| 032767 | [Power BI: Data Validation — Automation for Public Dataset](Project_032767/README.md) |
+| 032768 | [Power BI: Data Validation — Recovery for Public Dataset](Project_032768/README.md) |
+| 032769 | [Power BI: Data Validation — Reporting for Public Dataset](Project_032769/README.md) |
+| 032770 | [Power BI: Data Validation — Usability Improvement for Public Dataset](Project_032770/README.md) |
+| 032771 | [Power BI: Data Validation — Baseline Setup for Branch Office Simulator](Project_032771/README.md) |
+| 032772 | [Power BI: Data Validation — Automation for Branch Office Simulator](Project_032772/README.md) |
+| 032773 | [Power BI: Data Validation — Recovery for Branch Office Simulator](Project_032773/README.md) |
+| 032774 | [Power BI: Data Validation — Reporting for Branch Office Simulator](Project_032774/README.md) |
+| 032775 | [Power BI: Data Validation — Usability Improvement for Branch Office Simulator](Project_032775/README.md) |
+| 032776 | [Power BI: Data Validation — Baseline Setup for Offline Classroom](Project_032776/README.md) |
+| 032777 | [Power BI: Data Validation — Automation for Offline Classroom](Project_032777/README.md) |
+| 032778 | [Power BI: Data Validation — Recovery for Offline Classroom](Project_032778/README.md) |
+| 032779 | [Power BI: Data Validation — Reporting for Offline Classroom](Project_032779/README.md) |
+| 032780 | [Power BI: Data Validation — Usability Improvement for Offline Classroom](Project_032780/README.md) |
 
 [Back to the portfolio home](../README.md)
