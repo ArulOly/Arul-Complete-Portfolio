@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003458 | [Debian: Scheduled Reporting — Recovery for Small Business](Project_003458/README.md) |
 | 003459 | [Debian: Scheduled Reporting — Reporting for Small Business](Project_003459/README.md) |
 | 003460 | [Debian: Scheduled Reporting — Usability Improvement for Small Business](Project_003460/README.md) |
+| 003461 | [Debian: Scheduled Reporting — Baseline Setup for Home Development](Project_003461/README.md) |
+| 003462 | [Debian: Scheduled Reporting — Automation for Home Development](Project_003462/README.md) |
+| 003463 | [Debian: Scheduled Reporting — Recovery for Home Development](Project_003463/README.md) |
+| 003464 | [Debian: Scheduled Reporting — Reporting for Home Development](Project_003464/README.md) |
+| 003465 | [Debian: Scheduled Reporting — Usability Improvement for Home Development](Project_003465/README.md) |
+| 003466 | [Debian: Scheduled Reporting — Baseline Setup for Public Dataset](Project_003466/README.md) |
+| 003467 | [Debian: Scheduled Reporting — Automation for Public Dataset](Project_003467/README.md) |
+| 003468 | [Debian: Scheduled Reporting — Recovery for Public Dataset](Project_003468/README.md) |
+| 003469 | [Debian: Scheduled Reporting — Reporting for Public Dataset](Project_003469/README.md) |
+| 003470 | [Debian: Scheduled Reporting — Usability Improvement for Public Dataset](Project_003470/README.md) |
+| 003471 | [Debian: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_003471/README.md) |
+| 003472 | [Debian: Scheduled Reporting — Automation for Branch Office Simulator](Project_003472/README.md) |
+| 003473 | [Debian: Scheduled Reporting — Recovery for Branch Office Simulator](Project_003473/README.md) |
+| 003474 | [Debian: Scheduled Reporting — Reporting for Branch Office Simulator](Project_003474/README.md) |
+| 003475 | [Debian: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_003475/README.md) |
+| 003476 | [Debian: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_003476/README.md) |
+| 003477 | [Debian: Scheduled Reporting — Automation for Offline Classroom](Project_003477/README.md) |
+| 003478 | [Debian: Scheduled Reporting — Recovery for Offline Classroom](Project_003478/README.md) |
+| 003479 | [Debian: Scheduled Reporting — Reporting for Offline Classroom](Project_003479/README.md) |
+| 003480 | [Debian: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_003480/README.md) |
 
 [Back to the portfolio home](../README.md)
