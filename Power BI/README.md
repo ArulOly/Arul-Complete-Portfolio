@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032178 | [Power BI: Log Analysis — Recovery for Offline Classroom](Project_032178/README.md) |
 | 032179 | [Power BI: Log Analysis — Reporting for Offline Classroom](Project_032179/README.md) |
 | 032180 | [Power BI: Log Analysis — Usability Improvement for Offline Classroom](Project_032180/README.md) |
+| 032181 | [Power BI: Log Analysis — Baseline Setup for Single-Host Lab](Project_032181/README.md) |
+| 032182 | [Power BI: Log Analysis — Automation for Single-Host Lab](Project_032182/README.md) |
+| 032183 | [Power BI: Log Analysis — Recovery for Single-Host Lab](Project_032183/README.md) |
+| 032184 | [Power BI: Log Analysis — Reporting for Single-Host Lab](Project_032184/README.md) |
+| 032185 | [Power BI: Log Analysis — Usability Improvement for Single-Host Lab](Project_032185/README.md) |
+| 032186 | [Power BI: Log Analysis — Baseline Setup for Two-Node Lab](Project_032186/README.md) |
+| 032187 | [Power BI: Log Analysis — Automation for Two-Node Lab](Project_032187/README.md) |
+| 032188 | [Power BI: Log Analysis — Recovery for Two-Node Lab](Project_032188/README.md) |
+| 032189 | [Power BI: Log Analysis — Reporting for Two-Node Lab](Project_032189/README.md) |
+| 032190 | [Power BI: Log Analysis — Usability Improvement for Two-Node Lab](Project_032190/README.md) |
+| 032191 | [Power BI: Log Analysis — Baseline Setup for Help Desk](Project_032191/README.md) |
+| 032192 | [Power BI: Log Analysis — Automation for Help Desk](Project_032192/README.md) |
+| 032193 | [Power BI: Log Analysis — Recovery for Help Desk](Project_032193/README.md) |
+| 032194 | [Power BI: Log Analysis — Reporting for Help Desk](Project_032194/README.md) |
+| 032195 | [Power BI: Log Analysis — Usability Improvement for Help Desk](Project_032195/README.md) |
+| 032196 | [Power BI: Log Analysis — Baseline Setup for Portfolio Demo](Project_032196/README.md) |
+| 032197 | [Power BI: Log Analysis — Automation for Portfolio Demo](Project_032197/README.md) |
+| 032198 | [Power BI: Log Analysis — Recovery for Portfolio Demo](Project_032198/README.md) |
+| 032199 | [Power BI: Log Analysis — Reporting for Portfolio Demo](Project_032199/README.md) |
+| 032200 | [Power BI: Log Analysis — Usability Improvement for Portfolio Demo](Project_032200/README.md) |
 
 [Back to the portfolio home](../README.md)
