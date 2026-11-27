@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026198 | [MySQL: Log Analysis — Recovery for Portfolio Demo](Project_026198/README.md) |
 | 026199 | [MySQL: Log Analysis — Reporting for Portfolio Demo](Project_026199/README.md) |
 | 026200 | [MySQL: Log Analysis — Usability Improvement for Portfolio Demo](Project_026200/README.md) |
+| 026201 | [MySQL: Backup Verification — Baseline Setup for School Lab](Project_026201/README.md) |
+| 026202 | [MySQL: Backup Verification — Automation for School Lab](Project_026202/README.md) |
+| 026203 | [MySQL: Backup Verification — Recovery for School Lab](Project_026203/README.md) |
+| 026204 | [MySQL: Backup Verification — Reporting for School Lab](Project_026204/README.md) |
+| 026205 | [MySQL: Backup Verification — Usability Improvement for School Lab](Project_026205/README.md) |
+| 026206 | [MySQL: Backup Verification — Baseline Setup for Small Business](Project_026206/README.md) |
+| 026207 | [MySQL: Backup Verification — Automation for Small Business](Project_026207/README.md) |
+| 026208 | [MySQL: Backup Verification — Recovery for Small Business](Project_026208/README.md) |
+| 026209 | [MySQL: Backup Verification — Reporting for Small Business](Project_026209/README.md) |
+| 026210 | [MySQL: Backup Verification — Usability Improvement for Small Business](Project_026210/README.md) |
+| 026211 | [MySQL: Backup Verification — Baseline Setup for Home Development](Project_026211/README.md) |
+| 026212 | [MySQL: Backup Verification — Automation for Home Development](Project_026212/README.md) |
+| 026213 | [MySQL: Backup Verification — Recovery for Home Development](Project_026213/README.md) |
+| 026214 | [MySQL: Backup Verification — Reporting for Home Development](Project_026214/README.md) |
+| 026215 | [MySQL: Backup Verification — Usability Improvement for Home Development](Project_026215/README.md) |
+| 026216 | [MySQL: Backup Verification — Baseline Setup for Public Dataset](Project_026216/README.md) |
+| 026217 | [MySQL: Backup Verification — Automation for Public Dataset](Project_026217/README.md) |
+| 026218 | [MySQL: Backup Verification — Recovery for Public Dataset](Project_026218/README.md) |
+| 026219 | [MySQL: Backup Verification — Reporting for Public Dataset](Project_026219/README.md) |
+| 026220 | [MySQL: Backup Verification — Usability Improvement for Public Dataset](Project_026220/README.md) |
 
 [Back to the portfolio home](../README.md)
