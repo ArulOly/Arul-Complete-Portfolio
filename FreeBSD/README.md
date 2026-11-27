@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005158 | [FreeBSD: Log Analysis — Recovery for Small Business](Project_005158/README.md) |
 | 005159 | [FreeBSD: Log Analysis — Reporting for Small Business](Project_005159/README.md) |
 | 005160 | [FreeBSD: Log Analysis — Usability Improvement for Small Business](Project_005160/README.md) |
+| 005161 | [FreeBSD: Log Analysis — Baseline Setup for Home Development](Project_005161/README.md) |
+| 005162 | [FreeBSD: Log Analysis — Automation for Home Development](Project_005162/README.md) |
+| 005163 | [FreeBSD: Log Analysis — Recovery for Home Development](Project_005163/README.md) |
+| 005164 | [FreeBSD: Log Analysis — Reporting for Home Development](Project_005164/README.md) |
+| 005165 | [FreeBSD: Log Analysis — Usability Improvement for Home Development](Project_005165/README.md) |
+| 005166 | [FreeBSD: Log Analysis — Baseline Setup for Public Dataset](Project_005166/README.md) |
+| 005167 | [FreeBSD: Log Analysis — Automation for Public Dataset](Project_005167/README.md) |
+| 005168 | [FreeBSD: Log Analysis — Recovery for Public Dataset](Project_005168/README.md) |
+| 005169 | [FreeBSD: Log Analysis — Reporting for Public Dataset](Project_005169/README.md) |
+| 005170 | [FreeBSD: Log Analysis — Usability Improvement for Public Dataset](Project_005170/README.md) |
+| 005171 | [FreeBSD: Log Analysis — Baseline Setup for Branch Office Simulator](Project_005171/README.md) |
+| 005172 | [FreeBSD: Log Analysis — Automation for Branch Office Simulator](Project_005172/README.md) |
+| 005173 | [FreeBSD: Log Analysis — Recovery for Branch Office Simulator](Project_005173/README.md) |
+| 005174 | [FreeBSD: Log Analysis — Reporting for Branch Office Simulator](Project_005174/README.md) |
+| 005175 | [FreeBSD: Log Analysis — Usability Improvement for Branch Office Simulator](Project_005175/README.md) |
+| 005176 | [FreeBSD: Log Analysis — Baseline Setup for Offline Classroom](Project_005176/README.md) |
+| 005177 | [FreeBSD: Log Analysis — Automation for Offline Classroom](Project_005177/README.md) |
+| 005178 | [FreeBSD: Log Analysis — Recovery for Offline Classroom](Project_005178/README.md) |
+| 005179 | [FreeBSD: Log Analysis — Reporting for Offline Classroom](Project_005179/README.md) |
+| 005180 | [FreeBSD: Log Analysis — Usability Improvement for Offline Classroom](Project_005180/README.md) |
 
 [Back to the portfolio home](../README.md)
