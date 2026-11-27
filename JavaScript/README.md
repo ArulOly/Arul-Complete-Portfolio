@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020238 | [JavaScript: Backup Verification — Recovery for Two-Node Lab](Project_020238/README.md) |
 | 020239 | [JavaScript: Backup Verification — Reporting for Two-Node Lab](Project_020239/README.md) |
 | 020240 | [JavaScript: Backup Verification — Usability Improvement for Two-Node Lab](Project_020240/README.md) |
+| 020241 | [JavaScript: Backup Verification — Baseline Setup for Help Desk](Project_020241/README.md) |
+| 020242 | [JavaScript: Backup Verification — Automation for Help Desk](Project_020242/README.md) |
+| 020243 | [JavaScript: Backup Verification — Recovery for Help Desk](Project_020243/README.md) |
+| 020244 | [JavaScript: Backup Verification — Reporting for Help Desk](Project_020244/README.md) |
+| 020245 | [JavaScript: Backup Verification — Usability Improvement for Help Desk](Project_020245/README.md) |
+| 020246 | [JavaScript: Backup Verification — Baseline Setup for Portfolio Demo](Project_020246/README.md) |
+| 020247 | [JavaScript: Backup Verification — Automation for Portfolio Demo](Project_020247/README.md) |
+| 020248 | [JavaScript: Backup Verification — Recovery for Portfolio Demo](Project_020248/README.md) |
+| 020249 | [JavaScript: Backup Verification — Reporting for Portfolio Demo](Project_020249/README.md) |
+| 020250 | [JavaScript: Backup Verification — Usability Improvement for Portfolio Demo](Project_020250/README.md) |
+| 020251 | [JavaScript: Data Import — Baseline Setup for School Lab](Project_020251/README.md) |
+| 020252 | [JavaScript: Data Import — Automation for School Lab](Project_020252/README.md) |
+| 020253 | [JavaScript: Data Import — Recovery for School Lab](Project_020253/README.md) |
+| 020254 | [JavaScript: Data Import — Reporting for School Lab](Project_020254/README.md) |
+| 020255 | [JavaScript: Data Import — Usability Improvement for School Lab](Project_020255/README.md) |
+| 020256 | [JavaScript: Data Import — Baseline Setup for Small Business](Project_020256/README.md) |
+| 020257 | [JavaScript: Data Import — Automation for Small Business](Project_020257/README.md) |
+| 020258 | [JavaScript: Data Import — Recovery for Small Business](Project_020258/README.md) |
+| 020259 | [JavaScript: Data Import — Reporting for Small Business](Project_020259/README.md) |
+| 020260 | [JavaScript: Data Import — Usability Improvement for Small Business](Project_020260/README.md) |
 
 [Back to the portfolio home](../README.md)
