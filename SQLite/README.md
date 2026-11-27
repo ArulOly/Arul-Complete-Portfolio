@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028778 | [SQLite: Data Validation — Recovery for Offline Classroom](Project_028778/README.md) |
 | 028779 | [SQLite: Data Validation — Reporting for Offline Classroom](Project_028779/README.md) |
 | 028780 | [SQLite: Data Validation — Usability Improvement for Offline Classroom](Project_028780/README.md) |
+| 028781 | [SQLite: Data Validation — Baseline Setup for Single-Host Lab](Project_028781/README.md) |
+| 028782 | [SQLite: Data Validation — Automation for Single-Host Lab](Project_028782/README.md) |
+| 028783 | [SQLite: Data Validation — Recovery for Single-Host Lab](Project_028783/README.md) |
+| 028784 | [SQLite: Data Validation — Reporting for Single-Host Lab](Project_028784/README.md) |
+| 028785 | [SQLite: Data Validation — Usability Improvement for Single-Host Lab](Project_028785/README.md) |
+| 028786 | [SQLite: Data Validation — Baseline Setup for Two-Node Lab](Project_028786/README.md) |
+| 028787 | [SQLite: Data Validation — Automation for Two-Node Lab](Project_028787/README.md) |
+| 028788 | [SQLite: Data Validation — Recovery for Two-Node Lab](Project_028788/README.md) |
+| 028789 | [SQLite: Data Validation — Reporting for Two-Node Lab](Project_028789/README.md) |
+| 028790 | [SQLite: Data Validation — Usability Improvement for Two-Node Lab](Project_028790/README.md) |
+| 028791 | [SQLite: Data Validation — Baseline Setup for Help Desk](Project_028791/README.md) |
+| 028792 | [SQLite: Data Validation — Automation for Help Desk](Project_028792/README.md) |
+| 028793 | [SQLite: Data Validation — Recovery for Help Desk](Project_028793/README.md) |
+| 028794 | [SQLite: Data Validation — Reporting for Help Desk](Project_028794/README.md) |
+| 028795 | [SQLite: Data Validation — Usability Improvement for Help Desk](Project_028795/README.md) |
+| 028796 | [SQLite: Data Validation — Baseline Setup for Portfolio Demo](Project_028796/README.md) |
+| 028797 | [SQLite: Data Validation — Automation for Portfolio Demo](Project_028797/README.md) |
+| 028798 | [SQLite: Data Validation — Recovery for Portfolio Demo](Project_028798/README.md) |
+| 028799 | [SQLite: Data Validation — Reporting for Portfolio Demo](Project_028799/README.md) |
+| 028800 | [SQLite: Data Validation — Usability Improvement for Portfolio Demo](Project_028800/README.md) |
 
 [Back to the portfolio home](../README.md)
