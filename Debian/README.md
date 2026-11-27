@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003578 | [Debian: Performance Baseline — Recovery for Offline Classroom](Project_003578/README.md) |
 | 003579 | [Debian: Performance Baseline — Reporting for Offline Classroom](Project_003579/README.md) |
 | 003580 | [Debian: Performance Baseline — Usability Improvement for Offline Classroom](Project_003580/README.md) |
+| 003581 | [Debian: Performance Baseline — Baseline Setup for Single-Host Lab](Project_003581/README.md) |
+| 003582 | [Debian: Performance Baseline — Automation for Single-Host Lab](Project_003582/README.md) |
+| 003583 | [Debian: Performance Baseline — Recovery for Single-Host Lab](Project_003583/README.md) |
+| 003584 | [Debian: Performance Baseline — Reporting for Single-Host Lab](Project_003584/README.md) |
+| 003585 | [Debian: Performance Baseline — Usability Improvement for Single-Host Lab](Project_003585/README.md) |
+| 003586 | [Debian: Performance Baseline — Baseline Setup for Two-Node Lab](Project_003586/README.md) |
+| 003587 | [Debian: Performance Baseline — Automation for Two-Node Lab](Project_003587/README.md) |
+| 003588 | [Debian: Performance Baseline — Recovery for Two-Node Lab](Project_003588/README.md) |
+| 003589 | [Debian: Performance Baseline — Reporting for Two-Node Lab](Project_003589/README.md) |
+| 003590 | [Debian: Performance Baseline — Usability Improvement for Two-Node Lab](Project_003590/README.md) |
+| 003591 | [Debian: Performance Baseline — Baseline Setup for Help Desk](Project_003591/README.md) |
+| 003592 | [Debian: Performance Baseline — Automation for Help Desk](Project_003592/README.md) |
+| 003593 | [Debian: Performance Baseline — Recovery for Help Desk](Project_003593/README.md) |
+| 003594 | [Debian: Performance Baseline — Reporting for Help Desk](Project_003594/README.md) |
+| 003595 | [Debian: Performance Baseline — Usability Improvement for Help Desk](Project_003595/README.md) |
+| 003596 | [Debian: Performance Baseline — Baseline Setup for Portfolio Demo](Project_003596/README.md) |
+| 003597 | [Debian: Performance Baseline — Automation for Portfolio Demo](Project_003597/README.md) |
+| 003598 | [Debian: Performance Baseline — Recovery for Portfolio Demo](Project_003598/README.md) |
+| 003599 | [Debian: Performance Baseline — Reporting for Portfolio Demo](Project_003599/README.md) |
+| 003600 | [Debian: Performance Baseline — Usability Improvement for Portfolio Demo](Project_003600/README.md) |
 
 [Back to the portfolio home](../README.md)
