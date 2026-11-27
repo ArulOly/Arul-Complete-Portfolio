@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021658 | [TypeScript: Configuration Comparison — Recovery for Small Business](Project_021658/README.md) |
 | 021659 | [TypeScript: Configuration Comparison — Reporting for Small Business](Project_021659/README.md) |
 | 021660 | [TypeScript: Configuration Comparison — Usability Improvement for Small Business](Project_021660/README.md) |
+| 021661 | [TypeScript: Configuration Comparison — Baseline Setup for Home Development](Project_021661/README.md) |
+| 021662 | [TypeScript: Configuration Comparison — Automation for Home Development](Project_021662/README.md) |
+| 021663 | [TypeScript: Configuration Comparison — Recovery for Home Development](Project_021663/README.md) |
+| 021664 | [TypeScript: Configuration Comparison — Reporting for Home Development](Project_021664/README.md) |
+| 021665 | [TypeScript: Configuration Comparison — Usability Improvement for Home Development](Project_021665/README.md) |
+| 021666 | [TypeScript: Configuration Comparison — Baseline Setup for Public Dataset](Project_021666/README.md) |
+| 021667 | [TypeScript: Configuration Comparison — Automation for Public Dataset](Project_021667/README.md) |
+| 021668 | [TypeScript: Configuration Comparison — Recovery for Public Dataset](Project_021668/README.md) |
+| 021669 | [TypeScript: Configuration Comparison — Reporting for Public Dataset](Project_021669/README.md) |
+| 021670 | [TypeScript: Configuration Comparison — Usability Improvement for Public Dataset](Project_021670/README.md) |
+| 021671 | [TypeScript: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_021671/README.md) |
+| 021672 | [TypeScript: Configuration Comparison — Automation for Branch Office Simulator](Project_021672/README.md) |
+| 021673 | [TypeScript: Configuration Comparison — Recovery for Branch Office Simulator](Project_021673/README.md) |
+| 021674 | [TypeScript: Configuration Comparison — Reporting for Branch Office Simulator](Project_021674/README.md) |
+| 021675 | [TypeScript: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_021675/README.md) |
+| 021676 | [TypeScript: Configuration Comparison — Baseline Setup for Offline Classroom](Project_021676/README.md) |
+| 021677 | [TypeScript: Configuration Comparison — Automation for Offline Classroom](Project_021677/README.md) |
+| 021678 | [TypeScript: Configuration Comparison — Recovery for Offline Classroom](Project_021678/README.md) |
+| 021679 | [TypeScript: Configuration Comparison — Reporting for Offline Classroom](Project_021679/README.md) |
+| 021680 | [TypeScript: Configuration Comparison — Usability Improvement for Offline Classroom](Project_021680/README.md) |
 
 [Back to the portfolio home](../README.md)
