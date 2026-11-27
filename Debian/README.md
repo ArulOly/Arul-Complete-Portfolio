@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003558 | [Debian: Performance Baseline — Recovery for Small Business](Project_003558/README.md) |
 | 003559 | [Debian: Performance Baseline — Reporting for Small Business](Project_003559/README.md) |
 | 003560 | [Debian: Performance Baseline — Usability Improvement for Small Business](Project_003560/README.md) |
+| 003561 | [Debian: Performance Baseline — Baseline Setup for Home Development](Project_003561/README.md) |
+| 003562 | [Debian: Performance Baseline — Automation for Home Development](Project_003562/README.md) |
+| 003563 | [Debian: Performance Baseline — Recovery for Home Development](Project_003563/README.md) |
+| 003564 | [Debian: Performance Baseline — Reporting for Home Development](Project_003564/README.md) |
+| 003565 | [Debian: Performance Baseline — Usability Improvement for Home Development](Project_003565/README.md) |
+| 003566 | [Debian: Performance Baseline — Baseline Setup for Public Dataset](Project_003566/README.md) |
+| 003567 | [Debian: Performance Baseline — Automation for Public Dataset](Project_003567/README.md) |
+| 003568 | [Debian: Performance Baseline — Recovery for Public Dataset](Project_003568/README.md) |
+| 003569 | [Debian: Performance Baseline — Reporting for Public Dataset](Project_003569/README.md) |
+| 003570 | [Debian: Performance Baseline — Usability Improvement for Public Dataset](Project_003570/README.md) |
+| 003571 | [Debian: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_003571/README.md) |
+| 003572 | [Debian: Performance Baseline — Automation for Branch Office Simulator](Project_003572/README.md) |
+| 003573 | [Debian: Performance Baseline — Recovery for Branch Office Simulator](Project_003573/README.md) |
+| 003574 | [Debian: Performance Baseline — Reporting for Branch Office Simulator](Project_003574/README.md) |
+| 003575 | [Debian: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_003575/README.md) |
+| 003576 | [Debian: Performance Baseline — Baseline Setup for Offline Classroom](Project_003576/README.md) |
+| 003577 | [Debian: Performance Baseline — Automation for Offline Classroom](Project_003577/README.md) |
+| 003578 | [Debian: Performance Baseline — Recovery for Offline Classroom](Project_003578/README.md) |
+| 003579 | [Debian: Performance Baseline — Reporting for Offline Classroom](Project_003579/README.md) |
+| 003580 | [Debian: Performance Baseline — Usability Improvement for Offline Classroom](Project_003580/README.md) |
 
 [Back to the portfolio home](../README.md)
