@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -544,5 +544,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019498 | [Python: Scheduled Reporting — Recovery for Portfolio Demo](Project_019498/README.md) |
 | 019499 | [Python: Scheduled Reporting — Reporting for Portfolio Demo](Project_019499/README.md) |
 | 019500 | [Python: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_019500/README.md) |
+| 019501 | [Python: Access Review — Baseline Setup for School Lab](Project_019501/README.md) |
+| 019502 | [Python: Access Review — Automation for School Lab](Project_019502/README.md) |
+| 019503 | [Python: Access Review — Recovery for School Lab](Project_019503/README.md) |
+| 019504 | [Python: Access Review — Reporting for School Lab](Project_019504/README.md) |
+| 019505 | [Python: Access Review — Usability Improvement for School Lab](Project_019505/README.md) |
+| 019506 | [Python: Access Review — Baseline Setup for Small Business](Project_019506/README.md) |
+| 019507 | [Python: Access Review — Automation for Small Business](Project_019507/README.md) |
+| 019508 | [Python: Access Review — Recovery for Small Business](Project_019508/README.md) |
+| 019509 | [Python: Access Review — Reporting for Small Business](Project_019509/README.md) |
+| 019510 | [Python: Access Review — Usability Improvement for Small Business](Project_019510/README.md) |
+| 019511 | [Python: Access Review — Baseline Setup for Home Development](Project_019511/README.md) |
+| 019512 | [Python: Access Review — Automation for Home Development](Project_019512/README.md) |
+| 019513 | [Python: Access Review — Recovery for Home Development](Project_019513/README.md) |
+| 019514 | [Python: Access Review — Reporting for Home Development](Project_019514/README.md) |
+| 019515 | [Python: Access Review — Usability Improvement for Home Development](Project_019515/README.md) |
+| 019516 | [Python: Access Review — Baseline Setup for Public Dataset](Project_019516/README.md) |
+| 019517 | [Python: Access Review — Automation for Public Dataset](Project_019517/README.md) |
+| 019518 | [Python: Access Review — Recovery for Public Dataset](Project_019518/README.md) |
+| 019519 | [Python: Access Review — Reporting for Public Dataset](Project_019519/README.md) |
+| 019520 | [Python: Access Review — Usability Improvement for Public Dataset](Project_019520/README.md) |
 
 [Back to the portfolio home](../README.md)
