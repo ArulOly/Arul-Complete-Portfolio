@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032218 | [Power BI: Backup Verification — Recovery for Public Dataset](Project_032218/README.md) |
 | 032219 | [Power BI: Backup Verification — Reporting for Public Dataset](Project_032219/README.md) |
 | 032220 | [Power BI: Backup Verification — Usability Improvement for Public Dataset](Project_032220/README.md) |
+| 032221 | [Power BI: Backup Verification — Baseline Setup for Branch Office Simulator](Project_032221/README.md) |
+| 032222 | [Power BI: Backup Verification — Automation for Branch Office Simulator](Project_032222/README.md) |
+| 032223 | [Power BI: Backup Verification — Recovery for Branch Office Simulator](Project_032223/README.md) |
+| 032224 | [Power BI: Backup Verification — Reporting for Branch Office Simulator](Project_032224/README.md) |
+| 032225 | [Power BI: Backup Verification — Usability Improvement for Branch Office Simulator](Project_032225/README.md) |
+| 032226 | [Power BI: Backup Verification — Baseline Setup for Offline Classroom](Project_032226/README.md) |
+| 032227 | [Power BI: Backup Verification — Automation for Offline Classroom](Project_032227/README.md) |
+| 032228 | [Power BI: Backup Verification — Recovery for Offline Classroom](Project_032228/README.md) |
+| 032229 | [Power BI: Backup Verification — Reporting for Offline Classroom](Project_032229/README.md) |
+| 032230 | [Power BI: Backup Verification — Usability Improvement for Offline Classroom](Project_032230/README.md) |
+| 032231 | [Power BI: Backup Verification — Baseline Setup for Single-Host Lab](Project_032231/README.md) |
+| 032232 | [Power BI: Backup Verification — Automation for Single-Host Lab](Project_032232/README.md) |
+| 032233 | [Power BI: Backup Verification — Recovery for Single-Host Lab](Project_032233/README.md) |
+| 032234 | [Power BI: Backup Verification — Reporting for Single-Host Lab](Project_032234/README.md) |
+| 032235 | [Power BI: Backup Verification — Usability Improvement for Single-Host Lab](Project_032235/README.md) |
+| 032236 | [Power BI: Backup Verification — Baseline Setup for Two-Node Lab](Project_032236/README.md) |
+| 032237 | [Power BI: Backup Verification — Automation for Two-Node Lab](Project_032237/README.md) |
+| 032238 | [Power BI: Backup Verification — Recovery for Two-Node Lab](Project_032238/README.md) |
+| 032239 | [Power BI: Backup Verification — Reporting for Two-Node Lab](Project_032239/README.md) |
+| 032240 | [Power BI: Backup Verification — Usability Improvement for Two-Node Lab](Project_032240/README.md) |
 
 [Back to the portfolio home](../README.md)
