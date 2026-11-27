@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002778 | [Ubuntu: Data Validation — Recovery for Offline Classroom](Project_002778/README.md) |
 | 002779 | [Ubuntu: Data Validation — Reporting for Offline Classroom](Project_002779/README.md) |
 | 002780 | [Ubuntu: Data Validation — Usability Improvement for Offline Classroom](Project_002780/README.md) |
+| 002781 | [Ubuntu: Data Validation — Baseline Setup for Single-Host Lab](Project_002781/README.md) |
+| 002782 | [Ubuntu: Data Validation — Automation for Single-Host Lab](Project_002782/README.md) |
+| 002783 | [Ubuntu: Data Validation — Recovery for Single-Host Lab](Project_002783/README.md) |
+| 002784 | [Ubuntu: Data Validation — Reporting for Single-Host Lab](Project_002784/README.md) |
+| 002785 | [Ubuntu: Data Validation — Usability Improvement for Single-Host Lab](Project_002785/README.md) |
+| 002786 | [Ubuntu: Data Validation — Baseline Setup for Two-Node Lab](Project_002786/README.md) |
+| 002787 | [Ubuntu: Data Validation — Automation for Two-Node Lab](Project_002787/README.md) |
+| 002788 | [Ubuntu: Data Validation — Recovery for Two-Node Lab](Project_002788/README.md) |
+| 002789 | [Ubuntu: Data Validation — Reporting for Two-Node Lab](Project_002789/README.md) |
+| 002790 | [Ubuntu: Data Validation — Usability Improvement for Two-Node Lab](Project_002790/README.md) |
+| 002791 | [Ubuntu: Data Validation — Baseline Setup for Help Desk](Project_002791/README.md) |
+| 002792 | [Ubuntu: Data Validation — Automation for Help Desk](Project_002792/README.md) |
+| 002793 | [Ubuntu: Data Validation — Recovery for Help Desk](Project_002793/README.md) |
+| 002794 | [Ubuntu: Data Validation — Reporting for Help Desk](Project_002794/README.md) |
+| 002795 | [Ubuntu: Data Validation — Usability Improvement for Help Desk](Project_002795/README.md) |
+| 002796 | [Ubuntu: Data Validation — Baseline Setup for Portfolio Demo](Project_002796/README.md) |
+| 002797 | [Ubuntu: Data Validation — Automation for Portfolio Demo](Project_002797/README.md) |
+| 002798 | [Ubuntu: Data Validation — Recovery for Portfolio Demo](Project_002798/README.md) |
+| 002799 | [Ubuntu: Data Validation — Reporting for Portfolio Demo](Project_002799/README.md) |
+| 002800 | [Ubuntu: Data Validation — Usability Improvement for Portfolio Demo](Project_002800/README.md) |
 
 [Back to the portfolio home](../README.md)
