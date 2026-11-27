@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028578 | [SQLite: Performance Baseline — Recovery for Offline Classroom](Project_028578/README.md) |
 | 028579 | [SQLite: Performance Baseline — Reporting for Offline Classroom](Project_028579/README.md) |
 | 028580 | [SQLite: Performance Baseline — Usability Improvement for Offline Classroom](Project_028580/README.md) |
+| 028581 | [SQLite: Performance Baseline — Baseline Setup for Single-Host Lab](Project_028581/README.md) |
+| 028582 | [SQLite: Performance Baseline — Automation for Single-Host Lab](Project_028582/README.md) |
+| 028583 | [SQLite: Performance Baseline — Recovery for Single-Host Lab](Project_028583/README.md) |
+| 028584 | [SQLite: Performance Baseline — Reporting for Single-Host Lab](Project_028584/README.md) |
+| 028585 | [SQLite: Performance Baseline — Usability Improvement for Single-Host Lab](Project_028585/README.md) |
+| 028586 | [SQLite: Performance Baseline — Baseline Setup for Two-Node Lab](Project_028586/README.md) |
+| 028587 | [SQLite: Performance Baseline — Automation for Two-Node Lab](Project_028587/README.md) |
+| 028588 | [SQLite: Performance Baseline — Recovery for Two-Node Lab](Project_028588/README.md) |
+| 028589 | [SQLite: Performance Baseline — Reporting for Two-Node Lab](Project_028589/README.md) |
+| 028590 | [SQLite: Performance Baseline — Usability Improvement for Two-Node Lab](Project_028590/README.md) |
+| 028591 | [SQLite: Performance Baseline — Baseline Setup for Help Desk](Project_028591/README.md) |
+| 028592 | [SQLite: Performance Baseline — Automation for Help Desk](Project_028592/README.md) |
+| 028593 | [SQLite: Performance Baseline — Recovery for Help Desk](Project_028593/README.md) |
+| 028594 | [SQLite: Performance Baseline — Reporting for Help Desk](Project_028594/README.md) |
+| 028595 | [SQLite: Performance Baseline — Usability Improvement for Help Desk](Project_028595/README.md) |
+| 028596 | [SQLite: Performance Baseline — Baseline Setup for Portfolio Demo](Project_028596/README.md) |
+| 028597 | [SQLite: Performance Baseline — Automation for Portfolio Demo](Project_028597/README.md) |
+| 028598 | [SQLite: Performance Baseline — Recovery for Portfolio Demo](Project_028598/README.md) |
+| 028599 | [SQLite: Performance Baseline — Reporting for Portfolio Demo](Project_028599/README.md) |
+| 028600 | [SQLite: Performance Baseline — Usability Improvement for Portfolio Demo](Project_028600/README.md) |
 
 [Back to the portfolio home](../README.md)
