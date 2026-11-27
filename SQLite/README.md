@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028158 | [SQLite: Log Analysis — Recovery for Small Business](Project_028158/README.md) |
 | 028159 | [SQLite: Log Analysis — Reporting for Small Business](Project_028159/README.md) |
 | 028160 | [SQLite: Log Analysis — Usability Improvement for Small Business](Project_028160/README.md) |
+| 028161 | [SQLite: Log Analysis — Baseline Setup for Home Development](Project_028161/README.md) |
+| 028162 | [SQLite: Log Analysis — Automation for Home Development](Project_028162/README.md) |
+| 028163 | [SQLite: Log Analysis — Recovery for Home Development](Project_028163/README.md) |
+| 028164 | [SQLite: Log Analysis — Reporting for Home Development](Project_028164/README.md) |
+| 028165 | [SQLite: Log Analysis — Usability Improvement for Home Development](Project_028165/README.md) |
+| 028166 | [SQLite: Log Analysis — Baseline Setup for Public Dataset](Project_028166/README.md) |
+| 028167 | [SQLite: Log Analysis — Automation for Public Dataset](Project_028167/README.md) |
+| 028168 | [SQLite: Log Analysis — Recovery for Public Dataset](Project_028168/README.md) |
+| 028169 | [SQLite: Log Analysis — Reporting for Public Dataset](Project_028169/README.md) |
+| 028170 | [SQLite: Log Analysis — Usability Improvement for Public Dataset](Project_028170/README.md) |
+| 028171 | [SQLite: Log Analysis — Baseline Setup for Branch Office Simulator](Project_028171/README.md) |
+| 028172 | [SQLite: Log Analysis — Automation for Branch Office Simulator](Project_028172/README.md) |
+| 028173 | [SQLite: Log Analysis — Recovery for Branch Office Simulator](Project_028173/README.md) |
+| 028174 | [SQLite: Log Analysis — Reporting for Branch Office Simulator](Project_028174/README.md) |
+| 028175 | [SQLite: Log Analysis — Usability Improvement for Branch Office Simulator](Project_028175/README.md) |
+| 028176 | [SQLite: Log Analysis — Baseline Setup for Offline Classroom](Project_028176/README.md) |
+| 028177 | [SQLite: Log Analysis — Automation for Offline Classroom](Project_028177/README.md) |
+| 028178 | [SQLite: Log Analysis — Recovery for Offline Classroom](Project_028178/README.md) |
+| 028179 | [SQLite: Log Analysis — Reporting for Offline Classroom](Project_028179/README.md) |
+| 028180 | [SQLite: Log Analysis — Usability Improvement for Offline Classroom](Project_028180/README.md) |
 
 [Back to the portfolio home](../README.md)
