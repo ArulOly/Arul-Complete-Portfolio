@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049878 | [FastAPI: Automation — Recovery for Offline Classroom](Project_049878/README.md) |
 | 049879 | [FastAPI: Automation — Reporting for Offline Classroom](Project_049879/README.md) |
 | 049880 | [FastAPI: Automation — Usability Improvement for Offline Classroom](Project_049880/README.md) |
+| 049881 | [FastAPI: Automation — Baseline Setup for Single-Host Lab](Project_049881/README.md) |
+| 049882 | [FastAPI: Automation — Automation for Single-Host Lab](Project_049882/README.md) |
+| 049883 | [FastAPI: Automation — Recovery for Single-Host Lab](Project_049883/README.md) |
+| 049884 | [FastAPI: Automation — Reporting for Single-Host Lab](Project_049884/README.md) |
+| 049885 | [FastAPI: Automation — Usability Improvement for Single-Host Lab](Project_049885/README.md) |
+| 049886 | [FastAPI: Automation — Baseline Setup for Two-Node Lab](Project_049886/README.md) |
+| 049887 | [FastAPI: Automation — Automation for Two-Node Lab](Project_049887/README.md) |
+| 049888 | [FastAPI: Automation — Recovery for Two-Node Lab](Project_049888/README.md) |
+| 049889 | [FastAPI: Automation — Reporting for Two-Node Lab](Project_049889/README.md) |
+| 049890 | [FastAPI: Automation — Usability Improvement for Two-Node Lab](Project_049890/README.md) |
+| 049891 | [FastAPI: Automation — Baseline Setup for Help Desk](Project_049891/README.md) |
+| 049892 | [FastAPI: Automation — Automation for Help Desk](Project_049892/README.md) |
+| 049893 | [FastAPI: Automation — Recovery for Help Desk](Project_049893/README.md) |
+| 049894 | [FastAPI: Automation — Reporting for Help Desk](Project_049894/README.md) |
+| 049895 | [FastAPI: Automation — Usability Improvement for Help Desk](Project_049895/README.md) |
+| 049896 | [FastAPI: Automation — Baseline Setup for Portfolio Demo](Project_049896/README.md) |
+| 049897 | [FastAPI: Automation — Automation for Portfolio Demo](Project_049897/README.md) |
+| 049898 | [FastAPI: Automation — Recovery for Portfolio Demo](Project_049898/README.md) |
+| 049899 | [FastAPI: Automation — Reporting for Portfolio Demo](Project_049899/README.md) |
+| 049900 | [FastAPI: Automation — Usability Improvement for Portfolio Demo](Project_049900/README.md) |
 
 [Back to the portfolio home](../README.md)
