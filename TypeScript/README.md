@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021058 | [TypeScript: Monitoring — Recovery for Small Business](Project_021058/README.md) |
 | 021059 | [TypeScript: Monitoring — Reporting for Small Business](Project_021059/README.md) |
 | 021060 | [TypeScript: Monitoring — Usability Improvement for Small Business](Project_021060/README.md) |
+| 021061 | [TypeScript: Monitoring — Baseline Setup for Home Development](Project_021061/README.md) |
+| 021062 | [TypeScript: Monitoring — Automation for Home Development](Project_021062/README.md) |
+| 021063 | [TypeScript: Monitoring — Recovery for Home Development](Project_021063/README.md) |
+| 021064 | [TypeScript: Monitoring — Reporting for Home Development](Project_021064/README.md) |
+| 021065 | [TypeScript: Monitoring — Usability Improvement for Home Development](Project_021065/README.md) |
+| 021066 | [TypeScript: Monitoring — Baseline Setup for Public Dataset](Project_021066/README.md) |
+| 021067 | [TypeScript: Monitoring — Automation for Public Dataset](Project_021067/README.md) |
+| 021068 | [TypeScript: Monitoring — Recovery for Public Dataset](Project_021068/README.md) |
+| 021069 | [TypeScript: Monitoring — Reporting for Public Dataset](Project_021069/README.md) |
+| 021070 | [TypeScript: Monitoring — Usability Improvement for Public Dataset](Project_021070/README.md) |
+| 021071 | [TypeScript: Monitoring — Baseline Setup for Branch Office Simulator](Project_021071/README.md) |
+| 021072 | [TypeScript: Monitoring — Automation for Branch Office Simulator](Project_021072/README.md) |
+| 021073 | [TypeScript: Monitoring — Recovery for Branch Office Simulator](Project_021073/README.md) |
+| 021074 | [TypeScript: Monitoring — Reporting for Branch Office Simulator](Project_021074/README.md) |
+| 021075 | [TypeScript: Monitoring — Usability Improvement for Branch Office Simulator](Project_021075/README.md) |
+| 021076 | [TypeScript: Monitoring — Baseline Setup for Offline Classroom](Project_021076/README.md) |
+| 021077 | [TypeScript: Monitoring — Automation for Offline Classroom](Project_021077/README.md) |
+| 021078 | [TypeScript: Monitoring — Recovery for Offline Classroom](Project_021078/README.md) |
+| 021079 | [TypeScript: Monitoring — Reporting for Offline Classroom](Project_021079/README.md) |
+| 021080 | [TypeScript: Monitoring — Usability Improvement for Offline Classroom](Project_021080/README.md) |
 
 [Back to the portfolio home](../README.md)
