@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026858 | [MySQL: Automation — Recovery for Small Business](Project_026858/README.md) |
 | 026859 | [MySQL: Automation — Reporting for Small Business](Project_026859/README.md) |
 | 026860 | [MySQL: Automation — Usability Improvement for Small Business](Project_026860/README.md) |
+| 026861 | [MySQL: Automation — Baseline Setup for Home Development](Project_026861/README.md) |
+| 026862 | [MySQL: Automation — Automation for Home Development](Project_026862/README.md) |
+| 026863 | [MySQL: Automation — Recovery for Home Development](Project_026863/README.md) |
+| 026864 | [MySQL: Automation — Reporting for Home Development](Project_026864/README.md) |
+| 026865 | [MySQL: Automation — Usability Improvement for Home Development](Project_026865/README.md) |
+| 026866 | [MySQL: Automation — Baseline Setup for Public Dataset](Project_026866/README.md) |
+| 026867 | [MySQL: Automation — Automation for Public Dataset](Project_026867/README.md) |
+| 026868 | [MySQL: Automation — Recovery for Public Dataset](Project_026868/README.md) |
+| 026869 | [MySQL: Automation — Reporting for Public Dataset](Project_026869/README.md) |
+| 026870 | [MySQL: Automation — Usability Improvement for Public Dataset](Project_026870/README.md) |
+| 026871 | [MySQL: Automation — Baseline Setup for Branch Office Simulator](Project_026871/README.md) |
+| 026872 | [MySQL: Automation — Automation for Branch Office Simulator](Project_026872/README.md) |
+| 026873 | [MySQL: Automation — Recovery for Branch Office Simulator](Project_026873/README.md) |
+| 026874 | [MySQL: Automation — Reporting for Branch Office Simulator](Project_026874/README.md) |
+| 026875 | [MySQL: Automation — Usability Improvement for Branch Office Simulator](Project_026875/README.md) |
+| 026876 | [MySQL: Automation — Baseline Setup for Offline Classroom](Project_026876/README.md) |
+| 026877 | [MySQL: Automation — Automation for Offline Classroom](Project_026877/README.md) |
+| 026878 | [MySQL: Automation — Recovery for Offline Classroom](Project_026878/README.md) |
+| 026879 | [MySQL: Automation — Reporting for Offline Classroom](Project_026879/README.md) |
+| 026880 | [MySQL: Automation — Usability Improvement for Offline Classroom](Project_026880/README.md) |
 
 [Back to the portfolio home](../README.md)
