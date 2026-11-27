@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027778 | [MongoDB: Data Validation — Recovery for Offline Classroom](Project_027778/README.md) |
 | 027779 | [MongoDB: Data Validation — Reporting for Offline Classroom](Project_027779/README.md) |
 | 027780 | [MongoDB: Data Validation — Usability Improvement for Offline Classroom](Project_027780/README.md) |
+| 027781 | [MongoDB: Data Validation — Baseline Setup for Single-Host Lab](Project_027781/README.md) |
+| 027782 | [MongoDB: Data Validation — Automation for Single-Host Lab](Project_027782/README.md) |
+| 027783 | [MongoDB: Data Validation — Recovery for Single-Host Lab](Project_027783/README.md) |
+| 027784 | [MongoDB: Data Validation — Reporting for Single-Host Lab](Project_027784/README.md) |
+| 027785 | [MongoDB: Data Validation — Usability Improvement for Single-Host Lab](Project_027785/README.md) |
+| 027786 | [MongoDB: Data Validation — Baseline Setup for Two-Node Lab](Project_027786/README.md) |
+| 027787 | [MongoDB: Data Validation — Automation for Two-Node Lab](Project_027787/README.md) |
+| 027788 | [MongoDB: Data Validation — Recovery for Two-Node Lab](Project_027788/README.md) |
+| 027789 | [MongoDB: Data Validation — Reporting for Two-Node Lab](Project_027789/README.md) |
+| 027790 | [MongoDB: Data Validation — Usability Improvement for Two-Node Lab](Project_027790/README.md) |
+| 027791 | [MongoDB: Data Validation — Baseline Setup for Help Desk](Project_027791/README.md) |
+| 027792 | [MongoDB: Data Validation — Automation for Help Desk](Project_027792/README.md) |
+| 027793 | [MongoDB: Data Validation — Recovery for Help Desk](Project_027793/README.md) |
+| 027794 | [MongoDB: Data Validation — Reporting for Help Desk](Project_027794/README.md) |
+| 027795 | [MongoDB: Data Validation — Usability Improvement for Help Desk](Project_027795/README.md) |
+| 027796 | [MongoDB: Data Validation — Baseline Setup for Portfolio Demo](Project_027796/README.md) |
+| 027797 | [MongoDB: Data Validation — Automation for Portfolio Demo](Project_027797/README.md) |
+| 027798 | [MongoDB: Data Validation — Recovery for Portfolio Demo](Project_027798/README.md) |
+| 027799 | [MongoDB: Data Validation — Reporting for Portfolio Demo](Project_027799/README.md) |
+| 027800 | [MongoDB: Data Validation — Usability Improvement for Portfolio Demo](Project_027800/README.md) |
 
 [Back to the portfolio home](../README.md)
