@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003078 | [Debian: Monitoring — Recovery for Offline Classroom](Project_003078/README.md) |
 | 003079 | [Debian: Monitoring — Reporting for Offline Classroom](Project_003079/README.md) |
 | 003080 | [Debian: Monitoring — Usability Improvement for Offline Classroom](Project_003080/README.md) |
+| 003081 | [Debian: Monitoring — Baseline Setup for Single-Host Lab](Project_003081/README.md) |
+| 003082 | [Debian: Monitoring — Automation for Single-Host Lab](Project_003082/README.md) |
+| 003083 | [Debian: Monitoring — Recovery for Single-Host Lab](Project_003083/README.md) |
+| 003084 | [Debian: Monitoring — Reporting for Single-Host Lab](Project_003084/README.md) |
+| 003085 | [Debian: Monitoring — Usability Improvement for Single-Host Lab](Project_003085/README.md) |
+| 003086 | [Debian: Monitoring — Baseline Setup for Two-Node Lab](Project_003086/README.md) |
+| 003087 | [Debian: Monitoring — Automation for Two-Node Lab](Project_003087/README.md) |
+| 003088 | [Debian: Monitoring — Recovery for Two-Node Lab](Project_003088/README.md) |
+| 003089 | [Debian: Monitoring — Reporting for Two-Node Lab](Project_003089/README.md) |
+| 003090 | [Debian: Monitoring — Usability Improvement for Two-Node Lab](Project_003090/README.md) |
+| 003091 | [Debian: Monitoring — Baseline Setup for Help Desk](Project_003091/README.md) |
+| 003092 | [Debian: Monitoring — Automation for Help Desk](Project_003092/README.md) |
+| 003093 | [Debian: Monitoring — Recovery for Help Desk](Project_003093/README.md) |
+| 003094 | [Debian: Monitoring — Reporting for Help Desk](Project_003094/README.md) |
+| 003095 | [Debian: Monitoring — Usability Improvement for Help Desk](Project_003095/README.md) |
+| 003096 | [Debian: Monitoring — Baseline Setup for Portfolio Demo](Project_003096/README.md) |
+| 003097 | [Debian: Monitoring — Automation for Portfolio Demo](Project_003097/README.md) |
+| 003098 | [Debian: Monitoring — Recovery for Portfolio Demo](Project_003098/README.md) |
+| 003099 | [Debian: Monitoring — Reporting for Portfolio Demo](Project_003099/README.md) |
+| 003100 | [Debian: Monitoring — Usability Improvement for Portfolio Demo](Project_003100/README.md) |
 
 [Back to the portfolio home](../README.md)
