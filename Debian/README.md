@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003158 | [Debian: Log Analysis — Recovery for Small Business](Project_003158/README.md) |
 | 003159 | [Debian: Log Analysis — Reporting for Small Business](Project_003159/README.md) |
 | 003160 | [Debian: Log Analysis — Usability Improvement for Small Business](Project_003160/README.md) |
+| 003161 | [Debian: Log Analysis — Baseline Setup for Home Development](Project_003161/README.md) |
+| 003162 | [Debian: Log Analysis — Automation for Home Development](Project_003162/README.md) |
+| 003163 | [Debian: Log Analysis — Recovery for Home Development](Project_003163/README.md) |
+| 003164 | [Debian: Log Analysis — Reporting for Home Development](Project_003164/README.md) |
+| 003165 | [Debian: Log Analysis — Usability Improvement for Home Development](Project_003165/README.md) |
+| 003166 | [Debian: Log Analysis — Baseline Setup for Public Dataset](Project_003166/README.md) |
+| 003167 | [Debian: Log Analysis — Automation for Public Dataset](Project_003167/README.md) |
+| 003168 | [Debian: Log Analysis — Recovery for Public Dataset](Project_003168/README.md) |
+| 003169 | [Debian: Log Analysis — Reporting for Public Dataset](Project_003169/README.md) |
+| 003170 | [Debian: Log Analysis — Usability Improvement for Public Dataset](Project_003170/README.md) |
+| 003171 | [Debian: Log Analysis — Baseline Setup for Branch Office Simulator](Project_003171/README.md) |
+| 003172 | [Debian: Log Analysis — Automation for Branch Office Simulator](Project_003172/README.md) |
+| 003173 | [Debian: Log Analysis — Recovery for Branch Office Simulator](Project_003173/README.md) |
+| 003174 | [Debian: Log Analysis — Reporting for Branch Office Simulator](Project_003174/README.md) |
+| 003175 | [Debian: Log Analysis — Usability Improvement for Branch Office Simulator](Project_003175/README.md) |
+| 003176 | [Debian: Log Analysis — Baseline Setup for Offline Classroom](Project_003176/README.md) |
+| 003177 | [Debian: Log Analysis — Automation for Offline Classroom](Project_003177/README.md) |
+| 003178 | [Debian: Log Analysis — Recovery for Offline Classroom](Project_003178/README.md) |
+| 003179 | [Debian: Log Analysis — Reporting for Offline Classroom](Project_003179/README.md) |
+| 003180 | [Debian: Log Analysis — Usability Improvement for Offline Classroom](Project_003180/README.md) |
 
 [Back to the portfolio home](../README.md)
