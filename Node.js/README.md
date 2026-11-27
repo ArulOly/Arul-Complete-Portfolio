@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024418 | [Node.js: Alerting — Recovery for Public Dataset](Project_024418/README.md) |
 | 024419 | [Node.js: Alerting — Reporting for Public Dataset](Project_024419/README.md) |
 | 024420 | [Node.js: Alerting — Usability Improvement for Public Dataset](Project_024420/README.md) |
+| 024421 | [Node.js: Alerting — Baseline Setup for Branch Office Simulator](Project_024421/README.md) |
+| 024422 | [Node.js: Alerting — Automation for Branch Office Simulator](Project_024422/README.md) |
+| 024423 | [Node.js: Alerting — Recovery for Branch Office Simulator](Project_024423/README.md) |
+| 024424 | [Node.js: Alerting — Reporting for Branch Office Simulator](Project_024424/README.md) |
+| 024425 | [Node.js: Alerting — Usability Improvement for Branch Office Simulator](Project_024425/README.md) |
+| 024426 | [Node.js: Alerting — Baseline Setup for Offline Classroom](Project_024426/README.md) |
+| 024427 | [Node.js: Alerting — Automation for Offline Classroom](Project_024427/README.md) |
+| 024428 | [Node.js: Alerting — Recovery for Offline Classroom](Project_024428/README.md) |
+| 024429 | [Node.js: Alerting — Reporting for Offline Classroom](Project_024429/README.md) |
+| 024430 | [Node.js: Alerting — Usability Improvement for Offline Classroom](Project_024430/README.md) |
+| 024431 | [Node.js: Alerting — Baseline Setup for Single-Host Lab](Project_024431/README.md) |
+| 024432 | [Node.js: Alerting — Automation for Single-Host Lab](Project_024432/README.md) |
+| 024433 | [Node.js: Alerting — Recovery for Single-Host Lab](Project_024433/README.md) |
+| 024434 | [Node.js: Alerting — Reporting for Single-Host Lab](Project_024434/README.md) |
+| 024435 | [Node.js: Alerting — Usability Improvement for Single-Host Lab](Project_024435/README.md) |
+| 024436 | [Node.js: Alerting — Baseline Setup for Two-Node Lab](Project_024436/README.md) |
+| 024437 | [Node.js: Alerting — Automation for Two-Node Lab](Project_024437/README.md) |
+| 024438 | [Node.js: Alerting — Recovery for Two-Node Lab](Project_024438/README.md) |
+| 024439 | [Node.js: Alerting — Reporting for Two-Node Lab](Project_024439/README.md) |
+| 024440 | [Node.js: Alerting — Usability Improvement for Two-Node Lab](Project_024440/README.md) |
 
 [Back to the portfolio home](../README.md)
