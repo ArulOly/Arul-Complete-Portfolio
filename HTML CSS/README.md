@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023198 | [HTML CSS: Log Analysis — Recovery for Portfolio Demo](Project_023198/README.md) |
 | 023199 | [HTML CSS: Log Analysis — Reporting for Portfolio Demo](Project_023199/README.md) |
 | 023200 | [HTML CSS: Log Analysis — Usability Improvement for Portfolio Demo](Project_023200/README.md) |
+| 023201 | [HTML CSS: Backup Verification — Baseline Setup for School Lab](Project_023201/README.md) |
+| 023202 | [HTML CSS: Backup Verification — Automation for School Lab](Project_023202/README.md) |
+| 023203 | [HTML CSS: Backup Verification — Recovery for School Lab](Project_023203/README.md) |
+| 023204 | [HTML CSS: Backup Verification — Reporting for School Lab](Project_023204/README.md) |
+| 023205 | [HTML CSS: Backup Verification — Usability Improvement for School Lab](Project_023205/README.md) |
+| 023206 | [HTML CSS: Backup Verification — Baseline Setup for Small Business](Project_023206/README.md) |
+| 023207 | [HTML CSS: Backup Verification — Automation for Small Business](Project_023207/README.md) |
+| 023208 | [HTML CSS: Backup Verification — Recovery for Small Business](Project_023208/README.md) |
+| 023209 | [HTML CSS: Backup Verification — Reporting for Small Business](Project_023209/README.md) |
+| 023210 | [HTML CSS: Backup Verification — Usability Improvement for Small Business](Project_023210/README.md) |
+| 023211 | [HTML CSS: Backup Verification — Baseline Setup for Home Development](Project_023211/README.md) |
+| 023212 | [HTML CSS: Backup Verification — Automation for Home Development](Project_023212/README.md) |
+| 023213 | [HTML CSS: Backup Verification — Recovery for Home Development](Project_023213/README.md) |
+| 023214 | [HTML CSS: Backup Verification — Reporting for Home Development](Project_023214/README.md) |
+| 023215 | [HTML CSS: Backup Verification — Usability Improvement for Home Development](Project_023215/README.md) |
+| 023216 | [HTML CSS: Backup Verification — Baseline Setup for Public Dataset](Project_023216/README.md) |
+| 023217 | [HTML CSS: Backup Verification — Automation for Public Dataset](Project_023217/README.md) |
+| 023218 | [HTML CSS: Backup Verification — Recovery for Public Dataset](Project_023218/README.md) |
+| 023219 | [HTML CSS: Backup Verification — Reporting for Public Dataset](Project_023219/README.md) |
+| 023220 | [HTML CSS: Backup Verification — Usability Improvement for Public Dataset](Project_023220/README.md) |
 
 [Back to the portfolio home](../README.md)
