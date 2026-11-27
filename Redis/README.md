@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045458 | [Redis: Scheduled Reporting — Recovery for Small Business](Project_045458/README.md) |
 | 045459 | [Redis: Scheduled Reporting — Reporting for Small Business](Project_045459/README.md) |
 | 045460 | [Redis: Scheduled Reporting — Usability Improvement for Small Business](Project_045460/README.md) |
+| 045461 | [Redis: Scheduled Reporting — Baseline Setup for Home Development](Project_045461/README.md) |
+| 045462 | [Redis: Scheduled Reporting — Automation for Home Development](Project_045462/README.md) |
+| 045463 | [Redis: Scheduled Reporting — Recovery for Home Development](Project_045463/README.md) |
+| 045464 | [Redis: Scheduled Reporting — Reporting for Home Development](Project_045464/README.md) |
+| 045465 | [Redis: Scheduled Reporting — Usability Improvement for Home Development](Project_045465/README.md) |
+| 045466 | [Redis: Scheduled Reporting — Baseline Setup for Public Dataset](Project_045466/README.md) |
+| 045467 | [Redis: Scheduled Reporting — Automation for Public Dataset](Project_045467/README.md) |
+| 045468 | [Redis: Scheduled Reporting — Recovery for Public Dataset](Project_045468/README.md) |
+| 045469 | [Redis: Scheduled Reporting — Reporting for Public Dataset](Project_045469/README.md) |
+| 045470 | [Redis: Scheduled Reporting — Usability Improvement for Public Dataset](Project_045470/README.md) |
+| 045471 | [Redis: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_045471/README.md) |
+| 045472 | [Redis: Scheduled Reporting — Automation for Branch Office Simulator](Project_045472/README.md) |
+| 045473 | [Redis: Scheduled Reporting — Recovery for Branch Office Simulator](Project_045473/README.md) |
+| 045474 | [Redis: Scheduled Reporting — Reporting for Branch Office Simulator](Project_045474/README.md) |
+| 045475 | [Redis: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_045475/README.md) |
+| 045476 | [Redis: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_045476/README.md) |
+| 045477 | [Redis: Scheduled Reporting — Automation for Offline Classroom](Project_045477/README.md) |
+| 045478 | [Redis: Scheduled Reporting — Recovery for Offline Classroom](Project_045478/README.md) |
+| 045479 | [Redis: Scheduled Reporting — Reporting for Offline Classroom](Project_045479/README.md) |
+| 045480 | [Redis: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_045480/README.md) |
 
 [Back to the portfolio home](../README.md)
