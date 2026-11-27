@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032138 | [Power BI: Audit — Recovery for Two-Node Lab](Project_032138/README.md) |
 | 032139 | [Power BI: Audit — Reporting for Two-Node Lab](Project_032139/README.md) |
 | 032140 | [Power BI: Audit — Usability Improvement for Two-Node Lab](Project_032140/README.md) |
+| 032141 | [Power BI: Audit — Baseline Setup for Help Desk](Project_032141/README.md) |
+| 032142 | [Power BI: Audit — Automation for Help Desk](Project_032142/README.md) |
+| 032143 | [Power BI: Audit — Recovery for Help Desk](Project_032143/README.md) |
+| 032144 | [Power BI: Audit — Reporting for Help Desk](Project_032144/README.md) |
+| 032145 | [Power BI: Audit — Usability Improvement for Help Desk](Project_032145/README.md) |
+| 032146 | [Power BI: Audit — Baseline Setup for Portfolio Demo](Project_032146/README.md) |
+| 032147 | [Power BI: Audit — Automation for Portfolio Demo](Project_032147/README.md) |
+| 032148 | [Power BI: Audit — Recovery for Portfolio Demo](Project_032148/README.md) |
+| 032149 | [Power BI: Audit — Reporting for Portfolio Demo](Project_032149/README.md) |
+| 032150 | [Power BI: Audit — Usability Improvement for Portfolio Demo](Project_032150/README.md) |
+| 032151 | [Power BI: Log Analysis — Baseline Setup for School Lab](Project_032151/README.md) |
+| 032152 | [Power BI: Log Analysis — Automation for School Lab](Project_032152/README.md) |
+| 032153 | [Power BI: Log Analysis — Recovery for School Lab](Project_032153/README.md) |
+| 032154 | [Power BI: Log Analysis — Reporting for School Lab](Project_032154/README.md) |
+| 032155 | [Power BI: Log Analysis — Usability Improvement for School Lab](Project_032155/README.md) |
+| 032156 | [Power BI: Log Analysis — Baseline Setup for Small Business](Project_032156/README.md) |
+| 032157 | [Power BI: Log Analysis — Automation for Small Business](Project_032157/README.md) |
+| 032158 | [Power BI: Log Analysis — Recovery for Small Business](Project_032158/README.md) |
+| 032159 | [Power BI: Log Analysis — Reporting for Small Business](Project_032159/README.md) |
+| 032160 | [Power BI: Log Analysis — Usability Improvement for Small Business](Project_032160/README.md) |
 
 [Back to the portfolio home](../README.md)
