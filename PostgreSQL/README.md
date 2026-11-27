@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025078 | [PostgreSQL: Monitoring — Recovery for Offline Classroom](Project_025078/README.md) |
 | 025079 | [PostgreSQL: Monitoring — Reporting for Offline Classroom](Project_025079/README.md) |
 | 025080 | [PostgreSQL: Monitoring — Usability Improvement for Offline Classroom](Project_025080/README.md) |
+| 025081 | [PostgreSQL: Monitoring — Baseline Setup for Single-Host Lab](Project_025081/README.md) |
+| 025082 | [PostgreSQL: Monitoring — Automation for Single-Host Lab](Project_025082/README.md) |
+| 025083 | [PostgreSQL: Monitoring — Recovery for Single-Host Lab](Project_025083/README.md) |
+| 025084 | [PostgreSQL: Monitoring — Reporting for Single-Host Lab](Project_025084/README.md) |
+| 025085 | [PostgreSQL: Monitoring — Usability Improvement for Single-Host Lab](Project_025085/README.md) |
+| 025086 | [PostgreSQL: Monitoring — Baseline Setup for Two-Node Lab](Project_025086/README.md) |
+| 025087 | [PostgreSQL: Monitoring — Automation for Two-Node Lab](Project_025087/README.md) |
+| 025088 | [PostgreSQL: Monitoring — Recovery for Two-Node Lab](Project_025088/README.md) |
+| 025089 | [PostgreSQL: Monitoring — Reporting for Two-Node Lab](Project_025089/README.md) |
+| 025090 | [PostgreSQL: Monitoring — Usability Improvement for Two-Node Lab](Project_025090/README.md) |
+| 025091 | [PostgreSQL: Monitoring — Baseline Setup for Help Desk](Project_025091/README.md) |
+| 025092 | [PostgreSQL: Monitoring — Automation for Help Desk](Project_025092/README.md) |
+| 025093 | [PostgreSQL: Monitoring — Recovery for Help Desk](Project_025093/README.md) |
+| 025094 | [PostgreSQL: Monitoring — Reporting for Help Desk](Project_025094/README.md) |
+| 025095 | [PostgreSQL: Monitoring — Usability Improvement for Help Desk](Project_025095/README.md) |
+| 025096 | [PostgreSQL: Monitoring — Baseline Setup for Portfolio Demo](Project_025096/README.md) |
+| 025097 | [PostgreSQL: Monitoring — Automation for Portfolio Demo](Project_025097/README.md) |
+| 025098 | [PostgreSQL: Monitoring — Recovery for Portfolio Demo](Project_025098/README.md) |
+| 025099 | [PostgreSQL: Monitoring — Reporting for Portfolio Demo](Project_025099/README.md) |
+| 025100 | [PostgreSQL: Monitoring — Usability Improvement for Portfolio Demo](Project_025100/README.md) |
 
 [Back to the portfolio home](../README.md)
