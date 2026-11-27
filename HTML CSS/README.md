@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023898 | [HTML CSS: Automation — Recovery for Portfolio Demo](Project_023898/README.md) |
 | 023899 | [HTML CSS: Automation — Reporting for Portfolio Demo](Project_023899/README.md) |
 | 023900 | [HTML CSS: Automation — Usability Improvement for Portfolio Demo](Project_023900/README.md) |
+| 023901 | [HTML CSS: Visual Reporting — Baseline Setup for School Lab](Project_023901/README.md) |
+| 023902 | [HTML CSS: Visual Reporting — Automation for School Lab](Project_023902/README.md) |
+| 023903 | [HTML CSS: Visual Reporting — Recovery for School Lab](Project_023903/README.md) |
+| 023904 | [HTML CSS: Visual Reporting — Reporting for School Lab](Project_023904/README.md) |
+| 023905 | [HTML CSS: Visual Reporting — Usability Improvement for School Lab](Project_023905/README.md) |
+| 023906 | [HTML CSS: Visual Reporting — Baseline Setup for Small Business](Project_023906/README.md) |
+| 023907 | [HTML CSS: Visual Reporting — Automation for Small Business](Project_023907/README.md) |
+| 023908 | [HTML CSS: Visual Reporting — Recovery for Small Business](Project_023908/README.md) |
+| 023909 | [HTML CSS: Visual Reporting — Reporting for Small Business](Project_023909/README.md) |
+| 023910 | [HTML CSS: Visual Reporting — Usability Improvement for Small Business](Project_023910/README.md) |
+| 023911 | [HTML CSS: Visual Reporting — Baseline Setup for Home Development](Project_023911/README.md) |
+| 023912 | [HTML CSS: Visual Reporting — Automation for Home Development](Project_023912/README.md) |
+| 023913 | [HTML CSS: Visual Reporting — Recovery for Home Development](Project_023913/README.md) |
+| 023914 | [HTML CSS: Visual Reporting — Reporting for Home Development](Project_023914/README.md) |
+| 023915 | [HTML CSS: Visual Reporting — Usability Improvement for Home Development](Project_023915/README.md) |
+| 023916 | [HTML CSS: Visual Reporting — Baseline Setup for Public Dataset](Project_023916/README.md) |
+| 023917 | [HTML CSS: Visual Reporting — Automation for Public Dataset](Project_023917/README.md) |
+| 023918 | [HTML CSS: Visual Reporting — Recovery for Public Dataset](Project_023918/README.md) |
+| 023919 | [HTML CSS: Visual Reporting — Reporting for Public Dataset](Project_023919/README.md) |
+| 023920 | [HTML CSS: Visual Reporting — Usability Improvement for Public Dataset](Project_023920/README.md) |
 
 [Back to the portfolio home](../README.md)
