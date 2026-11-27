@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034718 | [Scikit-learn: Error Handling — Recovery for Public Dataset](Project_034718/README.md) |
 | 034719 | [Scikit-learn: Error Handling — Reporting for Public Dataset](Project_034719/README.md) |
 | 034720 | [Scikit-learn: Error Handling — Usability Improvement for Public Dataset](Project_034720/README.md) |
+| 034721 | [Scikit-learn: Error Handling — Baseline Setup for Branch Office Simulator](Project_034721/README.md) |
+| 034722 | [Scikit-learn: Error Handling — Automation for Branch Office Simulator](Project_034722/README.md) |
+| 034723 | [Scikit-learn: Error Handling — Recovery for Branch Office Simulator](Project_034723/README.md) |
+| 034724 | [Scikit-learn: Error Handling — Reporting for Branch Office Simulator](Project_034724/README.md) |
+| 034725 | [Scikit-learn: Error Handling — Usability Improvement for Branch Office Simulator](Project_034725/README.md) |
+| 034726 | [Scikit-learn: Error Handling — Baseline Setup for Offline Classroom](Project_034726/README.md) |
+| 034727 | [Scikit-learn: Error Handling — Automation for Offline Classroom](Project_034727/README.md) |
+| 034728 | [Scikit-learn: Error Handling — Recovery for Offline Classroom](Project_034728/README.md) |
+| 034729 | [Scikit-learn: Error Handling — Reporting for Offline Classroom](Project_034729/README.md) |
+| 034730 | [Scikit-learn: Error Handling — Usability Improvement for Offline Classroom](Project_034730/README.md) |
+| 034731 | [Scikit-learn: Error Handling — Baseline Setup for Single-Host Lab](Project_034731/README.md) |
+| 034732 | [Scikit-learn: Error Handling — Automation for Single-Host Lab](Project_034732/README.md) |
+| 034733 | [Scikit-learn: Error Handling — Recovery for Single-Host Lab](Project_034733/README.md) |
+| 034734 | [Scikit-learn: Error Handling — Reporting for Single-Host Lab](Project_034734/README.md) |
+| 034735 | [Scikit-learn: Error Handling — Usability Improvement for Single-Host Lab](Project_034735/README.md) |
+| 034736 | [Scikit-learn: Error Handling — Baseline Setup for Two-Node Lab](Project_034736/README.md) |
+| 034737 | [Scikit-learn: Error Handling — Automation for Two-Node Lab](Project_034737/README.md) |
+| 034738 | [Scikit-learn: Error Handling — Recovery for Two-Node Lab](Project_034738/README.md) |
+| 034739 | [Scikit-learn: Error Handling — Reporting for Two-Node Lab](Project_034739/README.md) |
+| 034740 | [Scikit-learn: Error Handling — Usability Improvement for Two-Node Lab](Project_034740/README.md) |
 
 [Back to the portfolio home](../README.md)
