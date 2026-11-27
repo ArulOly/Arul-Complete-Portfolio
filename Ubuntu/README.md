@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002258 | [Ubuntu: Data Import — Recovery for Small Business](Project_002258/README.md) |
 | 002259 | [Ubuntu: Data Import — Reporting for Small Business](Project_002259/README.md) |
 | 002260 | [Ubuntu: Data Import — Usability Improvement for Small Business](Project_002260/README.md) |
+| 002261 | [Ubuntu: Data Import — Baseline Setup for Home Development](Project_002261/README.md) |
+| 002262 | [Ubuntu: Data Import — Automation for Home Development](Project_002262/README.md) |
+| 002263 | [Ubuntu: Data Import — Recovery for Home Development](Project_002263/README.md) |
+| 002264 | [Ubuntu: Data Import — Reporting for Home Development](Project_002264/README.md) |
+| 002265 | [Ubuntu: Data Import — Usability Improvement for Home Development](Project_002265/README.md) |
+| 002266 | [Ubuntu: Data Import — Baseline Setup for Public Dataset](Project_002266/README.md) |
+| 002267 | [Ubuntu: Data Import — Automation for Public Dataset](Project_002267/README.md) |
+| 002268 | [Ubuntu: Data Import — Recovery for Public Dataset](Project_002268/README.md) |
+| 002269 | [Ubuntu: Data Import — Reporting for Public Dataset](Project_002269/README.md) |
+| 002270 | [Ubuntu: Data Import — Usability Improvement for Public Dataset](Project_002270/README.md) |
+| 002271 | [Ubuntu: Data Import — Baseline Setup for Branch Office Simulator](Project_002271/README.md) |
+| 002272 | [Ubuntu: Data Import — Automation for Branch Office Simulator](Project_002272/README.md) |
+| 002273 | [Ubuntu: Data Import — Recovery for Branch Office Simulator](Project_002273/README.md) |
+| 002274 | [Ubuntu: Data Import — Reporting for Branch Office Simulator](Project_002274/README.md) |
+| 002275 | [Ubuntu: Data Import — Usability Improvement for Branch Office Simulator](Project_002275/README.md) |
+| 002276 | [Ubuntu: Data Import — Baseline Setup for Offline Classroom](Project_002276/README.md) |
+| 002277 | [Ubuntu: Data Import — Automation for Offline Classroom](Project_002277/README.md) |
+| 002278 | [Ubuntu: Data Import — Recovery for Offline Classroom](Project_002278/README.md) |
+| 002279 | [Ubuntu: Data Import — Reporting for Offline Classroom](Project_002279/README.md) |
+| 002280 | [Ubuntu: Data Import — Usability Improvement for Offline Classroom](Project_002280/README.md) |
 
 [Back to the portfolio home](../README.md)
