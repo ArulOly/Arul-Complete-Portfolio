@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020418 | [JavaScript: Alerting — Recovery for Public Dataset](Project_020418/README.md) |
 | 020419 | [JavaScript: Alerting — Reporting for Public Dataset](Project_020419/README.md) |
 | 020420 | [JavaScript: Alerting — Usability Improvement for Public Dataset](Project_020420/README.md) |
+| 020421 | [JavaScript: Alerting — Baseline Setup for Branch Office Simulator](Project_020421/README.md) |
+| 020422 | [JavaScript: Alerting — Automation for Branch Office Simulator](Project_020422/README.md) |
+| 020423 | [JavaScript: Alerting — Recovery for Branch Office Simulator](Project_020423/README.md) |
+| 020424 | [JavaScript: Alerting — Reporting for Branch Office Simulator](Project_020424/README.md) |
+| 020425 | [JavaScript: Alerting — Usability Improvement for Branch Office Simulator](Project_020425/README.md) |
+| 020426 | [JavaScript: Alerting — Baseline Setup for Offline Classroom](Project_020426/README.md) |
+| 020427 | [JavaScript: Alerting — Automation for Offline Classroom](Project_020427/README.md) |
+| 020428 | [JavaScript: Alerting — Recovery for Offline Classroom](Project_020428/README.md) |
+| 020429 | [JavaScript: Alerting — Reporting for Offline Classroom](Project_020429/README.md) |
+| 020430 | [JavaScript: Alerting — Usability Improvement for Offline Classroom](Project_020430/README.md) |
+| 020431 | [JavaScript: Alerting — Baseline Setup for Single-Host Lab](Project_020431/README.md) |
+| 020432 | [JavaScript: Alerting — Automation for Single-Host Lab](Project_020432/README.md) |
+| 020433 | [JavaScript: Alerting — Recovery for Single-Host Lab](Project_020433/README.md) |
+| 020434 | [JavaScript: Alerting — Reporting for Single-Host Lab](Project_020434/README.md) |
+| 020435 | [JavaScript: Alerting — Usability Improvement for Single-Host Lab](Project_020435/README.md) |
+| 020436 | [JavaScript: Alerting — Baseline Setup for Two-Node Lab](Project_020436/README.md) |
+| 020437 | [JavaScript: Alerting — Automation for Two-Node Lab](Project_020437/README.md) |
+| 020438 | [JavaScript: Alerting — Recovery for Two-Node Lab](Project_020438/README.md) |
+| 020439 | [JavaScript: Alerting — Reporting for Two-Node Lab](Project_020439/README.md) |
+| 020440 | [JavaScript: Alerting — Usability Improvement for Two-Node Lab](Project_020440/README.md) |
 
 [Back to the portfolio home](../README.md)
