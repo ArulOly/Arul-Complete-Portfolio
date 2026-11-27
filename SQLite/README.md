@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028018 | [SQLite: Inventory — Recovery for Public Dataset](Project_028018/README.md) |
 | 028019 | [SQLite: Inventory — Reporting for Public Dataset](Project_028019/README.md) |
 | 028020 | [SQLite: Inventory — Usability Improvement for Public Dataset](Project_028020/README.md) |
+| 028021 | [SQLite: Inventory — Baseline Setup for Branch Office Simulator](Project_028021/README.md) |
+| 028022 | [SQLite: Inventory — Automation for Branch Office Simulator](Project_028022/README.md) |
+| 028023 | [SQLite: Inventory — Recovery for Branch Office Simulator](Project_028023/README.md) |
+| 028024 | [SQLite: Inventory — Reporting for Branch Office Simulator](Project_028024/README.md) |
+| 028025 | [SQLite: Inventory — Usability Improvement for Branch Office Simulator](Project_028025/README.md) |
+| 028026 | [SQLite: Inventory — Baseline Setup for Offline Classroom](Project_028026/README.md) |
+| 028027 | [SQLite: Inventory — Automation for Offline Classroom](Project_028027/README.md) |
+| 028028 | [SQLite: Inventory — Recovery for Offline Classroom](Project_028028/README.md) |
+| 028029 | [SQLite: Inventory — Reporting for Offline Classroom](Project_028029/README.md) |
+| 028030 | [SQLite: Inventory — Usability Improvement for Offline Classroom](Project_028030/README.md) |
+| 028031 | [SQLite: Inventory — Baseline Setup for Single-Host Lab](Project_028031/README.md) |
+| 028032 | [SQLite: Inventory — Automation for Single-Host Lab](Project_028032/README.md) |
+| 028033 | [SQLite: Inventory — Recovery for Single-Host Lab](Project_028033/README.md) |
+| 028034 | [SQLite: Inventory — Reporting for Single-Host Lab](Project_028034/README.md) |
+| 028035 | [SQLite: Inventory — Usability Improvement for Single-Host Lab](Project_028035/README.md) |
+| 028036 | [SQLite: Inventory — Baseline Setup for Two-Node Lab](Project_028036/README.md) |
+| 028037 | [SQLite: Inventory — Automation for Two-Node Lab](Project_028037/README.md) |
+| 028038 | [SQLite: Inventory — Recovery for Two-Node Lab](Project_028038/README.md) |
+| 028039 | [SQLite: Inventory — Reporting for Two-Node Lab](Project_028039/README.md) |
+| 028040 | [SQLite: Inventory — Usability Improvement for Two-Node Lab](Project_028040/README.md) |
 
 [Back to the portfolio home](../README.md)
