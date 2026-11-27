@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002398 | [Ubuntu: Dashboard — Recovery for Portfolio Demo](Project_002398/README.md) |
 | 002399 | [Ubuntu: Dashboard — Reporting for Portfolio Demo](Project_002399/README.md) |
 | 002400 | [Ubuntu: Dashboard — Usability Improvement for Portfolio Demo](Project_002400/README.md) |
+| 002401 | [Ubuntu: Alerting — Baseline Setup for School Lab](Project_002401/README.md) |
+| 002402 | [Ubuntu: Alerting — Automation for School Lab](Project_002402/README.md) |
+| 002403 | [Ubuntu: Alerting — Recovery for School Lab](Project_002403/README.md) |
+| 002404 | [Ubuntu: Alerting — Reporting for School Lab](Project_002404/README.md) |
+| 002405 | [Ubuntu: Alerting — Usability Improvement for School Lab](Project_002405/README.md) |
+| 002406 | [Ubuntu: Alerting — Baseline Setup for Small Business](Project_002406/README.md) |
+| 002407 | [Ubuntu: Alerting — Automation for Small Business](Project_002407/README.md) |
+| 002408 | [Ubuntu: Alerting — Recovery for Small Business](Project_002408/README.md) |
+| 002409 | [Ubuntu: Alerting — Reporting for Small Business](Project_002409/README.md) |
+| 002410 | [Ubuntu: Alerting — Usability Improvement for Small Business](Project_002410/README.md) |
+| 002411 | [Ubuntu: Alerting — Baseline Setup for Home Development](Project_002411/README.md) |
+| 002412 | [Ubuntu: Alerting — Automation for Home Development](Project_002412/README.md) |
+| 002413 | [Ubuntu: Alerting — Recovery for Home Development](Project_002413/README.md) |
+| 002414 | [Ubuntu: Alerting — Reporting for Home Development](Project_002414/README.md) |
+| 002415 | [Ubuntu: Alerting — Usability Improvement for Home Development](Project_002415/README.md) |
+| 002416 | [Ubuntu: Alerting — Baseline Setup for Public Dataset](Project_002416/README.md) |
+| 002417 | [Ubuntu: Alerting — Automation for Public Dataset](Project_002417/README.md) |
+| 002418 | [Ubuntu: Alerting — Recovery for Public Dataset](Project_002418/README.md) |
+| 002419 | [Ubuntu: Alerting — Reporting for Public Dataset](Project_002419/README.md) |
+| 002420 | [Ubuntu: Alerting — Usability Improvement for Public Dataset](Project_002420/README.md) |
 
 [Back to the portfolio home](../README.md)
