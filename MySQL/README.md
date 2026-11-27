@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026358 | [MySQL: Dashboard — Recovery for Small Business](Project_026358/README.md) |
 | 026359 | [MySQL: Dashboard — Reporting for Small Business](Project_026359/README.md) |
 | 026360 | [MySQL: Dashboard — Usability Improvement for Small Business](Project_026360/README.md) |
+| 026361 | [MySQL: Dashboard — Baseline Setup for Home Development](Project_026361/README.md) |
+| 026362 | [MySQL: Dashboard — Automation for Home Development](Project_026362/README.md) |
+| 026363 | [MySQL: Dashboard — Recovery for Home Development](Project_026363/README.md) |
+| 026364 | [MySQL: Dashboard — Reporting for Home Development](Project_026364/README.md) |
+| 026365 | [MySQL: Dashboard — Usability Improvement for Home Development](Project_026365/README.md) |
+| 026366 | [MySQL: Dashboard — Baseline Setup for Public Dataset](Project_026366/README.md) |
+| 026367 | [MySQL: Dashboard — Automation for Public Dataset](Project_026367/README.md) |
+| 026368 | [MySQL: Dashboard — Recovery for Public Dataset](Project_026368/README.md) |
+| 026369 | [MySQL: Dashboard — Reporting for Public Dataset](Project_026369/README.md) |
+| 026370 | [MySQL: Dashboard — Usability Improvement for Public Dataset](Project_026370/README.md) |
+| 026371 | [MySQL: Dashboard — Baseline Setup for Branch Office Simulator](Project_026371/README.md) |
+| 026372 | [MySQL: Dashboard — Automation for Branch Office Simulator](Project_026372/README.md) |
+| 026373 | [MySQL: Dashboard — Recovery for Branch Office Simulator](Project_026373/README.md) |
+| 026374 | [MySQL: Dashboard — Reporting for Branch Office Simulator](Project_026374/README.md) |
+| 026375 | [MySQL: Dashboard — Usability Improvement for Branch Office Simulator](Project_026375/README.md) |
+| 026376 | [MySQL: Dashboard — Baseline Setup for Offline Classroom](Project_026376/README.md) |
+| 026377 | [MySQL: Dashboard — Automation for Offline Classroom](Project_026377/README.md) |
+| 026378 | [MySQL: Dashboard — Recovery for Offline Classroom](Project_026378/README.md) |
+| 026379 | [MySQL: Dashboard — Reporting for Offline Classroom](Project_026379/README.md) |
+| 026380 | [MySQL: Dashboard — Usability Improvement for Offline Classroom](Project_026380/README.md) |
 
 [Back to the portfolio home](../README.md)
