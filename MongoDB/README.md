@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027938 | [MongoDB: Visual Reporting — Recovery for Two-Node Lab](Project_027938/README.md) |
 | 027939 | [MongoDB: Visual Reporting — Reporting for Two-Node Lab](Project_027939/README.md) |
 | 027940 | [MongoDB: Visual Reporting — Usability Improvement for Two-Node Lab](Project_027940/README.md) |
+| 027941 | [MongoDB: Visual Reporting — Baseline Setup for Help Desk](Project_027941/README.md) |
+| 027942 | [MongoDB: Visual Reporting — Automation for Help Desk](Project_027942/README.md) |
+| 027943 | [MongoDB: Visual Reporting — Recovery for Help Desk](Project_027943/README.md) |
+| 027944 | [MongoDB: Visual Reporting — Reporting for Help Desk](Project_027944/README.md) |
+| 027945 | [MongoDB: Visual Reporting — Usability Improvement for Help Desk](Project_027945/README.md) |
+| 027946 | [MongoDB: Visual Reporting — Baseline Setup for Portfolio Demo](Project_027946/README.md) |
+| 027947 | [MongoDB: Visual Reporting — Automation for Portfolio Demo](Project_027947/README.md) |
+| 027948 | [MongoDB: Visual Reporting — Recovery for Portfolio Demo](Project_027948/README.md) |
+| 027949 | [MongoDB: Visual Reporting — Reporting for Portfolio Demo](Project_027949/README.md) |
+| 027950 | [MongoDB: Visual Reporting — Usability Improvement for Portfolio Demo](Project_027950/README.md) |
+| 027951 | [MongoDB: Recovery Test — Baseline Setup for School Lab](Project_027951/README.md) |
+| 027952 | [MongoDB: Recovery Test — Automation for School Lab](Project_027952/README.md) |
+| 027953 | [MongoDB: Recovery Test — Recovery for School Lab](Project_027953/README.md) |
+| 027954 | [MongoDB: Recovery Test — Reporting for School Lab](Project_027954/README.md) |
+| 027955 | [MongoDB: Recovery Test — Usability Improvement for School Lab](Project_027955/README.md) |
+| 027956 | [MongoDB: Recovery Test — Baseline Setup for Small Business](Project_027956/README.md) |
+| 027957 | [MongoDB: Recovery Test — Automation for Small Business](Project_027957/README.md) |
+| 027958 | [MongoDB: Recovery Test — Recovery for Small Business](Project_027958/README.md) |
+| 027959 | [MongoDB: Recovery Test — Reporting for Small Business](Project_027959/README.md) |
+| 027960 | [MongoDB: Recovery Test — Usability Improvement for Small Business](Project_027960/README.md) |
 
 [Back to the portfolio home](../README.md)
