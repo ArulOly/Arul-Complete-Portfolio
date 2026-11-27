@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020718 | [JavaScript: Error Handling — Recovery for Public Dataset](Project_020718/README.md) |
 | 020719 | [JavaScript: Error Handling — Reporting for Public Dataset](Project_020719/README.md) |
 | 020720 | [JavaScript: Error Handling — Usability Improvement for Public Dataset](Project_020720/README.md) |
+| 020721 | [JavaScript: Error Handling — Baseline Setup for Branch Office Simulator](Project_020721/README.md) |
+| 020722 | [JavaScript: Error Handling — Automation for Branch Office Simulator](Project_020722/README.md) |
+| 020723 | [JavaScript: Error Handling — Recovery for Branch Office Simulator](Project_020723/README.md) |
+| 020724 | [JavaScript: Error Handling — Reporting for Branch Office Simulator](Project_020724/README.md) |
+| 020725 | [JavaScript: Error Handling — Usability Improvement for Branch Office Simulator](Project_020725/README.md) |
+| 020726 | [JavaScript: Error Handling — Baseline Setup for Offline Classroom](Project_020726/README.md) |
+| 020727 | [JavaScript: Error Handling — Automation for Offline Classroom](Project_020727/README.md) |
+| 020728 | [JavaScript: Error Handling — Recovery for Offline Classroom](Project_020728/README.md) |
+| 020729 | [JavaScript: Error Handling — Reporting for Offline Classroom](Project_020729/README.md) |
+| 020730 | [JavaScript: Error Handling — Usability Improvement for Offline Classroom](Project_020730/README.md) |
+| 020731 | [JavaScript: Error Handling — Baseline Setup for Single-Host Lab](Project_020731/README.md) |
+| 020732 | [JavaScript: Error Handling — Automation for Single-Host Lab](Project_020732/README.md) |
+| 020733 | [JavaScript: Error Handling — Recovery for Single-Host Lab](Project_020733/README.md) |
+| 020734 | [JavaScript: Error Handling — Reporting for Single-Host Lab](Project_020734/README.md) |
+| 020735 | [JavaScript: Error Handling — Usability Improvement for Single-Host Lab](Project_020735/README.md) |
+| 020736 | [JavaScript: Error Handling — Baseline Setup for Two-Node Lab](Project_020736/README.md) |
+| 020737 | [JavaScript: Error Handling — Automation for Two-Node Lab](Project_020737/README.md) |
+| 020738 | [JavaScript: Error Handling — Recovery for Two-Node Lab](Project_020738/README.md) |
+| 020739 | [JavaScript: Error Handling — Reporting for Two-Node Lab](Project_020739/README.md) |
+| 020740 | [JavaScript: Error Handling — Usability Improvement for Two-Node Lab](Project_020740/README.md) |
 
 [Back to the portfolio home](../README.md)
