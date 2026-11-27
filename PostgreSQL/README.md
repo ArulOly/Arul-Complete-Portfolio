@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025378 | [PostgreSQL: Dashboard — Recovery for Offline Classroom](Project_025378/README.md) |
 | 025379 | [PostgreSQL: Dashboard — Reporting for Offline Classroom](Project_025379/README.md) |
 | 025380 | [PostgreSQL: Dashboard — Usability Improvement for Offline Classroom](Project_025380/README.md) |
+| 025381 | [PostgreSQL: Dashboard — Baseline Setup for Single-Host Lab](Project_025381/README.md) |
+| 025382 | [PostgreSQL: Dashboard — Automation for Single-Host Lab](Project_025382/README.md) |
+| 025383 | [PostgreSQL: Dashboard — Recovery for Single-Host Lab](Project_025383/README.md) |
+| 025384 | [PostgreSQL: Dashboard — Reporting for Single-Host Lab](Project_025384/README.md) |
+| 025385 | [PostgreSQL: Dashboard — Usability Improvement for Single-Host Lab](Project_025385/README.md) |
+| 025386 | [PostgreSQL: Dashboard — Baseline Setup for Two-Node Lab](Project_025386/README.md) |
+| 025387 | [PostgreSQL: Dashboard — Automation for Two-Node Lab](Project_025387/README.md) |
+| 025388 | [PostgreSQL: Dashboard — Recovery for Two-Node Lab](Project_025388/README.md) |
+| 025389 | [PostgreSQL: Dashboard — Reporting for Two-Node Lab](Project_025389/README.md) |
+| 025390 | [PostgreSQL: Dashboard — Usability Improvement for Two-Node Lab](Project_025390/README.md) |
+| 025391 | [PostgreSQL: Dashboard — Baseline Setup for Help Desk](Project_025391/README.md) |
+| 025392 | [PostgreSQL: Dashboard — Automation for Help Desk](Project_025392/README.md) |
+| 025393 | [PostgreSQL: Dashboard — Recovery for Help Desk](Project_025393/README.md) |
+| 025394 | [PostgreSQL: Dashboard — Reporting for Help Desk](Project_025394/README.md) |
+| 025395 | [PostgreSQL: Dashboard — Usability Improvement for Help Desk](Project_025395/README.md) |
+| 025396 | [PostgreSQL: Dashboard — Baseline Setup for Portfolio Demo](Project_025396/README.md) |
+| 025397 | [PostgreSQL: Dashboard — Automation for Portfolio Demo](Project_025397/README.md) |
+| 025398 | [PostgreSQL: Dashboard — Recovery for Portfolio Demo](Project_025398/README.md) |
+| 025399 | [PostgreSQL: Dashboard — Reporting for Portfolio Demo](Project_025399/README.md) |
+| 025400 | [PostgreSQL: Dashboard — Usability Improvement for Portfolio Demo](Project_025400/README.md) |
 
 [Back to the portfolio home](../README.md)
