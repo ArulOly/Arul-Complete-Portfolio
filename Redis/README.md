@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045578 | [Redis: Performance Baseline — Recovery for Offline Classroom](Project_045578/README.md) |
 | 045579 | [Redis: Performance Baseline — Reporting for Offline Classroom](Project_045579/README.md) |
 | 045580 | [Redis: Performance Baseline — Usability Improvement for Offline Classroom](Project_045580/README.md) |
+| 045581 | [Redis: Performance Baseline — Baseline Setup for Single-Host Lab](Project_045581/README.md) |
+| 045582 | [Redis: Performance Baseline — Automation for Single-Host Lab](Project_045582/README.md) |
+| 045583 | [Redis: Performance Baseline — Recovery for Single-Host Lab](Project_045583/README.md) |
+| 045584 | [Redis: Performance Baseline — Reporting for Single-Host Lab](Project_045584/README.md) |
+| 045585 | [Redis: Performance Baseline — Usability Improvement for Single-Host Lab](Project_045585/README.md) |
+| 045586 | [Redis: Performance Baseline — Baseline Setup for Two-Node Lab](Project_045586/README.md) |
+| 045587 | [Redis: Performance Baseline — Automation for Two-Node Lab](Project_045587/README.md) |
+| 045588 | [Redis: Performance Baseline — Recovery for Two-Node Lab](Project_045588/README.md) |
+| 045589 | [Redis: Performance Baseline — Reporting for Two-Node Lab](Project_045589/README.md) |
+| 045590 | [Redis: Performance Baseline — Usability Improvement for Two-Node Lab](Project_045590/README.md) |
+| 045591 | [Redis: Performance Baseline — Baseline Setup for Help Desk](Project_045591/README.md) |
+| 045592 | [Redis: Performance Baseline — Automation for Help Desk](Project_045592/README.md) |
+| 045593 | [Redis: Performance Baseline — Recovery for Help Desk](Project_045593/README.md) |
+| 045594 | [Redis: Performance Baseline — Reporting for Help Desk](Project_045594/README.md) |
+| 045595 | [Redis: Performance Baseline — Usability Improvement for Help Desk](Project_045595/README.md) |
+| 045596 | [Redis: Performance Baseline — Baseline Setup for Portfolio Demo](Project_045596/README.md) |
+| 045597 | [Redis: Performance Baseline — Automation for Portfolio Demo](Project_045597/README.md) |
+| 045598 | [Redis: Performance Baseline — Recovery for Portfolio Demo](Project_045598/README.md) |
+| 045599 | [Redis: Performance Baseline — Reporting for Portfolio Demo](Project_045599/README.md) |
+| 045600 | [Redis: Performance Baseline — Usability Improvement for Portfolio Demo](Project_045600/README.md) |
 
 [Back to the portfolio home](../README.md)
