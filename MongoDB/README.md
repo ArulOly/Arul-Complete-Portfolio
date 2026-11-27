@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027198 | [MongoDB: Log Analysis — Recovery for Portfolio Demo](Project_027198/README.md) |
 | 027199 | [MongoDB: Log Analysis — Reporting for Portfolio Demo](Project_027199/README.md) |
 | 027200 | [MongoDB: Log Analysis — Usability Improvement for Portfolio Demo](Project_027200/README.md) |
+| 027201 | [MongoDB: Backup Verification — Baseline Setup for School Lab](Project_027201/README.md) |
+| 027202 | [MongoDB: Backup Verification — Automation for School Lab](Project_027202/README.md) |
+| 027203 | [MongoDB: Backup Verification — Recovery for School Lab](Project_027203/README.md) |
+| 027204 | [MongoDB: Backup Verification — Reporting for School Lab](Project_027204/README.md) |
+| 027205 | [MongoDB: Backup Verification — Usability Improvement for School Lab](Project_027205/README.md) |
+| 027206 | [MongoDB: Backup Verification — Baseline Setup for Small Business](Project_027206/README.md) |
+| 027207 | [MongoDB: Backup Verification — Automation for Small Business](Project_027207/README.md) |
+| 027208 | [MongoDB: Backup Verification — Recovery for Small Business](Project_027208/README.md) |
+| 027209 | [MongoDB: Backup Verification — Reporting for Small Business](Project_027209/README.md) |
+| 027210 | [MongoDB: Backup Verification — Usability Improvement for Small Business](Project_027210/README.md) |
+| 027211 | [MongoDB: Backup Verification — Baseline Setup for Home Development](Project_027211/README.md) |
+| 027212 | [MongoDB: Backup Verification — Automation for Home Development](Project_027212/README.md) |
+| 027213 | [MongoDB: Backup Verification — Recovery for Home Development](Project_027213/README.md) |
+| 027214 | [MongoDB: Backup Verification — Reporting for Home Development](Project_027214/README.md) |
+| 027215 | [MongoDB: Backup Verification — Usability Improvement for Home Development](Project_027215/README.md) |
+| 027216 | [MongoDB: Backup Verification — Baseline Setup for Public Dataset](Project_027216/README.md) |
+| 027217 | [MongoDB: Backup Verification — Automation for Public Dataset](Project_027217/README.md) |
+| 027218 | [MongoDB: Backup Verification — Recovery for Public Dataset](Project_027218/README.md) |
+| 027219 | [MongoDB: Backup Verification — Reporting for Public Dataset](Project_027219/README.md) |
+| 027220 | [MongoDB: Backup Verification — Usability Improvement for Public Dataset](Project_027220/README.md) |
 
 [Back to the portfolio home](../README.md)
