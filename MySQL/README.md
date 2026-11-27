@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026218 | [MySQL: Backup Verification — Recovery for Public Dataset](Project_026218/README.md) |
 | 026219 | [MySQL: Backup Verification — Reporting for Public Dataset](Project_026219/README.md) |
 | 026220 | [MySQL: Backup Verification — Usability Improvement for Public Dataset](Project_026220/README.md) |
+| 026221 | [MySQL: Backup Verification — Baseline Setup for Branch Office Simulator](Project_026221/README.md) |
+| 026222 | [MySQL: Backup Verification — Automation for Branch Office Simulator](Project_026222/README.md) |
+| 026223 | [MySQL: Backup Verification — Recovery for Branch Office Simulator](Project_026223/README.md) |
+| 026224 | [MySQL: Backup Verification — Reporting for Branch Office Simulator](Project_026224/README.md) |
+| 026225 | [MySQL: Backup Verification — Usability Improvement for Branch Office Simulator](Project_026225/README.md) |
+| 026226 | [MySQL: Backup Verification — Baseline Setup for Offline Classroom](Project_026226/README.md) |
+| 026227 | [MySQL: Backup Verification — Automation for Offline Classroom](Project_026227/README.md) |
+| 026228 | [MySQL: Backup Verification — Recovery for Offline Classroom](Project_026228/README.md) |
+| 026229 | [MySQL: Backup Verification — Reporting for Offline Classroom](Project_026229/README.md) |
+| 026230 | [MySQL: Backup Verification — Usability Improvement for Offline Classroom](Project_026230/README.md) |
+| 026231 | [MySQL: Backup Verification — Baseline Setup for Single-Host Lab](Project_026231/README.md) |
+| 026232 | [MySQL: Backup Verification — Automation for Single-Host Lab](Project_026232/README.md) |
+| 026233 | [MySQL: Backup Verification — Recovery for Single-Host Lab](Project_026233/README.md) |
+| 026234 | [MySQL: Backup Verification — Reporting for Single-Host Lab](Project_026234/README.md) |
+| 026235 | [MySQL: Backup Verification — Usability Improvement for Single-Host Lab](Project_026235/README.md) |
+| 026236 | [MySQL: Backup Verification — Baseline Setup for Two-Node Lab](Project_026236/README.md) |
+| 026237 | [MySQL: Backup Verification — Automation for Two-Node Lab](Project_026237/README.md) |
+| 026238 | [MySQL: Backup Verification — Recovery for Two-Node Lab](Project_026238/README.md) |
+| 026239 | [MySQL: Backup Verification — Reporting for Two-Node Lab](Project_026239/README.md) |
+| 026240 | [MySQL: Backup Verification — Usability Improvement for Two-Node Lab](Project_026240/README.md) |
 
 [Back to the portfolio home](../README.md)
