@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032718 | [Power BI: Error Handling — Recovery for Public Dataset](Project_032718/README.md) |
 | 032719 | [Power BI: Error Handling — Reporting for Public Dataset](Project_032719/README.md) |
 | 032720 | [Power BI: Error Handling — Usability Improvement for Public Dataset](Project_032720/README.md) |
+| 032721 | [Power BI: Error Handling — Baseline Setup for Branch Office Simulator](Project_032721/README.md) |
+| 032722 | [Power BI: Error Handling — Automation for Branch Office Simulator](Project_032722/README.md) |
+| 032723 | [Power BI: Error Handling — Recovery for Branch Office Simulator](Project_032723/README.md) |
+| 032724 | [Power BI: Error Handling — Reporting for Branch Office Simulator](Project_032724/README.md) |
+| 032725 | [Power BI: Error Handling — Usability Improvement for Branch Office Simulator](Project_032725/README.md) |
+| 032726 | [Power BI: Error Handling — Baseline Setup for Offline Classroom](Project_032726/README.md) |
+| 032727 | [Power BI: Error Handling — Automation for Offline Classroom](Project_032727/README.md) |
+| 032728 | [Power BI: Error Handling — Recovery for Offline Classroom](Project_032728/README.md) |
+| 032729 | [Power BI: Error Handling — Reporting for Offline Classroom](Project_032729/README.md) |
+| 032730 | [Power BI: Error Handling — Usability Improvement for Offline Classroom](Project_032730/README.md) |
+| 032731 | [Power BI: Error Handling — Baseline Setup for Single-Host Lab](Project_032731/README.md) |
+| 032732 | [Power BI: Error Handling — Automation for Single-Host Lab](Project_032732/README.md) |
+| 032733 | [Power BI: Error Handling — Recovery for Single-Host Lab](Project_032733/README.md) |
+| 032734 | [Power BI: Error Handling — Reporting for Single-Host Lab](Project_032734/README.md) |
+| 032735 | [Power BI: Error Handling — Usability Improvement for Single-Host Lab](Project_032735/README.md) |
+| 032736 | [Power BI: Error Handling — Baseline Setup for Two-Node Lab](Project_032736/README.md) |
+| 032737 | [Power BI: Error Handling — Automation for Two-Node Lab](Project_032737/README.md) |
+| 032738 | [Power BI: Error Handling — Recovery for Two-Node Lab](Project_032738/README.md) |
+| 032739 | [Power BI: Error Handling — Reporting for Two-Node Lab](Project_032739/README.md) |
+| 032740 | [Power BI: Error Handling — Usability Improvement for Two-Node Lab](Project_032740/README.md) |
 
 [Back to the portfolio home](../README.md)
