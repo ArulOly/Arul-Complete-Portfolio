@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023518 | [HTML CSS: Access Review — Recovery for Public Dataset](Project_023518/README.md) |
 | 023519 | [HTML CSS: Access Review — Reporting for Public Dataset](Project_023519/README.md) |
 | 023520 | [HTML CSS: Access Review — Usability Improvement for Public Dataset](Project_023520/README.md) |
+| 023521 | [HTML CSS: Access Review — Baseline Setup for Branch Office Simulator](Project_023521/README.md) |
+| 023522 | [HTML CSS: Access Review — Automation for Branch Office Simulator](Project_023522/README.md) |
+| 023523 | [HTML CSS: Access Review — Recovery for Branch Office Simulator](Project_023523/README.md) |
+| 023524 | [HTML CSS: Access Review — Reporting for Branch Office Simulator](Project_023524/README.md) |
+| 023525 | [HTML CSS: Access Review — Usability Improvement for Branch Office Simulator](Project_023525/README.md) |
+| 023526 | [HTML CSS: Access Review — Baseline Setup for Offline Classroom](Project_023526/README.md) |
+| 023527 | [HTML CSS: Access Review — Automation for Offline Classroom](Project_023527/README.md) |
+| 023528 | [HTML CSS: Access Review — Recovery for Offline Classroom](Project_023528/README.md) |
+| 023529 | [HTML CSS: Access Review — Reporting for Offline Classroom](Project_023529/README.md) |
+| 023530 | [HTML CSS: Access Review — Usability Improvement for Offline Classroom](Project_023530/README.md) |
+| 023531 | [HTML CSS: Access Review — Baseline Setup for Single-Host Lab](Project_023531/README.md) |
+| 023532 | [HTML CSS: Access Review — Automation for Single-Host Lab](Project_023532/README.md) |
+| 023533 | [HTML CSS: Access Review — Recovery for Single-Host Lab](Project_023533/README.md) |
+| 023534 | [HTML CSS: Access Review — Reporting for Single-Host Lab](Project_023534/README.md) |
+| 023535 | [HTML CSS: Access Review — Usability Improvement for Single-Host Lab](Project_023535/README.md) |
+| 023536 | [HTML CSS: Access Review — Baseline Setup for Two-Node Lab](Project_023536/README.md) |
+| 023537 | [HTML CSS: Access Review — Automation for Two-Node Lab](Project_023537/README.md) |
+| 023538 | [HTML CSS: Access Review — Recovery for Two-Node Lab](Project_023538/README.md) |
+| 023539 | [HTML CSS: Access Review — Reporting for Two-Node Lab](Project_023539/README.md) |
+| 023540 | [HTML CSS: Access Review — Usability Improvement for Two-Node Lab](Project_023540/README.md) |
 
 [Back to the portfolio home](../README.md)
