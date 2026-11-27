@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021578 | [TypeScript: Performance Baseline — Recovery for Offline Classroom](Project_021578/README.md) |
 | 021579 | [TypeScript: Performance Baseline — Reporting for Offline Classroom](Project_021579/README.md) |
 | 021580 | [TypeScript: Performance Baseline — Usability Improvement for Offline Classroom](Project_021580/README.md) |
+| 021581 | [TypeScript: Performance Baseline — Baseline Setup for Single-Host Lab](Project_021581/README.md) |
+| 021582 | [TypeScript: Performance Baseline — Automation for Single-Host Lab](Project_021582/README.md) |
+| 021583 | [TypeScript: Performance Baseline — Recovery for Single-Host Lab](Project_021583/README.md) |
+| 021584 | [TypeScript: Performance Baseline — Reporting for Single-Host Lab](Project_021584/README.md) |
+| 021585 | [TypeScript: Performance Baseline — Usability Improvement for Single-Host Lab](Project_021585/README.md) |
+| 021586 | [TypeScript: Performance Baseline — Baseline Setup for Two-Node Lab](Project_021586/README.md) |
+| 021587 | [TypeScript: Performance Baseline — Automation for Two-Node Lab](Project_021587/README.md) |
+| 021588 | [TypeScript: Performance Baseline — Recovery for Two-Node Lab](Project_021588/README.md) |
+| 021589 | [TypeScript: Performance Baseline — Reporting for Two-Node Lab](Project_021589/README.md) |
+| 021590 | [TypeScript: Performance Baseline — Usability Improvement for Two-Node Lab](Project_021590/README.md) |
+| 021591 | [TypeScript: Performance Baseline — Baseline Setup for Help Desk](Project_021591/README.md) |
+| 021592 | [TypeScript: Performance Baseline — Automation for Help Desk](Project_021592/README.md) |
+| 021593 | [TypeScript: Performance Baseline — Recovery for Help Desk](Project_021593/README.md) |
+| 021594 | [TypeScript: Performance Baseline — Reporting for Help Desk](Project_021594/README.md) |
+| 021595 | [TypeScript: Performance Baseline — Usability Improvement for Help Desk](Project_021595/README.md) |
+| 021596 | [TypeScript: Performance Baseline — Baseline Setup for Portfolio Demo](Project_021596/README.md) |
+| 021597 | [TypeScript: Performance Baseline — Automation for Portfolio Demo](Project_021597/README.md) |
+| 021598 | [TypeScript: Performance Baseline — Recovery for Portfolio Demo](Project_021598/README.md) |
+| 021599 | [TypeScript: Performance Baseline — Reporting for Portfolio Demo](Project_021599/README.md) |
+| 021600 | [TypeScript: Performance Baseline — Usability Improvement for Portfolio Demo](Project_021600/README.md) |
 
 [Back to the portfolio home](../README.md)
