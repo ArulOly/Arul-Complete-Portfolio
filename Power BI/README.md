@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032838 | [Power BI: Documentation Generation — Recovery for Two-Node Lab](Project_032838/README.md) |
 | 032839 | [Power BI: Documentation Generation — Reporting for Two-Node Lab](Project_032839/README.md) |
 | 032840 | [Power BI: Documentation Generation — Usability Improvement for Two-Node Lab](Project_032840/README.md) |
+| 032841 | [Power BI: Documentation Generation — Baseline Setup for Help Desk](Project_032841/README.md) |
+| 032842 | [Power BI: Documentation Generation — Automation for Help Desk](Project_032842/README.md) |
+| 032843 | [Power BI: Documentation Generation — Recovery for Help Desk](Project_032843/README.md) |
+| 032844 | [Power BI: Documentation Generation — Reporting for Help Desk](Project_032844/README.md) |
+| 032845 | [Power BI: Documentation Generation — Usability Improvement for Help Desk](Project_032845/README.md) |
+| 032846 | [Power BI: Documentation Generation — Baseline Setup for Portfolio Demo](Project_032846/README.md) |
+| 032847 | [Power BI: Documentation Generation — Automation for Portfolio Demo](Project_032847/README.md) |
+| 032848 | [Power BI: Documentation Generation — Recovery for Portfolio Demo](Project_032848/README.md) |
+| 032849 | [Power BI: Documentation Generation — Reporting for Portfolio Demo](Project_032849/README.md) |
+| 032850 | [Power BI: Documentation Generation — Usability Improvement for Portfolio Demo](Project_032850/README.md) |
+| 032851 | [Power BI: Automation — Baseline Setup for School Lab](Project_032851/README.md) |
+| 032852 | [Power BI: Automation — Automation for School Lab](Project_032852/README.md) |
+| 032853 | [Power BI: Automation — Recovery for School Lab](Project_032853/README.md) |
+| 032854 | [Power BI: Automation — Reporting for School Lab](Project_032854/README.md) |
+| 032855 | [Power BI: Automation — Usability Improvement for School Lab](Project_032855/README.md) |
+| 032856 | [Power BI: Automation — Baseline Setup for Small Business](Project_032856/README.md) |
+| 032857 | [Power BI: Automation — Automation for Small Business](Project_032857/README.md) |
+| 032858 | [Power BI: Automation — Recovery for Small Business](Project_032858/README.md) |
+| 032859 | [Power BI: Automation — Reporting for Small Business](Project_032859/README.md) |
+| 032860 | [Power BI: Automation — Usability Improvement for Small Business](Project_032860/README.md) |
 
 [Back to the portfolio home](../README.md)
