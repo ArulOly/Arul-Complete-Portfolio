@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021418 | [TypeScript: Alerting — Recovery for Public Dataset](Project_021418/README.md) |
 | 021419 | [TypeScript: Alerting — Reporting for Public Dataset](Project_021419/README.md) |
 | 021420 | [TypeScript: Alerting — Usability Improvement for Public Dataset](Project_021420/README.md) |
+| 021421 | [TypeScript: Alerting — Baseline Setup for Branch Office Simulator](Project_021421/README.md) |
+| 021422 | [TypeScript: Alerting — Automation for Branch Office Simulator](Project_021422/README.md) |
+| 021423 | [TypeScript: Alerting — Recovery for Branch Office Simulator](Project_021423/README.md) |
+| 021424 | [TypeScript: Alerting — Reporting for Branch Office Simulator](Project_021424/README.md) |
+| 021425 | [TypeScript: Alerting — Usability Improvement for Branch Office Simulator](Project_021425/README.md) |
+| 021426 | [TypeScript: Alerting — Baseline Setup for Offline Classroom](Project_021426/README.md) |
+| 021427 | [TypeScript: Alerting — Automation for Offline Classroom](Project_021427/README.md) |
+| 021428 | [TypeScript: Alerting — Recovery for Offline Classroom](Project_021428/README.md) |
+| 021429 | [TypeScript: Alerting — Reporting for Offline Classroom](Project_021429/README.md) |
+| 021430 | [TypeScript: Alerting — Usability Improvement for Offline Classroom](Project_021430/README.md) |
+| 021431 | [TypeScript: Alerting — Baseline Setup for Single-Host Lab](Project_021431/README.md) |
+| 021432 | [TypeScript: Alerting — Automation for Single-Host Lab](Project_021432/README.md) |
+| 021433 | [TypeScript: Alerting — Recovery for Single-Host Lab](Project_021433/README.md) |
+| 021434 | [TypeScript: Alerting — Reporting for Single-Host Lab](Project_021434/README.md) |
+| 021435 | [TypeScript: Alerting — Usability Improvement for Single-Host Lab](Project_021435/README.md) |
+| 021436 | [TypeScript: Alerting — Baseline Setup for Two-Node Lab](Project_021436/README.md) |
+| 021437 | [TypeScript: Alerting — Automation for Two-Node Lab](Project_021437/README.md) |
+| 021438 | [TypeScript: Alerting — Recovery for Two-Node Lab](Project_021438/README.md) |
+| 021439 | [TypeScript: Alerting — Reporting for Two-Node Lab](Project_021439/README.md) |
+| 021440 | [TypeScript: Alerting — Usability Improvement for Two-Node Lab](Project_021440/README.md) |
 
 [Back to the portfolio home](../README.md)
