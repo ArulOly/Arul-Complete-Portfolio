@@ -191,6 +191,10 @@ Actual tests ran on a Ubuntu 24.04 container. The platform command returned the 
 }
 ```
 
+Captured terminal run on Ubuntu 24.04 container using the synthetic fixture shown above.
+
+![Performance baseline report on Ubuntu](../Evidence/project-002554-reporting.png)
+
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.

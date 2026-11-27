@@ -164,6 +164,10 @@ Actual tests ran on a Ubuntu 24.04 container. The platform command returned the 
 }
 ```
 
+Captured terminal run on Ubuntu 24.04 container using the synthetic fixture shown above.
+
+![Inventory baseline on Ubuntu](../Evidence/project-002001-baseline.png)
+
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.

@@ -188,6 +188,10 @@ Actual tests ran on a FreeBSD 14.2 virtual machine. The platform command returne
 }
 ```
 
+Captured terminal run on FreeBSD 14.2 virtual machine using the synthetic fixture shown above.
+
+![Performance baseline report on FreeBSD](../Evidence/project-005554-reporting.png)
+
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.

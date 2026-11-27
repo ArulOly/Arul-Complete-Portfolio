@@ -191,6 +191,10 @@ Actual tests ran on a Debian 12 container. The platform command returned the obs
 }
 ```
 
+Captured terminal run on Debian 12 container using the synthetic fixture shown above.
+
+![Performance baseline report on Debian](../Evidence/project-003554-reporting.png)
+
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.

@@ -37,6 +37,18 @@ Ubuntu, dpkg-query, Python, JSON, and local command-line reporting.
 
 Run the embedded Python on Ubuntu. Save the project code and synthetic input locally and use the command in the README.
 
+## Test screenshots
+
+These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
+
+![Inventory baseline valid and invalid terminal runs on Ubuntu](Evidence/project-002001-baseline.png)
+
+- [Project 002001 · Inventory baseline](Project_002001/README.md) · [Screenshot](Evidence/project-002001-baseline.png)
+- [Project 002152 · Log analysis with one rejected batch row](Project_002152/README.md) · [Screenshot](Evidence/project-002152-automation.png)
+- [Project 002953 · Recovery Test using the saved fallback](Project_002953/README.md) · [Screenshot](Evidence/project-002953-recovery.png)
+- [Project 002554 · Performance baseline report](Project_002554/README.md) · [Screenshot](Evidence/project-002554-reporting.png)
+- [Project 002905 · Readable visual report](Project_002905/README.md) · [Screenshot](Evidence/project-002905-usability.png)
+
 ## Project index
 
 | Project ID | Project title |

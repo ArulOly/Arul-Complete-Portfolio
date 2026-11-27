@@ -182,6 +182,10 @@ Actual tests ran on a Ubuntu 24.04 container. The platform command returned the 
 }
 ```
 
+Captured terminal run on Ubuntu 24.04 container using the synthetic fixture shown above.
+
+![Recovery Test using the saved fallback on Ubuntu](../Evidence/project-002953-recovery.png)
+
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.
