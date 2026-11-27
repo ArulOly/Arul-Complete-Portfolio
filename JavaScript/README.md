@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020438 | [JavaScript: Alerting — Recovery for Two-Node Lab](Project_020438/README.md) |
 | 020439 | [JavaScript: Alerting — Reporting for Two-Node Lab](Project_020439/README.md) |
 | 020440 | [JavaScript: Alerting — Usability Improvement for Two-Node Lab](Project_020440/README.md) |
+| 020441 | [JavaScript: Alerting — Baseline Setup for Help Desk](Project_020441/README.md) |
+| 020442 | [JavaScript: Alerting — Automation for Help Desk](Project_020442/README.md) |
+| 020443 | [JavaScript: Alerting — Recovery for Help Desk](Project_020443/README.md) |
+| 020444 | [JavaScript: Alerting — Reporting for Help Desk](Project_020444/README.md) |
+| 020445 | [JavaScript: Alerting — Usability Improvement for Help Desk](Project_020445/README.md) |
+| 020446 | [JavaScript: Alerting — Baseline Setup for Portfolio Demo](Project_020446/README.md) |
+| 020447 | [JavaScript: Alerting — Automation for Portfolio Demo](Project_020447/README.md) |
+| 020448 | [JavaScript: Alerting — Recovery for Portfolio Demo](Project_020448/README.md) |
+| 020449 | [JavaScript: Alerting — Reporting for Portfolio Demo](Project_020449/README.md) |
+| 020450 | [JavaScript: Alerting — Usability Improvement for Portfolio Demo](Project_020450/README.md) |
+| 020451 | [JavaScript: Scheduled Reporting — Baseline Setup for School Lab](Project_020451/README.md) |
+| 020452 | [JavaScript: Scheduled Reporting — Automation for School Lab](Project_020452/README.md) |
+| 020453 | [JavaScript: Scheduled Reporting — Recovery for School Lab](Project_020453/README.md) |
+| 020454 | [JavaScript: Scheduled Reporting — Reporting for School Lab](Project_020454/README.md) |
+| 020455 | [JavaScript: Scheduled Reporting — Usability Improvement for School Lab](Project_020455/README.md) |
+| 020456 | [JavaScript: Scheduled Reporting — Baseline Setup for Small Business](Project_020456/README.md) |
+| 020457 | [JavaScript: Scheduled Reporting — Automation for Small Business](Project_020457/README.md) |
+| 020458 | [JavaScript: Scheduled Reporting — Recovery for Small Business](Project_020458/README.md) |
+| 020459 | [JavaScript: Scheduled Reporting — Reporting for Small Business](Project_020459/README.md) |
+| 020460 | [JavaScript: Scheduled Reporting — Usability Improvement for Small Business](Project_020460/README.md) |
 
 [Back to the portfolio home](../README.md)
