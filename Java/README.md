@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022538 | [Java: Access Review — Recovery for Two-Node Lab](Project_022538/README.md) |
 | 022539 | [Java: Access Review — Reporting for Two-Node Lab](Project_022539/README.md) |
 | 022540 | [Java: Access Review — Usability Improvement for Two-Node Lab](Project_022540/README.md) |
+| 022541 | [Java: Access Review — Baseline Setup for Help Desk](Project_022541/README.md) |
+| 022542 | [Java: Access Review — Automation for Help Desk](Project_022542/README.md) |
+| 022543 | [Java: Access Review — Recovery for Help Desk](Project_022543/README.md) |
+| 022544 | [Java: Access Review — Reporting for Help Desk](Project_022544/README.md) |
+| 022545 | [Java: Access Review — Usability Improvement for Help Desk](Project_022545/README.md) |
+| 022546 | [Java: Access Review — Baseline Setup for Portfolio Demo](Project_022546/README.md) |
+| 022547 | [Java: Access Review — Automation for Portfolio Demo](Project_022547/README.md) |
+| 022548 | [Java: Access Review — Recovery for Portfolio Demo](Project_022548/README.md) |
+| 022549 | [Java: Access Review — Reporting for Portfolio Demo](Project_022549/README.md) |
+| 022550 | [Java: Access Review — Usability Improvement for Portfolio Demo](Project_022550/README.md) |
+| 022551 | [Java: Performance Baseline — Baseline Setup for School Lab](Project_022551/README.md) |
+| 022552 | [Java: Performance Baseline — Automation for School Lab](Project_022552/README.md) |
+| 022553 | [Java: Performance Baseline — Recovery for School Lab](Project_022553/README.md) |
+| 022554 | [Java: Performance Baseline — Reporting for School Lab](Project_022554/README.md) |
+| 022555 | [Java: Performance Baseline — Usability Improvement for School Lab](Project_022555/README.md) |
+| 022556 | [Java: Performance Baseline — Baseline Setup for Small Business](Project_022556/README.md) |
+| 022557 | [Java: Performance Baseline — Automation for Small Business](Project_022557/README.md) |
+| 022558 | [Java: Performance Baseline — Recovery for Small Business](Project_022558/README.md) |
+| 022559 | [Java: Performance Baseline — Reporting for Small Business](Project_022559/README.md) |
+| 022560 | [Java: Performance Baseline — Usability Improvement for Small Business](Project_022560/README.md) |
 
 [Back to the portfolio home](../README.md)
