@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023658 | [HTML CSS: Configuration Comparison — Recovery for Small Business](Project_023658/README.md) |
 | 023659 | [HTML CSS: Configuration Comparison — Reporting for Small Business](Project_023659/README.md) |
 | 023660 | [HTML CSS: Configuration Comparison — Usability Improvement for Small Business](Project_023660/README.md) |
+| 023661 | [HTML CSS: Configuration Comparison — Baseline Setup for Home Development](Project_023661/README.md) |
+| 023662 | [HTML CSS: Configuration Comparison — Automation for Home Development](Project_023662/README.md) |
+| 023663 | [HTML CSS: Configuration Comparison — Recovery for Home Development](Project_023663/README.md) |
+| 023664 | [HTML CSS: Configuration Comparison — Reporting for Home Development](Project_023664/README.md) |
+| 023665 | [HTML CSS: Configuration Comparison — Usability Improvement for Home Development](Project_023665/README.md) |
+| 023666 | [HTML CSS: Configuration Comparison — Baseline Setup for Public Dataset](Project_023666/README.md) |
+| 023667 | [HTML CSS: Configuration Comparison — Automation for Public Dataset](Project_023667/README.md) |
+| 023668 | [HTML CSS: Configuration Comparison — Recovery for Public Dataset](Project_023668/README.md) |
+| 023669 | [HTML CSS: Configuration Comparison — Reporting for Public Dataset](Project_023669/README.md) |
+| 023670 | [HTML CSS: Configuration Comparison — Usability Improvement for Public Dataset](Project_023670/README.md) |
+| 023671 | [HTML CSS: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_023671/README.md) |
+| 023672 | [HTML CSS: Configuration Comparison — Automation for Branch Office Simulator](Project_023672/README.md) |
+| 023673 | [HTML CSS: Configuration Comparison — Recovery for Branch Office Simulator](Project_023673/README.md) |
+| 023674 | [HTML CSS: Configuration Comparison — Reporting for Branch Office Simulator](Project_023674/README.md) |
+| 023675 | [HTML CSS: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_023675/README.md) |
+| 023676 | [HTML CSS: Configuration Comparison — Baseline Setup for Offline Classroom](Project_023676/README.md) |
+| 023677 | [HTML CSS: Configuration Comparison — Automation for Offline Classroom](Project_023677/README.md) |
+| 023678 | [HTML CSS: Configuration Comparison — Recovery for Offline Classroom](Project_023678/README.md) |
+| 023679 | [HTML CSS: Configuration Comparison — Reporting for Offline Classroom](Project_023679/README.md) |
+| 023680 | [HTML CSS: Configuration Comparison — Usability Improvement for Offline Classroom](Project_023680/README.md) |
 
 [Back to the portfolio home](../README.md)
