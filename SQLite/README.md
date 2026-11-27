@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028898 | [SQLite: Automation — Recovery for Portfolio Demo](Project_028898/README.md) |
 | 028899 | [SQLite: Automation — Reporting for Portfolio Demo](Project_028899/README.md) |
 | 028900 | [SQLite: Automation — Usability Improvement for Portfolio Demo](Project_028900/README.md) |
+| 028901 | [SQLite: Visual Reporting — Baseline Setup for School Lab](Project_028901/README.md) |
+| 028902 | [SQLite: Visual Reporting — Automation for School Lab](Project_028902/README.md) |
+| 028903 | [SQLite: Visual Reporting — Recovery for School Lab](Project_028903/README.md) |
+| 028904 | [SQLite: Visual Reporting — Reporting for School Lab](Project_028904/README.md) |
+| 028905 | [SQLite: Visual Reporting — Usability Improvement for School Lab](Project_028905/README.md) |
+| 028906 | [SQLite: Visual Reporting — Baseline Setup for Small Business](Project_028906/README.md) |
+| 028907 | [SQLite: Visual Reporting — Automation for Small Business](Project_028907/README.md) |
+| 028908 | [SQLite: Visual Reporting — Recovery for Small Business](Project_028908/README.md) |
+| 028909 | [SQLite: Visual Reporting — Reporting for Small Business](Project_028909/README.md) |
+| 028910 | [SQLite: Visual Reporting — Usability Improvement for Small Business](Project_028910/README.md) |
+| 028911 | [SQLite: Visual Reporting — Baseline Setup for Home Development](Project_028911/README.md) |
+| 028912 | [SQLite: Visual Reporting — Automation for Home Development](Project_028912/README.md) |
+| 028913 | [SQLite: Visual Reporting — Recovery for Home Development](Project_028913/README.md) |
+| 028914 | [SQLite: Visual Reporting — Reporting for Home Development](Project_028914/README.md) |
+| 028915 | [SQLite: Visual Reporting — Usability Improvement for Home Development](Project_028915/README.md) |
+| 028916 | [SQLite: Visual Reporting — Baseline Setup for Public Dataset](Project_028916/README.md) |
+| 028917 | [SQLite: Visual Reporting — Automation for Public Dataset](Project_028917/README.md) |
+| 028918 | [SQLite: Visual Reporting — Recovery for Public Dataset](Project_028918/README.md) |
+| 028919 | [SQLite: Visual Reporting — Reporting for Public Dataset](Project_028919/README.md) |
+| 028920 | [SQLite: Visual Reporting — Usability Improvement for Public Dataset](Project_028920/README.md) |
 
 [Back to the portfolio home](../README.md)
