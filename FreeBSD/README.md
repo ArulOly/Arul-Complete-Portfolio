@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005918 | [FreeBSD: Visual Reporting — Recovery for Public Dataset](Project_005918/README.md) |
 | 005919 | [FreeBSD: Visual Reporting — Reporting for Public Dataset](Project_005919/README.md) |
 | 005920 | [FreeBSD: Visual Reporting — Usability Improvement for Public Dataset](Project_005920/README.md) |
+| 005921 | [FreeBSD: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_005921/README.md) |
+| 005922 | [FreeBSD: Visual Reporting — Automation for Branch Office Simulator](Project_005922/README.md) |
+| 005923 | [FreeBSD: Visual Reporting — Recovery for Branch Office Simulator](Project_005923/README.md) |
+| 005924 | [FreeBSD: Visual Reporting — Reporting for Branch Office Simulator](Project_005924/README.md) |
+| 005925 | [FreeBSD: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_005925/README.md) |
+| 005926 | [FreeBSD: Visual Reporting — Baseline Setup for Offline Classroom](Project_005926/README.md) |
+| 005927 | [FreeBSD: Visual Reporting — Automation for Offline Classroom](Project_005927/README.md) |
+| 005928 | [FreeBSD: Visual Reporting — Recovery for Offline Classroom](Project_005928/README.md) |
+| 005929 | [FreeBSD: Visual Reporting — Reporting for Offline Classroom](Project_005929/README.md) |
+| 005930 | [FreeBSD: Visual Reporting — Usability Improvement for Offline Classroom](Project_005930/README.md) |
+| 005931 | [FreeBSD: Visual Reporting — Baseline Setup for Single-Host Lab](Project_005931/README.md) |
+| 005932 | [FreeBSD: Visual Reporting — Automation for Single-Host Lab](Project_005932/README.md) |
+| 005933 | [FreeBSD: Visual Reporting — Recovery for Single-Host Lab](Project_005933/README.md) |
+| 005934 | [FreeBSD: Visual Reporting — Reporting for Single-Host Lab](Project_005934/README.md) |
+| 005935 | [FreeBSD: Visual Reporting — Usability Improvement for Single-Host Lab](Project_005935/README.md) |
+| 005936 | [FreeBSD: Visual Reporting — Baseline Setup for Two-Node Lab](Project_005936/README.md) |
+| 005937 | [FreeBSD: Visual Reporting — Automation for Two-Node Lab](Project_005937/README.md) |
+| 005938 | [FreeBSD: Visual Reporting — Recovery for Two-Node Lab](Project_005938/README.md) |
+| 005939 | [FreeBSD: Visual Reporting — Reporting for Two-Node Lab](Project_005939/README.md) |
+| 005940 | [FreeBSD: Visual Reporting — Usability Improvement for Two-Node Lab](Project_005940/README.md) |
 
 [Back to the portfolio home](../README.md)
