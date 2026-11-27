@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024138 | [Node.js: Audit — Recovery for Two-Node Lab](Project_024138/README.md) |
 | 024139 | [Node.js: Audit — Reporting for Two-Node Lab](Project_024139/README.md) |
 | 024140 | [Node.js: Audit — Usability Improvement for Two-Node Lab](Project_024140/README.md) |
+| 024141 | [Node.js: Audit — Baseline Setup for Help Desk](Project_024141/README.md) |
+| 024142 | [Node.js: Audit — Automation for Help Desk](Project_024142/README.md) |
+| 024143 | [Node.js: Audit — Recovery for Help Desk](Project_024143/README.md) |
+| 024144 | [Node.js: Audit — Reporting for Help Desk](Project_024144/README.md) |
+| 024145 | [Node.js: Audit — Usability Improvement for Help Desk](Project_024145/README.md) |
+| 024146 | [Node.js: Audit — Baseline Setup for Portfolio Demo](Project_024146/README.md) |
+| 024147 | [Node.js: Audit — Automation for Portfolio Demo](Project_024147/README.md) |
+| 024148 | [Node.js: Audit — Recovery for Portfolio Demo](Project_024148/README.md) |
+| 024149 | [Node.js: Audit — Reporting for Portfolio Demo](Project_024149/README.md) |
+| 024150 | [Node.js: Audit — Usability Improvement for Portfolio Demo](Project_024150/README.md) |
+| 024151 | [Node.js: Log Analysis — Baseline Setup for School Lab](Project_024151/README.md) |
+| 024152 | [Node.js: Log Analysis — Automation for School Lab](Project_024152/README.md) |
+| 024153 | [Node.js: Log Analysis — Recovery for School Lab](Project_024153/README.md) |
+| 024154 | [Node.js: Log Analysis — Reporting for School Lab](Project_024154/README.md) |
+| 024155 | [Node.js: Log Analysis — Usability Improvement for School Lab](Project_024155/README.md) |
+| 024156 | [Node.js: Log Analysis — Baseline Setup for Small Business](Project_024156/README.md) |
+| 024157 | [Node.js: Log Analysis — Automation for Small Business](Project_024157/README.md) |
+| 024158 | [Node.js: Log Analysis — Recovery for Small Business](Project_024158/README.md) |
+| 024159 | [Node.js: Log Analysis — Reporting for Small Business](Project_024159/README.md) |
+| 024160 | [Node.js: Log Analysis — Usability Improvement for Small Business](Project_024160/README.md) |
 
 [Back to the portfolio home](../README.md)
