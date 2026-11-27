@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021558 | [TypeScript: Performance Baseline — Recovery for Small Business](Project_021558/README.md) |
 | 021559 | [TypeScript: Performance Baseline — Reporting for Small Business](Project_021559/README.md) |
 | 021560 | [TypeScript: Performance Baseline — Usability Improvement for Small Business](Project_021560/README.md) |
+| 021561 | [TypeScript: Performance Baseline — Baseline Setup for Home Development](Project_021561/README.md) |
+| 021562 | [TypeScript: Performance Baseline — Automation for Home Development](Project_021562/README.md) |
+| 021563 | [TypeScript: Performance Baseline — Recovery for Home Development](Project_021563/README.md) |
+| 021564 | [TypeScript: Performance Baseline — Reporting for Home Development](Project_021564/README.md) |
+| 021565 | [TypeScript: Performance Baseline — Usability Improvement for Home Development](Project_021565/README.md) |
+| 021566 | [TypeScript: Performance Baseline — Baseline Setup for Public Dataset](Project_021566/README.md) |
+| 021567 | [TypeScript: Performance Baseline — Automation for Public Dataset](Project_021567/README.md) |
+| 021568 | [TypeScript: Performance Baseline — Recovery for Public Dataset](Project_021568/README.md) |
+| 021569 | [TypeScript: Performance Baseline — Reporting for Public Dataset](Project_021569/README.md) |
+| 021570 | [TypeScript: Performance Baseline — Usability Improvement for Public Dataset](Project_021570/README.md) |
+| 021571 | [TypeScript: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_021571/README.md) |
+| 021572 | [TypeScript: Performance Baseline — Automation for Branch Office Simulator](Project_021572/README.md) |
+| 021573 | [TypeScript: Performance Baseline — Recovery for Branch Office Simulator](Project_021573/README.md) |
+| 021574 | [TypeScript: Performance Baseline — Reporting for Branch Office Simulator](Project_021574/README.md) |
+| 021575 | [TypeScript: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_021575/README.md) |
+| 021576 | [TypeScript: Performance Baseline — Baseline Setup for Offline Classroom](Project_021576/README.md) |
+| 021577 | [TypeScript: Performance Baseline — Automation for Offline Classroom](Project_021577/README.md) |
+| 021578 | [TypeScript: Performance Baseline — Recovery for Offline Classroom](Project_021578/README.md) |
+| 021579 | [TypeScript: Performance Baseline — Reporting for Offline Classroom](Project_021579/README.md) |
+| 021580 | [TypeScript: Performance Baseline — Usability Improvement for Offline Classroom](Project_021580/README.md) |
 
 [Back to the portfolio home](../README.md)
