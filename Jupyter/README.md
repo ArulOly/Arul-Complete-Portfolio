@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033658 | [Jupyter: Configuration Comparison — Recovery for Small Business](Project_033658/README.md) |
 | 033659 | [Jupyter: Configuration Comparison — Reporting for Small Business](Project_033659/README.md) |
 | 033660 | [Jupyter: Configuration Comparison — Usability Improvement for Small Business](Project_033660/README.md) |
+| 033661 | [Jupyter: Configuration Comparison — Baseline Setup for Home Development](Project_033661/README.md) |
+| 033662 | [Jupyter: Configuration Comparison — Automation for Home Development](Project_033662/README.md) |
+| 033663 | [Jupyter: Configuration Comparison — Recovery for Home Development](Project_033663/README.md) |
+| 033664 | [Jupyter: Configuration Comparison — Reporting for Home Development](Project_033664/README.md) |
+| 033665 | [Jupyter: Configuration Comparison — Usability Improvement for Home Development](Project_033665/README.md) |
+| 033666 | [Jupyter: Configuration Comparison — Baseline Setup for Public Dataset](Project_033666/README.md) |
+| 033667 | [Jupyter: Configuration Comparison — Automation for Public Dataset](Project_033667/README.md) |
+| 033668 | [Jupyter: Configuration Comparison — Recovery for Public Dataset](Project_033668/README.md) |
+| 033669 | [Jupyter: Configuration Comparison — Reporting for Public Dataset](Project_033669/README.md) |
+| 033670 | [Jupyter: Configuration Comparison — Usability Improvement for Public Dataset](Project_033670/README.md) |
+| 033671 | [Jupyter: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_033671/README.md) |
+| 033672 | [Jupyter: Configuration Comparison — Automation for Branch Office Simulator](Project_033672/README.md) |
+| 033673 | [Jupyter: Configuration Comparison — Recovery for Branch Office Simulator](Project_033673/README.md) |
+| 033674 | [Jupyter: Configuration Comparison — Reporting for Branch Office Simulator](Project_033674/README.md) |
+| 033675 | [Jupyter: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_033675/README.md) |
+| 033676 | [Jupyter: Configuration Comparison — Baseline Setup for Offline Classroom](Project_033676/README.md) |
+| 033677 | [Jupyter: Configuration Comparison — Automation for Offline Classroom](Project_033677/README.md) |
+| 033678 | [Jupyter: Configuration Comparison — Recovery for Offline Classroom](Project_033678/README.md) |
+| 033679 | [Jupyter: Configuration Comparison — Reporting for Offline Classroom](Project_033679/README.md) |
+| 033680 | [Jupyter: Configuration Comparison — Usability Improvement for Offline Classroom](Project_033680/README.md) |
 
 [Back to the portfolio home](../README.md)
