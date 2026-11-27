@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005618 | [FreeBSD: Service Check — Recovery for Public Dataset](Project_005618/README.md) |
 | 005619 | [FreeBSD: Service Check — Reporting for Public Dataset](Project_005619/README.md) |
 | 005620 | [FreeBSD: Service Check — Usability Improvement for Public Dataset](Project_005620/README.md) |
+| 005621 | [FreeBSD: Service Check — Baseline Setup for Branch Office Simulator](Project_005621/README.md) |
+| 005622 | [FreeBSD: Service Check — Automation for Branch Office Simulator](Project_005622/README.md) |
+| 005623 | [FreeBSD: Service Check — Recovery for Branch Office Simulator](Project_005623/README.md) |
+| 005624 | [FreeBSD: Service Check — Reporting for Branch Office Simulator](Project_005624/README.md) |
+| 005625 | [FreeBSD: Service Check — Usability Improvement for Branch Office Simulator](Project_005625/README.md) |
+| 005626 | [FreeBSD: Service Check — Baseline Setup for Offline Classroom](Project_005626/README.md) |
+| 005627 | [FreeBSD: Service Check — Automation for Offline Classroom](Project_005627/README.md) |
+| 005628 | [FreeBSD: Service Check — Recovery for Offline Classroom](Project_005628/README.md) |
+| 005629 | [FreeBSD: Service Check — Reporting for Offline Classroom](Project_005629/README.md) |
+| 005630 | [FreeBSD: Service Check — Usability Improvement for Offline Classroom](Project_005630/README.md) |
+| 005631 | [FreeBSD: Service Check — Baseline Setup for Single-Host Lab](Project_005631/README.md) |
+| 005632 | [FreeBSD: Service Check — Automation for Single-Host Lab](Project_005632/README.md) |
+| 005633 | [FreeBSD: Service Check — Recovery for Single-Host Lab](Project_005633/README.md) |
+| 005634 | [FreeBSD: Service Check — Reporting for Single-Host Lab](Project_005634/README.md) |
+| 005635 | [FreeBSD: Service Check — Usability Improvement for Single-Host Lab](Project_005635/README.md) |
+| 005636 | [FreeBSD: Service Check — Baseline Setup for Two-Node Lab](Project_005636/README.md) |
+| 005637 | [FreeBSD: Service Check — Automation for Two-Node Lab](Project_005637/README.md) |
+| 005638 | [FreeBSD: Service Check — Recovery for Two-Node Lab](Project_005638/README.md) |
+| 005639 | [FreeBSD: Service Check — Reporting for Two-Node Lab](Project_005639/README.md) |
+| 005640 | [FreeBSD: Service Check — Usability Improvement for Two-Node Lab](Project_005640/README.md) |
 
 [Back to the portfolio home](../README.md)
