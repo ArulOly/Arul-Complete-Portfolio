@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004518 | [Fedora: Access Review — Recovery for Public Dataset](Project_004518/README.md) |
 | 004519 | [Fedora: Access Review — Reporting for Public Dataset](Project_004519/README.md) |
 | 004520 | [Fedora: Access Review — Usability Improvement for Public Dataset](Project_004520/README.md) |
+| 004521 | [Fedora: Access Review — Baseline Setup for Branch Office Simulator](Project_004521/README.md) |
+| 004522 | [Fedora: Access Review — Automation for Branch Office Simulator](Project_004522/README.md) |
+| 004523 | [Fedora: Access Review — Recovery for Branch Office Simulator](Project_004523/README.md) |
+| 004524 | [Fedora: Access Review — Reporting for Branch Office Simulator](Project_004524/README.md) |
+| 004525 | [Fedora: Access Review — Usability Improvement for Branch Office Simulator](Project_004525/README.md) |
+| 004526 | [Fedora: Access Review — Baseline Setup for Offline Classroom](Project_004526/README.md) |
+| 004527 | [Fedora: Access Review — Automation for Offline Classroom](Project_004527/README.md) |
+| 004528 | [Fedora: Access Review — Recovery for Offline Classroom](Project_004528/README.md) |
+| 004529 | [Fedora: Access Review — Reporting for Offline Classroom](Project_004529/README.md) |
+| 004530 | [Fedora: Access Review — Usability Improvement for Offline Classroom](Project_004530/README.md) |
+| 004531 | [Fedora: Access Review — Baseline Setup for Single-Host Lab](Project_004531/README.md) |
+| 004532 | [Fedora: Access Review — Automation for Single-Host Lab](Project_004532/README.md) |
+| 004533 | [Fedora: Access Review — Recovery for Single-Host Lab](Project_004533/README.md) |
+| 004534 | [Fedora: Access Review — Reporting for Single-Host Lab](Project_004534/README.md) |
+| 004535 | [Fedora: Access Review — Usability Improvement for Single-Host Lab](Project_004535/README.md) |
+| 004536 | [Fedora: Access Review — Baseline Setup for Two-Node Lab](Project_004536/README.md) |
+| 004537 | [Fedora: Access Review — Automation for Two-Node Lab](Project_004537/README.md) |
+| 004538 | [Fedora: Access Review — Recovery for Two-Node Lab](Project_004538/README.md) |
+| 004539 | [Fedora: Access Review — Reporting for Two-Node Lab](Project_004539/README.md) |
+| 004540 | [Fedora: Access Review — Usability Improvement for Two-Node Lab](Project_004540/README.md) |
 
 [Back to the portfolio home](../README.md)
