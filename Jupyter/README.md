@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033918 | [Jupyter: Visual Reporting — Recovery for Public Dataset](Project_033918/README.md) |
 | 033919 | [Jupyter: Visual Reporting — Reporting for Public Dataset](Project_033919/README.md) |
 | 033920 | [Jupyter: Visual Reporting — Usability Improvement for Public Dataset](Project_033920/README.md) |
+| 033921 | [Jupyter: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_033921/README.md) |
+| 033922 | [Jupyter: Visual Reporting — Automation for Branch Office Simulator](Project_033922/README.md) |
+| 033923 | [Jupyter: Visual Reporting — Recovery for Branch Office Simulator](Project_033923/README.md) |
+| 033924 | [Jupyter: Visual Reporting — Reporting for Branch Office Simulator](Project_033924/README.md) |
+| 033925 | [Jupyter: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_033925/README.md) |
+| 033926 | [Jupyter: Visual Reporting — Baseline Setup for Offline Classroom](Project_033926/README.md) |
+| 033927 | [Jupyter: Visual Reporting — Automation for Offline Classroom](Project_033927/README.md) |
+| 033928 | [Jupyter: Visual Reporting — Recovery for Offline Classroom](Project_033928/README.md) |
+| 033929 | [Jupyter: Visual Reporting — Reporting for Offline Classroom](Project_033929/README.md) |
+| 033930 | [Jupyter: Visual Reporting — Usability Improvement for Offline Classroom](Project_033930/README.md) |
+| 033931 | [Jupyter: Visual Reporting — Baseline Setup for Single-Host Lab](Project_033931/README.md) |
+| 033932 | [Jupyter: Visual Reporting — Automation for Single-Host Lab](Project_033932/README.md) |
+| 033933 | [Jupyter: Visual Reporting — Recovery for Single-Host Lab](Project_033933/README.md) |
+| 033934 | [Jupyter: Visual Reporting — Reporting for Single-Host Lab](Project_033934/README.md) |
+| 033935 | [Jupyter: Visual Reporting — Usability Improvement for Single-Host Lab](Project_033935/README.md) |
+| 033936 | [Jupyter: Visual Reporting — Baseline Setup for Two-Node Lab](Project_033936/README.md) |
+| 033937 | [Jupyter: Visual Reporting — Automation for Two-Node Lab](Project_033937/README.md) |
+| 033938 | [Jupyter: Visual Reporting — Recovery for Two-Node Lab](Project_033938/README.md) |
+| 033939 | [Jupyter: Visual Reporting — Reporting for Two-Node Lab](Project_033939/README.md) |
+| 033940 | [Jupyter: Visual Reporting — Usability Improvement for Two-Node Lab](Project_033940/README.md) |
 
 [Back to the portfolio home](../README.md)
