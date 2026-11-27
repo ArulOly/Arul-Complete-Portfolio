@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005958 | [FreeBSD: Recovery Test — Recovery for Small Business](Project_005958/README.md) |
 | 005959 | [FreeBSD: Recovery Test — Reporting for Small Business](Project_005959/README.md) |
 | 005960 | [FreeBSD: Recovery Test — Usability Improvement for Small Business](Project_005960/README.md) |
+| 005961 | [FreeBSD: Recovery Test — Baseline Setup for Home Development](Project_005961/README.md) |
+| 005962 | [FreeBSD: Recovery Test — Automation for Home Development](Project_005962/README.md) |
+| 005963 | [FreeBSD: Recovery Test — Recovery for Home Development](Project_005963/README.md) |
+| 005964 | [FreeBSD: Recovery Test — Reporting for Home Development](Project_005964/README.md) |
+| 005965 | [FreeBSD: Recovery Test — Usability Improvement for Home Development](Project_005965/README.md) |
+| 005966 | [FreeBSD: Recovery Test — Baseline Setup for Public Dataset](Project_005966/README.md) |
+| 005967 | [FreeBSD: Recovery Test — Automation for Public Dataset](Project_005967/README.md) |
+| 005968 | [FreeBSD: Recovery Test — Recovery for Public Dataset](Project_005968/README.md) |
+| 005969 | [FreeBSD: Recovery Test — Reporting for Public Dataset](Project_005969/README.md) |
+| 005970 | [FreeBSD: Recovery Test — Usability Improvement for Public Dataset](Project_005970/README.md) |
+| 005971 | [FreeBSD: Recovery Test — Baseline Setup for Branch Office Simulator](Project_005971/README.md) |
+| 005972 | [FreeBSD: Recovery Test — Automation for Branch Office Simulator](Project_005972/README.md) |
+| 005973 | [FreeBSD: Recovery Test — Recovery for Branch Office Simulator](Project_005973/README.md) |
+| 005974 | [FreeBSD: Recovery Test — Reporting for Branch Office Simulator](Project_005974/README.md) |
+| 005975 | [FreeBSD: Recovery Test — Usability Improvement for Branch Office Simulator](Project_005975/README.md) |
+| 005976 | [FreeBSD: Recovery Test — Baseline Setup for Offline Classroom](Project_005976/README.md) |
+| 005977 | [FreeBSD: Recovery Test — Automation for Offline Classroom](Project_005977/README.md) |
+| 005978 | [FreeBSD: Recovery Test — Recovery for Offline Classroom](Project_005978/README.md) |
+| 005979 | [FreeBSD: Recovery Test — Reporting for Offline Classroom](Project_005979/README.md) |
+| 005980 | [FreeBSD: Recovery Test — Usability Improvement for Offline Classroom](Project_005980/README.md) |
 
 [Back to the portfolio home](../README.md)
