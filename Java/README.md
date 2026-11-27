@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022278 | [Java: Data Import — Recovery for Offline Classroom](Project_022278/README.md) |
 | 022279 | [Java: Data Import — Reporting for Offline Classroom](Project_022279/README.md) |
 | 022280 | [Java: Data Import — Usability Improvement for Offline Classroom](Project_022280/README.md) |
+| 022281 | [Java: Data Import — Baseline Setup for Single-Host Lab](Project_022281/README.md) |
+| 022282 | [Java: Data Import — Automation for Single-Host Lab](Project_022282/README.md) |
+| 022283 | [Java: Data Import — Recovery for Single-Host Lab](Project_022283/README.md) |
+| 022284 | [Java: Data Import — Reporting for Single-Host Lab](Project_022284/README.md) |
+| 022285 | [Java: Data Import — Usability Improvement for Single-Host Lab](Project_022285/README.md) |
+| 022286 | [Java: Data Import — Baseline Setup for Two-Node Lab](Project_022286/README.md) |
+| 022287 | [Java: Data Import — Automation for Two-Node Lab](Project_022287/README.md) |
+| 022288 | [Java: Data Import — Recovery for Two-Node Lab](Project_022288/README.md) |
+| 022289 | [Java: Data Import — Reporting for Two-Node Lab](Project_022289/README.md) |
+| 022290 | [Java: Data Import — Usability Improvement for Two-Node Lab](Project_022290/README.md) |
+| 022291 | [Java: Data Import — Baseline Setup for Help Desk](Project_022291/README.md) |
+| 022292 | [Java: Data Import — Automation for Help Desk](Project_022292/README.md) |
+| 022293 | [Java: Data Import — Recovery for Help Desk](Project_022293/README.md) |
+| 022294 | [Java: Data Import — Reporting for Help Desk](Project_022294/README.md) |
+| 022295 | [Java: Data Import — Usability Improvement for Help Desk](Project_022295/README.md) |
+| 022296 | [Java: Data Import — Baseline Setup for Portfolio Demo](Project_022296/README.md) |
+| 022297 | [Java: Data Import — Automation for Portfolio Demo](Project_022297/README.md) |
+| 022298 | [Java: Data Import — Recovery for Portfolio Demo](Project_022298/README.md) |
+| 022299 | [Java: Data Import — Reporting for Portfolio Demo](Project_022299/README.md) |
+| 022300 | [Java: Data Import — Usability Improvement for Portfolio Demo](Project_022300/README.md) |
 
 [Back to the portfolio home](../README.md)
