@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049918 | [FastAPI: Visual Reporting — Recovery for Public Dataset](Project_049918/README.md) |
 | 049919 | [FastAPI: Visual Reporting — Reporting for Public Dataset](Project_049919/README.md) |
 | 049920 | [FastAPI: Visual Reporting — Usability Improvement for Public Dataset](Project_049920/README.md) |
+| 049921 | [FastAPI: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_049921/README.md) |
+| 049922 | [FastAPI: Visual Reporting — Automation for Branch Office Simulator](Project_049922/README.md) |
+| 049923 | [FastAPI: Visual Reporting — Recovery for Branch Office Simulator](Project_049923/README.md) |
+| 049924 | [FastAPI: Visual Reporting — Reporting for Branch Office Simulator](Project_049924/README.md) |
+| 049925 | [FastAPI: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_049925/README.md) |
+| 049926 | [FastAPI: Visual Reporting — Baseline Setup for Offline Classroom](Project_049926/README.md) |
+| 049927 | [FastAPI: Visual Reporting — Automation for Offline Classroom](Project_049927/README.md) |
+| 049928 | [FastAPI: Visual Reporting — Recovery for Offline Classroom](Project_049928/README.md) |
+| 049929 | [FastAPI: Visual Reporting — Reporting for Offline Classroom](Project_049929/README.md) |
+| 049930 | [FastAPI: Visual Reporting — Usability Improvement for Offline Classroom](Project_049930/README.md) |
+| 049931 | [FastAPI: Visual Reporting — Baseline Setup for Single-Host Lab](Project_049931/README.md) |
+| 049932 | [FastAPI: Visual Reporting — Automation for Single-Host Lab](Project_049932/README.md) |
+| 049933 | [FastAPI: Visual Reporting — Recovery for Single-Host Lab](Project_049933/README.md) |
+| 049934 | [FastAPI: Visual Reporting — Reporting for Single-Host Lab](Project_049934/README.md) |
+| 049935 | [FastAPI: Visual Reporting — Usability Improvement for Single-Host Lab](Project_049935/README.md) |
+| 049936 | [FastAPI: Visual Reporting — Baseline Setup for Two-Node Lab](Project_049936/README.md) |
+| 049937 | [FastAPI: Visual Reporting — Automation for Two-Node Lab](Project_049937/README.md) |
+| 049938 | [FastAPI: Visual Reporting — Recovery for Two-Node Lab](Project_049938/README.md) |
+| 049939 | [FastAPI: Visual Reporting — Reporting for Two-Node Lab](Project_049939/README.md) |
+| 049940 | [FastAPI: Visual Reporting — Usability Improvement for Two-Node Lab](Project_049940/README.md) |
 
 [Back to the portfolio home](../README.md)
