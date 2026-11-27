@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025538 | [PostgreSQL: Access Review — Recovery for Two-Node Lab](Project_025538/README.md) |
 | 025539 | [PostgreSQL: Access Review — Reporting for Two-Node Lab](Project_025539/README.md) |
 | 025540 | [PostgreSQL: Access Review — Usability Improvement for Two-Node Lab](Project_025540/README.md) |
+| 025541 | [PostgreSQL: Access Review — Baseline Setup for Help Desk](Project_025541/README.md) |
+| 025542 | [PostgreSQL: Access Review — Automation for Help Desk](Project_025542/README.md) |
+| 025543 | [PostgreSQL: Access Review — Recovery for Help Desk](Project_025543/README.md) |
+| 025544 | [PostgreSQL: Access Review — Reporting for Help Desk](Project_025544/README.md) |
+| 025545 | [PostgreSQL: Access Review — Usability Improvement for Help Desk](Project_025545/README.md) |
+| 025546 | [PostgreSQL: Access Review — Baseline Setup for Portfolio Demo](Project_025546/README.md) |
+| 025547 | [PostgreSQL: Access Review — Automation for Portfolio Demo](Project_025547/README.md) |
+| 025548 | [PostgreSQL: Access Review — Recovery for Portfolio Demo](Project_025548/README.md) |
+| 025549 | [PostgreSQL: Access Review — Reporting for Portfolio Demo](Project_025549/README.md) |
+| 025550 | [PostgreSQL: Access Review — Usability Improvement for Portfolio Demo](Project_025550/README.md) |
+| 025551 | [PostgreSQL: Performance Baseline — Baseline Setup for School Lab](Project_025551/README.md) |
+| 025552 | [PostgreSQL: Performance Baseline — Automation for School Lab](Project_025552/README.md) |
+| 025553 | [PostgreSQL: Performance Baseline — Recovery for School Lab](Project_025553/README.md) |
+| 025554 | [PostgreSQL: Performance Baseline — Reporting for School Lab](Project_025554/README.md) |
+| 025555 | [PostgreSQL: Performance Baseline — Usability Improvement for School Lab](Project_025555/README.md) |
+| 025556 | [PostgreSQL: Performance Baseline — Baseline Setup for Small Business](Project_025556/README.md) |
+| 025557 | [PostgreSQL: Performance Baseline — Automation for Small Business](Project_025557/README.md) |
+| 025558 | [PostgreSQL: Performance Baseline — Recovery for Small Business](Project_025558/README.md) |
+| 025559 | [PostgreSQL: Performance Baseline — Reporting for Small Business](Project_025559/README.md) |
+| 025560 | [PostgreSQL: Performance Baseline — Usability Improvement for Small Business](Project_025560/README.md) |
 
 [Back to the portfolio home](../README.md)
