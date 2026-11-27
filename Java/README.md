@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022018 | [Java: Inventory — Recovery for Public Dataset](Project_022018/README.md) |
 | 022019 | [Java: Inventory — Reporting for Public Dataset](Project_022019/README.md) |
 | 022020 | [Java: Inventory — Usability Improvement for Public Dataset](Project_022020/README.md) |
+| 022021 | [Java: Inventory — Baseline Setup for Branch Office Simulator](Project_022021/README.md) |
+| 022022 | [Java: Inventory — Automation for Branch Office Simulator](Project_022022/README.md) |
+| 022023 | [Java: Inventory — Recovery for Branch Office Simulator](Project_022023/README.md) |
+| 022024 | [Java: Inventory — Reporting for Branch Office Simulator](Project_022024/README.md) |
+| 022025 | [Java: Inventory — Usability Improvement for Branch Office Simulator](Project_022025/README.md) |
+| 022026 | [Java: Inventory — Baseline Setup for Offline Classroom](Project_022026/README.md) |
+| 022027 | [Java: Inventory — Automation for Offline Classroom](Project_022027/README.md) |
+| 022028 | [Java: Inventory — Recovery for Offline Classroom](Project_022028/README.md) |
+| 022029 | [Java: Inventory — Reporting for Offline Classroom](Project_022029/README.md) |
+| 022030 | [Java: Inventory — Usability Improvement for Offline Classroom](Project_022030/README.md) |
+| 022031 | [Java: Inventory — Baseline Setup for Single-Host Lab](Project_022031/README.md) |
+| 022032 | [Java: Inventory — Automation for Single-Host Lab](Project_022032/README.md) |
+| 022033 | [Java: Inventory — Recovery for Single-Host Lab](Project_022033/README.md) |
+| 022034 | [Java: Inventory — Reporting for Single-Host Lab](Project_022034/README.md) |
+| 022035 | [Java: Inventory — Usability Improvement for Single-Host Lab](Project_022035/README.md) |
+| 022036 | [Java: Inventory — Baseline Setup for Two-Node Lab](Project_022036/README.md) |
+| 022037 | [Java: Inventory — Automation for Two-Node Lab](Project_022037/README.md) |
+| 022038 | [Java: Inventory — Recovery for Two-Node Lab](Project_022038/README.md) |
+| 022039 | [Java: Inventory — Reporting for Two-Node Lab](Project_022039/README.md) |
+| 022040 | [Java: Inventory — Usability Improvement for Two-Node Lab](Project_022040/README.md) |
 
 [Back to the portfolio home](../README.md)
