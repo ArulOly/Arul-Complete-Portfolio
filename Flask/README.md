@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048158 | [Flask: Log Analysis — Recovery for Small Business](Project_048158/README.md) |
 | 048159 | [Flask: Log Analysis — Reporting for Small Business](Project_048159/README.md) |
 | 048160 | [Flask: Log Analysis — Usability Improvement for Small Business](Project_048160/README.md) |
+| 048161 | [Flask: Log Analysis — Baseline Setup for Home Development](Project_048161/README.md) |
+| 048162 | [Flask: Log Analysis — Automation for Home Development](Project_048162/README.md) |
+| 048163 | [Flask: Log Analysis — Recovery for Home Development](Project_048163/README.md) |
+| 048164 | [Flask: Log Analysis — Reporting for Home Development](Project_048164/README.md) |
+| 048165 | [Flask: Log Analysis — Usability Improvement for Home Development](Project_048165/README.md) |
+| 048166 | [Flask: Log Analysis — Baseline Setup for Public Dataset](Project_048166/README.md) |
+| 048167 | [Flask: Log Analysis — Automation for Public Dataset](Project_048167/README.md) |
+| 048168 | [Flask: Log Analysis — Recovery for Public Dataset](Project_048168/README.md) |
+| 048169 | [Flask: Log Analysis — Reporting for Public Dataset](Project_048169/README.md) |
+| 048170 | [Flask: Log Analysis — Usability Improvement for Public Dataset](Project_048170/README.md) |
+| 048171 | [Flask: Log Analysis — Baseline Setup for Branch Office Simulator](Project_048171/README.md) |
+| 048172 | [Flask: Log Analysis — Automation for Branch Office Simulator](Project_048172/README.md) |
+| 048173 | [Flask: Log Analysis — Recovery for Branch Office Simulator](Project_048173/README.md) |
+| 048174 | [Flask: Log Analysis — Reporting for Branch Office Simulator](Project_048174/README.md) |
+| 048175 | [Flask: Log Analysis — Usability Improvement for Branch Office Simulator](Project_048175/README.md) |
+| 048176 | [Flask: Log Analysis — Baseline Setup for Offline Classroom](Project_048176/README.md) |
+| 048177 | [Flask: Log Analysis — Automation for Offline Classroom](Project_048177/README.md) |
+| 048178 | [Flask: Log Analysis — Recovery for Offline Classroom](Project_048178/README.md) |
+| 048179 | [Flask: Log Analysis — Reporting for Offline Classroom](Project_048179/README.md) |
+| 048180 | [Flask: Log Analysis — Usability Improvement for Offline Classroom](Project_048180/README.md) |
 
 [Back to the portfolio home](../README.md)
