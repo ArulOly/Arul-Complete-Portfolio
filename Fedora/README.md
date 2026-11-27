@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004318 | [Fedora: Data Export — Recovery for Public Dataset](Project_004318/README.md) |
 | 004319 | [Fedora: Data Export — Reporting for Public Dataset](Project_004319/README.md) |
 | 004320 | [Fedora: Data Export — Usability Improvement for Public Dataset](Project_004320/README.md) |
+| 004321 | [Fedora: Data Export — Baseline Setup for Branch Office Simulator](Project_004321/README.md) |
+| 004322 | [Fedora: Data Export — Automation for Branch Office Simulator](Project_004322/README.md) |
+| 004323 | [Fedora: Data Export — Recovery for Branch Office Simulator](Project_004323/README.md) |
+| 004324 | [Fedora: Data Export — Reporting for Branch Office Simulator](Project_004324/README.md) |
+| 004325 | [Fedora: Data Export — Usability Improvement for Branch Office Simulator](Project_004325/README.md) |
+| 004326 | [Fedora: Data Export — Baseline Setup for Offline Classroom](Project_004326/README.md) |
+| 004327 | [Fedora: Data Export — Automation for Offline Classroom](Project_004327/README.md) |
+| 004328 | [Fedora: Data Export — Recovery for Offline Classroom](Project_004328/README.md) |
+| 004329 | [Fedora: Data Export — Reporting for Offline Classroom](Project_004329/README.md) |
+| 004330 | [Fedora: Data Export — Usability Improvement for Offline Classroom](Project_004330/README.md) |
+| 004331 | [Fedora: Data Export — Baseline Setup for Single-Host Lab](Project_004331/README.md) |
+| 004332 | [Fedora: Data Export — Automation for Single-Host Lab](Project_004332/README.md) |
+| 004333 | [Fedora: Data Export — Recovery for Single-Host Lab](Project_004333/README.md) |
+| 004334 | [Fedora: Data Export — Reporting for Single-Host Lab](Project_004334/README.md) |
+| 004335 | [Fedora: Data Export — Usability Improvement for Single-Host Lab](Project_004335/README.md) |
+| 004336 | [Fedora: Data Export — Baseline Setup for Two-Node Lab](Project_004336/README.md) |
+| 004337 | [Fedora: Data Export — Automation for Two-Node Lab](Project_004337/README.md) |
+| 004338 | [Fedora: Data Export — Recovery for Two-Node Lab](Project_004338/README.md) |
+| 004339 | [Fedora: Data Export — Reporting for Two-Node Lab](Project_004339/README.md) |
+| 004340 | [Fedora: Data Export — Usability Improvement for Two-Node Lab](Project_004340/README.md) |
 
 [Back to the portfolio home](../README.md)
