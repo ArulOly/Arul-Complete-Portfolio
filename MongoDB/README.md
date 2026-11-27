@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027078 | [MongoDB: Monitoring — Recovery for Offline Classroom](Project_027078/README.md) |
 | 027079 | [MongoDB: Monitoring — Reporting for Offline Classroom](Project_027079/README.md) |
 | 027080 | [MongoDB: Monitoring — Usability Improvement for Offline Classroom](Project_027080/README.md) |
+| 027081 | [MongoDB: Monitoring — Baseline Setup for Single-Host Lab](Project_027081/README.md) |
+| 027082 | [MongoDB: Monitoring — Automation for Single-Host Lab](Project_027082/README.md) |
+| 027083 | [MongoDB: Monitoring — Recovery for Single-Host Lab](Project_027083/README.md) |
+| 027084 | [MongoDB: Monitoring — Reporting for Single-Host Lab](Project_027084/README.md) |
+| 027085 | [MongoDB: Monitoring — Usability Improvement for Single-Host Lab](Project_027085/README.md) |
+| 027086 | [MongoDB: Monitoring — Baseline Setup for Two-Node Lab](Project_027086/README.md) |
+| 027087 | [MongoDB: Monitoring — Automation for Two-Node Lab](Project_027087/README.md) |
+| 027088 | [MongoDB: Monitoring — Recovery for Two-Node Lab](Project_027088/README.md) |
+| 027089 | [MongoDB: Monitoring — Reporting for Two-Node Lab](Project_027089/README.md) |
+| 027090 | [MongoDB: Monitoring — Usability Improvement for Two-Node Lab](Project_027090/README.md) |
+| 027091 | [MongoDB: Monitoring — Baseline Setup for Help Desk](Project_027091/README.md) |
+| 027092 | [MongoDB: Monitoring — Automation for Help Desk](Project_027092/README.md) |
+| 027093 | [MongoDB: Monitoring — Recovery for Help Desk](Project_027093/README.md) |
+| 027094 | [MongoDB: Monitoring — Reporting for Help Desk](Project_027094/README.md) |
+| 027095 | [MongoDB: Monitoring — Usability Improvement for Help Desk](Project_027095/README.md) |
+| 027096 | [MongoDB: Monitoring — Baseline Setup for Portfolio Demo](Project_027096/README.md) |
+| 027097 | [MongoDB: Monitoring — Automation for Portfolio Demo](Project_027097/README.md) |
+| 027098 | [MongoDB: Monitoring — Recovery for Portfolio Demo](Project_027098/README.md) |
+| 027099 | [MongoDB: Monitoring — Reporting for Portfolio Demo](Project_027099/README.md) |
+| 027100 | [MongoDB: Monitoring — Usability Improvement for Portfolio Demo](Project_027100/README.md) |
 
 [Back to the portfolio home](../README.md)
