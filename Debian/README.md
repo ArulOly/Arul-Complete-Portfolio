@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003198 | [Debian: Log Analysis — Recovery for Portfolio Demo](Project_003198/README.md) |
 | 003199 | [Debian: Log Analysis — Reporting for Portfolio Demo](Project_003199/README.md) |
 | 003200 | [Debian: Log Analysis — Usability Improvement for Portfolio Demo](Project_003200/README.md) |
+| 003201 | [Debian: Backup Verification — Baseline Setup for School Lab](Project_003201/README.md) |
+| 003202 | [Debian: Backup Verification — Automation for School Lab](Project_003202/README.md) |
+| 003203 | [Debian: Backup Verification — Recovery for School Lab](Project_003203/README.md) |
+| 003204 | [Debian: Backup Verification — Reporting for School Lab](Project_003204/README.md) |
+| 003205 | [Debian: Backup Verification — Usability Improvement for School Lab](Project_003205/README.md) |
+| 003206 | [Debian: Backup Verification — Baseline Setup for Small Business](Project_003206/README.md) |
+| 003207 | [Debian: Backup Verification — Automation for Small Business](Project_003207/README.md) |
+| 003208 | [Debian: Backup Verification — Recovery for Small Business](Project_003208/README.md) |
+| 003209 | [Debian: Backup Verification — Reporting for Small Business](Project_003209/README.md) |
+| 003210 | [Debian: Backup Verification — Usability Improvement for Small Business](Project_003210/README.md) |
+| 003211 | [Debian: Backup Verification — Baseline Setup for Home Development](Project_003211/README.md) |
+| 003212 | [Debian: Backup Verification — Automation for Home Development](Project_003212/README.md) |
+| 003213 | [Debian: Backup Verification — Recovery for Home Development](Project_003213/README.md) |
+| 003214 | [Debian: Backup Verification — Reporting for Home Development](Project_003214/README.md) |
+| 003215 | [Debian: Backup Verification — Usability Improvement for Home Development](Project_003215/README.md) |
+| 003216 | [Debian: Backup Verification — Baseline Setup for Public Dataset](Project_003216/README.md) |
+| 003217 | [Debian: Backup Verification — Automation for Public Dataset](Project_003217/README.md) |
+| 003218 | [Debian: Backup Verification — Recovery for Public Dataset](Project_003218/README.md) |
+| 003219 | [Debian: Backup Verification — Reporting for Public Dataset](Project_003219/README.md) |
+| 003220 | [Debian: Backup Verification — Usability Improvement for Public Dataset](Project_003220/README.md) |
 
 [Back to the portfolio home](../README.md)
