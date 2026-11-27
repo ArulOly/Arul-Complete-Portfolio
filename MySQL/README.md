@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026318 | [MySQL: Data Export — Recovery for Public Dataset](Project_026318/README.md) |
 | 026319 | [MySQL: Data Export — Reporting for Public Dataset](Project_026319/README.md) |
 | 026320 | [MySQL: Data Export — Usability Improvement for Public Dataset](Project_026320/README.md) |
+| 026321 | [MySQL: Data Export — Baseline Setup for Branch Office Simulator](Project_026321/README.md) |
+| 026322 | [MySQL: Data Export — Automation for Branch Office Simulator](Project_026322/README.md) |
+| 026323 | [MySQL: Data Export — Recovery for Branch Office Simulator](Project_026323/README.md) |
+| 026324 | [MySQL: Data Export — Reporting for Branch Office Simulator](Project_026324/README.md) |
+| 026325 | [MySQL: Data Export — Usability Improvement for Branch Office Simulator](Project_026325/README.md) |
+| 026326 | [MySQL: Data Export — Baseline Setup for Offline Classroom](Project_026326/README.md) |
+| 026327 | [MySQL: Data Export — Automation for Offline Classroom](Project_026327/README.md) |
+| 026328 | [MySQL: Data Export — Recovery for Offline Classroom](Project_026328/README.md) |
+| 026329 | [MySQL: Data Export — Reporting for Offline Classroom](Project_026329/README.md) |
+| 026330 | [MySQL: Data Export — Usability Improvement for Offline Classroom](Project_026330/README.md) |
+| 026331 | [MySQL: Data Export — Baseline Setup for Single-Host Lab](Project_026331/README.md) |
+| 026332 | [MySQL: Data Export — Automation for Single-Host Lab](Project_026332/README.md) |
+| 026333 | [MySQL: Data Export — Recovery for Single-Host Lab](Project_026333/README.md) |
+| 026334 | [MySQL: Data Export — Reporting for Single-Host Lab](Project_026334/README.md) |
+| 026335 | [MySQL: Data Export — Usability Improvement for Single-Host Lab](Project_026335/README.md) |
+| 026336 | [MySQL: Data Export — Baseline Setup for Two-Node Lab](Project_026336/README.md) |
+| 026337 | [MySQL: Data Export — Automation for Two-Node Lab](Project_026337/README.md) |
+| 026338 | [MySQL: Data Export — Recovery for Two-Node Lab](Project_026338/README.md) |
+| 026339 | [MySQL: Data Export — Reporting for Two-Node Lab](Project_026339/README.md) |
+| 026340 | [MySQL: Data Export — Usability Improvement for Two-Node Lab](Project_026340/README.md) |
 
 [Back to the portfolio home](../README.md)
