@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004278 | [Fedora: Data Import — Recovery for Offline Classroom](Project_004278/README.md) |
 | 004279 | [Fedora: Data Import — Reporting for Offline Classroom](Project_004279/README.md) |
 | 004280 | [Fedora: Data Import — Usability Improvement for Offline Classroom](Project_004280/README.md) |
+| 004281 | [Fedora: Data Import — Baseline Setup for Single-Host Lab](Project_004281/README.md) |
+| 004282 | [Fedora: Data Import — Automation for Single-Host Lab](Project_004282/README.md) |
+| 004283 | [Fedora: Data Import — Recovery for Single-Host Lab](Project_004283/README.md) |
+| 004284 | [Fedora: Data Import — Reporting for Single-Host Lab](Project_004284/README.md) |
+| 004285 | [Fedora: Data Import — Usability Improvement for Single-Host Lab](Project_004285/README.md) |
+| 004286 | [Fedora: Data Import — Baseline Setup for Two-Node Lab](Project_004286/README.md) |
+| 004287 | [Fedora: Data Import — Automation for Two-Node Lab](Project_004287/README.md) |
+| 004288 | [Fedora: Data Import — Recovery for Two-Node Lab](Project_004288/README.md) |
+| 004289 | [Fedora: Data Import — Reporting for Two-Node Lab](Project_004289/README.md) |
+| 004290 | [Fedora: Data Import — Usability Improvement for Two-Node Lab](Project_004290/README.md) |
+| 004291 | [Fedora: Data Import — Baseline Setup for Help Desk](Project_004291/README.md) |
+| 004292 | [Fedora: Data Import — Automation for Help Desk](Project_004292/README.md) |
+| 004293 | [Fedora: Data Import — Recovery for Help Desk](Project_004293/README.md) |
+| 004294 | [Fedora: Data Import — Reporting for Help Desk](Project_004294/README.md) |
+| 004295 | [Fedora: Data Import — Usability Improvement for Help Desk](Project_004295/README.md) |
+| 004296 | [Fedora: Data Import — Baseline Setup for Portfolio Demo](Project_004296/README.md) |
+| 004297 | [Fedora: Data Import — Automation for Portfolio Demo](Project_004297/README.md) |
+| 004298 | [Fedora: Data Import — Recovery for Portfolio Demo](Project_004298/README.md) |
+| 004299 | [Fedora: Data Import — Reporting for Portfolio Demo](Project_004299/README.md) |
+| 004300 | [Fedora: Data Import — Usability Improvement for Portfolio Demo](Project_004300/README.md) |
 
 [Back to the portfolio home](../README.md)
