@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005118 | [FreeBSD: Audit — Recovery for Public Dataset](Project_005118/README.md) |
 | 005119 | [FreeBSD: Audit — Reporting for Public Dataset](Project_005119/README.md) |
 | 005120 | [FreeBSD: Audit — Usability Improvement for Public Dataset](Project_005120/README.md) |
+| 005121 | [FreeBSD: Audit — Baseline Setup for Branch Office Simulator](Project_005121/README.md) |
+| 005122 | [FreeBSD: Audit — Automation for Branch Office Simulator](Project_005122/README.md) |
+| 005123 | [FreeBSD: Audit — Recovery for Branch Office Simulator](Project_005123/README.md) |
+| 005124 | [FreeBSD: Audit — Reporting for Branch Office Simulator](Project_005124/README.md) |
+| 005125 | [FreeBSD: Audit — Usability Improvement for Branch Office Simulator](Project_005125/README.md) |
+| 005126 | [FreeBSD: Audit — Baseline Setup for Offline Classroom](Project_005126/README.md) |
+| 005127 | [FreeBSD: Audit — Automation for Offline Classroom](Project_005127/README.md) |
+| 005128 | [FreeBSD: Audit — Recovery for Offline Classroom](Project_005128/README.md) |
+| 005129 | [FreeBSD: Audit — Reporting for Offline Classroom](Project_005129/README.md) |
+| 005130 | [FreeBSD: Audit — Usability Improvement for Offline Classroom](Project_005130/README.md) |
+| 005131 | [FreeBSD: Audit — Baseline Setup for Single-Host Lab](Project_005131/README.md) |
+| 005132 | [FreeBSD: Audit — Automation for Single-Host Lab](Project_005132/README.md) |
+| 005133 | [FreeBSD: Audit — Recovery for Single-Host Lab](Project_005133/README.md) |
+| 005134 | [FreeBSD: Audit — Reporting for Single-Host Lab](Project_005134/README.md) |
+| 005135 | [FreeBSD: Audit — Usability Improvement for Single-Host Lab](Project_005135/README.md) |
+| 005136 | [FreeBSD: Audit — Baseline Setup for Two-Node Lab](Project_005136/README.md) |
+| 005137 | [FreeBSD: Audit — Automation for Two-Node Lab](Project_005137/README.md) |
+| 005138 | [FreeBSD: Audit — Recovery for Two-Node Lab](Project_005138/README.md) |
+| 005139 | [FreeBSD: Audit — Reporting for Two-Node Lab](Project_005139/README.md) |
+| 005140 | [FreeBSD: Audit — Usability Improvement for Two-Node Lab](Project_005140/README.md) |
 
 [Back to the portfolio home](../README.md)
