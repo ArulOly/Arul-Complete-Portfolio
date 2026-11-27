@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049058 | [FastAPI: Monitoring — Recovery for Small Business](Project_049058/README.md) |
 | 049059 | [FastAPI: Monitoring — Reporting for Small Business](Project_049059/README.md) |
 | 049060 | [FastAPI: Monitoring — Usability Improvement for Small Business](Project_049060/README.md) |
+| 049061 | [FastAPI: Monitoring — Baseline Setup for Home Development](Project_049061/README.md) |
+| 049062 | [FastAPI: Monitoring — Automation for Home Development](Project_049062/README.md) |
+| 049063 | [FastAPI: Monitoring — Recovery for Home Development](Project_049063/README.md) |
+| 049064 | [FastAPI: Monitoring — Reporting for Home Development](Project_049064/README.md) |
+| 049065 | [FastAPI: Monitoring — Usability Improvement for Home Development](Project_049065/README.md) |
+| 049066 | [FastAPI: Monitoring — Baseline Setup for Public Dataset](Project_049066/README.md) |
+| 049067 | [FastAPI: Monitoring — Automation for Public Dataset](Project_049067/README.md) |
+| 049068 | [FastAPI: Monitoring — Recovery for Public Dataset](Project_049068/README.md) |
+| 049069 | [FastAPI: Monitoring — Reporting for Public Dataset](Project_049069/README.md) |
+| 049070 | [FastAPI: Monitoring — Usability Improvement for Public Dataset](Project_049070/README.md) |
+| 049071 | [FastAPI: Monitoring — Baseline Setup for Branch Office Simulator](Project_049071/README.md) |
+| 049072 | [FastAPI: Monitoring — Automation for Branch Office Simulator](Project_049072/README.md) |
+| 049073 | [FastAPI: Monitoring — Recovery for Branch Office Simulator](Project_049073/README.md) |
+| 049074 | [FastAPI: Monitoring — Reporting for Branch Office Simulator](Project_049074/README.md) |
+| 049075 | [FastAPI: Monitoring — Usability Improvement for Branch Office Simulator](Project_049075/README.md) |
+| 049076 | [FastAPI: Monitoring — Baseline Setup for Offline Classroom](Project_049076/README.md) |
+| 049077 | [FastAPI: Monitoring — Automation for Offline Classroom](Project_049077/README.md) |
+| 049078 | [FastAPI: Monitoring — Recovery for Offline Classroom](Project_049078/README.md) |
+| 049079 | [FastAPI: Monitoring — Reporting for Offline Classroom](Project_049079/README.md) |
+| 049080 | [FastAPI: Monitoring — Usability Improvement for Offline Classroom](Project_049080/README.md) |
 
 [Back to the portfolio home](../README.md)
