@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025358 | [PostgreSQL: Dashboard — Recovery for Small Business](Project_025358/README.md) |
 | 025359 | [PostgreSQL: Dashboard — Reporting for Small Business](Project_025359/README.md) |
 | 025360 | [PostgreSQL: Dashboard — Usability Improvement for Small Business](Project_025360/README.md) |
+| 025361 | [PostgreSQL: Dashboard — Baseline Setup for Home Development](Project_025361/README.md) |
+| 025362 | [PostgreSQL: Dashboard — Automation for Home Development](Project_025362/README.md) |
+| 025363 | [PostgreSQL: Dashboard — Recovery for Home Development](Project_025363/README.md) |
+| 025364 | [PostgreSQL: Dashboard — Reporting for Home Development](Project_025364/README.md) |
+| 025365 | [PostgreSQL: Dashboard — Usability Improvement for Home Development](Project_025365/README.md) |
+| 025366 | [PostgreSQL: Dashboard — Baseline Setup for Public Dataset](Project_025366/README.md) |
+| 025367 | [PostgreSQL: Dashboard — Automation for Public Dataset](Project_025367/README.md) |
+| 025368 | [PostgreSQL: Dashboard — Recovery for Public Dataset](Project_025368/README.md) |
+| 025369 | [PostgreSQL: Dashboard — Reporting for Public Dataset](Project_025369/README.md) |
+| 025370 | [PostgreSQL: Dashboard — Usability Improvement for Public Dataset](Project_025370/README.md) |
+| 025371 | [PostgreSQL: Dashboard — Baseline Setup for Branch Office Simulator](Project_025371/README.md) |
+| 025372 | [PostgreSQL: Dashboard — Automation for Branch Office Simulator](Project_025372/README.md) |
+| 025373 | [PostgreSQL: Dashboard — Recovery for Branch Office Simulator](Project_025373/README.md) |
+| 025374 | [PostgreSQL: Dashboard — Reporting for Branch Office Simulator](Project_025374/README.md) |
+| 025375 | [PostgreSQL: Dashboard — Usability Improvement for Branch Office Simulator](Project_025375/README.md) |
+| 025376 | [PostgreSQL: Dashboard — Baseline Setup for Offline Classroom](Project_025376/README.md) |
+| 025377 | [PostgreSQL: Dashboard — Automation for Offline Classroom](Project_025377/README.md) |
+| 025378 | [PostgreSQL: Dashboard — Recovery for Offline Classroom](Project_025378/README.md) |
+| 025379 | [PostgreSQL: Dashboard — Reporting for Offline Classroom](Project_025379/README.md) |
+| 025380 | [PostgreSQL: Dashboard — Usability Improvement for Offline Classroom](Project_025380/README.md) |
 
 [Back to the portfolio home](../README.md)
