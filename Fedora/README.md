@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004698 | [Fedora: Configuration Comparison — Recovery for Portfolio Demo](Project_004698/README.md) |
 | 004699 | [Fedora: Configuration Comparison — Reporting for Portfolio Demo](Project_004699/README.md) |
 | 004700 | [Fedora: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_004700/README.md) |
+| 004701 | [Fedora: Error Handling — Baseline Setup for School Lab](Project_004701/README.md) |
+| 004702 | [Fedora: Error Handling — Automation for School Lab](Project_004702/README.md) |
+| 004703 | [Fedora: Error Handling — Recovery for School Lab](Project_004703/README.md) |
+| 004704 | [Fedora: Error Handling — Reporting for School Lab](Project_004704/README.md) |
+| 004705 | [Fedora: Error Handling — Usability Improvement for School Lab](Project_004705/README.md) |
+| 004706 | [Fedora: Error Handling — Baseline Setup for Small Business](Project_004706/README.md) |
+| 004707 | [Fedora: Error Handling — Automation for Small Business](Project_004707/README.md) |
+| 004708 | [Fedora: Error Handling — Recovery for Small Business](Project_004708/README.md) |
+| 004709 | [Fedora: Error Handling — Reporting for Small Business](Project_004709/README.md) |
+| 004710 | [Fedora: Error Handling — Usability Improvement for Small Business](Project_004710/README.md) |
+| 004711 | [Fedora: Error Handling — Baseline Setup for Home Development](Project_004711/README.md) |
+| 004712 | [Fedora: Error Handling — Automation for Home Development](Project_004712/README.md) |
+| 004713 | [Fedora: Error Handling — Recovery for Home Development](Project_004713/README.md) |
+| 004714 | [Fedora: Error Handling — Reporting for Home Development](Project_004714/README.md) |
+| 004715 | [Fedora: Error Handling — Usability Improvement for Home Development](Project_004715/README.md) |
+| 004716 | [Fedora: Error Handling — Baseline Setup for Public Dataset](Project_004716/README.md) |
+| 004717 | [Fedora: Error Handling — Automation for Public Dataset](Project_004717/README.md) |
+| 004718 | [Fedora: Error Handling — Recovery for Public Dataset](Project_004718/README.md) |
+| 004719 | [Fedora: Error Handling — Reporting for Public Dataset](Project_004719/README.md) |
+| 004720 | [Fedora: Error Handling — Usability Improvement for Public Dataset](Project_004720/README.md) |
 
 [Back to the portfolio home](../README.md)
