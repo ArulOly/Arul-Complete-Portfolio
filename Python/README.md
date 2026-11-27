@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1004,5 +1004,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019958 | [Python: Recovery Test — Recovery for Small Business](Project_019958/README.md) |
 | 019959 | [Python: Recovery Test — Reporting for Small Business](Project_019959/README.md) |
 | 019960 | [Python: Recovery Test — Usability Improvement for Small Business](Project_019960/README.md) |
+| 019961 | [Python: Recovery Test — Baseline Setup for Home Development](Project_019961/README.md) |
+| 019962 | [Python: Recovery Test — Automation for Home Development](Project_019962/README.md) |
+| 019963 | [Python: Recovery Test — Recovery for Home Development](Project_019963/README.md) |
+| 019964 | [Python: Recovery Test — Reporting for Home Development](Project_019964/README.md) |
+| 019965 | [Python: Recovery Test — Usability Improvement for Home Development](Project_019965/README.md) |
+| 019966 | [Python: Recovery Test — Baseline Setup for Public Dataset](Project_019966/README.md) |
+| 019967 | [Python: Recovery Test — Automation for Public Dataset](Project_019967/README.md) |
+| 019968 | [Python: Recovery Test — Recovery for Public Dataset](Project_019968/README.md) |
+| 019969 | [Python: Recovery Test — Reporting for Public Dataset](Project_019969/README.md) |
+| 019970 | [Python: Recovery Test — Usability Improvement for Public Dataset](Project_019970/README.md) |
+| 019971 | [Python: Recovery Test — Baseline Setup for Branch Office Simulator](Project_019971/README.md) |
+| 019972 | [Python: Recovery Test — Automation for Branch Office Simulator](Project_019972/README.md) |
+| 019973 | [Python: Recovery Test — Recovery for Branch Office Simulator](Project_019973/README.md) |
+| 019974 | [Python: Recovery Test — Reporting for Branch Office Simulator](Project_019974/README.md) |
+| 019975 | [Python: Recovery Test — Usability Improvement for Branch Office Simulator](Project_019975/README.md) |
+| 019976 | [Python: Recovery Test — Baseline Setup for Offline Classroom](Project_019976/README.md) |
+| 019977 | [Python: Recovery Test — Automation for Offline Classroom](Project_019977/README.md) |
+| 019978 | [Python: Recovery Test — Recovery for Offline Classroom](Project_019978/README.md) |
+| 019979 | [Python: Recovery Test — Reporting for Offline Classroom](Project_019979/README.md) |
+| 019980 | [Python: Recovery Test — Usability Improvement for Offline Classroom](Project_019980/README.md) |
 
 [Back to the portfolio home](../README.md)
