@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048398 | [Flask: Dashboard — Recovery for Portfolio Demo](Project_048398/README.md) |
 | 048399 | [Flask: Dashboard — Reporting for Portfolio Demo](Project_048399/README.md) |
 | 048400 | [Flask: Dashboard — Usability Improvement for Portfolio Demo](Project_048400/README.md) |
+| 048401 | [Flask: Alerting — Baseline Setup for School Lab](Project_048401/README.md) |
+| 048402 | [Flask: Alerting — Automation for School Lab](Project_048402/README.md) |
+| 048403 | [Flask: Alerting — Recovery for School Lab](Project_048403/README.md) |
+| 048404 | [Flask: Alerting — Reporting for School Lab](Project_048404/README.md) |
+| 048405 | [Flask: Alerting — Usability Improvement for School Lab](Project_048405/README.md) |
+| 048406 | [Flask: Alerting — Baseline Setup for Small Business](Project_048406/README.md) |
+| 048407 | [Flask: Alerting — Automation for Small Business](Project_048407/README.md) |
+| 048408 | [Flask: Alerting — Recovery for Small Business](Project_048408/README.md) |
+| 048409 | [Flask: Alerting — Reporting for Small Business](Project_048409/README.md) |
+| 048410 | [Flask: Alerting — Usability Improvement for Small Business](Project_048410/README.md) |
+| 048411 | [Flask: Alerting — Baseline Setup for Home Development](Project_048411/README.md) |
+| 048412 | [Flask: Alerting — Automation for Home Development](Project_048412/README.md) |
+| 048413 | [Flask: Alerting — Recovery for Home Development](Project_048413/README.md) |
+| 048414 | [Flask: Alerting — Reporting for Home Development](Project_048414/README.md) |
+| 048415 | [Flask: Alerting — Usability Improvement for Home Development](Project_048415/README.md) |
+| 048416 | [Flask: Alerting — Baseline Setup for Public Dataset](Project_048416/README.md) |
+| 048417 | [Flask: Alerting — Automation for Public Dataset](Project_048417/README.md) |
+| 048418 | [Flask: Alerting — Recovery for Public Dataset](Project_048418/README.md) |
+| 048419 | [Flask: Alerting — Reporting for Public Dataset](Project_048419/README.md) |
+| 048420 | [Flask: Alerting — Usability Improvement for Public Dataset](Project_048420/README.md) |
 
 [Back to the portfolio home](../README.md)
