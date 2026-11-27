@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003518 | [Debian: Access Review — Recovery for Public Dataset](Project_003518/README.md) |
 | 003519 | [Debian: Access Review — Reporting for Public Dataset](Project_003519/README.md) |
 | 003520 | [Debian: Access Review — Usability Improvement for Public Dataset](Project_003520/README.md) |
+| 003521 | [Debian: Access Review — Baseline Setup for Branch Office Simulator](Project_003521/README.md) |
+| 003522 | [Debian: Access Review — Automation for Branch Office Simulator](Project_003522/README.md) |
+| 003523 | [Debian: Access Review — Recovery for Branch Office Simulator](Project_003523/README.md) |
+| 003524 | [Debian: Access Review — Reporting for Branch Office Simulator](Project_003524/README.md) |
+| 003525 | [Debian: Access Review — Usability Improvement for Branch Office Simulator](Project_003525/README.md) |
+| 003526 | [Debian: Access Review — Baseline Setup for Offline Classroom](Project_003526/README.md) |
+| 003527 | [Debian: Access Review — Automation for Offline Classroom](Project_003527/README.md) |
+| 003528 | [Debian: Access Review — Recovery for Offline Classroom](Project_003528/README.md) |
+| 003529 | [Debian: Access Review — Reporting for Offline Classroom](Project_003529/README.md) |
+| 003530 | [Debian: Access Review — Usability Improvement for Offline Classroom](Project_003530/README.md) |
+| 003531 | [Debian: Access Review — Baseline Setup for Single-Host Lab](Project_003531/README.md) |
+| 003532 | [Debian: Access Review — Automation for Single-Host Lab](Project_003532/README.md) |
+| 003533 | [Debian: Access Review — Recovery for Single-Host Lab](Project_003533/README.md) |
+| 003534 | [Debian: Access Review — Reporting for Single-Host Lab](Project_003534/README.md) |
+| 003535 | [Debian: Access Review — Usability Improvement for Single-Host Lab](Project_003535/README.md) |
+| 003536 | [Debian: Access Review — Baseline Setup for Two-Node Lab](Project_003536/README.md) |
+| 003537 | [Debian: Access Review — Automation for Two-Node Lab](Project_003537/README.md) |
+| 003538 | [Debian: Access Review — Recovery for Two-Node Lab](Project_003538/README.md) |
+| 003539 | [Debian: Access Review — Reporting for Two-Node Lab](Project_003539/README.md) |
+| 003540 | [Debian: Access Review — Usability Improvement for Two-Node Lab](Project_003540/README.md) |
 
 [Back to the portfolio home](../README.md)
