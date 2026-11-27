@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027738 | [MongoDB: Error Handling — Recovery for Two-Node Lab](Project_027738/README.md) |
 | 027739 | [MongoDB: Error Handling — Reporting for Two-Node Lab](Project_027739/README.md) |
 | 027740 | [MongoDB: Error Handling — Usability Improvement for Two-Node Lab](Project_027740/README.md) |
+| 027741 | [MongoDB: Error Handling — Baseline Setup for Help Desk](Project_027741/README.md) |
+| 027742 | [MongoDB: Error Handling — Automation for Help Desk](Project_027742/README.md) |
+| 027743 | [MongoDB: Error Handling — Recovery for Help Desk](Project_027743/README.md) |
+| 027744 | [MongoDB: Error Handling — Reporting for Help Desk](Project_027744/README.md) |
+| 027745 | [MongoDB: Error Handling — Usability Improvement for Help Desk](Project_027745/README.md) |
+| 027746 | [MongoDB: Error Handling — Baseline Setup for Portfolio Demo](Project_027746/README.md) |
+| 027747 | [MongoDB: Error Handling — Automation for Portfolio Demo](Project_027747/README.md) |
+| 027748 | [MongoDB: Error Handling — Recovery for Portfolio Demo](Project_027748/README.md) |
+| 027749 | [MongoDB: Error Handling — Reporting for Portfolio Demo](Project_027749/README.md) |
+| 027750 | [MongoDB: Error Handling — Usability Improvement for Portfolio Demo](Project_027750/README.md) |
+| 027751 | [MongoDB: Data Validation — Baseline Setup for School Lab](Project_027751/README.md) |
+| 027752 | [MongoDB: Data Validation — Automation for School Lab](Project_027752/README.md) |
+| 027753 | [MongoDB: Data Validation — Recovery for School Lab](Project_027753/README.md) |
+| 027754 | [MongoDB: Data Validation — Reporting for School Lab](Project_027754/README.md) |
+| 027755 | [MongoDB: Data Validation — Usability Improvement for School Lab](Project_027755/README.md) |
+| 027756 | [MongoDB: Data Validation — Baseline Setup for Small Business](Project_027756/README.md) |
+| 027757 | [MongoDB: Data Validation — Automation for Small Business](Project_027757/README.md) |
+| 027758 | [MongoDB: Data Validation — Recovery for Small Business](Project_027758/README.md) |
+| 027759 | [MongoDB: Data Validation — Reporting for Small Business](Project_027759/README.md) |
+| 027760 | [MongoDB: Data Validation — Usability Improvement for Small Business](Project_027760/README.md) |
 
 [Back to the portfolio home](../README.md)
