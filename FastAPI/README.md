@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049738 | [FastAPI: Error Handling — Recovery for Two-Node Lab](Project_049738/README.md) |
 | 049739 | [FastAPI: Error Handling — Reporting for Two-Node Lab](Project_049739/README.md) |
 | 049740 | [FastAPI: Error Handling — Usability Improvement for Two-Node Lab](Project_049740/README.md) |
+| 049741 | [FastAPI: Error Handling — Baseline Setup for Help Desk](Project_049741/README.md) |
+| 049742 | [FastAPI: Error Handling — Automation for Help Desk](Project_049742/README.md) |
+| 049743 | [FastAPI: Error Handling — Recovery for Help Desk](Project_049743/README.md) |
+| 049744 | [FastAPI: Error Handling — Reporting for Help Desk](Project_049744/README.md) |
+| 049745 | [FastAPI: Error Handling — Usability Improvement for Help Desk](Project_049745/README.md) |
+| 049746 | [FastAPI: Error Handling — Baseline Setup for Portfolio Demo](Project_049746/README.md) |
+| 049747 | [FastAPI: Error Handling — Automation for Portfolio Demo](Project_049747/README.md) |
+| 049748 | [FastAPI: Error Handling — Recovery for Portfolio Demo](Project_049748/README.md) |
+| 049749 | [FastAPI: Error Handling — Reporting for Portfolio Demo](Project_049749/README.md) |
+| 049750 | [FastAPI: Error Handling — Usability Improvement for Portfolio Demo](Project_049750/README.md) |
+| 049751 | [FastAPI: Data Validation — Baseline Setup for School Lab](Project_049751/README.md) |
+| 049752 | [FastAPI: Data Validation — Automation for School Lab](Project_049752/README.md) |
+| 049753 | [FastAPI: Data Validation — Recovery for School Lab](Project_049753/README.md) |
+| 049754 | [FastAPI: Data Validation — Reporting for School Lab](Project_049754/README.md) |
+| 049755 | [FastAPI: Data Validation — Usability Improvement for School Lab](Project_049755/README.md) |
+| 049756 | [FastAPI: Data Validation — Baseline Setup for Small Business](Project_049756/README.md) |
+| 049757 | [FastAPI: Data Validation — Automation for Small Business](Project_049757/README.md) |
+| 049758 | [FastAPI: Data Validation — Recovery for Small Business](Project_049758/README.md) |
+| 049759 | [FastAPI: Data Validation — Reporting for Small Business](Project_049759/README.md) |
+| 049760 | [FastAPI: Data Validation — Usability Improvement for Small Business](Project_049760/README.md) |
 
 [Back to the portfolio home](../README.md)
