@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005518 | [FreeBSD: Access Review — Recovery for Public Dataset](Project_005518/README.md) |
 | 005519 | [FreeBSD: Access Review — Reporting for Public Dataset](Project_005519/README.md) |
 | 005520 | [FreeBSD: Access Review — Usability Improvement for Public Dataset](Project_005520/README.md) |
+| 005521 | [FreeBSD: Access Review — Baseline Setup for Branch Office Simulator](Project_005521/README.md) |
+| 005522 | [FreeBSD: Access Review — Automation for Branch Office Simulator](Project_005522/README.md) |
+| 005523 | [FreeBSD: Access Review — Recovery for Branch Office Simulator](Project_005523/README.md) |
+| 005524 | [FreeBSD: Access Review — Reporting for Branch Office Simulator](Project_005524/README.md) |
+| 005525 | [FreeBSD: Access Review — Usability Improvement for Branch Office Simulator](Project_005525/README.md) |
+| 005526 | [FreeBSD: Access Review — Baseline Setup for Offline Classroom](Project_005526/README.md) |
+| 005527 | [FreeBSD: Access Review — Automation for Offline Classroom](Project_005527/README.md) |
+| 005528 | [FreeBSD: Access Review — Recovery for Offline Classroom](Project_005528/README.md) |
+| 005529 | [FreeBSD: Access Review — Reporting for Offline Classroom](Project_005529/README.md) |
+| 005530 | [FreeBSD: Access Review — Usability Improvement for Offline Classroom](Project_005530/README.md) |
+| 005531 | [FreeBSD: Access Review — Baseline Setup for Single-Host Lab](Project_005531/README.md) |
+| 005532 | [FreeBSD: Access Review — Automation for Single-Host Lab](Project_005532/README.md) |
+| 005533 | [FreeBSD: Access Review — Recovery for Single-Host Lab](Project_005533/README.md) |
+| 005534 | [FreeBSD: Access Review — Reporting for Single-Host Lab](Project_005534/README.md) |
+| 005535 | [FreeBSD: Access Review — Usability Improvement for Single-Host Lab](Project_005535/README.md) |
+| 005536 | [FreeBSD: Access Review — Baseline Setup for Two-Node Lab](Project_005536/README.md) |
+| 005537 | [FreeBSD: Access Review — Automation for Two-Node Lab](Project_005537/README.md) |
+| 005538 | [FreeBSD: Access Review — Recovery for Two-Node Lab](Project_005538/README.md) |
+| 005539 | [FreeBSD: Access Review — Reporting for Two-Node Lab](Project_005539/README.md) |
+| 005540 | [FreeBSD: Access Review — Usability Improvement for Two-Node Lab](Project_005540/README.md) |
 
 [Back to the portfolio home](../README.md)
