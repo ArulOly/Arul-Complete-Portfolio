@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045438 | [Redis: Alerting — Recovery for Two-Node Lab](Project_045438/README.md) |
 | 045439 | [Redis: Alerting — Reporting for Two-Node Lab](Project_045439/README.md) |
 | 045440 | [Redis: Alerting — Usability Improvement for Two-Node Lab](Project_045440/README.md) |
+| 045441 | [Redis: Alerting — Baseline Setup for Help Desk](Project_045441/README.md) |
+| 045442 | [Redis: Alerting — Automation for Help Desk](Project_045442/README.md) |
+| 045443 | [Redis: Alerting — Recovery for Help Desk](Project_045443/README.md) |
+| 045444 | [Redis: Alerting — Reporting for Help Desk](Project_045444/README.md) |
+| 045445 | [Redis: Alerting — Usability Improvement for Help Desk](Project_045445/README.md) |
+| 045446 | [Redis: Alerting — Baseline Setup for Portfolio Demo](Project_045446/README.md) |
+| 045447 | [Redis: Alerting — Automation for Portfolio Demo](Project_045447/README.md) |
+| 045448 | [Redis: Alerting — Recovery for Portfolio Demo](Project_045448/README.md) |
+| 045449 | [Redis: Alerting — Reporting for Portfolio Demo](Project_045449/README.md) |
+| 045450 | [Redis: Alerting — Usability Improvement for Portfolio Demo](Project_045450/README.md) |
+| 045451 | [Redis: Scheduled Reporting — Baseline Setup for School Lab](Project_045451/README.md) |
+| 045452 | [Redis: Scheduled Reporting — Automation for School Lab](Project_045452/README.md) |
+| 045453 | [Redis: Scheduled Reporting — Recovery for School Lab](Project_045453/README.md) |
+| 045454 | [Redis: Scheduled Reporting — Reporting for School Lab](Project_045454/README.md) |
+| 045455 | [Redis: Scheduled Reporting — Usability Improvement for School Lab](Project_045455/README.md) |
+| 045456 | [Redis: Scheduled Reporting — Baseline Setup for Small Business](Project_045456/README.md) |
+| 045457 | [Redis: Scheduled Reporting — Automation for Small Business](Project_045457/README.md) |
+| 045458 | [Redis: Scheduled Reporting — Recovery for Small Business](Project_045458/README.md) |
+| 045459 | [Redis: Scheduled Reporting — Reporting for Small Business](Project_045459/README.md) |
+| 045460 | [Redis: Scheduled Reporting — Usability Improvement for Small Business](Project_045460/README.md) |
 
 [Back to the portfolio home](../README.md)
