@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023938 | [HTML CSS: Visual Reporting — Recovery for Two-Node Lab](Project_023938/README.md) |
 | 023939 | [HTML CSS: Visual Reporting — Reporting for Two-Node Lab](Project_023939/README.md) |
 | 023940 | [HTML CSS: Visual Reporting — Usability Improvement for Two-Node Lab](Project_023940/README.md) |
+| 023941 | [HTML CSS: Visual Reporting — Baseline Setup for Help Desk](Project_023941/README.md) |
+| 023942 | [HTML CSS: Visual Reporting — Automation for Help Desk](Project_023942/README.md) |
+| 023943 | [HTML CSS: Visual Reporting — Recovery for Help Desk](Project_023943/README.md) |
+| 023944 | [HTML CSS: Visual Reporting — Reporting for Help Desk](Project_023944/README.md) |
+| 023945 | [HTML CSS: Visual Reporting — Usability Improvement for Help Desk](Project_023945/README.md) |
+| 023946 | [HTML CSS: Visual Reporting — Baseline Setup for Portfolio Demo](Project_023946/README.md) |
+| 023947 | [HTML CSS: Visual Reporting — Automation for Portfolio Demo](Project_023947/README.md) |
+| 023948 | [HTML CSS: Visual Reporting — Recovery for Portfolio Demo](Project_023948/README.md) |
+| 023949 | [HTML CSS: Visual Reporting — Reporting for Portfolio Demo](Project_023949/README.md) |
+| 023950 | [HTML CSS: Visual Reporting — Usability Improvement for Portfolio Demo](Project_023950/README.md) |
+| 023951 | [HTML CSS: Recovery Test — Baseline Setup for School Lab](Project_023951/README.md) |
+| 023952 | [HTML CSS: Recovery Test — Automation for School Lab](Project_023952/README.md) |
+| 023953 | [HTML CSS: Recovery Test — Recovery for School Lab](Project_023953/README.md) |
+| 023954 | [HTML CSS: Recovery Test — Reporting for School Lab](Project_023954/README.md) |
+| 023955 | [HTML CSS: Recovery Test — Usability Improvement for School Lab](Project_023955/README.md) |
+| 023956 | [HTML CSS: Recovery Test — Baseline Setup for Small Business](Project_023956/README.md) |
+| 023957 | [HTML CSS: Recovery Test — Automation for Small Business](Project_023957/README.md) |
+| 023958 | [HTML CSS: Recovery Test — Recovery for Small Business](Project_023958/README.md) |
+| 023959 | [HTML CSS: Recovery Test — Reporting for Small Business](Project_023959/README.md) |
+| 023960 | [HTML CSS: Recovery Test — Usability Improvement for Small Business](Project_023960/README.md) |
 
 [Back to the portfolio home](../README.md)
