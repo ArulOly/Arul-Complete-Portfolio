@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027238 | [MongoDB: Backup Verification — Recovery for Two-Node Lab](Project_027238/README.md) |
 | 027239 | [MongoDB: Backup Verification — Reporting for Two-Node Lab](Project_027239/README.md) |
 | 027240 | [MongoDB: Backup Verification — Usability Improvement for Two-Node Lab](Project_027240/README.md) |
+| 027241 | [MongoDB: Backup Verification — Baseline Setup for Help Desk](Project_027241/README.md) |
+| 027242 | [MongoDB: Backup Verification — Automation for Help Desk](Project_027242/README.md) |
+| 027243 | [MongoDB: Backup Verification — Recovery for Help Desk](Project_027243/README.md) |
+| 027244 | [MongoDB: Backup Verification — Reporting for Help Desk](Project_027244/README.md) |
+| 027245 | [MongoDB: Backup Verification — Usability Improvement for Help Desk](Project_027245/README.md) |
+| 027246 | [MongoDB: Backup Verification — Baseline Setup for Portfolio Demo](Project_027246/README.md) |
+| 027247 | [MongoDB: Backup Verification — Automation for Portfolio Demo](Project_027247/README.md) |
+| 027248 | [MongoDB: Backup Verification — Recovery for Portfolio Demo](Project_027248/README.md) |
+| 027249 | [MongoDB: Backup Verification — Reporting for Portfolio Demo](Project_027249/README.md) |
+| 027250 | [MongoDB: Backup Verification — Usability Improvement for Portfolio Demo](Project_027250/README.md) |
+| 027251 | [MongoDB: Data Import — Baseline Setup for School Lab](Project_027251/README.md) |
+| 027252 | [MongoDB: Data Import — Automation for School Lab](Project_027252/README.md) |
+| 027253 | [MongoDB: Data Import — Recovery for School Lab](Project_027253/README.md) |
+| 027254 | [MongoDB: Data Import — Reporting for School Lab](Project_027254/README.md) |
+| 027255 | [MongoDB: Data Import — Usability Improvement for School Lab](Project_027255/README.md) |
+| 027256 | [MongoDB: Data Import — Baseline Setup for Small Business](Project_027256/README.md) |
+| 027257 | [MongoDB: Data Import — Automation for Small Business](Project_027257/README.md) |
+| 027258 | [MongoDB: Data Import — Recovery for Small Business](Project_027258/README.md) |
+| 027259 | [MongoDB: Data Import — Reporting for Small Business](Project_027259/README.md) |
+| 027260 | [MongoDB: Data Import — Usability Improvement for Small Business](Project_027260/README.md) |
 
 [Back to the portfolio home](../README.md)
