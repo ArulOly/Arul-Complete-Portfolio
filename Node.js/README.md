@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024838 | [Node.js: Documentation Generation — Recovery for Two-Node Lab](Project_024838/README.md) |
 | 024839 | [Node.js: Documentation Generation — Reporting for Two-Node Lab](Project_024839/README.md) |
 | 024840 | [Node.js: Documentation Generation — Usability Improvement for Two-Node Lab](Project_024840/README.md) |
+| 024841 | [Node.js: Documentation Generation — Baseline Setup for Help Desk](Project_024841/README.md) |
+| 024842 | [Node.js: Documentation Generation — Automation for Help Desk](Project_024842/README.md) |
+| 024843 | [Node.js: Documentation Generation — Recovery for Help Desk](Project_024843/README.md) |
+| 024844 | [Node.js: Documentation Generation — Reporting for Help Desk](Project_024844/README.md) |
+| 024845 | [Node.js: Documentation Generation — Usability Improvement for Help Desk](Project_024845/README.md) |
+| 024846 | [Node.js: Documentation Generation — Baseline Setup for Portfolio Demo](Project_024846/README.md) |
+| 024847 | [Node.js: Documentation Generation — Automation for Portfolio Demo](Project_024847/README.md) |
+| 024848 | [Node.js: Documentation Generation — Recovery for Portfolio Demo](Project_024848/README.md) |
+| 024849 | [Node.js: Documentation Generation — Reporting for Portfolio Demo](Project_024849/README.md) |
+| 024850 | [Node.js: Documentation Generation — Usability Improvement for Portfolio Demo](Project_024850/README.md) |
+| 024851 | [Node.js: Automation — Baseline Setup for School Lab](Project_024851/README.md) |
+| 024852 | [Node.js: Automation — Automation for School Lab](Project_024852/README.md) |
+| 024853 | [Node.js: Automation — Recovery for School Lab](Project_024853/README.md) |
+| 024854 | [Node.js: Automation — Reporting for School Lab](Project_024854/README.md) |
+| 024855 | [Node.js: Automation — Usability Improvement for School Lab](Project_024855/README.md) |
+| 024856 | [Node.js: Automation — Baseline Setup for Small Business](Project_024856/README.md) |
+| 024857 | [Node.js: Automation — Automation for Small Business](Project_024857/README.md) |
+| 024858 | [Node.js: Automation — Recovery for Small Business](Project_024858/README.md) |
+| 024859 | [Node.js: Automation — Reporting for Small Business](Project_024859/README.md) |
+| 024860 | [Node.js: Automation — Usability Improvement for Small Business](Project_024860/README.md) |
 
 [Back to the portfolio home](../README.md)
