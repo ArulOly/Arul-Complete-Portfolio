@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005298 | [FreeBSD: Data Import — Recovery for Portfolio Demo](Project_005298/README.md) |
 | 005299 | [FreeBSD: Data Import — Reporting for Portfolio Demo](Project_005299/README.md) |
 | 005300 | [FreeBSD: Data Import — Usability Improvement for Portfolio Demo](Project_005300/README.md) |
+| 005301 | [FreeBSD: Data Export — Baseline Setup for School Lab](Project_005301/README.md) |
+| 005302 | [FreeBSD: Data Export — Automation for School Lab](Project_005302/README.md) |
+| 005303 | [FreeBSD: Data Export — Recovery for School Lab](Project_005303/README.md) |
+| 005304 | [FreeBSD: Data Export — Reporting for School Lab](Project_005304/README.md) |
+| 005305 | [FreeBSD: Data Export — Usability Improvement for School Lab](Project_005305/README.md) |
+| 005306 | [FreeBSD: Data Export — Baseline Setup for Small Business](Project_005306/README.md) |
+| 005307 | [FreeBSD: Data Export — Automation for Small Business](Project_005307/README.md) |
+| 005308 | [FreeBSD: Data Export — Recovery for Small Business](Project_005308/README.md) |
+| 005309 | [FreeBSD: Data Export — Reporting for Small Business](Project_005309/README.md) |
+| 005310 | [FreeBSD: Data Export — Usability Improvement for Small Business](Project_005310/README.md) |
+| 005311 | [FreeBSD: Data Export — Baseline Setup for Home Development](Project_005311/README.md) |
+| 005312 | [FreeBSD: Data Export — Automation for Home Development](Project_005312/README.md) |
+| 005313 | [FreeBSD: Data Export — Recovery for Home Development](Project_005313/README.md) |
+| 005314 | [FreeBSD: Data Export — Reporting for Home Development](Project_005314/README.md) |
+| 005315 | [FreeBSD: Data Export — Usability Improvement for Home Development](Project_005315/README.md) |
+| 005316 | [FreeBSD: Data Export — Baseline Setup for Public Dataset](Project_005316/README.md) |
+| 005317 | [FreeBSD: Data Export — Automation for Public Dataset](Project_005317/README.md) |
+| 005318 | [FreeBSD: Data Export — Recovery for Public Dataset](Project_005318/README.md) |
+| 005319 | [FreeBSD: Data Export — Reporting for Public Dataset](Project_005319/README.md) |
+| 005320 | [FreeBSD: Data Export — Usability Improvement for Public Dataset](Project_005320/README.md) |
 
 [Back to the portfolio home](../README.md)
