@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023878 | [HTML CSS: Automation — Recovery for Offline Classroom](Project_023878/README.md) |
 | 023879 | [HTML CSS: Automation — Reporting for Offline Classroom](Project_023879/README.md) |
 | 023880 | [HTML CSS: Automation — Usability Improvement for Offline Classroom](Project_023880/README.md) |
+| 023881 | [HTML CSS: Automation — Baseline Setup for Single-Host Lab](Project_023881/README.md) |
+| 023882 | [HTML CSS: Automation — Automation for Single-Host Lab](Project_023882/README.md) |
+| 023883 | [HTML CSS: Automation — Recovery for Single-Host Lab](Project_023883/README.md) |
+| 023884 | [HTML CSS: Automation — Reporting for Single-Host Lab](Project_023884/README.md) |
+| 023885 | [HTML CSS: Automation — Usability Improvement for Single-Host Lab](Project_023885/README.md) |
+| 023886 | [HTML CSS: Automation — Baseline Setup for Two-Node Lab](Project_023886/README.md) |
+| 023887 | [HTML CSS: Automation — Automation for Two-Node Lab](Project_023887/README.md) |
+| 023888 | [HTML CSS: Automation — Recovery for Two-Node Lab](Project_023888/README.md) |
+| 023889 | [HTML CSS: Automation — Reporting for Two-Node Lab](Project_023889/README.md) |
+| 023890 | [HTML CSS: Automation — Usability Improvement for Two-Node Lab](Project_023890/README.md) |
+| 023891 | [HTML CSS: Automation — Baseline Setup for Help Desk](Project_023891/README.md) |
+| 023892 | [HTML CSS: Automation — Automation for Help Desk](Project_023892/README.md) |
+| 023893 | [HTML CSS: Automation — Recovery for Help Desk](Project_023893/README.md) |
+| 023894 | [HTML CSS: Automation — Reporting for Help Desk](Project_023894/README.md) |
+| 023895 | [HTML CSS: Automation — Usability Improvement for Help Desk](Project_023895/README.md) |
+| 023896 | [HTML CSS: Automation — Baseline Setup for Portfolio Demo](Project_023896/README.md) |
+| 023897 | [HTML CSS: Automation — Automation for Portfolio Demo](Project_023897/README.md) |
+| 023898 | [HTML CSS: Automation — Recovery for Portfolio Demo](Project_023898/README.md) |
+| 023899 | [HTML CSS: Automation — Reporting for Portfolio Demo](Project_023899/README.md) |
+| 023900 | [HTML CSS: Automation — Usability Improvement for Portfolio Demo](Project_023900/README.md) |
 
 [Back to the portfolio home](../README.md)
