@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021378 | [TypeScript: Dashboard — Recovery for Offline Classroom](Project_021378/README.md) |
 | 021379 | [TypeScript: Dashboard — Reporting for Offline Classroom](Project_021379/README.md) |
 | 021380 | [TypeScript: Dashboard — Usability Improvement for Offline Classroom](Project_021380/README.md) |
+| 021381 | [TypeScript: Dashboard — Baseline Setup for Single-Host Lab](Project_021381/README.md) |
+| 021382 | [TypeScript: Dashboard — Automation for Single-Host Lab](Project_021382/README.md) |
+| 021383 | [TypeScript: Dashboard — Recovery for Single-Host Lab](Project_021383/README.md) |
+| 021384 | [TypeScript: Dashboard — Reporting for Single-Host Lab](Project_021384/README.md) |
+| 021385 | [TypeScript: Dashboard — Usability Improvement for Single-Host Lab](Project_021385/README.md) |
+| 021386 | [TypeScript: Dashboard — Baseline Setup for Two-Node Lab](Project_021386/README.md) |
+| 021387 | [TypeScript: Dashboard — Automation for Two-Node Lab](Project_021387/README.md) |
+| 021388 | [TypeScript: Dashboard — Recovery for Two-Node Lab](Project_021388/README.md) |
+| 021389 | [TypeScript: Dashboard — Reporting for Two-Node Lab](Project_021389/README.md) |
+| 021390 | [TypeScript: Dashboard — Usability Improvement for Two-Node Lab](Project_021390/README.md) |
+| 021391 | [TypeScript: Dashboard — Baseline Setup for Help Desk](Project_021391/README.md) |
+| 021392 | [TypeScript: Dashboard — Automation for Help Desk](Project_021392/README.md) |
+| 021393 | [TypeScript: Dashboard — Recovery for Help Desk](Project_021393/README.md) |
+| 021394 | [TypeScript: Dashboard — Reporting for Help Desk](Project_021394/README.md) |
+| 021395 | [TypeScript: Dashboard — Usability Improvement for Help Desk](Project_021395/README.md) |
+| 021396 | [TypeScript: Dashboard — Baseline Setup for Portfolio Demo](Project_021396/README.md) |
+| 021397 | [TypeScript: Dashboard — Automation for Portfolio Demo](Project_021397/README.md) |
+| 021398 | [TypeScript: Dashboard — Recovery for Portfolio Demo](Project_021398/README.md) |
+| 021399 | [TypeScript: Dashboard — Reporting for Portfolio Demo](Project_021399/README.md) |
+| 021400 | [TypeScript: Dashboard — Usability Improvement for Portfolio Demo](Project_021400/README.md) |
 
 [Back to the portfolio home](../README.md)
