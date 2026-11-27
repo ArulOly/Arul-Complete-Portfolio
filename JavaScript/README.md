@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020258 | [JavaScript: Data Import — Recovery for Small Business](Project_020258/README.md) |
 | 020259 | [JavaScript: Data Import — Reporting for Small Business](Project_020259/README.md) |
 | 020260 | [JavaScript: Data Import — Usability Improvement for Small Business](Project_020260/README.md) |
+| 020261 | [JavaScript: Data Import — Baseline Setup for Home Development](Project_020261/README.md) |
+| 020262 | [JavaScript: Data Import — Automation for Home Development](Project_020262/README.md) |
+| 020263 | [JavaScript: Data Import — Recovery for Home Development](Project_020263/README.md) |
+| 020264 | [JavaScript: Data Import — Reporting for Home Development](Project_020264/README.md) |
+| 020265 | [JavaScript: Data Import — Usability Improvement for Home Development](Project_020265/README.md) |
+| 020266 | [JavaScript: Data Import — Baseline Setup for Public Dataset](Project_020266/README.md) |
+| 020267 | [JavaScript: Data Import — Automation for Public Dataset](Project_020267/README.md) |
+| 020268 | [JavaScript: Data Import — Recovery for Public Dataset](Project_020268/README.md) |
+| 020269 | [JavaScript: Data Import — Reporting for Public Dataset](Project_020269/README.md) |
+| 020270 | [JavaScript: Data Import — Usability Improvement for Public Dataset](Project_020270/README.md) |
+| 020271 | [JavaScript: Data Import — Baseline Setup for Branch Office Simulator](Project_020271/README.md) |
+| 020272 | [JavaScript: Data Import — Automation for Branch Office Simulator](Project_020272/README.md) |
+| 020273 | [JavaScript: Data Import — Recovery for Branch Office Simulator](Project_020273/README.md) |
+| 020274 | [JavaScript: Data Import — Reporting for Branch Office Simulator](Project_020274/README.md) |
+| 020275 | [JavaScript: Data Import — Usability Improvement for Branch Office Simulator](Project_020275/README.md) |
+| 020276 | [JavaScript: Data Import — Baseline Setup for Offline Classroom](Project_020276/README.md) |
+| 020277 | [JavaScript: Data Import — Automation for Offline Classroom](Project_020277/README.md) |
+| 020278 | [JavaScript: Data Import — Recovery for Offline Classroom](Project_020278/README.md) |
+| 020279 | [JavaScript: Data Import — Reporting for Offline Classroom](Project_020279/README.md) |
+| 020280 | [JavaScript: Data Import — Usability Improvement for Offline Classroom](Project_020280/README.md) |
 
 [Back to the portfolio home](../README.md)
