@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024678 | [Node.js: Configuration Comparison — Recovery for Offline Classroom](Project_024678/README.md) |
 | 024679 | [Node.js: Configuration Comparison — Reporting for Offline Classroom](Project_024679/README.md) |
 | 024680 | [Node.js: Configuration Comparison — Usability Improvement for Offline Classroom](Project_024680/README.md) |
+| 024681 | [Node.js: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_024681/README.md) |
+| 024682 | [Node.js: Configuration Comparison — Automation for Single-Host Lab](Project_024682/README.md) |
+| 024683 | [Node.js: Configuration Comparison — Recovery for Single-Host Lab](Project_024683/README.md) |
+| 024684 | [Node.js: Configuration Comparison — Reporting for Single-Host Lab](Project_024684/README.md) |
+| 024685 | [Node.js: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_024685/README.md) |
+| 024686 | [Node.js: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_024686/README.md) |
+| 024687 | [Node.js: Configuration Comparison — Automation for Two-Node Lab](Project_024687/README.md) |
+| 024688 | [Node.js: Configuration Comparison — Recovery for Two-Node Lab](Project_024688/README.md) |
+| 024689 | [Node.js: Configuration Comparison — Reporting for Two-Node Lab](Project_024689/README.md) |
+| 024690 | [Node.js: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_024690/README.md) |
+| 024691 | [Node.js: Configuration Comparison — Baseline Setup for Help Desk](Project_024691/README.md) |
+| 024692 | [Node.js: Configuration Comparison — Automation for Help Desk](Project_024692/README.md) |
+| 024693 | [Node.js: Configuration Comparison — Recovery for Help Desk](Project_024693/README.md) |
+| 024694 | [Node.js: Configuration Comparison — Reporting for Help Desk](Project_024694/README.md) |
+| 024695 | [Node.js: Configuration Comparison — Usability Improvement for Help Desk](Project_024695/README.md) |
+| 024696 | [Node.js: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_024696/README.md) |
+| 024697 | [Node.js: Configuration Comparison — Automation for Portfolio Demo](Project_024697/README.md) |
+| 024698 | [Node.js: Configuration Comparison — Recovery for Portfolio Demo](Project_024698/README.md) |
+| 024699 | [Node.js: Configuration Comparison — Reporting for Portfolio Demo](Project_024699/README.md) |
+| 024700 | [Node.js: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_024700/README.md) |
 
 [Back to the portfolio home](../README.md)
