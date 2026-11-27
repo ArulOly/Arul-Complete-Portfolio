@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026498 | [MySQL: Scheduled Reporting — Recovery for Portfolio Demo](Project_026498/README.md) |
 | 026499 | [MySQL: Scheduled Reporting — Reporting for Portfolio Demo](Project_026499/README.md) |
 | 026500 | [MySQL: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_026500/README.md) |
+| 026501 | [MySQL: Access Review — Baseline Setup for School Lab](Project_026501/README.md) |
+| 026502 | [MySQL: Access Review — Automation for School Lab](Project_026502/README.md) |
+| 026503 | [MySQL: Access Review — Recovery for School Lab](Project_026503/README.md) |
+| 026504 | [MySQL: Access Review — Reporting for School Lab](Project_026504/README.md) |
+| 026505 | [MySQL: Access Review — Usability Improvement for School Lab](Project_026505/README.md) |
+| 026506 | [MySQL: Access Review — Baseline Setup for Small Business](Project_026506/README.md) |
+| 026507 | [MySQL: Access Review — Automation for Small Business](Project_026507/README.md) |
+| 026508 | [MySQL: Access Review — Recovery for Small Business](Project_026508/README.md) |
+| 026509 | [MySQL: Access Review — Reporting for Small Business](Project_026509/README.md) |
+| 026510 | [MySQL: Access Review — Usability Improvement for Small Business](Project_026510/README.md) |
+| 026511 | [MySQL: Access Review — Baseline Setup for Home Development](Project_026511/README.md) |
+| 026512 | [MySQL: Access Review — Automation for Home Development](Project_026512/README.md) |
+| 026513 | [MySQL: Access Review — Recovery for Home Development](Project_026513/README.md) |
+| 026514 | [MySQL: Access Review — Reporting for Home Development](Project_026514/README.md) |
+| 026515 | [MySQL: Access Review — Usability Improvement for Home Development](Project_026515/README.md) |
+| 026516 | [MySQL: Access Review — Baseline Setup for Public Dataset](Project_026516/README.md) |
+| 026517 | [MySQL: Access Review — Automation for Public Dataset](Project_026517/README.md) |
+| 026518 | [MySQL: Access Review — Recovery for Public Dataset](Project_026518/README.md) |
+| 026519 | [MySQL: Access Review — Reporting for Public Dataset](Project_026519/README.md) |
+| 026520 | [MySQL: Access Review — Usability Improvement for Public Dataset](Project_026520/README.md) |
 
 [Back to the portfolio home](../README.md)
