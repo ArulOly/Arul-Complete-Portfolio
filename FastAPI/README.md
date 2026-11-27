@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049958 | [FastAPI: Recovery Test — Recovery for Small Business](Project_049958/README.md) |
 | 049959 | [FastAPI: Recovery Test — Reporting for Small Business](Project_049959/README.md) |
 | 049960 | [FastAPI: Recovery Test — Usability Improvement for Small Business](Project_049960/README.md) |
+| 049961 | [FastAPI: Recovery Test — Baseline Setup for Home Development](Project_049961/README.md) |
+| 049962 | [FastAPI: Recovery Test — Automation for Home Development](Project_049962/README.md) |
+| 049963 | [FastAPI: Recovery Test — Recovery for Home Development](Project_049963/README.md) |
+| 049964 | [FastAPI: Recovery Test — Reporting for Home Development](Project_049964/README.md) |
+| 049965 | [FastAPI: Recovery Test — Usability Improvement for Home Development](Project_049965/README.md) |
+| 049966 | [FastAPI: Recovery Test — Baseline Setup for Public Dataset](Project_049966/README.md) |
+| 049967 | [FastAPI: Recovery Test — Automation for Public Dataset](Project_049967/README.md) |
+| 049968 | [FastAPI: Recovery Test — Recovery for Public Dataset](Project_049968/README.md) |
+| 049969 | [FastAPI: Recovery Test — Reporting for Public Dataset](Project_049969/README.md) |
+| 049970 | [FastAPI: Recovery Test — Usability Improvement for Public Dataset](Project_049970/README.md) |
+| 049971 | [FastAPI: Recovery Test — Baseline Setup for Branch Office Simulator](Project_049971/README.md) |
+| 049972 | [FastAPI: Recovery Test — Automation for Branch Office Simulator](Project_049972/README.md) |
+| 049973 | [FastAPI: Recovery Test — Recovery for Branch Office Simulator](Project_049973/README.md) |
+| 049974 | [FastAPI: Recovery Test — Reporting for Branch Office Simulator](Project_049974/README.md) |
+| 049975 | [FastAPI: Recovery Test — Usability Improvement for Branch Office Simulator](Project_049975/README.md) |
+| 049976 | [FastAPI: Recovery Test — Baseline Setup for Offline Classroom](Project_049976/README.md) |
+| 049977 | [FastAPI: Recovery Test — Automation for Offline Classroom](Project_049977/README.md) |
+| 049978 | [FastAPI: Recovery Test — Recovery for Offline Classroom](Project_049978/README.md) |
+| 049979 | [FastAPI: Recovery Test — Reporting for Offline Classroom](Project_049979/README.md) |
+| 049980 | [FastAPI: Recovery Test — Usability Improvement for Offline Classroom](Project_049980/README.md) |
 
 [Back to the portfolio home](../README.md)
