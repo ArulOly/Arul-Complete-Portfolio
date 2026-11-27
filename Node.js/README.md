@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024438 | [Node.js: Alerting — Recovery for Two-Node Lab](Project_024438/README.md) |
 | 024439 | [Node.js: Alerting — Reporting for Two-Node Lab](Project_024439/README.md) |
 | 024440 | [Node.js: Alerting — Usability Improvement for Two-Node Lab](Project_024440/README.md) |
+| 024441 | [Node.js: Alerting — Baseline Setup for Help Desk](Project_024441/README.md) |
+| 024442 | [Node.js: Alerting — Automation for Help Desk](Project_024442/README.md) |
+| 024443 | [Node.js: Alerting — Recovery for Help Desk](Project_024443/README.md) |
+| 024444 | [Node.js: Alerting — Reporting for Help Desk](Project_024444/README.md) |
+| 024445 | [Node.js: Alerting — Usability Improvement for Help Desk](Project_024445/README.md) |
+| 024446 | [Node.js: Alerting — Baseline Setup for Portfolio Demo](Project_024446/README.md) |
+| 024447 | [Node.js: Alerting — Automation for Portfolio Demo](Project_024447/README.md) |
+| 024448 | [Node.js: Alerting — Recovery for Portfolio Demo](Project_024448/README.md) |
+| 024449 | [Node.js: Alerting — Reporting for Portfolio Demo](Project_024449/README.md) |
+| 024450 | [Node.js: Alerting — Usability Improvement for Portfolio Demo](Project_024450/README.md) |
+| 024451 | [Node.js: Scheduled Reporting — Baseline Setup for School Lab](Project_024451/README.md) |
+| 024452 | [Node.js: Scheduled Reporting — Automation for School Lab](Project_024452/README.md) |
+| 024453 | [Node.js: Scheduled Reporting — Recovery for School Lab](Project_024453/README.md) |
+| 024454 | [Node.js: Scheduled Reporting — Reporting for School Lab](Project_024454/README.md) |
+| 024455 | [Node.js: Scheduled Reporting — Usability Improvement for School Lab](Project_024455/README.md) |
+| 024456 | [Node.js: Scheduled Reporting — Baseline Setup for Small Business](Project_024456/README.md) |
+| 024457 | [Node.js: Scheduled Reporting — Automation for Small Business](Project_024457/README.md) |
+| 024458 | [Node.js: Scheduled Reporting — Recovery for Small Business](Project_024458/README.md) |
+| 024459 | [Node.js: Scheduled Reporting — Reporting for Small Business](Project_024459/README.md) |
+| 024460 | [Node.js: Scheduled Reporting — Usability Improvement for Small Business](Project_024460/README.md) |
 
 [Back to the portfolio home](../README.md)
