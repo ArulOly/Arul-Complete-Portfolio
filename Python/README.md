@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -744,5 +744,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019698 | [Python: Configuration Comparison — Recovery for Portfolio Demo](Project_019698/README.md) |
 | 019699 | [Python: Configuration Comparison — Reporting for Portfolio Demo](Project_019699/README.md) |
 | 019700 | [Python: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_019700/README.md) |
+| 019701 | [Python: Error Handling — Baseline Setup for School Lab](Project_019701/README.md) |
+| 019702 | [Python: Error Handling — Automation for School Lab](Project_019702/README.md) |
+| 019703 | [Python: Error Handling — Recovery for School Lab](Project_019703/README.md) |
+| 019704 | [Python: Error Handling — Reporting for School Lab](Project_019704/README.md) |
+| 019705 | [Python: Error Handling — Usability Improvement for School Lab](Project_019705/README.md) |
+| 019706 | [Python: Error Handling — Baseline Setup for Small Business](Project_019706/README.md) |
+| 019707 | [Python: Error Handling — Automation for Small Business](Project_019707/README.md) |
+| 019708 | [Python: Error Handling — Recovery for Small Business](Project_019708/README.md) |
+| 019709 | [Python: Error Handling — Reporting for Small Business](Project_019709/README.md) |
+| 019710 | [Python: Error Handling — Usability Improvement for Small Business](Project_019710/README.md) |
+| 019711 | [Python: Error Handling — Baseline Setup for Home Development](Project_019711/README.md) |
+| 019712 | [Python: Error Handling — Automation for Home Development](Project_019712/README.md) |
+| 019713 | [Python: Error Handling — Recovery for Home Development](Project_019713/README.md) |
+| 019714 | [Python: Error Handling — Reporting for Home Development](Project_019714/README.md) |
+| 019715 | [Python: Error Handling — Usability Improvement for Home Development](Project_019715/README.md) |
+| 019716 | [Python: Error Handling — Baseline Setup for Public Dataset](Project_019716/README.md) |
+| 019717 | [Python: Error Handling — Automation for Public Dataset](Project_019717/README.md) |
+| 019718 | [Python: Error Handling — Recovery for Public Dataset](Project_019718/README.md) |
+| 019719 | [Python: Error Handling — Reporting for Public Dataset](Project_019719/README.md) |
+| 019720 | [Python: Error Handling — Usability Improvement for Public Dataset](Project_019720/README.md) |
 
 [Back to the portfolio home](../README.md)
