@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033758 | [Jupyter: Data Validation — Recovery for Small Business](Project_033758/README.md) |
 | 033759 | [Jupyter: Data Validation — Reporting for Small Business](Project_033759/README.md) |
 | 033760 | [Jupyter: Data Validation — Usability Improvement for Small Business](Project_033760/README.md) |
+| 033761 | [Jupyter: Data Validation — Baseline Setup for Home Development](Project_033761/README.md) |
+| 033762 | [Jupyter: Data Validation — Automation for Home Development](Project_033762/README.md) |
+| 033763 | [Jupyter: Data Validation — Recovery for Home Development](Project_033763/README.md) |
+| 033764 | [Jupyter: Data Validation — Reporting for Home Development](Project_033764/README.md) |
+| 033765 | [Jupyter: Data Validation — Usability Improvement for Home Development](Project_033765/README.md) |
+| 033766 | [Jupyter: Data Validation — Baseline Setup for Public Dataset](Project_033766/README.md) |
+| 033767 | [Jupyter: Data Validation — Automation for Public Dataset](Project_033767/README.md) |
+| 033768 | [Jupyter: Data Validation — Recovery for Public Dataset](Project_033768/README.md) |
+| 033769 | [Jupyter: Data Validation — Reporting for Public Dataset](Project_033769/README.md) |
+| 033770 | [Jupyter: Data Validation — Usability Improvement for Public Dataset](Project_033770/README.md) |
+| 033771 | [Jupyter: Data Validation — Baseline Setup for Branch Office Simulator](Project_033771/README.md) |
+| 033772 | [Jupyter: Data Validation — Automation for Branch Office Simulator](Project_033772/README.md) |
+| 033773 | [Jupyter: Data Validation — Recovery for Branch Office Simulator](Project_033773/README.md) |
+| 033774 | [Jupyter: Data Validation — Reporting for Branch Office Simulator](Project_033774/README.md) |
+| 033775 | [Jupyter: Data Validation — Usability Improvement for Branch Office Simulator](Project_033775/README.md) |
+| 033776 | [Jupyter: Data Validation — Baseline Setup for Offline Classroom](Project_033776/README.md) |
+| 033777 | [Jupyter: Data Validation — Automation for Offline Classroom](Project_033777/README.md) |
+| 033778 | [Jupyter: Data Validation — Recovery for Offline Classroom](Project_033778/README.md) |
+| 033779 | [Jupyter: Data Validation — Reporting for Offline Classroom](Project_033779/README.md) |
+| 033780 | [Jupyter: Data Validation — Usability Improvement for Offline Classroom](Project_033780/README.md) |
 
 [Back to the portfolio home](../README.md)
