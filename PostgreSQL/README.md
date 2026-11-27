@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025818 | [PostgreSQL: Documentation Generation — Recovery for Public Dataset](Project_025818/README.md) |
 | 025819 | [PostgreSQL: Documentation Generation — Reporting for Public Dataset](Project_025819/README.md) |
 | 025820 | [PostgreSQL: Documentation Generation — Usability Improvement for Public Dataset](Project_025820/README.md) |
+| 025821 | [PostgreSQL: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_025821/README.md) |
+| 025822 | [PostgreSQL: Documentation Generation — Automation for Branch Office Simulator](Project_025822/README.md) |
+| 025823 | [PostgreSQL: Documentation Generation — Recovery for Branch Office Simulator](Project_025823/README.md) |
+| 025824 | [PostgreSQL: Documentation Generation — Reporting for Branch Office Simulator](Project_025824/README.md) |
+| 025825 | [PostgreSQL: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_025825/README.md) |
+| 025826 | [PostgreSQL: Documentation Generation — Baseline Setup for Offline Classroom](Project_025826/README.md) |
+| 025827 | [PostgreSQL: Documentation Generation — Automation for Offline Classroom](Project_025827/README.md) |
+| 025828 | [PostgreSQL: Documentation Generation — Recovery for Offline Classroom](Project_025828/README.md) |
+| 025829 | [PostgreSQL: Documentation Generation — Reporting for Offline Classroom](Project_025829/README.md) |
+| 025830 | [PostgreSQL: Documentation Generation — Usability Improvement for Offline Classroom](Project_025830/README.md) |
+| 025831 | [PostgreSQL: Documentation Generation — Baseline Setup for Single-Host Lab](Project_025831/README.md) |
+| 025832 | [PostgreSQL: Documentation Generation — Automation for Single-Host Lab](Project_025832/README.md) |
+| 025833 | [PostgreSQL: Documentation Generation — Recovery for Single-Host Lab](Project_025833/README.md) |
+| 025834 | [PostgreSQL: Documentation Generation — Reporting for Single-Host Lab](Project_025834/README.md) |
+| 025835 | [PostgreSQL: Documentation Generation — Usability Improvement for Single-Host Lab](Project_025835/README.md) |
+| 025836 | [PostgreSQL: Documentation Generation — Baseline Setup for Two-Node Lab](Project_025836/README.md) |
+| 025837 | [PostgreSQL: Documentation Generation — Automation for Two-Node Lab](Project_025837/README.md) |
+| 025838 | [PostgreSQL: Documentation Generation — Recovery for Two-Node Lab](Project_025838/README.md) |
+| 025839 | [PostgreSQL: Documentation Generation — Reporting for Two-Node Lab](Project_025839/README.md) |
+| 025840 | [PostgreSQL: Documentation Generation — Usability Improvement for Two-Node Lab](Project_025840/README.md) |
 
 [Back to the portfolio home](../README.md)
