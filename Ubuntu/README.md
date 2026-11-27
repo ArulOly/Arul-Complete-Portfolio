@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002578 | [Ubuntu: Performance Baseline — Recovery for Offline Classroom](Project_002578/README.md) |
 | 002579 | [Ubuntu: Performance Baseline — Reporting for Offline Classroom](Project_002579/README.md) |
 | 002580 | [Ubuntu: Performance Baseline — Usability Improvement for Offline Classroom](Project_002580/README.md) |
+| 002581 | [Ubuntu: Performance Baseline — Baseline Setup for Single-Host Lab](Project_002581/README.md) |
+| 002582 | [Ubuntu: Performance Baseline — Automation for Single-Host Lab](Project_002582/README.md) |
+| 002583 | [Ubuntu: Performance Baseline — Recovery for Single-Host Lab](Project_002583/README.md) |
+| 002584 | [Ubuntu: Performance Baseline — Reporting for Single-Host Lab](Project_002584/README.md) |
+| 002585 | [Ubuntu: Performance Baseline — Usability Improvement for Single-Host Lab](Project_002585/README.md) |
+| 002586 | [Ubuntu: Performance Baseline — Baseline Setup for Two-Node Lab](Project_002586/README.md) |
+| 002587 | [Ubuntu: Performance Baseline — Automation for Two-Node Lab](Project_002587/README.md) |
+| 002588 | [Ubuntu: Performance Baseline — Recovery for Two-Node Lab](Project_002588/README.md) |
+| 002589 | [Ubuntu: Performance Baseline — Reporting for Two-Node Lab](Project_002589/README.md) |
+| 002590 | [Ubuntu: Performance Baseline — Usability Improvement for Two-Node Lab](Project_002590/README.md) |
+| 002591 | [Ubuntu: Performance Baseline — Baseline Setup for Help Desk](Project_002591/README.md) |
+| 002592 | [Ubuntu: Performance Baseline — Automation for Help Desk](Project_002592/README.md) |
+| 002593 | [Ubuntu: Performance Baseline — Recovery for Help Desk](Project_002593/README.md) |
+| 002594 | [Ubuntu: Performance Baseline — Reporting for Help Desk](Project_002594/README.md) |
+| 002595 | [Ubuntu: Performance Baseline — Usability Improvement for Help Desk](Project_002595/README.md) |
+| 002596 | [Ubuntu: Performance Baseline — Baseline Setup for Portfolio Demo](Project_002596/README.md) |
+| 002597 | [Ubuntu: Performance Baseline — Automation for Portfolio Demo](Project_002597/README.md) |
+| 002598 | [Ubuntu: Performance Baseline — Recovery for Portfolio Demo](Project_002598/README.md) |
+| 002599 | [Ubuntu: Performance Baseline — Reporting for Portfolio Demo](Project_002599/README.md) |
+| 002600 | [Ubuntu: Performance Baseline — Usability Improvement for Portfolio Demo](Project_002600/README.md) |
 
 [Back to the portfolio home](../README.md)
