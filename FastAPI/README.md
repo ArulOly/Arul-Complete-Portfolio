@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049478 | [FastAPI: Scheduled Reporting — Recovery for Offline Classroom](Project_049478/README.md) |
 | 049479 | [FastAPI: Scheduled Reporting — Reporting for Offline Classroom](Project_049479/README.md) |
 | 049480 | [FastAPI: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_049480/README.md) |
+| 049481 | [FastAPI: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_049481/README.md) |
+| 049482 | [FastAPI: Scheduled Reporting — Automation for Single-Host Lab](Project_049482/README.md) |
+| 049483 | [FastAPI: Scheduled Reporting — Recovery for Single-Host Lab](Project_049483/README.md) |
+| 049484 | [FastAPI: Scheduled Reporting — Reporting for Single-Host Lab](Project_049484/README.md) |
+| 049485 | [FastAPI: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_049485/README.md) |
+| 049486 | [FastAPI: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_049486/README.md) |
+| 049487 | [FastAPI: Scheduled Reporting — Automation for Two-Node Lab](Project_049487/README.md) |
+| 049488 | [FastAPI: Scheduled Reporting — Recovery for Two-Node Lab](Project_049488/README.md) |
+| 049489 | [FastAPI: Scheduled Reporting — Reporting for Two-Node Lab](Project_049489/README.md) |
+| 049490 | [FastAPI: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_049490/README.md) |
+| 049491 | [FastAPI: Scheduled Reporting — Baseline Setup for Help Desk](Project_049491/README.md) |
+| 049492 | [FastAPI: Scheduled Reporting — Automation for Help Desk](Project_049492/README.md) |
+| 049493 | [FastAPI: Scheduled Reporting — Recovery for Help Desk](Project_049493/README.md) |
+| 049494 | [FastAPI: Scheduled Reporting — Reporting for Help Desk](Project_049494/README.md) |
+| 049495 | [FastAPI: Scheduled Reporting — Usability Improvement for Help Desk](Project_049495/README.md) |
+| 049496 | [FastAPI: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_049496/README.md) |
+| 049497 | [FastAPI: Scheduled Reporting — Automation for Portfolio Demo](Project_049497/README.md) |
+| 049498 | [FastAPI: Scheduled Reporting — Recovery for Portfolio Demo](Project_049498/README.md) |
+| 049499 | [FastAPI: Scheduled Reporting — Reporting for Portfolio Demo](Project_049499/README.md) |
+| 049500 | [FastAPI: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_049500/README.md) |
 
 [Back to the portfolio home](../README.md)
