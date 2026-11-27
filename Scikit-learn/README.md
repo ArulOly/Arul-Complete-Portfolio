@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034418 | [Scikit-learn: Alerting — Recovery for Public Dataset](Project_034418/README.md) |
 | 034419 | [Scikit-learn: Alerting — Reporting for Public Dataset](Project_034419/README.md) |
 | 034420 | [Scikit-learn: Alerting — Usability Improvement for Public Dataset](Project_034420/README.md) |
+| 034421 | [Scikit-learn: Alerting — Baseline Setup for Branch Office Simulator](Project_034421/README.md) |
+| 034422 | [Scikit-learn: Alerting — Automation for Branch Office Simulator](Project_034422/README.md) |
+| 034423 | [Scikit-learn: Alerting — Recovery for Branch Office Simulator](Project_034423/README.md) |
+| 034424 | [Scikit-learn: Alerting — Reporting for Branch Office Simulator](Project_034424/README.md) |
+| 034425 | [Scikit-learn: Alerting — Usability Improvement for Branch Office Simulator](Project_034425/README.md) |
+| 034426 | [Scikit-learn: Alerting — Baseline Setup for Offline Classroom](Project_034426/README.md) |
+| 034427 | [Scikit-learn: Alerting — Automation for Offline Classroom](Project_034427/README.md) |
+| 034428 | [Scikit-learn: Alerting — Recovery for Offline Classroom](Project_034428/README.md) |
+| 034429 | [Scikit-learn: Alerting — Reporting for Offline Classroom](Project_034429/README.md) |
+| 034430 | [Scikit-learn: Alerting — Usability Improvement for Offline Classroom](Project_034430/README.md) |
+| 034431 | [Scikit-learn: Alerting — Baseline Setup for Single-Host Lab](Project_034431/README.md) |
+| 034432 | [Scikit-learn: Alerting — Automation for Single-Host Lab](Project_034432/README.md) |
+| 034433 | [Scikit-learn: Alerting — Recovery for Single-Host Lab](Project_034433/README.md) |
+| 034434 | [Scikit-learn: Alerting — Reporting for Single-Host Lab](Project_034434/README.md) |
+| 034435 | [Scikit-learn: Alerting — Usability Improvement for Single-Host Lab](Project_034435/README.md) |
+| 034436 | [Scikit-learn: Alerting — Baseline Setup for Two-Node Lab](Project_034436/README.md) |
+| 034437 | [Scikit-learn: Alerting — Automation for Two-Node Lab](Project_034437/README.md) |
+| 034438 | [Scikit-learn: Alerting — Recovery for Two-Node Lab](Project_034438/README.md) |
+| 034439 | [Scikit-learn: Alerting — Reporting for Two-Node Lab](Project_034439/README.md) |
+| 034440 | [Scikit-learn: Alerting — Usability Improvement for Two-Node Lab](Project_034440/README.md) |
 
 [Back to the portfolio home](../README.md)
