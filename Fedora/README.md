@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004298 | [Fedora: Data Import — Recovery for Portfolio Demo](Project_004298/README.md) |
 | 004299 | [Fedora: Data Import — Reporting for Portfolio Demo](Project_004299/README.md) |
 | 004300 | [Fedora: Data Import — Usability Improvement for Portfolio Demo](Project_004300/README.md) |
+| 004301 | [Fedora: Data Export — Baseline Setup for School Lab](Project_004301/README.md) |
+| 004302 | [Fedora: Data Export — Automation for School Lab](Project_004302/README.md) |
+| 004303 | [Fedora: Data Export — Recovery for School Lab](Project_004303/README.md) |
+| 004304 | [Fedora: Data Export — Reporting for School Lab](Project_004304/README.md) |
+| 004305 | [Fedora: Data Export — Usability Improvement for School Lab](Project_004305/README.md) |
+| 004306 | [Fedora: Data Export — Baseline Setup for Small Business](Project_004306/README.md) |
+| 004307 | [Fedora: Data Export — Automation for Small Business](Project_004307/README.md) |
+| 004308 | [Fedora: Data Export — Recovery for Small Business](Project_004308/README.md) |
+| 004309 | [Fedora: Data Export — Reporting for Small Business](Project_004309/README.md) |
+| 004310 | [Fedora: Data Export — Usability Improvement for Small Business](Project_004310/README.md) |
+| 004311 | [Fedora: Data Export — Baseline Setup for Home Development](Project_004311/README.md) |
+| 004312 | [Fedora: Data Export — Automation for Home Development](Project_004312/README.md) |
+| 004313 | [Fedora: Data Export — Recovery for Home Development](Project_004313/README.md) |
+| 004314 | [Fedora: Data Export — Reporting for Home Development](Project_004314/README.md) |
+| 004315 | [Fedora: Data Export — Usability Improvement for Home Development](Project_004315/README.md) |
+| 004316 | [Fedora: Data Export — Baseline Setup for Public Dataset](Project_004316/README.md) |
+| 004317 | [Fedora: Data Export — Automation for Public Dataset](Project_004317/README.md) |
+| 004318 | [Fedora: Data Export — Recovery for Public Dataset](Project_004318/README.md) |
+| 004319 | [Fedora: Data Export — Reporting for Public Dataset](Project_004319/README.md) |
+| 004320 | [Fedora: Data Export — Usability Improvement for Public Dataset](Project_004320/README.md) |
 
 [Back to the portfolio home](../README.md)
