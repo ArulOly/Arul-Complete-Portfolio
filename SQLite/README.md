@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028218 | [SQLite: Backup Verification — Recovery for Public Dataset](Project_028218/README.md) |
 | 028219 | [SQLite: Backup Verification — Reporting for Public Dataset](Project_028219/README.md) |
 | 028220 | [SQLite: Backup Verification — Usability Improvement for Public Dataset](Project_028220/README.md) |
+| 028221 | [SQLite: Backup Verification — Baseline Setup for Branch Office Simulator](Project_028221/README.md) |
+| 028222 | [SQLite: Backup Verification — Automation for Branch Office Simulator](Project_028222/README.md) |
+| 028223 | [SQLite: Backup Verification — Recovery for Branch Office Simulator](Project_028223/README.md) |
+| 028224 | [SQLite: Backup Verification — Reporting for Branch Office Simulator](Project_028224/README.md) |
+| 028225 | [SQLite: Backup Verification — Usability Improvement for Branch Office Simulator](Project_028225/README.md) |
+| 028226 | [SQLite: Backup Verification — Baseline Setup for Offline Classroom](Project_028226/README.md) |
+| 028227 | [SQLite: Backup Verification — Automation for Offline Classroom](Project_028227/README.md) |
+| 028228 | [SQLite: Backup Verification — Recovery for Offline Classroom](Project_028228/README.md) |
+| 028229 | [SQLite: Backup Verification — Reporting for Offline Classroom](Project_028229/README.md) |
+| 028230 | [SQLite: Backup Verification — Usability Improvement for Offline Classroom](Project_028230/README.md) |
+| 028231 | [SQLite: Backup Verification — Baseline Setup for Single-Host Lab](Project_028231/README.md) |
+| 028232 | [SQLite: Backup Verification — Automation for Single-Host Lab](Project_028232/README.md) |
+| 028233 | [SQLite: Backup Verification — Recovery for Single-Host Lab](Project_028233/README.md) |
+| 028234 | [SQLite: Backup Verification — Reporting for Single-Host Lab](Project_028234/README.md) |
+| 028235 | [SQLite: Backup Verification — Usability Improvement for Single-Host Lab](Project_028235/README.md) |
+| 028236 | [SQLite: Backup Verification — Baseline Setup for Two-Node Lab](Project_028236/README.md) |
+| 028237 | [SQLite: Backup Verification — Automation for Two-Node Lab](Project_028237/README.md) |
+| 028238 | [SQLite: Backup Verification — Recovery for Two-Node Lab](Project_028238/README.md) |
+| 028239 | [SQLite: Backup Verification — Reporting for Two-Node Lab](Project_028239/README.md) |
+| 028240 | [SQLite: Backup Verification — Usability Improvement for Two-Node Lab](Project_028240/README.md) |
 
 [Back to the portfolio home](../README.md)
