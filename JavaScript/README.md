@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020098 | [JavaScript: Monitoring — Recovery for Portfolio Demo](Project_020098/README.md) |
 | 020099 | [JavaScript: Monitoring — Reporting for Portfolio Demo](Project_020099/README.md) |
 | 020100 | [JavaScript: Monitoring — Usability Improvement for Portfolio Demo](Project_020100/README.md) |
+| 020101 | [JavaScript: Audit — Baseline Setup for School Lab](Project_020101/README.md) |
+| 020102 | [JavaScript: Audit — Automation for School Lab](Project_020102/README.md) |
+| 020103 | [JavaScript: Audit — Recovery for School Lab](Project_020103/README.md) |
+| 020104 | [JavaScript: Audit — Reporting for School Lab](Project_020104/README.md) |
+| 020105 | [JavaScript: Audit — Usability Improvement for School Lab](Project_020105/README.md) |
+| 020106 | [JavaScript: Audit — Baseline Setup for Small Business](Project_020106/README.md) |
+| 020107 | [JavaScript: Audit — Automation for Small Business](Project_020107/README.md) |
+| 020108 | [JavaScript: Audit — Recovery for Small Business](Project_020108/README.md) |
+| 020109 | [JavaScript: Audit — Reporting for Small Business](Project_020109/README.md) |
+| 020110 | [JavaScript: Audit — Usability Improvement for Small Business](Project_020110/README.md) |
+| 020111 | [JavaScript: Audit — Baseline Setup for Home Development](Project_020111/README.md) |
+| 020112 | [JavaScript: Audit — Automation for Home Development](Project_020112/README.md) |
+| 020113 | [JavaScript: Audit — Recovery for Home Development](Project_020113/README.md) |
+| 020114 | [JavaScript: Audit — Reporting for Home Development](Project_020114/README.md) |
+| 020115 | [JavaScript: Audit — Usability Improvement for Home Development](Project_020115/README.md) |
+| 020116 | [JavaScript: Audit — Baseline Setup for Public Dataset](Project_020116/README.md) |
+| 020117 | [JavaScript: Audit — Automation for Public Dataset](Project_020117/README.md) |
+| 020118 | [JavaScript: Audit — Recovery for Public Dataset](Project_020118/README.md) |
+| 020119 | [JavaScript: Audit — Reporting for Public Dataset](Project_020119/README.md) |
+| 020120 | [JavaScript: Audit — Usability Improvement for Public Dataset](Project_020120/README.md) |
 
 [Back to the portfolio home](../README.md)
