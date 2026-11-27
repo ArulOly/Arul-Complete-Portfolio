@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002838 | [Ubuntu: Documentation Generation — Recovery for Two-Node Lab](Project_002838/README.md) |
 | 002839 | [Ubuntu: Documentation Generation — Reporting for Two-Node Lab](Project_002839/README.md) |
 | 002840 | [Ubuntu: Documentation Generation — Usability Improvement for Two-Node Lab](Project_002840/README.md) |
+| 002841 | [Ubuntu: Documentation Generation — Baseline Setup for Help Desk](Project_002841/README.md) |
+| 002842 | [Ubuntu: Documentation Generation — Automation for Help Desk](Project_002842/README.md) |
+| 002843 | [Ubuntu: Documentation Generation — Recovery for Help Desk](Project_002843/README.md) |
+| 002844 | [Ubuntu: Documentation Generation — Reporting for Help Desk](Project_002844/README.md) |
+| 002845 | [Ubuntu: Documentation Generation — Usability Improvement for Help Desk](Project_002845/README.md) |
+| 002846 | [Ubuntu: Documentation Generation — Baseline Setup for Portfolio Demo](Project_002846/README.md) |
+| 002847 | [Ubuntu: Documentation Generation — Automation for Portfolio Demo](Project_002847/README.md) |
+| 002848 | [Ubuntu: Documentation Generation — Recovery for Portfolio Demo](Project_002848/README.md) |
+| 002849 | [Ubuntu: Documentation Generation — Reporting for Portfolio Demo](Project_002849/README.md) |
+| 002850 | [Ubuntu: Documentation Generation — Usability Improvement for Portfolio Demo](Project_002850/README.md) |
+| 002851 | [Ubuntu: Automation — Baseline Setup for School Lab](Project_002851/README.md) |
+| 002852 | [Ubuntu: Automation — Automation for School Lab](Project_002852/README.md) |
+| 002853 | [Ubuntu: Automation — Recovery for School Lab](Project_002853/README.md) |
+| 002854 | [Ubuntu: Automation — Reporting for School Lab](Project_002854/README.md) |
+| 002855 | [Ubuntu: Automation — Usability Improvement for School Lab](Project_002855/README.md) |
+| 002856 | [Ubuntu: Automation — Baseline Setup for Small Business](Project_002856/README.md) |
+| 002857 | [Ubuntu: Automation — Automation for Small Business](Project_002857/README.md) |
+| 002858 | [Ubuntu: Automation — Recovery for Small Business](Project_002858/README.md) |
+| 002859 | [Ubuntu: Automation — Reporting for Small Business](Project_002859/README.md) |
+| 002860 | [Ubuntu: Automation — Usability Improvement for Small Business](Project_002860/README.md) |
 
 [Back to the portfolio home](../README.md)
