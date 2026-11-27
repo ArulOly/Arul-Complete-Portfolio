@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002478 | [Ubuntu: Scheduled Reporting — Recovery for Offline Classroom](Project_002478/README.md) |
 | 002479 | [Ubuntu: Scheduled Reporting — Reporting for Offline Classroom](Project_002479/README.md) |
 | 002480 | [Ubuntu: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_002480/README.md) |
+| 002481 | [Ubuntu: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_002481/README.md) |
+| 002482 | [Ubuntu: Scheduled Reporting — Automation for Single-Host Lab](Project_002482/README.md) |
+| 002483 | [Ubuntu: Scheduled Reporting — Recovery for Single-Host Lab](Project_002483/README.md) |
+| 002484 | [Ubuntu: Scheduled Reporting — Reporting for Single-Host Lab](Project_002484/README.md) |
+| 002485 | [Ubuntu: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_002485/README.md) |
+| 002486 | [Ubuntu: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_002486/README.md) |
+| 002487 | [Ubuntu: Scheduled Reporting — Automation for Two-Node Lab](Project_002487/README.md) |
+| 002488 | [Ubuntu: Scheduled Reporting — Recovery for Two-Node Lab](Project_002488/README.md) |
+| 002489 | [Ubuntu: Scheduled Reporting — Reporting for Two-Node Lab](Project_002489/README.md) |
+| 002490 | [Ubuntu: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_002490/README.md) |
+| 002491 | [Ubuntu: Scheduled Reporting — Baseline Setup for Help Desk](Project_002491/README.md) |
+| 002492 | [Ubuntu: Scheduled Reporting — Automation for Help Desk](Project_002492/README.md) |
+| 002493 | [Ubuntu: Scheduled Reporting — Recovery for Help Desk](Project_002493/README.md) |
+| 002494 | [Ubuntu: Scheduled Reporting — Reporting for Help Desk](Project_002494/README.md) |
+| 002495 | [Ubuntu: Scheduled Reporting — Usability Improvement for Help Desk](Project_002495/README.md) |
+| 002496 | [Ubuntu: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_002496/README.md) |
+| 002497 | [Ubuntu: Scheduled Reporting — Automation for Portfolio Demo](Project_002497/README.md) |
+| 002498 | [Ubuntu: Scheduled Reporting — Recovery for Portfolio Demo](Project_002498/README.md) |
+| 002499 | [Ubuntu: Scheduled Reporting — Reporting for Portfolio Demo](Project_002499/README.md) |
+| 002500 | [Ubuntu: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_002500/README.md) |
 
 [Back to the portfolio home](../README.md)
