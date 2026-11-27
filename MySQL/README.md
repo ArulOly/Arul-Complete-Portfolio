@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026978 | [MySQL: Recovery Test — Recovery for Offline Classroom](Project_026978/README.md) |
 | 026979 | [MySQL: Recovery Test — Reporting for Offline Classroom](Project_026979/README.md) |
 | 026980 | [MySQL: Recovery Test — Usability Improvement for Offline Classroom](Project_026980/README.md) |
+| 026981 | [MySQL: Recovery Test — Baseline Setup for Single-Host Lab](Project_026981/README.md) |
+| 026982 | [MySQL: Recovery Test — Automation for Single-Host Lab](Project_026982/README.md) |
+| 026983 | [MySQL: Recovery Test — Recovery for Single-Host Lab](Project_026983/README.md) |
+| 026984 | [MySQL: Recovery Test — Reporting for Single-Host Lab](Project_026984/README.md) |
+| 026985 | [MySQL: Recovery Test — Usability Improvement for Single-Host Lab](Project_026985/README.md) |
+| 026986 | [MySQL: Recovery Test — Baseline Setup for Two-Node Lab](Project_026986/README.md) |
+| 026987 | [MySQL: Recovery Test — Automation for Two-Node Lab](Project_026987/README.md) |
+| 026988 | [MySQL: Recovery Test — Recovery for Two-Node Lab](Project_026988/README.md) |
+| 026989 | [MySQL: Recovery Test — Reporting for Two-Node Lab](Project_026989/README.md) |
+| 026990 | [MySQL: Recovery Test — Usability Improvement for Two-Node Lab](Project_026990/README.md) |
+| 026991 | [MySQL: Recovery Test — Baseline Setup for Help Desk](Project_026991/README.md) |
+| 026992 | [MySQL: Recovery Test — Automation for Help Desk](Project_026992/README.md) |
+| 026993 | [MySQL: Recovery Test — Recovery for Help Desk](Project_026993/README.md) |
+| 026994 | [MySQL: Recovery Test — Reporting for Help Desk](Project_026994/README.md) |
+| 026995 | [MySQL: Recovery Test — Usability Improvement for Help Desk](Project_026995/README.md) |
+| 026996 | [MySQL: Recovery Test — Baseline Setup for Portfolio Demo](Project_026996/README.md) |
+| 026997 | [MySQL: Recovery Test — Automation for Portfolio Demo](Project_026997/README.md) |
+| 026998 | [MySQL: Recovery Test — Recovery for Portfolio Demo](Project_026998/README.md) |
+| 026999 | [MySQL: Recovery Test — Reporting for Portfolio Demo](Project_026999/README.md) |
+| 027000 | [MySQL: Recovery Test — Usability Improvement for Portfolio Demo](Project_027000/README.md) |
 
 [Back to the portfolio home](../README.md)
