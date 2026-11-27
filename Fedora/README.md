@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004078 | [Fedora: Monitoring — Recovery for Offline Classroom](Project_004078/README.md) |
 | 004079 | [Fedora: Monitoring — Reporting for Offline Classroom](Project_004079/README.md) |
 | 004080 | [Fedora: Monitoring — Usability Improvement for Offline Classroom](Project_004080/README.md) |
+| 004081 | [Fedora: Monitoring — Baseline Setup for Single-Host Lab](Project_004081/README.md) |
+| 004082 | [Fedora: Monitoring — Automation for Single-Host Lab](Project_004082/README.md) |
+| 004083 | [Fedora: Monitoring — Recovery for Single-Host Lab](Project_004083/README.md) |
+| 004084 | [Fedora: Monitoring — Reporting for Single-Host Lab](Project_004084/README.md) |
+| 004085 | [Fedora: Monitoring — Usability Improvement for Single-Host Lab](Project_004085/README.md) |
+| 004086 | [Fedora: Monitoring — Baseline Setup for Two-Node Lab](Project_004086/README.md) |
+| 004087 | [Fedora: Monitoring — Automation for Two-Node Lab](Project_004087/README.md) |
+| 004088 | [Fedora: Monitoring — Recovery for Two-Node Lab](Project_004088/README.md) |
+| 004089 | [Fedora: Monitoring — Reporting for Two-Node Lab](Project_004089/README.md) |
+| 004090 | [Fedora: Monitoring — Usability Improvement for Two-Node Lab](Project_004090/README.md) |
+| 004091 | [Fedora: Monitoring — Baseline Setup for Help Desk](Project_004091/README.md) |
+| 004092 | [Fedora: Monitoring — Automation for Help Desk](Project_004092/README.md) |
+| 004093 | [Fedora: Monitoring — Recovery for Help Desk](Project_004093/README.md) |
+| 004094 | [Fedora: Monitoring — Reporting for Help Desk](Project_004094/README.md) |
+| 004095 | [Fedora: Monitoring — Usability Improvement for Help Desk](Project_004095/README.md) |
+| 004096 | [Fedora: Monitoring — Baseline Setup for Portfolio Demo](Project_004096/README.md) |
+| 004097 | [Fedora: Monitoring — Automation for Portfolio Demo](Project_004097/README.md) |
+| 004098 | [Fedora: Monitoring — Recovery for Portfolio Demo](Project_004098/README.md) |
+| 004099 | [Fedora: Monitoring — Reporting for Portfolio Demo](Project_004099/README.md) |
+| 004100 | [Fedora: Monitoring — Usability Improvement for Portfolio Demo](Project_004100/README.md) |
 
 [Back to the portfolio home](../README.md)
