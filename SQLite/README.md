@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028698 | [SQLite: Configuration Comparison — Recovery for Portfolio Demo](Project_028698/README.md) |
 | 028699 | [SQLite: Configuration Comparison — Reporting for Portfolio Demo](Project_028699/README.md) |
 | 028700 | [SQLite: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_028700/README.md) |
+| 028701 | [SQLite: Error Handling — Baseline Setup for School Lab](Project_028701/README.md) |
+| 028702 | [SQLite: Error Handling — Automation for School Lab](Project_028702/README.md) |
+| 028703 | [SQLite: Error Handling — Recovery for School Lab](Project_028703/README.md) |
+| 028704 | [SQLite: Error Handling — Reporting for School Lab](Project_028704/README.md) |
+| 028705 | [SQLite: Error Handling — Usability Improvement for School Lab](Project_028705/README.md) |
+| 028706 | [SQLite: Error Handling — Baseline Setup for Small Business](Project_028706/README.md) |
+| 028707 | [SQLite: Error Handling — Automation for Small Business](Project_028707/README.md) |
+| 028708 | [SQLite: Error Handling — Recovery for Small Business](Project_028708/README.md) |
+| 028709 | [SQLite: Error Handling — Reporting for Small Business](Project_028709/README.md) |
+| 028710 | [SQLite: Error Handling — Usability Improvement for Small Business](Project_028710/README.md) |
+| 028711 | [SQLite: Error Handling — Baseline Setup for Home Development](Project_028711/README.md) |
+| 028712 | [SQLite: Error Handling — Automation for Home Development](Project_028712/README.md) |
+| 028713 | [SQLite: Error Handling — Recovery for Home Development](Project_028713/README.md) |
+| 028714 | [SQLite: Error Handling — Reporting for Home Development](Project_028714/README.md) |
+| 028715 | [SQLite: Error Handling — Usability Improvement for Home Development](Project_028715/README.md) |
+| 028716 | [SQLite: Error Handling — Baseline Setup for Public Dataset](Project_028716/README.md) |
+| 028717 | [SQLite: Error Handling — Automation for Public Dataset](Project_028717/README.md) |
+| 028718 | [SQLite: Error Handling — Recovery for Public Dataset](Project_028718/README.md) |
+| 028719 | [SQLite: Error Handling — Reporting for Public Dataset](Project_028719/README.md) |
+| 028720 | [SQLite: Error Handling — Usability Improvement for Public Dataset](Project_028720/README.md) |
 
 [Back to the portfolio home](../README.md)
