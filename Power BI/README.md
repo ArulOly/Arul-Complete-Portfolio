@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032978 | [Power BI: Recovery Test — Recovery for Offline Classroom](Project_032978/README.md) |
 | 032979 | [Power BI: Recovery Test — Reporting for Offline Classroom](Project_032979/README.md) |
 | 032980 | [Power BI: Recovery Test — Usability Improvement for Offline Classroom](Project_032980/README.md) |
+| 032981 | [Power BI: Recovery Test — Baseline Setup for Single-Host Lab](Project_032981/README.md) |
+| 032982 | [Power BI: Recovery Test — Automation for Single-Host Lab](Project_032982/README.md) |
+| 032983 | [Power BI: Recovery Test — Recovery for Single-Host Lab](Project_032983/README.md) |
+| 032984 | [Power BI: Recovery Test — Reporting for Single-Host Lab](Project_032984/README.md) |
+| 032985 | [Power BI: Recovery Test — Usability Improvement for Single-Host Lab](Project_032985/README.md) |
+| 032986 | [Power BI: Recovery Test — Baseline Setup for Two-Node Lab](Project_032986/README.md) |
+| 032987 | [Power BI: Recovery Test — Automation for Two-Node Lab](Project_032987/README.md) |
+| 032988 | [Power BI: Recovery Test — Recovery for Two-Node Lab](Project_032988/README.md) |
+| 032989 | [Power BI: Recovery Test — Reporting for Two-Node Lab](Project_032989/README.md) |
+| 032990 | [Power BI: Recovery Test — Usability Improvement for Two-Node Lab](Project_032990/README.md) |
+| 032991 | [Power BI: Recovery Test — Baseline Setup for Help Desk](Project_032991/README.md) |
+| 032992 | [Power BI: Recovery Test — Automation for Help Desk](Project_032992/README.md) |
+| 032993 | [Power BI: Recovery Test — Recovery for Help Desk](Project_032993/README.md) |
+| 032994 | [Power BI: Recovery Test — Reporting for Help Desk](Project_032994/README.md) |
+| 032995 | [Power BI: Recovery Test — Usability Improvement for Help Desk](Project_032995/README.md) |
+| 032996 | [Power BI: Recovery Test — Baseline Setup for Portfolio Demo](Project_032996/README.md) |
+| 032997 | [Power BI: Recovery Test — Automation for Portfolio Demo](Project_032997/README.md) |
+| 032998 | [Power BI: Recovery Test — Recovery for Portfolio Demo](Project_032998/README.md) |
+| 032999 | [Power BI: Recovery Test — Reporting for Portfolio Demo](Project_032999/README.md) |
+| 033000 | [Power BI: Recovery Test — Usability Improvement for Portfolio Demo](Project_033000/README.md) |
 
 [Back to the portfolio home](../README.md)
