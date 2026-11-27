@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022378 | [Java: Dashboard — Recovery for Offline Classroom](Project_022378/README.md) |
 | 022379 | [Java: Dashboard — Reporting for Offline Classroom](Project_022379/README.md) |
 | 022380 | [Java: Dashboard — Usability Improvement for Offline Classroom](Project_022380/README.md) |
+| 022381 | [Java: Dashboard — Baseline Setup for Single-Host Lab](Project_022381/README.md) |
+| 022382 | [Java: Dashboard — Automation for Single-Host Lab](Project_022382/README.md) |
+| 022383 | [Java: Dashboard — Recovery for Single-Host Lab](Project_022383/README.md) |
+| 022384 | [Java: Dashboard — Reporting for Single-Host Lab](Project_022384/README.md) |
+| 022385 | [Java: Dashboard — Usability Improvement for Single-Host Lab](Project_022385/README.md) |
+| 022386 | [Java: Dashboard — Baseline Setup for Two-Node Lab](Project_022386/README.md) |
+| 022387 | [Java: Dashboard — Automation for Two-Node Lab](Project_022387/README.md) |
+| 022388 | [Java: Dashboard — Recovery for Two-Node Lab](Project_022388/README.md) |
+| 022389 | [Java: Dashboard — Reporting for Two-Node Lab](Project_022389/README.md) |
+| 022390 | [Java: Dashboard — Usability Improvement for Two-Node Lab](Project_022390/README.md) |
+| 022391 | [Java: Dashboard — Baseline Setup for Help Desk](Project_022391/README.md) |
+| 022392 | [Java: Dashboard — Automation for Help Desk](Project_022392/README.md) |
+| 022393 | [Java: Dashboard — Recovery for Help Desk](Project_022393/README.md) |
+| 022394 | [Java: Dashboard — Reporting for Help Desk](Project_022394/README.md) |
+| 022395 | [Java: Dashboard — Usability Improvement for Help Desk](Project_022395/README.md) |
+| 022396 | [Java: Dashboard — Baseline Setup for Portfolio Demo](Project_022396/README.md) |
+| 022397 | [Java: Dashboard — Automation for Portfolio Demo](Project_022397/README.md) |
+| 022398 | [Java: Dashboard — Recovery for Portfolio Demo](Project_022398/README.md) |
+| 022399 | [Java: Dashboard — Reporting for Portfolio Demo](Project_022399/README.md) |
+| 022400 | [Java: Dashboard — Usability Improvement for Portfolio Demo](Project_022400/README.md) |
 
 [Back to the portfolio home](../README.md)
