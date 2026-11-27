@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048298 | [Flask: Data Import — Recovery for Portfolio Demo](Project_048298/README.md) |
 | 048299 | [Flask: Data Import — Reporting for Portfolio Demo](Project_048299/README.md) |
 | 048300 | [Flask: Data Import — Usability Improvement for Portfolio Demo](Project_048300/README.md) |
+| 048301 | [Flask: Data Export — Baseline Setup for School Lab](Project_048301/README.md) |
+| 048302 | [Flask: Data Export — Automation for School Lab](Project_048302/README.md) |
+| 048303 | [Flask: Data Export — Recovery for School Lab](Project_048303/README.md) |
+| 048304 | [Flask: Data Export — Reporting for School Lab](Project_048304/README.md) |
+| 048305 | [Flask: Data Export — Usability Improvement for School Lab](Project_048305/README.md) |
+| 048306 | [Flask: Data Export — Baseline Setup for Small Business](Project_048306/README.md) |
+| 048307 | [Flask: Data Export — Automation for Small Business](Project_048307/README.md) |
+| 048308 | [Flask: Data Export — Recovery for Small Business](Project_048308/README.md) |
+| 048309 | [Flask: Data Export — Reporting for Small Business](Project_048309/README.md) |
+| 048310 | [Flask: Data Export — Usability Improvement for Small Business](Project_048310/README.md) |
+| 048311 | [Flask: Data Export — Baseline Setup for Home Development](Project_048311/README.md) |
+| 048312 | [Flask: Data Export — Automation for Home Development](Project_048312/README.md) |
+| 048313 | [Flask: Data Export — Recovery for Home Development](Project_048313/README.md) |
+| 048314 | [Flask: Data Export — Reporting for Home Development](Project_048314/README.md) |
+| 048315 | [Flask: Data Export — Usability Improvement for Home Development](Project_048315/README.md) |
+| 048316 | [Flask: Data Export — Baseline Setup for Public Dataset](Project_048316/README.md) |
+| 048317 | [Flask: Data Export — Automation for Public Dataset](Project_048317/README.md) |
+| 048318 | [Flask: Data Export — Recovery for Public Dataset](Project_048318/README.md) |
+| 048319 | [Flask: Data Export — Reporting for Public Dataset](Project_048319/README.md) |
+| 048320 | [Flask: Data Export — Usability Improvement for Public Dataset](Project_048320/README.md) |
 
 [Back to the portfolio home](../README.md)
