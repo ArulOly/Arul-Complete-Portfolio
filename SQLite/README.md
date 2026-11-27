@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028638 | [SQLite: Service Check — Recovery for Two-Node Lab](Project_028638/README.md) |
 | 028639 | [SQLite: Service Check — Reporting for Two-Node Lab](Project_028639/README.md) |
 | 028640 | [SQLite: Service Check — Usability Improvement for Two-Node Lab](Project_028640/README.md) |
+| 028641 | [SQLite: Service Check — Baseline Setup for Help Desk](Project_028641/README.md) |
+| 028642 | [SQLite: Service Check — Automation for Help Desk](Project_028642/README.md) |
+| 028643 | [SQLite: Service Check — Recovery for Help Desk](Project_028643/README.md) |
+| 028644 | [SQLite: Service Check — Reporting for Help Desk](Project_028644/README.md) |
+| 028645 | [SQLite: Service Check — Usability Improvement for Help Desk](Project_028645/README.md) |
+| 028646 | [SQLite: Service Check — Baseline Setup for Portfolio Demo](Project_028646/README.md) |
+| 028647 | [SQLite: Service Check — Automation for Portfolio Demo](Project_028647/README.md) |
+| 028648 | [SQLite: Service Check — Recovery for Portfolio Demo](Project_028648/README.md) |
+| 028649 | [SQLite: Service Check — Reporting for Portfolio Demo](Project_028649/README.md) |
+| 028650 | [SQLite: Service Check — Usability Improvement for Portfolio Demo](Project_028650/README.md) |
+| 028651 | [SQLite: Configuration Comparison — Baseline Setup for School Lab](Project_028651/README.md) |
+| 028652 | [SQLite: Configuration Comparison — Automation for School Lab](Project_028652/README.md) |
+| 028653 | [SQLite: Configuration Comparison — Recovery for School Lab](Project_028653/README.md) |
+| 028654 | [SQLite: Configuration Comparison — Reporting for School Lab](Project_028654/README.md) |
+| 028655 | [SQLite: Configuration Comparison — Usability Improvement for School Lab](Project_028655/README.md) |
+| 028656 | [SQLite: Configuration Comparison — Baseline Setup for Small Business](Project_028656/README.md) |
+| 028657 | [SQLite: Configuration Comparison — Automation for Small Business](Project_028657/README.md) |
+| 028658 | [SQLite: Configuration Comparison — Recovery for Small Business](Project_028658/README.md) |
+| 028659 | [SQLite: Configuration Comparison — Reporting for Small Business](Project_028659/README.md) |
+| 028660 | [SQLite: Configuration Comparison — Usability Improvement for Small Business](Project_028660/README.md) |
 
 [Back to the portfolio home](../README.md)
