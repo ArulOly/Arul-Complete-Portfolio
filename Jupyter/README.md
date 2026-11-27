@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033218 | [Jupyter: Backup Verification — Recovery for Public Dataset](Project_033218/README.md) |
 | 033219 | [Jupyter: Backup Verification — Reporting for Public Dataset](Project_033219/README.md) |
 | 033220 | [Jupyter: Backup Verification — Usability Improvement for Public Dataset](Project_033220/README.md) |
+| 033221 | [Jupyter: Backup Verification — Baseline Setup for Branch Office Simulator](Project_033221/README.md) |
+| 033222 | [Jupyter: Backup Verification — Automation for Branch Office Simulator](Project_033222/README.md) |
+| 033223 | [Jupyter: Backup Verification — Recovery for Branch Office Simulator](Project_033223/README.md) |
+| 033224 | [Jupyter: Backup Verification — Reporting for Branch Office Simulator](Project_033224/README.md) |
+| 033225 | [Jupyter: Backup Verification — Usability Improvement for Branch Office Simulator](Project_033225/README.md) |
+| 033226 | [Jupyter: Backup Verification — Baseline Setup for Offline Classroom](Project_033226/README.md) |
+| 033227 | [Jupyter: Backup Verification — Automation for Offline Classroom](Project_033227/README.md) |
+| 033228 | [Jupyter: Backup Verification — Recovery for Offline Classroom](Project_033228/README.md) |
+| 033229 | [Jupyter: Backup Verification — Reporting for Offline Classroom](Project_033229/README.md) |
+| 033230 | [Jupyter: Backup Verification — Usability Improvement for Offline Classroom](Project_033230/README.md) |
+| 033231 | [Jupyter: Backup Verification — Baseline Setup for Single-Host Lab](Project_033231/README.md) |
+| 033232 | [Jupyter: Backup Verification — Automation for Single-Host Lab](Project_033232/README.md) |
+| 033233 | [Jupyter: Backup Verification — Recovery for Single-Host Lab](Project_033233/README.md) |
+| 033234 | [Jupyter: Backup Verification — Reporting for Single-Host Lab](Project_033234/README.md) |
+| 033235 | [Jupyter: Backup Verification — Usability Improvement for Single-Host Lab](Project_033235/README.md) |
+| 033236 | [Jupyter: Backup Verification — Baseline Setup for Two-Node Lab](Project_033236/README.md) |
+| 033237 | [Jupyter: Backup Verification — Automation for Two-Node Lab](Project_033237/README.md) |
+| 033238 | [Jupyter: Backup Verification — Recovery for Two-Node Lab](Project_033238/README.md) |
+| 033239 | [Jupyter: Backup Verification — Reporting for Two-Node Lab](Project_033239/README.md) |
+| 033240 | [Jupyter: Backup Verification — Usability Improvement for Two-Node Lab](Project_033240/README.md) |
 
 [Back to the portfolio home](../README.md)
