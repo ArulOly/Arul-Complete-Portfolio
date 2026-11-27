@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034858 | [Scikit-learn: Automation — Recovery for Small Business](Project_034858/README.md) |
 | 034859 | [Scikit-learn: Automation — Reporting for Small Business](Project_034859/README.md) |
 | 034860 | [Scikit-learn: Automation — Usability Improvement for Small Business](Project_034860/README.md) |
+| 034861 | [Scikit-learn: Automation — Baseline Setup for Home Development](Project_034861/README.md) |
+| 034862 | [Scikit-learn: Automation — Automation for Home Development](Project_034862/README.md) |
+| 034863 | [Scikit-learn: Automation — Recovery for Home Development](Project_034863/README.md) |
+| 034864 | [Scikit-learn: Automation — Reporting for Home Development](Project_034864/README.md) |
+| 034865 | [Scikit-learn: Automation — Usability Improvement for Home Development](Project_034865/README.md) |
+| 034866 | [Scikit-learn: Automation — Baseline Setup for Public Dataset](Project_034866/README.md) |
+| 034867 | [Scikit-learn: Automation — Automation for Public Dataset](Project_034867/README.md) |
+| 034868 | [Scikit-learn: Automation — Recovery for Public Dataset](Project_034868/README.md) |
+| 034869 | [Scikit-learn: Automation — Reporting for Public Dataset](Project_034869/README.md) |
+| 034870 | [Scikit-learn: Automation — Usability Improvement for Public Dataset](Project_034870/README.md) |
+| 034871 | [Scikit-learn: Automation — Baseline Setup for Branch Office Simulator](Project_034871/README.md) |
+| 034872 | [Scikit-learn: Automation — Automation for Branch Office Simulator](Project_034872/README.md) |
+| 034873 | [Scikit-learn: Automation — Recovery for Branch Office Simulator](Project_034873/README.md) |
+| 034874 | [Scikit-learn: Automation — Reporting for Branch Office Simulator](Project_034874/README.md) |
+| 034875 | [Scikit-learn: Automation — Usability Improvement for Branch Office Simulator](Project_034875/README.md) |
+| 034876 | [Scikit-learn: Automation — Baseline Setup for Offline Classroom](Project_034876/README.md) |
+| 034877 | [Scikit-learn: Automation — Automation for Offline Classroom](Project_034877/README.md) |
+| 034878 | [Scikit-learn: Automation — Recovery for Offline Classroom](Project_034878/README.md) |
+| 034879 | [Scikit-learn: Automation — Reporting for Offline Classroom](Project_034879/README.md) |
+| 034880 | [Scikit-learn: Automation — Usability Improvement for Offline Classroom](Project_034880/README.md) |
 
 [Back to the portfolio home](../README.md)
