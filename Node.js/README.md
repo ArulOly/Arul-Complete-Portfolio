@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024078 | [Node.js: Monitoring — Recovery for Offline Classroom](Project_024078/README.md) |
 | 024079 | [Node.js: Monitoring — Reporting for Offline Classroom](Project_024079/README.md) |
 | 024080 | [Node.js: Monitoring — Usability Improvement for Offline Classroom](Project_024080/README.md) |
+| 024081 | [Node.js: Monitoring — Baseline Setup for Single-Host Lab](Project_024081/README.md) |
+| 024082 | [Node.js: Monitoring — Automation for Single-Host Lab](Project_024082/README.md) |
+| 024083 | [Node.js: Monitoring — Recovery for Single-Host Lab](Project_024083/README.md) |
+| 024084 | [Node.js: Monitoring — Reporting for Single-Host Lab](Project_024084/README.md) |
+| 024085 | [Node.js: Monitoring — Usability Improvement for Single-Host Lab](Project_024085/README.md) |
+| 024086 | [Node.js: Monitoring — Baseline Setup for Two-Node Lab](Project_024086/README.md) |
+| 024087 | [Node.js: Monitoring — Automation for Two-Node Lab](Project_024087/README.md) |
+| 024088 | [Node.js: Monitoring — Recovery for Two-Node Lab](Project_024088/README.md) |
+| 024089 | [Node.js: Monitoring — Reporting for Two-Node Lab](Project_024089/README.md) |
+| 024090 | [Node.js: Monitoring — Usability Improvement for Two-Node Lab](Project_024090/README.md) |
+| 024091 | [Node.js: Monitoring — Baseline Setup for Help Desk](Project_024091/README.md) |
+| 024092 | [Node.js: Monitoring — Automation for Help Desk](Project_024092/README.md) |
+| 024093 | [Node.js: Monitoring — Recovery for Help Desk](Project_024093/README.md) |
+| 024094 | [Node.js: Monitoring — Reporting for Help Desk](Project_024094/README.md) |
+| 024095 | [Node.js: Monitoring — Usability Improvement for Help Desk](Project_024095/README.md) |
+| 024096 | [Node.js: Monitoring — Baseline Setup for Portfolio Demo](Project_024096/README.md) |
+| 024097 | [Node.js: Monitoring — Automation for Portfolio Demo](Project_024097/README.md) |
+| 024098 | [Node.js: Monitoring — Recovery for Portfolio Demo](Project_024098/README.md) |
+| 024099 | [Node.js: Monitoring — Reporting for Portfolio Demo](Project_024099/README.md) |
+| 024100 | [Node.js: Monitoring — Usability Improvement for Portfolio Demo](Project_024100/README.md) |
 
 [Back to the portfolio home](../README.md)
