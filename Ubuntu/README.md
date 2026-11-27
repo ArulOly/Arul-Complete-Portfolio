@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002078 | [Ubuntu: Monitoring — Recovery for Offline Classroom](Project_002078/README.md) |
 | 002079 | [Ubuntu: Monitoring — Reporting for Offline Classroom](Project_002079/README.md) |
 | 002080 | [Ubuntu: Monitoring — Usability Improvement for Offline Classroom](Project_002080/README.md) |
+| 002081 | [Ubuntu: Monitoring — Baseline Setup for Single-Host Lab](Project_002081/README.md) |
+| 002082 | [Ubuntu: Monitoring — Automation for Single-Host Lab](Project_002082/README.md) |
+| 002083 | [Ubuntu: Monitoring — Recovery for Single-Host Lab](Project_002083/README.md) |
+| 002084 | [Ubuntu: Monitoring — Reporting for Single-Host Lab](Project_002084/README.md) |
+| 002085 | [Ubuntu: Monitoring — Usability Improvement for Single-Host Lab](Project_002085/README.md) |
+| 002086 | [Ubuntu: Monitoring — Baseline Setup for Two-Node Lab](Project_002086/README.md) |
+| 002087 | [Ubuntu: Monitoring — Automation for Two-Node Lab](Project_002087/README.md) |
+| 002088 | [Ubuntu: Monitoring — Recovery for Two-Node Lab](Project_002088/README.md) |
+| 002089 | [Ubuntu: Monitoring — Reporting for Two-Node Lab](Project_002089/README.md) |
+| 002090 | [Ubuntu: Monitoring — Usability Improvement for Two-Node Lab](Project_002090/README.md) |
+| 002091 | [Ubuntu: Monitoring — Baseline Setup for Help Desk](Project_002091/README.md) |
+| 002092 | [Ubuntu: Monitoring — Automation for Help Desk](Project_002092/README.md) |
+| 002093 | [Ubuntu: Monitoring — Recovery for Help Desk](Project_002093/README.md) |
+| 002094 | [Ubuntu: Monitoring — Reporting for Help Desk](Project_002094/README.md) |
+| 002095 | [Ubuntu: Monitoring — Usability Improvement for Help Desk](Project_002095/README.md) |
+| 002096 | [Ubuntu: Monitoring — Baseline Setup for Portfolio Demo](Project_002096/README.md) |
+| 002097 | [Ubuntu: Monitoring — Automation for Portfolio Demo](Project_002097/README.md) |
+| 002098 | [Ubuntu: Monitoring — Recovery for Portfolio Demo](Project_002098/README.md) |
+| 002099 | [Ubuntu: Monitoring — Reporting for Portfolio Demo](Project_002099/README.md) |
+| 002100 | [Ubuntu: Monitoring — Usability Improvement for Portfolio Demo](Project_002100/README.md) |
 
 [Back to the portfolio home](../README.md)
