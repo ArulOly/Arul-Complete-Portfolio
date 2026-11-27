@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023858 | [HTML CSS: Automation — Recovery for Small Business](Project_023858/README.md) |
 | 023859 | [HTML CSS: Automation — Reporting for Small Business](Project_023859/README.md) |
 | 023860 | [HTML CSS: Automation — Usability Improvement for Small Business](Project_023860/README.md) |
+| 023861 | [HTML CSS: Automation — Baseline Setup for Home Development](Project_023861/README.md) |
+| 023862 | [HTML CSS: Automation — Automation for Home Development](Project_023862/README.md) |
+| 023863 | [HTML CSS: Automation — Recovery for Home Development](Project_023863/README.md) |
+| 023864 | [HTML CSS: Automation — Reporting for Home Development](Project_023864/README.md) |
+| 023865 | [HTML CSS: Automation — Usability Improvement for Home Development](Project_023865/README.md) |
+| 023866 | [HTML CSS: Automation — Baseline Setup for Public Dataset](Project_023866/README.md) |
+| 023867 | [HTML CSS: Automation — Automation for Public Dataset](Project_023867/README.md) |
+| 023868 | [HTML CSS: Automation — Recovery for Public Dataset](Project_023868/README.md) |
+| 023869 | [HTML CSS: Automation — Reporting for Public Dataset](Project_023869/README.md) |
+| 023870 | [HTML CSS: Automation — Usability Improvement for Public Dataset](Project_023870/README.md) |
+| 023871 | [HTML CSS: Automation — Baseline Setup for Branch Office Simulator](Project_023871/README.md) |
+| 023872 | [HTML CSS: Automation — Automation for Branch Office Simulator](Project_023872/README.md) |
+| 023873 | [HTML CSS: Automation — Recovery for Branch Office Simulator](Project_023873/README.md) |
+| 023874 | [HTML CSS: Automation — Reporting for Branch Office Simulator](Project_023874/README.md) |
+| 023875 | [HTML CSS: Automation — Usability Improvement for Branch Office Simulator](Project_023875/README.md) |
+| 023876 | [HTML CSS: Automation — Baseline Setup for Offline Classroom](Project_023876/README.md) |
+| 023877 | [HTML CSS: Automation — Automation for Offline Classroom](Project_023877/README.md) |
+| 023878 | [HTML CSS: Automation — Recovery for Offline Classroom](Project_023878/README.md) |
+| 023879 | [HTML CSS: Automation — Reporting for Offline Classroom](Project_023879/README.md) |
+| 023880 | [HTML CSS: Automation — Usability Improvement for Offline Classroom](Project_023880/README.md) |
 
 [Back to the portfolio home](../README.md)
