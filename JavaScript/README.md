@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020798 | [JavaScript: Data Validation — Recovery for Portfolio Demo](Project_020798/README.md) |
 | 020799 | [JavaScript: Data Validation — Reporting for Portfolio Demo](Project_020799/README.md) |
 | 020800 | [JavaScript: Data Validation — Usability Improvement for Portfolio Demo](Project_020800/README.md) |
+| 020801 | [JavaScript: Documentation Generation — Baseline Setup for School Lab](Project_020801/README.md) |
+| 020802 | [JavaScript: Documentation Generation — Automation for School Lab](Project_020802/README.md) |
+| 020803 | [JavaScript: Documentation Generation — Recovery for School Lab](Project_020803/README.md) |
+| 020804 | [JavaScript: Documentation Generation — Reporting for School Lab](Project_020804/README.md) |
+| 020805 | [JavaScript: Documentation Generation — Usability Improvement for School Lab](Project_020805/README.md) |
+| 020806 | [JavaScript: Documentation Generation — Baseline Setup for Small Business](Project_020806/README.md) |
+| 020807 | [JavaScript: Documentation Generation — Automation for Small Business](Project_020807/README.md) |
+| 020808 | [JavaScript: Documentation Generation — Recovery for Small Business](Project_020808/README.md) |
+| 020809 | [JavaScript: Documentation Generation — Reporting for Small Business](Project_020809/README.md) |
+| 020810 | [JavaScript: Documentation Generation — Usability Improvement for Small Business](Project_020810/README.md) |
+| 020811 | [JavaScript: Documentation Generation — Baseline Setup for Home Development](Project_020811/README.md) |
+| 020812 | [JavaScript: Documentation Generation — Automation for Home Development](Project_020812/README.md) |
+| 020813 | [JavaScript: Documentation Generation — Recovery for Home Development](Project_020813/README.md) |
+| 020814 | [JavaScript: Documentation Generation — Reporting for Home Development](Project_020814/README.md) |
+| 020815 | [JavaScript: Documentation Generation — Usability Improvement for Home Development](Project_020815/README.md) |
+| 020816 | [JavaScript: Documentation Generation — Baseline Setup for Public Dataset](Project_020816/README.md) |
+| 020817 | [JavaScript: Documentation Generation — Automation for Public Dataset](Project_020817/README.md) |
+| 020818 | [JavaScript: Documentation Generation — Recovery for Public Dataset](Project_020818/README.md) |
+| 020819 | [JavaScript: Documentation Generation — Reporting for Public Dataset](Project_020819/README.md) |
+| 020820 | [JavaScript: Documentation Generation — Usability Improvement for Public Dataset](Project_020820/README.md) |
 
 [Back to the portfolio home](../README.md)
