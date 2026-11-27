@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024578 | [Node.js: Performance Baseline — Recovery for Offline Classroom](Project_024578/README.md) |
 | 024579 | [Node.js: Performance Baseline — Reporting for Offline Classroom](Project_024579/README.md) |
 | 024580 | [Node.js: Performance Baseline — Usability Improvement for Offline Classroom](Project_024580/README.md) |
+| 024581 | [Node.js: Performance Baseline — Baseline Setup for Single-Host Lab](Project_024581/README.md) |
+| 024582 | [Node.js: Performance Baseline — Automation for Single-Host Lab](Project_024582/README.md) |
+| 024583 | [Node.js: Performance Baseline — Recovery for Single-Host Lab](Project_024583/README.md) |
+| 024584 | [Node.js: Performance Baseline — Reporting for Single-Host Lab](Project_024584/README.md) |
+| 024585 | [Node.js: Performance Baseline — Usability Improvement for Single-Host Lab](Project_024585/README.md) |
+| 024586 | [Node.js: Performance Baseline — Baseline Setup for Two-Node Lab](Project_024586/README.md) |
+| 024587 | [Node.js: Performance Baseline — Automation for Two-Node Lab](Project_024587/README.md) |
+| 024588 | [Node.js: Performance Baseline — Recovery for Two-Node Lab](Project_024588/README.md) |
+| 024589 | [Node.js: Performance Baseline — Reporting for Two-Node Lab](Project_024589/README.md) |
+| 024590 | [Node.js: Performance Baseline — Usability Improvement for Two-Node Lab](Project_024590/README.md) |
+| 024591 | [Node.js: Performance Baseline — Baseline Setup for Help Desk](Project_024591/README.md) |
+| 024592 | [Node.js: Performance Baseline — Automation for Help Desk](Project_024592/README.md) |
+| 024593 | [Node.js: Performance Baseline — Recovery for Help Desk](Project_024593/README.md) |
+| 024594 | [Node.js: Performance Baseline — Reporting for Help Desk](Project_024594/README.md) |
+| 024595 | [Node.js: Performance Baseline — Usability Improvement for Help Desk](Project_024595/README.md) |
+| 024596 | [Node.js: Performance Baseline — Baseline Setup for Portfolio Demo](Project_024596/README.md) |
+| 024597 | [Node.js: Performance Baseline — Automation for Portfolio Demo](Project_024597/README.md) |
+| 024598 | [Node.js: Performance Baseline — Recovery for Portfolio Demo](Project_024598/README.md) |
+| 024599 | [Node.js: Performance Baseline — Reporting for Portfolio Demo](Project_024599/README.md) |
+| 024600 | [Node.js: Performance Baseline — Usability Improvement for Portfolio Demo](Project_024600/README.md) |
 
 [Back to the portfolio home](../README.md)
