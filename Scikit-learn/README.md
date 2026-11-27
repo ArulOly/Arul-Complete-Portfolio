@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034618 | [Scikit-learn: Service Check — Recovery for Public Dataset](Project_034618/README.md) |
 | 034619 | [Scikit-learn: Service Check — Reporting for Public Dataset](Project_034619/README.md) |
 | 034620 | [Scikit-learn: Service Check — Usability Improvement for Public Dataset](Project_034620/README.md) |
+| 034621 | [Scikit-learn: Service Check — Baseline Setup for Branch Office Simulator](Project_034621/README.md) |
+| 034622 | [Scikit-learn: Service Check — Automation for Branch Office Simulator](Project_034622/README.md) |
+| 034623 | [Scikit-learn: Service Check — Recovery for Branch Office Simulator](Project_034623/README.md) |
+| 034624 | [Scikit-learn: Service Check — Reporting for Branch Office Simulator](Project_034624/README.md) |
+| 034625 | [Scikit-learn: Service Check — Usability Improvement for Branch Office Simulator](Project_034625/README.md) |
+| 034626 | [Scikit-learn: Service Check — Baseline Setup for Offline Classroom](Project_034626/README.md) |
+| 034627 | [Scikit-learn: Service Check — Automation for Offline Classroom](Project_034627/README.md) |
+| 034628 | [Scikit-learn: Service Check — Recovery for Offline Classroom](Project_034628/README.md) |
+| 034629 | [Scikit-learn: Service Check — Reporting for Offline Classroom](Project_034629/README.md) |
+| 034630 | [Scikit-learn: Service Check — Usability Improvement for Offline Classroom](Project_034630/README.md) |
+| 034631 | [Scikit-learn: Service Check — Baseline Setup for Single-Host Lab](Project_034631/README.md) |
+| 034632 | [Scikit-learn: Service Check — Automation for Single-Host Lab](Project_034632/README.md) |
+| 034633 | [Scikit-learn: Service Check — Recovery for Single-Host Lab](Project_034633/README.md) |
+| 034634 | [Scikit-learn: Service Check — Reporting for Single-Host Lab](Project_034634/README.md) |
+| 034635 | [Scikit-learn: Service Check — Usability Improvement for Single-Host Lab](Project_034635/README.md) |
+| 034636 | [Scikit-learn: Service Check — Baseline Setup for Two-Node Lab](Project_034636/README.md) |
+| 034637 | [Scikit-learn: Service Check — Automation for Two-Node Lab](Project_034637/README.md) |
+| 034638 | [Scikit-learn: Service Check — Recovery for Two-Node Lab](Project_034638/README.md) |
+| 034639 | [Scikit-learn: Service Check — Reporting for Two-Node Lab](Project_034639/README.md) |
+| 034640 | [Scikit-learn: Service Check — Usability Improvement for Two-Node Lab](Project_034640/README.md) |
 
 [Back to the portfolio home](../README.md)
