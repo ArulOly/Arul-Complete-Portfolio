@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003138 | [Debian: Audit — Recovery for Two-Node Lab](Project_003138/README.md) |
 | 003139 | [Debian: Audit — Reporting for Two-Node Lab](Project_003139/README.md) |
 | 003140 | [Debian: Audit — Usability Improvement for Two-Node Lab](Project_003140/README.md) |
+| 003141 | [Debian: Audit — Baseline Setup for Help Desk](Project_003141/README.md) |
+| 003142 | [Debian: Audit — Automation for Help Desk](Project_003142/README.md) |
+| 003143 | [Debian: Audit — Recovery for Help Desk](Project_003143/README.md) |
+| 003144 | [Debian: Audit — Reporting for Help Desk](Project_003144/README.md) |
+| 003145 | [Debian: Audit — Usability Improvement for Help Desk](Project_003145/README.md) |
+| 003146 | [Debian: Audit — Baseline Setup for Portfolio Demo](Project_003146/README.md) |
+| 003147 | [Debian: Audit — Automation for Portfolio Demo](Project_003147/README.md) |
+| 003148 | [Debian: Audit — Recovery for Portfolio Demo](Project_003148/README.md) |
+| 003149 | [Debian: Audit — Reporting for Portfolio Demo](Project_003149/README.md) |
+| 003150 | [Debian: Audit — Usability Improvement for Portfolio Demo](Project_003150/README.md) |
+| 003151 | [Debian: Log Analysis — Baseline Setup for School Lab](Project_003151/README.md) |
+| 003152 | [Debian: Log Analysis — Automation for School Lab](Project_003152/README.md) |
+| 003153 | [Debian: Log Analysis — Recovery for School Lab](Project_003153/README.md) |
+| 003154 | [Debian: Log Analysis — Reporting for School Lab](Project_003154/README.md) |
+| 003155 | [Debian: Log Analysis — Usability Improvement for School Lab](Project_003155/README.md) |
+| 003156 | [Debian: Log Analysis — Baseline Setup for Small Business](Project_003156/README.md) |
+| 003157 | [Debian: Log Analysis — Automation for Small Business](Project_003157/README.md) |
+| 003158 | [Debian: Log Analysis — Recovery for Small Business](Project_003158/README.md) |
+| 003159 | [Debian: Log Analysis — Reporting for Small Business](Project_003159/README.md) |
+| 003160 | [Debian: Log Analysis — Usability Improvement for Small Business](Project_003160/README.md) |
 
 [Back to the portfolio home](../README.md)
