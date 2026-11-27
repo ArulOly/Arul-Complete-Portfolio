@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033418 | [Jupyter: Alerting — Recovery for Public Dataset](Project_033418/README.md) |
 | 033419 | [Jupyter: Alerting — Reporting for Public Dataset](Project_033419/README.md) |
 | 033420 | [Jupyter: Alerting — Usability Improvement for Public Dataset](Project_033420/README.md) |
+| 033421 | [Jupyter: Alerting — Baseline Setup for Branch Office Simulator](Project_033421/README.md) |
+| 033422 | [Jupyter: Alerting — Automation for Branch Office Simulator](Project_033422/README.md) |
+| 033423 | [Jupyter: Alerting — Recovery for Branch Office Simulator](Project_033423/README.md) |
+| 033424 | [Jupyter: Alerting — Reporting for Branch Office Simulator](Project_033424/README.md) |
+| 033425 | [Jupyter: Alerting — Usability Improvement for Branch Office Simulator](Project_033425/README.md) |
+| 033426 | [Jupyter: Alerting — Baseline Setup for Offline Classroom](Project_033426/README.md) |
+| 033427 | [Jupyter: Alerting — Automation for Offline Classroom](Project_033427/README.md) |
+| 033428 | [Jupyter: Alerting — Recovery for Offline Classroom](Project_033428/README.md) |
+| 033429 | [Jupyter: Alerting — Reporting for Offline Classroom](Project_033429/README.md) |
+| 033430 | [Jupyter: Alerting — Usability Improvement for Offline Classroom](Project_033430/README.md) |
+| 033431 | [Jupyter: Alerting — Baseline Setup for Single-Host Lab](Project_033431/README.md) |
+| 033432 | [Jupyter: Alerting — Automation for Single-Host Lab](Project_033432/README.md) |
+| 033433 | [Jupyter: Alerting — Recovery for Single-Host Lab](Project_033433/README.md) |
+| 033434 | [Jupyter: Alerting — Reporting for Single-Host Lab](Project_033434/README.md) |
+| 033435 | [Jupyter: Alerting — Usability Improvement for Single-Host Lab](Project_033435/README.md) |
+| 033436 | [Jupyter: Alerting — Baseline Setup for Two-Node Lab](Project_033436/README.md) |
+| 033437 | [Jupyter: Alerting — Automation for Two-Node Lab](Project_033437/README.md) |
+| 033438 | [Jupyter: Alerting — Recovery for Two-Node Lab](Project_033438/README.md) |
+| 033439 | [Jupyter: Alerting — Reporting for Two-Node Lab](Project_033439/README.md) |
+| 033440 | [Jupyter: Alerting — Usability Improvement for Two-Node Lab](Project_033440/README.md) |
 
 [Back to the portfolio home](../README.md)
