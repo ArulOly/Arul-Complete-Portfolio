@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024538 | [Node.js: Access Review — Recovery for Two-Node Lab](Project_024538/README.md) |
 | 024539 | [Node.js: Access Review — Reporting for Two-Node Lab](Project_024539/README.md) |
 | 024540 | [Node.js: Access Review — Usability Improvement for Two-Node Lab](Project_024540/README.md) |
+| 024541 | [Node.js: Access Review — Baseline Setup for Help Desk](Project_024541/README.md) |
+| 024542 | [Node.js: Access Review — Automation for Help Desk](Project_024542/README.md) |
+| 024543 | [Node.js: Access Review — Recovery for Help Desk](Project_024543/README.md) |
+| 024544 | [Node.js: Access Review — Reporting for Help Desk](Project_024544/README.md) |
+| 024545 | [Node.js: Access Review — Usability Improvement for Help Desk](Project_024545/README.md) |
+| 024546 | [Node.js: Access Review — Baseline Setup for Portfolio Demo](Project_024546/README.md) |
+| 024547 | [Node.js: Access Review — Automation for Portfolio Demo](Project_024547/README.md) |
+| 024548 | [Node.js: Access Review — Recovery for Portfolio Demo](Project_024548/README.md) |
+| 024549 | [Node.js: Access Review — Reporting for Portfolio Demo](Project_024549/README.md) |
+| 024550 | [Node.js: Access Review — Usability Improvement for Portfolio Demo](Project_024550/README.md) |
+| 024551 | [Node.js: Performance Baseline — Baseline Setup for School Lab](Project_024551/README.md) |
+| 024552 | [Node.js: Performance Baseline — Automation for School Lab](Project_024552/README.md) |
+| 024553 | [Node.js: Performance Baseline — Recovery for School Lab](Project_024553/README.md) |
+| 024554 | [Node.js: Performance Baseline — Reporting for School Lab](Project_024554/README.md) |
+| 024555 | [Node.js: Performance Baseline — Usability Improvement for School Lab](Project_024555/README.md) |
+| 024556 | [Node.js: Performance Baseline — Baseline Setup for Small Business](Project_024556/README.md) |
+| 024557 | [Node.js: Performance Baseline — Automation for Small Business](Project_024557/README.md) |
+| 024558 | [Node.js: Performance Baseline — Recovery for Small Business](Project_024558/README.md) |
+| 024559 | [Node.js: Performance Baseline — Reporting for Small Business](Project_024559/README.md) |
+| 024560 | [Node.js: Performance Baseline — Usability Improvement for Small Business](Project_024560/README.md) |
 
 [Back to the portfolio home](../README.md)
