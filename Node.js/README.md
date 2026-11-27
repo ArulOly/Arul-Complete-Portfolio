@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024698 | [Node.js: Configuration Comparison — Recovery for Portfolio Demo](Project_024698/README.md) |
 | 024699 | [Node.js: Configuration Comparison — Reporting for Portfolio Demo](Project_024699/README.md) |
 | 024700 | [Node.js: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_024700/README.md) |
+| 024701 | [Node.js: Error Handling — Baseline Setup for School Lab](Project_024701/README.md) |
+| 024702 | [Node.js: Error Handling — Automation for School Lab](Project_024702/README.md) |
+| 024703 | [Node.js: Error Handling — Recovery for School Lab](Project_024703/README.md) |
+| 024704 | [Node.js: Error Handling — Reporting for School Lab](Project_024704/README.md) |
+| 024705 | [Node.js: Error Handling — Usability Improvement for School Lab](Project_024705/README.md) |
+| 024706 | [Node.js: Error Handling — Baseline Setup for Small Business](Project_024706/README.md) |
+| 024707 | [Node.js: Error Handling — Automation for Small Business](Project_024707/README.md) |
+| 024708 | [Node.js: Error Handling — Recovery for Small Business](Project_024708/README.md) |
+| 024709 | [Node.js: Error Handling — Reporting for Small Business](Project_024709/README.md) |
+| 024710 | [Node.js: Error Handling — Usability Improvement for Small Business](Project_024710/README.md) |
+| 024711 | [Node.js: Error Handling — Baseline Setup for Home Development](Project_024711/README.md) |
+| 024712 | [Node.js: Error Handling — Automation for Home Development](Project_024712/README.md) |
+| 024713 | [Node.js: Error Handling — Recovery for Home Development](Project_024713/README.md) |
+| 024714 | [Node.js: Error Handling — Reporting for Home Development](Project_024714/README.md) |
+| 024715 | [Node.js: Error Handling — Usability Improvement for Home Development](Project_024715/README.md) |
+| 024716 | [Node.js: Error Handling — Baseline Setup for Public Dataset](Project_024716/README.md) |
+| 024717 | [Node.js: Error Handling — Automation for Public Dataset](Project_024717/README.md) |
+| 024718 | [Node.js: Error Handling — Recovery for Public Dataset](Project_024718/README.md) |
+| 024719 | [Node.js: Error Handling — Reporting for Public Dataset](Project_024719/README.md) |
+| 024720 | [Node.js: Error Handling — Usability Improvement for Public Dataset](Project_024720/README.md) |
 
 [Back to the portfolio home](../README.md)
