@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027098 | [MongoDB: Monitoring — Recovery for Portfolio Demo](Project_027098/README.md) |
 | 027099 | [MongoDB: Monitoring — Reporting for Portfolio Demo](Project_027099/README.md) |
 | 027100 | [MongoDB: Monitoring — Usability Improvement for Portfolio Demo](Project_027100/README.md) |
+| 027101 | [MongoDB: Audit — Baseline Setup for School Lab](Project_027101/README.md) |
+| 027102 | [MongoDB: Audit — Automation for School Lab](Project_027102/README.md) |
+| 027103 | [MongoDB: Audit — Recovery for School Lab](Project_027103/README.md) |
+| 027104 | [MongoDB: Audit — Reporting for School Lab](Project_027104/README.md) |
+| 027105 | [MongoDB: Audit — Usability Improvement for School Lab](Project_027105/README.md) |
+| 027106 | [MongoDB: Audit — Baseline Setup for Small Business](Project_027106/README.md) |
+| 027107 | [MongoDB: Audit — Automation for Small Business](Project_027107/README.md) |
+| 027108 | [MongoDB: Audit — Recovery for Small Business](Project_027108/README.md) |
+| 027109 | [MongoDB: Audit — Reporting for Small Business](Project_027109/README.md) |
+| 027110 | [MongoDB: Audit — Usability Improvement for Small Business](Project_027110/README.md) |
+| 027111 | [MongoDB: Audit — Baseline Setup for Home Development](Project_027111/README.md) |
+| 027112 | [MongoDB: Audit — Automation for Home Development](Project_027112/README.md) |
+| 027113 | [MongoDB: Audit — Recovery for Home Development](Project_027113/README.md) |
+| 027114 | [MongoDB: Audit — Reporting for Home Development](Project_027114/README.md) |
+| 027115 | [MongoDB: Audit — Usability Improvement for Home Development](Project_027115/README.md) |
+| 027116 | [MongoDB: Audit — Baseline Setup for Public Dataset](Project_027116/README.md) |
+| 027117 | [MongoDB: Audit — Automation for Public Dataset](Project_027117/README.md) |
+| 027118 | [MongoDB: Audit — Recovery for Public Dataset](Project_027118/README.md) |
+| 027119 | [MongoDB: Audit — Reporting for Public Dataset](Project_027119/README.md) |
+| 027120 | [MongoDB: Audit — Usability Improvement for Public Dataset](Project_027120/README.md) |
 
 [Back to the portfolio home](../README.md)
