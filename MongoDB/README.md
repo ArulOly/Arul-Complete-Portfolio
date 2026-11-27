@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027158 | [MongoDB: Log Analysis — Recovery for Small Business](Project_027158/README.md) |
 | 027159 | [MongoDB: Log Analysis — Reporting for Small Business](Project_027159/README.md) |
 | 027160 | [MongoDB: Log Analysis — Usability Improvement for Small Business](Project_027160/README.md) |
+| 027161 | [MongoDB: Log Analysis — Baseline Setup for Home Development](Project_027161/README.md) |
+| 027162 | [MongoDB: Log Analysis — Automation for Home Development](Project_027162/README.md) |
+| 027163 | [MongoDB: Log Analysis — Recovery for Home Development](Project_027163/README.md) |
+| 027164 | [MongoDB: Log Analysis — Reporting for Home Development](Project_027164/README.md) |
+| 027165 | [MongoDB: Log Analysis — Usability Improvement for Home Development](Project_027165/README.md) |
+| 027166 | [MongoDB: Log Analysis — Baseline Setup for Public Dataset](Project_027166/README.md) |
+| 027167 | [MongoDB: Log Analysis — Automation for Public Dataset](Project_027167/README.md) |
+| 027168 | [MongoDB: Log Analysis — Recovery for Public Dataset](Project_027168/README.md) |
+| 027169 | [MongoDB: Log Analysis — Reporting for Public Dataset](Project_027169/README.md) |
+| 027170 | [MongoDB: Log Analysis — Usability Improvement for Public Dataset](Project_027170/README.md) |
+| 027171 | [MongoDB: Log Analysis — Baseline Setup for Branch Office Simulator](Project_027171/README.md) |
+| 027172 | [MongoDB: Log Analysis — Automation for Branch Office Simulator](Project_027172/README.md) |
+| 027173 | [MongoDB: Log Analysis — Recovery for Branch Office Simulator](Project_027173/README.md) |
+| 027174 | [MongoDB: Log Analysis — Reporting for Branch Office Simulator](Project_027174/README.md) |
+| 027175 | [MongoDB: Log Analysis — Usability Improvement for Branch Office Simulator](Project_027175/README.md) |
+| 027176 | [MongoDB: Log Analysis — Baseline Setup for Offline Classroom](Project_027176/README.md) |
+| 027177 | [MongoDB: Log Analysis — Automation for Offline Classroom](Project_027177/README.md) |
+| 027178 | [MongoDB: Log Analysis — Recovery for Offline Classroom](Project_027178/README.md) |
+| 027179 | [MongoDB: Log Analysis — Reporting for Offline Classroom](Project_027179/README.md) |
+| 027180 | [MongoDB: Log Analysis — Usability Improvement for Offline Classroom](Project_027180/README.md) |
 
 [Back to the portfolio home](../README.md)
