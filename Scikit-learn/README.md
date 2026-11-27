@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034318 | [Scikit-learn: Data Export — Recovery for Public Dataset](Project_034318/README.md) |
 | 034319 | [Scikit-learn: Data Export — Reporting for Public Dataset](Project_034319/README.md) |
 | 034320 | [Scikit-learn: Data Export — Usability Improvement for Public Dataset](Project_034320/README.md) |
+| 034321 | [Scikit-learn: Data Export — Baseline Setup for Branch Office Simulator](Project_034321/README.md) |
+| 034322 | [Scikit-learn: Data Export — Automation for Branch Office Simulator](Project_034322/README.md) |
+| 034323 | [Scikit-learn: Data Export — Recovery for Branch Office Simulator](Project_034323/README.md) |
+| 034324 | [Scikit-learn: Data Export — Reporting for Branch Office Simulator](Project_034324/README.md) |
+| 034325 | [Scikit-learn: Data Export — Usability Improvement for Branch Office Simulator](Project_034325/README.md) |
+| 034326 | [Scikit-learn: Data Export — Baseline Setup for Offline Classroom](Project_034326/README.md) |
+| 034327 | [Scikit-learn: Data Export — Automation for Offline Classroom](Project_034327/README.md) |
+| 034328 | [Scikit-learn: Data Export — Recovery for Offline Classroom](Project_034328/README.md) |
+| 034329 | [Scikit-learn: Data Export — Reporting for Offline Classroom](Project_034329/README.md) |
+| 034330 | [Scikit-learn: Data Export — Usability Improvement for Offline Classroom](Project_034330/README.md) |
+| 034331 | [Scikit-learn: Data Export — Baseline Setup for Single-Host Lab](Project_034331/README.md) |
+| 034332 | [Scikit-learn: Data Export — Automation for Single-Host Lab](Project_034332/README.md) |
+| 034333 | [Scikit-learn: Data Export — Recovery for Single-Host Lab](Project_034333/README.md) |
+| 034334 | [Scikit-learn: Data Export — Reporting for Single-Host Lab](Project_034334/README.md) |
+| 034335 | [Scikit-learn: Data Export — Usability Improvement for Single-Host Lab](Project_034335/README.md) |
+| 034336 | [Scikit-learn: Data Export — Baseline Setup for Two-Node Lab](Project_034336/README.md) |
+| 034337 | [Scikit-learn: Data Export — Automation for Two-Node Lab](Project_034337/README.md) |
+| 034338 | [Scikit-learn: Data Export — Recovery for Two-Node Lab](Project_034338/README.md) |
+| 034339 | [Scikit-learn: Data Export — Reporting for Two-Node Lab](Project_034339/README.md) |
+| 034340 | [Scikit-learn: Data Export — Usability Improvement for Two-Node Lab](Project_034340/README.md) |
 
 [Back to the portfolio home](../README.md)
