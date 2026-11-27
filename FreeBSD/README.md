@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005818 | [FreeBSD: Documentation Generation — Recovery for Public Dataset](Project_005818/README.md) |
 | 005819 | [FreeBSD: Documentation Generation — Reporting for Public Dataset](Project_005819/README.md) |
 | 005820 | [FreeBSD: Documentation Generation — Usability Improvement for Public Dataset](Project_005820/README.md) |
+| 005821 | [FreeBSD: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_005821/README.md) |
+| 005822 | [FreeBSD: Documentation Generation — Automation for Branch Office Simulator](Project_005822/README.md) |
+| 005823 | [FreeBSD: Documentation Generation — Recovery for Branch Office Simulator](Project_005823/README.md) |
+| 005824 | [FreeBSD: Documentation Generation — Reporting for Branch Office Simulator](Project_005824/README.md) |
+| 005825 | [FreeBSD: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_005825/README.md) |
+| 005826 | [FreeBSD: Documentation Generation — Baseline Setup for Offline Classroom](Project_005826/README.md) |
+| 005827 | [FreeBSD: Documentation Generation — Automation for Offline Classroom](Project_005827/README.md) |
+| 005828 | [FreeBSD: Documentation Generation — Recovery for Offline Classroom](Project_005828/README.md) |
+| 005829 | [FreeBSD: Documentation Generation — Reporting for Offline Classroom](Project_005829/README.md) |
+| 005830 | [FreeBSD: Documentation Generation — Usability Improvement for Offline Classroom](Project_005830/README.md) |
+| 005831 | [FreeBSD: Documentation Generation — Baseline Setup for Single-Host Lab](Project_005831/README.md) |
+| 005832 | [FreeBSD: Documentation Generation — Automation for Single-Host Lab](Project_005832/README.md) |
+| 005833 | [FreeBSD: Documentation Generation — Recovery for Single-Host Lab](Project_005833/README.md) |
+| 005834 | [FreeBSD: Documentation Generation — Reporting for Single-Host Lab](Project_005834/README.md) |
+| 005835 | [FreeBSD: Documentation Generation — Usability Improvement for Single-Host Lab](Project_005835/README.md) |
+| 005836 | [FreeBSD: Documentation Generation — Baseline Setup for Two-Node Lab](Project_005836/README.md) |
+| 005837 | [FreeBSD: Documentation Generation — Automation for Two-Node Lab](Project_005837/README.md) |
+| 005838 | [FreeBSD: Documentation Generation — Recovery for Two-Node Lab](Project_005838/README.md) |
+| 005839 | [FreeBSD: Documentation Generation — Reporting for Two-Node Lab](Project_005839/README.md) |
+| 005840 | [FreeBSD: Documentation Generation — Usability Improvement for Two-Node Lab](Project_005840/README.md) |
 
 [Back to the portfolio home](../README.md)
