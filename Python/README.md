@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1024,5 +1024,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019978 | [Python: Recovery Test — Recovery for Offline Classroom](Project_019978/README.md) |
 | 019979 | [Python: Recovery Test — Reporting for Offline Classroom](Project_019979/README.md) |
 | 019980 | [Python: Recovery Test — Usability Improvement for Offline Classroom](Project_019980/README.md) |
+| 019981 | [Python: Recovery Test — Baseline Setup for Single-Host Lab](Project_019981/README.md) |
+| 019982 | [Python: Recovery Test — Automation for Single-Host Lab](Project_019982/README.md) |
+| 019983 | [Python: Recovery Test — Recovery for Single-Host Lab](Project_019983/README.md) |
+| 019984 | [Python: Recovery Test — Reporting for Single-Host Lab](Project_019984/README.md) |
+| 019985 | [Python: Recovery Test — Usability Improvement for Single-Host Lab](Project_019985/README.md) |
+| 019986 | [Python: Recovery Test — Baseline Setup for Two-Node Lab](Project_019986/README.md) |
+| 019987 | [Python: Recovery Test — Automation for Two-Node Lab](Project_019987/README.md) |
+| 019988 | [Python: Recovery Test — Recovery for Two-Node Lab](Project_019988/README.md) |
+| 019989 | [Python: Recovery Test — Reporting for Two-Node Lab](Project_019989/README.md) |
+| 019990 | [Python: Recovery Test — Usability Improvement for Two-Node Lab](Project_019990/README.md) |
+| 019991 | [Python: Recovery Test — Baseline Setup for Help Desk](Project_019991/README.md) |
+| 019992 | [Python: Recovery Test — Automation for Help Desk](Project_019992/README.md) |
+| 019993 | [Python: Recovery Test — Recovery for Help Desk](Project_019993/README.md) |
+| 019994 | [Python: Recovery Test — Reporting for Help Desk](Project_019994/README.md) |
+| 019995 | [Python: Recovery Test — Usability Improvement for Help Desk](Project_019995/README.md) |
+| 019996 | [Python: Recovery Test — Baseline Setup for Portfolio Demo](Project_019996/README.md) |
+| 019997 | [Python: Recovery Test — Automation for Portfolio Demo](Project_019997/README.md) |
+| 019998 | [Python: Recovery Test — Recovery for Portfolio Demo](Project_019998/README.md) |
+| 019999 | [Python: Recovery Test — Reporting for Portfolio Demo](Project_019999/README.md) |
+| 020000 | [Python: Recovery Test — Usability Improvement for Portfolio Demo](Project_020000/README.md) |
 
 [Back to the portfolio home](../README.md)
