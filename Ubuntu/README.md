@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002338 | [Ubuntu: Data Export — Recovery for Two-Node Lab](Project_002338/README.md) |
 | 002339 | [Ubuntu: Data Export — Reporting for Two-Node Lab](Project_002339/README.md) |
 | 002340 | [Ubuntu: Data Export — Usability Improvement for Two-Node Lab](Project_002340/README.md) |
+| 002341 | [Ubuntu: Data Export — Baseline Setup for Help Desk](Project_002341/README.md) |
+| 002342 | [Ubuntu: Data Export — Automation for Help Desk](Project_002342/README.md) |
+| 002343 | [Ubuntu: Data Export — Recovery for Help Desk](Project_002343/README.md) |
+| 002344 | [Ubuntu: Data Export — Reporting for Help Desk](Project_002344/README.md) |
+| 002345 | [Ubuntu: Data Export — Usability Improvement for Help Desk](Project_002345/README.md) |
+| 002346 | [Ubuntu: Data Export — Baseline Setup for Portfolio Demo](Project_002346/README.md) |
+| 002347 | [Ubuntu: Data Export — Automation for Portfolio Demo](Project_002347/README.md) |
+| 002348 | [Ubuntu: Data Export — Recovery for Portfolio Demo](Project_002348/README.md) |
+| 002349 | [Ubuntu: Data Export — Reporting for Portfolio Demo](Project_002349/README.md) |
+| 002350 | [Ubuntu: Data Export — Usability Improvement for Portfolio Demo](Project_002350/README.md) |
+| 002351 | [Ubuntu: Dashboard — Baseline Setup for School Lab](Project_002351/README.md) |
+| 002352 | [Ubuntu: Dashboard — Automation for School Lab](Project_002352/README.md) |
+| 002353 | [Ubuntu: Dashboard — Recovery for School Lab](Project_002353/README.md) |
+| 002354 | [Ubuntu: Dashboard — Reporting for School Lab](Project_002354/README.md) |
+| 002355 | [Ubuntu: Dashboard — Usability Improvement for School Lab](Project_002355/README.md) |
+| 002356 | [Ubuntu: Dashboard — Baseline Setup for Small Business](Project_002356/README.md) |
+| 002357 | [Ubuntu: Dashboard — Automation for Small Business](Project_002357/README.md) |
+| 002358 | [Ubuntu: Dashboard — Recovery for Small Business](Project_002358/README.md) |
+| 002359 | [Ubuntu: Dashboard — Reporting for Small Business](Project_002359/README.md) |
+| 002360 | [Ubuntu: Dashboard — Usability Improvement for Small Business](Project_002360/README.md) |
 
 [Back to the portfolio home](../README.md)
