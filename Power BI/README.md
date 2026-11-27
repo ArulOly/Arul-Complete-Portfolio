@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032098 | [Power BI: Monitoring — Recovery for Portfolio Demo](Project_032098/README.md) |
 | 032099 | [Power BI: Monitoring — Reporting for Portfolio Demo](Project_032099/README.md) |
 | 032100 | [Power BI: Monitoring — Usability Improvement for Portfolio Demo](Project_032100/README.md) |
+| 032101 | [Power BI: Audit — Baseline Setup for School Lab](Project_032101/README.md) |
+| 032102 | [Power BI: Audit — Automation for School Lab](Project_032102/README.md) |
+| 032103 | [Power BI: Audit — Recovery for School Lab](Project_032103/README.md) |
+| 032104 | [Power BI: Audit — Reporting for School Lab](Project_032104/README.md) |
+| 032105 | [Power BI: Audit — Usability Improvement for School Lab](Project_032105/README.md) |
+| 032106 | [Power BI: Audit — Baseline Setup for Small Business](Project_032106/README.md) |
+| 032107 | [Power BI: Audit — Automation for Small Business](Project_032107/README.md) |
+| 032108 | [Power BI: Audit — Recovery for Small Business](Project_032108/README.md) |
+| 032109 | [Power BI: Audit — Reporting for Small Business](Project_032109/README.md) |
+| 032110 | [Power BI: Audit — Usability Improvement for Small Business](Project_032110/README.md) |
+| 032111 | [Power BI: Audit — Baseline Setup for Home Development](Project_032111/README.md) |
+| 032112 | [Power BI: Audit — Automation for Home Development](Project_032112/README.md) |
+| 032113 | [Power BI: Audit — Recovery for Home Development](Project_032113/README.md) |
+| 032114 | [Power BI: Audit — Reporting for Home Development](Project_032114/README.md) |
+| 032115 | [Power BI: Audit — Usability Improvement for Home Development](Project_032115/README.md) |
+| 032116 | [Power BI: Audit — Baseline Setup for Public Dataset](Project_032116/README.md) |
+| 032117 | [Power BI: Audit — Automation for Public Dataset](Project_032117/README.md) |
+| 032118 | [Power BI: Audit — Recovery for Public Dataset](Project_032118/README.md) |
+| 032119 | [Power BI: Audit — Reporting for Public Dataset](Project_032119/README.md) |
+| 032120 | [Power BI: Audit — Usability Improvement for Public Dataset](Project_032120/README.md) |
 
 [Back to the portfolio home](../README.md)
