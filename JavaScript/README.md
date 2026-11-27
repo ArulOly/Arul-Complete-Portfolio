@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020298 | [JavaScript: Data Import — Recovery for Portfolio Demo](Project_020298/README.md) |
 | 020299 | [JavaScript: Data Import — Reporting for Portfolio Demo](Project_020299/README.md) |
 | 020300 | [JavaScript: Data Import — Usability Improvement for Portfolio Demo](Project_020300/README.md) |
+| 020301 | [JavaScript: Data Export — Baseline Setup for School Lab](Project_020301/README.md) |
+| 020302 | [JavaScript: Data Export — Automation for School Lab](Project_020302/README.md) |
+| 020303 | [JavaScript: Data Export — Recovery for School Lab](Project_020303/README.md) |
+| 020304 | [JavaScript: Data Export — Reporting for School Lab](Project_020304/README.md) |
+| 020305 | [JavaScript: Data Export — Usability Improvement for School Lab](Project_020305/README.md) |
+| 020306 | [JavaScript: Data Export — Baseline Setup for Small Business](Project_020306/README.md) |
+| 020307 | [JavaScript: Data Export — Automation for Small Business](Project_020307/README.md) |
+| 020308 | [JavaScript: Data Export — Recovery for Small Business](Project_020308/README.md) |
+| 020309 | [JavaScript: Data Export — Reporting for Small Business](Project_020309/README.md) |
+| 020310 | [JavaScript: Data Export — Usability Improvement for Small Business](Project_020310/README.md) |
+| 020311 | [JavaScript: Data Export — Baseline Setup for Home Development](Project_020311/README.md) |
+| 020312 | [JavaScript: Data Export — Automation for Home Development](Project_020312/README.md) |
+| 020313 | [JavaScript: Data Export — Recovery for Home Development](Project_020313/README.md) |
+| 020314 | [JavaScript: Data Export — Reporting for Home Development](Project_020314/README.md) |
+| 020315 | [JavaScript: Data Export — Usability Improvement for Home Development](Project_020315/README.md) |
+| 020316 | [JavaScript: Data Export — Baseline Setup for Public Dataset](Project_020316/README.md) |
+| 020317 | [JavaScript: Data Export — Automation for Public Dataset](Project_020317/README.md) |
+| 020318 | [JavaScript: Data Export — Recovery for Public Dataset](Project_020318/README.md) |
+| 020319 | [JavaScript: Data Export — Reporting for Public Dataset](Project_020319/README.md) |
+| 020320 | [JavaScript: Data Export — Usability Improvement for Public Dataset](Project_020320/README.md) |
 
 [Back to the portfolio home](../README.md)
