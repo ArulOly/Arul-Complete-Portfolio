@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032878 | [Power BI: Automation — Recovery for Offline Classroom](Project_032878/README.md) |
 | 032879 | [Power BI: Automation — Reporting for Offline Classroom](Project_032879/README.md) |
 | 032880 | [Power BI: Automation — Usability Improvement for Offline Classroom](Project_032880/README.md) |
+| 032881 | [Power BI: Automation — Baseline Setup for Single-Host Lab](Project_032881/README.md) |
+| 032882 | [Power BI: Automation — Automation for Single-Host Lab](Project_032882/README.md) |
+| 032883 | [Power BI: Automation — Recovery for Single-Host Lab](Project_032883/README.md) |
+| 032884 | [Power BI: Automation — Reporting for Single-Host Lab](Project_032884/README.md) |
+| 032885 | [Power BI: Automation — Usability Improvement for Single-Host Lab](Project_032885/README.md) |
+| 032886 | [Power BI: Automation — Baseline Setup for Two-Node Lab](Project_032886/README.md) |
+| 032887 | [Power BI: Automation — Automation for Two-Node Lab](Project_032887/README.md) |
+| 032888 | [Power BI: Automation — Recovery for Two-Node Lab](Project_032888/README.md) |
+| 032889 | [Power BI: Automation — Reporting for Two-Node Lab](Project_032889/README.md) |
+| 032890 | [Power BI: Automation — Usability Improvement for Two-Node Lab](Project_032890/README.md) |
+| 032891 | [Power BI: Automation — Baseline Setup for Help Desk](Project_032891/README.md) |
+| 032892 | [Power BI: Automation — Automation for Help Desk](Project_032892/README.md) |
+| 032893 | [Power BI: Automation — Recovery for Help Desk](Project_032893/README.md) |
+| 032894 | [Power BI: Automation — Reporting for Help Desk](Project_032894/README.md) |
+| 032895 | [Power BI: Automation — Usability Improvement for Help Desk](Project_032895/README.md) |
+| 032896 | [Power BI: Automation — Baseline Setup for Portfolio Demo](Project_032896/README.md) |
+| 032897 | [Power BI: Automation — Automation for Portfolio Demo](Project_032897/README.md) |
+| 032898 | [Power BI: Automation — Recovery for Portfolio Demo](Project_032898/README.md) |
+| 032899 | [Power BI: Automation — Reporting for Portfolio Demo](Project_032899/README.md) |
+| 032900 | [Power BI: Automation — Usability Improvement for Portfolio Demo](Project_032900/README.md) |
 
 [Back to the portfolio home](../README.md)
