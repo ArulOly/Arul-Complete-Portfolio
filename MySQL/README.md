@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026398 | [MySQL: Dashboard — Recovery for Portfolio Demo](Project_026398/README.md) |
 | 026399 | [MySQL: Dashboard — Reporting for Portfolio Demo](Project_026399/README.md) |
 | 026400 | [MySQL: Dashboard — Usability Improvement for Portfolio Demo](Project_026400/README.md) |
+| 026401 | [MySQL: Alerting — Baseline Setup for School Lab](Project_026401/README.md) |
+| 026402 | [MySQL: Alerting — Automation for School Lab](Project_026402/README.md) |
+| 026403 | [MySQL: Alerting — Recovery for School Lab](Project_026403/README.md) |
+| 026404 | [MySQL: Alerting — Reporting for School Lab](Project_026404/README.md) |
+| 026405 | [MySQL: Alerting — Usability Improvement for School Lab](Project_026405/README.md) |
+| 026406 | [MySQL: Alerting — Baseline Setup for Small Business](Project_026406/README.md) |
+| 026407 | [MySQL: Alerting — Automation for Small Business](Project_026407/README.md) |
+| 026408 | [MySQL: Alerting — Recovery for Small Business](Project_026408/README.md) |
+| 026409 | [MySQL: Alerting — Reporting for Small Business](Project_026409/README.md) |
+| 026410 | [MySQL: Alerting — Usability Improvement for Small Business](Project_026410/README.md) |
+| 026411 | [MySQL: Alerting — Baseline Setup for Home Development](Project_026411/README.md) |
+| 026412 | [MySQL: Alerting — Automation for Home Development](Project_026412/README.md) |
+| 026413 | [MySQL: Alerting — Recovery for Home Development](Project_026413/README.md) |
+| 026414 | [MySQL: Alerting — Reporting for Home Development](Project_026414/README.md) |
+| 026415 | [MySQL: Alerting — Usability Improvement for Home Development](Project_026415/README.md) |
+| 026416 | [MySQL: Alerting — Baseline Setup for Public Dataset](Project_026416/README.md) |
+| 026417 | [MySQL: Alerting — Automation for Public Dataset](Project_026417/README.md) |
+| 026418 | [MySQL: Alerting — Recovery for Public Dataset](Project_026418/README.md) |
+| 026419 | [MySQL: Alerting — Reporting for Public Dataset](Project_026419/README.md) |
+| 026420 | [MySQL: Alerting — Usability Improvement for Public Dataset](Project_026420/README.md) |
 
 [Back to the portfolio home](../README.md)
