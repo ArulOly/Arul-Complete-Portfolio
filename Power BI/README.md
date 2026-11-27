@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032618 | [Power BI: Service Check — Recovery for Public Dataset](Project_032618/README.md) |
 | 032619 | [Power BI: Service Check — Reporting for Public Dataset](Project_032619/README.md) |
 | 032620 | [Power BI: Service Check — Usability Improvement for Public Dataset](Project_032620/README.md) |
+| 032621 | [Power BI: Service Check — Baseline Setup for Branch Office Simulator](Project_032621/README.md) |
+| 032622 | [Power BI: Service Check — Automation for Branch Office Simulator](Project_032622/README.md) |
+| 032623 | [Power BI: Service Check — Recovery for Branch Office Simulator](Project_032623/README.md) |
+| 032624 | [Power BI: Service Check — Reporting for Branch Office Simulator](Project_032624/README.md) |
+| 032625 | [Power BI: Service Check — Usability Improvement for Branch Office Simulator](Project_032625/README.md) |
+| 032626 | [Power BI: Service Check — Baseline Setup for Offline Classroom](Project_032626/README.md) |
+| 032627 | [Power BI: Service Check — Automation for Offline Classroom](Project_032627/README.md) |
+| 032628 | [Power BI: Service Check — Recovery for Offline Classroom](Project_032628/README.md) |
+| 032629 | [Power BI: Service Check — Reporting for Offline Classroom](Project_032629/README.md) |
+| 032630 | [Power BI: Service Check — Usability Improvement for Offline Classroom](Project_032630/README.md) |
+| 032631 | [Power BI: Service Check — Baseline Setup for Single-Host Lab](Project_032631/README.md) |
+| 032632 | [Power BI: Service Check — Automation for Single-Host Lab](Project_032632/README.md) |
+| 032633 | [Power BI: Service Check — Recovery for Single-Host Lab](Project_032633/README.md) |
+| 032634 | [Power BI: Service Check — Reporting for Single-Host Lab](Project_032634/README.md) |
+| 032635 | [Power BI: Service Check — Usability Improvement for Single-Host Lab](Project_032635/README.md) |
+| 032636 | [Power BI: Service Check — Baseline Setup for Two-Node Lab](Project_032636/README.md) |
+| 032637 | [Power BI: Service Check — Automation for Two-Node Lab](Project_032637/README.md) |
+| 032638 | [Power BI: Service Check — Recovery for Two-Node Lab](Project_032638/README.md) |
+| 032639 | [Power BI: Service Check — Reporting for Two-Node Lab](Project_032639/README.md) |
+| 032640 | [Power BI: Service Check — Usability Improvement for Two-Node Lab](Project_032640/README.md) |
 
 [Back to the portfolio home](../README.md)
