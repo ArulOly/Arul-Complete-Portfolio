@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034278 | [Scikit-learn: Data Import — Recovery for Offline Classroom](Project_034278/README.md) |
 | 034279 | [Scikit-learn: Data Import — Reporting for Offline Classroom](Project_034279/README.md) |
 | 034280 | [Scikit-learn: Data Import — Usability Improvement for Offline Classroom](Project_034280/README.md) |
+| 034281 | [Scikit-learn: Data Import — Baseline Setup for Single-Host Lab](Project_034281/README.md) |
+| 034282 | [Scikit-learn: Data Import — Automation for Single-Host Lab](Project_034282/README.md) |
+| 034283 | [Scikit-learn: Data Import — Recovery for Single-Host Lab](Project_034283/README.md) |
+| 034284 | [Scikit-learn: Data Import — Reporting for Single-Host Lab](Project_034284/README.md) |
+| 034285 | [Scikit-learn: Data Import — Usability Improvement for Single-Host Lab](Project_034285/README.md) |
+| 034286 | [Scikit-learn: Data Import — Baseline Setup for Two-Node Lab](Project_034286/README.md) |
+| 034287 | [Scikit-learn: Data Import — Automation for Two-Node Lab](Project_034287/README.md) |
+| 034288 | [Scikit-learn: Data Import — Recovery for Two-Node Lab](Project_034288/README.md) |
+| 034289 | [Scikit-learn: Data Import — Reporting for Two-Node Lab](Project_034289/README.md) |
+| 034290 | [Scikit-learn: Data Import — Usability Improvement for Two-Node Lab](Project_034290/README.md) |
+| 034291 | [Scikit-learn: Data Import — Baseline Setup for Help Desk](Project_034291/README.md) |
+| 034292 | [Scikit-learn: Data Import — Automation for Help Desk](Project_034292/README.md) |
+| 034293 | [Scikit-learn: Data Import — Recovery for Help Desk](Project_034293/README.md) |
+| 034294 | [Scikit-learn: Data Import — Reporting for Help Desk](Project_034294/README.md) |
+| 034295 | [Scikit-learn: Data Import — Usability Improvement for Help Desk](Project_034295/README.md) |
+| 034296 | [Scikit-learn: Data Import — Baseline Setup for Portfolio Demo](Project_034296/README.md) |
+| 034297 | [Scikit-learn: Data Import — Automation for Portfolio Demo](Project_034297/README.md) |
+| 034298 | [Scikit-learn: Data Import — Recovery for Portfolio Demo](Project_034298/README.md) |
+| 034299 | [Scikit-learn: Data Import — Reporting for Portfolio Demo](Project_034299/README.md) |
+| 034300 | [Scikit-learn: Data Import — Usability Improvement for Portfolio Demo](Project_034300/README.md) |
 
 [Back to the portfolio home](../README.md)
