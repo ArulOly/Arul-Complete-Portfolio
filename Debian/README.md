@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003358 | [Debian: Dashboard — Recovery for Small Business](Project_003358/README.md) |
 | 003359 | [Debian: Dashboard — Reporting for Small Business](Project_003359/README.md) |
 | 003360 | [Debian: Dashboard — Usability Improvement for Small Business](Project_003360/README.md) |
+| 003361 | [Debian: Dashboard — Baseline Setup for Home Development](Project_003361/README.md) |
+| 003362 | [Debian: Dashboard — Automation for Home Development](Project_003362/README.md) |
+| 003363 | [Debian: Dashboard — Recovery for Home Development](Project_003363/README.md) |
+| 003364 | [Debian: Dashboard — Reporting for Home Development](Project_003364/README.md) |
+| 003365 | [Debian: Dashboard — Usability Improvement for Home Development](Project_003365/README.md) |
+| 003366 | [Debian: Dashboard — Baseline Setup for Public Dataset](Project_003366/README.md) |
+| 003367 | [Debian: Dashboard — Automation for Public Dataset](Project_003367/README.md) |
+| 003368 | [Debian: Dashboard — Recovery for Public Dataset](Project_003368/README.md) |
+| 003369 | [Debian: Dashboard — Reporting for Public Dataset](Project_003369/README.md) |
+| 003370 | [Debian: Dashboard — Usability Improvement for Public Dataset](Project_003370/README.md) |
+| 003371 | [Debian: Dashboard — Baseline Setup for Branch Office Simulator](Project_003371/README.md) |
+| 003372 | [Debian: Dashboard — Automation for Branch Office Simulator](Project_003372/README.md) |
+| 003373 | [Debian: Dashboard — Recovery for Branch Office Simulator](Project_003373/README.md) |
+| 003374 | [Debian: Dashboard — Reporting for Branch Office Simulator](Project_003374/README.md) |
+| 003375 | [Debian: Dashboard — Usability Improvement for Branch Office Simulator](Project_003375/README.md) |
+| 003376 | [Debian: Dashboard — Baseline Setup for Offline Classroom](Project_003376/README.md) |
+| 003377 | [Debian: Dashboard — Automation for Offline Classroom](Project_003377/README.md) |
+| 003378 | [Debian: Dashboard — Recovery for Offline Classroom](Project_003378/README.md) |
+| 003379 | [Debian: Dashboard — Reporting for Offline Classroom](Project_003379/README.md) |
+| 003380 | [Debian: Dashboard — Usability Improvement for Offline Classroom](Project_003380/README.md) |
 
 [Back to the portfolio home](../README.md)
