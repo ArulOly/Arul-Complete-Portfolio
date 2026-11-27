@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027018 | [MongoDB: Inventory — Recovery for Public Dataset](Project_027018/README.md) |
 | 027019 | [MongoDB: Inventory — Reporting for Public Dataset](Project_027019/README.md) |
 | 027020 | [MongoDB: Inventory — Usability Improvement for Public Dataset](Project_027020/README.md) |
+| 027021 | [MongoDB: Inventory — Baseline Setup for Branch Office Simulator](Project_027021/README.md) |
+| 027022 | [MongoDB: Inventory — Automation for Branch Office Simulator](Project_027022/README.md) |
+| 027023 | [MongoDB: Inventory — Recovery for Branch Office Simulator](Project_027023/README.md) |
+| 027024 | [MongoDB: Inventory — Reporting for Branch Office Simulator](Project_027024/README.md) |
+| 027025 | [MongoDB: Inventory — Usability Improvement for Branch Office Simulator](Project_027025/README.md) |
+| 027026 | [MongoDB: Inventory — Baseline Setup for Offline Classroom](Project_027026/README.md) |
+| 027027 | [MongoDB: Inventory — Automation for Offline Classroom](Project_027027/README.md) |
+| 027028 | [MongoDB: Inventory — Recovery for Offline Classroom](Project_027028/README.md) |
+| 027029 | [MongoDB: Inventory — Reporting for Offline Classroom](Project_027029/README.md) |
+| 027030 | [MongoDB: Inventory — Usability Improvement for Offline Classroom](Project_027030/README.md) |
+| 027031 | [MongoDB: Inventory — Baseline Setup for Single-Host Lab](Project_027031/README.md) |
+| 027032 | [MongoDB: Inventory — Automation for Single-Host Lab](Project_027032/README.md) |
+| 027033 | [MongoDB: Inventory — Recovery for Single-Host Lab](Project_027033/README.md) |
+| 027034 | [MongoDB: Inventory — Reporting for Single-Host Lab](Project_027034/README.md) |
+| 027035 | [MongoDB: Inventory — Usability Improvement for Single-Host Lab](Project_027035/README.md) |
+| 027036 | [MongoDB: Inventory — Baseline Setup for Two-Node Lab](Project_027036/README.md) |
+| 027037 | [MongoDB: Inventory — Automation for Two-Node Lab](Project_027037/README.md) |
+| 027038 | [MongoDB: Inventory — Recovery for Two-Node Lab](Project_027038/README.md) |
+| 027039 | [MongoDB: Inventory — Reporting for Two-Node Lab](Project_027039/README.md) |
+| 027040 | [MongoDB: Inventory — Usability Improvement for Two-Node Lab](Project_027040/README.md) |
 
 [Back to the portfolio home](../README.md)
