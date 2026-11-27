@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005378 | [FreeBSD: Dashboard — Recovery for Offline Classroom](Project_005378/README.md) |
 | 005379 | [FreeBSD: Dashboard — Reporting for Offline Classroom](Project_005379/README.md) |
 | 005380 | [FreeBSD: Dashboard — Usability Improvement for Offline Classroom](Project_005380/README.md) |
+| 005381 | [FreeBSD: Dashboard — Baseline Setup for Single-Host Lab](Project_005381/README.md) |
+| 005382 | [FreeBSD: Dashboard — Automation for Single-Host Lab](Project_005382/README.md) |
+| 005383 | [FreeBSD: Dashboard — Recovery for Single-Host Lab](Project_005383/README.md) |
+| 005384 | [FreeBSD: Dashboard — Reporting for Single-Host Lab](Project_005384/README.md) |
+| 005385 | [FreeBSD: Dashboard — Usability Improvement for Single-Host Lab](Project_005385/README.md) |
+| 005386 | [FreeBSD: Dashboard — Baseline Setup for Two-Node Lab](Project_005386/README.md) |
+| 005387 | [FreeBSD: Dashboard — Automation for Two-Node Lab](Project_005387/README.md) |
+| 005388 | [FreeBSD: Dashboard — Recovery for Two-Node Lab](Project_005388/README.md) |
+| 005389 | [FreeBSD: Dashboard — Reporting for Two-Node Lab](Project_005389/README.md) |
+| 005390 | [FreeBSD: Dashboard — Usability Improvement for Two-Node Lab](Project_005390/README.md) |
+| 005391 | [FreeBSD: Dashboard — Baseline Setup for Help Desk](Project_005391/README.md) |
+| 005392 | [FreeBSD: Dashboard — Automation for Help Desk](Project_005392/README.md) |
+| 005393 | [FreeBSD: Dashboard — Recovery for Help Desk](Project_005393/README.md) |
+| 005394 | [FreeBSD: Dashboard — Reporting for Help Desk](Project_005394/README.md) |
+| 005395 | [FreeBSD: Dashboard — Usability Improvement for Help Desk](Project_005395/README.md) |
+| 005396 | [FreeBSD: Dashboard — Baseline Setup for Portfolio Demo](Project_005396/README.md) |
+| 005397 | [FreeBSD: Dashboard — Automation for Portfolio Demo](Project_005397/README.md) |
+| 005398 | [FreeBSD: Dashboard — Recovery for Portfolio Demo](Project_005398/README.md) |
+| 005399 | [FreeBSD: Dashboard — Reporting for Portfolio Demo](Project_005399/README.md) |
+| 005400 | [FreeBSD: Dashboard — Usability Improvement for Portfolio Demo](Project_005400/README.md) |
 
 [Back to the portfolio home](../README.md)
