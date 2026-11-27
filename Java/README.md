@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022778 | [Java: Data Validation — Recovery for Offline Classroom](Project_022778/README.md) |
 | 022779 | [Java: Data Validation — Reporting for Offline Classroom](Project_022779/README.md) |
 | 022780 | [Java: Data Validation — Usability Improvement for Offline Classroom](Project_022780/README.md) |
+| 022781 | [Java: Data Validation — Baseline Setup for Single-Host Lab](Project_022781/README.md) |
+| 022782 | [Java: Data Validation — Automation for Single-Host Lab](Project_022782/README.md) |
+| 022783 | [Java: Data Validation — Recovery for Single-Host Lab](Project_022783/README.md) |
+| 022784 | [Java: Data Validation — Reporting for Single-Host Lab](Project_022784/README.md) |
+| 022785 | [Java: Data Validation — Usability Improvement for Single-Host Lab](Project_022785/README.md) |
+| 022786 | [Java: Data Validation — Baseline Setup for Two-Node Lab](Project_022786/README.md) |
+| 022787 | [Java: Data Validation — Automation for Two-Node Lab](Project_022787/README.md) |
+| 022788 | [Java: Data Validation — Recovery for Two-Node Lab](Project_022788/README.md) |
+| 022789 | [Java: Data Validation — Reporting for Two-Node Lab](Project_022789/README.md) |
+| 022790 | [Java: Data Validation — Usability Improvement for Two-Node Lab](Project_022790/README.md) |
+| 022791 | [Java: Data Validation — Baseline Setup for Help Desk](Project_022791/README.md) |
+| 022792 | [Java: Data Validation — Automation for Help Desk](Project_022792/README.md) |
+| 022793 | [Java: Data Validation — Recovery for Help Desk](Project_022793/README.md) |
+| 022794 | [Java: Data Validation — Reporting for Help Desk](Project_022794/README.md) |
+| 022795 | [Java: Data Validation — Usability Improvement for Help Desk](Project_022795/README.md) |
+| 022796 | [Java: Data Validation — Baseline Setup for Portfolio Demo](Project_022796/README.md) |
+| 022797 | [Java: Data Validation — Automation for Portfolio Demo](Project_022797/README.md) |
+| 022798 | [Java: Data Validation — Recovery for Portfolio Demo](Project_022798/README.md) |
+| 022799 | [Java: Data Validation — Reporting for Portfolio Demo](Project_022799/README.md) |
+| 022800 | [Java: Data Validation — Usability Improvement for Portfolio Demo](Project_022800/README.md) |
 
 [Back to the portfolio home](../README.md)
