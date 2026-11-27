@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023218 | [HTML CSS: Backup Verification — Recovery for Public Dataset](Project_023218/README.md) |
 | 023219 | [HTML CSS: Backup Verification — Reporting for Public Dataset](Project_023219/README.md) |
 | 023220 | [HTML CSS: Backup Verification — Usability Improvement for Public Dataset](Project_023220/README.md) |
+| 023221 | [HTML CSS: Backup Verification — Baseline Setup for Branch Office Simulator](Project_023221/README.md) |
+| 023222 | [HTML CSS: Backup Verification — Automation for Branch Office Simulator](Project_023222/README.md) |
+| 023223 | [HTML CSS: Backup Verification — Recovery for Branch Office Simulator](Project_023223/README.md) |
+| 023224 | [HTML CSS: Backup Verification — Reporting for Branch Office Simulator](Project_023224/README.md) |
+| 023225 | [HTML CSS: Backup Verification — Usability Improvement for Branch Office Simulator](Project_023225/README.md) |
+| 023226 | [HTML CSS: Backup Verification — Baseline Setup for Offline Classroom](Project_023226/README.md) |
+| 023227 | [HTML CSS: Backup Verification — Automation for Offline Classroom](Project_023227/README.md) |
+| 023228 | [HTML CSS: Backup Verification — Recovery for Offline Classroom](Project_023228/README.md) |
+| 023229 | [HTML CSS: Backup Verification — Reporting for Offline Classroom](Project_023229/README.md) |
+| 023230 | [HTML CSS: Backup Verification — Usability Improvement for Offline Classroom](Project_023230/README.md) |
+| 023231 | [HTML CSS: Backup Verification — Baseline Setup for Single-Host Lab](Project_023231/README.md) |
+| 023232 | [HTML CSS: Backup Verification — Automation for Single-Host Lab](Project_023232/README.md) |
+| 023233 | [HTML CSS: Backup Verification — Recovery for Single-Host Lab](Project_023233/README.md) |
+| 023234 | [HTML CSS: Backup Verification — Reporting for Single-Host Lab](Project_023234/README.md) |
+| 023235 | [HTML CSS: Backup Verification — Usability Improvement for Single-Host Lab](Project_023235/README.md) |
+| 023236 | [HTML CSS: Backup Verification — Baseline Setup for Two-Node Lab](Project_023236/README.md) |
+| 023237 | [HTML CSS: Backup Verification — Automation for Two-Node Lab](Project_023237/README.md) |
+| 023238 | [HTML CSS: Backup Verification — Recovery for Two-Node Lab](Project_023238/README.md) |
+| 023239 | [HTML CSS: Backup Verification — Reporting for Two-Node Lab](Project_023239/README.md) |
+| 023240 | [HTML CSS: Backup Verification — Usability Improvement for Two-Node Lab](Project_023240/README.md) |
 
 [Back to the portfolio home](../README.md)
