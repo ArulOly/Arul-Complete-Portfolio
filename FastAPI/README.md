@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049078 | [FastAPI: Monitoring — Recovery for Offline Classroom](Project_049078/README.md) |
 | 049079 | [FastAPI: Monitoring — Reporting for Offline Classroom](Project_049079/README.md) |
 | 049080 | [FastAPI: Monitoring — Usability Improvement for Offline Classroom](Project_049080/README.md) |
+| 049081 | [FastAPI: Monitoring — Baseline Setup for Single-Host Lab](Project_049081/README.md) |
+| 049082 | [FastAPI: Monitoring — Automation for Single-Host Lab](Project_049082/README.md) |
+| 049083 | [FastAPI: Monitoring — Recovery for Single-Host Lab](Project_049083/README.md) |
+| 049084 | [FastAPI: Monitoring — Reporting for Single-Host Lab](Project_049084/README.md) |
+| 049085 | [FastAPI: Monitoring — Usability Improvement for Single-Host Lab](Project_049085/README.md) |
+| 049086 | [FastAPI: Monitoring — Baseline Setup for Two-Node Lab](Project_049086/README.md) |
+| 049087 | [FastAPI: Monitoring — Automation for Two-Node Lab](Project_049087/README.md) |
+| 049088 | [FastAPI: Monitoring — Recovery for Two-Node Lab](Project_049088/README.md) |
+| 049089 | [FastAPI: Monitoring — Reporting for Two-Node Lab](Project_049089/README.md) |
+| 049090 | [FastAPI: Monitoring — Usability Improvement for Two-Node Lab](Project_049090/README.md) |
+| 049091 | [FastAPI: Monitoring — Baseline Setup for Help Desk](Project_049091/README.md) |
+| 049092 | [FastAPI: Monitoring — Automation for Help Desk](Project_049092/README.md) |
+| 049093 | [FastAPI: Monitoring — Recovery for Help Desk](Project_049093/README.md) |
+| 049094 | [FastAPI: Monitoring — Reporting for Help Desk](Project_049094/README.md) |
+| 049095 | [FastAPI: Monitoring — Usability Improvement for Help Desk](Project_049095/README.md) |
+| 049096 | [FastAPI: Monitoring — Baseline Setup for Portfolio Demo](Project_049096/README.md) |
+| 049097 | [FastAPI: Monitoring — Automation for Portfolio Demo](Project_049097/README.md) |
+| 049098 | [FastAPI: Monitoring — Recovery for Portfolio Demo](Project_049098/README.md) |
+| 049099 | [FastAPI: Monitoring — Reporting for Portfolio Demo](Project_049099/README.md) |
+| 049100 | [FastAPI: Monitoring — Usability Improvement for Portfolio Demo](Project_049100/README.md) |
 
 [Back to the portfolio home](../README.md)
