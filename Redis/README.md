@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045858 | [Redis: Automation — Recovery for Small Business](Project_045858/README.md) |
 | 045859 | [Redis: Automation — Reporting for Small Business](Project_045859/README.md) |
 | 045860 | [Redis: Automation — Usability Improvement for Small Business](Project_045860/README.md) |
+| 045861 | [Redis: Automation — Baseline Setup for Home Development](Project_045861/README.md) |
+| 045862 | [Redis: Automation — Automation for Home Development](Project_045862/README.md) |
+| 045863 | [Redis: Automation — Recovery for Home Development](Project_045863/README.md) |
+| 045864 | [Redis: Automation — Reporting for Home Development](Project_045864/README.md) |
+| 045865 | [Redis: Automation — Usability Improvement for Home Development](Project_045865/README.md) |
+| 045866 | [Redis: Automation — Baseline Setup for Public Dataset](Project_045866/README.md) |
+| 045867 | [Redis: Automation — Automation for Public Dataset](Project_045867/README.md) |
+| 045868 | [Redis: Automation — Recovery for Public Dataset](Project_045868/README.md) |
+| 045869 | [Redis: Automation — Reporting for Public Dataset](Project_045869/README.md) |
+| 045870 | [Redis: Automation — Usability Improvement for Public Dataset](Project_045870/README.md) |
+| 045871 | [Redis: Automation — Baseline Setup for Branch Office Simulator](Project_045871/README.md) |
+| 045872 | [Redis: Automation — Automation for Branch Office Simulator](Project_045872/README.md) |
+| 045873 | [Redis: Automation — Recovery for Branch Office Simulator](Project_045873/README.md) |
+| 045874 | [Redis: Automation — Reporting for Branch Office Simulator](Project_045874/README.md) |
+| 045875 | [Redis: Automation — Usability Improvement for Branch Office Simulator](Project_045875/README.md) |
+| 045876 | [Redis: Automation — Baseline Setup for Offline Classroom](Project_045876/README.md) |
+| 045877 | [Redis: Automation — Automation for Offline Classroom](Project_045877/README.md) |
+| 045878 | [Redis: Automation — Recovery for Offline Classroom](Project_045878/README.md) |
+| 045879 | [Redis: Automation — Reporting for Offline Classroom](Project_045879/README.md) |
+| 045880 | [Redis: Automation — Usability Improvement for Offline Classroom](Project_045880/README.md) |
 
 [Back to the portfolio home](../README.md)
