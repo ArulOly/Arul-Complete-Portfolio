@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002498 | [Ubuntu: Scheduled Reporting — Recovery for Portfolio Demo](Project_002498/README.md) |
 | 002499 | [Ubuntu: Scheduled Reporting — Reporting for Portfolio Demo](Project_002499/README.md) |
 | 002500 | [Ubuntu: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_002500/README.md) |
+| 002501 | [Ubuntu: Access Review — Baseline Setup for School Lab](Project_002501/README.md) |
+| 002502 | [Ubuntu: Access Review — Automation for School Lab](Project_002502/README.md) |
+| 002503 | [Ubuntu: Access Review — Recovery for School Lab](Project_002503/README.md) |
+| 002504 | [Ubuntu: Access Review — Reporting for School Lab](Project_002504/README.md) |
+| 002505 | [Ubuntu: Access Review — Usability Improvement for School Lab](Project_002505/README.md) |
+| 002506 | [Ubuntu: Access Review — Baseline Setup for Small Business](Project_002506/README.md) |
+| 002507 | [Ubuntu: Access Review — Automation for Small Business](Project_002507/README.md) |
+| 002508 | [Ubuntu: Access Review — Recovery for Small Business](Project_002508/README.md) |
+| 002509 | [Ubuntu: Access Review — Reporting for Small Business](Project_002509/README.md) |
+| 002510 | [Ubuntu: Access Review — Usability Improvement for Small Business](Project_002510/README.md) |
+| 002511 | [Ubuntu: Access Review — Baseline Setup for Home Development](Project_002511/README.md) |
+| 002512 | [Ubuntu: Access Review — Automation for Home Development](Project_002512/README.md) |
+| 002513 | [Ubuntu: Access Review — Recovery for Home Development](Project_002513/README.md) |
+| 002514 | [Ubuntu: Access Review — Reporting for Home Development](Project_002514/README.md) |
+| 002515 | [Ubuntu: Access Review — Usability Improvement for Home Development](Project_002515/README.md) |
+| 002516 | [Ubuntu: Access Review — Baseline Setup for Public Dataset](Project_002516/README.md) |
+| 002517 | [Ubuntu: Access Review — Automation for Public Dataset](Project_002517/README.md) |
+| 002518 | [Ubuntu: Access Review — Recovery for Public Dataset](Project_002518/README.md) |
+| 002519 | [Ubuntu: Access Review — Reporting for Public Dataset](Project_002519/README.md) |
+| 002520 | [Ubuntu: Access Review — Usability Improvement for Public Dataset](Project_002520/README.md) |
 
 [Back to the portfolio home](../README.md)
