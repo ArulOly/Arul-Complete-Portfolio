@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032498 | [Power BI: Scheduled Reporting — Recovery for Portfolio Demo](Project_032498/README.md) |
 | 032499 | [Power BI: Scheduled Reporting — Reporting for Portfolio Demo](Project_032499/README.md) |
 | 032500 | [Power BI: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_032500/README.md) |
+| 032501 | [Power BI: Access Review — Baseline Setup for School Lab](Project_032501/README.md) |
+| 032502 | [Power BI: Access Review — Automation for School Lab](Project_032502/README.md) |
+| 032503 | [Power BI: Access Review — Recovery for School Lab](Project_032503/README.md) |
+| 032504 | [Power BI: Access Review — Reporting for School Lab](Project_032504/README.md) |
+| 032505 | [Power BI: Access Review — Usability Improvement for School Lab](Project_032505/README.md) |
+| 032506 | [Power BI: Access Review — Baseline Setup for Small Business](Project_032506/README.md) |
+| 032507 | [Power BI: Access Review — Automation for Small Business](Project_032507/README.md) |
+| 032508 | [Power BI: Access Review — Recovery for Small Business](Project_032508/README.md) |
+| 032509 | [Power BI: Access Review — Reporting for Small Business](Project_032509/README.md) |
+| 032510 | [Power BI: Access Review — Usability Improvement for Small Business](Project_032510/README.md) |
+| 032511 | [Power BI: Access Review — Baseline Setup for Home Development](Project_032511/README.md) |
+| 032512 | [Power BI: Access Review — Automation for Home Development](Project_032512/README.md) |
+| 032513 | [Power BI: Access Review — Recovery for Home Development](Project_032513/README.md) |
+| 032514 | [Power BI: Access Review — Reporting for Home Development](Project_032514/README.md) |
+| 032515 | [Power BI: Access Review — Usability Improvement for Home Development](Project_032515/README.md) |
+| 032516 | [Power BI: Access Review — Baseline Setup for Public Dataset](Project_032516/README.md) |
+| 032517 | [Power BI: Access Review — Automation for Public Dataset](Project_032517/README.md) |
+| 032518 | [Power BI: Access Review — Recovery for Public Dataset](Project_032518/README.md) |
+| 032519 | [Power BI: Access Review — Reporting for Public Dataset](Project_032519/README.md) |
+| 032520 | [Power BI: Access Review — Usability Improvement for Public Dataset](Project_032520/README.md) |
 
 [Back to the portfolio home](../README.md)
