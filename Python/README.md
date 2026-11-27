@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -184,5 +184,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019138 | [Python: Audit — Recovery for Two-Node Lab](Project_019138/README.md) |
 | 019139 | [Python: Audit — Reporting for Two-Node Lab](Project_019139/README.md) |
 | 019140 | [Python: Audit — Usability Improvement for Two-Node Lab](Project_019140/README.md) |
+| 019141 | [Python: Audit — Baseline Setup for Help Desk](Project_019141/README.md) |
+| 019142 | [Python: Audit — Automation for Help Desk](Project_019142/README.md) |
+| 019143 | [Python: Audit — Recovery for Help Desk](Project_019143/README.md) |
+| 019144 | [Python: Audit — Reporting for Help Desk](Project_019144/README.md) |
+| 019145 | [Python: Audit — Usability Improvement for Help Desk](Project_019145/README.md) |
+| 019146 | [Python: Audit — Baseline Setup for Portfolio Demo](Project_019146/README.md) |
+| 019147 | [Python: Audit — Automation for Portfolio Demo](Project_019147/README.md) |
+| 019148 | [Python: Audit — Recovery for Portfolio Demo](Project_019148/README.md) |
+| 019149 | [Python: Audit — Reporting for Portfolio Demo](Project_019149/README.md) |
+| 019150 | [Python: Audit — Usability Improvement for Portfolio Demo](Project_019150/README.md) |
+| 019151 | [Python: Log Analysis — Baseline Setup for School Lab](Project_019151/README.md) |
+| 019152 | [Python: Log Analysis — Automation for School Lab](Project_019152/README.md) |
+| 019153 | [Python: Log Analysis — Recovery for School Lab](Project_019153/README.md) |
+| 019154 | [Python: Log Analysis — Reporting for School Lab](Project_019154/README.md) |
+| 019155 | [Python: Log Analysis — Usability Improvement for School Lab](Project_019155/README.md) |
+| 019156 | [Python: Log Analysis — Baseline Setup for Small Business](Project_019156/README.md) |
+| 019157 | [Python: Log Analysis — Automation for Small Business](Project_019157/README.md) |
+| 019158 | [Python: Log Analysis — Recovery for Small Business](Project_019158/README.md) |
+| 019159 | [Python: Log Analysis — Reporting for Small Business](Project_019159/README.md) |
+| 019160 | [Python: Log Analysis — Usability Improvement for Small Business](Project_019160/README.md) |
 
 [Back to the portfolio home](../README.md)
