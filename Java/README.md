@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022358 | [Java: Dashboard — Recovery for Small Business](Project_022358/README.md) |
 | 022359 | [Java: Dashboard — Reporting for Small Business](Project_022359/README.md) |
 | 022360 | [Java: Dashboard — Usability Improvement for Small Business](Project_022360/README.md) |
+| 022361 | [Java: Dashboard — Baseline Setup for Home Development](Project_022361/README.md) |
+| 022362 | [Java: Dashboard — Automation for Home Development](Project_022362/README.md) |
+| 022363 | [Java: Dashboard — Recovery for Home Development](Project_022363/README.md) |
+| 022364 | [Java: Dashboard — Reporting for Home Development](Project_022364/README.md) |
+| 022365 | [Java: Dashboard — Usability Improvement for Home Development](Project_022365/README.md) |
+| 022366 | [Java: Dashboard — Baseline Setup for Public Dataset](Project_022366/README.md) |
+| 022367 | [Java: Dashboard — Automation for Public Dataset](Project_022367/README.md) |
+| 022368 | [Java: Dashboard — Recovery for Public Dataset](Project_022368/README.md) |
+| 022369 | [Java: Dashboard — Reporting for Public Dataset](Project_022369/README.md) |
+| 022370 | [Java: Dashboard — Usability Improvement for Public Dataset](Project_022370/README.md) |
+| 022371 | [Java: Dashboard — Baseline Setup for Branch Office Simulator](Project_022371/README.md) |
+| 022372 | [Java: Dashboard — Automation for Branch Office Simulator](Project_022372/README.md) |
+| 022373 | [Java: Dashboard — Recovery for Branch Office Simulator](Project_022373/README.md) |
+| 022374 | [Java: Dashboard — Reporting for Branch Office Simulator](Project_022374/README.md) |
+| 022375 | [Java: Dashboard — Usability Improvement for Branch Office Simulator](Project_022375/README.md) |
+| 022376 | [Java: Dashboard — Baseline Setup for Offline Classroom](Project_022376/README.md) |
+| 022377 | [Java: Dashboard — Automation for Offline Classroom](Project_022377/README.md) |
+| 022378 | [Java: Dashboard — Recovery for Offline Classroom](Project_022378/README.md) |
+| 022379 | [Java: Dashboard — Reporting for Offline Classroom](Project_022379/README.md) |
+| 022380 | [Java: Dashboard — Usability Improvement for Offline Classroom](Project_022380/README.md) |
 
 [Back to the portfolio home](../README.md)
