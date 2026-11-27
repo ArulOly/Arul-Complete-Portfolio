@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048558 | [Flask: Performance Baseline — Recovery for Small Business](Project_048558/README.md) |
 | 048559 | [Flask: Performance Baseline — Reporting for Small Business](Project_048559/README.md) |
 | 048560 | [Flask: Performance Baseline — Usability Improvement for Small Business](Project_048560/README.md) |
+| 048561 | [Flask: Performance Baseline — Baseline Setup for Home Development](Project_048561/README.md) |
+| 048562 | [Flask: Performance Baseline — Automation for Home Development](Project_048562/README.md) |
+| 048563 | [Flask: Performance Baseline — Recovery for Home Development](Project_048563/README.md) |
+| 048564 | [Flask: Performance Baseline — Reporting for Home Development](Project_048564/README.md) |
+| 048565 | [Flask: Performance Baseline — Usability Improvement for Home Development](Project_048565/README.md) |
+| 048566 | [Flask: Performance Baseline — Baseline Setup for Public Dataset](Project_048566/README.md) |
+| 048567 | [Flask: Performance Baseline — Automation for Public Dataset](Project_048567/README.md) |
+| 048568 | [Flask: Performance Baseline — Recovery for Public Dataset](Project_048568/README.md) |
+| 048569 | [Flask: Performance Baseline — Reporting for Public Dataset](Project_048569/README.md) |
+| 048570 | [Flask: Performance Baseline — Usability Improvement for Public Dataset](Project_048570/README.md) |
+| 048571 | [Flask: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_048571/README.md) |
+| 048572 | [Flask: Performance Baseline — Automation for Branch Office Simulator](Project_048572/README.md) |
+| 048573 | [Flask: Performance Baseline — Recovery for Branch Office Simulator](Project_048573/README.md) |
+| 048574 | [Flask: Performance Baseline — Reporting for Branch Office Simulator](Project_048574/README.md) |
+| 048575 | [Flask: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_048575/README.md) |
+| 048576 | [Flask: Performance Baseline — Baseline Setup for Offline Classroom](Project_048576/README.md) |
+| 048577 | [Flask: Performance Baseline — Automation for Offline Classroom](Project_048577/README.md) |
+| 048578 | [Flask: Performance Baseline — Recovery for Offline Classroom](Project_048578/README.md) |
+| 048579 | [Flask: Performance Baseline — Reporting for Offline Classroom](Project_048579/README.md) |
+| 048580 | [Flask: Performance Baseline — Usability Improvement for Offline Classroom](Project_048580/README.md) |
 
 [Back to the portfolio home](../README.md)
