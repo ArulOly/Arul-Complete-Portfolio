@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003258 | [Debian: Data Import — Recovery for Small Business](Project_003258/README.md) |
 | 003259 | [Debian: Data Import — Reporting for Small Business](Project_003259/README.md) |
 | 003260 | [Debian: Data Import — Usability Improvement for Small Business](Project_003260/README.md) |
+| 003261 | [Debian: Data Import — Baseline Setup for Home Development](Project_003261/README.md) |
+| 003262 | [Debian: Data Import — Automation for Home Development](Project_003262/README.md) |
+| 003263 | [Debian: Data Import — Recovery for Home Development](Project_003263/README.md) |
+| 003264 | [Debian: Data Import — Reporting for Home Development](Project_003264/README.md) |
+| 003265 | [Debian: Data Import — Usability Improvement for Home Development](Project_003265/README.md) |
+| 003266 | [Debian: Data Import — Baseline Setup for Public Dataset](Project_003266/README.md) |
+| 003267 | [Debian: Data Import — Automation for Public Dataset](Project_003267/README.md) |
+| 003268 | [Debian: Data Import — Recovery for Public Dataset](Project_003268/README.md) |
+| 003269 | [Debian: Data Import — Reporting for Public Dataset](Project_003269/README.md) |
+| 003270 | [Debian: Data Import — Usability Improvement for Public Dataset](Project_003270/README.md) |
+| 003271 | [Debian: Data Import — Baseline Setup for Branch Office Simulator](Project_003271/README.md) |
+| 003272 | [Debian: Data Import — Automation for Branch Office Simulator](Project_003272/README.md) |
+| 003273 | [Debian: Data Import — Recovery for Branch Office Simulator](Project_003273/README.md) |
+| 003274 | [Debian: Data Import — Reporting for Branch Office Simulator](Project_003274/README.md) |
+| 003275 | [Debian: Data Import — Usability Improvement for Branch Office Simulator](Project_003275/README.md) |
+| 003276 | [Debian: Data Import — Baseline Setup for Offline Classroom](Project_003276/README.md) |
+| 003277 | [Debian: Data Import — Automation for Offline Classroom](Project_003277/README.md) |
+| 003278 | [Debian: Data Import — Recovery for Offline Classroom](Project_003278/README.md) |
+| 003279 | [Debian: Data Import — Reporting for Offline Classroom](Project_003279/README.md) |
+| 003280 | [Debian: Data Import — Usability Improvement for Offline Classroom](Project_003280/README.md) |
 
 [Back to the portfolio home](../README.md)
