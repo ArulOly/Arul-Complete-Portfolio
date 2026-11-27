@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045678 | [Redis: Configuration Comparison — Recovery for Offline Classroom](Project_045678/README.md) |
 | 045679 | [Redis: Configuration Comparison — Reporting for Offline Classroom](Project_045679/README.md) |
 | 045680 | [Redis: Configuration Comparison — Usability Improvement for Offline Classroom](Project_045680/README.md) |
+| 045681 | [Redis: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_045681/README.md) |
+| 045682 | [Redis: Configuration Comparison — Automation for Single-Host Lab](Project_045682/README.md) |
+| 045683 | [Redis: Configuration Comparison — Recovery for Single-Host Lab](Project_045683/README.md) |
+| 045684 | [Redis: Configuration Comparison — Reporting for Single-Host Lab](Project_045684/README.md) |
+| 045685 | [Redis: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_045685/README.md) |
+| 045686 | [Redis: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_045686/README.md) |
+| 045687 | [Redis: Configuration Comparison — Automation for Two-Node Lab](Project_045687/README.md) |
+| 045688 | [Redis: Configuration Comparison — Recovery for Two-Node Lab](Project_045688/README.md) |
+| 045689 | [Redis: Configuration Comparison — Reporting for Two-Node Lab](Project_045689/README.md) |
+| 045690 | [Redis: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_045690/README.md) |
+| 045691 | [Redis: Configuration Comparison — Baseline Setup for Help Desk](Project_045691/README.md) |
+| 045692 | [Redis: Configuration Comparison — Automation for Help Desk](Project_045692/README.md) |
+| 045693 | [Redis: Configuration Comparison — Recovery for Help Desk](Project_045693/README.md) |
+| 045694 | [Redis: Configuration Comparison — Reporting for Help Desk](Project_045694/README.md) |
+| 045695 | [Redis: Configuration Comparison — Usability Improvement for Help Desk](Project_045695/README.md) |
+| 045696 | [Redis: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_045696/README.md) |
+| 045697 | [Redis: Configuration Comparison — Automation for Portfolio Demo](Project_045697/README.md) |
+| 045698 | [Redis: Configuration Comparison — Recovery for Portfolio Demo](Project_045698/README.md) |
+| 045699 | [Redis: Configuration Comparison — Reporting for Portfolio Demo](Project_045699/README.md) |
+| 045700 | [Redis: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_045700/README.md) |
 
 [Back to the portfolio home](../README.md)
