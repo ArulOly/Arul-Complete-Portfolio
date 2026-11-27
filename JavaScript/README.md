@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020278 | [JavaScript: Data Import — Recovery for Offline Classroom](Project_020278/README.md) |
 | 020279 | [JavaScript: Data Import — Reporting for Offline Classroom](Project_020279/README.md) |
 | 020280 | [JavaScript: Data Import — Usability Improvement for Offline Classroom](Project_020280/README.md) |
+| 020281 | [JavaScript: Data Import — Baseline Setup for Single-Host Lab](Project_020281/README.md) |
+| 020282 | [JavaScript: Data Import — Automation for Single-Host Lab](Project_020282/README.md) |
+| 020283 | [JavaScript: Data Import — Recovery for Single-Host Lab](Project_020283/README.md) |
+| 020284 | [JavaScript: Data Import — Reporting for Single-Host Lab](Project_020284/README.md) |
+| 020285 | [JavaScript: Data Import — Usability Improvement for Single-Host Lab](Project_020285/README.md) |
+| 020286 | [JavaScript: Data Import — Baseline Setup for Two-Node Lab](Project_020286/README.md) |
+| 020287 | [JavaScript: Data Import — Automation for Two-Node Lab](Project_020287/README.md) |
+| 020288 | [JavaScript: Data Import — Recovery for Two-Node Lab](Project_020288/README.md) |
+| 020289 | [JavaScript: Data Import — Reporting for Two-Node Lab](Project_020289/README.md) |
+| 020290 | [JavaScript: Data Import — Usability Improvement for Two-Node Lab](Project_020290/README.md) |
+| 020291 | [JavaScript: Data Import — Baseline Setup for Help Desk](Project_020291/README.md) |
+| 020292 | [JavaScript: Data Import — Automation for Help Desk](Project_020292/README.md) |
+| 020293 | [JavaScript: Data Import — Recovery for Help Desk](Project_020293/README.md) |
+| 020294 | [JavaScript: Data Import — Reporting for Help Desk](Project_020294/README.md) |
+| 020295 | [JavaScript: Data Import — Usability Improvement for Help Desk](Project_020295/README.md) |
+| 020296 | [JavaScript: Data Import — Baseline Setup for Portfolio Demo](Project_020296/README.md) |
+| 020297 | [JavaScript: Data Import — Automation for Portfolio Demo](Project_020297/README.md) |
+| 020298 | [JavaScript: Data Import — Recovery for Portfolio Demo](Project_020298/README.md) |
+| 020299 | [JavaScript: Data Import — Reporting for Portfolio Demo](Project_020299/README.md) |
+| 020300 | [JavaScript: Data Import — Usability Improvement for Portfolio Demo](Project_020300/README.md) |
 
 [Back to the portfolio home](../README.md)
