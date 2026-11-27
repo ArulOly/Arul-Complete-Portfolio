@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048838 | [Flask: Documentation Generation — Recovery for Two-Node Lab](Project_048838/README.md) |
 | 048839 | [Flask: Documentation Generation — Reporting for Two-Node Lab](Project_048839/README.md) |
 | 048840 | [Flask: Documentation Generation — Usability Improvement for Two-Node Lab](Project_048840/README.md) |
+| 048841 | [Flask: Documentation Generation — Baseline Setup for Help Desk](Project_048841/README.md) |
+| 048842 | [Flask: Documentation Generation — Automation for Help Desk](Project_048842/README.md) |
+| 048843 | [Flask: Documentation Generation — Recovery for Help Desk](Project_048843/README.md) |
+| 048844 | [Flask: Documentation Generation — Reporting for Help Desk](Project_048844/README.md) |
+| 048845 | [Flask: Documentation Generation — Usability Improvement for Help Desk](Project_048845/README.md) |
+| 048846 | [Flask: Documentation Generation — Baseline Setup for Portfolio Demo](Project_048846/README.md) |
+| 048847 | [Flask: Documentation Generation — Automation for Portfolio Demo](Project_048847/README.md) |
+| 048848 | [Flask: Documentation Generation — Recovery for Portfolio Demo](Project_048848/README.md) |
+| 048849 | [Flask: Documentation Generation — Reporting for Portfolio Demo](Project_048849/README.md) |
+| 048850 | [Flask: Documentation Generation — Usability Improvement for Portfolio Demo](Project_048850/README.md) |
+| 048851 | [Flask: Automation — Baseline Setup for School Lab](Project_048851/README.md) |
+| 048852 | [Flask: Automation — Automation for School Lab](Project_048852/README.md) |
+| 048853 | [Flask: Automation — Recovery for School Lab](Project_048853/README.md) |
+| 048854 | [Flask: Automation — Reporting for School Lab](Project_048854/README.md) |
+| 048855 | [Flask: Automation — Usability Improvement for School Lab](Project_048855/README.md) |
+| 048856 | [Flask: Automation — Baseline Setup for Small Business](Project_048856/README.md) |
+| 048857 | [Flask: Automation — Automation for Small Business](Project_048857/README.md) |
+| 048858 | [Flask: Automation — Recovery for Small Business](Project_048858/README.md) |
+| 048859 | [Flask: Automation — Reporting for Small Business](Project_048859/README.md) |
+| 048860 | [Flask: Automation — Usability Improvement for Small Business](Project_048860/README.md) |
 
 [Back to the portfolio home](../README.md)
