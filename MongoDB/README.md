@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027378 | [MongoDB: Dashboard — Recovery for Offline Classroom](Project_027378/README.md) |
 | 027379 | [MongoDB: Dashboard — Reporting for Offline Classroom](Project_027379/README.md) |
 | 027380 | [MongoDB: Dashboard — Usability Improvement for Offline Classroom](Project_027380/README.md) |
+| 027381 | [MongoDB: Dashboard — Baseline Setup for Single-Host Lab](Project_027381/README.md) |
+| 027382 | [MongoDB: Dashboard — Automation for Single-Host Lab](Project_027382/README.md) |
+| 027383 | [MongoDB: Dashboard — Recovery for Single-Host Lab](Project_027383/README.md) |
+| 027384 | [MongoDB: Dashboard — Reporting for Single-Host Lab](Project_027384/README.md) |
+| 027385 | [MongoDB: Dashboard — Usability Improvement for Single-Host Lab](Project_027385/README.md) |
+| 027386 | [MongoDB: Dashboard — Baseline Setup for Two-Node Lab](Project_027386/README.md) |
+| 027387 | [MongoDB: Dashboard — Automation for Two-Node Lab](Project_027387/README.md) |
+| 027388 | [MongoDB: Dashboard — Recovery for Two-Node Lab](Project_027388/README.md) |
+| 027389 | [MongoDB: Dashboard — Reporting for Two-Node Lab](Project_027389/README.md) |
+| 027390 | [MongoDB: Dashboard — Usability Improvement for Two-Node Lab](Project_027390/README.md) |
+| 027391 | [MongoDB: Dashboard — Baseline Setup for Help Desk](Project_027391/README.md) |
+| 027392 | [MongoDB: Dashboard — Automation for Help Desk](Project_027392/README.md) |
+| 027393 | [MongoDB: Dashboard — Recovery for Help Desk](Project_027393/README.md) |
+| 027394 | [MongoDB: Dashboard — Reporting for Help Desk](Project_027394/README.md) |
+| 027395 | [MongoDB: Dashboard — Usability Improvement for Help Desk](Project_027395/README.md) |
+| 027396 | [MongoDB: Dashboard — Baseline Setup for Portfolio Demo](Project_027396/README.md) |
+| 027397 | [MongoDB: Dashboard — Automation for Portfolio Demo](Project_027397/README.md) |
+| 027398 | [MongoDB: Dashboard — Recovery for Portfolio Demo](Project_027398/README.md) |
+| 027399 | [MongoDB: Dashboard — Reporting for Portfolio Demo](Project_027399/README.md) |
+| 027400 | [MongoDB: Dashboard — Usability Improvement for Portfolio Demo](Project_027400/README.md) |
 
 [Back to the portfolio home](../README.md)
