@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027958 | [MongoDB: Recovery Test — Recovery for Small Business](Project_027958/README.md) |
 | 027959 | [MongoDB: Recovery Test — Reporting for Small Business](Project_027959/README.md) |
 | 027960 | [MongoDB: Recovery Test — Usability Improvement for Small Business](Project_027960/README.md) |
+| 027961 | [MongoDB: Recovery Test — Baseline Setup for Home Development](Project_027961/README.md) |
+| 027962 | [MongoDB: Recovery Test — Automation for Home Development](Project_027962/README.md) |
+| 027963 | [MongoDB: Recovery Test — Recovery for Home Development](Project_027963/README.md) |
+| 027964 | [MongoDB: Recovery Test — Reporting for Home Development](Project_027964/README.md) |
+| 027965 | [MongoDB: Recovery Test — Usability Improvement for Home Development](Project_027965/README.md) |
+| 027966 | [MongoDB: Recovery Test — Baseline Setup for Public Dataset](Project_027966/README.md) |
+| 027967 | [MongoDB: Recovery Test — Automation for Public Dataset](Project_027967/README.md) |
+| 027968 | [MongoDB: Recovery Test — Recovery for Public Dataset](Project_027968/README.md) |
+| 027969 | [MongoDB: Recovery Test — Reporting for Public Dataset](Project_027969/README.md) |
+| 027970 | [MongoDB: Recovery Test — Usability Improvement for Public Dataset](Project_027970/README.md) |
+| 027971 | [MongoDB: Recovery Test — Baseline Setup for Branch Office Simulator](Project_027971/README.md) |
+| 027972 | [MongoDB: Recovery Test — Automation for Branch Office Simulator](Project_027972/README.md) |
+| 027973 | [MongoDB: Recovery Test — Recovery for Branch Office Simulator](Project_027973/README.md) |
+| 027974 | [MongoDB: Recovery Test — Reporting for Branch Office Simulator](Project_027974/README.md) |
+| 027975 | [MongoDB: Recovery Test — Usability Improvement for Branch Office Simulator](Project_027975/README.md) |
+| 027976 | [MongoDB: Recovery Test — Baseline Setup for Offline Classroom](Project_027976/README.md) |
+| 027977 | [MongoDB: Recovery Test — Automation for Offline Classroom](Project_027977/README.md) |
+| 027978 | [MongoDB: Recovery Test — Recovery for Offline Classroom](Project_027978/README.md) |
+| 027979 | [MongoDB: Recovery Test — Reporting for Offline Classroom](Project_027979/README.md) |
+| 027980 | [MongoDB: Recovery Test — Usability Improvement for Offline Classroom](Project_027980/README.md) |
 
 [Back to the portfolio home](../README.md)
