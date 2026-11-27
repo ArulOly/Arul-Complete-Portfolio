@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048738 | [Flask: Error Handling — Recovery for Two-Node Lab](Project_048738/README.md) |
 | 048739 | [Flask: Error Handling — Reporting for Two-Node Lab](Project_048739/README.md) |
 | 048740 | [Flask: Error Handling — Usability Improvement for Two-Node Lab](Project_048740/README.md) |
+| 048741 | [Flask: Error Handling — Baseline Setup for Help Desk](Project_048741/README.md) |
+| 048742 | [Flask: Error Handling — Automation for Help Desk](Project_048742/README.md) |
+| 048743 | [Flask: Error Handling — Recovery for Help Desk](Project_048743/README.md) |
+| 048744 | [Flask: Error Handling — Reporting for Help Desk](Project_048744/README.md) |
+| 048745 | [Flask: Error Handling — Usability Improvement for Help Desk](Project_048745/README.md) |
+| 048746 | [Flask: Error Handling — Baseline Setup for Portfolio Demo](Project_048746/README.md) |
+| 048747 | [Flask: Error Handling — Automation for Portfolio Demo](Project_048747/README.md) |
+| 048748 | [Flask: Error Handling — Recovery for Portfolio Demo](Project_048748/README.md) |
+| 048749 | [Flask: Error Handling — Reporting for Portfolio Demo](Project_048749/README.md) |
+| 048750 | [Flask: Error Handling — Usability Improvement for Portfolio Demo](Project_048750/README.md) |
+| 048751 | [Flask: Data Validation — Baseline Setup for School Lab](Project_048751/README.md) |
+| 048752 | [Flask: Data Validation — Automation for School Lab](Project_048752/README.md) |
+| 048753 | [Flask: Data Validation — Recovery for School Lab](Project_048753/README.md) |
+| 048754 | [Flask: Data Validation — Reporting for School Lab](Project_048754/README.md) |
+| 048755 | [Flask: Data Validation — Usability Improvement for School Lab](Project_048755/README.md) |
+| 048756 | [Flask: Data Validation — Baseline Setup for Small Business](Project_048756/README.md) |
+| 048757 | [Flask: Data Validation — Automation for Small Business](Project_048757/README.md) |
+| 048758 | [Flask: Data Validation — Recovery for Small Business](Project_048758/README.md) |
+| 048759 | [Flask: Data Validation — Reporting for Small Business](Project_048759/README.md) |
+| 048760 | [Flask: Data Validation — Usability Improvement for Small Business](Project_048760/README.md) |
 
 [Back to the portfolio home](../README.md)
