@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024458 | [Node.js: Scheduled Reporting — Recovery for Small Business](Project_024458/README.md) |
 | 024459 | [Node.js: Scheduled Reporting — Reporting for Small Business](Project_024459/README.md) |
 | 024460 | [Node.js: Scheduled Reporting — Usability Improvement for Small Business](Project_024460/README.md) |
+| 024461 | [Node.js: Scheduled Reporting — Baseline Setup for Home Development](Project_024461/README.md) |
+| 024462 | [Node.js: Scheduled Reporting — Automation for Home Development](Project_024462/README.md) |
+| 024463 | [Node.js: Scheduled Reporting — Recovery for Home Development](Project_024463/README.md) |
+| 024464 | [Node.js: Scheduled Reporting — Reporting for Home Development](Project_024464/README.md) |
+| 024465 | [Node.js: Scheduled Reporting — Usability Improvement for Home Development](Project_024465/README.md) |
+| 024466 | [Node.js: Scheduled Reporting — Baseline Setup for Public Dataset](Project_024466/README.md) |
+| 024467 | [Node.js: Scheduled Reporting — Automation for Public Dataset](Project_024467/README.md) |
+| 024468 | [Node.js: Scheduled Reporting — Recovery for Public Dataset](Project_024468/README.md) |
+| 024469 | [Node.js: Scheduled Reporting — Reporting for Public Dataset](Project_024469/README.md) |
+| 024470 | [Node.js: Scheduled Reporting — Usability Improvement for Public Dataset](Project_024470/README.md) |
+| 024471 | [Node.js: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_024471/README.md) |
+| 024472 | [Node.js: Scheduled Reporting — Automation for Branch Office Simulator](Project_024472/README.md) |
+| 024473 | [Node.js: Scheduled Reporting — Recovery for Branch Office Simulator](Project_024473/README.md) |
+| 024474 | [Node.js: Scheduled Reporting — Reporting for Branch Office Simulator](Project_024474/README.md) |
+| 024475 | [Node.js: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_024475/README.md) |
+| 024476 | [Node.js: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_024476/README.md) |
+| 024477 | [Node.js: Scheduled Reporting — Automation for Offline Classroom](Project_024477/README.md) |
+| 024478 | [Node.js: Scheduled Reporting — Recovery for Offline Classroom](Project_024478/README.md) |
+| 024479 | [Node.js: Scheduled Reporting — Reporting for Offline Classroom](Project_024479/README.md) |
+| 024480 | [Node.js: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_024480/README.md) |
 
 [Back to the portfolio home](../README.md)
