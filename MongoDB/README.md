@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027358 | [MongoDB: Dashboard — Recovery for Small Business](Project_027358/README.md) |
 | 027359 | [MongoDB: Dashboard — Reporting for Small Business](Project_027359/README.md) |
 | 027360 | [MongoDB: Dashboard — Usability Improvement for Small Business](Project_027360/README.md) |
+| 027361 | [MongoDB: Dashboard — Baseline Setup for Home Development](Project_027361/README.md) |
+| 027362 | [MongoDB: Dashboard — Automation for Home Development](Project_027362/README.md) |
+| 027363 | [MongoDB: Dashboard — Recovery for Home Development](Project_027363/README.md) |
+| 027364 | [MongoDB: Dashboard — Reporting for Home Development](Project_027364/README.md) |
+| 027365 | [MongoDB: Dashboard — Usability Improvement for Home Development](Project_027365/README.md) |
+| 027366 | [MongoDB: Dashboard — Baseline Setup for Public Dataset](Project_027366/README.md) |
+| 027367 | [MongoDB: Dashboard — Automation for Public Dataset](Project_027367/README.md) |
+| 027368 | [MongoDB: Dashboard — Recovery for Public Dataset](Project_027368/README.md) |
+| 027369 | [MongoDB: Dashboard — Reporting for Public Dataset](Project_027369/README.md) |
+| 027370 | [MongoDB: Dashboard — Usability Improvement for Public Dataset](Project_027370/README.md) |
+| 027371 | [MongoDB: Dashboard — Baseline Setup for Branch Office Simulator](Project_027371/README.md) |
+| 027372 | [MongoDB: Dashboard — Automation for Branch Office Simulator](Project_027372/README.md) |
+| 027373 | [MongoDB: Dashboard — Recovery for Branch Office Simulator](Project_027373/README.md) |
+| 027374 | [MongoDB: Dashboard — Reporting for Branch Office Simulator](Project_027374/README.md) |
+| 027375 | [MongoDB: Dashboard — Usability Improvement for Branch Office Simulator](Project_027375/README.md) |
+| 027376 | [MongoDB: Dashboard — Baseline Setup for Offline Classroom](Project_027376/README.md) |
+| 027377 | [MongoDB: Dashboard — Automation for Offline Classroom](Project_027377/README.md) |
+| 027378 | [MongoDB: Dashboard — Recovery for Offline Classroom](Project_027378/README.md) |
+| 027379 | [MongoDB: Dashboard — Reporting for Offline Classroom](Project_027379/README.md) |
+| 027380 | [MongoDB: Dashboard — Usability Improvement for Offline Classroom](Project_027380/README.md) |
 
 [Back to the portfolio home](../README.md)
