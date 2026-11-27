@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048658 | [Flask: Configuration Comparison — Recovery for Small Business](Project_048658/README.md) |
 | 048659 | [Flask: Configuration Comparison — Reporting for Small Business](Project_048659/README.md) |
 | 048660 | [Flask: Configuration Comparison — Usability Improvement for Small Business](Project_048660/README.md) |
+| 048661 | [Flask: Configuration Comparison — Baseline Setup for Home Development](Project_048661/README.md) |
+| 048662 | [Flask: Configuration Comparison — Automation for Home Development](Project_048662/README.md) |
+| 048663 | [Flask: Configuration Comparison — Recovery for Home Development](Project_048663/README.md) |
+| 048664 | [Flask: Configuration Comparison — Reporting for Home Development](Project_048664/README.md) |
+| 048665 | [Flask: Configuration Comparison — Usability Improvement for Home Development](Project_048665/README.md) |
+| 048666 | [Flask: Configuration Comparison — Baseline Setup for Public Dataset](Project_048666/README.md) |
+| 048667 | [Flask: Configuration Comparison — Automation for Public Dataset](Project_048667/README.md) |
+| 048668 | [Flask: Configuration Comparison — Recovery for Public Dataset](Project_048668/README.md) |
+| 048669 | [Flask: Configuration Comparison — Reporting for Public Dataset](Project_048669/README.md) |
+| 048670 | [Flask: Configuration Comparison — Usability Improvement for Public Dataset](Project_048670/README.md) |
+| 048671 | [Flask: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_048671/README.md) |
+| 048672 | [Flask: Configuration Comparison — Automation for Branch Office Simulator](Project_048672/README.md) |
+| 048673 | [Flask: Configuration Comparison — Recovery for Branch Office Simulator](Project_048673/README.md) |
+| 048674 | [Flask: Configuration Comparison — Reporting for Branch Office Simulator](Project_048674/README.md) |
+| 048675 | [Flask: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_048675/README.md) |
+| 048676 | [Flask: Configuration Comparison — Baseline Setup for Offline Classroom](Project_048676/README.md) |
+| 048677 | [Flask: Configuration Comparison — Automation for Offline Classroom](Project_048677/README.md) |
+| 048678 | [Flask: Configuration Comparison — Recovery for Offline Classroom](Project_048678/README.md) |
+| 048679 | [Flask: Configuration Comparison — Reporting for Offline Classroom](Project_048679/README.md) |
+| 048680 | [Flask: Configuration Comparison — Usability Improvement for Offline Classroom](Project_048680/README.md) |
 
 [Back to the portfolio home](../README.md)
