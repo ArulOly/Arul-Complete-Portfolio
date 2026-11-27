@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028558 | [SQLite: Performance Baseline — Recovery for Small Business](Project_028558/README.md) |
 | 028559 | [SQLite: Performance Baseline — Reporting for Small Business](Project_028559/README.md) |
 | 028560 | [SQLite: Performance Baseline — Usability Improvement for Small Business](Project_028560/README.md) |
+| 028561 | [SQLite: Performance Baseline — Baseline Setup for Home Development](Project_028561/README.md) |
+| 028562 | [SQLite: Performance Baseline — Automation for Home Development](Project_028562/README.md) |
+| 028563 | [SQLite: Performance Baseline — Recovery for Home Development](Project_028563/README.md) |
+| 028564 | [SQLite: Performance Baseline — Reporting for Home Development](Project_028564/README.md) |
+| 028565 | [SQLite: Performance Baseline — Usability Improvement for Home Development](Project_028565/README.md) |
+| 028566 | [SQLite: Performance Baseline — Baseline Setup for Public Dataset](Project_028566/README.md) |
+| 028567 | [SQLite: Performance Baseline — Automation for Public Dataset](Project_028567/README.md) |
+| 028568 | [SQLite: Performance Baseline — Recovery for Public Dataset](Project_028568/README.md) |
+| 028569 | [SQLite: Performance Baseline — Reporting for Public Dataset](Project_028569/README.md) |
+| 028570 | [SQLite: Performance Baseline — Usability Improvement for Public Dataset](Project_028570/README.md) |
+| 028571 | [SQLite: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_028571/README.md) |
+| 028572 | [SQLite: Performance Baseline — Automation for Branch Office Simulator](Project_028572/README.md) |
+| 028573 | [SQLite: Performance Baseline — Recovery for Branch Office Simulator](Project_028573/README.md) |
+| 028574 | [SQLite: Performance Baseline — Reporting for Branch Office Simulator](Project_028574/README.md) |
+| 028575 | [SQLite: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_028575/README.md) |
+| 028576 | [SQLite: Performance Baseline — Baseline Setup for Offline Classroom](Project_028576/README.md) |
+| 028577 | [SQLite: Performance Baseline — Automation for Offline Classroom](Project_028577/README.md) |
+| 028578 | [SQLite: Performance Baseline — Recovery for Offline Classroom](Project_028578/README.md) |
+| 028579 | [SQLite: Performance Baseline — Reporting for Offline Classroom](Project_028579/README.md) |
+| 028580 | [SQLite: Performance Baseline — Usability Improvement for Offline Classroom](Project_028580/README.md) |
 
 [Back to the portfolio home](../README.md)
