@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026138 | [MySQL: Audit — Recovery for Two-Node Lab](Project_026138/README.md) |
 | 026139 | [MySQL: Audit — Reporting for Two-Node Lab](Project_026139/README.md) |
 | 026140 | [MySQL: Audit — Usability Improvement for Two-Node Lab](Project_026140/README.md) |
+| 026141 | [MySQL: Audit — Baseline Setup for Help Desk](Project_026141/README.md) |
+| 026142 | [MySQL: Audit — Automation for Help Desk](Project_026142/README.md) |
+| 026143 | [MySQL: Audit — Recovery for Help Desk](Project_026143/README.md) |
+| 026144 | [MySQL: Audit — Reporting for Help Desk](Project_026144/README.md) |
+| 026145 | [MySQL: Audit — Usability Improvement for Help Desk](Project_026145/README.md) |
+| 026146 | [MySQL: Audit — Baseline Setup for Portfolio Demo](Project_026146/README.md) |
+| 026147 | [MySQL: Audit — Automation for Portfolio Demo](Project_026147/README.md) |
+| 026148 | [MySQL: Audit — Recovery for Portfolio Demo](Project_026148/README.md) |
+| 026149 | [MySQL: Audit — Reporting for Portfolio Demo](Project_026149/README.md) |
+| 026150 | [MySQL: Audit — Usability Improvement for Portfolio Demo](Project_026150/README.md) |
+| 026151 | [MySQL: Log Analysis — Baseline Setup for School Lab](Project_026151/README.md) |
+| 026152 | [MySQL: Log Analysis — Automation for School Lab](Project_026152/README.md) |
+| 026153 | [MySQL: Log Analysis — Recovery for School Lab](Project_026153/README.md) |
+| 026154 | [MySQL: Log Analysis — Reporting for School Lab](Project_026154/README.md) |
+| 026155 | [MySQL: Log Analysis — Usability Improvement for School Lab](Project_026155/README.md) |
+| 026156 | [MySQL: Log Analysis — Baseline Setup for Small Business](Project_026156/README.md) |
+| 026157 | [MySQL: Log Analysis — Automation for Small Business](Project_026157/README.md) |
+| 026158 | [MySQL: Log Analysis — Recovery for Small Business](Project_026158/README.md) |
+| 026159 | [MySQL: Log Analysis — Reporting for Small Business](Project_026159/README.md) |
+| 026160 | [MySQL: Log Analysis — Usability Improvement for Small Business](Project_026160/README.md) |
 
 [Back to the portfolio home](../README.md)
