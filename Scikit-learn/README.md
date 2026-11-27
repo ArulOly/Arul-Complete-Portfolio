@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034538 | [Scikit-learn: Access Review — Recovery for Two-Node Lab](Project_034538/README.md) |
 | 034539 | [Scikit-learn: Access Review — Reporting for Two-Node Lab](Project_034539/README.md) |
 | 034540 | [Scikit-learn: Access Review — Usability Improvement for Two-Node Lab](Project_034540/README.md) |
+| 034541 | [Scikit-learn: Access Review — Baseline Setup for Help Desk](Project_034541/README.md) |
+| 034542 | [Scikit-learn: Access Review — Automation for Help Desk](Project_034542/README.md) |
+| 034543 | [Scikit-learn: Access Review — Recovery for Help Desk](Project_034543/README.md) |
+| 034544 | [Scikit-learn: Access Review — Reporting for Help Desk](Project_034544/README.md) |
+| 034545 | [Scikit-learn: Access Review — Usability Improvement for Help Desk](Project_034545/README.md) |
+| 034546 | [Scikit-learn: Access Review — Baseline Setup for Portfolio Demo](Project_034546/README.md) |
+| 034547 | [Scikit-learn: Access Review — Automation for Portfolio Demo](Project_034547/README.md) |
+| 034548 | [Scikit-learn: Access Review — Recovery for Portfolio Demo](Project_034548/README.md) |
+| 034549 | [Scikit-learn: Access Review — Reporting for Portfolio Demo](Project_034549/README.md) |
+| 034550 | [Scikit-learn: Access Review — Usability Improvement for Portfolio Demo](Project_034550/README.md) |
+| 034551 | [Scikit-learn: Performance Baseline — Baseline Setup for School Lab](Project_034551/README.md) |
+| 034552 | [Scikit-learn: Performance Baseline — Automation for School Lab](Project_034552/README.md) |
+| 034553 | [Scikit-learn: Performance Baseline — Recovery for School Lab](Project_034553/README.md) |
+| 034554 | [Scikit-learn: Performance Baseline — Reporting for School Lab](Project_034554/README.md) |
+| 034555 | [Scikit-learn: Performance Baseline — Usability Improvement for School Lab](Project_034555/README.md) |
+| 034556 | [Scikit-learn: Performance Baseline — Baseline Setup for Small Business](Project_034556/README.md) |
+| 034557 | [Scikit-learn: Performance Baseline — Automation for Small Business](Project_034557/README.md) |
+| 034558 | [Scikit-learn: Performance Baseline — Recovery for Small Business](Project_034558/README.md) |
+| 034559 | [Scikit-learn: Performance Baseline — Reporting for Small Business](Project_034559/README.md) |
+| 034560 | [Scikit-learn: Performance Baseline — Usability Improvement for Small Business](Project_034560/README.md) |
 
 [Back to the portfolio home](../README.md)
