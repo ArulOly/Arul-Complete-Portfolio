@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026438 | [MySQL: Alerting — Recovery for Two-Node Lab](Project_026438/README.md) |
 | 026439 | [MySQL: Alerting — Reporting for Two-Node Lab](Project_026439/README.md) |
 | 026440 | [MySQL: Alerting — Usability Improvement for Two-Node Lab](Project_026440/README.md) |
+| 026441 | [MySQL: Alerting — Baseline Setup for Help Desk](Project_026441/README.md) |
+| 026442 | [MySQL: Alerting — Automation for Help Desk](Project_026442/README.md) |
+| 026443 | [MySQL: Alerting — Recovery for Help Desk](Project_026443/README.md) |
+| 026444 | [MySQL: Alerting — Reporting for Help Desk](Project_026444/README.md) |
+| 026445 | [MySQL: Alerting — Usability Improvement for Help Desk](Project_026445/README.md) |
+| 026446 | [MySQL: Alerting — Baseline Setup for Portfolio Demo](Project_026446/README.md) |
+| 026447 | [MySQL: Alerting — Automation for Portfolio Demo](Project_026447/README.md) |
+| 026448 | [MySQL: Alerting — Recovery for Portfolio Demo](Project_026448/README.md) |
+| 026449 | [MySQL: Alerting — Reporting for Portfolio Demo](Project_026449/README.md) |
+| 026450 | [MySQL: Alerting — Usability Improvement for Portfolio Demo](Project_026450/README.md) |
+| 026451 | [MySQL: Scheduled Reporting — Baseline Setup for School Lab](Project_026451/README.md) |
+| 026452 | [MySQL: Scheduled Reporting — Automation for School Lab](Project_026452/README.md) |
+| 026453 | [MySQL: Scheduled Reporting — Recovery for School Lab](Project_026453/README.md) |
+| 026454 | [MySQL: Scheduled Reporting — Reporting for School Lab](Project_026454/README.md) |
+| 026455 | [MySQL: Scheduled Reporting — Usability Improvement for School Lab](Project_026455/README.md) |
+| 026456 | [MySQL: Scheduled Reporting — Baseline Setup for Small Business](Project_026456/README.md) |
+| 026457 | [MySQL: Scheduled Reporting — Automation for Small Business](Project_026457/README.md) |
+| 026458 | [MySQL: Scheduled Reporting — Recovery for Small Business](Project_026458/README.md) |
+| 026459 | [MySQL: Scheduled Reporting — Reporting for Small Business](Project_026459/README.md) |
+| 026460 | [MySQL: Scheduled Reporting — Usability Improvement for Small Business](Project_026460/README.md) |
 
 [Back to the portfolio home](../README.md)
