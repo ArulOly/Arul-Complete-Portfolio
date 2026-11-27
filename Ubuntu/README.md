@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002198 | [Ubuntu: Log Analysis — Recovery for Portfolio Demo](Project_002198/README.md) |
 | 002199 | [Ubuntu: Log Analysis — Reporting for Portfolio Demo](Project_002199/README.md) |
 | 002200 | [Ubuntu: Log Analysis — Usability Improvement for Portfolio Demo](Project_002200/README.md) |
+| 002201 | [Ubuntu: Backup Verification — Baseline Setup for School Lab](Project_002201/README.md) |
+| 002202 | [Ubuntu: Backup Verification — Automation for School Lab](Project_002202/README.md) |
+| 002203 | [Ubuntu: Backup Verification — Recovery for School Lab](Project_002203/README.md) |
+| 002204 | [Ubuntu: Backup Verification — Reporting for School Lab](Project_002204/README.md) |
+| 002205 | [Ubuntu: Backup Verification — Usability Improvement for School Lab](Project_002205/README.md) |
+| 002206 | [Ubuntu: Backup Verification — Baseline Setup for Small Business](Project_002206/README.md) |
+| 002207 | [Ubuntu: Backup Verification — Automation for Small Business](Project_002207/README.md) |
+| 002208 | [Ubuntu: Backup Verification — Recovery for Small Business](Project_002208/README.md) |
+| 002209 | [Ubuntu: Backup Verification — Reporting for Small Business](Project_002209/README.md) |
+| 002210 | [Ubuntu: Backup Verification — Usability Improvement for Small Business](Project_002210/README.md) |
+| 002211 | [Ubuntu: Backup Verification — Baseline Setup for Home Development](Project_002211/README.md) |
+| 002212 | [Ubuntu: Backup Verification — Automation for Home Development](Project_002212/README.md) |
+| 002213 | [Ubuntu: Backup Verification — Recovery for Home Development](Project_002213/README.md) |
+| 002214 | [Ubuntu: Backup Verification — Reporting for Home Development](Project_002214/README.md) |
+| 002215 | [Ubuntu: Backup Verification — Usability Improvement for Home Development](Project_002215/README.md) |
+| 002216 | [Ubuntu: Backup Verification — Baseline Setup for Public Dataset](Project_002216/README.md) |
+| 002217 | [Ubuntu: Backup Verification — Automation for Public Dataset](Project_002217/README.md) |
+| 002218 | [Ubuntu: Backup Verification — Recovery for Public Dataset](Project_002218/README.md) |
+| 002219 | [Ubuntu: Backup Verification — Reporting for Public Dataset](Project_002219/README.md) |
+| 002220 | [Ubuntu: Backup Verification — Usability Improvement for Public Dataset](Project_002220/README.md) |
 
 [Back to the portfolio home](../README.md)
