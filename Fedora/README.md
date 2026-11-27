@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004838 | [Fedora: Documentation Generation — Recovery for Two-Node Lab](Project_004838/README.md) |
 | 004839 | [Fedora: Documentation Generation — Reporting for Two-Node Lab](Project_004839/README.md) |
 | 004840 | [Fedora: Documentation Generation — Usability Improvement for Two-Node Lab](Project_004840/README.md) |
+| 004841 | [Fedora: Documentation Generation — Baseline Setup for Help Desk](Project_004841/README.md) |
+| 004842 | [Fedora: Documentation Generation — Automation for Help Desk](Project_004842/README.md) |
+| 004843 | [Fedora: Documentation Generation — Recovery for Help Desk](Project_004843/README.md) |
+| 004844 | [Fedora: Documentation Generation — Reporting for Help Desk](Project_004844/README.md) |
+| 004845 | [Fedora: Documentation Generation — Usability Improvement for Help Desk](Project_004845/README.md) |
+| 004846 | [Fedora: Documentation Generation — Baseline Setup for Portfolio Demo](Project_004846/README.md) |
+| 004847 | [Fedora: Documentation Generation — Automation for Portfolio Demo](Project_004847/README.md) |
+| 004848 | [Fedora: Documentation Generation — Recovery for Portfolio Demo](Project_004848/README.md) |
+| 004849 | [Fedora: Documentation Generation — Reporting for Portfolio Demo](Project_004849/README.md) |
+| 004850 | [Fedora: Documentation Generation — Usability Improvement for Portfolio Demo](Project_004850/README.md) |
+| 004851 | [Fedora: Automation — Baseline Setup for School Lab](Project_004851/README.md) |
+| 004852 | [Fedora: Automation — Automation for School Lab](Project_004852/README.md) |
+| 004853 | [Fedora: Automation — Recovery for School Lab](Project_004853/README.md) |
+| 004854 | [Fedora: Automation — Reporting for School Lab](Project_004854/README.md) |
+| 004855 | [Fedora: Automation — Usability Improvement for School Lab](Project_004855/README.md) |
+| 004856 | [Fedora: Automation — Baseline Setup for Small Business](Project_004856/README.md) |
+| 004857 | [Fedora: Automation — Automation for Small Business](Project_004857/README.md) |
+| 004858 | [Fedora: Automation — Recovery for Small Business](Project_004858/README.md) |
+| 004859 | [Fedora: Automation — Reporting for Small Business](Project_004859/README.md) |
+| 004860 | [Fedora: Automation — Usability Improvement for Small Business](Project_004860/README.md) |
 
 [Back to the portfolio home](../README.md)
