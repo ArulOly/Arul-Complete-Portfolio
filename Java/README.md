@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022698 | [Java: Configuration Comparison — Recovery for Portfolio Demo](Project_022698/README.md) |
 | 022699 | [Java: Configuration Comparison — Reporting for Portfolio Demo](Project_022699/README.md) |
 | 022700 | [Java: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_022700/README.md) |
+| 022701 | [Java: Error Handling — Baseline Setup for School Lab](Project_022701/README.md) |
+| 022702 | [Java: Error Handling — Automation for School Lab](Project_022702/README.md) |
+| 022703 | [Java: Error Handling — Recovery for School Lab](Project_022703/README.md) |
+| 022704 | [Java: Error Handling — Reporting for School Lab](Project_022704/README.md) |
+| 022705 | [Java: Error Handling — Usability Improvement for School Lab](Project_022705/README.md) |
+| 022706 | [Java: Error Handling — Baseline Setup for Small Business](Project_022706/README.md) |
+| 022707 | [Java: Error Handling — Automation for Small Business](Project_022707/README.md) |
+| 022708 | [Java: Error Handling — Recovery for Small Business](Project_022708/README.md) |
+| 022709 | [Java: Error Handling — Reporting for Small Business](Project_022709/README.md) |
+| 022710 | [Java: Error Handling — Usability Improvement for Small Business](Project_022710/README.md) |
+| 022711 | [Java: Error Handling — Baseline Setup for Home Development](Project_022711/README.md) |
+| 022712 | [Java: Error Handling — Automation for Home Development](Project_022712/README.md) |
+| 022713 | [Java: Error Handling — Recovery for Home Development](Project_022713/README.md) |
+| 022714 | [Java: Error Handling — Reporting for Home Development](Project_022714/README.md) |
+| 022715 | [Java: Error Handling — Usability Improvement for Home Development](Project_022715/README.md) |
+| 022716 | [Java: Error Handling — Baseline Setup for Public Dataset](Project_022716/README.md) |
+| 022717 | [Java: Error Handling — Automation for Public Dataset](Project_022717/README.md) |
+| 022718 | [Java: Error Handling — Recovery for Public Dataset](Project_022718/README.md) |
+| 022719 | [Java: Error Handling — Reporting for Public Dataset](Project_022719/README.md) |
+| 022720 | [Java: Error Handling — Usability Improvement for Public Dataset](Project_022720/README.md) |
 
 [Back to the portfolio home](../README.md)
