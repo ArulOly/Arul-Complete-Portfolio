@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021698 | [TypeScript: Configuration Comparison — Recovery for Portfolio Demo](Project_021698/README.md) |
 | 021699 | [TypeScript: Configuration Comparison — Reporting for Portfolio Demo](Project_021699/README.md) |
 | 021700 | [TypeScript: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_021700/README.md) |
+| 021701 | [TypeScript: Error Handling — Baseline Setup for School Lab](Project_021701/README.md) |
+| 021702 | [TypeScript: Error Handling — Automation for School Lab](Project_021702/README.md) |
+| 021703 | [TypeScript: Error Handling — Recovery for School Lab](Project_021703/README.md) |
+| 021704 | [TypeScript: Error Handling — Reporting for School Lab](Project_021704/README.md) |
+| 021705 | [TypeScript: Error Handling — Usability Improvement for School Lab](Project_021705/README.md) |
+| 021706 | [TypeScript: Error Handling — Baseline Setup for Small Business](Project_021706/README.md) |
+| 021707 | [TypeScript: Error Handling — Automation for Small Business](Project_021707/README.md) |
+| 021708 | [TypeScript: Error Handling — Recovery for Small Business](Project_021708/README.md) |
+| 021709 | [TypeScript: Error Handling — Reporting for Small Business](Project_021709/README.md) |
+| 021710 | [TypeScript: Error Handling — Usability Improvement for Small Business](Project_021710/README.md) |
+| 021711 | [TypeScript: Error Handling — Baseline Setup for Home Development](Project_021711/README.md) |
+| 021712 | [TypeScript: Error Handling — Automation for Home Development](Project_021712/README.md) |
+| 021713 | [TypeScript: Error Handling — Recovery for Home Development](Project_021713/README.md) |
+| 021714 | [TypeScript: Error Handling — Reporting for Home Development](Project_021714/README.md) |
+| 021715 | [TypeScript: Error Handling — Usability Improvement for Home Development](Project_021715/README.md) |
+| 021716 | [TypeScript: Error Handling — Baseline Setup for Public Dataset](Project_021716/README.md) |
+| 021717 | [TypeScript: Error Handling — Automation for Public Dataset](Project_021717/README.md) |
+| 021718 | [TypeScript: Error Handling — Recovery for Public Dataset](Project_021718/README.md) |
+| 021719 | [TypeScript: Error Handling — Reporting for Public Dataset](Project_021719/README.md) |
+| 021720 | [TypeScript: Error Handling — Usability Improvement for Public Dataset](Project_021720/README.md) |
 
 [Back to the portfolio home](../README.md)
