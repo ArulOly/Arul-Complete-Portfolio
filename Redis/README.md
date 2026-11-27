@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045738 | [Redis: Error Handling — Recovery for Two-Node Lab](Project_045738/README.md) |
 | 045739 | [Redis: Error Handling — Reporting for Two-Node Lab](Project_045739/README.md) |
 | 045740 | [Redis: Error Handling — Usability Improvement for Two-Node Lab](Project_045740/README.md) |
+| 045741 | [Redis: Error Handling — Baseline Setup for Help Desk](Project_045741/README.md) |
+| 045742 | [Redis: Error Handling — Automation for Help Desk](Project_045742/README.md) |
+| 045743 | [Redis: Error Handling — Recovery for Help Desk](Project_045743/README.md) |
+| 045744 | [Redis: Error Handling — Reporting for Help Desk](Project_045744/README.md) |
+| 045745 | [Redis: Error Handling — Usability Improvement for Help Desk](Project_045745/README.md) |
+| 045746 | [Redis: Error Handling — Baseline Setup for Portfolio Demo](Project_045746/README.md) |
+| 045747 | [Redis: Error Handling — Automation for Portfolio Demo](Project_045747/README.md) |
+| 045748 | [Redis: Error Handling — Recovery for Portfolio Demo](Project_045748/README.md) |
+| 045749 | [Redis: Error Handling — Reporting for Portfolio Demo](Project_045749/README.md) |
+| 045750 | [Redis: Error Handling — Usability Improvement for Portfolio Demo](Project_045750/README.md) |
+| 045751 | [Redis: Data Validation — Baseline Setup for School Lab](Project_045751/README.md) |
+| 045752 | [Redis: Data Validation — Automation for School Lab](Project_045752/README.md) |
+| 045753 | [Redis: Data Validation — Recovery for School Lab](Project_045753/README.md) |
+| 045754 | [Redis: Data Validation — Reporting for School Lab](Project_045754/README.md) |
+| 045755 | [Redis: Data Validation — Usability Improvement for School Lab](Project_045755/README.md) |
+| 045756 | [Redis: Data Validation — Baseline Setup for Small Business](Project_045756/README.md) |
+| 045757 | [Redis: Data Validation — Automation for Small Business](Project_045757/README.md) |
+| 045758 | [Redis: Data Validation — Recovery for Small Business](Project_045758/README.md) |
+| 045759 | [Redis: Data Validation — Reporting for Small Business](Project_045759/README.md) |
+| 045760 | [Redis: Data Validation — Usability Improvement for Small Business](Project_045760/README.md) |
 
 [Back to the portfolio home](../README.md)
