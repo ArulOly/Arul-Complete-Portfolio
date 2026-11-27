@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045298 | [Redis: Data Import — Recovery for Portfolio Demo](Project_045298/README.md) |
 | 045299 | [Redis: Data Import — Reporting for Portfolio Demo](Project_045299/README.md) |
 | 045300 | [Redis: Data Import — Usability Improvement for Portfolio Demo](Project_045300/README.md) |
+| 045301 | [Redis: Data Export — Baseline Setup for School Lab](Project_045301/README.md) |
+| 045302 | [Redis: Data Export — Automation for School Lab](Project_045302/README.md) |
+| 045303 | [Redis: Data Export — Recovery for School Lab](Project_045303/README.md) |
+| 045304 | [Redis: Data Export — Reporting for School Lab](Project_045304/README.md) |
+| 045305 | [Redis: Data Export — Usability Improvement for School Lab](Project_045305/README.md) |
+| 045306 | [Redis: Data Export — Baseline Setup for Small Business](Project_045306/README.md) |
+| 045307 | [Redis: Data Export — Automation for Small Business](Project_045307/README.md) |
+| 045308 | [Redis: Data Export — Recovery for Small Business](Project_045308/README.md) |
+| 045309 | [Redis: Data Export — Reporting for Small Business](Project_045309/README.md) |
+| 045310 | [Redis: Data Export — Usability Improvement for Small Business](Project_045310/README.md) |
+| 045311 | [Redis: Data Export — Baseline Setup for Home Development](Project_045311/README.md) |
+| 045312 | [Redis: Data Export — Automation for Home Development](Project_045312/README.md) |
+| 045313 | [Redis: Data Export — Recovery for Home Development](Project_045313/README.md) |
+| 045314 | [Redis: Data Export — Reporting for Home Development](Project_045314/README.md) |
+| 045315 | [Redis: Data Export — Usability Improvement for Home Development](Project_045315/README.md) |
+| 045316 | [Redis: Data Export — Baseline Setup for Public Dataset](Project_045316/README.md) |
+| 045317 | [Redis: Data Export — Automation for Public Dataset](Project_045317/README.md) |
+| 045318 | [Redis: Data Export — Recovery for Public Dataset](Project_045318/README.md) |
+| 045319 | [Redis: Data Export — Reporting for Public Dataset](Project_045319/README.md) |
+| 045320 | [Redis: Data Export — Usability Improvement for Public Dataset](Project_045320/README.md) |
 
 [Back to the portfolio home](../README.md)
