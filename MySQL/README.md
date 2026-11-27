@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026038 | [MySQL: Inventory — Recovery for Two-Node Lab](Project_026038/README.md) |
 | 026039 | [MySQL: Inventory — Reporting for Two-Node Lab](Project_026039/README.md) |
 | 026040 | [MySQL: Inventory — Usability Improvement for Two-Node Lab](Project_026040/README.md) |
+| 026041 | [MySQL: Inventory — Baseline Setup for Help Desk](Project_026041/README.md) |
+| 026042 | [MySQL: Inventory — Automation for Help Desk](Project_026042/README.md) |
+| 026043 | [MySQL: Inventory — Recovery for Help Desk](Project_026043/README.md) |
+| 026044 | [MySQL: Inventory — Reporting for Help Desk](Project_026044/README.md) |
+| 026045 | [MySQL: Inventory — Usability Improvement for Help Desk](Project_026045/README.md) |
+| 026046 | [MySQL: Inventory — Baseline Setup for Portfolio Demo](Project_026046/README.md) |
+| 026047 | [MySQL: Inventory — Automation for Portfolio Demo](Project_026047/README.md) |
+| 026048 | [MySQL: Inventory — Recovery for Portfolio Demo](Project_026048/README.md) |
+| 026049 | [MySQL: Inventory — Reporting for Portfolio Demo](Project_026049/README.md) |
+| 026050 | [MySQL: Inventory — Usability Improvement for Portfolio Demo](Project_026050/README.md) |
+| 026051 | [MySQL: Monitoring — Baseline Setup for School Lab](Project_026051/README.md) |
+| 026052 | [MySQL: Monitoring — Automation for School Lab](Project_026052/README.md) |
+| 026053 | [MySQL: Monitoring — Recovery for School Lab](Project_026053/README.md) |
+| 026054 | [MySQL: Monitoring — Reporting for School Lab](Project_026054/README.md) |
+| 026055 | [MySQL: Monitoring — Usability Improvement for School Lab](Project_026055/README.md) |
+| 026056 | [MySQL: Monitoring — Baseline Setup for Small Business](Project_026056/README.md) |
+| 026057 | [MySQL: Monitoring — Automation for Small Business](Project_026057/README.md) |
+| 026058 | [MySQL: Monitoring — Recovery for Small Business](Project_026058/README.md) |
+| 026059 | [MySQL: Monitoring — Reporting for Small Business](Project_026059/README.md) |
+| 026060 | [MySQL: Monitoring — Usability Improvement for Small Business](Project_026060/README.md) |
 
 [Back to the portfolio home](../README.md)
