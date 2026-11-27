@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048518 | [Flask: Access Review — Recovery for Public Dataset](Project_048518/README.md) |
 | 048519 | [Flask: Access Review — Reporting for Public Dataset](Project_048519/README.md) |
 | 048520 | [Flask: Access Review — Usability Improvement for Public Dataset](Project_048520/README.md) |
+| 048521 | [Flask: Access Review — Baseline Setup for Branch Office Simulator](Project_048521/README.md) |
+| 048522 | [Flask: Access Review — Automation for Branch Office Simulator](Project_048522/README.md) |
+| 048523 | [Flask: Access Review — Recovery for Branch Office Simulator](Project_048523/README.md) |
+| 048524 | [Flask: Access Review — Reporting for Branch Office Simulator](Project_048524/README.md) |
+| 048525 | [Flask: Access Review — Usability Improvement for Branch Office Simulator](Project_048525/README.md) |
+| 048526 | [Flask: Access Review — Baseline Setup for Offline Classroom](Project_048526/README.md) |
+| 048527 | [Flask: Access Review — Automation for Offline Classroom](Project_048527/README.md) |
+| 048528 | [Flask: Access Review — Recovery for Offline Classroom](Project_048528/README.md) |
+| 048529 | [Flask: Access Review — Reporting for Offline Classroom](Project_048529/README.md) |
+| 048530 | [Flask: Access Review — Usability Improvement for Offline Classroom](Project_048530/README.md) |
+| 048531 | [Flask: Access Review — Baseline Setup for Single-Host Lab](Project_048531/README.md) |
+| 048532 | [Flask: Access Review — Automation for Single-Host Lab](Project_048532/README.md) |
+| 048533 | [Flask: Access Review — Recovery for Single-Host Lab](Project_048533/README.md) |
+| 048534 | [Flask: Access Review — Reporting for Single-Host Lab](Project_048534/README.md) |
+| 048535 | [Flask: Access Review — Usability Improvement for Single-Host Lab](Project_048535/README.md) |
+| 048536 | [Flask: Access Review — Baseline Setup for Two-Node Lab](Project_048536/README.md) |
+| 048537 | [Flask: Access Review — Automation for Two-Node Lab](Project_048537/README.md) |
+| 048538 | [Flask: Access Review — Recovery for Two-Node Lab](Project_048538/README.md) |
+| 048539 | [Flask: Access Review — Reporting for Two-Node Lab](Project_048539/README.md) |
+| 048540 | [Flask: Access Review — Usability Improvement for Two-Node Lab](Project_048540/README.md) |
 
 [Back to the portfolio home](../README.md)
