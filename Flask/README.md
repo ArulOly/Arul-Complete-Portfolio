@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048438 | [Flask: Alerting — Recovery for Two-Node Lab](Project_048438/README.md) |
 | 048439 | [Flask: Alerting — Reporting for Two-Node Lab](Project_048439/README.md) |
 | 048440 | [Flask: Alerting — Usability Improvement for Two-Node Lab](Project_048440/README.md) |
+| 048441 | [Flask: Alerting — Baseline Setup for Help Desk](Project_048441/README.md) |
+| 048442 | [Flask: Alerting — Automation for Help Desk](Project_048442/README.md) |
+| 048443 | [Flask: Alerting — Recovery for Help Desk](Project_048443/README.md) |
+| 048444 | [Flask: Alerting — Reporting for Help Desk](Project_048444/README.md) |
+| 048445 | [Flask: Alerting — Usability Improvement for Help Desk](Project_048445/README.md) |
+| 048446 | [Flask: Alerting — Baseline Setup for Portfolio Demo](Project_048446/README.md) |
+| 048447 | [Flask: Alerting — Automation for Portfolio Demo](Project_048447/README.md) |
+| 048448 | [Flask: Alerting — Recovery for Portfolio Demo](Project_048448/README.md) |
+| 048449 | [Flask: Alerting — Reporting for Portfolio Demo](Project_048449/README.md) |
+| 048450 | [Flask: Alerting — Usability Improvement for Portfolio Demo](Project_048450/README.md) |
+| 048451 | [Flask: Scheduled Reporting — Baseline Setup for School Lab](Project_048451/README.md) |
+| 048452 | [Flask: Scheduled Reporting — Automation for School Lab](Project_048452/README.md) |
+| 048453 | [Flask: Scheduled Reporting — Recovery for School Lab](Project_048453/README.md) |
+| 048454 | [Flask: Scheduled Reporting — Reporting for School Lab](Project_048454/README.md) |
+| 048455 | [Flask: Scheduled Reporting — Usability Improvement for School Lab](Project_048455/README.md) |
+| 048456 | [Flask: Scheduled Reporting — Baseline Setup for Small Business](Project_048456/README.md) |
+| 048457 | [Flask: Scheduled Reporting — Automation for Small Business](Project_048457/README.md) |
+| 048458 | [Flask: Scheduled Reporting — Recovery for Small Business](Project_048458/README.md) |
+| 048459 | [Flask: Scheduled Reporting — Reporting for Small Business](Project_048459/README.md) |
+| 048460 | [Flask: Scheduled Reporting — Usability Improvement for Small Business](Project_048460/README.md) |
 
 [Back to the portfolio home](../README.md)
