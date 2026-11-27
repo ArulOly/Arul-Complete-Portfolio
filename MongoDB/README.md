@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027038 | [MongoDB: Inventory — Recovery for Two-Node Lab](Project_027038/README.md) |
 | 027039 | [MongoDB: Inventory — Reporting for Two-Node Lab](Project_027039/README.md) |
 | 027040 | [MongoDB: Inventory — Usability Improvement for Two-Node Lab](Project_027040/README.md) |
+| 027041 | [MongoDB: Inventory — Baseline Setup for Help Desk](Project_027041/README.md) |
+| 027042 | [MongoDB: Inventory — Automation for Help Desk](Project_027042/README.md) |
+| 027043 | [MongoDB: Inventory — Recovery for Help Desk](Project_027043/README.md) |
+| 027044 | [MongoDB: Inventory — Reporting for Help Desk](Project_027044/README.md) |
+| 027045 | [MongoDB: Inventory — Usability Improvement for Help Desk](Project_027045/README.md) |
+| 027046 | [MongoDB: Inventory — Baseline Setup for Portfolio Demo](Project_027046/README.md) |
+| 027047 | [MongoDB: Inventory — Automation for Portfolio Demo](Project_027047/README.md) |
+| 027048 | [MongoDB: Inventory — Recovery for Portfolio Demo](Project_027048/README.md) |
+| 027049 | [MongoDB: Inventory — Reporting for Portfolio Demo](Project_027049/README.md) |
+| 027050 | [MongoDB: Inventory — Usability Improvement for Portfolio Demo](Project_027050/README.md) |
+| 027051 | [MongoDB: Monitoring — Baseline Setup for School Lab](Project_027051/README.md) |
+| 027052 | [MongoDB: Monitoring — Automation for School Lab](Project_027052/README.md) |
+| 027053 | [MongoDB: Monitoring — Recovery for School Lab](Project_027053/README.md) |
+| 027054 | [MongoDB: Monitoring — Reporting for School Lab](Project_027054/README.md) |
+| 027055 | [MongoDB: Monitoring — Usability Improvement for School Lab](Project_027055/README.md) |
+| 027056 | [MongoDB: Monitoring — Baseline Setup for Small Business](Project_027056/README.md) |
+| 027057 | [MongoDB: Monitoring — Automation for Small Business](Project_027057/README.md) |
+| 027058 | [MongoDB: Monitoring — Recovery for Small Business](Project_027058/README.md) |
+| 027059 | [MongoDB: Monitoring — Reporting for Small Business](Project_027059/README.md) |
+| 027060 | [MongoDB: Monitoring — Usability Improvement for Small Business](Project_027060/README.md) |
 
 [Back to the portfolio home](../README.md)
