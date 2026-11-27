@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026238 | [MySQL: Backup Verification — Recovery for Two-Node Lab](Project_026238/README.md) |
 | 026239 | [MySQL: Backup Verification — Reporting for Two-Node Lab](Project_026239/README.md) |
 | 026240 | [MySQL: Backup Verification — Usability Improvement for Two-Node Lab](Project_026240/README.md) |
+| 026241 | [MySQL: Backup Verification — Baseline Setup for Help Desk](Project_026241/README.md) |
+| 026242 | [MySQL: Backup Verification — Automation for Help Desk](Project_026242/README.md) |
+| 026243 | [MySQL: Backup Verification — Recovery for Help Desk](Project_026243/README.md) |
+| 026244 | [MySQL: Backup Verification — Reporting for Help Desk](Project_026244/README.md) |
+| 026245 | [MySQL: Backup Verification — Usability Improvement for Help Desk](Project_026245/README.md) |
+| 026246 | [MySQL: Backup Verification — Baseline Setup for Portfolio Demo](Project_026246/README.md) |
+| 026247 | [MySQL: Backup Verification — Automation for Portfolio Demo](Project_026247/README.md) |
+| 026248 | [MySQL: Backup Verification — Recovery for Portfolio Demo](Project_026248/README.md) |
+| 026249 | [MySQL: Backup Verification — Reporting for Portfolio Demo](Project_026249/README.md) |
+| 026250 | [MySQL: Backup Verification — Usability Improvement for Portfolio Demo](Project_026250/README.md) |
+| 026251 | [MySQL: Data Import — Baseline Setup for School Lab](Project_026251/README.md) |
+| 026252 | [MySQL: Data Import — Automation for School Lab](Project_026252/README.md) |
+| 026253 | [MySQL: Data Import — Recovery for School Lab](Project_026253/README.md) |
+| 026254 | [MySQL: Data Import — Reporting for School Lab](Project_026254/README.md) |
+| 026255 | [MySQL: Data Import — Usability Improvement for School Lab](Project_026255/README.md) |
+| 026256 | [MySQL: Data Import — Baseline Setup for Small Business](Project_026256/README.md) |
+| 026257 | [MySQL: Data Import — Automation for Small Business](Project_026257/README.md) |
+| 026258 | [MySQL: Data Import — Recovery for Small Business](Project_026258/README.md) |
+| 026259 | [MySQL: Data Import — Reporting for Small Business](Project_026259/README.md) |
+| 026260 | [MySQL: Data Import — Usability Improvement for Small Business](Project_026260/README.md) |
 
 [Back to the portfolio home](../README.md)
