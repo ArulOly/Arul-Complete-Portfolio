@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026558 | [MySQL: Performance Baseline — Recovery for Small Business](Project_026558/README.md) |
 | 026559 | [MySQL: Performance Baseline — Reporting for Small Business](Project_026559/README.md) |
 | 026560 | [MySQL: Performance Baseline — Usability Improvement for Small Business](Project_026560/README.md) |
+| 026561 | [MySQL: Performance Baseline — Baseline Setup for Home Development](Project_026561/README.md) |
+| 026562 | [MySQL: Performance Baseline — Automation for Home Development](Project_026562/README.md) |
+| 026563 | [MySQL: Performance Baseline — Recovery for Home Development](Project_026563/README.md) |
+| 026564 | [MySQL: Performance Baseline — Reporting for Home Development](Project_026564/README.md) |
+| 026565 | [MySQL: Performance Baseline — Usability Improvement for Home Development](Project_026565/README.md) |
+| 026566 | [MySQL: Performance Baseline — Baseline Setup for Public Dataset](Project_026566/README.md) |
+| 026567 | [MySQL: Performance Baseline — Automation for Public Dataset](Project_026567/README.md) |
+| 026568 | [MySQL: Performance Baseline — Recovery for Public Dataset](Project_026568/README.md) |
+| 026569 | [MySQL: Performance Baseline — Reporting for Public Dataset](Project_026569/README.md) |
+| 026570 | [MySQL: Performance Baseline — Usability Improvement for Public Dataset](Project_026570/README.md) |
+| 026571 | [MySQL: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_026571/README.md) |
+| 026572 | [MySQL: Performance Baseline — Automation for Branch Office Simulator](Project_026572/README.md) |
+| 026573 | [MySQL: Performance Baseline — Recovery for Branch Office Simulator](Project_026573/README.md) |
+| 026574 | [MySQL: Performance Baseline — Reporting for Branch Office Simulator](Project_026574/README.md) |
+| 026575 | [MySQL: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_026575/README.md) |
+| 026576 | [MySQL: Performance Baseline — Baseline Setup for Offline Classroom](Project_026576/README.md) |
+| 026577 | [MySQL: Performance Baseline — Automation for Offline Classroom](Project_026577/README.md) |
+| 026578 | [MySQL: Performance Baseline — Recovery for Offline Classroom](Project_026578/README.md) |
+| 026579 | [MySQL: Performance Baseline — Reporting for Offline Classroom](Project_026579/README.md) |
+| 026580 | [MySQL: Performance Baseline — Usability Improvement for Offline Classroom](Project_026580/README.md) |
 
 [Back to the portfolio home](../README.md)
