@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005678 | [FreeBSD: Configuration Comparison — Recovery for Offline Classroom](Project_005678/README.md) |
 | 005679 | [FreeBSD: Configuration Comparison — Reporting for Offline Classroom](Project_005679/README.md) |
 | 005680 | [FreeBSD: Configuration Comparison — Usability Improvement for Offline Classroom](Project_005680/README.md) |
+| 005681 | [FreeBSD: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_005681/README.md) |
+| 005682 | [FreeBSD: Configuration Comparison — Automation for Single-Host Lab](Project_005682/README.md) |
+| 005683 | [FreeBSD: Configuration Comparison — Recovery for Single-Host Lab](Project_005683/README.md) |
+| 005684 | [FreeBSD: Configuration Comparison — Reporting for Single-Host Lab](Project_005684/README.md) |
+| 005685 | [FreeBSD: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_005685/README.md) |
+| 005686 | [FreeBSD: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_005686/README.md) |
+| 005687 | [FreeBSD: Configuration Comparison — Automation for Two-Node Lab](Project_005687/README.md) |
+| 005688 | [FreeBSD: Configuration Comparison — Recovery for Two-Node Lab](Project_005688/README.md) |
+| 005689 | [FreeBSD: Configuration Comparison — Reporting for Two-Node Lab](Project_005689/README.md) |
+| 005690 | [FreeBSD: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_005690/README.md) |
+| 005691 | [FreeBSD: Configuration Comparison — Baseline Setup for Help Desk](Project_005691/README.md) |
+| 005692 | [FreeBSD: Configuration Comparison — Automation for Help Desk](Project_005692/README.md) |
+| 005693 | [FreeBSD: Configuration Comparison — Recovery for Help Desk](Project_005693/README.md) |
+| 005694 | [FreeBSD: Configuration Comparison — Reporting for Help Desk](Project_005694/README.md) |
+| 005695 | [FreeBSD: Configuration Comparison — Usability Improvement for Help Desk](Project_005695/README.md) |
+| 005696 | [FreeBSD: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_005696/README.md) |
+| 005697 | [FreeBSD: Configuration Comparison — Automation for Portfolio Demo](Project_005697/README.md) |
+| 005698 | [FreeBSD: Configuration Comparison — Recovery for Portfolio Demo](Project_005698/README.md) |
+| 005699 | [FreeBSD: Configuration Comparison — Reporting for Portfolio Demo](Project_005699/README.md) |
+| 005700 | [FreeBSD: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_005700/README.md) |
 
 [Back to the portfolio home](../README.md)
