@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002738 | [Ubuntu: Error Handling — Recovery for Two-Node Lab](Project_002738/README.md) |
 | 002739 | [Ubuntu: Error Handling — Reporting for Two-Node Lab](Project_002739/README.md) |
 | 002740 | [Ubuntu: Error Handling — Usability Improvement for Two-Node Lab](Project_002740/README.md) |
+| 002741 | [Ubuntu: Error Handling — Baseline Setup for Help Desk](Project_002741/README.md) |
+| 002742 | [Ubuntu: Error Handling — Automation for Help Desk](Project_002742/README.md) |
+| 002743 | [Ubuntu: Error Handling — Recovery for Help Desk](Project_002743/README.md) |
+| 002744 | [Ubuntu: Error Handling — Reporting for Help Desk](Project_002744/README.md) |
+| 002745 | [Ubuntu: Error Handling — Usability Improvement for Help Desk](Project_002745/README.md) |
+| 002746 | [Ubuntu: Error Handling — Baseline Setup for Portfolio Demo](Project_002746/README.md) |
+| 002747 | [Ubuntu: Error Handling — Automation for Portfolio Demo](Project_002747/README.md) |
+| 002748 | [Ubuntu: Error Handling — Recovery for Portfolio Demo](Project_002748/README.md) |
+| 002749 | [Ubuntu: Error Handling — Reporting for Portfolio Demo](Project_002749/README.md) |
+| 002750 | [Ubuntu: Error Handling — Usability Improvement for Portfolio Demo](Project_002750/README.md) |
+| 002751 | [Ubuntu: Data Validation — Baseline Setup for School Lab](Project_002751/README.md) |
+| 002752 | [Ubuntu: Data Validation — Automation for School Lab](Project_002752/README.md) |
+| 002753 | [Ubuntu: Data Validation — Recovery for School Lab](Project_002753/README.md) |
+| 002754 | [Ubuntu: Data Validation — Reporting for School Lab](Project_002754/README.md) |
+| 002755 | [Ubuntu: Data Validation — Usability Improvement for School Lab](Project_002755/README.md) |
+| 002756 | [Ubuntu: Data Validation — Baseline Setup for Small Business](Project_002756/README.md) |
+| 002757 | [Ubuntu: Data Validation — Automation for Small Business](Project_002757/README.md) |
+| 002758 | [Ubuntu: Data Validation — Recovery for Small Business](Project_002758/README.md) |
+| 002759 | [Ubuntu: Data Validation — Reporting for Small Business](Project_002759/README.md) |
+| 002760 | [Ubuntu: Data Validation — Usability Improvement for Small Business](Project_002760/README.md) |
 
 [Back to the portfolio home](../README.md)
