@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003958 | [Debian: Recovery Test — Recovery for Small Business](Project_003958/README.md) |
 | 003959 | [Debian: Recovery Test — Reporting for Small Business](Project_003959/README.md) |
 | 003960 | [Debian: Recovery Test — Usability Improvement for Small Business](Project_003960/README.md) |
+| 003961 | [Debian: Recovery Test — Baseline Setup for Home Development](Project_003961/README.md) |
+| 003962 | [Debian: Recovery Test — Automation for Home Development](Project_003962/README.md) |
+| 003963 | [Debian: Recovery Test — Recovery for Home Development](Project_003963/README.md) |
+| 003964 | [Debian: Recovery Test — Reporting for Home Development](Project_003964/README.md) |
+| 003965 | [Debian: Recovery Test — Usability Improvement for Home Development](Project_003965/README.md) |
+| 003966 | [Debian: Recovery Test — Baseline Setup for Public Dataset](Project_003966/README.md) |
+| 003967 | [Debian: Recovery Test — Automation for Public Dataset](Project_003967/README.md) |
+| 003968 | [Debian: Recovery Test — Recovery for Public Dataset](Project_003968/README.md) |
+| 003969 | [Debian: Recovery Test — Reporting for Public Dataset](Project_003969/README.md) |
+| 003970 | [Debian: Recovery Test — Usability Improvement for Public Dataset](Project_003970/README.md) |
+| 003971 | [Debian: Recovery Test — Baseline Setup for Branch Office Simulator](Project_003971/README.md) |
+| 003972 | [Debian: Recovery Test — Automation for Branch Office Simulator](Project_003972/README.md) |
+| 003973 | [Debian: Recovery Test — Recovery for Branch Office Simulator](Project_003973/README.md) |
+| 003974 | [Debian: Recovery Test — Reporting for Branch Office Simulator](Project_003974/README.md) |
+| 003975 | [Debian: Recovery Test — Usability Improvement for Branch Office Simulator](Project_003975/README.md) |
+| 003976 | [Debian: Recovery Test — Baseline Setup for Offline Classroom](Project_003976/README.md) |
+| 003977 | [Debian: Recovery Test — Automation for Offline Classroom](Project_003977/README.md) |
+| 003978 | [Debian: Recovery Test — Recovery for Offline Classroom](Project_003978/README.md) |
+| 003979 | [Debian: Recovery Test — Reporting for Offline Classroom](Project_003979/README.md) |
+| 003980 | [Debian: Recovery Test — Usability Improvement for Offline Classroom](Project_003980/README.md) |
 
 [Back to the portfolio home](../README.md)
