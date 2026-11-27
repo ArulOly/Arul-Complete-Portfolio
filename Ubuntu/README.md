@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002378 | [Ubuntu: Dashboard — Recovery for Offline Classroom](Project_002378/README.md) |
 | 002379 | [Ubuntu: Dashboard — Reporting for Offline Classroom](Project_002379/README.md) |
 | 002380 | [Ubuntu: Dashboard — Usability Improvement for Offline Classroom](Project_002380/README.md) |
+| 002381 | [Ubuntu: Dashboard — Baseline Setup for Single-Host Lab](Project_002381/README.md) |
+| 002382 | [Ubuntu: Dashboard — Automation for Single-Host Lab](Project_002382/README.md) |
+| 002383 | [Ubuntu: Dashboard — Recovery for Single-Host Lab](Project_002383/README.md) |
+| 002384 | [Ubuntu: Dashboard — Reporting for Single-Host Lab](Project_002384/README.md) |
+| 002385 | [Ubuntu: Dashboard — Usability Improvement for Single-Host Lab](Project_002385/README.md) |
+| 002386 | [Ubuntu: Dashboard — Baseline Setup for Two-Node Lab](Project_002386/README.md) |
+| 002387 | [Ubuntu: Dashboard — Automation for Two-Node Lab](Project_002387/README.md) |
+| 002388 | [Ubuntu: Dashboard — Recovery for Two-Node Lab](Project_002388/README.md) |
+| 002389 | [Ubuntu: Dashboard — Reporting for Two-Node Lab](Project_002389/README.md) |
+| 002390 | [Ubuntu: Dashboard — Usability Improvement for Two-Node Lab](Project_002390/README.md) |
+| 002391 | [Ubuntu: Dashboard — Baseline Setup for Help Desk](Project_002391/README.md) |
+| 002392 | [Ubuntu: Dashboard — Automation for Help Desk](Project_002392/README.md) |
+| 002393 | [Ubuntu: Dashboard — Recovery for Help Desk](Project_002393/README.md) |
+| 002394 | [Ubuntu: Dashboard — Reporting for Help Desk](Project_002394/README.md) |
+| 002395 | [Ubuntu: Dashboard — Usability Improvement for Help Desk](Project_002395/README.md) |
+| 002396 | [Ubuntu: Dashboard — Baseline Setup for Portfolio Demo](Project_002396/README.md) |
+| 002397 | [Ubuntu: Dashboard — Automation for Portfolio Demo](Project_002397/README.md) |
+| 002398 | [Ubuntu: Dashboard — Recovery for Portfolio Demo](Project_002398/README.md) |
+| 002399 | [Ubuntu: Dashboard — Reporting for Portfolio Demo](Project_002399/README.md) |
+| 002400 | [Ubuntu: Dashboard — Usability Improvement for Portfolio Demo](Project_002400/README.md) |
 
 [Back to the portfolio home](../README.md)
