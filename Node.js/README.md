@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024638 | [Node.js: Service Check — Recovery for Two-Node Lab](Project_024638/README.md) |
 | 024639 | [Node.js: Service Check — Reporting for Two-Node Lab](Project_024639/README.md) |
 | 024640 | [Node.js: Service Check — Usability Improvement for Two-Node Lab](Project_024640/README.md) |
+| 024641 | [Node.js: Service Check — Baseline Setup for Help Desk](Project_024641/README.md) |
+| 024642 | [Node.js: Service Check — Automation for Help Desk](Project_024642/README.md) |
+| 024643 | [Node.js: Service Check — Recovery for Help Desk](Project_024643/README.md) |
+| 024644 | [Node.js: Service Check — Reporting for Help Desk](Project_024644/README.md) |
+| 024645 | [Node.js: Service Check — Usability Improvement for Help Desk](Project_024645/README.md) |
+| 024646 | [Node.js: Service Check — Baseline Setup for Portfolio Demo](Project_024646/README.md) |
+| 024647 | [Node.js: Service Check — Automation for Portfolio Demo](Project_024647/README.md) |
+| 024648 | [Node.js: Service Check — Recovery for Portfolio Demo](Project_024648/README.md) |
+| 024649 | [Node.js: Service Check — Reporting for Portfolio Demo](Project_024649/README.md) |
+| 024650 | [Node.js: Service Check — Usability Improvement for Portfolio Demo](Project_024650/README.md) |
+| 024651 | [Node.js: Configuration Comparison — Baseline Setup for School Lab](Project_024651/README.md) |
+| 024652 | [Node.js: Configuration Comparison — Automation for School Lab](Project_024652/README.md) |
+| 024653 | [Node.js: Configuration Comparison — Recovery for School Lab](Project_024653/README.md) |
+| 024654 | [Node.js: Configuration Comparison — Reporting for School Lab](Project_024654/README.md) |
+| 024655 | [Node.js: Configuration Comparison — Usability Improvement for School Lab](Project_024655/README.md) |
+| 024656 | [Node.js: Configuration Comparison — Baseline Setup for Small Business](Project_024656/README.md) |
+| 024657 | [Node.js: Configuration Comparison — Automation for Small Business](Project_024657/README.md) |
+| 024658 | [Node.js: Configuration Comparison — Recovery for Small Business](Project_024658/README.md) |
+| 024659 | [Node.js: Configuration Comparison — Reporting for Small Business](Project_024659/README.md) |
+| 024660 | [Node.js: Configuration Comparison — Usability Improvement for Small Business](Project_024660/README.md) |
 
 [Back to the portfolio home](../README.md)
