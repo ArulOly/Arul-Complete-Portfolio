@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028458 | [SQLite: Scheduled Reporting — Recovery for Small Business](Project_028458/README.md) |
 | 028459 | [SQLite: Scheduled Reporting — Reporting for Small Business](Project_028459/README.md) |
 | 028460 | [SQLite: Scheduled Reporting — Usability Improvement for Small Business](Project_028460/README.md) |
+| 028461 | [SQLite: Scheduled Reporting — Baseline Setup for Home Development](Project_028461/README.md) |
+| 028462 | [SQLite: Scheduled Reporting — Automation for Home Development](Project_028462/README.md) |
+| 028463 | [SQLite: Scheduled Reporting — Recovery for Home Development](Project_028463/README.md) |
+| 028464 | [SQLite: Scheduled Reporting — Reporting for Home Development](Project_028464/README.md) |
+| 028465 | [SQLite: Scheduled Reporting — Usability Improvement for Home Development](Project_028465/README.md) |
+| 028466 | [SQLite: Scheduled Reporting — Baseline Setup for Public Dataset](Project_028466/README.md) |
+| 028467 | [SQLite: Scheduled Reporting — Automation for Public Dataset](Project_028467/README.md) |
+| 028468 | [SQLite: Scheduled Reporting — Recovery for Public Dataset](Project_028468/README.md) |
+| 028469 | [SQLite: Scheduled Reporting — Reporting for Public Dataset](Project_028469/README.md) |
+| 028470 | [SQLite: Scheduled Reporting — Usability Improvement for Public Dataset](Project_028470/README.md) |
+| 028471 | [SQLite: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_028471/README.md) |
+| 028472 | [SQLite: Scheduled Reporting — Automation for Branch Office Simulator](Project_028472/README.md) |
+| 028473 | [SQLite: Scheduled Reporting — Recovery for Branch Office Simulator](Project_028473/README.md) |
+| 028474 | [SQLite: Scheduled Reporting — Reporting for Branch Office Simulator](Project_028474/README.md) |
+| 028475 | [SQLite: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_028475/README.md) |
+| 028476 | [SQLite: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_028476/README.md) |
+| 028477 | [SQLite: Scheduled Reporting — Automation for Offline Classroom](Project_028477/README.md) |
+| 028478 | [SQLite: Scheduled Reporting — Recovery for Offline Classroom](Project_028478/README.md) |
+| 028479 | [SQLite: Scheduled Reporting — Reporting for Offline Classroom](Project_028479/README.md) |
+| 028480 | [SQLite: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_028480/README.md) |
 
 [Back to the portfolio home](../README.md)
