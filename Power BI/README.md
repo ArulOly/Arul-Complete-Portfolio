@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032398 | [Power BI: Dashboard — Recovery for Portfolio Demo](Project_032398/README.md) |
 | 032399 | [Power BI: Dashboard — Reporting for Portfolio Demo](Project_032399/README.md) |
 | 032400 | [Power BI: Dashboard — Usability Improvement for Portfolio Demo](Project_032400/README.md) |
+| 032401 | [Power BI: Alerting — Baseline Setup for School Lab](Project_032401/README.md) |
+| 032402 | [Power BI: Alerting — Automation for School Lab](Project_032402/README.md) |
+| 032403 | [Power BI: Alerting — Recovery for School Lab](Project_032403/README.md) |
+| 032404 | [Power BI: Alerting — Reporting for School Lab](Project_032404/README.md) |
+| 032405 | [Power BI: Alerting — Usability Improvement for School Lab](Project_032405/README.md) |
+| 032406 | [Power BI: Alerting — Baseline Setup for Small Business](Project_032406/README.md) |
+| 032407 | [Power BI: Alerting — Automation for Small Business](Project_032407/README.md) |
+| 032408 | [Power BI: Alerting — Recovery for Small Business](Project_032408/README.md) |
+| 032409 | [Power BI: Alerting — Reporting for Small Business](Project_032409/README.md) |
+| 032410 | [Power BI: Alerting — Usability Improvement for Small Business](Project_032410/README.md) |
+| 032411 | [Power BI: Alerting — Baseline Setup for Home Development](Project_032411/README.md) |
+| 032412 | [Power BI: Alerting — Automation for Home Development](Project_032412/README.md) |
+| 032413 | [Power BI: Alerting — Recovery for Home Development](Project_032413/README.md) |
+| 032414 | [Power BI: Alerting — Reporting for Home Development](Project_032414/README.md) |
+| 032415 | [Power BI: Alerting — Usability Improvement for Home Development](Project_032415/README.md) |
+| 032416 | [Power BI: Alerting — Baseline Setup for Public Dataset](Project_032416/README.md) |
+| 032417 | [Power BI: Alerting — Automation for Public Dataset](Project_032417/README.md) |
+| 032418 | [Power BI: Alerting — Recovery for Public Dataset](Project_032418/README.md) |
+| 032419 | [Power BI: Alerting — Reporting for Public Dataset](Project_032419/README.md) |
+| 032420 | [Power BI: Alerting — Usability Improvement for Public Dataset](Project_032420/README.md) |
 
 [Back to the portfolio home](../README.md)
