@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034598 | [Scikit-learn: Performance Baseline — Recovery for Portfolio Demo](Project_034598/README.md) |
 | 034599 | [Scikit-learn: Performance Baseline — Reporting for Portfolio Demo](Project_034599/README.md) |
 | 034600 | [Scikit-learn: Performance Baseline — Usability Improvement for Portfolio Demo](Project_034600/README.md) |
+| 034601 | [Scikit-learn: Service Check — Baseline Setup for School Lab](Project_034601/README.md) |
+| 034602 | [Scikit-learn: Service Check — Automation for School Lab](Project_034602/README.md) |
+| 034603 | [Scikit-learn: Service Check — Recovery for School Lab](Project_034603/README.md) |
+| 034604 | [Scikit-learn: Service Check — Reporting for School Lab](Project_034604/README.md) |
+| 034605 | [Scikit-learn: Service Check — Usability Improvement for School Lab](Project_034605/README.md) |
+| 034606 | [Scikit-learn: Service Check — Baseline Setup for Small Business](Project_034606/README.md) |
+| 034607 | [Scikit-learn: Service Check — Automation for Small Business](Project_034607/README.md) |
+| 034608 | [Scikit-learn: Service Check — Recovery for Small Business](Project_034608/README.md) |
+| 034609 | [Scikit-learn: Service Check — Reporting for Small Business](Project_034609/README.md) |
+| 034610 | [Scikit-learn: Service Check — Usability Improvement for Small Business](Project_034610/README.md) |
+| 034611 | [Scikit-learn: Service Check — Baseline Setup for Home Development](Project_034611/README.md) |
+| 034612 | [Scikit-learn: Service Check — Automation for Home Development](Project_034612/README.md) |
+| 034613 | [Scikit-learn: Service Check — Recovery for Home Development](Project_034613/README.md) |
+| 034614 | [Scikit-learn: Service Check — Reporting for Home Development](Project_034614/README.md) |
+| 034615 | [Scikit-learn: Service Check — Usability Improvement for Home Development](Project_034615/README.md) |
+| 034616 | [Scikit-learn: Service Check — Baseline Setup for Public Dataset](Project_034616/README.md) |
+| 034617 | [Scikit-learn: Service Check — Automation for Public Dataset](Project_034617/README.md) |
+| 034618 | [Scikit-learn: Service Check — Recovery for Public Dataset](Project_034618/README.md) |
+| 034619 | [Scikit-learn: Service Check — Reporting for Public Dataset](Project_034619/README.md) |
+| 034620 | [Scikit-learn: Service Check — Usability Improvement for Public Dataset](Project_034620/README.md) |
 
 [Back to the portfolio home](../README.md)
