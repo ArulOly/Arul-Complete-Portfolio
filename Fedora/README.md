@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004238 | [Fedora: Backup Verification — Recovery for Two-Node Lab](Project_004238/README.md) |
 | 004239 | [Fedora: Backup Verification — Reporting for Two-Node Lab](Project_004239/README.md) |
 | 004240 | [Fedora: Backup Verification — Usability Improvement for Two-Node Lab](Project_004240/README.md) |
+| 004241 | [Fedora: Backup Verification — Baseline Setup for Help Desk](Project_004241/README.md) |
+| 004242 | [Fedora: Backup Verification — Automation for Help Desk](Project_004242/README.md) |
+| 004243 | [Fedora: Backup Verification — Recovery for Help Desk](Project_004243/README.md) |
+| 004244 | [Fedora: Backup Verification — Reporting for Help Desk](Project_004244/README.md) |
+| 004245 | [Fedora: Backup Verification — Usability Improvement for Help Desk](Project_004245/README.md) |
+| 004246 | [Fedora: Backup Verification — Baseline Setup for Portfolio Demo](Project_004246/README.md) |
+| 004247 | [Fedora: Backup Verification — Automation for Portfolio Demo](Project_004247/README.md) |
+| 004248 | [Fedora: Backup Verification — Recovery for Portfolio Demo](Project_004248/README.md) |
+| 004249 | [Fedora: Backup Verification — Reporting for Portfolio Demo](Project_004249/README.md) |
+| 004250 | [Fedora: Backup Verification — Usability Improvement for Portfolio Demo](Project_004250/README.md) |
+| 004251 | [Fedora: Data Import — Baseline Setup for School Lab](Project_004251/README.md) |
+| 004252 | [Fedora: Data Import — Automation for School Lab](Project_004252/README.md) |
+| 004253 | [Fedora: Data Import — Recovery for School Lab](Project_004253/README.md) |
+| 004254 | [Fedora: Data Import — Reporting for School Lab](Project_004254/README.md) |
+| 004255 | [Fedora: Data Import — Usability Improvement for School Lab](Project_004255/README.md) |
+| 004256 | [Fedora: Data Import — Baseline Setup for Small Business](Project_004256/README.md) |
+| 004257 | [Fedora: Data Import — Automation for Small Business](Project_004257/README.md) |
+| 004258 | [Fedora: Data Import — Recovery for Small Business](Project_004258/README.md) |
+| 004259 | [Fedora: Data Import — Reporting for Small Business](Project_004259/README.md) |
+| 004260 | [Fedora: Data Import — Usability Improvement for Small Business](Project_004260/README.md) |
 
 [Back to the portfolio home](../README.md)
