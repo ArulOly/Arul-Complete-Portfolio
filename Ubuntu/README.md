@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002218 | [Ubuntu: Backup Verification — Recovery for Public Dataset](Project_002218/README.md) |
 | 002219 | [Ubuntu: Backup Verification — Reporting for Public Dataset](Project_002219/README.md) |
 | 002220 | [Ubuntu: Backup Verification — Usability Improvement for Public Dataset](Project_002220/README.md) |
+| 002221 | [Ubuntu: Backup Verification — Baseline Setup for Branch Office Simulator](Project_002221/README.md) |
+| 002222 | [Ubuntu: Backup Verification — Automation for Branch Office Simulator](Project_002222/README.md) |
+| 002223 | [Ubuntu: Backup Verification — Recovery for Branch Office Simulator](Project_002223/README.md) |
+| 002224 | [Ubuntu: Backup Verification — Reporting for Branch Office Simulator](Project_002224/README.md) |
+| 002225 | [Ubuntu: Backup Verification — Usability Improvement for Branch Office Simulator](Project_002225/README.md) |
+| 002226 | [Ubuntu: Backup Verification — Baseline Setup for Offline Classroom](Project_002226/README.md) |
+| 002227 | [Ubuntu: Backup Verification — Automation for Offline Classroom](Project_002227/README.md) |
+| 002228 | [Ubuntu: Backup Verification — Recovery for Offline Classroom](Project_002228/README.md) |
+| 002229 | [Ubuntu: Backup Verification — Reporting for Offline Classroom](Project_002229/README.md) |
+| 002230 | [Ubuntu: Backup Verification — Usability Improvement for Offline Classroom](Project_002230/README.md) |
+| 002231 | [Ubuntu: Backup Verification — Baseline Setup for Single-Host Lab](Project_002231/README.md) |
+| 002232 | [Ubuntu: Backup Verification — Automation for Single-Host Lab](Project_002232/README.md) |
+| 002233 | [Ubuntu: Backup Verification — Recovery for Single-Host Lab](Project_002233/README.md) |
+| 002234 | [Ubuntu: Backup Verification — Reporting for Single-Host Lab](Project_002234/README.md) |
+| 002235 | [Ubuntu: Backup Verification — Usability Improvement for Single-Host Lab](Project_002235/README.md) |
+| 002236 | [Ubuntu: Backup Verification — Baseline Setup for Two-Node Lab](Project_002236/README.md) |
+| 002237 | [Ubuntu: Backup Verification — Automation for Two-Node Lab](Project_002237/README.md) |
+| 002238 | [Ubuntu: Backup Verification — Recovery for Two-Node Lab](Project_002238/README.md) |
+| 002239 | [Ubuntu: Backup Verification — Reporting for Two-Node Lab](Project_002239/README.md) |
+| 002240 | [Ubuntu: Backup Verification — Usability Improvement for Two-Node Lab](Project_002240/README.md) |
 
 [Back to the portfolio home](../README.md)
