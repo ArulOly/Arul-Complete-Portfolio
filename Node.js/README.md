@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024398 | [Node.js: Dashboard — Recovery for Portfolio Demo](Project_024398/README.md) |
 | 024399 | [Node.js: Dashboard — Reporting for Portfolio Demo](Project_024399/README.md) |
 | 024400 | [Node.js: Dashboard — Usability Improvement for Portfolio Demo](Project_024400/README.md) |
+| 024401 | [Node.js: Alerting — Baseline Setup for School Lab](Project_024401/README.md) |
+| 024402 | [Node.js: Alerting — Automation for School Lab](Project_024402/README.md) |
+| 024403 | [Node.js: Alerting — Recovery for School Lab](Project_024403/README.md) |
+| 024404 | [Node.js: Alerting — Reporting for School Lab](Project_024404/README.md) |
+| 024405 | [Node.js: Alerting — Usability Improvement for School Lab](Project_024405/README.md) |
+| 024406 | [Node.js: Alerting — Baseline Setup for Small Business](Project_024406/README.md) |
+| 024407 | [Node.js: Alerting — Automation for Small Business](Project_024407/README.md) |
+| 024408 | [Node.js: Alerting — Recovery for Small Business](Project_024408/README.md) |
+| 024409 | [Node.js: Alerting — Reporting for Small Business](Project_024409/README.md) |
+| 024410 | [Node.js: Alerting — Usability Improvement for Small Business](Project_024410/README.md) |
+| 024411 | [Node.js: Alerting — Baseline Setup for Home Development](Project_024411/README.md) |
+| 024412 | [Node.js: Alerting — Automation for Home Development](Project_024412/README.md) |
+| 024413 | [Node.js: Alerting — Recovery for Home Development](Project_024413/README.md) |
+| 024414 | [Node.js: Alerting — Reporting for Home Development](Project_024414/README.md) |
+| 024415 | [Node.js: Alerting — Usability Improvement for Home Development](Project_024415/README.md) |
+| 024416 | [Node.js: Alerting — Baseline Setup for Public Dataset](Project_024416/README.md) |
+| 024417 | [Node.js: Alerting — Automation for Public Dataset](Project_024417/README.md) |
+| 024418 | [Node.js: Alerting — Recovery for Public Dataset](Project_024418/README.md) |
+| 024419 | [Node.js: Alerting — Reporting for Public Dataset](Project_024419/README.md) |
+| 024420 | [Node.js: Alerting — Usability Improvement for Public Dataset](Project_024420/README.md) |
 
 [Back to the portfolio home](../README.md)
