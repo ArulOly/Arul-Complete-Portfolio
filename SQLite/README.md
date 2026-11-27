@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028178 | [SQLite: Log Analysis — Recovery for Offline Classroom](Project_028178/README.md) |
 | 028179 | [SQLite: Log Analysis — Reporting for Offline Classroom](Project_028179/README.md) |
 | 028180 | [SQLite: Log Analysis — Usability Improvement for Offline Classroom](Project_028180/README.md) |
+| 028181 | [SQLite: Log Analysis — Baseline Setup for Single-Host Lab](Project_028181/README.md) |
+| 028182 | [SQLite: Log Analysis — Automation for Single-Host Lab](Project_028182/README.md) |
+| 028183 | [SQLite: Log Analysis — Recovery for Single-Host Lab](Project_028183/README.md) |
+| 028184 | [SQLite: Log Analysis — Reporting for Single-Host Lab](Project_028184/README.md) |
+| 028185 | [SQLite: Log Analysis — Usability Improvement for Single-Host Lab](Project_028185/README.md) |
+| 028186 | [SQLite: Log Analysis — Baseline Setup for Two-Node Lab](Project_028186/README.md) |
+| 028187 | [SQLite: Log Analysis — Automation for Two-Node Lab](Project_028187/README.md) |
+| 028188 | [SQLite: Log Analysis — Recovery for Two-Node Lab](Project_028188/README.md) |
+| 028189 | [SQLite: Log Analysis — Reporting for Two-Node Lab](Project_028189/README.md) |
+| 028190 | [SQLite: Log Analysis — Usability Improvement for Two-Node Lab](Project_028190/README.md) |
+| 028191 | [SQLite: Log Analysis — Baseline Setup for Help Desk](Project_028191/README.md) |
+| 028192 | [SQLite: Log Analysis — Automation for Help Desk](Project_028192/README.md) |
+| 028193 | [SQLite: Log Analysis — Recovery for Help Desk](Project_028193/README.md) |
+| 028194 | [SQLite: Log Analysis — Reporting for Help Desk](Project_028194/README.md) |
+| 028195 | [SQLite: Log Analysis — Usability Improvement for Help Desk](Project_028195/README.md) |
+| 028196 | [SQLite: Log Analysis — Baseline Setup for Portfolio Demo](Project_028196/README.md) |
+| 028197 | [SQLite: Log Analysis — Automation for Portfolio Demo](Project_028197/README.md) |
+| 028198 | [SQLite: Log Analysis — Recovery for Portfolio Demo](Project_028198/README.md) |
+| 028199 | [SQLite: Log Analysis — Reporting for Portfolio Demo](Project_028199/README.md) |
+| 028200 | [SQLite: Log Analysis — Usability Improvement for Portfolio Demo](Project_028200/README.md) |
 
 [Back to the portfolio home](../README.md)
