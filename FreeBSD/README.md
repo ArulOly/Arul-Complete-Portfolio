@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005938 | [FreeBSD: Visual Reporting — Recovery for Two-Node Lab](Project_005938/README.md) |
 | 005939 | [FreeBSD: Visual Reporting — Reporting for Two-Node Lab](Project_005939/README.md) |
 | 005940 | [FreeBSD: Visual Reporting — Usability Improvement for Two-Node Lab](Project_005940/README.md) |
+| 005941 | [FreeBSD: Visual Reporting — Baseline Setup for Help Desk](Project_005941/README.md) |
+| 005942 | [FreeBSD: Visual Reporting — Automation for Help Desk](Project_005942/README.md) |
+| 005943 | [FreeBSD: Visual Reporting — Recovery for Help Desk](Project_005943/README.md) |
+| 005944 | [FreeBSD: Visual Reporting — Reporting for Help Desk](Project_005944/README.md) |
+| 005945 | [FreeBSD: Visual Reporting — Usability Improvement for Help Desk](Project_005945/README.md) |
+| 005946 | [FreeBSD: Visual Reporting — Baseline Setup for Portfolio Demo](Project_005946/README.md) |
+| 005947 | [FreeBSD: Visual Reporting — Automation for Portfolio Demo](Project_005947/README.md) |
+| 005948 | [FreeBSD: Visual Reporting — Recovery for Portfolio Demo](Project_005948/README.md) |
+| 005949 | [FreeBSD: Visual Reporting — Reporting for Portfolio Demo](Project_005949/README.md) |
+| 005950 | [FreeBSD: Visual Reporting — Usability Improvement for Portfolio Demo](Project_005950/README.md) |
+| 005951 | [FreeBSD: Recovery Test — Baseline Setup for School Lab](Project_005951/README.md) |
+| 005952 | [FreeBSD: Recovery Test — Automation for School Lab](Project_005952/README.md) |
+| 005953 | [FreeBSD: Recovery Test — Recovery for School Lab](Project_005953/README.md) |
+| 005954 | [FreeBSD: Recovery Test — Reporting for School Lab](Project_005954/README.md) |
+| 005955 | [FreeBSD: Recovery Test — Usability Improvement for School Lab](Project_005955/README.md) |
+| 005956 | [FreeBSD: Recovery Test — Baseline Setup for Small Business](Project_005956/README.md) |
+| 005957 | [FreeBSD: Recovery Test — Automation for Small Business](Project_005957/README.md) |
+| 005958 | [FreeBSD: Recovery Test — Recovery for Small Business](Project_005958/README.md) |
+| 005959 | [FreeBSD: Recovery Test — Reporting for Small Business](Project_005959/README.md) |
+| 005960 | [FreeBSD: Recovery Test — Usability Improvement for Small Business](Project_005960/README.md) |
 
 [Back to the portfolio home](../README.md)
