@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028258 | [SQLite: Data Import — Recovery for Small Business](Project_028258/README.md) |
 | 028259 | [SQLite: Data Import — Reporting for Small Business](Project_028259/README.md) |
 | 028260 | [SQLite: Data Import — Usability Improvement for Small Business](Project_028260/README.md) |
+| 028261 | [SQLite: Data Import — Baseline Setup for Home Development](Project_028261/README.md) |
+| 028262 | [SQLite: Data Import — Automation for Home Development](Project_028262/README.md) |
+| 028263 | [SQLite: Data Import — Recovery for Home Development](Project_028263/README.md) |
+| 028264 | [SQLite: Data Import — Reporting for Home Development](Project_028264/README.md) |
+| 028265 | [SQLite: Data Import — Usability Improvement for Home Development](Project_028265/README.md) |
+| 028266 | [SQLite: Data Import — Baseline Setup for Public Dataset](Project_028266/README.md) |
+| 028267 | [SQLite: Data Import — Automation for Public Dataset](Project_028267/README.md) |
+| 028268 | [SQLite: Data Import — Recovery for Public Dataset](Project_028268/README.md) |
+| 028269 | [SQLite: Data Import — Reporting for Public Dataset](Project_028269/README.md) |
+| 028270 | [SQLite: Data Import — Usability Improvement for Public Dataset](Project_028270/README.md) |
+| 028271 | [SQLite: Data Import — Baseline Setup for Branch Office Simulator](Project_028271/README.md) |
+| 028272 | [SQLite: Data Import — Automation for Branch Office Simulator](Project_028272/README.md) |
+| 028273 | [SQLite: Data Import — Recovery for Branch Office Simulator](Project_028273/README.md) |
+| 028274 | [SQLite: Data Import — Reporting for Branch Office Simulator](Project_028274/README.md) |
+| 028275 | [SQLite: Data Import — Usability Improvement for Branch Office Simulator](Project_028275/README.md) |
+| 028276 | [SQLite: Data Import — Baseline Setup for Offline Classroom](Project_028276/README.md) |
+| 028277 | [SQLite: Data Import — Automation for Offline Classroom](Project_028277/README.md) |
+| 028278 | [SQLite: Data Import — Recovery for Offline Classroom](Project_028278/README.md) |
+| 028279 | [SQLite: Data Import — Reporting for Offline Classroom](Project_028279/README.md) |
+| 028280 | [SQLite: Data Import — Usability Improvement for Offline Classroom](Project_028280/README.md) |
 
 [Back to the portfolio home](../README.md)
