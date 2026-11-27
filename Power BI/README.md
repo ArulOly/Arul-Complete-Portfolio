@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032738 | [Power BI: Error Handling — Recovery for Two-Node Lab](Project_032738/README.md) |
 | 032739 | [Power BI: Error Handling — Reporting for Two-Node Lab](Project_032739/README.md) |
 | 032740 | [Power BI: Error Handling — Usability Improvement for Two-Node Lab](Project_032740/README.md) |
+| 032741 | [Power BI: Error Handling — Baseline Setup for Help Desk](Project_032741/README.md) |
+| 032742 | [Power BI: Error Handling — Automation for Help Desk](Project_032742/README.md) |
+| 032743 | [Power BI: Error Handling — Recovery for Help Desk](Project_032743/README.md) |
+| 032744 | [Power BI: Error Handling — Reporting for Help Desk](Project_032744/README.md) |
+| 032745 | [Power BI: Error Handling — Usability Improvement for Help Desk](Project_032745/README.md) |
+| 032746 | [Power BI: Error Handling — Baseline Setup for Portfolio Demo](Project_032746/README.md) |
+| 032747 | [Power BI: Error Handling — Automation for Portfolio Demo](Project_032747/README.md) |
+| 032748 | [Power BI: Error Handling — Recovery for Portfolio Demo](Project_032748/README.md) |
+| 032749 | [Power BI: Error Handling — Reporting for Portfolio Demo](Project_032749/README.md) |
+| 032750 | [Power BI: Error Handling — Usability Improvement for Portfolio Demo](Project_032750/README.md) |
+| 032751 | [Power BI: Data Validation — Baseline Setup for School Lab](Project_032751/README.md) |
+| 032752 | [Power BI: Data Validation — Automation for School Lab](Project_032752/README.md) |
+| 032753 | [Power BI: Data Validation — Recovery for School Lab](Project_032753/README.md) |
+| 032754 | [Power BI: Data Validation — Reporting for School Lab](Project_032754/README.md) |
+| 032755 | [Power BI: Data Validation — Usability Improvement for School Lab](Project_032755/README.md) |
+| 032756 | [Power BI: Data Validation — Baseline Setup for Small Business](Project_032756/README.md) |
+| 032757 | [Power BI: Data Validation — Automation for Small Business](Project_032757/README.md) |
+| 032758 | [Power BI: Data Validation — Recovery for Small Business](Project_032758/README.md) |
+| 032759 | [Power BI: Data Validation — Reporting for Small Business](Project_032759/README.md) |
+| 032760 | [Power BI: Data Validation — Usability Improvement for Small Business](Project_032760/README.md) |
 
 [Back to the portfolio home](../README.md)
