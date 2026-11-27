@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027438 | [MongoDB: Alerting — Recovery for Two-Node Lab](Project_027438/README.md) |
 | 027439 | [MongoDB: Alerting — Reporting for Two-Node Lab](Project_027439/README.md) |
 | 027440 | [MongoDB: Alerting — Usability Improvement for Two-Node Lab](Project_027440/README.md) |
+| 027441 | [MongoDB: Alerting — Baseline Setup for Help Desk](Project_027441/README.md) |
+| 027442 | [MongoDB: Alerting — Automation for Help Desk](Project_027442/README.md) |
+| 027443 | [MongoDB: Alerting — Recovery for Help Desk](Project_027443/README.md) |
+| 027444 | [MongoDB: Alerting — Reporting for Help Desk](Project_027444/README.md) |
+| 027445 | [MongoDB: Alerting — Usability Improvement for Help Desk](Project_027445/README.md) |
+| 027446 | [MongoDB: Alerting — Baseline Setup for Portfolio Demo](Project_027446/README.md) |
+| 027447 | [MongoDB: Alerting — Automation for Portfolio Demo](Project_027447/README.md) |
+| 027448 | [MongoDB: Alerting — Recovery for Portfolio Demo](Project_027448/README.md) |
+| 027449 | [MongoDB: Alerting — Reporting for Portfolio Demo](Project_027449/README.md) |
+| 027450 | [MongoDB: Alerting — Usability Improvement for Portfolio Demo](Project_027450/README.md) |
+| 027451 | [MongoDB: Scheduled Reporting — Baseline Setup for School Lab](Project_027451/README.md) |
+| 027452 | [MongoDB: Scheduled Reporting — Automation for School Lab](Project_027452/README.md) |
+| 027453 | [MongoDB: Scheduled Reporting — Recovery for School Lab](Project_027453/README.md) |
+| 027454 | [MongoDB: Scheduled Reporting — Reporting for School Lab](Project_027454/README.md) |
+| 027455 | [MongoDB: Scheduled Reporting — Usability Improvement for School Lab](Project_027455/README.md) |
+| 027456 | [MongoDB: Scheduled Reporting — Baseline Setup for Small Business](Project_027456/README.md) |
+| 027457 | [MongoDB: Scheduled Reporting — Automation for Small Business](Project_027457/README.md) |
+| 027458 | [MongoDB: Scheduled Reporting — Recovery for Small Business](Project_027458/README.md) |
+| 027459 | [MongoDB: Scheduled Reporting — Reporting for Small Business](Project_027459/README.md) |
+| 027460 | [MongoDB: Scheduled Reporting — Usability Improvement for Small Business](Project_027460/README.md) |
 
 [Back to the portfolio home](../README.md)
