@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033378 | [Jupyter: Dashboard — Recovery for Offline Classroom](Project_033378/README.md) |
 | 033379 | [Jupyter: Dashboard — Reporting for Offline Classroom](Project_033379/README.md) |
 | 033380 | [Jupyter: Dashboard — Usability Improvement for Offline Classroom](Project_033380/README.md) |
+| 033381 | [Jupyter: Dashboard — Baseline Setup for Single-Host Lab](Project_033381/README.md) |
+| 033382 | [Jupyter: Dashboard — Automation for Single-Host Lab](Project_033382/README.md) |
+| 033383 | [Jupyter: Dashboard — Recovery for Single-Host Lab](Project_033383/README.md) |
+| 033384 | [Jupyter: Dashboard — Reporting for Single-Host Lab](Project_033384/README.md) |
+| 033385 | [Jupyter: Dashboard — Usability Improvement for Single-Host Lab](Project_033385/README.md) |
+| 033386 | [Jupyter: Dashboard — Baseline Setup for Two-Node Lab](Project_033386/README.md) |
+| 033387 | [Jupyter: Dashboard — Automation for Two-Node Lab](Project_033387/README.md) |
+| 033388 | [Jupyter: Dashboard — Recovery for Two-Node Lab](Project_033388/README.md) |
+| 033389 | [Jupyter: Dashboard — Reporting for Two-Node Lab](Project_033389/README.md) |
+| 033390 | [Jupyter: Dashboard — Usability Improvement for Two-Node Lab](Project_033390/README.md) |
+| 033391 | [Jupyter: Dashboard — Baseline Setup for Help Desk](Project_033391/README.md) |
+| 033392 | [Jupyter: Dashboard — Automation for Help Desk](Project_033392/README.md) |
+| 033393 | [Jupyter: Dashboard — Recovery for Help Desk](Project_033393/README.md) |
+| 033394 | [Jupyter: Dashboard — Reporting for Help Desk](Project_033394/README.md) |
+| 033395 | [Jupyter: Dashboard — Usability Improvement for Help Desk](Project_033395/README.md) |
+| 033396 | [Jupyter: Dashboard — Baseline Setup for Portfolio Demo](Project_033396/README.md) |
+| 033397 | [Jupyter: Dashboard — Automation for Portfolio Demo](Project_033397/README.md) |
+| 033398 | [Jupyter: Dashboard — Recovery for Portfolio Demo](Project_033398/README.md) |
+| 033399 | [Jupyter: Dashboard — Reporting for Portfolio Demo](Project_033399/README.md) |
+| 033400 | [Jupyter: Dashboard — Usability Improvement for Portfolio Demo](Project_033400/README.md) |
 
 [Back to the portfolio home](../README.md)
