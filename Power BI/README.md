@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032598 | [Power BI: Performance Baseline — Recovery for Portfolio Demo](Project_032598/README.md) |
 | 032599 | [Power BI: Performance Baseline — Reporting for Portfolio Demo](Project_032599/README.md) |
 | 032600 | [Power BI: Performance Baseline — Usability Improvement for Portfolio Demo](Project_032600/README.md) |
+| 032601 | [Power BI: Service Check — Baseline Setup for School Lab](Project_032601/README.md) |
+| 032602 | [Power BI: Service Check — Automation for School Lab](Project_032602/README.md) |
+| 032603 | [Power BI: Service Check — Recovery for School Lab](Project_032603/README.md) |
+| 032604 | [Power BI: Service Check — Reporting for School Lab](Project_032604/README.md) |
+| 032605 | [Power BI: Service Check — Usability Improvement for School Lab](Project_032605/README.md) |
+| 032606 | [Power BI: Service Check — Baseline Setup for Small Business](Project_032606/README.md) |
+| 032607 | [Power BI: Service Check — Automation for Small Business](Project_032607/README.md) |
+| 032608 | [Power BI: Service Check — Recovery for Small Business](Project_032608/README.md) |
+| 032609 | [Power BI: Service Check — Reporting for Small Business](Project_032609/README.md) |
+| 032610 | [Power BI: Service Check — Usability Improvement for Small Business](Project_032610/README.md) |
+| 032611 | [Power BI: Service Check — Baseline Setup for Home Development](Project_032611/README.md) |
+| 032612 | [Power BI: Service Check — Automation for Home Development](Project_032612/README.md) |
+| 032613 | [Power BI: Service Check — Recovery for Home Development](Project_032613/README.md) |
+| 032614 | [Power BI: Service Check — Reporting for Home Development](Project_032614/README.md) |
+| 032615 | [Power BI: Service Check — Usability Improvement for Home Development](Project_032615/README.md) |
+| 032616 | [Power BI: Service Check — Baseline Setup for Public Dataset](Project_032616/README.md) |
+| 032617 | [Power BI: Service Check — Automation for Public Dataset](Project_032617/README.md) |
+| 032618 | [Power BI: Service Check — Recovery for Public Dataset](Project_032618/README.md) |
+| 032619 | [Power BI: Service Check — Reporting for Public Dataset](Project_032619/README.md) |
+| 032620 | [Power BI: Service Check — Usability Improvement for Public Dataset](Project_032620/README.md) |
 
 [Back to the portfolio home](../README.md)
