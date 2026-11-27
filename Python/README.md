@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -244,5 +244,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019198 | [Python: Log Analysis — Recovery for Portfolio Demo](Project_019198/README.md) |
 | 019199 | [Python: Log Analysis — Reporting for Portfolio Demo](Project_019199/README.md) |
 | 019200 | [Python: Log Analysis — Usability Improvement for Portfolio Demo](Project_019200/README.md) |
+| 019201 | [Python: Backup Verification — Baseline Setup for School Lab](Project_019201/README.md) |
+| 019202 | [Python: Backup Verification — Automation for School Lab](Project_019202/README.md) |
+| 019203 | [Python: Backup Verification — Recovery for School Lab](Project_019203/README.md) |
+| 019204 | [Python: Backup Verification — Reporting for School Lab](Project_019204/README.md) |
+| 019205 | [Python: Backup Verification — Usability Improvement for School Lab](Project_019205/README.md) |
+| 019206 | [Python: Backup Verification — Baseline Setup for Small Business](Project_019206/README.md) |
+| 019207 | [Python: Backup Verification — Automation for Small Business](Project_019207/README.md) |
+| 019208 | [Python: Backup Verification — Recovery for Small Business](Project_019208/README.md) |
+| 019209 | [Python: Backup Verification — Reporting for Small Business](Project_019209/README.md) |
+| 019210 | [Python: Backup Verification — Usability Improvement for Small Business](Project_019210/README.md) |
+| 019211 | [Python: Backup Verification — Baseline Setup for Home Development](Project_019211/README.md) |
+| 019212 | [Python: Backup Verification — Automation for Home Development](Project_019212/README.md) |
+| 019213 | [Python: Backup Verification — Recovery for Home Development](Project_019213/README.md) |
+| 019214 | [Python: Backup Verification — Reporting for Home Development](Project_019214/README.md) |
+| 019215 | [Python: Backup Verification — Usability Improvement for Home Development](Project_019215/README.md) |
+| 019216 | [Python: Backup Verification — Baseline Setup for Public Dataset](Project_019216/README.md) |
+| 019217 | [Python: Backup Verification — Automation for Public Dataset](Project_019217/README.md) |
+| 019218 | [Python: Backup Verification — Recovery for Public Dataset](Project_019218/README.md) |
+| 019219 | [Python: Backup Verification — Reporting for Public Dataset](Project_019219/README.md) |
+| 019220 | [Python: Backup Verification — Usability Improvement for Public Dataset](Project_019220/README.md) |
 
 [Back to the portfolio home](../README.md)
