@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034958 | [Scikit-learn: Recovery Test — Recovery for Small Business](Project_034958/README.md) |
 | 034959 | [Scikit-learn: Recovery Test — Reporting for Small Business](Project_034959/README.md) |
 | 034960 | [Scikit-learn: Recovery Test — Usability Improvement for Small Business](Project_034960/README.md) |
+| 034961 | [Scikit-learn: Recovery Test — Baseline Setup for Home Development](Project_034961/README.md) |
+| 034962 | [Scikit-learn: Recovery Test — Automation for Home Development](Project_034962/README.md) |
+| 034963 | [Scikit-learn: Recovery Test — Recovery for Home Development](Project_034963/README.md) |
+| 034964 | [Scikit-learn: Recovery Test — Reporting for Home Development](Project_034964/README.md) |
+| 034965 | [Scikit-learn: Recovery Test — Usability Improvement for Home Development](Project_034965/README.md) |
+| 034966 | [Scikit-learn: Recovery Test — Baseline Setup for Public Dataset](Project_034966/README.md) |
+| 034967 | [Scikit-learn: Recovery Test — Automation for Public Dataset](Project_034967/README.md) |
+| 034968 | [Scikit-learn: Recovery Test — Recovery for Public Dataset](Project_034968/README.md) |
+| 034969 | [Scikit-learn: Recovery Test — Reporting for Public Dataset](Project_034969/README.md) |
+| 034970 | [Scikit-learn: Recovery Test — Usability Improvement for Public Dataset](Project_034970/README.md) |
+| 034971 | [Scikit-learn: Recovery Test — Baseline Setup for Branch Office Simulator](Project_034971/README.md) |
+| 034972 | [Scikit-learn: Recovery Test — Automation for Branch Office Simulator](Project_034972/README.md) |
+| 034973 | [Scikit-learn: Recovery Test — Recovery for Branch Office Simulator](Project_034973/README.md) |
+| 034974 | [Scikit-learn: Recovery Test — Reporting for Branch Office Simulator](Project_034974/README.md) |
+| 034975 | [Scikit-learn: Recovery Test — Usability Improvement for Branch Office Simulator](Project_034975/README.md) |
+| 034976 | [Scikit-learn: Recovery Test — Baseline Setup for Offline Classroom](Project_034976/README.md) |
+| 034977 | [Scikit-learn: Recovery Test — Automation for Offline Classroom](Project_034977/README.md) |
+| 034978 | [Scikit-learn: Recovery Test — Recovery for Offline Classroom](Project_034978/README.md) |
+| 034979 | [Scikit-learn: Recovery Test — Reporting for Offline Classroom](Project_034979/README.md) |
+| 034980 | [Scikit-learn: Recovery Test — Usability Improvement for Offline Classroom](Project_034980/README.md) |
 
 [Back to the portfolio home](../README.md)
