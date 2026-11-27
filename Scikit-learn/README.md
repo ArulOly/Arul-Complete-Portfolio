@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034058 | [Scikit-learn: Monitoring — Recovery for Small Business](Project_034058/README.md) |
 | 034059 | [Scikit-learn: Monitoring — Reporting for Small Business](Project_034059/README.md) |
 | 034060 | [Scikit-learn: Monitoring — Usability Improvement for Small Business](Project_034060/README.md) |
+| 034061 | [Scikit-learn: Monitoring — Baseline Setup for Home Development](Project_034061/README.md) |
+| 034062 | [Scikit-learn: Monitoring — Automation for Home Development](Project_034062/README.md) |
+| 034063 | [Scikit-learn: Monitoring — Recovery for Home Development](Project_034063/README.md) |
+| 034064 | [Scikit-learn: Monitoring — Reporting for Home Development](Project_034064/README.md) |
+| 034065 | [Scikit-learn: Monitoring — Usability Improvement for Home Development](Project_034065/README.md) |
+| 034066 | [Scikit-learn: Monitoring — Baseline Setup for Public Dataset](Project_034066/README.md) |
+| 034067 | [Scikit-learn: Monitoring — Automation for Public Dataset](Project_034067/README.md) |
+| 034068 | [Scikit-learn: Monitoring — Recovery for Public Dataset](Project_034068/README.md) |
+| 034069 | [Scikit-learn: Monitoring — Reporting for Public Dataset](Project_034069/README.md) |
+| 034070 | [Scikit-learn: Monitoring — Usability Improvement for Public Dataset](Project_034070/README.md) |
+| 034071 | [Scikit-learn: Monitoring — Baseline Setup for Branch Office Simulator](Project_034071/README.md) |
+| 034072 | [Scikit-learn: Monitoring — Automation for Branch Office Simulator](Project_034072/README.md) |
+| 034073 | [Scikit-learn: Monitoring — Recovery for Branch Office Simulator](Project_034073/README.md) |
+| 034074 | [Scikit-learn: Monitoring — Reporting for Branch Office Simulator](Project_034074/README.md) |
+| 034075 | [Scikit-learn: Monitoring — Usability Improvement for Branch Office Simulator](Project_034075/README.md) |
+| 034076 | [Scikit-learn: Monitoring — Baseline Setup for Offline Classroom](Project_034076/README.md) |
+| 034077 | [Scikit-learn: Monitoring — Automation for Offline Classroom](Project_034077/README.md) |
+| 034078 | [Scikit-learn: Monitoring — Recovery for Offline Classroom](Project_034078/README.md) |
+| 034079 | [Scikit-learn: Monitoring — Reporting for Offline Classroom](Project_034079/README.md) |
+| 034080 | [Scikit-learn: Monitoring — Usability Improvement for Offline Classroom](Project_034080/README.md) |
 
 [Back to the portfolio home](../README.md)
