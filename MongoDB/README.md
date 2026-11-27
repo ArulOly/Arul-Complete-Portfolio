@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027338 | [MongoDB: Data Export — Recovery for Two-Node Lab](Project_027338/README.md) |
 | 027339 | [MongoDB: Data Export — Reporting for Two-Node Lab](Project_027339/README.md) |
 | 027340 | [MongoDB: Data Export — Usability Improvement for Two-Node Lab](Project_027340/README.md) |
+| 027341 | [MongoDB: Data Export — Baseline Setup for Help Desk](Project_027341/README.md) |
+| 027342 | [MongoDB: Data Export — Automation for Help Desk](Project_027342/README.md) |
+| 027343 | [MongoDB: Data Export — Recovery for Help Desk](Project_027343/README.md) |
+| 027344 | [MongoDB: Data Export — Reporting for Help Desk](Project_027344/README.md) |
+| 027345 | [MongoDB: Data Export — Usability Improvement for Help Desk](Project_027345/README.md) |
+| 027346 | [MongoDB: Data Export — Baseline Setup for Portfolio Demo](Project_027346/README.md) |
+| 027347 | [MongoDB: Data Export — Automation for Portfolio Demo](Project_027347/README.md) |
+| 027348 | [MongoDB: Data Export — Recovery for Portfolio Demo](Project_027348/README.md) |
+| 027349 | [MongoDB: Data Export — Reporting for Portfolio Demo](Project_027349/README.md) |
+| 027350 | [MongoDB: Data Export — Usability Improvement for Portfolio Demo](Project_027350/README.md) |
+| 027351 | [MongoDB: Dashboard — Baseline Setup for School Lab](Project_027351/README.md) |
+| 027352 | [MongoDB: Dashboard — Automation for School Lab](Project_027352/README.md) |
+| 027353 | [MongoDB: Dashboard — Recovery for School Lab](Project_027353/README.md) |
+| 027354 | [MongoDB: Dashboard — Reporting for School Lab](Project_027354/README.md) |
+| 027355 | [MongoDB: Dashboard — Usability Improvement for School Lab](Project_027355/README.md) |
+| 027356 | [MongoDB: Dashboard — Baseline Setup for Small Business](Project_027356/README.md) |
+| 027357 | [MongoDB: Dashboard — Automation for Small Business](Project_027357/README.md) |
+| 027358 | [MongoDB: Dashboard — Recovery for Small Business](Project_027358/README.md) |
+| 027359 | [MongoDB: Dashboard — Reporting for Small Business](Project_027359/README.md) |
+| 027360 | [MongoDB: Dashboard — Usability Improvement for Small Business](Project_027360/README.md) |
 
 [Back to the portfolio home](../README.md)
