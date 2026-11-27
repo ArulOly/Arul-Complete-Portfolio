@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025638 | [PostgreSQL: Service Check — Recovery for Two-Node Lab](Project_025638/README.md) |
 | 025639 | [PostgreSQL: Service Check — Reporting for Two-Node Lab](Project_025639/README.md) |
 | 025640 | [PostgreSQL: Service Check — Usability Improvement for Two-Node Lab](Project_025640/README.md) |
+| 025641 | [PostgreSQL: Service Check — Baseline Setup for Help Desk](Project_025641/README.md) |
+| 025642 | [PostgreSQL: Service Check — Automation for Help Desk](Project_025642/README.md) |
+| 025643 | [PostgreSQL: Service Check — Recovery for Help Desk](Project_025643/README.md) |
+| 025644 | [PostgreSQL: Service Check — Reporting for Help Desk](Project_025644/README.md) |
+| 025645 | [PostgreSQL: Service Check — Usability Improvement for Help Desk](Project_025645/README.md) |
+| 025646 | [PostgreSQL: Service Check — Baseline Setup for Portfolio Demo](Project_025646/README.md) |
+| 025647 | [PostgreSQL: Service Check — Automation for Portfolio Demo](Project_025647/README.md) |
+| 025648 | [PostgreSQL: Service Check — Recovery for Portfolio Demo](Project_025648/README.md) |
+| 025649 | [PostgreSQL: Service Check — Reporting for Portfolio Demo](Project_025649/README.md) |
+| 025650 | [PostgreSQL: Service Check — Usability Improvement for Portfolio Demo](Project_025650/README.md) |
+| 025651 | [PostgreSQL: Configuration Comparison — Baseline Setup for School Lab](Project_025651/README.md) |
+| 025652 | [PostgreSQL: Configuration Comparison — Automation for School Lab](Project_025652/README.md) |
+| 025653 | [PostgreSQL: Configuration Comparison — Recovery for School Lab](Project_025653/README.md) |
+| 025654 | [PostgreSQL: Configuration Comparison — Reporting for School Lab](Project_025654/README.md) |
+| 025655 | [PostgreSQL: Configuration Comparison — Usability Improvement for School Lab](Project_025655/README.md) |
+| 025656 | [PostgreSQL: Configuration Comparison — Baseline Setup for Small Business](Project_025656/README.md) |
+| 025657 | [PostgreSQL: Configuration Comparison — Automation for Small Business](Project_025657/README.md) |
+| 025658 | [PostgreSQL: Configuration Comparison — Recovery for Small Business](Project_025658/README.md) |
+| 025659 | [PostgreSQL: Configuration Comparison — Reporting for Small Business](Project_025659/README.md) |
+| 025660 | [PostgreSQL: Configuration Comparison — Usability Improvement for Small Business](Project_025660/README.md) |
 
 [Back to the portfolio home](../README.md)
