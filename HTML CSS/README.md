@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023718 | [HTML CSS: Error Handling — Recovery for Public Dataset](Project_023718/README.md) |
 | 023719 | [HTML CSS: Error Handling — Reporting for Public Dataset](Project_023719/README.md) |
 | 023720 | [HTML CSS: Error Handling — Usability Improvement for Public Dataset](Project_023720/README.md) |
+| 023721 | [HTML CSS: Error Handling — Baseline Setup for Branch Office Simulator](Project_023721/README.md) |
+| 023722 | [HTML CSS: Error Handling — Automation for Branch Office Simulator](Project_023722/README.md) |
+| 023723 | [HTML CSS: Error Handling — Recovery for Branch Office Simulator](Project_023723/README.md) |
+| 023724 | [HTML CSS: Error Handling — Reporting for Branch Office Simulator](Project_023724/README.md) |
+| 023725 | [HTML CSS: Error Handling — Usability Improvement for Branch Office Simulator](Project_023725/README.md) |
+| 023726 | [HTML CSS: Error Handling — Baseline Setup for Offline Classroom](Project_023726/README.md) |
+| 023727 | [HTML CSS: Error Handling — Automation for Offline Classroom](Project_023727/README.md) |
+| 023728 | [HTML CSS: Error Handling — Recovery for Offline Classroom](Project_023728/README.md) |
+| 023729 | [HTML CSS: Error Handling — Reporting for Offline Classroom](Project_023729/README.md) |
+| 023730 | [HTML CSS: Error Handling — Usability Improvement for Offline Classroom](Project_023730/README.md) |
+| 023731 | [HTML CSS: Error Handling — Baseline Setup for Single-Host Lab](Project_023731/README.md) |
+| 023732 | [HTML CSS: Error Handling — Automation for Single-Host Lab](Project_023732/README.md) |
+| 023733 | [HTML CSS: Error Handling — Recovery for Single-Host Lab](Project_023733/README.md) |
+| 023734 | [HTML CSS: Error Handling — Reporting for Single-Host Lab](Project_023734/README.md) |
+| 023735 | [HTML CSS: Error Handling — Usability Improvement for Single-Host Lab](Project_023735/README.md) |
+| 023736 | [HTML CSS: Error Handling — Baseline Setup for Two-Node Lab](Project_023736/README.md) |
+| 023737 | [HTML CSS: Error Handling — Automation for Two-Node Lab](Project_023737/README.md) |
+| 023738 | [HTML CSS: Error Handling — Recovery for Two-Node Lab](Project_023738/README.md) |
+| 023739 | [HTML CSS: Error Handling — Reporting for Two-Node Lab](Project_023739/README.md) |
+| 023740 | [HTML CSS: Error Handling — Usability Improvement for Two-Node Lab](Project_023740/README.md) |
 
 [Back to the portfolio home](../README.md)
