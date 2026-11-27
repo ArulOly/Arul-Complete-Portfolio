@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005258 | [FreeBSD: Data Import — Recovery for Small Business](Project_005258/README.md) |
 | 005259 | [FreeBSD: Data Import — Reporting for Small Business](Project_005259/README.md) |
 | 005260 | [FreeBSD: Data Import — Usability Improvement for Small Business](Project_005260/README.md) |
+| 005261 | [FreeBSD: Data Import — Baseline Setup for Home Development](Project_005261/README.md) |
+| 005262 | [FreeBSD: Data Import — Automation for Home Development](Project_005262/README.md) |
+| 005263 | [FreeBSD: Data Import — Recovery for Home Development](Project_005263/README.md) |
+| 005264 | [FreeBSD: Data Import — Reporting for Home Development](Project_005264/README.md) |
+| 005265 | [FreeBSD: Data Import — Usability Improvement for Home Development](Project_005265/README.md) |
+| 005266 | [FreeBSD: Data Import — Baseline Setup for Public Dataset](Project_005266/README.md) |
+| 005267 | [FreeBSD: Data Import — Automation for Public Dataset](Project_005267/README.md) |
+| 005268 | [FreeBSD: Data Import — Recovery for Public Dataset](Project_005268/README.md) |
+| 005269 | [FreeBSD: Data Import — Reporting for Public Dataset](Project_005269/README.md) |
+| 005270 | [FreeBSD: Data Import — Usability Improvement for Public Dataset](Project_005270/README.md) |
+| 005271 | [FreeBSD: Data Import — Baseline Setup for Branch Office Simulator](Project_005271/README.md) |
+| 005272 | [FreeBSD: Data Import — Automation for Branch Office Simulator](Project_005272/README.md) |
+| 005273 | [FreeBSD: Data Import — Recovery for Branch Office Simulator](Project_005273/README.md) |
+| 005274 | [FreeBSD: Data Import — Reporting for Branch Office Simulator](Project_005274/README.md) |
+| 005275 | [FreeBSD: Data Import — Usability Improvement for Branch Office Simulator](Project_005275/README.md) |
+| 005276 | [FreeBSD: Data Import — Baseline Setup for Offline Classroom](Project_005276/README.md) |
+| 005277 | [FreeBSD: Data Import — Automation for Offline Classroom](Project_005277/README.md) |
+| 005278 | [FreeBSD: Data Import — Recovery for Offline Classroom](Project_005278/README.md) |
+| 005279 | [FreeBSD: Data Import — Reporting for Offline Classroom](Project_005279/README.md) |
+| 005280 | [FreeBSD: Data Import — Usability Improvement for Offline Classroom](Project_005280/README.md) |
 
 [Back to the portfolio home](../README.md)
