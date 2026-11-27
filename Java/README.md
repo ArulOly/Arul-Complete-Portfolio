@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022618 | [Java: Service Check — Recovery for Public Dataset](Project_022618/README.md) |
 | 022619 | [Java: Service Check — Reporting for Public Dataset](Project_022619/README.md) |
 | 022620 | [Java: Service Check — Usability Improvement for Public Dataset](Project_022620/README.md) |
+| 022621 | [Java: Service Check — Baseline Setup for Branch Office Simulator](Project_022621/README.md) |
+| 022622 | [Java: Service Check — Automation for Branch Office Simulator](Project_022622/README.md) |
+| 022623 | [Java: Service Check — Recovery for Branch Office Simulator](Project_022623/README.md) |
+| 022624 | [Java: Service Check — Reporting for Branch Office Simulator](Project_022624/README.md) |
+| 022625 | [Java: Service Check — Usability Improvement for Branch Office Simulator](Project_022625/README.md) |
+| 022626 | [Java: Service Check — Baseline Setup for Offline Classroom](Project_022626/README.md) |
+| 022627 | [Java: Service Check — Automation for Offline Classroom](Project_022627/README.md) |
+| 022628 | [Java: Service Check — Recovery for Offline Classroom](Project_022628/README.md) |
+| 022629 | [Java: Service Check — Reporting for Offline Classroom](Project_022629/README.md) |
+| 022630 | [Java: Service Check — Usability Improvement for Offline Classroom](Project_022630/README.md) |
+| 022631 | [Java: Service Check — Baseline Setup for Single-Host Lab](Project_022631/README.md) |
+| 022632 | [Java: Service Check — Automation for Single-Host Lab](Project_022632/README.md) |
+| 022633 | [Java: Service Check — Recovery for Single-Host Lab](Project_022633/README.md) |
+| 022634 | [Java: Service Check — Reporting for Single-Host Lab](Project_022634/README.md) |
+| 022635 | [Java: Service Check — Usability Improvement for Single-Host Lab](Project_022635/README.md) |
+| 022636 | [Java: Service Check — Baseline Setup for Two-Node Lab](Project_022636/README.md) |
+| 022637 | [Java: Service Check — Automation for Two-Node Lab](Project_022637/README.md) |
+| 022638 | [Java: Service Check — Recovery for Two-Node Lab](Project_022638/README.md) |
+| 022639 | [Java: Service Check — Reporting for Two-Node Lab](Project_022639/README.md) |
+| 022640 | [Java: Service Check — Usability Improvement for Two-Node Lab](Project_022640/README.md) |
 
 [Back to the portfolio home](../README.md)
