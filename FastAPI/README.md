@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049018 | [FastAPI: Inventory — Recovery for Public Dataset](Project_049018/README.md) |
 | 049019 | [FastAPI: Inventory — Reporting for Public Dataset](Project_049019/README.md) |
 | 049020 | [FastAPI: Inventory — Usability Improvement for Public Dataset](Project_049020/README.md) |
+| 049021 | [FastAPI: Inventory — Baseline Setup for Branch Office Simulator](Project_049021/README.md) |
+| 049022 | [FastAPI: Inventory — Automation for Branch Office Simulator](Project_049022/README.md) |
+| 049023 | [FastAPI: Inventory — Recovery for Branch Office Simulator](Project_049023/README.md) |
+| 049024 | [FastAPI: Inventory — Reporting for Branch Office Simulator](Project_049024/README.md) |
+| 049025 | [FastAPI: Inventory — Usability Improvement for Branch Office Simulator](Project_049025/README.md) |
+| 049026 | [FastAPI: Inventory — Baseline Setup for Offline Classroom](Project_049026/README.md) |
+| 049027 | [FastAPI: Inventory — Automation for Offline Classroom](Project_049027/README.md) |
+| 049028 | [FastAPI: Inventory — Recovery for Offline Classroom](Project_049028/README.md) |
+| 049029 | [FastAPI: Inventory — Reporting for Offline Classroom](Project_049029/README.md) |
+| 049030 | [FastAPI: Inventory — Usability Improvement for Offline Classroom](Project_049030/README.md) |
+| 049031 | [FastAPI: Inventory — Baseline Setup for Single-Host Lab](Project_049031/README.md) |
+| 049032 | [FastAPI: Inventory — Automation for Single-Host Lab](Project_049032/README.md) |
+| 049033 | [FastAPI: Inventory — Recovery for Single-Host Lab](Project_049033/README.md) |
+| 049034 | [FastAPI: Inventory — Reporting for Single-Host Lab](Project_049034/README.md) |
+| 049035 | [FastAPI: Inventory — Usability Improvement for Single-Host Lab](Project_049035/README.md) |
+| 049036 | [FastAPI: Inventory — Baseline Setup for Two-Node Lab](Project_049036/README.md) |
+| 049037 | [FastAPI: Inventory — Automation for Two-Node Lab](Project_049037/README.md) |
+| 049038 | [FastAPI: Inventory — Recovery for Two-Node Lab](Project_049038/README.md) |
+| 049039 | [FastAPI: Inventory — Reporting for Two-Node Lab](Project_049039/README.md) |
+| 049040 | [FastAPI: Inventory — Usability Improvement for Two-Node Lab](Project_049040/README.md) |
 
 [Back to the portfolio home](../README.md)
