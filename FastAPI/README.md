@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049558 | [FastAPI: Performance Baseline — Recovery for Small Business](Project_049558/README.md) |
 | 049559 | [FastAPI: Performance Baseline — Reporting for Small Business](Project_049559/README.md) |
 | 049560 | [FastAPI: Performance Baseline — Usability Improvement for Small Business](Project_049560/README.md) |
+| 049561 | [FastAPI: Performance Baseline — Baseline Setup for Home Development](Project_049561/README.md) |
+| 049562 | [FastAPI: Performance Baseline — Automation for Home Development](Project_049562/README.md) |
+| 049563 | [FastAPI: Performance Baseline — Recovery for Home Development](Project_049563/README.md) |
+| 049564 | [FastAPI: Performance Baseline — Reporting for Home Development](Project_049564/README.md) |
+| 049565 | [FastAPI: Performance Baseline — Usability Improvement for Home Development](Project_049565/README.md) |
+| 049566 | [FastAPI: Performance Baseline — Baseline Setup for Public Dataset](Project_049566/README.md) |
+| 049567 | [FastAPI: Performance Baseline — Automation for Public Dataset](Project_049567/README.md) |
+| 049568 | [FastAPI: Performance Baseline — Recovery for Public Dataset](Project_049568/README.md) |
+| 049569 | [FastAPI: Performance Baseline — Reporting for Public Dataset](Project_049569/README.md) |
+| 049570 | [FastAPI: Performance Baseline — Usability Improvement for Public Dataset](Project_049570/README.md) |
+| 049571 | [FastAPI: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_049571/README.md) |
+| 049572 | [FastAPI: Performance Baseline — Automation for Branch Office Simulator](Project_049572/README.md) |
+| 049573 | [FastAPI: Performance Baseline — Recovery for Branch Office Simulator](Project_049573/README.md) |
+| 049574 | [FastAPI: Performance Baseline — Reporting for Branch Office Simulator](Project_049574/README.md) |
+| 049575 | [FastAPI: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_049575/README.md) |
+| 049576 | [FastAPI: Performance Baseline — Baseline Setup for Offline Classroom](Project_049576/README.md) |
+| 049577 | [FastAPI: Performance Baseline — Automation for Offline Classroom](Project_049577/README.md) |
+| 049578 | [FastAPI: Performance Baseline — Recovery for Offline Classroom](Project_049578/README.md) |
+| 049579 | [FastAPI: Performance Baseline — Reporting for Offline Classroom](Project_049579/README.md) |
+| 049580 | [FastAPI: Performance Baseline — Usability Improvement for Offline Classroom](Project_049580/README.md) |
 
 [Back to the portfolio home](../README.md)
