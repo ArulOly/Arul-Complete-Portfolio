@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005778 | [FreeBSD: Data Validation — Recovery for Offline Classroom](Project_005778/README.md) |
 | 005779 | [FreeBSD: Data Validation — Reporting for Offline Classroom](Project_005779/README.md) |
 | 005780 | [FreeBSD: Data Validation — Usability Improvement for Offline Classroom](Project_005780/README.md) |
+| 005781 | [FreeBSD: Data Validation — Baseline Setup for Single-Host Lab](Project_005781/README.md) |
+| 005782 | [FreeBSD: Data Validation — Automation for Single-Host Lab](Project_005782/README.md) |
+| 005783 | [FreeBSD: Data Validation — Recovery for Single-Host Lab](Project_005783/README.md) |
+| 005784 | [FreeBSD: Data Validation — Reporting for Single-Host Lab](Project_005784/README.md) |
+| 005785 | [FreeBSD: Data Validation — Usability Improvement for Single-Host Lab](Project_005785/README.md) |
+| 005786 | [FreeBSD: Data Validation — Baseline Setup for Two-Node Lab](Project_005786/README.md) |
+| 005787 | [FreeBSD: Data Validation — Automation for Two-Node Lab](Project_005787/README.md) |
+| 005788 | [FreeBSD: Data Validation — Recovery for Two-Node Lab](Project_005788/README.md) |
+| 005789 | [FreeBSD: Data Validation — Reporting for Two-Node Lab](Project_005789/README.md) |
+| 005790 | [FreeBSD: Data Validation — Usability Improvement for Two-Node Lab](Project_005790/README.md) |
+| 005791 | [FreeBSD: Data Validation — Baseline Setup for Help Desk](Project_005791/README.md) |
+| 005792 | [FreeBSD: Data Validation — Automation for Help Desk](Project_005792/README.md) |
+| 005793 | [FreeBSD: Data Validation — Recovery for Help Desk](Project_005793/README.md) |
+| 005794 | [FreeBSD: Data Validation — Reporting for Help Desk](Project_005794/README.md) |
+| 005795 | [FreeBSD: Data Validation — Usability Improvement for Help Desk](Project_005795/README.md) |
+| 005796 | [FreeBSD: Data Validation — Baseline Setup for Portfolio Demo](Project_005796/README.md) |
+| 005797 | [FreeBSD: Data Validation — Automation for Portfolio Demo](Project_005797/README.md) |
+| 005798 | [FreeBSD: Data Validation — Recovery for Portfolio Demo](Project_005798/README.md) |
+| 005799 | [FreeBSD: Data Validation — Reporting for Portfolio Demo](Project_005799/README.md) |
+| 005800 | [FreeBSD: Data Validation — Usability Improvement for Portfolio Demo](Project_005800/README.md) |
 
 [Back to the portfolio home](../README.md)
