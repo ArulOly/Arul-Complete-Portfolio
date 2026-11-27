@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023298 | [HTML CSS: Data Import — Recovery for Portfolio Demo](Project_023298/README.md) |
 | 023299 | [HTML CSS: Data Import — Reporting for Portfolio Demo](Project_023299/README.md) |
 | 023300 | [HTML CSS: Data Import — Usability Improvement for Portfolio Demo](Project_023300/README.md) |
+| 023301 | [HTML CSS: Data Export — Baseline Setup for School Lab](Project_023301/README.md) |
+| 023302 | [HTML CSS: Data Export — Automation for School Lab](Project_023302/README.md) |
+| 023303 | [HTML CSS: Data Export — Recovery for School Lab](Project_023303/README.md) |
+| 023304 | [HTML CSS: Data Export — Reporting for School Lab](Project_023304/README.md) |
+| 023305 | [HTML CSS: Data Export — Usability Improvement for School Lab](Project_023305/README.md) |
+| 023306 | [HTML CSS: Data Export — Baseline Setup for Small Business](Project_023306/README.md) |
+| 023307 | [HTML CSS: Data Export — Automation for Small Business](Project_023307/README.md) |
+| 023308 | [HTML CSS: Data Export — Recovery for Small Business](Project_023308/README.md) |
+| 023309 | [HTML CSS: Data Export — Reporting for Small Business](Project_023309/README.md) |
+| 023310 | [HTML CSS: Data Export — Usability Improvement for Small Business](Project_023310/README.md) |
+| 023311 | [HTML CSS: Data Export — Baseline Setup for Home Development](Project_023311/README.md) |
+| 023312 | [HTML CSS: Data Export — Automation for Home Development](Project_023312/README.md) |
+| 023313 | [HTML CSS: Data Export — Recovery for Home Development](Project_023313/README.md) |
+| 023314 | [HTML CSS: Data Export — Reporting for Home Development](Project_023314/README.md) |
+| 023315 | [HTML CSS: Data Export — Usability Improvement for Home Development](Project_023315/README.md) |
+| 023316 | [HTML CSS: Data Export — Baseline Setup for Public Dataset](Project_023316/README.md) |
+| 023317 | [HTML CSS: Data Export — Automation for Public Dataset](Project_023317/README.md) |
+| 023318 | [HTML CSS: Data Export — Recovery for Public Dataset](Project_023318/README.md) |
+| 023319 | [HTML CSS: Data Export — Reporting for Public Dataset](Project_023319/README.md) |
+| 023320 | [HTML CSS: Data Export — Usability Improvement for Public Dataset](Project_023320/README.md) |
 
 [Back to the portfolio home](../README.md)
