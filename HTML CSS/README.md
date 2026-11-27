@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023318 | [HTML CSS: Data Export — Recovery for Public Dataset](Project_023318/README.md) |
 | 023319 | [HTML CSS: Data Export — Reporting for Public Dataset](Project_023319/README.md) |
 | 023320 | [HTML CSS: Data Export — Usability Improvement for Public Dataset](Project_023320/README.md) |
+| 023321 | [HTML CSS: Data Export — Baseline Setup for Branch Office Simulator](Project_023321/README.md) |
+| 023322 | [HTML CSS: Data Export — Automation for Branch Office Simulator](Project_023322/README.md) |
+| 023323 | [HTML CSS: Data Export — Recovery for Branch Office Simulator](Project_023323/README.md) |
+| 023324 | [HTML CSS: Data Export — Reporting for Branch Office Simulator](Project_023324/README.md) |
+| 023325 | [HTML CSS: Data Export — Usability Improvement for Branch Office Simulator](Project_023325/README.md) |
+| 023326 | [HTML CSS: Data Export — Baseline Setup for Offline Classroom](Project_023326/README.md) |
+| 023327 | [HTML CSS: Data Export — Automation for Offline Classroom](Project_023327/README.md) |
+| 023328 | [HTML CSS: Data Export — Recovery for Offline Classroom](Project_023328/README.md) |
+| 023329 | [HTML CSS: Data Export — Reporting for Offline Classroom](Project_023329/README.md) |
+| 023330 | [HTML CSS: Data Export — Usability Improvement for Offline Classroom](Project_023330/README.md) |
+| 023331 | [HTML CSS: Data Export — Baseline Setup for Single-Host Lab](Project_023331/README.md) |
+| 023332 | [HTML CSS: Data Export — Automation for Single-Host Lab](Project_023332/README.md) |
+| 023333 | [HTML CSS: Data Export — Recovery for Single-Host Lab](Project_023333/README.md) |
+| 023334 | [HTML CSS: Data Export — Reporting for Single-Host Lab](Project_023334/README.md) |
+| 023335 | [HTML CSS: Data Export — Usability Improvement for Single-Host Lab](Project_023335/README.md) |
+| 023336 | [HTML CSS: Data Export — Baseline Setup for Two-Node Lab](Project_023336/README.md) |
+| 023337 | [HTML CSS: Data Export — Automation for Two-Node Lab](Project_023337/README.md) |
+| 023338 | [HTML CSS: Data Export — Recovery for Two-Node Lab](Project_023338/README.md) |
+| 023339 | [HTML CSS: Data Export — Reporting for Two-Node Lab](Project_023339/README.md) |
+| 023340 | [HTML CSS: Data Export — Usability Improvement for Two-Node Lab](Project_023340/README.md) |
 
 [Back to the portfolio home](../README.md)
