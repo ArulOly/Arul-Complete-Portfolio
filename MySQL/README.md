@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026758 | [MySQL: Data Validation — Recovery for Small Business](Project_026758/README.md) |
 | 026759 | [MySQL: Data Validation — Reporting for Small Business](Project_026759/README.md) |
 | 026760 | [MySQL: Data Validation — Usability Improvement for Small Business](Project_026760/README.md) |
+| 026761 | [MySQL: Data Validation — Baseline Setup for Home Development](Project_026761/README.md) |
+| 026762 | [MySQL: Data Validation — Automation for Home Development](Project_026762/README.md) |
+| 026763 | [MySQL: Data Validation — Recovery for Home Development](Project_026763/README.md) |
+| 026764 | [MySQL: Data Validation — Reporting for Home Development](Project_026764/README.md) |
+| 026765 | [MySQL: Data Validation — Usability Improvement for Home Development](Project_026765/README.md) |
+| 026766 | [MySQL: Data Validation — Baseline Setup for Public Dataset](Project_026766/README.md) |
+| 026767 | [MySQL: Data Validation — Automation for Public Dataset](Project_026767/README.md) |
+| 026768 | [MySQL: Data Validation — Recovery for Public Dataset](Project_026768/README.md) |
+| 026769 | [MySQL: Data Validation — Reporting for Public Dataset](Project_026769/README.md) |
+| 026770 | [MySQL: Data Validation — Usability Improvement for Public Dataset](Project_026770/README.md) |
+| 026771 | [MySQL: Data Validation — Baseline Setup for Branch Office Simulator](Project_026771/README.md) |
+| 026772 | [MySQL: Data Validation — Automation for Branch Office Simulator](Project_026772/README.md) |
+| 026773 | [MySQL: Data Validation — Recovery for Branch Office Simulator](Project_026773/README.md) |
+| 026774 | [MySQL: Data Validation — Reporting for Branch Office Simulator](Project_026774/README.md) |
+| 026775 | [MySQL: Data Validation — Usability Improvement for Branch Office Simulator](Project_026775/README.md) |
+| 026776 | [MySQL: Data Validation — Baseline Setup for Offline Classroom](Project_026776/README.md) |
+| 026777 | [MySQL: Data Validation — Automation for Offline Classroom](Project_026777/README.md) |
+| 026778 | [MySQL: Data Validation — Recovery for Offline Classroom](Project_026778/README.md) |
+| 026779 | [MySQL: Data Validation — Reporting for Offline Classroom](Project_026779/README.md) |
+| 026780 | [MySQL: Data Validation — Usability Improvement for Offline Classroom](Project_026780/README.md) |
 
 [Back to the portfolio home](../README.md)
