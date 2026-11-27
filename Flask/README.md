@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048818 | [Flask: Documentation Generation — Recovery for Public Dataset](Project_048818/README.md) |
 | 048819 | [Flask: Documentation Generation — Reporting for Public Dataset](Project_048819/README.md) |
 | 048820 | [Flask: Documentation Generation — Usability Improvement for Public Dataset](Project_048820/README.md) |
+| 048821 | [Flask: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_048821/README.md) |
+| 048822 | [Flask: Documentation Generation — Automation for Branch Office Simulator](Project_048822/README.md) |
+| 048823 | [Flask: Documentation Generation — Recovery for Branch Office Simulator](Project_048823/README.md) |
+| 048824 | [Flask: Documentation Generation — Reporting for Branch Office Simulator](Project_048824/README.md) |
+| 048825 | [Flask: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_048825/README.md) |
+| 048826 | [Flask: Documentation Generation — Baseline Setup for Offline Classroom](Project_048826/README.md) |
+| 048827 | [Flask: Documentation Generation — Automation for Offline Classroom](Project_048827/README.md) |
+| 048828 | [Flask: Documentation Generation — Recovery for Offline Classroom](Project_048828/README.md) |
+| 048829 | [Flask: Documentation Generation — Reporting for Offline Classroom](Project_048829/README.md) |
+| 048830 | [Flask: Documentation Generation — Usability Improvement for Offline Classroom](Project_048830/README.md) |
+| 048831 | [Flask: Documentation Generation — Baseline Setup for Single-Host Lab](Project_048831/README.md) |
+| 048832 | [Flask: Documentation Generation — Automation for Single-Host Lab](Project_048832/README.md) |
+| 048833 | [Flask: Documentation Generation — Recovery for Single-Host Lab](Project_048833/README.md) |
+| 048834 | [Flask: Documentation Generation — Reporting for Single-Host Lab](Project_048834/README.md) |
+| 048835 | [Flask: Documentation Generation — Usability Improvement for Single-Host Lab](Project_048835/README.md) |
+| 048836 | [Flask: Documentation Generation — Baseline Setup for Two-Node Lab](Project_048836/README.md) |
+| 048837 | [Flask: Documentation Generation — Automation for Two-Node Lab](Project_048837/README.md) |
+| 048838 | [Flask: Documentation Generation — Recovery for Two-Node Lab](Project_048838/README.md) |
+| 048839 | [Flask: Documentation Generation — Reporting for Two-Node Lab](Project_048839/README.md) |
+| 048840 | [Flask: Documentation Generation — Usability Improvement for Two-Node Lab](Project_048840/README.md) |
 
 [Back to the portfolio home](../README.md)
