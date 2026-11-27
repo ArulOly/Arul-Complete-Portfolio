@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049158 | [FastAPI: Log Analysis — Recovery for Small Business](Project_049158/README.md) |
 | 049159 | [FastAPI: Log Analysis — Reporting for Small Business](Project_049159/README.md) |
 | 049160 | [FastAPI: Log Analysis — Usability Improvement for Small Business](Project_049160/README.md) |
+| 049161 | [FastAPI: Log Analysis — Baseline Setup for Home Development](Project_049161/README.md) |
+| 049162 | [FastAPI: Log Analysis — Automation for Home Development](Project_049162/README.md) |
+| 049163 | [FastAPI: Log Analysis — Recovery for Home Development](Project_049163/README.md) |
+| 049164 | [FastAPI: Log Analysis — Reporting for Home Development](Project_049164/README.md) |
+| 049165 | [FastAPI: Log Analysis — Usability Improvement for Home Development](Project_049165/README.md) |
+| 049166 | [FastAPI: Log Analysis — Baseline Setup for Public Dataset](Project_049166/README.md) |
+| 049167 | [FastAPI: Log Analysis — Automation for Public Dataset](Project_049167/README.md) |
+| 049168 | [FastAPI: Log Analysis — Recovery for Public Dataset](Project_049168/README.md) |
+| 049169 | [FastAPI: Log Analysis — Reporting for Public Dataset](Project_049169/README.md) |
+| 049170 | [FastAPI: Log Analysis — Usability Improvement for Public Dataset](Project_049170/README.md) |
+| 049171 | [FastAPI: Log Analysis — Baseline Setup for Branch Office Simulator](Project_049171/README.md) |
+| 049172 | [FastAPI: Log Analysis — Automation for Branch Office Simulator](Project_049172/README.md) |
+| 049173 | [FastAPI: Log Analysis — Recovery for Branch Office Simulator](Project_049173/README.md) |
+| 049174 | [FastAPI: Log Analysis — Reporting for Branch Office Simulator](Project_049174/README.md) |
+| 049175 | [FastAPI: Log Analysis — Usability Improvement for Branch Office Simulator](Project_049175/README.md) |
+| 049176 | [FastAPI: Log Analysis — Baseline Setup for Offline Classroom](Project_049176/README.md) |
+| 049177 | [FastAPI: Log Analysis — Automation for Offline Classroom](Project_049177/README.md) |
+| 049178 | [FastAPI: Log Analysis — Recovery for Offline Classroom](Project_049178/README.md) |
+| 049179 | [FastAPI: Log Analysis — Reporting for Offline Classroom](Project_049179/README.md) |
+| 049180 | [FastAPI: Log Analysis — Usability Improvement for Offline Classroom](Project_049180/README.md) |
 
 [Back to the portfolio home](../README.md)
