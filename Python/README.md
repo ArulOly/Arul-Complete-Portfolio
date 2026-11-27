@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -404,5 +404,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019358 | [Python: Dashboard — Recovery for Small Business](Project_019358/README.md) |
 | 019359 | [Python: Dashboard — Reporting for Small Business](Project_019359/README.md) |
 | 019360 | [Python: Dashboard — Usability Improvement for Small Business](Project_019360/README.md) |
+| 019361 | [Python: Dashboard — Baseline Setup for Home Development](Project_019361/README.md) |
+| 019362 | [Python: Dashboard — Automation for Home Development](Project_019362/README.md) |
+| 019363 | [Python: Dashboard — Recovery for Home Development](Project_019363/README.md) |
+| 019364 | [Python: Dashboard — Reporting for Home Development](Project_019364/README.md) |
+| 019365 | [Python: Dashboard — Usability Improvement for Home Development](Project_019365/README.md) |
+| 019366 | [Python: Dashboard — Baseline Setup for Public Dataset](Project_019366/README.md) |
+| 019367 | [Python: Dashboard — Automation for Public Dataset](Project_019367/README.md) |
+| 019368 | [Python: Dashboard — Recovery for Public Dataset](Project_019368/README.md) |
+| 019369 | [Python: Dashboard — Reporting for Public Dataset](Project_019369/README.md) |
+| 019370 | [Python: Dashboard — Usability Improvement for Public Dataset](Project_019370/README.md) |
+| 019371 | [Python: Dashboard — Baseline Setup for Branch Office Simulator](Project_019371/README.md) |
+| 019372 | [Python: Dashboard — Automation for Branch Office Simulator](Project_019372/README.md) |
+| 019373 | [Python: Dashboard — Recovery for Branch Office Simulator](Project_019373/README.md) |
+| 019374 | [Python: Dashboard — Reporting for Branch Office Simulator](Project_019374/README.md) |
+| 019375 | [Python: Dashboard — Usability Improvement for Branch Office Simulator](Project_019375/README.md) |
+| 019376 | [Python: Dashboard — Baseline Setup for Offline Classroom](Project_019376/README.md) |
+| 019377 | [Python: Dashboard — Automation for Offline Classroom](Project_019377/README.md) |
+| 019378 | [Python: Dashboard — Recovery for Offline Classroom](Project_019378/README.md) |
+| 019379 | [Python: Dashboard — Reporting for Offline Classroom](Project_019379/README.md) |
+| 019380 | [Python: Dashboard — Usability Improvement for Offline Classroom](Project_019380/README.md) |
 
 [Back to the portfolio home](../README.md)
