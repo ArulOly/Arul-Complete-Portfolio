@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026838 | [MySQL: Documentation Generation — Recovery for Two-Node Lab](Project_026838/README.md) |
 | 026839 | [MySQL: Documentation Generation — Reporting for Two-Node Lab](Project_026839/README.md) |
 | 026840 | [MySQL: Documentation Generation — Usability Improvement for Two-Node Lab](Project_026840/README.md) |
+| 026841 | [MySQL: Documentation Generation — Baseline Setup for Help Desk](Project_026841/README.md) |
+| 026842 | [MySQL: Documentation Generation — Automation for Help Desk](Project_026842/README.md) |
+| 026843 | [MySQL: Documentation Generation — Recovery for Help Desk](Project_026843/README.md) |
+| 026844 | [MySQL: Documentation Generation — Reporting for Help Desk](Project_026844/README.md) |
+| 026845 | [MySQL: Documentation Generation — Usability Improvement for Help Desk](Project_026845/README.md) |
+| 026846 | [MySQL: Documentation Generation — Baseline Setup for Portfolio Demo](Project_026846/README.md) |
+| 026847 | [MySQL: Documentation Generation — Automation for Portfolio Demo](Project_026847/README.md) |
+| 026848 | [MySQL: Documentation Generation — Recovery for Portfolio Demo](Project_026848/README.md) |
+| 026849 | [MySQL: Documentation Generation — Reporting for Portfolio Demo](Project_026849/README.md) |
+| 026850 | [MySQL: Documentation Generation — Usability Improvement for Portfolio Demo](Project_026850/README.md) |
+| 026851 | [MySQL: Automation — Baseline Setup for School Lab](Project_026851/README.md) |
+| 026852 | [MySQL: Automation — Automation for School Lab](Project_026852/README.md) |
+| 026853 | [MySQL: Automation — Recovery for School Lab](Project_026853/README.md) |
+| 026854 | [MySQL: Automation — Reporting for School Lab](Project_026854/README.md) |
+| 026855 | [MySQL: Automation — Usability Improvement for School Lab](Project_026855/README.md) |
+| 026856 | [MySQL: Automation — Baseline Setup for Small Business](Project_026856/README.md) |
+| 026857 | [MySQL: Automation — Automation for Small Business](Project_026857/README.md) |
+| 026858 | [MySQL: Automation — Recovery for Small Business](Project_026858/README.md) |
+| 026859 | [MySQL: Automation — Reporting for Small Business](Project_026859/README.md) |
+| 026860 | [MySQL: Automation — Usability Improvement for Small Business](Project_026860/README.md) |
 
 [Back to the portfolio home](../README.md)
