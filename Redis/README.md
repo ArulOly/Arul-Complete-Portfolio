@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045378 | [Redis: Dashboard — Recovery for Offline Classroom](Project_045378/README.md) |
 | 045379 | [Redis: Dashboard — Reporting for Offline Classroom](Project_045379/README.md) |
 | 045380 | [Redis: Dashboard — Usability Improvement for Offline Classroom](Project_045380/README.md) |
+| 045381 | [Redis: Dashboard — Baseline Setup for Single-Host Lab](Project_045381/README.md) |
+| 045382 | [Redis: Dashboard — Automation for Single-Host Lab](Project_045382/README.md) |
+| 045383 | [Redis: Dashboard — Recovery for Single-Host Lab](Project_045383/README.md) |
+| 045384 | [Redis: Dashboard — Reporting for Single-Host Lab](Project_045384/README.md) |
+| 045385 | [Redis: Dashboard — Usability Improvement for Single-Host Lab](Project_045385/README.md) |
+| 045386 | [Redis: Dashboard — Baseline Setup for Two-Node Lab](Project_045386/README.md) |
+| 045387 | [Redis: Dashboard — Automation for Two-Node Lab](Project_045387/README.md) |
+| 045388 | [Redis: Dashboard — Recovery for Two-Node Lab](Project_045388/README.md) |
+| 045389 | [Redis: Dashboard — Reporting for Two-Node Lab](Project_045389/README.md) |
+| 045390 | [Redis: Dashboard — Usability Improvement for Two-Node Lab](Project_045390/README.md) |
+| 045391 | [Redis: Dashboard — Baseline Setup for Help Desk](Project_045391/README.md) |
+| 045392 | [Redis: Dashboard — Automation for Help Desk](Project_045392/README.md) |
+| 045393 | [Redis: Dashboard — Recovery for Help Desk](Project_045393/README.md) |
+| 045394 | [Redis: Dashboard — Reporting for Help Desk](Project_045394/README.md) |
+| 045395 | [Redis: Dashboard — Usability Improvement for Help Desk](Project_045395/README.md) |
+| 045396 | [Redis: Dashboard — Baseline Setup for Portfolio Demo](Project_045396/README.md) |
+| 045397 | [Redis: Dashboard — Automation for Portfolio Demo](Project_045397/README.md) |
+| 045398 | [Redis: Dashboard — Recovery for Portfolio Demo](Project_045398/README.md) |
+| 045399 | [Redis: Dashboard — Reporting for Portfolio Demo](Project_045399/README.md) |
+| 045400 | [Redis: Dashboard — Usability Improvement for Portfolio Demo](Project_045400/README.md) |
 
 [Back to the portfolio home](../README.md)
