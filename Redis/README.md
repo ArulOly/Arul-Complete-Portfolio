@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045938 | [Redis: Visual Reporting — Recovery for Two-Node Lab](Project_045938/README.md) |
 | 045939 | [Redis: Visual Reporting — Reporting for Two-Node Lab](Project_045939/README.md) |
 | 045940 | [Redis: Visual Reporting — Usability Improvement for Two-Node Lab](Project_045940/README.md) |
+| 045941 | [Redis: Visual Reporting — Baseline Setup for Help Desk](Project_045941/README.md) |
+| 045942 | [Redis: Visual Reporting — Automation for Help Desk](Project_045942/README.md) |
+| 045943 | [Redis: Visual Reporting — Recovery for Help Desk](Project_045943/README.md) |
+| 045944 | [Redis: Visual Reporting — Reporting for Help Desk](Project_045944/README.md) |
+| 045945 | [Redis: Visual Reporting — Usability Improvement for Help Desk](Project_045945/README.md) |
+| 045946 | [Redis: Visual Reporting — Baseline Setup for Portfolio Demo](Project_045946/README.md) |
+| 045947 | [Redis: Visual Reporting — Automation for Portfolio Demo](Project_045947/README.md) |
+| 045948 | [Redis: Visual Reporting — Recovery for Portfolio Demo](Project_045948/README.md) |
+| 045949 | [Redis: Visual Reporting — Reporting for Portfolio Demo](Project_045949/README.md) |
+| 045950 | [Redis: Visual Reporting — Usability Improvement for Portfolio Demo](Project_045950/README.md) |
+| 045951 | [Redis: Recovery Test — Baseline Setup for School Lab](Project_045951/README.md) |
+| 045952 | [Redis: Recovery Test — Automation for School Lab](Project_045952/README.md) |
+| 045953 | [Redis: Recovery Test — Recovery for School Lab](Project_045953/README.md) |
+| 045954 | [Redis: Recovery Test — Reporting for School Lab](Project_045954/README.md) |
+| 045955 | [Redis: Recovery Test — Usability Improvement for School Lab](Project_045955/README.md) |
+| 045956 | [Redis: Recovery Test — Baseline Setup for Small Business](Project_045956/README.md) |
+| 045957 | [Redis: Recovery Test — Automation for Small Business](Project_045957/README.md) |
+| 045958 | [Redis: Recovery Test — Recovery for Small Business](Project_045958/README.md) |
+| 045959 | [Redis: Recovery Test — Reporting for Small Business](Project_045959/README.md) |
+| 045960 | [Redis: Recovery Test — Usability Improvement for Small Business](Project_045960/README.md) |
 
 [Back to the portfolio home](../README.md)
