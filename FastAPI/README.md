@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049278 | [FastAPI: Data Import — Recovery for Offline Classroom](Project_049278/README.md) |
 | 049279 | [FastAPI: Data Import — Reporting for Offline Classroom](Project_049279/README.md) |
 | 049280 | [FastAPI: Data Import — Usability Improvement for Offline Classroom](Project_049280/README.md) |
+| 049281 | [FastAPI: Data Import — Baseline Setup for Single-Host Lab](Project_049281/README.md) |
+| 049282 | [FastAPI: Data Import — Automation for Single-Host Lab](Project_049282/README.md) |
+| 049283 | [FastAPI: Data Import — Recovery for Single-Host Lab](Project_049283/README.md) |
+| 049284 | [FastAPI: Data Import — Reporting for Single-Host Lab](Project_049284/README.md) |
+| 049285 | [FastAPI: Data Import — Usability Improvement for Single-Host Lab](Project_049285/README.md) |
+| 049286 | [FastAPI: Data Import — Baseline Setup for Two-Node Lab](Project_049286/README.md) |
+| 049287 | [FastAPI: Data Import — Automation for Two-Node Lab](Project_049287/README.md) |
+| 049288 | [FastAPI: Data Import — Recovery for Two-Node Lab](Project_049288/README.md) |
+| 049289 | [FastAPI: Data Import — Reporting for Two-Node Lab](Project_049289/README.md) |
+| 049290 | [FastAPI: Data Import — Usability Improvement for Two-Node Lab](Project_049290/README.md) |
+| 049291 | [FastAPI: Data Import — Baseline Setup for Help Desk](Project_049291/README.md) |
+| 049292 | [FastAPI: Data Import — Automation for Help Desk](Project_049292/README.md) |
+| 049293 | [FastAPI: Data Import — Recovery for Help Desk](Project_049293/README.md) |
+| 049294 | [FastAPI: Data Import — Reporting for Help Desk](Project_049294/README.md) |
+| 049295 | [FastAPI: Data Import — Usability Improvement for Help Desk](Project_049295/README.md) |
+| 049296 | [FastAPI: Data Import — Baseline Setup for Portfolio Demo](Project_049296/README.md) |
+| 049297 | [FastAPI: Data Import — Automation for Portfolio Demo](Project_049297/README.md) |
+| 049298 | [FastAPI: Data Import — Recovery for Portfolio Demo](Project_049298/README.md) |
+| 049299 | [FastAPI: Data Import — Reporting for Portfolio Demo](Project_049299/README.md) |
+| 049300 | [FastAPI: Data Import — Usability Improvement for Portfolio Demo](Project_049300/README.md) |
 
 [Back to the portfolio home](../README.md)
