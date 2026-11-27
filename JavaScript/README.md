@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020158 | [JavaScript: Log Analysis — Recovery for Small Business](Project_020158/README.md) |
 | 020159 | [JavaScript: Log Analysis — Reporting for Small Business](Project_020159/README.md) |
 | 020160 | [JavaScript: Log Analysis — Usability Improvement for Small Business](Project_020160/README.md) |
+| 020161 | [JavaScript: Log Analysis — Baseline Setup for Home Development](Project_020161/README.md) |
+| 020162 | [JavaScript: Log Analysis — Automation for Home Development](Project_020162/README.md) |
+| 020163 | [JavaScript: Log Analysis — Recovery for Home Development](Project_020163/README.md) |
+| 020164 | [JavaScript: Log Analysis — Reporting for Home Development](Project_020164/README.md) |
+| 020165 | [JavaScript: Log Analysis — Usability Improvement for Home Development](Project_020165/README.md) |
+| 020166 | [JavaScript: Log Analysis — Baseline Setup for Public Dataset](Project_020166/README.md) |
+| 020167 | [JavaScript: Log Analysis — Automation for Public Dataset](Project_020167/README.md) |
+| 020168 | [JavaScript: Log Analysis — Recovery for Public Dataset](Project_020168/README.md) |
+| 020169 | [JavaScript: Log Analysis — Reporting for Public Dataset](Project_020169/README.md) |
+| 020170 | [JavaScript: Log Analysis — Usability Improvement for Public Dataset](Project_020170/README.md) |
+| 020171 | [JavaScript: Log Analysis — Baseline Setup for Branch Office Simulator](Project_020171/README.md) |
+| 020172 | [JavaScript: Log Analysis — Automation for Branch Office Simulator](Project_020172/README.md) |
+| 020173 | [JavaScript: Log Analysis — Recovery for Branch Office Simulator](Project_020173/README.md) |
+| 020174 | [JavaScript: Log Analysis — Reporting for Branch Office Simulator](Project_020174/README.md) |
+| 020175 | [JavaScript: Log Analysis — Usability Improvement for Branch Office Simulator](Project_020175/README.md) |
+| 020176 | [JavaScript: Log Analysis — Baseline Setup for Offline Classroom](Project_020176/README.md) |
+| 020177 | [JavaScript: Log Analysis — Automation for Offline Classroom](Project_020177/README.md) |
+| 020178 | [JavaScript: Log Analysis — Recovery for Offline Classroom](Project_020178/README.md) |
+| 020179 | [JavaScript: Log Analysis — Reporting for Offline Classroom](Project_020179/README.md) |
+| 020180 | [JavaScript: Log Analysis — Usability Improvement for Offline Classroom](Project_020180/README.md) |
 
 [Back to the portfolio home](../README.md)
