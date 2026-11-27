@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048478 | [Flask: Scheduled Reporting — Recovery for Offline Classroom](Project_048478/README.md) |
 | 048479 | [Flask: Scheduled Reporting — Reporting for Offline Classroom](Project_048479/README.md) |
 | 048480 | [Flask: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_048480/README.md) |
+| 048481 | [Flask: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_048481/README.md) |
+| 048482 | [Flask: Scheduled Reporting — Automation for Single-Host Lab](Project_048482/README.md) |
+| 048483 | [Flask: Scheduled Reporting — Recovery for Single-Host Lab](Project_048483/README.md) |
+| 048484 | [Flask: Scheduled Reporting — Reporting for Single-Host Lab](Project_048484/README.md) |
+| 048485 | [Flask: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_048485/README.md) |
+| 048486 | [Flask: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_048486/README.md) |
+| 048487 | [Flask: Scheduled Reporting — Automation for Two-Node Lab](Project_048487/README.md) |
+| 048488 | [Flask: Scheduled Reporting — Recovery for Two-Node Lab](Project_048488/README.md) |
+| 048489 | [Flask: Scheduled Reporting — Reporting for Two-Node Lab](Project_048489/README.md) |
+| 048490 | [Flask: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_048490/README.md) |
+| 048491 | [Flask: Scheduled Reporting — Baseline Setup for Help Desk](Project_048491/README.md) |
+| 048492 | [Flask: Scheduled Reporting — Automation for Help Desk](Project_048492/README.md) |
+| 048493 | [Flask: Scheduled Reporting — Recovery for Help Desk](Project_048493/README.md) |
+| 048494 | [Flask: Scheduled Reporting — Reporting for Help Desk](Project_048494/README.md) |
+| 048495 | [Flask: Scheduled Reporting — Usability Improvement for Help Desk](Project_048495/README.md) |
+| 048496 | [Flask: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_048496/README.md) |
+| 048497 | [Flask: Scheduled Reporting — Automation for Portfolio Demo](Project_048497/README.md) |
+| 048498 | [Flask: Scheduled Reporting — Recovery for Portfolio Demo](Project_048498/README.md) |
+| 048499 | [Flask: Scheduled Reporting — Reporting for Portfolio Demo](Project_048499/README.md) |
+| 048500 | [Flask: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_048500/README.md) |
 
 [Back to the portfolio home](../README.md)
