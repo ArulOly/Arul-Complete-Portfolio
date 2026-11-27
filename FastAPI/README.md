@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049178 | [FastAPI: Log Analysis — Recovery for Offline Classroom](Project_049178/README.md) |
 | 049179 | [FastAPI: Log Analysis — Reporting for Offline Classroom](Project_049179/README.md) |
 | 049180 | [FastAPI: Log Analysis — Usability Improvement for Offline Classroom](Project_049180/README.md) |
+| 049181 | [FastAPI: Log Analysis — Baseline Setup for Single-Host Lab](Project_049181/README.md) |
+| 049182 | [FastAPI: Log Analysis — Automation for Single-Host Lab](Project_049182/README.md) |
+| 049183 | [FastAPI: Log Analysis — Recovery for Single-Host Lab](Project_049183/README.md) |
+| 049184 | [FastAPI: Log Analysis — Reporting for Single-Host Lab](Project_049184/README.md) |
+| 049185 | [FastAPI: Log Analysis — Usability Improvement for Single-Host Lab](Project_049185/README.md) |
+| 049186 | [FastAPI: Log Analysis — Baseline Setup for Two-Node Lab](Project_049186/README.md) |
+| 049187 | [FastAPI: Log Analysis — Automation for Two-Node Lab](Project_049187/README.md) |
+| 049188 | [FastAPI: Log Analysis — Recovery for Two-Node Lab](Project_049188/README.md) |
+| 049189 | [FastAPI: Log Analysis — Reporting for Two-Node Lab](Project_049189/README.md) |
+| 049190 | [FastAPI: Log Analysis — Usability Improvement for Two-Node Lab](Project_049190/README.md) |
+| 049191 | [FastAPI: Log Analysis — Baseline Setup for Help Desk](Project_049191/README.md) |
+| 049192 | [FastAPI: Log Analysis — Automation for Help Desk](Project_049192/README.md) |
+| 049193 | [FastAPI: Log Analysis — Recovery for Help Desk](Project_049193/README.md) |
+| 049194 | [FastAPI: Log Analysis — Reporting for Help Desk](Project_049194/README.md) |
+| 049195 | [FastAPI: Log Analysis — Usability Improvement for Help Desk](Project_049195/README.md) |
+| 049196 | [FastAPI: Log Analysis — Baseline Setup for Portfolio Demo](Project_049196/README.md) |
+| 049197 | [FastAPI: Log Analysis — Automation for Portfolio Demo](Project_049197/README.md) |
+| 049198 | [FastAPI: Log Analysis — Recovery for Portfolio Demo](Project_049198/README.md) |
+| 049199 | [FastAPI: Log Analysis — Reporting for Portfolio Demo](Project_049199/README.md) |
+| 049200 | [FastAPI: Log Analysis — Usability Improvement for Portfolio Demo](Project_049200/README.md) |
 
 [Back to the portfolio home](../README.md)
