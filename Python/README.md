@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -64,5 +64,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019018 | [Python: Inventory — Recovery for Public Dataset](Project_019018/README.md) |
 | 019019 | [Python: Inventory — Reporting for Public Dataset](Project_019019/README.md) |
 | 019020 | [Python: Inventory — Usability Improvement for Public Dataset](Project_019020/README.md) |
+| 019021 | [Python: Inventory — Baseline Setup for Branch Office Simulator](Project_019021/README.md) |
+| 019022 | [Python: Inventory — Automation for Branch Office Simulator](Project_019022/README.md) |
+| 019023 | [Python: Inventory — Recovery for Branch Office Simulator](Project_019023/README.md) |
+| 019024 | [Python: Inventory — Reporting for Branch Office Simulator](Project_019024/README.md) |
+| 019025 | [Python: Inventory — Usability Improvement for Branch Office Simulator](Project_019025/README.md) |
+| 019026 | [Python: Inventory — Baseline Setup for Offline Classroom](Project_019026/README.md) |
+| 019027 | [Python: Inventory — Automation for Offline Classroom](Project_019027/README.md) |
+| 019028 | [Python: Inventory — Recovery for Offline Classroom](Project_019028/README.md) |
+| 019029 | [Python: Inventory — Reporting for Offline Classroom](Project_019029/README.md) |
+| 019030 | [Python: Inventory — Usability Improvement for Offline Classroom](Project_019030/README.md) |
+| 019031 | [Python: Inventory — Baseline Setup for Single-Host Lab](Project_019031/README.md) |
+| 019032 | [Python: Inventory — Automation for Single-Host Lab](Project_019032/README.md) |
+| 019033 | [Python: Inventory — Recovery for Single-Host Lab](Project_019033/README.md) |
+| 019034 | [Python: Inventory — Reporting for Single-Host Lab](Project_019034/README.md) |
+| 019035 | [Python: Inventory — Usability Improvement for Single-Host Lab](Project_019035/README.md) |
+| 019036 | [Python: Inventory — Baseline Setup for Two-Node Lab](Project_019036/README.md) |
+| 019037 | [Python: Inventory — Automation for Two-Node Lab](Project_019037/README.md) |
+| 019038 | [Python: Inventory — Recovery for Two-Node Lab](Project_019038/README.md) |
+| 019039 | [Python: Inventory — Reporting for Two-Node Lab](Project_019039/README.md) |
+| 019040 | [Python: Inventory — Usability Improvement for Two-Node Lab](Project_019040/README.md) |
 
 [Back to the portfolio home](../README.md)
