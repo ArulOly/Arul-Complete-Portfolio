@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005218 | [FreeBSD: Backup Verification — Recovery for Public Dataset](Project_005218/README.md) |
 | 005219 | [FreeBSD: Backup Verification — Reporting for Public Dataset](Project_005219/README.md) |
 | 005220 | [FreeBSD: Backup Verification — Usability Improvement for Public Dataset](Project_005220/README.md) |
+| 005221 | [FreeBSD: Backup Verification — Baseline Setup for Branch Office Simulator](Project_005221/README.md) |
+| 005222 | [FreeBSD: Backup Verification — Automation for Branch Office Simulator](Project_005222/README.md) |
+| 005223 | [FreeBSD: Backup Verification — Recovery for Branch Office Simulator](Project_005223/README.md) |
+| 005224 | [FreeBSD: Backup Verification — Reporting for Branch Office Simulator](Project_005224/README.md) |
+| 005225 | [FreeBSD: Backup Verification — Usability Improvement for Branch Office Simulator](Project_005225/README.md) |
+| 005226 | [FreeBSD: Backup Verification — Baseline Setup for Offline Classroom](Project_005226/README.md) |
+| 005227 | [FreeBSD: Backup Verification — Automation for Offline Classroom](Project_005227/README.md) |
+| 005228 | [FreeBSD: Backup Verification — Recovery for Offline Classroom](Project_005228/README.md) |
+| 005229 | [FreeBSD: Backup Verification — Reporting for Offline Classroom](Project_005229/README.md) |
+| 005230 | [FreeBSD: Backup Verification — Usability Improvement for Offline Classroom](Project_005230/README.md) |
+| 005231 | [FreeBSD: Backup Verification — Baseline Setup for Single-Host Lab](Project_005231/README.md) |
+| 005232 | [FreeBSD: Backup Verification — Automation for Single-Host Lab](Project_005232/README.md) |
+| 005233 | [FreeBSD: Backup Verification — Recovery for Single-Host Lab](Project_005233/README.md) |
+| 005234 | [FreeBSD: Backup Verification — Reporting for Single-Host Lab](Project_005234/README.md) |
+| 005235 | [FreeBSD: Backup Verification — Usability Improvement for Single-Host Lab](Project_005235/README.md) |
+| 005236 | [FreeBSD: Backup Verification — Baseline Setup for Two-Node Lab](Project_005236/README.md) |
+| 005237 | [FreeBSD: Backup Verification — Automation for Two-Node Lab](Project_005237/README.md) |
+| 005238 | [FreeBSD: Backup Verification — Recovery for Two-Node Lab](Project_005238/README.md) |
+| 005239 | [FreeBSD: Backup Verification — Reporting for Two-Node Lab](Project_005239/README.md) |
+| 005240 | [FreeBSD: Backup Verification — Usability Improvement for Two-Node Lab](Project_005240/README.md) |
 
 [Back to the portfolio home](../README.md)
