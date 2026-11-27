@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027798 | [MongoDB: Data Validation — Recovery for Portfolio Demo](Project_027798/README.md) |
 | 027799 | [MongoDB: Data Validation — Reporting for Portfolio Demo](Project_027799/README.md) |
 | 027800 | [MongoDB: Data Validation — Usability Improvement for Portfolio Demo](Project_027800/README.md) |
+| 027801 | [MongoDB: Documentation Generation — Baseline Setup for School Lab](Project_027801/README.md) |
+| 027802 | [MongoDB: Documentation Generation — Automation for School Lab](Project_027802/README.md) |
+| 027803 | [MongoDB: Documentation Generation — Recovery for School Lab](Project_027803/README.md) |
+| 027804 | [MongoDB: Documentation Generation — Reporting for School Lab](Project_027804/README.md) |
+| 027805 | [MongoDB: Documentation Generation — Usability Improvement for School Lab](Project_027805/README.md) |
+| 027806 | [MongoDB: Documentation Generation — Baseline Setup for Small Business](Project_027806/README.md) |
+| 027807 | [MongoDB: Documentation Generation — Automation for Small Business](Project_027807/README.md) |
+| 027808 | [MongoDB: Documentation Generation — Recovery for Small Business](Project_027808/README.md) |
+| 027809 | [MongoDB: Documentation Generation — Reporting for Small Business](Project_027809/README.md) |
+| 027810 | [MongoDB: Documentation Generation — Usability Improvement for Small Business](Project_027810/README.md) |
+| 027811 | [MongoDB: Documentation Generation — Baseline Setup for Home Development](Project_027811/README.md) |
+| 027812 | [MongoDB: Documentation Generation — Automation for Home Development](Project_027812/README.md) |
+| 027813 | [MongoDB: Documentation Generation — Recovery for Home Development](Project_027813/README.md) |
+| 027814 | [MongoDB: Documentation Generation — Reporting for Home Development](Project_027814/README.md) |
+| 027815 | [MongoDB: Documentation Generation — Usability Improvement for Home Development](Project_027815/README.md) |
+| 027816 | [MongoDB: Documentation Generation — Baseline Setup for Public Dataset](Project_027816/README.md) |
+| 027817 | [MongoDB: Documentation Generation — Automation for Public Dataset](Project_027817/README.md) |
+| 027818 | [MongoDB: Documentation Generation — Recovery for Public Dataset](Project_027818/README.md) |
+| 027819 | [MongoDB: Documentation Generation — Reporting for Public Dataset](Project_027819/README.md) |
+| 027820 | [MongoDB: Documentation Generation — Usability Improvement for Public Dataset](Project_027820/README.md) |
 
 [Back to the portfolio home](../README.md)
