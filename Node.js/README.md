@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024098 | [Node.js: Monitoring — Recovery for Portfolio Demo](Project_024098/README.md) |
 | 024099 | [Node.js: Monitoring — Reporting for Portfolio Demo](Project_024099/README.md) |
 | 024100 | [Node.js: Monitoring — Usability Improvement for Portfolio Demo](Project_024100/README.md) |
+| 024101 | [Node.js: Audit — Baseline Setup for School Lab](Project_024101/README.md) |
+| 024102 | [Node.js: Audit — Automation for School Lab](Project_024102/README.md) |
+| 024103 | [Node.js: Audit — Recovery for School Lab](Project_024103/README.md) |
+| 024104 | [Node.js: Audit — Reporting for School Lab](Project_024104/README.md) |
+| 024105 | [Node.js: Audit — Usability Improvement for School Lab](Project_024105/README.md) |
+| 024106 | [Node.js: Audit — Baseline Setup for Small Business](Project_024106/README.md) |
+| 024107 | [Node.js: Audit — Automation for Small Business](Project_024107/README.md) |
+| 024108 | [Node.js: Audit — Recovery for Small Business](Project_024108/README.md) |
+| 024109 | [Node.js: Audit — Reporting for Small Business](Project_024109/README.md) |
+| 024110 | [Node.js: Audit — Usability Improvement for Small Business](Project_024110/README.md) |
+| 024111 | [Node.js: Audit — Baseline Setup for Home Development](Project_024111/README.md) |
+| 024112 | [Node.js: Audit — Automation for Home Development](Project_024112/README.md) |
+| 024113 | [Node.js: Audit — Recovery for Home Development](Project_024113/README.md) |
+| 024114 | [Node.js: Audit — Reporting for Home Development](Project_024114/README.md) |
+| 024115 | [Node.js: Audit — Usability Improvement for Home Development](Project_024115/README.md) |
+| 024116 | [Node.js: Audit — Baseline Setup for Public Dataset](Project_024116/README.md) |
+| 024117 | [Node.js: Audit — Automation for Public Dataset](Project_024117/README.md) |
+| 024118 | [Node.js: Audit — Recovery for Public Dataset](Project_024118/README.md) |
+| 024119 | [Node.js: Audit — Reporting for Public Dataset](Project_024119/README.md) |
+| 024120 | [Node.js: Audit — Usability Improvement for Public Dataset](Project_024120/README.md) |
 
 [Back to the portfolio home](../README.md)
