@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021838 | [TypeScript: Documentation Generation — Recovery for Two-Node Lab](Project_021838/README.md) |
 | 021839 | [TypeScript: Documentation Generation — Reporting for Two-Node Lab](Project_021839/README.md) |
 | 021840 | [TypeScript: Documentation Generation — Usability Improvement for Two-Node Lab](Project_021840/README.md) |
+| 021841 | [TypeScript: Documentation Generation — Baseline Setup for Help Desk](Project_021841/README.md) |
+| 021842 | [TypeScript: Documentation Generation — Automation for Help Desk](Project_021842/README.md) |
+| 021843 | [TypeScript: Documentation Generation — Recovery for Help Desk](Project_021843/README.md) |
+| 021844 | [TypeScript: Documentation Generation — Reporting for Help Desk](Project_021844/README.md) |
+| 021845 | [TypeScript: Documentation Generation — Usability Improvement for Help Desk](Project_021845/README.md) |
+| 021846 | [TypeScript: Documentation Generation — Baseline Setup for Portfolio Demo](Project_021846/README.md) |
+| 021847 | [TypeScript: Documentation Generation — Automation for Portfolio Demo](Project_021847/README.md) |
+| 021848 | [TypeScript: Documentation Generation — Recovery for Portfolio Demo](Project_021848/README.md) |
+| 021849 | [TypeScript: Documentation Generation — Reporting for Portfolio Demo](Project_021849/README.md) |
+| 021850 | [TypeScript: Documentation Generation — Usability Improvement for Portfolio Demo](Project_021850/README.md) |
+| 021851 | [TypeScript: Automation — Baseline Setup for School Lab](Project_021851/README.md) |
+| 021852 | [TypeScript: Automation — Automation for School Lab](Project_021852/README.md) |
+| 021853 | [TypeScript: Automation — Recovery for School Lab](Project_021853/README.md) |
+| 021854 | [TypeScript: Automation — Reporting for School Lab](Project_021854/README.md) |
+| 021855 | [TypeScript: Automation — Usability Improvement for School Lab](Project_021855/README.md) |
+| 021856 | [TypeScript: Automation — Baseline Setup for Small Business](Project_021856/README.md) |
+| 021857 | [TypeScript: Automation — Automation for Small Business](Project_021857/README.md) |
+| 021858 | [TypeScript: Automation — Recovery for Small Business](Project_021858/README.md) |
+| 021859 | [TypeScript: Automation — Reporting for Small Business](Project_021859/README.md) |
+| 021860 | [TypeScript: Automation — Usability Improvement for Small Business](Project_021860/README.md) |
 
 [Back to the portfolio home](../README.md)
