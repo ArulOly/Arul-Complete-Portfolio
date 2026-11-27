@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026298 | [MySQL: Data Import — Recovery for Portfolio Demo](Project_026298/README.md) |
 | 026299 | [MySQL: Data Import — Reporting for Portfolio Demo](Project_026299/README.md) |
 | 026300 | [MySQL: Data Import — Usability Improvement for Portfolio Demo](Project_026300/README.md) |
+| 026301 | [MySQL: Data Export — Baseline Setup for School Lab](Project_026301/README.md) |
+| 026302 | [MySQL: Data Export — Automation for School Lab](Project_026302/README.md) |
+| 026303 | [MySQL: Data Export — Recovery for School Lab](Project_026303/README.md) |
+| 026304 | [MySQL: Data Export — Reporting for School Lab](Project_026304/README.md) |
+| 026305 | [MySQL: Data Export — Usability Improvement for School Lab](Project_026305/README.md) |
+| 026306 | [MySQL: Data Export — Baseline Setup for Small Business](Project_026306/README.md) |
+| 026307 | [MySQL: Data Export — Automation for Small Business](Project_026307/README.md) |
+| 026308 | [MySQL: Data Export — Recovery for Small Business](Project_026308/README.md) |
+| 026309 | [MySQL: Data Export — Reporting for Small Business](Project_026309/README.md) |
+| 026310 | [MySQL: Data Export — Usability Improvement for Small Business](Project_026310/README.md) |
+| 026311 | [MySQL: Data Export — Baseline Setup for Home Development](Project_026311/README.md) |
+| 026312 | [MySQL: Data Export — Automation for Home Development](Project_026312/README.md) |
+| 026313 | [MySQL: Data Export — Recovery for Home Development](Project_026313/README.md) |
+| 026314 | [MySQL: Data Export — Reporting for Home Development](Project_026314/README.md) |
+| 026315 | [MySQL: Data Export — Usability Improvement for Home Development](Project_026315/README.md) |
+| 026316 | [MySQL: Data Export — Baseline Setup for Public Dataset](Project_026316/README.md) |
+| 026317 | [MySQL: Data Export — Automation for Public Dataset](Project_026317/README.md) |
+| 026318 | [MySQL: Data Export — Recovery for Public Dataset](Project_026318/README.md) |
+| 026319 | [MySQL: Data Export — Reporting for Public Dataset](Project_026319/README.md) |
+| 026320 | [MySQL: Data Export — Usability Improvement for Public Dataset](Project_026320/README.md) |
 
 [Back to the portfolio home](../README.md)
