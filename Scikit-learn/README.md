@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034838 | [Scikit-learn: Documentation Generation — Recovery for Two-Node Lab](Project_034838/README.md) |
 | 034839 | [Scikit-learn: Documentation Generation — Reporting for Two-Node Lab](Project_034839/README.md) |
 | 034840 | [Scikit-learn: Documentation Generation — Usability Improvement for Two-Node Lab](Project_034840/README.md) |
+| 034841 | [Scikit-learn: Documentation Generation — Baseline Setup for Help Desk](Project_034841/README.md) |
+| 034842 | [Scikit-learn: Documentation Generation — Automation for Help Desk](Project_034842/README.md) |
+| 034843 | [Scikit-learn: Documentation Generation — Recovery for Help Desk](Project_034843/README.md) |
+| 034844 | [Scikit-learn: Documentation Generation — Reporting for Help Desk](Project_034844/README.md) |
+| 034845 | [Scikit-learn: Documentation Generation — Usability Improvement for Help Desk](Project_034845/README.md) |
+| 034846 | [Scikit-learn: Documentation Generation — Baseline Setup for Portfolio Demo](Project_034846/README.md) |
+| 034847 | [Scikit-learn: Documentation Generation — Automation for Portfolio Demo](Project_034847/README.md) |
+| 034848 | [Scikit-learn: Documentation Generation — Recovery for Portfolio Demo](Project_034848/README.md) |
+| 034849 | [Scikit-learn: Documentation Generation — Reporting for Portfolio Demo](Project_034849/README.md) |
+| 034850 | [Scikit-learn: Documentation Generation — Usability Improvement for Portfolio Demo](Project_034850/README.md) |
+| 034851 | [Scikit-learn: Automation — Baseline Setup for School Lab](Project_034851/README.md) |
+| 034852 | [Scikit-learn: Automation — Automation for School Lab](Project_034852/README.md) |
+| 034853 | [Scikit-learn: Automation — Recovery for School Lab](Project_034853/README.md) |
+| 034854 | [Scikit-learn: Automation — Reporting for School Lab](Project_034854/README.md) |
+| 034855 | [Scikit-learn: Automation — Usability Improvement for School Lab](Project_034855/README.md) |
+| 034856 | [Scikit-learn: Automation — Baseline Setup for Small Business](Project_034856/README.md) |
+| 034857 | [Scikit-learn: Automation — Automation for Small Business](Project_034857/README.md) |
+| 034858 | [Scikit-learn: Automation — Recovery for Small Business](Project_034858/README.md) |
+| 034859 | [Scikit-learn: Automation — Reporting for Small Business](Project_034859/README.md) |
+| 034860 | [Scikit-learn: Automation — Usability Improvement for Small Business](Project_034860/README.md) |
 
 [Back to the portfolio home](../README.md)
