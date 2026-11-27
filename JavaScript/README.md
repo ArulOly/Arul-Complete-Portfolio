@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020218 | [JavaScript: Backup Verification — Recovery for Public Dataset](Project_020218/README.md) |
 | 020219 | [JavaScript: Backup Verification — Reporting for Public Dataset](Project_020219/README.md) |
 | 020220 | [JavaScript: Backup Verification — Usability Improvement for Public Dataset](Project_020220/README.md) |
+| 020221 | [JavaScript: Backup Verification — Baseline Setup for Branch Office Simulator](Project_020221/README.md) |
+| 020222 | [JavaScript: Backup Verification — Automation for Branch Office Simulator](Project_020222/README.md) |
+| 020223 | [JavaScript: Backup Verification — Recovery for Branch Office Simulator](Project_020223/README.md) |
+| 020224 | [JavaScript: Backup Verification — Reporting for Branch Office Simulator](Project_020224/README.md) |
+| 020225 | [JavaScript: Backup Verification — Usability Improvement for Branch Office Simulator](Project_020225/README.md) |
+| 020226 | [JavaScript: Backup Verification — Baseline Setup for Offline Classroom](Project_020226/README.md) |
+| 020227 | [JavaScript: Backup Verification — Automation for Offline Classroom](Project_020227/README.md) |
+| 020228 | [JavaScript: Backup Verification — Recovery for Offline Classroom](Project_020228/README.md) |
+| 020229 | [JavaScript: Backup Verification — Reporting for Offline Classroom](Project_020229/README.md) |
+| 020230 | [JavaScript: Backup Verification — Usability Improvement for Offline Classroom](Project_020230/README.md) |
+| 020231 | [JavaScript: Backup Verification — Baseline Setup for Single-Host Lab](Project_020231/README.md) |
+| 020232 | [JavaScript: Backup Verification — Automation for Single-Host Lab](Project_020232/README.md) |
+| 020233 | [JavaScript: Backup Verification — Recovery for Single-Host Lab](Project_020233/README.md) |
+| 020234 | [JavaScript: Backup Verification — Reporting for Single-Host Lab](Project_020234/README.md) |
+| 020235 | [JavaScript: Backup Verification — Usability Improvement for Single-Host Lab](Project_020235/README.md) |
+| 020236 | [JavaScript: Backup Verification — Baseline Setup for Two-Node Lab](Project_020236/README.md) |
+| 020237 | [JavaScript: Backup Verification — Automation for Two-Node Lab](Project_020237/README.md) |
+| 020238 | [JavaScript: Backup Verification — Recovery for Two-Node Lab](Project_020238/README.md) |
+| 020239 | [JavaScript: Backup Verification — Reporting for Two-Node Lab](Project_020239/README.md) |
+| 020240 | [JavaScript: Backup Verification — Usability Improvement for Two-Node Lab](Project_020240/README.md) |
 
 [Back to the portfolio home](../README.md)
