@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -844,5 +844,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019798 | [Python: Data Validation — Recovery for Portfolio Demo](Project_019798/README.md) |
 | 019799 | [Python: Data Validation — Reporting for Portfolio Demo](Project_019799/README.md) |
 | 019800 | [Python: Data Validation — Usability Improvement for Portfolio Demo](Project_019800/README.md) |
+| 019801 | [Python: Documentation Generation — Baseline Setup for School Lab](Project_019801/README.md) |
+| 019802 | [Python: Documentation Generation — Automation for School Lab](Project_019802/README.md) |
+| 019803 | [Python: Documentation Generation — Recovery for School Lab](Project_019803/README.md) |
+| 019804 | [Python: Documentation Generation — Reporting for School Lab](Project_019804/README.md) |
+| 019805 | [Python: Documentation Generation — Usability Improvement for School Lab](Project_019805/README.md) |
+| 019806 | [Python: Documentation Generation — Baseline Setup for Small Business](Project_019806/README.md) |
+| 019807 | [Python: Documentation Generation — Automation for Small Business](Project_019807/README.md) |
+| 019808 | [Python: Documentation Generation — Recovery for Small Business](Project_019808/README.md) |
+| 019809 | [Python: Documentation Generation — Reporting for Small Business](Project_019809/README.md) |
+| 019810 | [Python: Documentation Generation — Usability Improvement for Small Business](Project_019810/README.md) |
+| 019811 | [Python: Documentation Generation — Baseline Setup for Home Development](Project_019811/README.md) |
+| 019812 | [Python: Documentation Generation — Automation for Home Development](Project_019812/README.md) |
+| 019813 | [Python: Documentation Generation — Recovery for Home Development](Project_019813/README.md) |
+| 019814 | [Python: Documentation Generation — Reporting for Home Development](Project_019814/README.md) |
+| 019815 | [Python: Documentation Generation — Usability Improvement for Home Development](Project_019815/README.md) |
+| 019816 | [Python: Documentation Generation — Baseline Setup for Public Dataset](Project_019816/README.md) |
+| 019817 | [Python: Documentation Generation — Automation for Public Dataset](Project_019817/README.md) |
+| 019818 | [Python: Documentation Generation — Recovery for Public Dataset](Project_019818/README.md) |
+| 019819 | [Python: Documentation Generation — Reporting for Public Dataset](Project_019819/README.md) |
+| 019820 | [Python: Documentation Generation — Usability Improvement for Public Dataset](Project_019820/README.md) |
 
 [Back to the portfolio home](../README.md)
