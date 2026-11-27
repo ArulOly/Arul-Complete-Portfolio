@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048898 | [Flask: Automation — Recovery for Portfolio Demo](Project_048898/README.md) |
 | 048899 | [Flask: Automation — Reporting for Portfolio Demo](Project_048899/README.md) |
 | 048900 | [Flask: Automation — Usability Improvement for Portfolio Demo](Project_048900/README.md) |
+| 048901 | [Flask: Visual Reporting — Baseline Setup for School Lab](Project_048901/README.md) |
+| 048902 | [Flask: Visual Reporting — Automation for School Lab](Project_048902/README.md) |
+| 048903 | [Flask: Visual Reporting — Recovery for School Lab](Project_048903/README.md) |
+| 048904 | [Flask: Visual Reporting — Reporting for School Lab](Project_048904/README.md) |
+| 048905 | [Flask: Visual Reporting — Usability Improvement for School Lab](Project_048905/README.md) |
+| 048906 | [Flask: Visual Reporting — Baseline Setup for Small Business](Project_048906/README.md) |
+| 048907 | [Flask: Visual Reporting — Automation for Small Business](Project_048907/README.md) |
+| 048908 | [Flask: Visual Reporting — Recovery for Small Business](Project_048908/README.md) |
+| 048909 | [Flask: Visual Reporting — Reporting for Small Business](Project_048909/README.md) |
+| 048910 | [Flask: Visual Reporting — Usability Improvement for Small Business](Project_048910/README.md) |
+| 048911 | [Flask: Visual Reporting — Baseline Setup for Home Development](Project_048911/README.md) |
+| 048912 | [Flask: Visual Reporting — Automation for Home Development](Project_048912/README.md) |
+| 048913 | [Flask: Visual Reporting — Recovery for Home Development](Project_048913/README.md) |
+| 048914 | [Flask: Visual Reporting — Reporting for Home Development](Project_048914/README.md) |
+| 048915 | [Flask: Visual Reporting — Usability Improvement for Home Development](Project_048915/README.md) |
+| 048916 | [Flask: Visual Reporting — Baseline Setup for Public Dataset](Project_048916/README.md) |
+| 048917 | [Flask: Visual Reporting — Automation for Public Dataset](Project_048917/README.md) |
+| 048918 | [Flask: Visual Reporting — Recovery for Public Dataset](Project_048918/README.md) |
+| 048919 | [Flask: Visual Reporting — Reporting for Public Dataset](Project_048919/README.md) |
+| 048920 | [Flask: Visual Reporting — Usability Improvement for Public Dataset](Project_048920/README.md) |
 
 [Back to the portfolio home](../README.md)
