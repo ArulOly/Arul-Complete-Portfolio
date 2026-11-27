@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025898 | [PostgreSQL: Automation — Recovery for Portfolio Demo](Project_025898/README.md) |
 | 025899 | [PostgreSQL: Automation — Reporting for Portfolio Demo](Project_025899/README.md) |
 | 025900 | [PostgreSQL: Automation — Usability Improvement for Portfolio Demo](Project_025900/README.md) |
+| 025901 | [PostgreSQL: Visual Reporting — Baseline Setup for School Lab](Project_025901/README.md) |
+| 025902 | [PostgreSQL: Visual Reporting — Automation for School Lab](Project_025902/README.md) |
+| 025903 | [PostgreSQL: Visual Reporting — Recovery for School Lab](Project_025903/README.md) |
+| 025904 | [PostgreSQL: Visual Reporting — Reporting for School Lab](Project_025904/README.md) |
+| 025905 | [PostgreSQL: Visual Reporting — Usability Improvement for School Lab](Project_025905/README.md) |
+| 025906 | [PostgreSQL: Visual Reporting — Baseline Setup for Small Business](Project_025906/README.md) |
+| 025907 | [PostgreSQL: Visual Reporting — Automation for Small Business](Project_025907/README.md) |
+| 025908 | [PostgreSQL: Visual Reporting — Recovery for Small Business](Project_025908/README.md) |
+| 025909 | [PostgreSQL: Visual Reporting — Reporting for Small Business](Project_025909/README.md) |
+| 025910 | [PostgreSQL: Visual Reporting — Usability Improvement for Small Business](Project_025910/README.md) |
+| 025911 | [PostgreSQL: Visual Reporting — Baseline Setup for Home Development](Project_025911/README.md) |
+| 025912 | [PostgreSQL: Visual Reporting — Automation for Home Development](Project_025912/README.md) |
+| 025913 | [PostgreSQL: Visual Reporting — Recovery for Home Development](Project_025913/README.md) |
+| 025914 | [PostgreSQL: Visual Reporting — Reporting for Home Development](Project_025914/README.md) |
+| 025915 | [PostgreSQL: Visual Reporting — Usability Improvement for Home Development](Project_025915/README.md) |
+| 025916 | [PostgreSQL: Visual Reporting — Baseline Setup for Public Dataset](Project_025916/README.md) |
+| 025917 | [PostgreSQL: Visual Reporting — Automation for Public Dataset](Project_025917/README.md) |
+| 025918 | [PostgreSQL: Visual Reporting — Recovery for Public Dataset](Project_025918/README.md) |
+| 025919 | [PostgreSQL: Visual Reporting — Reporting for Public Dataset](Project_025919/README.md) |
+| 025920 | [PostgreSQL: Visual Reporting — Usability Improvement for Public Dataset](Project_025920/README.md) |
 
 [Back to the portfolio home](../README.md)
