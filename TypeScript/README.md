@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021518 | [TypeScript: Access Review — Recovery for Public Dataset](Project_021518/README.md) |
 | 021519 | [TypeScript: Access Review — Reporting for Public Dataset](Project_021519/README.md) |
 | 021520 | [TypeScript: Access Review — Usability Improvement for Public Dataset](Project_021520/README.md) |
+| 021521 | [TypeScript: Access Review — Baseline Setup for Branch Office Simulator](Project_021521/README.md) |
+| 021522 | [TypeScript: Access Review — Automation for Branch Office Simulator](Project_021522/README.md) |
+| 021523 | [TypeScript: Access Review — Recovery for Branch Office Simulator](Project_021523/README.md) |
+| 021524 | [TypeScript: Access Review — Reporting for Branch Office Simulator](Project_021524/README.md) |
+| 021525 | [TypeScript: Access Review — Usability Improvement for Branch Office Simulator](Project_021525/README.md) |
+| 021526 | [TypeScript: Access Review — Baseline Setup for Offline Classroom](Project_021526/README.md) |
+| 021527 | [TypeScript: Access Review — Automation for Offline Classroom](Project_021527/README.md) |
+| 021528 | [TypeScript: Access Review — Recovery for Offline Classroom](Project_021528/README.md) |
+| 021529 | [TypeScript: Access Review — Reporting for Offline Classroom](Project_021529/README.md) |
+| 021530 | [TypeScript: Access Review — Usability Improvement for Offline Classroom](Project_021530/README.md) |
+| 021531 | [TypeScript: Access Review — Baseline Setup for Single-Host Lab](Project_021531/README.md) |
+| 021532 | [TypeScript: Access Review — Automation for Single-Host Lab](Project_021532/README.md) |
+| 021533 | [TypeScript: Access Review — Recovery for Single-Host Lab](Project_021533/README.md) |
+| 021534 | [TypeScript: Access Review — Reporting for Single-Host Lab](Project_021534/README.md) |
+| 021535 | [TypeScript: Access Review — Usability Improvement for Single-Host Lab](Project_021535/README.md) |
+| 021536 | [TypeScript: Access Review — Baseline Setup for Two-Node Lab](Project_021536/README.md) |
+| 021537 | [TypeScript: Access Review — Automation for Two-Node Lab](Project_021537/README.md) |
+| 021538 | [TypeScript: Access Review — Recovery for Two-Node Lab](Project_021538/README.md) |
+| 021539 | [TypeScript: Access Review — Reporting for Two-Node Lab](Project_021539/README.md) |
+| 021540 | [TypeScript: Access Review — Usability Improvement for Two-Node Lab](Project_021540/README.md) |
 
 [Back to the portfolio home](../README.md)
