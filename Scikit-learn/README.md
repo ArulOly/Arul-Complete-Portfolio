@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034658 | [Scikit-learn: Configuration Comparison — Recovery for Small Business](Project_034658/README.md) |
 | 034659 | [Scikit-learn: Configuration Comparison — Reporting for Small Business](Project_034659/README.md) |
 | 034660 | [Scikit-learn: Configuration Comparison — Usability Improvement for Small Business](Project_034660/README.md) |
+| 034661 | [Scikit-learn: Configuration Comparison — Baseline Setup for Home Development](Project_034661/README.md) |
+| 034662 | [Scikit-learn: Configuration Comparison — Automation for Home Development](Project_034662/README.md) |
+| 034663 | [Scikit-learn: Configuration Comparison — Recovery for Home Development](Project_034663/README.md) |
+| 034664 | [Scikit-learn: Configuration Comparison — Reporting for Home Development](Project_034664/README.md) |
+| 034665 | [Scikit-learn: Configuration Comparison — Usability Improvement for Home Development](Project_034665/README.md) |
+| 034666 | [Scikit-learn: Configuration Comparison — Baseline Setup for Public Dataset](Project_034666/README.md) |
+| 034667 | [Scikit-learn: Configuration Comparison — Automation for Public Dataset](Project_034667/README.md) |
+| 034668 | [Scikit-learn: Configuration Comparison — Recovery for Public Dataset](Project_034668/README.md) |
+| 034669 | [Scikit-learn: Configuration Comparison — Reporting for Public Dataset](Project_034669/README.md) |
+| 034670 | [Scikit-learn: Configuration Comparison — Usability Improvement for Public Dataset](Project_034670/README.md) |
+| 034671 | [Scikit-learn: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_034671/README.md) |
+| 034672 | [Scikit-learn: Configuration Comparison — Automation for Branch Office Simulator](Project_034672/README.md) |
+| 034673 | [Scikit-learn: Configuration Comparison — Recovery for Branch Office Simulator](Project_034673/README.md) |
+| 034674 | [Scikit-learn: Configuration Comparison — Reporting for Branch Office Simulator](Project_034674/README.md) |
+| 034675 | [Scikit-learn: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_034675/README.md) |
+| 034676 | [Scikit-learn: Configuration Comparison — Baseline Setup for Offline Classroom](Project_034676/README.md) |
+| 034677 | [Scikit-learn: Configuration Comparison — Automation for Offline Classroom](Project_034677/README.md) |
+| 034678 | [Scikit-learn: Configuration Comparison — Recovery for Offline Classroom](Project_034678/README.md) |
+| 034679 | [Scikit-learn: Configuration Comparison — Reporting for Offline Classroom](Project_034679/README.md) |
+| 034680 | [Scikit-learn: Configuration Comparison — Usability Improvement for Offline Classroom](Project_034680/README.md) |
 
 [Back to the portfolio home](../README.md)
