@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045638 | [Redis: Service Check — Recovery for Two-Node Lab](Project_045638/README.md) |
 | 045639 | [Redis: Service Check — Reporting for Two-Node Lab](Project_045639/README.md) |
 | 045640 | [Redis: Service Check — Usability Improvement for Two-Node Lab](Project_045640/README.md) |
+| 045641 | [Redis: Service Check — Baseline Setup for Help Desk](Project_045641/README.md) |
+| 045642 | [Redis: Service Check — Automation for Help Desk](Project_045642/README.md) |
+| 045643 | [Redis: Service Check — Recovery for Help Desk](Project_045643/README.md) |
+| 045644 | [Redis: Service Check — Reporting for Help Desk](Project_045644/README.md) |
+| 045645 | [Redis: Service Check — Usability Improvement for Help Desk](Project_045645/README.md) |
+| 045646 | [Redis: Service Check — Baseline Setup for Portfolio Demo](Project_045646/README.md) |
+| 045647 | [Redis: Service Check — Automation for Portfolio Demo](Project_045647/README.md) |
+| 045648 | [Redis: Service Check — Recovery for Portfolio Demo](Project_045648/README.md) |
+| 045649 | [Redis: Service Check — Reporting for Portfolio Demo](Project_045649/README.md) |
+| 045650 | [Redis: Service Check — Usability Improvement for Portfolio Demo](Project_045650/README.md) |
+| 045651 | [Redis: Configuration Comparison — Baseline Setup for School Lab](Project_045651/README.md) |
+| 045652 | [Redis: Configuration Comparison — Automation for School Lab](Project_045652/README.md) |
+| 045653 | [Redis: Configuration Comparison — Recovery for School Lab](Project_045653/README.md) |
+| 045654 | [Redis: Configuration Comparison — Reporting for School Lab](Project_045654/README.md) |
+| 045655 | [Redis: Configuration Comparison — Usability Improvement for School Lab](Project_045655/README.md) |
+| 045656 | [Redis: Configuration Comparison — Baseline Setup for Small Business](Project_045656/README.md) |
+| 045657 | [Redis: Configuration Comparison — Automation for Small Business](Project_045657/README.md) |
+| 045658 | [Redis: Configuration Comparison — Recovery for Small Business](Project_045658/README.md) |
+| 045659 | [Redis: Configuration Comparison — Reporting for Small Business](Project_045659/README.md) |
+| 045660 | [Redis: Configuration Comparison — Usability Improvement for Small Business](Project_045660/README.md) |
 
 [Back to the portfolio home](../README.md)
