@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003118 | [Debian: Audit — Recovery for Public Dataset](Project_003118/README.md) |
 | 003119 | [Debian: Audit — Reporting for Public Dataset](Project_003119/README.md) |
 | 003120 | [Debian: Audit — Usability Improvement for Public Dataset](Project_003120/README.md) |
+| 003121 | [Debian: Audit — Baseline Setup for Branch Office Simulator](Project_003121/README.md) |
+| 003122 | [Debian: Audit — Automation for Branch Office Simulator](Project_003122/README.md) |
+| 003123 | [Debian: Audit — Recovery for Branch Office Simulator](Project_003123/README.md) |
+| 003124 | [Debian: Audit — Reporting for Branch Office Simulator](Project_003124/README.md) |
+| 003125 | [Debian: Audit — Usability Improvement for Branch Office Simulator](Project_003125/README.md) |
+| 003126 | [Debian: Audit — Baseline Setup for Offline Classroom](Project_003126/README.md) |
+| 003127 | [Debian: Audit — Automation for Offline Classroom](Project_003127/README.md) |
+| 003128 | [Debian: Audit — Recovery for Offline Classroom](Project_003128/README.md) |
+| 003129 | [Debian: Audit — Reporting for Offline Classroom](Project_003129/README.md) |
+| 003130 | [Debian: Audit — Usability Improvement for Offline Classroom](Project_003130/README.md) |
+| 003131 | [Debian: Audit — Baseline Setup for Single-Host Lab](Project_003131/README.md) |
+| 003132 | [Debian: Audit — Automation for Single-Host Lab](Project_003132/README.md) |
+| 003133 | [Debian: Audit — Recovery for Single-Host Lab](Project_003133/README.md) |
+| 003134 | [Debian: Audit — Reporting for Single-Host Lab](Project_003134/README.md) |
+| 003135 | [Debian: Audit — Usability Improvement for Single-Host Lab](Project_003135/README.md) |
+| 003136 | [Debian: Audit — Baseline Setup for Two-Node Lab](Project_003136/README.md) |
+| 003137 | [Debian: Audit — Automation for Two-Node Lab](Project_003137/README.md) |
+| 003138 | [Debian: Audit — Recovery for Two-Node Lab](Project_003138/README.md) |
+| 003139 | [Debian: Audit — Reporting for Two-Node Lab](Project_003139/README.md) |
+| 003140 | [Debian: Audit — Usability Improvement for Two-Node Lab](Project_003140/README.md) |
 
 [Back to the portfolio home](../README.md)
