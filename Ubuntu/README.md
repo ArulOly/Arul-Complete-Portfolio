@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002018 | [Ubuntu: Inventory — Recovery for Public Dataset](Project_002018/README.md) |
 | 002019 | [Ubuntu: Inventory — Reporting for Public Dataset](Project_002019/README.md) |
 | 002020 | [Ubuntu: Inventory — Usability Improvement for Public Dataset](Project_002020/README.md) |
+| 002021 | [Ubuntu: Inventory — Baseline Setup for Branch Office Simulator](Project_002021/README.md) |
+| 002022 | [Ubuntu: Inventory — Automation for Branch Office Simulator](Project_002022/README.md) |
+| 002023 | [Ubuntu: Inventory — Recovery for Branch Office Simulator](Project_002023/README.md) |
+| 002024 | [Ubuntu: Inventory — Reporting for Branch Office Simulator](Project_002024/README.md) |
+| 002025 | [Ubuntu: Inventory — Usability Improvement for Branch Office Simulator](Project_002025/README.md) |
+| 002026 | [Ubuntu: Inventory — Baseline Setup for Offline Classroom](Project_002026/README.md) |
+| 002027 | [Ubuntu: Inventory — Automation for Offline Classroom](Project_002027/README.md) |
+| 002028 | [Ubuntu: Inventory — Recovery for Offline Classroom](Project_002028/README.md) |
+| 002029 | [Ubuntu: Inventory — Reporting for Offline Classroom](Project_002029/README.md) |
+| 002030 | [Ubuntu: Inventory — Usability Improvement for Offline Classroom](Project_002030/README.md) |
+| 002031 | [Ubuntu: Inventory — Baseline Setup for Single-Host Lab](Project_002031/README.md) |
+| 002032 | [Ubuntu: Inventory — Automation for Single-Host Lab](Project_002032/README.md) |
+| 002033 | [Ubuntu: Inventory — Recovery for Single-Host Lab](Project_002033/README.md) |
+| 002034 | [Ubuntu: Inventory — Reporting for Single-Host Lab](Project_002034/README.md) |
+| 002035 | [Ubuntu: Inventory — Usability Improvement for Single-Host Lab](Project_002035/README.md) |
+| 002036 | [Ubuntu: Inventory — Baseline Setup for Two-Node Lab](Project_002036/README.md) |
+| 002037 | [Ubuntu: Inventory — Automation for Two-Node Lab](Project_002037/README.md) |
+| 002038 | [Ubuntu: Inventory — Recovery for Two-Node Lab](Project_002038/README.md) |
+| 002039 | [Ubuntu: Inventory — Reporting for Two-Node Lab](Project_002039/README.md) |
+| 002040 | [Ubuntu: Inventory — Usability Improvement for Two-Node Lab](Project_002040/README.md) |
 
 [Back to the portfolio home](../README.md)
