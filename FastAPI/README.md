@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049818 | [FastAPI: Documentation Generation — Recovery for Public Dataset](Project_049818/README.md) |
 | 049819 | [FastAPI: Documentation Generation — Reporting for Public Dataset](Project_049819/README.md) |
 | 049820 | [FastAPI: Documentation Generation — Usability Improvement for Public Dataset](Project_049820/README.md) |
+| 049821 | [FastAPI: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_049821/README.md) |
+| 049822 | [FastAPI: Documentation Generation — Automation for Branch Office Simulator](Project_049822/README.md) |
+| 049823 | [FastAPI: Documentation Generation — Recovery for Branch Office Simulator](Project_049823/README.md) |
+| 049824 | [FastAPI: Documentation Generation — Reporting for Branch Office Simulator](Project_049824/README.md) |
+| 049825 | [FastAPI: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_049825/README.md) |
+| 049826 | [FastAPI: Documentation Generation — Baseline Setup for Offline Classroom](Project_049826/README.md) |
+| 049827 | [FastAPI: Documentation Generation — Automation for Offline Classroom](Project_049827/README.md) |
+| 049828 | [FastAPI: Documentation Generation — Recovery for Offline Classroom](Project_049828/README.md) |
+| 049829 | [FastAPI: Documentation Generation — Reporting for Offline Classroom](Project_049829/README.md) |
+| 049830 | [FastAPI: Documentation Generation — Usability Improvement for Offline Classroom](Project_049830/README.md) |
+| 049831 | [FastAPI: Documentation Generation — Baseline Setup for Single-Host Lab](Project_049831/README.md) |
+| 049832 | [FastAPI: Documentation Generation — Automation for Single-Host Lab](Project_049832/README.md) |
+| 049833 | [FastAPI: Documentation Generation — Recovery for Single-Host Lab](Project_049833/README.md) |
+| 049834 | [FastAPI: Documentation Generation — Reporting for Single-Host Lab](Project_049834/README.md) |
+| 049835 | [FastAPI: Documentation Generation — Usability Improvement for Single-Host Lab](Project_049835/README.md) |
+| 049836 | [FastAPI: Documentation Generation — Baseline Setup for Two-Node Lab](Project_049836/README.md) |
+| 049837 | [FastAPI: Documentation Generation — Automation for Two-Node Lab](Project_049837/README.md) |
+| 049838 | [FastAPI: Documentation Generation — Recovery for Two-Node Lab](Project_049838/README.md) |
+| 049839 | [FastAPI: Documentation Generation — Reporting for Two-Node Lab](Project_049839/README.md) |
+| 049840 | [FastAPI: Documentation Generation — Usability Improvement for Two-Node Lab](Project_049840/README.md) |
 
 [Back to the portfolio home](../README.md)
