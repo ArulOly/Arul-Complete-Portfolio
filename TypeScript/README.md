@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021238 | [TypeScript: Backup Verification — Recovery for Two-Node Lab](Project_021238/README.md) |
 | 021239 | [TypeScript: Backup Verification — Reporting for Two-Node Lab](Project_021239/README.md) |
 | 021240 | [TypeScript: Backup Verification — Usability Improvement for Two-Node Lab](Project_021240/README.md) |
+| 021241 | [TypeScript: Backup Verification — Baseline Setup for Help Desk](Project_021241/README.md) |
+| 021242 | [TypeScript: Backup Verification — Automation for Help Desk](Project_021242/README.md) |
+| 021243 | [TypeScript: Backup Verification — Recovery for Help Desk](Project_021243/README.md) |
+| 021244 | [TypeScript: Backup Verification — Reporting for Help Desk](Project_021244/README.md) |
+| 021245 | [TypeScript: Backup Verification — Usability Improvement for Help Desk](Project_021245/README.md) |
+| 021246 | [TypeScript: Backup Verification — Baseline Setup for Portfolio Demo](Project_021246/README.md) |
+| 021247 | [TypeScript: Backup Verification — Automation for Portfolio Demo](Project_021247/README.md) |
+| 021248 | [TypeScript: Backup Verification — Recovery for Portfolio Demo](Project_021248/README.md) |
+| 021249 | [TypeScript: Backup Verification — Reporting for Portfolio Demo](Project_021249/README.md) |
+| 021250 | [TypeScript: Backup Verification — Usability Improvement for Portfolio Demo](Project_021250/README.md) |
+| 021251 | [TypeScript: Data Import — Baseline Setup for School Lab](Project_021251/README.md) |
+| 021252 | [TypeScript: Data Import — Automation for School Lab](Project_021252/README.md) |
+| 021253 | [TypeScript: Data Import — Recovery for School Lab](Project_021253/README.md) |
+| 021254 | [TypeScript: Data Import — Reporting for School Lab](Project_021254/README.md) |
+| 021255 | [TypeScript: Data Import — Usability Improvement for School Lab](Project_021255/README.md) |
+| 021256 | [TypeScript: Data Import — Baseline Setup for Small Business](Project_021256/README.md) |
+| 021257 | [TypeScript: Data Import — Automation for Small Business](Project_021257/README.md) |
+| 021258 | [TypeScript: Data Import — Recovery for Small Business](Project_021258/README.md) |
+| 021259 | [TypeScript: Data Import — Reporting for Small Business](Project_021259/README.md) |
+| 021260 | [TypeScript: Data Import — Usability Improvement for Small Business](Project_021260/README.md) |
 
 [Back to the portfolio home](../README.md)
