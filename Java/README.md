@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022658 | [Java: Configuration Comparison — Recovery for Small Business](Project_022658/README.md) |
 | 022659 | [Java: Configuration Comparison — Reporting for Small Business](Project_022659/README.md) |
 | 022660 | [Java: Configuration Comparison — Usability Improvement for Small Business](Project_022660/README.md) |
+| 022661 | [Java: Configuration Comparison — Baseline Setup for Home Development](Project_022661/README.md) |
+| 022662 | [Java: Configuration Comparison — Automation for Home Development](Project_022662/README.md) |
+| 022663 | [Java: Configuration Comparison — Recovery for Home Development](Project_022663/README.md) |
+| 022664 | [Java: Configuration Comparison — Reporting for Home Development](Project_022664/README.md) |
+| 022665 | [Java: Configuration Comparison — Usability Improvement for Home Development](Project_022665/README.md) |
+| 022666 | [Java: Configuration Comparison — Baseline Setup for Public Dataset](Project_022666/README.md) |
+| 022667 | [Java: Configuration Comparison — Automation for Public Dataset](Project_022667/README.md) |
+| 022668 | [Java: Configuration Comparison — Recovery for Public Dataset](Project_022668/README.md) |
+| 022669 | [Java: Configuration Comparison — Reporting for Public Dataset](Project_022669/README.md) |
+| 022670 | [Java: Configuration Comparison — Usability Improvement for Public Dataset](Project_022670/README.md) |
+| 022671 | [Java: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_022671/README.md) |
+| 022672 | [Java: Configuration Comparison — Automation for Branch Office Simulator](Project_022672/README.md) |
+| 022673 | [Java: Configuration Comparison — Recovery for Branch Office Simulator](Project_022673/README.md) |
+| 022674 | [Java: Configuration Comparison — Reporting for Branch Office Simulator](Project_022674/README.md) |
+| 022675 | [Java: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_022675/README.md) |
+| 022676 | [Java: Configuration Comparison — Baseline Setup for Offline Classroom](Project_022676/README.md) |
+| 022677 | [Java: Configuration Comparison — Automation for Offline Classroom](Project_022677/README.md) |
+| 022678 | [Java: Configuration Comparison — Recovery for Offline Classroom](Project_022678/README.md) |
+| 022679 | [Java: Configuration Comparison — Reporting for Offline Classroom](Project_022679/README.md) |
+| 022680 | [Java: Configuration Comparison — Usability Improvement for Offline Classroom](Project_022680/README.md) |
 
 [Back to the portfolio home](../README.md)
