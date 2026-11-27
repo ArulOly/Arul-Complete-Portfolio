@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049198 | [FastAPI: Log Analysis — Recovery for Portfolio Demo](Project_049198/README.md) |
 | 049199 | [FastAPI: Log Analysis — Reporting for Portfolio Demo](Project_049199/README.md) |
 | 049200 | [FastAPI: Log Analysis — Usability Improvement for Portfolio Demo](Project_049200/README.md) |
+| 049201 | [FastAPI: Backup Verification — Baseline Setup for School Lab](Project_049201/README.md) |
+| 049202 | [FastAPI: Backup Verification — Automation for School Lab](Project_049202/README.md) |
+| 049203 | [FastAPI: Backup Verification — Recovery for School Lab](Project_049203/README.md) |
+| 049204 | [FastAPI: Backup Verification — Reporting for School Lab](Project_049204/README.md) |
+| 049205 | [FastAPI: Backup Verification — Usability Improvement for School Lab](Project_049205/README.md) |
+| 049206 | [FastAPI: Backup Verification — Baseline Setup for Small Business](Project_049206/README.md) |
+| 049207 | [FastAPI: Backup Verification — Automation for Small Business](Project_049207/README.md) |
+| 049208 | [FastAPI: Backup Verification — Recovery for Small Business](Project_049208/README.md) |
+| 049209 | [FastAPI: Backup Verification — Reporting for Small Business](Project_049209/README.md) |
+| 049210 | [FastAPI: Backup Verification — Usability Improvement for Small Business](Project_049210/README.md) |
+| 049211 | [FastAPI: Backup Verification — Baseline Setup for Home Development](Project_049211/README.md) |
+| 049212 | [FastAPI: Backup Verification — Automation for Home Development](Project_049212/README.md) |
+| 049213 | [FastAPI: Backup Verification — Recovery for Home Development](Project_049213/README.md) |
+| 049214 | [FastAPI: Backup Verification — Reporting for Home Development](Project_049214/README.md) |
+| 049215 | [FastAPI: Backup Verification — Usability Improvement for Home Development](Project_049215/README.md) |
+| 049216 | [FastAPI: Backup Verification — Baseline Setup for Public Dataset](Project_049216/README.md) |
+| 049217 | [FastAPI: Backup Verification — Automation for Public Dataset](Project_049217/README.md) |
+| 049218 | [FastAPI: Backup Verification — Recovery for Public Dataset](Project_049218/README.md) |
+| 049219 | [FastAPI: Backup Verification — Reporting for Public Dataset](Project_049219/README.md) |
+| 049220 | [FastAPI: Backup Verification — Usability Improvement for Public Dataset](Project_049220/README.md) |
 
 [Back to the portfolio home](../README.md)
