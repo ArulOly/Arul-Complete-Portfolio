@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045538 | [Redis: Access Review — Recovery for Two-Node Lab](Project_045538/README.md) |
 | 045539 | [Redis: Access Review — Reporting for Two-Node Lab](Project_045539/README.md) |
 | 045540 | [Redis: Access Review — Usability Improvement for Two-Node Lab](Project_045540/README.md) |
+| 045541 | [Redis: Access Review — Baseline Setup for Help Desk](Project_045541/README.md) |
+| 045542 | [Redis: Access Review — Automation for Help Desk](Project_045542/README.md) |
+| 045543 | [Redis: Access Review — Recovery for Help Desk](Project_045543/README.md) |
+| 045544 | [Redis: Access Review — Reporting for Help Desk](Project_045544/README.md) |
+| 045545 | [Redis: Access Review — Usability Improvement for Help Desk](Project_045545/README.md) |
+| 045546 | [Redis: Access Review — Baseline Setup for Portfolio Demo](Project_045546/README.md) |
+| 045547 | [Redis: Access Review — Automation for Portfolio Demo](Project_045547/README.md) |
+| 045548 | [Redis: Access Review — Recovery for Portfolio Demo](Project_045548/README.md) |
+| 045549 | [Redis: Access Review — Reporting for Portfolio Demo](Project_045549/README.md) |
+| 045550 | [Redis: Access Review — Usability Improvement for Portfolio Demo](Project_045550/README.md) |
+| 045551 | [Redis: Performance Baseline — Baseline Setup for School Lab](Project_045551/README.md) |
+| 045552 | [Redis: Performance Baseline — Automation for School Lab](Project_045552/README.md) |
+| 045553 | [Redis: Performance Baseline — Recovery for School Lab](Project_045553/README.md) |
+| 045554 | [Redis: Performance Baseline — Reporting for School Lab](Project_045554/README.md) |
+| 045555 | [Redis: Performance Baseline — Usability Improvement for School Lab](Project_045555/README.md) |
+| 045556 | [Redis: Performance Baseline — Baseline Setup for Small Business](Project_045556/README.md) |
+| 045557 | [Redis: Performance Baseline — Automation for Small Business](Project_045557/README.md) |
+| 045558 | [Redis: Performance Baseline — Recovery for Small Business](Project_045558/README.md) |
+| 045559 | [Redis: Performance Baseline — Reporting for Small Business](Project_045559/README.md) |
+| 045560 | [Redis: Performance Baseline — Usability Improvement for Small Business](Project_045560/README.md) |
 
 [Back to the portfolio home](../README.md)
