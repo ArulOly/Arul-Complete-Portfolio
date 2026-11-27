@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022638 | [Java: Service Check — Recovery for Two-Node Lab](Project_022638/README.md) |
 | 022639 | [Java: Service Check — Reporting for Two-Node Lab](Project_022639/README.md) |
 | 022640 | [Java: Service Check — Usability Improvement for Two-Node Lab](Project_022640/README.md) |
+| 022641 | [Java: Service Check — Baseline Setup for Help Desk](Project_022641/README.md) |
+| 022642 | [Java: Service Check — Automation for Help Desk](Project_022642/README.md) |
+| 022643 | [Java: Service Check — Recovery for Help Desk](Project_022643/README.md) |
+| 022644 | [Java: Service Check — Reporting for Help Desk](Project_022644/README.md) |
+| 022645 | [Java: Service Check — Usability Improvement for Help Desk](Project_022645/README.md) |
+| 022646 | [Java: Service Check — Baseline Setup for Portfolio Demo](Project_022646/README.md) |
+| 022647 | [Java: Service Check — Automation for Portfolio Demo](Project_022647/README.md) |
+| 022648 | [Java: Service Check — Recovery for Portfolio Demo](Project_022648/README.md) |
+| 022649 | [Java: Service Check — Reporting for Portfolio Demo](Project_022649/README.md) |
+| 022650 | [Java: Service Check — Usability Improvement for Portfolio Demo](Project_022650/README.md) |
+| 022651 | [Java: Configuration Comparison — Baseline Setup for School Lab](Project_022651/README.md) |
+| 022652 | [Java: Configuration Comparison — Automation for School Lab](Project_022652/README.md) |
+| 022653 | [Java: Configuration Comparison — Recovery for School Lab](Project_022653/README.md) |
+| 022654 | [Java: Configuration Comparison — Reporting for School Lab](Project_022654/README.md) |
+| 022655 | [Java: Configuration Comparison — Usability Improvement for School Lab](Project_022655/README.md) |
+| 022656 | [Java: Configuration Comparison — Baseline Setup for Small Business](Project_022656/README.md) |
+| 022657 | [Java: Configuration Comparison — Automation for Small Business](Project_022657/README.md) |
+| 022658 | [Java: Configuration Comparison — Recovery for Small Business](Project_022658/README.md) |
+| 022659 | [Java: Configuration Comparison — Reporting for Small Business](Project_022659/README.md) |
+| 022660 | [Java: Configuration Comparison — Usability Improvement for Small Business](Project_022660/README.md) |
 
 [Back to the portfolio home](../README.md)
