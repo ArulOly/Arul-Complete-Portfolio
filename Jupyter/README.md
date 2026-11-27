@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033898 | [Jupyter: Automation — Recovery for Portfolio Demo](Project_033898/README.md) |
 | 033899 | [Jupyter: Automation — Reporting for Portfolio Demo](Project_033899/README.md) |
 | 033900 | [Jupyter: Automation — Usability Improvement for Portfolio Demo](Project_033900/README.md) |
+| 033901 | [Jupyter: Visual Reporting — Baseline Setup for School Lab](Project_033901/README.md) |
+| 033902 | [Jupyter: Visual Reporting — Automation for School Lab](Project_033902/README.md) |
+| 033903 | [Jupyter: Visual Reporting — Recovery for School Lab](Project_033903/README.md) |
+| 033904 | [Jupyter: Visual Reporting — Reporting for School Lab](Project_033904/README.md) |
+| 033905 | [Jupyter: Visual Reporting — Usability Improvement for School Lab](Project_033905/README.md) |
+| 033906 | [Jupyter: Visual Reporting — Baseline Setup for Small Business](Project_033906/README.md) |
+| 033907 | [Jupyter: Visual Reporting — Automation for Small Business](Project_033907/README.md) |
+| 033908 | [Jupyter: Visual Reporting — Recovery for Small Business](Project_033908/README.md) |
+| 033909 | [Jupyter: Visual Reporting — Reporting for Small Business](Project_033909/README.md) |
+| 033910 | [Jupyter: Visual Reporting — Usability Improvement for Small Business](Project_033910/README.md) |
+| 033911 | [Jupyter: Visual Reporting — Baseline Setup for Home Development](Project_033911/README.md) |
+| 033912 | [Jupyter: Visual Reporting — Automation for Home Development](Project_033912/README.md) |
+| 033913 | [Jupyter: Visual Reporting — Recovery for Home Development](Project_033913/README.md) |
+| 033914 | [Jupyter: Visual Reporting — Reporting for Home Development](Project_033914/README.md) |
+| 033915 | [Jupyter: Visual Reporting — Usability Improvement for Home Development](Project_033915/README.md) |
+| 033916 | [Jupyter: Visual Reporting — Baseline Setup for Public Dataset](Project_033916/README.md) |
+| 033917 | [Jupyter: Visual Reporting — Automation for Public Dataset](Project_033917/README.md) |
+| 033918 | [Jupyter: Visual Reporting — Recovery for Public Dataset](Project_033918/README.md) |
+| 033919 | [Jupyter: Visual Reporting — Reporting for Public Dataset](Project_033919/README.md) |
+| 033920 | [Jupyter: Visual Reporting — Usability Improvement for Public Dataset](Project_033920/README.md) |
 
 [Back to the portfolio home](../README.md)
