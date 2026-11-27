@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026158 | [MySQL: Log Analysis — Recovery for Small Business](Project_026158/README.md) |
 | 026159 | [MySQL: Log Analysis — Reporting for Small Business](Project_026159/README.md) |
 | 026160 | [MySQL: Log Analysis — Usability Improvement for Small Business](Project_026160/README.md) |
+| 026161 | [MySQL: Log Analysis — Baseline Setup for Home Development](Project_026161/README.md) |
+| 026162 | [MySQL: Log Analysis — Automation for Home Development](Project_026162/README.md) |
+| 026163 | [MySQL: Log Analysis — Recovery for Home Development](Project_026163/README.md) |
+| 026164 | [MySQL: Log Analysis — Reporting for Home Development](Project_026164/README.md) |
+| 026165 | [MySQL: Log Analysis — Usability Improvement for Home Development](Project_026165/README.md) |
+| 026166 | [MySQL: Log Analysis — Baseline Setup for Public Dataset](Project_026166/README.md) |
+| 026167 | [MySQL: Log Analysis — Automation for Public Dataset](Project_026167/README.md) |
+| 026168 | [MySQL: Log Analysis — Recovery for Public Dataset](Project_026168/README.md) |
+| 026169 | [MySQL: Log Analysis — Reporting for Public Dataset](Project_026169/README.md) |
+| 026170 | [MySQL: Log Analysis — Usability Improvement for Public Dataset](Project_026170/README.md) |
+| 026171 | [MySQL: Log Analysis — Baseline Setup for Branch Office Simulator](Project_026171/README.md) |
+| 026172 | [MySQL: Log Analysis — Automation for Branch Office Simulator](Project_026172/README.md) |
+| 026173 | [MySQL: Log Analysis — Recovery for Branch Office Simulator](Project_026173/README.md) |
+| 026174 | [MySQL: Log Analysis — Reporting for Branch Office Simulator](Project_026174/README.md) |
+| 026175 | [MySQL: Log Analysis — Usability Improvement for Branch Office Simulator](Project_026175/README.md) |
+| 026176 | [MySQL: Log Analysis — Baseline Setup for Offline Classroom](Project_026176/README.md) |
+| 026177 | [MySQL: Log Analysis — Automation for Offline Classroom](Project_026177/README.md) |
+| 026178 | [MySQL: Log Analysis — Recovery for Offline Classroom](Project_026178/README.md) |
+| 026179 | [MySQL: Log Analysis — Reporting for Offline Classroom](Project_026179/README.md) |
+| 026180 | [MySQL: Log Analysis — Usability Improvement for Offline Classroom](Project_026180/README.md) |
 
 [Back to the portfolio home](../README.md)
