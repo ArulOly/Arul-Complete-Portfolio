@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033458 | [Jupyter: Scheduled Reporting — Recovery for Small Business](Project_033458/README.md) |
 | 033459 | [Jupyter: Scheduled Reporting — Reporting for Small Business](Project_033459/README.md) |
 | 033460 | [Jupyter: Scheduled Reporting — Usability Improvement for Small Business](Project_033460/README.md) |
+| 033461 | [Jupyter: Scheduled Reporting — Baseline Setup for Home Development](Project_033461/README.md) |
+| 033462 | [Jupyter: Scheduled Reporting — Automation for Home Development](Project_033462/README.md) |
+| 033463 | [Jupyter: Scheduled Reporting — Recovery for Home Development](Project_033463/README.md) |
+| 033464 | [Jupyter: Scheduled Reporting — Reporting for Home Development](Project_033464/README.md) |
+| 033465 | [Jupyter: Scheduled Reporting — Usability Improvement for Home Development](Project_033465/README.md) |
+| 033466 | [Jupyter: Scheduled Reporting — Baseline Setup for Public Dataset](Project_033466/README.md) |
+| 033467 | [Jupyter: Scheduled Reporting — Automation for Public Dataset](Project_033467/README.md) |
+| 033468 | [Jupyter: Scheduled Reporting — Recovery for Public Dataset](Project_033468/README.md) |
+| 033469 | [Jupyter: Scheduled Reporting — Reporting for Public Dataset](Project_033469/README.md) |
+| 033470 | [Jupyter: Scheduled Reporting — Usability Improvement for Public Dataset](Project_033470/README.md) |
+| 033471 | [Jupyter: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_033471/README.md) |
+| 033472 | [Jupyter: Scheduled Reporting — Automation for Branch Office Simulator](Project_033472/README.md) |
+| 033473 | [Jupyter: Scheduled Reporting — Recovery for Branch Office Simulator](Project_033473/README.md) |
+| 033474 | [Jupyter: Scheduled Reporting — Reporting for Branch Office Simulator](Project_033474/README.md) |
+| 033475 | [Jupyter: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_033475/README.md) |
+| 033476 | [Jupyter: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_033476/README.md) |
+| 033477 | [Jupyter: Scheduled Reporting — Automation for Offline Classroom](Project_033477/README.md) |
+| 033478 | [Jupyter: Scheduled Reporting — Recovery for Offline Classroom](Project_033478/README.md) |
+| 033479 | [Jupyter: Scheduled Reporting — Reporting for Offline Classroom](Project_033479/README.md) |
+| 033480 | [Jupyter: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_033480/README.md) |
 
 [Back to the portfolio home](../README.md)
