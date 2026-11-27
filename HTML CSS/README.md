@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023258 | [HTML CSS: Data Import — Recovery for Small Business](Project_023258/README.md) |
 | 023259 | [HTML CSS: Data Import — Reporting for Small Business](Project_023259/README.md) |
 | 023260 | [HTML CSS: Data Import — Usability Improvement for Small Business](Project_023260/README.md) |
+| 023261 | [HTML CSS: Data Import — Baseline Setup for Home Development](Project_023261/README.md) |
+| 023262 | [HTML CSS: Data Import — Automation for Home Development](Project_023262/README.md) |
+| 023263 | [HTML CSS: Data Import — Recovery for Home Development](Project_023263/README.md) |
+| 023264 | [HTML CSS: Data Import — Reporting for Home Development](Project_023264/README.md) |
+| 023265 | [HTML CSS: Data Import — Usability Improvement for Home Development](Project_023265/README.md) |
+| 023266 | [HTML CSS: Data Import — Baseline Setup for Public Dataset](Project_023266/README.md) |
+| 023267 | [HTML CSS: Data Import — Automation for Public Dataset](Project_023267/README.md) |
+| 023268 | [HTML CSS: Data Import — Recovery for Public Dataset](Project_023268/README.md) |
+| 023269 | [HTML CSS: Data Import — Reporting for Public Dataset](Project_023269/README.md) |
+| 023270 | [HTML CSS: Data Import — Usability Improvement for Public Dataset](Project_023270/README.md) |
+| 023271 | [HTML CSS: Data Import — Baseline Setup for Branch Office Simulator](Project_023271/README.md) |
+| 023272 | [HTML CSS: Data Import — Automation for Branch Office Simulator](Project_023272/README.md) |
+| 023273 | [HTML CSS: Data Import — Recovery for Branch Office Simulator](Project_023273/README.md) |
+| 023274 | [HTML CSS: Data Import — Reporting for Branch Office Simulator](Project_023274/README.md) |
+| 023275 | [HTML CSS: Data Import — Usability Improvement for Branch Office Simulator](Project_023275/README.md) |
+| 023276 | [HTML CSS: Data Import — Baseline Setup for Offline Classroom](Project_023276/README.md) |
+| 023277 | [HTML CSS: Data Import — Automation for Offline Classroom](Project_023277/README.md) |
+| 023278 | [HTML CSS: Data Import — Recovery for Offline Classroom](Project_023278/README.md) |
+| 023279 | [HTML CSS: Data Import — Reporting for Offline Classroom](Project_023279/README.md) |
+| 023280 | [HTML CSS: Data Import — Usability Improvement for Offline Classroom](Project_023280/README.md) |
 
 [Back to the portfolio home](../README.md)
