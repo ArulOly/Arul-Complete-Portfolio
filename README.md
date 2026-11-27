@@ -11,6 +11,11 @@ This repository contains a collection of practical information technology projec
 | [Python](./Python/) | Python programming, automation, inventory management, reporting and practical applications |
 | [JavaScript](./JavaScript/) | Node.js projects for data processing, automation, and reporting |
 | [TypeScript](./TypeScript/) | Type-checked Node.js projects for data processing, automation, and reporting |
+| [Java](./Java/) | Local Java command-line tools for data processing, automation, and reporting |
+| [HTML CSS](./HTML%20CSS/) | Responsive reports built with semantic HTML and CSS |
+| [Node.js](./Node.js/) | Node.js command-line projects using built-in modules |
+| [Flask](./Flask/) | Local HTTP APIs for structured data workflows |
+| [FastAPI](./FastAPI/) | Local JSON APIs for structured data workflows |
 
 ## Repository Structure
 
@@ -22,6 +27,10 @@ Each project is documented in an individual README.md file containing its object
 - JavaScript
 - TypeScript
 - Node.js
+- Java
+- HTML and CSS
+- Flask
+- FastAPI
 - Git
 - GitHub
 - Markdown
