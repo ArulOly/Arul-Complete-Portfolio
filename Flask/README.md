@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048318 | [Flask: Data Export — Recovery for Public Dataset](Project_048318/README.md) |
 | 048319 | [Flask: Data Export — Reporting for Public Dataset](Project_048319/README.md) |
 | 048320 | [Flask: Data Export — Usability Improvement for Public Dataset](Project_048320/README.md) |
+| 048321 | [Flask: Data Export — Baseline Setup for Branch Office Simulator](Project_048321/README.md) |
+| 048322 | [Flask: Data Export — Automation for Branch Office Simulator](Project_048322/README.md) |
+| 048323 | [Flask: Data Export — Recovery for Branch Office Simulator](Project_048323/README.md) |
+| 048324 | [Flask: Data Export — Reporting for Branch Office Simulator](Project_048324/README.md) |
+| 048325 | [Flask: Data Export — Usability Improvement for Branch Office Simulator](Project_048325/README.md) |
+| 048326 | [Flask: Data Export — Baseline Setup for Offline Classroom](Project_048326/README.md) |
+| 048327 | [Flask: Data Export — Automation for Offline Classroom](Project_048327/README.md) |
+| 048328 | [Flask: Data Export — Recovery for Offline Classroom](Project_048328/README.md) |
+| 048329 | [Flask: Data Export — Reporting for Offline Classroom](Project_048329/README.md) |
+| 048330 | [Flask: Data Export — Usability Improvement for Offline Classroom](Project_048330/README.md) |
+| 048331 | [Flask: Data Export — Baseline Setup for Single-Host Lab](Project_048331/README.md) |
+| 048332 | [Flask: Data Export — Automation for Single-Host Lab](Project_048332/README.md) |
+| 048333 | [Flask: Data Export — Recovery for Single-Host Lab](Project_048333/README.md) |
+| 048334 | [Flask: Data Export — Reporting for Single-Host Lab](Project_048334/README.md) |
+| 048335 | [Flask: Data Export — Usability Improvement for Single-Host Lab](Project_048335/README.md) |
+| 048336 | [Flask: Data Export — Baseline Setup for Two-Node Lab](Project_048336/README.md) |
+| 048337 | [Flask: Data Export — Automation for Two-Node Lab](Project_048337/README.md) |
+| 048338 | [Flask: Data Export — Recovery for Two-Node Lab](Project_048338/README.md) |
+| 048339 | [Flask: Data Export — Reporting for Two-Node Lab](Project_048339/README.md) |
+| 048340 | [Flask: Data Export — Usability Improvement for Two-Node Lab](Project_048340/README.md) |
 
 [Back to the portfolio home](../README.md)
