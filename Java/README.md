@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022758 | [Java: Data Validation — Recovery for Small Business](Project_022758/README.md) |
 | 022759 | [Java: Data Validation — Reporting for Small Business](Project_022759/README.md) |
 | 022760 | [Java: Data Validation — Usability Improvement for Small Business](Project_022760/README.md) |
+| 022761 | [Java: Data Validation — Baseline Setup for Home Development](Project_022761/README.md) |
+| 022762 | [Java: Data Validation — Automation for Home Development](Project_022762/README.md) |
+| 022763 | [Java: Data Validation — Recovery for Home Development](Project_022763/README.md) |
+| 022764 | [Java: Data Validation — Reporting for Home Development](Project_022764/README.md) |
+| 022765 | [Java: Data Validation — Usability Improvement for Home Development](Project_022765/README.md) |
+| 022766 | [Java: Data Validation — Baseline Setup for Public Dataset](Project_022766/README.md) |
+| 022767 | [Java: Data Validation — Automation for Public Dataset](Project_022767/README.md) |
+| 022768 | [Java: Data Validation — Recovery for Public Dataset](Project_022768/README.md) |
+| 022769 | [Java: Data Validation — Reporting for Public Dataset](Project_022769/README.md) |
+| 022770 | [Java: Data Validation — Usability Improvement for Public Dataset](Project_022770/README.md) |
+| 022771 | [Java: Data Validation — Baseline Setup for Branch Office Simulator](Project_022771/README.md) |
+| 022772 | [Java: Data Validation — Automation for Branch Office Simulator](Project_022772/README.md) |
+| 022773 | [Java: Data Validation — Recovery for Branch Office Simulator](Project_022773/README.md) |
+| 022774 | [Java: Data Validation — Reporting for Branch Office Simulator](Project_022774/README.md) |
+| 022775 | [Java: Data Validation — Usability Improvement for Branch Office Simulator](Project_022775/README.md) |
+| 022776 | [Java: Data Validation — Baseline Setup for Offline Classroom](Project_022776/README.md) |
+| 022777 | [Java: Data Validation — Automation for Offline Classroom](Project_022777/README.md) |
+| 022778 | [Java: Data Validation — Recovery for Offline Classroom](Project_022778/README.md) |
+| 022779 | [Java: Data Validation — Reporting for Offline Classroom](Project_022779/README.md) |
+| 022780 | [Java: Data Validation — Usability Improvement for Offline Classroom](Project_022780/README.md) |
 
 [Back to the portfolio home](../README.md)
