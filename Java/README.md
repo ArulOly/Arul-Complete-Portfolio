@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022558 | [Java: Performance Baseline — Recovery for Small Business](Project_022558/README.md) |
 | 022559 | [Java: Performance Baseline — Reporting for Small Business](Project_022559/README.md) |
 | 022560 | [Java: Performance Baseline — Usability Improvement for Small Business](Project_022560/README.md) |
+| 022561 | [Java: Performance Baseline — Baseline Setup for Home Development](Project_022561/README.md) |
+| 022562 | [Java: Performance Baseline — Automation for Home Development](Project_022562/README.md) |
+| 022563 | [Java: Performance Baseline — Recovery for Home Development](Project_022563/README.md) |
+| 022564 | [Java: Performance Baseline — Reporting for Home Development](Project_022564/README.md) |
+| 022565 | [Java: Performance Baseline — Usability Improvement for Home Development](Project_022565/README.md) |
+| 022566 | [Java: Performance Baseline — Baseline Setup for Public Dataset](Project_022566/README.md) |
+| 022567 | [Java: Performance Baseline — Automation for Public Dataset](Project_022567/README.md) |
+| 022568 | [Java: Performance Baseline — Recovery for Public Dataset](Project_022568/README.md) |
+| 022569 | [Java: Performance Baseline — Reporting for Public Dataset](Project_022569/README.md) |
+| 022570 | [Java: Performance Baseline — Usability Improvement for Public Dataset](Project_022570/README.md) |
+| 022571 | [Java: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_022571/README.md) |
+| 022572 | [Java: Performance Baseline — Automation for Branch Office Simulator](Project_022572/README.md) |
+| 022573 | [Java: Performance Baseline — Recovery for Branch Office Simulator](Project_022573/README.md) |
+| 022574 | [Java: Performance Baseline — Reporting for Branch Office Simulator](Project_022574/README.md) |
+| 022575 | [Java: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_022575/README.md) |
+| 022576 | [Java: Performance Baseline — Baseline Setup for Offline Classroom](Project_022576/README.md) |
+| 022577 | [Java: Performance Baseline — Automation for Offline Classroom](Project_022577/README.md) |
+| 022578 | [Java: Performance Baseline — Recovery for Offline Classroom](Project_022578/README.md) |
+| 022579 | [Java: Performance Baseline — Reporting for Offline Classroom](Project_022579/README.md) |
+| 022580 | [Java: Performance Baseline — Usability Improvement for Offline Classroom](Project_022580/README.md) |
 
 [Back to the portfolio home](../README.md)
