@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048778 | [Flask: Data Validation — Recovery for Offline Classroom](Project_048778/README.md) |
 | 048779 | [Flask: Data Validation — Reporting for Offline Classroom](Project_048779/README.md) |
 | 048780 | [Flask: Data Validation — Usability Improvement for Offline Classroom](Project_048780/README.md) |
+| 048781 | [Flask: Data Validation — Baseline Setup for Single-Host Lab](Project_048781/README.md) |
+| 048782 | [Flask: Data Validation — Automation for Single-Host Lab](Project_048782/README.md) |
+| 048783 | [Flask: Data Validation — Recovery for Single-Host Lab](Project_048783/README.md) |
+| 048784 | [Flask: Data Validation — Reporting for Single-Host Lab](Project_048784/README.md) |
+| 048785 | [Flask: Data Validation — Usability Improvement for Single-Host Lab](Project_048785/README.md) |
+| 048786 | [Flask: Data Validation — Baseline Setup for Two-Node Lab](Project_048786/README.md) |
+| 048787 | [Flask: Data Validation — Automation for Two-Node Lab](Project_048787/README.md) |
+| 048788 | [Flask: Data Validation — Recovery for Two-Node Lab](Project_048788/README.md) |
+| 048789 | [Flask: Data Validation — Reporting for Two-Node Lab](Project_048789/README.md) |
+| 048790 | [Flask: Data Validation — Usability Improvement for Two-Node Lab](Project_048790/README.md) |
+| 048791 | [Flask: Data Validation — Baseline Setup for Help Desk](Project_048791/README.md) |
+| 048792 | [Flask: Data Validation — Automation for Help Desk](Project_048792/README.md) |
+| 048793 | [Flask: Data Validation — Recovery for Help Desk](Project_048793/README.md) |
+| 048794 | [Flask: Data Validation — Reporting for Help Desk](Project_048794/README.md) |
+| 048795 | [Flask: Data Validation — Usability Improvement for Help Desk](Project_048795/README.md) |
+| 048796 | [Flask: Data Validation — Baseline Setup for Portfolio Demo](Project_048796/README.md) |
+| 048797 | [Flask: Data Validation — Automation for Portfolio Demo](Project_048797/README.md) |
+| 048798 | [Flask: Data Validation — Recovery for Portfolio Demo](Project_048798/README.md) |
+| 048799 | [Flask: Data Validation — Reporting for Portfolio Demo](Project_048799/README.md) |
+| 048800 | [Flask: Data Validation — Usability Improvement for Portfolio Demo](Project_048800/README.md) |
 
 [Back to the portfolio home](../README.md)
