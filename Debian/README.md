@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003338 | [Debian: Data Export — Recovery for Two-Node Lab](Project_003338/README.md) |
 | 003339 | [Debian: Data Export — Reporting for Two-Node Lab](Project_003339/README.md) |
 | 003340 | [Debian: Data Export — Usability Improvement for Two-Node Lab](Project_003340/README.md) |
+| 003341 | [Debian: Data Export — Baseline Setup for Help Desk](Project_003341/README.md) |
+| 003342 | [Debian: Data Export — Automation for Help Desk](Project_003342/README.md) |
+| 003343 | [Debian: Data Export — Recovery for Help Desk](Project_003343/README.md) |
+| 003344 | [Debian: Data Export — Reporting for Help Desk](Project_003344/README.md) |
+| 003345 | [Debian: Data Export — Usability Improvement for Help Desk](Project_003345/README.md) |
+| 003346 | [Debian: Data Export — Baseline Setup for Portfolio Demo](Project_003346/README.md) |
+| 003347 | [Debian: Data Export — Automation for Portfolio Demo](Project_003347/README.md) |
+| 003348 | [Debian: Data Export — Recovery for Portfolio Demo](Project_003348/README.md) |
+| 003349 | [Debian: Data Export — Reporting for Portfolio Demo](Project_003349/README.md) |
+| 003350 | [Debian: Data Export — Usability Improvement for Portfolio Demo](Project_003350/README.md) |
+| 003351 | [Debian: Dashboard — Baseline Setup for School Lab](Project_003351/README.md) |
+| 003352 | [Debian: Dashboard — Automation for School Lab](Project_003352/README.md) |
+| 003353 | [Debian: Dashboard — Recovery for School Lab](Project_003353/README.md) |
+| 003354 | [Debian: Dashboard — Reporting for School Lab](Project_003354/README.md) |
+| 003355 | [Debian: Dashboard — Usability Improvement for School Lab](Project_003355/README.md) |
+| 003356 | [Debian: Dashboard — Baseline Setup for Small Business](Project_003356/README.md) |
+| 003357 | [Debian: Dashboard — Automation for Small Business](Project_003357/README.md) |
+| 003358 | [Debian: Dashboard — Recovery for Small Business](Project_003358/README.md) |
+| 003359 | [Debian: Dashboard — Reporting for Small Business](Project_003359/README.md) |
+| 003360 | [Debian: Dashboard — Usability Improvement for Small Business](Project_003360/README.md) |
 
 [Back to the portfolio home](../README.md)
