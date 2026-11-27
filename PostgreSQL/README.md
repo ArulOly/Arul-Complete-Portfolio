@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025858 | [PostgreSQL: Automation — Recovery for Small Business](Project_025858/README.md) |
 | 025859 | [PostgreSQL: Automation — Reporting for Small Business](Project_025859/README.md) |
 | 025860 | [PostgreSQL: Automation — Usability Improvement for Small Business](Project_025860/README.md) |
+| 025861 | [PostgreSQL: Automation — Baseline Setup for Home Development](Project_025861/README.md) |
+| 025862 | [PostgreSQL: Automation — Automation for Home Development](Project_025862/README.md) |
+| 025863 | [PostgreSQL: Automation — Recovery for Home Development](Project_025863/README.md) |
+| 025864 | [PostgreSQL: Automation — Reporting for Home Development](Project_025864/README.md) |
+| 025865 | [PostgreSQL: Automation — Usability Improvement for Home Development](Project_025865/README.md) |
+| 025866 | [PostgreSQL: Automation — Baseline Setup for Public Dataset](Project_025866/README.md) |
+| 025867 | [PostgreSQL: Automation — Automation for Public Dataset](Project_025867/README.md) |
+| 025868 | [PostgreSQL: Automation — Recovery for Public Dataset](Project_025868/README.md) |
+| 025869 | [PostgreSQL: Automation — Reporting for Public Dataset](Project_025869/README.md) |
+| 025870 | [PostgreSQL: Automation — Usability Improvement for Public Dataset](Project_025870/README.md) |
+| 025871 | [PostgreSQL: Automation — Baseline Setup for Branch Office Simulator](Project_025871/README.md) |
+| 025872 | [PostgreSQL: Automation — Automation for Branch Office Simulator](Project_025872/README.md) |
+| 025873 | [PostgreSQL: Automation — Recovery for Branch Office Simulator](Project_025873/README.md) |
+| 025874 | [PostgreSQL: Automation — Reporting for Branch Office Simulator](Project_025874/README.md) |
+| 025875 | [PostgreSQL: Automation — Usability Improvement for Branch Office Simulator](Project_025875/README.md) |
+| 025876 | [PostgreSQL: Automation — Baseline Setup for Offline Classroom](Project_025876/README.md) |
+| 025877 | [PostgreSQL: Automation — Automation for Offline Classroom](Project_025877/README.md) |
+| 025878 | [PostgreSQL: Automation — Recovery for Offline Classroom](Project_025878/README.md) |
+| 025879 | [PostgreSQL: Automation — Reporting for Offline Classroom](Project_025879/README.md) |
+| 025880 | [PostgreSQL: Automation — Usability Improvement for Offline Classroom](Project_025880/README.md) |
 
 [Back to the portfolio home](../README.md)
