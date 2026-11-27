@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -104,5 +104,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019058 | [Python: Monitoring — Recovery for Small Business](Project_019058/README.md) |
 | 019059 | [Python: Monitoring — Reporting for Small Business](Project_019059/README.md) |
 | 019060 | [Python: Monitoring — Usability Improvement for Small Business](Project_019060/README.md) |
+| 019061 | [Python: Monitoring — Baseline Setup for Home Development](Project_019061/README.md) |
+| 019062 | [Python: Monitoring — Automation for Home Development](Project_019062/README.md) |
+| 019063 | [Python: Monitoring — Recovery for Home Development](Project_019063/README.md) |
+| 019064 | [Python: Monitoring — Reporting for Home Development](Project_019064/README.md) |
+| 019065 | [Python: Monitoring — Usability Improvement for Home Development](Project_019065/README.md) |
+| 019066 | [Python: Monitoring — Baseline Setup for Public Dataset](Project_019066/README.md) |
+| 019067 | [Python: Monitoring — Automation for Public Dataset](Project_019067/README.md) |
+| 019068 | [Python: Monitoring — Recovery for Public Dataset](Project_019068/README.md) |
+| 019069 | [Python: Monitoring — Reporting for Public Dataset](Project_019069/README.md) |
+| 019070 | [Python: Monitoring — Usability Improvement for Public Dataset](Project_019070/README.md) |
+| 019071 | [Python: Monitoring — Baseline Setup for Branch Office Simulator](Project_019071/README.md) |
+| 019072 | [Python: Monitoring — Automation for Branch Office Simulator](Project_019072/README.md) |
+| 019073 | [Python: Monitoring — Recovery for Branch Office Simulator](Project_019073/README.md) |
+| 019074 | [Python: Monitoring — Reporting for Branch Office Simulator](Project_019074/README.md) |
+| 019075 | [Python: Monitoring — Usability Improvement for Branch Office Simulator](Project_019075/README.md) |
+| 019076 | [Python: Monitoring — Baseline Setup for Offline Classroom](Project_019076/README.md) |
+| 019077 | [Python: Monitoring — Automation for Offline Classroom](Project_019077/README.md) |
+| 019078 | [Python: Monitoring — Recovery for Offline Classroom](Project_019078/README.md) |
+| 019079 | [Python: Monitoring — Reporting for Offline Classroom](Project_019079/README.md) |
+| 019080 | [Python: Monitoring — Usability Improvement for Offline Classroom](Project_019080/README.md) |
 
 [Back to the portfolio home](../README.md)
