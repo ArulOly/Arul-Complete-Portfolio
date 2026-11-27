@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024718 | [Node.js: Error Handling — Recovery for Public Dataset](Project_024718/README.md) |
 | 024719 | [Node.js: Error Handling — Reporting for Public Dataset](Project_024719/README.md) |
 | 024720 | [Node.js: Error Handling — Usability Improvement for Public Dataset](Project_024720/README.md) |
+| 024721 | [Node.js: Error Handling — Baseline Setup for Branch Office Simulator](Project_024721/README.md) |
+| 024722 | [Node.js: Error Handling — Automation for Branch Office Simulator](Project_024722/README.md) |
+| 024723 | [Node.js: Error Handling — Recovery for Branch Office Simulator](Project_024723/README.md) |
+| 024724 | [Node.js: Error Handling — Reporting for Branch Office Simulator](Project_024724/README.md) |
+| 024725 | [Node.js: Error Handling — Usability Improvement for Branch Office Simulator](Project_024725/README.md) |
+| 024726 | [Node.js: Error Handling — Baseline Setup for Offline Classroom](Project_024726/README.md) |
+| 024727 | [Node.js: Error Handling — Automation for Offline Classroom](Project_024727/README.md) |
+| 024728 | [Node.js: Error Handling — Recovery for Offline Classroom](Project_024728/README.md) |
+| 024729 | [Node.js: Error Handling — Reporting for Offline Classroom](Project_024729/README.md) |
+| 024730 | [Node.js: Error Handling — Usability Improvement for Offline Classroom](Project_024730/README.md) |
+| 024731 | [Node.js: Error Handling — Baseline Setup for Single-Host Lab](Project_024731/README.md) |
+| 024732 | [Node.js: Error Handling — Automation for Single-Host Lab](Project_024732/README.md) |
+| 024733 | [Node.js: Error Handling — Recovery for Single-Host Lab](Project_024733/README.md) |
+| 024734 | [Node.js: Error Handling — Reporting for Single-Host Lab](Project_024734/README.md) |
+| 024735 | [Node.js: Error Handling — Usability Improvement for Single-Host Lab](Project_024735/README.md) |
+| 024736 | [Node.js: Error Handling — Baseline Setup for Two-Node Lab](Project_024736/README.md) |
+| 024737 | [Node.js: Error Handling — Automation for Two-Node Lab](Project_024737/README.md) |
+| 024738 | [Node.js: Error Handling — Recovery for Two-Node Lab](Project_024738/README.md) |
+| 024739 | [Node.js: Error Handling — Reporting for Two-Node Lab](Project_024739/README.md) |
+| 024740 | [Node.js: Error Handling — Usability Improvement for Two-Node Lab](Project_024740/README.md) |
 
 [Back to the portfolio home](../README.md)
