@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045398 | [Redis: Dashboard — Recovery for Portfolio Demo](Project_045398/README.md) |
 | 045399 | [Redis: Dashboard — Reporting for Portfolio Demo](Project_045399/README.md) |
 | 045400 | [Redis: Dashboard — Usability Improvement for Portfolio Demo](Project_045400/README.md) |
+| 045401 | [Redis: Alerting — Baseline Setup for School Lab](Project_045401/README.md) |
+| 045402 | [Redis: Alerting — Automation for School Lab](Project_045402/README.md) |
+| 045403 | [Redis: Alerting — Recovery for School Lab](Project_045403/README.md) |
+| 045404 | [Redis: Alerting — Reporting for School Lab](Project_045404/README.md) |
+| 045405 | [Redis: Alerting — Usability Improvement for School Lab](Project_045405/README.md) |
+| 045406 | [Redis: Alerting — Baseline Setup for Small Business](Project_045406/README.md) |
+| 045407 | [Redis: Alerting — Automation for Small Business](Project_045407/README.md) |
+| 045408 | [Redis: Alerting — Recovery for Small Business](Project_045408/README.md) |
+| 045409 | [Redis: Alerting — Reporting for Small Business](Project_045409/README.md) |
+| 045410 | [Redis: Alerting — Usability Improvement for Small Business](Project_045410/README.md) |
+| 045411 | [Redis: Alerting — Baseline Setup for Home Development](Project_045411/README.md) |
+| 045412 | [Redis: Alerting — Automation for Home Development](Project_045412/README.md) |
+| 045413 | [Redis: Alerting — Recovery for Home Development](Project_045413/README.md) |
+| 045414 | [Redis: Alerting — Reporting for Home Development](Project_045414/README.md) |
+| 045415 | [Redis: Alerting — Usability Improvement for Home Development](Project_045415/README.md) |
+| 045416 | [Redis: Alerting — Baseline Setup for Public Dataset](Project_045416/README.md) |
+| 045417 | [Redis: Alerting — Automation for Public Dataset](Project_045417/README.md) |
+| 045418 | [Redis: Alerting — Recovery for Public Dataset](Project_045418/README.md) |
+| 045419 | [Redis: Alerting — Reporting for Public Dataset](Project_045419/README.md) |
+| 045420 | [Redis: Alerting — Usability Improvement for Public Dataset](Project_045420/README.md) |
 
 [Back to the portfolio home](../README.md)
