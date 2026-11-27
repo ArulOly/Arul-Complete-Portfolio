@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005398 | [FreeBSD: Dashboard — Recovery for Portfolio Demo](Project_005398/README.md) |
 | 005399 | [FreeBSD: Dashboard — Reporting for Portfolio Demo](Project_005399/README.md) |
 | 005400 | [FreeBSD: Dashboard — Usability Improvement for Portfolio Demo](Project_005400/README.md) |
+| 005401 | [FreeBSD: Alerting — Baseline Setup for School Lab](Project_005401/README.md) |
+| 005402 | [FreeBSD: Alerting — Automation for School Lab](Project_005402/README.md) |
+| 005403 | [FreeBSD: Alerting — Recovery for School Lab](Project_005403/README.md) |
+| 005404 | [FreeBSD: Alerting — Reporting for School Lab](Project_005404/README.md) |
+| 005405 | [FreeBSD: Alerting — Usability Improvement for School Lab](Project_005405/README.md) |
+| 005406 | [FreeBSD: Alerting — Baseline Setup for Small Business](Project_005406/README.md) |
+| 005407 | [FreeBSD: Alerting — Automation for Small Business](Project_005407/README.md) |
+| 005408 | [FreeBSD: Alerting — Recovery for Small Business](Project_005408/README.md) |
+| 005409 | [FreeBSD: Alerting — Reporting for Small Business](Project_005409/README.md) |
+| 005410 | [FreeBSD: Alerting — Usability Improvement for Small Business](Project_005410/README.md) |
+| 005411 | [FreeBSD: Alerting — Baseline Setup for Home Development](Project_005411/README.md) |
+| 005412 | [FreeBSD: Alerting — Automation for Home Development](Project_005412/README.md) |
+| 005413 | [FreeBSD: Alerting — Recovery for Home Development](Project_005413/README.md) |
+| 005414 | [FreeBSD: Alerting — Reporting for Home Development](Project_005414/README.md) |
+| 005415 | [FreeBSD: Alerting — Usability Improvement for Home Development](Project_005415/README.md) |
+| 005416 | [FreeBSD: Alerting — Baseline Setup for Public Dataset](Project_005416/README.md) |
+| 005417 | [FreeBSD: Alerting — Automation for Public Dataset](Project_005417/README.md) |
+| 005418 | [FreeBSD: Alerting — Recovery for Public Dataset](Project_005418/README.md) |
+| 005419 | [FreeBSD: Alerting — Reporting for Public Dataset](Project_005419/README.md) |
+| 005420 | [FreeBSD: Alerting — Usability Improvement for Public Dataset](Project_005420/README.md) |
 
 [Back to the portfolio home](../README.md)
