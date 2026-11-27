@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002038 | [Ubuntu: Inventory — Recovery for Two-Node Lab](Project_002038/README.md) |
 | 002039 | [Ubuntu: Inventory — Reporting for Two-Node Lab](Project_002039/README.md) |
 | 002040 | [Ubuntu: Inventory — Usability Improvement for Two-Node Lab](Project_002040/README.md) |
+| 002041 | [Ubuntu: Inventory — Baseline Setup for Help Desk](Project_002041/README.md) |
+| 002042 | [Ubuntu: Inventory — Automation for Help Desk](Project_002042/README.md) |
+| 002043 | [Ubuntu: Inventory — Recovery for Help Desk](Project_002043/README.md) |
+| 002044 | [Ubuntu: Inventory — Reporting for Help Desk](Project_002044/README.md) |
+| 002045 | [Ubuntu: Inventory — Usability Improvement for Help Desk](Project_002045/README.md) |
+| 002046 | [Ubuntu: Inventory — Baseline Setup for Portfolio Demo](Project_002046/README.md) |
+| 002047 | [Ubuntu: Inventory — Automation for Portfolio Demo](Project_002047/README.md) |
+| 002048 | [Ubuntu: Inventory — Recovery for Portfolio Demo](Project_002048/README.md) |
+| 002049 | [Ubuntu: Inventory — Reporting for Portfolio Demo](Project_002049/README.md) |
+| 002050 | [Ubuntu: Inventory — Usability Improvement for Portfolio Demo](Project_002050/README.md) |
+| 002051 | [Ubuntu: Monitoring — Baseline Setup for School Lab](Project_002051/README.md) |
+| 002052 | [Ubuntu: Monitoring — Automation for School Lab](Project_002052/README.md) |
+| 002053 | [Ubuntu: Monitoring — Recovery for School Lab](Project_002053/README.md) |
+| 002054 | [Ubuntu: Monitoring — Reporting for School Lab](Project_002054/README.md) |
+| 002055 | [Ubuntu: Monitoring — Usability Improvement for School Lab](Project_002055/README.md) |
+| 002056 | [Ubuntu: Monitoring — Baseline Setup for Small Business](Project_002056/README.md) |
+| 002057 | [Ubuntu: Monitoring — Automation for Small Business](Project_002057/README.md) |
+| 002058 | [Ubuntu: Monitoring — Recovery for Small Business](Project_002058/README.md) |
+| 002059 | [Ubuntu: Monitoring — Reporting for Small Business](Project_002059/README.md) |
+| 002060 | [Ubuntu: Monitoring — Usability Improvement for Small Business](Project_002060/README.md) |
 
 [Back to the portfolio home](../README.md)
