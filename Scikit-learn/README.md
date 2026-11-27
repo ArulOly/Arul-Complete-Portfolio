@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034218 | [Scikit-learn: Backup Verification — Recovery for Public Dataset](Project_034218/README.md) |
 | 034219 | [Scikit-learn: Backup Verification — Reporting for Public Dataset](Project_034219/README.md) |
 | 034220 | [Scikit-learn: Backup Verification — Usability Improvement for Public Dataset](Project_034220/README.md) |
+| 034221 | [Scikit-learn: Backup Verification — Baseline Setup for Branch Office Simulator](Project_034221/README.md) |
+| 034222 | [Scikit-learn: Backup Verification — Automation for Branch Office Simulator](Project_034222/README.md) |
+| 034223 | [Scikit-learn: Backup Verification — Recovery for Branch Office Simulator](Project_034223/README.md) |
+| 034224 | [Scikit-learn: Backup Verification — Reporting for Branch Office Simulator](Project_034224/README.md) |
+| 034225 | [Scikit-learn: Backup Verification — Usability Improvement for Branch Office Simulator](Project_034225/README.md) |
+| 034226 | [Scikit-learn: Backup Verification — Baseline Setup for Offline Classroom](Project_034226/README.md) |
+| 034227 | [Scikit-learn: Backup Verification — Automation for Offline Classroom](Project_034227/README.md) |
+| 034228 | [Scikit-learn: Backup Verification — Recovery for Offline Classroom](Project_034228/README.md) |
+| 034229 | [Scikit-learn: Backup Verification — Reporting for Offline Classroom](Project_034229/README.md) |
+| 034230 | [Scikit-learn: Backup Verification — Usability Improvement for Offline Classroom](Project_034230/README.md) |
+| 034231 | [Scikit-learn: Backup Verification — Baseline Setup for Single-Host Lab](Project_034231/README.md) |
+| 034232 | [Scikit-learn: Backup Verification — Automation for Single-Host Lab](Project_034232/README.md) |
+| 034233 | [Scikit-learn: Backup Verification — Recovery for Single-Host Lab](Project_034233/README.md) |
+| 034234 | [Scikit-learn: Backup Verification — Reporting for Single-Host Lab](Project_034234/README.md) |
+| 034235 | [Scikit-learn: Backup Verification — Usability Improvement for Single-Host Lab](Project_034235/README.md) |
+| 034236 | [Scikit-learn: Backup Verification — Baseline Setup for Two-Node Lab](Project_034236/README.md) |
+| 034237 | [Scikit-learn: Backup Verification — Automation for Two-Node Lab](Project_034237/README.md) |
+| 034238 | [Scikit-learn: Backup Verification — Recovery for Two-Node Lab](Project_034238/README.md) |
+| 034239 | [Scikit-learn: Backup Verification — Reporting for Two-Node Lab](Project_034239/README.md) |
+| 034240 | [Scikit-learn: Backup Verification — Usability Improvement for Two-Node Lab](Project_034240/README.md) |
 
 [Back to the portfolio home](../README.md)
