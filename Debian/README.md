@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003798 | [Debian: Data Validation — Recovery for Portfolio Demo](Project_003798/README.md) |
 | 003799 | [Debian: Data Validation — Reporting for Portfolio Demo](Project_003799/README.md) |
 | 003800 | [Debian: Data Validation — Usability Improvement for Portfolio Demo](Project_003800/README.md) |
+| 003801 | [Debian: Documentation Generation — Baseline Setup for School Lab](Project_003801/README.md) |
+| 003802 | [Debian: Documentation Generation — Automation for School Lab](Project_003802/README.md) |
+| 003803 | [Debian: Documentation Generation — Recovery for School Lab](Project_003803/README.md) |
+| 003804 | [Debian: Documentation Generation — Reporting for School Lab](Project_003804/README.md) |
+| 003805 | [Debian: Documentation Generation — Usability Improvement for School Lab](Project_003805/README.md) |
+| 003806 | [Debian: Documentation Generation — Baseline Setup for Small Business](Project_003806/README.md) |
+| 003807 | [Debian: Documentation Generation — Automation for Small Business](Project_003807/README.md) |
+| 003808 | [Debian: Documentation Generation — Recovery for Small Business](Project_003808/README.md) |
+| 003809 | [Debian: Documentation Generation — Reporting for Small Business](Project_003809/README.md) |
+| 003810 | [Debian: Documentation Generation — Usability Improvement for Small Business](Project_003810/README.md) |
+| 003811 | [Debian: Documentation Generation — Baseline Setup for Home Development](Project_003811/README.md) |
+| 003812 | [Debian: Documentation Generation — Automation for Home Development](Project_003812/README.md) |
+| 003813 | [Debian: Documentation Generation — Recovery for Home Development](Project_003813/README.md) |
+| 003814 | [Debian: Documentation Generation — Reporting for Home Development](Project_003814/README.md) |
+| 003815 | [Debian: Documentation Generation — Usability Improvement for Home Development](Project_003815/README.md) |
+| 003816 | [Debian: Documentation Generation — Baseline Setup for Public Dataset](Project_003816/README.md) |
+| 003817 | [Debian: Documentation Generation — Automation for Public Dataset](Project_003817/README.md) |
+| 003818 | [Debian: Documentation Generation — Recovery for Public Dataset](Project_003818/README.md) |
+| 003819 | [Debian: Documentation Generation — Reporting for Public Dataset](Project_003819/README.md) |
+| 003820 | [Debian: Documentation Generation — Usability Improvement for Public Dataset](Project_003820/README.md) |
 
 [Back to the portfolio home](../README.md)
