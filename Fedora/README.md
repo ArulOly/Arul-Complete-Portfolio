@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004618 | [Fedora: Service Check — Recovery for Public Dataset](Project_004618/README.md) |
 | 004619 | [Fedora: Service Check — Reporting for Public Dataset](Project_004619/README.md) |
 | 004620 | [Fedora: Service Check — Usability Improvement for Public Dataset](Project_004620/README.md) |
+| 004621 | [Fedora: Service Check — Baseline Setup for Branch Office Simulator](Project_004621/README.md) |
+| 004622 | [Fedora: Service Check — Automation for Branch Office Simulator](Project_004622/README.md) |
+| 004623 | [Fedora: Service Check — Recovery for Branch Office Simulator](Project_004623/README.md) |
+| 004624 | [Fedora: Service Check — Reporting for Branch Office Simulator](Project_004624/README.md) |
+| 004625 | [Fedora: Service Check — Usability Improvement for Branch Office Simulator](Project_004625/README.md) |
+| 004626 | [Fedora: Service Check — Baseline Setup for Offline Classroom](Project_004626/README.md) |
+| 004627 | [Fedora: Service Check — Automation for Offline Classroom](Project_004627/README.md) |
+| 004628 | [Fedora: Service Check — Recovery for Offline Classroom](Project_004628/README.md) |
+| 004629 | [Fedora: Service Check — Reporting for Offline Classroom](Project_004629/README.md) |
+| 004630 | [Fedora: Service Check — Usability Improvement for Offline Classroom](Project_004630/README.md) |
+| 004631 | [Fedora: Service Check — Baseline Setup for Single-Host Lab](Project_004631/README.md) |
+| 004632 | [Fedora: Service Check — Automation for Single-Host Lab](Project_004632/README.md) |
+| 004633 | [Fedora: Service Check — Recovery for Single-Host Lab](Project_004633/README.md) |
+| 004634 | [Fedora: Service Check — Reporting for Single-Host Lab](Project_004634/README.md) |
+| 004635 | [Fedora: Service Check — Usability Improvement for Single-Host Lab](Project_004635/README.md) |
+| 004636 | [Fedora: Service Check — Baseline Setup for Two-Node Lab](Project_004636/README.md) |
+| 004637 | [Fedora: Service Check — Automation for Two-Node Lab](Project_004637/README.md) |
+| 004638 | [Fedora: Service Check — Recovery for Two-Node Lab](Project_004638/README.md) |
+| 004639 | [Fedora: Service Check — Reporting for Two-Node Lab](Project_004639/README.md) |
+| 004640 | [Fedora: Service Check — Usability Improvement for Two-Node Lab](Project_004640/README.md) |
 
 [Back to the portfolio home](../README.md)
