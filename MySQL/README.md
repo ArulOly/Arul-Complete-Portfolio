@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026418 | [MySQL: Alerting — Recovery for Public Dataset](Project_026418/README.md) |
 | 026419 | [MySQL: Alerting — Reporting for Public Dataset](Project_026419/README.md) |
 | 026420 | [MySQL: Alerting — Usability Improvement for Public Dataset](Project_026420/README.md) |
+| 026421 | [MySQL: Alerting — Baseline Setup for Branch Office Simulator](Project_026421/README.md) |
+| 026422 | [MySQL: Alerting — Automation for Branch Office Simulator](Project_026422/README.md) |
+| 026423 | [MySQL: Alerting — Recovery for Branch Office Simulator](Project_026423/README.md) |
+| 026424 | [MySQL: Alerting — Reporting for Branch Office Simulator](Project_026424/README.md) |
+| 026425 | [MySQL: Alerting — Usability Improvement for Branch Office Simulator](Project_026425/README.md) |
+| 026426 | [MySQL: Alerting — Baseline Setup for Offline Classroom](Project_026426/README.md) |
+| 026427 | [MySQL: Alerting — Automation for Offline Classroom](Project_026427/README.md) |
+| 026428 | [MySQL: Alerting — Recovery for Offline Classroom](Project_026428/README.md) |
+| 026429 | [MySQL: Alerting — Reporting for Offline Classroom](Project_026429/README.md) |
+| 026430 | [MySQL: Alerting — Usability Improvement for Offline Classroom](Project_026430/README.md) |
+| 026431 | [MySQL: Alerting — Baseline Setup for Single-Host Lab](Project_026431/README.md) |
+| 026432 | [MySQL: Alerting — Automation for Single-Host Lab](Project_026432/README.md) |
+| 026433 | [MySQL: Alerting — Recovery for Single-Host Lab](Project_026433/README.md) |
+| 026434 | [MySQL: Alerting — Reporting for Single-Host Lab](Project_026434/README.md) |
+| 026435 | [MySQL: Alerting — Usability Improvement for Single-Host Lab](Project_026435/README.md) |
+| 026436 | [MySQL: Alerting — Baseline Setup for Two-Node Lab](Project_026436/README.md) |
+| 026437 | [MySQL: Alerting — Automation for Two-Node Lab](Project_026437/README.md) |
+| 026438 | [MySQL: Alerting — Recovery for Two-Node Lab](Project_026438/README.md) |
+| 026439 | [MySQL: Alerting — Reporting for Two-Node Lab](Project_026439/README.md) |
+| 026440 | [MySQL: Alerting — Usability Improvement for Two-Node Lab](Project_026440/README.md) |
 
 [Back to the portfolio home](../README.md)
