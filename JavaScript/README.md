@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020338 | [JavaScript: Data Export — Recovery for Two-Node Lab](Project_020338/README.md) |
 | 020339 | [JavaScript: Data Export — Reporting for Two-Node Lab](Project_020339/README.md) |
 | 020340 | [JavaScript: Data Export — Usability Improvement for Two-Node Lab](Project_020340/README.md) |
+| 020341 | [JavaScript: Data Export — Baseline Setup for Help Desk](Project_020341/README.md) |
+| 020342 | [JavaScript: Data Export — Automation for Help Desk](Project_020342/README.md) |
+| 020343 | [JavaScript: Data Export — Recovery for Help Desk](Project_020343/README.md) |
+| 020344 | [JavaScript: Data Export — Reporting for Help Desk](Project_020344/README.md) |
+| 020345 | [JavaScript: Data Export — Usability Improvement for Help Desk](Project_020345/README.md) |
+| 020346 | [JavaScript: Data Export — Baseline Setup for Portfolio Demo](Project_020346/README.md) |
+| 020347 | [JavaScript: Data Export — Automation for Portfolio Demo](Project_020347/README.md) |
+| 020348 | [JavaScript: Data Export — Recovery for Portfolio Demo](Project_020348/README.md) |
+| 020349 | [JavaScript: Data Export — Reporting for Portfolio Demo](Project_020349/README.md) |
+| 020350 | [JavaScript: Data Export — Usability Improvement for Portfolio Demo](Project_020350/README.md) |
+| 020351 | [JavaScript: Dashboard — Baseline Setup for School Lab](Project_020351/README.md) |
+| 020352 | [JavaScript: Dashboard — Automation for School Lab](Project_020352/README.md) |
+| 020353 | [JavaScript: Dashboard — Recovery for School Lab](Project_020353/README.md) |
+| 020354 | [JavaScript: Dashboard — Reporting for School Lab](Project_020354/README.md) |
+| 020355 | [JavaScript: Dashboard — Usability Improvement for School Lab](Project_020355/README.md) |
+| 020356 | [JavaScript: Dashboard — Baseline Setup for Small Business](Project_020356/README.md) |
+| 020357 | [JavaScript: Dashboard — Automation for Small Business](Project_020357/README.md) |
+| 020358 | [JavaScript: Dashboard — Recovery for Small Business](Project_020358/README.md) |
+| 020359 | [JavaScript: Dashboard — Reporting for Small Business](Project_020359/README.md) |
+| 020360 | [JavaScript: Dashboard — Usability Improvement for Small Business](Project_020360/README.md) |
 
 [Back to the portfolio home](../README.md)
