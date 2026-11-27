@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023178 | [HTML CSS: Log Analysis — Recovery for Offline Classroom](Project_023178/README.md) |
 | 023179 | [HTML CSS: Log Analysis — Reporting for Offline Classroom](Project_023179/README.md) |
 | 023180 | [HTML CSS: Log Analysis — Usability Improvement for Offline Classroom](Project_023180/README.md) |
+| 023181 | [HTML CSS: Log Analysis — Baseline Setup for Single-Host Lab](Project_023181/README.md) |
+| 023182 | [HTML CSS: Log Analysis — Automation for Single-Host Lab](Project_023182/README.md) |
+| 023183 | [HTML CSS: Log Analysis — Recovery for Single-Host Lab](Project_023183/README.md) |
+| 023184 | [HTML CSS: Log Analysis — Reporting for Single-Host Lab](Project_023184/README.md) |
+| 023185 | [HTML CSS: Log Analysis — Usability Improvement for Single-Host Lab](Project_023185/README.md) |
+| 023186 | [HTML CSS: Log Analysis — Baseline Setup for Two-Node Lab](Project_023186/README.md) |
+| 023187 | [HTML CSS: Log Analysis — Automation for Two-Node Lab](Project_023187/README.md) |
+| 023188 | [HTML CSS: Log Analysis — Recovery for Two-Node Lab](Project_023188/README.md) |
+| 023189 | [HTML CSS: Log Analysis — Reporting for Two-Node Lab](Project_023189/README.md) |
+| 023190 | [HTML CSS: Log Analysis — Usability Improvement for Two-Node Lab](Project_023190/README.md) |
+| 023191 | [HTML CSS: Log Analysis — Baseline Setup for Help Desk](Project_023191/README.md) |
+| 023192 | [HTML CSS: Log Analysis — Automation for Help Desk](Project_023192/README.md) |
+| 023193 | [HTML CSS: Log Analysis — Recovery for Help Desk](Project_023193/README.md) |
+| 023194 | [HTML CSS: Log Analysis — Reporting for Help Desk](Project_023194/README.md) |
+| 023195 | [HTML CSS: Log Analysis — Usability Improvement for Help Desk](Project_023195/README.md) |
+| 023196 | [HTML CSS: Log Analysis — Baseline Setup for Portfolio Demo](Project_023196/README.md) |
+| 023197 | [HTML CSS: Log Analysis — Automation for Portfolio Demo](Project_023197/README.md) |
+| 023198 | [HTML CSS: Log Analysis — Recovery for Portfolio Demo](Project_023198/README.md) |
+| 023199 | [HTML CSS: Log Analysis — Reporting for Portfolio Demo](Project_023199/README.md) |
+| 023200 | [HTML CSS: Log Analysis — Usability Improvement for Portfolio Demo](Project_023200/README.md) |
 
 [Back to the portfolio home](../README.md)
