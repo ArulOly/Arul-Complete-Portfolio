@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028798 | [SQLite: Data Validation — Recovery for Portfolio Demo](Project_028798/README.md) |
 | 028799 | [SQLite: Data Validation — Reporting for Portfolio Demo](Project_028799/README.md) |
 | 028800 | [SQLite: Data Validation — Usability Improvement for Portfolio Demo](Project_028800/README.md) |
+| 028801 | [SQLite: Documentation Generation — Baseline Setup for School Lab](Project_028801/README.md) |
+| 028802 | [SQLite: Documentation Generation — Automation for School Lab](Project_028802/README.md) |
+| 028803 | [SQLite: Documentation Generation — Recovery for School Lab](Project_028803/README.md) |
+| 028804 | [SQLite: Documentation Generation — Reporting for School Lab](Project_028804/README.md) |
+| 028805 | [SQLite: Documentation Generation — Usability Improvement for School Lab](Project_028805/README.md) |
+| 028806 | [SQLite: Documentation Generation — Baseline Setup for Small Business](Project_028806/README.md) |
+| 028807 | [SQLite: Documentation Generation — Automation for Small Business](Project_028807/README.md) |
+| 028808 | [SQLite: Documentation Generation — Recovery for Small Business](Project_028808/README.md) |
+| 028809 | [SQLite: Documentation Generation — Reporting for Small Business](Project_028809/README.md) |
+| 028810 | [SQLite: Documentation Generation — Usability Improvement for Small Business](Project_028810/README.md) |
+| 028811 | [SQLite: Documentation Generation — Baseline Setup for Home Development](Project_028811/README.md) |
+| 028812 | [SQLite: Documentation Generation — Automation for Home Development](Project_028812/README.md) |
+| 028813 | [SQLite: Documentation Generation — Recovery for Home Development](Project_028813/README.md) |
+| 028814 | [SQLite: Documentation Generation — Reporting for Home Development](Project_028814/README.md) |
+| 028815 | [SQLite: Documentation Generation — Usability Improvement for Home Development](Project_028815/README.md) |
+| 028816 | [SQLite: Documentation Generation — Baseline Setup for Public Dataset](Project_028816/README.md) |
+| 028817 | [SQLite: Documentation Generation — Automation for Public Dataset](Project_028817/README.md) |
+| 028818 | [SQLite: Documentation Generation — Recovery for Public Dataset](Project_028818/README.md) |
+| 028819 | [SQLite: Documentation Generation — Reporting for Public Dataset](Project_028819/README.md) |
+| 028820 | [SQLite: Documentation Generation — Usability Improvement for Public Dataset](Project_028820/README.md) |
 
 [Back to the portfolio home](../README.md)
