@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028438 | [SQLite: Alerting — Recovery for Two-Node Lab](Project_028438/README.md) |
 | 028439 | [SQLite: Alerting — Reporting for Two-Node Lab](Project_028439/README.md) |
 | 028440 | [SQLite: Alerting — Usability Improvement for Two-Node Lab](Project_028440/README.md) |
+| 028441 | [SQLite: Alerting — Baseline Setup for Help Desk](Project_028441/README.md) |
+| 028442 | [SQLite: Alerting — Automation for Help Desk](Project_028442/README.md) |
+| 028443 | [SQLite: Alerting — Recovery for Help Desk](Project_028443/README.md) |
+| 028444 | [SQLite: Alerting — Reporting for Help Desk](Project_028444/README.md) |
+| 028445 | [SQLite: Alerting — Usability Improvement for Help Desk](Project_028445/README.md) |
+| 028446 | [SQLite: Alerting — Baseline Setup for Portfolio Demo](Project_028446/README.md) |
+| 028447 | [SQLite: Alerting — Automation for Portfolio Demo](Project_028447/README.md) |
+| 028448 | [SQLite: Alerting — Recovery for Portfolio Demo](Project_028448/README.md) |
+| 028449 | [SQLite: Alerting — Reporting for Portfolio Demo](Project_028449/README.md) |
+| 028450 | [SQLite: Alerting — Usability Improvement for Portfolio Demo](Project_028450/README.md) |
+| 028451 | [SQLite: Scheduled Reporting — Baseline Setup for School Lab](Project_028451/README.md) |
+| 028452 | [SQLite: Scheduled Reporting — Automation for School Lab](Project_028452/README.md) |
+| 028453 | [SQLite: Scheduled Reporting — Recovery for School Lab](Project_028453/README.md) |
+| 028454 | [SQLite: Scheduled Reporting — Reporting for School Lab](Project_028454/README.md) |
+| 028455 | [SQLite: Scheduled Reporting — Usability Improvement for School Lab](Project_028455/README.md) |
+| 028456 | [SQLite: Scheduled Reporting — Baseline Setup for Small Business](Project_028456/README.md) |
+| 028457 | [SQLite: Scheduled Reporting — Automation for Small Business](Project_028457/README.md) |
+| 028458 | [SQLite: Scheduled Reporting — Recovery for Small Business](Project_028458/README.md) |
+| 028459 | [SQLite: Scheduled Reporting — Reporting for Small Business](Project_028459/README.md) |
+| 028460 | [SQLite: Scheduled Reporting — Usability Improvement for Small Business](Project_028460/README.md) |
 
 [Back to the portfolio home](../README.md)
