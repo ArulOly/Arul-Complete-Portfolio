@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028138 | [SQLite: Audit — Recovery for Two-Node Lab](Project_028138/README.md) |
 | 028139 | [SQLite: Audit — Reporting for Two-Node Lab](Project_028139/README.md) |
 | 028140 | [SQLite: Audit — Usability Improvement for Two-Node Lab](Project_028140/README.md) |
+| 028141 | [SQLite: Audit — Baseline Setup for Help Desk](Project_028141/README.md) |
+| 028142 | [SQLite: Audit — Automation for Help Desk](Project_028142/README.md) |
+| 028143 | [SQLite: Audit — Recovery for Help Desk](Project_028143/README.md) |
+| 028144 | [SQLite: Audit — Reporting for Help Desk](Project_028144/README.md) |
+| 028145 | [SQLite: Audit — Usability Improvement for Help Desk](Project_028145/README.md) |
+| 028146 | [SQLite: Audit — Baseline Setup for Portfolio Demo](Project_028146/README.md) |
+| 028147 | [SQLite: Audit — Automation for Portfolio Demo](Project_028147/README.md) |
+| 028148 | [SQLite: Audit — Recovery for Portfolio Demo](Project_028148/README.md) |
+| 028149 | [SQLite: Audit — Reporting for Portfolio Demo](Project_028149/README.md) |
+| 028150 | [SQLite: Audit — Usability Improvement for Portfolio Demo](Project_028150/README.md) |
+| 028151 | [SQLite: Log Analysis — Baseline Setup for School Lab](Project_028151/README.md) |
+| 028152 | [SQLite: Log Analysis — Automation for School Lab](Project_028152/README.md) |
+| 028153 | [SQLite: Log Analysis — Recovery for School Lab](Project_028153/README.md) |
+| 028154 | [SQLite: Log Analysis — Reporting for School Lab](Project_028154/README.md) |
+| 028155 | [SQLite: Log Analysis — Usability Improvement for School Lab](Project_028155/README.md) |
+| 028156 | [SQLite: Log Analysis — Baseline Setup for Small Business](Project_028156/README.md) |
+| 028157 | [SQLite: Log Analysis — Automation for Small Business](Project_028157/README.md) |
+| 028158 | [SQLite: Log Analysis — Recovery for Small Business](Project_028158/README.md) |
+| 028159 | [SQLite: Log Analysis — Reporting for Small Business](Project_028159/README.md) |
+| 028160 | [SQLite: Log Analysis — Usability Improvement for Small Business](Project_028160/README.md) |
 
 [Back to the portfolio home](../README.md)
