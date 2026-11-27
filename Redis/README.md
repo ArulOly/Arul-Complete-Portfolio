@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045518 | [Redis: Access Review — Recovery for Public Dataset](Project_045518/README.md) |
 | 045519 | [Redis: Access Review — Reporting for Public Dataset](Project_045519/README.md) |
 | 045520 | [Redis: Access Review — Usability Improvement for Public Dataset](Project_045520/README.md) |
+| 045521 | [Redis: Access Review — Baseline Setup for Branch Office Simulator](Project_045521/README.md) |
+| 045522 | [Redis: Access Review — Automation for Branch Office Simulator](Project_045522/README.md) |
+| 045523 | [Redis: Access Review — Recovery for Branch Office Simulator](Project_045523/README.md) |
+| 045524 | [Redis: Access Review — Reporting for Branch Office Simulator](Project_045524/README.md) |
+| 045525 | [Redis: Access Review — Usability Improvement for Branch Office Simulator](Project_045525/README.md) |
+| 045526 | [Redis: Access Review — Baseline Setup for Offline Classroom](Project_045526/README.md) |
+| 045527 | [Redis: Access Review — Automation for Offline Classroom](Project_045527/README.md) |
+| 045528 | [Redis: Access Review — Recovery for Offline Classroom](Project_045528/README.md) |
+| 045529 | [Redis: Access Review — Reporting for Offline Classroom](Project_045529/README.md) |
+| 045530 | [Redis: Access Review — Usability Improvement for Offline Classroom](Project_045530/README.md) |
+| 045531 | [Redis: Access Review — Baseline Setup for Single-Host Lab](Project_045531/README.md) |
+| 045532 | [Redis: Access Review — Automation for Single-Host Lab](Project_045532/README.md) |
+| 045533 | [Redis: Access Review — Recovery for Single-Host Lab](Project_045533/README.md) |
+| 045534 | [Redis: Access Review — Reporting for Single-Host Lab](Project_045534/README.md) |
+| 045535 | [Redis: Access Review — Usability Improvement for Single-Host Lab](Project_045535/README.md) |
+| 045536 | [Redis: Access Review — Baseline Setup for Two-Node Lab](Project_045536/README.md) |
+| 045537 | [Redis: Access Review — Automation for Two-Node Lab](Project_045537/README.md) |
+| 045538 | [Redis: Access Review — Recovery for Two-Node Lab](Project_045538/README.md) |
+| 045539 | [Redis: Access Review — Reporting for Two-Node Lab](Project_045539/README.md) |
+| 045540 | [Redis: Access Review — Usability Improvement for Two-Node Lab](Project_045540/README.md) |
 
 [Back to the portfolio home](../README.md)
