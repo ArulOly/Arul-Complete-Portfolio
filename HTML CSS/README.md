@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023418 | [HTML CSS: Alerting — Recovery for Public Dataset](Project_023418/README.md) |
 | 023419 | [HTML CSS: Alerting — Reporting for Public Dataset](Project_023419/README.md) |
 | 023420 | [HTML CSS: Alerting — Usability Improvement for Public Dataset](Project_023420/README.md) |
+| 023421 | [HTML CSS: Alerting — Baseline Setup for Branch Office Simulator](Project_023421/README.md) |
+| 023422 | [HTML CSS: Alerting — Automation for Branch Office Simulator](Project_023422/README.md) |
+| 023423 | [HTML CSS: Alerting — Recovery for Branch Office Simulator](Project_023423/README.md) |
+| 023424 | [HTML CSS: Alerting — Reporting for Branch Office Simulator](Project_023424/README.md) |
+| 023425 | [HTML CSS: Alerting — Usability Improvement for Branch Office Simulator](Project_023425/README.md) |
+| 023426 | [HTML CSS: Alerting — Baseline Setup for Offline Classroom](Project_023426/README.md) |
+| 023427 | [HTML CSS: Alerting — Automation for Offline Classroom](Project_023427/README.md) |
+| 023428 | [HTML CSS: Alerting — Recovery for Offline Classroom](Project_023428/README.md) |
+| 023429 | [HTML CSS: Alerting — Reporting for Offline Classroom](Project_023429/README.md) |
+| 023430 | [HTML CSS: Alerting — Usability Improvement for Offline Classroom](Project_023430/README.md) |
+| 023431 | [HTML CSS: Alerting — Baseline Setup for Single-Host Lab](Project_023431/README.md) |
+| 023432 | [HTML CSS: Alerting — Automation for Single-Host Lab](Project_023432/README.md) |
+| 023433 | [HTML CSS: Alerting — Recovery for Single-Host Lab](Project_023433/README.md) |
+| 023434 | [HTML CSS: Alerting — Reporting for Single-Host Lab](Project_023434/README.md) |
+| 023435 | [HTML CSS: Alerting — Usability Improvement for Single-Host Lab](Project_023435/README.md) |
+| 023436 | [HTML CSS: Alerting — Baseline Setup for Two-Node Lab](Project_023436/README.md) |
+| 023437 | [HTML CSS: Alerting — Automation for Two-Node Lab](Project_023437/README.md) |
+| 023438 | [HTML CSS: Alerting — Recovery for Two-Node Lab](Project_023438/README.md) |
+| 023439 | [HTML CSS: Alerting — Reporting for Two-Node Lab](Project_023439/README.md) |
+| 023440 | [HTML CSS: Alerting — Usability Improvement for Two-Node Lab](Project_023440/README.md) |
 
 [Back to the portfolio home](../README.md)
