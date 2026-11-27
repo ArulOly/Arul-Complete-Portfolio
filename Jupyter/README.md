@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033398 | [Jupyter: Dashboard — Recovery for Portfolio Demo](Project_033398/README.md) |
 | 033399 | [Jupyter: Dashboard — Reporting for Portfolio Demo](Project_033399/README.md) |
 | 033400 | [Jupyter: Dashboard — Usability Improvement for Portfolio Demo](Project_033400/README.md) |
+| 033401 | [Jupyter: Alerting — Baseline Setup for School Lab](Project_033401/README.md) |
+| 033402 | [Jupyter: Alerting — Automation for School Lab](Project_033402/README.md) |
+| 033403 | [Jupyter: Alerting — Recovery for School Lab](Project_033403/README.md) |
+| 033404 | [Jupyter: Alerting — Reporting for School Lab](Project_033404/README.md) |
+| 033405 | [Jupyter: Alerting — Usability Improvement for School Lab](Project_033405/README.md) |
+| 033406 | [Jupyter: Alerting — Baseline Setup for Small Business](Project_033406/README.md) |
+| 033407 | [Jupyter: Alerting — Automation for Small Business](Project_033407/README.md) |
+| 033408 | [Jupyter: Alerting — Recovery for Small Business](Project_033408/README.md) |
+| 033409 | [Jupyter: Alerting — Reporting for Small Business](Project_033409/README.md) |
+| 033410 | [Jupyter: Alerting — Usability Improvement for Small Business](Project_033410/README.md) |
+| 033411 | [Jupyter: Alerting — Baseline Setup for Home Development](Project_033411/README.md) |
+| 033412 | [Jupyter: Alerting — Automation for Home Development](Project_033412/README.md) |
+| 033413 | [Jupyter: Alerting — Recovery for Home Development](Project_033413/README.md) |
+| 033414 | [Jupyter: Alerting — Reporting for Home Development](Project_033414/README.md) |
+| 033415 | [Jupyter: Alerting — Usability Improvement for Home Development](Project_033415/README.md) |
+| 033416 | [Jupyter: Alerting — Baseline Setup for Public Dataset](Project_033416/README.md) |
+| 033417 | [Jupyter: Alerting — Automation for Public Dataset](Project_033417/README.md) |
+| 033418 | [Jupyter: Alerting — Recovery for Public Dataset](Project_033418/README.md) |
+| 033419 | [Jupyter: Alerting — Reporting for Public Dataset](Project_033419/README.md) |
+| 033420 | [Jupyter: Alerting — Usability Improvement for Public Dataset](Project_033420/README.md) |
 
 [Back to the portfolio home](../README.md)
