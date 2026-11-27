@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004598 | [Fedora: Performance Baseline — Recovery for Portfolio Demo](Project_004598/README.md) |
 | 004599 | [Fedora: Performance Baseline — Reporting for Portfolio Demo](Project_004599/README.md) |
 | 004600 | [Fedora: Performance Baseline — Usability Improvement for Portfolio Demo](Project_004600/README.md) |
+| 004601 | [Fedora: Service Check — Baseline Setup for School Lab](Project_004601/README.md) |
+| 004602 | [Fedora: Service Check — Automation for School Lab](Project_004602/README.md) |
+| 004603 | [Fedora: Service Check — Recovery for School Lab](Project_004603/README.md) |
+| 004604 | [Fedora: Service Check — Reporting for School Lab](Project_004604/README.md) |
+| 004605 | [Fedora: Service Check — Usability Improvement for School Lab](Project_004605/README.md) |
+| 004606 | [Fedora: Service Check — Baseline Setup for Small Business](Project_004606/README.md) |
+| 004607 | [Fedora: Service Check — Automation for Small Business](Project_004607/README.md) |
+| 004608 | [Fedora: Service Check — Recovery for Small Business](Project_004608/README.md) |
+| 004609 | [Fedora: Service Check — Reporting for Small Business](Project_004609/README.md) |
+| 004610 | [Fedora: Service Check — Usability Improvement for Small Business](Project_004610/README.md) |
+| 004611 | [Fedora: Service Check — Baseline Setup for Home Development](Project_004611/README.md) |
+| 004612 | [Fedora: Service Check — Automation for Home Development](Project_004612/README.md) |
+| 004613 | [Fedora: Service Check — Recovery for Home Development](Project_004613/README.md) |
+| 004614 | [Fedora: Service Check — Reporting for Home Development](Project_004614/README.md) |
+| 004615 | [Fedora: Service Check — Usability Improvement for Home Development](Project_004615/README.md) |
+| 004616 | [Fedora: Service Check — Baseline Setup for Public Dataset](Project_004616/README.md) |
+| 004617 | [Fedora: Service Check — Automation for Public Dataset](Project_004617/README.md) |
+| 004618 | [Fedora: Service Check — Recovery for Public Dataset](Project_004618/README.md) |
+| 004619 | [Fedora: Service Check — Reporting for Public Dataset](Project_004619/README.md) |
+| 004620 | [Fedora: Service Check — Usability Improvement for Public Dataset](Project_004620/README.md) |
 
 [Back to the portfolio home](../README.md)
