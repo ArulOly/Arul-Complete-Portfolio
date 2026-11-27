@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003638 | [Debian: Service Check — Recovery for Two-Node Lab](Project_003638/README.md) |
 | 003639 | [Debian: Service Check — Reporting for Two-Node Lab](Project_003639/README.md) |
 | 003640 | [Debian: Service Check — Usability Improvement for Two-Node Lab](Project_003640/README.md) |
+| 003641 | [Debian: Service Check — Baseline Setup for Help Desk](Project_003641/README.md) |
+| 003642 | [Debian: Service Check — Automation for Help Desk](Project_003642/README.md) |
+| 003643 | [Debian: Service Check — Recovery for Help Desk](Project_003643/README.md) |
+| 003644 | [Debian: Service Check — Reporting for Help Desk](Project_003644/README.md) |
+| 003645 | [Debian: Service Check — Usability Improvement for Help Desk](Project_003645/README.md) |
+| 003646 | [Debian: Service Check — Baseline Setup for Portfolio Demo](Project_003646/README.md) |
+| 003647 | [Debian: Service Check — Automation for Portfolio Demo](Project_003647/README.md) |
+| 003648 | [Debian: Service Check — Recovery for Portfolio Demo](Project_003648/README.md) |
+| 003649 | [Debian: Service Check — Reporting for Portfolio Demo](Project_003649/README.md) |
+| 003650 | [Debian: Service Check — Usability Improvement for Portfolio Demo](Project_003650/README.md) |
+| 003651 | [Debian: Configuration Comparison — Baseline Setup for School Lab](Project_003651/README.md) |
+| 003652 | [Debian: Configuration Comparison — Automation for School Lab](Project_003652/README.md) |
+| 003653 | [Debian: Configuration Comparison — Recovery for School Lab](Project_003653/README.md) |
+| 003654 | [Debian: Configuration Comparison — Reporting for School Lab](Project_003654/README.md) |
+| 003655 | [Debian: Configuration Comparison — Usability Improvement for School Lab](Project_003655/README.md) |
+| 003656 | [Debian: Configuration Comparison — Baseline Setup for Small Business](Project_003656/README.md) |
+| 003657 | [Debian: Configuration Comparison — Automation for Small Business](Project_003657/README.md) |
+| 003658 | [Debian: Configuration Comparison — Recovery for Small Business](Project_003658/README.md) |
+| 003659 | [Debian: Configuration Comparison — Reporting for Small Business](Project_003659/README.md) |
+| 003660 | [Debian: Configuration Comparison — Usability Improvement for Small Business](Project_003660/README.md) |
 
 [Back to the portfolio home](../README.md)
