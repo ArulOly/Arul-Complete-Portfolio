@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045098 | [Redis: Monitoring — Recovery for Portfolio Demo](Project_045098/README.md) |
 | 045099 | [Redis: Monitoring — Reporting for Portfolio Demo](Project_045099/README.md) |
 | 045100 | [Redis: Monitoring — Usability Improvement for Portfolio Demo](Project_045100/README.md) |
+| 045101 | [Redis: Audit — Baseline Setup for School Lab](Project_045101/README.md) |
+| 045102 | [Redis: Audit — Automation for School Lab](Project_045102/README.md) |
+| 045103 | [Redis: Audit — Recovery for School Lab](Project_045103/README.md) |
+| 045104 | [Redis: Audit — Reporting for School Lab](Project_045104/README.md) |
+| 045105 | [Redis: Audit — Usability Improvement for School Lab](Project_045105/README.md) |
+| 045106 | [Redis: Audit — Baseline Setup for Small Business](Project_045106/README.md) |
+| 045107 | [Redis: Audit — Automation for Small Business](Project_045107/README.md) |
+| 045108 | [Redis: Audit — Recovery for Small Business](Project_045108/README.md) |
+| 045109 | [Redis: Audit — Reporting for Small Business](Project_045109/README.md) |
+| 045110 | [Redis: Audit — Usability Improvement for Small Business](Project_045110/README.md) |
+| 045111 | [Redis: Audit — Baseline Setup for Home Development](Project_045111/README.md) |
+| 045112 | [Redis: Audit — Automation for Home Development](Project_045112/README.md) |
+| 045113 | [Redis: Audit — Recovery for Home Development](Project_045113/README.md) |
+| 045114 | [Redis: Audit — Reporting for Home Development](Project_045114/README.md) |
+| 045115 | [Redis: Audit — Usability Improvement for Home Development](Project_045115/README.md) |
+| 045116 | [Redis: Audit — Baseline Setup for Public Dataset](Project_045116/README.md) |
+| 045117 | [Redis: Audit — Automation for Public Dataset](Project_045117/README.md) |
+| 045118 | [Redis: Audit — Recovery for Public Dataset](Project_045118/README.md) |
+| 045119 | [Redis: Audit — Reporting for Public Dataset](Project_045119/README.md) |
+| 045120 | [Redis: Audit — Usability Improvement for Public Dataset](Project_045120/README.md) |
 
 [Back to the portfolio home](../README.md)
