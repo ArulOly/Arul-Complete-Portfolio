@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003318 | [Debian: Data Export — Recovery for Public Dataset](Project_003318/README.md) |
 | 003319 | [Debian: Data Export — Reporting for Public Dataset](Project_003319/README.md) |
 | 003320 | [Debian: Data Export — Usability Improvement for Public Dataset](Project_003320/README.md) |
+| 003321 | [Debian: Data Export — Baseline Setup for Branch Office Simulator](Project_003321/README.md) |
+| 003322 | [Debian: Data Export — Automation for Branch Office Simulator](Project_003322/README.md) |
+| 003323 | [Debian: Data Export — Recovery for Branch Office Simulator](Project_003323/README.md) |
+| 003324 | [Debian: Data Export — Reporting for Branch Office Simulator](Project_003324/README.md) |
+| 003325 | [Debian: Data Export — Usability Improvement for Branch Office Simulator](Project_003325/README.md) |
+| 003326 | [Debian: Data Export — Baseline Setup for Offline Classroom](Project_003326/README.md) |
+| 003327 | [Debian: Data Export — Automation for Offline Classroom](Project_003327/README.md) |
+| 003328 | [Debian: Data Export — Recovery for Offline Classroom](Project_003328/README.md) |
+| 003329 | [Debian: Data Export — Reporting for Offline Classroom](Project_003329/README.md) |
+| 003330 | [Debian: Data Export — Usability Improvement for Offline Classroom](Project_003330/README.md) |
+| 003331 | [Debian: Data Export — Baseline Setup for Single-Host Lab](Project_003331/README.md) |
+| 003332 | [Debian: Data Export — Automation for Single-Host Lab](Project_003332/README.md) |
+| 003333 | [Debian: Data Export — Recovery for Single-Host Lab](Project_003333/README.md) |
+| 003334 | [Debian: Data Export — Reporting for Single-Host Lab](Project_003334/README.md) |
+| 003335 | [Debian: Data Export — Usability Improvement for Single-Host Lab](Project_003335/README.md) |
+| 003336 | [Debian: Data Export — Baseline Setup for Two-Node Lab](Project_003336/README.md) |
+| 003337 | [Debian: Data Export — Automation for Two-Node Lab](Project_003337/README.md) |
+| 003338 | [Debian: Data Export — Recovery for Two-Node Lab](Project_003338/README.md) |
+| 003339 | [Debian: Data Export — Reporting for Two-Node Lab](Project_003339/README.md) |
+| 003340 | [Debian: Data Export — Usability Improvement for Two-Node Lab](Project_003340/README.md) |
 
 [Back to the portfolio home](../README.md)
