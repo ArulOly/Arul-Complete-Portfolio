@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025558 | [PostgreSQL: Performance Baseline — Recovery for Small Business](Project_025558/README.md) |
 | 025559 | [PostgreSQL: Performance Baseline — Reporting for Small Business](Project_025559/README.md) |
 | 025560 | [PostgreSQL: Performance Baseline — Usability Improvement for Small Business](Project_025560/README.md) |
+| 025561 | [PostgreSQL: Performance Baseline — Baseline Setup for Home Development](Project_025561/README.md) |
+| 025562 | [PostgreSQL: Performance Baseline — Automation for Home Development](Project_025562/README.md) |
+| 025563 | [PostgreSQL: Performance Baseline — Recovery for Home Development](Project_025563/README.md) |
+| 025564 | [PostgreSQL: Performance Baseline — Reporting for Home Development](Project_025564/README.md) |
+| 025565 | [PostgreSQL: Performance Baseline — Usability Improvement for Home Development](Project_025565/README.md) |
+| 025566 | [PostgreSQL: Performance Baseline — Baseline Setup for Public Dataset](Project_025566/README.md) |
+| 025567 | [PostgreSQL: Performance Baseline — Automation for Public Dataset](Project_025567/README.md) |
+| 025568 | [PostgreSQL: Performance Baseline — Recovery for Public Dataset](Project_025568/README.md) |
+| 025569 | [PostgreSQL: Performance Baseline — Reporting for Public Dataset](Project_025569/README.md) |
+| 025570 | [PostgreSQL: Performance Baseline — Usability Improvement for Public Dataset](Project_025570/README.md) |
+| 025571 | [PostgreSQL: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_025571/README.md) |
+| 025572 | [PostgreSQL: Performance Baseline — Automation for Branch Office Simulator](Project_025572/README.md) |
+| 025573 | [PostgreSQL: Performance Baseline — Recovery for Branch Office Simulator](Project_025573/README.md) |
+| 025574 | [PostgreSQL: Performance Baseline — Reporting for Branch Office Simulator](Project_025574/README.md) |
+| 025575 | [PostgreSQL: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_025575/README.md) |
+| 025576 | [PostgreSQL: Performance Baseline — Baseline Setup for Offline Classroom](Project_025576/README.md) |
+| 025577 | [PostgreSQL: Performance Baseline — Automation for Offline Classroom](Project_025577/README.md) |
+| 025578 | [PostgreSQL: Performance Baseline — Recovery for Offline Classroom](Project_025578/README.md) |
+| 025579 | [PostgreSQL: Performance Baseline — Reporting for Offline Classroom](Project_025579/README.md) |
+| 025580 | [PostgreSQL: Performance Baseline — Usability Improvement for Offline Classroom](Project_025580/README.md) |
 
 [Back to the portfolio home](../README.md)
