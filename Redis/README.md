@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045038 | [Redis: Inventory — Recovery for Two-Node Lab](Project_045038/README.md) |
 | 045039 | [Redis: Inventory — Reporting for Two-Node Lab](Project_045039/README.md) |
 | 045040 | [Redis: Inventory — Usability Improvement for Two-Node Lab](Project_045040/README.md) |
+| 045041 | [Redis: Inventory — Baseline Setup for Help Desk](Project_045041/README.md) |
+| 045042 | [Redis: Inventory — Automation for Help Desk](Project_045042/README.md) |
+| 045043 | [Redis: Inventory — Recovery for Help Desk](Project_045043/README.md) |
+| 045044 | [Redis: Inventory — Reporting for Help Desk](Project_045044/README.md) |
+| 045045 | [Redis: Inventory — Usability Improvement for Help Desk](Project_045045/README.md) |
+| 045046 | [Redis: Inventory — Baseline Setup for Portfolio Demo](Project_045046/README.md) |
+| 045047 | [Redis: Inventory — Automation for Portfolio Demo](Project_045047/README.md) |
+| 045048 | [Redis: Inventory — Recovery for Portfolio Demo](Project_045048/README.md) |
+| 045049 | [Redis: Inventory — Reporting for Portfolio Demo](Project_045049/README.md) |
+| 045050 | [Redis: Inventory — Usability Improvement for Portfolio Demo](Project_045050/README.md) |
+| 045051 | [Redis: Monitoring — Baseline Setup for School Lab](Project_045051/README.md) |
+| 045052 | [Redis: Monitoring — Automation for School Lab](Project_045052/README.md) |
+| 045053 | [Redis: Monitoring — Recovery for School Lab](Project_045053/README.md) |
+| 045054 | [Redis: Monitoring — Reporting for School Lab](Project_045054/README.md) |
+| 045055 | [Redis: Monitoring — Usability Improvement for School Lab](Project_045055/README.md) |
+| 045056 | [Redis: Monitoring — Baseline Setup for Small Business](Project_045056/README.md) |
+| 045057 | [Redis: Monitoring — Automation for Small Business](Project_045057/README.md) |
+| 045058 | [Redis: Monitoring — Recovery for Small Business](Project_045058/README.md) |
+| 045059 | [Redis: Monitoring — Reporting for Small Business](Project_045059/README.md) |
+| 045060 | [Redis: Monitoring — Usability Improvement for Small Business](Project_045060/README.md) |
 
 [Back to the portfolio home](../README.md)
