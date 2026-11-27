@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -164,5 +164,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019118 | [Python: Audit — Recovery for Public Dataset](Project_019118/README.md) |
 | 019119 | [Python: Audit — Reporting for Public Dataset](Project_019119/README.md) |
 | 019120 | [Python: Audit — Usability Improvement for Public Dataset](Project_019120/README.md) |
+| 019121 | [Python: Audit — Baseline Setup for Branch Office Simulator](Project_019121/README.md) |
+| 019122 | [Python: Audit — Automation for Branch Office Simulator](Project_019122/README.md) |
+| 019123 | [Python: Audit — Recovery for Branch Office Simulator](Project_019123/README.md) |
+| 019124 | [Python: Audit — Reporting for Branch Office Simulator](Project_019124/README.md) |
+| 019125 | [Python: Audit — Usability Improvement for Branch Office Simulator](Project_019125/README.md) |
+| 019126 | [Python: Audit — Baseline Setup for Offline Classroom](Project_019126/README.md) |
+| 019127 | [Python: Audit — Automation for Offline Classroom](Project_019127/README.md) |
+| 019128 | [Python: Audit — Recovery for Offline Classroom](Project_019128/README.md) |
+| 019129 | [Python: Audit — Reporting for Offline Classroom](Project_019129/README.md) |
+| 019130 | [Python: Audit — Usability Improvement for Offline Classroom](Project_019130/README.md) |
+| 019131 | [Python: Audit — Baseline Setup for Single-Host Lab](Project_019131/README.md) |
+| 019132 | [Python: Audit — Automation for Single-Host Lab](Project_019132/README.md) |
+| 019133 | [Python: Audit — Recovery for Single-Host Lab](Project_019133/README.md) |
+| 019134 | [Python: Audit — Reporting for Single-Host Lab](Project_019134/README.md) |
+| 019135 | [Python: Audit — Usability Improvement for Single-Host Lab](Project_019135/README.md) |
+| 019136 | [Python: Audit — Baseline Setup for Two-Node Lab](Project_019136/README.md) |
+| 019137 | [Python: Audit — Automation for Two-Node Lab](Project_019137/README.md) |
+| 019138 | [Python: Audit — Recovery for Two-Node Lab](Project_019138/README.md) |
+| 019139 | [Python: Audit — Reporting for Two-Node Lab](Project_019139/README.md) |
+| 019140 | [Python: Audit — Usability Improvement for Two-Node Lab](Project_019140/README.md) |
 
 [Back to the portfolio home](../README.md)
