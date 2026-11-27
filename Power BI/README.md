@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032438 | [Power BI: Alerting — Recovery for Two-Node Lab](Project_032438/README.md) |
 | 032439 | [Power BI: Alerting — Reporting for Two-Node Lab](Project_032439/README.md) |
 | 032440 | [Power BI: Alerting — Usability Improvement for Two-Node Lab](Project_032440/README.md) |
+| 032441 | [Power BI: Alerting — Baseline Setup for Help Desk](Project_032441/README.md) |
+| 032442 | [Power BI: Alerting — Automation for Help Desk](Project_032442/README.md) |
+| 032443 | [Power BI: Alerting — Recovery for Help Desk](Project_032443/README.md) |
+| 032444 | [Power BI: Alerting — Reporting for Help Desk](Project_032444/README.md) |
+| 032445 | [Power BI: Alerting — Usability Improvement for Help Desk](Project_032445/README.md) |
+| 032446 | [Power BI: Alerting — Baseline Setup for Portfolio Demo](Project_032446/README.md) |
+| 032447 | [Power BI: Alerting — Automation for Portfolio Demo](Project_032447/README.md) |
+| 032448 | [Power BI: Alerting — Recovery for Portfolio Demo](Project_032448/README.md) |
+| 032449 | [Power BI: Alerting — Reporting for Portfolio Demo](Project_032449/README.md) |
+| 032450 | [Power BI: Alerting — Usability Improvement for Portfolio Demo](Project_032450/README.md) |
+| 032451 | [Power BI: Scheduled Reporting — Baseline Setup for School Lab](Project_032451/README.md) |
+| 032452 | [Power BI: Scheduled Reporting — Automation for School Lab](Project_032452/README.md) |
+| 032453 | [Power BI: Scheduled Reporting — Recovery for School Lab](Project_032453/README.md) |
+| 032454 | [Power BI: Scheduled Reporting — Reporting for School Lab](Project_032454/README.md) |
+| 032455 | [Power BI: Scheduled Reporting — Usability Improvement for School Lab](Project_032455/README.md) |
+| 032456 | [Power BI: Scheduled Reporting — Baseline Setup for Small Business](Project_032456/README.md) |
+| 032457 | [Power BI: Scheduled Reporting — Automation for Small Business](Project_032457/README.md) |
+| 032458 | [Power BI: Scheduled Reporting — Recovery for Small Business](Project_032458/README.md) |
+| 032459 | [Power BI: Scheduled Reporting — Reporting for Small Business](Project_032459/README.md) |
+| 032460 | [Power BI: Scheduled Reporting — Usability Improvement for Small Business](Project_032460/README.md) |
 
 [Back to the portfolio home](../README.md)
