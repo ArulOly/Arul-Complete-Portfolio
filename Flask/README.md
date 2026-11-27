@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048598 | [Flask: Performance Baseline — Recovery for Portfolio Demo](Project_048598/README.md) |
 | 048599 | [Flask: Performance Baseline — Reporting for Portfolio Demo](Project_048599/README.md) |
 | 048600 | [Flask: Performance Baseline — Usability Improvement for Portfolio Demo](Project_048600/README.md) |
+| 048601 | [Flask: Service Check — Baseline Setup for School Lab](Project_048601/README.md) |
+| 048602 | [Flask: Service Check — Automation for School Lab](Project_048602/README.md) |
+| 048603 | [Flask: Service Check — Recovery for School Lab](Project_048603/README.md) |
+| 048604 | [Flask: Service Check — Reporting for School Lab](Project_048604/README.md) |
+| 048605 | [Flask: Service Check — Usability Improvement for School Lab](Project_048605/README.md) |
+| 048606 | [Flask: Service Check — Baseline Setup for Small Business](Project_048606/README.md) |
+| 048607 | [Flask: Service Check — Automation for Small Business](Project_048607/README.md) |
+| 048608 | [Flask: Service Check — Recovery for Small Business](Project_048608/README.md) |
+| 048609 | [Flask: Service Check — Reporting for Small Business](Project_048609/README.md) |
+| 048610 | [Flask: Service Check — Usability Improvement for Small Business](Project_048610/README.md) |
+| 048611 | [Flask: Service Check — Baseline Setup for Home Development](Project_048611/README.md) |
+| 048612 | [Flask: Service Check — Automation for Home Development](Project_048612/README.md) |
+| 048613 | [Flask: Service Check — Recovery for Home Development](Project_048613/README.md) |
+| 048614 | [Flask: Service Check — Reporting for Home Development](Project_048614/README.md) |
+| 048615 | [Flask: Service Check — Usability Improvement for Home Development](Project_048615/README.md) |
+| 048616 | [Flask: Service Check — Baseline Setup for Public Dataset](Project_048616/README.md) |
+| 048617 | [Flask: Service Check — Automation for Public Dataset](Project_048617/README.md) |
+| 048618 | [Flask: Service Check — Recovery for Public Dataset](Project_048618/README.md) |
+| 048619 | [Flask: Service Check — Reporting for Public Dataset](Project_048619/README.md) |
+| 048620 | [Flask: Service Check — Usability Improvement for Public Dataset](Project_048620/README.md) |
 
 [Back to the portfolio home](../README.md)
