@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027498 | [MongoDB: Scheduled Reporting — Recovery for Portfolio Demo](Project_027498/README.md) |
 | 027499 | [MongoDB: Scheduled Reporting — Reporting for Portfolio Demo](Project_027499/README.md) |
 | 027500 | [MongoDB: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_027500/README.md) |
+| 027501 | [MongoDB: Access Review — Baseline Setup for School Lab](Project_027501/README.md) |
+| 027502 | [MongoDB: Access Review — Automation for School Lab](Project_027502/README.md) |
+| 027503 | [MongoDB: Access Review — Recovery for School Lab](Project_027503/README.md) |
+| 027504 | [MongoDB: Access Review — Reporting for School Lab](Project_027504/README.md) |
+| 027505 | [MongoDB: Access Review — Usability Improvement for School Lab](Project_027505/README.md) |
+| 027506 | [MongoDB: Access Review — Baseline Setup for Small Business](Project_027506/README.md) |
+| 027507 | [MongoDB: Access Review — Automation for Small Business](Project_027507/README.md) |
+| 027508 | [MongoDB: Access Review — Recovery for Small Business](Project_027508/README.md) |
+| 027509 | [MongoDB: Access Review — Reporting for Small Business](Project_027509/README.md) |
+| 027510 | [MongoDB: Access Review — Usability Improvement for Small Business](Project_027510/README.md) |
+| 027511 | [MongoDB: Access Review — Baseline Setup for Home Development](Project_027511/README.md) |
+| 027512 | [MongoDB: Access Review — Automation for Home Development](Project_027512/README.md) |
+| 027513 | [MongoDB: Access Review — Recovery for Home Development](Project_027513/README.md) |
+| 027514 | [MongoDB: Access Review — Reporting for Home Development](Project_027514/README.md) |
+| 027515 | [MongoDB: Access Review — Usability Improvement for Home Development](Project_027515/README.md) |
+| 027516 | [MongoDB: Access Review — Baseline Setup for Public Dataset](Project_027516/README.md) |
+| 027517 | [MongoDB: Access Review — Automation for Public Dataset](Project_027517/README.md) |
+| 027518 | [MongoDB: Access Review — Recovery for Public Dataset](Project_027518/README.md) |
+| 027519 | [MongoDB: Access Review — Reporting for Public Dataset](Project_027519/README.md) |
+| 027520 | [MongoDB: Access Review — Usability Improvement for Public Dataset](Project_027520/README.md) |
 
 [Back to the portfolio home](../README.md)
