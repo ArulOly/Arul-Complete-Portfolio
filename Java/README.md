@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022678 | [Java: Configuration Comparison — Recovery for Offline Classroom](Project_022678/README.md) |
 | 022679 | [Java: Configuration Comparison — Reporting for Offline Classroom](Project_022679/README.md) |
 | 022680 | [Java: Configuration Comparison — Usability Improvement for Offline Classroom](Project_022680/README.md) |
+| 022681 | [Java: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_022681/README.md) |
+| 022682 | [Java: Configuration Comparison — Automation for Single-Host Lab](Project_022682/README.md) |
+| 022683 | [Java: Configuration Comparison — Recovery for Single-Host Lab](Project_022683/README.md) |
+| 022684 | [Java: Configuration Comparison — Reporting for Single-Host Lab](Project_022684/README.md) |
+| 022685 | [Java: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_022685/README.md) |
+| 022686 | [Java: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_022686/README.md) |
+| 022687 | [Java: Configuration Comparison — Automation for Two-Node Lab](Project_022687/README.md) |
+| 022688 | [Java: Configuration Comparison — Recovery for Two-Node Lab](Project_022688/README.md) |
+| 022689 | [Java: Configuration Comparison — Reporting for Two-Node Lab](Project_022689/README.md) |
+| 022690 | [Java: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_022690/README.md) |
+| 022691 | [Java: Configuration Comparison — Baseline Setup for Help Desk](Project_022691/README.md) |
+| 022692 | [Java: Configuration Comparison — Automation for Help Desk](Project_022692/README.md) |
+| 022693 | [Java: Configuration Comparison — Recovery for Help Desk](Project_022693/README.md) |
+| 022694 | [Java: Configuration Comparison — Reporting for Help Desk](Project_022694/README.md) |
+| 022695 | [Java: Configuration Comparison — Usability Improvement for Help Desk](Project_022695/README.md) |
+| 022696 | [Java: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_022696/README.md) |
+| 022697 | [Java: Configuration Comparison — Automation for Portfolio Demo](Project_022697/README.md) |
+| 022698 | [Java: Configuration Comparison — Recovery for Portfolio Demo](Project_022698/README.md) |
+| 022699 | [Java: Configuration Comparison — Reporting for Portfolio Demo](Project_022699/README.md) |
+| 022700 | [Java: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_022700/README.md) |
 
 [Back to the portfolio home](../README.md)
