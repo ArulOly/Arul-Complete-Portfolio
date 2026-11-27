@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003758 | [Debian: Data Validation — Recovery for Small Business](Project_003758/README.md) |
 | 003759 | [Debian: Data Validation — Reporting for Small Business](Project_003759/README.md) |
 | 003760 | [Debian: Data Validation — Usability Improvement for Small Business](Project_003760/README.md) |
+| 003761 | [Debian: Data Validation — Baseline Setup for Home Development](Project_003761/README.md) |
+| 003762 | [Debian: Data Validation — Automation for Home Development](Project_003762/README.md) |
+| 003763 | [Debian: Data Validation — Recovery for Home Development](Project_003763/README.md) |
+| 003764 | [Debian: Data Validation — Reporting for Home Development](Project_003764/README.md) |
+| 003765 | [Debian: Data Validation — Usability Improvement for Home Development](Project_003765/README.md) |
+| 003766 | [Debian: Data Validation — Baseline Setup for Public Dataset](Project_003766/README.md) |
+| 003767 | [Debian: Data Validation — Automation for Public Dataset](Project_003767/README.md) |
+| 003768 | [Debian: Data Validation — Recovery for Public Dataset](Project_003768/README.md) |
+| 003769 | [Debian: Data Validation — Reporting for Public Dataset](Project_003769/README.md) |
+| 003770 | [Debian: Data Validation — Usability Improvement for Public Dataset](Project_003770/README.md) |
+| 003771 | [Debian: Data Validation — Baseline Setup for Branch Office Simulator](Project_003771/README.md) |
+| 003772 | [Debian: Data Validation — Automation for Branch Office Simulator](Project_003772/README.md) |
+| 003773 | [Debian: Data Validation — Recovery for Branch Office Simulator](Project_003773/README.md) |
+| 003774 | [Debian: Data Validation — Reporting for Branch Office Simulator](Project_003774/README.md) |
+| 003775 | [Debian: Data Validation — Usability Improvement for Branch Office Simulator](Project_003775/README.md) |
+| 003776 | [Debian: Data Validation — Baseline Setup for Offline Classroom](Project_003776/README.md) |
+| 003777 | [Debian: Data Validation — Automation for Offline Classroom](Project_003777/README.md) |
+| 003778 | [Debian: Data Validation — Recovery for Offline Classroom](Project_003778/README.md) |
+| 003779 | [Debian: Data Validation — Reporting for Offline Classroom](Project_003779/README.md) |
+| 003780 | [Debian: Data Validation — Usability Improvement for Offline Classroom](Project_003780/README.md) |
 
 [Back to the portfolio home](../README.md)
