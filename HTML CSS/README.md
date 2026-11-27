@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023578 | [HTML CSS: Performance Baseline — Recovery for Offline Classroom](Project_023578/README.md) |
 | 023579 | [HTML CSS: Performance Baseline — Reporting for Offline Classroom](Project_023579/README.md) |
 | 023580 | [HTML CSS: Performance Baseline — Usability Improvement for Offline Classroom](Project_023580/README.md) |
+| 023581 | [HTML CSS: Performance Baseline — Baseline Setup for Single-Host Lab](Project_023581/README.md) |
+| 023582 | [HTML CSS: Performance Baseline — Automation for Single-Host Lab](Project_023582/README.md) |
+| 023583 | [HTML CSS: Performance Baseline — Recovery for Single-Host Lab](Project_023583/README.md) |
+| 023584 | [HTML CSS: Performance Baseline — Reporting for Single-Host Lab](Project_023584/README.md) |
+| 023585 | [HTML CSS: Performance Baseline — Usability Improvement for Single-Host Lab](Project_023585/README.md) |
+| 023586 | [HTML CSS: Performance Baseline — Baseline Setup for Two-Node Lab](Project_023586/README.md) |
+| 023587 | [HTML CSS: Performance Baseline — Automation for Two-Node Lab](Project_023587/README.md) |
+| 023588 | [HTML CSS: Performance Baseline — Recovery for Two-Node Lab](Project_023588/README.md) |
+| 023589 | [HTML CSS: Performance Baseline — Reporting for Two-Node Lab](Project_023589/README.md) |
+| 023590 | [HTML CSS: Performance Baseline — Usability Improvement for Two-Node Lab](Project_023590/README.md) |
+| 023591 | [HTML CSS: Performance Baseline — Baseline Setup for Help Desk](Project_023591/README.md) |
+| 023592 | [HTML CSS: Performance Baseline — Automation for Help Desk](Project_023592/README.md) |
+| 023593 | [HTML CSS: Performance Baseline — Recovery for Help Desk](Project_023593/README.md) |
+| 023594 | [HTML CSS: Performance Baseline — Reporting for Help Desk](Project_023594/README.md) |
+| 023595 | [HTML CSS: Performance Baseline — Usability Improvement for Help Desk](Project_023595/README.md) |
+| 023596 | [HTML CSS: Performance Baseline — Baseline Setup for Portfolio Demo](Project_023596/README.md) |
+| 023597 | [HTML CSS: Performance Baseline — Automation for Portfolio Demo](Project_023597/README.md) |
+| 023598 | [HTML CSS: Performance Baseline — Recovery for Portfolio Demo](Project_023598/README.md) |
+| 023599 | [HTML CSS: Performance Baseline — Reporting for Portfolio Demo](Project_023599/README.md) |
+| 023600 | [HTML CSS: Performance Baseline — Usability Improvement for Portfolio Demo](Project_023600/README.md) |
 
 [Back to the portfolio home](../README.md)
