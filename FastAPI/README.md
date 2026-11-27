@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049618 | [FastAPI: Service Check — Recovery for Public Dataset](Project_049618/README.md) |
 | 049619 | [FastAPI: Service Check — Reporting for Public Dataset](Project_049619/README.md) |
 | 049620 | [FastAPI: Service Check — Usability Improvement for Public Dataset](Project_049620/README.md) |
+| 049621 | [FastAPI: Service Check — Baseline Setup for Branch Office Simulator](Project_049621/README.md) |
+| 049622 | [FastAPI: Service Check — Automation for Branch Office Simulator](Project_049622/README.md) |
+| 049623 | [FastAPI: Service Check — Recovery for Branch Office Simulator](Project_049623/README.md) |
+| 049624 | [FastAPI: Service Check — Reporting for Branch Office Simulator](Project_049624/README.md) |
+| 049625 | [FastAPI: Service Check — Usability Improvement for Branch Office Simulator](Project_049625/README.md) |
+| 049626 | [FastAPI: Service Check — Baseline Setup for Offline Classroom](Project_049626/README.md) |
+| 049627 | [FastAPI: Service Check — Automation for Offline Classroom](Project_049627/README.md) |
+| 049628 | [FastAPI: Service Check — Recovery for Offline Classroom](Project_049628/README.md) |
+| 049629 | [FastAPI: Service Check — Reporting for Offline Classroom](Project_049629/README.md) |
+| 049630 | [FastAPI: Service Check — Usability Improvement for Offline Classroom](Project_049630/README.md) |
+| 049631 | [FastAPI: Service Check — Baseline Setup for Single-Host Lab](Project_049631/README.md) |
+| 049632 | [FastAPI: Service Check — Automation for Single-Host Lab](Project_049632/README.md) |
+| 049633 | [FastAPI: Service Check — Recovery for Single-Host Lab](Project_049633/README.md) |
+| 049634 | [FastAPI: Service Check — Reporting for Single-Host Lab](Project_049634/README.md) |
+| 049635 | [FastAPI: Service Check — Usability Improvement for Single-Host Lab](Project_049635/README.md) |
+| 049636 | [FastAPI: Service Check — Baseline Setup for Two-Node Lab](Project_049636/README.md) |
+| 049637 | [FastAPI: Service Check — Automation for Two-Node Lab](Project_049637/README.md) |
+| 049638 | [FastAPI: Service Check — Recovery for Two-Node Lab](Project_049638/README.md) |
+| 049639 | [FastAPI: Service Check — Reporting for Two-Node Lab](Project_049639/README.md) |
+| 049640 | [FastAPI: Service Check — Usability Improvement for Two-Node Lab](Project_049640/README.md) |
 
 [Back to the portfolio home](../README.md)
