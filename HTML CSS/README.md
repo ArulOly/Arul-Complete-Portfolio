@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023798 | [HTML CSS: Data Validation — Recovery for Portfolio Demo](Project_023798/README.md) |
 | 023799 | [HTML CSS: Data Validation — Reporting for Portfolio Demo](Project_023799/README.md) |
 | 023800 | [HTML CSS: Data Validation — Usability Improvement for Portfolio Demo](Project_023800/README.md) |
+| 023801 | [HTML CSS: Documentation Generation — Baseline Setup for School Lab](Project_023801/README.md) |
+| 023802 | [HTML CSS: Documentation Generation — Automation for School Lab](Project_023802/README.md) |
+| 023803 | [HTML CSS: Documentation Generation — Recovery for School Lab](Project_023803/README.md) |
+| 023804 | [HTML CSS: Documentation Generation — Reporting for School Lab](Project_023804/README.md) |
+| 023805 | [HTML CSS: Documentation Generation — Usability Improvement for School Lab](Project_023805/README.md) |
+| 023806 | [HTML CSS: Documentation Generation — Baseline Setup for Small Business](Project_023806/README.md) |
+| 023807 | [HTML CSS: Documentation Generation — Automation for Small Business](Project_023807/README.md) |
+| 023808 | [HTML CSS: Documentation Generation — Recovery for Small Business](Project_023808/README.md) |
+| 023809 | [HTML CSS: Documentation Generation — Reporting for Small Business](Project_023809/README.md) |
+| 023810 | [HTML CSS: Documentation Generation — Usability Improvement for Small Business](Project_023810/README.md) |
+| 023811 | [HTML CSS: Documentation Generation — Baseline Setup for Home Development](Project_023811/README.md) |
+| 023812 | [HTML CSS: Documentation Generation — Automation for Home Development](Project_023812/README.md) |
+| 023813 | [HTML CSS: Documentation Generation — Recovery for Home Development](Project_023813/README.md) |
+| 023814 | [HTML CSS: Documentation Generation — Reporting for Home Development](Project_023814/README.md) |
+| 023815 | [HTML CSS: Documentation Generation — Usability Improvement for Home Development](Project_023815/README.md) |
+| 023816 | [HTML CSS: Documentation Generation — Baseline Setup for Public Dataset](Project_023816/README.md) |
+| 023817 | [HTML CSS: Documentation Generation — Automation for Public Dataset](Project_023817/README.md) |
+| 023818 | [HTML CSS: Documentation Generation — Recovery for Public Dataset](Project_023818/README.md) |
+| 023819 | [HTML CSS: Documentation Generation — Reporting for Public Dataset](Project_023819/README.md) |
+| 023820 | [HTML CSS: Documentation Generation — Usability Improvement for Public Dataset](Project_023820/README.md) |
 
 [Back to the portfolio home](../README.md)
