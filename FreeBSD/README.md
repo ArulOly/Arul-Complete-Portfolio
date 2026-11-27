@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005018 | [FreeBSD: Inventory — Recovery for Public Dataset](Project_005018/README.md) |
 | 005019 | [FreeBSD: Inventory — Reporting for Public Dataset](Project_005019/README.md) |
 | 005020 | [FreeBSD: Inventory — Usability Improvement for Public Dataset](Project_005020/README.md) |
+| 005021 | [FreeBSD: Inventory — Baseline Setup for Branch Office Simulator](Project_005021/README.md) |
+| 005022 | [FreeBSD: Inventory — Automation for Branch Office Simulator](Project_005022/README.md) |
+| 005023 | [FreeBSD: Inventory — Recovery for Branch Office Simulator](Project_005023/README.md) |
+| 005024 | [FreeBSD: Inventory — Reporting for Branch Office Simulator](Project_005024/README.md) |
+| 005025 | [FreeBSD: Inventory — Usability Improvement for Branch Office Simulator](Project_005025/README.md) |
+| 005026 | [FreeBSD: Inventory — Baseline Setup for Offline Classroom](Project_005026/README.md) |
+| 005027 | [FreeBSD: Inventory — Automation for Offline Classroom](Project_005027/README.md) |
+| 005028 | [FreeBSD: Inventory — Recovery for Offline Classroom](Project_005028/README.md) |
+| 005029 | [FreeBSD: Inventory — Reporting for Offline Classroom](Project_005029/README.md) |
+| 005030 | [FreeBSD: Inventory — Usability Improvement for Offline Classroom](Project_005030/README.md) |
+| 005031 | [FreeBSD: Inventory — Baseline Setup for Single-Host Lab](Project_005031/README.md) |
+| 005032 | [FreeBSD: Inventory — Automation for Single-Host Lab](Project_005032/README.md) |
+| 005033 | [FreeBSD: Inventory — Recovery for Single-Host Lab](Project_005033/README.md) |
+| 005034 | [FreeBSD: Inventory — Reporting for Single-Host Lab](Project_005034/README.md) |
+| 005035 | [FreeBSD: Inventory — Usability Improvement for Single-Host Lab](Project_005035/README.md) |
+| 005036 | [FreeBSD: Inventory — Baseline Setup for Two-Node Lab](Project_005036/README.md) |
+| 005037 | [FreeBSD: Inventory — Automation for Two-Node Lab](Project_005037/README.md) |
+| 005038 | [FreeBSD: Inventory — Recovery for Two-Node Lab](Project_005038/README.md) |
+| 005039 | [FreeBSD: Inventory — Reporting for Two-Node Lab](Project_005039/README.md) |
+| 005040 | [FreeBSD: Inventory — Usability Improvement for Two-Node Lab](Project_005040/README.md) |
 
 [Back to the portfolio home](../README.md)
