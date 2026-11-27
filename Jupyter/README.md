@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033338 | [Jupyter: Data Export — Recovery for Two-Node Lab](Project_033338/README.md) |
 | 033339 | [Jupyter: Data Export — Reporting for Two-Node Lab](Project_033339/README.md) |
 | 033340 | [Jupyter: Data Export — Usability Improvement for Two-Node Lab](Project_033340/README.md) |
+| 033341 | [Jupyter: Data Export — Baseline Setup for Help Desk](Project_033341/README.md) |
+| 033342 | [Jupyter: Data Export — Automation for Help Desk](Project_033342/README.md) |
+| 033343 | [Jupyter: Data Export — Recovery for Help Desk](Project_033343/README.md) |
+| 033344 | [Jupyter: Data Export — Reporting for Help Desk](Project_033344/README.md) |
+| 033345 | [Jupyter: Data Export — Usability Improvement for Help Desk](Project_033345/README.md) |
+| 033346 | [Jupyter: Data Export — Baseline Setup for Portfolio Demo](Project_033346/README.md) |
+| 033347 | [Jupyter: Data Export — Automation for Portfolio Demo](Project_033347/README.md) |
+| 033348 | [Jupyter: Data Export — Recovery for Portfolio Demo](Project_033348/README.md) |
+| 033349 | [Jupyter: Data Export — Reporting for Portfolio Demo](Project_033349/README.md) |
+| 033350 | [Jupyter: Data Export — Usability Improvement for Portfolio Demo](Project_033350/README.md) |
+| 033351 | [Jupyter: Dashboard — Baseline Setup for School Lab](Project_033351/README.md) |
+| 033352 | [Jupyter: Dashboard — Automation for School Lab](Project_033352/README.md) |
+| 033353 | [Jupyter: Dashboard — Recovery for School Lab](Project_033353/README.md) |
+| 033354 | [Jupyter: Dashboard — Reporting for School Lab](Project_033354/README.md) |
+| 033355 | [Jupyter: Dashboard — Usability Improvement for School Lab](Project_033355/README.md) |
+| 033356 | [Jupyter: Dashboard — Baseline Setup for Small Business](Project_033356/README.md) |
+| 033357 | [Jupyter: Dashboard — Automation for Small Business](Project_033357/README.md) |
+| 033358 | [Jupyter: Dashboard — Recovery for Small Business](Project_033358/README.md) |
+| 033359 | [Jupyter: Dashboard — Reporting for Small Business](Project_033359/README.md) |
+| 033360 | [Jupyter: Dashboard — Usability Improvement for Small Business](Project_033360/README.md) |
 
 [Back to the portfolio home](../README.md)
