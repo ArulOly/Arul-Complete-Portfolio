@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049658 | [FastAPI: Configuration Comparison — Recovery for Small Business](Project_049658/README.md) |
 | 049659 | [FastAPI: Configuration Comparison — Reporting for Small Business](Project_049659/README.md) |
 | 049660 | [FastAPI: Configuration Comparison — Usability Improvement for Small Business](Project_049660/README.md) |
+| 049661 | [FastAPI: Configuration Comparison — Baseline Setup for Home Development](Project_049661/README.md) |
+| 049662 | [FastAPI: Configuration Comparison — Automation for Home Development](Project_049662/README.md) |
+| 049663 | [FastAPI: Configuration Comparison — Recovery for Home Development](Project_049663/README.md) |
+| 049664 | [FastAPI: Configuration Comparison — Reporting for Home Development](Project_049664/README.md) |
+| 049665 | [FastAPI: Configuration Comparison — Usability Improvement for Home Development](Project_049665/README.md) |
+| 049666 | [FastAPI: Configuration Comparison — Baseline Setup for Public Dataset](Project_049666/README.md) |
+| 049667 | [FastAPI: Configuration Comparison — Automation for Public Dataset](Project_049667/README.md) |
+| 049668 | [FastAPI: Configuration Comparison — Recovery for Public Dataset](Project_049668/README.md) |
+| 049669 | [FastAPI: Configuration Comparison — Reporting for Public Dataset](Project_049669/README.md) |
+| 049670 | [FastAPI: Configuration Comparison — Usability Improvement for Public Dataset](Project_049670/README.md) |
+| 049671 | [FastAPI: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_049671/README.md) |
+| 049672 | [FastAPI: Configuration Comparison — Automation for Branch Office Simulator](Project_049672/README.md) |
+| 049673 | [FastAPI: Configuration Comparison — Recovery for Branch Office Simulator](Project_049673/README.md) |
+| 049674 | [FastAPI: Configuration Comparison — Reporting for Branch Office Simulator](Project_049674/README.md) |
+| 049675 | [FastAPI: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_049675/README.md) |
+| 049676 | [FastAPI: Configuration Comparison — Baseline Setup for Offline Classroom](Project_049676/README.md) |
+| 049677 | [FastAPI: Configuration Comparison — Automation for Offline Classroom](Project_049677/README.md) |
+| 049678 | [FastAPI: Configuration Comparison — Recovery for Offline Classroom](Project_049678/README.md) |
+| 049679 | [FastAPI: Configuration Comparison — Reporting for Offline Classroom](Project_049679/README.md) |
+| 049680 | [FastAPI: Configuration Comparison — Usability Improvement for Offline Classroom](Project_049680/README.md) |
 
 [Back to the portfolio home](../README.md)
