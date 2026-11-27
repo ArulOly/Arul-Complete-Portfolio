@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004118 | [Fedora: Audit — Recovery for Public Dataset](Project_004118/README.md) |
 | 004119 | [Fedora: Audit — Reporting for Public Dataset](Project_004119/README.md) |
 | 004120 | [Fedora: Audit — Usability Improvement for Public Dataset](Project_004120/README.md) |
+| 004121 | [Fedora: Audit — Baseline Setup for Branch Office Simulator](Project_004121/README.md) |
+| 004122 | [Fedora: Audit — Automation for Branch Office Simulator](Project_004122/README.md) |
+| 004123 | [Fedora: Audit — Recovery for Branch Office Simulator](Project_004123/README.md) |
+| 004124 | [Fedora: Audit — Reporting for Branch Office Simulator](Project_004124/README.md) |
+| 004125 | [Fedora: Audit — Usability Improvement for Branch Office Simulator](Project_004125/README.md) |
+| 004126 | [Fedora: Audit — Baseline Setup for Offline Classroom](Project_004126/README.md) |
+| 004127 | [Fedora: Audit — Automation for Offline Classroom](Project_004127/README.md) |
+| 004128 | [Fedora: Audit — Recovery for Offline Classroom](Project_004128/README.md) |
+| 004129 | [Fedora: Audit — Reporting for Offline Classroom](Project_004129/README.md) |
+| 004130 | [Fedora: Audit — Usability Improvement for Offline Classroom](Project_004130/README.md) |
+| 004131 | [Fedora: Audit — Baseline Setup for Single-Host Lab](Project_004131/README.md) |
+| 004132 | [Fedora: Audit — Automation for Single-Host Lab](Project_004132/README.md) |
+| 004133 | [Fedora: Audit — Recovery for Single-Host Lab](Project_004133/README.md) |
+| 004134 | [Fedora: Audit — Reporting for Single-Host Lab](Project_004134/README.md) |
+| 004135 | [Fedora: Audit — Usability Improvement for Single-Host Lab](Project_004135/README.md) |
+| 004136 | [Fedora: Audit — Baseline Setup for Two-Node Lab](Project_004136/README.md) |
+| 004137 | [Fedora: Audit — Automation for Two-Node Lab](Project_004137/README.md) |
+| 004138 | [Fedora: Audit — Recovery for Two-Node Lab](Project_004138/README.md) |
+| 004139 | [Fedora: Audit — Reporting for Two-Node Lab](Project_004139/README.md) |
+| 004140 | [Fedora: Audit — Usability Improvement for Two-Node Lab](Project_004140/README.md) |
 
 [Back to the portfolio home](../README.md)
