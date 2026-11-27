@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004398 | [Fedora: Dashboard — Recovery for Portfolio Demo](Project_004398/README.md) |
 | 004399 | [Fedora: Dashboard — Reporting for Portfolio Demo](Project_004399/README.md) |
 | 004400 | [Fedora: Dashboard — Usability Improvement for Portfolio Demo](Project_004400/README.md) |
+| 004401 | [Fedora: Alerting — Baseline Setup for School Lab](Project_004401/README.md) |
+| 004402 | [Fedora: Alerting — Automation for School Lab](Project_004402/README.md) |
+| 004403 | [Fedora: Alerting — Recovery for School Lab](Project_004403/README.md) |
+| 004404 | [Fedora: Alerting — Reporting for School Lab](Project_004404/README.md) |
+| 004405 | [Fedora: Alerting — Usability Improvement for School Lab](Project_004405/README.md) |
+| 004406 | [Fedora: Alerting — Baseline Setup for Small Business](Project_004406/README.md) |
+| 004407 | [Fedora: Alerting — Automation for Small Business](Project_004407/README.md) |
+| 004408 | [Fedora: Alerting — Recovery for Small Business](Project_004408/README.md) |
+| 004409 | [Fedora: Alerting — Reporting for Small Business](Project_004409/README.md) |
+| 004410 | [Fedora: Alerting — Usability Improvement for Small Business](Project_004410/README.md) |
+| 004411 | [Fedora: Alerting — Baseline Setup for Home Development](Project_004411/README.md) |
+| 004412 | [Fedora: Alerting — Automation for Home Development](Project_004412/README.md) |
+| 004413 | [Fedora: Alerting — Recovery for Home Development](Project_004413/README.md) |
+| 004414 | [Fedora: Alerting — Reporting for Home Development](Project_004414/README.md) |
+| 004415 | [Fedora: Alerting — Usability Improvement for Home Development](Project_004415/README.md) |
+| 004416 | [Fedora: Alerting — Baseline Setup for Public Dataset](Project_004416/README.md) |
+| 004417 | [Fedora: Alerting — Automation for Public Dataset](Project_004417/README.md) |
+| 004418 | [Fedora: Alerting — Recovery for Public Dataset](Project_004418/README.md) |
+| 004419 | [Fedora: Alerting — Reporting for Public Dataset](Project_004419/README.md) |
+| 004420 | [Fedora: Alerting — Usability Improvement for Public Dataset](Project_004420/README.md) |
 
 [Back to the portfolio home](../README.md)
