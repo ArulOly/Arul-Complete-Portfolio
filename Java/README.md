@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022078 | [Java: Monitoring — Recovery for Offline Classroom](Project_022078/README.md) |
 | 022079 | [Java: Monitoring — Reporting for Offline Classroom](Project_022079/README.md) |
 | 022080 | [Java: Monitoring — Usability Improvement for Offline Classroom](Project_022080/README.md) |
+| 022081 | [Java: Monitoring — Baseline Setup for Single-Host Lab](Project_022081/README.md) |
+| 022082 | [Java: Monitoring — Automation for Single-Host Lab](Project_022082/README.md) |
+| 022083 | [Java: Monitoring — Recovery for Single-Host Lab](Project_022083/README.md) |
+| 022084 | [Java: Monitoring — Reporting for Single-Host Lab](Project_022084/README.md) |
+| 022085 | [Java: Monitoring — Usability Improvement for Single-Host Lab](Project_022085/README.md) |
+| 022086 | [Java: Monitoring — Baseline Setup for Two-Node Lab](Project_022086/README.md) |
+| 022087 | [Java: Monitoring — Automation for Two-Node Lab](Project_022087/README.md) |
+| 022088 | [Java: Monitoring — Recovery for Two-Node Lab](Project_022088/README.md) |
+| 022089 | [Java: Monitoring — Reporting for Two-Node Lab](Project_022089/README.md) |
+| 022090 | [Java: Monitoring — Usability Improvement for Two-Node Lab](Project_022090/README.md) |
+| 022091 | [Java: Monitoring — Baseline Setup for Help Desk](Project_022091/README.md) |
+| 022092 | [Java: Monitoring — Automation for Help Desk](Project_022092/README.md) |
+| 022093 | [Java: Monitoring — Recovery for Help Desk](Project_022093/README.md) |
+| 022094 | [Java: Monitoring — Reporting for Help Desk](Project_022094/README.md) |
+| 022095 | [Java: Monitoring — Usability Improvement for Help Desk](Project_022095/README.md) |
+| 022096 | [Java: Monitoring — Baseline Setup for Portfolio Demo](Project_022096/README.md) |
+| 022097 | [Java: Monitoring — Automation for Portfolio Demo](Project_022097/README.md) |
+| 022098 | [Java: Monitoring — Recovery for Portfolio Demo](Project_022098/README.md) |
+| 022099 | [Java: Monitoring — Reporting for Portfolio Demo](Project_022099/README.md) |
+| 022100 | [Java: Monitoring — Usability Improvement for Portfolio Demo](Project_022100/README.md) |
 
 [Back to the portfolio home](../README.md)
