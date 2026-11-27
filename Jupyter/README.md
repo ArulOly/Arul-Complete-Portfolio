@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033578 | [Jupyter: Performance Baseline — Recovery for Offline Classroom](Project_033578/README.md) |
 | 033579 | [Jupyter: Performance Baseline — Reporting for Offline Classroom](Project_033579/README.md) |
 | 033580 | [Jupyter: Performance Baseline — Usability Improvement for Offline Classroom](Project_033580/README.md) |
+| 033581 | [Jupyter: Performance Baseline — Baseline Setup for Single-Host Lab](Project_033581/README.md) |
+| 033582 | [Jupyter: Performance Baseline — Automation for Single-Host Lab](Project_033582/README.md) |
+| 033583 | [Jupyter: Performance Baseline — Recovery for Single-Host Lab](Project_033583/README.md) |
+| 033584 | [Jupyter: Performance Baseline — Reporting for Single-Host Lab](Project_033584/README.md) |
+| 033585 | [Jupyter: Performance Baseline — Usability Improvement for Single-Host Lab](Project_033585/README.md) |
+| 033586 | [Jupyter: Performance Baseline — Baseline Setup for Two-Node Lab](Project_033586/README.md) |
+| 033587 | [Jupyter: Performance Baseline — Automation for Two-Node Lab](Project_033587/README.md) |
+| 033588 | [Jupyter: Performance Baseline — Recovery for Two-Node Lab](Project_033588/README.md) |
+| 033589 | [Jupyter: Performance Baseline — Reporting for Two-Node Lab](Project_033589/README.md) |
+| 033590 | [Jupyter: Performance Baseline — Usability Improvement for Two-Node Lab](Project_033590/README.md) |
+| 033591 | [Jupyter: Performance Baseline — Baseline Setup for Help Desk](Project_033591/README.md) |
+| 033592 | [Jupyter: Performance Baseline — Automation for Help Desk](Project_033592/README.md) |
+| 033593 | [Jupyter: Performance Baseline — Recovery for Help Desk](Project_033593/README.md) |
+| 033594 | [Jupyter: Performance Baseline — Reporting for Help Desk](Project_033594/README.md) |
+| 033595 | [Jupyter: Performance Baseline — Usability Improvement for Help Desk](Project_033595/README.md) |
+| 033596 | [Jupyter: Performance Baseline — Baseline Setup for Portfolio Demo](Project_033596/README.md) |
+| 033597 | [Jupyter: Performance Baseline — Automation for Portfolio Demo](Project_033597/README.md) |
+| 033598 | [Jupyter: Performance Baseline — Recovery for Portfolio Demo](Project_033598/README.md) |
+| 033599 | [Jupyter: Performance Baseline — Reporting for Portfolio Demo](Project_033599/README.md) |
+| 033600 | [Jupyter: Performance Baseline — Usability Improvement for Portfolio Demo](Project_033600/README.md) |
 
 [Back to the portfolio home](../README.md)
