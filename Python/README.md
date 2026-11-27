@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -984,5 +984,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019938 | [Python: Visual Reporting — Recovery for Two-Node Lab](Project_019938/README.md) |
 | 019939 | [Python: Visual Reporting — Reporting for Two-Node Lab](Project_019939/README.md) |
 | 019940 | [Python: Visual Reporting — Usability Improvement for Two-Node Lab](Project_019940/README.md) |
+| 019941 | [Python: Visual Reporting — Baseline Setup for Help Desk](Project_019941/README.md) |
+| 019942 | [Python: Visual Reporting — Automation for Help Desk](Project_019942/README.md) |
+| 019943 | [Python: Visual Reporting — Recovery for Help Desk](Project_019943/README.md) |
+| 019944 | [Python: Visual Reporting — Reporting for Help Desk](Project_019944/README.md) |
+| 019945 | [Python: Visual Reporting — Usability Improvement for Help Desk](Project_019945/README.md) |
+| 019946 | [Python: Visual Reporting — Baseline Setup for Portfolio Demo](Project_019946/README.md) |
+| 019947 | [Python: Visual Reporting — Automation for Portfolio Demo](Project_019947/README.md) |
+| 019948 | [Python: Visual Reporting — Recovery for Portfolio Demo](Project_019948/README.md) |
+| 019949 | [Python: Visual Reporting — Reporting for Portfolio Demo](Project_019949/README.md) |
+| 019950 | [Python: Visual Reporting — Usability Improvement for Portfolio Demo](Project_019950/README.md) |
+| 019951 | [Python: Recovery Test — Baseline Setup for School Lab](Project_019951/README.md) |
+| 019952 | [Python: Recovery Test — Automation for School Lab](Project_019952/README.md) |
+| 019953 | [Python: Recovery Test — Recovery for School Lab](Project_019953/README.md) |
+| 019954 | [Python: Recovery Test — Reporting for School Lab](Project_019954/README.md) |
+| 019955 | [Python: Recovery Test — Usability Improvement for School Lab](Project_019955/README.md) |
+| 019956 | [Python: Recovery Test — Baseline Setup for Small Business](Project_019956/README.md) |
+| 019957 | [Python: Recovery Test — Automation for Small Business](Project_019957/README.md) |
+| 019958 | [Python: Recovery Test — Recovery for Small Business](Project_019958/README.md) |
+| 019959 | [Python: Recovery Test — Reporting for Small Business](Project_019959/README.md) |
+| 019960 | [Python: Recovery Test — Usability Improvement for Small Business](Project_019960/README.md) |
 
 [Back to the portfolio home](../README.md)
