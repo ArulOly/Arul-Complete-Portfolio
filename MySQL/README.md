@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026778 | [MySQL: Data Validation — Recovery for Offline Classroom](Project_026778/README.md) |
 | 026779 | [MySQL: Data Validation — Reporting for Offline Classroom](Project_026779/README.md) |
 | 026780 | [MySQL: Data Validation — Usability Improvement for Offline Classroom](Project_026780/README.md) |
+| 026781 | [MySQL: Data Validation — Baseline Setup for Single-Host Lab](Project_026781/README.md) |
+| 026782 | [MySQL: Data Validation — Automation for Single-Host Lab](Project_026782/README.md) |
+| 026783 | [MySQL: Data Validation — Recovery for Single-Host Lab](Project_026783/README.md) |
+| 026784 | [MySQL: Data Validation — Reporting for Single-Host Lab](Project_026784/README.md) |
+| 026785 | [MySQL: Data Validation — Usability Improvement for Single-Host Lab](Project_026785/README.md) |
+| 026786 | [MySQL: Data Validation — Baseline Setup for Two-Node Lab](Project_026786/README.md) |
+| 026787 | [MySQL: Data Validation — Automation for Two-Node Lab](Project_026787/README.md) |
+| 026788 | [MySQL: Data Validation — Recovery for Two-Node Lab](Project_026788/README.md) |
+| 026789 | [MySQL: Data Validation — Reporting for Two-Node Lab](Project_026789/README.md) |
+| 026790 | [MySQL: Data Validation — Usability Improvement for Two-Node Lab](Project_026790/README.md) |
+| 026791 | [MySQL: Data Validation — Baseline Setup for Help Desk](Project_026791/README.md) |
+| 026792 | [MySQL: Data Validation — Automation for Help Desk](Project_026792/README.md) |
+| 026793 | [MySQL: Data Validation — Recovery for Help Desk](Project_026793/README.md) |
+| 026794 | [MySQL: Data Validation — Reporting for Help Desk](Project_026794/README.md) |
+| 026795 | [MySQL: Data Validation — Usability Improvement for Help Desk](Project_026795/README.md) |
+| 026796 | [MySQL: Data Validation — Baseline Setup for Portfolio Demo](Project_026796/README.md) |
+| 026797 | [MySQL: Data Validation — Automation for Portfolio Demo](Project_026797/README.md) |
+| 026798 | [MySQL: Data Validation — Recovery for Portfolio Demo](Project_026798/README.md) |
+| 026799 | [MySQL: Data Validation — Reporting for Portfolio Demo](Project_026799/README.md) |
+| 026800 | [MySQL: Data Validation — Usability Improvement for Portfolio Demo](Project_026800/README.md) |
 
 [Back to the portfolio home](../README.md)
