@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021278 | [TypeScript: Data Import — Recovery for Offline Classroom](Project_021278/README.md) |
 | 021279 | [TypeScript: Data Import — Reporting for Offline Classroom](Project_021279/README.md) |
 | 021280 | [TypeScript: Data Import — Usability Improvement for Offline Classroom](Project_021280/README.md) |
+| 021281 | [TypeScript: Data Import — Baseline Setup for Single-Host Lab](Project_021281/README.md) |
+| 021282 | [TypeScript: Data Import — Automation for Single-Host Lab](Project_021282/README.md) |
+| 021283 | [TypeScript: Data Import — Recovery for Single-Host Lab](Project_021283/README.md) |
+| 021284 | [TypeScript: Data Import — Reporting for Single-Host Lab](Project_021284/README.md) |
+| 021285 | [TypeScript: Data Import — Usability Improvement for Single-Host Lab](Project_021285/README.md) |
+| 021286 | [TypeScript: Data Import — Baseline Setup for Two-Node Lab](Project_021286/README.md) |
+| 021287 | [TypeScript: Data Import — Automation for Two-Node Lab](Project_021287/README.md) |
+| 021288 | [TypeScript: Data Import — Recovery for Two-Node Lab](Project_021288/README.md) |
+| 021289 | [TypeScript: Data Import — Reporting for Two-Node Lab](Project_021289/README.md) |
+| 021290 | [TypeScript: Data Import — Usability Improvement for Two-Node Lab](Project_021290/README.md) |
+| 021291 | [TypeScript: Data Import — Baseline Setup for Help Desk](Project_021291/README.md) |
+| 021292 | [TypeScript: Data Import — Automation for Help Desk](Project_021292/README.md) |
+| 021293 | [TypeScript: Data Import — Recovery for Help Desk](Project_021293/README.md) |
+| 021294 | [TypeScript: Data Import — Reporting for Help Desk](Project_021294/README.md) |
+| 021295 | [TypeScript: Data Import — Usability Improvement for Help Desk](Project_021295/README.md) |
+| 021296 | [TypeScript: Data Import — Baseline Setup for Portfolio Demo](Project_021296/README.md) |
+| 021297 | [TypeScript: Data Import — Automation for Portfolio Demo](Project_021297/README.md) |
+| 021298 | [TypeScript: Data Import — Recovery for Portfolio Demo](Project_021298/README.md) |
+| 021299 | [TypeScript: Data Import — Reporting for Portfolio Demo](Project_021299/README.md) |
+| 021300 | [TypeScript: Data Import — Usability Improvement for Portfolio Demo](Project_021300/README.md) |
 
 [Back to the portfolio home](../README.md)
