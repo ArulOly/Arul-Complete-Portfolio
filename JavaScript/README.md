@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020118 | [JavaScript: Audit — Recovery for Public Dataset](Project_020118/README.md) |
 | 020119 | [JavaScript: Audit — Reporting for Public Dataset](Project_020119/README.md) |
 | 020120 | [JavaScript: Audit — Usability Improvement for Public Dataset](Project_020120/README.md) |
+| 020121 | [JavaScript: Audit — Baseline Setup for Branch Office Simulator](Project_020121/README.md) |
+| 020122 | [JavaScript: Audit — Automation for Branch Office Simulator](Project_020122/README.md) |
+| 020123 | [JavaScript: Audit — Recovery for Branch Office Simulator](Project_020123/README.md) |
+| 020124 | [JavaScript: Audit — Reporting for Branch Office Simulator](Project_020124/README.md) |
+| 020125 | [JavaScript: Audit — Usability Improvement for Branch Office Simulator](Project_020125/README.md) |
+| 020126 | [JavaScript: Audit — Baseline Setup for Offline Classroom](Project_020126/README.md) |
+| 020127 | [JavaScript: Audit — Automation for Offline Classroom](Project_020127/README.md) |
+| 020128 | [JavaScript: Audit — Recovery for Offline Classroom](Project_020128/README.md) |
+| 020129 | [JavaScript: Audit — Reporting for Offline Classroom](Project_020129/README.md) |
+| 020130 | [JavaScript: Audit — Usability Improvement for Offline Classroom](Project_020130/README.md) |
+| 020131 | [JavaScript: Audit — Baseline Setup for Single-Host Lab](Project_020131/README.md) |
+| 020132 | [JavaScript: Audit — Automation for Single-Host Lab](Project_020132/README.md) |
+| 020133 | [JavaScript: Audit — Recovery for Single-Host Lab](Project_020133/README.md) |
+| 020134 | [JavaScript: Audit — Reporting for Single-Host Lab](Project_020134/README.md) |
+| 020135 | [JavaScript: Audit — Usability Improvement for Single-Host Lab](Project_020135/README.md) |
+| 020136 | [JavaScript: Audit — Baseline Setup for Two-Node Lab](Project_020136/README.md) |
+| 020137 | [JavaScript: Audit — Automation for Two-Node Lab](Project_020137/README.md) |
+| 020138 | [JavaScript: Audit — Recovery for Two-Node Lab](Project_020138/README.md) |
+| 020139 | [JavaScript: Audit — Reporting for Two-Node Lab](Project_020139/README.md) |
+| 020140 | [JavaScript: Audit — Usability Improvement for Two-Node Lab](Project_020140/README.md) |
 
 [Back to the portfolio home](../README.md)
