@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034738 | [Scikit-learn: Error Handling — Recovery for Two-Node Lab](Project_034738/README.md) |
 | 034739 | [Scikit-learn: Error Handling — Reporting for Two-Node Lab](Project_034739/README.md) |
 | 034740 | [Scikit-learn: Error Handling — Usability Improvement for Two-Node Lab](Project_034740/README.md) |
+| 034741 | [Scikit-learn: Error Handling — Baseline Setup for Help Desk](Project_034741/README.md) |
+| 034742 | [Scikit-learn: Error Handling — Automation for Help Desk](Project_034742/README.md) |
+| 034743 | [Scikit-learn: Error Handling — Recovery for Help Desk](Project_034743/README.md) |
+| 034744 | [Scikit-learn: Error Handling — Reporting for Help Desk](Project_034744/README.md) |
+| 034745 | [Scikit-learn: Error Handling — Usability Improvement for Help Desk](Project_034745/README.md) |
+| 034746 | [Scikit-learn: Error Handling — Baseline Setup for Portfolio Demo](Project_034746/README.md) |
+| 034747 | [Scikit-learn: Error Handling — Automation for Portfolio Demo](Project_034747/README.md) |
+| 034748 | [Scikit-learn: Error Handling — Recovery for Portfolio Demo](Project_034748/README.md) |
+| 034749 | [Scikit-learn: Error Handling — Reporting for Portfolio Demo](Project_034749/README.md) |
+| 034750 | [Scikit-learn: Error Handling — Usability Improvement for Portfolio Demo](Project_034750/README.md) |
+| 034751 | [Scikit-learn: Data Validation — Baseline Setup for School Lab](Project_034751/README.md) |
+| 034752 | [Scikit-learn: Data Validation — Automation for School Lab](Project_034752/README.md) |
+| 034753 | [Scikit-learn: Data Validation — Recovery for School Lab](Project_034753/README.md) |
+| 034754 | [Scikit-learn: Data Validation — Reporting for School Lab](Project_034754/README.md) |
+| 034755 | [Scikit-learn: Data Validation — Usability Improvement for School Lab](Project_034755/README.md) |
+| 034756 | [Scikit-learn: Data Validation — Baseline Setup for Small Business](Project_034756/README.md) |
+| 034757 | [Scikit-learn: Data Validation — Automation for Small Business](Project_034757/README.md) |
+| 034758 | [Scikit-learn: Data Validation — Recovery for Small Business](Project_034758/README.md) |
+| 034759 | [Scikit-learn: Data Validation — Reporting for Small Business](Project_034759/README.md) |
+| 034760 | [Scikit-learn: Data Validation — Usability Improvement for Small Business](Project_034760/README.md) |
 
 [Back to the portfolio home](../README.md)
