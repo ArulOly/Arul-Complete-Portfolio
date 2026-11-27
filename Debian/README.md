@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003718 | [Debian: Error Handling — Recovery for Public Dataset](Project_003718/README.md) |
 | 003719 | [Debian: Error Handling — Reporting for Public Dataset](Project_003719/README.md) |
 | 003720 | [Debian: Error Handling — Usability Improvement for Public Dataset](Project_003720/README.md) |
+| 003721 | [Debian: Error Handling — Baseline Setup for Branch Office Simulator](Project_003721/README.md) |
+| 003722 | [Debian: Error Handling — Automation for Branch Office Simulator](Project_003722/README.md) |
+| 003723 | [Debian: Error Handling — Recovery for Branch Office Simulator](Project_003723/README.md) |
+| 003724 | [Debian: Error Handling — Reporting for Branch Office Simulator](Project_003724/README.md) |
+| 003725 | [Debian: Error Handling — Usability Improvement for Branch Office Simulator](Project_003725/README.md) |
+| 003726 | [Debian: Error Handling — Baseline Setup for Offline Classroom](Project_003726/README.md) |
+| 003727 | [Debian: Error Handling — Automation for Offline Classroom](Project_003727/README.md) |
+| 003728 | [Debian: Error Handling — Recovery for Offline Classroom](Project_003728/README.md) |
+| 003729 | [Debian: Error Handling — Reporting for Offline Classroom](Project_003729/README.md) |
+| 003730 | [Debian: Error Handling — Usability Improvement for Offline Classroom](Project_003730/README.md) |
+| 003731 | [Debian: Error Handling — Baseline Setup for Single-Host Lab](Project_003731/README.md) |
+| 003732 | [Debian: Error Handling — Automation for Single-Host Lab](Project_003732/README.md) |
+| 003733 | [Debian: Error Handling — Recovery for Single-Host Lab](Project_003733/README.md) |
+| 003734 | [Debian: Error Handling — Reporting for Single-Host Lab](Project_003734/README.md) |
+| 003735 | [Debian: Error Handling — Usability Improvement for Single-Host Lab](Project_003735/README.md) |
+| 003736 | [Debian: Error Handling — Baseline Setup for Two-Node Lab](Project_003736/README.md) |
+| 003737 | [Debian: Error Handling — Automation for Two-Node Lab](Project_003737/README.md) |
+| 003738 | [Debian: Error Handling — Recovery for Two-Node Lab](Project_003738/README.md) |
+| 003739 | [Debian: Error Handling — Reporting for Two-Node Lab](Project_003739/README.md) |
+| 003740 | [Debian: Error Handling — Usability Improvement for Two-Node Lab](Project_003740/README.md) |
 
 [Back to the portfolio home](../README.md)
