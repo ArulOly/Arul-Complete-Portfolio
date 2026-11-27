@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -84,5 +84,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019038 | [Python: Inventory — Recovery for Two-Node Lab](Project_019038/README.md) |
 | 019039 | [Python: Inventory — Reporting for Two-Node Lab](Project_019039/README.md) |
 | 019040 | [Python: Inventory — Usability Improvement for Two-Node Lab](Project_019040/README.md) |
+| 019041 | [Python: Inventory — Baseline Setup for Help Desk](Project_019041/README.md) |
+| 019042 | [Python: Inventory — Automation for Help Desk](Project_019042/README.md) |
+| 019043 | [Python: Inventory — Recovery for Help Desk](Project_019043/README.md) |
+| 019044 | [Python: Inventory — Reporting for Help Desk](Project_019044/README.md) |
+| 019045 | [Python: Inventory — Usability Improvement for Help Desk](Project_019045/README.md) |
+| 019046 | [Python: Inventory — Baseline Setup for Portfolio Demo](Project_019046/README.md) |
+| 019047 | [Python: Inventory — Automation for Portfolio Demo](Project_019047/README.md) |
+| 019048 | [Python: Inventory — Recovery for Portfolio Demo](Project_019048/README.md) |
+| 019049 | [Python: Inventory — Reporting for Portfolio Demo](Project_019049/README.md) |
+| 019050 | [Python: Inventory — Usability Improvement for Portfolio Demo](Project_019050/README.md) |
+| 019051 | [Python: Monitoring — Baseline Setup for School Lab](Project_019051/README.md) |
+| 019052 | [Python: Monitoring — Automation for School Lab](Project_019052/README.md) |
+| 019053 | [Python: Monitoring — Recovery for School Lab](Project_019053/README.md) |
+| 019054 | [Python: Monitoring — Reporting for School Lab](Project_019054/README.md) |
+| 019055 | [Python: Monitoring — Usability Improvement for School Lab](Project_019055/README.md) |
+| 019056 | [Python: Monitoring — Baseline Setup for Small Business](Project_019056/README.md) |
+| 019057 | [Python: Monitoring — Automation for Small Business](Project_019057/README.md) |
+| 019058 | [Python: Monitoring — Recovery for Small Business](Project_019058/README.md) |
+| 019059 | [Python: Monitoring — Reporting for Small Business](Project_019059/README.md) |
+| 019060 | [Python: Monitoring — Usability Improvement for Small Business](Project_019060/README.md) |
 
 [Back to the portfolio home](../README.md)
