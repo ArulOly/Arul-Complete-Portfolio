@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -444,5 +444,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019398 | [Python: Dashboard — Recovery for Portfolio Demo](Project_019398/README.md) |
 | 019399 | [Python: Dashboard — Reporting for Portfolio Demo](Project_019399/README.md) |
 | 019400 | [Python: Dashboard — Usability Improvement for Portfolio Demo](Project_019400/README.md) |
+| 019401 | [Python: Alerting — Baseline Setup for School Lab](Project_019401/README.md) |
+| 019402 | [Python: Alerting — Automation for School Lab](Project_019402/README.md) |
+| 019403 | [Python: Alerting — Recovery for School Lab](Project_019403/README.md) |
+| 019404 | [Python: Alerting — Reporting for School Lab](Project_019404/README.md) |
+| 019405 | [Python: Alerting — Usability Improvement for School Lab](Project_019405/README.md) |
+| 019406 | [Python: Alerting — Baseline Setup for Small Business](Project_019406/README.md) |
+| 019407 | [Python: Alerting — Automation for Small Business](Project_019407/README.md) |
+| 019408 | [Python: Alerting — Recovery for Small Business](Project_019408/README.md) |
+| 019409 | [Python: Alerting — Reporting for Small Business](Project_019409/README.md) |
+| 019410 | [Python: Alerting — Usability Improvement for Small Business](Project_019410/README.md) |
+| 019411 | [Python: Alerting — Baseline Setup for Home Development](Project_019411/README.md) |
+| 019412 | [Python: Alerting — Automation for Home Development](Project_019412/README.md) |
+| 019413 | [Python: Alerting — Recovery for Home Development](Project_019413/README.md) |
+| 019414 | [Python: Alerting — Reporting for Home Development](Project_019414/README.md) |
+| 019415 | [Python: Alerting — Usability Improvement for Home Development](Project_019415/README.md) |
+| 019416 | [Python: Alerting — Baseline Setup for Public Dataset](Project_019416/README.md) |
+| 019417 | [Python: Alerting — Automation for Public Dataset](Project_019417/README.md) |
+| 019418 | [Python: Alerting — Recovery for Public Dataset](Project_019418/README.md) |
+| 019419 | [Python: Alerting — Reporting for Public Dataset](Project_019419/README.md) |
+| 019420 | [Python: Alerting — Usability Improvement for Public Dataset](Project_019420/README.md) |
 
 [Back to the portfolio home](../README.md)
