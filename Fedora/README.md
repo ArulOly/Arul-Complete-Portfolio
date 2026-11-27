@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004138 | [Fedora: Audit — Recovery for Two-Node Lab](Project_004138/README.md) |
 | 004139 | [Fedora: Audit — Reporting for Two-Node Lab](Project_004139/README.md) |
 | 004140 | [Fedora: Audit — Usability Improvement for Two-Node Lab](Project_004140/README.md) |
+| 004141 | [Fedora: Audit — Baseline Setup for Help Desk](Project_004141/README.md) |
+| 004142 | [Fedora: Audit — Automation for Help Desk](Project_004142/README.md) |
+| 004143 | [Fedora: Audit — Recovery for Help Desk](Project_004143/README.md) |
+| 004144 | [Fedora: Audit — Reporting for Help Desk](Project_004144/README.md) |
+| 004145 | [Fedora: Audit — Usability Improvement for Help Desk](Project_004145/README.md) |
+| 004146 | [Fedora: Audit — Baseline Setup for Portfolio Demo](Project_004146/README.md) |
+| 004147 | [Fedora: Audit — Automation for Portfolio Demo](Project_004147/README.md) |
+| 004148 | [Fedora: Audit — Recovery for Portfolio Demo](Project_004148/README.md) |
+| 004149 | [Fedora: Audit — Reporting for Portfolio Demo](Project_004149/README.md) |
+| 004150 | [Fedora: Audit — Usability Improvement for Portfolio Demo](Project_004150/README.md) |
+| 004151 | [Fedora: Log Analysis — Baseline Setup for School Lab](Project_004151/README.md) |
+| 004152 | [Fedora: Log Analysis — Automation for School Lab](Project_004152/README.md) |
+| 004153 | [Fedora: Log Analysis — Recovery for School Lab](Project_004153/README.md) |
+| 004154 | [Fedora: Log Analysis — Reporting for School Lab](Project_004154/README.md) |
+| 004155 | [Fedora: Log Analysis — Usability Improvement for School Lab](Project_004155/README.md) |
+| 004156 | [Fedora: Log Analysis — Baseline Setup for Small Business](Project_004156/README.md) |
+| 004157 | [Fedora: Log Analysis — Automation for Small Business](Project_004157/README.md) |
+| 004158 | [Fedora: Log Analysis — Recovery for Small Business](Project_004158/README.md) |
+| 004159 | [Fedora: Log Analysis — Reporting for Small Business](Project_004159/README.md) |
+| 004160 | [Fedora: Log Analysis — Usability Improvement for Small Business](Project_004160/README.md) |
 
 [Back to the portfolio home](../README.md)
