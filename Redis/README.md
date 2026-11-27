@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045138 | [Redis: Audit — Recovery for Two-Node Lab](Project_045138/README.md) |
 | 045139 | [Redis: Audit — Reporting for Two-Node Lab](Project_045139/README.md) |
 | 045140 | [Redis: Audit — Usability Improvement for Two-Node Lab](Project_045140/README.md) |
+| 045141 | [Redis: Audit — Baseline Setup for Help Desk](Project_045141/README.md) |
+| 045142 | [Redis: Audit — Automation for Help Desk](Project_045142/README.md) |
+| 045143 | [Redis: Audit — Recovery for Help Desk](Project_045143/README.md) |
+| 045144 | [Redis: Audit — Reporting for Help Desk](Project_045144/README.md) |
+| 045145 | [Redis: Audit — Usability Improvement for Help Desk](Project_045145/README.md) |
+| 045146 | [Redis: Audit — Baseline Setup for Portfolio Demo](Project_045146/README.md) |
+| 045147 | [Redis: Audit — Automation for Portfolio Demo](Project_045147/README.md) |
+| 045148 | [Redis: Audit — Recovery for Portfolio Demo](Project_045148/README.md) |
+| 045149 | [Redis: Audit — Reporting for Portfolio Demo](Project_045149/README.md) |
+| 045150 | [Redis: Audit — Usability Improvement for Portfolio Demo](Project_045150/README.md) |
+| 045151 | [Redis: Log Analysis — Baseline Setup for School Lab](Project_045151/README.md) |
+| 045152 | [Redis: Log Analysis — Automation for School Lab](Project_045152/README.md) |
+| 045153 | [Redis: Log Analysis — Recovery for School Lab](Project_045153/README.md) |
+| 045154 | [Redis: Log Analysis — Reporting for School Lab](Project_045154/README.md) |
+| 045155 | [Redis: Log Analysis — Usability Improvement for School Lab](Project_045155/README.md) |
+| 045156 | [Redis: Log Analysis — Baseline Setup for Small Business](Project_045156/README.md) |
+| 045157 | [Redis: Log Analysis — Automation for Small Business](Project_045157/README.md) |
+| 045158 | [Redis: Log Analysis — Recovery for Small Business](Project_045158/README.md) |
+| 045159 | [Redis: Log Analysis — Reporting for Small Business](Project_045159/README.md) |
+| 045160 | [Redis: Log Analysis — Usability Improvement for Small Business](Project_045160/README.md) |
 
 [Back to the portfolio home](../README.md)
