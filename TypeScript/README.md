@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021218 | [TypeScript: Backup Verification — Recovery for Public Dataset](Project_021218/README.md) |
 | 021219 | [TypeScript: Backup Verification — Reporting for Public Dataset](Project_021219/README.md) |
 | 021220 | [TypeScript: Backup Verification — Usability Improvement for Public Dataset](Project_021220/README.md) |
+| 021221 | [TypeScript: Backup Verification — Baseline Setup for Branch Office Simulator](Project_021221/README.md) |
+| 021222 | [TypeScript: Backup Verification — Automation for Branch Office Simulator](Project_021222/README.md) |
+| 021223 | [TypeScript: Backup Verification — Recovery for Branch Office Simulator](Project_021223/README.md) |
+| 021224 | [TypeScript: Backup Verification — Reporting for Branch Office Simulator](Project_021224/README.md) |
+| 021225 | [TypeScript: Backup Verification — Usability Improvement for Branch Office Simulator](Project_021225/README.md) |
+| 021226 | [TypeScript: Backup Verification — Baseline Setup for Offline Classroom](Project_021226/README.md) |
+| 021227 | [TypeScript: Backup Verification — Automation for Offline Classroom](Project_021227/README.md) |
+| 021228 | [TypeScript: Backup Verification — Recovery for Offline Classroom](Project_021228/README.md) |
+| 021229 | [TypeScript: Backup Verification — Reporting for Offline Classroom](Project_021229/README.md) |
+| 021230 | [TypeScript: Backup Verification — Usability Improvement for Offline Classroom](Project_021230/README.md) |
+| 021231 | [TypeScript: Backup Verification — Baseline Setup for Single-Host Lab](Project_021231/README.md) |
+| 021232 | [TypeScript: Backup Verification — Automation for Single-Host Lab](Project_021232/README.md) |
+| 021233 | [TypeScript: Backup Verification — Recovery for Single-Host Lab](Project_021233/README.md) |
+| 021234 | [TypeScript: Backup Verification — Reporting for Single-Host Lab](Project_021234/README.md) |
+| 021235 | [TypeScript: Backup Verification — Usability Improvement for Single-Host Lab](Project_021235/README.md) |
+| 021236 | [TypeScript: Backup Verification — Baseline Setup for Two-Node Lab](Project_021236/README.md) |
+| 021237 | [TypeScript: Backup Verification — Automation for Two-Node Lab](Project_021237/README.md) |
+| 021238 | [TypeScript: Backup Verification — Recovery for Two-Node Lab](Project_021238/README.md) |
+| 021239 | [TypeScript: Backup Verification — Reporting for Two-Node Lab](Project_021239/README.md) |
+| 021240 | [TypeScript: Backup Verification — Usability Improvement for Two-Node Lab](Project_021240/README.md) |
 
 [Back to the portfolio home](../README.md)
