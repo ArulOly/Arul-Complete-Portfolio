@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025318 | [PostgreSQL: Data Export — Recovery for Public Dataset](Project_025318/README.md) |
 | 025319 | [PostgreSQL: Data Export — Reporting for Public Dataset](Project_025319/README.md) |
 | 025320 | [PostgreSQL: Data Export — Usability Improvement for Public Dataset](Project_025320/README.md) |
+| 025321 | [PostgreSQL: Data Export — Baseline Setup for Branch Office Simulator](Project_025321/README.md) |
+| 025322 | [PostgreSQL: Data Export — Automation for Branch Office Simulator](Project_025322/README.md) |
+| 025323 | [PostgreSQL: Data Export — Recovery for Branch Office Simulator](Project_025323/README.md) |
+| 025324 | [PostgreSQL: Data Export — Reporting for Branch Office Simulator](Project_025324/README.md) |
+| 025325 | [PostgreSQL: Data Export — Usability Improvement for Branch Office Simulator](Project_025325/README.md) |
+| 025326 | [PostgreSQL: Data Export — Baseline Setup for Offline Classroom](Project_025326/README.md) |
+| 025327 | [PostgreSQL: Data Export — Automation for Offline Classroom](Project_025327/README.md) |
+| 025328 | [PostgreSQL: Data Export — Recovery for Offline Classroom](Project_025328/README.md) |
+| 025329 | [PostgreSQL: Data Export — Reporting for Offline Classroom](Project_025329/README.md) |
+| 025330 | [PostgreSQL: Data Export — Usability Improvement for Offline Classroom](Project_025330/README.md) |
+| 025331 | [PostgreSQL: Data Export — Baseline Setup for Single-Host Lab](Project_025331/README.md) |
+| 025332 | [PostgreSQL: Data Export — Automation for Single-Host Lab](Project_025332/README.md) |
+| 025333 | [PostgreSQL: Data Export — Recovery for Single-Host Lab](Project_025333/README.md) |
+| 025334 | [PostgreSQL: Data Export — Reporting for Single-Host Lab](Project_025334/README.md) |
+| 025335 | [PostgreSQL: Data Export — Usability Improvement for Single-Host Lab](Project_025335/README.md) |
+| 025336 | [PostgreSQL: Data Export — Baseline Setup for Two-Node Lab](Project_025336/README.md) |
+| 025337 | [PostgreSQL: Data Export — Automation for Two-Node Lab](Project_025337/README.md) |
+| 025338 | [PostgreSQL: Data Export — Recovery for Two-Node Lab](Project_025338/README.md) |
+| 025339 | [PostgreSQL: Data Export — Reporting for Two-Node Lab](Project_025339/README.md) |
+| 025340 | [PostgreSQL: Data Export — Usability Improvement for Two-Node Lab](Project_025340/README.md) |
 
 [Back to the portfolio home](../README.md)
