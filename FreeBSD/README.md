@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005438 | [FreeBSD: Alerting — Recovery for Two-Node Lab](Project_005438/README.md) |
 | 005439 | [FreeBSD: Alerting — Reporting for Two-Node Lab](Project_005439/README.md) |
 | 005440 | [FreeBSD: Alerting — Usability Improvement for Two-Node Lab](Project_005440/README.md) |
+| 005441 | [FreeBSD: Alerting — Baseline Setup for Help Desk](Project_005441/README.md) |
+| 005442 | [FreeBSD: Alerting — Automation for Help Desk](Project_005442/README.md) |
+| 005443 | [FreeBSD: Alerting — Recovery for Help Desk](Project_005443/README.md) |
+| 005444 | [FreeBSD: Alerting — Reporting for Help Desk](Project_005444/README.md) |
+| 005445 | [FreeBSD: Alerting — Usability Improvement for Help Desk](Project_005445/README.md) |
+| 005446 | [FreeBSD: Alerting — Baseline Setup for Portfolio Demo](Project_005446/README.md) |
+| 005447 | [FreeBSD: Alerting — Automation for Portfolio Demo](Project_005447/README.md) |
+| 005448 | [FreeBSD: Alerting — Recovery for Portfolio Demo](Project_005448/README.md) |
+| 005449 | [FreeBSD: Alerting — Reporting for Portfolio Demo](Project_005449/README.md) |
+| 005450 | [FreeBSD: Alerting — Usability Improvement for Portfolio Demo](Project_005450/README.md) |
+| 005451 | [FreeBSD: Scheduled Reporting — Baseline Setup for School Lab](Project_005451/README.md) |
+| 005452 | [FreeBSD: Scheduled Reporting — Automation for School Lab](Project_005452/README.md) |
+| 005453 | [FreeBSD: Scheduled Reporting — Recovery for School Lab](Project_005453/README.md) |
+| 005454 | [FreeBSD: Scheduled Reporting — Reporting for School Lab](Project_005454/README.md) |
+| 005455 | [FreeBSD: Scheduled Reporting — Usability Improvement for School Lab](Project_005455/README.md) |
+| 005456 | [FreeBSD: Scheduled Reporting — Baseline Setup for Small Business](Project_005456/README.md) |
+| 005457 | [FreeBSD: Scheduled Reporting — Automation for Small Business](Project_005457/README.md) |
+| 005458 | [FreeBSD: Scheduled Reporting — Recovery for Small Business](Project_005458/README.md) |
+| 005459 | [FreeBSD: Scheduled Reporting — Reporting for Small Business](Project_005459/README.md) |
+| 005460 | [FreeBSD: Scheduled Reporting — Usability Improvement for Small Business](Project_005460/README.md) |
 
 [Back to the portfolio home](../README.md)
