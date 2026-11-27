@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025258 | [PostgreSQL: Data Import — Recovery for Small Business](Project_025258/README.md) |
 | 025259 | [PostgreSQL: Data Import — Reporting for Small Business](Project_025259/README.md) |
 | 025260 | [PostgreSQL: Data Import — Usability Improvement for Small Business](Project_025260/README.md) |
+| 025261 | [PostgreSQL: Data Import — Baseline Setup for Home Development](Project_025261/README.md) |
+| 025262 | [PostgreSQL: Data Import — Automation for Home Development](Project_025262/README.md) |
+| 025263 | [PostgreSQL: Data Import — Recovery for Home Development](Project_025263/README.md) |
+| 025264 | [PostgreSQL: Data Import — Reporting for Home Development](Project_025264/README.md) |
+| 025265 | [PostgreSQL: Data Import — Usability Improvement for Home Development](Project_025265/README.md) |
+| 025266 | [PostgreSQL: Data Import — Baseline Setup for Public Dataset](Project_025266/README.md) |
+| 025267 | [PostgreSQL: Data Import — Automation for Public Dataset](Project_025267/README.md) |
+| 025268 | [PostgreSQL: Data Import — Recovery for Public Dataset](Project_025268/README.md) |
+| 025269 | [PostgreSQL: Data Import — Reporting for Public Dataset](Project_025269/README.md) |
+| 025270 | [PostgreSQL: Data Import — Usability Improvement for Public Dataset](Project_025270/README.md) |
+| 025271 | [PostgreSQL: Data Import — Baseline Setup for Branch Office Simulator](Project_025271/README.md) |
+| 025272 | [PostgreSQL: Data Import — Automation for Branch Office Simulator](Project_025272/README.md) |
+| 025273 | [PostgreSQL: Data Import — Recovery for Branch Office Simulator](Project_025273/README.md) |
+| 025274 | [PostgreSQL: Data Import — Reporting for Branch Office Simulator](Project_025274/README.md) |
+| 025275 | [PostgreSQL: Data Import — Usability Improvement for Branch Office Simulator](Project_025275/README.md) |
+| 025276 | [PostgreSQL: Data Import — Baseline Setup for Offline Classroom](Project_025276/README.md) |
+| 025277 | [PostgreSQL: Data Import — Automation for Offline Classroom](Project_025277/README.md) |
+| 025278 | [PostgreSQL: Data Import — Recovery for Offline Classroom](Project_025278/README.md) |
+| 025279 | [PostgreSQL: Data Import — Reporting for Offline Classroom](Project_025279/README.md) |
+| 025280 | [PostgreSQL: Data Import — Usability Improvement for Offline Classroom](Project_025280/README.md) |
 
 [Back to the portfolio home](../README.md)
