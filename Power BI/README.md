@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032338 | [Power BI: Data Export — Recovery for Two-Node Lab](Project_032338/README.md) |
 | 032339 | [Power BI: Data Export — Reporting for Two-Node Lab](Project_032339/README.md) |
 | 032340 | [Power BI: Data Export — Usability Improvement for Two-Node Lab](Project_032340/README.md) |
+| 032341 | [Power BI: Data Export — Baseline Setup for Help Desk](Project_032341/README.md) |
+| 032342 | [Power BI: Data Export — Automation for Help Desk](Project_032342/README.md) |
+| 032343 | [Power BI: Data Export — Recovery for Help Desk](Project_032343/README.md) |
+| 032344 | [Power BI: Data Export — Reporting for Help Desk](Project_032344/README.md) |
+| 032345 | [Power BI: Data Export — Usability Improvement for Help Desk](Project_032345/README.md) |
+| 032346 | [Power BI: Data Export — Baseline Setup for Portfolio Demo](Project_032346/README.md) |
+| 032347 | [Power BI: Data Export — Automation for Portfolio Demo](Project_032347/README.md) |
+| 032348 | [Power BI: Data Export — Recovery for Portfolio Demo](Project_032348/README.md) |
+| 032349 | [Power BI: Data Export — Reporting for Portfolio Demo](Project_032349/README.md) |
+| 032350 | [Power BI: Data Export — Usability Improvement for Portfolio Demo](Project_032350/README.md) |
+| 032351 | [Power BI: Dashboard — Baseline Setup for School Lab](Project_032351/README.md) |
+| 032352 | [Power BI: Dashboard — Automation for School Lab](Project_032352/README.md) |
+| 032353 | [Power BI: Dashboard — Recovery for School Lab](Project_032353/README.md) |
+| 032354 | [Power BI: Dashboard — Reporting for School Lab](Project_032354/README.md) |
+| 032355 | [Power BI: Dashboard — Usability Improvement for School Lab](Project_032355/README.md) |
+| 032356 | [Power BI: Dashboard — Baseline Setup for Small Business](Project_032356/README.md) |
+| 032357 | [Power BI: Dashboard — Automation for Small Business](Project_032357/README.md) |
+| 032358 | [Power BI: Dashboard — Recovery for Small Business](Project_032358/README.md) |
+| 032359 | [Power BI: Dashboard — Reporting for Small Business](Project_032359/README.md) |
+| 032360 | [Power BI: Dashboard — Usability Improvement for Small Business](Project_032360/README.md) |
 
 [Back to the portfolio home](../README.md)
