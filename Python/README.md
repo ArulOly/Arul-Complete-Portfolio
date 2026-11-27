@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -664,5 +664,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019618 | [Python: Service Check — Recovery for Public Dataset](Project_019618/README.md) |
 | 019619 | [Python: Service Check — Reporting for Public Dataset](Project_019619/README.md) |
 | 019620 | [Python: Service Check — Usability Improvement for Public Dataset](Project_019620/README.md) |
+| 019621 | [Python: Service Check — Baseline Setup for Branch Office Simulator](Project_019621/README.md) |
+| 019622 | [Python: Service Check — Automation for Branch Office Simulator](Project_019622/README.md) |
+| 019623 | [Python: Service Check — Recovery for Branch Office Simulator](Project_019623/README.md) |
+| 019624 | [Python: Service Check — Reporting for Branch Office Simulator](Project_019624/README.md) |
+| 019625 | [Python: Service Check — Usability Improvement for Branch Office Simulator](Project_019625/README.md) |
+| 019626 | [Python: Service Check — Baseline Setup for Offline Classroom](Project_019626/README.md) |
+| 019627 | [Python: Service Check — Automation for Offline Classroom](Project_019627/README.md) |
+| 019628 | [Python: Service Check — Recovery for Offline Classroom](Project_019628/README.md) |
+| 019629 | [Python: Service Check — Reporting for Offline Classroom](Project_019629/README.md) |
+| 019630 | [Python: Service Check — Usability Improvement for Offline Classroom](Project_019630/README.md) |
+| 019631 | [Python: Service Check — Baseline Setup for Single-Host Lab](Project_019631/README.md) |
+| 019632 | [Python: Service Check — Automation for Single-Host Lab](Project_019632/README.md) |
+| 019633 | [Python: Service Check — Recovery for Single-Host Lab](Project_019633/README.md) |
+| 019634 | [Python: Service Check — Reporting for Single-Host Lab](Project_019634/README.md) |
+| 019635 | [Python: Service Check — Usability Improvement for Single-Host Lab](Project_019635/README.md) |
+| 019636 | [Python: Service Check — Baseline Setup for Two-Node Lab](Project_019636/README.md) |
+| 019637 | [Python: Service Check — Automation for Two-Node Lab](Project_019637/README.md) |
+| 019638 | [Python: Service Check — Recovery for Two-Node Lab](Project_019638/README.md) |
+| 019639 | [Python: Service Check — Reporting for Two-Node Lab](Project_019639/README.md) |
+| 019640 | [Python: Service Check — Usability Improvement for Two-Node Lab](Project_019640/README.md) |
 
 [Back to the portfolio home](../README.md)
