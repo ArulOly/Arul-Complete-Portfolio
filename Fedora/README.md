@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004758 | [Fedora: Data Validation — Recovery for Small Business](Project_004758/README.md) |
 | 004759 | [Fedora: Data Validation — Reporting for Small Business](Project_004759/README.md) |
 | 004760 | [Fedora: Data Validation — Usability Improvement for Small Business](Project_004760/README.md) |
+| 004761 | [Fedora: Data Validation — Baseline Setup for Home Development](Project_004761/README.md) |
+| 004762 | [Fedora: Data Validation — Automation for Home Development](Project_004762/README.md) |
+| 004763 | [Fedora: Data Validation — Recovery for Home Development](Project_004763/README.md) |
+| 004764 | [Fedora: Data Validation — Reporting for Home Development](Project_004764/README.md) |
+| 004765 | [Fedora: Data Validation — Usability Improvement for Home Development](Project_004765/README.md) |
+| 004766 | [Fedora: Data Validation — Baseline Setup for Public Dataset](Project_004766/README.md) |
+| 004767 | [Fedora: Data Validation — Automation for Public Dataset](Project_004767/README.md) |
+| 004768 | [Fedora: Data Validation — Recovery for Public Dataset](Project_004768/README.md) |
+| 004769 | [Fedora: Data Validation — Reporting for Public Dataset](Project_004769/README.md) |
+| 004770 | [Fedora: Data Validation — Usability Improvement for Public Dataset](Project_004770/README.md) |
+| 004771 | [Fedora: Data Validation — Baseline Setup for Branch Office Simulator](Project_004771/README.md) |
+| 004772 | [Fedora: Data Validation — Automation for Branch Office Simulator](Project_004772/README.md) |
+| 004773 | [Fedora: Data Validation — Recovery for Branch Office Simulator](Project_004773/README.md) |
+| 004774 | [Fedora: Data Validation — Reporting for Branch Office Simulator](Project_004774/README.md) |
+| 004775 | [Fedora: Data Validation — Usability Improvement for Branch Office Simulator](Project_004775/README.md) |
+| 004776 | [Fedora: Data Validation — Baseline Setup for Offline Classroom](Project_004776/README.md) |
+| 004777 | [Fedora: Data Validation — Automation for Offline Classroom](Project_004777/README.md) |
+| 004778 | [Fedora: Data Validation — Recovery for Offline Classroom](Project_004778/README.md) |
+| 004779 | [Fedora: Data Validation — Reporting for Offline Classroom](Project_004779/README.md) |
+| 004780 | [Fedora: Data Validation — Usability Improvement for Offline Classroom](Project_004780/README.md) |
 
 [Back to the portfolio home](../README.md)
