@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033038 | [Jupyter: Inventory — Recovery for Two-Node Lab](Project_033038/README.md) |
 | 033039 | [Jupyter: Inventory — Reporting for Two-Node Lab](Project_033039/README.md) |
 | 033040 | [Jupyter: Inventory — Usability Improvement for Two-Node Lab](Project_033040/README.md) |
+| 033041 | [Jupyter: Inventory — Baseline Setup for Help Desk](Project_033041/README.md) |
+| 033042 | [Jupyter: Inventory — Automation for Help Desk](Project_033042/README.md) |
+| 033043 | [Jupyter: Inventory — Recovery for Help Desk](Project_033043/README.md) |
+| 033044 | [Jupyter: Inventory — Reporting for Help Desk](Project_033044/README.md) |
+| 033045 | [Jupyter: Inventory — Usability Improvement for Help Desk](Project_033045/README.md) |
+| 033046 | [Jupyter: Inventory — Baseline Setup for Portfolio Demo](Project_033046/README.md) |
+| 033047 | [Jupyter: Inventory — Automation for Portfolio Demo](Project_033047/README.md) |
+| 033048 | [Jupyter: Inventory — Recovery for Portfolio Demo](Project_033048/README.md) |
+| 033049 | [Jupyter: Inventory — Reporting for Portfolio Demo](Project_033049/README.md) |
+| 033050 | [Jupyter: Inventory — Usability Improvement for Portfolio Demo](Project_033050/README.md) |
+| 033051 | [Jupyter: Monitoring — Baseline Setup for School Lab](Project_033051/README.md) |
+| 033052 | [Jupyter: Monitoring — Automation for School Lab](Project_033052/README.md) |
+| 033053 | [Jupyter: Monitoring — Recovery for School Lab](Project_033053/README.md) |
+| 033054 | [Jupyter: Monitoring — Reporting for School Lab](Project_033054/README.md) |
+| 033055 | [Jupyter: Monitoring — Usability Improvement for School Lab](Project_033055/README.md) |
+| 033056 | [Jupyter: Monitoring — Baseline Setup for Small Business](Project_033056/README.md) |
+| 033057 | [Jupyter: Monitoring — Automation for Small Business](Project_033057/README.md) |
+| 033058 | [Jupyter: Monitoring — Recovery for Small Business](Project_033058/README.md) |
+| 033059 | [Jupyter: Monitoring — Reporting for Small Business](Project_033059/README.md) |
+| 033060 | [Jupyter: Monitoring — Usability Improvement for Small Business](Project_033060/README.md) |
 
 [Back to the portfolio home](../README.md)
