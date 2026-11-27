@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048038 | [Flask: Inventory — Recovery for Two-Node Lab](Project_048038/README.md) |
 | 048039 | [Flask: Inventory — Reporting for Two-Node Lab](Project_048039/README.md) |
 | 048040 | [Flask: Inventory — Usability Improvement for Two-Node Lab](Project_048040/README.md) |
+| 048041 | [Flask: Inventory — Baseline Setup for Help Desk](Project_048041/README.md) |
+| 048042 | [Flask: Inventory — Automation for Help Desk](Project_048042/README.md) |
+| 048043 | [Flask: Inventory — Recovery for Help Desk](Project_048043/README.md) |
+| 048044 | [Flask: Inventory — Reporting for Help Desk](Project_048044/README.md) |
+| 048045 | [Flask: Inventory — Usability Improvement for Help Desk](Project_048045/README.md) |
+| 048046 | [Flask: Inventory — Baseline Setup for Portfolio Demo](Project_048046/README.md) |
+| 048047 | [Flask: Inventory — Automation for Portfolio Demo](Project_048047/README.md) |
+| 048048 | [Flask: Inventory — Recovery for Portfolio Demo](Project_048048/README.md) |
+| 048049 | [Flask: Inventory — Reporting for Portfolio Demo](Project_048049/README.md) |
+| 048050 | [Flask: Inventory — Usability Improvement for Portfolio Demo](Project_048050/README.md) |
+| 048051 | [Flask: Monitoring — Baseline Setup for School Lab](Project_048051/README.md) |
+| 048052 | [Flask: Monitoring — Automation for School Lab](Project_048052/README.md) |
+| 048053 | [Flask: Monitoring — Recovery for School Lab](Project_048053/README.md) |
+| 048054 | [Flask: Monitoring — Reporting for School Lab](Project_048054/README.md) |
+| 048055 | [Flask: Monitoring — Usability Improvement for School Lab](Project_048055/README.md) |
+| 048056 | [Flask: Monitoring — Baseline Setup for Small Business](Project_048056/README.md) |
+| 048057 | [Flask: Monitoring — Automation for Small Business](Project_048057/README.md) |
+| 048058 | [Flask: Monitoring — Recovery for Small Business](Project_048058/README.md) |
+| 048059 | [Flask: Monitoring — Reporting for Small Business](Project_048059/README.md) |
+| 048060 | [Flask: Monitoring — Usability Improvement for Small Business](Project_048060/README.md) |
 
 [Back to the portfolio home](../README.md)
