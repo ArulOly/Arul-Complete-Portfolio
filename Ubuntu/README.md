@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002358 | [Ubuntu: Dashboard — Recovery for Small Business](Project_002358/README.md) |
 | 002359 | [Ubuntu: Dashboard — Reporting for Small Business](Project_002359/README.md) |
 | 002360 | [Ubuntu: Dashboard — Usability Improvement for Small Business](Project_002360/README.md) |
+| 002361 | [Ubuntu: Dashboard — Baseline Setup for Home Development](Project_002361/README.md) |
+| 002362 | [Ubuntu: Dashboard — Automation for Home Development](Project_002362/README.md) |
+| 002363 | [Ubuntu: Dashboard — Recovery for Home Development](Project_002363/README.md) |
+| 002364 | [Ubuntu: Dashboard — Reporting for Home Development](Project_002364/README.md) |
+| 002365 | [Ubuntu: Dashboard — Usability Improvement for Home Development](Project_002365/README.md) |
+| 002366 | [Ubuntu: Dashboard — Baseline Setup for Public Dataset](Project_002366/README.md) |
+| 002367 | [Ubuntu: Dashboard — Automation for Public Dataset](Project_002367/README.md) |
+| 002368 | [Ubuntu: Dashboard — Recovery for Public Dataset](Project_002368/README.md) |
+| 002369 | [Ubuntu: Dashboard — Reporting for Public Dataset](Project_002369/README.md) |
+| 002370 | [Ubuntu: Dashboard — Usability Improvement for Public Dataset](Project_002370/README.md) |
+| 002371 | [Ubuntu: Dashboard — Baseline Setup for Branch Office Simulator](Project_002371/README.md) |
+| 002372 | [Ubuntu: Dashboard — Automation for Branch Office Simulator](Project_002372/README.md) |
+| 002373 | [Ubuntu: Dashboard — Recovery for Branch Office Simulator](Project_002373/README.md) |
+| 002374 | [Ubuntu: Dashboard — Reporting for Branch Office Simulator](Project_002374/README.md) |
+| 002375 | [Ubuntu: Dashboard — Usability Improvement for Branch Office Simulator](Project_002375/README.md) |
+| 002376 | [Ubuntu: Dashboard — Baseline Setup for Offline Classroom](Project_002376/README.md) |
+| 002377 | [Ubuntu: Dashboard — Automation for Offline Classroom](Project_002377/README.md) |
+| 002378 | [Ubuntu: Dashboard — Recovery for Offline Classroom](Project_002378/README.md) |
+| 002379 | [Ubuntu: Dashboard — Reporting for Offline Classroom](Project_002379/README.md) |
+| 002380 | [Ubuntu: Dashboard — Usability Improvement for Offline Classroom](Project_002380/README.md) |
 
 [Back to the portfolio home](../README.md)
