@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004058 | [Fedora: Monitoring — Recovery for Small Business](Project_004058/README.md) |
 | 004059 | [Fedora: Monitoring — Reporting for Small Business](Project_004059/README.md) |
 | 004060 | [Fedora: Monitoring — Usability Improvement for Small Business](Project_004060/README.md) |
+| 004061 | [Fedora: Monitoring — Baseline Setup for Home Development](Project_004061/README.md) |
+| 004062 | [Fedora: Monitoring — Automation for Home Development](Project_004062/README.md) |
+| 004063 | [Fedora: Monitoring — Recovery for Home Development](Project_004063/README.md) |
+| 004064 | [Fedora: Monitoring — Reporting for Home Development](Project_004064/README.md) |
+| 004065 | [Fedora: Monitoring — Usability Improvement for Home Development](Project_004065/README.md) |
+| 004066 | [Fedora: Monitoring — Baseline Setup for Public Dataset](Project_004066/README.md) |
+| 004067 | [Fedora: Monitoring — Automation for Public Dataset](Project_004067/README.md) |
+| 004068 | [Fedora: Monitoring — Recovery for Public Dataset](Project_004068/README.md) |
+| 004069 | [Fedora: Monitoring — Reporting for Public Dataset](Project_004069/README.md) |
+| 004070 | [Fedora: Monitoring — Usability Improvement for Public Dataset](Project_004070/README.md) |
+| 004071 | [Fedora: Monitoring — Baseline Setup for Branch Office Simulator](Project_004071/README.md) |
+| 004072 | [Fedora: Monitoring — Automation for Branch Office Simulator](Project_004072/README.md) |
+| 004073 | [Fedora: Monitoring — Recovery for Branch Office Simulator](Project_004073/README.md) |
+| 004074 | [Fedora: Monitoring — Reporting for Branch Office Simulator](Project_004074/README.md) |
+| 004075 | [Fedora: Monitoring — Usability Improvement for Branch Office Simulator](Project_004075/README.md) |
+| 004076 | [Fedora: Monitoring — Baseline Setup for Offline Classroom](Project_004076/README.md) |
+| 004077 | [Fedora: Monitoring — Automation for Offline Classroom](Project_004077/README.md) |
+| 004078 | [Fedora: Monitoring — Recovery for Offline Classroom](Project_004078/README.md) |
+| 004079 | [Fedora: Monitoring — Reporting for Offline Classroom](Project_004079/README.md) |
+| 004080 | [Fedora: Monitoring — Usability Improvement for Offline Classroom](Project_004080/README.md) |
 
 [Back to the portfolio home](../README.md)
