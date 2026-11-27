@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021138 | [TypeScript: Audit — Recovery for Two-Node Lab](Project_021138/README.md) |
 | 021139 | [TypeScript: Audit — Reporting for Two-Node Lab](Project_021139/README.md) |
 | 021140 | [TypeScript: Audit — Usability Improvement for Two-Node Lab](Project_021140/README.md) |
+| 021141 | [TypeScript: Audit — Baseline Setup for Help Desk](Project_021141/README.md) |
+| 021142 | [TypeScript: Audit — Automation for Help Desk](Project_021142/README.md) |
+| 021143 | [TypeScript: Audit — Recovery for Help Desk](Project_021143/README.md) |
+| 021144 | [TypeScript: Audit — Reporting for Help Desk](Project_021144/README.md) |
+| 021145 | [TypeScript: Audit — Usability Improvement for Help Desk](Project_021145/README.md) |
+| 021146 | [TypeScript: Audit — Baseline Setup for Portfolio Demo](Project_021146/README.md) |
+| 021147 | [TypeScript: Audit — Automation for Portfolio Demo](Project_021147/README.md) |
+| 021148 | [TypeScript: Audit — Recovery for Portfolio Demo](Project_021148/README.md) |
+| 021149 | [TypeScript: Audit — Reporting for Portfolio Demo](Project_021149/README.md) |
+| 021150 | [TypeScript: Audit — Usability Improvement for Portfolio Demo](Project_021150/README.md) |
+| 021151 | [TypeScript: Log Analysis — Baseline Setup for School Lab](Project_021151/README.md) |
+| 021152 | [TypeScript: Log Analysis — Automation for School Lab](Project_021152/README.md) |
+| 021153 | [TypeScript: Log Analysis — Recovery for School Lab](Project_021153/README.md) |
+| 021154 | [TypeScript: Log Analysis — Reporting for School Lab](Project_021154/README.md) |
+| 021155 | [TypeScript: Log Analysis — Usability Improvement for School Lab](Project_021155/README.md) |
+| 021156 | [TypeScript: Log Analysis — Baseline Setup for Small Business](Project_021156/README.md) |
+| 021157 | [TypeScript: Log Analysis — Automation for Small Business](Project_021157/README.md) |
+| 021158 | [TypeScript: Log Analysis — Recovery for Small Business](Project_021158/README.md) |
+| 021159 | [TypeScript: Log Analysis — Reporting for Small Business](Project_021159/README.md) |
+| 021160 | [TypeScript: Log Analysis — Usability Improvement for Small Business](Project_021160/README.md) |
 
 [Back to the portfolio home](../README.md)
