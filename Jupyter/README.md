@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033738 | [Jupyter: Error Handling — Recovery for Two-Node Lab](Project_033738/README.md) |
 | 033739 | [Jupyter: Error Handling — Reporting for Two-Node Lab](Project_033739/README.md) |
 | 033740 | [Jupyter: Error Handling — Usability Improvement for Two-Node Lab](Project_033740/README.md) |
+| 033741 | [Jupyter: Error Handling — Baseline Setup for Help Desk](Project_033741/README.md) |
+| 033742 | [Jupyter: Error Handling — Automation for Help Desk](Project_033742/README.md) |
+| 033743 | [Jupyter: Error Handling — Recovery for Help Desk](Project_033743/README.md) |
+| 033744 | [Jupyter: Error Handling — Reporting for Help Desk](Project_033744/README.md) |
+| 033745 | [Jupyter: Error Handling — Usability Improvement for Help Desk](Project_033745/README.md) |
+| 033746 | [Jupyter: Error Handling — Baseline Setup for Portfolio Demo](Project_033746/README.md) |
+| 033747 | [Jupyter: Error Handling — Automation for Portfolio Demo](Project_033747/README.md) |
+| 033748 | [Jupyter: Error Handling — Recovery for Portfolio Demo](Project_033748/README.md) |
+| 033749 | [Jupyter: Error Handling — Reporting for Portfolio Demo](Project_033749/README.md) |
+| 033750 | [Jupyter: Error Handling — Usability Improvement for Portfolio Demo](Project_033750/README.md) |
+| 033751 | [Jupyter: Data Validation — Baseline Setup for School Lab](Project_033751/README.md) |
+| 033752 | [Jupyter: Data Validation — Automation for School Lab](Project_033752/README.md) |
+| 033753 | [Jupyter: Data Validation — Recovery for School Lab](Project_033753/README.md) |
+| 033754 | [Jupyter: Data Validation — Reporting for School Lab](Project_033754/README.md) |
+| 033755 | [Jupyter: Data Validation — Usability Improvement for School Lab](Project_033755/README.md) |
+| 033756 | [Jupyter: Data Validation — Baseline Setup for Small Business](Project_033756/README.md) |
+| 033757 | [Jupyter: Data Validation — Automation for Small Business](Project_033757/README.md) |
+| 033758 | [Jupyter: Data Validation — Recovery for Small Business](Project_033758/README.md) |
+| 033759 | [Jupyter: Data Validation — Reporting for Small Business](Project_033759/README.md) |
+| 033760 | [Jupyter: Data Validation — Usability Improvement for Small Business](Project_033760/README.md) |
 
 [Back to the portfolio home](../README.md)
