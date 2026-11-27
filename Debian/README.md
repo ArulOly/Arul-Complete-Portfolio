@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003838 | [Debian: Documentation Generation — Recovery for Two-Node Lab](Project_003838/README.md) |
 | 003839 | [Debian: Documentation Generation — Reporting for Two-Node Lab](Project_003839/README.md) |
 | 003840 | [Debian: Documentation Generation — Usability Improvement for Two-Node Lab](Project_003840/README.md) |
+| 003841 | [Debian: Documentation Generation — Baseline Setup for Help Desk](Project_003841/README.md) |
+| 003842 | [Debian: Documentation Generation — Automation for Help Desk](Project_003842/README.md) |
+| 003843 | [Debian: Documentation Generation — Recovery for Help Desk](Project_003843/README.md) |
+| 003844 | [Debian: Documentation Generation — Reporting for Help Desk](Project_003844/README.md) |
+| 003845 | [Debian: Documentation Generation — Usability Improvement for Help Desk](Project_003845/README.md) |
+| 003846 | [Debian: Documentation Generation — Baseline Setup for Portfolio Demo](Project_003846/README.md) |
+| 003847 | [Debian: Documentation Generation — Automation for Portfolio Demo](Project_003847/README.md) |
+| 003848 | [Debian: Documentation Generation — Recovery for Portfolio Demo](Project_003848/README.md) |
+| 003849 | [Debian: Documentation Generation — Reporting for Portfolio Demo](Project_003849/README.md) |
+| 003850 | [Debian: Documentation Generation — Usability Improvement for Portfolio Demo](Project_003850/README.md) |
+| 003851 | [Debian: Automation — Baseline Setup for School Lab](Project_003851/README.md) |
+| 003852 | [Debian: Automation — Automation for School Lab](Project_003852/README.md) |
+| 003853 | [Debian: Automation — Recovery for School Lab](Project_003853/README.md) |
+| 003854 | [Debian: Automation — Reporting for School Lab](Project_003854/README.md) |
+| 003855 | [Debian: Automation — Usability Improvement for School Lab](Project_003855/README.md) |
+| 003856 | [Debian: Automation — Baseline Setup for Small Business](Project_003856/README.md) |
+| 003857 | [Debian: Automation — Automation for Small Business](Project_003857/README.md) |
+| 003858 | [Debian: Automation — Recovery for Small Business](Project_003858/README.md) |
+| 003859 | [Debian: Automation — Reporting for Small Business](Project_003859/README.md) |
+| 003860 | [Debian: Automation — Usability Improvement for Small Business](Project_003860/README.md) |
 
 [Back to the portfolio home](../README.md)
