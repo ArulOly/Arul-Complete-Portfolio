@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032558 | [Power BI: Performance Baseline — Recovery for Small Business](Project_032558/README.md) |
 | 032559 | [Power BI: Performance Baseline — Reporting for Small Business](Project_032559/README.md) |
 | 032560 | [Power BI: Performance Baseline — Usability Improvement for Small Business](Project_032560/README.md) |
+| 032561 | [Power BI: Performance Baseline — Baseline Setup for Home Development](Project_032561/README.md) |
+| 032562 | [Power BI: Performance Baseline — Automation for Home Development](Project_032562/README.md) |
+| 032563 | [Power BI: Performance Baseline — Recovery for Home Development](Project_032563/README.md) |
+| 032564 | [Power BI: Performance Baseline — Reporting for Home Development](Project_032564/README.md) |
+| 032565 | [Power BI: Performance Baseline — Usability Improvement for Home Development](Project_032565/README.md) |
+| 032566 | [Power BI: Performance Baseline — Baseline Setup for Public Dataset](Project_032566/README.md) |
+| 032567 | [Power BI: Performance Baseline — Automation for Public Dataset](Project_032567/README.md) |
+| 032568 | [Power BI: Performance Baseline — Recovery for Public Dataset](Project_032568/README.md) |
+| 032569 | [Power BI: Performance Baseline — Reporting for Public Dataset](Project_032569/README.md) |
+| 032570 | [Power BI: Performance Baseline — Usability Improvement for Public Dataset](Project_032570/README.md) |
+| 032571 | [Power BI: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_032571/README.md) |
+| 032572 | [Power BI: Performance Baseline — Automation for Branch Office Simulator](Project_032572/README.md) |
+| 032573 | [Power BI: Performance Baseline — Recovery for Branch Office Simulator](Project_032573/README.md) |
+| 032574 | [Power BI: Performance Baseline — Reporting for Branch Office Simulator](Project_032574/README.md) |
+| 032575 | [Power BI: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_032575/README.md) |
+| 032576 | [Power BI: Performance Baseline — Baseline Setup for Offline Classroom](Project_032576/README.md) |
+| 032577 | [Power BI: Performance Baseline — Automation for Offline Classroom](Project_032577/README.md) |
+| 032578 | [Power BI: Performance Baseline — Recovery for Offline Classroom](Project_032578/README.md) |
+| 032579 | [Power BI: Performance Baseline — Reporting for Offline Classroom](Project_032579/README.md) |
+| 032580 | [Power BI: Performance Baseline — Usability Improvement for Offline Classroom](Project_032580/README.md) |
 
 [Back to the portfolio home](../README.md)
