@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004218 | [Fedora: Backup Verification — Recovery for Public Dataset](Project_004218/README.md) |
 | 004219 | [Fedora: Backup Verification — Reporting for Public Dataset](Project_004219/README.md) |
 | 004220 | [Fedora: Backup Verification — Usability Improvement for Public Dataset](Project_004220/README.md) |
+| 004221 | [Fedora: Backup Verification — Baseline Setup for Branch Office Simulator](Project_004221/README.md) |
+| 004222 | [Fedora: Backup Verification — Automation for Branch Office Simulator](Project_004222/README.md) |
+| 004223 | [Fedora: Backup Verification — Recovery for Branch Office Simulator](Project_004223/README.md) |
+| 004224 | [Fedora: Backup Verification — Reporting for Branch Office Simulator](Project_004224/README.md) |
+| 004225 | [Fedora: Backup Verification — Usability Improvement for Branch Office Simulator](Project_004225/README.md) |
+| 004226 | [Fedora: Backup Verification — Baseline Setup for Offline Classroom](Project_004226/README.md) |
+| 004227 | [Fedora: Backup Verification — Automation for Offline Classroom](Project_004227/README.md) |
+| 004228 | [Fedora: Backup Verification — Recovery for Offline Classroom](Project_004228/README.md) |
+| 004229 | [Fedora: Backup Verification — Reporting for Offline Classroom](Project_004229/README.md) |
+| 004230 | [Fedora: Backup Verification — Usability Improvement for Offline Classroom](Project_004230/README.md) |
+| 004231 | [Fedora: Backup Verification — Baseline Setup for Single-Host Lab](Project_004231/README.md) |
+| 004232 | [Fedora: Backup Verification — Automation for Single-Host Lab](Project_004232/README.md) |
+| 004233 | [Fedora: Backup Verification — Recovery for Single-Host Lab](Project_004233/README.md) |
+| 004234 | [Fedora: Backup Verification — Reporting for Single-Host Lab](Project_004234/README.md) |
+| 004235 | [Fedora: Backup Verification — Usability Improvement for Single-Host Lab](Project_004235/README.md) |
+| 004236 | [Fedora: Backup Verification — Baseline Setup for Two-Node Lab](Project_004236/README.md) |
+| 004237 | [Fedora: Backup Verification — Automation for Two-Node Lab](Project_004237/README.md) |
+| 004238 | [Fedora: Backup Verification — Recovery for Two-Node Lab](Project_004238/README.md) |
+| 004239 | [Fedora: Backup Verification — Reporting for Two-Node Lab](Project_004239/README.md) |
+| 004240 | [Fedora: Backup Verification — Usability Improvement for Two-Node Lab](Project_004240/README.md) |
 
 [Back to the portfolio home](../README.md)
