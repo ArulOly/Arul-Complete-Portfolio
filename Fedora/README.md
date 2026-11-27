@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004978 | [Fedora: Recovery Test — Recovery for Offline Classroom](Project_004978/README.md) |
 | 004979 | [Fedora: Recovery Test — Reporting for Offline Classroom](Project_004979/README.md) |
 | 004980 | [Fedora: Recovery Test — Usability Improvement for Offline Classroom](Project_004980/README.md) |
+| 004981 | [Fedora: Recovery Test — Baseline Setup for Single-Host Lab](Project_004981/README.md) |
+| 004982 | [Fedora: Recovery Test — Automation for Single-Host Lab](Project_004982/README.md) |
+| 004983 | [Fedora: Recovery Test — Recovery for Single-Host Lab](Project_004983/README.md) |
+| 004984 | [Fedora: Recovery Test — Reporting for Single-Host Lab](Project_004984/README.md) |
+| 004985 | [Fedora: Recovery Test — Usability Improvement for Single-Host Lab](Project_004985/README.md) |
+| 004986 | [Fedora: Recovery Test — Baseline Setup for Two-Node Lab](Project_004986/README.md) |
+| 004987 | [Fedora: Recovery Test — Automation for Two-Node Lab](Project_004987/README.md) |
+| 004988 | [Fedora: Recovery Test — Recovery for Two-Node Lab](Project_004988/README.md) |
+| 004989 | [Fedora: Recovery Test — Reporting for Two-Node Lab](Project_004989/README.md) |
+| 004990 | [Fedora: Recovery Test — Usability Improvement for Two-Node Lab](Project_004990/README.md) |
+| 004991 | [Fedora: Recovery Test — Baseline Setup for Help Desk](Project_004991/README.md) |
+| 004992 | [Fedora: Recovery Test — Automation for Help Desk](Project_004992/README.md) |
+| 004993 | [Fedora: Recovery Test — Recovery for Help Desk](Project_004993/README.md) |
+| 004994 | [Fedora: Recovery Test — Reporting for Help Desk](Project_004994/README.md) |
+| 004995 | [Fedora: Recovery Test — Usability Improvement for Help Desk](Project_004995/README.md) |
+| 004996 | [Fedora: Recovery Test — Baseline Setup for Portfolio Demo](Project_004996/README.md) |
+| 004997 | [Fedora: Recovery Test — Automation for Portfolio Demo](Project_004997/README.md) |
+| 004998 | [Fedora: Recovery Test — Recovery for Portfolio Demo](Project_004998/README.md) |
+| 004999 | [Fedora: Recovery Test — Reporting for Portfolio Demo](Project_004999/README.md) |
+| 005000 | [Fedora: Recovery Test — Usability Improvement for Portfolio Demo](Project_005000/README.md) |
 
 [Back to the portfolio home](../README.md)
