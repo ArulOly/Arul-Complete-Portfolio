@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027218 | [MongoDB: Backup Verification — Recovery for Public Dataset](Project_027218/README.md) |
 | 027219 | [MongoDB: Backup Verification — Reporting for Public Dataset](Project_027219/README.md) |
 | 027220 | [MongoDB: Backup Verification — Usability Improvement for Public Dataset](Project_027220/README.md) |
+| 027221 | [MongoDB: Backup Verification — Baseline Setup for Branch Office Simulator](Project_027221/README.md) |
+| 027222 | [MongoDB: Backup Verification — Automation for Branch Office Simulator](Project_027222/README.md) |
+| 027223 | [MongoDB: Backup Verification — Recovery for Branch Office Simulator](Project_027223/README.md) |
+| 027224 | [MongoDB: Backup Verification — Reporting for Branch Office Simulator](Project_027224/README.md) |
+| 027225 | [MongoDB: Backup Verification — Usability Improvement for Branch Office Simulator](Project_027225/README.md) |
+| 027226 | [MongoDB: Backup Verification — Baseline Setup for Offline Classroom](Project_027226/README.md) |
+| 027227 | [MongoDB: Backup Verification — Automation for Offline Classroom](Project_027227/README.md) |
+| 027228 | [MongoDB: Backup Verification — Recovery for Offline Classroom](Project_027228/README.md) |
+| 027229 | [MongoDB: Backup Verification — Reporting for Offline Classroom](Project_027229/README.md) |
+| 027230 | [MongoDB: Backup Verification — Usability Improvement for Offline Classroom](Project_027230/README.md) |
+| 027231 | [MongoDB: Backup Verification — Baseline Setup for Single-Host Lab](Project_027231/README.md) |
+| 027232 | [MongoDB: Backup Verification — Automation for Single-Host Lab](Project_027232/README.md) |
+| 027233 | [MongoDB: Backup Verification — Recovery for Single-Host Lab](Project_027233/README.md) |
+| 027234 | [MongoDB: Backup Verification — Reporting for Single-Host Lab](Project_027234/README.md) |
+| 027235 | [MongoDB: Backup Verification — Usability Improvement for Single-Host Lab](Project_027235/README.md) |
+| 027236 | [MongoDB: Backup Verification — Baseline Setup for Two-Node Lab](Project_027236/README.md) |
+| 027237 | [MongoDB: Backup Verification — Automation for Two-Node Lab](Project_027237/README.md) |
+| 027238 | [MongoDB: Backup Verification — Recovery for Two-Node Lab](Project_027238/README.md) |
+| 027239 | [MongoDB: Backup Verification — Reporting for Two-Node Lab](Project_027239/README.md) |
+| 027240 | [MongoDB: Backup Verification — Usability Improvement for Two-Node Lab](Project_027240/README.md) |
 
 [Back to the portfolio home](../README.md)
