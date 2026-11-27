@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028938 | [SQLite: Visual Reporting — Recovery for Two-Node Lab](Project_028938/README.md) |
 | 028939 | [SQLite: Visual Reporting — Reporting for Two-Node Lab](Project_028939/README.md) |
 | 028940 | [SQLite: Visual Reporting — Usability Improvement for Two-Node Lab](Project_028940/README.md) |
+| 028941 | [SQLite: Visual Reporting — Baseline Setup for Help Desk](Project_028941/README.md) |
+| 028942 | [SQLite: Visual Reporting — Automation for Help Desk](Project_028942/README.md) |
+| 028943 | [SQLite: Visual Reporting — Recovery for Help Desk](Project_028943/README.md) |
+| 028944 | [SQLite: Visual Reporting — Reporting for Help Desk](Project_028944/README.md) |
+| 028945 | [SQLite: Visual Reporting — Usability Improvement for Help Desk](Project_028945/README.md) |
+| 028946 | [SQLite: Visual Reporting — Baseline Setup for Portfolio Demo](Project_028946/README.md) |
+| 028947 | [SQLite: Visual Reporting — Automation for Portfolio Demo](Project_028947/README.md) |
+| 028948 | [SQLite: Visual Reporting — Recovery for Portfolio Demo](Project_028948/README.md) |
+| 028949 | [SQLite: Visual Reporting — Reporting for Portfolio Demo](Project_028949/README.md) |
+| 028950 | [SQLite: Visual Reporting — Usability Improvement for Portfolio Demo](Project_028950/README.md) |
+| 028951 | [SQLite: Recovery Test — Baseline Setup for School Lab](Project_028951/README.md) |
+| 028952 | [SQLite: Recovery Test — Automation for School Lab](Project_028952/README.md) |
+| 028953 | [SQLite: Recovery Test — Recovery for School Lab](Project_028953/README.md) |
+| 028954 | [SQLite: Recovery Test — Reporting for School Lab](Project_028954/README.md) |
+| 028955 | [SQLite: Recovery Test — Usability Improvement for School Lab](Project_028955/README.md) |
+| 028956 | [SQLite: Recovery Test — Baseline Setup for Small Business](Project_028956/README.md) |
+| 028957 | [SQLite: Recovery Test — Automation for Small Business](Project_028957/README.md) |
+| 028958 | [SQLite: Recovery Test — Recovery for Small Business](Project_028958/README.md) |
+| 028959 | [SQLite: Recovery Test — Reporting for Small Business](Project_028959/README.md) |
+| 028960 | [SQLite: Recovery Test — Usability Improvement for Small Business](Project_028960/README.md) |
 
 [Back to the portfolio home](../README.md)
