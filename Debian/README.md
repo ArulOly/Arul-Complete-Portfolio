@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003538 | [Debian: Access Review — Recovery for Two-Node Lab](Project_003538/README.md) |
 | 003539 | [Debian: Access Review — Reporting for Two-Node Lab](Project_003539/README.md) |
 | 003540 | [Debian: Access Review — Usability Improvement for Two-Node Lab](Project_003540/README.md) |
+| 003541 | [Debian: Access Review — Baseline Setup for Help Desk](Project_003541/README.md) |
+| 003542 | [Debian: Access Review — Automation for Help Desk](Project_003542/README.md) |
+| 003543 | [Debian: Access Review — Recovery for Help Desk](Project_003543/README.md) |
+| 003544 | [Debian: Access Review — Reporting for Help Desk](Project_003544/README.md) |
+| 003545 | [Debian: Access Review — Usability Improvement for Help Desk](Project_003545/README.md) |
+| 003546 | [Debian: Access Review — Baseline Setup for Portfolio Demo](Project_003546/README.md) |
+| 003547 | [Debian: Access Review — Automation for Portfolio Demo](Project_003547/README.md) |
+| 003548 | [Debian: Access Review — Recovery for Portfolio Demo](Project_003548/README.md) |
+| 003549 | [Debian: Access Review — Reporting for Portfolio Demo](Project_003549/README.md) |
+| 003550 | [Debian: Access Review — Usability Improvement for Portfolio Demo](Project_003550/README.md) |
+| 003551 | [Debian: Performance Baseline — Baseline Setup for School Lab](Project_003551/README.md) |
+| 003552 | [Debian: Performance Baseline — Automation for School Lab](Project_003552/README.md) |
+| 003553 | [Debian: Performance Baseline — Recovery for School Lab](Project_003553/README.md) |
+| 003554 | [Debian: Performance Baseline — Reporting for School Lab](Project_003554/README.md) |
+| 003555 | [Debian: Performance Baseline — Usability Improvement for School Lab](Project_003555/README.md) |
+| 003556 | [Debian: Performance Baseline — Baseline Setup for Small Business](Project_003556/README.md) |
+| 003557 | [Debian: Performance Baseline — Automation for Small Business](Project_003557/README.md) |
+| 003558 | [Debian: Performance Baseline — Recovery for Small Business](Project_003558/README.md) |
+| 003559 | [Debian: Performance Baseline — Reporting for Small Business](Project_003559/README.md) |
+| 003560 | [Debian: Performance Baseline — Usability Improvement for Small Business](Project_003560/README.md) |
 
 [Back to the portfolio home](../README.md)
