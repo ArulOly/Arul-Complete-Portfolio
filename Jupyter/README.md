@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033718 | [Jupyter: Error Handling — Recovery for Public Dataset](Project_033718/README.md) |
 | 033719 | [Jupyter: Error Handling — Reporting for Public Dataset](Project_033719/README.md) |
 | 033720 | [Jupyter: Error Handling — Usability Improvement for Public Dataset](Project_033720/README.md) |
+| 033721 | [Jupyter: Error Handling — Baseline Setup for Branch Office Simulator](Project_033721/README.md) |
+| 033722 | [Jupyter: Error Handling — Automation for Branch Office Simulator](Project_033722/README.md) |
+| 033723 | [Jupyter: Error Handling — Recovery for Branch Office Simulator](Project_033723/README.md) |
+| 033724 | [Jupyter: Error Handling — Reporting for Branch Office Simulator](Project_033724/README.md) |
+| 033725 | [Jupyter: Error Handling — Usability Improvement for Branch Office Simulator](Project_033725/README.md) |
+| 033726 | [Jupyter: Error Handling — Baseline Setup for Offline Classroom](Project_033726/README.md) |
+| 033727 | [Jupyter: Error Handling — Automation for Offline Classroom](Project_033727/README.md) |
+| 033728 | [Jupyter: Error Handling — Recovery for Offline Classroom](Project_033728/README.md) |
+| 033729 | [Jupyter: Error Handling — Reporting for Offline Classroom](Project_033729/README.md) |
+| 033730 | [Jupyter: Error Handling — Usability Improvement for Offline Classroom](Project_033730/README.md) |
+| 033731 | [Jupyter: Error Handling — Baseline Setup for Single-Host Lab](Project_033731/README.md) |
+| 033732 | [Jupyter: Error Handling — Automation for Single-Host Lab](Project_033732/README.md) |
+| 033733 | [Jupyter: Error Handling — Recovery for Single-Host Lab](Project_033733/README.md) |
+| 033734 | [Jupyter: Error Handling — Reporting for Single-Host Lab](Project_033734/README.md) |
+| 033735 | [Jupyter: Error Handling — Usability Improvement for Single-Host Lab](Project_033735/README.md) |
+| 033736 | [Jupyter: Error Handling — Baseline Setup for Two-Node Lab](Project_033736/README.md) |
+| 033737 | [Jupyter: Error Handling — Automation for Two-Node Lab](Project_033737/README.md) |
+| 033738 | [Jupyter: Error Handling — Recovery for Two-Node Lab](Project_033738/README.md) |
+| 033739 | [Jupyter: Error Handling — Reporting for Two-Node Lab](Project_033739/README.md) |
+| 033740 | [Jupyter: Error Handling — Usability Improvement for Two-Node Lab](Project_033740/README.md) |
 
 [Back to the portfolio home](../README.md)
