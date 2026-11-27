@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026578 | [MySQL: Performance Baseline — Recovery for Offline Classroom](Project_026578/README.md) |
 | 026579 | [MySQL: Performance Baseline — Reporting for Offline Classroom](Project_026579/README.md) |
 | 026580 | [MySQL: Performance Baseline — Usability Improvement for Offline Classroom](Project_026580/README.md) |
+| 026581 | [MySQL: Performance Baseline — Baseline Setup for Single-Host Lab](Project_026581/README.md) |
+| 026582 | [MySQL: Performance Baseline — Automation for Single-Host Lab](Project_026582/README.md) |
+| 026583 | [MySQL: Performance Baseline — Recovery for Single-Host Lab](Project_026583/README.md) |
+| 026584 | [MySQL: Performance Baseline — Reporting for Single-Host Lab](Project_026584/README.md) |
+| 026585 | [MySQL: Performance Baseline — Usability Improvement for Single-Host Lab](Project_026585/README.md) |
+| 026586 | [MySQL: Performance Baseline — Baseline Setup for Two-Node Lab](Project_026586/README.md) |
+| 026587 | [MySQL: Performance Baseline — Automation for Two-Node Lab](Project_026587/README.md) |
+| 026588 | [MySQL: Performance Baseline — Recovery for Two-Node Lab](Project_026588/README.md) |
+| 026589 | [MySQL: Performance Baseline — Reporting for Two-Node Lab](Project_026589/README.md) |
+| 026590 | [MySQL: Performance Baseline — Usability Improvement for Two-Node Lab](Project_026590/README.md) |
+| 026591 | [MySQL: Performance Baseline — Baseline Setup for Help Desk](Project_026591/README.md) |
+| 026592 | [MySQL: Performance Baseline — Automation for Help Desk](Project_026592/README.md) |
+| 026593 | [MySQL: Performance Baseline — Recovery for Help Desk](Project_026593/README.md) |
+| 026594 | [MySQL: Performance Baseline — Reporting for Help Desk](Project_026594/README.md) |
+| 026595 | [MySQL: Performance Baseline — Usability Improvement for Help Desk](Project_026595/README.md) |
+| 026596 | [MySQL: Performance Baseline — Baseline Setup for Portfolio Demo](Project_026596/README.md) |
+| 026597 | [MySQL: Performance Baseline — Automation for Portfolio Demo](Project_026597/README.md) |
+| 026598 | [MySQL: Performance Baseline — Recovery for Portfolio Demo](Project_026598/README.md) |
+| 026599 | [MySQL: Performance Baseline — Reporting for Portfolio Demo](Project_026599/README.md) |
+| 026600 | [MySQL: Performance Baseline — Usability Improvement for Portfolio Demo](Project_026600/README.md) |
 
 [Back to the portfolio home](../README.md)
