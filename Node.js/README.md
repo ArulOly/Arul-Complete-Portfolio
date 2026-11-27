@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024878 | [Node.js: Automation — Recovery for Offline Classroom](Project_024878/README.md) |
 | 024879 | [Node.js: Automation — Reporting for Offline Classroom](Project_024879/README.md) |
 | 024880 | [Node.js: Automation — Usability Improvement for Offline Classroom](Project_024880/README.md) |
+| 024881 | [Node.js: Automation — Baseline Setup for Single-Host Lab](Project_024881/README.md) |
+| 024882 | [Node.js: Automation — Automation for Single-Host Lab](Project_024882/README.md) |
+| 024883 | [Node.js: Automation — Recovery for Single-Host Lab](Project_024883/README.md) |
+| 024884 | [Node.js: Automation — Reporting for Single-Host Lab](Project_024884/README.md) |
+| 024885 | [Node.js: Automation — Usability Improvement for Single-Host Lab](Project_024885/README.md) |
+| 024886 | [Node.js: Automation — Baseline Setup for Two-Node Lab](Project_024886/README.md) |
+| 024887 | [Node.js: Automation — Automation for Two-Node Lab](Project_024887/README.md) |
+| 024888 | [Node.js: Automation — Recovery for Two-Node Lab](Project_024888/README.md) |
+| 024889 | [Node.js: Automation — Reporting for Two-Node Lab](Project_024889/README.md) |
+| 024890 | [Node.js: Automation — Usability Improvement for Two-Node Lab](Project_024890/README.md) |
+| 024891 | [Node.js: Automation — Baseline Setup for Help Desk](Project_024891/README.md) |
+| 024892 | [Node.js: Automation — Automation for Help Desk](Project_024892/README.md) |
+| 024893 | [Node.js: Automation — Recovery for Help Desk](Project_024893/README.md) |
+| 024894 | [Node.js: Automation — Reporting for Help Desk](Project_024894/README.md) |
+| 024895 | [Node.js: Automation — Usability Improvement for Help Desk](Project_024895/README.md) |
+| 024896 | [Node.js: Automation — Baseline Setup for Portfolio Demo](Project_024896/README.md) |
+| 024897 | [Node.js: Automation — Automation for Portfolio Demo](Project_024897/README.md) |
+| 024898 | [Node.js: Automation — Recovery for Portfolio Demo](Project_024898/README.md) |
+| 024899 | [Node.js: Automation — Reporting for Portfolio Demo](Project_024899/README.md) |
+| 024900 | [Node.js: Automation — Usability Improvement for Portfolio Demo](Project_024900/README.md) |
 
 [Back to the portfolio home](../README.md)
