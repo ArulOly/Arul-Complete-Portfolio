@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020778 | [JavaScript: Data Validation — Recovery for Offline Classroom](Project_020778/README.md) |
 | 020779 | [JavaScript: Data Validation — Reporting for Offline Classroom](Project_020779/README.md) |
 | 020780 | [JavaScript: Data Validation — Usability Improvement for Offline Classroom](Project_020780/README.md) |
+| 020781 | [JavaScript: Data Validation — Baseline Setup for Single-Host Lab](Project_020781/README.md) |
+| 020782 | [JavaScript: Data Validation — Automation for Single-Host Lab](Project_020782/README.md) |
+| 020783 | [JavaScript: Data Validation — Recovery for Single-Host Lab](Project_020783/README.md) |
+| 020784 | [JavaScript: Data Validation — Reporting for Single-Host Lab](Project_020784/README.md) |
+| 020785 | [JavaScript: Data Validation — Usability Improvement for Single-Host Lab](Project_020785/README.md) |
+| 020786 | [JavaScript: Data Validation — Baseline Setup for Two-Node Lab](Project_020786/README.md) |
+| 020787 | [JavaScript: Data Validation — Automation for Two-Node Lab](Project_020787/README.md) |
+| 020788 | [JavaScript: Data Validation — Recovery for Two-Node Lab](Project_020788/README.md) |
+| 020789 | [JavaScript: Data Validation — Reporting for Two-Node Lab](Project_020789/README.md) |
+| 020790 | [JavaScript: Data Validation — Usability Improvement for Two-Node Lab](Project_020790/README.md) |
+| 020791 | [JavaScript: Data Validation — Baseline Setup for Help Desk](Project_020791/README.md) |
+| 020792 | [JavaScript: Data Validation — Automation for Help Desk](Project_020792/README.md) |
+| 020793 | [JavaScript: Data Validation — Recovery for Help Desk](Project_020793/README.md) |
+| 020794 | [JavaScript: Data Validation — Reporting for Help Desk](Project_020794/README.md) |
+| 020795 | [JavaScript: Data Validation — Usability Improvement for Help Desk](Project_020795/README.md) |
+| 020796 | [JavaScript: Data Validation — Baseline Setup for Portfolio Demo](Project_020796/README.md) |
+| 020797 | [JavaScript: Data Validation — Automation for Portfolio Demo](Project_020797/README.md) |
+| 020798 | [JavaScript: Data Validation — Recovery for Portfolio Demo](Project_020798/README.md) |
+| 020799 | [JavaScript: Data Validation — Reporting for Portfolio Demo](Project_020799/README.md) |
+| 020800 | [JavaScript: Data Validation — Usability Improvement for Portfolio Demo](Project_020800/README.md) |
 
 [Back to the portfolio home](../README.md)
