@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028618 | [SQLite: Service Check — Recovery for Public Dataset](Project_028618/README.md) |
 | 028619 | [SQLite: Service Check — Reporting for Public Dataset](Project_028619/README.md) |
 | 028620 | [SQLite: Service Check — Usability Improvement for Public Dataset](Project_028620/README.md) |
+| 028621 | [SQLite: Service Check — Baseline Setup for Branch Office Simulator](Project_028621/README.md) |
+| 028622 | [SQLite: Service Check — Automation for Branch Office Simulator](Project_028622/README.md) |
+| 028623 | [SQLite: Service Check — Recovery for Branch Office Simulator](Project_028623/README.md) |
+| 028624 | [SQLite: Service Check — Reporting for Branch Office Simulator](Project_028624/README.md) |
+| 028625 | [SQLite: Service Check — Usability Improvement for Branch Office Simulator](Project_028625/README.md) |
+| 028626 | [SQLite: Service Check — Baseline Setup for Offline Classroom](Project_028626/README.md) |
+| 028627 | [SQLite: Service Check — Automation for Offline Classroom](Project_028627/README.md) |
+| 028628 | [SQLite: Service Check — Recovery for Offline Classroom](Project_028628/README.md) |
+| 028629 | [SQLite: Service Check — Reporting for Offline Classroom](Project_028629/README.md) |
+| 028630 | [SQLite: Service Check — Usability Improvement for Offline Classroom](Project_028630/README.md) |
+| 028631 | [SQLite: Service Check — Baseline Setup for Single-Host Lab](Project_028631/README.md) |
+| 028632 | [SQLite: Service Check — Automation for Single-Host Lab](Project_028632/README.md) |
+| 028633 | [SQLite: Service Check — Recovery for Single-Host Lab](Project_028633/README.md) |
+| 028634 | [SQLite: Service Check — Reporting for Single-Host Lab](Project_028634/README.md) |
+| 028635 | [SQLite: Service Check — Usability Improvement for Single-Host Lab](Project_028635/README.md) |
+| 028636 | [SQLite: Service Check — Baseline Setup for Two-Node Lab](Project_028636/README.md) |
+| 028637 | [SQLite: Service Check — Automation for Two-Node Lab](Project_028637/README.md) |
+| 028638 | [SQLite: Service Check — Recovery for Two-Node Lab](Project_028638/README.md) |
+| 028639 | [SQLite: Service Check — Reporting for Two-Node Lab](Project_028639/README.md) |
+| 028640 | [SQLite: Service Check — Usability Improvement for Two-Node Lab](Project_028640/README.md) |
 
 [Back to the portfolio home](../README.md)
