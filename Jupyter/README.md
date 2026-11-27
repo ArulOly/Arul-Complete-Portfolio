@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033158 | [Jupyter: Log Analysis — Recovery for Small Business](Project_033158/README.md) |
 | 033159 | [Jupyter: Log Analysis — Reporting for Small Business](Project_033159/README.md) |
 | 033160 | [Jupyter: Log Analysis — Usability Improvement for Small Business](Project_033160/README.md) |
+| 033161 | [Jupyter: Log Analysis — Baseline Setup for Home Development](Project_033161/README.md) |
+| 033162 | [Jupyter: Log Analysis — Automation for Home Development](Project_033162/README.md) |
+| 033163 | [Jupyter: Log Analysis — Recovery for Home Development](Project_033163/README.md) |
+| 033164 | [Jupyter: Log Analysis — Reporting for Home Development](Project_033164/README.md) |
+| 033165 | [Jupyter: Log Analysis — Usability Improvement for Home Development](Project_033165/README.md) |
+| 033166 | [Jupyter: Log Analysis — Baseline Setup for Public Dataset](Project_033166/README.md) |
+| 033167 | [Jupyter: Log Analysis — Automation for Public Dataset](Project_033167/README.md) |
+| 033168 | [Jupyter: Log Analysis — Recovery for Public Dataset](Project_033168/README.md) |
+| 033169 | [Jupyter: Log Analysis — Reporting for Public Dataset](Project_033169/README.md) |
+| 033170 | [Jupyter: Log Analysis — Usability Improvement for Public Dataset](Project_033170/README.md) |
+| 033171 | [Jupyter: Log Analysis — Baseline Setup for Branch Office Simulator](Project_033171/README.md) |
+| 033172 | [Jupyter: Log Analysis — Automation for Branch Office Simulator](Project_033172/README.md) |
+| 033173 | [Jupyter: Log Analysis — Recovery for Branch Office Simulator](Project_033173/README.md) |
+| 033174 | [Jupyter: Log Analysis — Reporting for Branch Office Simulator](Project_033174/README.md) |
+| 033175 | [Jupyter: Log Analysis — Usability Improvement for Branch Office Simulator](Project_033175/README.md) |
+| 033176 | [Jupyter: Log Analysis — Baseline Setup for Offline Classroom](Project_033176/README.md) |
+| 033177 | [Jupyter: Log Analysis — Automation for Offline Classroom](Project_033177/README.md) |
+| 033178 | [Jupyter: Log Analysis — Recovery for Offline Classroom](Project_033178/README.md) |
+| 033179 | [Jupyter: Log Analysis — Reporting for Offline Classroom](Project_033179/README.md) |
+| 033180 | [Jupyter: Log Analysis — Usability Improvement for Offline Classroom](Project_033180/README.md) |
 
 [Back to the portfolio home](../README.md)
