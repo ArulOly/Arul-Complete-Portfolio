@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002678 | [Ubuntu: Configuration Comparison — Recovery for Offline Classroom](Project_002678/README.md) |
 | 002679 | [Ubuntu: Configuration Comparison — Reporting for Offline Classroom](Project_002679/README.md) |
 | 002680 | [Ubuntu: Configuration Comparison — Usability Improvement for Offline Classroom](Project_002680/README.md) |
+| 002681 | [Ubuntu: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_002681/README.md) |
+| 002682 | [Ubuntu: Configuration Comparison — Automation for Single-Host Lab](Project_002682/README.md) |
+| 002683 | [Ubuntu: Configuration Comparison — Recovery for Single-Host Lab](Project_002683/README.md) |
+| 002684 | [Ubuntu: Configuration Comparison — Reporting for Single-Host Lab](Project_002684/README.md) |
+| 002685 | [Ubuntu: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_002685/README.md) |
+| 002686 | [Ubuntu: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_002686/README.md) |
+| 002687 | [Ubuntu: Configuration Comparison — Automation for Two-Node Lab](Project_002687/README.md) |
+| 002688 | [Ubuntu: Configuration Comparison — Recovery for Two-Node Lab](Project_002688/README.md) |
+| 002689 | [Ubuntu: Configuration Comparison — Reporting for Two-Node Lab](Project_002689/README.md) |
+| 002690 | [Ubuntu: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_002690/README.md) |
+| 002691 | [Ubuntu: Configuration Comparison — Baseline Setup for Help Desk](Project_002691/README.md) |
+| 002692 | [Ubuntu: Configuration Comparison — Automation for Help Desk](Project_002692/README.md) |
+| 002693 | [Ubuntu: Configuration Comparison — Recovery for Help Desk](Project_002693/README.md) |
+| 002694 | [Ubuntu: Configuration Comparison — Reporting for Help Desk](Project_002694/README.md) |
+| 002695 | [Ubuntu: Configuration Comparison — Usability Improvement for Help Desk](Project_002695/README.md) |
+| 002696 | [Ubuntu: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_002696/README.md) |
+| 002697 | [Ubuntu: Configuration Comparison — Automation for Portfolio Demo](Project_002697/README.md) |
+| 002698 | [Ubuntu: Configuration Comparison — Recovery for Portfolio Demo](Project_002698/README.md) |
+| 002699 | [Ubuntu: Configuration Comparison — Reporting for Portfolio Demo](Project_002699/README.md) |
+| 002700 | [Ubuntu: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_002700/README.md) |
 
 [Back to the portfolio home](../README.md)
