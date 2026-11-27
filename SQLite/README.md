@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028758 | [SQLite: Data Validation — Recovery for Small Business](Project_028758/README.md) |
 | 028759 | [SQLite: Data Validation — Reporting for Small Business](Project_028759/README.md) |
 | 028760 | [SQLite: Data Validation — Usability Improvement for Small Business](Project_028760/README.md) |
+| 028761 | [SQLite: Data Validation — Baseline Setup for Home Development](Project_028761/README.md) |
+| 028762 | [SQLite: Data Validation — Automation for Home Development](Project_028762/README.md) |
+| 028763 | [SQLite: Data Validation — Recovery for Home Development](Project_028763/README.md) |
+| 028764 | [SQLite: Data Validation — Reporting for Home Development](Project_028764/README.md) |
+| 028765 | [SQLite: Data Validation — Usability Improvement for Home Development](Project_028765/README.md) |
+| 028766 | [SQLite: Data Validation — Baseline Setup for Public Dataset](Project_028766/README.md) |
+| 028767 | [SQLite: Data Validation — Automation for Public Dataset](Project_028767/README.md) |
+| 028768 | [SQLite: Data Validation — Recovery for Public Dataset](Project_028768/README.md) |
+| 028769 | [SQLite: Data Validation — Reporting for Public Dataset](Project_028769/README.md) |
+| 028770 | [SQLite: Data Validation — Usability Improvement for Public Dataset](Project_028770/README.md) |
+| 028771 | [SQLite: Data Validation — Baseline Setup for Branch Office Simulator](Project_028771/README.md) |
+| 028772 | [SQLite: Data Validation — Automation for Branch Office Simulator](Project_028772/README.md) |
+| 028773 | [SQLite: Data Validation — Recovery for Branch Office Simulator](Project_028773/README.md) |
+| 028774 | [SQLite: Data Validation — Reporting for Branch Office Simulator](Project_028774/README.md) |
+| 028775 | [SQLite: Data Validation — Usability Improvement for Branch Office Simulator](Project_028775/README.md) |
+| 028776 | [SQLite: Data Validation — Baseline Setup for Offline Classroom](Project_028776/README.md) |
+| 028777 | [SQLite: Data Validation — Automation for Offline Classroom](Project_028777/README.md) |
+| 028778 | [SQLite: Data Validation — Recovery for Offline Classroom](Project_028778/README.md) |
+| 028779 | [SQLite: Data Validation — Reporting for Offline Classroom](Project_028779/README.md) |
+| 028780 | [SQLite: Data Validation — Usability Improvement for Offline Classroom](Project_028780/README.md) |
 
 [Back to the portfolio home](../README.md)
