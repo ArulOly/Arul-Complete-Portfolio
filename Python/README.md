@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -424,5 +424,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019378 | [Python: Dashboard — Recovery for Offline Classroom](Project_019378/README.md) |
 | 019379 | [Python: Dashboard — Reporting for Offline Classroom](Project_019379/README.md) |
 | 019380 | [Python: Dashboard — Usability Improvement for Offline Classroom](Project_019380/README.md) |
+| 019381 | [Python: Dashboard — Baseline Setup for Single-Host Lab](Project_019381/README.md) |
+| 019382 | [Python: Dashboard — Automation for Single-Host Lab](Project_019382/README.md) |
+| 019383 | [Python: Dashboard — Recovery for Single-Host Lab](Project_019383/README.md) |
+| 019384 | [Python: Dashboard — Reporting for Single-Host Lab](Project_019384/README.md) |
+| 019385 | [Python: Dashboard — Usability Improvement for Single-Host Lab](Project_019385/README.md) |
+| 019386 | [Python: Dashboard — Baseline Setup for Two-Node Lab](Project_019386/README.md) |
+| 019387 | [Python: Dashboard — Automation for Two-Node Lab](Project_019387/README.md) |
+| 019388 | [Python: Dashboard — Recovery for Two-Node Lab](Project_019388/README.md) |
+| 019389 | [Python: Dashboard — Reporting for Two-Node Lab](Project_019389/README.md) |
+| 019390 | [Python: Dashboard — Usability Improvement for Two-Node Lab](Project_019390/README.md) |
+| 019391 | [Python: Dashboard — Baseline Setup for Help Desk](Project_019391/README.md) |
+| 019392 | [Python: Dashboard — Automation for Help Desk](Project_019392/README.md) |
+| 019393 | [Python: Dashboard — Recovery for Help Desk](Project_019393/README.md) |
+| 019394 | [Python: Dashboard — Reporting for Help Desk](Project_019394/README.md) |
+| 019395 | [Python: Dashboard — Usability Improvement for Help Desk](Project_019395/README.md) |
+| 019396 | [Python: Dashboard — Baseline Setup for Portfolio Demo](Project_019396/README.md) |
+| 019397 | [Python: Dashboard — Automation for Portfolio Demo](Project_019397/README.md) |
+| 019398 | [Python: Dashboard — Recovery for Portfolio Demo](Project_019398/README.md) |
+| 019399 | [Python: Dashboard — Reporting for Portfolio Demo](Project_019399/README.md) |
+| 019400 | [Python: Dashboard — Usability Improvement for Portfolio Demo](Project_019400/README.md) |
 
 [Back to the portfolio home](../README.md)
