@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002518 | [Ubuntu: Access Review — Recovery for Public Dataset](Project_002518/README.md) |
 | 002519 | [Ubuntu: Access Review — Reporting for Public Dataset](Project_002519/README.md) |
 | 002520 | [Ubuntu: Access Review — Usability Improvement for Public Dataset](Project_002520/README.md) |
+| 002521 | [Ubuntu: Access Review — Baseline Setup for Branch Office Simulator](Project_002521/README.md) |
+| 002522 | [Ubuntu: Access Review — Automation for Branch Office Simulator](Project_002522/README.md) |
+| 002523 | [Ubuntu: Access Review — Recovery for Branch Office Simulator](Project_002523/README.md) |
+| 002524 | [Ubuntu: Access Review — Reporting for Branch Office Simulator](Project_002524/README.md) |
+| 002525 | [Ubuntu: Access Review — Usability Improvement for Branch Office Simulator](Project_002525/README.md) |
+| 002526 | [Ubuntu: Access Review — Baseline Setup for Offline Classroom](Project_002526/README.md) |
+| 002527 | [Ubuntu: Access Review — Automation for Offline Classroom](Project_002527/README.md) |
+| 002528 | [Ubuntu: Access Review — Recovery for Offline Classroom](Project_002528/README.md) |
+| 002529 | [Ubuntu: Access Review — Reporting for Offline Classroom](Project_002529/README.md) |
+| 002530 | [Ubuntu: Access Review — Usability Improvement for Offline Classroom](Project_002530/README.md) |
+| 002531 | [Ubuntu: Access Review — Baseline Setup for Single-Host Lab](Project_002531/README.md) |
+| 002532 | [Ubuntu: Access Review — Automation for Single-Host Lab](Project_002532/README.md) |
+| 002533 | [Ubuntu: Access Review — Recovery for Single-Host Lab](Project_002533/README.md) |
+| 002534 | [Ubuntu: Access Review — Reporting for Single-Host Lab](Project_002534/README.md) |
+| 002535 | [Ubuntu: Access Review — Usability Improvement for Single-Host Lab](Project_002535/README.md) |
+| 002536 | [Ubuntu: Access Review — Baseline Setup for Two-Node Lab](Project_002536/README.md) |
+| 002537 | [Ubuntu: Access Review — Automation for Two-Node Lab](Project_002537/README.md) |
+| 002538 | [Ubuntu: Access Review — Recovery for Two-Node Lab](Project_002538/README.md) |
+| 002539 | [Ubuntu: Access Review — Reporting for Two-Node Lab](Project_002539/README.md) |
+| 002540 | [Ubuntu: Access Review — Usability Improvement for Two-Node Lab](Project_002540/README.md) |
 
 [Back to the portfolio home](../README.md)
