@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027478 | [MongoDB: Scheduled Reporting — Recovery for Offline Classroom](Project_027478/README.md) |
 | 027479 | [MongoDB: Scheduled Reporting — Reporting for Offline Classroom](Project_027479/README.md) |
 | 027480 | [MongoDB: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_027480/README.md) |
+| 027481 | [MongoDB: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_027481/README.md) |
+| 027482 | [MongoDB: Scheduled Reporting — Automation for Single-Host Lab](Project_027482/README.md) |
+| 027483 | [MongoDB: Scheduled Reporting — Recovery for Single-Host Lab](Project_027483/README.md) |
+| 027484 | [MongoDB: Scheduled Reporting — Reporting for Single-Host Lab](Project_027484/README.md) |
+| 027485 | [MongoDB: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_027485/README.md) |
+| 027486 | [MongoDB: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_027486/README.md) |
+| 027487 | [MongoDB: Scheduled Reporting — Automation for Two-Node Lab](Project_027487/README.md) |
+| 027488 | [MongoDB: Scheduled Reporting — Recovery for Two-Node Lab](Project_027488/README.md) |
+| 027489 | [MongoDB: Scheduled Reporting — Reporting for Two-Node Lab](Project_027489/README.md) |
+| 027490 | [MongoDB: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_027490/README.md) |
+| 027491 | [MongoDB: Scheduled Reporting — Baseline Setup for Help Desk](Project_027491/README.md) |
+| 027492 | [MongoDB: Scheduled Reporting — Automation for Help Desk](Project_027492/README.md) |
+| 027493 | [MongoDB: Scheduled Reporting — Recovery for Help Desk](Project_027493/README.md) |
+| 027494 | [MongoDB: Scheduled Reporting — Reporting for Help Desk](Project_027494/README.md) |
+| 027495 | [MongoDB: Scheduled Reporting — Usability Improvement for Help Desk](Project_027495/README.md) |
+| 027496 | [MongoDB: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_027496/README.md) |
+| 027497 | [MongoDB: Scheduled Reporting — Automation for Portfolio Demo](Project_027497/README.md) |
+| 027498 | [MongoDB: Scheduled Reporting — Recovery for Portfolio Demo](Project_027498/README.md) |
+| 027499 | [MongoDB: Scheduled Reporting — Reporting for Portfolio Demo](Project_027499/README.md) |
+| 027500 | [MongoDB: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_027500/README.md) |
 
 [Back to the portfolio home](../README.md)
