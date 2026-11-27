@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005038 | [FreeBSD: Inventory — Recovery for Two-Node Lab](Project_005038/README.md) |
 | 005039 | [FreeBSD: Inventory — Reporting for Two-Node Lab](Project_005039/README.md) |
 | 005040 | [FreeBSD: Inventory — Usability Improvement for Two-Node Lab](Project_005040/README.md) |
+| 005041 | [FreeBSD: Inventory — Baseline Setup for Help Desk](Project_005041/README.md) |
+| 005042 | [FreeBSD: Inventory — Automation for Help Desk](Project_005042/README.md) |
+| 005043 | [FreeBSD: Inventory — Recovery for Help Desk](Project_005043/README.md) |
+| 005044 | [FreeBSD: Inventory — Reporting for Help Desk](Project_005044/README.md) |
+| 005045 | [FreeBSD: Inventory — Usability Improvement for Help Desk](Project_005045/README.md) |
+| 005046 | [FreeBSD: Inventory — Baseline Setup for Portfolio Demo](Project_005046/README.md) |
+| 005047 | [FreeBSD: Inventory — Automation for Portfolio Demo](Project_005047/README.md) |
+| 005048 | [FreeBSD: Inventory — Recovery for Portfolio Demo](Project_005048/README.md) |
+| 005049 | [FreeBSD: Inventory — Reporting for Portfolio Demo](Project_005049/README.md) |
+| 005050 | [FreeBSD: Inventory — Usability Improvement for Portfolio Demo](Project_005050/README.md) |
+| 005051 | [FreeBSD: Monitoring — Baseline Setup for School Lab](Project_005051/README.md) |
+| 005052 | [FreeBSD: Monitoring — Automation for School Lab](Project_005052/README.md) |
+| 005053 | [FreeBSD: Monitoring — Recovery for School Lab](Project_005053/README.md) |
+| 005054 | [FreeBSD: Monitoring — Reporting for School Lab](Project_005054/README.md) |
+| 005055 | [FreeBSD: Monitoring — Usability Improvement for School Lab](Project_005055/README.md) |
+| 005056 | [FreeBSD: Monitoring — Baseline Setup for Small Business](Project_005056/README.md) |
+| 005057 | [FreeBSD: Monitoring — Automation for Small Business](Project_005057/README.md) |
+| 005058 | [FreeBSD: Monitoring — Recovery for Small Business](Project_005058/README.md) |
+| 005059 | [FreeBSD: Monitoring — Reporting for Small Business](Project_005059/README.md) |
+| 005060 | [FreeBSD: Monitoring — Usability Improvement for Small Business](Project_005060/README.md) |
 
 [Back to the portfolio home](../README.md)
