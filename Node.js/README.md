@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024558 | [Node.js: Performance Baseline — Recovery for Small Business](Project_024558/README.md) |
 | 024559 | [Node.js: Performance Baseline — Reporting for Small Business](Project_024559/README.md) |
 | 024560 | [Node.js: Performance Baseline — Usability Improvement for Small Business](Project_024560/README.md) |
+| 024561 | [Node.js: Performance Baseline — Baseline Setup for Home Development](Project_024561/README.md) |
+| 024562 | [Node.js: Performance Baseline — Automation for Home Development](Project_024562/README.md) |
+| 024563 | [Node.js: Performance Baseline — Recovery for Home Development](Project_024563/README.md) |
+| 024564 | [Node.js: Performance Baseline — Reporting for Home Development](Project_024564/README.md) |
+| 024565 | [Node.js: Performance Baseline — Usability Improvement for Home Development](Project_024565/README.md) |
+| 024566 | [Node.js: Performance Baseline — Baseline Setup for Public Dataset](Project_024566/README.md) |
+| 024567 | [Node.js: Performance Baseline — Automation for Public Dataset](Project_024567/README.md) |
+| 024568 | [Node.js: Performance Baseline — Recovery for Public Dataset](Project_024568/README.md) |
+| 024569 | [Node.js: Performance Baseline — Reporting for Public Dataset](Project_024569/README.md) |
+| 024570 | [Node.js: Performance Baseline — Usability Improvement for Public Dataset](Project_024570/README.md) |
+| 024571 | [Node.js: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_024571/README.md) |
+| 024572 | [Node.js: Performance Baseline — Automation for Branch Office Simulator](Project_024572/README.md) |
+| 024573 | [Node.js: Performance Baseline — Recovery for Branch Office Simulator](Project_024573/README.md) |
+| 024574 | [Node.js: Performance Baseline — Reporting for Branch Office Simulator](Project_024574/README.md) |
+| 024575 | [Node.js: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_024575/README.md) |
+| 024576 | [Node.js: Performance Baseline — Baseline Setup for Offline Classroom](Project_024576/README.md) |
+| 024577 | [Node.js: Performance Baseline — Automation for Offline Classroom](Project_024577/README.md) |
+| 024578 | [Node.js: Performance Baseline — Recovery for Offline Classroom](Project_024578/README.md) |
+| 024579 | [Node.js: Performance Baseline — Reporting for Offline Classroom](Project_024579/README.md) |
+| 024580 | [Node.js: Performance Baseline — Usability Improvement for Offline Classroom](Project_024580/README.md) |
 
 [Back to the portfolio home](../README.md)
