@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020178 | [JavaScript: Log Analysis — Recovery for Offline Classroom](Project_020178/README.md) |
 | 020179 | [JavaScript: Log Analysis — Reporting for Offline Classroom](Project_020179/README.md) |
 | 020180 | [JavaScript: Log Analysis — Usability Improvement for Offline Classroom](Project_020180/README.md) |
+| 020181 | [JavaScript: Log Analysis — Baseline Setup for Single-Host Lab](Project_020181/README.md) |
+| 020182 | [JavaScript: Log Analysis — Automation for Single-Host Lab](Project_020182/README.md) |
+| 020183 | [JavaScript: Log Analysis — Recovery for Single-Host Lab](Project_020183/README.md) |
+| 020184 | [JavaScript: Log Analysis — Reporting for Single-Host Lab](Project_020184/README.md) |
+| 020185 | [JavaScript: Log Analysis — Usability Improvement for Single-Host Lab](Project_020185/README.md) |
+| 020186 | [JavaScript: Log Analysis — Baseline Setup for Two-Node Lab](Project_020186/README.md) |
+| 020187 | [JavaScript: Log Analysis — Automation for Two-Node Lab](Project_020187/README.md) |
+| 020188 | [JavaScript: Log Analysis — Recovery for Two-Node Lab](Project_020188/README.md) |
+| 020189 | [JavaScript: Log Analysis — Reporting for Two-Node Lab](Project_020189/README.md) |
+| 020190 | [JavaScript: Log Analysis — Usability Improvement for Two-Node Lab](Project_020190/README.md) |
+| 020191 | [JavaScript: Log Analysis — Baseline Setup for Help Desk](Project_020191/README.md) |
+| 020192 | [JavaScript: Log Analysis — Automation for Help Desk](Project_020192/README.md) |
+| 020193 | [JavaScript: Log Analysis — Recovery for Help Desk](Project_020193/README.md) |
+| 020194 | [JavaScript: Log Analysis — Reporting for Help Desk](Project_020194/README.md) |
+| 020195 | [JavaScript: Log Analysis — Usability Improvement for Help Desk](Project_020195/README.md) |
+| 020196 | [JavaScript: Log Analysis — Baseline Setup for Portfolio Demo](Project_020196/README.md) |
+| 020197 | [JavaScript: Log Analysis — Automation for Portfolio Demo](Project_020197/README.md) |
+| 020198 | [JavaScript: Log Analysis — Recovery for Portfolio Demo](Project_020198/README.md) |
+| 020199 | [JavaScript: Log Analysis — Reporting for Portfolio Demo](Project_020199/README.md) |
+| 020200 | [JavaScript: Log Analysis — Usability Improvement for Portfolio Demo](Project_020200/README.md) |
 
 [Back to the portfolio home](../README.md)
