@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004798 | [Fedora: Data Validation — Recovery for Portfolio Demo](Project_004798/README.md) |
 | 004799 | [Fedora: Data Validation — Reporting for Portfolio Demo](Project_004799/README.md) |
 | 004800 | [Fedora: Data Validation — Usability Improvement for Portfolio Demo](Project_004800/README.md) |
+| 004801 | [Fedora: Documentation Generation — Baseline Setup for School Lab](Project_004801/README.md) |
+| 004802 | [Fedora: Documentation Generation — Automation for School Lab](Project_004802/README.md) |
+| 004803 | [Fedora: Documentation Generation — Recovery for School Lab](Project_004803/README.md) |
+| 004804 | [Fedora: Documentation Generation — Reporting for School Lab](Project_004804/README.md) |
+| 004805 | [Fedora: Documentation Generation — Usability Improvement for School Lab](Project_004805/README.md) |
+| 004806 | [Fedora: Documentation Generation — Baseline Setup for Small Business](Project_004806/README.md) |
+| 004807 | [Fedora: Documentation Generation — Automation for Small Business](Project_004807/README.md) |
+| 004808 | [Fedora: Documentation Generation — Recovery for Small Business](Project_004808/README.md) |
+| 004809 | [Fedora: Documentation Generation — Reporting for Small Business](Project_004809/README.md) |
+| 004810 | [Fedora: Documentation Generation — Usability Improvement for Small Business](Project_004810/README.md) |
+| 004811 | [Fedora: Documentation Generation — Baseline Setup for Home Development](Project_004811/README.md) |
+| 004812 | [Fedora: Documentation Generation — Automation for Home Development](Project_004812/README.md) |
+| 004813 | [Fedora: Documentation Generation — Recovery for Home Development](Project_004813/README.md) |
+| 004814 | [Fedora: Documentation Generation — Reporting for Home Development](Project_004814/README.md) |
+| 004815 | [Fedora: Documentation Generation — Usability Improvement for Home Development](Project_004815/README.md) |
+| 004816 | [Fedora: Documentation Generation — Baseline Setup for Public Dataset](Project_004816/README.md) |
+| 004817 | [Fedora: Documentation Generation — Automation for Public Dataset](Project_004817/README.md) |
+| 004818 | [Fedora: Documentation Generation — Recovery for Public Dataset](Project_004818/README.md) |
+| 004819 | [Fedora: Documentation Generation — Reporting for Public Dataset](Project_004819/README.md) |
+| 004820 | [Fedora: Documentation Generation — Usability Improvement for Public Dataset](Project_004820/README.md) |
 
 [Back to the portfolio home](../README.md)
