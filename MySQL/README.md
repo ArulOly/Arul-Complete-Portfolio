@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026718 | [MySQL: Error Handling — Recovery for Public Dataset](Project_026718/README.md) |
 | 026719 | [MySQL: Error Handling — Reporting for Public Dataset](Project_026719/README.md) |
 | 026720 | [MySQL: Error Handling — Usability Improvement for Public Dataset](Project_026720/README.md) |
+| 026721 | [MySQL: Error Handling — Baseline Setup for Branch Office Simulator](Project_026721/README.md) |
+| 026722 | [MySQL: Error Handling — Automation for Branch Office Simulator](Project_026722/README.md) |
+| 026723 | [MySQL: Error Handling — Recovery for Branch Office Simulator](Project_026723/README.md) |
+| 026724 | [MySQL: Error Handling — Reporting for Branch Office Simulator](Project_026724/README.md) |
+| 026725 | [MySQL: Error Handling — Usability Improvement for Branch Office Simulator](Project_026725/README.md) |
+| 026726 | [MySQL: Error Handling — Baseline Setup for Offline Classroom](Project_026726/README.md) |
+| 026727 | [MySQL: Error Handling — Automation for Offline Classroom](Project_026727/README.md) |
+| 026728 | [MySQL: Error Handling — Recovery for Offline Classroom](Project_026728/README.md) |
+| 026729 | [MySQL: Error Handling — Reporting for Offline Classroom](Project_026729/README.md) |
+| 026730 | [MySQL: Error Handling — Usability Improvement for Offline Classroom](Project_026730/README.md) |
+| 026731 | [MySQL: Error Handling — Baseline Setup for Single-Host Lab](Project_026731/README.md) |
+| 026732 | [MySQL: Error Handling — Automation for Single-Host Lab](Project_026732/README.md) |
+| 026733 | [MySQL: Error Handling — Recovery for Single-Host Lab](Project_026733/README.md) |
+| 026734 | [MySQL: Error Handling — Reporting for Single-Host Lab](Project_026734/README.md) |
+| 026735 | [MySQL: Error Handling — Usability Improvement for Single-Host Lab](Project_026735/README.md) |
+| 026736 | [MySQL: Error Handling — Baseline Setup for Two-Node Lab](Project_026736/README.md) |
+| 026737 | [MySQL: Error Handling — Automation for Two-Node Lab](Project_026737/README.md) |
+| 026738 | [MySQL: Error Handling — Recovery for Two-Node Lab](Project_026738/README.md) |
+| 026739 | [MySQL: Error Handling — Reporting for Two-Node Lab](Project_026739/README.md) |
+| 026740 | [MySQL: Error Handling — Usability Improvement for Two-Node Lab](Project_026740/README.md) |
 
 [Back to the portfolio home](../README.md)
