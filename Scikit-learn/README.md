@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034298 | [Scikit-learn: Data Import — Recovery for Portfolio Demo](Project_034298/README.md) |
 | 034299 | [Scikit-learn: Data Import — Reporting for Portfolio Demo](Project_034299/README.md) |
 | 034300 | [Scikit-learn: Data Import — Usability Improvement for Portfolio Demo](Project_034300/README.md) |
+| 034301 | [Scikit-learn: Data Export — Baseline Setup for School Lab](Project_034301/README.md) |
+| 034302 | [Scikit-learn: Data Export — Automation for School Lab](Project_034302/README.md) |
+| 034303 | [Scikit-learn: Data Export — Recovery for School Lab](Project_034303/README.md) |
+| 034304 | [Scikit-learn: Data Export — Reporting for School Lab](Project_034304/README.md) |
+| 034305 | [Scikit-learn: Data Export — Usability Improvement for School Lab](Project_034305/README.md) |
+| 034306 | [Scikit-learn: Data Export — Baseline Setup for Small Business](Project_034306/README.md) |
+| 034307 | [Scikit-learn: Data Export — Automation for Small Business](Project_034307/README.md) |
+| 034308 | [Scikit-learn: Data Export — Recovery for Small Business](Project_034308/README.md) |
+| 034309 | [Scikit-learn: Data Export — Reporting for Small Business](Project_034309/README.md) |
+| 034310 | [Scikit-learn: Data Export — Usability Improvement for Small Business](Project_034310/README.md) |
+| 034311 | [Scikit-learn: Data Export — Baseline Setup for Home Development](Project_034311/README.md) |
+| 034312 | [Scikit-learn: Data Export — Automation for Home Development](Project_034312/README.md) |
+| 034313 | [Scikit-learn: Data Export — Recovery for Home Development](Project_034313/README.md) |
+| 034314 | [Scikit-learn: Data Export — Reporting for Home Development](Project_034314/README.md) |
+| 034315 | [Scikit-learn: Data Export — Usability Improvement for Home Development](Project_034315/README.md) |
+| 034316 | [Scikit-learn: Data Export — Baseline Setup for Public Dataset](Project_034316/README.md) |
+| 034317 | [Scikit-learn: Data Export — Automation for Public Dataset](Project_034317/README.md) |
+| 034318 | [Scikit-learn: Data Export — Recovery for Public Dataset](Project_034318/README.md) |
+| 034319 | [Scikit-learn: Data Export — Reporting for Public Dataset](Project_034319/README.md) |
+| 034320 | [Scikit-learn: Data Export — Usability Improvement for Public Dataset](Project_034320/README.md) |
 
 [Back to the portfolio home](../README.md)
