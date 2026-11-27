@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003678 | [Debian: Configuration Comparison — Recovery for Offline Classroom](Project_003678/README.md) |
 | 003679 | [Debian: Configuration Comparison — Reporting for Offline Classroom](Project_003679/README.md) |
 | 003680 | [Debian: Configuration Comparison — Usability Improvement for Offline Classroom](Project_003680/README.md) |
+| 003681 | [Debian: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_003681/README.md) |
+| 003682 | [Debian: Configuration Comparison — Automation for Single-Host Lab](Project_003682/README.md) |
+| 003683 | [Debian: Configuration Comparison — Recovery for Single-Host Lab](Project_003683/README.md) |
+| 003684 | [Debian: Configuration Comparison — Reporting for Single-Host Lab](Project_003684/README.md) |
+| 003685 | [Debian: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_003685/README.md) |
+| 003686 | [Debian: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_003686/README.md) |
+| 003687 | [Debian: Configuration Comparison — Automation for Two-Node Lab](Project_003687/README.md) |
+| 003688 | [Debian: Configuration Comparison — Recovery for Two-Node Lab](Project_003688/README.md) |
+| 003689 | [Debian: Configuration Comparison — Reporting for Two-Node Lab](Project_003689/README.md) |
+| 003690 | [Debian: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_003690/README.md) |
+| 003691 | [Debian: Configuration Comparison — Baseline Setup for Help Desk](Project_003691/README.md) |
+| 003692 | [Debian: Configuration Comparison — Automation for Help Desk](Project_003692/README.md) |
+| 003693 | [Debian: Configuration Comparison — Recovery for Help Desk](Project_003693/README.md) |
+| 003694 | [Debian: Configuration Comparison — Reporting for Help Desk](Project_003694/README.md) |
+| 003695 | [Debian: Configuration Comparison — Usability Improvement for Help Desk](Project_003695/README.md) |
+| 003696 | [Debian: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_003696/README.md) |
+| 003697 | [Debian: Configuration Comparison — Automation for Portfolio Demo](Project_003697/README.md) |
+| 003698 | [Debian: Configuration Comparison — Recovery for Portfolio Demo](Project_003698/README.md) |
+| 003699 | [Debian: Configuration Comparison — Reporting for Portfolio Demo](Project_003699/README.md) |
+| 003700 | [Debian: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_003700/README.md) |
 
 [Back to the portfolio home](../README.md)
