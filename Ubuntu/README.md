@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002798 | [Ubuntu: Data Validation — Recovery for Portfolio Demo](Project_002798/README.md) |
 | 002799 | [Ubuntu: Data Validation — Reporting for Portfolio Demo](Project_002799/README.md) |
 | 002800 | [Ubuntu: Data Validation — Usability Improvement for Portfolio Demo](Project_002800/README.md) |
+| 002801 | [Ubuntu: Documentation Generation — Baseline Setup for School Lab](Project_002801/README.md) |
+| 002802 | [Ubuntu: Documentation Generation — Automation for School Lab](Project_002802/README.md) |
+| 002803 | [Ubuntu: Documentation Generation — Recovery for School Lab](Project_002803/README.md) |
+| 002804 | [Ubuntu: Documentation Generation — Reporting for School Lab](Project_002804/README.md) |
+| 002805 | [Ubuntu: Documentation Generation — Usability Improvement for School Lab](Project_002805/README.md) |
+| 002806 | [Ubuntu: Documentation Generation — Baseline Setup for Small Business](Project_002806/README.md) |
+| 002807 | [Ubuntu: Documentation Generation — Automation for Small Business](Project_002807/README.md) |
+| 002808 | [Ubuntu: Documentation Generation — Recovery for Small Business](Project_002808/README.md) |
+| 002809 | [Ubuntu: Documentation Generation — Reporting for Small Business](Project_002809/README.md) |
+| 002810 | [Ubuntu: Documentation Generation — Usability Improvement for Small Business](Project_002810/README.md) |
+| 002811 | [Ubuntu: Documentation Generation — Baseline Setup for Home Development](Project_002811/README.md) |
+| 002812 | [Ubuntu: Documentation Generation — Automation for Home Development](Project_002812/README.md) |
+| 002813 | [Ubuntu: Documentation Generation — Recovery for Home Development](Project_002813/README.md) |
+| 002814 | [Ubuntu: Documentation Generation — Reporting for Home Development](Project_002814/README.md) |
+| 002815 | [Ubuntu: Documentation Generation — Usability Improvement for Home Development](Project_002815/README.md) |
+| 002816 | [Ubuntu: Documentation Generation — Baseline Setup for Public Dataset](Project_002816/README.md) |
+| 002817 | [Ubuntu: Documentation Generation — Automation for Public Dataset](Project_002817/README.md) |
+| 002818 | [Ubuntu: Documentation Generation — Recovery for Public Dataset](Project_002818/README.md) |
+| 002819 | [Ubuntu: Documentation Generation — Reporting for Public Dataset](Project_002819/README.md) |
+| 002820 | [Ubuntu: Documentation Generation — Usability Improvement for Public Dataset](Project_002820/README.md) |
 
 [Back to the portfolio home](../README.md)
