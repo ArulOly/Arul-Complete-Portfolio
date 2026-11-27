@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003238 | [Debian: Backup Verification — Recovery for Two-Node Lab](Project_003238/README.md) |
 | 003239 | [Debian: Backup Verification — Reporting for Two-Node Lab](Project_003239/README.md) |
 | 003240 | [Debian: Backup Verification — Usability Improvement for Two-Node Lab](Project_003240/README.md) |
+| 003241 | [Debian: Backup Verification — Baseline Setup for Help Desk](Project_003241/README.md) |
+| 003242 | [Debian: Backup Verification — Automation for Help Desk](Project_003242/README.md) |
+| 003243 | [Debian: Backup Verification — Recovery for Help Desk](Project_003243/README.md) |
+| 003244 | [Debian: Backup Verification — Reporting for Help Desk](Project_003244/README.md) |
+| 003245 | [Debian: Backup Verification — Usability Improvement for Help Desk](Project_003245/README.md) |
+| 003246 | [Debian: Backup Verification — Baseline Setup for Portfolio Demo](Project_003246/README.md) |
+| 003247 | [Debian: Backup Verification — Automation for Portfolio Demo](Project_003247/README.md) |
+| 003248 | [Debian: Backup Verification — Recovery for Portfolio Demo](Project_003248/README.md) |
+| 003249 | [Debian: Backup Verification — Reporting for Portfolio Demo](Project_003249/README.md) |
+| 003250 | [Debian: Backup Verification — Usability Improvement for Portfolio Demo](Project_003250/README.md) |
+| 003251 | [Debian: Data Import — Baseline Setup for School Lab](Project_003251/README.md) |
+| 003252 | [Debian: Data Import — Automation for School Lab](Project_003252/README.md) |
+| 003253 | [Debian: Data Import — Recovery for School Lab](Project_003253/README.md) |
+| 003254 | [Debian: Data Import — Reporting for School Lab](Project_003254/README.md) |
+| 003255 | [Debian: Data Import — Usability Improvement for School Lab](Project_003255/README.md) |
+| 003256 | [Debian: Data Import — Baseline Setup for Small Business](Project_003256/README.md) |
+| 003257 | [Debian: Data Import — Automation for Small Business](Project_003257/README.md) |
+| 003258 | [Debian: Data Import — Recovery for Small Business](Project_003258/README.md) |
+| 003259 | [Debian: Data Import — Reporting for Small Business](Project_003259/README.md) |
+| 003260 | [Debian: Data Import — Usability Improvement for Small Business](Project_003260/README.md) |
 
 [Back to the portfolio home](../README.md)
