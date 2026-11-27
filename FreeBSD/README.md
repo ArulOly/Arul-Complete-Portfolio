@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005698 | [FreeBSD: Configuration Comparison — Recovery for Portfolio Demo](Project_005698/README.md) |
 | 005699 | [FreeBSD: Configuration Comparison — Reporting for Portfolio Demo](Project_005699/README.md) |
 | 005700 | [FreeBSD: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_005700/README.md) |
+| 005701 | [FreeBSD: Error Handling — Baseline Setup for School Lab](Project_005701/README.md) |
+| 005702 | [FreeBSD: Error Handling — Automation for School Lab](Project_005702/README.md) |
+| 005703 | [FreeBSD: Error Handling — Recovery for School Lab](Project_005703/README.md) |
+| 005704 | [FreeBSD: Error Handling — Reporting for School Lab](Project_005704/README.md) |
+| 005705 | [FreeBSD: Error Handling — Usability Improvement for School Lab](Project_005705/README.md) |
+| 005706 | [FreeBSD: Error Handling — Baseline Setup for Small Business](Project_005706/README.md) |
+| 005707 | [FreeBSD: Error Handling — Automation for Small Business](Project_005707/README.md) |
+| 005708 | [FreeBSD: Error Handling — Recovery for Small Business](Project_005708/README.md) |
+| 005709 | [FreeBSD: Error Handling — Reporting for Small Business](Project_005709/README.md) |
+| 005710 | [FreeBSD: Error Handling — Usability Improvement for Small Business](Project_005710/README.md) |
+| 005711 | [FreeBSD: Error Handling — Baseline Setup for Home Development](Project_005711/README.md) |
+| 005712 | [FreeBSD: Error Handling — Automation for Home Development](Project_005712/README.md) |
+| 005713 | [FreeBSD: Error Handling — Recovery for Home Development](Project_005713/README.md) |
+| 005714 | [FreeBSD: Error Handling — Reporting for Home Development](Project_005714/README.md) |
+| 005715 | [FreeBSD: Error Handling — Usability Improvement for Home Development](Project_005715/README.md) |
+| 005716 | [FreeBSD: Error Handling — Baseline Setup for Public Dataset](Project_005716/README.md) |
+| 005717 | [FreeBSD: Error Handling — Automation for Public Dataset](Project_005717/README.md) |
+| 005718 | [FreeBSD: Error Handling — Recovery for Public Dataset](Project_005718/README.md) |
+| 005719 | [FreeBSD: Error Handling — Reporting for Public Dataset](Project_005719/README.md) |
+| 005720 | [FreeBSD: Error Handling — Usability Improvement for Public Dataset](Project_005720/README.md) |
 
 [Back to the portfolio home](../README.md)
