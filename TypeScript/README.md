@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021438 | [TypeScript: Alerting — Recovery for Two-Node Lab](Project_021438/README.md) |
 | 021439 | [TypeScript: Alerting — Reporting for Two-Node Lab](Project_021439/README.md) |
 | 021440 | [TypeScript: Alerting — Usability Improvement for Two-Node Lab](Project_021440/README.md) |
+| 021441 | [TypeScript: Alerting — Baseline Setup for Help Desk](Project_021441/README.md) |
+| 021442 | [TypeScript: Alerting — Automation for Help Desk](Project_021442/README.md) |
+| 021443 | [TypeScript: Alerting — Recovery for Help Desk](Project_021443/README.md) |
+| 021444 | [TypeScript: Alerting — Reporting for Help Desk](Project_021444/README.md) |
+| 021445 | [TypeScript: Alerting — Usability Improvement for Help Desk](Project_021445/README.md) |
+| 021446 | [TypeScript: Alerting — Baseline Setup for Portfolio Demo](Project_021446/README.md) |
+| 021447 | [TypeScript: Alerting — Automation for Portfolio Demo](Project_021447/README.md) |
+| 021448 | [TypeScript: Alerting — Recovery for Portfolio Demo](Project_021448/README.md) |
+| 021449 | [TypeScript: Alerting — Reporting for Portfolio Demo](Project_021449/README.md) |
+| 021450 | [TypeScript: Alerting — Usability Improvement for Portfolio Demo](Project_021450/README.md) |
+| 021451 | [TypeScript: Scheduled Reporting — Baseline Setup for School Lab](Project_021451/README.md) |
+| 021452 | [TypeScript: Scheduled Reporting — Automation for School Lab](Project_021452/README.md) |
+| 021453 | [TypeScript: Scheduled Reporting — Recovery for School Lab](Project_021453/README.md) |
+| 021454 | [TypeScript: Scheduled Reporting — Reporting for School Lab](Project_021454/README.md) |
+| 021455 | [TypeScript: Scheduled Reporting — Usability Improvement for School Lab](Project_021455/README.md) |
+| 021456 | [TypeScript: Scheduled Reporting — Baseline Setup for Small Business](Project_021456/README.md) |
+| 021457 | [TypeScript: Scheduled Reporting — Automation for Small Business](Project_021457/README.md) |
+| 021458 | [TypeScript: Scheduled Reporting — Recovery for Small Business](Project_021458/README.md) |
+| 021459 | [TypeScript: Scheduled Reporting — Reporting for Small Business](Project_021459/README.md) |
+| 021460 | [TypeScript: Scheduled Reporting — Usability Improvement for Small Business](Project_021460/README.md) |
 
 [Back to the portfolio home](../README.md)
