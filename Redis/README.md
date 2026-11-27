@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045838 | [Redis: Documentation Generation — Recovery for Two-Node Lab](Project_045838/README.md) |
 | 045839 | [Redis: Documentation Generation — Reporting for Two-Node Lab](Project_045839/README.md) |
 | 045840 | [Redis: Documentation Generation — Usability Improvement for Two-Node Lab](Project_045840/README.md) |
+| 045841 | [Redis: Documentation Generation — Baseline Setup for Help Desk](Project_045841/README.md) |
+| 045842 | [Redis: Documentation Generation — Automation for Help Desk](Project_045842/README.md) |
+| 045843 | [Redis: Documentation Generation — Recovery for Help Desk](Project_045843/README.md) |
+| 045844 | [Redis: Documentation Generation — Reporting for Help Desk](Project_045844/README.md) |
+| 045845 | [Redis: Documentation Generation — Usability Improvement for Help Desk](Project_045845/README.md) |
+| 045846 | [Redis: Documentation Generation — Baseline Setup for Portfolio Demo](Project_045846/README.md) |
+| 045847 | [Redis: Documentation Generation — Automation for Portfolio Demo](Project_045847/README.md) |
+| 045848 | [Redis: Documentation Generation — Recovery for Portfolio Demo](Project_045848/README.md) |
+| 045849 | [Redis: Documentation Generation — Reporting for Portfolio Demo](Project_045849/README.md) |
+| 045850 | [Redis: Documentation Generation — Usability Improvement for Portfolio Demo](Project_045850/README.md) |
+| 045851 | [Redis: Automation — Baseline Setup for School Lab](Project_045851/README.md) |
+| 045852 | [Redis: Automation — Automation for School Lab](Project_045852/README.md) |
+| 045853 | [Redis: Automation — Recovery for School Lab](Project_045853/README.md) |
+| 045854 | [Redis: Automation — Reporting for School Lab](Project_045854/README.md) |
+| 045855 | [Redis: Automation — Usability Improvement for School Lab](Project_045855/README.md) |
+| 045856 | [Redis: Automation — Baseline Setup for Small Business](Project_045856/README.md) |
+| 045857 | [Redis: Automation — Automation for Small Business](Project_045857/README.md) |
+| 045858 | [Redis: Automation — Recovery for Small Business](Project_045858/README.md) |
+| 045859 | [Redis: Automation — Reporting for Small Business](Project_045859/README.md) |
+| 045860 | [Redis: Automation — Usability Improvement for Small Business](Project_045860/README.md) |
 
 [Back to the portfolio home](../README.md)
