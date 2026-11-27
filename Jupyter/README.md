@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033298 | [Jupyter: Data Import — Recovery for Portfolio Demo](Project_033298/README.md) |
 | 033299 | [Jupyter: Data Import — Reporting for Portfolio Demo](Project_033299/README.md) |
 | 033300 | [Jupyter: Data Import — Usability Improvement for Portfolio Demo](Project_033300/README.md) |
+| 033301 | [Jupyter: Data Export — Baseline Setup for School Lab](Project_033301/README.md) |
+| 033302 | [Jupyter: Data Export — Automation for School Lab](Project_033302/README.md) |
+| 033303 | [Jupyter: Data Export — Recovery for School Lab](Project_033303/README.md) |
+| 033304 | [Jupyter: Data Export — Reporting for School Lab](Project_033304/README.md) |
+| 033305 | [Jupyter: Data Export — Usability Improvement for School Lab](Project_033305/README.md) |
+| 033306 | [Jupyter: Data Export — Baseline Setup for Small Business](Project_033306/README.md) |
+| 033307 | [Jupyter: Data Export — Automation for Small Business](Project_033307/README.md) |
+| 033308 | [Jupyter: Data Export — Recovery for Small Business](Project_033308/README.md) |
+| 033309 | [Jupyter: Data Export — Reporting for Small Business](Project_033309/README.md) |
+| 033310 | [Jupyter: Data Export — Usability Improvement for Small Business](Project_033310/README.md) |
+| 033311 | [Jupyter: Data Export — Baseline Setup for Home Development](Project_033311/README.md) |
+| 033312 | [Jupyter: Data Export — Automation for Home Development](Project_033312/README.md) |
+| 033313 | [Jupyter: Data Export — Recovery for Home Development](Project_033313/README.md) |
+| 033314 | [Jupyter: Data Export — Reporting for Home Development](Project_033314/README.md) |
+| 033315 | [Jupyter: Data Export — Usability Improvement for Home Development](Project_033315/README.md) |
+| 033316 | [Jupyter: Data Export — Baseline Setup for Public Dataset](Project_033316/README.md) |
+| 033317 | [Jupyter: Data Export — Automation for Public Dataset](Project_033317/README.md) |
+| 033318 | [Jupyter: Data Export — Recovery for Public Dataset](Project_033318/README.md) |
+| 033319 | [Jupyter: Data Export — Reporting for Public Dataset](Project_033319/README.md) |
+| 033320 | [Jupyter: Data Export — Usability Improvement for Public Dataset](Project_033320/README.md) |
 
 [Back to the portfolio home](../README.md)
