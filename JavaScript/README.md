@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020558 | [JavaScript: Performance Baseline — Recovery for Small Business](Project_020558/README.md) |
 | 020559 | [JavaScript: Performance Baseline — Reporting for Small Business](Project_020559/README.md) |
 | 020560 | [JavaScript: Performance Baseline — Usability Improvement for Small Business](Project_020560/README.md) |
+| 020561 | [JavaScript: Performance Baseline — Baseline Setup for Home Development](Project_020561/README.md) |
+| 020562 | [JavaScript: Performance Baseline — Automation for Home Development](Project_020562/README.md) |
+| 020563 | [JavaScript: Performance Baseline — Recovery for Home Development](Project_020563/README.md) |
+| 020564 | [JavaScript: Performance Baseline — Reporting for Home Development](Project_020564/README.md) |
+| 020565 | [JavaScript: Performance Baseline — Usability Improvement for Home Development](Project_020565/README.md) |
+| 020566 | [JavaScript: Performance Baseline — Baseline Setup for Public Dataset](Project_020566/README.md) |
+| 020567 | [JavaScript: Performance Baseline — Automation for Public Dataset](Project_020567/README.md) |
+| 020568 | [JavaScript: Performance Baseline — Recovery for Public Dataset](Project_020568/README.md) |
+| 020569 | [JavaScript: Performance Baseline — Reporting for Public Dataset](Project_020569/README.md) |
+| 020570 | [JavaScript: Performance Baseline — Usability Improvement for Public Dataset](Project_020570/README.md) |
+| 020571 | [JavaScript: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_020571/README.md) |
+| 020572 | [JavaScript: Performance Baseline — Automation for Branch Office Simulator](Project_020572/README.md) |
+| 020573 | [JavaScript: Performance Baseline — Recovery for Branch Office Simulator](Project_020573/README.md) |
+| 020574 | [JavaScript: Performance Baseline — Reporting for Branch Office Simulator](Project_020574/README.md) |
+| 020575 | [JavaScript: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_020575/README.md) |
+| 020576 | [JavaScript: Performance Baseline — Baseline Setup for Offline Classroom](Project_020576/README.md) |
+| 020577 | [JavaScript: Performance Baseline — Automation for Offline Classroom](Project_020577/README.md) |
+| 020578 | [JavaScript: Performance Baseline — Recovery for Offline Classroom](Project_020578/README.md) |
+| 020579 | [JavaScript: Performance Baseline — Reporting for Offline Classroom](Project_020579/README.md) |
+| 020580 | [JavaScript: Performance Baseline — Usability Improvement for Offline Classroom](Project_020580/README.md) |
 
 [Back to the portfolio home](../README.md)
