@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028378 | [SQLite: Dashboard — Recovery for Offline Classroom](Project_028378/README.md) |
 | 028379 | [SQLite: Dashboard — Reporting for Offline Classroom](Project_028379/README.md) |
 | 028380 | [SQLite: Dashboard — Usability Improvement for Offline Classroom](Project_028380/README.md) |
+| 028381 | [SQLite: Dashboard — Baseline Setup for Single-Host Lab](Project_028381/README.md) |
+| 028382 | [SQLite: Dashboard — Automation for Single-Host Lab](Project_028382/README.md) |
+| 028383 | [SQLite: Dashboard — Recovery for Single-Host Lab](Project_028383/README.md) |
+| 028384 | [SQLite: Dashboard — Reporting for Single-Host Lab](Project_028384/README.md) |
+| 028385 | [SQLite: Dashboard — Usability Improvement for Single-Host Lab](Project_028385/README.md) |
+| 028386 | [SQLite: Dashboard — Baseline Setup for Two-Node Lab](Project_028386/README.md) |
+| 028387 | [SQLite: Dashboard — Automation for Two-Node Lab](Project_028387/README.md) |
+| 028388 | [SQLite: Dashboard — Recovery for Two-Node Lab](Project_028388/README.md) |
+| 028389 | [SQLite: Dashboard — Reporting for Two-Node Lab](Project_028389/README.md) |
+| 028390 | [SQLite: Dashboard — Usability Improvement for Two-Node Lab](Project_028390/README.md) |
+| 028391 | [SQLite: Dashboard — Baseline Setup for Help Desk](Project_028391/README.md) |
+| 028392 | [SQLite: Dashboard — Automation for Help Desk](Project_028392/README.md) |
+| 028393 | [SQLite: Dashboard — Recovery for Help Desk](Project_028393/README.md) |
+| 028394 | [SQLite: Dashboard — Reporting for Help Desk](Project_028394/README.md) |
+| 028395 | [SQLite: Dashboard — Usability Improvement for Help Desk](Project_028395/README.md) |
+| 028396 | [SQLite: Dashboard — Baseline Setup for Portfolio Demo](Project_028396/README.md) |
+| 028397 | [SQLite: Dashboard — Automation for Portfolio Demo](Project_028397/README.md) |
+| 028398 | [SQLite: Dashboard — Recovery for Portfolio Demo](Project_028398/README.md) |
+| 028399 | [SQLite: Dashboard — Reporting for Portfolio Demo](Project_028399/README.md) |
+| 028400 | [SQLite: Dashboard — Usability Improvement for Portfolio Demo](Project_028400/README.md) |
 
 [Back to the portfolio home](../README.md)
