@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024778 | [Node.js: Data Validation — Recovery for Offline Classroom](Project_024778/README.md) |
 | 024779 | [Node.js: Data Validation — Reporting for Offline Classroom](Project_024779/README.md) |
 | 024780 | [Node.js: Data Validation — Usability Improvement for Offline Classroom](Project_024780/README.md) |
+| 024781 | [Node.js: Data Validation — Baseline Setup for Single-Host Lab](Project_024781/README.md) |
+| 024782 | [Node.js: Data Validation — Automation for Single-Host Lab](Project_024782/README.md) |
+| 024783 | [Node.js: Data Validation — Recovery for Single-Host Lab](Project_024783/README.md) |
+| 024784 | [Node.js: Data Validation — Reporting for Single-Host Lab](Project_024784/README.md) |
+| 024785 | [Node.js: Data Validation — Usability Improvement for Single-Host Lab](Project_024785/README.md) |
+| 024786 | [Node.js: Data Validation — Baseline Setup for Two-Node Lab](Project_024786/README.md) |
+| 024787 | [Node.js: Data Validation — Automation for Two-Node Lab](Project_024787/README.md) |
+| 024788 | [Node.js: Data Validation — Recovery for Two-Node Lab](Project_024788/README.md) |
+| 024789 | [Node.js: Data Validation — Reporting for Two-Node Lab](Project_024789/README.md) |
+| 024790 | [Node.js: Data Validation — Usability Improvement for Two-Node Lab](Project_024790/README.md) |
+| 024791 | [Node.js: Data Validation — Baseline Setup for Help Desk](Project_024791/README.md) |
+| 024792 | [Node.js: Data Validation — Automation for Help Desk](Project_024792/README.md) |
+| 024793 | [Node.js: Data Validation — Recovery for Help Desk](Project_024793/README.md) |
+| 024794 | [Node.js: Data Validation — Reporting for Help Desk](Project_024794/README.md) |
+| 024795 | [Node.js: Data Validation — Usability Improvement for Help Desk](Project_024795/README.md) |
+| 024796 | [Node.js: Data Validation — Baseline Setup for Portfolio Demo](Project_024796/README.md) |
+| 024797 | [Node.js: Data Validation — Automation for Portfolio Demo](Project_024797/README.md) |
+| 024798 | [Node.js: Data Validation — Recovery for Portfolio Demo](Project_024798/README.md) |
+| 024799 | [Node.js: Data Validation — Reporting for Portfolio Demo](Project_024799/README.md) |
+| 024800 | [Node.js: Data Validation — Usability Improvement for Portfolio Demo](Project_024800/README.md) |
 
 [Back to the portfolio home](../README.md)
