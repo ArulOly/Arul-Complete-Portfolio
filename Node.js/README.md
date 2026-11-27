@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024318 | [Node.js: Data Export — Recovery for Public Dataset](Project_024318/README.md) |
 | 024319 | [Node.js: Data Export — Reporting for Public Dataset](Project_024319/README.md) |
 | 024320 | [Node.js: Data Export — Usability Improvement for Public Dataset](Project_024320/README.md) |
+| 024321 | [Node.js: Data Export — Baseline Setup for Branch Office Simulator](Project_024321/README.md) |
+| 024322 | [Node.js: Data Export — Automation for Branch Office Simulator](Project_024322/README.md) |
+| 024323 | [Node.js: Data Export — Recovery for Branch Office Simulator](Project_024323/README.md) |
+| 024324 | [Node.js: Data Export — Reporting for Branch Office Simulator](Project_024324/README.md) |
+| 024325 | [Node.js: Data Export — Usability Improvement for Branch Office Simulator](Project_024325/README.md) |
+| 024326 | [Node.js: Data Export — Baseline Setup for Offline Classroom](Project_024326/README.md) |
+| 024327 | [Node.js: Data Export — Automation for Offline Classroom](Project_024327/README.md) |
+| 024328 | [Node.js: Data Export — Recovery for Offline Classroom](Project_024328/README.md) |
+| 024329 | [Node.js: Data Export — Reporting for Offline Classroom](Project_024329/README.md) |
+| 024330 | [Node.js: Data Export — Usability Improvement for Offline Classroom](Project_024330/README.md) |
+| 024331 | [Node.js: Data Export — Baseline Setup for Single-Host Lab](Project_024331/README.md) |
+| 024332 | [Node.js: Data Export — Automation for Single-Host Lab](Project_024332/README.md) |
+| 024333 | [Node.js: Data Export — Recovery for Single-Host Lab](Project_024333/README.md) |
+| 024334 | [Node.js: Data Export — Reporting for Single-Host Lab](Project_024334/README.md) |
+| 024335 | [Node.js: Data Export — Usability Improvement for Single-Host Lab](Project_024335/README.md) |
+| 024336 | [Node.js: Data Export — Baseline Setup for Two-Node Lab](Project_024336/README.md) |
+| 024337 | [Node.js: Data Export — Automation for Two-Node Lab](Project_024337/README.md) |
+| 024338 | [Node.js: Data Export — Recovery for Two-Node Lab](Project_024338/README.md) |
+| 024339 | [Node.js: Data Export — Reporting for Two-Node Lab](Project_024339/README.md) |
+| 024340 | [Node.js: Data Export — Usability Improvement for Two-Node Lab](Project_024340/README.md) |
 
 [Back to the portfolio home](../README.md)
