@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004258 | [Fedora: Data Import — Recovery for Small Business](Project_004258/README.md) |
 | 004259 | [Fedora: Data Import — Reporting for Small Business](Project_004259/README.md) |
 | 004260 | [Fedora: Data Import — Usability Improvement for Small Business](Project_004260/README.md) |
+| 004261 | [Fedora: Data Import — Baseline Setup for Home Development](Project_004261/README.md) |
+| 004262 | [Fedora: Data Import — Automation for Home Development](Project_004262/README.md) |
+| 004263 | [Fedora: Data Import — Recovery for Home Development](Project_004263/README.md) |
+| 004264 | [Fedora: Data Import — Reporting for Home Development](Project_004264/README.md) |
+| 004265 | [Fedora: Data Import — Usability Improvement for Home Development](Project_004265/README.md) |
+| 004266 | [Fedora: Data Import — Baseline Setup for Public Dataset](Project_004266/README.md) |
+| 004267 | [Fedora: Data Import — Automation for Public Dataset](Project_004267/README.md) |
+| 004268 | [Fedora: Data Import — Recovery for Public Dataset](Project_004268/README.md) |
+| 004269 | [Fedora: Data Import — Reporting for Public Dataset](Project_004269/README.md) |
+| 004270 | [Fedora: Data Import — Usability Improvement for Public Dataset](Project_004270/README.md) |
+| 004271 | [Fedora: Data Import — Baseline Setup for Branch Office Simulator](Project_004271/README.md) |
+| 004272 | [Fedora: Data Import — Automation for Branch Office Simulator](Project_004272/README.md) |
+| 004273 | [Fedora: Data Import — Recovery for Branch Office Simulator](Project_004273/README.md) |
+| 004274 | [Fedora: Data Import — Reporting for Branch Office Simulator](Project_004274/README.md) |
+| 004275 | [Fedora: Data Import — Usability Improvement for Branch Office Simulator](Project_004275/README.md) |
+| 004276 | [Fedora: Data Import — Baseline Setup for Offline Classroom](Project_004276/README.md) |
+| 004277 | [Fedora: Data Import — Automation for Offline Classroom](Project_004277/README.md) |
+| 004278 | [Fedora: Data Import — Recovery for Offline Classroom](Project_004278/README.md) |
+| 004279 | [Fedora: Data Import — Reporting for Offline Classroom](Project_004279/README.md) |
+| 004280 | [Fedora: Data Import — Usability Improvement for Offline Classroom](Project_004280/README.md) |
 
 [Back to the portfolio home](../README.md)
