@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032458 | [Power BI: Scheduled Reporting — Recovery for Small Business](Project_032458/README.md) |
 | 032459 | [Power BI: Scheduled Reporting — Reporting for Small Business](Project_032459/README.md) |
 | 032460 | [Power BI: Scheduled Reporting — Usability Improvement for Small Business](Project_032460/README.md) |
+| 032461 | [Power BI: Scheduled Reporting — Baseline Setup for Home Development](Project_032461/README.md) |
+| 032462 | [Power BI: Scheduled Reporting — Automation for Home Development](Project_032462/README.md) |
+| 032463 | [Power BI: Scheduled Reporting — Recovery for Home Development](Project_032463/README.md) |
+| 032464 | [Power BI: Scheduled Reporting — Reporting for Home Development](Project_032464/README.md) |
+| 032465 | [Power BI: Scheduled Reporting — Usability Improvement for Home Development](Project_032465/README.md) |
+| 032466 | [Power BI: Scheduled Reporting — Baseline Setup for Public Dataset](Project_032466/README.md) |
+| 032467 | [Power BI: Scheduled Reporting — Automation for Public Dataset](Project_032467/README.md) |
+| 032468 | [Power BI: Scheduled Reporting — Recovery for Public Dataset](Project_032468/README.md) |
+| 032469 | [Power BI: Scheduled Reporting — Reporting for Public Dataset](Project_032469/README.md) |
+| 032470 | [Power BI: Scheduled Reporting — Usability Improvement for Public Dataset](Project_032470/README.md) |
+| 032471 | [Power BI: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_032471/README.md) |
+| 032472 | [Power BI: Scheduled Reporting — Automation for Branch Office Simulator](Project_032472/README.md) |
+| 032473 | [Power BI: Scheduled Reporting — Recovery for Branch Office Simulator](Project_032473/README.md) |
+| 032474 | [Power BI: Scheduled Reporting — Reporting for Branch Office Simulator](Project_032474/README.md) |
+| 032475 | [Power BI: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_032475/README.md) |
+| 032476 | [Power BI: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_032476/README.md) |
+| 032477 | [Power BI: Scheduled Reporting — Automation for Offline Classroom](Project_032477/README.md) |
+| 032478 | [Power BI: Scheduled Reporting — Recovery for Offline Classroom](Project_032478/README.md) |
+| 032479 | [Power BI: Scheduled Reporting — Reporting for Offline Classroom](Project_032479/README.md) |
+| 032480 | [Power BI: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_032480/README.md) |
 
 [Back to the portfolio home](../README.md)
