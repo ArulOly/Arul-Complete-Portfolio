@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028118 | [SQLite: Audit — Recovery for Public Dataset](Project_028118/README.md) |
 | 028119 | [SQLite: Audit — Reporting for Public Dataset](Project_028119/README.md) |
 | 028120 | [SQLite: Audit — Usability Improvement for Public Dataset](Project_028120/README.md) |
+| 028121 | [SQLite: Audit — Baseline Setup for Branch Office Simulator](Project_028121/README.md) |
+| 028122 | [SQLite: Audit — Automation for Branch Office Simulator](Project_028122/README.md) |
+| 028123 | [SQLite: Audit — Recovery for Branch Office Simulator](Project_028123/README.md) |
+| 028124 | [SQLite: Audit — Reporting for Branch Office Simulator](Project_028124/README.md) |
+| 028125 | [SQLite: Audit — Usability Improvement for Branch Office Simulator](Project_028125/README.md) |
+| 028126 | [SQLite: Audit — Baseline Setup for Offline Classroom](Project_028126/README.md) |
+| 028127 | [SQLite: Audit — Automation for Offline Classroom](Project_028127/README.md) |
+| 028128 | [SQLite: Audit — Recovery for Offline Classroom](Project_028128/README.md) |
+| 028129 | [SQLite: Audit — Reporting for Offline Classroom](Project_028129/README.md) |
+| 028130 | [SQLite: Audit — Usability Improvement for Offline Classroom](Project_028130/README.md) |
+| 028131 | [SQLite: Audit — Baseline Setup for Single-Host Lab](Project_028131/README.md) |
+| 028132 | [SQLite: Audit — Automation for Single-Host Lab](Project_028132/README.md) |
+| 028133 | [SQLite: Audit — Recovery for Single-Host Lab](Project_028133/README.md) |
+| 028134 | [SQLite: Audit — Reporting for Single-Host Lab](Project_028134/README.md) |
+| 028135 | [SQLite: Audit — Usability Improvement for Single-Host Lab](Project_028135/README.md) |
+| 028136 | [SQLite: Audit — Baseline Setup for Two-Node Lab](Project_028136/README.md) |
+| 028137 | [SQLite: Audit — Automation for Two-Node Lab](Project_028137/README.md) |
+| 028138 | [SQLite: Audit — Recovery for Two-Node Lab](Project_028138/README.md) |
+| 028139 | [SQLite: Audit — Reporting for Two-Node Lab](Project_028139/README.md) |
+| 028140 | [SQLite: Audit — Usability Improvement for Two-Node Lab](Project_028140/README.md) |
 
 [Back to the portfolio home](../README.md)
