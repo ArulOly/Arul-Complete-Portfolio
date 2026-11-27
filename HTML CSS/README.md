@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023618 | [HTML CSS: Service Check — Recovery for Public Dataset](Project_023618/README.md) |
 | 023619 | [HTML CSS: Service Check — Reporting for Public Dataset](Project_023619/README.md) |
 | 023620 | [HTML CSS: Service Check — Usability Improvement for Public Dataset](Project_023620/README.md) |
+| 023621 | [HTML CSS: Service Check — Baseline Setup for Branch Office Simulator](Project_023621/README.md) |
+| 023622 | [HTML CSS: Service Check — Automation for Branch Office Simulator](Project_023622/README.md) |
+| 023623 | [HTML CSS: Service Check — Recovery for Branch Office Simulator](Project_023623/README.md) |
+| 023624 | [HTML CSS: Service Check — Reporting for Branch Office Simulator](Project_023624/README.md) |
+| 023625 | [HTML CSS: Service Check — Usability Improvement for Branch Office Simulator](Project_023625/README.md) |
+| 023626 | [HTML CSS: Service Check — Baseline Setup for Offline Classroom](Project_023626/README.md) |
+| 023627 | [HTML CSS: Service Check — Automation for Offline Classroom](Project_023627/README.md) |
+| 023628 | [HTML CSS: Service Check — Recovery for Offline Classroom](Project_023628/README.md) |
+| 023629 | [HTML CSS: Service Check — Reporting for Offline Classroom](Project_023629/README.md) |
+| 023630 | [HTML CSS: Service Check — Usability Improvement for Offline Classroom](Project_023630/README.md) |
+| 023631 | [HTML CSS: Service Check — Baseline Setup for Single-Host Lab](Project_023631/README.md) |
+| 023632 | [HTML CSS: Service Check — Automation for Single-Host Lab](Project_023632/README.md) |
+| 023633 | [HTML CSS: Service Check — Recovery for Single-Host Lab](Project_023633/README.md) |
+| 023634 | [HTML CSS: Service Check — Reporting for Single-Host Lab](Project_023634/README.md) |
+| 023635 | [HTML CSS: Service Check — Usability Improvement for Single-Host Lab](Project_023635/README.md) |
+| 023636 | [HTML CSS: Service Check — Baseline Setup for Two-Node Lab](Project_023636/README.md) |
+| 023637 | [HTML CSS: Service Check — Automation for Two-Node Lab](Project_023637/README.md) |
+| 023638 | [HTML CSS: Service Check — Recovery for Two-Node Lab](Project_023638/README.md) |
+| 023639 | [HTML CSS: Service Check — Reporting for Two-Node Lab](Project_023639/README.md) |
+| 023640 | [HTML CSS: Service Check — Usability Improvement for Two-Node Lab](Project_023640/README.md) |
 
 [Back to the portfolio home](../README.md)
