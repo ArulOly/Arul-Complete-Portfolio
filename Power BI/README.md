@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032358 | [Power BI: Dashboard — Recovery for Small Business](Project_032358/README.md) |
 | 032359 | [Power BI: Dashboard — Reporting for Small Business](Project_032359/README.md) |
 | 032360 | [Power BI: Dashboard — Usability Improvement for Small Business](Project_032360/README.md) |
+| 032361 | [Power BI: Dashboard — Baseline Setup for Home Development](Project_032361/README.md) |
+| 032362 | [Power BI: Dashboard — Automation for Home Development](Project_032362/README.md) |
+| 032363 | [Power BI: Dashboard — Recovery for Home Development](Project_032363/README.md) |
+| 032364 | [Power BI: Dashboard — Reporting for Home Development](Project_032364/README.md) |
+| 032365 | [Power BI: Dashboard — Usability Improvement for Home Development](Project_032365/README.md) |
+| 032366 | [Power BI: Dashboard — Baseline Setup for Public Dataset](Project_032366/README.md) |
+| 032367 | [Power BI: Dashboard — Automation for Public Dataset](Project_032367/README.md) |
+| 032368 | [Power BI: Dashboard — Recovery for Public Dataset](Project_032368/README.md) |
+| 032369 | [Power BI: Dashboard — Reporting for Public Dataset](Project_032369/README.md) |
+| 032370 | [Power BI: Dashboard — Usability Improvement for Public Dataset](Project_032370/README.md) |
+| 032371 | [Power BI: Dashboard — Baseline Setup for Branch Office Simulator](Project_032371/README.md) |
+| 032372 | [Power BI: Dashboard — Automation for Branch Office Simulator](Project_032372/README.md) |
+| 032373 | [Power BI: Dashboard — Recovery for Branch Office Simulator](Project_032373/README.md) |
+| 032374 | [Power BI: Dashboard — Reporting for Branch Office Simulator](Project_032374/README.md) |
+| 032375 | [Power BI: Dashboard — Usability Improvement for Branch Office Simulator](Project_032375/README.md) |
+| 032376 | [Power BI: Dashboard — Baseline Setup for Offline Classroom](Project_032376/README.md) |
+| 032377 | [Power BI: Dashboard — Automation for Offline Classroom](Project_032377/README.md) |
+| 032378 | [Power BI: Dashboard — Recovery for Offline Classroom](Project_032378/README.md) |
+| 032379 | [Power BI: Dashboard — Reporting for Offline Classroom](Project_032379/README.md) |
+| 032380 | [Power BI: Dashboard — Usability Improvement for Offline Classroom](Project_032380/README.md) |
 
 [Back to the portfolio home](../README.md)
