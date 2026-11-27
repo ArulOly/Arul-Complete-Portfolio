@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033498 | [Jupyter: Scheduled Reporting — Recovery for Portfolio Demo](Project_033498/README.md) |
 | 033499 | [Jupyter: Scheduled Reporting — Reporting for Portfolio Demo](Project_033499/README.md) |
 | 033500 | [Jupyter: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_033500/README.md) |
+| 033501 | [Jupyter: Access Review — Baseline Setup for School Lab](Project_033501/README.md) |
+| 033502 | [Jupyter: Access Review — Automation for School Lab](Project_033502/README.md) |
+| 033503 | [Jupyter: Access Review — Recovery for School Lab](Project_033503/README.md) |
+| 033504 | [Jupyter: Access Review — Reporting for School Lab](Project_033504/README.md) |
+| 033505 | [Jupyter: Access Review — Usability Improvement for School Lab](Project_033505/README.md) |
+| 033506 | [Jupyter: Access Review — Baseline Setup for Small Business](Project_033506/README.md) |
+| 033507 | [Jupyter: Access Review — Automation for Small Business](Project_033507/README.md) |
+| 033508 | [Jupyter: Access Review — Recovery for Small Business](Project_033508/README.md) |
+| 033509 | [Jupyter: Access Review — Reporting for Small Business](Project_033509/README.md) |
+| 033510 | [Jupyter: Access Review — Usability Improvement for Small Business](Project_033510/README.md) |
+| 033511 | [Jupyter: Access Review — Baseline Setup for Home Development](Project_033511/README.md) |
+| 033512 | [Jupyter: Access Review — Automation for Home Development](Project_033512/README.md) |
+| 033513 | [Jupyter: Access Review — Recovery for Home Development](Project_033513/README.md) |
+| 033514 | [Jupyter: Access Review — Reporting for Home Development](Project_033514/README.md) |
+| 033515 | [Jupyter: Access Review — Usability Improvement for Home Development](Project_033515/README.md) |
+| 033516 | [Jupyter: Access Review — Baseline Setup for Public Dataset](Project_033516/README.md) |
+| 033517 | [Jupyter: Access Review — Automation for Public Dataset](Project_033517/README.md) |
+| 033518 | [Jupyter: Access Review — Recovery for Public Dataset](Project_033518/README.md) |
+| 033519 | [Jupyter: Access Review — Reporting for Public Dataset](Project_033519/README.md) |
+| 033520 | [Jupyter: Access Review — Usability Improvement for Public Dataset](Project_033520/README.md) |
 
 [Back to the portfolio home](../README.md)
