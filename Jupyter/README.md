@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033078 | [Jupyter: Monitoring — Recovery for Offline Classroom](Project_033078/README.md) |
 | 033079 | [Jupyter: Monitoring — Reporting for Offline Classroom](Project_033079/README.md) |
 | 033080 | [Jupyter: Monitoring — Usability Improvement for Offline Classroom](Project_033080/README.md) |
+| 033081 | [Jupyter: Monitoring — Baseline Setup for Single-Host Lab](Project_033081/README.md) |
+| 033082 | [Jupyter: Monitoring — Automation for Single-Host Lab](Project_033082/README.md) |
+| 033083 | [Jupyter: Monitoring — Recovery for Single-Host Lab](Project_033083/README.md) |
+| 033084 | [Jupyter: Monitoring — Reporting for Single-Host Lab](Project_033084/README.md) |
+| 033085 | [Jupyter: Monitoring — Usability Improvement for Single-Host Lab](Project_033085/README.md) |
+| 033086 | [Jupyter: Monitoring — Baseline Setup for Two-Node Lab](Project_033086/README.md) |
+| 033087 | [Jupyter: Monitoring — Automation for Two-Node Lab](Project_033087/README.md) |
+| 033088 | [Jupyter: Monitoring — Recovery for Two-Node Lab](Project_033088/README.md) |
+| 033089 | [Jupyter: Monitoring — Reporting for Two-Node Lab](Project_033089/README.md) |
+| 033090 | [Jupyter: Monitoring — Usability Improvement for Two-Node Lab](Project_033090/README.md) |
+| 033091 | [Jupyter: Monitoring — Baseline Setup for Help Desk](Project_033091/README.md) |
+| 033092 | [Jupyter: Monitoring — Automation for Help Desk](Project_033092/README.md) |
+| 033093 | [Jupyter: Monitoring — Recovery for Help Desk](Project_033093/README.md) |
+| 033094 | [Jupyter: Monitoring — Reporting for Help Desk](Project_033094/README.md) |
+| 033095 | [Jupyter: Monitoring — Usability Improvement for Help Desk](Project_033095/README.md) |
+| 033096 | [Jupyter: Monitoring — Baseline Setup for Portfolio Demo](Project_033096/README.md) |
+| 033097 | [Jupyter: Monitoring — Automation for Portfolio Demo](Project_033097/README.md) |
+| 033098 | [Jupyter: Monitoring — Recovery for Portfolio Demo](Project_033098/README.md) |
+| 033099 | [Jupyter: Monitoring — Reporting for Portfolio Demo](Project_033099/README.md) |
+| 033100 | [Jupyter: Monitoring — Usability Improvement for Portfolio Demo](Project_033100/README.md) |
 
 [Back to the portfolio home](../README.md)
