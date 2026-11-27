@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025118 | [PostgreSQL: Audit — Recovery for Public Dataset](Project_025118/README.md) |
 | 025119 | [PostgreSQL: Audit — Reporting for Public Dataset](Project_025119/README.md) |
 | 025120 | [PostgreSQL: Audit — Usability Improvement for Public Dataset](Project_025120/README.md) |
+| 025121 | [PostgreSQL: Audit — Baseline Setup for Branch Office Simulator](Project_025121/README.md) |
+| 025122 | [PostgreSQL: Audit — Automation for Branch Office Simulator](Project_025122/README.md) |
+| 025123 | [PostgreSQL: Audit — Recovery for Branch Office Simulator](Project_025123/README.md) |
+| 025124 | [PostgreSQL: Audit — Reporting for Branch Office Simulator](Project_025124/README.md) |
+| 025125 | [PostgreSQL: Audit — Usability Improvement for Branch Office Simulator](Project_025125/README.md) |
+| 025126 | [PostgreSQL: Audit — Baseline Setup for Offline Classroom](Project_025126/README.md) |
+| 025127 | [PostgreSQL: Audit — Automation for Offline Classroom](Project_025127/README.md) |
+| 025128 | [PostgreSQL: Audit — Recovery for Offline Classroom](Project_025128/README.md) |
+| 025129 | [PostgreSQL: Audit — Reporting for Offline Classroom](Project_025129/README.md) |
+| 025130 | [PostgreSQL: Audit — Usability Improvement for Offline Classroom](Project_025130/README.md) |
+| 025131 | [PostgreSQL: Audit — Baseline Setup for Single-Host Lab](Project_025131/README.md) |
+| 025132 | [PostgreSQL: Audit — Automation for Single-Host Lab](Project_025132/README.md) |
+| 025133 | [PostgreSQL: Audit — Recovery for Single-Host Lab](Project_025133/README.md) |
+| 025134 | [PostgreSQL: Audit — Reporting for Single-Host Lab](Project_025134/README.md) |
+| 025135 | [PostgreSQL: Audit — Usability Improvement for Single-Host Lab](Project_025135/README.md) |
+| 025136 | [PostgreSQL: Audit — Baseline Setup for Two-Node Lab](Project_025136/README.md) |
+| 025137 | [PostgreSQL: Audit — Automation for Two-Node Lab](Project_025137/README.md) |
+| 025138 | [PostgreSQL: Audit — Recovery for Two-Node Lab](Project_025138/README.md) |
+| 025139 | [PostgreSQL: Audit — Reporting for Two-Node Lab](Project_025139/README.md) |
+| 025140 | [PostgreSQL: Audit — Usability Improvement for Two-Node Lab](Project_025140/README.md) |
 
 [Back to the portfolio home](../README.md)
