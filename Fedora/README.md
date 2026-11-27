@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004958 | [Fedora: Recovery Test — Recovery for Small Business](Project_004958/README.md) |
 | 004959 | [Fedora: Recovery Test — Reporting for Small Business](Project_004959/README.md) |
 | 004960 | [Fedora: Recovery Test — Usability Improvement for Small Business](Project_004960/README.md) |
+| 004961 | [Fedora: Recovery Test — Baseline Setup for Home Development](Project_004961/README.md) |
+| 004962 | [Fedora: Recovery Test — Automation for Home Development](Project_004962/README.md) |
+| 004963 | [Fedora: Recovery Test — Recovery for Home Development](Project_004963/README.md) |
+| 004964 | [Fedora: Recovery Test — Reporting for Home Development](Project_004964/README.md) |
+| 004965 | [Fedora: Recovery Test — Usability Improvement for Home Development](Project_004965/README.md) |
+| 004966 | [Fedora: Recovery Test — Baseline Setup for Public Dataset](Project_004966/README.md) |
+| 004967 | [Fedora: Recovery Test — Automation for Public Dataset](Project_004967/README.md) |
+| 004968 | [Fedora: Recovery Test — Recovery for Public Dataset](Project_004968/README.md) |
+| 004969 | [Fedora: Recovery Test — Reporting for Public Dataset](Project_004969/README.md) |
+| 004970 | [Fedora: Recovery Test — Usability Improvement for Public Dataset](Project_004970/README.md) |
+| 004971 | [Fedora: Recovery Test — Baseline Setup for Branch Office Simulator](Project_004971/README.md) |
+| 004972 | [Fedora: Recovery Test — Automation for Branch Office Simulator](Project_004972/README.md) |
+| 004973 | [Fedora: Recovery Test — Recovery for Branch Office Simulator](Project_004973/README.md) |
+| 004974 | [Fedora: Recovery Test — Reporting for Branch Office Simulator](Project_004974/README.md) |
+| 004975 | [Fedora: Recovery Test — Usability Improvement for Branch Office Simulator](Project_004975/README.md) |
+| 004976 | [Fedora: Recovery Test — Baseline Setup for Offline Classroom](Project_004976/README.md) |
+| 004977 | [Fedora: Recovery Test — Automation for Offline Classroom](Project_004977/README.md) |
+| 004978 | [Fedora: Recovery Test — Recovery for Offline Classroom](Project_004978/README.md) |
+| 004979 | [Fedora: Recovery Test — Reporting for Offline Classroom](Project_004979/README.md) |
+| 004980 | [Fedora: Recovery Test — Usability Improvement for Offline Classroom](Project_004980/README.md) |
 
 [Back to the portfolio home](../README.md)
