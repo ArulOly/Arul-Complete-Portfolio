@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023058 | [HTML CSS: Monitoring — Recovery for Small Business](Project_023058/README.md) |
 | 023059 | [HTML CSS: Monitoring — Reporting for Small Business](Project_023059/README.md) |
 | 023060 | [HTML CSS: Monitoring — Usability Improvement for Small Business](Project_023060/README.md) |
+| 023061 | [HTML CSS: Monitoring — Baseline Setup for Home Development](Project_023061/README.md) |
+| 023062 | [HTML CSS: Monitoring — Automation for Home Development](Project_023062/README.md) |
+| 023063 | [HTML CSS: Monitoring — Recovery for Home Development](Project_023063/README.md) |
+| 023064 | [HTML CSS: Monitoring — Reporting for Home Development](Project_023064/README.md) |
+| 023065 | [HTML CSS: Monitoring — Usability Improvement for Home Development](Project_023065/README.md) |
+| 023066 | [HTML CSS: Monitoring — Baseline Setup for Public Dataset](Project_023066/README.md) |
+| 023067 | [HTML CSS: Monitoring — Automation for Public Dataset](Project_023067/README.md) |
+| 023068 | [HTML CSS: Monitoring — Recovery for Public Dataset](Project_023068/README.md) |
+| 023069 | [HTML CSS: Monitoring — Reporting for Public Dataset](Project_023069/README.md) |
+| 023070 | [HTML CSS: Monitoring — Usability Improvement for Public Dataset](Project_023070/README.md) |
+| 023071 | [HTML CSS: Monitoring — Baseline Setup for Branch Office Simulator](Project_023071/README.md) |
+| 023072 | [HTML CSS: Monitoring — Automation for Branch Office Simulator](Project_023072/README.md) |
+| 023073 | [HTML CSS: Monitoring — Recovery for Branch Office Simulator](Project_023073/README.md) |
+| 023074 | [HTML CSS: Monitoring — Reporting for Branch Office Simulator](Project_023074/README.md) |
+| 023075 | [HTML CSS: Monitoring — Usability Improvement for Branch Office Simulator](Project_023075/README.md) |
+| 023076 | [HTML CSS: Monitoring — Baseline Setup for Offline Classroom](Project_023076/README.md) |
+| 023077 | [HTML CSS: Monitoring — Automation for Offline Classroom](Project_023077/README.md) |
+| 023078 | [HTML CSS: Monitoring — Recovery for Offline Classroom](Project_023078/README.md) |
+| 023079 | [HTML CSS: Monitoring — Reporting for Offline Classroom](Project_023079/README.md) |
+| 023080 | [HTML CSS: Monitoring — Usability Improvement for Offline Classroom](Project_023080/README.md) |
 
 [Back to the portfolio home](../README.md)
