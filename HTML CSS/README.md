@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023238 | [HTML CSS: Backup Verification — Recovery for Two-Node Lab](Project_023238/README.md) |
 | 023239 | [HTML CSS: Backup Verification — Reporting for Two-Node Lab](Project_023239/README.md) |
 | 023240 | [HTML CSS: Backup Verification — Usability Improvement for Two-Node Lab](Project_023240/README.md) |
+| 023241 | [HTML CSS: Backup Verification — Baseline Setup for Help Desk](Project_023241/README.md) |
+| 023242 | [HTML CSS: Backup Verification — Automation for Help Desk](Project_023242/README.md) |
+| 023243 | [HTML CSS: Backup Verification — Recovery for Help Desk](Project_023243/README.md) |
+| 023244 | [HTML CSS: Backup Verification — Reporting for Help Desk](Project_023244/README.md) |
+| 023245 | [HTML CSS: Backup Verification — Usability Improvement for Help Desk](Project_023245/README.md) |
+| 023246 | [HTML CSS: Backup Verification — Baseline Setup for Portfolio Demo](Project_023246/README.md) |
+| 023247 | [HTML CSS: Backup Verification — Automation for Portfolio Demo](Project_023247/README.md) |
+| 023248 | [HTML CSS: Backup Verification — Recovery for Portfolio Demo](Project_023248/README.md) |
+| 023249 | [HTML CSS: Backup Verification — Reporting for Portfolio Demo](Project_023249/README.md) |
+| 023250 | [HTML CSS: Backup Verification — Usability Improvement for Portfolio Demo](Project_023250/README.md) |
+| 023251 | [HTML CSS: Data Import — Baseline Setup for School Lab](Project_023251/README.md) |
+| 023252 | [HTML CSS: Data Import — Automation for School Lab](Project_023252/README.md) |
+| 023253 | [HTML CSS: Data Import — Recovery for School Lab](Project_023253/README.md) |
+| 023254 | [HTML CSS: Data Import — Reporting for School Lab](Project_023254/README.md) |
+| 023255 | [HTML CSS: Data Import — Usability Improvement for School Lab](Project_023255/README.md) |
+| 023256 | [HTML CSS: Data Import — Baseline Setup for Small Business](Project_023256/README.md) |
+| 023257 | [HTML CSS: Data Import — Automation for Small Business](Project_023257/README.md) |
+| 023258 | [HTML CSS: Data Import — Recovery for Small Business](Project_023258/README.md) |
+| 023259 | [HTML CSS: Data Import — Reporting for Small Business](Project_023259/README.md) |
+| 023260 | [HTML CSS: Data Import — Usability Improvement for Small Business](Project_023260/README.md) |
 
 [Back to the portfolio home](../README.md)
