@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005418 | [FreeBSD: Alerting — Recovery for Public Dataset](Project_005418/README.md) |
 | 005419 | [FreeBSD: Alerting — Reporting for Public Dataset](Project_005419/README.md) |
 | 005420 | [FreeBSD: Alerting — Usability Improvement for Public Dataset](Project_005420/README.md) |
+| 005421 | [FreeBSD: Alerting — Baseline Setup for Branch Office Simulator](Project_005421/README.md) |
+| 005422 | [FreeBSD: Alerting — Automation for Branch Office Simulator](Project_005422/README.md) |
+| 005423 | [FreeBSD: Alerting — Recovery for Branch Office Simulator](Project_005423/README.md) |
+| 005424 | [FreeBSD: Alerting — Reporting for Branch Office Simulator](Project_005424/README.md) |
+| 005425 | [FreeBSD: Alerting — Usability Improvement for Branch Office Simulator](Project_005425/README.md) |
+| 005426 | [FreeBSD: Alerting — Baseline Setup for Offline Classroom](Project_005426/README.md) |
+| 005427 | [FreeBSD: Alerting — Automation for Offline Classroom](Project_005427/README.md) |
+| 005428 | [FreeBSD: Alerting — Recovery for Offline Classroom](Project_005428/README.md) |
+| 005429 | [FreeBSD: Alerting — Reporting for Offline Classroom](Project_005429/README.md) |
+| 005430 | [FreeBSD: Alerting — Usability Improvement for Offline Classroom](Project_005430/README.md) |
+| 005431 | [FreeBSD: Alerting — Baseline Setup for Single-Host Lab](Project_005431/README.md) |
+| 005432 | [FreeBSD: Alerting — Automation for Single-Host Lab](Project_005432/README.md) |
+| 005433 | [FreeBSD: Alerting — Recovery for Single-Host Lab](Project_005433/README.md) |
+| 005434 | [FreeBSD: Alerting — Reporting for Single-Host Lab](Project_005434/README.md) |
+| 005435 | [FreeBSD: Alerting — Usability Improvement for Single-Host Lab](Project_005435/README.md) |
+| 005436 | [FreeBSD: Alerting — Baseline Setup for Two-Node Lab](Project_005436/README.md) |
+| 005437 | [FreeBSD: Alerting — Automation for Two-Node Lab](Project_005437/README.md) |
+| 005438 | [FreeBSD: Alerting — Recovery for Two-Node Lab](Project_005438/README.md) |
+| 005439 | [FreeBSD: Alerting — Reporting for Two-Node Lab](Project_005439/README.md) |
+| 005440 | [FreeBSD: Alerting — Usability Improvement for Two-Node Lab](Project_005440/README.md) |
 
 [Back to the portfolio home](../README.md)
