@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026098 | [MySQL: Monitoring — Recovery for Portfolio Demo](Project_026098/README.md) |
 | 026099 | [MySQL: Monitoring — Reporting for Portfolio Demo](Project_026099/README.md) |
 | 026100 | [MySQL: Monitoring — Usability Improvement for Portfolio Demo](Project_026100/README.md) |
+| 026101 | [MySQL: Audit — Baseline Setup for School Lab](Project_026101/README.md) |
+| 026102 | [MySQL: Audit — Automation for School Lab](Project_026102/README.md) |
+| 026103 | [MySQL: Audit — Recovery for School Lab](Project_026103/README.md) |
+| 026104 | [MySQL: Audit — Reporting for School Lab](Project_026104/README.md) |
+| 026105 | [MySQL: Audit — Usability Improvement for School Lab](Project_026105/README.md) |
+| 026106 | [MySQL: Audit — Baseline Setup for Small Business](Project_026106/README.md) |
+| 026107 | [MySQL: Audit — Automation for Small Business](Project_026107/README.md) |
+| 026108 | [MySQL: Audit — Recovery for Small Business](Project_026108/README.md) |
+| 026109 | [MySQL: Audit — Reporting for Small Business](Project_026109/README.md) |
+| 026110 | [MySQL: Audit — Usability Improvement for Small Business](Project_026110/README.md) |
+| 026111 | [MySQL: Audit — Baseline Setup for Home Development](Project_026111/README.md) |
+| 026112 | [MySQL: Audit — Automation for Home Development](Project_026112/README.md) |
+| 026113 | [MySQL: Audit — Recovery for Home Development](Project_026113/README.md) |
+| 026114 | [MySQL: Audit — Reporting for Home Development](Project_026114/README.md) |
+| 026115 | [MySQL: Audit — Usability Improvement for Home Development](Project_026115/README.md) |
+| 026116 | [MySQL: Audit — Baseline Setup for Public Dataset](Project_026116/README.md) |
+| 026117 | [MySQL: Audit — Automation for Public Dataset](Project_026117/README.md) |
+| 026118 | [MySQL: Audit — Recovery for Public Dataset](Project_026118/README.md) |
+| 026119 | [MySQL: Audit — Reporting for Public Dataset](Project_026119/README.md) |
+| 026120 | [MySQL: Audit — Usability Improvement for Public Dataset](Project_026120/README.md) |
 
 [Back to the portfolio home](../README.md)
