@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032958 | [Power BI: Recovery Test — Recovery for Small Business](Project_032958/README.md) |
 | 032959 | [Power BI: Recovery Test — Reporting for Small Business](Project_032959/README.md) |
 | 032960 | [Power BI: Recovery Test — Usability Improvement for Small Business](Project_032960/README.md) |
+| 032961 | [Power BI: Recovery Test — Baseline Setup for Home Development](Project_032961/README.md) |
+| 032962 | [Power BI: Recovery Test — Automation for Home Development](Project_032962/README.md) |
+| 032963 | [Power BI: Recovery Test — Recovery for Home Development](Project_032963/README.md) |
+| 032964 | [Power BI: Recovery Test — Reporting for Home Development](Project_032964/README.md) |
+| 032965 | [Power BI: Recovery Test — Usability Improvement for Home Development](Project_032965/README.md) |
+| 032966 | [Power BI: Recovery Test — Baseline Setup for Public Dataset](Project_032966/README.md) |
+| 032967 | [Power BI: Recovery Test — Automation for Public Dataset](Project_032967/README.md) |
+| 032968 | [Power BI: Recovery Test — Recovery for Public Dataset](Project_032968/README.md) |
+| 032969 | [Power BI: Recovery Test — Reporting for Public Dataset](Project_032969/README.md) |
+| 032970 | [Power BI: Recovery Test — Usability Improvement for Public Dataset](Project_032970/README.md) |
+| 032971 | [Power BI: Recovery Test — Baseline Setup for Branch Office Simulator](Project_032971/README.md) |
+| 032972 | [Power BI: Recovery Test — Automation for Branch Office Simulator](Project_032972/README.md) |
+| 032973 | [Power BI: Recovery Test — Recovery for Branch Office Simulator](Project_032973/README.md) |
+| 032974 | [Power BI: Recovery Test — Reporting for Branch Office Simulator](Project_032974/README.md) |
+| 032975 | [Power BI: Recovery Test — Usability Improvement for Branch Office Simulator](Project_032975/README.md) |
+| 032976 | [Power BI: Recovery Test — Baseline Setup for Offline Classroom](Project_032976/README.md) |
+| 032977 | [Power BI: Recovery Test — Automation for Offline Classroom](Project_032977/README.md) |
+| 032978 | [Power BI: Recovery Test — Recovery for Offline Classroom](Project_032978/README.md) |
+| 032979 | [Power BI: Recovery Test — Reporting for Offline Classroom](Project_032979/README.md) |
+| 032980 | [Power BI: Recovery Test — Usability Improvement for Offline Classroom](Project_032980/README.md) |
 
 [Back to the portfolio home](../README.md)
