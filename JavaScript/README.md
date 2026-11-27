@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020198 | [JavaScript: Log Analysis — Recovery for Portfolio Demo](Project_020198/README.md) |
 | 020199 | [JavaScript: Log Analysis — Reporting for Portfolio Demo](Project_020199/README.md) |
 | 020200 | [JavaScript: Log Analysis — Usability Improvement for Portfolio Demo](Project_020200/README.md) |
+| 020201 | [JavaScript: Backup Verification — Baseline Setup for School Lab](Project_020201/README.md) |
+| 020202 | [JavaScript: Backup Verification — Automation for School Lab](Project_020202/README.md) |
+| 020203 | [JavaScript: Backup Verification — Recovery for School Lab](Project_020203/README.md) |
+| 020204 | [JavaScript: Backup Verification — Reporting for School Lab](Project_020204/README.md) |
+| 020205 | [JavaScript: Backup Verification — Usability Improvement for School Lab](Project_020205/README.md) |
+| 020206 | [JavaScript: Backup Verification — Baseline Setup for Small Business](Project_020206/README.md) |
+| 020207 | [JavaScript: Backup Verification — Automation for Small Business](Project_020207/README.md) |
+| 020208 | [JavaScript: Backup Verification — Recovery for Small Business](Project_020208/README.md) |
+| 020209 | [JavaScript: Backup Verification — Reporting for Small Business](Project_020209/README.md) |
+| 020210 | [JavaScript: Backup Verification — Usability Improvement for Small Business](Project_020210/README.md) |
+| 020211 | [JavaScript: Backup Verification — Baseline Setup for Home Development](Project_020211/README.md) |
+| 020212 | [JavaScript: Backup Verification — Automation for Home Development](Project_020212/README.md) |
+| 020213 | [JavaScript: Backup Verification — Recovery for Home Development](Project_020213/README.md) |
+| 020214 | [JavaScript: Backup Verification — Reporting for Home Development](Project_020214/README.md) |
+| 020215 | [JavaScript: Backup Verification — Usability Improvement for Home Development](Project_020215/README.md) |
+| 020216 | [JavaScript: Backup Verification — Baseline Setup for Public Dataset](Project_020216/README.md) |
+| 020217 | [JavaScript: Backup Verification — Automation for Public Dataset](Project_020217/README.md) |
+| 020218 | [JavaScript: Backup Verification — Recovery for Public Dataset](Project_020218/README.md) |
+| 020219 | [JavaScript: Backup Verification — Reporting for Public Dataset](Project_020219/README.md) |
+| 020220 | [JavaScript: Backup Verification — Usability Improvement for Public Dataset](Project_020220/README.md) |
 
 [Back to the portfolio home](../README.md)
