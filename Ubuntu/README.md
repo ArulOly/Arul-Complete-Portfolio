@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002658 | [Ubuntu: Configuration Comparison — Recovery for Small Business](Project_002658/README.md) |
 | 002659 | [Ubuntu: Configuration Comparison — Reporting for Small Business](Project_002659/README.md) |
 | 002660 | [Ubuntu: Configuration Comparison — Usability Improvement for Small Business](Project_002660/README.md) |
+| 002661 | [Ubuntu: Configuration Comparison — Baseline Setup for Home Development](Project_002661/README.md) |
+| 002662 | [Ubuntu: Configuration Comparison — Automation for Home Development](Project_002662/README.md) |
+| 002663 | [Ubuntu: Configuration Comparison — Recovery for Home Development](Project_002663/README.md) |
+| 002664 | [Ubuntu: Configuration Comparison — Reporting for Home Development](Project_002664/README.md) |
+| 002665 | [Ubuntu: Configuration Comparison — Usability Improvement for Home Development](Project_002665/README.md) |
+| 002666 | [Ubuntu: Configuration Comparison — Baseline Setup for Public Dataset](Project_002666/README.md) |
+| 002667 | [Ubuntu: Configuration Comparison — Automation for Public Dataset](Project_002667/README.md) |
+| 002668 | [Ubuntu: Configuration Comparison — Recovery for Public Dataset](Project_002668/README.md) |
+| 002669 | [Ubuntu: Configuration Comparison — Reporting for Public Dataset](Project_002669/README.md) |
+| 002670 | [Ubuntu: Configuration Comparison — Usability Improvement for Public Dataset](Project_002670/README.md) |
+| 002671 | [Ubuntu: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_002671/README.md) |
+| 002672 | [Ubuntu: Configuration Comparison — Automation for Branch Office Simulator](Project_002672/README.md) |
+| 002673 | [Ubuntu: Configuration Comparison — Recovery for Branch Office Simulator](Project_002673/README.md) |
+| 002674 | [Ubuntu: Configuration Comparison — Reporting for Branch Office Simulator](Project_002674/README.md) |
+| 002675 | [Ubuntu: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_002675/README.md) |
+| 002676 | [Ubuntu: Configuration Comparison — Baseline Setup for Offline Classroom](Project_002676/README.md) |
+| 002677 | [Ubuntu: Configuration Comparison — Automation for Offline Classroom](Project_002677/README.md) |
+| 002678 | [Ubuntu: Configuration Comparison — Recovery for Offline Classroom](Project_002678/README.md) |
+| 002679 | [Ubuntu: Configuration Comparison — Reporting for Offline Classroom](Project_002679/README.md) |
+| 002680 | [Ubuntu: Configuration Comparison — Usability Improvement for Offline Classroom](Project_002680/README.md) |
 
 [Back to the portfolio home](../README.md)
