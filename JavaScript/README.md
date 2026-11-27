@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020498 | [JavaScript: Scheduled Reporting — Recovery for Portfolio Demo](Project_020498/README.md) |
 | 020499 | [JavaScript: Scheduled Reporting — Reporting for Portfolio Demo](Project_020499/README.md) |
 | 020500 | [JavaScript: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_020500/README.md) |
+| 020501 | [JavaScript: Access Review — Baseline Setup for School Lab](Project_020501/README.md) |
+| 020502 | [JavaScript: Access Review — Automation for School Lab](Project_020502/README.md) |
+| 020503 | [JavaScript: Access Review — Recovery for School Lab](Project_020503/README.md) |
+| 020504 | [JavaScript: Access Review — Reporting for School Lab](Project_020504/README.md) |
+| 020505 | [JavaScript: Access Review — Usability Improvement for School Lab](Project_020505/README.md) |
+| 020506 | [JavaScript: Access Review — Baseline Setup for Small Business](Project_020506/README.md) |
+| 020507 | [JavaScript: Access Review — Automation for Small Business](Project_020507/README.md) |
+| 020508 | [JavaScript: Access Review — Recovery for Small Business](Project_020508/README.md) |
+| 020509 | [JavaScript: Access Review — Reporting for Small Business](Project_020509/README.md) |
+| 020510 | [JavaScript: Access Review — Usability Improvement for Small Business](Project_020510/README.md) |
+| 020511 | [JavaScript: Access Review — Baseline Setup for Home Development](Project_020511/README.md) |
+| 020512 | [JavaScript: Access Review — Automation for Home Development](Project_020512/README.md) |
+| 020513 | [JavaScript: Access Review — Recovery for Home Development](Project_020513/README.md) |
+| 020514 | [JavaScript: Access Review — Reporting for Home Development](Project_020514/README.md) |
+| 020515 | [JavaScript: Access Review — Usability Improvement for Home Development](Project_020515/README.md) |
+| 020516 | [JavaScript: Access Review — Baseline Setup for Public Dataset](Project_020516/README.md) |
+| 020517 | [JavaScript: Access Review — Automation for Public Dataset](Project_020517/README.md) |
+| 020518 | [JavaScript: Access Review — Recovery for Public Dataset](Project_020518/README.md) |
+| 020519 | [JavaScript: Access Review — Reporting for Public Dataset](Project_020519/README.md) |
+| 020520 | [JavaScript: Access Review — Usability Improvement for Public Dataset](Project_020520/README.md) |
 
 [Back to the portfolio home](../README.md)
