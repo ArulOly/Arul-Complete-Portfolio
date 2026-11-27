@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020818 | [JavaScript: Documentation Generation — Recovery for Public Dataset](Project_020818/README.md) |
 | 020819 | [JavaScript: Documentation Generation — Reporting for Public Dataset](Project_020819/README.md) |
 | 020820 | [JavaScript: Documentation Generation — Usability Improvement for Public Dataset](Project_020820/README.md) |
+| 020821 | [JavaScript: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_020821/README.md) |
+| 020822 | [JavaScript: Documentation Generation — Automation for Branch Office Simulator](Project_020822/README.md) |
+| 020823 | [JavaScript: Documentation Generation — Recovery for Branch Office Simulator](Project_020823/README.md) |
+| 020824 | [JavaScript: Documentation Generation — Reporting for Branch Office Simulator](Project_020824/README.md) |
+| 020825 | [JavaScript: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_020825/README.md) |
+| 020826 | [JavaScript: Documentation Generation — Baseline Setup for Offline Classroom](Project_020826/README.md) |
+| 020827 | [JavaScript: Documentation Generation — Automation for Offline Classroom](Project_020827/README.md) |
+| 020828 | [JavaScript: Documentation Generation — Recovery for Offline Classroom](Project_020828/README.md) |
+| 020829 | [JavaScript: Documentation Generation — Reporting for Offline Classroom](Project_020829/README.md) |
+| 020830 | [JavaScript: Documentation Generation — Usability Improvement for Offline Classroom](Project_020830/README.md) |
+| 020831 | [JavaScript: Documentation Generation — Baseline Setup for Single-Host Lab](Project_020831/README.md) |
+| 020832 | [JavaScript: Documentation Generation — Automation for Single-Host Lab](Project_020832/README.md) |
+| 020833 | [JavaScript: Documentation Generation — Recovery for Single-Host Lab](Project_020833/README.md) |
+| 020834 | [JavaScript: Documentation Generation — Reporting for Single-Host Lab](Project_020834/README.md) |
+| 020835 | [JavaScript: Documentation Generation — Usability Improvement for Single-Host Lab](Project_020835/README.md) |
+| 020836 | [JavaScript: Documentation Generation — Baseline Setup for Two-Node Lab](Project_020836/README.md) |
+| 020837 | [JavaScript: Documentation Generation — Automation for Two-Node Lab](Project_020837/README.md) |
+| 020838 | [JavaScript: Documentation Generation — Recovery for Two-Node Lab](Project_020838/README.md) |
+| 020839 | [JavaScript: Documentation Generation — Reporting for Two-Node Lab](Project_020839/README.md) |
+| 020840 | [JavaScript: Documentation Generation — Usability Improvement for Two-Node Lab](Project_020840/README.md) |
 
 [Back to the portfolio home](../README.md)
