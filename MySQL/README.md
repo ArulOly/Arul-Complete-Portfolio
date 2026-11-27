@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026338 | [MySQL: Data Export — Recovery for Two-Node Lab](Project_026338/README.md) |
 | 026339 | [MySQL: Data Export — Reporting for Two-Node Lab](Project_026339/README.md) |
 | 026340 | [MySQL: Data Export — Usability Improvement for Two-Node Lab](Project_026340/README.md) |
+| 026341 | [MySQL: Data Export — Baseline Setup for Help Desk](Project_026341/README.md) |
+| 026342 | [MySQL: Data Export — Automation for Help Desk](Project_026342/README.md) |
+| 026343 | [MySQL: Data Export — Recovery for Help Desk](Project_026343/README.md) |
+| 026344 | [MySQL: Data Export — Reporting for Help Desk](Project_026344/README.md) |
+| 026345 | [MySQL: Data Export — Usability Improvement for Help Desk](Project_026345/README.md) |
+| 026346 | [MySQL: Data Export — Baseline Setup for Portfolio Demo](Project_026346/README.md) |
+| 026347 | [MySQL: Data Export — Automation for Portfolio Demo](Project_026347/README.md) |
+| 026348 | [MySQL: Data Export — Recovery for Portfolio Demo](Project_026348/README.md) |
+| 026349 | [MySQL: Data Export — Reporting for Portfolio Demo](Project_026349/README.md) |
+| 026350 | [MySQL: Data Export — Usability Improvement for Portfolio Demo](Project_026350/README.md) |
+| 026351 | [MySQL: Dashboard — Baseline Setup for School Lab](Project_026351/README.md) |
+| 026352 | [MySQL: Dashboard — Automation for School Lab](Project_026352/README.md) |
+| 026353 | [MySQL: Dashboard — Recovery for School Lab](Project_026353/README.md) |
+| 026354 | [MySQL: Dashboard — Reporting for School Lab](Project_026354/README.md) |
+| 026355 | [MySQL: Dashboard — Usability Improvement for School Lab](Project_026355/README.md) |
+| 026356 | [MySQL: Dashboard — Baseline Setup for Small Business](Project_026356/README.md) |
+| 026357 | [MySQL: Dashboard — Automation for Small Business](Project_026357/README.md) |
+| 026358 | [MySQL: Dashboard — Recovery for Small Business](Project_026358/README.md) |
+| 026359 | [MySQL: Dashboard — Reporting for Small Business](Project_026359/README.md) |
+| 026360 | [MySQL: Dashboard — Usability Improvement for Small Business](Project_026360/README.md) |
 
 [Back to the portfolio home](../README.md)
