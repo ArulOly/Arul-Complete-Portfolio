@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032298 | [Power BI: Data Import — Recovery for Portfolio Demo](Project_032298/README.md) |
 | 032299 | [Power BI: Data Import — Reporting for Portfolio Demo](Project_032299/README.md) |
 | 032300 | [Power BI: Data Import — Usability Improvement for Portfolio Demo](Project_032300/README.md) |
+| 032301 | [Power BI: Data Export — Baseline Setup for School Lab](Project_032301/README.md) |
+| 032302 | [Power BI: Data Export — Automation for School Lab](Project_032302/README.md) |
+| 032303 | [Power BI: Data Export — Recovery for School Lab](Project_032303/README.md) |
+| 032304 | [Power BI: Data Export — Reporting for School Lab](Project_032304/README.md) |
+| 032305 | [Power BI: Data Export — Usability Improvement for School Lab](Project_032305/README.md) |
+| 032306 | [Power BI: Data Export — Baseline Setup for Small Business](Project_032306/README.md) |
+| 032307 | [Power BI: Data Export — Automation for Small Business](Project_032307/README.md) |
+| 032308 | [Power BI: Data Export — Recovery for Small Business](Project_032308/README.md) |
+| 032309 | [Power BI: Data Export — Reporting for Small Business](Project_032309/README.md) |
+| 032310 | [Power BI: Data Export — Usability Improvement for Small Business](Project_032310/README.md) |
+| 032311 | [Power BI: Data Export — Baseline Setup for Home Development](Project_032311/README.md) |
+| 032312 | [Power BI: Data Export — Automation for Home Development](Project_032312/README.md) |
+| 032313 | [Power BI: Data Export — Recovery for Home Development](Project_032313/README.md) |
+| 032314 | [Power BI: Data Export — Reporting for Home Development](Project_032314/README.md) |
+| 032315 | [Power BI: Data Export — Usability Improvement for Home Development](Project_032315/README.md) |
+| 032316 | [Power BI: Data Export — Baseline Setup for Public Dataset](Project_032316/README.md) |
+| 032317 | [Power BI: Data Export — Automation for Public Dataset](Project_032317/README.md) |
+| 032318 | [Power BI: Data Export — Recovery for Public Dataset](Project_032318/README.md) |
+| 032319 | [Power BI: Data Export — Reporting for Public Dataset](Project_032319/README.md) |
+| 032320 | [Power BI: Data Export — Usability Improvement for Public Dataset](Project_032320/README.md) |
 
 [Back to the portfolio home](../README.md)
