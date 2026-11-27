@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021898 | [TypeScript: Automation — Recovery for Portfolio Demo](Project_021898/README.md) |
 | 021899 | [TypeScript: Automation — Reporting for Portfolio Demo](Project_021899/README.md) |
 | 021900 | [TypeScript: Automation — Usability Improvement for Portfolio Demo](Project_021900/README.md) |
+| 021901 | [TypeScript: Visual Reporting — Baseline Setup for School Lab](Project_021901/README.md) |
+| 021902 | [TypeScript: Visual Reporting — Automation for School Lab](Project_021902/README.md) |
+| 021903 | [TypeScript: Visual Reporting — Recovery for School Lab](Project_021903/README.md) |
+| 021904 | [TypeScript: Visual Reporting — Reporting for School Lab](Project_021904/README.md) |
+| 021905 | [TypeScript: Visual Reporting — Usability Improvement for School Lab](Project_021905/README.md) |
+| 021906 | [TypeScript: Visual Reporting — Baseline Setup for Small Business](Project_021906/README.md) |
+| 021907 | [TypeScript: Visual Reporting — Automation for Small Business](Project_021907/README.md) |
+| 021908 | [TypeScript: Visual Reporting — Recovery for Small Business](Project_021908/README.md) |
+| 021909 | [TypeScript: Visual Reporting — Reporting for Small Business](Project_021909/README.md) |
+| 021910 | [TypeScript: Visual Reporting — Usability Improvement for Small Business](Project_021910/README.md) |
+| 021911 | [TypeScript: Visual Reporting — Baseline Setup for Home Development](Project_021911/README.md) |
+| 021912 | [TypeScript: Visual Reporting — Automation for Home Development](Project_021912/README.md) |
+| 021913 | [TypeScript: Visual Reporting — Recovery for Home Development](Project_021913/README.md) |
+| 021914 | [TypeScript: Visual Reporting — Reporting for Home Development](Project_021914/README.md) |
+| 021915 | [TypeScript: Visual Reporting — Usability Improvement for Home Development](Project_021915/README.md) |
+| 021916 | [TypeScript: Visual Reporting — Baseline Setup for Public Dataset](Project_021916/README.md) |
+| 021917 | [TypeScript: Visual Reporting — Automation for Public Dataset](Project_021917/README.md) |
+| 021918 | [TypeScript: Visual Reporting — Recovery for Public Dataset](Project_021918/README.md) |
+| 021919 | [TypeScript: Visual Reporting — Reporting for Public Dataset](Project_021919/README.md) |
+| 021920 | [TypeScript: Visual Reporting — Usability Improvement for Public Dataset](Project_021920/README.md) |
 
 [Back to the portfolio home](../README.md)
