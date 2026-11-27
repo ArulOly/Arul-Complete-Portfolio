@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022038 | [Java: Inventory — Recovery for Two-Node Lab](Project_022038/README.md) |
 | 022039 | [Java: Inventory — Reporting for Two-Node Lab](Project_022039/README.md) |
 | 022040 | [Java: Inventory — Usability Improvement for Two-Node Lab](Project_022040/README.md) |
+| 022041 | [Java: Inventory — Baseline Setup for Help Desk](Project_022041/README.md) |
+| 022042 | [Java: Inventory — Automation for Help Desk](Project_022042/README.md) |
+| 022043 | [Java: Inventory — Recovery for Help Desk](Project_022043/README.md) |
+| 022044 | [Java: Inventory — Reporting for Help Desk](Project_022044/README.md) |
+| 022045 | [Java: Inventory — Usability Improvement for Help Desk](Project_022045/README.md) |
+| 022046 | [Java: Inventory — Baseline Setup for Portfolio Demo](Project_022046/README.md) |
+| 022047 | [Java: Inventory — Automation for Portfolio Demo](Project_022047/README.md) |
+| 022048 | [Java: Inventory — Recovery for Portfolio Demo](Project_022048/README.md) |
+| 022049 | [Java: Inventory — Reporting for Portfolio Demo](Project_022049/README.md) |
+| 022050 | [Java: Inventory — Usability Improvement for Portfolio Demo](Project_022050/README.md) |
+| 022051 | [Java: Monitoring — Baseline Setup for School Lab](Project_022051/README.md) |
+| 022052 | [Java: Monitoring — Automation for School Lab](Project_022052/README.md) |
+| 022053 | [Java: Monitoring — Recovery for School Lab](Project_022053/README.md) |
+| 022054 | [Java: Monitoring — Reporting for School Lab](Project_022054/README.md) |
+| 022055 | [Java: Monitoring — Usability Improvement for School Lab](Project_022055/README.md) |
+| 022056 | [Java: Monitoring — Baseline Setup for Small Business](Project_022056/README.md) |
+| 022057 | [Java: Monitoring — Automation for Small Business](Project_022057/README.md) |
+| 022058 | [Java: Monitoring — Recovery for Small Business](Project_022058/README.md) |
+| 022059 | [Java: Monitoring — Reporting for Small Business](Project_022059/README.md) |
+| 022060 | [Java: Monitoring — Usability Improvement for Small Business](Project_022060/README.md) |
 
 [Back to the portfolio home](../README.md)
