@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027058 | [MongoDB: Monitoring — Recovery for Small Business](Project_027058/README.md) |
 | 027059 | [MongoDB: Monitoring — Reporting for Small Business](Project_027059/README.md) |
 | 027060 | [MongoDB: Monitoring — Usability Improvement for Small Business](Project_027060/README.md) |
+| 027061 | [MongoDB: Monitoring — Baseline Setup for Home Development](Project_027061/README.md) |
+| 027062 | [MongoDB: Monitoring — Automation for Home Development](Project_027062/README.md) |
+| 027063 | [MongoDB: Monitoring — Recovery for Home Development](Project_027063/README.md) |
+| 027064 | [MongoDB: Monitoring — Reporting for Home Development](Project_027064/README.md) |
+| 027065 | [MongoDB: Monitoring — Usability Improvement for Home Development](Project_027065/README.md) |
+| 027066 | [MongoDB: Monitoring — Baseline Setup for Public Dataset](Project_027066/README.md) |
+| 027067 | [MongoDB: Monitoring — Automation for Public Dataset](Project_027067/README.md) |
+| 027068 | [MongoDB: Monitoring — Recovery for Public Dataset](Project_027068/README.md) |
+| 027069 | [MongoDB: Monitoring — Reporting for Public Dataset](Project_027069/README.md) |
+| 027070 | [MongoDB: Monitoring — Usability Improvement for Public Dataset](Project_027070/README.md) |
+| 027071 | [MongoDB: Monitoring — Baseline Setup for Branch Office Simulator](Project_027071/README.md) |
+| 027072 | [MongoDB: Monitoring — Automation for Branch Office Simulator](Project_027072/README.md) |
+| 027073 | [MongoDB: Monitoring — Recovery for Branch Office Simulator](Project_027073/README.md) |
+| 027074 | [MongoDB: Monitoring — Reporting for Branch Office Simulator](Project_027074/README.md) |
+| 027075 | [MongoDB: Monitoring — Usability Improvement for Branch Office Simulator](Project_027075/README.md) |
+| 027076 | [MongoDB: Monitoring — Baseline Setup for Offline Classroom](Project_027076/README.md) |
+| 027077 | [MongoDB: Monitoring — Automation for Offline Classroom](Project_027077/README.md) |
+| 027078 | [MongoDB: Monitoring — Recovery for Offline Classroom](Project_027078/README.md) |
+| 027079 | [MongoDB: Monitoring — Reporting for Offline Classroom](Project_027079/README.md) |
+| 027080 | [MongoDB: Monitoring — Usability Improvement for Offline Classroom](Project_027080/README.md) |
 
 [Back to the portfolio home](../README.md)
