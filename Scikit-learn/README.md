@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034398 | [Scikit-learn: Dashboard — Recovery for Portfolio Demo](Project_034398/README.md) |
 | 034399 | [Scikit-learn: Dashboard — Reporting for Portfolio Demo](Project_034399/README.md) |
 | 034400 | [Scikit-learn: Dashboard — Usability Improvement for Portfolio Demo](Project_034400/README.md) |
+| 034401 | [Scikit-learn: Alerting — Baseline Setup for School Lab](Project_034401/README.md) |
+| 034402 | [Scikit-learn: Alerting — Automation for School Lab](Project_034402/README.md) |
+| 034403 | [Scikit-learn: Alerting — Recovery for School Lab](Project_034403/README.md) |
+| 034404 | [Scikit-learn: Alerting — Reporting for School Lab](Project_034404/README.md) |
+| 034405 | [Scikit-learn: Alerting — Usability Improvement for School Lab](Project_034405/README.md) |
+| 034406 | [Scikit-learn: Alerting — Baseline Setup for Small Business](Project_034406/README.md) |
+| 034407 | [Scikit-learn: Alerting — Automation for Small Business](Project_034407/README.md) |
+| 034408 | [Scikit-learn: Alerting — Recovery for Small Business](Project_034408/README.md) |
+| 034409 | [Scikit-learn: Alerting — Reporting for Small Business](Project_034409/README.md) |
+| 034410 | [Scikit-learn: Alerting — Usability Improvement for Small Business](Project_034410/README.md) |
+| 034411 | [Scikit-learn: Alerting — Baseline Setup for Home Development](Project_034411/README.md) |
+| 034412 | [Scikit-learn: Alerting — Automation for Home Development](Project_034412/README.md) |
+| 034413 | [Scikit-learn: Alerting — Recovery for Home Development](Project_034413/README.md) |
+| 034414 | [Scikit-learn: Alerting — Reporting for Home Development](Project_034414/README.md) |
+| 034415 | [Scikit-learn: Alerting — Usability Improvement for Home Development](Project_034415/README.md) |
+| 034416 | [Scikit-learn: Alerting — Baseline Setup for Public Dataset](Project_034416/README.md) |
+| 034417 | [Scikit-learn: Alerting — Automation for Public Dataset](Project_034417/README.md) |
+| 034418 | [Scikit-learn: Alerting — Recovery for Public Dataset](Project_034418/README.md) |
+| 034419 | [Scikit-learn: Alerting — Reporting for Public Dataset](Project_034419/README.md) |
+| 034420 | [Scikit-learn: Alerting — Usability Improvement for Public Dataset](Project_034420/README.md) |
 
 [Back to the portfolio home](../README.md)
