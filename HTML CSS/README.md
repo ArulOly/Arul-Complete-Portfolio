@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023438 | [HTML CSS: Alerting — Recovery for Two-Node Lab](Project_023438/README.md) |
 | 023439 | [HTML CSS: Alerting — Reporting for Two-Node Lab](Project_023439/README.md) |
 | 023440 | [HTML CSS: Alerting — Usability Improvement for Two-Node Lab](Project_023440/README.md) |
+| 023441 | [HTML CSS: Alerting — Baseline Setup for Help Desk](Project_023441/README.md) |
+| 023442 | [HTML CSS: Alerting — Automation for Help Desk](Project_023442/README.md) |
+| 023443 | [HTML CSS: Alerting — Recovery for Help Desk](Project_023443/README.md) |
+| 023444 | [HTML CSS: Alerting — Reporting for Help Desk](Project_023444/README.md) |
+| 023445 | [HTML CSS: Alerting — Usability Improvement for Help Desk](Project_023445/README.md) |
+| 023446 | [HTML CSS: Alerting — Baseline Setup for Portfolio Demo](Project_023446/README.md) |
+| 023447 | [HTML CSS: Alerting — Automation for Portfolio Demo](Project_023447/README.md) |
+| 023448 | [HTML CSS: Alerting — Recovery for Portfolio Demo](Project_023448/README.md) |
+| 023449 | [HTML CSS: Alerting — Reporting for Portfolio Demo](Project_023449/README.md) |
+| 023450 | [HTML CSS: Alerting — Usability Improvement for Portfolio Demo](Project_023450/README.md) |
+| 023451 | [HTML CSS: Scheduled Reporting — Baseline Setup for School Lab](Project_023451/README.md) |
+| 023452 | [HTML CSS: Scheduled Reporting — Automation for School Lab](Project_023452/README.md) |
+| 023453 | [HTML CSS: Scheduled Reporting — Recovery for School Lab](Project_023453/README.md) |
+| 023454 | [HTML CSS: Scheduled Reporting — Reporting for School Lab](Project_023454/README.md) |
+| 023455 | [HTML CSS: Scheduled Reporting — Usability Improvement for School Lab](Project_023455/README.md) |
+| 023456 | [HTML CSS: Scheduled Reporting — Baseline Setup for Small Business](Project_023456/README.md) |
+| 023457 | [HTML CSS: Scheduled Reporting — Automation for Small Business](Project_023457/README.md) |
+| 023458 | [HTML CSS: Scheduled Reporting — Recovery for Small Business](Project_023458/README.md) |
+| 023459 | [HTML CSS: Scheduled Reporting — Reporting for Small Business](Project_023459/README.md) |
+| 023460 | [HTML CSS: Scheduled Reporting — Usability Improvement for Small Business](Project_023460/README.md) |
 
 [Back to the portfolio home](../README.md)
