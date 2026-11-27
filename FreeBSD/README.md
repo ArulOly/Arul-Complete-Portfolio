@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005318 | [FreeBSD: Data Export — Recovery for Public Dataset](Project_005318/README.md) |
 | 005319 | [FreeBSD: Data Export — Reporting for Public Dataset](Project_005319/README.md) |
 | 005320 | [FreeBSD: Data Export — Usability Improvement for Public Dataset](Project_005320/README.md) |
+| 005321 | [FreeBSD: Data Export — Baseline Setup for Branch Office Simulator](Project_005321/README.md) |
+| 005322 | [FreeBSD: Data Export — Automation for Branch Office Simulator](Project_005322/README.md) |
+| 005323 | [FreeBSD: Data Export — Recovery for Branch Office Simulator](Project_005323/README.md) |
+| 005324 | [FreeBSD: Data Export — Reporting for Branch Office Simulator](Project_005324/README.md) |
+| 005325 | [FreeBSD: Data Export — Usability Improvement for Branch Office Simulator](Project_005325/README.md) |
+| 005326 | [FreeBSD: Data Export — Baseline Setup for Offline Classroom](Project_005326/README.md) |
+| 005327 | [FreeBSD: Data Export — Automation for Offline Classroom](Project_005327/README.md) |
+| 005328 | [FreeBSD: Data Export — Recovery for Offline Classroom](Project_005328/README.md) |
+| 005329 | [FreeBSD: Data Export — Reporting for Offline Classroom](Project_005329/README.md) |
+| 005330 | [FreeBSD: Data Export — Usability Improvement for Offline Classroom](Project_005330/README.md) |
+| 005331 | [FreeBSD: Data Export — Baseline Setup for Single-Host Lab](Project_005331/README.md) |
+| 005332 | [FreeBSD: Data Export — Automation for Single-Host Lab](Project_005332/README.md) |
+| 005333 | [FreeBSD: Data Export — Recovery for Single-Host Lab](Project_005333/README.md) |
+| 005334 | [FreeBSD: Data Export — Reporting for Single-Host Lab](Project_005334/README.md) |
+| 005335 | [FreeBSD: Data Export — Usability Improvement for Single-Host Lab](Project_005335/README.md) |
+| 005336 | [FreeBSD: Data Export — Baseline Setup for Two-Node Lab](Project_005336/README.md) |
+| 005337 | [FreeBSD: Data Export — Automation for Two-Node Lab](Project_005337/README.md) |
+| 005338 | [FreeBSD: Data Export — Recovery for Two-Node Lab](Project_005338/README.md) |
+| 005339 | [FreeBSD: Data Export — Reporting for Two-Node Lab](Project_005339/README.md) |
+| 005340 | [FreeBSD: Data Export — Usability Improvement for Two-Node Lab](Project_005340/README.md) |
 
 [Back to the portfolio home](../README.md)
