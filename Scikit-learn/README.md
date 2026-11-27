@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034158 | [Scikit-learn: Log Analysis — Recovery for Small Business](Project_034158/README.md) |
 | 034159 | [Scikit-learn: Log Analysis — Reporting for Small Business](Project_034159/README.md) |
 | 034160 | [Scikit-learn: Log Analysis — Usability Improvement for Small Business](Project_034160/README.md) |
+| 034161 | [Scikit-learn: Log Analysis — Baseline Setup for Home Development](Project_034161/README.md) |
+| 034162 | [Scikit-learn: Log Analysis — Automation for Home Development](Project_034162/README.md) |
+| 034163 | [Scikit-learn: Log Analysis — Recovery for Home Development](Project_034163/README.md) |
+| 034164 | [Scikit-learn: Log Analysis — Reporting for Home Development](Project_034164/README.md) |
+| 034165 | [Scikit-learn: Log Analysis — Usability Improvement for Home Development](Project_034165/README.md) |
+| 034166 | [Scikit-learn: Log Analysis — Baseline Setup for Public Dataset](Project_034166/README.md) |
+| 034167 | [Scikit-learn: Log Analysis — Automation for Public Dataset](Project_034167/README.md) |
+| 034168 | [Scikit-learn: Log Analysis — Recovery for Public Dataset](Project_034168/README.md) |
+| 034169 | [Scikit-learn: Log Analysis — Reporting for Public Dataset](Project_034169/README.md) |
+| 034170 | [Scikit-learn: Log Analysis — Usability Improvement for Public Dataset](Project_034170/README.md) |
+| 034171 | [Scikit-learn: Log Analysis — Baseline Setup for Branch Office Simulator](Project_034171/README.md) |
+| 034172 | [Scikit-learn: Log Analysis — Automation for Branch Office Simulator](Project_034172/README.md) |
+| 034173 | [Scikit-learn: Log Analysis — Recovery for Branch Office Simulator](Project_034173/README.md) |
+| 034174 | [Scikit-learn: Log Analysis — Reporting for Branch Office Simulator](Project_034174/README.md) |
+| 034175 | [Scikit-learn: Log Analysis — Usability Improvement for Branch Office Simulator](Project_034175/README.md) |
+| 034176 | [Scikit-learn: Log Analysis — Baseline Setup for Offline Classroom](Project_034176/README.md) |
+| 034177 | [Scikit-learn: Log Analysis — Automation for Offline Classroom](Project_034177/README.md) |
+| 034178 | [Scikit-learn: Log Analysis — Recovery for Offline Classroom](Project_034178/README.md) |
+| 034179 | [Scikit-learn: Log Analysis — Reporting for Offline Classroom](Project_034179/README.md) |
+| 034180 | [Scikit-learn: Log Analysis — Usability Improvement for Offline Classroom](Project_034180/README.md) |
 
 [Back to the portfolio home](../README.md)
