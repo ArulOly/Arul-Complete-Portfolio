@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003878 | [Debian: Automation — Recovery for Offline Classroom](Project_003878/README.md) |
 | 003879 | [Debian: Automation — Reporting for Offline Classroom](Project_003879/README.md) |
 | 003880 | [Debian: Automation — Usability Improvement for Offline Classroom](Project_003880/README.md) |
+| 003881 | [Debian: Automation — Baseline Setup for Single-Host Lab](Project_003881/README.md) |
+| 003882 | [Debian: Automation — Automation for Single-Host Lab](Project_003882/README.md) |
+| 003883 | [Debian: Automation — Recovery for Single-Host Lab](Project_003883/README.md) |
+| 003884 | [Debian: Automation — Reporting for Single-Host Lab](Project_003884/README.md) |
+| 003885 | [Debian: Automation — Usability Improvement for Single-Host Lab](Project_003885/README.md) |
+| 003886 | [Debian: Automation — Baseline Setup for Two-Node Lab](Project_003886/README.md) |
+| 003887 | [Debian: Automation — Automation for Two-Node Lab](Project_003887/README.md) |
+| 003888 | [Debian: Automation — Recovery for Two-Node Lab](Project_003888/README.md) |
+| 003889 | [Debian: Automation — Reporting for Two-Node Lab](Project_003889/README.md) |
+| 003890 | [Debian: Automation — Usability Improvement for Two-Node Lab](Project_003890/README.md) |
+| 003891 | [Debian: Automation — Baseline Setup for Help Desk](Project_003891/README.md) |
+| 003892 | [Debian: Automation — Automation for Help Desk](Project_003892/README.md) |
+| 003893 | [Debian: Automation — Recovery for Help Desk](Project_003893/README.md) |
+| 003894 | [Debian: Automation — Reporting for Help Desk](Project_003894/README.md) |
+| 003895 | [Debian: Automation — Usability Improvement for Help Desk](Project_003895/README.md) |
+| 003896 | [Debian: Automation — Baseline Setup for Portfolio Demo](Project_003896/README.md) |
+| 003897 | [Debian: Automation — Automation for Portfolio Demo](Project_003897/README.md) |
+| 003898 | [Debian: Automation — Recovery for Portfolio Demo](Project_003898/README.md) |
+| 003899 | [Debian: Automation — Reporting for Portfolio Demo](Project_003899/README.md) |
+| 003900 | [Debian: Automation — Usability Improvement for Portfolio Demo](Project_003900/README.md) |
 
 [Back to the portfolio home](../README.md)
