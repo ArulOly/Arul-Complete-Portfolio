@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003038 | [Debian: Inventory — Recovery for Two-Node Lab](Project_003038/README.md) |
 | 003039 | [Debian: Inventory — Reporting for Two-Node Lab](Project_003039/README.md) |
 | 003040 | [Debian: Inventory — Usability Improvement for Two-Node Lab](Project_003040/README.md) |
+| 003041 | [Debian: Inventory — Baseline Setup for Help Desk](Project_003041/README.md) |
+| 003042 | [Debian: Inventory — Automation for Help Desk](Project_003042/README.md) |
+| 003043 | [Debian: Inventory — Recovery for Help Desk](Project_003043/README.md) |
+| 003044 | [Debian: Inventory — Reporting for Help Desk](Project_003044/README.md) |
+| 003045 | [Debian: Inventory — Usability Improvement for Help Desk](Project_003045/README.md) |
+| 003046 | [Debian: Inventory — Baseline Setup for Portfolio Demo](Project_003046/README.md) |
+| 003047 | [Debian: Inventory — Automation for Portfolio Demo](Project_003047/README.md) |
+| 003048 | [Debian: Inventory — Recovery for Portfolio Demo](Project_003048/README.md) |
+| 003049 | [Debian: Inventory — Reporting for Portfolio Demo](Project_003049/README.md) |
+| 003050 | [Debian: Inventory — Usability Improvement for Portfolio Demo](Project_003050/README.md) |
+| 003051 | [Debian: Monitoring — Baseline Setup for School Lab](Project_003051/README.md) |
+| 003052 | [Debian: Monitoring — Automation for School Lab](Project_003052/README.md) |
+| 003053 | [Debian: Monitoring — Recovery for School Lab](Project_003053/README.md) |
+| 003054 | [Debian: Monitoring — Reporting for School Lab](Project_003054/README.md) |
+| 003055 | [Debian: Monitoring — Usability Improvement for School Lab](Project_003055/README.md) |
+| 003056 | [Debian: Monitoring — Baseline Setup for Small Business](Project_003056/README.md) |
+| 003057 | [Debian: Monitoring — Automation for Small Business](Project_003057/README.md) |
+| 003058 | [Debian: Monitoring — Recovery for Small Business](Project_003058/README.md) |
+| 003059 | [Debian: Monitoring — Reporting for Small Business](Project_003059/README.md) |
+| 003060 | [Debian: Monitoring — Usability Improvement for Small Business](Project_003060/README.md) |
 
 [Back to the portfolio home](../README.md)
