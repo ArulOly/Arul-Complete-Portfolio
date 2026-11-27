@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026118 | [MySQL: Audit — Recovery for Public Dataset](Project_026118/README.md) |
 | 026119 | [MySQL: Audit — Reporting for Public Dataset](Project_026119/README.md) |
 | 026120 | [MySQL: Audit — Usability Improvement for Public Dataset](Project_026120/README.md) |
+| 026121 | [MySQL: Audit — Baseline Setup for Branch Office Simulator](Project_026121/README.md) |
+| 026122 | [MySQL: Audit — Automation for Branch Office Simulator](Project_026122/README.md) |
+| 026123 | [MySQL: Audit — Recovery for Branch Office Simulator](Project_026123/README.md) |
+| 026124 | [MySQL: Audit — Reporting for Branch Office Simulator](Project_026124/README.md) |
+| 026125 | [MySQL: Audit — Usability Improvement for Branch Office Simulator](Project_026125/README.md) |
+| 026126 | [MySQL: Audit — Baseline Setup for Offline Classroom](Project_026126/README.md) |
+| 026127 | [MySQL: Audit — Automation for Offline Classroom](Project_026127/README.md) |
+| 026128 | [MySQL: Audit — Recovery for Offline Classroom](Project_026128/README.md) |
+| 026129 | [MySQL: Audit — Reporting for Offline Classroom](Project_026129/README.md) |
+| 026130 | [MySQL: Audit — Usability Improvement for Offline Classroom](Project_026130/README.md) |
+| 026131 | [MySQL: Audit — Baseline Setup for Single-Host Lab](Project_026131/README.md) |
+| 026132 | [MySQL: Audit — Automation for Single-Host Lab](Project_026132/README.md) |
+| 026133 | [MySQL: Audit — Recovery for Single-Host Lab](Project_026133/README.md) |
+| 026134 | [MySQL: Audit — Reporting for Single-Host Lab](Project_026134/README.md) |
+| 026135 | [MySQL: Audit — Usability Improvement for Single-Host Lab](Project_026135/README.md) |
+| 026136 | [MySQL: Audit — Baseline Setup for Two-Node Lab](Project_026136/README.md) |
+| 026137 | [MySQL: Audit — Automation for Two-Node Lab](Project_026137/README.md) |
+| 026138 | [MySQL: Audit — Recovery for Two-Node Lab](Project_026138/README.md) |
+| 026139 | [MySQL: Audit — Reporting for Two-Node Lab](Project_026139/README.md) |
+| 026140 | [MySQL: Audit — Usability Improvement for Two-Node Lab](Project_026140/README.md) |
 
 [Back to the portfolio home](../README.md)
