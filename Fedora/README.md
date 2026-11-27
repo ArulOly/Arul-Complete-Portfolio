@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004478 | [Fedora: Scheduled Reporting — Recovery for Offline Classroom](Project_004478/README.md) |
 | 004479 | [Fedora: Scheduled Reporting — Reporting for Offline Classroom](Project_004479/README.md) |
 | 004480 | [Fedora: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_004480/README.md) |
+| 004481 | [Fedora: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_004481/README.md) |
+| 004482 | [Fedora: Scheduled Reporting — Automation for Single-Host Lab](Project_004482/README.md) |
+| 004483 | [Fedora: Scheduled Reporting — Recovery for Single-Host Lab](Project_004483/README.md) |
+| 004484 | [Fedora: Scheduled Reporting — Reporting for Single-Host Lab](Project_004484/README.md) |
+| 004485 | [Fedora: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_004485/README.md) |
+| 004486 | [Fedora: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_004486/README.md) |
+| 004487 | [Fedora: Scheduled Reporting — Automation for Two-Node Lab](Project_004487/README.md) |
+| 004488 | [Fedora: Scheduled Reporting — Recovery for Two-Node Lab](Project_004488/README.md) |
+| 004489 | [Fedora: Scheduled Reporting — Reporting for Two-Node Lab](Project_004489/README.md) |
+| 004490 | [Fedora: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_004490/README.md) |
+| 004491 | [Fedora: Scheduled Reporting — Baseline Setup for Help Desk](Project_004491/README.md) |
+| 004492 | [Fedora: Scheduled Reporting — Automation for Help Desk](Project_004492/README.md) |
+| 004493 | [Fedora: Scheduled Reporting — Recovery for Help Desk](Project_004493/README.md) |
+| 004494 | [Fedora: Scheduled Reporting — Reporting for Help Desk](Project_004494/README.md) |
+| 004495 | [Fedora: Scheduled Reporting — Usability Improvement for Help Desk](Project_004495/README.md) |
+| 004496 | [Fedora: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_004496/README.md) |
+| 004497 | [Fedora: Scheduled Reporting — Automation for Portfolio Demo](Project_004497/README.md) |
+| 004498 | [Fedora: Scheduled Reporting — Recovery for Portfolio Demo](Project_004498/README.md) |
+| 004499 | [Fedora: Scheduled Reporting — Reporting for Portfolio Demo](Project_004499/README.md) |
+| 004500 | [Fedora: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_004500/README.md) |
 
 [Back to the portfolio home](../README.md)
