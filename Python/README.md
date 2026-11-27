@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -584,5 +584,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019538 | [Python: Access Review — Recovery for Two-Node Lab](Project_019538/README.md) |
 | 019539 | [Python: Access Review — Reporting for Two-Node Lab](Project_019539/README.md) |
 | 019540 | [Python: Access Review — Usability Improvement for Two-Node Lab](Project_019540/README.md) |
+| 019541 | [Python: Access Review — Baseline Setup for Help Desk](Project_019541/README.md) |
+| 019542 | [Python: Access Review — Automation for Help Desk](Project_019542/README.md) |
+| 019543 | [Python: Access Review — Recovery for Help Desk](Project_019543/README.md) |
+| 019544 | [Python: Access Review — Reporting for Help Desk](Project_019544/README.md) |
+| 019545 | [Python: Access Review — Usability Improvement for Help Desk](Project_019545/README.md) |
+| 019546 | [Python: Access Review — Baseline Setup for Portfolio Demo](Project_019546/README.md) |
+| 019547 | [Python: Access Review — Automation for Portfolio Demo](Project_019547/README.md) |
+| 019548 | [Python: Access Review — Recovery for Portfolio Demo](Project_019548/README.md) |
+| 019549 | [Python: Access Review — Reporting for Portfolio Demo](Project_019549/README.md) |
+| 019550 | [Python: Access Review — Usability Improvement for Portfolio Demo](Project_019550/README.md) |
+| 019551 | [Python: Performance Baseline — Baseline Setup for School Lab](Project_019551/README.md) |
+| 019552 | [Python: Performance Baseline — Automation for School Lab](Project_019552/README.md) |
+| 019553 | [Python: Performance Baseline — Recovery for School Lab](Project_019553/README.md) |
+| 019554 | [Python: Performance Baseline — Reporting for School Lab](Project_019554/README.md) |
+| 019555 | [Python: Performance Baseline — Usability Improvement for School Lab](Project_019555/README.md) |
+| 019556 | [Python: Performance Baseline — Baseline Setup for Small Business](Project_019556/README.md) |
+| 019557 | [Python: Performance Baseline — Automation for Small Business](Project_019557/README.md) |
+| 019558 | [Python: Performance Baseline — Recovery for Small Business](Project_019558/README.md) |
+| 019559 | [Python: Performance Baseline — Reporting for Small Business](Project_019559/README.md) |
+| 019560 | [Python: Performance Baseline — Usability Improvement for Small Business](Project_019560/README.md) |
 
 [Back to the portfolio home](../README.md)
