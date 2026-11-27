@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004578 | [Fedora: Performance Baseline — Recovery for Offline Classroom](Project_004578/README.md) |
 | 004579 | [Fedora: Performance Baseline — Reporting for Offline Classroom](Project_004579/README.md) |
 | 004580 | [Fedora: Performance Baseline — Usability Improvement for Offline Classroom](Project_004580/README.md) |
+| 004581 | [Fedora: Performance Baseline — Baseline Setup for Single-Host Lab](Project_004581/README.md) |
+| 004582 | [Fedora: Performance Baseline — Automation for Single-Host Lab](Project_004582/README.md) |
+| 004583 | [Fedora: Performance Baseline — Recovery for Single-Host Lab](Project_004583/README.md) |
+| 004584 | [Fedora: Performance Baseline — Reporting for Single-Host Lab](Project_004584/README.md) |
+| 004585 | [Fedora: Performance Baseline — Usability Improvement for Single-Host Lab](Project_004585/README.md) |
+| 004586 | [Fedora: Performance Baseline — Baseline Setup for Two-Node Lab](Project_004586/README.md) |
+| 004587 | [Fedora: Performance Baseline — Automation for Two-Node Lab](Project_004587/README.md) |
+| 004588 | [Fedora: Performance Baseline — Recovery for Two-Node Lab](Project_004588/README.md) |
+| 004589 | [Fedora: Performance Baseline — Reporting for Two-Node Lab](Project_004589/README.md) |
+| 004590 | [Fedora: Performance Baseline — Usability Improvement for Two-Node Lab](Project_004590/README.md) |
+| 004591 | [Fedora: Performance Baseline — Baseline Setup for Help Desk](Project_004591/README.md) |
+| 004592 | [Fedora: Performance Baseline — Automation for Help Desk](Project_004592/README.md) |
+| 004593 | [Fedora: Performance Baseline — Recovery for Help Desk](Project_004593/README.md) |
+| 004594 | [Fedora: Performance Baseline — Reporting for Help Desk](Project_004594/README.md) |
+| 004595 | [Fedora: Performance Baseline — Usability Improvement for Help Desk](Project_004595/README.md) |
+| 004596 | [Fedora: Performance Baseline — Baseline Setup for Portfolio Demo](Project_004596/README.md) |
+| 004597 | [Fedora: Performance Baseline — Automation for Portfolio Demo](Project_004597/README.md) |
+| 004598 | [Fedora: Performance Baseline — Recovery for Portfolio Demo](Project_004598/README.md) |
+| 004599 | [Fedora: Performance Baseline — Reporting for Portfolio Demo](Project_004599/README.md) |
+| 004600 | [Fedora: Performance Baseline — Usability Improvement for Portfolio Demo](Project_004600/README.md) |
 
 [Back to the portfolio home](../README.md)
