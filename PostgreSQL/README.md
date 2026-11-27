@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025958 | [PostgreSQL: Recovery Test — Recovery for Small Business](Project_025958/README.md) |
 | 025959 | [PostgreSQL: Recovery Test — Reporting for Small Business](Project_025959/README.md) |
 | 025960 | [PostgreSQL: Recovery Test — Usability Improvement for Small Business](Project_025960/README.md) |
+| 025961 | [PostgreSQL: Recovery Test — Baseline Setup for Home Development](Project_025961/README.md) |
+| 025962 | [PostgreSQL: Recovery Test — Automation for Home Development](Project_025962/README.md) |
+| 025963 | [PostgreSQL: Recovery Test — Recovery for Home Development](Project_025963/README.md) |
+| 025964 | [PostgreSQL: Recovery Test — Reporting for Home Development](Project_025964/README.md) |
+| 025965 | [PostgreSQL: Recovery Test — Usability Improvement for Home Development](Project_025965/README.md) |
+| 025966 | [PostgreSQL: Recovery Test — Baseline Setup for Public Dataset](Project_025966/README.md) |
+| 025967 | [PostgreSQL: Recovery Test — Automation for Public Dataset](Project_025967/README.md) |
+| 025968 | [PostgreSQL: Recovery Test — Recovery for Public Dataset](Project_025968/README.md) |
+| 025969 | [PostgreSQL: Recovery Test — Reporting for Public Dataset](Project_025969/README.md) |
+| 025970 | [PostgreSQL: Recovery Test — Usability Improvement for Public Dataset](Project_025970/README.md) |
+| 025971 | [PostgreSQL: Recovery Test — Baseline Setup for Branch Office Simulator](Project_025971/README.md) |
+| 025972 | [PostgreSQL: Recovery Test — Automation for Branch Office Simulator](Project_025972/README.md) |
+| 025973 | [PostgreSQL: Recovery Test — Recovery for Branch Office Simulator](Project_025973/README.md) |
+| 025974 | [PostgreSQL: Recovery Test — Reporting for Branch Office Simulator](Project_025974/README.md) |
+| 025975 | [PostgreSQL: Recovery Test — Usability Improvement for Branch Office Simulator](Project_025975/README.md) |
+| 025976 | [PostgreSQL: Recovery Test — Baseline Setup for Offline Classroom](Project_025976/README.md) |
+| 025977 | [PostgreSQL: Recovery Test — Automation for Offline Classroom](Project_025977/README.md) |
+| 025978 | [PostgreSQL: Recovery Test — Recovery for Offline Classroom](Project_025978/README.md) |
+| 025979 | [PostgreSQL: Recovery Test — Reporting for Offline Classroom](Project_025979/README.md) |
+| 025980 | [PostgreSQL: Recovery Test — Usability Improvement for Offline Classroom](Project_025980/README.md) |
 
 [Back to the portfolio home](../README.md)
