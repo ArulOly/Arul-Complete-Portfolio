@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021398 | [TypeScript: Dashboard — Recovery for Portfolio Demo](Project_021398/README.md) |
 | 021399 | [TypeScript: Dashboard — Reporting for Portfolio Demo](Project_021399/README.md) |
 | 021400 | [TypeScript: Dashboard — Usability Improvement for Portfolio Demo](Project_021400/README.md) |
+| 021401 | [TypeScript: Alerting — Baseline Setup for School Lab](Project_021401/README.md) |
+| 021402 | [TypeScript: Alerting — Automation for School Lab](Project_021402/README.md) |
+| 021403 | [TypeScript: Alerting — Recovery for School Lab](Project_021403/README.md) |
+| 021404 | [TypeScript: Alerting — Reporting for School Lab](Project_021404/README.md) |
+| 021405 | [TypeScript: Alerting — Usability Improvement for School Lab](Project_021405/README.md) |
+| 021406 | [TypeScript: Alerting — Baseline Setup for Small Business](Project_021406/README.md) |
+| 021407 | [TypeScript: Alerting — Automation for Small Business](Project_021407/README.md) |
+| 021408 | [TypeScript: Alerting — Recovery for Small Business](Project_021408/README.md) |
+| 021409 | [TypeScript: Alerting — Reporting for Small Business](Project_021409/README.md) |
+| 021410 | [TypeScript: Alerting — Usability Improvement for Small Business](Project_021410/README.md) |
+| 021411 | [TypeScript: Alerting — Baseline Setup for Home Development](Project_021411/README.md) |
+| 021412 | [TypeScript: Alerting — Automation for Home Development](Project_021412/README.md) |
+| 021413 | [TypeScript: Alerting — Recovery for Home Development](Project_021413/README.md) |
+| 021414 | [TypeScript: Alerting — Reporting for Home Development](Project_021414/README.md) |
+| 021415 | [TypeScript: Alerting — Usability Improvement for Home Development](Project_021415/README.md) |
+| 021416 | [TypeScript: Alerting — Baseline Setup for Public Dataset](Project_021416/README.md) |
+| 021417 | [TypeScript: Alerting — Automation for Public Dataset](Project_021417/README.md) |
+| 021418 | [TypeScript: Alerting — Recovery for Public Dataset](Project_021418/README.md) |
+| 021419 | [TypeScript: Alerting — Reporting for Public Dataset](Project_021419/README.md) |
+| 021420 | [TypeScript: Alerting — Usability Improvement for Public Dataset](Project_021420/README.md) |
 
 [Back to the portfolio home](../README.md)
