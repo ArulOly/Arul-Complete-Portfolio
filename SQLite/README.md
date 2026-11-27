@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028498 | [SQLite: Scheduled Reporting — Recovery for Portfolio Demo](Project_028498/README.md) |
 | 028499 | [SQLite: Scheduled Reporting — Reporting for Portfolio Demo](Project_028499/README.md) |
 | 028500 | [SQLite: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_028500/README.md) |
+| 028501 | [SQLite: Access Review — Baseline Setup for School Lab](Project_028501/README.md) |
+| 028502 | [SQLite: Access Review — Automation for School Lab](Project_028502/README.md) |
+| 028503 | [SQLite: Access Review — Recovery for School Lab](Project_028503/README.md) |
+| 028504 | [SQLite: Access Review — Reporting for School Lab](Project_028504/README.md) |
+| 028505 | [SQLite: Access Review — Usability Improvement for School Lab](Project_028505/README.md) |
+| 028506 | [SQLite: Access Review — Baseline Setup for Small Business](Project_028506/README.md) |
+| 028507 | [SQLite: Access Review — Automation for Small Business](Project_028507/README.md) |
+| 028508 | [SQLite: Access Review — Recovery for Small Business](Project_028508/README.md) |
+| 028509 | [SQLite: Access Review — Reporting for Small Business](Project_028509/README.md) |
+| 028510 | [SQLite: Access Review — Usability Improvement for Small Business](Project_028510/README.md) |
+| 028511 | [SQLite: Access Review — Baseline Setup for Home Development](Project_028511/README.md) |
+| 028512 | [SQLite: Access Review — Automation for Home Development](Project_028512/README.md) |
+| 028513 | [SQLite: Access Review — Recovery for Home Development](Project_028513/README.md) |
+| 028514 | [SQLite: Access Review — Reporting for Home Development](Project_028514/README.md) |
+| 028515 | [SQLite: Access Review — Usability Improvement for Home Development](Project_028515/README.md) |
+| 028516 | [SQLite: Access Review — Baseline Setup for Public Dataset](Project_028516/README.md) |
+| 028517 | [SQLite: Access Review — Automation for Public Dataset](Project_028517/README.md) |
+| 028518 | [SQLite: Access Review — Recovery for Public Dataset](Project_028518/README.md) |
+| 028519 | [SQLite: Access Review — Reporting for Public Dataset](Project_028519/README.md) |
+| 028520 | [SQLite: Access Review — Usability Improvement for Public Dataset](Project_028520/README.md) |
 
 [Back to the portfolio home](../README.md)
