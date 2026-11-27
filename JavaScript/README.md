@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020638 | [JavaScript: Service Check — Recovery for Two-Node Lab](Project_020638/README.md) |
 | 020639 | [JavaScript: Service Check — Reporting for Two-Node Lab](Project_020639/README.md) |
 | 020640 | [JavaScript: Service Check — Usability Improvement for Two-Node Lab](Project_020640/README.md) |
+| 020641 | [JavaScript: Service Check — Baseline Setup for Help Desk](Project_020641/README.md) |
+| 020642 | [JavaScript: Service Check — Automation for Help Desk](Project_020642/README.md) |
+| 020643 | [JavaScript: Service Check — Recovery for Help Desk](Project_020643/README.md) |
+| 020644 | [JavaScript: Service Check — Reporting for Help Desk](Project_020644/README.md) |
+| 020645 | [JavaScript: Service Check — Usability Improvement for Help Desk](Project_020645/README.md) |
+| 020646 | [JavaScript: Service Check — Baseline Setup for Portfolio Demo](Project_020646/README.md) |
+| 020647 | [JavaScript: Service Check — Automation for Portfolio Demo](Project_020647/README.md) |
+| 020648 | [JavaScript: Service Check — Recovery for Portfolio Demo](Project_020648/README.md) |
+| 020649 | [JavaScript: Service Check — Reporting for Portfolio Demo](Project_020649/README.md) |
+| 020650 | [JavaScript: Service Check — Usability Improvement for Portfolio Demo](Project_020650/README.md) |
+| 020651 | [JavaScript: Configuration Comparison — Baseline Setup for School Lab](Project_020651/README.md) |
+| 020652 | [JavaScript: Configuration Comparison — Automation for School Lab](Project_020652/README.md) |
+| 020653 | [JavaScript: Configuration Comparison — Recovery for School Lab](Project_020653/README.md) |
+| 020654 | [JavaScript: Configuration Comparison — Reporting for School Lab](Project_020654/README.md) |
+| 020655 | [JavaScript: Configuration Comparison — Usability Improvement for School Lab](Project_020655/README.md) |
+| 020656 | [JavaScript: Configuration Comparison — Baseline Setup for Small Business](Project_020656/README.md) |
+| 020657 | [JavaScript: Configuration Comparison — Automation for Small Business](Project_020657/README.md) |
+| 020658 | [JavaScript: Configuration Comparison — Recovery for Small Business](Project_020658/README.md) |
+| 020659 | [JavaScript: Configuration Comparison — Reporting for Small Business](Project_020659/README.md) |
+| 020660 | [JavaScript: Configuration Comparison — Usability Improvement for Small Business](Project_020660/README.md) |
 
 [Back to the portfolio home](../README.md)
