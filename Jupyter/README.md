@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033098 | [Jupyter: Monitoring — Recovery for Portfolio Demo](Project_033098/README.md) |
 | 033099 | [Jupyter: Monitoring — Reporting for Portfolio Demo](Project_033099/README.md) |
 | 033100 | [Jupyter: Monitoring — Usability Improvement for Portfolio Demo](Project_033100/README.md) |
+| 033101 | [Jupyter: Audit — Baseline Setup for School Lab](Project_033101/README.md) |
+| 033102 | [Jupyter: Audit — Automation for School Lab](Project_033102/README.md) |
+| 033103 | [Jupyter: Audit — Recovery for School Lab](Project_033103/README.md) |
+| 033104 | [Jupyter: Audit — Reporting for School Lab](Project_033104/README.md) |
+| 033105 | [Jupyter: Audit — Usability Improvement for School Lab](Project_033105/README.md) |
+| 033106 | [Jupyter: Audit — Baseline Setup for Small Business](Project_033106/README.md) |
+| 033107 | [Jupyter: Audit — Automation for Small Business](Project_033107/README.md) |
+| 033108 | [Jupyter: Audit — Recovery for Small Business](Project_033108/README.md) |
+| 033109 | [Jupyter: Audit — Reporting for Small Business](Project_033109/README.md) |
+| 033110 | [Jupyter: Audit — Usability Improvement for Small Business](Project_033110/README.md) |
+| 033111 | [Jupyter: Audit — Baseline Setup for Home Development](Project_033111/README.md) |
+| 033112 | [Jupyter: Audit — Automation for Home Development](Project_033112/README.md) |
+| 033113 | [Jupyter: Audit — Recovery for Home Development](Project_033113/README.md) |
+| 033114 | [Jupyter: Audit — Reporting for Home Development](Project_033114/README.md) |
+| 033115 | [Jupyter: Audit — Usability Improvement for Home Development](Project_033115/README.md) |
+| 033116 | [Jupyter: Audit — Baseline Setup for Public Dataset](Project_033116/README.md) |
+| 033117 | [Jupyter: Audit — Automation for Public Dataset](Project_033117/README.md) |
+| 033118 | [Jupyter: Audit — Recovery for Public Dataset](Project_033118/README.md) |
+| 033119 | [Jupyter: Audit — Reporting for Public Dataset](Project_033119/README.md) |
+| 033120 | [Jupyter: Audit — Usability Improvement for Public Dataset](Project_033120/README.md) |
 
 [Back to the portfolio home](../README.md)
