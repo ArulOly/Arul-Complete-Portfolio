@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020138 | [JavaScript: Audit — Recovery for Two-Node Lab](Project_020138/README.md) |
 | 020139 | [JavaScript: Audit — Reporting for Two-Node Lab](Project_020139/README.md) |
 | 020140 | [JavaScript: Audit — Usability Improvement for Two-Node Lab](Project_020140/README.md) |
+| 020141 | [JavaScript: Audit — Baseline Setup for Help Desk](Project_020141/README.md) |
+| 020142 | [JavaScript: Audit — Automation for Help Desk](Project_020142/README.md) |
+| 020143 | [JavaScript: Audit — Recovery for Help Desk](Project_020143/README.md) |
+| 020144 | [JavaScript: Audit — Reporting for Help Desk](Project_020144/README.md) |
+| 020145 | [JavaScript: Audit — Usability Improvement for Help Desk](Project_020145/README.md) |
+| 020146 | [JavaScript: Audit — Baseline Setup for Portfolio Demo](Project_020146/README.md) |
+| 020147 | [JavaScript: Audit — Automation for Portfolio Demo](Project_020147/README.md) |
+| 020148 | [JavaScript: Audit — Recovery for Portfolio Demo](Project_020148/README.md) |
+| 020149 | [JavaScript: Audit — Reporting for Portfolio Demo](Project_020149/README.md) |
+| 020150 | [JavaScript: Audit — Usability Improvement for Portfolio Demo](Project_020150/README.md) |
+| 020151 | [JavaScript: Log Analysis — Baseline Setup for School Lab](Project_020151/README.md) |
+| 020152 | [JavaScript: Log Analysis — Automation for School Lab](Project_020152/README.md) |
+| 020153 | [JavaScript: Log Analysis — Recovery for School Lab](Project_020153/README.md) |
+| 020154 | [JavaScript: Log Analysis — Reporting for School Lab](Project_020154/README.md) |
+| 020155 | [JavaScript: Log Analysis — Usability Improvement for School Lab](Project_020155/README.md) |
+| 020156 | [JavaScript: Log Analysis — Baseline Setup for Small Business](Project_020156/README.md) |
+| 020157 | [JavaScript: Log Analysis — Automation for Small Business](Project_020157/README.md) |
+| 020158 | [JavaScript: Log Analysis — Recovery for Small Business](Project_020158/README.md) |
+| 020159 | [JavaScript: Log Analysis — Reporting for Small Business](Project_020159/README.md) |
+| 020160 | [JavaScript: Log Analysis — Usability Improvement for Small Business](Project_020160/README.md) |
 
 [Back to the portfolio home](../README.md)
