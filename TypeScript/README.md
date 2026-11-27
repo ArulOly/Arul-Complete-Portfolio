@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021038 | [TypeScript: Inventory — Recovery for Two-Node Lab](Project_021038/README.md) |
 | 021039 | [TypeScript: Inventory — Reporting for Two-Node Lab](Project_021039/README.md) |
 | 021040 | [TypeScript: Inventory — Usability Improvement for Two-Node Lab](Project_021040/README.md) |
+| 021041 | [TypeScript: Inventory — Baseline Setup for Help Desk](Project_021041/README.md) |
+| 021042 | [TypeScript: Inventory — Automation for Help Desk](Project_021042/README.md) |
+| 021043 | [TypeScript: Inventory — Recovery for Help Desk](Project_021043/README.md) |
+| 021044 | [TypeScript: Inventory — Reporting for Help Desk](Project_021044/README.md) |
+| 021045 | [TypeScript: Inventory — Usability Improvement for Help Desk](Project_021045/README.md) |
+| 021046 | [TypeScript: Inventory — Baseline Setup for Portfolio Demo](Project_021046/README.md) |
+| 021047 | [TypeScript: Inventory — Automation for Portfolio Demo](Project_021047/README.md) |
+| 021048 | [TypeScript: Inventory — Recovery for Portfolio Demo](Project_021048/README.md) |
+| 021049 | [TypeScript: Inventory — Reporting for Portfolio Demo](Project_021049/README.md) |
+| 021050 | [TypeScript: Inventory — Usability Improvement for Portfolio Demo](Project_021050/README.md) |
+| 021051 | [TypeScript: Monitoring — Baseline Setup for School Lab](Project_021051/README.md) |
+| 021052 | [TypeScript: Monitoring — Automation for School Lab](Project_021052/README.md) |
+| 021053 | [TypeScript: Monitoring — Recovery for School Lab](Project_021053/README.md) |
+| 021054 | [TypeScript: Monitoring — Reporting for School Lab](Project_021054/README.md) |
+| 021055 | [TypeScript: Monitoring — Usability Improvement for School Lab](Project_021055/README.md) |
+| 021056 | [TypeScript: Monitoring — Baseline Setup for Small Business](Project_021056/README.md) |
+| 021057 | [TypeScript: Monitoring — Automation for Small Business](Project_021057/README.md) |
+| 021058 | [TypeScript: Monitoring — Recovery for Small Business](Project_021058/README.md) |
+| 021059 | [TypeScript: Monitoring — Reporting for Small Business](Project_021059/README.md) |
+| 021060 | [TypeScript: Monitoring — Usability Improvement for Small Business](Project_021060/README.md) |
 
 [Back to the portfolio home](../README.md)
