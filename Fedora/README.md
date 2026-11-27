@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004778 | [Fedora: Data Validation — Recovery for Offline Classroom](Project_004778/README.md) |
 | 004779 | [Fedora: Data Validation — Reporting for Offline Classroom](Project_004779/README.md) |
 | 004780 | [Fedora: Data Validation — Usability Improvement for Offline Classroom](Project_004780/README.md) |
+| 004781 | [Fedora: Data Validation — Baseline Setup for Single-Host Lab](Project_004781/README.md) |
+| 004782 | [Fedora: Data Validation — Automation for Single-Host Lab](Project_004782/README.md) |
+| 004783 | [Fedora: Data Validation — Recovery for Single-Host Lab](Project_004783/README.md) |
+| 004784 | [Fedora: Data Validation — Reporting for Single-Host Lab](Project_004784/README.md) |
+| 004785 | [Fedora: Data Validation — Usability Improvement for Single-Host Lab](Project_004785/README.md) |
+| 004786 | [Fedora: Data Validation — Baseline Setup for Two-Node Lab](Project_004786/README.md) |
+| 004787 | [Fedora: Data Validation — Automation for Two-Node Lab](Project_004787/README.md) |
+| 004788 | [Fedora: Data Validation — Recovery for Two-Node Lab](Project_004788/README.md) |
+| 004789 | [Fedora: Data Validation — Reporting for Two-Node Lab](Project_004789/README.md) |
+| 004790 | [Fedora: Data Validation — Usability Improvement for Two-Node Lab](Project_004790/README.md) |
+| 004791 | [Fedora: Data Validation — Baseline Setup for Help Desk](Project_004791/README.md) |
+| 004792 | [Fedora: Data Validation — Automation for Help Desk](Project_004792/README.md) |
+| 004793 | [Fedora: Data Validation — Recovery for Help Desk](Project_004793/README.md) |
+| 004794 | [Fedora: Data Validation — Reporting for Help Desk](Project_004794/README.md) |
+| 004795 | [Fedora: Data Validation — Usability Improvement for Help Desk](Project_004795/README.md) |
+| 004796 | [Fedora: Data Validation — Baseline Setup for Portfolio Demo](Project_004796/README.md) |
+| 004797 | [Fedora: Data Validation — Automation for Portfolio Demo](Project_004797/README.md) |
+| 004798 | [Fedora: Data Validation — Recovery for Portfolio Demo](Project_004798/README.md) |
+| 004799 | [Fedora: Data Validation — Reporting for Portfolio Demo](Project_004799/README.md) |
+| 004800 | [Fedora: Data Validation — Usability Improvement for Portfolio Demo](Project_004800/README.md) |
 
 [Back to the portfolio home](../README.md)
