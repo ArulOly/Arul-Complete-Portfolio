@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -264,5 +264,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019218 | [Python: Backup Verification — Recovery for Public Dataset](Project_019218/README.md) |
 | 019219 | [Python: Backup Verification — Reporting for Public Dataset](Project_019219/README.md) |
 | 019220 | [Python: Backup Verification — Usability Improvement for Public Dataset](Project_019220/README.md) |
+| 019221 | [Python: Backup Verification — Baseline Setup for Branch Office Simulator](Project_019221/README.md) |
+| 019222 | [Python: Backup Verification — Automation for Branch Office Simulator](Project_019222/README.md) |
+| 019223 | [Python: Backup Verification — Recovery for Branch Office Simulator](Project_019223/README.md) |
+| 019224 | [Python: Backup Verification — Reporting for Branch Office Simulator](Project_019224/README.md) |
+| 019225 | [Python: Backup Verification — Usability Improvement for Branch Office Simulator](Project_019225/README.md) |
+| 019226 | [Python: Backup Verification — Baseline Setup for Offline Classroom](Project_019226/README.md) |
+| 019227 | [Python: Backup Verification — Automation for Offline Classroom](Project_019227/README.md) |
+| 019228 | [Python: Backup Verification — Recovery for Offline Classroom](Project_019228/README.md) |
+| 019229 | [Python: Backup Verification — Reporting for Offline Classroom](Project_019229/README.md) |
+| 019230 | [Python: Backup Verification — Usability Improvement for Offline Classroom](Project_019230/README.md) |
+| 019231 | [Python: Backup Verification — Baseline Setup for Single-Host Lab](Project_019231/README.md) |
+| 019232 | [Python: Backup Verification — Automation for Single-Host Lab](Project_019232/README.md) |
+| 019233 | [Python: Backup Verification — Recovery for Single-Host Lab](Project_019233/README.md) |
+| 019234 | [Python: Backup Verification — Reporting for Single-Host Lab](Project_019234/README.md) |
+| 019235 | [Python: Backup Verification — Usability Improvement for Single-Host Lab](Project_019235/README.md) |
+| 019236 | [Python: Backup Verification — Baseline Setup for Two-Node Lab](Project_019236/README.md) |
+| 019237 | [Python: Backup Verification — Automation for Two-Node Lab](Project_019237/README.md) |
+| 019238 | [Python: Backup Verification — Recovery for Two-Node Lab](Project_019238/README.md) |
+| 019239 | [Python: Backup Verification — Reporting for Two-Node Lab](Project_019239/README.md) |
+| 019240 | [Python: Backup Verification — Usability Improvement for Two-Node Lab](Project_019240/README.md) |
 
 [Back to the portfolio home](../README.md)
