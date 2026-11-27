@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045598 | [Redis: Performance Baseline — Recovery for Portfolio Demo](Project_045598/README.md) |
 | 045599 | [Redis: Performance Baseline — Reporting for Portfolio Demo](Project_045599/README.md) |
 | 045600 | [Redis: Performance Baseline — Usability Improvement for Portfolio Demo](Project_045600/README.md) |
+| 045601 | [Redis: Service Check — Baseline Setup for School Lab](Project_045601/README.md) |
+| 045602 | [Redis: Service Check — Automation for School Lab](Project_045602/README.md) |
+| 045603 | [Redis: Service Check — Recovery for School Lab](Project_045603/README.md) |
+| 045604 | [Redis: Service Check — Reporting for School Lab](Project_045604/README.md) |
+| 045605 | [Redis: Service Check — Usability Improvement for School Lab](Project_045605/README.md) |
+| 045606 | [Redis: Service Check — Baseline Setup for Small Business](Project_045606/README.md) |
+| 045607 | [Redis: Service Check — Automation for Small Business](Project_045607/README.md) |
+| 045608 | [Redis: Service Check — Recovery for Small Business](Project_045608/README.md) |
+| 045609 | [Redis: Service Check — Reporting for Small Business](Project_045609/README.md) |
+| 045610 | [Redis: Service Check — Usability Improvement for Small Business](Project_045610/README.md) |
+| 045611 | [Redis: Service Check — Baseline Setup for Home Development](Project_045611/README.md) |
+| 045612 | [Redis: Service Check — Automation for Home Development](Project_045612/README.md) |
+| 045613 | [Redis: Service Check — Recovery for Home Development](Project_045613/README.md) |
+| 045614 | [Redis: Service Check — Reporting for Home Development](Project_045614/README.md) |
+| 045615 | [Redis: Service Check — Usability Improvement for Home Development](Project_045615/README.md) |
+| 045616 | [Redis: Service Check — Baseline Setup for Public Dataset](Project_045616/README.md) |
+| 045617 | [Redis: Service Check — Automation for Public Dataset](Project_045617/README.md) |
+| 045618 | [Redis: Service Check — Recovery for Public Dataset](Project_045618/README.md) |
+| 045619 | [Redis: Service Check — Reporting for Public Dataset](Project_045619/README.md) |
+| 045620 | [Redis: Service Check — Usability Improvement for Public Dataset](Project_045620/README.md) |
 
 [Back to the portfolio home](../README.md)
