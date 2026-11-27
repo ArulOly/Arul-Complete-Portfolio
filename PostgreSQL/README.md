@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025798 | [PostgreSQL: Data Validation — Recovery for Portfolio Demo](Project_025798/README.md) |
 | 025799 | [PostgreSQL: Data Validation — Reporting for Portfolio Demo](Project_025799/README.md) |
 | 025800 | [PostgreSQL: Data Validation — Usability Improvement for Portfolio Demo](Project_025800/README.md) |
+| 025801 | [PostgreSQL: Documentation Generation — Baseline Setup for School Lab](Project_025801/README.md) |
+| 025802 | [PostgreSQL: Documentation Generation — Automation for School Lab](Project_025802/README.md) |
+| 025803 | [PostgreSQL: Documentation Generation — Recovery for School Lab](Project_025803/README.md) |
+| 025804 | [PostgreSQL: Documentation Generation — Reporting for School Lab](Project_025804/README.md) |
+| 025805 | [PostgreSQL: Documentation Generation — Usability Improvement for School Lab](Project_025805/README.md) |
+| 025806 | [PostgreSQL: Documentation Generation — Baseline Setup for Small Business](Project_025806/README.md) |
+| 025807 | [PostgreSQL: Documentation Generation — Automation for Small Business](Project_025807/README.md) |
+| 025808 | [PostgreSQL: Documentation Generation — Recovery for Small Business](Project_025808/README.md) |
+| 025809 | [PostgreSQL: Documentation Generation — Reporting for Small Business](Project_025809/README.md) |
+| 025810 | [PostgreSQL: Documentation Generation — Usability Improvement for Small Business](Project_025810/README.md) |
+| 025811 | [PostgreSQL: Documentation Generation — Baseline Setup for Home Development](Project_025811/README.md) |
+| 025812 | [PostgreSQL: Documentation Generation — Automation for Home Development](Project_025812/README.md) |
+| 025813 | [PostgreSQL: Documentation Generation — Recovery for Home Development](Project_025813/README.md) |
+| 025814 | [PostgreSQL: Documentation Generation — Reporting for Home Development](Project_025814/README.md) |
+| 025815 | [PostgreSQL: Documentation Generation — Usability Improvement for Home Development](Project_025815/README.md) |
+| 025816 | [PostgreSQL: Documentation Generation — Baseline Setup for Public Dataset](Project_025816/README.md) |
+| 025817 | [PostgreSQL: Documentation Generation — Automation for Public Dataset](Project_025817/README.md) |
+| 025818 | [PostgreSQL: Documentation Generation — Recovery for Public Dataset](Project_025818/README.md) |
+| 025819 | [PostgreSQL: Documentation Generation — Reporting for Public Dataset](Project_025819/README.md) |
+| 025820 | [PostgreSQL: Documentation Generation — Usability Improvement for Public Dataset](Project_025820/README.md) |
 
 [Back to the portfolio home](../README.md)
