@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024178 | [Node.js: Log Analysis — Recovery for Offline Classroom](Project_024178/README.md) |
 | 024179 | [Node.js: Log Analysis — Reporting for Offline Classroom](Project_024179/README.md) |
 | 024180 | [Node.js: Log Analysis — Usability Improvement for Offline Classroom](Project_024180/README.md) |
+| 024181 | [Node.js: Log Analysis — Baseline Setup for Single-Host Lab](Project_024181/README.md) |
+| 024182 | [Node.js: Log Analysis — Automation for Single-Host Lab](Project_024182/README.md) |
+| 024183 | [Node.js: Log Analysis — Recovery for Single-Host Lab](Project_024183/README.md) |
+| 024184 | [Node.js: Log Analysis — Reporting for Single-Host Lab](Project_024184/README.md) |
+| 024185 | [Node.js: Log Analysis — Usability Improvement for Single-Host Lab](Project_024185/README.md) |
+| 024186 | [Node.js: Log Analysis — Baseline Setup for Two-Node Lab](Project_024186/README.md) |
+| 024187 | [Node.js: Log Analysis — Automation for Two-Node Lab](Project_024187/README.md) |
+| 024188 | [Node.js: Log Analysis — Recovery for Two-Node Lab](Project_024188/README.md) |
+| 024189 | [Node.js: Log Analysis — Reporting for Two-Node Lab](Project_024189/README.md) |
+| 024190 | [Node.js: Log Analysis — Usability Improvement for Two-Node Lab](Project_024190/README.md) |
+| 024191 | [Node.js: Log Analysis — Baseline Setup for Help Desk](Project_024191/README.md) |
+| 024192 | [Node.js: Log Analysis — Automation for Help Desk](Project_024192/README.md) |
+| 024193 | [Node.js: Log Analysis — Recovery for Help Desk](Project_024193/README.md) |
+| 024194 | [Node.js: Log Analysis — Reporting for Help Desk](Project_024194/README.md) |
+| 024195 | [Node.js: Log Analysis — Usability Improvement for Help Desk](Project_024195/README.md) |
+| 024196 | [Node.js: Log Analysis — Baseline Setup for Portfolio Demo](Project_024196/README.md) |
+| 024197 | [Node.js: Log Analysis — Automation for Portfolio Demo](Project_024197/README.md) |
+| 024198 | [Node.js: Log Analysis — Recovery for Portfolio Demo](Project_024198/README.md) |
+| 024199 | [Node.js: Log Analysis — Reporting for Portfolio Demo](Project_024199/README.md) |
+| 024200 | [Node.js: Log Analysis — Usability Improvement for Portfolio Demo](Project_024200/README.md) |
 
 [Back to the portfolio home](../README.md)
