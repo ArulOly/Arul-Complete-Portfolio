@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002618 | [Ubuntu: Service Check — Recovery for Public Dataset](Project_002618/README.md) |
 | 002619 | [Ubuntu: Service Check — Reporting for Public Dataset](Project_002619/README.md) |
 | 002620 | [Ubuntu: Service Check — Usability Improvement for Public Dataset](Project_002620/README.md) |
+| 002621 | [Ubuntu: Service Check — Baseline Setup for Branch Office Simulator](Project_002621/README.md) |
+| 002622 | [Ubuntu: Service Check — Automation for Branch Office Simulator](Project_002622/README.md) |
+| 002623 | [Ubuntu: Service Check — Recovery for Branch Office Simulator](Project_002623/README.md) |
+| 002624 | [Ubuntu: Service Check — Reporting for Branch Office Simulator](Project_002624/README.md) |
+| 002625 | [Ubuntu: Service Check — Usability Improvement for Branch Office Simulator](Project_002625/README.md) |
+| 002626 | [Ubuntu: Service Check — Baseline Setup for Offline Classroom](Project_002626/README.md) |
+| 002627 | [Ubuntu: Service Check — Automation for Offline Classroom](Project_002627/README.md) |
+| 002628 | [Ubuntu: Service Check — Recovery for Offline Classroom](Project_002628/README.md) |
+| 002629 | [Ubuntu: Service Check — Reporting for Offline Classroom](Project_002629/README.md) |
+| 002630 | [Ubuntu: Service Check — Usability Improvement for Offline Classroom](Project_002630/README.md) |
+| 002631 | [Ubuntu: Service Check — Baseline Setup for Single-Host Lab](Project_002631/README.md) |
+| 002632 | [Ubuntu: Service Check — Automation for Single-Host Lab](Project_002632/README.md) |
+| 002633 | [Ubuntu: Service Check — Recovery for Single-Host Lab](Project_002633/README.md) |
+| 002634 | [Ubuntu: Service Check — Reporting for Single-Host Lab](Project_002634/README.md) |
+| 002635 | [Ubuntu: Service Check — Usability Improvement for Single-Host Lab](Project_002635/README.md) |
+| 002636 | [Ubuntu: Service Check — Baseline Setup for Two-Node Lab](Project_002636/README.md) |
+| 002637 | [Ubuntu: Service Check — Automation for Two-Node Lab](Project_002637/README.md) |
+| 002638 | [Ubuntu: Service Check — Recovery for Two-Node Lab](Project_002638/README.md) |
+| 002639 | [Ubuntu: Service Check — Reporting for Two-Node Lab](Project_002639/README.md) |
+| 002640 | [Ubuntu: Service Check — Usability Improvement for Two-Node Lab](Project_002640/README.md) |
 
 [Back to the portfolio home](../README.md)
