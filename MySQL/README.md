@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026018 | [MySQL: Inventory — Recovery for Public Dataset](Project_026018/README.md) |
 | 026019 | [MySQL: Inventory — Reporting for Public Dataset](Project_026019/README.md) |
 | 026020 | [MySQL: Inventory — Usability Improvement for Public Dataset](Project_026020/README.md) |
+| 026021 | [MySQL: Inventory — Baseline Setup for Branch Office Simulator](Project_026021/README.md) |
+| 026022 | [MySQL: Inventory — Automation for Branch Office Simulator](Project_026022/README.md) |
+| 026023 | [MySQL: Inventory — Recovery for Branch Office Simulator](Project_026023/README.md) |
+| 026024 | [MySQL: Inventory — Reporting for Branch Office Simulator](Project_026024/README.md) |
+| 026025 | [MySQL: Inventory — Usability Improvement for Branch Office Simulator](Project_026025/README.md) |
+| 026026 | [MySQL: Inventory — Baseline Setup for Offline Classroom](Project_026026/README.md) |
+| 026027 | [MySQL: Inventory — Automation for Offline Classroom](Project_026027/README.md) |
+| 026028 | [MySQL: Inventory — Recovery for Offline Classroom](Project_026028/README.md) |
+| 026029 | [MySQL: Inventory — Reporting for Offline Classroom](Project_026029/README.md) |
+| 026030 | [MySQL: Inventory — Usability Improvement for Offline Classroom](Project_026030/README.md) |
+| 026031 | [MySQL: Inventory — Baseline Setup for Single-Host Lab](Project_026031/README.md) |
+| 026032 | [MySQL: Inventory — Automation for Single-Host Lab](Project_026032/README.md) |
+| 026033 | [MySQL: Inventory — Recovery for Single-Host Lab](Project_026033/README.md) |
+| 026034 | [MySQL: Inventory — Reporting for Single-Host Lab](Project_026034/README.md) |
+| 026035 | [MySQL: Inventory — Usability Improvement for Single-Host Lab](Project_026035/README.md) |
+| 026036 | [MySQL: Inventory — Baseline Setup for Two-Node Lab](Project_026036/README.md) |
+| 026037 | [MySQL: Inventory — Automation for Two-Node Lab](Project_026037/README.md) |
+| 026038 | [MySQL: Inventory — Recovery for Two-Node Lab](Project_026038/README.md) |
+| 026039 | [MySQL: Inventory — Reporting for Two-Node Lab](Project_026039/README.md) |
+| 026040 | [MySQL: Inventory — Usability Improvement for Two-Node Lab](Project_026040/README.md) |
 
 [Back to the portfolio home](../README.md)
