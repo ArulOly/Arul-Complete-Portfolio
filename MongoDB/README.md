@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027718 | [MongoDB: Error Handling — Recovery for Public Dataset](Project_027718/README.md) |
 | 027719 | [MongoDB: Error Handling — Reporting for Public Dataset](Project_027719/README.md) |
 | 027720 | [MongoDB: Error Handling — Usability Improvement for Public Dataset](Project_027720/README.md) |
+| 027721 | [MongoDB: Error Handling — Baseline Setup for Branch Office Simulator](Project_027721/README.md) |
+| 027722 | [MongoDB: Error Handling — Automation for Branch Office Simulator](Project_027722/README.md) |
+| 027723 | [MongoDB: Error Handling — Recovery for Branch Office Simulator](Project_027723/README.md) |
+| 027724 | [MongoDB: Error Handling — Reporting for Branch Office Simulator](Project_027724/README.md) |
+| 027725 | [MongoDB: Error Handling — Usability Improvement for Branch Office Simulator](Project_027725/README.md) |
+| 027726 | [MongoDB: Error Handling — Baseline Setup for Offline Classroom](Project_027726/README.md) |
+| 027727 | [MongoDB: Error Handling — Automation for Offline Classroom](Project_027727/README.md) |
+| 027728 | [MongoDB: Error Handling — Recovery for Offline Classroom](Project_027728/README.md) |
+| 027729 | [MongoDB: Error Handling — Reporting for Offline Classroom](Project_027729/README.md) |
+| 027730 | [MongoDB: Error Handling — Usability Improvement for Offline Classroom](Project_027730/README.md) |
+| 027731 | [MongoDB: Error Handling — Baseline Setup for Single-Host Lab](Project_027731/README.md) |
+| 027732 | [MongoDB: Error Handling — Automation for Single-Host Lab](Project_027732/README.md) |
+| 027733 | [MongoDB: Error Handling — Recovery for Single-Host Lab](Project_027733/README.md) |
+| 027734 | [MongoDB: Error Handling — Reporting for Single-Host Lab](Project_027734/README.md) |
+| 027735 | [MongoDB: Error Handling — Usability Improvement for Single-Host Lab](Project_027735/README.md) |
+| 027736 | [MongoDB: Error Handling — Baseline Setup for Two-Node Lab](Project_027736/README.md) |
+| 027737 | [MongoDB: Error Handling — Automation for Two-Node Lab](Project_027737/README.md) |
+| 027738 | [MongoDB: Error Handling — Recovery for Two-Node Lab](Project_027738/README.md) |
+| 027739 | [MongoDB: Error Handling — Reporting for Two-Node Lab](Project_027739/README.md) |
+| 027740 | [MongoDB: Error Handling — Usability Improvement for Two-Node Lab](Project_027740/README.md) |
 
 [Back to the portfolio home](../README.md)
