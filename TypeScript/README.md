@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021978 | [TypeScript: Recovery Test — Recovery for Offline Classroom](Project_021978/README.md) |
 | 021979 | [TypeScript: Recovery Test — Reporting for Offline Classroom](Project_021979/README.md) |
 | 021980 | [TypeScript: Recovery Test — Usability Improvement for Offline Classroom](Project_021980/README.md) |
+| 021981 | [TypeScript: Recovery Test — Baseline Setup for Single-Host Lab](Project_021981/README.md) |
+| 021982 | [TypeScript: Recovery Test — Automation for Single-Host Lab](Project_021982/README.md) |
+| 021983 | [TypeScript: Recovery Test — Recovery for Single-Host Lab](Project_021983/README.md) |
+| 021984 | [TypeScript: Recovery Test — Reporting for Single-Host Lab](Project_021984/README.md) |
+| 021985 | [TypeScript: Recovery Test — Usability Improvement for Single-Host Lab](Project_021985/README.md) |
+| 021986 | [TypeScript: Recovery Test — Baseline Setup for Two-Node Lab](Project_021986/README.md) |
+| 021987 | [TypeScript: Recovery Test — Automation for Two-Node Lab](Project_021987/README.md) |
+| 021988 | [TypeScript: Recovery Test — Recovery for Two-Node Lab](Project_021988/README.md) |
+| 021989 | [TypeScript: Recovery Test — Reporting for Two-Node Lab](Project_021989/README.md) |
+| 021990 | [TypeScript: Recovery Test — Usability Improvement for Two-Node Lab](Project_021990/README.md) |
+| 021991 | [TypeScript: Recovery Test — Baseline Setup for Help Desk](Project_021991/README.md) |
+| 021992 | [TypeScript: Recovery Test — Automation for Help Desk](Project_021992/README.md) |
+| 021993 | [TypeScript: Recovery Test — Recovery for Help Desk](Project_021993/README.md) |
+| 021994 | [TypeScript: Recovery Test — Reporting for Help Desk](Project_021994/README.md) |
+| 021995 | [TypeScript: Recovery Test — Usability Improvement for Help Desk](Project_021995/README.md) |
+| 021996 | [TypeScript: Recovery Test — Baseline Setup for Portfolio Demo](Project_021996/README.md) |
+| 021997 | [TypeScript: Recovery Test — Automation for Portfolio Demo](Project_021997/README.md) |
+| 021998 | [TypeScript: Recovery Test — Recovery for Portfolio Demo](Project_021998/README.md) |
+| 021999 | [TypeScript: Recovery Test — Reporting for Portfolio Demo](Project_021999/README.md) |
+| 022000 | [TypeScript: Recovery Test — Usability Improvement for Portfolio Demo](Project_022000/README.md) |
 
 [Back to the portfolio home](../README.md)
