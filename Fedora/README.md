@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004418 | [Fedora: Alerting — Recovery for Public Dataset](Project_004418/README.md) |
 | 004419 | [Fedora: Alerting — Reporting for Public Dataset](Project_004419/README.md) |
 | 004420 | [Fedora: Alerting — Usability Improvement for Public Dataset](Project_004420/README.md) |
+| 004421 | [Fedora: Alerting — Baseline Setup for Branch Office Simulator](Project_004421/README.md) |
+| 004422 | [Fedora: Alerting — Automation for Branch Office Simulator](Project_004422/README.md) |
+| 004423 | [Fedora: Alerting — Recovery for Branch Office Simulator](Project_004423/README.md) |
+| 004424 | [Fedora: Alerting — Reporting for Branch Office Simulator](Project_004424/README.md) |
+| 004425 | [Fedora: Alerting — Usability Improvement for Branch Office Simulator](Project_004425/README.md) |
+| 004426 | [Fedora: Alerting — Baseline Setup for Offline Classroom](Project_004426/README.md) |
+| 004427 | [Fedora: Alerting — Automation for Offline Classroom](Project_004427/README.md) |
+| 004428 | [Fedora: Alerting — Recovery for Offline Classroom](Project_004428/README.md) |
+| 004429 | [Fedora: Alerting — Reporting for Offline Classroom](Project_004429/README.md) |
+| 004430 | [Fedora: Alerting — Usability Improvement for Offline Classroom](Project_004430/README.md) |
+| 004431 | [Fedora: Alerting — Baseline Setup for Single-Host Lab](Project_004431/README.md) |
+| 004432 | [Fedora: Alerting — Automation for Single-Host Lab](Project_004432/README.md) |
+| 004433 | [Fedora: Alerting — Recovery for Single-Host Lab](Project_004433/README.md) |
+| 004434 | [Fedora: Alerting — Reporting for Single-Host Lab](Project_004434/README.md) |
+| 004435 | [Fedora: Alerting — Usability Improvement for Single-Host Lab](Project_004435/README.md) |
+| 004436 | [Fedora: Alerting — Baseline Setup for Two-Node Lab](Project_004436/README.md) |
+| 004437 | [Fedora: Alerting — Automation for Two-Node Lab](Project_004437/README.md) |
+| 004438 | [Fedora: Alerting — Recovery for Two-Node Lab](Project_004438/README.md) |
+| 004439 | [Fedora: Alerting — Reporting for Two-Node Lab](Project_004439/README.md) |
+| 004440 | [Fedora: Alerting — Usability Improvement for Two-Node Lab](Project_004440/README.md) |
 
 [Back to the portfolio home](../README.md)
