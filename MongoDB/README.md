@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027278 | [MongoDB: Data Import — Recovery for Offline Classroom](Project_027278/README.md) |
 | 027279 | [MongoDB: Data Import — Reporting for Offline Classroom](Project_027279/README.md) |
 | 027280 | [MongoDB: Data Import — Usability Improvement for Offline Classroom](Project_027280/README.md) |
+| 027281 | [MongoDB: Data Import — Baseline Setup for Single-Host Lab](Project_027281/README.md) |
+| 027282 | [MongoDB: Data Import — Automation for Single-Host Lab](Project_027282/README.md) |
+| 027283 | [MongoDB: Data Import — Recovery for Single-Host Lab](Project_027283/README.md) |
+| 027284 | [MongoDB: Data Import — Reporting for Single-Host Lab](Project_027284/README.md) |
+| 027285 | [MongoDB: Data Import — Usability Improvement for Single-Host Lab](Project_027285/README.md) |
+| 027286 | [MongoDB: Data Import — Baseline Setup for Two-Node Lab](Project_027286/README.md) |
+| 027287 | [MongoDB: Data Import — Automation for Two-Node Lab](Project_027287/README.md) |
+| 027288 | [MongoDB: Data Import — Recovery for Two-Node Lab](Project_027288/README.md) |
+| 027289 | [MongoDB: Data Import — Reporting for Two-Node Lab](Project_027289/README.md) |
+| 027290 | [MongoDB: Data Import — Usability Improvement for Two-Node Lab](Project_027290/README.md) |
+| 027291 | [MongoDB: Data Import — Baseline Setup for Help Desk](Project_027291/README.md) |
+| 027292 | [MongoDB: Data Import — Automation for Help Desk](Project_027292/README.md) |
+| 027293 | [MongoDB: Data Import — Recovery for Help Desk](Project_027293/README.md) |
+| 027294 | [MongoDB: Data Import — Reporting for Help Desk](Project_027294/README.md) |
+| 027295 | [MongoDB: Data Import — Usability Improvement for Help Desk](Project_027295/README.md) |
+| 027296 | [MongoDB: Data Import — Baseline Setup for Portfolio Demo](Project_027296/README.md) |
+| 027297 | [MongoDB: Data Import — Automation for Portfolio Demo](Project_027297/README.md) |
+| 027298 | [MongoDB: Data Import — Recovery for Portfolio Demo](Project_027298/README.md) |
+| 027299 | [MongoDB: Data Import — Reporting for Portfolio Demo](Project_027299/README.md) |
+| 027300 | [MongoDB: Data Import — Usability Improvement for Portfolio Demo](Project_027300/README.md) |
 
 [Back to the portfolio home](../README.md)
