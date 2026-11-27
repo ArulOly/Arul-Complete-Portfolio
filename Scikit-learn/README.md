@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034098 | [Scikit-learn: Monitoring — Recovery for Portfolio Demo](Project_034098/README.md) |
 | 034099 | [Scikit-learn: Monitoring — Reporting for Portfolio Demo](Project_034099/README.md) |
 | 034100 | [Scikit-learn: Monitoring — Usability Improvement for Portfolio Demo](Project_034100/README.md) |
+| 034101 | [Scikit-learn: Audit — Baseline Setup for School Lab](Project_034101/README.md) |
+| 034102 | [Scikit-learn: Audit — Automation for School Lab](Project_034102/README.md) |
+| 034103 | [Scikit-learn: Audit — Recovery for School Lab](Project_034103/README.md) |
+| 034104 | [Scikit-learn: Audit — Reporting for School Lab](Project_034104/README.md) |
+| 034105 | [Scikit-learn: Audit — Usability Improvement for School Lab](Project_034105/README.md) |
+| 034106 | [Scikit-learn: Audit — Baseline Setup for Small Business](Project_034106/README.md) |
+| 034107 | [Scikit-learn: Audit — Automation for Small Business](Project_034107/README.md) |
+| 034108 | [Scikit-learn: Audit — Recovery for Small Business](Project_034108/README.md) |
+| 034109 | [Scikit-learn: Audit — Reporting for Small Business](Project_034109/README.md) |
+| 034110 | [Scikit-learn: Audit — Usability Improvement for Small Business](Project_034110/README.md) |
+| 034111 | [Scikit-learn: Audit — Baseline Setup for Home Development](Project_034111/README.md) |
+| 034112 | [Scikit-learn: Audit — Automation for Home Development](Project_034112/README.md) |
+| 034113 | [Scikit-learn: Audit — Recovery for Home Development](Project_034113/README.md) |
+| 034114 | [Scikit-learn: Audit — Reporting for Home Development](Project_034114/README.md) |
+| 034115 | [Scikit-learn: Audit — Usability Improvement for Home Development](Project_034115/README.md) |
+| 034116 | [Scikit-learn: Audit — Baseline Setup for Public Dataset](Project_034116/README.md) |
+| 034117 | [Scikit-learn: Audit — Automation for Public Dataset](Project_034117/README.md) |
+| 034118 | [Scikit-learn: Audit — Recovery for Public Dataset](Project_034118/README.md) |
+| 034119 | [Scikit-learn: Audit — Reporting for Public Dataset](Project_034119/README.md) |
+| 034120 | [Scikit-learn: Audit — Usability Improvement for Public Dataset](Project_034120/README.md) |
 
 [Back to the portfolio home](../README.md)
