@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028538 | [SQLite: Access Review — Recovery for Two-Node Lab](Project_028538/README.md) |
 | 028539 | [SQLite: Access Review — Reporting for Two-Node Lab](Project_028539/README.md) |
 | 028540 | [SQLite: Access Review — Usability Improvement for Two-Node Lab](Project_028540/README.md) |
+| 028541 | [SQLite: Access Review — Baseline Setup for Help Desk](Project_028541/README.md) |
+| 028542 | [SQLite: Access Review — Automation for Help Desk](Project_028542/README.md) |
+| 028543 | [SQLite: Access Review — Recovery for Help Desk](Project_028543/README.md) |
+| 028544 | [SQLite: Access Review — Reporting for Help Desk](Project_028544/README.md) |
+| 028545 | [SQLite: Access Review — Usability Improvement for Help Desk](Project_028545/README.md) |
+| 028546 | [SQLite: Access Review — Baseline Setup for Portfolio Demo](Project_028546/README.md) |
+| 028547 | [SQLite: Access Review — Automation for Portfolio Demo](Project_028547/README.md) |
+| 028548 | [SQLite: Access Review — Recovery for Portfolio Demo](Project_028548/README.md) |
+| 028549 | [SQLite: Access Review — Reporting for Portfolio Demo](Project_028549/README.md) |
+| 028550 | [SQLite: Access Review — Usability Improvement for Portfolio Demo](Project_028550/README.md) |
+| 028551 | [SQLite: Performance Baseline — Baseline Setup for School Lab](Project_028551/README.md) |
+| 028552 | [SQLite: Performance Baseline — Automation for School Lab](Project_028552/README.md) |
+| 028553 | [SQLite: Performance Baseline — Recovery for School Lab](Project_028553/README.md) |
+| 028554 | [SQLite: Performance Baseline — Reporting for School Lab](Project_028554/README.md) |
+| 028555 | [SQLite: Performance Baseline — Usability Improvement for School Lab](Project_028555/README.md) |
+| 028556 | [SQLite: Performance Baseline — Baseline Setup for Small Business](Project_028556/README.md) |
+| 028557 | [SQLite: Performance Baseline — Automation for Small Business](Project_028557/README.md) |
+| 028558 | [SQLite: Performance Baseline — Recovery for Small Business](Project_028558/README.md) |
+| 028559 | [SQLite: Performance Baseline — Reporting for Small Business](Project_028559/README.md) |
+| 028560 | [SQLite: Performance Baseline — Usability Improvement for Small Business](Project_028560/README.md) |
 
 [Back to the portfolio home](../README.md)
