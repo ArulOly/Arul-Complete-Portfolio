@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023358 | [HTML CSS: Dashboard — Recovery for Small Business](Project_023358/README.md) |
 | 023359 | [HTML CSS: Dashboard — Reporting for Small Business](Project_023359/README.md) |
 | 023360 | [HTML CSS: Dashboard — Usability Improvement for Small Business](Project_023360/README.md) |
+| 023361 | [HTML CSS: Dashboard — Baseline Setup for Home Development](Project_023361/README.md) |
+| 023362 | [HTML CSS: Dashboard — Automation for Home Development](Project_023362/README.md) |
+| 023363 | [HTML CSS: Dashboard — Recovery for Home Development](Project_023363/README.md) |
+| 023364 | [HTML CSS: Dashboard — Reporting for Home Development](Project_023364/README.md) |
+| 023365 | [HTML CSS: Dashboard — Usability Improvement for Home Development](Project_023365/README.md) |
+| 023366 | [HTML CSS: Dashboard — Baseline Setup for Public Dataset](Project_023366/README.md) |
+| 023367 | [HTML CSS: Dashboard — Automation for Public Dataset](Project_023367/README.md) |
+| 023368 | [HTML CSS: Dashboard — Recovery for Public Dataset](Project_023368/README.md) |
+| 023369 | [HTML CSS: Dashboard — Reporting for Public Dataset](Project_023369/README.md) |
+| 023370 | [HTML CSS: Dashboard — Usability Improvement for Public Dataset](Project_023370/README.md) |
+| 023371 | [HTML CSS: Dashboard — Baseline Setup for Branch Office Simulator](Project_023371/README.md) |
+| 023372 | [HTML CSS: Dashboard — Automation for Branch Office Simulator](Project_023372/README.md) |
+| 023373 | [HTML CSS: Dashboard — Recovery for Branch Office Simulator](Project_023373/README.md) |
+| 023374 | [HTML CSS: Dashboard — Reporting for Branch Office Simulator](Project_023374/README.md) |
+| 023375 | [HTML CSS: Dashboard — Usability Improvement for Branch Office Simulator](Project_023375/README.md) |
+| 023376 | [HTML CSS: Dashboard — Baseline Setup for Offline Classroom](Project_023376/README.md) |
+| 023377 | [HTML CSS: Dashboard — Automation for Offline Classroom](Project_023377/README.md) |
+| 023378 | [HTML CSS: Dashboard — Recovery for Offline Classroom](Project_023378/README.md) |
+| 023379 | [HTML CSS: Dashboard — Reporting for Offline Classroom](Project_023379/README.md) |
+| 023380 | [HTML CSS: Dashboard — Usability Improvement for Offline Classroom](Project_023380/README.md) |
 
 [Back to the portfolio home](../README.md)
