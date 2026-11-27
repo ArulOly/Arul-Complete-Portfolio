@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026738 | [MySQL: Error Handling — Recovery for Two-Node Lab](Project_026738/README.md) |
 | 026739 | [MySQL: Error Handling — Reporting for Two-Node Lab](Project_026739/README.md) |
 | 026740 | [MySQL: Error Handling — Usability Improvement for Two-Node Lab](Project_026740/README.md) |
+| 026741 | [MySQL: Error Handling — Baseline Setup for Help Desk](Project_026741/README.md) |
+| 026742 | [MySQL: Error Handling — Automation for Help Desk](Project_026742/README.md) |
+| 026743 | [MySQL: Error Handling — Recovery for Help Desk](Project_026743/README.md) |
+| 026744 | [MySQL: Error Handling — Reporting for Help Desk](Project_026744/README.md) |
+| 026745 | [MySQL: Error Handling — Usability Improvement for Help Desk](Project_026745/README.md) |
+| 026746 | [MySQL: Error Handling — Baseline Setup for Portfolio Demo](Project_026746/README.md) |
+| 026747 | [MySQL: Error Handling — Automation for Portfolio Demo](Project_026747/README.md) |
+| 026748 | [MySQL: Error Handling — Recovery for Portfolio Demo](Project_026748/README.md) |
+| 026749 | [MySQL: Error Handling — Reporting for Portfolio Demo](Project_026749/README.md) |
+| 026750 | [MySQL: Error Handling — Usability Improvement for Portfolio Demo](Project_026750/README.md) |
+| 026751 | [MySQL: Data Validation — Baseline Setup for School Lab](Project_026751/README.md) |
+| 026752 | [MySQL: Data Validation — Automation for School Lab](Project_026752/README.md) |
+| 026753 | [MySQL: Data Validation — Recovery for School Lab](Project_026753/README.md) |
+| 026754 | [MySQL: Data Validation — Reporting for School Lab](Project_026754/README.md) |
+| 026755 | [MySQL: Data Validation — Usability Improvement for School Lab](Project_026755/README.md) |
+| 026756 | [MySQL: Data Validation — Baseline Setup for Small Business](Project_026756/README.md) |
+| 026757 | [MySQL: Data Validation — Automation for Small Business](Project_026757/README.md) |
+| 026758 | [MySQL: Data Validation — Recovery for Small Business](Project_026758/README.md) |
+| 026759 | [MySQL: Data Validation — Reporting for Small Business](Project_026759/README.md) |
+| 026760 | [MySQL: Data Validation — Usability Improvement for Small Business](Project_026760/README.md) |
 
 [Back to the portfolio home](../README.md)
