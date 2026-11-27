@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021678 | [TypeScript: Configuration Comparison — Recovery for Offline Classroom](Project_021678/README.md) |
 | 021679 | [TypeScript: Configuration Comparison — Reporting for Offline Classroom](Project_021679/README.md) |
 | 021680 | [TypeScript: Configuration Comparison — Usability Improvement for Offline Classroom](Project_021680/README.md) |
+| 021681 | [TypeScript: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_021681/README.md) |
+| 021682 | [TypeScript: Configuration Comparison — Automation for Single-Host Lab](Project_021682/README.md) |
+| 021683 | [TypeScript: Configuration Comparison — Recovery for Single-Host Lab](Project_021683/README.md) |
+| 021684 | [TypeScript: Configuration Comparison — Reporting for Single-Host Lab](Project_021684/README.md) |
+| 021685 | [TypeScript: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_021685/README.md) |
+| 021686 | [TypeScript: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_021686/README.md) |
+| 021687 | [TypeScript: Configuration Comparison — Automation for Two-Node Lab](Project_021687/README.md) |
+| 021688 | [TypeScript: Configuration Comparison — Recovery for Two-Node Lab](Project_021688/README.md) |
+| 021689 | [TypeScript: Configuration Comparison — Reporting for Two-Node Lab](Project_021689/README.md) |
+| 021690 | [TypeScript: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_021690/README.md) |
+| 021691 | [TypeScript: Configuration Comparison — Baseline Setup for Help Desk](Project_021691/README.md) |
+| 021692 | [TypeScript: Configuration Comparison — Automation for Help Desk](Project_021692/README.md) |
+| 021693 | [TypeScript: Configuration Comparison — Recovery for Help Desk](Project_021693/README.md) |
+| 021694 | [TypeScript: Configuration Comparison — Reporting for Help Desk](Project_021694/README.md) |
+| 021695 | [TypeScript: Configuration Comparison — Usability Improvement for Help Desk](Project_021695/README.md) |
+| 021696 | [TypeScript: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_021696/README.md) |
+| 021697 | [TypeScript: Configuration Comparison — Automation for Portfolio Demo](Project_021697/README.md) |
+| 021698 | [TypeScript: Configuration Comparison — Recovery for Portfolio Demo](Project_021698/README.md) |
+| 021699 | [TypeScript: Configuration Comparison — Reporting for Portfolio Demo](Project_021699/README.md) |
+| 021700 | [TypeScript: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_021700/README.md) |
 
 [Back to the portfolio home](../README.md)
