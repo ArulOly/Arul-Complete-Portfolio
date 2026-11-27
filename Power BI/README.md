@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032938 | [Power BI: Visual Reporting — Recovery for Two-Node Lab](Project_032938/README.md) |
 | 032939 | [Power BI: Visual Reporting — Reporting for Two-Node Lab](Project_032939/README.md) |
 | 032940 | [Power BI: Visual Reporting — Usability Improvement for Two-Node Lab](Project_032940/README.md) |
+| 032941 | [Power BI: Visual Reporting — Baseline Setup for Help Desk](Project_032941/README.md) |
+| 032942 | [Power BI: Visual Reporting — Automation for Help Desk](Project_032942/README.md) |
+| 032943 | [Power BI: Visual Reporting — Recovery for Help Desk](Project_032943/README.md) |
+| 032944 | [Power BI: Visual Reporting — Reporting for Help Desk](Project_032944/README.md) |
+| 032945 | [Power BI: Visual Reporting — Usability Improvement for Help Desk](Project_032945/README.md) |
+| 032946 | [Power BI: Visual Reporting — Baseline Setup for Portfolio Demo](Project_032946/README.md) |
+| 032947 | [Power BI: Visual Reporting — Automation for Portfolio Demo](Project_032947/README.md) |
+| 032948 | [Power BI: Visual Reporting — Recovery for Portfolio Demo](Project_032948/README.md) |
+| 032949 | [Power BI: Visual Reporting — Reporting for Portfolio Demo](Project_032949/README.md) |
+| 032950 | [Power BI: Visual Reporting — Usability Improvement for Portfolio Demo](Project_032950/README.md) |
+| 032951 | [Power BI: Recovery Test — Baseline Setup for School Lab](Project_032951/README.md) |
+| 032952 | [Power BI: Recovery Test — Automation for School Lab](Project_032952/README.md) |
+| 032953 | [Power BI: Recovery Test — Recovery for School Lab](Project_032953/README.md) |
+| 032954 | [Power BI: Recovery Test — Reporting for School Lab](Project_032954/README.md) |
+| 032955 | [Power BI: Recovery Test — Usability Improvement for School Lab](Project_032955/README.md) |
+| 032956 | [Power BI: Recovery Test — Baseline Setup for Small Business](Project_032956/README.md) |
+| 032957 | [Power BI: Recovery Test — Automation for Small Business](Project_032957/README.md) |
+| 032958 | [Power BI: Recovery Test — Recovery for Small Business](Project_032958/README.md) |
+| 032959 | [Power BI: Recovery Test — Reporting for Small Business](Project_032959/README.md) |
+| 032960 | [Power BI: Recovery Test — Usability Improvement for Small Business](Project_032960/README.md) |
 
 [Back to the portfolio home](../README.md)
