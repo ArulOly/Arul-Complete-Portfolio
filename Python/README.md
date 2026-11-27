@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -564,5 +564,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019518 | [Python: Access Review — Recovery for Public Dataset](Project_019518/README.md) |
 | 019519 | [Python: Access Review — Reporting for Public Dataset](Project_019519/README.md) |
 | 019520 | [Python: Access Review — Usability Improvement for Public Dataset](Project_019520/README.md) |
+| 019521 | [Python: Access Review — Baseline Setup for Branch Office Simulator](Project_019521/README.md) |
+| 019522 | [Python: Access Review — Automation for Branch Office Simulator](Project_019522/README.md) |
+| 019523 | [Python: Access Review — Recovery for Branch Office Simulator](Project_019523/README.md) |
+| 019524 | [Python: Access Review — Reporting for Branch Office Simulator](Project_019524/README.md) |
+| 019525 | [Python: Access Review — Usability Improvement for Branch Office Simulator](Project_019525/README.md) |
+| 019526 | [Python: Access Review — Baseline Setup for Offline Classroom](Project_019526/README.md) |
+| 019527 | [Python: Access Review — Automation for Offline Classroom](Project_019527/README.md) |
+| 019528 | [Python: Access Review — Recovery for Offline Classroom](Project_019528/README.md) |
+| 019529 | [Python: Access Review — Reporting for Offline Classroom](Project_019529/README.md) |
+| 019530 | [Python: Access Review — Usability Improvement for Offline Classroom](Project_019530/README.md) |
+| 019531 | [Python: Access Review — Baseline Setup for Single-Host Lab](Project_019531/README.md) |
+| 019532 | [Python: Access Review — Automation for Single-Host Lab](Project_019532/README.md) |
+| 019533 | [Python: Access Review — Recovery for Single-Host Lab](Project_019533/README.md) |
+| 019534 | [Python: Access Review — Reporting for Single-Host Lab](Project_019534/README.md) |
+| 019535 | [Python: Access Review — Usability Improvement for Single-Host Lab](Project_019535/README.md) |
+| 019536 | [Python: Access Review — Baseline Setup for Two-Node Lab](Project_019536/README.md) |
+| 019537 | [Python: Access Review — Automation for Two-Node Lab](Project_019537/README.md) |
+| 019538 | [Python: Access Review — Recovery for Two-Node Lab](Project_019538/README.md) |
+| 019539 | [Python: Access Review — Reporting for Two-Node Lab](Project_019539/README.md) |
+| 019540 | [Python: Access Review — Usability Improvement for Two-Node Lab](Project_019540/README.md) |
 
 [Back to the portfolio home](../README.md)
