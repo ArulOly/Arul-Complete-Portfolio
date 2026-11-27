@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021798 | [TypeScript: Data Validation — Recovery for Portfolio Demo](Project_021798/README.md) |
 | 021799 | [TypeScript: Data Validation — Reporting for Portfolio Demo](Project_021799/README.md) |
 | 021800 | [TypeScript: Data Validation — Usability Improvement for Portfolio Demo](Project_021800/README.md) |
+| 021801 | [TypeScript: Documentation Generation — Baseline Setup for School Lab](Project_021801/README.md) |
+| 021802 | [TypeScript: Documentation Generation — Automation for School Lab](Project_021802/README.md) |
+| 021803 | [TypeScript: Documentation Generation — Recovery for School Lab](Project_021803/README.md) |
+| 021804 | [TypeScript: Documentation Generation — Reporting for School Lab](Project_021804/README.md) |
+| 021805 | [TypeScript: Documentation Generation — Usability Improvement for School Lab](Project_021805/README.md) |
+| 021806 | [TypeScript: Documentation Generation — Baseline Setup for Small Business](Project_021806/README.md) |
+| 021807 | [TypeScript: Documentation Generation — Automation for Small Business](Project_021807/README.md) |
+| 021808 | [TypeScript: Documentation Generation — Recovery for Small Business](Project_021808/README.md) |
+| 021809 | [TypeScript: Documentation Generation — Reporting for Small Business](Project_021809/README.md) |
+| 021810 | [TypeScript: Documentation Generation — Usability Improvement for Small Business](Project_021810/README.md) |
+| 021811 | [TypeScript: Documentation Generation — Baseline Setup for Home Development](Project_021811/README.md) |
+| 021812 | [TypeScript: Documentation Generation — Automation for Home Development](Project_021812/README.md) |
+| 021813 | [TypeScript: Documentation Generation — Recovery for Home Development](Project_021813/README.md) |
+| 021814 | [TypeScript: Documentation Generation — Reporting for Home Development](Project_021814/README.md) |
+| 021815 | [TypeScript: Documentation Generation — Usability Improvement for Home Development](Project_021815/README.md) |
+| 021816 | [TypeScript: Documentation Generation — Baseline Setup for Public Dataset](Project_021816/README.md) |
+| 021817 | [TypeScript: Documentation Generation — Automation for Public Dataset](Project_021817/README.md) |
+| 021818 | [TypeScript: Documentation Generation — Recovery for Public Dataset](Project_021818/README.md) |
+| 021819 | [TypeScript: Documentation Generation — Reporting for Public Dataset](Project_021819/README.md) |
+| 021820 | [TypeScript: Documentation Generation — Usability Improvement for Public Dataset](Project_021820/README.md) |
 
 [Back to the portfolio home](../README.md)
