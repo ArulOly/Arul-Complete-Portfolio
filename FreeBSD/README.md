@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005098 | [FreeBSD: Monitoring — Recovery for Portfolio Demo](Project_005098/README.md) |
 | 005099 | [FreeBSD: Monitoring — Reporting for Portfolio Demo](Project_005099/README.md) |
 | 005100 | [FreeBSD: Monitoring — Usability Improvement for Portfolio Demo](Project_005100/README.md) |
+| 005101 | [FreeBSD: Audit — Baseline Setup for School Lab](Project_005101/README.md) |
+| 005102 | [FreeBSD: Audit — Automation for School Lab](Project_005102/README.md) |
+| 005103 | [FreeBSD: Audit — Recovery for School Lab](Project_005103/README.md) |
+| 005104 | [FreeBSD: Audit — Reporting for School Lab](Project_005104/README.md) |
+| 005105 | [FreeBSD: Audit — Usability Improvement for School Lab](Project_005105/README.md) |
+| 005106 | [FreeBSD: Audit — Baseline Setup for Small Business](Project_005106/README.md) |
+| 005107 | [FreeBSD: Audit — Automation for Small Business](Project_005107/README.md) |
+| 005108 | [FreeBSD: Audit — Recovery for Small Business](Project_005108/README.md) |
+| 005109 | [FreeBSD: Audit — Reporting for Small Business](Project_005109/README.md) |
+| 005110 | [FreeBSD: Audit — Usability Improvement for Small Business](Project_005110/README.md) |
+| 005111 | [FreeBSD: Audit — Baseline Setup for Home Development](Project_005111/README.md) |
+| 005112 | [FreeBSD: Audit — Automation for Home Development](Project_005112/README.md) |
+| 005113 | [FreeBSD: Audit — Recovery for Home Development](Project_005113/README.md) |
+| 005114 | [FreeBSD: Audit — Reporting for Home Development](Project_005114/README.md) |
+| 005115 | [FreeBSD: Audit — Usability Improvement for Home Development](Project_005115/README.md) |
+| 005116 | [FreeBSD: Audit — Baseline Setup for Public Dataset](Project_005116/README.md) |
+| 005117 | [FreeBSD: Audit — Automation for Public Dataset](Project_005117/README.md) |
+| 005118 | [FreeBSD: Audit — Recovery for Public Dataset](Project_005118/README.md) |
+| 005119 | [FreeBSD: Audit — Reporting for Public Dataset](Project_005119/README.md) |
+| 005120 | [FreeBSD: Audit — Usability Improvement for Public Dataset](Project_005120/README.md) |
 
 [Back to the portfolio home](../README.md)
