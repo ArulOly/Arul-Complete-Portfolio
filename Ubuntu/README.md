@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002278 | [Ubuntu: Data Import — Recovery for Offline Classroom](Project_002278/README.md) |
 | 002279 | [Ubuntu: Data Import — Reporting for Offline Classroom](Project_002279/README.md) |
 | 002280 | [Ubuntu: Data Import — Usability Improvement for Offline Classroom](Project_002280/README.md) |
+| 002281 | [Ubuntu: Data Import — Baseline Setup for Single-Host Lab](Project_002281/README.md) |
+| 002282 | [Ubuntu: Data Import — Automation for Single-Host Lab](Project_002282/README.md) |
+| 002283 | [Ubuntu: Data Import — Recovery for Single-Host Lab](Project_002283/README.md) |
+| 002284 | [Ubuntu: Data Import — Reporting for Single-Host Lab](Project_002284/README.md) |
+| 002285 | [Ubuntu: Data Import — Usability Improvement for Single-Host Lab](Project_002285/README.md) |
+| 002286 | [Ubuntu: Data Import — Baseline Setup for Two-Node Lab](Project_002286/README.md) |
+| 002287 | [Ubuntu: Data Import — Automation for Two-Node Lab](Project_002287/README.md) |
+| 002288 | [Ubuntu: Data Import — Recovery for Two-Node Lab](Project_002288/README.md) |
+| 002289 | [Ubuntu: Data Import — Reporting for Two-Node Lab](Project_002289/README.md) |
+| 002290 | [Ubuntu: Data Import — Usability Improvement for Two-Node Lab](Project_002290/README.md) |
+| 002291 | [Ubuntu: Data Import — Baseline Setup for Help Desk](Project_002291/README.md) |
+| 002292 | [Ubuntu: Data Import — Automation for Help Desk](Project_002292/README.md) |
+| 002293 | [Ubuntu: Data Import — Recovery for Help Desk](Project_002293/README.md) |
+| 002294 | [Ubuntu: Data Import — Reporting for Help Desk](Project_002294/README.md) |
+| 002295 | [Ubuntu: Data Import — Usability Improvement for Help Desk](Project_002295/README.md) |
+| 002296 | [Ubuntu: Data Import — Baseline Setup for Portfolio Demo](Project_002296/README.md) |
+| 002297 | [Ubuntu: Data Import — Automation for Portfolio Demo](Project_002297/README.md) |
+| 002298 | [Ubuntu: Data Import — Recovery for Portfolio Demo](Project_002298/README.md) |
+| 002299 | [Ubuntu: Data Import — Reporting for Portfolio Demo](Project_002299/README.md) |
+| 002300 | [Ubuntu: Data Import — Usability Improvement for Portfolio Demo](Project_002300/README.md) |
 
 [Back to the portfolio home](../README.md)
