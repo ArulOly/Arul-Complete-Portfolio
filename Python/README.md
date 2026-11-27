@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -784,5 +784,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019738 | [Python: Error Handling — Recovery for Two-Node Lab](Project_019738/README.md) |
 | 019739 | [Python: Error Handling — Reporting for Two-Node Lab](Project_019739/README.md) |
 | 019740 | [Python: Error Handling — Usability Improvement for Two-Node Lab](Project_019740/README.md) |
+| 019741 | [Python: Error Handling — Baseline Setup for Help Desk](Project_019741/README.md) |
+| 019742 | [Python: Error Handling — Automation for Help Desk](Project_019742/README.md) |
+| 019743 | [Python: Error Handling — Recovery for Help Desk](Project_019743/README.md) |
+| 019744 | [Python: Error Handling — Reporting for Help Desk](Project_019744/README.md) |
+| 019745 | [Python: Error Handling — Usability Improvement for Help Desk](Project_019745/README.md) |
+| 019746 | [Python: Error Handling — Baseline Setup for Portfolio Demo](Project_019746/README.md) |
+| 019747 | [Python: Error Handling — Automation for Portfolio Demo](Project_019747/README.md) |
+| 019748 | [Python: Error Handling — Recovery for Portfolio Demo](Project_019748/README.md) |
+| 019749 | [Python: Error Handling — Reporting for Portfolio Demo](Project_019749/README.md) |
+| 019750 | [Python: Error Handling — Usability Improvement for Portfolio Demo](Project_019750/README.md) |
+| 019751 | [Python: Data Validation — Baseline Setup for School Lab](Project_019751/README.md) |
+| 019752 | [Python: Data Validation — Automation for School Lab](Project_019752/README.md) |
+| 019753 | [Python: Data Validation — Recovery for School Lab](Project_019753/README.md) |
+| 019754 | [Python: Data Validation — Reporting for School Lab](Project_019754/README.md) |
+| 019755 | [Python: Data Validation — Usability Improvement for School Lab](Project_019755/README.md) |
+| 019756 | [Python: Data Validation — Baseline Setup for Small Business](Project_019756/README.md) |
+| 019757 | [Python: Data Validation — Automation for Small Business](Project_019757/README.md) |
+| 019758 | [Python: Data Validation — Recovery for Small Business](Project_019758/README.md) |
+| 019759 | [Python: Data Validation — Reporting for Small Business](Project_019759/README.md) |
+| 019760 | [Python: Data Validation — Usability Improvement for Small Business](Project_019760/README.md) |
 
 [Back to the portfolio home](../README.md)
