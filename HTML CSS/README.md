@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023378 | [HTML CSS: Dashboard — Recovery for Offline Classroom](Project_023378/README.md) |
 | 023379 | [HTML CSS: Dashboard — Reporting for Offline Classroom](Project_023379/README.md) |
 | 023380 | [HTML CSS: Dashboard — Usability Improvement for Offline Classroom](Project_023380/README.md) |
+| 023381 | [HTML CSS: Dashboard — Baseline Setup for Single-Host Lab](Project_023381/README.md) |
+| 023382 | [HTML CSS: Dashboard — Automation for Single-Host Lab](Project_023382/README.md) |
+| 023383 | [HTML CSS: Dashboard — Recovery for Single-Host Lab](Project_023383/README.md) |
+| 023384 | [HTML CSS: Dashboard — Reporting for Single-Host Lab](Project_023384/README.md) |
+| 023385 | [HTML CSS: Dashboard — Usability Improvement for Single-Host Lab](Project_023385/README.md) |
+| 023386 | [HTML CSS: Dashboard — Baseline Setup for Two-Node Lab](Project_023386/README.md) |
+| 023387 | [HTML CSS: Dashboard — Automation for Two-Node Lab](Project_023387/README.md) |
+| 023388 | [HTML CSS: Dashboard — Recovery for Two-Node Lab](Project_023388/README.md) |
+| 023389 | [HTML CSS: Dashboard — Reporting for Two-Node Lab](Project_023389/README.md) |
+| 023390 | [HTML CSS: Dashboard — Usability Improvement for Two-Node Lab](Project_023390/README.md) |
+| 023391 | [HTML CSS: Dashboard — Baseline Setup for Help Desk](Project_023391/README.md) |
+| 023392 | [HTML CSS: Dashboard — Automation for Help Desk](Project_023392/README.md) |
+| 023393 | [HTML CSS: Dashboard — Recovery for Help Desk](Project_023393/README.md) |
+| 023394 | [HTML CSS: Dashboard — Reporting for Help Desk](Project_023394/README.md) |
+| 023395 | [HTML CSS: Dashboard — Usability Improvement for Help Desk](Project_023395/README.md) |
+| 023396 | [HTML CSS: Dashboard — Baseline Setup for Portfolio Demo](Project_023396/README.md) |
+| 023397 | [HTML CSS: Dashboard — Automation for Portfolio Demo](Project_023397/README.md) |
+| 023398 | [HTML CSS: Dashboard — Recovery for Portfolio Demo](Project_023398/README.md) |
+| 023399 | [HTML CSS: Dashboard — Reporting for Portfolio Demo](Project_023399/README.md) |
+| 023400 | [HTML CSS: Dashboard — Usability Improvement for Portfolio Demo](Project_023400/README.md) |
 
 [Back to the portfolio home](../README.md)
