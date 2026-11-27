@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022878 | [Java: Automation — Recovery for Offline Classroom](Project_022878/README.md) |
 | 022879 | [Java: Automation — Reporting for Offline Classroom](Project_022879/README.md) |
 | 022880 | [Java: Automation — Usability Improvement for Offline Classroom](Project_022880/README.md) |
+| 022881 | [Java: Automation — Baseline Setup for Single-Host Lab](Project_022881/README.md) |
+| 022882 | [Java: Automation — Automation for Single-Host Lab](Project_022882/README.md) |
+| 022883 | [Java: Automation — Recovery for Single-Host Lab](Project_022883/README.md) |
+| 022884 | [Java: Automation — Reporting for Single-Host Lab](Project_022884/README.md) |
+| 022885 | [Java: Automation — Usability Improvement for Single-Host Lab](Project_022885/README.md) |
+| 022886 | [Java: Automation — Baseline Setup for Two-Node Lab](Project_022886/README.md) |
+| 022887 | [Java: Automation — Automation for Two-Node Lab](Project_022887/README.md) |
+| 022888 | [Java: Automation — Recovery for Two-Node Lab](Project_022888/README.md) |
+| 022889 | [Java: Automation — Reporting for Two-Node Lab](Project_022889/README.md) |
+| 022890 | [Java: Automation — Usability Improvement for Two-Node Lab](Project_022890/README.md) |
+| 022891 | [Java: Automation — Baseline Setup for Help Desk](Project_022891/README.md) |
+| 022892 | [Java: Automation — Automation for Help Desk](Project_022892/README.md) |
+| 022893 | [Java: Automation — Recovery for Help Desk](Project_022893/README.md) |
+| 022894 | [Java: Automation — Reporting for Help Desk](Project_022894/README.md) |
+| 022895 | [Java: Automation — Usability Improvement for Help Desk](Project_022895/README.md) |
+| 022896 | [Java: Automation — Baseline Setup for Portfolio Demo](Project_022896/README.md) |
+| 022897 | [Java: Automation — Automation for Portfolio Demo](Project_022897/README.md) |
+| 022898 | [Java: Automation — Recovery for Portfolio Demo](Project_022898/README.md) |
+| 022899 | [Java: Automation — Reporting for Portfolio Demo](Project_022899/README.md) |
+| 022900 | [Java: Automation — Usability Improvement for Portfolio Demo](Project_022900/README.md) |
 
 [Back to the portfolio home](../README.md)
