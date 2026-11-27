@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045118 | [Redis: Audit — Recovery for Public Dataset](Project_045118/README.md) |
 | 045119 | [Redis: Audit — Reporting for Public Dataset](Project_045119/README.md) |
 | 045120 | [Redis: Audit — Usability Improvement for Public Dataset](Project_045120/README.md) |
+| 045121 | [Redis: Audit — Baseline Setup for Branch Office Simulator](Project_045121/README.md) |
+| 045122 | [Redis: Audit — Automation for Branch Office Simulator](Project_045122/README.md) |
+| 045123 | [Redis: Audit — Recovery for Branch Office Simulator](Project_045123/README.md) |
+| 045124 | [Redis: Audit — Reporting for Branch Office Simulator](Project_045124/README.md) |
+| 045125 | [Redis: Audit — Usability Improvement for Branch Office Simulator](Project_045125/README.md) |
+| 045126 | [Redis: Audit — Baseline Setup for Offline Classroom](Project_045126/README.md) |
+| 045127 | [Redis: Audit — Automation for Offline Classroom](Project_045127/README.md) |
+| 045128 | [Redis: Audit — Recovery for Offline Classroom](Project_045128/README.md) |
+| 045129 | [Redis: Audit — Reporting for Offline Classroom](Project_045129/README.md) |
+| 045130 | [Redis: Audit — Usability Improvement for Offline Classroom](Project_045130/README.md) |
+| 045131 | [Redis: Audit — Baseline Setup for Single-Host Lab](Project_045131/README.md) |
+| 045132 | [Redis: Audit — Automation for Single-Host Lab](Project_045132/README.md) |
+| 045133 | [Redis: Audit — Recovery for Single-Host Lab](Project_045133/README.md) |
+| 045134 | [Redis: Audit — Reporting for Single-Host Lab](Project_045134/README.md) |
+| 045135 | [Redis: Audit — Usability Improvement for Single-Host Lab](Project_045135/README.md) |
+| 045136 | [Redis: Audit — Baseline Setup for Two-Node Lab](Project_045136/README.md) |
+| 045137 | [Redis: Audit — Automation for Two-Node Lab](Project_045137/README.md) |
+| 045138 | [Redis: Audit — Recovery for Two-Node Lab](Project_045138/README.md) |
+| 045139 | [Redis: Audit — Reporting for Two-Node Lab](Project_045139/README.md) |
+| 045140 | [Redis: Audit — Usability Improvement for Two-Node Lab](Project_045140/README.md) |
 
 [Back to the portfolio home](../README.md)
