@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045898 | [Redis: Automation — Recovery for Portfolio Demo](Project_045898/README.md) |
 | 045899 | [Redis: Automation — Reporting for Portfolio Demo](Project_045899/README.md) |
 | 045900 | [Redis: Automation — Usability Improvement for Portfolio Demo](Project_045900/README.md) |
+| 045901 | [Redis: Visual Reporting — Baseline Setup for School Lab](Project_045901/README.md) |
+| 045902 | [Redis: Visual Reporting — Automation for School Lab](Project_045902/README.md) |
+| 045903 | [Redis: Visual Reporting — Recovery for School Lab](Project_045903/README.md) |
+| 045904 | [Redis: Visual Reporting — Reporting for School Lab](Project_045904/README.md) |
+| 045905 | [Redis: Visual Reporting — Usability Improvement for School Lab](Project_045905/README.md) |
+| 045906 | [Redis: Visual Reporting — Baseline Setup for Small Business](Project_045906/README.md) |
+| 045907 | [Redis: Visual Reporting — Automation for Small Business](Project_045907/README.md) |
+| 045908 | [Redis: Visual Reporting — Recovery for Small Business](Project_045908/README.md) |
+| 045909 | [Redis: Visual Reporting — Reporting for Small Business](Project_045909/README.md) |
+| 045910 | [Redis: Visual Reporting — Usability Improvement for Small Business](Project_045910/README.md) |
+| 045911 | [Redis: Visual Reporting — Baseline Setup for Home Development](Project_045911/README.md) |
+| 045912 | [Redis: Visual Reporting — Automation for Home Development](Project_045912/README.md) |
+| 045913 | [Redis: Visual Reporting — Recovery for Home Development](Project_045913/README.md) |
+| 045914 | [Redis: Visual Reporting — Reporting for Home Development](Project_045914/README.md) |
+| 045915 | [Redis: Visual Reporting — Usability Improvement for Home Development](Project_045915/README.md) |
+| 045916 | [Redis: Visual Reporting — Baseline Setup for Public Dataset](Project_045916/README.md) |
+| 045917 | [Redis: Visual Reporting — Automation for Public Dataset](Project_045917/README.md) |
+| 045918 | [Redis: Visual Reporting — Recovery for Public Dataset](Project_045918/README.md) |
+| 045919 | [Redis: Visual Reporting — Reporting for Public Dataset](Project_045919/README.md) |
+| 045920 | [Redis: Visual Reporting — Usability Improvement for Public Dataset](Project_045920/README.md) |
 
 [Back to the portfolio home](../README.md)
