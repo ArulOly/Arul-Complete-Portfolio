@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025678 | [PostgreSQL: Configuration Comparison — Recovery for Offline Classroom](Project_025678/README.md) |
 | 025679 | [PostgreSQL: Configuration Comparison — Reporting for Offline Classroom](Project_025679/README.md) |
 | 025680 | [PostgreSQL: Configuration Comparison — Usability Improvement for Offline Classroom](Project_025680/README.md) |
+| 025681 | [PostgreSQL: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_025681/README.md) |
+| 025682 | [PostgreSQL: Configuration Comparison — Automation for Single-Host Lab](Project_025682/README.md) |
+| 025683 | [PostgreSQL: Configuration Comparison — Recovery for Single-Host Lab](Project_025683/README.md) |
+| 025684 | [PostgreSQL: Configuration Comparison — Reporting for Single-Host Lab](Project_025684/README.md) |
+| 025685 | [PostgreSQL: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_025685/README.md) |
+| 025686 | [PostgreSQL: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_025686/README.md) |
+| 025687 | [PostgreSQL: Configuration Comparison — Automation for Two-Node Lab](Project_025687/README.md) |
+| 025688 | [PostgreSQL: Configuration Comparison — Recovery for Two-Node Lab](Project_025688/README.md) |
+| 025689 | [PostgreSQL: Configuration Comparison — Reporting for Two-Node Lab](Project_025689/README.md) |
+| 025690 | [PostgreSQL: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_025690/README.md) |
+| 025691 | [PostgreSQL: Configuration Comparison — Baseline Setup for Help Desk](Project_025691/README.md) |
+| 025692 | [PostgreSQL: Configuration Comparison — Automation for Help Desk](Project_025692/README.md) |
+| 025693 | [PostgreSQL: Configuration Comparison — Recovery for Help Desk](Project_025693/README.md) |
+| 025694 | [PostgreSQL: Configuration Comparison — Reporting for Help Desk](Project_025694/README.md) |
+| 025695 | [PostgreSQL: Configuration Comparison — Usability Improvement for Help Desk](Project_025695/README.md) |
+| 025696 | [PostgreSQL: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_025696/README.md) |
+| 025697 | [PostgreSQL: Configuration Comparison — Automation for Portfolio Demo](Project_025697/README.md) |
+| 025698 | [PostgreSQL: Configuration Comparison — Recovery for Portfolio Demo](Project_025698/README.md) |
+| 025699 | [PostgreSQL: Configuration Comparison — Reporting for Portfolio Demo](Project_025699/README.md) |
+| 025700 | [PostgreSQL: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_025700/README.md) |
 
 [Back to the portfolio home](../README.md)
