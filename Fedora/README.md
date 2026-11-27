@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004918 | [Fedora: Visual Reporting — Recovery for Public Dataset](Project_004918/README.md) |
 | 004919 | [Fedora: Visual Reporting — Reporting for Public Dataset](Project_004919/README.md) |
 | 004920 | [Fedora: Visual Reporting — Usability Improvement for Public Dataset](Project_004920/README.md) |
+| 004921 | [Fedora: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_004921/README.md) |
+| 004922 | [Fedora: Visual Reporting — Automation for Branch Office Simulator](Project_004922/README.md) |
+| 004923 | [Fedora: Visual Reporting — Recovery for Branch Office Simulator](Project_004923/README.md) |
+| 004924 | [Fedora: Visual Reporting — Reporting for Branch Office Simulator](Project_004924/README.md) |
+| 004925 | [Fedora: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_004925/README.md) |
+| 004926 | [Fedora: Visual Reporting — Baseline Setup for Offline Classroom](Project_004926/README.md) |
+| 004927 | [Fedora: Visual Reporting — Automation for Offline Classroom](Project_004927/README.md) |
+| 004928 | [Fedora: Visual Reporting — Recovery for Offline Classroom](Project_004928/README.md) |
+| 004929 | [Fedora: Visual Reporting — Reporting for Offline Classroom](Project_004929/README.md) |
+| 004930 | [Fedora: Visual Reporting — Usability Improvement for Offline Classroom](Project_004930/README.md) |
+| 004931 | [Fedora: Visual Reporting — Baseline Setup for Single-Host Lab](Project_004931/README.md) |
+| 004932 | [Fedora: Visual Reporting — Automation for Single-Host Lab](Project_004932/README.md) |
+| 004933 | [Fedora: Visual Reporting — Recovery for Single-Host Lab](Project_004933/README.md) |
+| 004934 | [Fedora: Visual Reporting — Reporting for Single-Host Lab](Project_004934/README.md) |
+| 004935 | [Fedora: Visual Reporting — Usability Improvement for Single-Host Lab](Project_004935/README.md) |
+| 004936 | [Fedora: Visual Reporting — Baseline Setup for Two-Node Lab](Project_004936/README.md) |
+| 004937 | [Fedora: Visual Reporting — Automation for Two-Node Lab](Project_004937/README.md) |
+| 004938 | [Fedora: Visual Reporting — Recovery for Two-Node Lab](Project_004938/README.md) |
+| 004939 | [Fedora: Visual Reporting — Reporting for Two-Node Lab](Project_004939/README.md) |
+| 004940 | [Fedora: Visual Reporting — Usability Improvement for Two-Node Lab](Project_004940/README.md) |
 
 [Back to the portfolio home](../README.md)
