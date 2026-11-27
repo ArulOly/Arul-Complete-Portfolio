@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002858 | [Ubuntu: Automation — Recovery for Small Business](Project_002858/README.md) |
 | 002859 | [Ubuntu: Automation — Reporting for Small Business](Project_002859/README.md) |
 | 002860 | [Ubuntu: Automation — Usability Improvement for Small Business](Project_002860/README.md) |
+| 002861 | [Ubuntu: Automation — Baseline Setup for Home Development](Project_002861/README.md) |
+| 002862 | [Ubuntu: Automation — Automation for Home Development](Project_002862/README.md) |
+| 002863 | [Ubuntu: Automation — Recovery for Home Development](Project_002863/README.md) |
+| 002864 | [Ubuntu: Automation — Reporting for Home Development](Project_002864/README.md) |
+| 002865 | [Ubuntu: Automation — Usability Improvement for Home Development](Project_002865/README.md) |
+| 002866 | [Ubuntu: Automation — Baseline Setup for Public Dataset](Project_002866/README.md) |
+| 002867 | [Ubuntu: Automation — Automation for Public Dataset](Project_002867/README.md) |
+| 002868 | [Ubuntu: Automation — Recovery for Public Dataset](Project_002868/README.md) |
+| 002869 | [Ubuntu: Automation — Reporting for Public Dataset](Project_002869/README.md) |
+| 002870 | [Ubuntu: Automation — Usability Improvement for Public Dataset](Project_002870/README.md) |
+| 002871 | [Ubuntu: Automation — Baseline Setup for Branch Office Simulator](Project_002871/README.md) |
+| 002872 | [Ubuntu: Automation — Automation for Branch Office Simulator](Project_002872/README.md) |
+| 002873 | [Ubuntu: Automation — Recovery for Branch Office Simulator](Project_002873/README.md) |
+| 002874 | [Ubuntu: Automation — Reporting for Branch Office Simulator](Project_002874/README.md) |
+| 002875 | [Ubuntu: Automation — Usability Improvement for Branch Office Simulator](Project_002875/README.md) |
+| 002876 | [Ubuntu: Automation — Baseline Setup for Offline Classroom](Project_002876/README.md) |
+| 002877 | [Ubuntu: Automation — Automation for Offline Classroom](Project_002877/README.md) |
+| 002878 | [Ubuntu: Automation — Recovery for Offline Classroom](Project_002878/README.md) |
+| 002879 | [Ubuntu: Automation — Reporting for Offline Classroom](Project_002879/README.md) |
+| 002880 | [Ubuntu: Automation — Usability Improvement for Offline Classroom](Project_002880/README.md) |
 
 [Back to the portfolio home](../README.md)
