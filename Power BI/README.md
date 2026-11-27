@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032538 | [Power BI: Access Review — Recovery for Two-Node Lab](Project_032538/README.md) |
 | 032539 | [Power BI: Access Review — Reporting for Two-Node Lab](Project_032539/README.md) |
 | 032540 | [Power BI: Access Review — Usability Improvement for Two-Node Lab](Project_032540/README.md) |
+| 032541 | [Power BI: Access Review — Baseline Setup for Help Desk](Project_032541/README.md) |
+| 032542 | [Power BI: Access Review — Automation for Help Desk](Project_032542/README.md) |
+| 032543 | [Power BI: Access Review — Recovery for Help Desk](Project_032543/README.md) |
+| 032544 | [Power BI: Access Review — Reporting for Help Desk](Project_032544/README.md) |
+| 032545 | [Power BI: Access Review — Usability Improvement for Help Desk](Project_032545/README.md) |
+| 032546 | [Power BI: Access Review — Baseline Setup for Portfolio Demo](Project_032546/README.md) |
+| 032547 | [Power BI: Access Review — Automation for Portfolio Demo](Project_032547/README.md) |
+| 032548 | [Power BI: Access Review — Recovery for Portfolio Demo](Project_032548/README.md) |
+| 032549 | [Power BI: Access Review — Reporting for Portfolio Demo](Project_032549/README.md) |
+| 032550 | [Power BI: Access Review — Usability Improvement for Portfolio Demo](Project_032550/README.md) |
+| 032551 | [Power BI: Performance Baseline — Baseline Setup for School Lab](Project_032551/README.md) |
+| 032552 | [Power BI: Performance Baseline — Automation for School Lab](Project_032552/README.md) |
+| 032553 | [Power BI: Performance Baseline — Recovery for School Lab](Project_032553/README.md) |
+| 032554 | [Power BI: Performance Baseline — Reporting for School Lab](Project_032554/README.md) |
+| 032555 | [Power BI: Performance Baseline — Usability Improvement for School Lab](Project_032555/README.md) |
+| 032556 | [Power BI: Performance Baseline — Baseline Setup for Small Business](Project_032556/README.md) |
+| 032557 | [Power BI: Performance Baseline — Automation for Small Business](Project_032557/README.md) |
+| 032558 | [Power BI: Performance Baseline — Recovery for Small Business](Project_032558/README.md) |
+| 032559 | [Power BI: Performance Baseline — Reporting for Small Business](Project_032559/README.md) |
+| 032560 | [Power BI: Performance Baseline — Usability Improvement for Small Business](Project_032560/README.md) |
 
 [Back to the portfolio home](../README.md)
