@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048198 | [Flask: Log Analysis — Recovery for Portfolio Demo](Project_048198/README.md) |
 | 048199 | [Flask: Log Analysis — Reporting for Portfolio Demo](Project_048199/README.md) |
 | 048200 | [Flask: Log Analysis — Usability Improvement for Portfolio Demo](Project_048200/README.md) |
+| 048201 | [Flask: Backup Verification — Baseline Setup for School Lab](Project_048201/README.md) |
+| 048202 | [Flask: Backup Verification — Automation for School Lab](Project_048202/README.md) |
+| 048203 | [Flask: Backup Verification — Recovery for School Lab](Project_048203/README.md) |
+| 048204 | [Flask: Backup Verification — Reporting for School Lab](Project_048204/README.md) |
+| 048205 | [Flask: Backup Verification — Usability Improvement for School Lab](Project_048205/README.md) |
+| 048206 | [Flask: Backup Verification — Baseline Setup for Small Business](Project_048206/README.md) |
+| 048207 | [Flask: Backup Verification — Automation for Small Business](Project_048207/README.md) |
+| 048208 | [Flask: Backup Verification — Recovery for Small Business](Project_048208/README.md) |
+| 048209 | [Flask: Backup Verification — Reporting for Small Business](Project_048209/README.md) |
+| 048210 | [Flask: Backup Verification — Usability Improvement for Small Business](Project_048210/README.md) |
+| 048211 | [Flask: Backup Verification — Baseline Setup for Home Development](Project_048211/README.md) |
+| 048212 | [Flask: Backup Verification — Automation for Home Development](Project_048212/README.md) |
+| 048213 | [Flask: Backup Verification — Recovery for Home Development](Project_048213/README.md) |
+| 048214 | [Flask: Backup Verification — Reporting for Home Development](Project_048214/README.md) |
+| 048215 | [Flask: Backup Verification — Usability Improvement for Home Development](Project_048215/README.md) |
+| 048216 | [Flask: Backup Verification — Baseline Setup for Public Dataset](Project_048216/README.md) |
+| 048217 | [Flask: Backup Verification — Automation for Public Dataset](Project_048217/README.md) |
+| 048218 | [Flask: Backup Verification — Recovery for Public Dataset](Project_048218/README.md) |
+| 048219 | [Flask: Backup Verification — Reporting for Public Dataset](Project_048219/README.md) |
+| 048220 | [Flask: Backup Verification — Usability Improvement for Public Dataset](Project_048220/README.md) |
 
 [Back to the portfolio home](../README.md)
