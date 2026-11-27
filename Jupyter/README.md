@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033858 | [Jupyter: Automation — Recovery for Small Business](Project_033858/README.md) |
 | 033859 | [Jupyter: Automation — Reporting for Small Business](Project_033859/README.md) |
 | 033860 | [Jupyter: Automation — Usability Improvement for Small Business](Project_033860/README.md) |
+| 033861 | [Jupyter: Automation — Baseline Setup for Home Development](Project_033861/README.md) |
+| 033862 | [Jupyter: Automation — Automation for Home Development](Project_033862/README.md) |
+| 033863 | [Jupyter: Automation — Recovery for Home Development](Project_033863/README.md) |
+| 033864 | [Jupyter: Automation — Reporting for Home Development](Project_033864/README.md) |
+| 033865 | [Jupyter: Automation — Usability Improvement for Home Development](Project_033865/README.md) |
+| 033866 | [Jupyter: Automation — Baseline Setup for Public Dataset](Project_033866/README.md) |
+| 033867 | [Jupyter: Automation — Automation for Public Dataset](Project_033867/README.md) |
+| 033868 | [Jupyter: Automation — Recovery for Public Dataset](Project_033868/README.md) |
+| 033869 | [Jupyter: Automation — Reporting for Public Dataset](Project_033869/README.md) |
+| 033870 | [Jupyter: Automation — Usability Improvement for Public Dataset](Project_033870/README.md) |
+| 033871 | [Jupyter: Automation — Baseline Setup for Branch Office Simulator](Project_033871/README.md) |
+| 033872 | [Jupyter: Automation — Automation for Branch Office Simulator](Project_033872/README.md) |
+| 033873 | [Jupyter: Automation — Recovery for Branch Office Simulator](Project_033873/README.md) |
+| 033874 | [Jupyter: Automation — Reporting for Branch Office Simulator](Project_033874/README.md) |
+| 033875 | [Jupyter: Automation — Usability Improvement for Branch Office Simulator](Project_033875/README.md) |
+| 033876 | [Jupyter: Automation — Baseline Setup for Offline Classroom](Project_033876/README.md) |
+| 033877 | [Jupyter: Automation — Automation for Offline Classroom](Project_033877/README.md) |
+| 033878 | [Jupyter: Automation — Recovery for Offline Classroom](Project_033878/README.md) |
+| 033879 | [Jupyter: Automation — Reporting for Offline Classroom](Project_033879/README.md) |
+| 033880 | [Jupyter: Automation — Usability Improvement for Offline Classroom](Project_033880/README.md) |
 
 [Back to the portfolio home](../README.md)
