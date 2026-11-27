@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049498 | [FastAPI: Scheduled Reporting — Recovery for Portfolio Demo](Project_049498/README.md) |
 | 049499 | [FastAPI: Scheduled Reporting — Reporting for Portfolio Demo](Project_049499/README.md) |
 | 049500 | [FastAPI: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_049500/README.md) |
+| 049501 | [FastAPI: Access Review — Baseline Setup for School Lab](Project_049501/README.md) |
+| 049502 | [FastAPI: Access Review — Automation for School Lab](Project_049502/README.md) |
+| 049503 | [FastAPI: Access Review — Recovery for School Lab](Project_049503/README.md) |
+| 049504 | [FastAPI: Access Review — Reporting for School Lab](Project_049504/README.md) |
+| 049505 | [FastAPI: Access Review — Usability Improvement for School Lab](Project_049505/README.md) |
+| 049506 | [FastAPI: Access Review — Baseline Setup for Small Business](Project_049506/README.md) |
+| 049507 | [FastAPI: Access Review — Automation for Small Business](Project_049507/README.md) |
+| 049508 | [FastAPI: Access Review — Recovery for Small Business](Project_049508/README.md) |
+| 049509 | [FastAPI: Access Review — Reporting for Small Business](Project_049509/README.md) |
+| 049510 | [FastAPI: Access Review — Usability Improvement for Small Business](Project_049510/README.md) |
+| 049511 | [FastAPI: Access Review — Baseline Setup for Home Development](Project_049511/README.md) |
+| 049512 | [FastAPI: Access Review — Automation for Home Development](Project_049512/README.md) |
+| 049513 | [FastAPI: Access Review — Recovery for Home Development](Project_049513/README.md) |
+| 049514 | [FastAPI: Access Review — Reporting for Home Development](Project_049514/README.md) |
+| 049515 | [FastAPI: Access Review — Usability Improvement for Home Development](Project_049515/README.md) |
+| 049516 | [FastAPI: Access Review — Baseline Setup for Public Dataset](Project_049516/README.md) |
+| 049517 | [FastAPI: Access Review — Automation for Public Dataset](Project_049517/README.md) |
+| 049518 | [FastAPI: Access Review — Recovery for Public Dataset](Project_049518/README.md) |
+| 049519 | [FastAPI: Access Review — Reporting for Public Dataset](Project_049519/README.md) |
+| 049520 | [FastAPI: Access Review — Usability Improvement for Public Dataset](Project_049520/README.md) |
 
 [Back to the portfolio home](../README.md)
