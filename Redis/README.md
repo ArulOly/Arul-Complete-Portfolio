@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045178 | [Redis: Log Analysis — Recovery for Offline Classroom](Project_045178/README.md) |
 | 045179 | [Redis: Log Analysis — Reporting for Offline Classroom](Project_045179/README.md) |
 | 045180 | [Redis: Log Analysis — Usability Improvement for Offline Classroom](Project_045180/README.md) |
+| 045181 | [Redis: Log Analysis — Baseline Setup for Single-Host Lab](Project_045181/README.md) |
+| 045182 | [Redis: Log Analysis — Automation for Single-Host Lab](Project_045182/README.md) |
+| 045183 | [Redis: Log Analysis — Recovery for Single-Host Lab](Project_045183/README.md) |
+| 045184 | [Redis: Log Analysis — Reporting for Single-Host Lab](Project_045184/README.md) |
+| 045185 | [Redis: Log Analysis — Usability Improvement for Single-Host Lab](Project_045185/README.md) |
+| 045186 | [Redis: Log Analysis — Baseline Setup for Two-Node Lab](Project_045186/README.md) |
+| 045187 | [Redis: Log Analysis — Automation for Two-Node Lab](Project_045187/README.md) |
+| 045188 | [Redis: Log Analysis — Recovery for Two-Node Lab](Project_045188/README.md) |
+| 045189 | [Redis: Log Analysis — Reporting for Two-Node Lab](Project_045189/README.md) |
+| 045190 | [Redis: Log Analysis — Usability Improvement for Two-Node Lab](Project_045190/README.md) |
+| 045191 | [Redis: Log Analysis — Baseline Setup for Help Desk](Project_045191/README.md) |
+| 045192 | [Redis: Log Analysis — Automation for Help Desk](Project_045192/README.md) |
+| 045193 | [Redis: Log Analysis — Recovery for Help Desk](Project_045193/README.md) |
+| 045194 | [Redis: Log Analysis — Reporting for Help Desk](Project_045194/README.md) |
+| 045195 | [Redis: Log Analysis — Usability Improvement for Help Desk](Project_045195/README.md) |
+| 045196 | [Redis: Log Analysis — Baseline Setup for Portfolio Demo](Project_045196/README.md) |
+| 045197 | [Redis: Log Analysis — Automation for Portfolio Demo](Project_045197/README.md) |
+| 045198 | [Redis: Log Analysis — Recovery for Portfolio Demo](Project_045198/README.md) |
+| 045199 | [Redis: Log Analysis — Reporting for Portfolio Demo](Project_045199/README.md) |
+| 045200 | [Redis: Log Analysis — Usability Improvement for Portfolio Demo](Project_045200/README.md) |
 
 [Back to the portfolio home](../README.md)
