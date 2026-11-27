@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020618 | [JavaScript: Service Check — Recovery for Public Dataset](Project_020618/README.md) |
 | 020619 | [JavaScript: Service Check — Reporting for Public Dataset](Project_020619/README.md) |
 | 020620 | [JavaScript: Service Check — Usability Improvement for Public Dataset](Project_020620/README.md) |
+| 020621 | [JavaScript: Service Check — Baseline Setup for Branch Office Simulator](Project_020621/README.md) |
+| 020622 | [JavaScript: Service Check — Automation for Branch Office Simulator](Project_020622/README.md) |
+| 020623 | [JavaScript: Service Check — Recovery for Branch Office Simulator](Project_020623/README.md) |
+| 020624 | [JavaScript: Service Check — Reporting for Branch Office Simulator](Project_020624/README.md) |
+| 020625 | [JavaScript: Service Check — Usability Improvement for Branch Office Simulator](Project_020625/README.md) |
+| 020626 | [JavaScript: Service Check — Baseline Setup for Offline Classroom](Project_020626/README.md) |
+| 020627 | [JavaScript: Service Check — Automation for Offline Classroom](Project_020627/README.md) |
+| 020628 | [JavaScript: Service Check — Recovery for Offline Classroom](Project_020628/README.md) |
+| 020629 | [JavaScript: Service Check — Reporting for Offline Classroom](Project_020629/README.md) |
+| 020630 | [JavaScript: Service Check — Usability Improvement for Offline Classroom](Project_020630/README.md) |
+| 020631 | [JavaScript: Service Check — Baseline Setup for Single-Host Lab](Project_020631/README.md) |
+| 020632 | [JavaScript: Service Check — Automation for Single-Host Lab](Project_020632/README.md) |
+| 020633 | [JavaScript: Service Check — Recovery for Single-Host Lab](Project_020633/README.md) |
+| 020634 | [JavaScript: Service Check — Reporting for Single-Host Lab](Project_020634/README.md) |
+| 020635 | [JavaScript: Service Check — Usability Improvement for Single-Host Lab](Project_020635/README.md) |
+| 020636 | [JavaScript: Service Check — Baseline Setup for Two-Node Lab](Project_020636/README.md) |
+| 020637 | [JavaScript: Service Check — Automation for Two-Node Lab](Project_020637/README.md) |
+| 020638 | [JavaScript: Service Check — Recovery for Two-Node Lab](Project_020638/README.md) |
+| 020639 | [JavaScript: Service Check — Reporting for Two-Node Lab](Project_020639/README.md) |
+| 020640 | [JavaScript: Service Check — Usability Improvement for Two-Node Lab](Project_020640/README.md) |
 
 [Back to the portfolio home](../README.md)
