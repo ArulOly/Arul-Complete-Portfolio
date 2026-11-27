@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026458 | [MySQL: Scheduled Reporting — Recovery for Small Business](Project_026458/README.md) |
 | 026459 | [MySQL: Scheduled Reporting — Reporting for Small Business](Project_026459/README.md) |
 | 026460 | [MySQL: Scheduled Reporting — Usability Improvement for Small Business](Project_026460/README.md) |
+| 026461 | [MySQL: Scheduled Reporting — Baseline Setup for Home Development](Project_026461/README.md) |
+| 026462 | [MySQL: Scheduled Reporting — Automation for Home Development](Project_026462/README.md) |
+| 026463 | [MySQL: Scheduled Reporting — Recovery for Home Development](Project_026463/README.md) |
+| 026464 | [MySQL: Scheduled Reporting — Reporting for Home Development](Project_026464/README.md) |
+| 026465 | [MySQL: Scheduled Reporting — Usability Improvement for Home Development](Project_026465/README.md) |
+| 026466 | [MySQL: Scheduled Reporting — Baseline Setup for Public Dataset](Project_026466/README.md) |
+| 026467 | [MySQL: Scheduled Reporting — Automation for Public Dataset](Project_026467/README.md) |
+| 026468 | [MySQL: Scheduled Reporting — Recovery for Public Dataset](Project_026468/README.md) |
+| 026469 | [MySQL: Scheduled Reporting — Reporting for Public Dataset](Project_026469/README.md) |
+| 026470 | [MySQL: Scheduled Reporting — Usability Improvement for Public Dataset](Project_026470/README.md) |
+| 026471 | [MySQL: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_026471/README.md) |
+| 026472 | [MySQL: Scheduled Reporting — Automation for Branch Office Simulator](Project_026472/README.md) |
+| 026473 | [MySQL: Scheduled Reporting — Recovery for Branch Office Simulator](Project_026473/README.md) |
+| 026474 | [MySQL: Scheduled Reporting — Reporting for Branch Office Simulator](Project_026474/README.md) |
+| 026475 | [MySQL: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_026475/README.md) |
+| 026476 | [MySQL: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_026476/README.md) |
+| 026477 | [MySQL: Scheduled Reporting — Automation for Offline Classroom](Project_026477/README.md) |
+| 026478 | [MySQL: Scheduled Reporting — Recovery for Offline Classroom](Project_026478/README.md) |
+| 026479 | [MySQL: Scheduled Reporting — Reporting for Offline Classroom](Project_026479/README.md) |
+| 026480 | [MySQL: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_026480/README.md) |
 
 [Back to the portfolio home](../README.md)
