@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004558 | [Fedora: Performance Baseline — Recovery for Small Business](Project_004558/README.md) |
 | 004559 | [Fedora: Performance Baseline — Reporting for Small Business](Project_004559/README.md) |
 | 004560 | [Fedora: Performance Baseline — Usability Improvement for Small Business](Project_004560/README.md) |
+| 004561 | [Fedora: Performance Baseline — Baseline Setup for Home Development](Project_004561/README.md) |
+| 004562 | [Fedora: Performance Baseline — Automation for Home Development](Project_004562/README.md) |
+| 004563 | [Fedora: Performance Baseline — Recovery for Home Development](Project_004563/README.md) |
+| 004564 | [Fedora: Performance Baseline — Reporting for Home Development](Project_004564/README.md) |
+| 004565 | [Fedora: Performance Baseline — Usability Improvement for Home Development](Project_004565/README.md) |
+| 004566 | [Fedora: Performance Baseline — Baseline Setup for Public Dataset](Project_004566/README.md) |
+| 004567 | [Fedora: Performance Baseline — Automation for Public Dataset](Project_004567/README.md) |
+| 004568 | [Fedora: Performance Baseline — Recovery for Public Dataset](Project_004568/README.md) |
+| 004569 | [Fedora: Performance Baseline — Reporting for Public Dataset](Project_004569/README.md) |
+| 004570 | [Fedora: Performance Baseline — Usability Improvement for Public Dataset](Project_004570/README.md) |
+| 004571 | [Fedora: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_004571/README.md) |
+| 004572 | [Fedora: Performance Baseline — Automation for Branch Office Simulator](Project_004572/README.md) |
+| 004573 | [Fedora: Performance Baseline — Recovery for Branch Office Simulator](Project_004573/README.md) |
+| 004574 | [Fedora: Performance Baseline — Reporting for Branch Office Simulator](Project_004574/README.md) |
+| 004575 | [Fedora: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_004575/README.md) |
+| 004576 | [Fedora: Performance Baseline — Baseline Setup for Offline Classroom](Project_004576/README.md) |
+| 004577 | [Fedora: Performance Baseline — Automation for Offline Classroom](Project_004577/README.md) |
+| 004578 | [Fedora: Performance Baseline — Recovery for Offline Classroom](Project_004578/README.md) |
+| 004579 | [Fedora: Performance Baseline — Reporting for Offline Classroom](Project_004579/README.md) |
+| 004580 | [Fedora: Performance Baseline — Usability Improvement for Offline Classroom](Project_004580/README.md) |
 
 [Back to the portfolio home](../README.md)
