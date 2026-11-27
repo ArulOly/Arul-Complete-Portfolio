@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002958 | [Ubuntu: Recovery Test — Recovery for Small Business](Project_002958/README.md) |
 | 002959 | [Ubuntu: Recovery Test — Reporting for Small Business](Project_002959/README.md) |
 | 002960 | [Ubuntu: Recovery Test — Usability Improvement for Small Business](Project_002960/README.md) |
+| 002961 | [Ubuntu: Recovery Test — Baseline Setup for Home Development](Project_002961/README.md) |
+| 002962 | [Ubuntu: Recovery Test — Automation for Home Development](Project_002962/README.md) |
+| 002963 | [Ubuntu: Recovery Test — Recovery for Home Development](Project_002963/README.md) |
+| 002964 | [Ubuntu: Recovery Test — Reporting for Home Development](Project_002964/README.md) |
+| 002965 | [Ubuntu: Recovery Test — Usability Improvement for Home Development](Project_002965/README.md) |
+| 002966 | [Ubuntu: Recovery Test — Baseline Setup for Public Dataset](Project_002966/README.md) |
+| 002967 | [Ubuntu: Recovery Test — Automation for Public Dataset](Project_002967/README.md) |
+| 002968 | [Ubuntu: Recovery Test — Recovery for Public Dataset](Project_002968/README.md) |
+| 002969 | [Ubuntu: Recovery Test — Reporting for Public Dataset](Project_002969/README.md) |
+| 002970 | [Ubuntu: Recovery Test — Usability Improvement for Public Dataset](Project_002970/README.md) |
+| 002971 | [Ubuntu: Recovery Test — Baseline Setup for Branch Office Simulator](Project_002971/README.md) |
+| 002972 | [Ubuntu: Recovery Test — Automation for Branch Office Simulator](Project_002972/README.md) |
+| 002973 | [Ubuntu: Recovery Test — Recovery for Branch Office Simulator](Project_002973/README.md) |
+| 002974 | [Ubuntu: Recovery Test — Reporting for Branch Office Simulator](Project_002974/README.md) |
+| 002975 | [Ubuntu: Recovery Test — Usability Improvement for Branch Office Simulator](Project_002975/README.md) |
+| 002976 | [Ubuntu: Recovery Test — Baseline Setup for Offline Classroom](Project_002976/README.md) |
+| 002977 | [Ubuntu: Recovery Test — Automation for Offline Classroom](Project_002977/README.md) |
+| 002978 | [Ubuntu: Recovery Test — Recovery for Offline Classroom](Project_002978/README.md) |
+| 002979 | [Ubuntu: Recovery Test — Reporting for Offline Classroom](Project_002979/README.md) |
+| 002980 | [Ubuntu: Recovery Test — Usability Improvement for Offline Classroom](Project_002980/README.md) |
 
 [Back to the portfolio home](../README.md)
