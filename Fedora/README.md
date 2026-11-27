@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004538 | [Fedora: Access Review — Recovery for Two-Node Lab](Project_004538/README.md) |
 | 004539 | [Fedora: Access Review — Reporting for Two-Node Lab](Project_004539/README.md) |
 | 004540 | [Fedora: Access Review — Usability Improvement for Two-Node Lab](Project_004540/README.md) |
+| 004541 | [Fedora: Access Review — Baseline Setup for Help Desk](Project_004541/README.md) |
+| 004542 | [Fedora: Access Review — Automation for Help Desk](Project_004542/README.md) |
+| 004543 | [Fedora: Access Review — Recovery for Help Desk](Project_004543/README.md) |
+| 004544 | [Fedora: Access Review — Reporting for Help Desk](Project_004544/README.md) |
+| 004545 | [Fedora: Access Review — Usability Improvement for Help Desk](Project_004545/README.md) |
+| 004546 | [Fedora: Access Review — Baseline Setup for Portfolio Demo](Project_004546/README.md) |
+| 004547 | [Fedora: Access Review — Automation for Portfolio Demo](Project_004547/README.md) |
+| 004548 | [Fedora: Access Review — Recovery for Portfolio Demo](Project_004548/README.md) |
+| 004549 | [Fedora: Access Review — Reporting for Portfolio Demo](Project_004549/README.md) |
+| 004550 | [Fedora: Access Review — Usability Improvement for Portfolio Demo](Project_004550/README.md) |
+| 004551 | [Fedora: Performance Baseline — Baseline Setup for School Lab](Project_004551/README.md) |
+| 004552 | [Fedora: Performance Baseline — Automation for School Lab](Project_004552/README.md) |
+| 004553 | [Fedora: Performance Baseline — Recovery for School Lab](Project_004553/README.md) |
+| 004554 | [Fedora: Performance Baseline — Reporting for School Lab](Project_004554/README.md) |
+| 004555 | [Fedora: Performance Baseline — Usability Improvement for School Lab](Project_004555/README.md) |
+| 004556 | [Fedora: Performance Baseline — Baseline Setup for Small Business](Project_004556/README.md) |
+| 004557 | [Fedora: Performance Baseline — Automation for Small Business](Project_004557/README.md) |
+| 004558 | [Fedora: Performance Baseline — Recovery for Small Business](Project_004558/README.md) |
+| 004559 | [Fedora: Performance Baseline — Reporting for Small Business](Project_004559/README.md) |
+| 004560 | [Fedora: Performance Baseline — Usability Improvement for Small Business](Project_004560/README.md) |
 
 [Back to the portfolio home](../README.md)
