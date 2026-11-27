@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028298 | [SQLite: Data Import — Recovery for Portfolio Demo](Project_028298/README.md) |
 | 028299 | [SQLite: Data Import — Reporting for Portfolio Demo](Project_028299/README.md) |
 | 028300 | [SQLite: Data Import — Usability Improvement for Portfolio Demo](Project_028300/README.md) |
+| 028301 | [SQLite: Data Export — Baseline Setup for School Lab](Project_028301/README.md) |
+| 028302 | [SQLite: Data Export — Automation for School Lab](Project_028302/README.md) |
+| 028303 | [SQLite: Data Export — Recovery for School Lab](Project_028303/README.md) |
+| 028304 | [SQLite: Data Export — Reporting for School Lab](Project_028304/README.md) |
+| 028305 | [SQLite: Data Export — Usability Improvement for School Lab](Project_028305/README.md) |
+| 028306 | [SQLite: Data Export — Baseline Setup for Small Business](Project_028306/README.md) |
+| 028307 | [SQLite: Data Export — Automation for Small Business](Project_028307/README.md) |
+| 028308 | [SQLite: Data Export — Recovery for Small Business](Project_028308/README.md) |
+| 028309 | [SQLite: Data Export — Reporting for Small Business](Project_028309/README.md) |
+| 028310 | [SQLite: Data Export — Usability Improvement for Small Business](Project_028310/README.md) |
+| 028311 | [SQLite: Data Export — Baseline Setup for Home Development](Project_028311/README.md) |
+| 028312 | [SQLite: Data Export — Automation for Home Development](Project_028312/README.md) |
+| 028313 | [SQLite: Data Export — Recovery for Home Development](Project_028313/README.md) |
+| 028314 | [SQLite: Data Export — Reporting for Home Development](Project_028314/README.md) |
+| 028315 | [SQLite: Data Export — Usability Improvement for Home Development](Project_028315/README.md) |
+| 028316 | [SQLite: Data Export — Baseline Setup for Public Dataset](Project_028316/README.md) |
+| 028317 | [SQLite: Data Export — Automation for Public Dataset](Project_028317/README.md) |
+| 028318 | [SQLite: Data Export — Recovery for Public Dataset](Project_028318/README.md) |
+| 028319 | [SQLite: Data Export — Reporting for Public Dataset](Project_028319/README.md) |
+| 028320 | [SQLite: Data Export — Usability Improvement for Public Dataset](Project_028320/README.md) |
 
 [Back to the portfolio home](../README.md)
