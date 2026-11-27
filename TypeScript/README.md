@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021538 | [TypeScript: Access Review — Recovery for Two-Node Lab](Project_021538/README.md) |
 | 021539 | [TypeScript: Access Review — Reporting for Two-Node Lab](Project_021539/README.md) |
 | 021540 | [TypeScript: Access Review — Usability Improvement for Two-Node Lab](Project_021540/README.md) |
+| 021541 | [TypeScript: Access Review — Baseline Setup for Help Desk](Project_021541/README.md) |
+| 021542 | [TypeScript: Access Review — Automation for Help Desk](Project_021542/README.md) |
+| 021543 | [TypeScript: Access Review — Recovery for Help Desk](Project_021543/README.md) |
+| 021544 | [TypeScript: Access Review — Reporting for Help Desk](Project_021544/README.md) |
+| 021545 | [TypeScript: Access Review — Usability Improvement for Help Desk](Project_021545/README.md) |
+| 021546 | [TypeScript: Access Review — Baseline Setup for Portfolio Demo](Project_021546/README.md) |
+| 021547 | [TypeScript: Access Review — Automation for Portfolio Demo](Project_021547/README.md) |
+| 021548 | [TypeScript: Access Review — Recovery for Portfolio Demo](Project_021548/README.md) |
+| 021549 | [TypeScript: Access Review — Reporting for Portfolio Demo](Project_021549/README.md) |
+| 021550 | [TypeScript: Access Review — Usability Improvement for Portfolio Demo](Project_021550/README.md) |
+| 021551 | [TypeScript: Performance Baseline — Baseline Setup for School Lab](Project_021551/README.md) |
+| 021552 | [TypeScript: Performance Baseline — Automation for School Lab](Project_021552/README.md) |
+| 021553 | [TypeScript: Performance Baseline — Recovery for School Lab](Project_021553/README.md) |
+| 021554 | [TypeScript: Performance Baseline — Reporting for School Lab](Project_021554/README.md) |
+| 021555 | [TypeScript: Performance Baseline — Usability Improvement for School Lab](Project_021555/README.md) |
+| 021556 | [TypeScript: Performance Baseline — Baseline Setup for Small Business](Project_021556/README.md) |
+| 021557 | [TypeScript: Performance Baseline — Automation for Small Business](Project_021557/README.md) |
+| 021558 | [TypeScript: Performance Baseline — Recovery for Small Business](Project_021558/README.md) |
+| 021559 | [TypeScript: Performance Baseline — Reporting for Small Business](Project_021559/README.md) |
+| 021560 | [TypeScript: Performance Baseline — Usability Improvement for Small Business](Project_021560/README.md) |
 
 [Back to the portfolio home](../README.md)
