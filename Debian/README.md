@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003918 | [Debian: Visual Reporting — Recovery for Public Dataset](Project_003918/README.md) |
 | 003919 | [Debian: Visual Reporting — Reporting for Public Dataset](Project_003919/README.md) |
 | 003920 | [Debian: Visual Reporting — Usability Improvement for Public Dataset](Project_003920/README.md) |
+| 003921 | [Debian: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_003921/README.md) |
+| 003922 | [Debian: Visual Reporting — Automation for Branch Office Simulator](Project_003922/README.md) |
+| 003923 | [Debian: Visual Reporting — Recovery for Branch Office Simulator](Project_003923/README.md) |
+| 003924 | [Debian: Visual Reporting — Reporting for Branch Office Simulator](Project_003924/README.md) |
+| 003925 | [Debian: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_003925/README.md) |
+| 003926 | [Debian: Visual Reporting — Baseline Setup for Offline Classroom](Project_003926/README.md) |
+| 003927 | [Debian: Visual Reporting — Automation for Offline Classroom](Project_003927/README.md) |
+| 003928 | [Debian: Visual Reporting — Recovery for Offline Classroom](Project_003928/README.md) |
+| 003929 | [Debian: Visual Reporting — Reporting for Offline Classroom](Project_003929/README.md) |
+| 003930 | [Debian: Visual Reporting — Usability Improvement for Offline Classroom](Project_003930/README.md) |
+| 003931 | [Debian: Visual Reporting — Baseline Setup for Single-Host Lab](Project_003931/README.md) |
+| 003932 | [Debian: Visual Reporting — Automation for Single-Host Lab](Project_003932/README.md) |
+| 003933 | [Debian: Visual Reporting — Recovery for Single-Host Lab](Project_003933/README.md) |
+| 003934 | [Debian: Visual Reporting — Reporting for Single-Host Lab](Project_003934/README.md) |
+| 003935 | [Debian: Visual Reporting — Usability Improvement for Single-Host Lab](Project_003935/README.md) |
+| 003936 | [Debian: Visual Reporting — Baseline Setup for Two-Node Lab](Project_003936/README.md) |
+| 003937 | [Debian: Visual Reporting — Automation for Two-Node Lab](Project_003937/README.md) |
+| 003938 | [Debian: Visual Reporting — Recovery for Two-Node Lab](Project_003938/README.md) |
+| 003939 | [Debian: Visual Reporting — Reporting for Two-Node Lab](Project_003939/README.md) |
+| 003940 | [Debian: Visual Reporting — Usability Improvement for Two-Node Lab](Project_003940/README.md) |
 
 [Back to the portfolio home](../README.md)
