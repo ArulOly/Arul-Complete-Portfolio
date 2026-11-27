@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -284,5 +284,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019238 | [Python: Backup Verification — Recovery for Two-Node Lab](Project_019238/README.md) |
 | 019239 | [Python: Backup Verification — Reporting for Two-Node Lab](Project_019239/README.md) |
 | 019240 | [Python: Backup Verification — Usability Improvement for Two-Node Lab](Project_019240/README.md) |
+| 019241 | [Python: Backup Verification — Baseline Setup for Help Desk](Project_019241/README.md) |
+| 019242 | [Python: Backup Verification — Automation for Help Desk](Project_019242/README.md) |
+| 019243 | [Python: Backup Verification — Recovery for Help Desk](Project_019243/README.md) |
+| 019244 | [Python: Backup Verification — Reporting for Help Desk](Project_019244/README.md) |
+| 019245 | [Python: Backup Verification — Usability Improvement for Help Desk](Project_019245/README.md) |
+| 019246 | [Python: Backup Verification — Baseline Setup for Portfolio Demo](Project_019246/README.md) |
+| 019247 | [Python: Backup Verification — Automation for Portfolio Demo](Project_019247/README.md) |
+| 019248 | [Python: Backup Verification — Recovery for Portfolio Demo](Project_019248/README.md) |
+| 019249 | [Python: Backup Verification — Reporting for Portfolio Demo](Project_019249/README.md) |
+| 019250 | [Python: Backup Verification — Usability Improvement for Portfolio Demo](Project_019250/README.md) |
+| 019251 | [Python: Data Import — Baseline Setup for School Lab](Project_019251/README.md) |
+| 019252 | [Python: Data Import — Automation for School Lab](Project_019252/README.md) |
+| 019253 | [Python: Data Import — Recovery for School Lab](Project_019253/README.md) |
+| 019254 | [Python: Data Import — Reporting for School Lab](Project_019254/README.md) |
+| 019255 | [Python: Data Import — Usability Improvement for School Lab](Project_019255/README.md) |
+| 019256 | [Python: Data Import — Baseline Setup for Small Business](Project_019256/README.md) |
+| 019257 | [Python: Data Import — Automation for Small Business](Project_019257/README.md) |
+| 019258 | [Python: Data Import — Recovery for Small Business](Project_019258/README.md) |
+| 019259 | [Python: Data Import — Reporting for Small Business](Project_019259/README.md) |
+| 019260 | [Python: Data Import — Usability Improvement for Small Business](Project_019260/README.md) |
 
 [Back to the portfolio home](../README.md)
