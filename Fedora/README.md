@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004878 | [Fedora: Automation — Recovery for Offline Classroom](Project_004878/README.md) |
 | 004879 | [Fedora: Automation — Reporting for Offline Classroom](Project_004879/README.md) |
 | 004880 | [Fedora: Automation — Usability Improvement for Offline Classroom](Project_004880/README.md) |
+| 004881 | [Fedora: Automation — Baseline Setup for Single-Host Lab](Project_004881/README.md) |
+| 004882 | [Fedora: Automation — Automation for Single-Host Lab](Project_004882/README.md) |
+| 004883 | [Fedora: Automation — Recovery for Single-Host Lab](Project_004883/README.md) |
+| 004884 | [Fedora: Automation — Reporting for Single-Host Lab](Project_004884/README.md) |
+| 004885 | [Fedora: Automation — Usability Improvement for Single-Host Lab](Project_004885/README.md) |
+| 004886 | [Fedora: Automation — Baseline Setup for Two-Node Lab](Project_004886/README.md) |
+| 004887 | [Fedora: Automation — Automation for Two-Node Lab](Project_004887/README.md) |
+| 004888 | [Fedora: Automation — Recovery for Two-Node Lab](Project_004888/README.md) |
+| 004889 | [Fedora: Automation — Reporting for Two-Node Lab](Project_004889/README.md) |
+| 004890 | [Fedora: Automation — Usability Improvement for Two-Node Lab](Project_004890/README.md) |
+| 004891 | [Fedora: Automation — Baseline Setup for Help Desk](Project_004891/README.md) |
+| 004892 | [Fedora: Automation — Automation for Help Desk](Project_004892/README.md) |
+| 004893 | [Fedora: Automation — Recovery for Help Desk](Project_004893/README.md) |
+| 004894 | [Fedora: Automation — Reporting for Help Desk](Project_004894/README.md) |
+| 004895 | [Fedora: Automation — Usability Improvement for Help Desk](Project_004895/README.md) |
+| 004896 | [Fedora: Automation — Baseline Setup for Portfolio Demo](Project_004896/README.md) |
+| 004897 | [Fedora: Automation — Automation for Portfolio Demo](Project_004897/README.md) |
+| 004898 | [Fedora: Automation — Recovery for Portfolio Demo](Project_004898/README.md) |
+| 004899 | [Fedora: Automation — Reporting for Portfolio Demo](Project_004899/README.md) |
+| 004900 | [Fedora: Automation — Usability Improvement for Portfolio Demo](Project_004900/README.md) |
 
 [Back to the portfolio home](../README.md)
