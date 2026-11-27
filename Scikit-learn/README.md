@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034678 | [Scikit-learn: Configuration Comparison — Recovery for Offline Classroom](Project_034678/README.md) |
 | 034679 | [Scikit-learn: Configuration Comparison — Reporting for Offline Classroom](Project_034679/README.md) |
 | 034680 | [Scikit-learn: Configuration Comparison — Usability Improvement for Offline Classroom](Project_034680/README.md) |
+| 034681 | [Scikit-learn: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_034681/README.md) |
+| 034682 | [Scikit-learn: Configuration Comparison — Automation for Single-Host Lab](Project_034682/README.md) |
+| 034683 | [Scikit-learn: Configuration Comparison — Recovery for Single-Host Lab](Project_034683/README.md) |
+| 034684 | [Scikit-learn: Configuration Comparison — Reporting for Single-Host Lab](Project_034684/README.md) |
+| 034685 | [Scikit-learn: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_034685/README.md) |
+| 034686 | [Scikit-learn: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_034686/README.md) |
+| 034687 | [Scikit-learn: Configuration Comparison — Automation for Two-Node Lab](Project_034687/README.md) |
+| 034688 | [Scikit-learn: Configuration Comparison — Recovery for Two-Node Lab](Project_034688/README.md) |
+| 034689 | [Scikit-learn: Configuration Comparison — Reporting for Two-Node Lab](Project_034689/README.md) |
+| 034690 | [Scikit-learn: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_034690/README.md) |
+| 034691 | [Scikit-learn: Configuration Comparison — Baseline Setup for Help Desk](Project_034691/README.md) |
+| 034692 | [Scikit-learn: Configuration Comparison — Automation for Help Desk](Project_034692/README.md) |
+| 034693 | [Scikit-learn: Configuration Comparison — Recovery for Help Desk](Project_034693/README.md) |
+| 034694 | [Scikit-learn: Configuration Comparison — Reporting for Help Desk](Project_034694/README.md) |
+| 034695 | [Scikit-learn: Configuration Comparison — Usability Improvement for Help Desk](Project_034695/README.md) |
+| 034696 | [Scikit-learn: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_034696/README.md) |
+| 034697 | [Scikit-learn: Configuration Comparison — Automation for Portfolio Demo](Project_034697/README.md) |
+| 034698 | [Scikit-learn: Configuration Comparison — Recovery for Portfolio Demo](Project_034698/README.md) |
+| 034699 | [Scikit-learn: Configuration Comparison — Reporting for Portfolio Demo](Project_034699/README.md) |
+| 034700 | [Scikit-learn: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_034700/README.md) |
 
 [Back to the portfolio home](../README.md)
