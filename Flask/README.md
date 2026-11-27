@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048718 | [Flask: Error Handling — Recovery for Public Dataset](Project_048718/README.md) |
 | 048719 | [Flask: Error Handling — Reporting for Public Dataset](Project_048719/README.md) |
 | 048720 | [Flask: Error Handling — Usability Improvement for Public Dataset](Project_048720/README.md) |
+| 048721 | [Flask: Error Handling — Baseline Setup for Branch Office Simulator](Project_048721/README.md) |
+| 048722 | [Flask: Error Handling — Automation for Branch Office Simulator](Project_048722/README.md) |
+| 048723 | [Flask: Error Handling — Recovery for Branch Office Simulator](Project_048723/README.md) |
+| 048724 | [Flask: Error Handling — Reporting for Branch Office Simulator](Project_048724/README.md) |
+| 048725 | [Flask: Error Handling — Usability Improvement for Branch Office Simulator](Project_048725/README.md) |
+| 048726 | [Flask: Error Handling — Baseline Setup for Offline Classroom](Project_048726/README.md) |
+| 048727 | [Flask: Error Handling — Automation for Offline Classroom](Project_048727/README.md) |
+| 048728 | [Flask: Error Handling — Recovery for Offline Classroom](Project_048728/README.md) |
+| 048729 | [Flask: Error Handling — Reporting for Offline Classroom](Project_048729/README.md) |
+| 048730 | [Flask: Error Handling — Usability Improvement for Offline Classroom](Project_048730/README.md) |
+| 048731 | [Flask: Error Handling — Baseline Setup for Single-Host Lab](Project_048731/README.md) |
+| 048732 | [Flask: Error Handling — Automation for Single-Host Lab](Project_048732/README.md) |
+| 048733 | [Flask: Error Handling — Recovery for Single-Host Lab](Project_048733/README.md) |
+| 048734 | [Flask: Error Handling — Reporting for Single-Host Lab](Project_048734/README.md) |
+| 048735 | [Flask: Error Handling — Usability Improvement for Single-Host Lab](Project_048735/README.md) |
+| 048736 | [Flask: Error Handling — Baseline Setup for Two-Node Lab](Project_048736/README.md) |
+| 048737 | [Flask: Error Handling — Automation for Two-Node Lab](Project_048737/README.md) |
+| 048738 | [Flask: Error Handling — Recovery for Two-Node Lab](Project_048738/README.md) |
+| 048739 | [Flask: Error Handling — Reporting for Two-Node Lab](Project_048739/README.md) |
+| 048740 | [Flask: Error Handling — Usability Improvement for Two-Node Lab](Project_048740/README.md) |
 
 [Back to the portfolio home](../README.md)
