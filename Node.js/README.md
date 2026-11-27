@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024478 | [Node.js: Scheduled Reporting — Recovery for Offline Classroom](Project_024478/README.md) |
 | 024479 | [Node.js: Scheduled Reporting — Reporting for Offline Classroom](Project_024479/README.md) |
 | 024480 | [Node.js: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_024480/README.md) |
+| 024481 | [Node.js: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_024481/README.md) |
+| 024482 | [Node.js: Scheduled Reporting — Automation for Single-Host Lab](Project_024482/README.md) |
+| 024483 | [Node.js: Scheduled Reporting — Recovery for Single-Host Lab](Project_024483/README.md) |
+| 024484 | [Node.js: Scheduled Reporting — Reporting for Single-Host Lab](Project_024484/README.md) |
+| 024485 | [Node.js: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_024485/README.md) |
+| 024486 | [Node.js: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_024486/README.md) |
+| 024487 | [Node.js: Scheduled Reporting — Automation for Two-Node Lab](Project_024487/README.md) |
+| 024488 | [Node.js: Scheduled Reporting — Recovery for Two-Node Lab](Project_024488/README.md) |
+| 024489 | [Node.js: Scheduled Reporting — Reporting for Two-Node Lab](Project_024489/README.md) |
+| 024490 | [Node.js: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_024490/README.md) |
+| 024491 | [Node.js: Scheduled Reporting — Baseline Setup for Help Desk](Project_024491/README.md) |
+| 024492 | [Node.js: Scheduled Reporting — Automation for Help Desk](Project_024492/README.md) |
+| 024493 | [Node.js: Scheduled Reporting — Recovery for Help Desk](Project_024493/README.md) |
+| 024494 | [Node.js: Scheduled Reporting — Reporting for Help Desk](Project_024494/README.md) |
+| 024495 | [Node.js: Scheduled Reporting — Usability Improvement for Help Desk](Project_024495/README.md) |
+| 024496 | [Node.js: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_024496/README.md) |
+| 024497 | [Node.js: Scheduled Reporting — Automation for Portfolio Demo](Project_024497/README.md) |
+| 024498 | [Node.js: Scheduled Reporting — Recovery for Portfolio Demo](Project_024498/README.md) |
+| 024499 | [Node.js: Scheduled Reporting — Reporting for Portfolio Demo](Project_024499/README.md) |
+| 024500 | [Node.js: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_024500/README.md) |
 
 [Back to the portfolio home](../README.md)
