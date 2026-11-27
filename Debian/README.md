@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003498 | [Debian: Scheduled Reporting — Recovery for Portfolio Demo](Project_003498/README.md) |
 | 003499 | [Debian: Scheduled Reporting — Reporting for Portfolio Demo](Project_003499/README.md) |
 | 003500 | [Debian: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_003500/README.md) |
+| 003501 | [Debian: Access Review — Baseline Setup for School Lab](Project_003501/README.md) |
+| 003502 | [Debian: Access Review — Automation for School Lab](Project_003502/README.md) |
+| 003503 | [Debian: Access Review — Recovery for School Lab](Project_003503/README.md) |
+| 003504 | [Debian: Access Review — Reporting for School Lab](Project_003504/README.md) |
+| 003505 | [Debian: Access Review — Usability Improvement for School Lab](Project_003505/README.md) |
+| 003506 | [Debian: Access Review — Baseline Setup for Small Business](Project_003506/README.md) |
+| 003507 | [Debian: Access Review — Automation for Small Business](Project_003507/README.md) |
+| 003508 | [Debian: Access Review — Recovery for Small Business](Project_003508/README.md) |
+| 003509 | [Debian: Access Review — Reporting for Small Business](Project_003509/README.md) |
+| 003510 | [Debian: Access Review — Usability Improvement for Small Business](Project_003510/README.md) |
+| 003511 | [Debian: Access Review — Baseline Setup for Home Development](Project_003511/README.md) |
+| 003512 | [Debian: Access Review — Automation for Home Development](Project_003512/README.md) |
+| 003513 | [Debian: Access Review — Recovery for Home Development](Project_003513/README.md) |
+| 003514 | [Debian: Access Review — Reporting for Home Development](Project_003514/README.md) |
+| 003515 | [Debian: Access Review — Usability Improvement for Home Development](Project_003515/README.md) |
+| 003516 | [Debian: Access Review — Baseline Setup for Public Dataset](Project_003516/README.md) |
+| 003517 | [Debian: Access Review — Automation for Public Dataset](Project_003517/README.md) |
+| 003518 | [Debian: Access Review — Recovery for Public Dataset](Project_003518/README.md) |
+| 003519 | [Debian: Access Review — Reporting for Public Dataset](Project_003519/README.md) |
+| 003520 | [Debian: Access Review — Usability Improvement for Public Dataset](Project_003520/README.md) |
 
 [Back to the portfolio home](../README.md)
