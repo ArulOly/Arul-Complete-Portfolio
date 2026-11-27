@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021498 | [TypeScript: Scheduled Reporting — Recovery for Portfolio Demo](Project_021498/README.md) |
 | 021499 | [TypeScript: Scheduled Reporting — Reporting for Portfolio Demo](Project_021499/README.md) |
 | 021500 | [TypeScript: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_021500/README.md) |
+| 021501 | [TypeScript: Access Review — Baseline Setup for School Lab](Project_021501/README.md) |
+| 021502 | [TypeScript: Access Review — Automation for School Lab](Project_021502/README.md) |
+| 021503 | [TypeScript: Access Review — Recovery for School Lab](Project_021503/README.md) |
+| 021504 | [TypeScript: Access Review — Reporting for School Lab](Project_021504/README.md) |
+| 021505 | [TypeScript: Access Review — Usability Improvement for School Lab](Project_021505/README.md) |
+| 021506 | [TypeScript: Access Review — Baseline Setup for Small Business](Project_021506/README.md) |
+| 021507 | [TypeScript: Access Review — Automation for Small Business](Project_021507/README.md) |
+| 021508 | [TypeScript: Access Review — Recovery for Small Business](Project_021508/README.md) |
+| 021509 | [TypeScript: Access Review — Reporting for Small Business](Project_021509/README.md) |
+| 021510 | [TypeScript: Access Review — Usability Improvement for Small Business](Project_021510/README.md) |
+| 021511 | [TypeScript: Access Review — Baseline Setup for Home Development](Project_021511/README.md) |
+| 021512 | [TypeScript: Access Review — Automation for Home Development](Project_021512/README.md) |
+| 021513 | [TypeScript: Access Review — Recovery for Home Development](Project_021513/README.md) |
+| 021514 | [TypeScript: Access Review — Reporting for Home Development](Project_021514/README.md) |
+| 021515 | [TypeScript: Access Review — Usability Improvement for Home Development](Project_021515/README.md) |
+| 021516 | [TypeScript: Access Review — Baseline Setup for Public Dataset](Project_021516/README.md) |
+| 021517 | [TypeScript: Access Review — Automation for Public Dataset](Project_021517/README.md) |
+| 021518 | [TypeScript: Access Review — Recovery for Public Dataset](Project_021518/README.md) |
+| 021519 | [TypeScript: Access Review — Reporting for Public Dataset](Project_021519/README.md) |
+| 021520 | [TypeScript: Access Review — Usability Improvement for Public Dataset](Project_021520/README.md) |
 
 [Back to the portfolio home](../README.md)
