@@ -4,7 +4,7 @@ This portfolio contains guide-based Python exercises for local data processing, 
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -944,5 +944,25 @@ Python 3.10 or later and its standard library. The projects use JSON, CSV, Markd
 | 019898 | [Python: Automation — Recovery for Portfolio Demo](Project_019898/README.md) |
 | 019899 | [Python: Automation — Reporting for Portfolio Demo](Project_019899/README.md) |
 | 019900 | [Python: Automation — Usability Improvement for Portfolio Demo](Project_019900/README.md) |
+| 019901 | [Python: Visual Reporting — Baseline Setup for School Lab](Project_019901/README.md) |
+| 019902 | [Python: Visual Reporting — Automation for School Lab](Project_019902/README.md) |
+| 019903 | [Python: Visual Reporting — Recovery for School Lab](Project_019903/README.md) |
+| 019904 | [Python: Visual Reporting — Reporting for School Lab](Project_019904/README.md) |
+| 019905 | [Python: Visual Reporting — Usability Improvement for School Lab](Project_019905/README.md) |
+| 019906 | [Python: Visual Reporting — Baseline Setup for Small Business](Project_019906/README.md) |
+| 019907 | [Python: Visual Reporting — Automation for Small Business](Project_019907/README.md) |
+| 019908 | [Python: Visual Reporting — Recovery for Small Business](Project_019908/README.md) |
+| 019909 | [Python: Visual Reporting — Reporting for Small Business](Project_019909/README.md) |
+| 019910 | [Python: Visual Reporting — Usability Improvement for Small Business](Project_019910/README.md) |
+| 019911 | [Python: Visual Reporting — Baseline Setup for Home Development](Project_019911/README.md) |
+| 019912 | [Python: Visual Reporting — Automation for Home Development](Project_019912/README.md) |
+| 019913 | [Python: Visual Reporting — Recovery for Home Development](Project_019913/README.md) |
+| 019914 | [Python: Visual Reporting — Reporting for Home Development](Project_019914/README.md) |
+| 019915 | [Python: Visual Reporting — Usability Improvement for Home Development](Project_019915/README.md) |
+| 019916 | [Python: Visual Reporting — Baseline Setup for Public Dataset](Project_019916/README.md) |
+| 019917 | [Python: Visual Reporting — Automation for Public Dataset](Project_019917/README.md) |
+| 019918 | [Python: Visual Reporting — Recovery for Public Dataset](Project_019918/README.md) |
+| 019919 | [Python: Visual Reporting — Reporting for Public Dataset](Project_019919/README.md) |
+| 019920 | [Python: Visual Reporting — Usability Improvement for Public Dataset](Project_019920/README.md) |
 
 [Back to the portfolio home](../README.md)
