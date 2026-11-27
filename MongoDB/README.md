@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027678 | [MongoDB: Configuration Comparison — Recovery for Offline Classroom](Project_027678/README.md) |
 | 027679 | [MongoDB: Configuration Comparison — Reporting for Offline Classroom](Project_027679/README.md) |
 | 027680 | [MongoDB: Configuration Comparison — Usability Improvement for Offline Classroom](Project_027680/README.md) |
+| 027681 | [MongoDB: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_027681/README.md) |
+| 027682 | [MongoDB: Configuration Comparison — Automation for Single-Host Lab](Project_027682/README.md) |
+| 027683 | [MongoDB: Configuration Comparison — Recovery for Single-Host Lab](Project_027683/README.md) |
+| 027684 | [MongoDB: Configuration Comparison — Reporting for Single-Host Lab](Project_027684/README.md) |
+| 027685 | [MongoDB: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_027685/README.md) |
+| 027686 | [MongoDB: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_027686/README.md) |
+| 027687 | [MongoDB: Configuration Comparison — Automation for Two-Node Lab](Project_027687/README.md) |
+| 027688 | [MongoDB: Configuration Comparison — Recovery for Two-Node Lab](Project_027688/README.md) |
+| 027689 | [MongoDB: Configuration Comparison — Reporting for Two-Node Lab](Project_027689/README.md) |
+| 027690 | [MongoDB: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_027690/README.md) |
+| 027691 | [MongoDB: Configuration Comparison — Baseline Setup for Help Desk](Project_027691/README.md) |
+| 027692 | [MongoDB: Configuration Comparison — Automation for Help Desk](Project_027692/README.md) |
+| 027693 | [MongoDB: Configuration Comparison — Recovery for Help Desk](Project_027693/README.md) |
+| 027694 | [MongoDB: Configuration Comparison — Reporting for Help Desk](Project_027694/README.md) |
+| 027695 | [MongoDB: Configuration Comparison — Usability Improvement for Help Desk](Project_027695/README.md) |
+| 027696 | [MongoDB: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_027696/README.md) |
+| 027697 | [MongoDB: Configuration Comparison — Automation for Portfolio Demo](Project_027697/README.md) |
+| 027698 | [MongoDB: Configuration Comparison — Recovery for Portfolio Demo](Project_027698/README.md) |
+| 027699 | [MongoDB: Configuration Comparison — Reporting for Portfolio Demo](Project_027699/README.md) |
+| 027700 | [MongoDB: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_027700/README.md) |
 
 [Back to the portfolio home](../README.md)
