@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032478 | [Power BI: Scheduled Reporting — Recovery for Offline Classroom](Project_032478/README.md) |
 | 032479 | [Power BI: Scheduled Reporting — Reporting for Offline Classroom](Project_032479/README.md) |
 | 032480 | [Power BI: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_032480/README.md) |
+| 032481 | [Power BI: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_032481/README.md) |
+| 032482 | [Power BI: Scheduled Reporting — Automation for Single-Host Lab](Project_032482/README.md) |
+| 032483 | [Power BI: Scheduled Reporting — Recovery for Single-Host Lab](Project_032483/README.md) |
+| 032484 | [Power BI: Scheduled Reporting — Reporting for Single-Host Lab](Project_032484/README.md) |
+| 032485 | [Power BI: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_032485/README.md) |
+| 032486 | [Power BI: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_032486/README.md) |
+| 032487 | [Power BI: Scheduled Reporting — Automation for Two-Node Lab](Project_032487/README.md) |
+| 032488 | [Power BI: Scheduled Reporting — Recovery for Two-Node Lab](Project_032488/README.md) |
+| 032489 | [Power BI: Scheduled Reporting — Reporting for Two-Node Lab](Project_032489/README.md) |
+| 032490 | [Power BI: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_032490/README.md) |
+| 032491 | [Power BI: Scheduled Reporting — Baseline Setup for Help Desk](Project_032491/README.md) |
+| 032492 | [Power BI: Scheduled Reporting — Automation for Help Desk](Project_032492/README.md) |
+| 032493 | [Power BI: Scheduled Reporting — Recovery for Help Desk](Project_032493/README.md) |
+| 032494 | [Power BI: Scheduled Reporting — Reporting for Help Desk](Project_032494/README.md) |
+| 032495 | [Power BI: Scheduled Reporting — Usability Improvement for Help Desk](Project_032495/README.md) |
+| 032496 | [Power BI: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_032496/README.md) |
+| 032497 | [Power BI: Scheduled Reporting — Automation for Portfolio Demo](Project_032497/README.md) |
+| 032498 | [Power BI: Scheduled Reporting — Recovery for Portfolio Demo](Project_032498/README.md) |
+| 032499 | [Power BI: Scheduled Reporting — Reporting for Portfolio Demo](Project_032499/README.md) |
+| 032500 | [Power BI: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_032500/README.md) |
 
 [Back to the portfolio home](../README.md)
