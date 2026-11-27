@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003938 | [Debian: Visual Reporting — Recovery for Two-Node Lab](Project_003938/README.md) |
 | 003939 | [Debian: Visual Reporting — Reporting for Two-Node Lab](Project_003939/README.md) |
 | 003940 | [Debian: Visual Reporting — Usability Improvement for Two-Node Lab](Project_003940/README.md) |
+| 003941 | [Debian: Visual Reporting — Baseline Setup for Help Desk](Project_003941/README.md) |
+| 003942 | [Debian: Visual Reporting — Automation for Help Desk](Project_003942/README.md) |
+| 003943 | [Debian: Visual Reporting — Recovery for Help Desk](Project_003943/README.md) |
+| 003944 | [Debian: Visual Reporting — Reporting for Help Desk](Project_003944/README.md) |
+| 003945 | [Debian: Visual Reporting — Usability Improvement for Help Desk](Project_003945/README.md) |
+| 003946 | [Debian: Visual Reporting — Baseline Setup for Portfolio Demo](Project_003946/README.md) |
+| 003947 | [Debian: Visual Reporting — Automation for Portfolio Demo](Project_003947/README.md) |
+| 003948 | [Debian: Visual Reporting — Recovery for Portfolio Demo](Project_003948/README.md) |
+| 003949 | [Debian: Visual Reporting — Reporting for Portfolio Demo](Project_003949/README.md) |
+| 003950 | [Debian: Visual Reporting — Usability Improvement for Portfolio Demo](Project_003950/README.md) |
+| 003951 | [Debian: Recovery Test — Baseline Setup for School Lab](Project_003951/README.md) |
+| 003952 | [Debian: Recovery Test — Automation for School Lab](Project_003952/README.md) |
+| 003953 | [Debian: Recovery Test — Recovery for School Lab](Project_003953/README.md) |
+| 003954 | [Debian: Recovery Test — Reporting for School Lab](Project_003954/README.md) |
+| 003955 | [Debian: Recovery Test — Usability Improvement for School Lab](Project_003955/README.md) |
+| 003956 | [Debian: Recovery Test — Baseline Setup for Small Business](Project_003956/README.md) |
+| 003957 | [Debian: Recovery Test — Automation for Small Business](Project_003957/README.md) |
+| 003958 | [Debian: Recovery Test — Recovery for Small Business](Project_003958/README.md) |
+| 003959 | [Debian: Recovery Test — Reporting for Small Business](Project_003959/README.md) |
+| 003960 | [Debian: Recovery Test — Usability Improvement for Small Business](Project_003960/README.md) |
 
 [Back to the portfolio home](../README.md)
