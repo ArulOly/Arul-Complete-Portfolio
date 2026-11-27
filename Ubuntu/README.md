@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002158 | [Ubuntu: Log Analysis — Recovery for Small Business](Project_002158/README.md) |
 | 002159 | [Ubuntu: Log Analysis — Reporting for Small Business](Project_002159/README.md) |
 | 002160 | [Ubuntu: Log Analysis — Usability Improvement for Small Business](Project_002160/README.md) |
+| 002161 | [Ubuntu: Log Analysis — Baseline Setup for Home Development](Project_002161/README.md) |
+| 002162 | [Ubuntu: Log Analysis — Automation for Home Development](Project_002162/README.md) |
+| 002163 | [Ubuntu: Log Analysis — Recovery for Home Development](Project_002163/README.md) |
+| 002164 | [Ubuntu: Log Analysis — Reporting for Home Development](Project_002164/README.md) |
+| 002165 | [Ubuntu: Log Analysis — Usability Improvement for Home Development](Project_002165/README.md) |
+| 002166 | [Ubuntu: Log Analysis — Baseline Setup for Public Dataset](Project_002166/README.md) |
+| 002167 | [Ubuntu: Log Analysis — Automation for Public Dataset](Project_002167/README.md) |
+| 002168 | [Ubuntu: Log Analysis — Recovery for Public Dataset](Project_002168/README.md) |
+| 002169 | [Ubuntu: Log Analysis — Reporting for Public Dataset](Project_002169/README.md) |
+| 002170 | [Ubuntu: Log Analysis — Usability Improvement for Public Dataset](Project_002170/README.md) |
+| 002171 | [Ubuntu: Log Analysis — Baseline Setup for Branch Office Simulator](Project_002171/README.md) |
+| 002172 | [Ubuntu: Log Analysis — Automation for Branch Office Simulator](Project_002172/README.md) |
+| 002173 | [Ubuntu: Log Analysis — Recovery for Branch Office Simulator](Project_002173/README.md) |
+| 002174 | [Ubuntu: Log Analysis — Reporting for Branch Office Simulator](Project_002174/README.md) |
+| 002175 | [Ubuntu: Log Analysis — Usability Improvement for Branch Office Simulator](Project_002175/README.md) |
+| 002176 | [Ubuntu: Log Analysis — Baseline Setup for Offline Classroom](Project_002176/README.md) |
+| 002177 | [Ubuntu: Log Analysis — Automation for Offline Classroom](Project_002177/README.md) |
+| 002178 | [Ubuntu: Log Analysis — Recovery for Offline Classroom](Project_002178/README.md) |
+| 002179 | [Ubuntu: Log Analysis — Reporting for Offline Classroom](Project_002179/README.md) |
+| 002180 | [Ubuntu: Log Analysis — Usability Improvement for Offline Classroom](Project_002180/README.md) |
 
 [Back to the portfolio home](../README.md)
