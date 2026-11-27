@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025598 | [PostgreSQL: Performance Baseline — Recovery for Portfolio Demo](Project_025598/README.md) |
 | 025599 | [PostgreSQL: Performance Baseline — Reporting for Portfolio Demo](Project_025599/README.md) |
 | 025600 | [PostgreSQL: Performance Baseline — Usability Improvement for Portfolio Demo](Project_025600/README.md) |
+| 025601 | [PostgreSQL: Service Check — Baseline Setup for School Lab](Project_025601/README.md) |
+| 025602 | [PostgreSQL: Service Check — Automation for School Lab](Project_025602/README.md) |
+| 025603 | [PostgreSQL: Service Check — Recovery for School Lab](Project_025603/README.md) |
+| 025604 | [PostgreSQL: Service Check — Reporting for School Lab](Project_025604/README.md) |
+| 025605 | [PostgreSQL: Service Check — Usability Improvement for School Lab](Project_025605/README.md) |
+| 025606 | [PostgreSQL: Service Check — Baseline Setup for Small Business](Project_025606/README.md) |
+| 025607 | [PostgreSQL: Service Check — Automation for Small Business](Project_025607/README.md) |
+| 025608 | [PostgreSQL: Service Check — Recovery for Small Business](Project_025608/README.md) |
+| 025609 | [PostgreSQL: Service Check — Reporting for Small Business](Project_025609/README.md) |
+| 025610 | [PostgreSQL: Service Check — Usability Improvement for Small Business](Project_025610/README.md) |
+| 025611 | [PostgreSQL: Service Check — Baseline Setup for Home Development](Project_025611/README.md) |
+| 025612 | [PostgreSQL: Service Check — Automation for Home Development](Project_025612/README.md) |
+| 025613 | [PostgreSQL: Service Check — Recovery for Home Development](Project_025613/README.md) |
+| 025614 | [PostgreSQL: Service Check — Reporting for Home Development](Project_025614/README.md) |
+| 025615 | [PostgreSQL: Service Check — Usability Improvement for Home Development](Project_025615/README.md) |
+| 025616 | [PostgreSQL: Service Check — Baseline Setup for Public Dataset](Project_025616/README.md) |
+| 025617 | [PostgreSQL: Service Check — Automation for Public Dataset](Project_025617/README.md) |
+| 025618 | [PostgreSQL: Service Check — Recovery for Public Dataset](Project_025618/README.md) |
+| 025619 | [PostgreSQL: Service Check — Reporting for Public Dataset](Project_025619/README.md) |
+| 025620 | [PostgreSQL: Service Check — Usability Improvement for Public Dataset](Project_025620/README.md) |
 
 [Back to the portfolio home](../README.md)
