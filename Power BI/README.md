@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032418 | [Power BI: Alerting — Recovery for Public Dataset](Project_032418/README.md) |
 | 032419 | [Power BI: Alerting — Reporting for Public Dataset](Project_032419/README.md) |
 | 032420 | [Power BI: Alerting — Usability Improvement for Public Dataset](Project_032420/README.md) |
+| 032421 | [Power BI: Alerting — Baseline Setup for Branch Office Simulator](Project_032421/README.md) |
+| 032422 | [Power BI: Alerting — Automation for Branch Office Simulator](Project_032422/README.md) |
+| 032423 | [Power BI: Alerting — Recovery for Branch Office Simulator](Project_032423/README.md) |
+| 032424 | [Power BI: Alerting — Reporting for Branch Office Simulator](Project_032424/README.md) |
+| 032425 | [Power BI: Alerting — Usability Improvement for Branch Office Simulator](Project_032425/README.md) |
+| 032426 | [Power BI: Alerting — Baseline Setup for Offline Classroom](Project_032426/README.md) |
+| 032427 | [Power BI: Alerting — Automation for Offline Classroom](Project_032427/README.md) |
+| 032428 | [Power BI: Alerting — Recovery for Offline Classroom](Project_032428/README.md) |
+| 032429 | [Power BI: Alerting — Reporting for Offline Classroom](Project_032429/README.md) |
+| 032430 | [Power BI: Alerting — Usability Improvement for Offline Classroom](Project_032430/README.md) |
+| 032431 | [Power BI: Alerting — Baseline Setup for Single-Host Lab](Project_032431/README.md) |
+| 032432 | [Power BI: Alerting — Automation for Single-Host Lab](Project_032432/README.md) |
+| 032433 | [Power BI: Alerting — Recovery for Single-Host Lab](Project_032433/README.md) |
+| 032434 | [Power BI: Alerting — Reporting for Single-Host Lab](Project_032434/README.md) |
+| 032435 | [Power BI: Alerting — Usability Improvement for Single-Host Lab](Project_032435/README.md) |
+| 032436 | [Power BI: Alerting — Baseline Setup for Two-Node Lab](Project_032436/README.md) |
+| 032437 | [Power BI: Alerting — Automation for Two-Node Lab](Project_032437/README.md) |
+| 032438 | [Power BI: Alerting — Recovery for Two-Node Lab](Project_032438/README.md) |
+| 032439 | [Power BI: Alerting — Reporting for Two-Node Lab](Project_032439/README.md) |
+| 032440 | [Power BI: Alerting — Usability Improvement for Two-Node Lab](Project_032440/README.md) |
 
 [Back to the portfolio home](../README.md)
