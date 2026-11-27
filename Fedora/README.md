@@ -4,7 +4,7 @@ This collection contains guide-based Fedora exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Run the embedded Python on Fedora. Save the project code and synthetic input loc
 | 004438 | [Fedora: Alerting — Recovery for Two-Node Lab](Project_004438/README.md) |
 | 004439 | [Fedora: Alerting — Reporting for Two-Node Lab](Project_004439/README.md) |
 | 004440 | [Fedora: Alerting — Usability Improvement for Two-Node Lab](Project_004440/README.md) |
+| 004441 | [Fedora: Alerting — Baseline Setup for Help Desk](Project_004441/README.md) |
+| 004442 | [Fedora: Alerting — Automation for Help Desk](Project_004442/README.md) |
+| 004443 | [Fedora: Alerting — Recovery for Help Desk](Project_004443/README.md) |
+| 004444 | [Fedora: Alerting — Reporting for Help Desk](Project_004444/README.md) |
+| 004445 | [Fedora: Alerting — Usability Improvement for Help Desk](Project_004445/README.md) |
+| 004446 | [Fedora: Alerting — Baseline Setup for Portfolio Demo](Project_004446/README.md) |
+| 004447 | [Fedora: Alerting — Automation for Portfolio Demo](Project_004447/README.md) |
+| 004448 | [Fedora: Alerting — Recovery for Portfolio Demo](Project_004448/README.md) |
+| 004449 | [Fedora: Alerting — Reporting for Portfolio Demo](Project_004449/README.md) |
+| 004450 | [Fedora: Alerting — Usability Improvement for Portfolio Demo](Project_004450/README.md) |
+| 004451 | [Fedora: Scheduled Reporting — Baseline Setup for School Lab](Project_004451/README.md) |
+| 004452 | [Fedora: Scheduled Reporting — Automation for School Lab](Project_004452/README.md) |
+| 004453 | [Fedora: Scheduled Reporting — Recovery for School Lab](Project_004453/README.md) |
+| 004454 | [Fedora: Scheduled Reporting — Reporting for School Lab](Project_004454/README.md) |
+| 004455 | [Fedora: Scheduled Reporting — Usability Improvement for School Lab](Project_004455/README.md) |
+| 004456 | [Fedora: Scheduled Reporting — Baseline Setup for Small Business](Project_004456/README.md) |
+| 004457 | [Fedora: Scheduled Reporting — Automation for Small Business](Project_004457/README.md) |
+| 004458 | [Fedora: Scheduled Reporting — Recovery for Small Business](Project_004458/README.md) |
+| 004459 | [Fedora: Scheduled Reporting — Reporting for Small Business](Project_004459/README.md) |
+| 004460 | [Fedora: Scheduled Reporting — Usability Improvement for Small Business](Project_004460/README.md) |
 
 [Back to the portfolio home](../README.md)
