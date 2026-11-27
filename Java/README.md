@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022338 | [Java: Data Export — Recovery for Two-Node Lab](Project_022338/README.md) |
 | 022339 | [Java: Data Export — Reporting for Two-Node Lab](Project_022339/README.md) |
 | 022340 | [Java: Data Export — Usability Improvement for Two-Node Lab](Project_022340/README.md) |
+| 022341 | [Java: Data Export — Baseline Setup for Help Desk](Project_022341/README.md) |
+| 022342 | [Java: Data Export — Automation for Help Desk](Project_022342/README.md) |
+| 022343 | [Java: Data Export — Recovery for Help Desk](Project_022343/README.md) |
+| 022344 | [Java: Data Export — Reporting for Help Desk](Project_022344/README.md) |
+| 022345 | [Java: Data Export — Usability Improvement for Help Desk](Project_022345/README.md) |
+| 022346 | [Java: Data Export — Baseline Setup for Portfolio Demo](Project_022346/README.md) |
+| 022347 | [Java: Data Export — Automation for Portfolio Demo](Project_022347/README.md) |
+| 022348 | [Java: Data Export — Recovery for Portfolio Demo](Project_022348/README.md) |
+| 022349 | [Java: Data Export — Reporting for Portfolio Demo](Project_022349/README.md) |
+| 022350 | [Java: Data Export — Usability Improvement for Portfolio Demo](Project_022350/README.md) |
+| 022351 | [Java: Dashboard — Baseline Setup for School Lab](Project_022351/README.md) |
+| 022352 | [Java: Dashboard — Automation for School Lab](Project_022352/README.md) |
+| 022353 | [Java: Dashboard — Recovery for School Lab](Project_022353/README.md) |
+| 022354 | [Java: Dashboard — Reporting for School Lab](Project_022354/README.md) |
+| 022355 | [Java: Dashboard — Usability Improvement for School Lab](Project_022355/README.md) |
+| 022356 | [Java: Dashboard — Baseline Setup for Small Business](Project_022356/README.md) |
+| 022357 | [Java: Dashboard — Automation for Small Business](Project_022357/README.md) |
+| 022358 | [Java: Dashboard — Recovery for Small Business](Project_022358/README.md) |
+| 022359 | [Java: Dashboard — Reporting for Small Business](Project_022359/README.md) |
+| 022360 | [Java: Dashboard — Usability Improvement for Small Business](Project_022360/README.md) |
 
 [Back to the portfolio home](../README.md)
