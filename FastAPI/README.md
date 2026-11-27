@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049778 | [FastAPI: Data Validation — Recovery for Offline Classroom](Project_049778/README.md) |
 | 049779 | [FastAPI: Data Validation — Reporting for Offline Classroom](Project_049779/README.md) |
 | 049780 | [FastAPI: Data Validation — Usability Improvement for Offline Classroom](Project_049780/README.md) |
+| 049781 | [FastAPI: Data Validation — Baseline Setup for Single-Host Lab](Project_049781/README.md) |
+| 049782 | [FastAPI: Data Validation — Automation for Single-Host Lab](Project_049782/README.md) |
+| 049783 | [FastAPI: Data Validation — Recovery for Single-Host Lab](Project_049783/README.md) |
+| 049784 | [FastAPI: Data Validation — Reporting for Single-Host Lab](Project_049784/README.md) |
+| 049785 | [FastAPI: Data Validation — Usability Improvement for Single-Host Lab](Project_049785/README.md) |
+| 049786 | [FastAPI: Data Validation — Baseline Setup for Two-Node Lab](Project_049786/README.md) |
+| 049787 | [FastAPI: Data Validation — Automation for Two-Node Lab](Project_049787/README.md) |
+| 049788 | [FastAPI: Data Validation — Recovery for Two-Node Lab](Project_049788/README.md) |
+| 049789 | [FastAPI: Data Validation — Reporting for Two-Node Lab](Project_049789/README.md) |
+| 049790 | [FastAPI: Data Validation — Usability Improvement for Two-Node Lab](Project_049790/README.md) |
+| 049791 | [FastAPI: Data Validation — Baseline Setup for Help Desk](Project_049791/README.md) |
+| 049792 | [FastAPI: Data Validation — Automation for Help Desk](Project_049792/README.md) |
+| 049793 | [FastAPI: Data Validation — Recovery for Help Desk](Project_049793/README.md) |
+| 049794 | [FastAPI: Data Validation — Reporting for Help Desk](Project_049794/README.md) |
+| 049795 | [FastAPI: Data Validation — Usability Improvement for Help Desk](Project_049795/README.md) |
+| 049796 | [FastAPI: Data Validation — Baseline Setup for Portfolio Demo](Project_049796/README.md) |
+| 049797 | [FastAPI: Data Validation — Automation for Portfolio Demo](Project_049797/README.md) |
+| 049798 | [FastAPI: Data Validation — Recovery for Portfolio Demo](Project_049798/README.md) |
+| 049799 | [FastAPI: Data Validation — Reporting for Portfolio Demo](Project_049799/README.md) |
+| 049800 | [FastAPI: Data Validation — Usability Improvement for Portfolio Demo](Project_049800/README.md) |
 
 [Back to the portfolio home](../README.md)
