@@ -37,6 +37,7 @@ Install Python 3.10 or later and use curl for the example request. Use a text ed
 """Local FastAPI reference implementation for project 049896."""
 
 import json
+import math
 
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
@@ -96,6 +97,20 @@ def evaluate(record):
     return {"task_states": states}
 
 
+def parse_json(data):
+    """Reject non-finite numbers before passing a record to the workflow."""
+    def reject_constant(token):
+        raise ValueError(f"Unsupported JSON constant: {token}")
+
+    def finite_number(token):
+        value = float(token)
+        if not math.isfinite(value):
+            raise ValueError("JSON numbers must be finite")
+        return value
+
+    return json.loads(data, parse_constant=reject_constant, parse_float=finite_number)
+
+
 def as_object(payload):
     if not isinstance(payload, dict):
         raise ValueError("Expected a JSON object")
@@ -112,7 +127,7 @@ async def evaluate_route(request: Request):
     if request.headers.get("content-type", "").split(";")[0].strip().lower() != "application/json":
         return JSONResponse({"error": "Send application/json"}, status_code=415)
     try:
-        payload = json.loads(await request.body())
+        payload = parse_json(await request.body())
         body, status = process(payload)
     except (ValueError, OverflowError, RecursionError) as exc:
         return JSONResponse({"error": str(exc)}, status_code=400)
@@ -187,7 +202,7 @@ Illustrative excerpt for the synthetic sample.
 
 ## Testing and validation
 
-Actual validation used the FastAPI test client and synthetic requests. The sample returned HTTP 200 twice with identical JSON. The test observed the field below. An incomplete record returned HTTP 400. Malformed JSON returned HTTP 400 and the wrong media type returned HTTP 415.
+Actual validation used the FastAPI test client and synthetic requests. The sample returned HTTP 200 twice with identical JSON. The test observed the field below. An incomplete record returned HTTP 400. Malformed JSON and non-finite values returned HTTP 400 and the wrong media type returned HTTP 415.
 
 ```json
 {

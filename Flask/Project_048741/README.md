@@ -37,6 +37,7 @@ Install Python 3.10 or later and use curl for the example request. Use a text ed
 """Local Flask reference implementation for project 048741."""
 
 import json
+import math
 
 from flask import Flask, jsonify, request
 
@@ -85,6 +86,20 @@ def evaluate(record):
     return {"rates": rates, "errors": errors}
 
 
+def parse_json(data):
+    """Reject non-finite numbers before passing a record to the workflow."""
+    def reject_constant(token):
+        raise ValueError(f"Unsupported JSON constant: {token}")
+
+    def finite_number(token):
+        value = float(token)
+        if not math.isfinite(value):
+            raise ValueError("JSON numbers must be finite")
+        return value
+
+    return json.loads(data, parse_constant=reject_constant, parse_float=finite_number)
+
+
 def as_object(payload):
     if not isinstance(payload, dict):
         raise ValueError("Expected a JSON object")
@@ -101,7 +116,7 @@ def evaluate_route():
     if request.mimetype != "application/json":
         return jsonify(error="Send application/json"), 415
     try:
-        payload = json.loads(request.get_data())
+        payload = parse_json(request.get_data())
         body, status = process(payload)
     except (ValueError, OverflowError, RecursionError) as exc:
         return jsonify(error=str(exc)), 400
@@ -167,7 +182,7 @@ Illustrative excerpt for the synthetic sample.
 
 ## Testing and validation
 
-Actual validation used the Flask test client and synthetic requests. The sample returned HTTP 200 twice with identical JSON. The test observed the field below. An incomplete record returned HTTP 400. Malformed JSON returned HTTP 400 and the wrong media type returned HTTP 415.
+Actual validation used the Flask test client and synthetic requests. The sample returned HTTP 200 twice with identical JSON. The test observed the field below. An incomplete record returned HTTP 400. Malformed JSON and non-finite values returned HTTP 400 and the wrong media type returned HTTP 415.
 
 ```json
 {
