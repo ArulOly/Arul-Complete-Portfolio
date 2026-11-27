@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026678 | [MySQL: Configuration Comparison — Recovery for Offline Classroom](Project_026678/README.md) |
 | 026679 | [MySQL: Configuration Comparison — Reporting for Offline Classroom](Project_026679/README.md) |
 | 026680 | [MySQL: Configuration Comparison — Usability Improvement for Offline Classroom](Project_026680/README.md) |
+| 026681 | [MySQL: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_026681/README.md) |
+| 026682 | [MySQL: Configuration Comparison — Automation for Single-Host Lab](Project_026682/README.md) |
+| 026683 | [MySQL: Configuration Comparison — Recovery for Single-Host Lab](Project_026683/README.md) |
+| 026684 | [MySQL: Configuration Comparison — Reporting for Single-Host Lab](Project_026684/README.md) |
+| 026685 | [MySQL: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_026685/README.md) |
+| 026686 | [MySQL: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_026686/README.md) |
+| 026687 | [MySQL: Configuration Comparison — Automation for Two-Node Lab](Project_026687/README.md) |
+| 026688 | [MySQL: Configuration Comparison — Recovery for Two-Node Lab](Project_026688/README.md) |
+| 026689 | [MySQL: Configuration Comparison — Reporting for Two-Node Lab](Project_026689/README.md) |
+| 026690 | [MySQL: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_026690/README.md) |
+| 026691 | [MySQL: Configuration Comparison — Baseline Setup for Help Desk](Project_026691/README.md) |
+| 026692 | [MySQL: Configuration Comparison — Automation for Help Desk](Project_026692/README.md) |
+| 026693 | [MySQL: Configuration Comparison — Recovery for Help Desk](Project_026693/README.md) |
+| 026694 | [MySQL: Configuration Comparison — Reporting for Help Desk](Project_026694/README.md) |
+| 026695 | [MySQL: Configuration Comparison — Usability Improvement for Help Desk](Project_026695/README.md) |
+| 026696 | [MySQL: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_026696/README.md) |
+| 026697 | [MySQL: Configuration Comparison — Automation for Portfolio Demo](Project_026697/README.md) |
+| 026698 | [MySQL: Configuration Comparison — Recovery for Portfolio Demo](Project_026698/README.md) |
+| 026699 | [MySQL: Configuration Comparison — Reporting for Portfolio Demo](Project_026699/README.md) |
+| 026700 | [MySQL: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_026700/README.md) |
 
 [Back to the portfolio home](../README.md)
