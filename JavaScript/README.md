@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020358 | [JavaScript: Dashboard — Recovery for Small Business](Project_020358/README.md) |
 | 020359 | [JavaScript: Dashboard — Reporting for Small Business](Project_020359/README.md) |
 | 020360 | [JavaScript: Dashboard — Usability Improvement for Small Business](Project_020360/README.md) |
+| 020361 | [JavaScript: Dashboard — Baseline Setup for Home Development](Project_020361/README.md) |
+| 020362 | [JavaScript: Dashboard — Automation for Home Development](Project_020362/README.md) |
+| 020363 | [JavaScript: Dashboard — Recovery for Home Development](Project_020363/README.md) |
+| 020364 | [JavaScript: Dashboard — Reporting for Home Development](Project_020364/README.md) |
+| 020365 | [JavaScript: Dashboard — Usability Improvement for Home Development](Project_020365/README.md) |
+| 020366 | [JavaScript: Dashboard — Baseline Setup for Public Dataset](Project_020366/README.md) |
+| 020367 | [JavaScript: Dashboard — Automation for Public Dataset](Project_020367/README.md) |
+| 020368 | [JavaScript: Dashboard — Recovery for Public Dataset](Project_020368/README.md) |
+| 020369 | [JavaScript: Dashboard — Reporting for Public Dataset](Project_020369/README.md) |
+| 020370 | [JavaScript: Dashboard — Usability Improvement for Public Dataset](Project_020370/README.md) |
+| 020371 | [JavaScript: Dashboard — Baseline Setup for Branch Office Simulator](Project_020371/README.md) |
+| 020372 | [JavaScript: Dashboard — Automation for Branch Office Simulator](Project_020372/README.md) |
+| 020373 | [JavaScript: Dashboard — Recovery for Branch Office Simulator](Project_020373/README.md) |
+| 020374 | [JavaScript: Dashboard — Reporting for Branch Office Simulator](Project_020374/README.md) |
+| 020375 | [JavaScript: Dashboard — Usability Improvement for Branch Office Simulator](Project_020375/README.md) |
+| 020376 | [JavaScript: Dashboard — Baseline Setup for Offline Classroom](Project_020376/README.md) |
+| 020377 | [JavaScript: Dashboard — Automation for Offline Classroom](Project_020377/README.md) |
+| 020378 | [JavaScript: Dashboard — Recovery for Offline Classroom](Project_020378/README.md) |
+| 020379 | [JavaScript: Dashboard — Reporting for Offline Classroom](Project_020379/README.md) |
+| 020380 | [JavaScript: Dashboard — Usability Improvement for Offline Classroom](Project_020380/README.md) |
 
 [Back to the portfolio home](../README.md)
