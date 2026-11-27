@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002458 | [Ubuntu: Scheduled Reporting — Recovery for Small Business](Project_002458/README.md) |
 | 002459 | [Ubuntu: Scheduled Reporting — Reporting for Small Business](Project_002459/README.md) |
 | 002460 | [Ubuntu: Scheduled Reporting — Usability Improvement for Small Business](Project_002460/README.md) |
+| 002461 | [Ubuntu: Scheduled Reporting — Baseline Setup for Home Development](Project_002461/README.md) |
+| 002462 | [Ubuntu: Scheduled Reporting — Automation for Home Development](Project_002462/README.md) |
+| 002463 | [Ubuntu: Scheduled Reporting — Recovery for Home Development](Project_002463/README.md) |
+| 002464 | [Ubuntu: Scheduled Reporting — Reporting for Home Development](Project_002464/README.md) |
+| 002465 | [Ubuntu: Scheduled Reporting — Usability Improvement for Home Development](Project_002465/README.md) |
+| 002466 | [Ubuntu: Scheduled Reporting — Baseline Setup for Public Dataset](Project_002466/README.md) |
+| 002467 | [Ubuntu: Scheduled Reporting — Automation for Public Dataset](Project_002467/README.md) |
+| 002468 | [Ubuntu: Scheduled Reporting — Recovery for Public Dataset](Project_002468/README.md) |
+| 002469 | [Ubuntu: Scheduled Reporting — Reporting for Public Dataset](Project_002469/README.md) |
+| 002470 | [Ubuntu: Scheduled Reporting — Usability Improvement for Public Dataset](Project_002470/README.md) |
+| 002471 | [Ubuntu: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_002471/README.md) |
+| 002472 | [Ubuntu: Scheduled Reporting — Automation for Branch Office Simulator](Project_002472/README.md) |
+| 002473 | [Ubuntu: Scheduled Reporting — Recovery for Branch Office Simulator](Project_002473/README.md) |
+| 002474 | [Ubuntu: Scheduled Reporting — Reporting for Branch Office Simulator](Project_002474/README.md) |
+| 002475 | [Ubuntu: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_002475/README.md) |
+| 002476 | [Ubuntu: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_002476/README.md) |
+| 002477 | [Ubuntu: Scheduled Reporting — Automation for Offline Classroom](Project_002477/README.md) |
+| 002478 | [Ubuntu: Scheduled Reporting — Recovery for Offline Classroom](Project_002478/README.md) |
+| 002479 | [Ubuntu: Scheduled Reporting — Reporting for Offline Classroom](Project_002479/README.md) |
+| 002480 | [Ubuntu: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_002480/README.md) |
 
 [Back to the portfolio home](../README.md)
