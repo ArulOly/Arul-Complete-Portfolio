@@ -4,7 +4,7 @@ This collection contains guide-based Java exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Use JDK 21 and Gson 2.13.2. Copy the embedded class into the filename shown in e
 | 022258 | [Java: Data Import — Recovery for Small Business](Project_022258/README.md) |
 | 022259 | [Java: Data Import — Reporting for Small Business](Project_022259/README.md) |
 | 022260 | [Java: Data Import — Usability Improvement for Small Business](Project_022260/README.md) |
+| 022261 | [Java: Data Import — Baseline Setup for Home Development](Project_022261/README.md) |
+| 022262 | [Java: Data Import — Automation for Home Development](Project_022262/README.md) |
+| 022263 | [Java: Data Import — Recovery for Home Development](Project_022263/README.md) |
+| 022264 | [Java: Data Import — Reporting for Home Development](Project_022264/README.md) |
+| 022265 | [Java: Data Import — Usability Improvement for Home Development](Project_022265/README.md) |
+| 022266 | [Java: Data Import — Baseline Setup for Public Dataset](Project_022266/README.md) |
+| 022267 | [Java: Data Import — Automation for Public Dataset](Project_022267/README.md) |
+| 022268 | [Java: Data Import — Recovery for Public Dataset](Project_022268/README.md) |
+| 022269 | [Java: Data Import — Reporting for Public Dataset](Project_022269/README.md) |
+| 022270 | [Java: Data Import — Usability Improvement for Public Dataset](Project_022270/README.md) |
+| 022271 | [Java: Data Import — Baseline Setup for Branch Office Simulator](Project_022271/README.md) |
+| 022272 | [Java: Data Import — Automation for Branch Office Simulator](Project_022272/README.md) |
+| 022273 | [Java: Data Import — Recovery for Branch Office Simulator](Project_022273/README.md) |
+| 022274 | [Java: Data Import — Reporting for Branch Office Simulator](Project_022274/README.md) |
+| 022275 | [Java: Data Import — Usability Improvement for Branch Office Simulator](Project_022275/README.md) |
+| 022276 | [Java: Data Import — Baseline Setup for Offline Classroom](Project_022276/README.md) |
+| 022277 | [Java: Data Import — Automation for Offline Classroom](Project_022277/README.md) |
+| 022278 | [Java: Data Import — Recovery for Offline Classroom](Project_022278/README.md) |
+| 022279 | [Java: Data Import — Reporting for Offline Classroom](Project_022279/README.md) |
+| 022280 | [Java: Data Import — Usability Improvement for Offline Classroom](Project_022280/README.md) |
 
 [Back to the portfolio home](../README.md)
