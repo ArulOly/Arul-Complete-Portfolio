@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045418 | [Redis: Alerting — Recovery for Public Dataset](Project_045418/README.md) |
 | 045419 | [Redis: Alerting — Reporting for Public Dataset](Project_045419/README.md) |
 | 045420 | [Redis: Alerting — Usability Improvement for Public Dataset](Project_045420/README.md) |
+| 045421 | [Redis: Alerting — Baseline Setup for Branch Office Simulator](Project_045421/README.md) |
+| 045422 | [Redis: Alerting — Automation for Branch Office Simulator](Project_045422/README.md) |
+| 045423 | [Redis: Alerting — Recovery for Branch Office Simulator](Project_045423/README.md) |
+| 045424 | [Redis: Alerting — Reporting for Branch Office Simulator](Project_045424/README.md) |
+| 045425 | [Redis: Alerting — Usability Improvement for Branch Office Simulator](Project_045425/README.md) |
+| 045426 | [Redis: Alerting — Baseline Setup for Offline Classroom](Project_045426/README.md) |
+| 045427 | [Redis: Alerting — Automation for Offline Classroom](Project_045427/README.md) |
+| 045428 | [Redis: Alerting — Recovery for Offline Classroom](Project_045428/README.md) |
+| 045429 | [Redis: Alerting — Reporting for Offline Classroom](Project_045429/README.md) |
+| 045430 | [Redis: Alerting — Usability Improvement for Offline Classroom](Project_045430/README.md) |
+| 045431 | [Redis: Alerting — Baseline Setup for Single-Host Lab](Project_045431/README.md) |
+| 045432 | [Redis: Alerting — Automation for Single-Host Lab](Project_045432/README.md) |
+| 045433 | [Redis: Alerting — Recovery for Single-Host Lab](Project_045433/README.md) |
+| 045434 | [Redis: Alerting — Reporting for Single-Host Lab](Project_045434/README.md) |
+| 045435 | [Redis: Alerting — Usability Improvement for Single-Host Lab](Project_045435/README.md) |
+| 045436 | [Redis: Alerting — Baseline Setup for Two-Node Lab](Project_045436/README.md) |
+| 045437 | [Redis: Alerting — Automation for Two-Node Lab](Project_045437/README.md) |
+| 045438 | [Redis: Alerting — Recovery for Two-Node Lab](Project_045438/README.md) |
+| 045439 | [Redis: Alerting — Reporting for Two-Node Lab](Project_045439/README.md) |
+| 045440 | [Redis: Alerting — Usability Improvement for Two-Node Lab](Project_045440/README.md) |
 
 [Back to the portfolio home](../README.md)
