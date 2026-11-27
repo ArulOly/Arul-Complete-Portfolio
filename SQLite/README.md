@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028518 | [SQLite: Access Review — Recovery for Public Dataset](Project_028518/README.md) |
 | 028519 | [SQLite: Access Review — Reporting for Public Dataset](Project_028519/README.md) |
 | 028520 | [SQLite: Access Review — Usability Improvement for Public Dataset](Project_028520/README.md) |
+| 028521 | [SQLite: Access Review — Baseline Setup for Branch Office Simulator](Project_028521/README.md) |
+| 028522 | [SQLite: Access Review — Automation for Branch Office Simulator](Project_028522/README.md) |
+| 028523 | [SQLite: Access Review — Recovery for Branch Office Simulator](Project_028523/README.md) |
+| 028524 | [SQLite: Access Review — Reporting for Branch Office Simulator](Project_028524/README.md) |
+| 028525 | [SQLite: Access Review — Usability Improvement for Branch Office Simulator](Project_028525/README.md) |
+| 028526 | [SQLite: Access Review — Baseline Setup for Offline Classroom](Project_028526/README.md) |
+| 028527 | [SQLite: Access Review — Automation for Offline Classroom](Project_028527/README.md) |
+| 028528 | [SQLite: Access Review — Recovery for Offline Classroom](Project_028528/README.md) |
+| 028529 | [SQLite: Access Review — Reporting for Offline Classroom](Project_028529/README.md) |
+| 028530 | [SQLite: Access Review — Usability Improvement for Offline Classroom](Project_028530/README.md) |
+| 028531 | [SQLite: Access Review — Baseline Setup for Single-Host Lab](Project_028531/README.md) |
+| 028532 | [SQLite: Access Review — Automation for Single-Host Lab](Project_028532/README.md) |
+| 028533 | [SQLite: Access Review — Recovery for Single-Host Lab](Project_028533/README.md) |
+| 028534 | [SQLite: Access Review — Reporting for Single-Host Lab](Project_028534/README.md) |
+| 028535 | [SQLite: Access Review — Usability Improvement for Single-Host Lab](Project_028535/README.md) |
+| 028536 | [SQLite: Access Review — Baseline Setup for Two-Node Lab](Project_028536/README.md) |
+| 028537 | [SQLite: Access Review — Automation for Two-Node Lab](Project_028537/README.md) |
+| 028538 | [SQLite: Access Review — Recovery for Two-Node Lab](Project_028538/README.md) |
+| 028539 | [SQLite: Access Review — Reporting for Two-Node Lab](Project_028539/README.md) |
+| 028540 | [SQLite: Access Review — Usability Improvement for Two-Node Lab](Project_028540/README.md) |
 
 [Back to the portfolio home](../README.md)
