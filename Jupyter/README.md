@@ -4,7 +4,7 @@ This collection contains guide-based Jupyter exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a new Python notebook, paste the source into one cell, save the sample JSON
 | 033838 | [Jupyter: Documentation Generation — Recovery for Two-Node Lab](Project_033838/README.md) |
 | 033839 | [Jupyter: Documentation Generation — Reporting for Two-Node Lab](Project_033839/README.md) |
 | 033840 | [Jupyter: Documentation Generation — Usability Improvement for Two-Node Lab](Project_033840/README.md) |
+| 033841 | [Jupyter: Documentation Generation — Baseline Setup for Help Desk](Project_033841/README.md) |
+| 033842 | [Jupyter: Documentation Generation — Automation for Help Desk](Project_033842/README.md) |
+| 033843 | [Jupyter: Documentation Generation — Recovery for Help Desk](Project_033843/README.md) |
+| 033844 | [Jupyter: Documentation Generation — Reporting for Help Desk](Project_033844/README.md) |
+| 033845 | [Jupyter: Documentation Generation — Usability Improvement for Help Desk](Project_033845/README.md) |
+| 033846 | [Jupyter: Documentation Generation — Baseline Setup for Portfolio Demo](Project_033846/README.md) |
+| 033847 | [Jupyter: Documentation Generation — Automation for Portfolio Demo](Project_033847/README.md) |
+| 033848 | [Jupyter: Documentation Generation — Recovery for Portfolio Demo](Project_033848/README.md) |
+| 033849 | [Jupyter: Documentation Generation — Reporting for Portfolio Demo](Project_033849/README.md) |
+| 033850 | [Jupyter: Documentation Generation — Usability Improvement for Portfolio Demo](Project_033850/README.md) |
+| 033851 | [Jupyter: Automation — Baseline Setup for School Lab](Project_033851/README.md) |
+| 033852 | [Jupyter: Automation — Automation for School Lab](Project_033852/README.md) |
+| 033853 | [Jupyter: Automation — Recovery for School Lab](Project_033853/README.md) |
+| 033854 | [Jupyter: Automation — Reporting for School Lab](Project_033854/README.md) |
+| 033855 | [Jupyter: Automation — Usability Improvement for School Lab](Project_033855/README.md) |
+| 033856 | [Jupyter: Automation — Baseline Setup for Small Business](Project_033856/README.md) |
+| 033857 | [Jupyter: Automation — Automation for Small Business](Project_033857/README.md) |
+| 033858 | [Jupyter: Automation — Recovery for Small Business](Project_033858/README.md) |
+| 033859 | [Jupyter: Automation — Reporting for Small Business](Project_033859/README.md) |
+| 033860 | [Jupyter: Automation — Usability Improvement for Small Business](Project_033860/README.md) |
 
 [Back to the portfolio home](../README.md)
