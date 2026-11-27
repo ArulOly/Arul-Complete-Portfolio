@@ -9,6 +9,8 @@ This repository contains a collection of practical information technology projec
 | Category | Description |
 |---|---|
 | [Python](./Python/) | Python programming, automation, inventory management, reporting and practical applications |
+| [JavaScript](./JavaScript/) | Node.js projects for data processing, automation, and reporting |
+| [TypeScript](./TypeScript/) | Type-checked Node.js projects for data processing, automation, and reporting |
 
 ## Repository Structure
 
@@ -17,6 +19,9 @@ Each project is documented in an individual README.md file containing its object
 ## Technologies
 
 - Python
+- JavaScript
+- TypeScript
+- Node.js
 - Git
 - GitHub
 - Markdown
