@@ -4,7 +4,7 @@ This collection contains guide-based HTML CSS exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Copy a project's HTML block to `index.html` and open it in a modern browser. CSS
 | 023018 | [HTML CSS: Inventory — Recovery for Public Dataset](Project_023018/README.md) |
 | 023019 | [HTML CSS: Inventory — Reporting for Public Dataset](Project_023019/README.md) |
 | 023020 | [HTML CSS: Inventory — Usability Improvement for Public Dataset](Project_023020/README.md) |
+| 023021 | [HTML CSS: Inventory — Baseline Setup for Branch Office Simulator](Project_023021/README.md) |
+| 023022 | [HTML CSS: Inventory — Automation for Branch Office Simulator](Project_023022/README.md) |
+| 023023 | [HTML CSS: Inventory — Recovery for Branch Office Simulator](Project_023023/README.md) |
+| 023024 | [HTML CSS: Inventory — Reporting for Branch Office Simulator](Project_023024/README.md) |
+| 023025 | [HTML CSS: Inventory — Usability Improvement for Branch Office Simulator](Project_023025/README.md) |
+| 023026 | [HTML CSS: Inventory — Baseline Setup for Offline Classroom](Project_023026/README.md) |
+| 023027 | [HTML CSS: Inventory — Automation for Offline Classroom](Project_023027/README.md) |
+| 023028 | [HTML CSS: Inventory — Recovery for Offline Classroom](Project_023028/README.md) |
+| 023029 | [HTML CSS: Inventory — Reporting for Offline Classroom](Project_023029/README.md) |
+| 023030 | [HTML CSS: Inventory — Usability Improvement for Offline Classroom](Project_023030/README.md) |
+| 023031 | [HTML CSS: Inventory — Baseline Setup for Single-Host Lab](Project_023031/README.md) |
+| 023032 | [HTML CSS: Inventory — Automation for Single-Host Lab](Project_023032/README.md) |
+| 023033 | [HTML CSS: Inventory — Recovery for Single-Host Lab](Project_023033/README.md) |
+| 023034 | [HTML CSS: Inventory — Reporting for Single-Host Lab](Project_023034/README.md) |
+| 023035 | [HTML CSS: Inventory — Usability Improvement for Single-Host Lab](Project_023035/README.md) |
+| 023036 | [HTML CSS: Inventory — Baseline Setup for Two-Node Lab](Project_023036/README.md) |
+| 023037 | [HTML CSS: Inventory — Automation for Two-Node Lab](Project_023037/README.md) |
+| 023038 | [HTML CSS: Inventory — Recovery for Two-Node Lab](Project_023038/README.md) |
+| 023039 | [HTML CSS: Inventory — Reporting for Two-Node Lab](Project_023039/README.md) |
+| 023040 | [HTML CSS: Inventory — Usability Improvement for Two-Node Lab](Project_023040/README.md) |
 
 [Back to the portfolio home](../README.md)
