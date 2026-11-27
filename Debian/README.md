@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003298 | [Debian: Data Import — Recovery for Portfolio Demo](Project_003298/README.md) |
 | 003299 | [Debian: Data Import — Reporting for Portfolio Demo](Project_003299/README.md) |
 | 003300 | [Debian: Data Import — Usability Improvement for Portfolio Demo](Project_003300/README.md) |
+| 003301 | [Debian: Data Export — Baseline Setup for School Lab](Project_003301/README.md) |
+| 003302 | [Debian: Data Export — Automation for School Lab](Project_003302/README.md) |
+| 003303 | [Debian: Data Export — Recovery for School Lab](Project_003303/README.md) |
+| 003304 | [Debian: Data Export — Reporting for School Lab](Project_003304/README.md) |
+| 003305 | [Debian: Data Export — Usability Improvement for School Lab](Project_003305/README.md) |
+| 003306 | [Debian: Data Export — Baseline Setup for Small Business](Project_003306/README.md) |
+| 003307 | [Debian: Data Export — Automation for Small Business](Project_003307/README.md) |
+| 003308 | [Debian: Data Export — Recovery for Small Business](Project_003308/README.md) |
+| 003309 | [Debian: Data Export — Reporting for Small Business](Project_003309/README.md) |
+| 003310 | [Debian: Data Export — Usability Improvement for Small Business](Project_003310/README.md) |
+| 003311 | [Debian: Data Export — Baseline Setup for Home Development](Project_003311/README.md) |
+| 003312 | [Debian: Data Export — Automation for Home Development](Project_003312/README.md) |
+| 003313 | [Debian: Data Export — Recovery for Home Development](Project_003313/README.md) |
+| 003314 | [Debian: Data Export — Reporting for Home Development](Project_003314/README.md) |
+| 003315 | [Debian: Data Export — Usability Improvement for Home Development](Project_003315/README.md) |
+| 003316 | [Debian: Data Export — Baseline Setup for Public Dataset](Project_003316/README.md) |
+| 003317 | [Debian: Data Export — Automation for Public Dataset](Project_003317/README.md) |
+| 003318 | [Debian: Data Export — Recovery for Public Dataset](Project_003318/README.md) |
+| 003319 | [Debian: Data Export — Reporting for Public Dataset](Project_003319/README.md) |
+| 003320 | [Debian: Data Export — Usability Improvement for Public Dataset](Project_003320/README.md) |
 
 [Back to the portfolio home](../README.md)
