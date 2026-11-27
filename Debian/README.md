@@ -4,7 +4,7 @@ This collection contains guide-based Debian exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Run the embedded Python on Debian. Save the project code and synthetic input loc
 | 003278 | [Debian: Data Import — Recovery for Offline Classroom](Project_003278/README.md) |
 | 003279 | [Debian: Data Import — Reporting for Offline Classroom](Project_003279/README.md) |
 | 003280 | [Debian: Data Import — Usability Improvement for Offline Classroom](Project_003280/README.md) |
+| 003281 | [Debian: Data Import — Baseline Setup for Single-Host Lab](Project_003281/README.md) |
+| 003282 | [Debian: Data Import — Automation for Single-Host Lab](Project_003282/README.md) |
+| 003283 | [Debian: Data Import — Recovery for Single-Host Lab](Project_003283/README.md) |
+| 003284 | [Debian: Data Import — Reporting for Single-Host Lab](Project_003284/README.md) |
+| 003285 | [Debian: Data Import — Usability Improvement for Single-Host Lab](Project_003285/README.md) |
+| 003286 | [Debian: Data Import — Baseline Setup for Two-Node Lab](Project_003286/README.md) |
+| 003287 | [Debian: Data Import — Automation for Two-Node Lab](Project_003287/README.md) |
+| 003288 | [Debian: Data Import — Recovery for Two-Node Lab](Project_003288/README.md) |
+| 003289 | [Debian: Data Import — Reporting for Two-Node Lab](Project_003289/README.md) |
+| 003290 | [Debian: Data Import — Usability Improvement for Two-Node Lab](Project_003290/README.md) |
+| 003291 | [Debian: Data Import — Baseline Setup for Help Desk](Project_003291/README.md) |
+| 003292 | [Debian: Data Import — Automation for Help Desk](Project_003292/README.md) |
+| 003293 | [Debian: Data Import — Recovery for Help Desk](Project_003293/README.md) |
+| 003294 | [Debian: Data Import — Reporting for Help Desk](Project_003294/README.md) |
+| 003295 | [Debian: Data Import — Usability Improvement for Help Desk](Project_003295/README.md) |
+| 003296 | [Debian: Data Import — Baseline Setup for Portfolio Demo](Project_003296/README.md) |
+| 003297 | [Debian: Data Import — Automation for Portfolio Demo](Project_003297/README.md) |
+| 003298 | [Debian: Data Import — Recovery for Portfolio Demo](Project_003298/README.md) |
+| 003299 | [Debian: Data Import — Reporting for Portfolio Demo](Project_003299/README.md) |
+| 003300 | [Debian: Data Import — Usability Improvement for Portfolio Demo](Project_003300/README.md) |
 
 [Back to the portfolio home](../README.md)
