@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026698 | [MySQL: Configuration Comparison — Recovery for Portfolio Demo](Project_026698/README.md) |
 | 026699 | [MySQL: Configuration Comparison — Reporting for Portfolio Demo](Project_026699/README.md) |
 | 026700 | [MySQL: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_026700/README.md) |
+| 026701 | [MySQL: Error Handling — Baseline Setup for School Lab](Project_026701/README.md) |
+| 026702 | [MySQL: Error Handling — Automation for School Lab](Project_026702/README.md) |
+| 026703 | [MySQL: Error Handling — Recovery for School Lab](Project_026703/README.md) |
+| 026704 | [MySQL: Error Handling — Reporting for School Lab](Project_026704/README.md) |
+| 026705 | [MySQL: Error Handling — Usability Improvement for School Lab](Project_026705/README.md) |
+| 026706 | [MySQL: Error Handling — Baseline Setup for Small Business](Project_026706/README.md) |
+| 026707 | [MySQL: Error Handling — Automation for Small Business](Project_026707/README.md) |
+| 026708 | [MySQL: Error Handling — Recovery for Small Business](Project_026708/README.md) |
+| 026709 | [MySQL: Error Handling — Reporting for Small Business](Project_026709/README.md) |
+| 026710 | [MySQL: Error Handling — Usability Improvement for Small Business](Project_026710/README.md) |
+| 026711 | [MySQL: Error Handling — Baseline Setup for Home Development](Project_026711/README.md) |
+| 026712 | [MySQL: Error Handling — Automation for Home Development](Project_026712/README.md) |
+| 026713 | [MySQL: Error Handling — Recovery for Home Development](Project_026713/README.md) |
+| 026714 | [MySQL: Error Handling — Reporting for Home Development](Project_026714/README.md) |
+| 026715 | [MySQL: Error Handling — Usability Improvement for Home Development](Project_026715/README.md) |
+| 026716 | [MySQL: Error Handling — Baseline Setup for Public Dataset](Project_026716/README.md) |
+| 026717 | [MySQL: Error Handling — Automation for Public Dataset](Project_026717/README.md) |
+| 026718 | [MySQL: Error Handling — Recovery for Public Dataset](Project_026718/README.md) |
+| 026719 | [MySQL: Error Handling — Reporting for Public Dataset](Project_026719/README.md) |
+| 026720 | [MySQL: Error Handling — Usability Improvement for Public Dataset](Project_026720/README.md) |
 
 [Back to the portfolio home](../README.md)
