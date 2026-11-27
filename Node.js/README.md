@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024338 | [Node.js: Data Export — Recovery for Two-Node Lab](Project_024338/README.md) |
 | 024339 | [Node.js: Data Export — Reporting for Two-Node Lab](Project_024339/README.md) |
 | 024340 | [Node.js: Data Export — Usability Improvement for Two-Node Lab](Project_024340/README.md) |
+| 024341 | [Node.js: Data Export — Baseline Setup for Help Desk](Project_024341/README.md) |
+| 024342 | [Node.js: Data Export — Automation for Help Desk](Project_024342/README.md) |
+| 024343 | [Node.js: Data Export — Recovery for Help Desk](Project_024343/README.md) |
+| 024344 | [Node.js: Data Export — Reporting for Help Desk](Project_024344/README.md) |
+| 024345 | [Node.js: Data Export — Usability Improvement for Help Desk](Project_024345/README.md) |
+| 024346 | [Node.js: Data Export — Baseline Setup for Portfolio Demo](Project_024346/README.md) |
+| 024347 | [Node.js: Data Export — Automation for Portfolio Demo](Project_024347/README.md) |
+| 024348 | [Node.js: Data Export — Recovery for Portfolio Demo](Project_024348/README.md) |
+| 024349 | [Node.js: Data Export — Reporting for Portfolio Demo](Project_024349/README.md) |
+| 024350 | [Node.js: Data Export — Usability Improvement for Portfolio Demo](Project_024350/README.md) |
+| 024351 | [Node.js: Dashboard — Baseline Setup for School Lab](Project_024351/README.md) |
+| 024352 | [Node.js: Dashboard — Automation for School Lab](Project_024352/README.md) |
+| 024353 | [Node.js: Dashboard — Recovery for School Lab](Project_024353/README.md) |
+| 024354 | [Node.js: Dashboard — Reporting for School Lab](Project_024354/README.md) |
+| 024355 | [Node.js: Dashboard — Usability Improvement for School Lab](Project_024355/README.md) |
+| 024356 | [Node.js: Dashboard — Baseline Setup for Small Business](Project_024356/README.md) |
+| 024357 | [Node.js: Dashboard — Automation for Small Business](Project_024357/README.md) |
+| 024358 | [Node.js: Dashboard — Recovery for Small Business](Project_024358/README.md) |
+| 024359 | [Node.js: Dashboard — Reporting for Small Business](Project_024359/README.md) |
+| 024360 | [Node.js: Dashboard — Usability Improvement for Small Business](Project_024360/README.md) |
 
 [Back to the portfolio home](../README.md)
