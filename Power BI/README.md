@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032518 | [Power BI: Access Review — Recovery for Public Dataset](Project_032518/README.md) |
 | 032519 | [Power BI: Access Review — Reporting for Public Dataset](Project_032519/README.md) |
 | 032520 | [Power BI: Access Review — Usability Improvement for Public Dataset](Project_032520/README.md) |
+| 032521 | [Power BI: Access Review — Baseline Setup for Branch Office Simulator](Project_032521/README.md) |
+| 032522 | [Power BI: Access Review — Automation for Branch Office Simulator](Project_032522/README.md) |
+| 032523 | [Power BI: Access Review — Recovery for Branch Office Simulator](Project_032523/README.md) |
+| 032524 | [Power BI: Access Review — Reporting for Branch Office Simulator](Project_032524/README.md) |
+| 032525 | [Power BI: Access Review — Usability Improvement for Branch Office Simulator](Project_032525/README.md) |
+| 032526 | [Power BI: Access Review — Baseline Setup for Offline Classroom](Project_032526/README.md) |
+| 032527 | [Power BI: Access Review — Automation for Offline Classroom](Project_032527/README.md) |
+| 032528 | [Power BI: Access Review — Recovery for Offline Classroom](Project_032528/README.md) |
+| 032529 | [Power BI: Access Review — Reporting for Offline Classroom](Project_032529/README.md) |
+| 032530 | [Power BI: Access Review — Usability Improvement for Offline Classroom](Project_032530/README.md) |
+| 032531 | [Power BI: Access Review — Baseline Setup for Single-Host Lab](Project_032531/README.md) |
+| 032532 | [Power BI: Access Review — Automation for Single-Host Lab](Project_032532/README.md) |
+| 032533 | [Power BI: Access Review — Recovery for Single-Host Lab](Project_032533/README.md) |
+| 032534 | [Power BI: Access Review — Reporting for Single-Host Lab](Project_032534/README.md) |
+| 032535 | [Power BI: Access Review — Usability Improvement for Single-Host Lab](Project_032535/README.md) |
+| 032536 | [Power BI: Access Review — Baseline Setup for Two-Node Lab](Project_032536/README.md) |
+| 032537 | [Power BI: Access Review — Automation for Two-Node Lab](Project_032537/README.md) |
+| 032538 | [Power BI: Access Review — Recovery for Two-Node Lab](Project_032538/README.md) |
+| 032539 | [Power BI: Access Review — Reporting for Two-Node Lab](Project_032539/README.md) |
+| 032540 | [Power BI: Access Review — Usability Improvement for Two-Node Lab](Project_032540/README.md) |
 
 [Back to the portfolio home](../README.md)
