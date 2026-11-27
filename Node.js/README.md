@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024258 | [Node.js: Data Import — Recovery for Small Business](Project_024258/README.md) |
 | 024259 | [Node.js: Data Import — Reporting for Small Business](Project_024259/README.md) |
 | 024260 | [Node.js: Data Import — Usability Improvement for Small Business](Project_024260/README.md) |
+| 024261 | [Node.js: Data Import — Baseline Setup for Home Development](Project_024261/README.md) |
+| 024262 | [Node.js: Data Import — Automation for Home Development](Project_024262/README.md) |
+| 024263 | [Node.js: Data Import — Recovery for Home Development](Project_024263/README.md) |
+| 024264 | [Node.js: Data Import — Reporting for Home Development](Project_024264/README.md) |
+| 024265 | [Node.js: Data Import — Usability Improvement for Home Development](Project_024265/README.md) |
+| 024266 | [Node.js: Data Import — Baseline Setup for Public Dataset](Project_024266/README.md) |
+| 024267 | [Node.js: Data Import — Automation for Public Dataset](Project_024267/README.md) |
+| 024268 | [Node.js: Data Import — Recovery for Public Dataset](Project_024268/README.md) |
+| 024269 | [Node.js: Data Import — Reporting for Public Dataset](Project_024269/README.md) |
+| 024270 | [Node.js: Data Import — Usability Improvement for Public Dataset](Project_024270/README.md) |
+| 024271 | [Node.js: Data Import — Baseline Setup for Branch Office Simulator](Project_024271/README.md) |
+| 024272 | [Node.js: Data Import — Automation for Branch Office Simulator](Project_024272/README.md) |
+| 024273 | [Node.js: Data Import — Recovery for Branch Office Simulator](Project_024273/README.md) |
+| 024274 | [Node.js: Data Import — Reporting for Branch Office Simulator](Project_024274/README.md) |
+| 024275 | [Node.js: Data Import — Usability Improvement for Branch Office Simulator](Project_024275/README.md) |
+| 024276 | [Node.js: Data Import — Baseline Setup for Offline Classroom](Project_024276/README.md) |
+| 024277 | [Node.js: Data Import — Automation for Offline Classroom](Project_024277/README.md) |
+| 024278 | [Node.js: Data Import — Recovery for Offline Classroom](Project_024278/README.md) |
+| 024279 | [Node.js: Data Import — Reporting for Offline Classroom](Project_024279/README.md) |
+| 024280 | [Node.js: Data Import — Usability Improvement for Offline Classroom](Project_024280/README.md) |
 
 [Back to the portfolio home](../README.md)
