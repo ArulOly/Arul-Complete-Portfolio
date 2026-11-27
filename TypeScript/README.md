@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mts`, a
 | 021638 | [TypeScript: Service Check — Recovery for Two-Node Lab](Project_021638/README.md) |
 | 021639 | [TypeScript: Service Check — Reporting for Two-Node Lab](Project_021639/README.md) |
 | 021640 | [TypeScript: Service Check — Usability Improvement for Two-Node Lab](Project_021640/README.md) |
+| 021641 | [TypeScript: Service Check — Baseline Setup for Help Desk](Project_021641/README.md) |
+| 021642 | [TypeScript: Service Check — Automation for Help Desk](Project_021642/README.md) |
+| 021643 | [TypeScript: Service Check — Recovery for Help Desk](Project_021643/README.md) |
+| 021644 | [TypeScript: Service Check — Reporting for Help Desk](Project_021644/README.md) |
+| 021645 | [TypeScript: Service Check — Usability Improvement for Help Desk](Project_021645/README.md) |
+| 021646 | [TypeScript: Service Check — Baseline Setup for Portfolio Demo](Project_021646/README.md) |
+| 021647 | [TypeScript: Service Check — Automation for Portfolio Demo](Project_021647/README.md) |
+| 021648 | [TypeScript: Service Check — Recovery for Portfolio Demo](Project_021648/README.md) |
+| 021649 | [TypeScript: Service Check — Reporting for Portfolio Demo](Project_021649/README.md) |
+| 021650 | [TypeScript: Service Check — Usability Improvement for Portfolio Demo](Project_021650/README.md) |
+| 021651 | [TypeScript: Configuration Comparison — Baseline Setup for School Lab](Project_021651/README.md) |
+| 021652 | [TypeScript: Configuration Comparison — Automation for School Lab](Project_021652/README.md) |
+| 021653 | [TypeScript: Configuration Comparison — Recovery for School Lab](Project_021653/README.md) |
+| 021654 | [TypeScript: Configuration Comparison — Reporting for School Lab](Project_021654/README.md) |
+| 021655 | [TypeScript: Configuration Comparison — Usability Improvement for School Lab](Project_021655/README.md) |
+| 021656 | [TypeScript: Configuration Comparison — Baseline Setup for Small Business](Project_021656/README.md) |
+| 021657 | [TypeScript: Configuration Comparison — Automation for Small Business](Project_021657/README.md) |
+| 021658 | [TypeScript: Configuration Comparison — Recovery for Small Business](Project_021658/README.md) |
+| 021659 | [TypeScript: Configuration Comparison — Reporting for Small Business](Project_021659/README.md) |
+| 021660 | [TypeScript: Configuration Comparison — Usability Improvement for Small Business](Project_021660/README.md) |
 
 [Back to the portfolio home](../README.md)
