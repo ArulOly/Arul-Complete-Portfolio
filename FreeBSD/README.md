@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005978 | [FreeBSD: Recovery Test — Recovery for Offline Classroom](Project_005978/README.md) |
 | 005979 | [FreeBSD: Recovery Test — Reporting for Offline Classroom](Project_005979/README.md) |
 | 005980 | [FreeBSD: Recovery Test — Usability Improvement for Offline Classroom](Project_005980/README.md) |
+| 005981 | [FreeBSD: Recovery Test — Baseline Setup for Single-Host Lab](Project_005981/README.md) |
+| 005982 | [FreeBSD: Recovery Test — Automation for Single-Host Lab](Project_005982/README.md) |
+| 005983 | [FreeBSD: Recovery Test — Recovery for Single-Host Lab](Project_005983/README.md) |
+| 005984 | [FreeBSD: Recovery Test — Reporting for Single-Host Lab](Project_005984/README.md) |
+| 005985 | [FreeBSD: Recovery Test — Usability Improvement for Single-Host Lab](Project_005985/README.md) |
+| 005986 | [FreeBSD: Recovery Test — Baseline Setup for Two-Node Lab](Project_005986/README.md) |
+| 005987 | [FreeBSD: Recovery Test — Automation for Two-Node Lab](Project_005987/README.md) |
+| 005988 | [FreeBSD: Recovery Test — Recovery for Two-Node Lab](Project_005988/README.md) |
+| 005989 | [FreeBSD: Recovery Test — Reporting for Two-Node Lab](Project_005989/README.md) |
+| 005990 | [FreeBSD: Recovery Test — Usability Improvement for Two-Node Lab](Project_005990/README.md) |
+| 005991 | [FreeBSD: Recovery Test — Baseline Setup for Help Desk](Project_005991/README.md) |
+| 005992 | [FreeBSD: Recovery Test — Automation for Help Desk](Project_005992/README.md) |
+| 005993 | [FreeBSD: Recovery Test — Recovery for Help Desk](Project_005993/README.md) |
+| 005994 | [FreeBSD: Recovery Test — Reporting for Help Desk](Project_005994/README.md) |
+| 005995 | [FreeBSD: Recovery Test — Usability Improvement for Help Desk](Project_005995/README.md) |
+| 005996 | [FreeBSD: Recovery Test — Baseline Setup for Portfolio Demo](Project_005996/README.md) |
+| 005997 | [FreeBSD: Recovery Test — Automation for Portfolio Demo](Project_005997/README.md) |
+| 005998 | [FreeBSD: Recovery Test — Recovery for Portfolio Demo](Project_005998/README.md) |
+| 005999 | [FreeBSD: Recovery Test — Reporting for Portfolio Demo](Project_005999/README.md) |
+| 006000 | [FreeBSD: Recovery Test — Usability Improvement for Portfolio Demo](Project_006000/README.md) |
 
 [Back to the portfolio home](../README.md)
