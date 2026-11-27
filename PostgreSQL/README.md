@@ -4,7 +4,7 @@ This collection contains guide-based PostgreSQL exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 025478 | [PostgreSQL: Scheduled Reporting — Recovery for Offline Classroom](Project_025478/README.md) |
 | 025479 | [PostgreSQL: Scheduled Reporting — Reporting for Offline Classroom](Project_025479/README.md) |
 | 025480 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_025480/README.md) |
+| 025481 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_025481/README.md) |
+| 025482 | [PostgreSQL: Scheduled Reporting — Automation for Single-Host Lab](Project_025482/README.md) |
+| 025483 | [PostgreSQL: Scheduled Reporting — Recovery for Single-Host Lab](Project_025483/README.md) |
+| 025484 | [PostgreSQL: Scheduled Reporting — Reporting for Single-Host Lab](Project_025484/README.md) |
+| 025485 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_025485/README.md) |
+| 025486 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_025486/README.md) |
+| 025487 | [PostgreSQL: Scheduled Reporting — Automation for Two-Node Lab](Project_025487/README.md) |
+| 025488 | [PostgreSQL: Scheduled Reporting — Recovery for Two-Node Lab](Project_025488/README.md) |
+| 025489 | [PostgreSQL: Scheduled Reporting — Reporting for Two-Node Lab](Project_025489/README.md) |
+| 025490 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_025490/README.md) |
+| 025491 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Help Desk](Project_025491/README.md) |
+| 025492 | [PostgreSQL: Scheduled Reporting — Automation for Help Desk](Project_025492/README.md) |
+| 025493 | [PostgreSQL: Scheduled Reporting — Recovery for Help Desk](Project_025493/README.md) |
+| 025494 | [PostgreSQL: Scheduled Reporting — Reporting for Help Desk](Project_025494/README.md) |
+| 025495 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Help Desk](Project_025495/README.md) |
+| 025496 | [PostgreSQL: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_025496/README.md) |
+| 025497 | [PostgreSQL: Scheduled Reporting — Automation for Portfolio Demo](Project_025497/README.md) |
+| 025498 | [PostgreSQL: Scheduled Reporting — Recovery for Portfolio Demo](Project_025498/README.md) |
+| 025499 | [PostgreSQL: Scheduled Reporting — Reporting for Portfolio Demo](Project_025499/README.md) |
+| 025500 | [PostgreSQL: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_025500/README.md) |
 
 [Back to the portfolio home](../README.md)
