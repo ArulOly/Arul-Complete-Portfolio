@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045878 | [Redis: Automation — Recovery for Offline Classroom](Project_045878/README.md) |
 | 045879 | [Redis: Automation — Reporting for Offline Classroom](Project_045879/README.md) |
 | 045880 | [Redis: Automation — Usability Improvement for Offline Classroom](Project_045880/README.md) |
+| 045881 | [Redis: Automation — Baseline Setup for Single-Host Lab](Project_045881/README.md) |
+| 045882 | [Redis: Automation — Automation for Single-Host Lab](Project_045882/README.md) |
+| 045883 | [Redis: Automation — Recovery for Single-Host Lab](Project_045883/README.md) |
+| 045884 | [Redis: Automation — Reporting for Single-Host Lab](Project_045884/README.md) |
+| 045885 | [Redis: Automation — Usability Improvement for Single-Host Lab](Project_045885/README.md) |
+| 045886 | [Redis: Automation — Baseline Setup for Two-Node Lab](Project_045886/README.md) |
+| 045887 | [Redis: Automation — Automation for Two-Node Lab](Project_045887/README.md) |
+| 045888 | [Redis: Automation — Recovery for Two-Node Lab](Project_045888/README.md) |
+| 045889 | [Redis: Automation — Reporting for Two-Node Lab](Project_045889/README.md) |
+| 045890 | [Redis: Automation — Usability Improvement for Two-Node Lab](Project_045890/README.md) |
+| 045891 | [Redis: Automation — Baseline Setup for Help Desk](Project_045891/README.md) |
+| 045892 | [Redis: Automation — Automation for Help Desk](Project_045892/README.md) |
+| 045893 | [Redis: Automation — Recovery for Help Desk](Project_045893/README.md) |
+| 045894 | [Redis: Automation — Reporting for Help Desk](Project_045894/README.md) |
+| 045895 | [Redis: Automation — Usability Improvement for Help Desk](Project_045895/README.md) |
+| 045896 | [Redis: Automation — Baseline Setup for Portfolio Demo](Project_045896/README.md) |
+| 045897 | [Redis: Automation — Automation for Portfolio Demo](Project_045897/README.md) |
+| 045898 | [Redis: Automation — Recovery for Portfolio Demo](Project_045898/README.md) |
+| 045899 | [Redis: Automation — Reporting for Portfolio Demo](Project_045899/README.md) |
+| 045900 | [Redis: Automation — Usability Improvement for Portfolio Demo](Project_045900/README.md) |
 
 [Back to the portfolio home](../README.md)
