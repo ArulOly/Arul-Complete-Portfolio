@@ -4,7 +4,7 @@ This collection contains guide-based Power BI exercises covering local data proc
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Use Power BI Desktop on Windows. Paste a project’s M code into the Advanced Ed
 | 032258 | [Power BI: Data Import — Recovery for Small Business](Project_032258/README.md) |
 | 032259 | [Power BI: Data Import — Reporting for Small Business](Project_032259/README.md) |
 | 032260 | [Power BI: Data Import — Usability Improvement for Small Business](Project_032260/README.md) |
+| 032261 | [Power BI: Data Import — Baseline Setup for Home Development](Project_032261/README.md) |
+| 032262 | [Power BI: Data Import — Automation for Home Development](Project_032262/README.md) |
+| 032263 | [Power BI: Data Import — Recovery for Home Development](Project_032263/README.md) |
+| 032264 | [Power BI: Data Import — Reporting for Home Development](Project_032264/README.md) |
+| 032265 | [Power BI: Data Import — Usability Improvement for Home Development](Project_032265/README.md) |
+| 032266 | [Power BI: Data Import — Baseline Setup for Public Dataset](Project_032266/README.md) |
+| 032267 | [Power BI: Data Import — Automation for Public Dataset](Project_032267/README.md) |
+| 032268 | [Power BI: Data Import — Recovery for Public Dataset](Project_032268/README.md) |
+| 032269 | [Power BI: Data Import — Reporting for Public Dataset](Project_032269/README.md) |
+| 032270 | [Power BI: Data Import — Usability Improvement for Public Dataset](Project_032270/README.md) |
+| 032271 | [Power BI: Data Import — Baseline Setup for Branch Office Simulator](Project_032271/README.md) |
+| 032272 | [Power BI: Data Import — Automation for Branch Office Simulator](Project_032272/README.md) |
+| 032273 | [Power BI: Data Import — Recovery for Branch Office Simulator](Project_032273/README.md) |
+| 032274 | [Power BI: Data Import — Reporting for Branch Office Simulator](Project_032274/README.md) |
+| 032275 | [Power BI: Data Import — Usability Improvement for Branch Office Simulator](Project_032275/README.md) |
+| 032276 | [Power BI: Data Import — Baseline Setup for Offline Classroom](Project_032276/README.md) |
+| 032277 | [Power BI: Data Import — Automation for Offline Classroom](Project_032277/README.md) |
+| 032278 | [Power BI: Data Import — Recovery for Offline Classroom](Project_032278/README.md) |
+| 032279 | [Power BI: Data Import — Reporting for Offline Classroom](Project_032279/README.md) |
+| 032280 | [Power BI: Data Import — Usability Improvement for Offline Classroom](Project_032280/README.md) |
 
 [Back to the portfolio home](../README.md)
