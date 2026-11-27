@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049638 | [FastAPI: Service Check — Recovery for Two-Node Lab](Project_049638/README.md) |
 | 049639 | [FastAPI: Service Check — Reporting for Two-Node Lab](Project_049639/README.md) |
 | 049640 | [FastAPI: Service Check — Usability Improvement for Two-Node Lab](Project_049640/README.md) |
+| 049641 | [FastAPI: Service Check — Baseline Setup for Help Desk](Project_049641/README.md) |
+| 049642 | [FastAPI: Service Check — Automation for Help Desk](Project_049642/README.md) |
+| 049643 | [FastAPI: Service Check — Recovery for Help Desk](Project_049643/README.md) |
+| 049644 | [FastAPI: Service Check — Reporting for Help Desk](Project_049644/README.md) |
+| 049645 | [FastAPI: Service Check — Usability Improvement for Help Desk](Project_049645/README.md) |
+| 049646 | [FastAPI: Service Check — Baseline Setup for Portfolio Demo](Project_049646/README.md) |
+| 049647 | [FastAPI: Service Check — Automation for Portfolio Demo](Project_049647/README.md) |
+| 049648 | [FastAPI: Service Check — Recovery for Portfolio Demo](Project_049648/README.md) |
+| 049649 | [FastAPI: Service Check — Reporting for Portfolio Demo](Project_049649/README.md) |
+| 049650 | [FastAPI: Service Check — Usability Improvement for Portfolio Demo](Project_049650/README.md) |
+| 049651 | [FastAPI: Configuration Comparison — Baseline Setup for School Lab](Project_049651/README.md) |
+| 049652 | [FastAPI: Configuration Comparison — Automation for School Lab](Project_049652/README.md) |
+| 049653 | [FastAPI: Configuration Comparison — Recovery for School Lab](Project_049653/README.md) |
+| 049654 | [FastAPI: Configuration Comparison — Reporting for School Lab](Project_049654/README.md) |
+| 049655 | [FastAPI: Configuration Comparison — Usability Improvement for School Lab](Project_049655/README.md) |
+| 049656 | [FastAPI: Configuration Comparison — Baseline Setup for Small Business](Project_049656/README.md) |
+| 049657 | [FastAPI: Configuration Comparison — Automation for Small Business](Project_049657/README.md) |
+| 049658 | [FastAPI: Configuration Comparison — Recovery for Small Business](Project_049658/README.md) |
+| 049659 | [FastAPI: Configuration Comparison — Reporting for Small Business](Project_049659/README.md) |
+| 049660 | [FastAPI: Configuration Comparison — Usability Improvement for Small Business](Project_049660/README.md) |
 
 [Back to the portfolio home](../README.md)
