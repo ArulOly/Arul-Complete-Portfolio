@@ -4,7 +4,7 @@ This collection contains guide-based Redis exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 045778 | [Redis: Data Validation — Recovery for Offline Classroom](Project_045778/README.md) |
 | 045779 | [Redis: Data Validation — Reporting for Offline Classroom](Project_045779/README.md) |
 | 045780 | [Redis: Data Validation — Usability Improvement for Offline Classroom](Project_045780/README.md) |
+| 045781 | [Redis: Data Validation — Baseline Setup for Single-Host Lab](Project_045781/README.md) |
+| 045782 | [Redis: Data Validation — Automation for Single-Host Lab](Project_045782/README.md) |
+| 045783 | [Redis: Data Validation — Recovery for Single-Host Lab](Project_045783/README.md) |
+| 045784 | [Redis: Data Validation — Reporting for Single-Host Lab](Project_045784/README.md) |
+| 045785 | [Redis: Data Validation — Usability Improvement for Single-Host Lab](Project_045785/README.md) |
+| 045786 | [Redis: Data Validation — Baseline Setup for Two-Node Lab](Project_045786/README.md) |
+| 045787 | [Redis: Data Validation — Automation for Two-Node Lab](Project_045787/README.md) |
+| 045788 | [Redis: Data Validation — Recovery for Two-Node Lab](Project_045788/README.md) |
+| 045789 | [Redis: Data Validation — Reporting for Two-Node Lab](Project_045789/README.md) |
+| 045790 | [Redis: Data Validation — Usability Improvement for Two-Node Lab](Project_045790/README.md) |
+| 045791 | [Redis: Data Validation — Baseline Setup for Help Desk](Project_045791/README.md) |
+| 045792 | [Redis: Data Validation — Automation for Help Desk](Project_045792/README.md) |
+| 045793 | [Redis: Data Validation — Recovery for Help Desk](Project_045793/README.md) |
+| 045794 | [Redis: Data Validation — Reporting for Help Desk](Project_045794/README.md) |
+| 045795 | [Redis: Data Validation — Usability Improvement for Help Desk](Project_045795/README.md) |
+| 045796 | [Redis: Data Validation — Baseline Setup for Portfolio Demo](Project_045796/README.md) |
+| 045797 | [Redis: Data Validation — Automation for Portfolio Demo](Project_045797/README.md) |
+| 045798 | [Redis: Data Validation — Recovery for Portfolio Demo](Project_045798/README.md) |
+| 045799 | [Redis: Data Validation — Reporting for Portfolio Demo](Project_045799/README.md) |
+| 045800 | [Redis: Data Validation — Usability Improvement for Portfolio Demo](Project_045800/README.md) |
 
 [Back to the portfolio home](../README.md)
