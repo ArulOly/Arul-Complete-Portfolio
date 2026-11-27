@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 024278 | [Node.js: Data Import — Recovery for Offline Classroom](Project_024278/README.md) |
 | 024279 | [Node.js: Data Import — Reporting for Offline Classroom](Project_024279/README.md) |
 | 024280 | [Node.js: Data Import — Usability Improvement for Offline Classroom](Project_024280/README.md) |
+| 024281 | [Node.js: Data Import — Baseline Setup for Single-Host Lab](Project_024281/README.md) |
+| 024282 | [Node.js: Data Import — Automation for Single-Host Lab](Project_024282/README.md) |
+| 024283 | [Node.js: Data Import — Recovery for Single-Host Lab](Project_024283/README.md) |
+| 024284 | [Node.js: Data Import — Reporting for Single-Host Lab](Project_024284/README.md) |
+| 024285 | [Node.js: Data Import — Usability Improvement for Single-Host Lab](Project_024285/README.md) |
+| 024286 | [Node.js: Data Import — Baseline Setup for Two-Node Lab](Project_024286/README.md) |
+| 024287 | [Node.js: Data Import — Automation for Two-Node Lab](Project_024287/README.md) |
+| 024288 | [Node.js: Data Import — Recovery for Two-Node Lab](Project_024288/README.md) |
+| 024289 | [Node.js: Data Import — Reporting for Two-Node Lab](Project_024289/README.md) |
+| 024290 | [Node.js: Data Import — Usability Improvement for Two-Node Lab](Project_024290/README.md) |
+| 024291 | [Node.js: Data Import — Baseline Setup for Help Desk](Project_024291/README.md) |
+| 024292 | [Node.js: Data Import — Automation for Help Desk](Project_024292/README.md) |
+| 024293 | [Node.js: Data Import — Recovery for Help Desk](Project_024293/README.md) |
+| 024294 | [Node.js: Data Import — Reporting for Help Desk](Project_024294/README.md) |
+| 024295 | [Node.js: Data Import — Usability Improvement for Help Desk](Project_024295/README.md) |
+| 024296 | [Node.js: Data Import — Baseline Setup for Portfolio Demo](Project_024296/README.md) |
+| 024297 | [Node.js: Data Import — Automation for Portfolio Demo](Project_024297/README.md) |
+| 024298 | [Node.js: Data Import — Recovery for Portfolio Demo](Project_024298/README.md) |
+| 024299 | [Node.js: Data Import — Reporting for Portfolio Demo](Project_024299/README.md) |
+| 024300 | [Node.js: Data Import — Usability Improvement for Portfolio Demo](Project_024300/README.md) |
 
 [Back to the portfolio home](../README.md)
