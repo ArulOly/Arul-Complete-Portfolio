@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020518 | [JavaScript: Access Review — Recovery for Public Dataset](Project_020518/README.md) |
 | 020519 | [JavaScript: Access Review — Reporting for Public Dataset](Project_020519/README.md) |
 | 020520 | [JavaScript: Access Review — Usability Improvement for Public Dataset](Project_020520/README.md) |
+| 020521 | [JavaScript: Access Review — Baseline Setup for Branch Office Simulator](Project_020521/README.md) |
+| 020522 | [JavaScript: Access Review — Automation for Branch Office Simulator](Project_020522/README.md) |
+| 020523 | [JavaScript: Access Review — Recovery for Branch Office Simulator](Project_020523/README.md) |
+| 020524 | [JavaScript: Access Review — Reporting for Branch Office Simulator](Project_020524/README.md) |
+| 020525 | [JavaScript: Access Review — Usability Improvement for Branch Office Simulator](Project_020525/README.md) |
+| 020526 | [JavaScript: Access Review — Baseline Setup for Offline Classroom](Project_020526/README.md) |
+| 020527 | [JavaScript: Access Review — Automation for Offline Classroom](Project_020527/README.md) |
+| 020528 | [JavaScript: Access Review — Recovery for Offline Classroom](Project_020528/README.md) |
+| 020529 | [JavaScript: Access Review — Reporting for Offline Classroom](Project_020529/README.md) |
+| 020530 | [JavaScript: Access Review — Usability Improvement for Offline Classroom](Project_020530/README.md) |
+| 020531 | [JavaScript: Access Review — Baseline Setup for Single-Host Lab](Project_020531/README.md) |
+| 020532 | [JavaScript: Access Review — Automation for Single-Host Lab](Project_020532/README.md) |
+| 020533 | [JavaScript: Access Review — Recovery for Single-Host Lab](Project_020533/README.md) |
+| 020534 | [JavaScript: Access Review — Reporting for Single-Host Lab](Project_020534/README.md) |
+| 020535 | [JavaScript: Access Review — Usability Improvement for Single-Host Lab](Project_020535/README.md) |
+| 020536 | [JavaScript: Access Review — Baseline Setup for Two-Node Lab](Project_020536/README.md) |
+| 020537 | [JavaScript: Access Review — Automation for Two-Node Lab](Project_020537/README.md) |
+| 020538 | [JavaScript: Access Review — Recovery for Two-Node Lab](Project_020538/README.md) |
+| 020539 | [JavaScript: Access Review — Reporting for Two-Node Lab](Project_020539/README.md) |
+| 020540 | [JavaScript: Access Review — Usability Improvement for Two-Node Lab](Project_020540/README.md) |
 
 [Back to the portfolio home](../README.md)
