@@ -4,7 +4,7 @@ This collection contains guide-based MongoDB exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 027578 | [MongoDB: Performance Baseline — Recovery for Offline Classroom](Project_027578/README.md) |
 | 027579 | [MongoDB: Performance Baseline — Reporting for Offline Classroom](Project_027579/README.md) |
 | 027580 | [MongoDB: Performance Baseline — Usability Improvement for Offline Classroom](Project_027580/README.md) |
+| 027581 | [MongoDB: Performance Baseline — Baseline Setup for Single-Host Lab](Project_027581/README.md) |
+| 027582 | [MongoDB: Performance Baseline — Automation for Single-Host Lab](Project_027582/README.md) |
+| 027583 | [MongoDB: Performance Baseline — Recovery for Single-Host Lab](Project_027583/README.md) |
+| 027584 | [MongoDB: Performance Baseline — Reporting for Single-Host Lab](Project_027584/README.md) |
+| 027585 | [MongoDB: Performance Baseline — Usability Improvement for Single-Host Lab](Project_027585/README.md) |
+| 027586 | [MongoDB: Performance Baseline — Baseline Setup for Two-Node Lab](Project_027586/README.md) |
+| 027587 | [MongoDB: Performance Baseline — Automation for Two-Node Lab](Project_027587/README.md) |
+| 027588 | [MongoDB: Performance Baseline — Recovery for Two-Node Lab](Project_027588/README.md) |
+| 027589 | [MongoDB: Performance Baseline — Reporting for Two-Node Lab](Project_027589/README.md) |
+| 027590 | [MongoDB: Performance Baseline — Usability Improvement for Two-Node Lab](Project_027590/README.md) |
+| 027591 | [MongoDB: Performance Baseline — Baseline Setup for Help Desk](Project_027591/README.md) |
+| 027592 | [MongoDB: Performance Baseline — Automation for Help Desk](Project_027592/README.md) |
+| 027593 | [MongoDB: Performance Baseline — Recovery for Help Desk](Project_027593/README.md) |
+| 027594 | [MongoDB: Performance Baseline — Reporting for Help Desk](Project_027594/README.md) |
+| 027595 | [MongoDB: Performance Baseline — Usability Improvement for Help Desk](Project_027595/README.md) |
+| 027596 | [MongoDB: Performance Baseline — Baseline Setup for Portfolio Demo](Project_027596/README.md) |
+| 027597 | [MongoDB: Performance Baseline — Automation for Portfolio Demo](Project_027597/README.md) |
+| 027598 | [MongoDB: Performance Baseline — Recovery for Portfolio Demo](Project_027598/README.md) |
+| 027599 | [MongoDB: Performance Baseline — Reporting for Portfolio Demo](Project_027599/README.md) |
+| 027600 | [MongoDB: Performance Baseline — Usability Improvement for Portfolio Demo](Project_027600/README.md) |
 
 [Back to the portfolio home](../README.md)
