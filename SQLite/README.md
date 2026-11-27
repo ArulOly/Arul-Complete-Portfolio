@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028958 | [SQLite: Recovery Test — Recovery for Small Business](Project_028958/README.md) |
 | 028959 | [SQLite: Recovery Test — Reporting for Small Business](Project_028959/README.md) |
 | 028960 | [SQLite: Recovery Test — Usability Improvement for Small Business](Project_028960/README.md) |
+| 028961 | [SQLite: Recovery Test — Baseline Setup for Home Development](Project_028961/README.md) |
+| 028962 | [SQLite: Recovery Test — Automation for Home Development](Project_028962/README.md) |
+| 028963 | [SQLite: Recovery Test — Recovery for Home Development](Project_028963/README.md) |
+| 028964 | [SQLite: Recovery Test — Reporting for Home Development](Project_028964/README.md) |
+| 028965 | [SQLite: Recovery Test — Usability Improvement for Home Development](Project_028965/README.md) |
+| 028966 | [SQLite: Recovery Test — Baseline Setup for Public Dataset](Project_028966/README.md) |
+| 028967 | [SQLite: Recovery Test — Automation for Public Dataset](Project_028967/README.md) |
+| 028968 | [SQLite: Recovery Test — Recovery for Public Dataset](Project_028968/README.md) |
+| 028969 | [SQLite: Recovery Test — Reporting for Public Dataset](Project_028969/README.md) |
+| 028970 | [SQLite: Recovery Test — Usability Improvement for Public Dataset](Project_028970/README.md) |
+| 028971 | [SQLite: Recovery Test — Baseline Setup for Branch Office Simulator](Project_028971/README.md) |
+| 028972 | [SQLite: Recovery Test — Automation for Branch Office Simulator](Project_028972/README.md) |
+| 028973 | [SQLite: Recovery Test — Recovery for Branch Office Simulator](Project_028973/README.md) |
+| 028974 | [SQLite: Recovery Test — Reporting for Branch Office Simulator](Project_028974/README.md) |
+| 028975 | [SQLite: Recovery Test — Usability Improvement for Branch Office Simulator](Project_028975/README.md) |
+| 028976 | [SQLite: Recovery Test — Baseline Setup for Offline Classroom](Project_028976/README.md) |
+| 028977 | [SQLite: Recovery Test — Automation for Offline Classroom](Project_028977/README.md) |
+| 028978 | [SQLite: Recovery Test — Recovery for Offline Classroom](Project_028978/README.md) |
+| 028979 | [SQLite: Recovery Test — Reporting for Offline Classroom](Project_028979/README.md) |
+| 028980 | [SQLite: Recovery Test — Usability Improvement for Offline Classroom](Project_028980/README.md) |
 
 [Back to the portfolio home](../README.md)
