@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049898 | [FastAPI: Automation — Recovery for Portfolio Demo](Project_049898/README.md) |
 | 049899 | [FastAPI: Automation — Reporting for Portfolio Demo](Project_049899/README.md) |
 | 049900 | [FastAPI: Automation — Usability Improvement for Portfolio Demo](Project_049900/README.md) |
+| 049901 | [FastAPI: Visual Reporting — Baseline Setup for School Lab](Project_049901/README.md) |
+| 049902 | [FastAPI: Visual Reporting — Automation for School Lab](Project_049902/README.md) |
+| 049903 | [FastAPI: Visual Reporting — Recovery for School Lab](Project_049903/README.md) |
+| 049904 | [FastAPI: Visual Reporting — Reporting for School Lab](Project_049904/README.md) |
+| 049905 | [FastAPI: Visual Reporting — Usability Improvement for School Lab](Project_049905/README.md) |
+| 049906 | [FastAPI: Visual Reporting — Baseline Setup for Small Business](Project_049906/README.md) |
+| 049907 | [FastAPI: Visual Reporting — Automation for Small Business](Project_049907/README.md) |
+| 049908 | [FastAPI: Visual Reporting — Recovery for Small Business](Project_049908/README.md) |
+| 049909 | [FastAPI: Visual Reporting — Reporting for Small Business](Project_049909/README.md) |
+| 049910 | [FastAPI: Visual Reporting — Usability Improvement for Small Business](Project_049910/README.md) |
+| 049911 | [FastAPI: Visual Reporting — Baseline Setup for Home Development](Project_049911/README.md) |
+| 049912 | [FastAPI: Visual Reporting — Automation for Home Development](Project_049912/README.md) |
+| 049913 | [FastAPI: Visual Reporting — Recovery for Home Development](Project_049913/README.md) |
+| 049914 | [FastAPI: Visual Reporting — Reporting for Home Development](Project_049914/README.md) |
+| 049915 | [FastAPI: Visual Reporting — Usability Improvement for Home Development](Project_049915/README.md) |
+| 049916 | [FastAPI: Visual Reporting — Baseline Setup for Public Dataset](Project_049916/README.md) |
+| 049917 | [FastAPI: Visual Reporting — Automation for Public Dataset](Project_049917/README.md) |
+| 049918 | [FastAPI: Visual Reporting — Recovery for Public Dataset](Project_049918/README.md) |
+| 049919 | [FastAPI: Visual Reporting — Reporting for Public Dataset](Project_049919/README.md) |
+| 049920 | [FastAPI: Visual Reporting — Usability Improvement for Public Dataset](Project_049920/README.md) |
 
 [Back to the portfolio home](../README.md)
