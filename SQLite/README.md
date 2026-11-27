@@ -4,7 +4,7 @@ This collection contains guide-based SQLite exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 028978 | [SQLite: Recovery Test — Recovery for Offline Classroom](Project_028978/README.md) |
 | 028979 | [SQLite: Recovery Test — Reporting for Offline Classroom](Project_028979/README.md) |
 | 028980 | [SQLite: Recovery Test — Usability Improvement for Offline Classroom](Project_028980/README.md) |
+| 028981 | [SQLite: Recovery Test — Baseline Setup for Single-Host Lab](Project_028981/README.md) |
+| 028982 | [SQLite: Recovery Test — Automation for Single-Host Lab](Project_028982/README.md) |
+| 028983 | [SQLite: Recovery Test — Recovery for Single-Host Lab](Project_028983/README.md) |
+| 028984 | [SQLite: Recovery Test — Reporting for Single-Host Lab](Project_028984/README.md) |
+| 028985 | [SQLite: Recovery Test — Usability Improvement for Single-Host Lab](Project_028985/README.md) |
+| 028986 | [SQLite: Recovery Test — Baseline Setup for Two-Node Lab](Project_028986/README.md) |
+| 028987 | [SQLite: Recovery Test — Automation for Two-Node Lab](Project_028987/README.md) |
+| 028988 | [SQLite: Recovery Test — Recovery for Two-Node Lab](Project_028988/README.md) |
+| 028989 | [SQLite: Recovery Test — Reporting for Two-Node Lab](Project_028989/README.md) |
+| 028990 | [SQLite: Recovery Test — Usability Improvement for Two-Node Lab](Project_028990/README.md) |
+| 028991 | [SQLite: Recovery Test — Baseline Setup for Help Desk](Project_028991/README.md) |
+| 028992 | [SQLite: Recovery Test — Automation for Help Desk](Project_028992/README.md) |
+| 028993 | [SQLite: Recovery Test — Recovery for Help Desk](Project_028993/README.md) |
+| 028994 | [SQLite: Recovery Test — Reporting for Help Desk](Project_028994/README.md) |
+| 028995 | [SQLite: Recovery Test — Usability Improvement for Help Desk](Project_028995/README.md) |
+| 028996 | [SQLite: Recovery Test — Baseline Setup for Portfolio Demo](Project_028996/README.md) |
+| 028997 | [SQLite: Recovery Test — Automation for Portfolio Demo](Project_028997/README.md) |
+| 028998 | [SQLite: Recovery Test — Recovery for Portfolio Demo](Project_028998/README.md) |
+| 028999 | [SQLite: Recovery Test — Reporting for Portfolio Demo](Project_028999/README.md) |
+| 029000 | [SQLite: Recovery Test — Usability Improvement for Portfolio Demo](Project_029000/README.md) |
 
 [Back to the portfolio home](../README.md)
