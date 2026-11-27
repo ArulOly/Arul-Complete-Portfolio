@@ -4,7 +4,7 @@ This collection contains guide-based FreeBSD exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Run the embedded Python on FreeBSD. Save the project code and synthetic input lo
 | 005338 | [FreeBSD: Data Export — Recovery for Two-Node Lab](Project_005338/README.md) |
 | 005339 | [FreeBSD: Data Export — Reporting for Two-Node Lab](Project_005339/README.md) |
 | 005340 | [FreeBSD: Data Export — Usability Improvement for Two-Node Lab](Project_005340/README.md) |
+| 005341 | [FreeBSD: Data Export — Baseline Setup for Help Desk](Project_005341/README.md) |
+| 005342 | [FreeBSD: Data Export — Automation for Help Desk](Project_005342/README.md) |
+| 005343 | [FreeBSD: Data Export — Recovery for Help Desk](Project_005343/README.md) |
+| 005344 | [FreeBSD: Data Export — Reporting for Help Desk](Project_005344/README.md) |
+| 005345 | [FreeBSD: Data Export — Usability Improvement for Help Desk](Project_005345/README.md) |
+| 005346 | [FreeBSD: Data Export — Baseline Setup for Portfolio Demo](Project_005346/README.md) |
+| 005347 | [FreeBSD: Data Export — Automation for Portfolio Demo](Project_005347/README.md) |
+| 005348 | [FreeBSD: Data Export — Recovery for Portfolio Demo](Project_005348/README.md) |
+| 005349 | [FreeBSD: Data Export — Reporting for Portfolio Demo](Project_005349/README.md) |
+| 005350 | [FreeBSD: Data Export — Usability Improvement for Portfolio Demo](Project_005350/README.md) |
+| 005351 | [FreeBSD: Dashboard — Baseline Setup for School Lab](Project_005351/README.md) |
+| 005352 | [FreeBSD: Dashboard — Automation for School Lab](Project_005352/README.md) |
+| 005353 | [FreeBSD: Dashboard — Recovery for School Lab](Project_005353/README.md) |
+| 005354 | [FreeBSD: Dashboard — Reporting for School Lab](Project_005354/README.md) |
+| 005355 | [FreeBSD: Dashboard — Usability Improvement for School Lab](Project_005355/README.md) |
+| 005356 | [FreeBSD: Dashboard — Baseline Setup for Small Business](Project_005356/README.md) |
+| 005357 | [FreeBSD: Dashboard — Automation for Small Business](Project_005357/README.md) |
+| 005358 | [FreeBSD: Dashboard — Recovery for Small Business](Project_005358/README.md) |
+| 005359 | [FreeBSD: Dashboard — Reporting for Small Business](Project_005359/README.md) |
+| 005360 | [FreeBSD: Dashboard — Usability Improvement for Small Business](Project_005360/README.md) |
 
 [Back to the portfolio home](../README.md)
