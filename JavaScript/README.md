@@ -4,7 +4,7 @@ These guide-based exercises use Node.js to practice local data processing, repor
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Install Node.js 24 or later. Open a project, save its source as `project.mjs`, a
 | 020038 | [JavaScript: Inventory — Recovery for Two-Node Lab](Project_020038/README.md) |
 | 020039 | [JavaScript: Inventory — Reporting for Two-Node Lab](Project_020039/README.md) |
 | 020040 | [JavaScript: Inventory — Usability Improvement for Two-Node Lab](Project_020040/README.md) |
+| 020041 | [JavaScript: Inventory — Baseline Setup for Help Desk](Project_020041/README.md) |
+| 020042 | [JavaScript: Inventory — Automation for Help Desk](Project_020042/README.md) |
+| 020043 | [JavaScript: Inventory — Recovery for Help Desk](Project_020043/README.md) |
+| 020044 | [JavaScript: Inventory — Reporting for Help Desk](Project_020044/README.md) |
+| 020045 | [JavaScript: Inventory — Usability Improvement for Help Desk](Project_020045/README.md) |
+| 020046 | [JavaScript: Inventory — Baseline Setup for Portfolio Demo](Project_020046/README.md) |
+| 020047 | [JavaScript: Inventory — Automation for Portfolio Demo](Project_020047/README.md) |
+| 020048 | [JavaScript: Inventory — Recovery for Portfolio Demo](Project_020048/README.md) |
+| 020049 | [JavaScript: Inventory — Reporting for Portfolio Demo](Project_020049/README.md) |
+| 020050 | [JavaScript: Inventory — Usability Improvement for Portfolio Demo](Project_020050/README.md) |
+| 020051 | [JavaScript: Monitoring — Baseline Setup for School Lab](Project_020051/README.md) |
+| 020052 | [JavaScript: Monitoring — Automation for School Lab](Project_020052/README.md) |
+| 020053 | [JavaScript: Monitoring — Recovery for School Lab](Project_020053/README.md) |
+| 020054 | [JavaScript: Monitoring — Reporting for School Lab](Project_020054/README.md) |
+| 020055 | [JavaScript: Monitoring — Usability Improvement for School Lab](Project_020055/README.md) |
+| 020056 | [JavaScript: Monitoring — Baseline Setup for Small Business](Project_020056/README.md) |
+| 020057 | [JavaScript: Monitoring — Automation for Small Business](Project_020057/README.md) |
+| 020058 | [JavaScript: Monitoring — Recovery for Small Business](Project_020058/README.md) |
+| 020059 | [JavaScript: Monitoring — Reporting for Small Business](Project_020059/README.md) |
+| 020060 | [JavaScript: Monitoring — Usability Improvement for Small Business](Project_020060/README.md) |
 
 [Back to the portfolio home](../README.md)
