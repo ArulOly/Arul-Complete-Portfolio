@@ -4,7 +4,7 @@ This collection contains guide-based Scikit-learn exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Copy the source and JSON sample to local files. Install scikit-learn in a Python
 | 034358 | [Scikit-learn: Dashboard — Recovery for Small Business](Project_034358/README.md) |
 | 034359 | [Scikit-learn: Dashboard — Reporting for Small Business](Project_034359/README.md) |
 | 034360 | [Scikit-learn: Dashboard — Usability Improvement for Small Business](Project_034360/README.md) |
+| 034361 | [Scikit-learn: Dashboard — Baseline Setup for Home Development](Project_034361/README.md) |
+| 034362 | [Scikit-learn: Dashboard — Automation for Home Development](Project_034362/README.md) |
+| 034363 | [Scikit-learn: Dashboard — Recovery for Home Development](Project_034363/README.md) |
+| 034364 | [Scikit-learn: Dashboard — Reporting for Home Development](Project_034364/README.md) |
+| 034365 | [Scikit-learn: Dashboard — Usability Improvement for Home Development](Project_034365/README.md) |
+| 034366 | [Scikit-learn: Dashboard — Baseline Setup for Public Dataset](Project_034366/README.md) |
+| 034367 | [Scikit-learn: Dashboard — Automation for Public Dataset](Project_034367/README.md) |
+| 034368 | [Scikit-learn: Dashboard — Recovery for Public Dataset](Project_034368/README.md) |
+| 034369 | [Scikit-learn: Dashboard — Reporting for Public Dataset](Project_034369/README.md) |
+| 034370 | [Scikit-learn: Dashboard — Usability Improvement for Public Dataset](Project_034370/README.md) |
+| 034371 | [Scikit-learn: Dashboard — Baseline Setup for Branch Office Simulator](Project_034371/README.md) |
+| 034372 | [Scikit-learn: Dashboard — Automation for Branch Office Simulator](Project_034372/README.md) |
+| 034373 | [Scikit-learn: Dashboard — Recovery for Branch Office Simulator](Project_034373/README.md) |
+| 034374 | [Scikit-learn: Dashboard — Reporting for Branch Office Simulator](Project_034374/README.md) |
+| 034375 | [Scikit-learn: Dashboard — Usability Improvement for Branch Office Simulator](Project_034375/README.md) |
+| 034376 | [Scikit-learn: Dashboard — Baseline Setup for Offline Classroom](Project_034376/README.md) |
+| 034377 | [Scikit-learn: Dashboard — Automation for Offline Classroom](Project_034377/README.md) |
+| 034378 | [Scikit-learn: Dashboard — Recovery for Offline Classroom](Project_034378/README.md) |
+| 034379 | [Scikit-learn: Dashboard — Reporting for Offline Classroom](Project_034379/README.md) |
+| 034380 | [Scikit-learn: Dashboard — Usability Improvement for Offline Classroom](Project_034380/README.md) |
 
 [Back to the portfolio home](../README.md)
