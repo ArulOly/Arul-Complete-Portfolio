@@ -4,7 +4,7 @@ This collection contains guide-based FastAPI exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 049718 | [FastAPI: Error Handling — Recovery for Public Dataset](Project_049718/README.md) |
 | 049719 | [FastAPI: Error Handling — Reporting for Public Dataset](Project_049719/README.md) |
 | 049720 | [FastAPI: Error Handling — Usability Improvement for Public Dataset](Project_049720/README.md) |
+| 049721 | [FastAPI: Error Handling — Baseline Setup for Branch Office Simulator](Project_049721/README.md) |
+| 049722 | [FastAPI: Error Handling — Automation for Branch Office Simulator](Project_049722/README.md) |
+| 049723 | [FastAPI: Error Handling — Recovery for Branch Office Simulator](Project_049723/README.md) |
+| 049724 | [FastAPI: Error Handling — Reporting for Branch Office Simulator](Project_049724/README.md) |
+| 049725 | [FastAPI: Error Handling — Usability Improvement for Branch Office Simulator](Project_049725/README.md) |
+| 049726 | [FastAPI: Error Handling — Baseline Setup for Offline Classroom](Project_049726/README.md) |
+| 049727 | [FastAPI: Error Handling — Automation for Offline Classroom](Project_049727/README.md) |
+| 049728 | [FastAPI: Error Handling — Recovery for Offline Classroom](Project_049728/README.md) |
+| 049729 | [FastAPI: Error Handling — Reporting for Offline Classroom](Project_049729/README.md) |
+| 049730 | [FastAPI: Error Handling — Usability Improvement for Offline Classroom](Project_049730/README.md) |
+| 049731 | [FastAPI: Error Handling — Baseline Setup for Single-Host Lab](Project_049731/README.md) |
+| 049732 | [FastAPI: Error Handling — Automation for Single-Host Lab](Project_049732/README.md) |
+| 049733 | [FastAPI: Error Handling — Recovery for Single-Host Lab](Project_049733/README.md) |
+| 049734 | [FastAPI: Error Handling — Reporting for Single-Host Lab](Project_049734/README.md) |
+| 049735 | [FastAPI: Error Handling — Usability Improvement for Single-Host Lab](Project_049735/README.md) |
+| 049736 | [FastAPI: Error Handling — Baseline Setup for Two-Node Lab](Project_049736/README.md) |
+| 049737 | [FastAPI: Error Handling — Automation for Two-Node Lab](Project_049737/README.md) |
+| 049738 | [FastAPI: Error Handling — Recovery for Two-Node Lab](Project_049738/README.md) |
+| 049739 | [FastAPI: Error Handling — Reporting for Two-Node Lab](Project_049739/README.md) |
+| 049740 | [FastAPI: Error Handling — Usability Improvement for Two-Node Lab](Project_049740/README.md) |
 
 [Back to the portfolio home](../README.md)
