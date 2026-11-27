@@ -4,7 +4,7 @@ This collection contains guide-based Flask exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Use a local Python virtual environment. Copy the embedded block into `app.py`, s
 | 048698 | [Flask: Configuration Comparison — Recovery for Portfolio Demo](Project_048698/README.md) |
 | 048699 | [Flask: Configuration Comparison — Reporting for Portfolio Demo](Project_048699/README.md) |
 | 048700 | [Flask: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_048700/README.md) |
+| 048701 | [Flask: Error Handling — Baseline Setup for School Lab](Project_048701/README.md) |
+| 048702 | [Flask: Error Handling — Automation for School Lab](Project_048702/README.md) |
+| 048703 | [Flask: Error Handling — Recovery for School Lab](Project_048703/README.md) |
+| 048704 | [Flask: Error Handling — Reporting for School Lab](Project_048704/README.md) |
+| 048705 | [Flask: Error Handling — Usability Improvement for School Lab](Project_048705/README.md) |
+| 048706 | [Flask: Error Handling — Baseline Setup for Small Business](Project_048706/README.md) |
+| 048707 | [Flask: Error Handling — Automation for Small Business](Project_048707/README.md) |
+| 048708 | [Flask: Error Handling — Recovery for Small Business](Project_048708/README.md) |
+| 048709 | [Flask: Error Handling — Reporting for Small Business](Project_048709/README.md) |
+| 048710 | [Flask: Error Handling — Usability Improvement for Small Business](Project_048710/README.md) |
+| 048711 | [Flask: Error Handling — Baseline Setup for Home Development](Project_048711/README.md) |
+| 048712 | [Flask: Error Handling — Automation for Home Development](Project_048712/README.md) |
+| 048713 | [Flask: Error Handling — Recovery for Home Development](Project_048713/README.md) |
+| 048714 | [Flask: Error Handling — Reporting for Home Development](Project_048714/README.md) |
+| 048715 | [Flask: Error Handling — Usability Improvement for Home Development](Project_048715/README.md) |
+| 048716 | [Flask: Error Handling — Baseline Setup for Public Dataset](Project_048716/README.md) |
+| 048717 | [Flask: Error Handling — Automation for Public Dataset](Project_048717/README.md) |
+| 048718 | [Flask: Error Handling — Recovery for Public Dataset](Project_048718/README.md) |
+| 048719 | [Flask: Error Handling — Reporting for Public Dataset](Project_048719/README.md) |
+| 048720 | [Flask: Error Handling — Usability Improvement for Public Dataset](Project_048720/README.md) |
 
 [Back to the portfolio home](../README.md)
