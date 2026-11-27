@@ -4,7 +4,7 @@ This collection contains guide-based Ubuntu exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Run the embedded Python on Ubuntu. Save the project code and synthetic input loc
 | 002558 | [Ubuntu: Performance Baseline — Recovery for Small Business](Project_002558/README.md) |
 | 002559 | [Ubuntu: Performance Baseline — Reporting for Small Business](Project_002559/README.md) |
 | 002560 | [Ubuntu: Performance Baseline — Usability Improvement for Small Business](Project_002560/README.md) |
+| 002561 | [Ubuntu: Performance Baseline — Baseline Setup for Home Development](Project_002561/README.md) |
+| 002562 | [Ubuntu: Performance Baseline — Automation for Home Development](Project_002562/README.md) |
+| 002563 | [Ubuntu: Performance Baseline — Recovery for Home Development](Project_002563/README.md) |
+| 002564 | [Ubuntu: Performance Baseline — Reporting for Home Development](Project_002564/README.md) |
+| 002565 | [Ubuntu: Performance Baseline — Usability Improvement for Home Development](Project_002565/README.md) |
+| 002566 | [Ubuntu: Performance Baseline — Baseline Setup for Public Dataset](Project_002566/README.md) |
+| 002567 | [Ubuntu: Performance Baseline — Automation for Public Dataset](Project_002567/README.md) |
+| 002568 | [Ubuntu: Performance Baseline — Recovery for Public Dataset](Project_002568/README.md) |
+| 002569 | [Ubuntu: Performance Baseline — Reporting for Public Dataset](Project_002569/README.md) |
+| 002570 | [Ubuntu: Performance Baseline — Usability Improvement for Public Dataset](Project_002570/README.md) |
+| 002571 | [Ubuntu: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_002571/README.md) |
+| 002572 | [Ubuntu: Performance Baseline — Automation for Branch Office Simulator](Project_002572/README.md) |
+| 002573 | [Ubuntu: Performance Baseline — Recovery for Branch Office Simulator](Project_002573/README.md) |
+| 002574 | [Ubuntu: Performance Baseline — Reporting for Branch Office Simulator](Project_002574/README.md) |
+| 002575 | [Ubuntu: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_002575/README.md) |
+| 002576 | [Ubuntu: Performance Baseline — Baseline Setup for Offline Classroom](Project_002576/README.md) |
+| 002577 | [Ubuntu: Performance Baseline — Automation for Offline Classroom](Project_002577/README.md) |
+| 002578 | [Ubuntu: Performance Baseline — Recovery for Offline Classroom](Project_002578/README.md) |
+| 002579 | [Ubuntu: Performance Baseline — Reporting for Offline Classroom](Project_002579/README.md) |
+| 002580 | [Ubuntu: Performance Baseline — Usability Improvement for Offline Classroom](Project_002580/README.md) |
 
 [Back to the portfolio home](../README.md)
