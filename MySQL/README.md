@@ -4,7 +4,7 @@ This collection contains guide-based MySQL exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python code as `project.py` and the JSON sample as `sample.jso
 | 026898 | [MySQL: Automation — Recovery for Portfolio Demo](Project_026898/README.md) |
 | 026899 | [MySQL: Automation — Reporting for Portfolio Demo](Project_026899/README.md) |
 | 026900 | [MySQL: Automation — Usability Improvement for Portfolio Demo](Project_026900/README.md) |
+| 026901 | [MySQL: Visual Reporting — Baseline Setup for School Lab](Project_026901/README.md) |
+| 026902 | [MySQL: Visual Reporting — Automation for School Lab](Project_026902/README.md) |
+| 026903 | [MySQL: Visual Reporting — Recovery for School Lab](Project_026903/README.md) |
+| 026904 | [MySQL: Visual Reporting — Reporting for School Lab](Project_026904/README.md) |
+| 026905 | [MySQL: Visual Reporting — Usability Improvement for School Lab](Project_026905/README.md) |
+| 026906 | [MySQL: Visual Reporting — Baseline Setup for Small Business](Project_026906/README.md) |
+| 026907 | [MySQL: Visual Reporting — Automation for Small Business](Project_026907/README.md) |
+| 026908 | [MySQL: Visual Reporting — Recovery for Small Business](Project_026908/README.md) |
+| 026909 | [MySQL: Visual Reporting — Reporting for Small Business](Project_026909/README.md) |
+| 026910 | [MySQL: Visual Reporting — Usability Improvement for Small Business](Project_026910/README.md) |
+| 026911 | [MySQL: Visual Reporting — Baseline Setup for Home Development](Project_026911/README.md) |
+| 026912 | [MySQL: Visual Reporting — Automation for Home Development](Project_026912/README.md) |
+| 026913 | [MySQL: Visual Reporting — Recovery for Home Development](Project_026913/README.md) |
+| 026914 | [MySQL: Visual Reporting — Reporting for Home Development](Project_026914/README.md) |
+| 026915 | [MySQL: Visual Reporting — Usability Improvement for Home Development](Project_026915/README.md) |
+| 026916 | [MySQL: Visual Reporting — Baseline Setup for Public Dataset](Project_026916/README.md) |
+| 026917 | [MySQL: Visual Reporting — Automation for Public Dataset](Project_026917/README.md) |
+| 026918 | [MySQL: Visual Reporting — Recovery for Public Dataset](Project_026918/README.md) |
+| 026919 | [MySQL: Visual Reporting — Reporting for Public Dataset](Project_026919/README.md) |
+| 026920 | [MySQL: Visual Reporting — Usability Improvement for Public Dataset](Project_026920/README.md) |
 
 [Back to the portfolio home](../README.md)
