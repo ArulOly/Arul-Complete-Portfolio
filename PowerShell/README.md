@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040178 | [PowerShell: Log Analysis — Recovery for Offline Classroom](Project_040178/README.md) |
 | 040179 | [PowerShell: Log Analysis — Reporting for Offline Classroom](Project_040179/README.md) |
 | 040180 | [PowerShell: Log Analysis — Usability Improvement for Offline Classroom](Project_040180/README.md) |
+| 040181 | [PowerShell: Log Analysis — Baseline Setup for Single-Host Lab](Project_040181/README.md) |
+| 040182 | [PowerShell: Log Analysis — Automation for Single-Host Lab](Project_040182/README.md) |
+| 040183 | [PowerShell: Log Analysis — Recovery for Single-Host Lab](Project_040183/README.md) |
+| 040184 | [PowerShell: Log Analysis — Reporting for Single-Host Lab](Project_040184/README.md) |
+| 040185 | [PowerShell: Log Analysis — Usability Improvement for Single-Host Lab](Project_040185/README.md) |
+| 040186 | [PowerShell: Log Analysis — Baseline Setup for Two-Node Lab](Project_040186/README.md) |
+| 040187 | [PowerShell: Log Analysis — Automation for Two-Node Lab](Project_040187/README.md) |
+| 040188 | [PowerShell: Log Analysis — Recovery for Two-Node Lab](Project_040188/README.md) |
+| 040189 | [PowerShell: Log Analysis — Reporting for Two-Node Lab](Project_040189/README.md) |
+| 040190 | [PowerShell: Log Analysis — Usability Improvement for Two-Node Lab](Project_040190/README.md) |
+| 040191 | [PowerShell: Log Analysis — Baseline Setup for Help Desk](Project_040191/README.md) |
+| 040192 | [PowerShell: Log Analysis — Automation for Help Desk](Project_040192/README.md) |
+| 040193 | [PowerShell: Log Analysis — Recovery for Help Desk](Project_040193/README.md) |
+| 040194 | [PowerShell: Log Analysis — Reporting for Help Desk](Project_040194/README.md) |
+| 040195 | [PowerShell: Log Analysis — Usability Improvement for Help Desk](Project_040195/README.md) |
+| 040196 | [PowerShell: Log Analysis — Baseline Setup for Portfolio Demo](Project_040196/README.md) |
+| 040197 | [PowerShell: Log Analysis — Automation for Portfolio Demo](Project_040197/README.md) |
+| 040198 | [PowerShell: Log Analysis — Recovery for Portfolio Demo](Project_040198/README.md) |
+| 040199 | [PowerShell: Log Analysis — Reporting for Portfolio Demo](Project_040199/README.md) |
+| 040200 | [PowerShell: Log Analysis — Usability Improvement for Portfolio Demo](Project_040200/README.md) |
 
 [Back to the portfolio home](../README.md)
