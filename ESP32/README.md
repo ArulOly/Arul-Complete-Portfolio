@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036958 | [ESP32: Recovery Test — Recovery for Small Business](Project_036958/README.md) |
 | 036959 | [ESP32: Recovery Test — Reporting for Small Business](Project_036959/README.md) |
 | 036960 | [ESP32: Recovery Test — Usability Improvement for Small Business](Project_036960/README.md) |
+| 036961 | [ESP32: Recovery Test — Baseline Setup for Home Development](Project_036961/README.md) |
+| 036962 | [ESP32: Recovery Test — Automation for Home Development](Project_036962/README.md) |
+| 036963 | [ESP32: Recovery Test — Recovery for Home Development](Project_036963/README.md) |
+| 036964 | [ESP32: Recovery Test — Reporting for Home Development](Project_036964/README.md) |
+| 036965 | [ESP32: Recovery Test — Usability Improvement for Home Development](Project_036965/README.md) |
+| 036966 | [ESP32: Recovery Test — Baseline Setup for Public Dataset](Project_036966/README.md) |
+| 036967 | [ESP32: Recovery Test — Automation for Public Dataset](Project_036967/README.md) |
+| 036968 | [ESP32: Recovery Test — Recovery for Public Dataset](Project_036968/README.md) |
+| 036969 | [ESP32: Recovery Test — Reporting for Public Dataset](Project_036969/README.md) |
+| 036970 | [ESP32: Recovery Test — Usability Improvement for Public Dataset](Project_036970/README.md) |
+| 036971 | [ESP32: Recovery Test — Baseline Setup for Branch Office Simulator](Project_036971/README.md) |
+| 036972 | [ESP32: Recovery Test — Automation for Branch Office Simulator](Project_036972/README.md) |
+| 036973 | [ESP32: Recovery Test — Recovery for Branch Office Simulator](Project_036973/README.md) |
+| 036974 | [ESP32: Recovery Test — Reporting for Branch Office Simulator](Project_036974/README.md) |
+| 036975 | [ESP32: Recovery Test — Usability Improvement for Branch Office Simulator](Project_036975/README.md) |
+| 036976 | [ESP32: Recovery Test — Baseline Setup for Offline Classroom](Project_036976/README.md) |
+| 036977 | [ESP32: Recovery Test — Automation for Offline Classroom](Project_036977/README.md) |
+| 036978 | [ESP32: Recovery Test — Recovery for Offline Classroom](Project_036978/README.md) |
+| 036979 | [ESP32: Recovery Test — Reporting for Offline Classroom](Project_036979/README.md) |
+| 036980 | [ESP32: Recovery Test — Usability Improvement for Offline Classroom](Project_036980/README.md) |
 
 [Back to the portfolio home](../README.md)
