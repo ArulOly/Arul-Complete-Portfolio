@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039578 | [Bash: Performance Baseline — Recovery for Offline Classroom](Project_039578/README.md) |
 | 039579 | [Bash: Performance Baseline — Reporting for Offline Classroom](Project_039579/README.md) |
 | 039580 | [Bash: Performance Baseline — Usability Improvement for Offline Classroom](Project_039580/README.md) |
+| 039581 | [Bash: Performance Baseline — Baseline Setup for Single-Host Lab](Project_039581/README.md) |
+| 039582 | [Bash: Performance Baseline — Automation for Single-Host Lab](Project_039582/README.md) |
+| 039583 | [Bash: Performance Baseline — Recovery for Single-Host Lab](Project_039583/README.md) |
+| 039584 | [Bash: Performance Baseline — Reporting for Single-Host Lab](Project_039584/README.md) |
+| 039585 | [Bash: Performance Baseline — Usability Improvement for Single-Host Lab](Project_039585/README.md) |
+| 039586 | [Bash: Performance Baseline — Baseline Setup for Two-Node Lab](Project_039586/README.md) |
+| 039587 | [Bash: Performance Baseline — Automation for Two-Node Lab](Project_039587/README.md) |
+| 039588 | [Bash: Performance Baseline — Recovery for Two-Node Lab](Project_039588/README.md) |
+| 039589 | [Bash: Performance Baseline — Reporting for Two-Node Lab](Project_039589/README.md) |
+| 039590 | [Bash: Performance Baseline — Usability Improvement for Two-Node Lab](Project_039590/README.md) |
+| 039591 | [Bash: Performance Baseline — Baseline Setup for Help Desk](Project_039591/README.md) |
+| 039592 | [Bash: Performance Baseline — Automation for Help Desk](Project_039592/README.md) |
+| 039593 | [Bash: Performance Baseline — Recovery for Help Desk](Project_039593/README.md) |
+| 039594 | [Bash: Performance Baseline — Reporting for Help Desk](Project_039594/README.md) |
+| 039595 | [Bash: Performance Baseline — Usability Improvement for Help Desk](Project_039595/README.md) |
+| 039596 | [Bash: Performance Baseline — Baseline Setup for Portfolio Demo](Project_039596/README.md) |
+| 039597 | [Bash: Performance Baseline — Automation for Portfolio Demo](Project_039597/README.md) |
+| 039598 | [Bash: Performance Baseline — Recovery for Portfolio Demo](Project_039598/README.md) |
+| 039599 | [Bash: Performance Baseline — Reporting for Portfolio Demo](Project_039599/README.md) |
+| 039600 | [Bash: Performance Baseline — Usability Improvement for Portfolio Demo](Project_039600/README.md) |
 
 [Back to the portfolio home](../README.md)
