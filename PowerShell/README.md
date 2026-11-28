@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040018 | [PowerShell: Inventory — Recovery for Public Dataset](Project_040018/README.md) |
 | 040019 | [PowerShell: Inventory — Reporting for Public Dataset](Project_040019/README.md) |
 | 040020 | [PowerShell: Inventory — Usability Improvement for Public Dataset](Project_040020/README.md) |
+| 040021 | [PowerShell: Inventory — Baseline Setup for Branch Office Simulator](Project_040021/README.md) |
+| 040022 | [PowerShell: Inventory — Automation for Branch Office Simulator](Project_040022/README.md) |
+| 040023 | [PowerShell: Inventory — Recovery for Branch Office Simulator](Project_040023/README.md) |
+| 040024 | [PowerShell: Inventory — Reporting for Branch Office Simulator](Project_040024/README.md) |
+| 040025 | [PowerShell: Inventory — Usability Improvement for Branch Office Simulator](Project_040025/README.md) |
+| 040026 | [PowerShell: Inventory — Baseline Setup for Offline Classroom](Project_040026/README.md) |
+| 040027 | [PowerShell: Inventory — Automation for Offline Classroom](Project_040027/README.md) |
+| 040028 | [PowerShell: Inventory — Recovery for Offline Classroom](Project_040028/README.md) |
+| 040029 | [PowerShell: Inventory — Reporting for Offline Classroom](Project_040029/README.md) |
+| 040030 | [PowerShell: Inventory — Usability Improvement for Offline Classroom](Project_040030/README.md) |
+| 040031 | [PowerShell: Inventory — Baseline Setup for Single-Host Lab](Project_040031/README.md) |
+| 040032 | [PowerShell: Inventory — Automation for Single-Host Lab](Project_040032/README.md) |
+| 040033 | [PowerShell: Inventory — Recovery for Single-Host Lab](Project_040033/README.md) |
+| 040034 | [PowerShell: Inventory — Reporting for Single-Host Lab](Project_040034/README.md) |
+| 040035 | [PowerShell: Inventory — Usability Improvement for Single-Host Lab](Project_040035/README.md) |
+| 040036 | [PowerShell: Inventory — Baseline Setup for Two-Node Lab](Project_040036/README.md) |
+| 040037 | [PowerShell: Inventory — Automation for Two-Node Lab](Project_040037/README.md) |
+| 040038 | [PowerShell: Inventory — Recovery for Two-Node Lab](Project_040038/README.md) |
+| 040039 | [PowerShell: Inventory — Reporting for Two-Node Lab](Project_040039/README.md) |
+| 040040 | [PowerShell: Inventory — Usability Improvement for Two-Node Lab](Project_040040/README.md) |
 
 [Back to the portfolio home](../README.md)
