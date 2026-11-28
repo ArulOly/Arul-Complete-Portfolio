@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016018 | [Google Cloud: Inventory — Recovery for Public Dataset](Project_016018/README.md) |
 | 016019 | [Google Cloud: Inventory — Reporting for Public Dataset](Project_016019/README.md) |
 | 016020 | [Google Cloud: Inventory — Usability Improvement for Public Dataset](Project_016020/README.md) |
+| 016021 | [Google Cloud: Inventory — Baseline Setup for Branch Office Simulator](Project_016021/README.md) |
+| 016022 | [Google Cloud: Inventory — Automation for Branch Office Simulator](Project_016022/README.md) |
+| 016023 | [Google Cloud: Inventory — Recovery for Branch Office Simulator](Project_016023/README.md) |
+| 016024 | [Google Cloud: Inventory — Reporting for Branch Office Simulator](Project_016024/README.md) |
+| 016025 | [Google Cloud: Inventory — Usability Improvement for Branch Office Simulator](Project_016025/README.md) |
+| 016026 | [Google Cloud: Inventory — Baseline Setup for Offline Classroom](Project_016026/README.md) |
+| 016027 | [Google Cloud: Inventory — Automation for Offline Classroom](Project_016027/README.md) |
+| 016028 | [Google Cloud: Inventory — Recovery for Offline Classroom](Project_016028/README.md) |
+| 016029 | [Google Cloud: Inventory — Reporting for Offline Classroom](Project_016029/README.md) |
+| 016030 | [Google Cloud: Inventory — Usability Improvement for Offline Classroom](Project_016030/README.md) |
+| 016031 | [Google Cloud: Inventory — Baseline Setup for Single-Host Lab](Project_016031/README.md) |
+| 016032 | [Google Cloud: Inventory — Automation for Single-Host Lab](Project_016032/README.md) |
+| 016033 | [Google Cloud: Inventory — Recovery for Single-Host Lab](Project_016033/README.md) |
+| 016034 | [Google Cloud: Inventory — Reporting for Single-Host Lab](Project_016034/README.md) |
+| 016035 | [Google Cloud: Inventory — Usability Improvement for Single-Host Lab](Project_016035/README.md) |
+| 016036 | [Google Cloud: Inventory — Baseline Setup for Two-Node Lab](Project_016036/README.md) |
+| 016037 | [Google Cloud: Inventory — Automation for Two-Node Lab](Project_016037/README.md) |
+| 016038 | [Google Cloud: Inventory — Recovery for Two-Node Lab](Project_016038/README.md) |
+| 016039 | [Google Cloud: Inventory — Reporting for Two-Node Lab](Project_016039/README.md) |
+| 016040 | [Google Cloud: Inventory — Usability Improvement for Two-Node Lab](Project_016040/README.md) |
 
 [Back to the portfolio home](../README.md)
