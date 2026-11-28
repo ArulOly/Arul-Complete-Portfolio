@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040118 | [PowerShell: Audit — Recovery for Public Dataset](Project_040118/README.md) |
 | 040119 | [PowerShell: Audit — Reporting for Public Dataset](Project_040119/README.md) |
 | 040120 | [PowerShell: Audit — Usability Improvement for Public Dataset](Project_040120/README.md) |
+| 040121 | [PowerShell: Audit — Baseline Setup for Branch Office Simulator](Project_040121/README.md) |
+| 040122 | [PowerShell: Audit — Automation for Branch Office Simulator](Project_040122/README.md) |
+| 040123 | [PowerShell: Audit — Recovery for Branch Office Simulator](Project_040123/README.md) |
+| 040124 | [PowerShell: Audit — Reporting for Branch Office Simulator](Project_040124/README.md) |
+| 040125 | [PowerShell: Audit — Usability Improvement for Branch Office Simulator](Project_040125/README.md) |
+| 040126 | [PowerShell: Audit — Baseline Setup for Offline Classroom](Project_040126/README.md) |
+| 040127 | [PowerShell: Audit — Automation for Offline Classroom](Project_040127/README.md) |
+| 040128 | [PowerShell: Audit — Recovery for Offline Classroom](Project_040128/README.md) |
+| 040129 | [PowerShell: Audit — Reporting for Offline Classroom](Project_040129/README.md) |
+| 040130 | [PowerShell: Audit — Usability Improvement for Offline Classroom](Project_040130/README.md) |
+| 040131 | [PowerShell: Audit — Baseline Setup for Single-Host Lab](Project_040131/README.md) |
+| 040132 | [PowerShell: Audit — Automation for Single-Host Lab](Project_040132/README.md) |
+| 040133 | [PowerShell: Audit — Recovery for Single-Host Lab](Project_040133/README.md) |
+| 040134 | [PowerShell: Audit — Reporting for Single-Host Lab](Project_040134/README.md) |
+| 040135 | [PowerShell: Audit — Usability Improvement for Single-Host Lab](Project_040135/README.md) |
+| 040136 | [PowerShell: Audit — Baseline Setup for Two-Node Lab](Project_040136/README.md) |
+| 040137 | [PowerShell: Audit — Automation for Two-Node Lab](Project_040137/README.md) |
+| 040138 | [PowerShell: Audit — Recovery for Two-Node Lab](Project_040138/README.md) |
+| 040139 | [PowerShell: Audit — Reporting for Two-Node Lab](Project_040139/README.md) |
+| 040140 | [PowerShell: Audit — Usability Improvement for Two-Node Lab](Project_040140/README.md) |
 
 [Back to the portfolio home](../README.md)
