@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042738 | [Apache: Error Handling — Recovery for Two-Node Lab](Project_042738/README.md) |
 | 042739 | [Apache: Error Handling — Reporting for Two-Node Lab](Project_042739/README.md) |
 | 042740 | [Apache: Error Handling — Usability Improvement for Two-Node Lab](Project_042740/README.md) |
+| 042741 | [Apache: Error Handling — Baseline Setup for Help Desk](Project_042741/README.md) |
+| 042742 | [Apache: Error Handling — Automation for Help Desk](Project_042742/README.md) |
+| 042743 | [Apache: Error Handling — Recovery for Help Desk](Project_042743/README.md) |
+| 042744 | [Apache: Error Handling — Reporting for Help Desk](Project_042744/README.md) |
+| 042745 | [Apache: Error Handling — Usability Improvement for Help Desk](Project_042745/README.md) |
+| 042746 | [Apache: Error Handling — Baseline Setup for Portfolio Demo](Project_042746/README.md) |
+| 042747 | [Apache: Error Handling — Automation for Portfolio Demo](Project_042747/README.md) |
+| 042748 | [Apache: Error Handling — Recovery for Portfolio Demo](Project_042748/README.md) |
+| 042749 | [Apache: Error Handling — Reporting for Portfolio Demo](Project_042749/README.md) |
+| 042750 | [Apache: Error Handling — Usability Improvement for Portfolio Demo](Project_042750/README.md) |
+| 042751 | [Apache: Data Validation — Baseline Setup for School Lab](Project_042751/README.md) |
+| 042752 | [Apache: Data Validation — Automation for School Lab](Project_042752/README.md) |
+| 042753 | [Apache: Data Validation — Recovery for School Lab](Project_042753/README.md) |
+| 042754 | [Apache: Data Validation — Reporting for School Lab](Project_042754/README.md) |
+| 042755 | [Apache: Data Validation — Usability Improvement for School Lab](Project_042755/README.md) |
+| 042756 | [Apache: Data Validation — Baseline Setup for Small Business](Project_042756/README.md) |
+| 042757 | [Apache: Data Validation — Automation for Small Business](Project_042757/README.md) |
+| 042758 | [Apache: Data Validation — Recovery for Small Business](Project_042758/README.md) |
+| 042759 | [Apache: Data Validation — Reporting for Small Business](Project_042759/README.md) |
+| 042760 | [Apache: Data Validation — Usability Improvement for Small Business](Project_042760/README.md) |
 
 [Back to the portfolio home](../README.md)
