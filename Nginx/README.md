@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041538 | [Nginx: Access Review — Recovery for Two-Node Lab](Project_041538/README.md) |
 | 041539 | [Nginx: Access Review — Reporting for Two-Node Lab](Project_041539/README.md) |
 | 041540 | [Nginx: Access Review — Usability Improvement for Two-Node Lab](Project_041540/README.md) |
+| 041541 | [Nginx: Access Review — Baseline Setup for Help Desk](Project_041541/README.md) |
+| 041542 | [Nginx: Access Review — Automation for Help Desk](Project_041542/README.md) |
+| 041543 | [Nginx: Access Review — Recovery for Help Desk](Project_041543/README.md) |
+| 041544 | [Nginx: Access Review — Reporting for Help Desk](Project_041544/README.md) |
+| 041545 | [Nginx: Access Review — Usability Improvement for Help Desk](Project_041545/README.md) |
+| 041546 | [Nginx: Access Review — Baseline Setup for Portfolio Demo](Project_041546/README.md) |
+| 041547 | [Nginx: Access Review — Automation for Portfolio Demo](Project_041547/README.md) |
+| 041548 | [Nginx: Access Review — Recovery for Portfolio Demo](Project_041548/README.md) |
+| 041549 | [Nginx: Access Review — Reporting for Portfolio Demo](Project_041549/README.md) |
+| 041550 | [Nginx: Access Review — Usability Improvement for Portfolio Demo](Project_041550/README.md) |
+| 041551 | [Nginx: Performance Baseline — Baseline Setup for School Lab](Project_041551/README.md) |
+| 041552 | [Nginx: Performance Baseline — Automation for School Lab](Project_041552/README.md) |
+| 041553 | [Nginx: Performance Baseline — Recovery for School Lab](Project_041553/README.md) |
+| 041554 | [Nginx: Performance Baseline — Reporting for School Lab](Project_041554/README.md) |
+| 041555 | [Nginx: Performance Baseline — Usability Improvement for School Lab](Project_041555/README.md) |
+| 041556 | [Nginx: Performance Baseline — Baseline Setup for Small Business](Project_041556/README.md) |
+| 041557 | [Nginx: Performance Baseline — Automation for Small Business](Project_041557/README.md) |
+| 041558 | [Nginx: Performance Baseline — Recovery for Small Business](Project_041558/README.md) |
+| 041559 | [Nginx: Performance Baseline — Reporting for Small Business](Project_041559/README.md) |
+| 041560 | [Nginx: Performance Baseline — Usability Improvement for Small Business](Project_041560/README.md) |
 
 [Back to the portfolio home](../README.md)
