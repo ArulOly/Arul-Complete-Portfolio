@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047658 | [Ansible: Configuration Comparison — Recovery for Small Business](Project_047658/README.md) |
 | 047659 | [Ansible: Configuration Comparison — Reporting for Small Business](Project_047659/README.md) |
 | 047660 | [Ansible: Configuration Comparison — Usability Improvement for Small Business](Project_047660/README.md) |
+| 047661 | [Ansible: Configuration Comparison — Baseline Setup for Home Development](Project_047661/README.md) |
+| 047662 | [Ansible: Configuration Comparison — Automation for Home Development](Project_047662/README.md) |
+| 047663 | [Ansible: Configuration Comparison — Recovery for Home Development](Project_047663/README.md) |
+| 047664 | [Ansible: Configuration Comparison — Reporting for Home Development](Project_047664/README.md) |
+| 047665 | [Ansible: Configuration Comparison — Usability Improvement for Home Development](Project_047665/README.md) |
+| 047666 | [Ansible: Configuration Comparison — Baseline Setup for Public Dataset](Project_047666/README.md) |
+| 047667 | [Ansible: Configuration Comparison — Automation for Public Dataset](Project_047667/README.md) |
+| 047668 | [Ansible: Configuration Comparison — Recovery for Public Dataset](Project_047668/README.md) |
+| 047669 | [Ansible: Configuration Comparison — Reporting for Public Dataset](Project_047669/README.md) |
+| 047670 | [Ansible: Configuration Comparison — Usability Improvement for Public Dataset](Project_047670/README.md) |
+| 047671 | [Ansible: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_047671/README.md) |
+| 047672 | [Ansible: Configuration Comparison — Automation for Branch Office Simulator](Project_047672/README.md) |
+| 047673 | [Ansible: Configuration Comparison — Recovery for Branch Office Simulator](Project_047673/README.md) |
+| 047674 | [Ansible: Configuration Comparison — Reporting for Branch Office Simulator](Project_047674/README.md) |
+| 047675 | [Ansible: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_047675/README.md) |
+| 047676 | [Ansible: Configuration Comparison — Baseline Setup for Offline Classroom](Project_047676/README.md) |
+| 047677 | [Ansible: Configuration Comparison — Automation for Offline Classroom](Project_047677/README.md) |
+| 047678 | [Ansible: Configuration Comparison — Recovery for Offline Classroom](Project_047678/README.md) |
+| 047679 | [Ansible: Configuration Comparison — Reporting for Offline Classroom](Project_047679/README.md) |
+| 047680 | [Ansible: Configuration Comparison — Usability Improvement for Offline Classroom](Project_047680/README.md) |
 
 [Back to the portfolio home](../README.md)
