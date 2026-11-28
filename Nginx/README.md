@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041118 | [Nginx: Audit — Recovery for Public Dataset](Project_041118/README.md) |
 | 041119 | [Nginx: Audit — Reporting for Public Dataset](Project_041119/README.md) |
 | 041120 | [Nginx: Audit — Usability Improvement for Public Dataset](Project_041120/README.md) |
+| 041121 | [Nginx: Audit — Baseline Setup for Branch Office Simulator](Project_041121/README.md) |
+| 041122 | [Nginx: Audit — Automation for Branch Office Simulator](Project_041122/README.md) |
+| 041123 | [Nginx: Audit — Recovery for Branch Office Simulator](Project_041123/README.md) |
+| 041124 | [Nginx: Audit — Reporting for Branch Office Simulator](Project_041124/README.md) |
+| 041125 | [Nginx: Audit — Usability Improvement for Branch Office Simulator](Project_041125/README.md) |
+| 041126 | [Nginx: Audit — Baseline Setup for Offline Classroom](Project_041126/README.md) |
+| 041127 | [Nginx: Audit — Automation for Offline Classroom](Project_041127/README.md) |
+| 041128 | [Nginx: Audit — Recovery for Offline Classroom](Project_041128/README.md) |
+| 041129 | [Nginx: Audit — Reporting for Offline Classroom](Project_041129/README.md) |
+| 041130 | [Nginx: Audit — Usability Improvement for Offline Classroom](Project_041130/README.md) |
+| 041131 | [Nginx: Audit — Baseline Setup for Single-Host Lab](Project_041131/README.md) |
+| 041132 | [Nginx: Audit — Automation for Single-Host Lab](Project_041132/README.md) |
+| 041133 | [Nginx: Audit — Recovery for Single-Host Lab](Project_041133/README.md) |
+| 041134 | [Nginx: Audit — Reporting for Single-Host Lab](Project_041134/README.md) |
+| 041135 | [Nginx: Audit — Usability Improvement for Single-Host Lab](Project_041135/README.md) |
+| 041136 | [Nginx: Audit — Baseline Setup for Two-Node Lab](Project_041136/README.md) |
+| 041137 | [Nginx: Audit — Automation for Two-Node Lab](Project_041137/README.md) |
+| 041138 | [Nginx: Audit — Recovery for Two-Node Lab](Project_041138/README.md) |
+| 041139 | [Nginx: Audit — Reporting for Two-Node Lab](Project_041139/README.md) |
+| 041140 | [Nginx: Audit — Usability Improvement for Two-Node Lab](Project_041140/README.md) |
 
 [Back to the portfolio home](../README.md)
