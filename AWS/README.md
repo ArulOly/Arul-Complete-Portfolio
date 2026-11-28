@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014478 | [AWS: Scheduled Reporting — Recovery for Offline Classroom](Project_014478/README.md) |
 | 014479 | [AWS: Scheduled Reporting — Reporting for Offline Classroom](Project_014479/README.md) |
 | 014480 | [AWS: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_014480/README.md) |
+| 014481 | [AWS: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_014481/README.md) |
+| 014482 | [AWS: Scheduled Reporting — Automation for Single-Host Lab](Project_014482/README.md) |
+| 014483 | [AWS: Scheduled Reporting — Recovery for Single-Host Lab](Project_014483/README.md) |
+| 014484 | [AWS: Scheduled Reporting — Reporting for Single-Host Lab](Project_014484/README.md) |
+| 014485 | [AWS: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_014485/README.md) |
+| 014486 | [AWS: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_014486/README.md) |
+| 014487 | [AWS: Scheduled Reporting — Automation for Two-Node Lab](Project_014487/README.md) |
+| 014488 | [AWS: Scheduled Reporting — Recovery for Two-Node Lab](Project_014488/README.md) |
+| 014489 | [AWS: Scheduled Reporting — Reporting for Two-Node Lab](Project_014489/README.md) |
+| 014490 | [AWS: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_014490/README.md) |
+| 014491 | [AWS: Scheduled Reporting — Baseline Setup for Help Desk](Project_014491/README.md) |
+| 014492 | [AWS: Scheduled Reporting — Automation for Help Desk](Project_014492/README.md) |
+| 014493 | [AWS: Scheduled Reporting — Recovery for Help Desk](Project_014493/README.md) |
+| 014494 | [AWS: Scheduled Reporting — Reporting for Help Desk](Project_014494/README.md) |
+| 014495 | [AWS: Scheduled Reporting — Usability Improvement for Help Desk](Project_014495/README.md) |
+| 014496 | [AWS: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_014496/README.md) |
+| 014497 | [AWS: Scheduled Reporting — Automation for Portfolio Demo](Project_014497/README.md) |
+| 014498 | [AWS: Scheduled Reporting — Recovery for Portfolio Demo](Project_014498/README.md) |
+| 014499 | [AWS: Scheduled Reporting — Reporting for Portfolio Demo](Project_014499/README.md) |
+| 014500 | [AWS: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_014500/README.md) |
 
 [Back to the portfolio home](../README.md)
