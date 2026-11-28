@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037698 | [Arduino: Configuration Comparison — Recovery for Portfolio Demo](Project_037698/README.md) |
 | 037699 | [Arduino: Configuration Comparison — Reporting for Portfolio Demo](Project_037699/README.md) |
 | 037700 | [Arduino: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_037700/README.md) |
+| 037701 | [Arduino: Error Handling — Baseline Setup for School Lab](Project_037701/README.md) |
+| 037702 | [Arduino: Error Handling — Automation for School Lab](Project_037702/README.md) |
+| 037703 | [Arduino: Error Handling — Recovery for School Lab](Project_037703/README.md) |
+| 037704 | [Arduino: Error Handling — Reporting for School Lab](Project_037704/README.md) |
+| 037705 | [Arduino: Error Handling — Usability Improvement for School Lab](Project_037705/README.md) |
+| 037706 | [Arduino: Error Handling — Baseline Setup for Small Business](Project_037706/README.md) |
+| 037707 | [Arduino: Error Handling — Automation for Small Business](Project_037707/README.md) |
+| 037708 | [Arduino: Error Handling — Recovery for Small Business](Project_037708/README.md) |
+| 037709 | [Arduino: Error Handling — Reporting for Small Business](Project_037709/README.md) |
+| 037710 | [Arduino: Error Handling — Usability Improvement for Small Business](Project_037710/README.md) |
+| 037711 | [Arduino: Error Handling — Baseline Setup for Home Development](Project_037711/README.md) |
+| 037712 | [Arduino: Error Handling — Automation for Home Development](Project_037712/README.md) |
+| 037713 | [Arduino: Error Handling — Recovery for Home Development](Project_037713/README.md) |
+| 037714 | [Arduino: Error Handling — Reporting for Home Development](Project_037714/README.md) |
+| 037715 | [Arduino: Error Handling — Usability Improvement for Home Development](Project_037715/README.md) |
+| 037716 | [Arduino: Error Handling — Baseline Setup for Public Dataset](Project_037716/README.md) |
+| 037717 | [Arduino: Error Handling — Automation for Public Dataset](Project_037717/README.md) |
+| 037718 | [Arduino: Error Handling — Recovery for Public Dataset](Project_037718/README.md) |
+| 037719 | [Arduino: Error Handling — Reporting for Public Dataset](Project_037719/README.md) |
+| 037720 | [Arduino: Error Handling — Usability Improvement for Public Dataset](Project_037720/README.md) |
 
 [Back to the portfolio home](../README.md)
