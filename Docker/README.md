@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017278 | [Docker: Data Import — Recovery for Offline Classroom](Project_017278/README.md) |
 | 017279 | [Docker: Data Import — Reporting for Offline Classroom](Project_017279/README.md) |
 | 017280 | [Docker: Data Import — Usability Improvement for Offline Classroom](Project_017280/README.md) |
+| 017281 | [Docker: Data Import — Baseline Setup for Single-Host Lab](Project_017281/README.md) |
+| 017282 | [Docker: Data Import — Automation for Single-Host Lab](Project_017282/README.md) |
+| 017283 | [Docker: Data Import — Recovery for Single-Host Lab](Project_017283/README.md) |
+| 017284 | [Docker: Data Import — Reporting for Single-Host Lab](Project_017284/README.md) |
+| 017285 | [Docker: Data Import — Usability Improvement for Single-Host Lab](Project_017285/README.md) |
+| 017286 | [Docker: Data Import — Baseline Setup for Two-Node Lab](Project_017286/README.md) |
+| 017287 | [Docker: Data Import — Automation for Two-Node Lab](Project_017287/README.md) |
+| 017288 | [Docker: Data Import — Recovery for Two-Node Lab](Project_017288/README.md) |
+| 017289 | [Docker: Data Import — Reporting for Two-Node Lab](Project_017289/README.md) |
+| 017290 | [Docker: Data Import — Usability Improvement for Two-Node Lab](Project_017290/README.md) |
+| 017291 | [Docker: Data Import — Baseline Setup for Help Desk](Project_017291/README.md) |
+| 017292 | [Docker: Data Import — Automation for Help Desk](Project_017292/README.md) |
+| 017293 | [Docker: Data Import — Recovery for Help Desk](Project_017293/README.md) |
+| 017294 | [Docker: Data Import — Reporting for Help Desk](Project_017294/README.md) |
+| 017295 | [Docker: Data Import — Usability Improvement for Help Desk](Project_017295/README.md) |
+| 017296 | [Docker: Data Import — Baseline Setup for Portfolio Demo](Project_017296/README.md) |
+| 017297 | [Docker: Data Import — Automation for Portfolio Demo](Project_017297/README.md) |
+| 017298 | [Docker: Data Import — Recovery for Portfolio Demo](Project_017298/README.md) |
+| 017299 | [Docker: Data Import — Reporting for Portfolio Demo](Project_017299/README.md) |
+| 017300 | [Docker: Data Import — Usability Improvement for Portfolio Demo](Project_017300/README.md) |
 
 [Back to the portfolio home](../README.md)
