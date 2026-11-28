@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046598 | [Terraform: Performance Baseline — Recovery for Portfolio Demo](Project_046598/README.md) |
 | 046599 | [Terraform: Performance Baseline — Reporting for Portfolio Demo](Project_046599/README.md) |
 | 046600 | [Terraform: Performance Baseline — Usability Improvement for Portfolio Demo](Project_046600/README.md) |
+| 046601 | [Terraform: Service Check — Baseline Setup for School Lab](Project_046601/README.md) |
+| 046602 | [Terraform: Service Check — Automation for School Lab](Project_046602/README.md) |
+| 046603 | [Terraform: Service Check — Recovery for School Lab](Project_046603/README.md) |
+| 046604 | [Terraform: Service Check — Reporting for School Lab](Project_046604/README.md) |
+| 046605 | [Terraform: Service Check — Usability Improvement for School Lab](Project_046605/README.md) |
+| 046606 | [Terraform: Service Check — Baseline Setup for Small Business](Project_046606/README.md) |
+| 046607 | [Terraform: Service Check — Automation for Small Business](Project_046607/README.md) |
+| 046608 | [Terraform: Service Check — Recovery for Small Business](Project_046608/README.md) |
+| 046609 | [Terraform: Service Check — Reporting for Small Business](Project_046609/README.md) |
+| 046610 | [Terraform: Service Check — Usability Improvement for Small Business](Project_046610/README.md) |
+| 046611 | [Terraform: Service Check — Baseline Setup for Home Development](Project_046611/README.md) |
+| 046612 | [Terraform: Service Check — Automation for Home Development](Project_046612/README.md) |
+| 046613 | [Terraform: Service Check — Recovery for Home Development](Project_046613/README.md) |
+| 046614 | [Terraform: Service Check — Reporting for Home Development](Project_046614/README.md) |
+| 046615 | [Terraform: Service Check — Usability Improvement for Home Development](Project_046615/README.md) |
+| 046616 | [Terraform: Service Check — Baseline Setup for Public Dataset](Project_046616/README.md) |
+| 046617 | [Terraform: Service Check — Automation for Public Dataset](Project_046617/README.md) |
+| 046618 | [Terraform: Service Check — Recovery for Public Dataset](Project_046618/README.md) |
+| 046619 | [Terraform: Service Check — Reporting for Public Dataset](Project_046619/README.md) |
+| 046620 | [Terraform: Service Check — Usability Improvement for Public Dataset](Project_046620/README.md) |
 
 [Back to the portfolio home](../README.md)
