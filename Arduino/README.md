@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037578 | [Arduino: Performance Baseline — Recovery for Offline Classroom](Project_037578/README.md) |
 | 037579 | [Arduino: Performance Baseline — Reporting for Offline Classroom](Project_037579/README.md) |
 | 037580 | [Arduino: Performance Baseline — Usability Improvement for Offline Classroom](Project_037580/README.md) |
+| 037581 | [Arduino: Performance Baseline — Baseline Setup for Single-Host Lab](Project_037581/README.md) |
+| 037582 | [Arduino: Performance Baseline — Automation for Single-Host Lab](Project_037582/README.md) |
+| 037583 | [Arduino: Performance Baseline — Recovery for Single-Host Lab](Project_037583/README.md) |
+| 037584 | [Arduino: Performance Baseline — Reporting for Single-Host Lab](Project_037584/README.md) |
+| 037585 | [Arduino: Performance Baseline — Usability Improvement for Single-Host Lab](Project_037585/README.md) |
+| 037586 | [Arduino: Performance Baseline — Baseline Setup for Two-Node Lab](Project_037586/README.md) |
+| 037587 | [Arduino: Performance Baseline — Automation for Two-Node Lab](Project_037587/README.md) |
+| 037588 | [Arduino: Performance Baseline — Recovery for Two-Node Lab](Project_037588/README.md) |
+| 037589 | [Arduino: Performance Baseline — Reporting for Two-Node Lab](Project_037589/README.md) |
+| 037590 | [Arduino: Performance Baseline — Usability Improvement for Two-Node Lab](Project_037590/README.md) |
+| 037591 | [Arduino: Performance Baseline — Baseline Setup for Help Desk](Project_037591/README.md) |
+| 037592 | [Arduino: Performance Baseline — Automation for Help Desk](Project_037592/README.md) |
+| 037593 | [Arduino: Performance Baseline — Recovery for Help Desk](Project_037593/README.md) |
+| 037594 | [Arduino: Performance Baseline — Reporting for Help Desk](Project_037594/README.md) |
+| 037595 | [Arduino: Performance Baseline — Usability Improvement for Help Desk](Project_037595/README.md) |
+| 037596 | [Arduino: Performance Baseline — Baseline Setup for Portfolio Demo](Project_037596/README.md) |
+| 037597 | [Arduino: Performance Baseline — Automation for Portfolio Demo](Project_037597/README.md) |
+| 037598 | [Arduino: Performance Baseline — Recovery for Portfolio Demo](Project_037598/README.md) |
+| 037599 | [Arduino: Performance Baseline — Reporting for Portfolio Demo](Project_037599/README.md) |
+| 037600 | [Arduino: Performance Baseline — Usability Improvement for Portfolio Demo](Project_037600/README.md) |
 
 [Back to the portfolio home](../README.md)
