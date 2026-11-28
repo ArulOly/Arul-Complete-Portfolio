@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038458 | [Git: Scheduled Reporting — Recovery for Small Business](Project_038458/README.md) |
 | 038459 | [Git: Scheduled Reporting — Reporting for Small Business](Project_038459/README.md) |
 | 038460 | [Git: Scheduled Reporting — Usability Improvement for Small Business](Project_038460/README.md) |
+| 038461 | [Git: Scheduled Reporting — Baseline Setup for Home Development](Project_038461/README.md) |
+| 038462 | [Git: Scheduled Reporting — Automation for Home Development](Project_038462/README.md) |
+| 038463 | [Git: Scheduled Reporting — Recovery for Home Development](Project_038463/README.md) |
+| 038464 | [Git: Scheduled Reporting — Reporting for Home Development](Project_038464/README.md) |
+| 038465 | [Git: Scheduled Reporting — Usability Improvement for Home Development](Project_038465/README.md) |
+| 038466 | [Git: Scheduled Reporting — Baseline Setup for Public Dataset](Project_038466/README.md) |
+| 038467 | [Git: Scheduled Reporting — Automation for Public Dataset](Project_038467/README.md) |
+| 038468 | [Git: Scheduled Reporting — Recovery for Public Dataset](Project_038468/README.md) |
+| 038469 | [Git: Scheduled Reporting — Reporting for Public Dataset](Project_038469/README.md) |
+| 038470 | [Git: Scheduled Reporting — Usability Improvement for Public Dataset](Project_038470/README.md) |
+| 038471 | [Git: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_038471/README.md) |
+| 038472 | [Git: Scheduled Reporting — Automation for Branch Office Simulator](Project_038472/README.md) |
+| 038473 | [Git: Scheduled Reporting — Recovery for Branch Office Simulator](Project_038473/README.md) |
+| 038474 | [Git: Scheduled Reporting — Reporting for Branch Office Simulator](Project_038474/README.md) |
+| 038475 | [Git: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_038475/README.md) |
+| 038476 | [Git: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_038476/README.md) |
+| 038477 | [Git: Scheduled Reporting — Automation for Offline Classroom](Project_038477/README.md) |
+| 038478 | [Git: Scheduled Reporting — Recovery for Offline Classroom](Project_038478/README.md) |
+| 038479 | [Git: Scheduled Reporting — Reporting for Offline Classroom](Project_038479/README.md) |
+| 038480 | [Git: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_038480/README.md) |
 
 [Back to the portfolio home](../README.md)
