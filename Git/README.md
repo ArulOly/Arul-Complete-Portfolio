@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038678 | [Git: Configuration Comparison — Recovery for Offline Classroom](Project_038678/README.md) |
 | 038679 | [Git: Configuration Comparison — Reporting for Offline Classroom](Project_038679/README.md) |
 | 038680 | [Git: Configuration Comparison — Usability Improvement for Offline Classroom](Project_038680/README.md) |
+| 038681 | [Git: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_038681/README.md) |
+| 038682 | [Git: Configuration Comparison — Automation for Single-Host Lab](Project_038682/README.md) |
+| 038683 | [Git: Configuration Comparison — Recovery for Single-Host Lab](Project_038683/README.md) |
+| 038684 | [Git: Configuration Comparison — Reporting for Single-Host Lab](Project_038684/README.md) |
+| 038685 | [Git: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_038685/README.md) |
+| 038686 | [Git: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_038686/README.md) |
+| 038687 | [Git: Configuration Comparison — Automation for Two-Node Lab](Project_038687/README.md) |
+| 038688 | [Git: Configuration Comparison — Recovery for Two-Node Lab](Project_038688/README.md) |
+| 038689 | [Git: Configuration Comparison — Reporting for Two-Node Lab](Project_038689/README.md) |
+| 038690 | [Git: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_038690/README.md) |
+| 038691 | [Git: Configuration Comparison — Baseline Setup for Help Desk](Project_038691/README.md) |
+| 038692 | [Git: Configuration Comparison — Automation for Help Desk](Project_038692/README.md) |
+| 038693 | [Git: Configuration Comparison — Recovery for Help Desk](Project_038693/README.md) |
+| 038694 | [Git: Configuration Comparison — Reporting for Help Desk](Project_038694/README.md) |
+| 038695 | [Git: Configuration Comparison — Usability Improvement for Help Desk](Project_038695/README.md) |
+| 038696 | [Git: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_038696/README.md) |
+| 038697 | [Git: Configuration Comparison — Automation for Portfolio Demo](Project_038697/README.md) |
+| 038698 | [Git: Configuration Comparison — Recovery for Portfolio Demo](Project_038698/README.md) |
+| 038699 | [Git: Configuration Comparison — Reporting for Portfolio Demo](Project_038699/README.md) |
+| 038700 | [Git: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_038700/README.md) |
 
 [Back to the portfolio home](../README.md)
