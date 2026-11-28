@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017958 | [Docker: Recovery Test — Recovery for Small Business](Project_017958/README.md) |
 | 017959 | [Docker: Recovery Test — Reporting for Small Business](Project_017959/README.md) |
 | 017960 | [Docker: Recovery Test — Usability Improvement for Small Business](Project_017960/README.md) |
+| 017961 | [Docker: Recovery Test — Baseline Setup for Home Development](Project_017961/README.md) |
+| 017962 | [Docker: Recovery Test — Automation for Home Development](Project_017962/README.md) |
+| 017963 | [Docker: Recovery Test — Recovery for Home Development](Project_017963/README.md) |
+| 017964 | [Docker: Recovery Test — Reporting for Home Development](Project_017964/README.md) |
+| 017965 | [Docker: Recovery Test — Usability Improvement for Home Development](Project_017965/README.md) |
+| 017966 | [Docker: Recovery Test — Baseline Setup for Public Dataset](Project_017966/README.md) |
+| 017967 | [Docker: Recovery Test — Automation for Public Dataset](Project_017967/README.md) |
+| 017968 | [Docker: Recovery Test — Recovery for Public Dataset](Project_017968/README.md) |
+| 017969 | [Docker: Recovery Test — Reporting for Public Dataset](Project_017969/README.md) |
+| 017970 | [Docker: Recovery Test — Usability Improvement for Public Dataset](Project_017970/README.md) |
+| 017971 | [Docker: Recovery Test — Baseline Setup for Branch Office Simulator](Project_017971/README.md) |
+| 017972 | [Docker: Recovery Test — Automation for Branch Office Simulator](Project_017972/README.md) |
+| 017973 | [Docker: Recovery Test — Recovery for Branch Office Simulator](Project_017973/README.md) |
+| 017974 | [Docker: Recovery Test — Reporting for Branch Office Simulator](Project_017974/README.md) |
+| 017975 | [Docker: Recovery Test — Usability Improvement for Branch Office Simulator](Project_017975/README.md) |
+| 017976 | [Docker: Recovery Test — Baseline Setup for Offline Classroom](Project_017976/README.md) |
+| 017977 | [Docker: Recovery Test — Automation for Offline Classroom](Project_017977/README.md) |
+| 017978 | [Docker: Recovery Test — Recovery for Offline Classroom](Project_017978/README.md) |
+| 017979 | [Docker: Recovery Test — Reporting for Offline Classroom](Project_017979/README.md) |
+| 017980 | [Docker: Recovery Test — Usability Improvement for Offline Classroom](Project_017980/README.md) |
 
 [Back to the portfolio home](../README.md)
