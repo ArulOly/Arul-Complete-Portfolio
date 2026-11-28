@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015178 | [Azure: Log Analysis — Recovery for Offline Classroom](Project_015178/README.md) |
 | 015179 | [Azure: Log Analysis — Reporting for Offline Classroom](Project_015179/README.md) |
 | 015180 | [Azure: Log Analysis — Usability Improvement for Offline Classroom](Project_015180/README.md) |
+| 015181 | [Azure: Log Analysis — Baseline Setup for Single-Host Lab](Project_015181/README.md) |
+| 015182 | [Azure: Log Analysis — Automation for Single-Host Lab](Project_015182/README.md) |
+| 015183 | [Azure: Log Analysis — Recovery for Single-Host Lab](Project_015183/README.md) |
+| 015184 | [Azure: Log Analysis — Reporting for Single-Host Lab](Project_015184/README.md) |
+| 015185 | [Azure: Log Analysis — Usability Improvement for Single-Host Lab](Project_015185/README.md) |
+| 015186 | [Azure: Log Analysis — Baseline Setup for Two-Node Lab](Project_015186/README.md) |
+| 015187 | [Azure: Log Analysis — Automation for Two-Node Lab](Project_015187/README.md) |
+| 015188 | [Azure: Log Analysis — Recovery for Two-Node Lab](Project_015188/README.md) |
+| 015189 | [Azure: Log Analysis — Reporting for Two-Node Lab](Project_015189/README.md) |
+| 015190 | [Azure: Log Analysis — Usability Improvement for Two-Node Lab](Project_015190/README.md) |
+| 015191 | [Azure: Log Analysis — Baseline Setup for Help Desk](Project_015191/README.md) |
+| 015192 | [Azure: Log Analysis — Automation for Help Desk](Project_015192/README.md) |
+| 015193 | [Azure: Log Analysis — Recovery for Help Desk](Project_015193/README.md) |
+| 015194 | [Azure: Log Analysis — Reporting for Help Desk](Project_015194/README.md) |
+| 015195 | [Azure: Log Analysis — Usability Improvement for Help Desk](Project_015195/README.md) |
+| 015196 | [Azure: Log Analysis — Baseline Setup for Portfolio Demo](Project_015196/README.md) |
+| 015197 | [Azure: Log Analysis — Automation for Portfolio Demo](Project_015197/README.md) |
+| 015198 | [Azure: Log Analysis — Recovery for Portfolio Demo](Project_015198/README.md) |
+| 015199 | [Azure: Log Analysis — Reporting for Portfolio Demo](Project_015199/README.md) |
+| 015200 | [Azure: Log Analysis — Usability Improvement for Portfolio Demo](Project_015200/README.md) |
 
 [Back to the portfolio home](../README.md)
