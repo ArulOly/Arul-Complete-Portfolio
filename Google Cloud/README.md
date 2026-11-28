@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016878 | [Google Cloud: Automation — Recovery for Offline Classroom](Project_016878/README.md) |
 | 016879 | [Google Cloud: Automation — Reporting for Offline Classroom](Project_016879/README.md) |
 | 016880 | [Google Cloud: Automation — Usability Improvement for Offline Classroom](Project_016880/README.md) |
+| 016881 | [Google Cloud: Automation — Baseline Setup for Single-Host Lab](Project_016881/README.md) |
+| 016882 | [Google Cloud: Automation — Automation for Single-Host Lab](Project_016882/README.md) |
+| 016883 | [Google Cloud: Automation — Recovery for Single-Host Lab](Project_016883/README.md) |
+| 016884 | [Google Cloud: Automation — Reporting for Single-Host Lab](Project_016884/README.md) |
+| 016885 | [Google Cloud: Automation — Usability Improvement for Single-Host Lab](Project_016885/README.md) |
+| 016886 | [Google Cloud: Automation — Baseline Setup for Two-Node Lab](Project_016886/README.md) |
+| 016887 | [Google Cloud: Automation — Automation for Two-Node Lab](Project_016887/README.md) |
+| 016888 | [Google Cloud: Automation — Recovery for Two-Node Lab](Project_016888/README.md) |
+| 016889 | [Google Cloud: Automation — Reporting for Two-Node Lab](Project_016889/README.md) |
+| 016890 | [Google Cloud: Automation — Usability Improvement for Two-Node Lab](Project_016890/README.md) |
+| 016891 | [Google Cloud: Automation — Baseline Setup for Help Desk](Project_016891/README.md) |
+| 016892 | [Google Cloud: Automation — Automation for Help Desk](Project_016892/README.md) |
+| 016893 | [Google Cloud: Automation — Recovery for Help Desk](Project_016893/README.md) |
+| 016894 | [Google Cloud: Automation — Reporting for Help Desk](Project_016894/README.md) |
+| 016895 | [Google Cloud: Automation — Usability Improvement for Help Desk](Project_016895/README.md) |
+| 016896 | [Google Cloud: Automation — Baseline Setup for Portfolio Demo](Project_016896/README.md) |
+| 016897 | [Google Cloud: Automation — Automation for Portfolio Demo](Project_016897/README.md) |
+| 016898 | [Google Cloud: Automation — Recovery for Portfolio Demo](Project_016898/README.md) |
+| 016899 | [Google Cloud: Automation — Reporting for Portfolio Demo](Project_016899/README.md) |
+| 016900 | [Google Cloud: Automation — Usability Improvement for Portfolio Demo](Project_016900/README.md) |
 
 [Back to the portfolio home](../README.md)
