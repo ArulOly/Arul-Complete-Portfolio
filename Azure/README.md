@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015798 | [Azure: Data Validation — Recovery for Portfolio Demo](Project_015798/README.md) |
 | 015799 | [Azure: Data Validation — Reporting for Portfolio Demo](Project_015799/README.md) |
 | 015800 | [Azure: Data Validation — Usability Improvement for Portfolio Demo](Project_015800/README.md) |
+| 015801 | [Azure: Documentation Generation — Baseline Setup for School Lab](Project_015801/README.md) |
+| 015802 | [Azure: Documentation Generation — Automation for School Lab](Project_015802/README.md) |
+| 015803 | [Azure: Documentation Generation — Recovery for School Lab](Project_015803/README.md) |
+| 015804 | [Azure: Documentation Generation — Reporting for School Lab](Project_015804/README.md) |
+| 015805 | [Azure: Documentation Generation — Usability Improvement for School Lab](Project_015805/README.md) |
+| 015806 | [Azure: Documentation Generation — Baseline Setup for Small Business](Project_015806/README.md) |
+| 015807 | [Azure: Documentation Generation — Automation for Small Business](Project_015807/README.md) |
+| 015808 | [Azure: Documentation Generation — Recovery for Small Business](Project_015808/README.md) |
+| 015809 | [Azure: Documentation Generation — Reporting for Small Business](Project_015809/README.md) |
+| 015810 | [Azure: Documentation Generation — Usability Improvement for Small Business](Project_015810/README.md) |
+| 015811 | [Azure: Documentation Generation — Baseline Setup for Home Development](Project_015811/README.md) |
+| 015812 | [Azure: Documentation Generation — Automation for Home Development](Project_015812/README.md) |
+| 015813 | [Azure: Documentation Generation — Recovery for Home Development](Project_015813/README.md) |
+| 015814 | [Azure: Documentation Generation — Reporting for Home Development](Project_015814/README.md) |
+| 015815 | [Azure: Documentation Generation — Usability Improvement for Home Development](Project_015815/README.md) |
+| 015816 | [Azure: Documentation Generation — Baseline Setup for Public Dataset](Project_015816/README.md) |
+| 015817 | [Azure: Documentation Generation — Automation for Public Dataset](Project_015817/README.md) |
+| 015818 | [Azure: Documentation Generation — Recovery for Public Dataset](Project_015818/README.md) |
+| 015819 | [Azure: Documentation Generation — Reporting for Public Dataset](Project_015819/README.md) |
+| 015820 | [Azure: Documentation Generation — Usability Improvement for Public Dataset](Project_015820/README.md) |
 
 [Back to the portfolio home](../README.md)
