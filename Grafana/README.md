@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043858 | [Grafana: Automation — Recovery for Small Business](Project_043858/README.md) |
 | 043859 | [Grafana: Automation — Reporting for Small Business](Project_043859/README.md) |
 | 043860 | [Grafana: Automation — Usability Improvement for Small Business](Project_043860/README.md) |
+| 043861 | [Grafana: Automation — Baseline Setup for Home Development](Project_043861/README.md) |
+| 043862 | [Grafana: Automation — Automation for Home Development](Project_043862/README.md) |
+| 043863 | [Grafana: Automation — Recovery for Home Development](Project_043863/README.md) |
+| 043864 | [Grafana: Automation — Reporting for Home Development](Project_043864/README.md) |
+| 043865 | [Grafana: Automation — Usability Improvement for Home Development](Project_043865/README.md) |
+| 043866 | [Grafana: Automation — Baseline Setup for Public Dataset](Project_043866/README.md) |
+| 043867 | [Grafana: Automation — Automation for Public Dataset](Project_043867/README.md) |
+| 043868 | [Grafana: Automation — Recovery for Public Dataset](Project_043868/README.md) |
+| 043869 | [Grafana: Automation — Reporting for Public Dataset](Project_043869/README.md) |
+| 043870 | [Grafana: Automation — Usability Improvement for Public Dataset](Project_043870/README.md) |
+| 043871 | [Grafana: Automation — Baseline Setup for Branch Office Simulator](Project_043871/README.md) |
+| 043872 | [Grafana: Automation — Automation for Branch Office Simulator](Project_043872/README.md) |
+| 043873 | [Grafana: Automation — Recovery for Branch Office Simulator](Project_043873/README.md) |
+| 043874 | [Grafana: Automation — Reporting for Branch Office Simulator](Project_043874/README.md) |
+| 043875 | [Grafana: Automation — Usability Improvement for Branch Office Simulator](Project_043875/README.md) |
+| 043876 | [Grafana: Automation — Baseline Setup for Offline Classroom](Project_043876/README.md) |
+| 043877 | [Grafana: Automation — Automation for Offline Classroom](Project_043877/README.md) |
+| 043878 | [Grafana: Automation — Recovery for Offline Classroom](Project_043878/README.md) |
+| 043879 | [Grafana: Automation — Reporting for Offline Classroom](Project_043879/README.md) |
+| 043880 | [Grafana: Automation — Usability Improvement for Offline Classroom](Project_043880/README.md) |
 
 [Back to the portfolio home](../README.md)
