@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036658 | [ESP32: Configuration Comparison — Recovery for Small Business](Project_036658/README.md) |
 | 036659 | [ESP32: Configuration Comparison — Reporting for Small Business](Project_036659/README.md) |
 | 036660 | [ESP32: Configuration Comparison — Usability Improvement for Small Business](Project_036660/README.md) |
+| 036661 | [ESP32: Configuration Comparison — Baseline Setup for Home Development](Project_036661/README.md) |
+| 036662 | [ESP32: Configuration Comparison — Automation for Home Development](Project_036662/README.md) |
+| 036663 | [ESP32: Configuration Comparison — Recovery for Home Development](Project_036663/README.md) |
+| 036664 | [ESP32: Configuration Comparison — Reporting for Home Development](Project_036664/README.md) |
+| 036665 | [ESP32: Configuration Comparison — Usability Improvement for Home Development](Project_036665/README.md) |
+| 036666 | [ESP32: Configuration Comparison — Baseline Setup for Public Dataset](Project_036666/README.md) |
+| 036667 | [ESP32: Configuration Comparison — Automation for Public Dataset](Project_036667/README.md) |
+| 036668 | [ESP32: Configuration Comparison — Recovery for Public Dataset](Project_036668/README.md) |
+| 036669 | [ESP32: Configuration Comparison — Reporting for Public Dataset](Project_036669/README.md) |
+| 036670 | [ESP32: Configuration Comparison — Usability Improvement for Public Dataset](Project_036670/README.md) |
+| 036671 | [ESP32: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_036671/README.md) |
+| 036672 | [ESP32: Configuration Comparison — Automation for Branch Office Simulator](Project_036672/README.md) |
+| 036673 | [ESP32: Configuration Comparison — Recovery for Branch Office Simulator](Project_036673/README.md) |
+| 036674 | [ESP32: Configuration Comparison — Reporting for Branch Office Simulator](Project_036674/README.md) |
+| 036675 | [ESP32: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_036675/README.md) |
+| 036676 | [ESP32: Configuration Comparison — Baseline Setup for Offline Classroom](Project_036676/README.md) |
+| 036677 | [ESP32: Configuration Comparison — Automation for Offline Classroom](Project_036677/README.md) |
+| 036678 | [ESP32: Configuration Comparison — Recovery for Offline Classroom](Project_036678/README.md) |
+| 036679 | [ESP32: Configuration Comparison — Reporting for Offline Classroom](Project_036679/README.md) |
+| 036680 | [ESP32: Configuration Comparison — Usability Improvement for Offline Classroom](Project_036680/README.md) |
 
 [Back to the portfolio home](../README.md)
