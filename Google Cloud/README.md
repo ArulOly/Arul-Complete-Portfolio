@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016098 | [Google Cloud: Monitoring — Recovery for Portfolio Demo](Project_016098/README.md) |
 | 016099 | [Google Cloud: Monitoring — Reporting for Portfolio Demo](Project_016099/README.md) |
 | 016100 | [Google Cloud: Monitoring — Usability Improvement for Portfolio Demo](Project_016100/README.md) |
+| 016101 | [Google Cloud: Audit — Baseline Setup for School Lab](Project_016101/README.md) |
+| 016102 | [Google Cloud: Audit — Automation for School Lab](Project_016102/README.md) |
+| 016103 | [Google Cloud: Audit — Recovery for School Lab](Project_016103/README.md) |
+| 016104 | [Google Cloud: Audit — Reporting for School Lab](Project_016104/README.md) |
+| 016105 | [Google Cloud: Audit — Usability Improvement for School Lab](Project_016105/README.md) |
+| 016106 | [Google Cloud: Audit — Baseline Setup for Small Business](Project_016106/README.md) |
+| 016107 | [Google Cloud: Audit — Automation for Small Business](Project_016107/README.md) |
+| 016108 | [Google Cloud: Audit — Recovery for Small Business](Project_016108/README.md) |
+| 016109 | [Google Cloud: Audit — Reporting for Small Business](Project_016109/README.md) |
+| 016110 | [Google Cloud: Audit — Usability Improvement for Small Business](Project_016110/README.md) |
+| 016111 | [Google Cloud: Audit — Baseline Setup for Home Development](Project_016111/README.md) |
+| 016112 | [Google Cloud: Audit — Automation for Home Development](Project_016112/README.md) |
+| 016113 | [Google Cloud: Audit — Recovery for Home Development](Project_016113/README.md) |
+| 016114 | [Google Cloud: Audit — Reporting for Home Development](Project_016114/README.md) |
+| 016115 | [Google Cloud: Audit — Usability Improvement for Home Development](Project_016115/README.md) |
+| 016116 | [Google Cloud: Audit — Baseline Setup for Public Dataset](Project_016116/README.md) |
+| 016117 | [Google Cloud: Audit — Automation for Public Dataset](Project_016117/README.md) |
+| 016118 | [Google Cloud: Audit — Recovery for Public Dataset](Project_016118/README.md) |
+| 016119 | [Google Cloud: Audit — Reporting for Public Dataset](Project_016119/README.md) |
+| 016120 | [Google Cloud: Audit — Usability Improvement for Public Dataset](Project_016120/README.md) |
 
 [Back to the portfolio home](../README.md)
