@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015978 | [Azure: Recovery Test — Recovery for Offline Classroom](Project_015978/README.md) |
 | 015979 | [Azure: Recovery Test — Reporting for Offline Classroom](Project_015979/README.md) |
 | 015980 | [Azure: Recovery Test — Usability Improvement for Offline Classroom](Project_015980/README.md) |
+| 015981 | [Azure: Recovery Test — Baseline Setup for Single-Host Lab](Project_015981/README.md) |
+| 015982 | [Azure: Recovery Test — Automation for Single-Host Lab](Project_015982/README.md) |
+| 015983 | [Azure: Recovery Test — Recovery for Single-Host Lab](Project_015983/README.md) |
+| 015984 | [Azure: Recovery Test — Reporting for Single-Host Lab](Project_015984/README.md) |
+| 015985 | [Azure: Recovery Test — Usability Improvement for Single-Host Lab](Project_015985/README.md) |
+| 015986 | [Azure: Recovery Test — Baseline Setup for Two-Node Lab](Project_015986/README.md) |
+| 015987 | [Azure: Recovery Test — Automation for Two-Node Lab](Project_015987/README.md) |
+| 015988 | [Azure: Recovery Test — Recovery for Two-Node Lab](Project_015988/README.md) |
+| 015989 | [Azure: Recovery Test — Reporting for Two-Node Lab](Project_015989/README.md) |
+| 015990 | [Azure: Recovery Test — Usability Improvement for Two-Node Lab](Project_015990/README.md) |
+| 015991 | [Azure: Recovery Test — Baseline Setup for Help Desk](Project_015991/README.md) |
+| 015992 | [Azure: Recovery Test — Automation for Help Desk](Project_015992/README.md) |
+| 015993 | [Azure: Recovery Test — Recovery for Help Desk](Project_015993/README.md) |
+| 015994 | [Azure: Recovery Test — Reporting for Help Desk](Project_015994/README.md) |
+| 015995 | [Azure: Recovery Test — Usability Improvement for Help Desk](Project_015995/README.md) |
+| 015996 | [Azure: Recovery Test — Baseline Setup for Portfolio Demo](Project_015996/README.md) |
+| 015997 | [Azure: Recovery Test — Automation for Portfolio Demo](Project_015997/README.md) |
+| 015998 | [Azure: Recovery Test — Recovery for Portfolio Demo](Project_015998/README.md) |
+| 015999 | [Azure: Recovery Test — Reporting for Portfolio Demo](Project_015999/README.md) |
+| 016000 | [Azure: Recovery Test — Usability Improvement for Portfolio Demo](Project_016000/README.md) |
 
 [Back to the portfolio home](../README.md)
