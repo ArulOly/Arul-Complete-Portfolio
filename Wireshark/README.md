@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029258 | [Wireshark: Data Import — Recovery for Small Business](Project_029258/README.md) |
 | 029259 | [Wireshark: Data Import — Reporting for Small Business](Project_029259/README.md) |
 | 029260 | [Wireshark: Data Import — Usability Improvement for Small Business](Project_029260/README.md) |
+| 029261 | [Wireshark: Data Import — Baseline Setup for Home Development](Project_029261/README.md) |
+| 029262 | [Wireshark: Data Import — Automation for Home Development](Project_029262/README.md) |
+| 029263 | [Wireshark: Data Import — Recovery for Home Development](Project_029263/README.md) |
+| 029264 | [Wireshark: Data Import — Reporting for Home Development](Project_029264/README.md) |
+| 029265 | [Wireshark: Data Import — Usability Improvement for Home Development](Project_029265/README.md) |
+| 029266 | [Wireshark: Data Import — Baseline Setup for Public Dataset](Project_029266/README.md) |
+| 029267 | [Wireshark: Data Import — Automation for Public Dataset](Project_029267/README.md) |
+| 029268 | [Wireshark: Data Import — Recovery for Public Dataset](Project_029268/README.md) |
+| 029269 | [Wireshark: Data Import — Reporting for Public Dataset](Project_029269/README.md) |
+| 029270 | [Wireshark: Data Import — Usability Improvement for Public Dataset](Project_029270/README.md) |
+| 029271 | [Wireshark: Data Import — Baseline Setup for Branch Office Simulator](Project_029271/README.md) |
+| 029272 | [Wireshark: Data Import — Automation for Branch Office Simulator](Project_029272/README.md) |
+| 029273 | [Wireshark: Data Import — Recovery for Branch Office Simulator](Project_029273/README.md) |
+| 029274 | [Wireshark: Data Import — Reporting for Branch Office Simulator](Project_029274/README.md) |
+| 029275 | [Wireshark: Data Import — Usability Improvement for Branch Office Simulator](Project_029275/README.md) |
+| 029276 | [Wireshark: Data Import — Baseline Setup for Offline Classroom](Project_029276/README.md) |
+| 029277 | [Wireshark: Data Import — Automation for Offline Classroom](Project_029277/README.md) |
+| 029278 | [Wireshark: Data Import — Recovery for Offline Classroom](Project_029278/README.md) |
+| 029279 | [Wireshark: Data Import — Reporting for Offline Classroom](Project_029279/README.md) |
+| 029280 | [Wireshark: Data Import — Usability Improvement for Offline Classroom](Project_029280/README.md) |
 
 [Back to the portfolio home](../README.md)
