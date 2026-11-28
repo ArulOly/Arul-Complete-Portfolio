@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047198 | [Ansible: Log Analysis — Recovery for Portfolio Demo](Project_047198/README.md) |
 | 047199 | [Ansible: Log Analysis — Reporting for Portfolio Demo](Project_047199/README.md) |
 | 047200 | [Ansible: Log Analysis — Usability Improvement for Portfolio Demo](Project_047200/README.md) |
+| 047201 | [Ansible: Backup Verification — Baseline Setup for School Lab](Project_047201/README.md) |
+| 047202 | [Ansible: Backup Verification — Automation for School Lab](Project_047202/README.md) |
+| 047203 | [Ansible: Backup Verification — Recovery for School Lab](Project_047203/README.md) |
+| 047204 | [Ansible: Backup Verification — Reporting for School Lab](Project_047204/README.md) |
+| 047205 | [Ansible: Backup Verification — Usability Improvement for School Lab](Project_047205/README.md) |
+| 047206 | [Ansible: Backup Verification — Baseline Setup for Small Business](Project_047206/README.md) |
+| 047207 | [Ansible: Backup Verification — Automation for Small Business](Project_047207/README.md) |
+| 047208 | [Ansible: Backup Verification — Recovery for Small Business](Project_047208/README.md) |
+| 047209 | [Ansible: Backup Verification — Reporting for Small Business](Project_047209/README.md) |
+| 047210 | [Ansible: Backup Verification — Usability Improvement for Small Business](Project_047210/README.md) |
+| 047211 | [Ansible: Backup Verification — Baseline Setup for Home Development](Project_047211/README.md) |
+| 047212 | [Ansible: Backup Verification — Automation for Home Development](Project_047212/README.md) |
+| 047213 | [Ansible: Backup Verification — Recovery for Home Development](Project_047213/README.md) |
+| 047214 | [Ansible: Backup Verification — Reporting for Home Development](Project_047214/README.md) |
+| 047215 | [Ansible: Backup Verification — Usability Improvement for Home Development](Project_047215/README.md) |
+| 047216 | [Ansible: Backup Verification — Baseline Setup for Public Dataset](Project_047216/README.md) |
+| 047217 | [Ansible: Backup Verification — Automation for Public Dataset](Project_047217/README.md) |
+| 047218 | [Ansible: Backup Verification — Recovery for Public Dataset](Project_047218/README.md) |
+| 047219 | [Ansible: Backup Verification — Reporting for Public Dataset](Project_047219/README.md) |
+| 047220 | [Ansible: Backup Verification — Usability Improvement for Public Dataset](Project_047220/README.md) |
 
 [Back to the portfolio home](../README.md)
