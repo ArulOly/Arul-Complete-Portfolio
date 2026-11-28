@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035738 | [Raspberry Pi: Error Handling — Recovery for Two-Node Lab](Project_035738/README.md) |
 | 035739 | [Raspberry Pi: Error Handling — Reporting for Two-Node Lab](Project_035739/README.md) |
 | 035740 | [Raspberry Pi: Error Handling — Usability Improvement for Two-Node Lab](Project_035740/README.md) |
+| 035741 | [Raspberry Pi: Error Handling — Baseline Setup for Help Desk](Project_035741/README.md) |
+| 035742 | [Raspberry Pi: Error Handling — Automation for Help Desk](Project_035742/README.md) |
+| 035743 | [Raspberry Pi: Error Handling — Recovery for Help Desk](Project_035743/README.md) |
+| 035744 | [Raspberry Pi: Error Handling — Reporting for Help Desk](Project_035744/README.md) |
+| 035745 | [Raspberry Pi: Error Handling — Usability Improvement for Help Desk](Project_035745/README.md) |
+| 035746 | [Raspberry Pi: Error Handling — Baseline Setup for Portfolio Demo](Project_035746/README.md) |
+| 035747 | [Raspberry Pi: Error Handling — Automation for Portfolio Demo](Project_035747/README.md) |
+| 035748 | [Raspberry Pi: Error Handling — Recovery for Portfolio Demo](Project_035748/README.md) |
+| 035749 | [Raspberry Pi: Error Handling — Reporting for Portfolio Demo](Project_035749/README.md) |
+| 035750 | [Raspberry Pi: Error Handling — Usability Improvement for Portfolio Demo](Project_035750/README.md) |
+| 035751 | [Raspberry Pi: Data Validation — Baseline Setup for School Lab](Project_035751/README.md) |
+| 035752 | [Raspberry Pi: Data Validation — Automation for School Lab](Project_035752/README.md) |
+| 035753 | [Raspberry Pi: Data Validation — Recovery for School Lab](Project_035753/README.md) |
+| 035754 | [Raspberry Pi: Data Validation — Reporting for School Lab](Project_035754/README.md) |
+| 035755 | [Raspberry Pi: Data Validation — Usability Improvement for School Lab](Project_035755/README.md) |
+| 035756 | [Raspberry Pi: Data Validation — Baseline Setup for Small Business](Project_035756/README.md) |
+| 035757 | [Raspberry Pi: Data Validation — Automation for Small Business](Project_035757/README.md) |
+| 035758 | [Raspberry Pi: Data Validation — Recovery for Small Business](Project_035758/README.md) |
+| 035759 | [Raspberry Pi: Data Validation — Reporting for Small Business](Project_035759/README.md) |
+| 035760 | [Raspberry Pi: Data Validation — Usability Improvement for Small Business](Project_035760/README.md) |
 
 [Back to the portfolio home](../README.md)
