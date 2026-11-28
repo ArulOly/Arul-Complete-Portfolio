@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029818 | [Wireshark: Documentation Generation — Recovery for Public Dataset](Project_029818/README.md) |
 | 029819 | [Wireshark: Documentation Generation — Reporting for Public Dataset](Project_029819/README.md) |
 | 029820 | [Wireshark: Documentation Generation — Usability Improvement for Public Dataset](Project_029820/README.md) |
+| 029821 | [Wireshark: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_029821/README.md) |
+| 029822 | [Wireshark: Documentation Generation — Automation for Branch Office Simulator](Project_029822/README.md) |
+| 029823 | [Wireshark: Documentation Generation — Recovery for Branch Office Simulator](Project_029823/README.md) |
+| 029824 | [Wireshark: Documentation Generation — Reporting for Branch Office Simulator](Project_029824/README.md) |
+| 029825 | [Wireshark: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_029825/README.md) |
+| 029826 | [Wireshark: Documentation Generation — Baseline Setup for Offline Classroom](Project_029826/README.md) |
+| 029827 | [Wireshark: Documentation Generation — Automation for Offline Classroom](Project_029827/README.md) |
+| 029828 | [Wireshark: Documentation Generation — Recovery for Offline Classroom](Project_029828/README.md) |
+| 029829 | [Wireshark: Documentation Generation — Reporting for Offline Classroom](Project_029829/README.md) |
+| 029830 | [Wireshark: Documentation Generation — Usability Improvement for Offline Classroom](Project_029830/README.md) |
+| 029831 | [Wireshark: Documentation Generation — Baseline Setup for Single-Host Lab](Project_029831/README.md) |
+| 029832 | [Wireshark: Documentation Generation — Automation for Single-Host Lab](Project_029832/README.md) |
+| 029833 | [Wireshark: Documentation Generation — Recovery for Single-Host Lab](Project_029833/README.md) |
+| 029834 | [Wireshark: Documentation Generation — Reporting for Single-Host Lab](Project_029834/README.md) |
+| 029835 | [Wireshark: Documentation Generation — Usability Improvement for Single-Host Lab](Project_029835/README.md) |
+| 029836 | [Wireshark: Documentation Generation — Baseline Setup for Two-Node Lab](Project_029836/README.md) |
+| 029837 | [Wireshark: Documentation Generation — Automation for Two-Node Lab](Project_029837/README.md) |
+| 029838 | [Wireshark: Documentation Generation — Recovery for Two-Node Lab](Project_029838/README.md) |
+| 029839 | [Wireshark: Documentation Generation — Reporting for Two-Node Lab](Project_029839/README.md) |
+| 029840 | [Wireshark: Documentation Generation — Usability Improvement for Two-Node Lab](Project_029840/README.md) |
 
 [Back to the portfolio home](../README.md)
