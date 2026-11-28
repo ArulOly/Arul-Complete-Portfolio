@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015418 | [Azure: Alerting — Recovery for Public Dataset](Project_015418/README.md) |
 | 015419 | [Azure: Alerting — Reporting for Public Dataset](Project_015419/README.md) |
 | 015420 | [Azure: Alerting — Usability Improvement for Public Dataset](Project_015420/README.md) |
+| 015421 | [Azure: Alerting — Baseline Setup for Branch Office Simulator](Project_015421/README.md) |
+| 015422 | [Azure: Alerting — Automation for Branch Office Simulator](Project_015422/README.md) |
+| 015423 | [Azure: Alerting — Recovery for Branch Office Simulator](Project_015423/README.md) |
+| 015424 | [Azure: Alerting — Reporting for Branch Office Simulator](Project_015424/README.md) |
+| 015425 | [Azure: Alerting — Usability Improvement for Branch Office Simulator](Project_015425/README.md) |
+| 015426 | [Azure: Alerting — Baseline Setup for Offline Classroom](Project_015426/README.md) |
+| 015427 | [Azure: Alerting — Automation for Offline Classroom](Project_015427/README.md) |
+| 015428 | [Azure: Alerting — Recovery for Offline Classroom](Project_015428/README.md) |
+| 015429 | [Azure: Alerting — Reporting for Offline Classroom](Project_015429/README.md) |
+| 015430 | [Azure: Alerting — Usability Improvement for Offline Classroom](Project_015430/README.md) |
+| 015431 | [Azure: Alerting — Baseline Setup for Single-Host Lab](Project_015431/README.md) |
+| 015432 | [Azure: Alerting — Automation for Single-Host Lab](Project_015432/README.md) |
+| 015433 | [Azure: Alerting — Recovery for Single-Host Lab](Project_015433/README.md) |
+| 015434 | [Azure: Alerting — Reporting for Single-Host Lab](Project_015434/README.md) |
+| 015435 | [Azure: Alerting — Usability Improvement for Single-Host Lab](Project_015435/README.md) |
+| 015436 | [Azure: Alerting — Baseline Setup for Two-Node Lab](Project_015436/README.md) |
+| 015437 | [Azure: Alerting — Automation for Two-Node Lab](Project_015437/README.md) |
+| 015438 | [Azure: Alerting — Recovery for Two-Node Lab](Project_015438/README.md) |
+| 015439 | [Azure: Alerting — Reporting for Two-Node Lab](Project_015439/README.md) |
+| 015440 | [Azure: Alerting — Usability Improvement for Two-Node Lab](Project_015440/README.md) |
 
 [Back to the portfolio home](../README.md)
