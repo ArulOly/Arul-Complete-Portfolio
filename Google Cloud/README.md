@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016858 | [Google Cloud: Automation — Recovery for Small Business](Project_016858/README.md) |
 | 016859 | [Google Cloud: Automation — Reporting for Small Business](Project_016859/README.md) |
 | 016860 | [Google Cloud: Automation — Usability Improvement for Small Business](Project_016860/README.md) |
+| 016861 | [Google Cloud: Automation — Baseline Setup for Home Development](Project_016861/README.md) |
+| 016862 | [Google Cloud: Automation — Automation for Home Development](Project_016862/README.md) |
+| 016863 | [Google Cloud: Automation — Recovery for Home Development](Project_016863/README.md) |
+| 016864 | [Google Cloud: Automation — Reporting for Home Development](Project_016864/README.md) |
+| 016865 | [Google Cloud: Automation — Usability Improvement for Home Development](Project_016865/README.md) |
+| 016866 | [Google Cloud: Automation — Baseline Setup for Public Dataset](Project_016866/README.md) |
+| 016867 | [Google Cloud: Automation — Automation for Public Dataset](Project_016867/README.md) |
+| 016868 | [Google Cloud: Automation — Recovery for Public Dataset](Project_016868/README.md) |
+| 016869 | [Google Cloud: Automation — Reporting for Public Dataset](Project_016869/README.md) |
+| 016870 | [Google Cloud: Automation — Usability Improvement for Public Dataset](Project_016870/README.md) |
+| 016871 | [Google Cloud: Automation — Baseline Setup for Branch Office Simulator](Project_016871/README.md) |
+| 016872 | [Google Cloud: Automation — Automation for Branch Office Simulator](Project_016872/README.md) |
+| 016873 | [Google Cloud: Automation — Recovery for Branch Office Simulator](Project_016873/README.md) |
+| 016874 | [Google Cloud: Automation — Reporting for Branch Office Simulator](Project_016874/README.md) |
+| 016875 | [Google Cloud: Automation — Usability Improvement for Branch Office Simulator](Project_016875/README.md) |
+| 016876 | [Google Cloud: Automation — Baseline Setup for Offline Classroom](Project_016876/README.md) |
+| 016877 | [Google Cloud: Automation — Automation for Offline Classroom](Project_016877/README.md) |
+| 016878 | [Google Cloud: Automation — Recovery for Offline Classroom](Project_016878/README.md) |
+| 016879 | [Google Cloud: Automation — Reporting for Offline Classroom](Project_016879/README.md) |
+| 016880 | [Google Cloud: Automation — Usability Improvement for Offline Classroom](Project_016880/README.md) |
 
 [Back to the portfolio home](../README.md)
