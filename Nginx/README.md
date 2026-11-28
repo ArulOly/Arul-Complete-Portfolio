@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041498 | [Nginx: Scheduled Reporting — Recovery for Portfolio Demo](Project_041498/README.md) |
 | 041499 | [Nginx: Scheduled Reporting — Reporting for Portfolio Demo](Project_041499/README.md) |
 | 041500 | [Nginx: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_041500/README.md) |
+| 041501 | [Nginx: Access Review — Baseline Setup for School Lab](Project_041501/README.md) |
+| 041502 | [Nginx: Access Review — Automation for School Lab](Project_041502/README.md) |
+| 041503 | [Nginx: Access Review — Recovery for School Lab](Project_041503/README.md) |
+| 041504 | [Nginx: Access Review — Reporting for School Lab](Project_041504/README.md) |
+| 041505 | [Nginx: Access Review — Usability Improvement for School Lab](Project_041505/README.md) |
+| 041506 | [Nginx: Access Review — Baseline Setup for Small Business](Project_041506/README.md) |
+| 041507 | [Nginx: Access Review — Automation for Small Business](Project_041507/README.md) |
+| 041508 | [Nginx: Access Review — Recovery for Small Business](Project_041508/README.md) |
+| 041509 | [Nginx: Access Review — Reporting for Small Business](Project_041509/README.md) |
+| 041510 | [Nginx: Access Review — Usability Improvement for Small Business](Project_041510/README.md) |
+| 041511 | [Nginx: Access Review — Baseline Setup for Home Development](Project_041511/README.md) |
+| 041512 | [Nginx: Access Review — Automation for Home Development](Project_041512/README.md) |
+| 041513 | [Nginx: Access Review — Recovery for Home Development](Project_041513/README.md) |
+| 041514 | [Nginx: Access Review — Reporting for Home Development](Project_041514/README.md) |
+| 041515 | [Nginx: Access Review — Usability Improvement for Home Development](Project_041515/README.md) |
+| 041516 | [Nginx: Access Review — Baseline Setup for Public Dataset](Project_041516/README.md) |
+| 041517 | [Nginx: Access Review — Automation for Public Dataset](Project_041517/README.md) |
+| 041518 | [Nginx: Access Review — Recovery for Public Dataset](Project_041518/README.md) |
+| 041519 | [Nginx: Access Review — Reporting for Public Dataset](Project_041519/README.md) |
+| 041520 | [Nginx: Access Review — Usability Improvement for Public Dataset](Project_041520/README.md) |
 
 [Back to the portfolio home](../README.md)
