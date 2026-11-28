@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046118 | [Terraform: Audit — Recovery for Public Dataset](Project_046118/README.md) |
 | 046119 | [Terraform: Audit — Reporting for Public Dataset](Project_046119/README.md) |
 | 046120 | [Terraform: Audit — Usability Improvement for Public Dataset](Project_046120/README.md) |
+| 046121 | [Terraform: Audit — Baseline Setup for Branch Office Simulator](Project_046121/README.md) |
+| 046122 | [Terraform: Audit — Automation for Branch Office Simulator](Project_046122/README.md) |
+| 046123 | [Terraform: Audit — Recovery for Branch Office Simulator](Project_046123/README.md) |
+| 046124 | [Terraform: Audit — Reporting for Branch Office Simulator](Project_046124/README.md) |
+| 046125 | [Terraform: Audit — Usability Improvement for Branch Office Simulator](Project_046125/README.md) |
+| 046126 | [Terraform: Audit — Baseline Setup for Offline Classroom](Project_046126/README.md) |
+| 046127 | [Terraform: Audit — Automation for Offline Classroom](Project_046127/README.md) |
+| 046128 | [Terraform: Audit — Recovery for Offline Classroom](Project_046128/README.md) |
+| 046129 | [Terraform: Audit — Reporting for Offline Classroom](Project_046129/README.md) |
+| 046130 | [Terraform: Audit — Usability Improvement for Offline Classroom](Project_046130/README.md) |
+| 046131 | [Terraform: Audit — Baseline Setup for Single-Host Lab](Project_046131/README.md) |
+| 046132 | [Terraform: Audit — Automation for Single-Host Lab](Project_046132/README.md) |
+| 046133 | [Terraform: Audit — Recovery for Single-Host Lab](Project_046133/README.md) |
+| 046134 | [Terraform: Audit — Reporting for Single-Host Lab](Project_046134/README.md) |
+| 046135 | [Terraform: Audit — Usability Improvement for Single-Host Lab](Project_046135/README.md) |
+| 046136 | [Terraform: Audit — Baseline Setup for Two-Node Lab](Project_046136/README.md) |
+| 046137 | [Terraform: Audit — Automation for Two-Node Lab](Project_046137/README.md) |
+| 046138 | [Terraform: Audit — Recovery for Two-Node Lab](Project_046138/README.md) |
+| 046139 | [Terraform: Audit — Reporting for Two-Node Lab](Project_046139/README.md) |
+| 046140 | [Terraform: Audit — Usability Improvement for Two-Node Lab](Project_046140/README.md) |
 
 [Back to the portfolio home](../README.md)
