@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047098 | [Ansible: Monitoring — Recovery for Portfolio Demo](Project_047098/README.md) |
 | 047099 | [Ansible: Monitoring — Reporting for Portfolio Demo](Project_047099/README.md) |
 | 047100 | [Ansible: Monitoring — Usability Improvement for Portfolio Demo](Project_047100/README.md) |
+| 047101 | [Ansible: Audit — Baseline Setup for School Lab](Project_047101/README.md) |
+| 047102 | [Ansible: Audit — Automation for School Lab](Project_047102/README.md) |
+| 047103 | [Ansible: Audit — Recovery for School Lab](Project_047103/README.md) |
+| 047104 | [Ansible: Audit — Reporting for School Lab](Project_047104/README.md) |
+| 047105 | [Ansible: Audit — Usability Improvement for School Lab](Project_047105/README.md) |
+| 047106 | [Ansible: Audit — Baseline Setup for Small Business](Project_047106/README.md) |
+| 047107 | [Ansible: Audit — Automation for Small Business](Project_047107/README.md) |
+| 047108 | [Ansible: Audit — Recovery for Small Business](Project_047108/README.md) |
+| 047109 | [Ansible: Audit — Reporting for Small Business](Project_047109/README.md) |
+| 047110 | [Ansible: Audit — Usability Improvement for Small Business](Project_047110/README.md) |
+| 047111 | [Ansible: Audit — Baseline Setup for Home Development](Project_047111/README.md) |
+| 047112 | [Ansible: Audit — Automation for Home Development](Project_047112/README.md) |
+| 047113 | [Ansible: Audit — Recovery for Home Development](Project_047113/README.md) |
+| 047114 | [Ansible: Audit — Reporting for Home Development](Project_047114/README.md) |
+| 047115 | [Ansible: Audit — Usability Improvement for Home Development](Project_047115/README.md) |
+| 047116 | [Ansible: Audit — Baseline Setup for Public Dataset](Project_047116/README.md) |
+| 047117 | [Ansible: Audit — Automation for Public Dataset](Project_047117/README.md) |
+| 047118 | [Ansible: Audit — Recovery for Public Dataset](Project_047118/README.md) |
+| 047119 | [Ansible: Audit — Reporting for Public Dataset](Project_047119/README.md) |
+| 047120 | [Ansible: Audit — Usability Improvement for Public Dataset](Project_047120/README.md) |
 
 [Back to the portfolio home](../README.md)
