@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030518 | [Wazuh: Access Review — Recovery for Public Dataset](Project_030518/README.md) |
 | 030519 | [Wazuh: Access Review — Reporting for Public Dataset](Project_030519/README.md) |
 | 030520 | [Wazuh: Access Review — Usability Improvement for Public Dataset](Project_030520/README.md) |
+| 030521 | [Wazuh: Access Review — Baseline Setup for Branch Office Simulator](Project_030521/README.md) |
+| 030522 | [Wazuh: Access Review — Automation for Branch Office Simulator](Project_030522/README.md) |
+| 030523 | [Wazuh: Access Review — Recovery for Branch Office Simulator](Project_030523/README.md) |
+| 030524 | [Wazuh: Access Review — Reporting for Branch Office Simulator](Project_030524/README.md) |
+| 030525 | [Wazuh: Access Review — Usability Improvement for Branch Office Simulator](Project_030525/README.md) |
+| 030526 | [Wazuh: Access Review — Baseline Setup for Offline Classroom](Project_030526/README.md) |
+| 030527 | [Wazuh: Access Review — Automation for Offline Classroom](Project_030527/README.md) |
+| 030528 | [Wazuh: Access Review — Recovery for Offline Classroom](Project_030528/README.md) |
+| 030529 | [Wazuh: Access Review — Reporting for Offline Classroom](Project_030529/README.md) |
+| 030530 | [Wazuh: Access Review — Usability Improvement for Offline Classroom](Project_030530/README.md) |
+| 030531 | [Wazuh: Access Review — Baseline Setup for Single-Host Lab](Project_030531/README.md) |
+| 030532 | [Wazuh: Access Review — Automation for Single-Host Lab](Project_030532/README.md) |
+| 030533 | [Wazuh: Access Review — Recovery for Single-Host Lab](Project_030533/README.md) |
+| 030534 | [Wazuh: Access Review — Reporting for Single-Host Lab](Project_030534/README.md) |
+| 030535 | [Wazuh: Access Review — Usability Improvement for Single-Host Lab](Project_030535/README.md) |
+| 030536 | [Wazuh: Access Review — Baseline Setup for Two-Node Lab](Project_030536/README.md) |
+| 030537 | [Wazuh: Access Review — Automation for Two-Node Lab](Project_030537/README.md) |
+| 030538 | [Wazuh: Access Review — Recovery for Two-Node Lab](Project_030538/README.md) |
+| 030539 | [Wazuh: Access Review — Reporting for Two-Node Lab](Project_030539/README.md) |
+| 030540 | [Wazuh: Access Review — Usability Improvement for Two-Node Lab](Project_030540/README.md) |
 
 [Back to the portfolio home](../README.md)
