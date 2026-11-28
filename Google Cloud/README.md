@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016698 | [Google Cloud: Configuration Comparison — Recovery for Portfolio Demo](Project_016698/README.md) |
 | 016699 | [Google Cloud: Configuration Comparison — Reporting for Portfolio Demo](Project_016699/README.md) |
 | 016700 | [Google Cloud: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_016700/README.md) |
+| 016701 | [Google Cloud: Error Handling — Baseline Setup for School Lab](Project_016701/README.md) |
+| 016702 | [Google Cloud: Error Handling — Automation for School Lab](Project_016702/README.md) |
+| 016703 | [Google Cloud: Error Handling — Recovery for School Lab](Project_016703/README.md) |
+| 016704 | [Google Cloud: Error Handling — Reporting for School Lab](Project_016704/README.md) |
+| 016705 | [Google Cloud: Error Handling — Usability Improvement for School Lab](Project_016705/README.md) |
+| 016706 | [Google Cloud: Error Handling — Baseline Setup for Small Business](Project_016706/README.md) |
+| 016707 | [Google Cloud: Error Handling — Automation for Small Business](Project_016707/README.md) |
+| 016708 | [Google Cloud: Error Handling — Recovery for Small Business](Project_016708/README.md) |
+| 016709 | [Google Cloud: Error Handling — Reporting for Small Business](Project_016709/README.md) |
+| 016710 | [Google Cloud: Error Handling — Usability Improvement for Small Business](Project_016710/README.md) |
+| 016711 | [Google Cloud: Error Handling — Baseline Setup for Home Development](Project_016711/README.md) |
+| 016712 | [Google Cloud: Error Handling — Automation for Home Development](Project_016712/README.md) |
+| 016713 | [Google Cloud: Error Handling — Recovery for Home Development](Project_016713/README.md) |
+| 016714 | [Google Cloud: Error Handling — Reporting for Home Development](Project_016714/README.md) |
+| 016715 | [Google Cloud: Error Handling — Usability Improvement for Home Development](Project_016715/README.md) |
+| 016716 | [Google Cloud: Error Handling — Baseline Setup for Public Dataset](Project_016716/README.md) |
+| 016717 | [Google Cloud: Error Handling — Automation for Public Dataset](Project_016717/README.md) |
+| 016718 | [Google Cloud: Error Handling — Recovery for Public Dataset](Project_016718/README.md) |
+| 016719 | [Google Cloud: Error Handling — Reporting for Public Dataset](Project_016719/README.md) |
+| 016720 | [Google Cloud: Error Handling — Usability Improvement for Public Dataset](Project_016720/README.md) |
 
 [Back to the portfolio home](../README.md)
