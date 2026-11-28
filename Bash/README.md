@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039078 | [Bash: Monitoring — Recovery for Offline Classroom](Project_039078/README.md) |
 | 039079 | [Bash: Monitoring — Reporting for Offline Classroom](Project_039079/README.md) |
 | 039080 | [Bash: Monitoring — Usability Improvement for Offline Classroom](Project_039080/README.md) |
+| 039081 | [Bash: Monitoring — Baseline Setup for Single-Host Lab](Project_039081/README.md) |
+| 039082 | [Bash: Monitoring — Automation for Single-Host Lab](Project_039082/README.md) |
+| 039083 | [Bash: Monitoring — Recovery for Single-Host Lab](Project_039083/README.md) |
+| 039084 | [Bash: Monitoring — Reporting for Single-Host Lab](Project_039084/README.md) |
+| 039085 | [Bash: Monitoring — Usability Improvement for Single-Host Lab](Project_039085/README.md) |
+| 039086 | [Bash: Monitoring — Baseline Setup for Two-Node Lab](Project_039086/README.md) |
+| 039087 | [Bash: Monitoring — Automation for Two-Node Lab](Project_039087/README.md) |
+| 039088 | [Bash: Monitoring — Recovery for Two-Node Lab](Project_039088/README.md) |
+| 039089 | [Bash: Monitoring — Reporting for Two-Node Lab](Project_039089/README.md) |
+| 039090 | [Bash: Monitoring — Usability Improvement for Two-Node Lab](Project_039090/README.md) |
+| 039091 | [Bash: Monitoring — Baseline Setup for Help Desk](Project_039091/README.md) |
+| 039092 | [Bash: Monitoring — Automation for Help Desk](Project_039092/README.md) |
+| 039093 | [Bash: Monitoring — Recovery for Help Desk](Project_039093/README.md) |
+| 039094 | [Bash: Monitoring — Reporting for Help Desk](Project_039094/README.md) |
+| 039095 | [Bash: Monitoring — Usability Improvement for Help Desk](Project_039095/README.md) |
+| 039096 | [Bash: Monitoring — Baseline Setup for Portfolio Demo](Project_039096/README.md) |
+| 039097 | [Bash: Monitoring — Automation for Portfolio Demo](Project_039097/README.md) |
+| 039098 | [Bash: Monitoring — Recovery for Portfolio Demo](Project_039098/README.md) |
+| 039099 | [Bash: Monitoring — Reporting for Portfolio Demo](Project_039099/README.md) |
+| 039100 | [Bash: Monitoring — Usability Improvement for Portfolio Demo](Project_039100/README.md) |
 
 [Back to the portfolio home](../README.md)
