@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039458 | [Bash: Scheduled Reporting — Recovery for Small Business](Project_039458/README.md) |
 | 039459 | [Bash: Scheduled Reporting — Reporting for Small Business](Project_039459/README.md) |
 | 039460 | [Bash: Scheduled Reporting — Usability Improvement for Small Business](Project_039460/README.md) |
+| 039461 | [Bash: Scheduled Reporting — Baseline Setup for Home Development](Project_039461/README.md) |
+| 039462 | [Bash: Scheduled Reporting — Automation for Home Development](Project_039462/README.md) |
+| 039463 | [Bash: Scheduled Reporting — Recovery for Home Development](Project_039463/README.md) |
+| 039464 | [Bash: Scheduled Reporting — Reporting for Home Development](Project_039464/README.md) |
+| 039465 | [Bash: Scheduled Reporting — Usability Improvement for Home Development](Project_039465/README.md) |
+| 039466 | [Bash: Scheduled Reporting — Baseline Setup for Public Dataset](Project_039466/README.md) |
+| 039467 | [Bash: Scheduled Reporting — Automation for Public Dataset](Project_039467/README.md) |
+| 039468 | [Bash: Scheduled Reporting — Recovery for Public Dataset](Project_039468/README.md) |
+| 039469 | [Bash: Scheduled Reporting — Reporting for Public Dataset](Project_039469/README.md) |
+| 039470 | [Bash: Scheduled Reporting — Usability Improvement for Public Dataset](Project_039470/README.md) |
+| 039471 | [Bash: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_039471/README.md) |
+| 039472 | [Bash: Scheduled Reporting — Automation for Branch Office Simulator](Project_039472/README.md) |
+| 039473 | [Bash: Scheduled Reporting — Recovery for Branch Office Simulator](Project_039473/README.md) |
+| 039474 | [Bash: Scheduled Reporting — Reporting for Branch Office Simulator](Project_039474/README.md) |
+| 039475 | [Bash: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_039475/README.md) |
+| 039476 | [Bash: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_039476/README.md) |
+| 039477 | [Bash: Scheduled Reporting — Automation for Offline Classroom](Project_039477/README.md) |
+| 039478 | [Bash: Scheduled Reporting — Recovery for Offline Classroom](Project_039478/README.md) |
+| 039479 | [Bash: Scheduled Reporting — Reporting for Offline Classroom](Project_039479/README.md) |
+| 039480 | [Bash: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_039480/README.md) |
 
 [Back to the portfolio home](../README.md)
