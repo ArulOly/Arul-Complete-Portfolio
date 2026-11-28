@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041338 | [Nginx: Data Export — Recovery for Two-Node Lab](Project_041338/README.md) |
 | 041339 | [Nginx: Data Export — Reporting for Two-Node Lab](Project_041339/README.md) |
 | 041340 | [Nginx: Data Export — Usability Improvement for Two-Node Lab](Project_041340/README.md) |
+| 041341 | [Nginx: Data Export — Baseline Setup for Help Desk](Project_041341/README.md) |
+| 041342 | [Nginx: Data Export — Automation for Help Desk](Project_041342/README.md) |
+| 041343 | [Nginx: Data Export — Recovery for Help Desk](Project_041343/README.md) |
+| 041344 | [Nginx: Data Export — Reporting for Help Desk](Project_041344/README.md) |
+| 041345 | [Nginx: Data Export — Usability Improvement for Help Desk](Project_041345/README.md) |
+| 041346 | [Nginx: Data Export — Baseline Setup for Portfolio Demo](Project_041346/README.md) |
+| 041347 | [Nginx: Data Export — Automation for Portfolio Demo](Project_041347/README.md) |
+| 041348 | [Nginx: Data Export — Recovery for Portfolio Demo](Project_041348/README.md) |
+| 041349 | [Nginx: Data Export — Reporting for Portfolio Demo](Project_041349/README.md) |
+| 041350 | [Nginx: Data Export — Usability Improvement for Portfolio Demo](Project_041350/README.md) |
+| 041351 | [Nginx: Dashboard — Baseline Setup for School Lab](Project_041351/README.md) |
+| 041352 | [Nginx: Dashboard — Automation for School Lab](Project_041352/README.md) |
+| 041353 | [Nginx: Dashboard — Recovery for School Lab](Project_041353/README.md) |
+| 041354 | [Nginx: Dashboard — Reporting for School Lab](Project_041354/README.md) |
+| 041355 | [Nginx: Dashboard — Usability Improvement for School Lab](Project_041355/README.md) |
+| 041356 | [Nginx: Dashboard — Baseline Setup for Small Business](Project_041356/README.md) |
+| 041357 | [Nginx: Dashboard — Automation for Small Business](Project_041357/README.md) |
+| 041358 | [Nginx: Dashboard — Recovery for Small Business](Project_041358/README.md) |
+| 041359 | [Nginx: Dashboard — Reporting for Small Business](Project_041359/README.md) |
+| 041360 | [Nginx: Dashboard — Usability Improvement for Small Business](Project_041360/README.md) |
 
 [Back to the portfolio home](../README.md)
