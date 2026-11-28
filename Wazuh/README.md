@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030598 | [Wazuh: Performance Baseline — Recovery for Portfolio Demo](Project_030598/README.md) |
 | 030599 | [Wazuh: Performance Baseline — Reporting for Portfolio Demo](Project_030599/README.md) |
 | 030600 | [Wazuh: Performance Baseline — Usability Improvement for Portfolio Demo](Project_030600/README.md) |
+| 030601 | [Wazuh: Service Check — Baseline Setup for School Lab](Project_030601/README.md) |
+| 030602 | [Wazuh: Service Check — Automation for School Lab](Project_030602/README.md) |
+| 030603 | [Wazuh: Service Check — Recovery for School Lab](Project_030603/README.md) |
+| 030604 | [Wazuh: Service Check — Reporting for School Lab](Project_030604/README.md) |
+| 030605 | [Wazuh: Service Check — Usability Improvement for School Lab](Project_030605/README.md) |
+| 030606 | [Wazuh: Service Check — Baseline Setup for Small Business](Project_030606/README.md) |
+| 030607 | [Wazuh: Service Check — Automation for Small Business](Project_030607/README.md) |
+| 030608 | [Wazuh: Service Check — Recovery for Small Business](Project_030608/README.md) |
+| 030609 | [Wazuh: Service Check — Reporting for Small Business](Project_030609/README.md) |
+| 030610 | [Wazuh: Service Check — Usability Improvement for Small Business](Project_030610/README.md) |
+| 030611 | [Wazuh: Service Check — Baseline Setup for Home Development](Project_030611/README.md) |
+| 030612 | [Wazuh: Service Check — Automation for Home Development](Project_030612/README.md) |
+| 030613 | [Wazuh: Service Check — Recovery for Home Development](Project_030613/README.md) |
+| 030614 | [Wazuh: Service Check — Reporting for Home Development](Project_030614/README.md) |
+| 030615 | [Wazuh: Service Check — Usability Improvement for Home Development](Project_030615/README.md) |
+| 030616 | [Wazuh: Service Check — Baseline Setup for Public Dataset](Project_030616/README.md) |
+| 030617 | [Wazuh: Service Check — Automation for Public Dataset](Project_030617/README.md) |
+| 030618 | [Wazuh: Service Check — Recovery for Public Dataset](Project_030618/README.md) |
+| 030619 | [Wazuh: Service Check — Reporting for Public Dataset](Project_030619/README.md) |
+| 030620 | [Wazuh: Service Check — Usability Improvement for Public Dataset](Project_030620/README.md) |
 
 [Back to the portfolio home](../README.md)
