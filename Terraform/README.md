@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046678 | [Terraform: Configuration Comparison — Recovery for Offline Classroom](Project_046678/README.md) |
 | 046679 | [Terraform: Configuration Comparison — Reporting for Offline Classroom](Project_046679/README.md) |
 | 046680 | [Terraform: Configuration Comparison — Usability Improvement for Offline Classroom](Project_046680/README.md) |
+| 046681 | [Terraform: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_046681/README.md) |
+| 046682 | [Terraform: Configuration Comparison — Automation for Single-Host Lab](Project_046682/README.md) |
+| 046683 | [Terraform: Configuration Comparison — Recovery for Single-Host Lab](Project_046683/README.md) |
+| 046684 | [Terraform: Configuration Comparison — Reporting for Single-Host Lab](Project_046684/README.md) |
+| 046685 | [Terraform: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_046685/README.md) |
+| 046686 | [Terraform: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_046686/README.md) |
+| 046687 | [Terraform: Configuration Comparison — Automation for Two-Node Lab](Project_046687/README.md) |
+| 046688 | [Terraform: Configuration Comparison — Recovery for Two-Node Lab](Project_046688/README.md) |
+| 046689 | [Terraform: Configuration Comparison — Reporting for Two-Node Lab](Project_046689/README.md) |
+| 046690 | [Terraform: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_046690/README.md) |
+| 046691 | [Terraform: Configuration Comparison — Baseline Setup for Help Desk](Project_046691/README.md) |
+| 046692 | [Terraform: Configuration Comparison — Automation for Help Desk](Project_046692/README.md) |
+| 046693 | [Terraform: Configuration Comparison — Recovery for Help Desk](Project_046693/README.md) |
+| 046694 | [Terraform: Configuration Comparison — Reporting for Help Desk](Project_046694/README.md) |
+| 046695 | [Terraform: Configuration Comparison — Usability Improvement for Help Desk](Project_046695/README.md) |
+| 046696 | [Terraform: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_046696/README.md) |
+| 046697 | [Terraform: Configuration Comparison — Automation for Portfolio Demo](Project_046697/README.md) |
+| 046698 | [Terraform: Configuration Comparison — Recovery for Portfolio Demo](Project_046698/README.md) |
+| 046699 | [Terraform: Configuration Comparison — Reporting for Portfolio Demo](Project_046699/README.md) |
+| 046700 | [Terraform: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_046700/README.md) |
 
 [Back to the portfolio home](../README.md)
