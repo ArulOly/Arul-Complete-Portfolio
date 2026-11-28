@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031558 | [Greenbone: Performance Baseline — Recovery for Small Business](Project_031558/README.md) |
 | 031559 | [Greenbone: Performance Baseline — Reporting for Small Business](Project_031559/README.md) |
 | 031560 | [Greenbone: Performance Baseline — Usability Improvement for Small Business](Project_031560/README.md) |
+| 031561 | [Greenbone: Performance Baseline — Baseline Setup for Home Development](Project_031561/README.md) |
+| 031562 | [Greenbone: Performance Baseline — Automation for Home Development](Project_031562/README.md) |
+| 031563 | [Greenbone: Performance Baseline — Recovery for Home Development](Project_031563/README.md) |
+| 031564 | [Greenbone: Performance Baseline — Reporting for Home Development](Project_031564/README.md) |
+| 031565 | [Greenbone: Performance Baseline — Usability Improvement for Home Development](Project_031565/README.md) |
+| 031566 | [Greenbone: Performance Baseline — Baseline Setup for Public Dataset](Project_031566/README.md) |
+| 031567 | [Greenbone: Performance Baseline — Automation for Public Dataset](Project_031567/README.md) |
+| 031568 | [Greenbone: Performance Baseline — Recovery for Public Dataset](Project_031568/README.md) |
+| 031569 | [Greenbone: Performance Baseline — Reporting for Public Dataset](Project_031569/README.md) |
+| 031570 | [Greenbone: Performance Baseline — Usability Improvement for Public Dataset](Project_031570/README.md) |
+| 031571 | [Greenbone: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_031571/README.md) |
+| 031572 | [Greenbone: Performance Baseline — Automation for Branch Office Simulator](Project_031572/README.md) |
+| 031573 | [Greenbone: Performance Baseline — Recovery for Branch Office Simulator](Project_031573/README.md) |
+| 031574 | [Greenbone: Performance Baseline — Reporting for Branch Office Simulator](Project_031574/README.md) |
+| 031575 | [Greenbone: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_031575/README.md) |
+| 031576 | [Greenbone: Performance Baseline — Baseline Setup for Offline Classroom](Project_031576/README.md) |
+| 031577 | [Greenbone: Performance Baseline — Automation for Offline Classroom](Project_031577/README.md) |
+| 031578 | [Greenbone: Performance Baseline — Recovery for Offline Classroom](Project_031578/README.md) |
+| 031579 | [Greenbone: Performance Baseline — Reporting for Offline Classroom](Project_031579/README.md) |
+| 031580 | [Greenbone: Performance Baseline — Usability Improvement for Offline Classroom](Project_031580/README.md) |
 
 [Back to the portfolio home](../README.md)
