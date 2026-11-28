@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046218 | [Terraform: Backup Verification — Recovery for Public Dataset](Project_046218/README.md) |
 | 046219 | [Terraform: Backup Verification — Reporting for Public Dataset](Project_046219/README.md) |
 | 046220 | [Terraform: Backup Verification — Usability Improvement for Public Dataset](Project_046220/README.md) |
+| 046221 | [Terraform: Backup Verification — Baseline Setup for Branch Office Simulator](Project_046221/README.md) |
+| 046222 | [Terraform: Backup Verification — Automation for Branch Office Simulator](Project_046222/README.md) |
+| 046223 | [Terraform: Backup Verification — Recovery for Branch Office Simulator](Project_046223/README.md) |
+| 046224 | [Terraform: Backup Verification — Reporting for Branch Office Simulator](Project_046224/README.md) |
+| 046225 | [Terraform: Backup Verification — Usability Improvement for Branch Office Simulator](Project_046225/README.md) |
+| 046226 | [Terraform: Backup Verification — Baseline Setup for Offline Classroom](Project_046226/README.md) |
+| 046227 | [Terraform: Backup Verification — Automation for Offline Classroom](Project_046227/README.md) |
+| 046228 | [Terraform: Backup Verification — Recovery for Offline Classroom](Project_046228/README.md) |
+| 046229 | [Terraform: Backup Verification — Reporting for Offline Classroom](Project_046229/README.md) |
+| 046230 | [Terraform: Backup Verification — Usability Improvement for Offline Classroom](Project_046230/README.md) |
+| 046231 | [Terraform: Backup Verification — Baseline Setup for Single-Host Lab](Project_046231/README.md) |
+| 046232 | [Terraform: Backup Verification — Automation for Single-Host Lab](Project_046232/README.md) |
+| 046233 | [Terraform: Backup Verification — Recovery for Single-Host Lab](Project_046233/README.md) |
+| 046234 | [Terraform: Backup Verification — Reporting for Single-Host Lab](Project_046234/README.md) |
+| 046235 | [Terraform: Backup Verification — Usability Improvement for Single-Host Lab](Project_046235/README.md) |
+| 046236 | [Terraform: Backup Verification — Baseline Setup for Two-Node Lab](Project_046236/README.md) |
+| 046237 | [Terraform: Backup Verification — Automation for Two-Node Lab](Project_046237/README.md) |
+| 046238 | [Terraform: Backup Verification — Recovery for Two-Node Lab](Project_046238/README.md) |
+| 046239 | [Terraform: Backup Verification — Reporting for Two-Node Lab](Project_046239/README.md) |
+| 046240 | [Terraform: Backup Verification — Usability Improvement for Two-Node Lab](Project_046240/README.md) |
 
 [Back to the portfolio home](../README.md)
