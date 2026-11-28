@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030178 | [Wazuh: Log Analysis — Recovery for Offline Classroom](Project_030178/README.md) |
 | 030179 | [Wazuh: Log Analysis — Reporting for Offline Classroom](Project_030179/README.md) |
 | 030180 | [Wazuh: Log Analysis — Usability Improvement for Offline Classroom](Project_030180/README.md) |
+| 030181 | [Wazuh: Log Analysis — Baseline Setup for Single-Host Lab](Project_030181/README.md) |
+| 030182 | [Wazuh: Log Analysis — Automation for Single-Host Lab](Project_030182/README.md) |
+| 030183 | [Wazuh: Log Analysis — Recovery for Single-Host Lab](Project_030183/README.md) |
+| 030184 | [Wazuh: Log Analysis — Reporting for Single-Host Lab](Project_030184/README.md) |
+| 030185 | [Wazuh: Log Analysis — Usability Improvement for Single-Host Lab](Project_030185/README.md) |
+| 030186 | [Wazuh: Log Analysis — Baseline Setup for Two-Node Lab](Project_030186/README.md) |
+| 030187 | [Wazuh: Log Analysis — Automation for Two-Node Lab](Project_030187/README.md) |
+| 030188 | [Wazuh: Log Analysis — Recovery for Two-Node Lab](Project_030188/README.md) |
+| 030189 | [Wazuh: Log Analysis — Reporting for Two-Node Lab](Project_030189/README.md) |
+| 030190 | [Wazuh: Log Analysis — Usability Improvement for Two-Node Lab](Project_030190/README.md) |
+| 030191 | [Wazuh: Log Analysis — Baseline Setup for Help Desk](Project_030191/README.md) |
+| 030192 | [Wazuh: Log Analysis — Automation for Help Desk](Project_030192/README.md) |
+| 030193 | [Wazuh: Log Analysis — Recovery for Help Desk](Project_030193/README.md) |
+| 030194 | [Wazuh: Log Analysis — Reporting for Help Desk](Project_030194/README.md) |
+| 030195 | [Wazuh: Log Analysis — Usability Improvement for Help Desk](Project_030195/README.md) |
+| 030196 | [Wazuh: Log Analysis — Baseline Setup for Portfolio Demo](Project_030196/README.md) |
+| 030197 | [Wazuh: Log Analysis — Automation for Portfolio Demo](Project_030197/README.md) |
+| 030198 | [Wazuh: Log Analysis — Recovery for Portfolio Demo](Project_030198/README.md) |
+| 030199 | [Wazuh: Log Analysis — Reporting for Portfolio Demo](Project_030199/README.md) |
+| 030200 | [Wazuh: Log Analysis — Usability Improvement for Portfolio Demo](Project_030200/README.md) |
 
 [Back to the portfolio home](../README.md)
