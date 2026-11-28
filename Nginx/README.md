@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041898 | [Nginx: Automation — Recovery for Portfolio Demo](Project_041898/README.md) |
 | 041899 | [Nginx: Automation — Reporting for Portfolio Demo](Project_041899/README.md) |
 | 041900 | [Nginx: Automation — Usability Improvement for Portfolio Demo](Project_041900/README.md) |
+| 041901 | [Nginx: Visual Reporting — Baseline Setup for School Lab](Project_041901/README.md) |
+| 041902 | [Nginx: Visual Reporting — Automation for School Lab](Project_041902/README.md) |
+| 041903 | [Nginx: Visual Reporting — Recovery for School Lab](Project_041903/README.md) |
+| 041904 | [Nginx: Visual Reporting — Reporting for School Lab](Project_041904/README.md) |
+| 041905 | [Nginx: Visual Reporting — Usability Improvement for School Lab](Project_041905/README.md) |
+| 041906 | [Nginx: Visual Reporting — Baseline Setup for Small Business](Project_041906/README.md) |
+| 041907 | [Nginx: Visual Reporting — Automation for Small Business](Project_041907/README.md) |
+| 041908 | [Nginx: Visual Reporting — Recovery for Small Business](Project_041908/README.md) |
+| 041909 | [Nginx: Visual Reporting — Reporting for Small Business](Project_041909/README.md) |
+| 041910 | [Nginx: Visual Reporting — Usability Improvement for Small Business](Project_041910/README.md) |
+| 041911 | [Nginx: Visual Reporting — Baseline Setup for Home Development](Project_041911/README.md) |
+| 041912 | [Nginx: Visual Reporting — Automation for Home Development](Project_041912/README.md) |
+| 041913 | [Nginx: Visual Reporting — Recovery for Home Development](Project_041913/README.md) |
+| 041914 | [Nginx: Visual Reporting — Reporting for Home Development](Project_041914/README.md) |
+| 041915 | [Nginx: Visual Reporting — Usability Improvement for Home Development](Project_041915/README.md) |
+| 041916 | [Nginx: Visual Reporting — Baseline Setup for Public Dataset](Project_041916/README.md) |
+| 041917 | [Nginx: Visual Reporting — Automation for Public Dataset](Project_041917/README.md) |
+| 041918 | [Nginx: Visual Reporting — Recovery for Public Dataset](Project_041918/README.md) |
+| 041919 | [Nginx: Visual Reporting — Reporting for Public Dataset](Project_041919/README.md) |
+| 041920 | [Nginx: Visual Reporting — Usability Improvement for Public Dataset](Project_041920/README.md) |
 
 [Back to the portfolio home](../README.md)
