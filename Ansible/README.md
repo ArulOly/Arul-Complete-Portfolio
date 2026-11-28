@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047618 | [Ansible: Service Check — Recovery for Public Dataset](Project_047618/README.md) |
 | 047619 | [Ansible: Service Check — Reporting for Public Dataset](Project_047619/README.md) |
 | 047620 | [Ansible: Service Check — Usability Improvement for Public Dataset](Project_047620/README.md) |
+| 047621 | [Ansible: Service Check — Baseline Setup for Branch Office Simulator](Project_047621/README.md) |
+| 047622 | [Ansible: Service Check — Automation for Branch Office Simulator](Project_047622/README.md) |
+| 047623 | [Ansible: Service Check — Recovery for Branch Office Simulator](Project_047623/README.md) |
+| 047624 | [Ansible: Service Check — Reporting for Branch Office Simulator](Project_047624/README.md) |
+| 047625 | [Ansible: Service Check — Usability Improvement for Branch Office Simulator](Project_047625/README.md) |
+| 047626 | [Ansible: Service Check — Baseline Setup for Offline Classroom](Project_047626/README.md) |
+| 047627 | [Ansible: Service Check — Automation for Offline Classroom](Project_047627/README.md) |
+| 047628 | [Ansible: Service Check — Recovery for Offline Classroom](Project_047628/README.md) |
+| 047629 | [Ansible: Service Check — Reporting for Offline Classroom](Project_047629/README.md) |
+| 047630 | [Ansible: Service Check — Usability Improvement for Offline Classroom](Project_047630/README.md) |
+| 047631 | [Ansible: Service Check — Baseline Setup for Single-Host Lab](Project_047631/README.md) |
+| 047632 | [Ansible: Service Check — Automation for Single-Host Lab](Project_047632/README.md) |
+| 047633 | [Ansible: Service Check — Recovery for Single-Host Lab](Project_047633/README.md) |
+| 047634 | [Ansible: Service Check — Reporting for Single-Host Lab](Project_047634/README.md) |
+| 047635 | [Ansible: Service Check — Usability Improvement for Single-Host Lab](Project_047635/README.md) |
+| 047636 | [Ansible: Service Check — Baseline Setup for Two-Node Lab](Project_047636/README.md) |
+| 047637 | [Ansible: Service Check — Automation for Two-Node Lab](Project_047637/README.md) |
+| 047638 | [Ansible: Service Check — Recovery for Two-Node Lab](Project_047638/README.md) |
+| 047639 | [Ansible: Service Check — Reporting for Two-Node Lab](Project_047639/README.md) |
+| 047640 | [Ansible: Service Check — Usability Improvement for Two-Node Lab](Project_047640/README.md) |
 
 [Back to the portfolio home](../README.md)
