@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031698 | [Greenbone: Configuration Comparison — Recovery for Portfolio Demo](Project_031698/README.md) |
 | 031699 | [Greenbone: Configuration Comparison — Reporting for Portfolio Demo](Project_031699/README.md) |
 | 031700 | [Greenbone: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_031700/README.md) |
+| 031701 | [Greenbone: Error Handling — Baseline Setup for School Lab](Project_031701/README.md) |
+| 031702 | [Greenbone: Error Handling — Automation for School Lab](Project_031702/README.md) |
+| 031703 | [Greenbone: Error Handling — Recovery for School Lab](Project_031703/README.md) |
+| 031704 | [Greenbone: Error Handling — Reporting for School Lab](Project_031704/README.md) |
+| 031705 | [Greenbone: Error Handling — Usability Improvement for School Lab](Project_031705/README.md) |
+| 031706 | [Greenbone: Error Handling — Baseline Setup for Small Business](Project_031706/README.md) |
+| 031707 | [Greenbone: Error Handling — Automation for Small Business](Project_031707/README.md) |
+| 031708 | [Greenbone: Error Handling — Recovery for Small Business](Project_031708/README.md) |
+| 031709 | [Greenbone: Error Handling — Reporting for Small Business](Project_031709/README.md) |
+| 031710 | [Greenbone: Error Handling — Usability Improvement for Small Business](Project_031710/README.md) |
+| 031711 | [Greenbone: Error Handling — Baseline Setup for Home Development](Project_031711/README.md) |
+| 031712 | [Greenbone: Error Handling — Automation for Home Development](Project_031712/README.md) |
+| 031713 | [Greenbone: Error Handling — Recovery for Home Development](Project_031713/README.md) |
+| 031714 | [Greenbone: Error Handling — Reporting for Home Development](Project_031714/README.md) |
+| 031715 | [Greenbone: Error Handling — Usability Improvement for Home Development](Project_031715/README.md) |
+| 031716 | [Greenbone: Error Handling — Baseline Setup for Public Dataset](Project_031716/README.md) |
+| 031717 | [Greenbone: Error Handling — Automation for Public Dataset](Project_031717/README.md) |
+| 031718 | [Greenbone: Error Handling — Recovery for Public Dataset](Project_031718/README.md) |
+| 031719 | [Greenbone: Error Handling — Reporting for Public Dataset](Project_031719/README.md) |
+| 031720 | [Greenbone: Error Handling — Usability Improvement for Public Dataset](Project_031720/README.md) |
 
 [Back to the portfolio home](../README.md)
