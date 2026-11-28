@@ -1,6 +1,6 @@
 # Python Portfolio
 
-This portfolio contains guide-based Python exercises for local data processing, IT operations simulations, automation, and reporting. Each project includes an AI-generated reference implementation, runnable synthetic data, and actual validation observations.
+This portfolio contains guide-based Python exercises for local data processing, IT operations simulations, automation, and reporting. Each project includes a reference implementation, runnable synthetic data, and actual validation observations.
 
 **Guides discovered** 1000
 

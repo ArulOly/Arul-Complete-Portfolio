@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A repeatable portfolio demonstration provides the setting for this data export exercise. The code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A repeatable portfolio demonstration provides the setting for this data export exercise. The code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

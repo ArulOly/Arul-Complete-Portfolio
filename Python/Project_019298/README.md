@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A repeatable portfolio demonstration provides the setting for this data import exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+A repeatable portfolio demonstration provides the setting for this data import exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A synthetic public-data exercise provides the setting for this visual reporting exercise. The embedded code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A synthetic public-data exercise provides the setting for this visual reporting exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

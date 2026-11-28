@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A simulated branch office provides the setting for this recovery test exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+A simulated branch office provides the setting for this recovery test exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

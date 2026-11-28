@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A home development workspace provides the setting for this data import exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+A home development workspace provides the setting for this data import exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

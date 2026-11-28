@@ -2,7 +2,7 @@
 
 ## Project overview
 
-One simulated lab host provides the setting for this visual reporting exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+One simulated lab host provides the setting for this visual reporting exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

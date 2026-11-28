@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Local shop operations provides the setting for this inventory exercise. The code is an AI-generated reference implementation based on the student guide and uses fictional data.
+Local shop operations provides the setting for this inventory exercise. The code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 
