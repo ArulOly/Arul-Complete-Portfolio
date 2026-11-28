@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044778 | [Prometheus: Data Validation — Recovery for Offline Classroom](Project_044778/README.md) |
 | 044779 | [Prometheus: Data Validation — Reporting for Offline Classroom](Project_044779/README.md) |
 | 044780 | [Prometheus: Data Validation — Usability Improvement for Offline Classroom](Project_044780/README.md) |
+| 044781 | [Prometheus: Data Validation — Baseline Setup for Single-Host Lab](Project_044781/README.md) |
+| 044782 | [Prometheus: Data Validation — Automation for Single-Host Lab](Project_044782/README.md) |
+| 044783 | [Prometheus: Data Validation — Recovery for Single-Host Lab](Project_044783/README.md) |
+| 044784 | [Prometheus: Data Validation — Reporting for Single-Host Lab](Project_044784/README.md) |
+| 044785 | [Prometheus: Data Validation — Usability Improvement for Single-Host Lab](Project_044785/README.md) |
+| 044786 | [Prometheus: Data Validation — Baseline Setup for Two-Node Lab](Project_044786/README.md) |
+| 044787 | [Prometheus: Data Validation — Automation for Two-Node Lab](Project_044787/README.md) |
+| 044788 | [Prometheus: Data Validation — Recovery for Two-Node Lab](Project_044788/README.md) |
+| 044789 | [Prometheus: Data Validation — Reporting for Two-Node Lab](Project_044789/README.md) |
+| 044790 | [Prometheus: Data Validation — Usability Improvement for Two-Node Lab](Project_044790/README.md) |
+| 044791 | [Prometheus: Data Validation — Baseline Setup for Help Desk](Project_044791/README.md) |
+| 044792 | [Prometheus: Data Validation — Automation for Help Desk](Project_044792/README.md) |
+| 044793 | [Prometheus: Data Validation — Recovery for Help Desk](Project_044793/README.md) |
+| 044794 | [Prometheus: Data Validation — Reporting for Help Desk](Project_044794/README.md) |
+| 044795 | [Prometheus: Data Validation — Usability Improvement for Help Desk](Project_044795/README.md) |
+| 044796 | [Prometheus: Data Validation — Baseline Setup for Portfolio Demo](Project_044796/README.md) |
+| 044797 | [Prometheus: Data Validation — Automation for Portfolio Demo](Project_044797/README.md) |
+| 044798 | [Prometheus: Data Validation — Recovery for Portfolio Demo](Project_044798/README.md) |
+| 044799 | [Prometheus: Data Validation — Reporting for Portfolio Demo](Project_044799/README.md) |
+| 044800 | [Prometheus: Data Validation — Usability Improvement for Portfolio Demo](Project_044800/README.md) |
 
 [Back to the portfolio home](../README.md)
