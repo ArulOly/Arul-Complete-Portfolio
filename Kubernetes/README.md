@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018578 | [Kubernetes: Performance Baseline — Recovery for Offline Classroom](Project_018578/README.md) |
 | 018579 | [Kubernetes: Performance Baseline — Reporting for Offline Classroom](Project_018579/README.md) |
 | 018580 | [Kubernetes: Performance Baseline — Usability Improvement for Offline Classroom](Project_018580/README.md) |
+| 018581 | [Kubernetes: Performance Baseline — Baseline Setup for Single-Host Lab](Project_018581/README.md) |
+| 018582 | [Kubernetes: Performance Baseline — Automation for Single-Host Lab](Project_018582/README.md) |
+| 018583 | [Kubernetes: Performance Baseline — Recovery for Single-Host Lab](Project_018583/README.md) |
+| 018584 | [Kubernetes: Performance Baseline — Reporting for Single-Host Lab](Project_018584/README.md) |
+| 018585 | [Kubernetes: Performance Baseline — Usability Improvement for Single-Host Lab](Project_018585/README.md) |
+| 018586 | [Kubernetes: Performance Baseline — Baseline Setup for Two-Node Lab](Project_018586/README.md) |
+| 018587 | [Kubernetes: Performance Baseline — Automation for Two-Node Lab](Project_018587/README.md) |
+| 018588 | [Kubernetes: Performance Baseline — Recovery for Two-Node Lab](Project_018588/README.md) |
+| 018589 | [Kubernetes: Performance Baseline — Reporting for Two-Node Lab](Project_018589/README.md) |
+| 018590 | [Kubernetes: Performance Baseline — Usability Improvement for Two-Node Lab](Project_018590/README.md) |
+| 018591 | [Kubernetes: Performance Baseline — Baseline Setup for Help Desk](Project_018591/README.md) |
+| 018592 | [Kubernetes: Performance Baseline — Automation for Help Desk](Project_018592/README.md) |
+| 018593 | [Kubernetes: Performance Baseline — Recovery for Help Desk](Project_018593/README.md) |
+| 018594 | [Kubernetes: Performance Baseline — Reporting for Help Desk](Project_018594/README.md) |
+| 018595 | [Kubernetes: Performance Baseline — Usability Improvement for Help Desk](Project_018595/README.md) |
+| 018596 | [Kubernetes: Performance Baseline — Baseline Setup for Portfolio Demo](Project_018596/README.md) |
+| 018597 | [Kubernetes: Performance Baseline — Automation for Portfolio Demo](Project_018597/README.md) |
+| 018598 | [Kubernetes: Performance Baseline — Recovery for Portfolio Demo](Project_018598/README.md) |
+| 018599 | [Kubernetes: Performance Baseline — Reporting for Portfolio Demo](Project_018599/README.md) |
+| 018600 | [Kubernetes: Performance Baseline — Usability Improvement for Portfolio Demo](Project_018600/README.md) |
 
 [Back to the portfolio home](../README.md)
