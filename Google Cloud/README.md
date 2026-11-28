@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016358 | [Google Cloud: Dashboard — Recovery for Small Business](Project_016358/README.md) |
 | 016359 | [Google Cloud: Dashboard — Reporting for Small Business](Project_016359/README.md) |
 | 016360 | [Google Cloud: Dashboard — Usability Improvement for Small Business](Project_016360/README.md) |
+| 016361 | [Google Cloud: Dashboard — Baseline Setup for Home Development](Project_016361/README.md) |
+| 016362 | [Google Cloud: Dashboard — Automation for Home Development](Project_016362/README.md) |
+| 016363 | [Google Cloud: Dashboard — Recovery for Home Development](Project_016363/README.md) |
+| 016364 | [Google Cloud: Dashboard — Reporting for Home Development](Project_016364/README.md) |
+| 016365 | [Google Cloud: Dashboard — Usability Improvement for Home Development](Project_016365/README.md) |
+| 016366 | [Google Cloud: Dashboard — Baseline Setup for Public Dataset](Project_016366/README.md) |
+| 016367 | [Google Cloud: Dashboard — Automation for Public Dataset](Project_016367/README.md) |
+| 016368 | [Google Cloud: Dashboard — Recovery for Public Dataset](Project_016368/README.md) |
+| 016369 | [Google Cloud: Dashboard — Reporting for Public Dataset](Project_016369/README.md) |
+| 016370 | [Google Cloud: Dashboard — Usability Improvement for Public Dataset](Project_016370/README.md) |
+| 016371 | [Google Cloud: Dashboard — Baseline Setup for Branch Office Simulator](Project_016371/README.md) |
+| 016372 | [Google Cloud: Dashboard — Automation for Branch Office Simulator](Project_016372/README.md) |
+| 016373 | [Google Cloud: Dashboard — Recovery for Branch Office Simulator](Project_016373/README.md) |
+| 016374 | [Google Cloud: Dashboard — Reporting for Branch Office Simulator](Project_016374/README.md) |
+| 016375 | [Google Cloud: Dashboard — Usability Improvement for Branch Office Simulator](Project_016375/README.md) |
+| 016376 | [Google Cloud: Dashboard — Baseline Setup for Offline Classroom](Project_016376/README.md) |
+| 016377 | [Google Cloud: Dashboard — Automation for Offline Classroom](Project_016377/README.md) |
+| 016378 | [Google Cloud: Dashboard — Recovery for Offline Classroom](Project_016378/README.md) |
+| 016379 | [Google Cloud: Dashboard — Reporting for Offline Classroom](Project_016379/README.md) |
+| 016380 | [Google Cloud: Dashboard — Usability Improvement for Offline Classroom](Project_016380/README.md) |
 
 [Back to the portfolio home](../README.md)
