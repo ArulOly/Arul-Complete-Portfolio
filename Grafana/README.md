@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043558 | [Grafana: Performance Baseline — Recovery for Small Business](Project_043558/README.md) |
 | 043559 | [Grafana: Performance Baseline — Reporting for Small Business](Project_043559/README.md) |
 | 043560 | [Grafana: Performance Baseline — Usability Improvement for Small Business](Project_043560/README.md) |
+| 043561 | [Grafana: Performance Baseline — Baseline Setup for Home Development](Project_043561/README.md) |
+| 043562 | [Grafana: Performance Baseline — Automation for Home Development](Project_043562/README.md) |
+| 043563 | [Grafana: Performance Baseline — Recovery for Home Development](Project_043563/README.md) |
+| 043564 | [Grafana: Performance Baseline — Reporting for Home Development](Project_043564/README.md) |
+| 043565 | [Grafana: Performance Baseline — Usability Improvement for Home Development](Project_043565/README.md) |
+| 043566 | [Grafana: Performance Baseline — Baseline Setup for Public Dataset](Project_043566/README.md) |
+| 043567 | [Grafana: Performance Baseline — Automation for Public Dataset](Project_043567/README.md) |
+| 043568 | [Grafana: Performance Baseline — Recovery for Public Dataset](Project_043568/README.md) |
+| 043569 | [Grafana: Performance Baseline — Reporting for Public Dataset](Project_043569/README.md) |
+| 043570 | [Grafana: Performance Baseline — Usability Improvement for Public Dataset](Project_043570/README.md) |
+| 043571 | [Grafana: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_043571/README.md) |
+| 043572 | [Grafana: Performance Baseline — Automation for Branch Office Simulator](Project_043572/README.md) |
+| 043573 | [Grafana: Performance Baseline — Recovery for Branch Office Simulator](Project_043573/README.md) |
+| 043574 | [Grafana: Performance Baseline — Reporting for Branch Office Simulator](Project_043574/README.md) |
+| 043575 | [Grafana: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_043575/README.md) |
+| 043576 | [Grafana: Performance Baseline — Baseline Setup for Offline Classroom](Project_043576/README.md) |
+| 043577 | [Grafana: Performance Baseline — Automation for Offline Classroom](Project_043577/README.md) |
+| 043578 | [Grafana: Performance Baseline — Recovery for Offline Classroom](Project_043578/README.md) |
+| 043579 | [Grafana: Performance Baseline — Reporting for Offline Classroom](Project_043579/README.md) |
+| 043580 | [Grafana: Performance Baseline — Usability Improvement for Offline Classroom](Project_043580/README.md) |
 
 [Back to the portfolio home](../README.md)
