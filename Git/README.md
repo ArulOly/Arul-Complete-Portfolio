@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038638 | [Git: Service Check — Recovery for Two-Node Lab](Project_038638/README.md) |
 | 038639 | [Git: Service Check — Reporting for Two-Node Lab](Project_038639/README.md) |
 | 038640 | [Git: Service Check — Usability Improvement for Two-Node Lab](Project_038640/README.md) |
+| 038641 | [Git: Service Check — Baseline Setup for Help Desk](Project_038641/README.md) |
+| 038642 | [Git: Service Check — Automation for Help Desk](Project_038642/README.md) |
+| 038643 | [Git: Service Check — Recovery for Help Desk](Project_038643/README.md) |
+| 038644 | [Git: Service Check — Reporting for Help Desk](Project_038644/README.md) |
+| 038645 | [Git: Service Check — Usability Improvement for Help Desk](Project_038645/README.md) |
+| 038646 | [Git: Service Check — Baseline Setup for Portfolio Demo](Project_038646/README.md) |
+| 038647 | [Git: Service Check — Automation for Portfolio Demo](Project_038647/README.md) |
+| 038648 | [Git: Service Check — Recovery for Portfolio Demo](Project_038648/README.md) |
+| 038649 | [Git: Service Check — Reporting for Portfolio Demo](Project_038649/README.md) |
+| 038650 | [Git: Service Check — Usability Improvement for Portfolio Demo](Project_038650/README.md) |
+| 038651 | [Git: Configuration Comparison — Baseline Setup for School Lab](Project_038651/README.md) |
+| 038652 | [Git: Configuration Comparison — Automation for School Lab](Project_038652/README.md) |
+| 038653 | [Git: Configuration Comparison — Recovery for School Lab](Project_038653/README.md) |
+| 038654 | [Git: Configuration Comparison — Reporting for School Lab](Project_038654/README.md) |
+| 038655 | [Git: Configuration Comparison — Usability Improvement for School Lab](Project_038655/README.md) |
+| 038656 | [Git: Configuration Comparison — Baseline Setup for Small Business](Project_038656/README.md) |
+| 038657 | [Git: Configuration Comparison — Automation for Small Business](Project_038657/README.md) |
+| 038658 | [Git: Configuration Comparison — Recovery for Small Business](Project_038658/README.md) |
+| 038659 | [Git: Configuration Comparison — Reporting for Small Business](Project_038659/README.md) |
+| 038660 | [Git: Configuration Comparison — Usability Improvement for Small Business](Project_038660/README.md) |
 
 [Back to the portfolio home](../README.md)
