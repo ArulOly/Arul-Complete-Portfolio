@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040478 | [PowerShell: Scheduled Reporting — Recovery for Offline Classroom](Project_040478/README.md) |
 | 040479 | [PowerShell: Scheduled Reporting — Reporting for Offline Classroom](Project_040479/README.md) |
 | 040480 | [PowerShell: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_040480/README.md) |
+| 040481 | [PowerShell: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_040481/README.md) |
+| 040482 | [PowerShell: Scheduled Reporting — Automation for Single-Host Lab](Project_040482/README.md) |
+| 040483 | [PowerShell: Scheduled Reporting — Recovery for Single-Host Lab](Project_040483/README.md) |
+| 040484 | [PowerShell: Scheduled Reporting — Reporting for Single-Host Lab](Project_040484/README.md) |
+| 040485 | [PowerShell: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_040485/README.md) |
+| 040486 | [PowerShell: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_040486/README.md) |
+| 040487 | [PowerShell: Scheduled Reporting — Automation for Two-Node Lab](Project_040487/README.md) |
+| 040488 | [PowerShell: Scheduled Reporting — Recovery for Two-Node Lab](Project_040488/README.md) |
+| 040489 | [PowerShell: Scheduled Reporting — Reporting for Two-Node Lab](Project_040489/README.md) |
+| 040490 | [PowerShell: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_040490/README.md) |
+| 040491 | [PowerShell: Scheduled Reporting — Baseline Setup for Help Desk](Project_040491/README.md) |
+| 040492 | [PowerShell: Scheduled Reporting — Automation for Help Desk](Project_040492/README.md) |
+| 040493 | [PowerShell: Scheduled Reporting — Recovery for Help Desk](Project_040493/README.md) |
+| 040494 | [PowerShell: Scheduled Reporting — Reporting for Help Desk](Project_040494/README.md) |
+| 040495 | [PowerShell: Scheduled Reporting — Usability Improvement for Help Desk](Project_040495/README.md) |
+| 040496 | [PowerShell: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_040496/README.md) |
+| 040497 | [PowerShell: Scheduled Reporting — Automation for Portfolio Demo](Project_040497/README.md) |
+| 040498 | [PowerShell: Scheduled Reporting — Recovery for Portfolio Demo](Project_040498/README.md) |
+| 040499 | [PowerShell: Scheduled Reporting — Reporting for Portfolio Demo](Project_040499/README.md) |
+| 040500 | [PowerShell: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_040500/README.md) |
 
 [Back to the portfolio home](../README.md)
