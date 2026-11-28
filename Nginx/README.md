@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041458 | [Nginx: Scheduled Reporting — Recovery for Small Business](Project_041458/README.md) |
 | 041459 | [Nginx: Scheduled Reporting — Reporting for Small Business](Project_041459/README.md) |
 | 041460 | [Nginx: Scheduled Reporting — Usability Improvement for Small Business](Project_041460/README.md) |
+| 041461 | [Nginx: Scheduled Reporting — Baseline Setup for Home Development](Project_041461/README.md) |
+| 041462 | [Nginx: Scheduled Reporting — Automation for Home Development](Project_041462/README.md) |
+| 041463 | [Nginx: Scheduled Reporting — Recovery for Home Development](Project_041463/README.md) |
+| 041464 | [Nginx: Scheduled Reporting — Reporting for Home Development](Project_041464/README.md) |
+| 041465 | [Nginx: Scheduled Reporting — Usability Improvement for Home Development](Project_041465/README.md) |
+| 041466 | [Nginx: Scheduled Reporting — Baseline Setup for Public Dataset](Project_041466/README.md) |
+| 041467 | [Nginx: Scheduled Reporting — Automation for Public Dataset](Project_041467/README.md) |
+| 041468 | [Nginx: Scheduled Reporting — Recovery for Public Dataset](Project_041468/README.md) |
+| 041469 | [Nginx: Scheduled Reporting — Reporting for Public Dataset](Project_041469/README.md) |
+| 041470 | [Nginx: Scheduled Reporting — Usability Improvement for Public Dataset](Project_041470/README.md) |
+| 041471 | [Nginx: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_041471/README.md) |
+| 041472 | [Nginx: Scheduled Reporting — Automation for Branch Office Simulator](Project_041472/README.md) |
+| 041473 | [Nginx: Scheduled Reporting — Recovery for Branch Office Simulator](Project_041473/README.md) |
+| 041474 | [Nginx: Scheduled Reporting — Reporting for Branch Office Simulator](Project_041474/README.md) |
+| 041475 | [Nginx: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_041475/README.md) |
+| 041476 | [Nginx: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_041476/README.md) |
+| 041477 | [Nginx: Scheduled Reporting — Automation for Offline Classroom](Project_041477/README.md) |
+| 041478 | [Nginx: Scheduled Reporting — Recovery for Offline Classroom](Project_041478/README.md) |
+| 041479 | [Nginx: Scheduled Reporting — Reporting for Offline Classroom](Project_041479/README.md) |
+| 041480 | [Nginx: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_041480/README.md) |
 
 [Back to the portfolio home](../README.md)
