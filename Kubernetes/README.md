@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018378 | [Kubernetes: Dashboard — Recovery for Offline Classroom](Project_018378/README.md) |
 | 018379 | [Kubernetes: Dashboard — Reporting for Offline Classroom](Project_018379/README.md) |
 | 018380 | [Kubernetes: Dashboard — Usability Improvement for Offline Classroom](Project_018380/README.md) |
+| 018381 | [Kubernetes: Dashboard — Baseline Setup for Single-Host Lab](Project_018381/README.md) |
+| 018382 | [Kubernetes: Dashboard — Automation for Single-Host Lab](Project_018382/README.md) |
+| 018383 | [Kubernetes: Dashboard — Recovery for Single-Host Lab](Project_018383/README.md) |
+| 018384 | [Kubernetes: Dashboard — Reporting for Single-Host Lab](Project_018384/README.md) |
+| 018385 | [Kubernetes: Dashboard — Usability Improvement for Single-Host Lab](Project_018385/README.md) |
+| 018386 | [Kubernetes: Dashboard — Baseline Setup for Two-Node Lab](Project_018386/README.md) |
+| 018387 | [Kubernetes: Dashboard — Automation for Two-Node Lab](Project_018387/README.md) |
+| 018388 | [Kubernetes: Dashboard — Recovery for Two-Node Lab](Project_018388/README.md) |
+| 018389 | [Kubernetes: Dashboard — Reporting for Two-Node Lab](Project_018389/README.md) |
+| 018390 | [Kubernetes: Dashboard — Usability Improvement for Two-Node Lab](Project_018390/README.md) |
+| 018391 | [Kubernetes: Dashboard — Baseline Setup for Help Desk](Project_018391/README.md) |
+| 018392 | [Kubernetes: Dashboard — Automation for Help Desk](Project_018392/README.md) |
+| 018393 | [Kubernetes: Dashboard — Recovery for Help Desk](Project_018393/README.md) |
+| 018394 | [Kubernetes: Dashboard — Reporting for Help Desk](Project_018394/README.md) |
+| 018395 | [Kubernetes: Dashboard — Usability Improvement for Help Desk](Project_018395/README.md) |
+| 018396 | [Kubernetes: Dashboard — Baseline Setup for Portfolio Demo](Project_018396/README.md) |
+| 018397 | [Kubernetes: Dashboard — Automation for Portfolio Demo](Project_018397/README.md) |
+| 018398 | [Kubernetes: Dashboard — Recovery for Portfolio Demo](Project_018398/README.md) |
+| 018399 | [Kubernetes: Dashboard — Reporting for Portfolio Demo](Project_018399/README.md) |
+| 018400 | [Kubernetes: Dashboard — Usability Improvement for Portfolio Demo](Project_018400/README.md) |
 
 [Back to the portfolio home](../README.md)
