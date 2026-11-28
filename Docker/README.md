@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017858 | [Docker: Automation — Recovery for Small Business](Project_017858/README.md) |
 | 017859 | [Docker: Automation — Reporting for Small Business](Project_017859/README.md) |
 | 017860 | [Docker: Automation — Usability Improvement for Small Business](Project_017860/README.md) |
+| 017861 | [Docker: Automation — Baseline Setup for Home Development](Project_017861/README.md) |
+| 017862 | [Docker: Automation — Automation for Home Development](Project_017862/README.md) |
+| 017863 | [Docker: Automation — Recovery for Home Development](Project_017863/README.md) |
+| 017864 | [Docker: Automation — Reporting for Home Development](Project_017864/README.md) |
+| 017865 | [Docker: Automation — Usability Improvement for Home Development](Project_017865/README.md) |
+| 017866 | [Docker: Automation — Baseline Setup for Public Dataset](Project_017866/README.md) |
+| 017867 | [Docker: Automation — Automation for Public Dataset](Project_017867/README.md) |
+| 017868 | [Docker: Automation — Recovery for Public Dataset](Project_017868/README.md) |
+| 017869 | [Docker: Automation — Reporting for Public Dataset](Project_017869/README.md) |
+| 017870 | [Docker: Automation — Usability Improvement for Public Dataset](Project_017870/README.md) |
+| 017871 | [Docker: Automation — Baseline Setup for Branch Office Simulator](Project_017871/README.md) |
+| 017872 | [Docker: Automation — Automation for Branch Office Simulator](Project_017872/README.md) |
+| 017873 | [Docker: Automation — Recovery for Branch Office Simulator](Project_017873/README.md) |
+| 017874 | [Docker: Automation — Reporting for Branch Office Simulator](Project_017874/README.md) |
+| 017875 | [Docker: Automation — Usability Improvement for Branch Office Simulator](Project_017875/README.md) |
+| 017876 | [Docker: Automation — Baseline Setup for Offline Classroom](Project_017876/README.md) |
+| 017877 | [Docker: Automation — Automation for Offline Classroom](Project_017877/README.md) |
+| 017878 | [Docker: Automation — Recovery for Offline Classroom](Project_017878/README.md) |
+| 017879 | [Docker: Automation — Reporting for Offline Classroom](Project_017879/README.md) |
+| 017880 | [Docker: Automation — Usability Improvement for Offline Classroom](Project_017880/README.md) |
 
 [Back to the portfolio home](../README.md)
