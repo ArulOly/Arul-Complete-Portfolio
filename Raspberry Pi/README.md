@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035518 | [Raspberry Pi: Access Review — Recovery for Public Dataset](Project_035518/README.md) |
 | 035519 | [Raspberry Pi: Access Review — Reporting for Public Dataset](Project_035519/README.md) |
 | 035520 | [Raspberry Pi: Access Review — Usability Improvement for Public Dataset](Project_035520/README.md) |
+| 035521 | [Raspberry Pi: Access Review — Baseline Setup for Branch Office Simulator](Project_035521/README.md) |
+| 035522 | [Raspberry Pi: Access Review — Automation for Branch Office Simulator](Project_035522/README.md) |
+| 035523 | [Raspberry Pi: Access Review — Recovery for Branch Office Simulator](Project_035523/README.md) |
+| 035524 | [Raspberry Pi: Access Review — Reporting for Branch Office Simulator](Project_035524/README.md) |
+| 035525 | [Raspberry Pi: Access Review — Usability Improvement for Branch Office Simulator](Project_035525/README.md) |
+| 035526 | [Raspberry Pi: Access Review — Baseline Setup for Offline Classroom](Project_035526/README.md) |
+| 035527 | [Raspberry Pi: Access Review — Automation for Offline Classroom](Project_035527/README.md) |
+| 035528 | [Raspberry Pi: Access Review — Recovery for Offline Classroom](Project_035528/README.md) |
+| 035529 | [Raspberry Pi: Access Review — Reporting for Offline Classroom](Project_035529/README.md) |
+| 035530 | [Raspberry Pi: Access Review — Usability Improvement for Offline Classroom](Project_035530/README.md) |
+| 035531 | [Raspberry Pi: Access Review — Baseline Setup for Single-Host Lab](Project_035531/README.md) |
+| 035532 | [Raspberry Pi: Access Review — Automation for Single-Host Lab](Project_035532/README.md) |
+| 035533 | [Raspberry Pi: Access Review — Recovery for Single-Host Lab](Project_035533/README.md) |
+| 035534 | [Raspberry Pi: Access Review — Reporting for Single-Host Lab](Project_035534/README.md) |
+| 035535 | [Raspberry Pi: Access Review — Usability Improvement for Single-Host Lab](Project_035535/README.md) |
+| 035536 | [Raspberry Pi: Access Review — Baseline Setup for Two-Node Lab](Project_035536/README.md) |
+| 035537 | [Raspberry Pi: Access Review — Automation for Two-Node Lab](Project_035537/README.md) |
+| 035538 | [Raspberry Pi: Access Review — Recovery for Two-Node Lab](Project_035538/README.md) |
+| 035539 | [Raspberry Pi: Access Review — Reporting for Two-Node Lab](Project_035539/README.md) |
+| 035540 | [Raspberry Pi: Access Review — Usability Improvement for Two-Node Lab](Project_035540/README.md) |
 
 [Back to the portfolio home](../README.md)
