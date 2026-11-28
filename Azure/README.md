@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015118 | [Azure: Audit — Recovery for Public Dataset](Project_015118/README.md) |
 | 015119 | [Azure: Audit — Reporting for Public Dataset](Project_015119/README.md) |
 | 015120 | [Azure: Audit — Usability Improvement for Public Dataset](Project_015120/README.md) |
+| 015121 | [Azure: Audit — Baseline Setup for Branch Office Simulator](Project_015121/README.md) |
+| 015122 | [Azure: Audit — Automation for Branch Office Simulator](Project_015122/README.md) |
+| 015123 | [Azure: Audit — Recovery for Branch Office Simulator](Project_015123/README.md) |
+| 015124 | [Azure: Audit — Reporting for Branch Office Simulator](Project_015124/README.md) |
+| 015125 | [Azure: Audit — Usability Improvement for Branch Office Simulator](Project_015125/README.md) |
+| 015126 | [Azure: Audit — Baseline Setup for Offline Classroom](Project_015126/README.md) |
+| 015127 | [Azure: Audit — Automation for Offline Classroom](Project_015127/README.md) |
+| 015128 | [Azure: Audit — Recovery for Offline Classroom](Project_015128/README.md) |
+| 015129 | [Azure: Audit — Reporting for Offline Classroom](Project_015129/README.md) |
+| 015130 | [Azure: Audit — Usability Improvement for Offline Classroom](Project_015130/README.md) |
+| 015131 | [Azure: Audit — Baseline Setup for Single-Host Lab](Project_015131/README.md) |
+| 015132 | [Azure: Audit — Automation for Single-Host Lab](Project_015132/README.md) |
+| 015133 | [Azure: Audit — Recovery for Single-Host Lab](Project_015133/README.md) |
+| 015134 | [Azure: Audit — Reporting for Single-Host Lab](Project_015134/README.md) |
+| 015135 | [Azure: Audit — Usability Improvement for Single-Host Lab](Project_015135/README.md) |
+| 015136 | [Azure: Audit — Baseline Setup for Two-Node Lab](Project_015136/README.md) |
+| 015137 | [Azure: Audit — Automation for Two-Node Lab](Project_015137/README.md) |
+| 015138 | [Azure: Audit — Recovery for Two-Node Lab](Project_015138/README.md) |
+| 015139 | [Azure: Audit — Reporting for Two-Node Lab](Project_015139/README.md) |
+| 015140 | [Azure: Audit — Usability Improvement for Two-Node Lab](Project_015140/README.md) |
 
 [Back to the portfolio home](../README.md)
