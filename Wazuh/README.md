@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030358 | [Wazuh: Dashboard — Recovery for Small Business](Project_030358/README.md) |
 | 030359 | [Wazuh: Dashboard — Reporting for Small Business](Project_030359/README.md) |
 | 030360 | [Wazuh: Dashboard — Usability Improvement for Small Business](Project_030360/README.md) |
+| 030361 | [Wazuh: Dashboard — Baseline Setup for Home Development](Project_030361/README.md) |
+| 030362 | [Wazuh: Dashboard — Automation for Home Development](Project_030362/README.md) |
+| 030363 | [Wazuh: Dashboard — Recovery for Home Development](Project_030363/README.md) |
+| 030364 | [Wazuh: Dashboard — Reporting for Home Development](Project_030364/README.md) |
+| 030365 | [Wazuh: Dashboard — Usability Improvement for Home Development](Project_030365/README.md) |
+| 030366 | [Wazuh: Dashboard — Baseline Setup for Public Dataset](Project_030366/README.md) |
+| 030367 | [Wazuh: Dashboard — Automation for Public Dataset](Project_030367/README.md) |
+| 030368 | [Wazuh: Dashboard — Recovery for Public Dataset](Project_030368/README.md) |
+| 030369 | [Wazuh: Dashboard — Reporting for Public Dataset](Project_030369/README.md) |
+| 030370 | [Wazuh: Dashboard — Usability Improvement for Public Dataset](Project_030370/README.md) |
+| 030371 | [Wazuh: Dashboard — Baseline Setup for Branch Office Simulator](Project_030371/README.md) |
+| 030372 | [Wazuh: Dashboard — Automation for Branch Office Simulator](Project_030372/README.md) |
+| 030373 | [Wazuh: Dashboard — Recovery for Branch Office Simulator](Project_030373/README.md) |
+| 030374 | [Wazuh: Dashboard — Reporting for Branch Office Simulator](Project_030374/README.md) |
+| 030375 | [Wazuh: Dashboard — Usability Improvement for Branch Office Simulator](Project_030375/README.md) |
+| 030376 | [Wazuh: Dashboard — Baseline Setup for Offline Classroom](Project_030376/README.md) |
+| 030377 | [Wazuh: Dashboard — Automation for Offline Classroom](Project_030377/README.md) |
+| 030378 | [Wazuh: Dashboard — Recovery for Offline Classroom](Project_030378/README.md) |
+| 030379 | [Wazuh: Dashboard — Reporting for Offline Classroom](Project_030379/README.md) |
+| 030380 | [Wazuh: Dashboard — Usability Improvement for Offline Classroom](Project_030380/README.md) |
 
 [Back to the portfolio home](../README.md)
