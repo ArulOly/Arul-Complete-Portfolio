@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035538 | [Raspberry Pi: Access Review — Recovery for Two-Node Lab](Project_035538/README.md) |
 | 035539 | [Raspberry Pi: Access Review — Reporting for Two-Node Lab](Project_035539/README.md) |
 | 035540 | [Raspberry Pi: Access Review — Usability Improvement for Two-Node Lab](Project_035540/README.md) |
+| 035541 | [Raspberry Pi: Access Review — Baseline Setup for Help Desk](Project_035541/README.md) |
+| 035542 | [Raspberry Pi: Access Review — Automation for Help Desk](Project_035542/README.md) |
+| 035543 | [Raspberry Pi: Access Review — Recovery for Help Desk](Project_035543/README.md) |
+| 035544 | [Raspberry Pi: Access Review — Reporting for Help Desk](Project_035544/README.md) |
+| 035545 | [Raspberry Pi: Access Review — Usability Improvement for Help Desk](Project_035545/README.md) |
+| 035546 | [Raspberry Pi: Access Review — Baseline Setup for Portfolio Demo](Project_035546/README.md) |
+| 035547 | [Raspberry Pi: Access Review — Automation for Portfolio Demo](Project_035547/README.md) |
+| 035548 | [Raspberry Pi: Access Review — Recovery for Portfolio Demo](Project_035548/README.md) |
+| 035549 | [Raspberry Pi: Access Review — Reporting for Portfolio Demo](Project_035549/README.md) |
+| 035550 | [Raspberry Pi: Access Review — Usability Improvement for Portfolio Demo](Project_035550/README.md) |
+| 035551 | [Raspberry Pi: Performance Baseline — Baseline Setup for School Lab](Project_035551/README.md) |
+| 035552 | [Raspberry Pi: Performance Baseline — Automation for School Lab](Project_035552/README.md) |
+| 035553 | [Raspberry Pi: Performance Baseline — Recovery for School Lab](Project_035553/README.md) |
+| 035554 | [Raspberry Pi: Performance Baseline — Reporting for School Lab](Project_035554/README.md) |
+| 035555 | [Raspberry Pi: Performance Baseline — Usability Improvement for School Lab](Project_035555/README.md) |
+| 035556 | [Raspberry Pi: Performance Baseline — Baseline Setup for Small Business](Project_035556/README.md) |
+| 035557 | [Raspberry Pi: Performance Baseline — Automation for Small Business](Project_035557/README.md) |
+| 035558 | [Raspberry Pi: Performance Baseline — Recovery for Small Business](Project_035558/README.md) |
+| 035559 | [Raspberry Pi: Performance Baseline — Reporting for Small Business](Project_035559/README.md) |
+| 035560 | [Raspberry Pi: Performance Baseline — Usability Improvement for Small Business](Project_035560/README.md) |
 
 [Back to the portfolio home](../README.md)
