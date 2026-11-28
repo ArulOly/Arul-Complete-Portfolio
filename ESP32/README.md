@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036718 | [ESP32: Error Handling — Recovery for Public Dataset](Project_036718/README.md) |
 | 036719 | [ESP32: Error Handling — Reporting for Public Dataset](Project_036719/README.md) |
 | 036720 | [ESP32: Error Handling — Usability Improvement for Public Dataset](Project_036720/README.md) |
+| 036721 | [ESP32: Error Handling — Baseline Setup for Branch Office Simulator](Project_036721/README.md) |
+| 036722 | [ESP32: Error Handling — Automation for Branch Office Simulator](Project_036722/README.md) |
+| 036723 | [ESP32: Error Handling — Recovery for Branch Office Simulator](Project_036723/README.md) |
+| 036724 | [ESP32: Error Handling — Reporting for Branch Office Simulator](Project_036724/README.md) |
+| 036725 | [ESP32: Error Handling — Usability Improvement for Branch Office Simulator](Project_036725/README.md) |
+| 036726 | [ESP32: Error Handling — Baseline Setup for Offline Classroom](Project_036726/README.md) |
+| 036727 | [ESP32: Error Handling — Automation for Offline Classroom](Project_036727/README.md) |
+| 036728 | [ESP32: Error Handling — Recovery for Offline Classroom](Project_036728/README.md) |
+| 036729 | [ESP32: Error Handling — Reporting for Offline Classroom](Project_036729/README.md) |
+| 036730 | [ESP32: Error Handling — Usability Improvement for Offline Classroom](Project_036730/README.md) |
+| 036731 | [ESP32: Error Handling — Baseline Setup for Single-Host Lab](Project_036731/README.md) |
+| 036732 | [ESP32: Error Handling — Automation for Single-Host Lab](Project_036732/README.md) |
+| 036733 | [ESP32: Error Handling — Recovery for Single-Host Lab](Project_036733/README.md) |
+| 036734 | [ESP32: Error Handling — Reporting for Single-Host Lab](Project_036734/README.md) |
+| 036735 | [ESP32: Error Handling — Usability Improvement for Single-Host Lab](Project_036735/README.md) |
+| 036736 | [ESP32: Error Handling — Baseline Setup for Two-Node Lab](Project_036736/README.md) |
+| 036737 | [ESP32: Error Handling — Automation for Two-Node Lab](Project_036737/README.md) |
+| 036738 | [ESP32: Error Handling — Recovery for Two-Node Lab](Project_036738/README.md) |
+| 036739 | [ESP32: Error Handling — Reporting for Two-Node Lab](Project_036739/README.md) |
+| 036740 | [ESP32: Error Handling — Usability Improvement for Two-Node Lab](Project_036740/README.md) |
 
 [Back to the portfolio home](../README.md)
