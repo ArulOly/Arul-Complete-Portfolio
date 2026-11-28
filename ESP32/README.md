@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036778 | [ESP32: Data Validation — Recovery for Offline Classroom](Project_036778/README.md) |
 | 036779 | [ESP32: Data Validation — Reporting for Offline Classroom](Project_036779/README.md) |
 | 036780 | [ESP32: Data Validation — Usability Improvement for Offline Classroom](Project_036780/README.md) |
+| 036781 | [ESP32: Data Validation — Baseline Setup for Single-Host Lab](Project_036781/README.md) |
+| 036782 | [ESP32: Data Validation — Automation for Single-Host Lab](Project_036782/README.md) |
+| 036783 | [ESP32: Data Validation — Recovery for Single-Host Lab](Project_036783/README.md) |
+| 036784 | [ESP32: Data Validation — Reporting for Single-Host Lab](Project_036784/README.md) |
+| 036785 | [ESP32: Data Validation — Usability Improvement for Single-Host Lab](Project_036785/README.md) |
+| 036786 | [ESP32: Data Validation — Baseline Setup for Two-Node Lab](Project_036786/README.md) |
+| 036787 | [ESP32: Data Validation — Automation for Two-Node Lab](Project_036787/README.md) |
+| 036788 | [ESP32: Data Validation — Recovery for Two-Node Lab](Project_036788/README.md) |
+| 036789 | [ESP32: Data Validation — Reporting for Two-Node Lab](Project_036789/README.md) |
+| 036790 | [ESP32: Data Validation — Usability Improvement for Two-Node Lab](Project_036790/README.md) |
+| 036791 | [ESP32: Data Validation — Baseline Setup for Help Desk](Project_036791/README.md) |
+| 036792 | [ESP32: Data Validation — Automation for Help Desk](Project_036792/README.md) |
+| 036793 | [ESP32: Data Validation — Recovery for Help Desk](Project_036793/README.md) |
+| 036794 | [ESP32: Data Validation — Reporting for Help Desk](Project_036794/README.md) |
+| 036795 | [ESP32: Data Validation — Usability Improvement for Help Desk](Project_036795/README.md) |
+| 036796 | [ESP32: Data Validation — Baseline Setup for Portfolio Demo](Project_036796/README.md) |
+| 036797 | [ESP32: Data Validation — Automation for Portfolio Demo](Project_036797/README.md) |
+| 036798 | [ESP32: Data Validation — Recovery for Portfolio Demo](Project_036798/README.md) |
+| 036799 | [ESP32: Data Validation — Reporting for Portfolio Demo](Project_036799/README.md) |
+| 036800 | [ESP32: Data Validation — Usability Improvement for Portfolio Demo](Project_036800/README.md) |
 
 [Back to the portfolio home](../README.md)
