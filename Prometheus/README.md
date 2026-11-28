@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044958 | [Prometheus: Recovery Test — Recovery for Small Business](Project_044958/README.md) |
 | 044959 | [Prometheus: Recovery Test — Reporting for Small Business](Project_044959/README.md) |
 | 044960 | [Prometheus: Recovery Test — Usability Improvement for Small Business](Project_044960/README.md) |
+| 044961 | [Prometheus: Recovery Test — Baseline Setup for Home Development](Project_044961/README.md) |
+| 044962 | [Prometheus: Recovery Test — Automation for Home Development](Project_044962/README.md) |
+| 044963 | [Prometheus: Recovery Test — Recovery for Home Development](Project_044963/README.md) |
+| 044964 | [Prometheus: Recovery Test — Reporting for Home Development](Project_044964/README.md) |
+| 044965 | [Prometheus: Recovery Test — Usability Improvement for Home Development](Project_044965/README.md) |
+| 044966 | [Prometheus: Recovery Test — Baseline Setup for Public Dataset](Project_044966/README.md) |
+| 044967 | [Prometheus: Recovery Test — Automation for Public Dataset](Project_044967/README.md) |
+| 044968 | [Prometheus: Recovery Test — Recovery for Public Dataset](Project_044968/README.md) |
+| 044969 | [Prometheus: Recovery Test — Reporting for Public Dataset](Project_044969/README.md) |
+| 044970 | [Prometheus: Recovery Test — Usability Improvement for Public Dataset](Project_044970/README.md) |
+| 044971 | [Prometheus: Recovery Test — Baseline Setup for Branch Office Simulator](Project_044971/README.md) |
+| 044972 | [Prometheus: Recovery Test — Automation for Branch Office Simulator](Project_044972/README.md) |
+| 044973 | [Prometheus: Recovery Test — Recovery for Branch Office Simulator](Project_044973/README.md) |
+| 044974 | [Prometheus: Recovery Test — Reporting for Branch Office Simulator](Project_044974/README.md) |
+| 044975 | [Prometheus: Recovery Test — Usability Improvement for Branch Office Simulator](Project_044975/README.md) |
+| 044976 | [Prometheus: Recovery Test — Baseline Setup for Offline Classroom](Project_044976/README.md) |
+| 044977 | [Prometheus: Recovery Test — Automation for Offline Classroom](Project_044977/README.md) |
+| 044978 | [Prometheus: Recovery Test — Recovery for Offline Classroom](Project_044978/README.md) |
+| 044979 | [Prometheus: Recovery Test — Reporting for Offline Classroom](Project_044979/README.md) |
+| 044980 | [Prometheus: Recovery Test — Usability Improvement for Offline Classroom](Project_044980/README.md) |
 
 [Back to the portfolio home](../README.md)
