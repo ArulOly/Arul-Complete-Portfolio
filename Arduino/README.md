@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037038 | [Arduino: Inventory — Recovery for Two-Node Lab](Project_037038/README.md) |
 | 037039 | [Arduino: Inventory — Reporting for Two-Node Lab](Project_037039/README.md) |
 | 037040 | [Arduino: Inventory — Usability Improvement for Two-Node Lab](Project_037040/README.md) |
+| 037041 | [Arduino: Inventory — Baseline Setup for Help Desk](Project_037041/README.md) |
+| 037042 | [Arduino: Inventory — Automation for Help Desk](Project_037042/README.md) |
+| 037043 | [Arduino: Inventory — Recovery for Help Desk](Project_037043/README.md) |
+| 037044 | [Arduino: Inventory — Reporting for Help Desk](Project_037044/README.md) |
+| 037045 | [Arduino: Inventory — Usability Improvement for Help Desk](Project_037045/README.md) |
+| 037046 | [Arduino: Inventory — Baseline Setup for Portfolio Demo](Project_037046/README.md) |
+| 037047 | [Arduino: Inventory — Automation for Portfolio Demo](Project_037047/README.md) |
+| 037048 | [Arduino: Inventory — Recovery for Portfolio Demo](Project_037048/README.md) |
+| 037049 | [Arduino: Inventory — Reporting for Portfolio Demo](Project_037049/README.md) |
+| 037050 | [Arduino: Inventory — Usability Improvement for Portfolio Demo](Project_037050/README.md) |
+| 037051 | [Arduino: Monitoring — Baseline Setup for School Lab](Project_037051/README.md) |
+| 037052 | [Arduino: Monitoring — Automation for School Lab](Project_037052/README.md) |
+| 037053 | [Arduino: Monitoring — Recovery for School Lab](Project_037053/README.md) |
+| 037054 | [Arduino: Monitoring — Reporting for School Lab](Project_037054/README.md) |
+| 037055 | [Arduino: Monitoring — Usability Improvement for School Lab](Project_037055/README.md) |
+| 037056 | [Arduino: Monitoring — Baseline Setup for Small Business](Project_037056/README.md) |
+| 037057 | [Arduino: Monitoring — Automation for Small Business](Project_037057/README.md) |
+| 037058 | [Arduino: Monitoring — Recovery for Small Business](Project_037058/README.md) |
+| 037059 | [Arduino: Monitoring — Reporting for Small Business](Project_037059/README.md) |
+| 037060 | [Arduino: Monitoring — Usability Improvement for Small Business](Project_037060/README.md) |
 
 [Back to the portfolio home](../README.md)
