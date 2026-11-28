@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043418 | [Grafana: Alerting — Recovery for Public Dataset](Project_043418/README.md) |
 | 043419 | [Grafana: Alerting — Reporting for Public Dataset](Project_043419/README.md) |
 | 043420 | [Grafana: Alerting — Usability Improvement for Public Dataset](Project_043420/README.md) |
+| 043421 | [Grafana: Alerting — Baseline Setup for Branch Office Simulator](Project_043421/README.md) |
+| 043422 | [Grafana: Alerting — Automation for Branch Office Simulator](Project_043422/README.md) |
+| 043423 | [Grafana: Alerting — Recovery for Branch Office Simulator](Project_043423/README.md) |
+| 043424 | [Grafana: Alerting — Reporting for Branch Office Simulator](Project_043424/README.md) |
+| 043425 | [Grafana: Alerting — Usability Improvement for Branch Office Simulator](Project_043425/README.md) |
+| 043426 | [Grafana: Alerting — Baseline Setup for Offline Classroom](Project_043426/README.md) |
+| 043427 | [Grafana: Alerting — Automation for Offline Classroom](Project_043427/README.md) |
+| 043428 | [Grafana: Alerting — Recovery for Offline Classroom](Project_043428/README.md) |
+| 043429 | [Grafana: Alerting — Reporting for Offline Classroom](Project_043429/README.md) |
+| 043430 | [Grafana: Alerting — Usability Improvement for Offline Classroom](Project_043430/README.md) |
+| 043431 | [Grafana: Alerting — Baseline Setup for Single-Host Lab](Project_043431/README.md) |
+| 043432 | [Grafana: Alerting — Automation for Single-Host Lab](Project_043432/README.md) |
+| 043433 | [Grafana: Alerting — Recovery for Single-Host Lab](Project_043433/README.md) |
+| 043434 | [Grafana: Alerting — Reporting for Single-Host Lab](Project_043434/README.md) |
+| 043435 | [Grafana: Alerting — Usability Improvement for Single-Host Lab](Project_043435/README.md) |
+| 043436 | [Grafana: Alerting — Baseline Setup for Two-Node Lab](Project_043436/README.md) |
+| 043437 | [Grafana: Alerting — Automation for Two-Node Lab](Project_043437/README.md) |
+| 043438 | [Grafana: Alerting — Recovery for Two-Node Lab](Project_043438/README.md) |
+| 043439 | [Grafana: Alerting — Reporting for Two-Node Lab](Project_043439/README.md) |
+| 043440 | [Grafana: Alerting — Usability Improvement for Two-Node Lab](Project_043440/README.md) |
 
 [Back to the portfolio home](../README.md)
