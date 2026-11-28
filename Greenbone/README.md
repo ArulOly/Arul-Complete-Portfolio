@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031598 | [Greenbone: Performance Baseline — Recovery for Portfolio Demo](Project_031598/README.md) |
 | 031599 | [Greenbone: Performance Baseline — Reporting for Portfolio Demo](Project_031599/README.md) |
 | 031600 | [Greenbone: Performance Baseline — Usability Improvement for Portfolio Demo](Project_031600/README.md) |
+| 031601 | [Greenbone: Service Check — Baseline Setup for School Lab](Project_031601/README.md) |
+| 031602 | [Greenbone: Service Check — Automation for School Lab](Project_031602/README.md) |
+| 031603 | [Greenbone: Service Check — Recovery for School Lab](Project_031603/README.md) |
+| 031604 | [Greenbone: Service Check — Reporting for School Lab](Project_031604/README.md) |
+| 031605 | [Greenbone: Service Check — Usability Improvement for School Lab](Project_031605/README.md) |
+| 031606 | [Greenbone: Service Check — Baseline Setup for Small Business](Project_031606/README.md) |
+| 031607 | [Greenbone: Service Check — Automation for Small Business](Project_031607/README.md) |
+| 031608 | [Greenbone: Service Check — Recovery for Small Business](Project_031608/README.md) |
+| 031609 | [Greenbone: Service Check — Reporting for Small Business](Project_031609/README.md) |
+| 031610 | [Greenbone: Service Check — Usability Improvement for Small Business](Project_031610/README.md) |
+| 031611 | [Greenbone: Service Check — Baseline Setup for Home Development](Project_031611/README.md) |
+| 031612 | [Greenbone: Service Check — Automation for Home Development](Project_031612/README.md) |
+| 031613 | [Greenbone: Service Check — Recovery for Home Development](Project_031613/README.md) |
+| 031614 | [Greenbone: Service Check — Reporting for Home Development](Project_031614/README.md) |
+| 031615 | [Greenbone: Service Check — Usability Improvement for Home Development](Project_031615/README.md) |
+| 031616 | [Greenbone: Service Check — Baseline Setup for Public Dataset](Project_031616/README.md) |
+| 031617 | [Greenbone: Service Check — Automation for Public Dataset](Project_031617/README.md) |
+| 031618 | [Greenbone: Service Check — Recovery for Public Dataset](Project_031618/README.md) |
+| 031619 | [Greenbone: Service Check — Reporting for Public Dataset](Project_031619/README.md) |
+| 031620 | [Greenbone: Service Check — Usability Improvement for Public Dataset](Project_031620/README.md) |
 
 [Back to the portfolio home](../README.md)
