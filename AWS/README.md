@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014338 | [AWS: Data Export — Recovery for Two-Node Lab](Project_014338/README.md) |
 | 014339 | [AWS: Data Export — Reporting for Two-Node Lab](Project_014339/README.md) |
 | 014340 | [AWS: Data Export — Usability Improvement for Two-Node Lab](Project_014340/README.md) |
+| 014341 | [AWS: Data Export — Baseline Setup for Help Desk](Project_014341/README.md) |
+| 014342 | [AWS: Data Export — Automation for Help Desk](Project_014342/README.md) |
+| 014343 | [AWS: Data Export — Recovery for Help Desk](Project_014343/README.md) |
+| 014344 | [AWS: Data Export — Reporting for Help Desk](Project_014344/README.md) |
+| 014345 | [AWS: Data Export — Usability Improvement for Help Desk](Project_014345/README.md) |
+| 014346 | [AWS: Data Export — Baseline Setup for Portfolio Demo](Project_014346/README.md) |
+| 014347 | [AWS: Data Export — Automation for Portfolio Demo](Project_014347/README.md) |
+| 014348 | [AWS: Data Export — Recovery for Portfolio Demo](Project_014348/README.md) |
+| 014349 | [AWS: Data Export — Reporting for Portfolio Demo](Project_014349/README.md) |
+| 014350 | [AWS: Data Export — Usability Improvement for Portfolio Demo](Project_014350/README.md) |
+| 014351 | [AWS: Dashboard — Baseline Setup for School Lab](Project_014351/README.md) |
+| 014352 | [AWS: Dashboard — Automation for School Lab](Project_014352/README.md) |
+| 014353 | [AWS: Dashboard — Recovery for School Lab](Project_014353/README.md) |
+| 014354 | [AWS: Dashboard — Reporting for School Lab](Project_014354/README.md) |
+| 014355 | [AWS: Dashboard — Usability Improvement for School Lab](Project_014355/README.md) |
+| 014356 | [AWS: Dashboard — Baseline Setup for Small Business](Project_014356/README.md) |
+| 014357 | [AWS: Dashboard — Automation for Small Business](Project_014357/README.md) |
+| 014358 | [AWS: Dashboard — Recovery for Small Business](Project_014358/README.md) |
+| 014359 | [AWS: Dashboard — Reporting for Small Business](Project_014359/README.md) |
+| 014360 | [AWS: Dashboard — Usability Improvement for Small Business](Project_014360/README.md) |
 
 [Back to the portfolio home](../README.md)
