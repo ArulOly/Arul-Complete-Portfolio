@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018858 | [Kubernetes: Automation — Recovery for Small Business](Project_018858/README.md) |
 | 018859 | [Kubernetes: Automation — Reporting for Small Business](Project_018859/README.md) |
 | 018860 | [Kubernetes: Automation — Usability Improvement for Small Business](Project_018860/README.md) |
+| 018861 | [Kubernetes: Automation — Baseline Setup for Home Development](Project_018861/README.md) |
+| 018862 | [Kubernetes: Automation — Automation for Home Development](Project_018862/README.md) |
+| 018863 | [Kubernetes: Automation — Recovery for Home Development](Project_018863/README.md) |
+| 018864 | [Kubernetes: Automation — Reporting for Home Development](Project_018864/README.md) |
+| 018865 | [Kubernetes: Automation — Usability Improvement for Home Development](Project_018865/README.md) |
+| 018866 | [Kubernetes: Automation — Baseline Setup for Public Dataset](Project_018866/README.md) |
+| 018867 | [Kubernetes: Automation — Automation for Public Dataset](Project_018867/README.md) |
+| 018868 | [Kubernetes: Automation — Recovery for Public Dataset](Project_018868/README.md) |
+| 018869 | [Kubernetes: Automation — Reporting for Public Dataset](Project_018869/README.md) |
+| 018870 | [Kubernetes: Automation — Usability Improvement for Public Dataset](Project_018870/README.md) |
+| 018871 | [Kubernetes: Automation — Baseline Setup for Branch Office Simulator](Project_018871/README.md) |
+| 018872 | [Kubernetes: Automation — Automation for Branch Office Simulator](Project_018872/README.md) |
+| 018873 | [Kubernetes: Automation — Recovery for Branch Office Simulator](Project_018873/README.md) |
+| 018874 | [Kubernetes: Automation — Reporting for Branch Office Simulator](Project_018874/README.md) |
+| 018875 | [Kubernetes: Automation — Usability Improvement for Branch Office Simulator](Project_018875/README.md) |
+| 018876 | [Kubernetes: Automation — Baseline Setup for Offline Classroom](Project_018876/README.md) |
+| 018877 | [Kubernetes: Automation — Automation for Offline Classroom](Project_018877/README.md) |
+| 018878 | [Kubernetes: Automation — Recovery for Offline Classroom](Project_018878/README.md) |
+| 018879 | [Kubernetes: Automation — Reporting for Offline Classroom](Project_018879/README.md) |
+| 018880 | [Kubernetes: Automation — Usability Improvement for Offline Classroom](Project_018880/README.md) |
 
 [Back to the portfolio home](../README.md)
