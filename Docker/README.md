@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017878 | [Docker: Automation — Recovery for Offline Classroom](Project_017878/README.md) |
 | 017879 | [Docker: Automation — Reporting for Offline Classroom](Project_017879/README.md) |
 | 017880 | [Docker: Automation — Usability Improvement for Offline Classroom](Project_017880/README.md) |
+| 017881 | [Docker: Automation — Baseline Setup for Single-Host Lab](Project_017881/README.md) |
+| 017882 | [Docker: Automation — Automation for Single-Host Lab](Project_017882/README.md) |
+| 017883 | [Docker: Automation — Recovery for Single-Host Lab](Project_017883/README.md) |
+| 017884 | [Docker: Automation — Reporting for Single-Host Lab](Project_017884/README.md) |
+| 017885 | [Docker: Automation — Usability Improvement for Single-Host Lab](Project_017885/README.md) |
+| 017886 | [Docker: Automation — Baseline Setup for Two-Node Lab](Project_017886/README.md) |
+| 017887 | [Docker: Automation — Automation for Two-Node Lab](Project_017887/README.md) |
+| 017888 | [Docker: Automation — Recovery for Two-Node Lab](Project_017888/README.md) |
+| 017889 | [Docker: Automation — Reporting for Two-Node Lab](Project_017889/README.md) |
+| 017890 | [Docker: Automation — Usability Improvement for Two-Node Lab](Project_017890/README.md) |
+| 017891 | [Docker: Automation — Baseline Setup for Help Desk](Project_017891/README.md) |
+| 017892 | [Docker: Automation — Automation for Help Desk](Project_017892/README.md) |
+| 017893 | [Docker: Automation — Recovery for Help Desk](Project_017893/README.md) |
+| 017894 | [Docker: Automation — Reporting for Help Desk](Project_017894/README.md) |
+| 017895 | [Docker: Automation — Usability Improvement for Help Desk](Project_017895/README.md) |
+| 017896 | [Docker: Automation — Baseline Setup for Portfolio Demo](Project_017896/README.md) |
+| 017897 | [Docker: Automation — Automation for Portfolio Demo](Project_017897/README.md) |
+| 017898 | [Docker: Automation — Recovery for Portfolio Demo](Project_017898/README.md) |
+| 017899 | [Docker: Automation — Reporting for Portfolio Demo](Project_017899/README.md) |
+| 017900 | [Docker: Automation — Usability Improvement for Portfolio Demo](Project_017900/README.md) |
 
 [Back to the portfolio home](../README.md)
