@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017838 | [Docker: Documentation Generation — Recovery for Two-Node Lab](Project_017838/README.md) |
 | 017839 | [Docker: Documentation Generation — Reporting for Two-Node Lab](Project_017839/README.md) |
 | 017840 | [Docker: Documentation Generation — Usability Improvement for Two-Node Lab](Project_017840/README.md) |
+| 017841 | [Docker: Documentation Generation — Baseline Setup for Help Desk](Project_017841/README.md) |
+| 017842 | [Docker: Documentation Generation — Automation for Help Desk](Project_017842/README.md) |
+| 017843 | [Docker: Documentation Generation — Recovery for Help Desk](Project_017843/README.md) |
+| 017844 | [Docker: Documentation Generation — Reporting for Help Desk](Project_017844/README.md) |
+| 017845 | [Docker: Documentation Generation — Usability Improvement for Help Desk](Project_017845/README.md) |
+| 017846 | [Docker: Documentation Generation — Baseline Setup for Portfolio Demo](Project_017846/README.md) |
+| 017847 | [Docker: Documentation Generation — Automation for Portfolio Demo](Project_017847/README.md) |
+| 017848 | [Docker: Documentation Generation — Recovery for Portfolio Demo](Project_017848/README.md) |
+| 017849 | [Docker: Documentation Generation — Reporting for Portfolio Demo](Project_017849/README.md) |
+| 017850 | [Docker: Documentation Generation — Usability Improvement for Portfolio Demo](Project_017850/README.md) |
+| 017851 | [Docker: Automation — Baseline Setup for School Lab](Project_017851/README.md) |
+| 017852 | [Docker: Automation — Automation for School Lab](Project_017852/README.md) |
+| 017853 | [Docker: Automation — Recovery for School Lab](Project_017853/README.md) |
+| 017854 | [Docker: Automation — Reporting for School Lab](Project_017854/README.md) |
+| 017855 | [Docker: Automation — Usability Improvement for School Lab](Project_017855/README.md) |
+| 017856 | [Docker: Automation — Baseline Setup for Small Business](Project_017856/README.md) |
+| 017857 | [Docker: Automation — Automation for Small Business](Project_017857/README.md) |
+| 017858 | [Docker: Automation — Recovery for Small Business](Project_017858/README.md) |
+| 017859 | [Docker: Automation — Reporting for Small Business](Project_017859/README.md) |
+| 017860 | [Docker: Automation — Usability Improvement for Small Business](Project_017860/README.md) |
 
 [Back to the portfolio home](../README.md)
