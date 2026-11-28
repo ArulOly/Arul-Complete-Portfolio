@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043038 | [Grafana: Inventory — Recovery for Two-Node Lab](Project_043038/README.md) |
 | 043039 | [Grafana: Inventory — Reporting for Two-Node Lab](Project_043039/README.md) |
 | 043040 | [Grafana: Inventory — Usability Improvement for Two-Node Lab](Project_043040/README.md) |
+| 043041 | [Grafana: Inventory — Baseline Setup for Help Desk](Project_043041/README.md) |
+| 043042 | [Grafana: Inventory — Automation for Help Desk](Project_043042/README.md) |
+| 043043 | [Grafana: Inventory — Recovery for Help Desk](Project_043043/README.md) |
+| 043044 | [Grafana: Inventory — Reporting for Help Desk](Project_043044/README.md) |
+| 043045 | [Grafana: Inventory — Usability Improvement for Help Desk](Project_043045/README.md) |
+| 043046 | [Grafana: Inventory — Baseline Setup for Portfolio Demo](Project_043046/README.md) |
+| 043047 | [Grafana: Inventory — Automation for Portfolio Demo](Project_043047/README.md) |
+| 043048 | [Grafana: Inventory — Recovery for Portfolio Demo](Project_043048/README.md) |
+| 043049 | [Grafana: Inventory — Reporting for Portfolio Demo](Project_043049/README.md) |
+| 043050 | [Grafana: Inventory — Usability Improvement for Portfolio Demo](Project_043050/README.md) |
+| 043051 | [Grafana: Monitoring — Baseline Setup for School Lab](Project_043051/README.md) |
+| 043052 | [Grafana: Monitoring — Automation for School Lab](Project_043052/README.md) |
+| 043053 | [Grafana: Monitoring — Recovery for School Lab](Project_043053/README.md) |
+| 043054 | [Grafana: Monitoring — Reporting for School Lab](Project_043054/README.md) |
+| 043055 | [Grafana: Monitoring — Usability Improvement for School Lab](Project_043055/README.md) |
+| 043056 | [Grafana: Monitoring — Baseline Setup for Small Business](Project_043056/README.md) |
+| 043057 | [Grafana: Monitoring — Automation for Small Business](Project_043057/README.md) |
+| 043058 | [Grafana: Monitoring — Recovery for Small Business](Project_043058/README.md) |
+| 043059 | [Grafana: Monitoring — Reporting for Small Business](Project_043059/README.md) |
+| 043060 | [Grafana: Monitoring — Usability Improvement for Small Business](Project_043060/README.md) |
 
 [Back to the portfolio home](../README.md)
