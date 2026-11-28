@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035618 | [Raspberry Pi: Service Check — Recovery for Public Dataset](Project_035618/README.md) |
 | 035619 | [Raspberry Pi: Service Check — Reporting for Public Dataset](Project_035619/README.md) |
 | 035620 | [Raspberry Pi: Service Check — Usability Improvement for Public Dataset](Project_035620/README.md) |
+| 035621 | [Raspberry Pi: Service Check — Baseline Setup for Branch Office Simulator](Project_035621/README.md) |
+| 035622 | [Raspberry Pi: Service Check — Automation for Branch Office Simulator](Project_035622/README.md) |
+| 035623 | [Raspberry Pi: Service Check — Recovery for Branch Office Simulator](Project_035623/README.md) |
+| 035624 | [Raspberry Pi: Service Check — Reporting for Branch Office Simulator](Project_035624/README.md) |
+| 035625 | [Raspberry Pi: Service Check — Usability Improvement for Branch Office Simulator](Project_035625/README.md) |
+| 035626 | [Raspberry Pi: Service Check — Baseline Setup for Offline Classroom](Project_035626/README.md) |
+| 035627 | [Raspberry Pi: Service Check — Automation for Offline Classroom](Project_035627/README.md) |
+| 035628 | [Raspberry Pi: Service Check — Recovery for Offline Classroom](Project_035628/README.md) |
+| 035629 | [Raspberry Pi: Service Check — Reporting for Offline Classroom](Project_035629/README.md) |
+| 035630 | [Raspberry Pi: Service Check — Usability Improvement for Offline Classroom](Project_035630/README.md) |
+| 035631 | [Raspberry Pi: Service Check — Baseline Setup for Single-Host Lab](Project_035631/README.md) |
+| 035632 | [Raspberry Pi: Service Check — Automation for Single-Host Lab](Project_035632/README.md) |
+| 035633 | [Raspberry Pi: Service Check — Recovery for Single-Host Lab](Project_035633/README.md) |
+| 035634 | [Raspberry Pi: Service Check — Reporting for Single-Host Lab](Project_035634/README.md) |
+| 035635 | [Raspberry Pi: Service Check — Usability Improvement for Single-Host Lab](Project_035635/README.md) |
+| 035636 | [Raspberry Pi: Service Check — Baseline Setup for Two-Node Lab](Project_035636/README.md) |
+| 035637 | [Raspberry Pi: Service Check — Automation for Two-Node Lab](Project_035637/README.md) |
+| 035638 | [Raspberry Pi: Service Check — Recovery for Two-Node Lab](Project_035638/README.md) |
+| 035639 | [Raspberry Pi: Service Check — Reporting for Two-Node Lab](Project_035639/README.md) |
+| 035640 | [Raspberry Pi: Service Check — Usability Improvement for Two-Node Lab](Project_035640/README.md) |
 
 [Back to the portfolio home](../README.md)
