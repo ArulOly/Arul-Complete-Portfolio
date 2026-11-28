@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042638 | [Apache: Service Check — Recovery for Two-Node Lab](Project_042638/README.md) |
 | 042639 | [Apache: Service Check — Reporting for Two-Node Lab](Project_042639/README.md) |
 | 042640 | [Apache: Service Check — Usability Improvement for Two-Node Lab](Project_042640/README.md) |
+| 042641 | [Apache: Service Check — Baseline Setup for Help Desk](Project_042641/README.md) |
+| 042642 | [Apache: Service Check — Automation for Help Desk](Project_042642/README.md) |
+| 042643 | [Apache: Service Check — Recovery for Help Desk](Project_042643/README.md) |
+| 042644 | [Apache: Service Check — Reporting for Help Desk](Project_042644/README.md) |
+| 042645 | [Apache: Service Check — Usability Improvement for Help Desk](Project_042645/README.md) |
+| 042646 | [Apache: Service Check — Baseline Setup for Portfolio Demo](Project_042646/README.md) |
+| 042647 | [Apache: Service Check — Automation for Portfolio Demo](Project_042647/README.md) |
+| 042648 | [Apache: Service Check — Recovery for Portfolio Demo](Project_042648/README.md) |
+| 042649 | [Apache: Service Check — Reporting for Portfolio Demo](Project_042649/README.md) |
+| 042650 | [Apache: Service Check — Usability Improvement for Portfolio Demo](Project_042650/README.md) |
+| 042651 | [Apache: Configuration Comparison — Baseline Setup for School Lab](Project_042651/README.md) |
+| 042652 | [Apache: Configuration Comparison — Automation for School Lab](Project_042652/README.md) |
+| 042653 | [Apache: Configuration Comparison — Recovery for School Lab](Project_042653/README.md) |
+| 042654 | [Apache: Configuration Comparison — Reporting for School Lab](Project_042654/README.md) |
+| 042655 | [Apache: Configuration Comparison — Usability Improvement for School Lab](Project_042655/README.md) |
+| 042656 | [Apache: Configuration Comparison — Baseline Setup for Small Business](Project_042656/README.md) |
+| 042657 | [Apache: Configuration Comparison — Automation for Small Business](Project_042657/README.md) |
+| 042658 | [Apache: Configuration Comparison — Recovery for Small Business](Project_042658/README.md) |
+| 042659 | [Apache: Configuration Comparison — Reporting for Small Business](Project_042659/README.md) |
+| 042660 | [Apache: Configuration Comparison — Usability Improvement for Small Business](Project_042660/README.md) |
 
 [Back to the portfolio home](../README.md)
