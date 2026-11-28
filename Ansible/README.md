@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047978 | [Ansible: Recovery Test — Recovery for Offline Classroom](Project_047978/README.md) |
 | 047979 | [Ansible: Recovery Test — Reporting for Offline Classroom](Project_047979/README.md) |
 | 047980 | [Ansible: Recovery Test — Usability Improvement for Offline Classroom](Project_047980/README.md) |
+| 047981 | [Ansible: Recovery Test — Baseline Setup for Single-Host Lab](Project_047981/README.md) |
+| 047982 | [Ansible: Recovery Test — Automation for Single-Host Lab](Project_047982/README.md) |
+| 047983 | [Ansible: Recovery Test — Recovery for Single-Host Lab](Project_047983/README.md) |
+| 047984 | [Ansible: Recovery Test — Reporting for Single-Host Lab](Project_047984/README.md) |
+| 047985 | [Ansible: Recovery Test — Usability Improvement for Single-Host Lab](Project_047985/README.md) |
+| 047986 | [Ansible: Recovery Test — Baseline Setup for Two-Node Lab](Project_047986/README.md) |
+| 047987 | [Ansible: Recovery Test — Automation for Two-Node Lab](Project_047987/README.md) |
+| 047988 | [Ansible: Recovery Test — Recovery for Two-Node Lab](Project_047988/README.md) |
+| 047989 | [Ansible: Recovery Test — Reporting for Two-Node Lab](Project_047989/README.md) |
+| 047990 | [Ansible: Recovery Test — Usability Improvement for Two-Node Lab](Project_047990/README.md) |
+| 047991 | [Ansible: Recovery Test — Baseline Setup for Help Desk](Project_047991/README.md) |
+| 047992 | [Ansible: Recovery Test — Automation for Help Desk](Project_047992/README.md) |
+| 047993 | [Ansible: Recovery Test — Recovery for Help Desk](Project_047993/README.md) |
+| 047994 | [Ansible: Recovery Test — Reporting for Help Desk](Project_047994/README.md) |
+| 047995 | [Ansible: Recovery Test — Usability Improvement for Help Desk](Project_047995/README.md) |
+| 047996 | [Ansible: Recovery Test — Baseline Setup for Portfolio Demo](Project_047996/README.md) |
+| 047997 | [Ansible: Recovery Test — Automation for Portfolio Demo](Project_047997/README.md) |
+| 047998 | [Ansible: Recovery Test — Recovery for Portfolio Demo](Project_047998/README.md) |
+| 047999 | [Ansible: Recovery Test — Reporting for Portfolio Demo](Project_047999/README.md) |
+| 048000 | [Ansible: Recovery Test — Usability Improvement for Portfolio Demo](Project_048000/README.md) |
 
 [Back to the portfolio home](../README.md)
