@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046518 | [Terraform: Access Review — Recovery for Public Dataset](Project_046518/README.md) |
 | 046519 | [Terraform: Access Review — Reporting for Public Dataset](Project_046519/README.md) |
 | 046520 | [Terraform: Access Review — Usability Improvement for Public Dataset](Project_046520/README.md) |
+| 046521 | [Terraform: Access Review — Baseline Setup for Branch Office Simulator](Project_046521/README.md) |
+| 046522 | [Terraform: Access Review — Automation for Branch Office Simulator](Project_046522/README.md) |
+| 046523 | [Terraform: Access Review — Recovery for Branch Office Simulator](Project_046523/README.md) |
+| 046524 | [Terraform: Access Review — Reporting for Branch Office Simulator](Project_046524/README.md) |
+| 046525 | [Terraform: Access Review — Usability Improvement for Branch Office Simulator](Project_046525/README.md) |
+| 046526 | [Terraform: Access Review — Baseline Setup for Offline Classroom](Project_046526/README.md) |
+| 046527 | [Terraform: Access Review — Automation for Offline Classroom](Project_046527/README.md) |
+| 046528 | [Terraform: Access Review — Recovery for Offline Classroom](Project_046528/README.md) |
+| 046529 | [Terraform: Access Review — Reporting for Offline Classroom](Project_046529/README.md) |
+| 046530 | [Terraform: Access Review — Usability Improvement for Offline Classroom](Project_046530/README.md) |
+| 046531 | [Terraform: Access Review — Baseline Setup for Single-Host Lab](Project_046531/README.md) |
+| 046532 | [Terraform: Access Review — Automation for Single-Host Lab](Project_046532/README.md) |
+| 046533 | [Terraform: Access Review — Recovery for Single-Host Lab](Project_046533/README.md) |
+| 046534 | [Terraform: Access Review — Reporting for Single-Host Lab](Project_046534/README.md) |
+| 046535 | [Terraform: Access Review — Usability Improvement for Single-Host Lab](Project_046535/README.md) |
+| 046536 | [Terraform: Access Review — Baseline Setup for Two-Node Lab](Project_046536/README.md) |
+| 046537 | [Terraform: Access Review — Automation for Two-Node Lab](Project_046537/README.md) |
+| 046538 | [Terraform: Access Review — Recovery for Two-Node Lab](Project_046538/README.md) |
+| 046539 | [Terraform: Access Review — Reporting for Two-Node Lab](Project_046539/README.md) |
+| 046540 | [Terraform: Access Review — Usability Improvement for Two-Node Lab](Project_046540/README.md) |
 
 [Back to the portfolio home](../README.md)
