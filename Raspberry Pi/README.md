@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035818 | [Raspberry Pi: Documentation Generation — Recovery for Public Dataset](Project_035818/README.md) |
 | 035819 | [Raspberry Pi: Documentation Generation — Reporting for Public Dataset](Project_035819/README.md) |
 | 035820 | [Raspberry Pi: Documentation Generation — Usability Improvement for Public Dataset](Project_035820/README.md) |
+| 035821 | [Raspberry Pi: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_035821/README.md) |
+| 035822 | [Raspberry Pi: Documentation Generation — Automation for Branch Office Simulator](Project_035822/README.md) |
+| 035823 | [Raspberry Pi: Documentation Generation — Recovery for Branch Office Simulator](Project_035823/README.md) |
+| 035824 | [Raspberry Pi: Documentation Generation — Reporting for Branch Office Simulator](Project_035824/README.md) |
+| 035825 | [Raspberry Pi: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_035825/README.md) |
+| 035826 | [Raspberry Pi: Documentation Generation — Baseline Setup for Offline Classroom](Project_035826/README.md) |
+| 035827 | [Raspberry Pi: Documentation Generation — Automation for Offline Classroom](Project_035827/README.md) |
+| 035828 | [Raspberry Pi: Documentation Generation — Recovery for Offline Classroom](Project_035828/README.md) |
+| 035829 | [Raspberry Pi: Documentation Generation — Reporting for Offline Classroom](Project_035829/README.md) |
+| 035830 | [Raspberry Pi: Documentation Generation — Usability Improvement for Offline Classroom](Project_035830/README.md) |
+| 035831 | [Raspberry Pi: Documentation Generation — Baseline Setup for Single-Host Lab](Project_035831/README.md) |
+| 035832 | [Raspberry Pi: Documentation Generation — Automation for Single-Host Lab](Project_035832/README.md) |
+| 035833 | [Raspberry Pi: Documentation Generation — Recovery for Single-Host Lab](Project_035833/README.md) |
+| 035834 | [Raspberry Pi: Documentation Generation — Reporting for Single-Host Lab](Project_035834/README.md) |
+| 035835 | [Raspberry Pi: Documentation Generation — Usability Improvement for Single-Host Lab](Project_035835/README.md) |
+| 035836 | [Raspberry Pi: Documentation Generation — Baseline Setup for Two-Node Lab](Project_035836/README.md) |
+| 035837 | [Raspberry Pi: Documentation Generation — Automation for Two-Node Lab](Project_035837/README.md) |
+| 035838 | [Raspberry Pi: Documentation Generation — Recovery for Two-Node Lab](Project_035838/README.md) |
+| 035839 | [Raspberry Pi: Documentation Generation — Reporting for Two-Node Lab](Project_035839/README.md) |
+| 035840 | [Raspberry Pi: Documentation Generation — Usability Improvement for Two-Node Lab](Project_035840/README.md) |
 
 [Back to the portfolio home](../README.md)
