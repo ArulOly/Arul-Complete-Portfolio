@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047158 | [Ansible: Log Analysis — Recovery for Small Business](Project_047158/README.md) |
 | 047159 | [Ansible: Log Analysis — Reporting for Small Business](Project_047159/README.md) |
 | 047160 | [Ansible: Log Analysis — Usability Improvement for Small Business](Project_047160/README.md) |
+| 047161 | [Ansible: Log Analysis — Baseline Setup for Home Development](Project_047161/README.md) |
+| 047162 | [Ansible: Log Analysis — Automation for Home Development](Project_047162/README.md) |
+| 047163 | [Ansible: Log Analysis — Recovery for Home Development](Project_047163/README.md) |
+| 047164 | [Ansible: Log Analysis — Reporting for Home Development](Project_047164/README.md) |
+| 047165 | [Ansible: Log Analysis — Usability Improvement for Home Development](Project_047165/README.md) |
+| 047166 | [Ansible: Log Analysis — Baseline Setup for Public Dataset](Project_047166/README.md) |
+| 047167 | [Ansible: Log Analysis — Automation for Public Dataset](Project_047167/README.md) |
+| 047168 | [Ansible: Log Analysis — Recovery for Public Dataset](Project_047168/README.md) |
+| 047169 | [Ansible: Log Analysis — Reporting for Public Dataset](Project_047169/README.md) |
+| 047170 | [Ansible: Log Analysis — Usability Improvement for Public Dataset](Project_047170/README.md) |
+| 047171 | [Ansible: Log Analysis — Baseline Setup for Branch Office Simulator](Project_047171/README.md) |
+| 047172 | [Ansible: Log Analysis — Automation for Branch Office Simulator](Project_047172/README.md) |
+| 047173 | [Ansible: Log Analysis — Recovery for Branch Office Simulator](Project_047173/README.md) |
+| 047174 | [Ansible: Log Analysis — Reporting for Branch Office Simulator](Project_047174/README.md) |
+| 047175 | [Ansible: Log Analysis — Usability Improvement for Branch Office Simulator](Project_047175/README.md) |
+| 047176 | [Ansible: Log Analysis — Baseline Setup for Offline Classroom](Project_047176/README.md) |
+| 047177 | [Ansible: Log Analysis — Automation for Offline Classroom](Project_047177/README.md) |
+| 047178 | [Ansible: Log Analysis — Recovery for Offline Classroom](Project_047178/README.md) |
+| 047179 | [Ansible: Log Analysis — Reporting for Offline Classroom](Project_047179/README.md) |
+| 047180 | [Ansible: Log Analysis — Usability Improvement for Offline Classroom](Project_047180/README.md) |
 
 [Back to the portfolio home](../README.md)
