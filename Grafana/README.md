@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043158 | [Grafana: Log Analysis — Recovery for Small Business](Project_043158/README.md) |
 | 043159 | [Grafana: Log Analysis — Reporting for Small Business](Project_043159/README.md) |
 | 043160 | [Grafana: Log Analysis — Usability Improvement for Small Business](Project_043160/README.md) |
+| 043161 | [Grafana: Log Analysis — Baseline Setup for Home Development](Project_043161/README.md) |
+| 043162 | [Grafana: Log Analysis — Automation for Home Development](Project_043162/README.md) |
+| 043163 | [Grafana: Log Analysis — Recovery for Home Development](Project_043163/README.md) |
+| 043164 | [Grafana: Log Analysis — Reporting for Home Development](Project_043164/README.md) |
+| 043165 | [Grafana: Log Analysis — Usability Improvement for Home Development](Project_043165/README.md) |
+| 043166 | [Grafana: Log Analysis — Baseline Setup for Public Dataset](Project_043166/README.md) |
+| 043167 | [Grafana: Log Analysis — Automation for Public Dataset](Project_043167/README.md) |
+| 043168 | [Grafana: Log Analysis — Recovery for Public Dataset](Project_043168/README.md) |
+| 043169 | [Grafana: Log Analysis — Reporting for Public Dataset](Project_043169/README.md) |
+| 043170 | [Grafana: Log Analysis — Usability Improvement for Public Dataset](Project_043170/README.md) |
+| 043171 | [Grafana: Log Analysis — Baseline Setup for Branch Office Simulator](Project_043171/README.md) |
+| 043172 | [Grafana: Log Analysis — Automation for Branch Office Simulator](Project_043172/README.md) |
+| 043173 | [Grafana: Log Analysis — Recovery for Branch Office Simulator](Project_043173/README.md) |
+| 043174 | [Grafana: Log Analysis — Reporting for Branch Office Simulator](Project_043174/README.md) |
+| 043175 | [Grafana: Log Analysis — Usability Improvement for Branch Office Simulator](Project_043175/README.md) |
+| 043176 | [Grafana: Log Analysis — Baseline Setup for Offline Classroom](Project_043176/README.md) |
+| 043177 | [Grafana: Log Analysis — Automation for Offline Classroom](Project_043177/README.md) |
+| 043178 | [Grafana: Log Analysis — Recovery for Offline Classroom](Project_043178/README.md) |
+| 043179 | [Grafana: Log Analysis — Reporting for Offline Classroom](Project_043179/README.md) |
+| 043180 | [Grafana: Log Analysis — Usability Improvement for Offline Classroom](Project_043180/README.md) |
 
 [Back to the portfolio home](../README.md)
