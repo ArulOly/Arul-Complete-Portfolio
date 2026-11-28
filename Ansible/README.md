@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047958 | [Ansible: Recovery Test — Recovery for Small Business](Project_047958/README.md) |
 | 047959 | [Ansible: Recovery Test — Reporting for Small Business](Project_047959/README.md) |
 | 047960 | [Ansible: Recovery Test — Usability Improvement for Small Business](Project_047960/README.md) |
+| 047961 | [Ansible: Recovery Test — Baseline Setup for Home Development](Project_047961/README.md) |
+| 047962 | [Ansible: Recovery Test — Automation for Home Development](Project_047962/README.md) |
+| 047963 | [Ansible: Recovery Test — Recovery for Home Development](Project_047963/README.md) |
+| 047964 | [Ansible: Recovery Test — Reporting for Home Development](Project_047964/README.md) |
+| 047965 | [Ansible: Recovery Test — Usability Improvement for Home Development](Project_047965/README.md) |
+| 047966 | [Ansible: Recovery Test — Baseline Setup for Public Dataset](Project_047966/README.md) |
+| 047967 | [Ansible: Recovery Test — Automation for Public Dataset](Project_047967/README.md) |
+| 047968 | [Ansible: Recovery Test — Recovery for Public Dataset](Project_047968/README.md) |
+| 047969 | [Ansible: Recovery Test — Reporting for Public Dataset](Project_047969/README.md) |
+| 047970 | [Ansible: Recovery Test — Usability Improvement for Public Dataset](Project_047970/README.md) |
+| 047971 | [Ansible: Recovery Test — Baseline Setup for Branch Office Simulator](Project_047971/README.md) |
+| 047972 | [Ansible: Recovery Test — Automation for Branch Office Simulator](Project_047972/README.md) |
+| 047973 | [Ansible: Recovery Test — Recovery for Branch Office Simulator](Project_047973/README.md) |
+| 047974 | [Ansible: Recovery Test — Reporting for Branch Office Simulator](Project_047974/README.md) |
+| 047975 | [Ansible: Recovery Test — Usability Improvement for Branch Office Simulator](Project_047975/README.md) |
+| 047976 | [Ansible: Recovery Test — Baseline Setup for Offline Classroom](Project_047976/README.md) |
+| 047977 | [Ansible: Recovery Test — Automation for Offline Classroom](Project_047977/README.md) |
+| 047978 | [Ansible: Recovery Test — Recovery for Offline Classroom](Project_047978/README.md) |
+| 047979 | [Ansible: Recovery Test — Reporting for Offline Classroom](Project_047979/README.md) |
+| 047980 | [Ansible: Recovery Test — Usability Improvement for Offline Classroom](Project_047980/README.md) |
 
 [Back to the portfolio home](../README.md)
