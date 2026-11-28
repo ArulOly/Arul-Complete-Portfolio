@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030078 | [Wazuh: Monitoring — Recovery for Offline Classroom](Project_030078/README.md) |
 | 030079 | [Wazuh: Monitoring — Reporting for Offline Classroom](Project_030079/README.md) |
 | 030080 | [Wazuh: Monitoring — Usability Improvement for Offline Classroom](Project_030080/README.md) |
+| 030081 | [Wazuh: Monitoring — Baseline Setup for Single-Host Lab](Project_030081/README.md) |
+| 030082 | [Wazuh: Monitoring — Automation for Single-Host Lab](Project_030082/README.md) |
+| 030083 | [Wazuh: Monitoring — Recovery for Single-Host Lab](Project_030083/README.md) |
+| 030084 | [Wazuh: Monitoring — Reporting for Single-Host Lab](Project_030084/README.md) |
+| 030085 | [Wazuh: Monitoring — Usability Improvement for Single-Host Lab](Project_030085/README.md) |
+| 030086 | [Wazuh: Monitoring — Baseline Setup for Two-Node Lab](Project_030086/README.md) |
+| 030087 | [Wazuh: Monitoring — Automation for Two-Node Lab](Project_030087/README.md) |
+| 030088 | [Wazuh: Monitoring — Recovery for Two-Node Lab](Project_030088/README.md) |
+| 030089 | [Wazuh: Monitoring — Reporting for Two-Node Lab](Project_030089/README.md) |
+| 030090 | [Wazuh: Monitoring — Usability Improvement for Two-Node Lab](Project_030090/README.md) |
+| 030091 | [Wazuh: Monitoring — Baseline Setup for Help Desk](Project_030091/README.md) |
+| 030092 | [Wazuh: Monitoring — Automation for Help Desk](Project_030092/README.md) |
+| 030093 | [Wazuh: Monitoring — Recovery for Help Desk](Project_030093/README.md) |
+| 030094 | [Wazuh: Monitoring — Reporting for Help Desk](Project_030094/README.md) |
+| 030095 | [Wazuh: Monitoring — Usability Improvement for Help Desk](Project_030095/README.md) |
+| 030096 | [Wazuh: Monitoring — Baseline Setup for Portfolio Demo](Project_030096/README.md) |
+| 030097 | [Wazuh: Monitoring — Automation for Portfolio Demo](Project_030097/README.md) |
+| 030098 | [Wazuh: Monitoring — Recovery for Portfolio Demo](Project_030098/README.md) |
+| 030099 | [Wazuh: Monitoring — Reporting for Portfolio Demo](Project_030099/README.md) |
+| 030100 | [Wazuh: Monitoring — Usability Improvement for Portfolio Demo](Project_030100/README.md) |
 
 [Back to the portfolio home](../README.md)
