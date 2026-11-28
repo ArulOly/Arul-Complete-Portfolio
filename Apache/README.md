@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042078 | [Apache: Monitoring — Recovery for Offline Classroom](Project_042078/README.md) |
 | 042079 | [Apache: Monitoring — Reporting for Offline Classroom](Project_042079/README.md) |
 | 042080 | [Apache: Monitoring — Usability Improvement for Offline Classroom](Project_042080/README.md) |
+| 042081 | [Apache: Monitoring — Baseline Setup for Single-Host Lab](Project_042081/README.md) |
+| 042082 | [Apache: Monitoring — Automation for Single-Host Lab](Project_042082/README.md) |
+| 042083 | [Apache: Monitoring — Recovery for Single-Host Lab](Project_042083/README.md) |
+| 042084 | [Apache: Monitoring — Reporting for Single-Host Lab](Project_042084/README.md) |
+| 042085 | [Apache: Monitoring — Usability Improvement for Single-Host Lab](Project_042085/README.md) |
+| 042086 | [Apache: Monitoring — Baseline Setup for Two-Node Lab](Project_042086/README.md) |
+| 042087 | [Apache: Monitoring — Automation for Two-Node Lab](Project_042087/README.md) |
+| 042088 | [Apache: Monitoring — Recovery for Two-Node Lab](Project_042088/README.md) |
+| 042089 | [Apache: Monitoring — Reporting for Two-Node Lab](Project_042089/README.md) |
+| 042090 | [Apache: Monitoring — Usability Improvement for Two-Node Lab](Project_042090/README.md) |
+| 042091 | [Apache: Monitoring — Baseline Setup for Help Desk](Project_042091/README.md) |
+| 042092 | [Apache: Monitoring — Automation for Help Desk](Project_042092/README.md) |
+| 042093 | [Apache: Monitoring — Recovery for Help Desk](Project_042093/README.md) |
+| 042094 | [Apache: Monitoring — Reporting for Help Desk](Project_042094/README.md) |
+| 042095 | [Apache: Monitoring — Usability Improvement for Help Desk](Project_042095/README.md) |
+| 042096 | [Apache: Monitoring — Baseline Setup for Portfolio Demo](Project_042096/README.md) |
+| 042097 | [Apache: Monitoring — Automation for Portfolio Demo](Project_042097/README.md) |
+| 042098 | [Apache: Monitoring — Recovery for Portfolio Demo](Project_042098/README.md) |
+| 042099 | [Apache: Monitoring — Reporting for Portfolio Demo](Project_042099/README.md) |
+| 042100 | [Apache: Monitoring — Usability Improvement for Portfolio Demo](Project_042100/README.md) |
 
 [Back to the portfolio home](../README.md)
