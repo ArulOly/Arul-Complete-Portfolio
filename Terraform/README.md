@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046178 | [Terraform: Log Analysis — Recovery for Offline Classroom](Project_046178/README.md) |
 | 046179 | [Terraform: Log Analysis — Reporting for Offline Classroom](Project_046179/README.md) |
 | 046180 | [Terraform: Log Analysis — Usability Improvement for Offline Classroom](Project_046180/README.md) |
+| 046181 | [Terraform: Log Analysis — Baseline Setup for Single-Host Lab](Project_046181/README.md) |
+| 046182 | [Terraform: Log Analysis — Automation for Single-Host Lab](Project_046182/README.md) |
+| 046183 | [Terraform: Log Analysis — Recovery for Single-Host Lab](Project_046183/README.md) |
+| 046184 | [Terraform: Log Analysis — Reporting for Single-Host Lab](Project_046184/README.md) |
+| 046185 | [Terraform: Log Analysis — Usability Improvement for Single-Host Lab](Project_046185/README.md) |
+| 046186 | [Terraform: Log Analysis — Baseline Setup for Two-Node Lab](Project_046186/README.md) |
+| 046187 | [Terraform: Log Analysis — Automation for Two-Node Lab](Project_046187/README.md) |
+| 046188 | [Terraform: Log Analysis — Recovery for Two-Node Lab](Project_046188/README.md) |
+| 046189 | [Terraform: Log Analysis — Reporting for Two-Node Lab](Project_046189/README.md) |
+| 046190 | [Terraform: Log Analysis — Usability Improvement for Two-Node Lab](Project_046190/README.md) |
+| 046191 | [Terraform: Log Analysis — Baseline Setup for Help Desk](Project_046191/README.md) |
+| 046192 | [Terraform: Log Analysis — Automation for Help Desk](Project_046192/README.md) |
+| 046193 | [Terraform: Log Analysis — Recovery for Help Desk](Project_046193/README.md) |
+| 046194 | [Terraform: Log Analysis — Reporting for Help Desk](Project_046194/README.md) |
+| 046195 | [Terraform: Log Analysis — Usability Improvement for Help Desk](Project_046195/README.md) |
+| 046196 | [Terraform: Log Analysis — Baseline Setup for Portfolio Demo](Project_046196/README.md) |
+| 046197 | [Terraform: Log Analysis — Automation for Portfolio Demo](Project_046197/README.md) |
+| 046198 | [Terraform: Log Analysis — Recovery for Portfolio Demo](Project_046198/README.md) |
+| 046199 | [Terraform: Log Analysis — Reporting for Portfolio Demo](Project_046199/README.md) |
+| 046200 | [Terraform: Log Analysis — Usability Improvement for Portfolio Demo](Project_046200/README.md) |
 
 [Back to the portfolio home](../README.md)
