@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036798 | [ESP32: Data Validation — Recovery for Portfolio Demo](Project_036798/README.md) |
 | 036799 | [ESP32: Data Validation — Reporting for Portfolio Demo](Project_036799/README.md) |
 | 036800 | [ESP32: Data Validation — Usability Improvement for Portfolio Demo](Project_036800/README.md) |
+| 036801 | [ESP32: Documentation Generation — Baseline Setup for School Lab](Project_036801/README.md) |
+| 036802 | [ESP32: Documentation Generation — Automation for School Lab](Project_036802/README.md) |
+| 036803 | [ESP32: Documentation Generation — Recovery for School Lab](Project_036803/README.md) |
+| 036804 | [ESP32: Documentation Generation — Reporting for School Lab](Project_036804/README.md) |
+| 036805 | [ESP32: Documentation Generation — Usability Improvement for School Lab](Project_036805/README.md) |
+| 036806 | [ESP32: Documentation Generation — Baseline Setup for Small Business](Project_036806/README.md) |
+| 036807 | [ESP32: Documentation Generation — Automation for Small Business](Project_036807/README.md) |
+| 036808 | [ESP32: Documentation Generation — Recovery for Small Business](Project_036808/README.md) |
+| 036809 | [ESP32: Documentation Generation — Reporting for Small Business](Project_036809/README.md) |
+| 036810 | [ESP32: Documentation Generation — Usability Improvement for Small Business](Project_036810/README.md) |
+| 036811 | [ESP32: Documentation Generation — Baseline Setup for Home Development](Project_036811/README.md) |
+| 036812 | [ESP32: Documentation Generation — Automation for Home Development](Project_036812/README.md) |
+| 036813 | [ESP32: Documentation Generation — Recovery for Home Development](Project_036813/README.md) |
+| 036814 | [ESP32: Documentation Generation — Reporting for Home Development](Project_036814/README.md) |
+| 036815 | [ESP32: Documentation Generation — Usability Improvement for Home Development](Project_036815/README.md) |
+| 036816 | [ESP32: Documentation Generation — Baseline Setup for Public Dataset](Project_036816/README.md) |
+| 036817 | [ESP32: Documentation Generation — Automation for Public Dataset](Project_036817/README.md) |
+| 036818 | [ESP32: Documentation Generation — Recovery for Public Dataset](Project_036818/README.md) |
+| 036819 | [ESP32: Documentation Generation — Reporting for Public Dataset](Project_036819/README.md) |
+| 036820 | [ESP32: Documentation Generation — Usability Improvement for Public Dataset](Project_036820/README.md) |
 
 [Back to the portfolio home](../README.md)
