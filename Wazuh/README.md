@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030758 | [Wazuh: Data Validation — Recovery for Small Business](Project_030758/README.md) |
 | 030759 | [Wazuh: Data Validation — Reporting for Small Business](Project_030759/README.md) |
 | 030760 | [Wazuh: Data Validation — Usability Improvement for Small Business](Project_030760/README.md) |
+| 030761 | [Wazuh: Data Validation — Baseline Setup for Home Development](Project_030761/README.md) |
+| 030762 | [Wazuh: Data Validation — Automation for Home Development](Project_030762/README.md) |
+| 030763 | [Wazuh: Data Validation — Recovery for Home Development](Project_030763/README.md) |
+| 030764 | [Wazuh: Data Validation — Reporting for Home Development](Project_030764/README.md) |
+| 030765 | [Wazuh: Data Validation — Usability Improvement for Home Development](Project_030765/README.md) |
+| 030766 | [Wazuh: Data Validation — Baseline Setup for Public Dataset](Project_030766/README.md) |
+| 030767 | [Wazuh: Data Validation — Automation for Public Dataset](Project_030767/README.md) |
+| 030768 | [Wazuh: Data Validation — Recovery for Public Dataset](Project_030768/README.md) |
+| 030769 | [Wazuh: Data Validation — Reporting for Public Dataset](Project_030769/README.md) |
+| 030770 | [Wazuh: Data Validation — Usability Improvement for Public Dataset](Project_030770/README.md) |
+| 030771 | [Wazuh: Data Validation — Baseline Setup for Branch Office Simulator](Project_030771/README.md) |
+| 030772 | [Wazuh: Data Validation — Automation for Branch Office Simulator](Project_030772/README.md) |
+| 030773 | [Wazuh: Data Validation — Recovery for Branch Office Simulator](Project_030773/README.md) |
+| 030774 | [Wazuh: Data Validation — Reporting for Branch Office Simulator](Project_030774/README.md) |
+| 030775 | [Wazuh: Data Validation — Usability Improvement for Branch Office Simulator](Project_030775/README.md) |
+| 030776 | [Wazuh: Data Validation — Baseline Setup for Offline Classroom](Project_030776/README.md) |
+| 030777 | [Wazuh: Data Validation — Automation for Offline Classroom](Project_030777/README.md) |
+| 030778 | [Wazuh: Data Validation — Recovery for Offline Classroom](Project_030778/README.md) |
+| 030779 | [Wazuh: Data Validation — Reporting for Offline Classroom](Project_030779/README.md) |
+| 030780 | [Wazuh: Data Validation — Usability Improvement for Offline Classroom](Project_030780/README.md) |
 
 [Back to the portfolio home](../README.md)
