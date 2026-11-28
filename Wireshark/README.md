@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029078 | [Wireshark: Monitoring — Recovery for Offline Classroom](Project_029078/README.md) |
 | 029079 | [Wireshark: Monitoring — Reporting for Offline Classroom](Project_029079/README.md) |
 | 029080 | [Wireshark: Monitoring — Usability Improvement for Offline Classroom](Project_029080/README.md) |
+| 029081 | [Wireshark: Monitoring — Baseline Setup for Single-Host Lab](Project_029081/README.md) |
+| 029082 | [Wireshark: Monitoring — Automation for Single-Host Lab](Project_029082/README.md) |
+| 029083 | [Wireshark: Monitoring — Recovery for Single-Host Lab](Project_029083/README.md) |
+| 029084 | [Wireshark: Monitoring — Reporting for Single-Host Lab](Project_029084/README.md) |
+| 029085 | [Wireshark: Monitoring — Usability Improvement for Single-Host Lab](Project_029085/README.md) |
+| 029086 | [Wireshark: Monitoring — Baseline Setup for Two-Node Lab](Project_029086/README.md) |
+| 029087 | [Wireshark: Monitoring — Automation for Two-Node Lab](Project_029087/README.md) |
+| 029088 | [Wireshark: Monitoring — Recovery for Two-Node Lab](Project_029088/README.md) |
+| 029089 | [Wireshark: Monitoring — Reporting for Two-Node Lab](Project_029089/README.md) |
+| 029090 | [Wireshark: Monitoring — Usability Improvement for Two-Node Lab](Project_029090/README.md) |
+| 029091 | [Wireshark: Monitoring — Baseline Setup for Help Desk](Project_029091/README.md) |
+| 029092 | [Wireshark: Monitoring — Automation for Help Desk](Project_029092/README.md) |
+| 029093 | [Wireshark: Monitoring — Recovery for Help Desk](Project_029093/README.md) |
+| 029094 | [Wireshark: Monitoring — Reporting for Help Desk](Project_029094/README.md) |
+| 029095 | [Wireshark: Monitoring — Usability Improvement for Help Desk](Project_029095/README.md) |
+| 029096 | [Wireshark: Monitoring — Baseline Setup for Portfolio Demo](Project_029096/README.md) |
+| 029097 | [Wireshark: Monitoring — Automation for Portfolio Demo](Project_029097/README.md) |
+| 029098 | [Wireshark: Monitoring — Recovery for Portfolio Demo](Project_029098/README.md) |
+| 029099 | [Wireshark: Monitoring — Reporting for Portfolio Demo](Project_029099/README.md) |
+| 029100 | [Wireshark: Monitoring — Usability Improvement for Portfolio Demo](Project_029100/README.md) |
 
 [Back to the portfolio home](../README.md)
