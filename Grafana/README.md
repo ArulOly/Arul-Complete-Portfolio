@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043478 | [Grafana: Scheduled Reporting — Recovery for Offline Classroom](Project_043478/README.md) |
 | 043479 | [Grafana: Scheduled Reporting — Reporting for Offline Classroom](Project_043479/README.md) |
 | 043480 | [Grafana: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_043480/README.md) |
+| 043481 | [Grafana: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_043481/README.md) |
+| 043482 | [Grafana: Scheduled Reporting — Automation for Single-Host Lab](Project_043482/README.md) |
+| 043483 | [Grafana: Scheduled Reporting — Recovery for Single-Host Lab](Project_043483/README.md) |
+| 043484 | [Grafana: Scheduled Reporting — Reporting for Single-Host Lab](Project_043484/README.md) |
+| 043485 | [Grafana: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_043485/README.md) |
+| 043486 | [Grafana: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_043486/README.md) |
+| 043487 | [Grafana: Scheduled Reporting — Automation for Two-Node Lab](Project_043487/README.md) |
+| 043488 | [Grafana: Scheduled Reporting — Recovery for Two-Node Lab](Project_043488/README.md) |
+| 043489 | [Grafana: Scheduled Reporting — Reporting for Two-Node Lab](Project_043489/README.md) |
+| 043490 | [Grafana: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_043490/README.md) |
+| 043491 | [Grafana: Scheduled Reporting — Baseline Setup for Help Desk](Project_043491/README.md) |
+| 043492 | [Grafana: Scheduled Reporting — Automation for Help Desk](Project_043492/README.md) |
+| 043493 | [Grafana: Scheduled Reporting — Recovery for Help Desk](Project_043493/README.md) |
+| 043494 | [Grafana: Scheduled Reporting — Reporting for Help Desk](Project_043494/README.md) |
+| 043495 | [Grafana: Scheduled Reporting — Usability Improvement for Help Desk](Project_043495/README.md) |
+| 043496 | [Grafana: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_043496/README.md) |
+| 043497 | [Grafana: Scheduled Reporting — Automation for Portfolio Demo](Project_043497/README.md) |
+| 043498 | [Grafana: Scheduled Reporting — Recovery for Portfolio Demo](Project_043498/README.md) |
+| 043499 | [Grafana: Scheduled Reporting — Reporting for Portfolio Demo](Project_043499/README.md) |
+| 043500 | [Grafana: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_043500/README.md) |
 
 [Back to the portfolio home](../README.md)
