@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038978 | [Git: Recovery Test — Recovery for Offline Classroom](Project_038978/README.md) |
 | 038979 | [Git: Recovery Test — Reporting for Offline Classroom](Project_038979/README.md) |
 | 038980 | [Git: Recovery Test — Usability Improvement for Offline Classroom](Project_038980/README.md) |
+| 038981 | [Git: Recovery Test — Baseline Setup for Single-Host Lab](Project_038981/README.md) |
+| 038982 | [Git: Recovery Test — Automation for Single-Host Lab](Project_038982/README.md) |
+| 038983 | [Git: Recovery Test — Recovery for Single-Host Lab](Project_038983/README.md) |
+| 038984 | [Git: Recovery Test — Reporting for Single-Host Lab](Project_038984/README.md) |
+| 038985 | [Git: Recovery Test — Usability Improvement for Single-Host Lab](Project_038985/README.md) |
+| 038986 | [Git: Recovery Test — Baseline Setup for Two-Node Lab](Project_038986/README.md) |
+| 038987 | [Git: Recovery Test — Automation for Two-Node Lab](Project_038987/README.md) |
+| 038988 | [Git: Recovery Test — Recovery for Two-Node Lab](Project_038988/README.md) |
+| 038989 | [Git: Recovery Test — Reporting for Two-Node Lab](Project_038989/README.md) |
+| 038990 | [Git: Recovery Test — Usability Improvement for Two-Node Lab](Project_038990/README.md) |
+| 038991 | [Git: Recovery Test — Baseline Setup for Help Desk](Project_038991/README.md) |
+| 038992 | [Git: Recovery Test — Automation for Help Desk](Project_038992/README.md) |
+| 038993 | [Git: Recovery Test — Recovery for Help Desk](Project_038993/README.md) |
+| 038994 | [Git: Recovery Test — Reporting for Help Desk](Project_038994/README.md) |
+| 038995 | [Git: Recovery Test — Usability Improvement for Help Desk](Project_038995/README.md) |
+| 038996 | [Git: Recovery Test — Baseline Setup for Portfolio Demo](Project_038996/README.md) |
+| 038997 | [Git: Recovery Test — Automation for Portfolio Demo](Project_038997/README.md) |
+| 038998 | [Git: Recovery Test — Recovery for Portfolio Demo](Project_038998/README.md) |
+| 038999 | [Git: Recovery Test — Reporting for Portfolio Demo](Project_038999/README.md) |
+| 039000 | [Git: Recovery Test — Usability Improvement for Portfolio Demo](Project_039000/README.md) |
 
 [Back to the portfolio home](../README.md)
