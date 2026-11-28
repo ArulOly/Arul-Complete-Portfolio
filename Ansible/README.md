@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047758 | [Ansible: Data Validation — Recovery for Small Business](Project_047758/README.md) |
 | 047759 | [Ansible: Data Validation — Reporting for Small Business](Project_047759/README.md) |
 | 047760 | [Ansible: Data Validation — Usability Improvement for Small Business](Project_047760/README.md) |
+| 047761 | [Ansible: Data Validation — Baseline Setup for Home Development](Project_047761/README.md) |
+| 047762 | [Ansible: Data Validation — Automation for Home Development](Project_047762/README.md) |
+| 047763 | [Ansible: Data Validation — Recovery for Home Development](Project_047763/README.md) |
+| 047764 | [Ansible: Data Validation — Reporting for Home Development](Project_047764/README.md) |
+| 047765 | [Ansible: Data Validation — Usability Improvement for Home Development](Project_047765/README.md) |
+| 047766 | [Ansible: Data Validation — Baseline Setup for Public Dataset](Project_047766/README.md) |
+| 047767 | [Ansible: Data Validation — Automation for Public Dataset](Project_047767/README.md) |
+| 047768 | [Ansible: Data Validation — Recovery for Public Dataset](Project_047768/README.md) |
+| 047769 | [Ansible: Data Validation — Reporting for Public Dataset](Project_047769/README.md) |
+| 047770 | [Ansible: Data Validation — Usability Improvement for Public Dataset](Project_047770/README.md) |
+| 047771 | [Ansible: Data Validation — Baseline Setup for Branch Office Simulator](Project_047771/README.md) |
+| 047772 | [Ansible: Data Validation — Automation for Branch Office Simulator](Project_047772/README.md) |
+| 047773 | [Ansible: Data Validation — Recovery for Branch Office Simulator](Project_047773/README.md) |
+| 047774 | [Ansible: Data Validation — Reporting for Branch Office Simulator](Project_047774/README.md) |
+| 047775 | [Ansible: Data Validation — Usability Improvement for Branch Office Simulator](Project_047775/README.md) |
+| 047776 | [Ansible: Data Validation — Baseline Setup for Offline Classroom](Project_047776/README.md) |
+| 047777 | [Ansible: Data Validation — Automation for Offline Classroom](Project_047777/README.md) |
+| 047778 | [Ansible: Data Validation — Recovery for Offline Classroom](Project_047778/README.md) |
+| 047779 | [Ansible: Data Validation — Reporting for Offline Classroom](Project_047779/README.md) |
+| 047780 | [Ansible: Data Validation — Usability Improvement for Offline Classroom](Project_047780/README.md) |
 
 [Back to the portfolio home](../README.md)
