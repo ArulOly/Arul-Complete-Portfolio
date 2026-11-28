@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044798 | [Prometheus: Data Validation — Recovery for Portfolio Demo](Project_044798/README.md) |
 | 044799 | [Prometheus: Data Validation — Reporting for Portfolio Demo](Project_044799/README.md) |
 | 044800 | [Prometheus: Data Validation — Usability Improvement for Portfolio Demo](Project_044800/README.md) |
+| 044801 | [Prometheus: Documentation Generation — Baseline Setup for School Lab](Project_044801/README.md) |
+| 044802 | [Prometheus: Documentation Generation — Automation for School Lab](Project_044802/README.md) |
+| 044803 | [Prometheus: Documentation Generation — Recovery for School Lab](Project_044803/README.md) |
+| 044804 | [Prometheus: Documentation Generation — Reporting for School Lab](Project_044804/README.md) |
+| 044805 | [Prometheus: Documentation Generation — Usability Improvement for School Lab](Project_044805/README.md) |
+| 044806 | [Prometheus: Documentation Generation — Baseline Setup for Small Business](Project_044806/README.md) |
+| 044807 | [Prometheus: Documentation Generation — Automation for Small Business](Project_044807/README.md) |
+| 044808 | [Prometheus: Documentation Generation — Recovery for Small Business](Project_044808/README.md) |
+| 044809 | [Prometheus: Documentation Generation — Reporting for Small Business](Project_044809/README.md) |
+| 044810 | [Prometheus: Documentation Generation — Usability Improvement for Small Business](Project_044810/README.md) |
+| 044811 | [Prometheus: Documentation Generation — Baseline Setup for Home Development](Project_044811/README.md) |
+| 044812 | [Prometheus: Documentation Generation — Automation for Home Development](Project_044812/README.md) |
+| 044813 | [Prometheus: Documentation Generation — Recovery for Home Development](Project_044813/README.md) |
+| 044814 | [Prometheus: Documentation Generation — Reporting for Home Development](Project_044814/README.md) |
+| 044815 | [Prometheus: Documentation Generation — Usability Improvement for Home Development](Project_044815/README.md) |
+| 044816 | [Prometheus: Documentation Generation — Baseline Setup for Public Dataset](Project_044816/README.md) |
+| 044817 | [Prometheus: Documentation Generation — Automation for Public Dataset](Project_044817/README.md) |
+| 044818 | [Prometheus: Documentation Generation — Recovery for Public Dataset](Project_044818/README.md) |
+| 044819 | [Prometheus: Documentation Generation — Reporting for Public Dataset](Project_044819/README.md) |
+| 044820 | [Prometheus: Documentation Generation — Usability Improvement for Public Dataset](Project_044820/README.md) |
 
 [Back to the portfolio home](../README.md)
