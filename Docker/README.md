@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017098 | [Docker: Monitoring — Recovery for Portfolio Demo](Project_017098/README.md) |
 | 017099 | [Docker: Monitoring — Reporting for Portfolio Demo](Project_017099/README.md) |
 | 017100 | [Docker: Monitoring — Usability Improvement for Portfolio Demo](Project_017100/README.md) |
+| 017101 | [Docker: Audit — Baseline Setup for School Lab](Project_017101/README.md) |
+| 017102 | [Docker: Audit — Automation for School Lab](Project_017102/README.md) |
+| 017103 | [Docker: Audit — Recovery for School Lab](Project_017103/README.md) |
+| 017104 | [Docker: Audit — Reporting for School Lab](Project_017104/README.md) |
+| 017105 | [Docker: Audit — Usability Improvement for School Lab](Project_017105/README.md) |
+| 017106 | [Docker: Audit — Baseline Setup for Small Business](Project_017106/README.md) |
+| 017107 | [Docker: Audit — Automation for Small Business](Project_017107/README.md) |
+| 017108 | [Docker: Audit — Recovery for Small Business](Project_017108/README.md) |
+| 017109 | [Docker: Audit — Reporting for Small Business](Project_017109/README.md) |
+| 017110 | [Docker: Audit — Usability Improvement for Small Business](Project_017110/README.md) |
+| 017111 | [Docker: Audit — Baseline Setup for Home Development](Project_017111/README.md) |
+| 017112 | [Docker: Audit — Automation for Home Development](Project_017112/README.md) |
+| 017113 | [Docker: Audit — Recovery for Home Development](Project_017113/README.md) |
+| 017114 | [Docker: Audit — Reporting for Home Development](Project_017114/README.md) |
+| 017115 | [Docker: Audit — Usability Improvement for Home Development](Project_017115/README.md) |
+| 017116 | [Docker: Audit — Baseline Setup for Public Dataset](Project_017116/README.md) |
+| 017117 | [Docker: Audit — Automation for Public Dataset](Project_017117/README.md) |
+| 017118 | [Docker: Audit — Recovery for Public Dataset](Project_017118/README.md) |
+| 017119 | [Docker: Audit — Reporting for Public Dataset](Project_017119/README.md) |
+| 017120 | [Docker: Audit — Usability Improvement for Public Dataset](Project_017120/README.md) |
 
 [Back to the portfolio home](../README.md)
