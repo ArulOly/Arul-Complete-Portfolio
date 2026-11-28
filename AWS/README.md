@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014938 | [AWS: Visual Reporting — Recovery for Two-Node Lab](Project_014938/README.md) |
 | 014939 | [AWS: Visual Reporting — Reporting for Two-Node Lab](Project_014939/README.md) |
 | 014940 | [AWS: Visual Reporting — Usability Improvement for Two-Node Lab](Project_014940/README.md) |
+| 014941 | [AWS: Visual Reporting — Baseline Setup for Help Desk](Project_014941/README.md) |
+| 014942 | [AWS: Visual Reporting — Automation for Help Desk](Project_014942/README.md) |
+| 014943 | [AWS: Visual Reporting — Recovery for Help Desk](Project_014943/README.md) |
+| 014944 | [AWS: Visual Reporting — Reporting for Help Desk](Project_014944/README.md) |
+| 014945 | [AWS: Visual Reporting — Usability Improvement for Help Desk](Project_014945/README.md) |
+| 014946 | [AWS: Visual Reporting — Baseline Setup for Portfolio Demo](Project_014946/README.md) |
+| 014947 | [AWS: Visual Reporting — Automation for Portfolio Demo](Project_014947/README.md) |
+| 014948 | [AWS: Visual Reporting — Recovery for Portfolio Demo](Project_014948/README.md) |
+| 014949 | [AWS: Visual Reporting — Reporting for Portfolio Demo](Project_014949/README.md) |
+| 014950 | [AWS: Visual Reporting — Usability Improvement for Portfolio Demo](Project_014950/README.md) |
+| 014951 | [AWS: Recovery Test — Baseline Setup for School Lab](Project_014951/README.md) |
+| 014952 | [AWS: Recovery Test — Automation for School Lab](Project_014952/README.md) |
+| 014953 | [AWS: Recovery Test — Recovery for School Lab](Project_014953/README.md) |
+| 014954 | [AWS: Recovery Test — Reporting for School Lab](Project_014954/README.md) |
+| 014955 | [AWS: Recovery Test — Usability Improvement for School Lab](Project_014955/README.md) |
+| 014956 | [AWS: Recovery Test — Baseline Setup for Small Business](Project_014956/README.md) |
+| 014957 | [AWS: Recovery Test — Automation for Small Business](Project_014957/README.md) |
+| 014958 | [AWS: Recovery Test — Recovery for Small Business](Project_014958/README.md) |
+| 014959 | [AWS: Recovery Test — Reporting for Small Business](Project_014959/README.md) |
+| 014960 | [AWS: Recovery Test — Usability Improvement for Small Business](Project_014960/README.md) |
 
 [Back to the portfolio home](../README.md)
