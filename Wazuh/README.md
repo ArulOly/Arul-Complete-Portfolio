@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030738 | [Wazuh: Error Handling — Recovery for Two-Node Lab](Project_030738/README.md) |
 | 030739 | [Wazuh: Error Handling — Reporting for Two-Node Lab](Project_030739/README.md) |
 | 030740 | [Wazuh: Error Handling — Usability Improvement for Two-Node Lab](Project_030740/README.md) |
+| 030741 | [Wazuh: Error Handling — Baseline Setup for Help Desk](Project_030741/README.md) |
+| 030742 | [Wazuh: Error Handling — Automation for Help Desk](Project_030742/README.md) |
+| 030743 | [Wazuh: Error Handling — Recovery for Help Desk](Project_030743/README.md) |
+| 030744 | [Wazuh: Error Handling — Reporting for Help Desk](Project_030744/README.md) |
+| 030745 | [Wazuh: Error Handling — Usability Improvement for Help Desk](Project_030745/README.md) |
+| 030746 | [Wazuh: Error Handling — Baseline Setup for Portfolio Demo](Project_030746/README.md) |
+| 030747 | [Wazuh: Error Handling — Automation for Portfolio Demo](Project_030747/README.md) |
+| 030748 | [Wazuh: Error Handling — Recovery for Portfolio Demo](Project_030748/README.md) |
+| 030749 | [Wazuh: Error Handling — Reporting for Portfolio Demo](Project_030749/README.md) |
+| 030750 | [Wazuh: Error Handling — Usability Improvement for Portfolio Demo](Project_030750/README.md) |
+| 030751 | [Wazuh: Data Validation — Baseline Setup for School Lab](Project_030751/README.md) |
+| 030752 | [Wazuh: Data Validation — Automation for School Lab](Project_030752/README.md) |
+| 030753 | [Wazuh: Data Validation — Recovery for School Lab](Project_030753/README.md) |
+| 030754 | [Wazuh: Data Validation — Reporting for School Lab](Project_030754/README.md) |
+| 030755 | [Wazuh: Data Validation — Usability Improvement for School Lab](Project_030755/README.md) |
+| 030756 | [Wazuh: Data Validation — Baseline Setup for Small Business](Project_030756/README.md) |
+| 030757 | [Wazuh: Data Validation — Automation for Small Business](Project_030757/README.md) |
+| 030758 | [Wazuh: Data Validation — Recovery for Small Business](Project_030758/README.md) |
+| 030759 | [Wazuh: Data Validation — Reporting for Small Business](Project_030759/README.md) |
+| 030760 | [Wazuh: Data Validation — Usability Improvement for Small Business](Project_030760/README.md) |
 
 [Back to the portfolio home](../README.md)
