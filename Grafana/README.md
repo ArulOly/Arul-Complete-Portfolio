@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043718 | [Grafana: Error Handling — Recovery for Public Dataset](Project_043718/README.md) |
 | 043719 | [Grafana: Error Handling — Reporting for Public Dataset](Project_043719/README.md) |
 | 043720 | [Grafana: Error Handling — Usability Improvement for Public Dataset](Project_043720/README.md) |
+| 043721 | [Grafana: Error Handling — Baseline Setup for Branch Office Simulator](Project_043721/README.md) |
+| 043722 | [Grafana: Error Handling — Automation for Branch Office Simulator](Project_043722/README.md) |
+| 043723 | [Grafana: Error Handling — Recovery for Branch Office Simulator](Project_043723/README.md) |
+| 043724 | [Grafana: Error Handling — Reporting for Branch Office Simulator](Project_043724/README.md) |
+| 043725 | [Grafana: Error Handling — Usability Improvement for Branch Office Simulator](Project_043725/README.md) |
+| 043726 | [Grafana: Error Handling — Baseline Setup for Offline Classroom](Project_043726/README.md) |
+| 043727 | [Grafana: Error Handling — Automation for Offline Classroom](Project_043727/README.md) |
+| 043728 | [Grafana: Error Handling — Recovery for Offline Classroom](Project_043728/README.md) |
+| 043729 | [Grafana: Error Handling — Reporting for Offline Classroom](Project_043729/README.md) |
+| 043730 | [Grafana: Error Handling — Usability Improvement for Offline Classroom](Project_043730/README.md) |
+| 043731 | [Grafana: Error Handling — Baseline Setup for Single-Host Lab](Project_043731/README.md) |
+| 043732 | [Grafana: Error Handling — Automation for Single-Host Lab](Project_043732/README.md) |
+| 043733 | [Grafana: Error Handling — Recovery for Single-Host Lab](Project_043733/README.md) |
+| 043734 | [Grafana: Error Handling — Reporting for Single-Host Lab](Project_043734/README.md) |
+| 043735 | [Grafana: Error Handling — Usability Improvement for Single-Host Lab](Project_043735/README.md) |
+| 043736 | [Grafana: Error Handling — Baseline Setup for Two-Node Lab](Project_043736/README.md) |
+| 043737 | [Grafana: Error Handling — Automation for Two-Node Lab](Project_043737/README.md) |
+| 043738 | [Grafana: Error Handling — Recovery for Two-Node Lab](Project_043738/README.md) |
+| 043739 | [Grafana: Error Handling — Reporting for Two-Node Lab](Project_043739/README.md) |
+| 043740 | [Grafana: Error Handling — Usability Improvement for Two-Node Lab](Project_043740/README.md) |
 
 [Back to the portfolio home](../README.md)
