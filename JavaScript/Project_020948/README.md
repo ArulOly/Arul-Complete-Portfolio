@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A repeatable portfolio demonstration provides the setting for this visual reporting exercise. The code is a reference implementation based on the student guide and uses fictional data.
+A repeatable portfolio demonstration provides the setting for this visual reporting exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

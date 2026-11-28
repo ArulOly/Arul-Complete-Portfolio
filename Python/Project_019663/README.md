@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A home development workspace provides the setting for this configuration comparison exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
+A home development workspace provides the setting for this configuration comparison exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

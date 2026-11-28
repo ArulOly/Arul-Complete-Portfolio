@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A help desk training queue provides the setting for this monitoring exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
+A help desk training queue provides the setting for this monitoring exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

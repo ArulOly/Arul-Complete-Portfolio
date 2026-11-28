@@ -1,6 +1,6 @@
 # Fedora Portfolio
 
-This collection contains guide-based Fedora exercises covering local data processing, IT operations simulations, and reporting. Every project includes a reference implementation, synthetic data, and recorded validation.
+This collection contains guide-based Fedora exercises covering local data processing, IT operations simulations, and reporting. Each project includes source code, sample data, instructions to run it, and recorded validation results.
 
 **Guides discovered** 1000
 

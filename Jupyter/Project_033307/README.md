@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Local shop operations provides the setting for this data export exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
+Local shop operations provides the setting for this data export exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

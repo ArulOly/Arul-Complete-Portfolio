@@ -1,6 +1,6 @@
 # TypeScript Portfolio
 
-These guide-based exercises use Node.js to practice local data processing, reporting, automation, and simulated IT operations. Each README includes a reference implementation, synthetic data, and recorded validation.
+These guide-based exercises use Node.js to practice local data processing, reporting, automation, and simulated IT operations. Each project includes source code, sample data, instructions to run it, and recorded validation results.
 
 **Guides discovered** 1000
 
