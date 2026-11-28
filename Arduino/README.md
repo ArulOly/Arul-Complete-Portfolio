@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037318 | [Arduino: Data Export — Recovery for Public Dataset](Project_037318/README.md) |
 | 037319 | [Arduino: Data Export — Reporting for Public Dataset](Project_037319/README.md) |
 | 037320 | [Arduino: Data Export — Usability Improvement for Public Dataset](Project_037320/README.md) |
+| 037321 | [Arduino: Data Export — Baseline Setup for Branch Office Simulator](Project_037321/README.md) |
+| 037322 | [Arduino: Data Export — Automation for Branch Office Simulator](Project_037322/README.md) |
+| 037323 | [Arduino: Data Export — Recovery for Branch Office Simulator](Project_037323/README.md) |
+| 037324 | [Arduino: Data Export — Reporting for Branch Office Simulator](Project_037324/README.md) |
+| 037325 | [Arduino: Data Export — Usability Improvement for Branch Office Simulator](Project_037325/README.md) |
+| 037326 | [Arduino: Data Export — Baseline Setup for Offline Classroom](Project_037326/README.md) |
+| 037327 | [Arduino: Data Export — Automation for Offline Classroom](Project_037327/README.md) |
+| 037328 | [Arduino: Data Export — Recovery for Offline Classroom](Project_037328/README.md) |
+| 037329 | [Arduino: Data Export — Reporting for Offline Classroom](Project_037329/README.md) |
+| 037330 | [Arduino: Data Export — Usability Improvement for Offline Classroom](Project_037330/README.md) |
+| 037331 | [Arduino: Data Export — Baseline Setup for Single-Host Lab](Project_037331/README.md) |
+| 037332 | [Arduino: Data Export — Automation for Single-Host Lab](Project_037332/README.md) |
+| 037333 | [Arduino: Data Export — Recovery for Single-Host Lab](Project_037333/README.md) |
+| 037334 | [Arduino: Data Export — Reporting for Single-Host Lab](Project_037334/README.md) |
+| 037335 | [Arduino: Data Export — Usability Improvement for Single-Host Lab](Project_037335/README.md) |
+| 037336 | [Arduino: Data Export — Baseline Setup for Two-Node Lab](Project_037336/README.md) |
+| 037337 | [Arduino: Data Export — Automation for Two-Node Lab](Project_037337/README.md) |
+| 037338 | [Arduino: Data Export — Recovery for Two-Node Lab](Project_037338/README.md) |
+| 037339 | [Arduino: Data Export — Reporting for Two-Node Lab](Project_037339/README.md) |
+| 037340 | [Arduino: Data Export — Usability Improvement for Two-Node Lab](Project_037340/README.md) |
 
 [Back to the portfolio home](../README.md)
