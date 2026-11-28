@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036858 | [ESP32: Automation — Recovery for Small Business](Project_036858/README.md) |
 | 036859 | [ESP32: Automation — Reporting for Small Business](Project_036859/README.md) |
 | 036860 | [ESP32: Automation — Usability Improvement for Small Business](Project_036860/README.md) |
+| 036861 | [ESP32: Automation — Baseline Setup for Home Development](Project_036861/README.md) |
+| 036862 | [ESP32: Automation — Automation for Home Development](Project_036862/README.md) |
+| 036863 | [ESP32: Automation — Recovery for Home Development](Project_036863/README.md) |
+| 036864 | [ESP32: Automation — Reporting for Home Development](Project_036864/README.md) |
+| 036865 | [ESP32: Automation — Usability Improvement for Home Development](Project_036865/README.md) |
+| 036866 | [ESP32: Automation — Baseline Setup for Public Dataset](Project_036866/README.md) |
+| 036867 | [ESP32: Automation — Automation for Public Dataset](Project_036867/README.md) |
+| 036868 | [ESP32: Automation — Recovery for Public Dataset](Project_036868/README.md) |
+| 036869 | [ESP32: Automation — Reporting for Public Dataset](Project_036869/README.md) |
+| 036870 | [ESP32: Automation — Usability Improvement for Public Dataset](Project_036870/README.md) |
+| 036871 | [ESP32: Automation — Baseline Setup for Branch Office Simulator](Project_036871/README.md) |
+| 036872 | [ESP32: Automation — Automation for Branch Office Simulator](Project_036872/README.md) |
+| 036873 | [ESP32: Automation — Recovery for Branch Office Simulator](Project_036873/README.md) |
+| 036874 | [ESP32: Automation — Reporting for Branch Office Simulator](Project_036874/README.md) |
+| 036875 | [ESP32: Automation — Usability Improvement for Branch Office Simulator](Project_036875/README.md) |
+| 036876 | [ESP32: Automation — Baseline Setup for Offline Classroom](Project_036876/README.md) |
+| 036877 | [ESP32: Automation — Automation for Offline Classroom](Project_036877/README.md) |
+| 036878 | [ESP32: Automation — Recovery for Offline Classroom](Project_036878/README.md) |
+| 036879 | [ESP32: Automation — Reporting for Offline Classroom](Project_036879/README.md) |
+| 036880 | [ESP32: Automation — Usability Improvement for Offline Classroom](Project_036880/README.md) |
 
 [Back to the portfolio home](../README.md)
