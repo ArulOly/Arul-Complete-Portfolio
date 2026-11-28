@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018678 | [Kubernetes: Configuration Comparison — Recovery for Offline Classroom](Project_018678/README.md) |
 | 018679 | [Kubernetes: Configuration Comparison — Reporting for Offline Classroom](Project_018679/README.md) |
 | 018680 | [Kubernetes: Configuration Comparison — Usability Improvement for Offline Classroom](Project_018680/README.md) |
+| 018681 | [Kubernetes: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_018681/README.md) |
+| 018682 | [Kubernetes: Configuration Comparison — Automation for Single-Host Lab](Project_018682/README.md) |
+| 018683 | [Kubernetes: Configuration Comparison — Recovery for Single-Host Lab](Project_018683/README.md) |
+| 018684 | [Kubernetes: Configuration Comparison — Reporting for Single-Host Lab](Project_018684/README.md) |
+| 018685 | [Kubernetes: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_018685/README.md) |
+| 018686 | [Kubernetes: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_018686/README.md) |
+| 018687 | [Kubernetes: Configuration Comparison — Automation for Two-Node Lab](Project_018687/README.md) |
+| 018688 | [Kubernetes: Configuration Comparison — Recovery for Two-Node Lab](Project_018688/README.md) |
+| 018689 | [Kubernetes: Configuration Comparison — Reporting for Two-Node Lab](Project_018689/README.md) |
+| 018690 | [Kubernetes: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_018690/README.md) |
+| 018691 | [Kubernetes: Configuration Comparison — Baseline Setup for Help Desk](Project_018691/README.md) |
+| 018692 | [Kubernetes: Configuration Comparison — Automation for Help Desk](Project_018692/README.md) |
+| 018693 | [Kubernetes: Configuration Comparison — Recovery for Help Desk](Project_018693/README.md) |
+| 018694 | [Kubernetes: Configuration Comparison — Reporting for Help Desk](Project_018694/README.md) |
+| 018695 | [Kubernetes: Configuration Comparison — Usability Improvement for Help Desk](Project_018695/README.md) |
+| 018696 | [Kubernetes: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_018696/README.md) |
+| 018697 | [Kubernetes: Configuration Comparison — Automation for Portfolio Demo](Project_018697/README.md) |
+| 018698 | [Kubernetes: Configuration Comparison — Recovery for Portfolio Demo](Project_018698/README.md) |
+| 018699 | [Kubernetes: Configuration Comparison — Reporting for Portfolio Demo](Project_018699/README.md) |
+| 018700 | [Kubernetes: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_018700/README.md) |
 
 [Back to the portfolio home](../README.md)
