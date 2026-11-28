@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047638 | [Ansible: Service Check — Recovery for Two-Node Lab](Project_047638/README.md) |
 | 047639 | [Ansible: Service Check — Reporting for Two-Node Lab](Project_047639/README.md) |
 | 047640 | [Ansible: Service Check — Usability Improvement for Two-Node Lab](Project_047640/README.md) |
+| 047641 | [Ansible: Service Check — Baseline Setup for Help Desk](Project_047641/README.md) |
+| 047642 | [Ansible: Service Check — Automation for Help Desk](Project_047642/README.md) |
+| 047643 | [Ansible: Service Check — Recovery for Help Desk](Project_047643/README.md) |
+| 047644 | [Ansible: Service Check — Reporting for Help Desk](Project_047644/README.md) |
+| 047645 | [Ansible: Service Check — Usability Improvement for Help Desk](Project_047645/README.md) |
+| 047646 | [Ansible: Service Check — Baseline Setup for Portfolio Demo](Project_047646/README.md) |
+| 047647 | [Ansible: Service Check — Automation for Portfolio Demo](Project_047647/README.md) |
+| 047648 | [Ansible: Service Check — Recovery for Portfolio Demo](Project_047648/README.md) |
+| 047649 | [Ansible: Service Check — Reporting for Portfolio Demo](Project_047649/README.md) |
+| 047650 | [Ansible: Service Check — Usability Improvement for Portfolio Demo](Project_047650/README.md) |
+| 047651 | [Ansible: Configuration Comparison — Baseline Setup for School Lab](Project_047651/README.md) |
+| 047652 | [Ansible: Configuration Comparison — Automation for School Lab](Project_047652/README.md) |
+| 047653 | [Ansible: Configuration Comparison — Recovery for School Lab](Project_047653/README.md) |
+| 047654 | [Ansible: Configuration Comparison — Reporting for School Lab](Project_047654/README.md) |
+| 047655 | [Ansible: Configuration Comparison — Usability Improvement for School Lab](Project_047655/README.md) |
+| 047656 | [Ansible: Configuration Comparison — Baseline Setup for Small Business](Project_047656/README.md) |
+| 047657 | [Ansible: Configuration Comparison — Automation for Small Business](Project_047657/README.md) |
+| 047658 | [Ansible: Configuration Comparison — Recovery for Small Business](Project_047658/README.md) |
+| 047659 | [Ansible: Configuration Comparison — Reporting for Small Business](Project_047659/README.md) |
+| 047660 | [Ansible: Configuration Comparison — Usability Improvement for Small Business](Project_047660/README.md) |
 
 [Back to the portfolio home](../README.md)
