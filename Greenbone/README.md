@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031018 | [Greenbone: Inventory — Recovery for Public Dataset](Project_031018/README.md) |
 | 031019 | [Greenbone: Inventory — Reporting for Public Dataset](Project_031019/README.md) |
 | 031020 | [Greenbone: Inventory — Usability Improvement for Public Dataset](Project_031020/README.md) |
+| 031021 | [Greenbone: Inventory — Baseline Setup for Branch Office Simulator](Project_031021/README.md) |
+| 031022 | [Greenbone: Inventory — Automation for Branch Office Simulator](Project_031022/README.md) |
+| 031023 | [Greenbone: Inventory — Recovery for Branch Office Simulator](Project_031023/README.md) |
+| 031024 | [Greenbone: Inventory — Reporting for Branch Office Simulator](Project_031024/README.md) |
+| 031025 | [Greenbone: Inventory — Usability Improvement for Branch Office Simulator](Project_031025/README.md) |
+| 031026 | [Greenbone: Inventory — Baseline Setup for Offline Classroom](Project_031026/README.md) |
+| 031027 | [Greenbone: Inventory — Automation for Offline Classroom](Project_031027/README.md) |
+| 031028 | [Greenbone: Inventory — Recovery for Offline Classroom](Project_031028/README.md) |
+| 031029 | [Greenbone: Inventory — Reporting for Offline Classroom](Project_031029/README.md) |
+| 031030 | [Greenbone: Inventory — Usability Improvement for Offline Classroom](Project_031030/README.md) |
+| 031031 | [Greenbone: Inventory — Baseline Setup for Single-Host Lab](Project_031031/README.md) |
+| 031032 | [Greenbone: Inventory — Automation for Single-Host Lab](Project_031032/README.md) |
+| 031033 | [Greenbone: Inventory — Recovery for Single-Host Lab](Project_031033/README.md) |
+| 031034 | [Greenbone: Inventory — Reporting for Single-Host Lab](Project_031034/README.md) |
+| 031035 | [Greenbone: Inventory — Usability Improvement for Single-Host Lab](Project_031035/README.md) |
+| 031036 | [Greenbone: Inventory — Baseline Setup for Two-Node Lab](Project_031036/README.md) |
+| 031037 | [Greenbone: Inventory — Automation for Two-Node Lab](Project_031037/README.md) |
+| 031038 | [Greenbone: Inventory — Recovery for Two-Node Lab](Project_031038/README.md) |
+| 031039 | [Greenbone: Inventory — Reporting for Two-Node Lab](Project_031039/README.md) |
+| 031040 | [Greenbone: Inventory — Usability Improvement for Two-Node Lab](Project_031040/README.md) |
 
 [Back to the portfolio home](../README.md)
