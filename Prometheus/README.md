@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044418 | [Prometheus: Alerting — Recovery for Public Dataset](Project_044418/README.md) |
 | 044419 | [Prometheus: Alerting — Reporting for Public Dataset](Project_044419/README.md) |
 | 044420 | [Prometheus: Alerting — Usability Improvement for Public Dataset](Project_044420/README.md) |
+| 044421 | [Prometheus: Alerting — Baseline Setup for Branch Office Simulator](Project_044421/README.md) |
+| 044422 | [Prometheus: Alerting — Automation for Branch Office Simulator](Project_044422/README.md) |
+| 044423 | [Prometheus: Alerting — Recovery for Branch Office Simulator](Project_044423/README.md) |
+| 044424 | [Prometheus: Alerting — Reporting for Branch Office Simulator](Project_044424/README.md) |
+| 044425 | [Prometheus: Alerting — Usability Improvement for Branch Office Simulator](Project_044425/README.md) |
+| 044426 | [Prometheus: Alerting — Baseline Setup for Offline Classroom](Project_044426/README.md) |
+| 044427 | [Prometheus: Alerting — Automation for Offline Classroom](Project_044427/README.md) |
+| 044428 | [Prometheus: Alerting — Recovery for Offline Classroom](Project_044428/README.md) |
+| 044429 | [Prometheus: Alerting — Reporting for Offline Classroom](Project_044429/README.md) |
+| 044430 | [Prometheus: Alerting — Usability Improvement for Offline Classroom](Project_044430/README.md) |
+| 044431 | [Prometheus: Alerting — Baseline Setup for Single-Host Lab](Project_044431/README.md) |
+| 044432 | [Prometheus: Alerting — Automation for Single-Host Lab](Project_044432/README.md) |
+| 044433 | [Prometheus: Alerting — Recovery for Single-Host Lab](Project_044433/README.md) |
+| 044434 | [Prometheus: Alerting — Reporting for Single-Host Lab](Project_044434/README.md) |
+| 044435 | [Prometheus: Alerting — Usability Improvement for Single-Host Lab](Project_044435/README.md) |
+| 044436 | [Prometheus: Alerting — Baseline Setup for Two-Node Lab](Project_044436/README.md) |
+| 044437 | [Prometheus: Alerting — Automation for Two-Node Lab](Project_044437/README.md) |
+| 044438 | [Prometheus: Alerting — Recovery for Two-Node Lab](Project_044438/README.md) |
+| 044439 | [Prometheus: Alerting — Reporting for Two-Node Lab](Project_044439/README.md) |
+| 044440 | [Prometheus: Alerting — Usability Improvement for Two-Node Lab](Project_044440/README.md) |
 
 [Back to the portfolio home](../README.md)
