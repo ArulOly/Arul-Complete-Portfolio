@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040238 | [PowerShell: Backup Verification — Recovery for Two-Node Lab](Project_040238/README.md) |
 | 040239 | [PowerShell: Backup Verification — Reporting for Two-Node Lab](Project_040239/README.md) |
 | 040240 | [PowerShell: Backup Verification — Usability Improvement for Two-Node Lab](Project_040240/README.md) |
+| 040241 | [PowerShell: Backup Verification — Baseline Setup for Help Desk](Project_040241/README.md) |
+| 040242 | [PowerShell: Backup Verification — Automation for Help Desk](Project_040242/README.md) |
+| 040243 | [PowerShell: Backup Verification — Recovery for Help Desk](Project_040243/README.md) |
+| 040244 | [PowerShell: Backup Verification — Reporting for Help Desk](Project_040244/README.md) |
+| 040245 | [PowerShell: Backup Verification — Usability Improvement for Help Desk](Project_040245/README.md) |
+| 040246 | [PowerShell: Backup Verification — Baseline Setup for Portfolio Demo](Project_040246/README.md) |
+| 040247 | [PowerShell: Backup Verification — Automation for Portfolio Demo](Project_040247/README.md) |
+| 040248 | [PowerShell: Backup Verification — Recovery for Portfolio Demo](Project_040248/README.md) |
+| 040249 | [PowerShell: Backup Verification — Reporting for Portfolio Demo](Project_040249/README.md) |
+| 040250 | [PowerShell: Backup Verification — Usability Improvement for Portfolio Demo](Project_040250/README.md) |
+| 040251 | [PowerShell: Data Import — Baseline Setup for School Lab](Project_040251/README.md) |
+| 040252 | [PowerShell: Data Import — Automation for School Lab](Project_040252/README.md) |
+| 040253 | [PowerShell: Data Import — Recovery for School Lab](Project_040253/README.md) |
+| 040254 | [PowerShell: Data Import — Reporting for School Lab](Project_040254/README.md) |
+| 040255 | [PowerShell: Data Import — Usability Improvement for School Lab](Project_040255/README.md) |
+| 040256 | [PowerShell: Data Import — Baseline Setup for Small Business](Project_040256/README.md) |
+| 040257 | [PowerShell: Data Import — Automation for Small Business](Project_040257/README.md) |
+| 040258 | [PowerShell: Data Import — Recovery for Small Business](Project_040258/README.md) |
+| 040259 | [PowerShell: Data Import — Reporting for Small Business](Project_040259/README.md) |
+| 040260 | [PowerShell: Data Import — Usability Improvement for Small Business](Project_040260/README.md) |
 
 [Back to the portfolio home](../README.md)
