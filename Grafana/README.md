@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043238 | [Grafana: Backup Verification — Recovery for Two-Node Lab](Project_043238/README.md) |
 | 043239 | [Grafana: Backup Verification — Reporting for Two-Node Lab](Project_043239/README.md) |
 | 043240 | [Grafana: Backup Verification — Usability Improvement for Two-Node Lab](Project_043240/README.md) |
+| 043241 | [Grafana: Backup Verification — Baseline Setup for Help Desk](Project_043241/README.md) |
+| 043242 | [Grafana: Backup Verification — Automation for Help Desk](Project_043242/README.md) |
+| 043243 | [Grafana: Backup Verification — Recovery for Help Desk](Project_043243/README.md) |
+| 043244 | [Grafana: Backup Verification — Reporting for Help Desk](Project_043244/README.md) |
+| 043245 | [Grafana: Backup Verification — Usability Improvement for Help Desk](Project_043245/README.md) |
+| 043246 | [Grafana: Backup Verification — Baseline Setup for Portfolio Demo](Project_043246/README.md) |
+| 043247 | [Grafana: Backup Verification — Automation for Portfolio Demo](Project_043247/README.md) |
+| 043248 | [Grafana: Backup Verification — Recovery for Portfolio Demo](Project_043248/README.md) |
+| 043249 | [Grafana: Backup Verification — Reporting for Portfolio Demo](Project_043249/README.md) |
+| 043250 | [Grafana: Backup Verification — Usability Improvement for Portfolio Demo](Project_043250/README.md) |
+| 043251 | [Grafana: Data Import — Baseline Setup for School Lab](Project_043251/README.md) |
+| 043252 | [Grafana: Data Import — Automation for School Lab](Project_043252/README.md) |
+| 043253 | [Grafana: Data Import — Recovery for School Lab](Project_043253/README.md) |
+| 043254 | [Grafana: Data Import — Reporting for School Lab](Project_043254/README.md) |
+| 043255 | [Grafana: Data Import — Usability Improvement for School Lab](Project_043255/README.md) |
+| 043256 | [Grafana: Data Import — Baseline Setup for Small Business](Project_043256/README.md) |
+| 043257 | [Grafana: Data Import — Automation for Small Business](Project_043257/README.md) |
+| 043258 | [Grafana: Data Import — Recovery for Small Business](Project_043258/README.md) |
+| 043259 | [Grafana: Data Import — Reporting for Small Business](Project_043259/README.md) |
+| 043260 | [Grafana: Data Import — Usability Improvement for Small Business](Project_043260/README.md) |
 
 [Back to the portfolio home](../README.md)
