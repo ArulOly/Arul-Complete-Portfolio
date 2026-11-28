@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044938 | [Prometheus: Visual Reporting — Recovery for Two-Node Lab](Project_044938/README.md) |
 | 044939 | [Prometheus: Visual Reporting — Reporting for Two-Node Lab](Project_044939/README.md) |
 | 044940 | [Prometheus: Visual Reporting — Usability Improvement for Two-Node Lab](Project_044940/README.md) |
+| 044941 | [Prometheus: Visual Reporting — Baseline Setup for Help Desk](Project_044941/README.md) |
+| 044942 | [Prometheus: Visual Reporting — Automation for Help Desk](Project_044942/README.md) |
+| 044943 | [Prometheus: Visual Reporting — Recovery for Help Desk](Project_044943/README.md) |
+| 044944 | [Prometheus: Visual Reporting — Reporting for Help Desk](Project_044944/README.md) |
+| 044945 | [Prometheus: Visual Reporting — Usability Improvement for Help Desk](Project_044945/README.md) |
+| 044946 | [Prometheus: Visual Reporting — Baseline Setup for Portfolio Demo](Project_044946/README.md) |
+| 044947 | [Prometheus: Visual Reporting — Automation for Portfolio Demo](Project_044947/README.md) |
+| 044948 | [Prometheus: Visual Reporting — Recovery for Portfolio Demo](Project_044948/README.md) |
+| 044949 | [Prometheus: Visual Reporting — Reporting for Portfolio Demo](Project_044949/README.md) |
+| 044950 | [Prometheus: Visual Reporting — Usability Improvement for Portfolio Demo](Project_044950/README.md) |
+| 044951 | [Prometheus: Recovery Test — Baseline Setup for School Lab](Project_044951/README.md) |
+| 044952 | [Prometheus: Recovery Test — Automation for School Lab](Project_044952/README.md) |
+| 044953 | [Prometheus: Recovery Test — Recovery for School Lab](Project_044953/README.md) |
+| 044954 | [Prometheus: Recovery Test — Reporting for School Lab](Project_044954/README.md) |
+| 044955 | [Prometheus: Recovery Test — Usability Improvement for School Lab](Project_044955/README.md) |
+| 044956 | [Prometheus: Recovery Test — Baseline Setup for Small Business](Project_044956/README.md) |
+| 044957 | [Prometheus: Recovery Test — Automation for Small Business](Project_044957/README.md) |
+| 044958 | [Prometheus: Recovery Test — Recovery for Small Business](Project_044958/README.md) |
+| 044959 | [Prometheus: Recovery Test — Reporting for Small Business](Project_044959/README.md) |
+| 044960 | [Prometheus: Recovery Test — Usability Improvement for Small Business](Project_044960/README.md) |
 
 [Back to the portfolio home](../README.md)
