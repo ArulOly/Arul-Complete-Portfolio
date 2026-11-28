@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018198 | [Kubernetes: Log Analysis — Recovery for Portfolio Demo](Project_018198/README.md) |
 | 018199 | [Kubernetes: Log Analysis — Reporting for Portfolio Demo](Project_018199/README.md) |
 | 018200 | [Kubernetes: Log Analysis — Usability Improvement for Portfolio Demo](Project_018200/README.md) |
+| 018201 | [Kubernetes: Backup Verification — Baseline Setup for School Lab](Project_018201/README.md) |
+| 018202 | [Kubernetes: Backup Verification — Automation for School Lab](Project_018202/README.md) |
+| 018203 | [Kubernetes: Backup Verification — Recovery for School Lab](Project_018203/README.md) |
+| 018204 | [Kubernetes: Backup Verification — Reporting for School Lab](Project_018204/README.md) |
+| 018205 | [Kubernetes: Backup Verification — Usability Improvement for School Lab](Project_018205/README.md) |
+| 018206 | [Kubernetes: Backup Verification — Baseline Setup for Small Business](Project_018206/README.md) |
+| 018207 | [Kubernetes: Backup Verification — Automation for Small Business](Project_018207/README.md) |
+| 018208 | [Kubernetes: Backup Verification — Recovery for Small Business](Project_018208/README.md) |
+| 018209 | [Kubernetes: Backup Verification — Reporting for Small Business](Project_018209/README.md) |
+| 018210 | [Kubernetes: Backup Verification — Usability Improvement for Small Business](Project_018210/README.md) |
+| 018211 | [Kubernetes: Backup Verification — Baseline Setup for Home Development](Project_018211/README.md) |
+| 018212 | [Kubernetes: Backup Verification — Automation for Home Development](Project_018212/README.md) |
+| 018213 | [Kubernetes: Backup Verification — Recovery for Home Development](Project_018213/README.md) |
+| 018214 | [Kubernetes: Backup Verification — Reporting for Home Development](Project_018214/README.md) |
+| 018215 | [Kubernetes: Backup Verification — Usability Improvement for Home Development](Project_018215/README.md) |
+| 018216 | [Kubernetes: Backup Verification — Baseline Setup for Public Dataset](Project_018216/README.md) |
+| 018217 | [Kubernetes: Backup Verification — Automation for Public Dataset](Project_018217/README.md) |
+| 018218 | [Kubernetes: Backup Verification — Recovery for Public Dataset](Project_018218/README.md) |
+| 018219 | [Kubernetes: Backup Verification — Reporting for Public Dataset](Project_018219/README.md) |
+| 018220 | [Kubernetes: Backup Verification — Usability Improvement for Public Dataset](Project_018220/README.md) |
 
 [Back to the portfolio home](../README.md)
