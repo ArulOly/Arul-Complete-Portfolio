@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030058 | [Wazuh: Monitoring — Recovery for Small Business](Project_030058/README.md) |
 | 030059 | [Wazuh: Monitoring — Reporting for Small Business](Project_030059/README.md) |
 | 030060 | [Wazuh: Monitoring — Usability Improvement for Small Business](Project_030060/README.md) |
+| 030061 | [Wazuh: Monitoring — Baseline Setup for Home Development](Project_030061/README.md) |
+| 030062 | [Wazuh: Monitoring — Automation for Home Development](Project_030062/README.md) |
+| 030063 | [Wazuh: Monitoring — Recovery for Home Development](Project_030063/README.md) |
+| 030064 | [Wazuh: Monitoring — Reporting for Home Development](Project_030064/README.md) |
+| 030065 | [Wazuh: Monitoring — Usability Improvement for Home Development](Project_030065/README.md) |
+| 030066 | [Wazuh: Monitoring — Baseline Setup for Public Dataset](Project_030066/README.md) |
+| 030067 | [Wazuh: Monitoring — Automation for Public Dataset](Project_030067/README.md) |
+| 030068 | [Wazuh: Monitoring — Recovery for Public Dataset](Project_030068/README.md) |
+| 030069 | [Wazuh: Monitoring — Reporting for Public Dataset](Project_030069/README.md) |
+| 030070 | [Wazuh: Monitoring — Usability Improvement for Public Dataset](Project_030070/README.md) |
+| 030071 | [Wazuh: Monitoring — Baseline Setup for Branch Office Simulator](Project_030071/README.md) |
+| 030072 | [Wazuh: Monitoring — Automation for Branch Office Simulator](Project_030072/README.md) |
+| 030073 | [Wazuh: Monitoring — Recovery for Branch Office Simulator](Project_030073/README.md) |
+| 030074 | [Wazuh: Monitoring — Reporting for Branch Office Simulator](Project_030074/README.md) |
+| 030075 | [Wazuh: Monitoring — Usability Improvement for Branch Office Simulator](Project_030075/README.md) |
+| 030076 | [Wazuh: Monitoring — Baseline Setup for Offline Classroom](Project_030076/README.md) |
+| 030077 | [Wazuh: Monitoring — Automation for Offline Classroom](Project_030077/README.md) |
+| 030078 | [Wazuh: Monitoring — Recovery for Offline Classroom](Project_030078/README.md) |
+| 030079 | [Wazuh: Monitoring — Reporting for Offline Classroom](Project_030079/README.md) |
+| 030080 | [Wazuh: Monitoring — Usability Improvement for Offline Classroom](Project_030080/README.md) |
 
 [Back to the portfolio home](../README.md)
