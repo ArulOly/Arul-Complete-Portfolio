@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041958 | [Nginx: Recovery Test — Recovery for Small Business](Project_041958/README.md) |
 | 041959 | [Nginx: Recovery Test — Reporting for Small Business](Project_041959/README.md) |
 | 041960 | [Nginx: Recovery Test — Usability Improvement for Small Business](Project_041960/README.md) |
+| 041961 | [Nginx: Recovery Test — Baseline Setup for Home Development](Project_041961/README.md) |
+| 041962 | [Nginx: Recovery Test — Automation for Home Development](Project_041962/README.md) |
+| 041963 | [Nginx: Recovery Test — Recovery for Home Development](Project_041963/README.md) |
+| 041964 | [Nginx: Recovery Test — Reporting for Home Development](Project_041964/README.md) |
+| 041965 | [Nginx: Recovery Test — Usability Improvement for Home Development](Project_041965/README.md) |
+| 041966 | [Nginx: Recovery Test — Baseline Setup for Public Dataset](Project_041966/README.md) |
+| 041967 | [Nginx: Recovery Test — Automation for Public Dataset](Project_041967/README.md) |
+| 041968 | [Nginx: Recovery Test — Recovery for Public Dataset](Project_041968/README.md) |
+| 041969 | [Nginx: Recovery Test — Reporting for Public Dataset](Project_041969/README.md) |
+| 041970 | [Nginx: Recovery Test — Usability Improvement for Public Dataset](Project_041970/README.md) |
+| 041971 | [Nginx: Recovery Test — Baseline Setup for Branch Office Simulator](Project_041971/README.md) |
+| 041972 | [Nginx: Recovery Test — Automation for Branch Office Simulator](Project_041972/README.md) |
+| 041973 | [Nginx: Recovery Test — Recovery for Branch Office Simulator](Project_041973/README.md) |
+| 041974 | [Nginx: Recovery Test — Reporting for Branch Office Simulator](Project_041974/README.md) |
+| 041975 | [Nginx: Recovery Test — Usability Improvement for Branch Office Simulator](Project_041975/README.md) |
+| 041976 | [Nginx: Recovery Test — Baseline Setup for Offline Classroom](Project_041976/README.md) |
+| 041977 | [Nginx: Recovery Test — Automation for Offline Classroom](Project_041977/README.md) |
+| 041978 | [Nginx: Recovery Test — Recovery for Offline Classroom](Project_041978/README.md) |
+| 041979 | [Nginx: Recovery Test — Reporting for Offline Classroom](Project_041979/README.md) |
+| 041980 | [Nginx: Recovery Test — Usability Improvement for Offline Classroom](Project_041980/README.md) |
 
 [Back to the portfolio home](../README.md)
