@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046778 | [Terraform: Data Validation — Recovery for Offline Classroom](Project_046778/README.md) |
 | 046779 | [Terraform: Data Validation — Reporting for Offline Classroom](Project_046779/README.md) |
 | 046780 | [Terraform: Data Validation — Usability Improvement for Offline Classroom](Project_046780/README.md) |
+| 046781 | [Terraform: Data Validation — Baseline Setup for Single-Host Lab](Project_046781/README.md) |
+| 046782 | [Terraform: Data Validation — Automation for Single-Host Lab](Project_046782/README.md) |
+| 046783 | [Terraform: Data Validation — Recovery for Single-Host Lab](Project_046783/README.md) |
+| 046784 | [Terraform: Data Validation — Reporting for Single-Host Lab](Project_046784/README.md) |
+| 046785 | [Terraform: Data Validation — Usability Improvement for Single-Host Lab](Project_046785/README.md) |
+| 046786 | [Terraform: Data Validation — Baseline Setup for Two-Node Lab](Project_046786/README.md) |
+| 046787 | [Terraform: Data Validation — Automation for Two-Node Lab](Project_046787/README.md) |
+| 046788 | [Terraform: Data Validation — Recovery for Two-Node Lab](Project_046788/README.md) |
+| 046789 | [Terraform: Data Validation — Reporting for Two-Node Lab](Project_046789/README.md) |
+| 046790 | [Terraform: Data Validation — Usability Improvement for Two-Node Lab](Project_046790/README.md) |
+| 046791 | [Terraform: Data Validation — Baseline Setup for Help Desk](Project_046791/README.md) |
+| 046792 | [Terraform: Data Validation — Automation for Help Desk](Project_046792/README.md) |
+| 046793 | [Terraform: Data Validation — Recovery for Help Desk](Project_046793/README.md) |
+| 046794 | [Terraform: Data Validation — Reporting for Help Desk](Project_046794/README.md) |
+| 046795 | [Terraform: Data Validation — Usability Improvement for Help Desk](Project_046795/README.md) |
+| 046796 | [Terraform: Data Validation — Baseline Setup for Portfolio Demo](Project_046796/README.md) |
+| 046797 | [Terraform: Data Validation — Automation for Portfolio Demo](Project_046797/README.md) |
+| 046798 | [Terraform: Data Validation — Recovery for Portfolio Demo](Project_046798/README.md) |
+| 046799 | [Terraform: Data Validation — Reporting for Portfolio Demo](Project_046799/README.md) |
+| 046800 | [Terraform: Data Validation — Usability Improvement for Portfolio Demo](Project_046800/README.md) |
 
 [Back to the portfolio home](../README.md)
