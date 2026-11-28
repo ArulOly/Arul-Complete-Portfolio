@@ -203,10 +203,6 @@ Actual tests ran on a Debian 12 container. The platform command returned the obs
 }
 ```
 
-Captured terminal run on Debian 12 container using the synthetic fixture shown above.
-
-![Log analysis with one rejected batch row on Debian](../Evidence/project-003152-automation.png)
-
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.

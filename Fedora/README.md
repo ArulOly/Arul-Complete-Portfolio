@@ -37,18 +37,6 @@ Fedora, rpm, Python, JSON, and local command-line reporting.
 
 Run the embedded Python on Fedora. Save the project code and synthetic input locally and use the command in the README.
 
-## Test screenshots
-
-These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
-
-![Inventory baseline valid and invalid terminal runs on Fedora](Evidence/project-004001-baseline.png)
-
-- [Project 004001 · Inventory baseline](Project_004001/README.md) · [Screenshot](Evidence/project-004001-baseline.png)
-- [Project 004152 · Log analysis with one rejected batch row](Project_004152/README.md) · [Screenshot](Evidence/project-004152-automation.png)
-- [Project 004953 · Recovery Test using the saved fallback](Project_004953/README.md) · [Screenshot](Evidence/project-004953-recovery.png)
-- [Project 004554 · Performance baseline report](Project_004554/README.md) · [Screenshot](Evidence/project-004554-reporting.png)
-- [Project 004905 · Readable visual report](Project_004905/README.md) · [Screenshot](Evidence/project-004905-usability.png)
-
 ## Project index
 
 | Project ID | Project title |

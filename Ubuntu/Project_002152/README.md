@@ -203,10 +203,6 @@ Actual tests ran on a Ubuntu 24.04 container. The platform command returned the 
 }
 ```
 
-Captured terminal run on Ubuntu 24.04 container using the synthetic fixture shown above.
-
-![Log analysis with one rejected batch row on Ubuntu](../Evidence/project-002152-automation.png)
-
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.
