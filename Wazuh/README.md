@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030558 | [Wazuh: Performance Baseline — Recovery for Small Business](Project_030558/README.md) |
 | 030559 | [Wazuh: Performance Baseline — Reporting for Small Business](Project_030559/README.md) |
 | 030560 | [Wazuh: Performance Baseline — Usability Improvement for Small Business](Project_030560/README.md) |
+| 030561 | [Wazuh: Performance Baseline — Baseline Setup for Home Development](Project_030561/README.md) |
+| 030562 | [Wazuh: Performance Baseline — Automation for Home Development](Project_030562/README.md) |
+| 030563 | [Wazuh: Performance Baseline — Recovery for Home Development](Project_030563/README.md) |
+| 030564 | [Wazuh: Performance Baseline — Reporting for Home Development](Project_030564/README.md) |
+| 030565 | [Wazuh: Performance Baseline — Usability Improvement for Home Development](Project_030565/README.md) |
+| 030566 | [Wazuh: Performance Baseline — Baseline Setup for Public Dataset](Project_030566/README.md) |
+| 030567 | [Wazuh: Performance Baseline — Automation for Public Dataset](Project_030567/README.md) |
+| 030568 | [Wazuh: Performance Baseline — Recovery for Public Dataset](Project_030568/README.md) |
+| 030569 | [Wazuh: Performance Baseline — Reporting for Public Dataset](Project_030569/README.md) |
+| 030570 | [Wazuh: Performance Baseline — Usability Improvement for Public Dataset](Project_030570/README.md) |
+| 030571 | [Wazuh: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_030571/README.md) |
+| 030572 | [Wazuh: Performance Baseline — Automation for Branch Office Simulator](Project_030572/README.md) |
+| 030573 | [Wazuh: Performance Baseline — Recovery for Branch Office Simulator](Project_030573/README.md) |
+| 030574 | [Wazuh: Performance Baseline — Reporting for Branch Office Simulator](Project_030574/README.md) |
+| 030575 | [Wazuh: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_030575/README.md) |
+| 030576 | [Wazuh: Performance Baseline — Baseline Setup for Offline Classroom](Project_030576/README.md) |
+| 030577 | [Wazuh: Performance Baseline — Automation for Offline Classroom](Project_030577/README.md) |
+| 030578 | [Wazuh: Performance Baseline — Recovery for Offline Classroom](Project_030578/README.md) |
+| 030579 | [Wazuh: Performance Baseline — Reporting for Offline Classroom](Project_030579/README.md) |
+| 030580 | [Wazuh: Performance Baseline — Usability Improvement for Offline Classroom](Project_030580/README.md) |
 
 [Back to the portfolio home](../README.md)
