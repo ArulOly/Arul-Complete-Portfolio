@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035438 | [Raspberry Pi: Alerting — Recovery for Two-Node Lab](Project_035438/README.md) |
 | 035439 | [Raspberry Pi: Alerting — Reporting for Two-Node Lab](Project_035439/README.md) |
 | 035440 | [Raspberry Pi: Alerting — Usability Improvement for Two-Node Lab](Project_035440/README.md) |
+| 035441 | [Raspberry Pi: Alerting — Baseline Setup for Help Desk](Project_035441/README.md) |
+| 035442 | [Raspberry Pi: Alerting — Automation for Help Desk](Project_035442/README.md) |
+| 035443 | [Raspberry Pi: Alerting — Recovery for Help Desk](Project_035443/README.md) |
+| 035444 | [Raspberry Pi: Alerting — Reporting for Help Desk](Project_035444/README.md) |
+| 035445 | [Raspberry Pi: Alerting — Usability Improvement for Help Desk](Project_035445/README.md) |
+| 035446 | [Raspberry Pi: Alerting — Baseline Setup for Portfolio Demo](Project_035446/README.md) |
+| 035447 | [Raspberry Pi: Alerting — Automation for Portfolio Demo](Project_035447/README.md) |
+| 035448 | [Raspberry Pi: Alerting — Recovery for Portfolio Demo](Project_035448/README.md) |
+| 035449 | [Raspberry Pi: Alerting — Reporting for Portfolio Demo](Project_035449/README.md) |
+| 035450 | [Raspberry Pi: Alerting — Usability Improvement for Portfolio Demo](Project_035450/README.md) |
+| 035451 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for School Lab](Project_035451/README.md) |
+| 035452 | [Raspberry Pi: Scheduled Reporting — Automation for School Lab](Project_035452/README.md) |
+| 035453 | [Raspberry Pi: Scheduled Reporting — Recovery for School Lab](Project_035453/README.md) |
+| 035454 | [Raspberry Pi: Scheduled Reporting — Reporting for School Lab](Project_035454/README.md) |
+| 035455 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for School Lab](Project_035455/README.md) |
+| 035456 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Small Business](Project_035456/README.md) |
+| 035457 | [Raspberry Pi: Scheduled Reporting — Automation for Small Business](Project_035457/README.md) |
+| 035458 | [Raspberry Pi: Scheduled Reporting — Recovery for Small Business](Project_035458/README.md) |
+| 035459 | [Raspberry Pi: Scheduled Reporting — Reporting for Small Business](Project_035459/README.md) |
+| 035460 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Small Business](Project_035460/README.md) |
 
 [Back to the portfolio home](../README.md)
