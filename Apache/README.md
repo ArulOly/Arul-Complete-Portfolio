@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042418 | [Apache: Alerting — Recovery for Public Dataset](Project_042418/README.md) |
 | 042419 | [Apache: Alerting — Reporting for Public Dataset](Project_042419/README.md) |
 | 042420 | [Apache: Alerting — Usability Improvement for Public Dataset](Project_042420/README.md) |
+| 042421 | [Apache: Alerting — Baseline Setup for Branch Office Simulator](Project_042421/README.md) |
+| 042422 | [Apache: Alerting — Automation for Branch Office Simulator](Project_042422/README.md) |
+| 042423 | [Apache: Alerting — Recovery for Branch Office Simulator](Project_042423/README.md) |
+| 042424 | [Apache: Alerting — Reporting for Branch Office Simulator](Project_042424/README.md) |
+| 042425 | [Apache: Alerting — Usability Improvement for Branch Office Simulator](Project_042425/README.md) |
+| 042426 | [Apache: Alerting — Baseline Setup for Offline Classroom](Project_042426/README.md) |
+| 042427 | [Apache: Alerting — Automation for Offline Classroom](Project_042427/README.md) |
+| 042428 | [Apache: Alerting — Recovery for Offline Classroom](Project_042428/README.md) |
+| 042429 | [Apache: Alerting — Reporting for Offline Classroom](Project_042429/README.md) |
+| 042430 | [Apache: Alerting — Usability Improvement for Offline Classroom](Project_042430/README.md) |
+| 042431 | [Apache: Alerting — Baseline Setup for Single-Host Lab](Project_042431/README.md) |
+| 042432 | [Apache: Alerting — Automation for Single-Host Lab](Project_042432/README.md) |
+| 042433 | [Apache: Alerting — Recovery for Single-Host Lab](Project_042433/README.md) |
+| 042434 | [Apache: Alerting — Reporting for Single-Host Lab](Project_042434/README.md) |
+| 042435 | [Apache: Alerting — Usability Improvement for Single-Host Lab](Project_042435/README.md) |
+| 042436 | [Apache: Alerting — Baseline Setup for Two-Node Lab](Project_042436/README.md) |
+| 042437 | [Apache: Alerting — Automation for Two-Node Lab](Project_042437/README.md) |
+| 042438 | [Apache: Alerting — Recovery for Two-Node Lab](Project_042438/README.md) |
+| 042439 | [Apache: Alerting — Reporting for Two-Node Lab](Project_042439/README.md) |
+| 042440 | [Apache: Alerting — Usability Improvement for Two-Node Lab](Project_042440/README.md) |
 
 [Back to the portfolio home](../README.md)
