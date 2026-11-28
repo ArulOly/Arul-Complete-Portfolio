@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017398 | [Docker: Dashboard — Recovery for Portfolio Demo](Project_017398/README.md) |
 | 017399 | [Docker: Dashboard — Reporting for Portfolio Demo](Project_017399/README.md) |
 | 017400 | [Docker: Dashboard — Usability Improvement for Portfolio Demo](Project_017400/README.md) |
+| 017401 | [Docker: Alerting — Baseline Setup for School Lab](Project_017401/README.md) |
+| 017402 | [Docker: Alerting — Automation for School Lab](Project_017402/README.md) |
+| 017403 | [Docker: Alerting — Recovery for School Lab](Project_017403/README.md) |
+| 017404 | [Docker: Alerting — Reporting for School Lab](Project_017404/README.md) |
+| 017405 | [Docker: Alerting — Usability Improvement for School Lab](Project_017405/README.md) |
+| 017406 | [Docker: Alerting — Baseline Setup for Small Business](Project_017406/README.md) |
+| 017407 | [Docker: Alerting — Automation for Small Business](Project_017407/README.md) |
+| 017408 | [Docker: Alerting — Recovery for Small Business](Project_017408/README.md) |
+| 017409 | [Docker: Alerting — Reporting for Small Business](Project_017409/README.md) |
+| 017410 | [Docker: Alerting — Usability Improvement for Small Business](Project_017410/README.md) |
+| 017411 | [Docker: Alerting — Baseline Setup for Home Development](Project_017411/README.md) |
+| 017412 | [Docker: Alerting — Automation for Home Development](Project_017412/README.md) |
+| 017413 | [Docker: Alerting — Recovery for Home Development](Project_017413/README.md) |
+| 017414 | [Docker: Alerting — Reporting for Home Development](Project_017414/README.md) |
+| 017415 | [Docker: Alerting — Usability Improvement for Home Development](Project_017415/README.md) |
+| 017416 | [Docker: Alerting — Baseline Setup for Public Dataset](Project_017416/README.md) |
+| 017417 | [Docker: Alerting — Automation for Public Dataset](Project_017417/README.md) |
+| 017418 | [Docker: Alerting — Recovery for Public Dataset](Project_017418/README.md) |
+| 017419 | [Docker: Alerting — Reporting for Public Dataset](Project_017419/README.md) |
+| 017420 | [Docker: Alerting — Usability Improvement for Public Dataset](Project_017420/README.md) |
 
 [Back to the portfolio home](../README.md)
