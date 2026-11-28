@@ -1,6 +1,6 @@
 # Native examples and category audit
 
-The portfolio contains 23,000 project READMEs across 23 categories. This review checked the main embedded implementation for each project and identified where native tools would make the category clearer.
+This review covered the main embedded implementations in the 23,000 project READMEs and 23 categories available at the time. It identified where native tools would make each category clearer.
 
 ## Tested native starting points
 
