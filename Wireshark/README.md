@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029418 | [Wireshark: Alerting — Recovery for Public Dataset](Project_029418/README.md) |
 | 029419 | [Wireshark: Alerting — Reporting for Public Dataset](Project_029419/README.md) |
 | 029420 | [Wireshark: Alerting — Usability Improvement for Public Dataset](Project_029420/README.md) |
+| 029421 | [Wireshark: Alerting — Baseline Setup for Branch Office Simulator](Project_029421/README.md) |
+| 029422 | [Wireshark: Alerting — Automation for Branch Office Simulator](Project_029422/README.md) |
+| 029423 | [Wireshark: Alerting — Recovery for Branch Office Simulator](Project_029423/README.md) |
+| 029424 | [Wireshark: Alerting — Reporting for Branch Office Simulator](Project_029424/README.md) |
+| 029425 | [Wireshark: Alerting — Usability Improvement for Branch Office Simulator](Project_029425/README.md) |
+| 029426 | [Wireshark: Alerting — Baseline Setup for Offline Classroom](Project_029426/README.md) |
+| 029427 | [Wireshark: Alerting — Automation for Offline Classroom](Project_029427/README.md) |
+| 029428 | [Wireshark: Alerting — Recovery for Offline Classroom](Project_029428/README.md) |
+| 029429 | [Wireshark: Alerting — Reporting for Offline Classroom](Project_029429/README.md) |
+| 029430 | [Wireshark: Alerting — Usability Improvement for Offline Classroom](Project_029430/README.md) |
+| 029431 | [Wireshark: Alerting — Baseline Setup for Single-Host Lab](Project_029431/README.md) |
+| 029432 | [Wireshark: Alerting — Automation for Single-Host Lab](Project_029432/README.md) |
+| 029433 | [Wireshark: Alerting — Recovery for Single-Host Lab](Project_029433/README.md) |
+| 029434 | [Wireshark: Alerting — Reporting for Single-Host Lab](Project_029434/README.md) |
+| 029435 | [Wireshark: Alerting — Usability Improvement for Single-Host Lab](Project_029435/README.md) |
+| 029436 | [Wireshark: Alerting — Baseline Setup for Two-Node Lab](Project_029436/README.md) |
+| 029437 | [Wireshark: Alerting — Automation for Two-Node Lab](Project_029437/README.md) |
+| 029438 | [Wireshark: Alerting — Recovery for Two-Node Lab](Project_029438/README.md) |
+| 029439 | [Wireshark: Alerting — Reporting for Two-Node Lab](Project_029439/README.md) |
+| 029440 | [Wireshark: Alerting — Usability Improvement for Two-Node Lab](Project_029440/README.md) |
 
 [Back to the portfolio home](../README.md)
