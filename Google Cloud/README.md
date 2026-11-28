@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016218 | [Google Cloud: Backup Verification — Recovery for Public Dataset](Project_016218/README.md) |
 | 016219 | [Google Cloud: Backup Verification — Reporting for Public Dataset](Project_016219/README.md) |
 | 016220 | [Google Cloud: Backup Verification — Usability Improvement for Public Dataset](Project_016220/README.md) |
+| 016221 | [Google Cloud: Backup Verification — Baseline Setup for Branch Office Simulator](Project_016221/README.md) |
+| 016222 | [Google Cloud: Backup Verification — Automation for Branch Office Simulator](Project_016222/README.md) |
+| 016223 | [Google Cloud: Backup Verification — Recovery for Branch Office Simulator](Project_016223/README.md) |
+| 016224 | [Google Cloud: Backup Verification — Reporting for Branch Office Simulator](Project_016224/README.md) |
+| 016225 | [Google Cloud: Backup Verification — Usability Improvement for Branch Office Simulator](Project_016225/README.md) |
+| 016226 | [Google Cloud: Backup Verification — Baseline Setup for Offline Classroom](Project_016226/README.md) |
+| 016227 | [Google Cloud: Backup Verification — Automation for Offline Classroom](Project_016227/README.md) |
+| 016228 | [Google Cloud: Backup Verification — Recovery for Offline Classroom](Project_016228/README.md) |
+| 016229 | [Google Cloud: Backup Verification — Reporting for Offline Classroom](Project_016229/README.md) |
+| 016230 | [Google Cloud: Backup Verification — Usability Improvement for Offline Classroom](Project_016230/README.md) |
+| 016231 | [Google Cloud: Backup Verification — Baseline Setup for Single-Host Lab](Project_016231/README.md) |
+| 016232 | [Google Cloud: Backup Verification — Automation for Single-Host Lab](Project_016232/README.md) |
+| 016233 | [Google Cloud: Backup Verification — Recovery for Single-Host Lab](Project_016233/README.md) |
+| 016234 | [Google Cloud: Backup Verification — Reporting for Single-Host Lab](Project_016234/README.md) |
+| 016235 | [Google Cloud: Backup Verification — Usability Improvement for Single-Host Lab](Project_016235/README.md) |
+| 016236 | [Google Cloud: Backup Verification — Baseline Setup for Two-Node Lab](Project_016236/README.md) |
+| 016237 | [Google Cloud: Backup Verification — Automation for Two-Node Lab](Project_016237/README.md) |
+| 016238 | [Google Cloud: Backup Verification — Recovery for Two-Node Lab](Project_016238/README.md) |
+| 016239 | [Google Cloud: Backup Verification — Reporting for Two-Node Lab](Project_016239/README.md) |
+| 016240 | [Google Cloud: Backup Verification — Usability Improvement for Two-Node Lab](Project_016240/README.md) |
 
 [Back to the portfolio home](../README.md)
