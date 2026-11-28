@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046498 | [Terraform: Scheduled Reporting — Recovery for Portfolio Demo](Project_046498/README.md) |
 | 046499 | [Terraform: Scheduled Reporting — Reporting for Portfolio Demo](Project_046499/README.md) |
 | 046500 | [Terraform: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_046500/README.md) |
+| 046501 | [Terraform: Access Review — Baseline Setup for School Lab](Project_046501/README.md) |
+| 046502 | [Terraform: Access Review — Automation for School Lab](Project_046502/README.md) |
+| 046503 | [Terraform: Access Review — Recovery for School Lab](Project_046503/README.md) |
+| 046504 | [Terraform: Access Review — Reporting for School Lab](Project_046504/README.md) |
+| 046505 | [Terraform: Access Review — Usability Improvement for School Lab](Project_046505/README.md) |
+| 046506 | [Terraform: Access Review — Baseline Setup for Small Business](Project_046506/README.md) |
+| 046507 | [Terraform: Access Review — Automation for Small Business](Project_046507/README.md) |
+| 046508 | [Terraform: Access Review — Recovery for Small Business](Project_046508/README.md) |
+| 046509 | [Terraform: Access Review — Reporting for Small Business](Project_046509/README.md) |
+| 046510 | [Terraform: Access Review — Usability Improvement for Small Business](Project_046510/README.md) |
+| 046511 | [Terraform: Access Review — Baseline Setup for Home Development](Project_046511/README.md) |
+| 046512 | [Terraform: Access Review — Automation for Home Development](Project_046512/README.md) |
+| 046513 | [Terraform: Access Review — Recovery for Home Development](Project_046513/README.md) |
+| 046514 | [Terraform: Access Review — Reporting for Home Development](Project_046514/README.md) |
+| 046515 | [Terraform: Access Review — Usability Improvement for Home Development](Project_046515/README.md) |
+| 046516 | [Terraform: Access Review — Baseline Setup for Public Dataset](Project_046516/README.md) |
+| 046517 | [Terraform: Access Review — Automation for Public Dataset](Project_046517/README.md) |
+| 046518 | [Terraform: Access Review — Recovery for Public Dataset](Project_046518/README.md) |
+| 046519 | [Terraform: Access Review — Reporting for Public Dataset](Project_046519/README.md) |
+| 046520 | [Terraform: Access Review — Usability Improvement for Public Dataset](Project_046520/README.md) |
 
 [Back to the portfolio home](../README.md)
