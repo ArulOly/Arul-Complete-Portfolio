@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046038 | [Terraform: Inventory — Recovery for Two-Node Lab](Project_046038/README.md) |
 | 046039 | [Terraform: Inventory — Reporting for Two-Node Lab](Project_046039/README.md) |
 | 046040 | [Terraform: Inventory — Usability Improvement for Two-Node Lab](Project_046040/README.md) |
+| 046041 | [Terraform: Inventory — Baseline Setup for Help Desk](Project_046041/README.md) |
+| 046042 | [Terraform: Inventory — Automation for Help Desk](Project_046042/README.md) |
+| 046043 | [Terraform: Inventory — Recovery for Help Desk](Project_046043/README.md) |
+| 046044 | [Terraform: Inventory — Reporting for Help Desk](Project_046044/README.md) |
+| 046045 | [Terraform: Inventory — Usability Improvement for Help Desk](Project_046045/README.md) |
+| 046046 | [Terraform: Inventory — Baseline Setup for Portfolio Demo](Project_046046/README.md) |
+| 046047 | [Terraform: Inventory — Automation for Portfolio Demo](Project_046047/README.md) |
+| 046048 | [Terraform: Inventory — Recovery for Portfolio Demo](Project_046048/README.md) |
+| 046049 | [Terraform: Inventory — Reporting for Portfolio Demo](Project_046049/README.md) |
+| 046050 | [Terraform: Inventory — Usability Improvement for Portfolio Demo](Project_046050/README.md) |
+| 046051 | [Terraform: Monitoring — Baseline Setup for School Lab](Project_046051/README.md) |
+| 046052 | [Terraform: Monitoring — Automation for School Lab](Project_046052/README.md) |
+| 046053 | [Terraform: Monitoring — Recovery for School Lab](Project_046053/README.md) |
+| 046054 | [Terraform: Monitoring — Reporting for School Lab](Project_046054/README.md) |
+| 046055 | [Terraform: Monitoring — Usability Improvement for School Lab](Project_046055/README.md) |
+| 046056 | [Terraform: Monitoring — Baseline Setup for Small Business](Project_046056/README.md) |
+| 046057 | [Terraform: Monitoring — Automation for Small Business](Project_046057/README.md) |
+| 046058 | [Terraform: Monitoring — Recovery for Small Business](Project_046058/README.md) |
+| 046059 | [Terraform: Monitoring — Reporting for Small Business](Project_046059/README.md) |
+| 046060 | [Terraform: Monitoring — Usability Improvement for Small Business](Project_046060/README.md) |
 
 [Back to the portfolio home](../README.md)
