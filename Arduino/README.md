@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037058 | [Arduino: Monitoring — Recovery for Small Business](Project_037058/README.md) |
 | 037059 | [Arduino: Monitoring — Reporting for Small Business](Project_037059/README.md) |
 | 037060 | [Arduino: Monitoring — Usability Improvement for Small Business](Project_037060/README.md) |
+| 037061 | [Arduino: Monitoring — Baseline Setup for Home Development](Project_037061/README.md) |
+| 037062 | [Arduino: Monitoring — Automation for Home Development](Project_037062/README.md) |
+| 037063 | [Arduino: Monitoring — Recovery for Home Development](Project_037063/README.md) |
+| 037064 | [Arduino: Monitoring — Reporting for Home Development](Project_037064/README.md) |
+| 037065 | [Arduino: Monitoring — Usability Improvement for Home Development](Project_037065/README.md) |
+| 037066 | [Arduino: Monitoring — Baseline Setup for Public Dataset](Project_037066/README.md) |
+| 037067 | [Arduino: Monitoring — Automation for Public Dataset](Project_037067/README.md) |
+| 037068 | [Arduino: Monitoring — Recovery for Public Dataset](Project_037068/README.md) |
+| 037069 | [Arduino: Monitoring — Reporting for Public Dataset](Project_037069/README.md) |
+| 037070 | [Arduino: Monitoring — Usability Improvement for Public Dataset](Project_037070/README.md) |
+| 037071 | [Arduino: Monitoring — Baseline Setup for Branch Office Simulator](Project_037071/README.md) |
+| 037072 | [Arduino: Monitoring — Automation for Branch Office Simulator](Project_037072/README.md) |
+| 037073 | [Arduino: Monitoring — Recovery for Branch Office Simulator](Project_037073/README.md) |
+| 037074 | [Arduino: Monitoring — Reporting for Branch Office Simulator](Project_037074/README.md) |
+| 037075 | [Arduino: Monitoring — Usability Improvement for Branch Office Simulator](Project_037075/README.md) |
+| 037076 | [Arduino: Monitoring — Baseline Setup for Offline Classroom](Project_037076/README.md) |
+| 037077 | [Arduino: Monitoring — Automation for Offline Classroom](Project_037077/README.md) |
+| 037078 | [Arduino: Monitoring — Recovery for Offline Classroom](Project_037078/README.md) |
+| 037079 | [Arduino: Monitoring — Reporting for Offline Classroom](Project_037079/README.md) |
+| 037080 | [Arduino: Monitoring — Usability Improvement for Offline Classroom](Project_037080/README.md) |
 
 [Back to the portfolio home](../README.md)
