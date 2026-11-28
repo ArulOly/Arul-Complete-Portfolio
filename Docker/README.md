@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017478 | [Docker: Scheduled Reporting — Recovery for Offline Classroom](Project_017478/README.md) |
 | 017479 | [Docker: Scheduled Reporting — Reporting for Offline Classroom](Project_017479/README.md) |
 | 017480 | [Docker: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_017480/README.md) |
+| 017481 | [Docker: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_017481/README.md) |
+| 017482 | [Docker: Scheduled Reporting — Automation for Single-Host Lab](Project_017482/README.md) |
+| 017483 | [Docker: Scheduled Reporting — Recovery for Single-Host Lab](Project_017483/README.md) |
+| 017484 | [Docker: Scheduled Reporting — Reporting for Single-Host Lab](Project_017484/README.md) |
+| 017485 | [Docker: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_017485/README.md) |
+| 017486 | [Docker: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_017486/README.md) |
+| 017487 | [Docker: Scheduled Reporting — Automation for Two-Node Lab](Project_017487/README.md) |
+| 017488 | [Docker: Scheduled Reporting — Recovery for Two-Node Lab](Project_017488/README.md) |
+| 017489 | [Docker: Scheduled Reporting — Reporting for Two-Node Lab](Project_017489/README.md) |
+| 017490 | [Docker: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_017490/README.md) |
+| 017491 | [Docker: Scheduled Reporting — Baseline Setup for Help Desk](Project_017491/README.md) |
+| 017492 | [Docker: Scheduled Reporting — Automation for Help Desk](Project_017492/README.md) |
+| 017493 | [Docker: Scheduled Reporting — Recovery for Help Desk](Project_017493/README.md) |
+| 017494 | [Docker: Scheduled Reporting — Reporting for Help Desk](Project_017494/README.md) |
+| 017495 | [Docker: Scheduled Reporting — Usability Improvement for Help Desk](Project_017495/README.md) |
+| 017496 | [Docker: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_017496/README.md) |
+| 017497 | [Docker: Scheduled Reporting — Automation for Portfolio Demo](Project_017497/README.md) |
+| 017498 | [Docker: Scheduled Reporting — Recovery for Portfolio Demo](Project_017498/README.md) |
+| 017499 | [Docker: Scheduled Reporting — Reporting for Portfolio Demo](Project_017499/README.md) |
+| 017500 | [Docker: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_017500/README.md) |
 
 [Back to the portfolio home](../README.md)
