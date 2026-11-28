@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030138 | [Wazuh: Audit — Recovery for Two-Node Lab](Project_030138/README.md) |
 | 030139 | [Wazuh: Audit — Reporting for Two-Node Lab](Project_030139/README.md) |
 | 030140 | [Wazuh: Audit — Usability Improvement for Two-Node Lab](Project_030140/README.md) |
+| 030141 | [Wazuh: Audit — Baseline Setup for Help Desk](Project_030141/README.md) |
+| 030142 | [Wazuh: Audit — Automation for Help Desk](Project_030142/README.md) |
+| 030143 | [Wazuh: Audit — Recovery for Help Desk](Project_030143/README.md) |
+| 030144 | [Wazuh: Audit — Reporting for Help Desk](Project_030144/README.md) |
+| 030145 | [Wazuh: Audit — Usability Improvement for Help Desk](Project_030145/README.md) |
+| 030146 | [Wazuh: Audit — Baseline Setup for Portfolio Demo](Project_030146/README.md) |
+| 030147 | [Wazuh: Audit — Automation for Portfolio Demo](Project_030147/README.md) |
+| 030148 | [Wazuh: Audit — Recovery for Portfolio Demo](Project_030148/README.md) |
+| 030149 | [Wazuh: Audit — Reporting for Portfolio Demo](Project_030149/README.md) |
+| 030150 | [Wazuh: Audit — Usability Improvement for Portfolio Demo](Project_030150/README.md) |
+| 030151 | [Wazuh: Log Analysis — Baseline Setup for School Lab](Project_030151/README.md) |
+| 030152 | [Wazuh: Log Analysis — Automation for School Lab](Project_030152/README.md) |
+| 030153 | [Wazuh: Log Analysis — Recovery for School Lab](Project_030153/README.md) |
+| 030154 | [Wazuh: Log Analysis — Reporting for School Lab](Project_030154/README.md) |
+| 030155 | [Wazuh: Log Analysis — Usability Improvement for School Lab](Project_030155/README.md) |
+| 030156 | [Wazuh: Log Analysis — Baseline Setup for Small Business](Project_030156/README.md) |
+| 030157 | [Wazuh: Log Analysis — Automation for Small Business](Project_030157/README.md) |
+| 030158 | [Wazuh: Log Analysis — Recovery for Small Business](Project_030158/README.md) |
+| 030159 | [Wazuh: Log Analysis — Reporting for Small Business](Project_030159/README.md) |
+| 030160 | [Wazuh: Log Analysis — Usability Improvement for Small Business](Project_030160/README.md) |
 
 [Back to the portfolio home](../README.md)
