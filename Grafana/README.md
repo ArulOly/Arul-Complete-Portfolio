@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043058 | [Grafana: Monitoring — Recovery for Small Business](Project_043058/README.md) |
 | 043059 | [Grafana: Monitoring — Reporting for Small Business](Project_043059/README.md) |
 | 043060 | [Grafana: Monitoring — Usability Improvement for Small Business](Project_043060/README.md) |
+| 043061 | [Grafana: Monitoring — Baseline Setup for Home Development](Project_043061/README.md) |
+| 043062 | [Grafana: Monitoring — Automation for Home Development](Project_043062/README.md) |
+| 043063 | [Grafana: Monitoring — Recovery for Home Development](Project_043063/README.md) |
+| 043064 | [Grafana: Monitoring — Reporting for Home Development](Project_043064/README.md) |
+| 043065 | [Grafana: Monitoring — Usability Improvement for Home Development](Project_043065/README.md) |
+| 043066 | [Grafana: Monitoring — Baseline Setup for Public Dataset](Project_043066/README.md) |
+| 043067 | [Grafana: Monitoring — Automation for Public Dataset](Project_043067/README.md) |
+| 043068 | [Grafana: Monitoring — Recovery for Public Dataset](Project_043068/README.md) |
+| 043069 | [Grafana: Monitoring — Reporting for Public Dataset](Project_043069/README.md) |
+| 043070 | [Grafana: Monitoring — Usability Improvement for Public Dataset](Project_043070/README.md) |
+| 043071 | [Grafana: Monitoring — Baseline Setup for Branch Office Simulator](Project_043071/README.md) |
+| 043072 | [Grafana: Monitoring — Automation for Branch Office Simulator](Project_043072/README.md) |
+| 043073 | [Grafana: Monitoring — Recovery for Branch Office Simulator](Project_043073/README.md) |
+| 043074 | [Grafana: Monitoring — Reporting for Branch Office Simulator](Project_043074/README.md) |
+| 043075 | [Grafana: Monitoring — Usability Improvement for Branch Office Simulator](Project_043075/README.md) |
+| 043076 | [Grafana: Monitoring — Baseline Setup for Offline Classroom](Project_043076/README.md) |
+| 043077 | [Grafana: Monitoring — Automation for Offline Classroom](Project_043077/README.md) |
+| 043078 | [Grafana: Monitoring — Recovery for Offline Classroom](Project_043078/README.md) |
+| 043079 | [Grafana: Monitoring — Reporting for Offline Classroom](Project_043079/README.md) |
+| 043080 | [Grafana: Monitoring — Usability Improvement for Offline Classroom](Project_043080/README.md) |
 
 [Back to the portfolio home](../README.md)
