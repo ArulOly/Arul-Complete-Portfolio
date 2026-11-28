@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046638 | [Terraform: Service Check — Recovery for Two-Node Lab](Project_046638/README.md) |
 | 046639 | [Terraform: Service Check — Reporting for Two-Node Lab](Project_046639/README.md) |
 | 046640 | [Terraform: Service Check — Usability Improvement for Two-Node Lab](Project_046640/README.md) |
+| 046641 | [Terraform: Service Check — Baseline Setup for Help Desk](Project_046641/README.md) |
+| 046642 | [Terraform: Service Check — Automation for Help Desk](Project_046642/README.md) |
+| 046643 | [Terraform: Service Check — Recovery for Help Desk](Project_046643/README.md) |
+| 046644 | [Terraform: Service Check — Reporting for Help Desk](Project_046644/README.md) |
+| 046645 | [Terraform: Service Check — Usability Improvement for Help Desk](Project_046645/README.md) |
+| 046646 | [Terraform: Service Check — Baseline Setup for Portfolio Demo](Project_046646/README.md) |
+| 046647 | [Terraform: Service Check — Automation for Portfolio Demo](Project_046647/README.md) |
+| 046648 | [Terraform: Service Check — Recovery for Portfolio Demo](Project_046648/README.md) |
+| 046649 | [Terraform: Service Check — Reporting for Portfolio Demo](Project_046649/README.md) |
+| 046650 | [Terraform: Service Check — Usability Improvement for Portfolio Demo](Project_046650/README.md) |
+| 046651 | [Terraform: Configuration Comparison — Baseline Setup for School Lab](Project_046651/README.md) |
+| 046652 | [Terraform: Configuration Comparison — Automation for School Lab](Project_046652/README.md) |
+| 046653 | [Terraform: Configuration Comparison — Recovery for School Lab](Project_046653/README.md) |
+| 046654 | [Terraform: Configuration Comparison — Reporting for School Lab](Project_046654/README.md) |
+| 046655 | [Terraform: Configuration Comparison — Usability Improvement for School Lab](Project_046655/README.md) |
+| 046656 | [Terraform: Configuration Comparison — Baseline Setup for Small Business](Project_046656/README.md) |
+| 046657 | [Terraform: Configuration Comparison — Automation for Small Business](Project_046657/README.md) |
+| 046658 | [Terraform: Configuration Comparison — Recovery for Small Business](Project_046658/README.md) |
+| 046659 | [Terraform: Configuration Comparison — Reporting for Small Business](Project_046659/README.md) |
+| 046660 | [Terraform: Configuration Comparison — Usability Improvement for Small Business](Project_046660/README.md) |
 
 [Back to the portfolio home](../README.md)
