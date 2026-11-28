@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029518 | [Wireshark: Access Review — Recovery for Public Dataset](Project_029518/README.md) |
 | 029519 | [Wireshark: Access Review — Reporting for Public Dataset](Project_029519/README.md) |
 | 029520 | [Wireshark: Access Review — Usability Improvement for Public Dataset](Project_029520/README.md) |
+| 029521 | [Wireshark: Access Review — Baseline Setup for Branch Office Simulator](Project_029521/README.md) |
+| 029522 | [Wireshark: Access Review — Automation for Branch Office Simulator](Project_029522/README.md) |
+| 029523 | [Wireshark: Access Review — Recovery for Branch Office Simulator](Project_029523/README.md) |
+| 029524 | [Wireshark: Access Review — Reporting for Branch Office Simulator](Project_029524/README.md) |
+| 029525 | [Wireshark: Access Review — Usability Improvement for Branch Office Simulator](Project_029525/README.md) |
+| 029526 | [Wireshark: Access Review — Baseline Setup for Offline Classroom](Project_029526/README.md) |
+| 029527 | [Wireshark: Access Review — Automation for Offline Classroom](Project_029527/README.md) |
+| 029528 | [Wireshark: Access Review — Recovery for Offline Classroom](Project_029528/README.md) |
+| 029529 | [Wireshark: Access Review — Reporting for Offline Classroom](Project_029529/README.md) |
+| 029530 | [Wireshark: Access Review — Usability Improvement for Offline Classroom](Project_029530/README.md) |
+| 029531 | [Wireshark: Access Review — Baseline Setup for Single-Host Lab](Project_029531/README.md) |
+| 029532 | [Wireshark: Access Review — Automation for Single-Host Lab](Project_029532/README.md) |
+| 029533 | [Wireshark: Access Review — Recovery for Single-Host Lab](Project_029533/README.md) |
+| 029534 | [Wireshark: Access Review — Reporting for Single-Host Lab](Project_029534/README.md) |
+| 029535 | [Wireshark: Access Review — Usability Improvement for Single-Host Lab](Project_029535/README.md) |
+| 029536 | [Wireshark: Access Review — Baseline Setup for Two-Node Lab](Project_029536/README.md) |
+| 029537 | [Wireshark: Access Review — Automation for Two-Node Lab](Project_029537/README.md) |
+| 029538 | [Wireshark: Access Review — Recovery for Two-Node Lab](Project_029538/README.md) |
+| 029539 | [Wireshark: Access Review — Reporting for Two-Node Lab](Project_029539/README.md) |
+| 029540 | [Wireshark: Access Review — Usability Improvement for Two-Node Lab](Project_029540/README.md) |
 
 [Back to the portfolio home](../README.md)
