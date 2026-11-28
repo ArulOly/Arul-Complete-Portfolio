@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018018 | [Kubernetes: Inventory — Recovery for Public Dataset](Project_018018/README.md) |
 | 018019 | [Kubernetes: Inventory — Reporting for Public Dataset](Project_018019/README.md) |
 | 018020 | [Kubernetes: Inventory — Usability Improvement for Public Dataset](Project_018020/README.md) |
+| 018021 | [Kubernetes: Inventory — Baseline Setup for Branch Office Simulator](Project_018021/README.md) |
+| 018022 | [Kubernetes: Inventory — Automation for Branch Office Simulator](Project_018022/README.md) |
+| 018023 | [Kubernetes: Inventory — Recovery for Branch Office Simulator](Project_018023/README.md) |
+| 018024 | [Kubernetes: Inventory — Reporting for Branch Office Simulator](Project_018024/README.md) |
+| 018025 | [Kubernetes: Inventory — Usability Improvement for Branch Office Simulator](Project_018025/README.md) |
+| 018026 | [Kubernetes: Inventory — Baseline Setup for Offline Classroom](Project_018026/README.md) |
+| 018027 | [Kubernetes: Inventory — Automation for Offline Classroom](Project_018027/README.md) |
+| 018028 | [Kubernetes: Inventory — Recovery for Offline Classroom](Project_018028/README.md) |
+| 018029 | [Kubernetes: Inventory — Reporting for Offline Classroom](Project_018029/README.md) |
+| 018030 | [Kubernetes: Inventory — Usability Improvement for Offline Classroom](Project_018030/README.md) |
+| 018031 | [Kubernetes: Inventory — Baseline Setup for Single-Host Lab](Project_018031/README.md) |
+| 018032 | [Kubernetes: Inventory — Automation for Single-Host Lab](Project_018032/README.md) |
+| 018033 | [Kubernetes: Inventory — Recovery for Single-Host Lab](Project_018033/README.md) |
+| 018034 | [Kubernetes: Inventory — Reporting for Single-Host Lab](Project_018034/README.md) |
+| 018035 | [Kubernetes: Inventory — Usability Improvement for Single-Host Lab](Project_018035/README.md) |
+| 018036 | [Kubernetes: Inventory — Baseline Setup for Two-Node Lab](Project_018036/README.md) |
+| 018037 | [Kubernetes: Inventory — Automation for Two-Node Lab](Project_018037/README.md) |
+| 018038 | [Kubernetes: Inventory — Recovery for Two-Node Lab](Project_018038/README.md) |
+| 018039 | [Kubernetes: Inventory — Reporting for Two-Node Lab](Project_018039/README.md) |
+| 018040 | [Kubernetes: Inventory — Usability Improvement for Two-Node Lab](Project_018040/README.md) |
 
 [Back to the portfolio home](../README.md)
