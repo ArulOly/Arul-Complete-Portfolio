@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036298 | [ESP32: Data Import — Recovery for Portfolio Demo](Project_036298/README.md) |
 | 036299 | [ESP32: Data Import — Reporting for Portfolio Demo](Project_036299/README.md) |
 | 036300 | [ESP32: Data Import — Usability Improvement for Portfolio Demo](Project_036300/README.md) |
+| 036301 | [ESP32: Data Export — Baseline Setup for School Lab](Project_036301/README.md) |
+| 036302 | [ESP32: Data Export — Automation for School Lab](Project_036302/README.md) |
+| 036303 | [ESP32: Data Export — Recovery for School Lab](Project_036303/README.md) |
+| 036304 | [ESP32: Data Export — Reporting for School Lab](Project_036304/README.md) |
+| 036305 | [ESP32: Data Export — Usability Improvement for School Lab](Project_036305/README.md) |
+| 036306 | [ESP32: Data Export — Baseline Setup for Small Business](Project_036306/README.md) |
+| 036307 | [ESP32: Data Export — Automation for Small Business](Project_036307/README.md) |
+| 036308 | [ESP32: Data Export — Recovery for Small Business](Project_036308/README.md) |
+| 036309 | [ESP32: Data Export — Reporting for Small Business](Project_036309/README.md) |
+| 036310 | [ESP32: Data Export — Usability Improvement for Small Business](Project_036310/README.md) |
+| 036311 | [ESP32: Data Export — Baseline Setup for Home Development](Project_036311/README.md) |
+| 036312 | [ESP32: Data Export — Automation for Home Development](Project_036312/README.md) |
+| 036313 | [ESP32: Data Export — Recovery for Home Development](Project_036313/README.md) |
+| 036314 | [ESP32: Data Export — Reporting for Home Development](Project_036314/README.md) |
+| 036315 | [ESP32: Data Export — Usability Improvement for Home Development](Project_036315/README.md) |
+| 036316 | [ESP32: Data Export — Baseline Setup for Public Dataset](Project_036316/README.md) |
+| 036317 | [ESP32: Data Export — Automation for Public Dataset](Project_036317/README.md) |
+| 036318 | [ESP32: Data Export — Recovery for Public Dataset](Project_036318/README.md) |
+| 036319 | [ESP32: Data Export — Reporting for Public Dataset](Project_036319/README.md) |
+| 036320 | [ESP32: Data Export — Usability Improvement for Public Dataset](Project_036320/README.md) |
 
 [Back to the portfolio home](../README.md)
