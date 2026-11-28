@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029758 | [Wireshark: Data Validation — Recovery for Small Business](Project_029758/README.md) |
 | 029759 | [Wireshark: Data Validation — Reporting for Small Business](Project_029759/README.md) |
 | 029760 | [Wireshark: Data Validation — Usability Improvement for Small Business](Project_029760/README.md) |
+| 029761 | [Wireshark: Data Validation — Baseline Setup for Home Development](Project_029761/README.md) |
+| 029762 | [Wireshark: Data Validation — Automation for Home Development](Project_029762/README.md) |
+| 029763 | [Wireshark: Data Validation — Recovery for Home Development](Project_029763/README.md) |
+| 029764 | [Wireshark: Data Validation — Reporting for Home Development](Project_029764/README.md) |
+| 029765 | [Wireshark: Data Validation — Usability Improvement for Home Development](Project_029765/README.md) |
+| 029766 | [Wireshark: Data Validation — Baseline Setup for Public Dataset](Project_029766/README.md) |
+| 029767 | [Wireshark: Data Validation — Automation for Public Dataset](Project_029767/README.md) |
+| 029768 | [Wireshark: Data Validation — Recovery for Public Dataset](Project_029768/README.md) |
+| 029769 | [Wireshark: Data Validation — Reporting for Public Dataset](Project_029769/README.md) |
+| 029770 | [Wireshark: Data Validation — Usability Improvement for Public Dataset](Project_029770/README.md) |
+| 029771 | [Wireshark: Data Validation — Baseline Setup for Branch Office Simulator](Project_029771/README.md) |
+| 029772 | [Wireshark: Data Validation — Automation for Branch Office Simulator](Project_029772/README.md) |
+| 029773 | [Wireshark: Data Validation — Recovery for Branch Office Simulator](Project_029773/README.md) |
+| 029774 | [Wireshark: Data Validation — Reporting for Branch Office Simulator](Project_029774/README.md) |
+| 029775 | [Wireshark: Data Validation — Usability Improvement for Branch Office Simulator](Project_029775/README.md) |
+| 029776 | [Wireshark: Data Validation — Baseline Setup for Offline Classroom](Project_029776/README.md) |
+| 029777 | [Wireshark: Data Validation — Automation for Offline Classroom](Project_029777/README.md) |
+| 029778 | [Wireshark: Data Validation — Recovery for Offline Classroom](Project_029778/README.md) |
+| 029779 | [Wireshark: Data Validation — Reporting for Offline Classroom](Project_029779/README.md) |
+| 029780 | [Wireshark: Data Validation — Usability Improvement for Offline Classroom](Project_029780/README.md) |
 
 [Back to the portfolio home](../README.md)
