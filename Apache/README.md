@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042378 | [Apache: Dashboard — Recovery for Offline Classroom](Project_042378/README.md) |
 | 042379 | [Apache: Dashboard — Reporting for Offline Classroom](Project_042379/README.md) |
 | 042380 | [Apache: Dashboard — Usability Improvement for Offline Classroom](Project_042380/README.md) |
+| 042381 | [Apache: Dashboard — Baseline Setup for Single-Host Lab](Project_042381/README.md) |
+| 042382 | [Apache: Dashboard — Automation for Single-Host Lab](Project_042382/README.md) |
+| 042383 | [Apache: Dashboard — Recovery for Single-Host Lab](Project_042383/README.md) |
+| 042384 | [Apache: Dashboard — Reporting for Single-Host Lab](Project_042384/README.md) |
+| 042385 | [Apache: Dashboard — Usability Improvement for Single-Host Lab](Project_042385/README.md) |
+| 042386 | [Apache: Dashboard — Baseline Setup for Two-Node Lab](Project_042386/README.md) |
+| 042387 | [Apache: Dashboard — Automation for Two-Node Lab](Project_042387/README.md) |
+| 042388 | [Apache: Dashboard — Recovery for Two-Node Lab](Project_042388/README.md) |
+| 042389 | [Apache: Dashboard — Reporting for Two-Node Lab](Project_042389/README.md) |
+| 042390 | [Apache: Dashboard — Usability Improvement for Two-Node Lab](Project_042390/README.md) |
+| 042391 | [Apache: Dashboard — Baseline Setup for Help Desk](Project_042391/README.md) |
+| 042392 | [Apache: Dashboard — Automation for Help Desk](Project_042392/README.md) |
+| 042393 | [Apache: Dashboard — Recovery for Help Desk](Project_042393/README.md) |
+| 042394 | [Apache: Dashboard — Reporting for Help Desk](Project_042394/README.md) |
+| 042395 | [Apache: Dashboard — Usability Improvement for Help Desk](Project_042395/README.md) |
+| 042396 | [Apache: Dashboard — Baseline Setup for Portfolio Demo](Project_042396/README.md) |
+| 042397 | [Apache: Dashboard — Automation for Portfolio Demo](Project_042397/README.md) |
+| 042398 | [Apache: Dashboard — Recovery for Portfolio Demo](Project_042398/README.md) |
+| 042399 | [Apache: Dashboard — Reporting for Portfolio Demo](Project_042399/README.md) |
+| 042400 | [Apache: Dashboard — Usability Improvement for Portfolio Demo](Project_042400/README.md) |
 
 [Back to the portfolio home](../README.md)
