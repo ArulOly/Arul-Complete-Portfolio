@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042238 | [Apache: Backup Verification — Recovery for Two-Node Lab](Project_042238/README.md) |
 | 042239 | [Apache: Backup Verification — Reporting for Two-Node Lab](Project_042239/README.md) |
 | 042240 | [Apache: Backup Verification — Usability Improvement for Two-Node Lab](Project_042240/README.md) |
+| 042241 | [Apache: Backup Verification — Baseline Setup for Help Desk](Project_042241/README.md) |
+| 042242 | [Apache: Backup Verification — Automation for Help Desk](Project_042242/README.md) |
+| 042243 | [Apache: Backup Verification — Recovery for Help Desk](Project_042243/README.md) |
+| 042244 | [Apache: Backup Verification — Reporting for Help Desk](Project_042244/README.md) |
+| 042245 | [Apache: Backup Verification — Usability Improvement for Help Desk](Project_042245/README.md) |
+| 042246 | [Apache: Backup Verification — Baseline Setup for Portfolio Demo](Project_042246/README.md) |
+| 042247 | [Apache: Backup Verification — Automation for Portfolio Demo](Project_042247/README.md) |
+| 042248 | [Apache: Backup Verification — Recovery for Portfolio Demo](Project_042248/README.md) |
+| 042249 | [Apache: Backup Verification — Reporting for Portfolio Demo](Project_042249/README.md) |
+| 042250 | [Apache: Backup Verification — Usability Improvement for Portfolio Demo](Project_042250/README.md) |
+| 042251 | [Apache: Data Import — Baseline Setup for School Lab](Project_042251/README.md) |
+| 042252 | [Apache: Data Import — Automation for School Lab](Project_042252/README.md) |
+| 042253 | [Apache: Data Import — Recovery for School Lab](Project_042253/README.md) |
+| 042254 | [Apache: Data Import — Reporting for School Lab](Project_042254/README.md) |
+| 042255 | [Apache: Data Import — Usability Improvement for School Lab](Project_042255/README.md) |
+| 042256 | [Apache: Data Import — Baseline Setup for Small Business](Project_042256/README.md) |
+| 042257 | [Apache: Data Import — Automation for Small Business](Project_042257/README.md) |
+| 042258 | [Apache: Data Import — Recovery for Small Business](Project_042258/README.md) |
+| 042259 | [Apache: Data Import — Reporting for Small Business](Project_042259/README.md) |
+| 042260 | [Apache: Data Import — Usability Improvement for Small Business](Project_042260/README.md) |
 
 [Back to the portfolio home](../README.md)
