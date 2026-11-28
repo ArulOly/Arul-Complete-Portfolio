@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037258 | [Arduino: Data Import — Recovery for Small Business](Project_037258/README.md) |
 | 037259 | [Arduino: Data Import — Reporting for Small Business](Project_037259/README.md) |
 | 037260 | [Arduino: Data Import — Usability Improvement for Small Business](Project_037260/README.md) |
+| 037261 | [Arduino: Data Import — Baseline Setup for Home Development](Project_037261/README.md) |
+| 037262 | [Arduino: Data Import — Automation for Home Development](Project_037262/README.md) |
+| 037263 | [Arduino: Data Import — Recovery for Home Development](Project_037263/README.md) |
+| 037264 | [Arduino: Data Import — Reporting for Home Development](Project_037264/README.md) |
+| 037265 | [Arduino: Data Import — Usability Improvement for Home Development](Project_037265/README.md) |
+| 037266 | [Arduino: Data Import — Baseline Setup for Public Dataset](Project_037266/README.md) |
+| 037267 | [Arduino: Data Import — Automation for Public Dataset](Project_037267/README.md) |
+| 037268 | [Arduino: Data Import — Recovery for Public Dataset](Project_037268/README.md) |
+| 037269 | [Arduino: Data Import — Reporting for Public Dataset](Project_037269/README.md) |
+| 037270 | [Arduino: Data Import — Usability Improvement for Public Dataset](Project_037270/README.md) |
+| 037271 | [Arduino: Data Import — Baseline Setup for Branch Office Simulator](Project_037271/README.md) |
+| 037272 | [Arduino: Data Import — Automation for Branch Office Simulator](Project_037272/README.md) |
+| 037273 | [Arduino: Data Import — Recovery for Branch Office Simulator](Project_037273/README.md) |
+| 037274 | [Arduino: Data Import — Reporting for Branch Office Simulator](Project_037274/README.md) |
+| 037275 | [Arduino: Data Import — Usability Improvement for Branch Office Simulator](Project_037275/README.md) |
+| 037276 | [Arduino: Data Import — Baseline Setup for Offline Classroom](Project_037276/README.md) |
+| 037277 | [Arduino: Data Import — Automation for Offline Classroom](Project_037277/README.md) |
+| 037278 | [Arduino: Data Import — Recovery for Offline Classroom](Project_037278/README.md) |
+| 037279 | [Arduino: Data Import — Reporting for Offline Classroom](Project_037279/README.md) |
+| 037280 | [Arduino: Data Import — Usability Improvement for Offline Classroom](Project_037280/README.md) |
 
 [Back to the portfolio home](../README.md)
