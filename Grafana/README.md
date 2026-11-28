@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043738 | [Grafana: Error Handling — Recovery for Two-Node Lab](Project_043738/README.md) |
 | 043739 | [Grafana: Error Handling — Reporting for Two-Node Lab](Project_043739/README.md) |
 | 043740 | [Grafana: Error Handling — Usability Improvement for Two-Node Lab](Project_043740/README.md) |
+| 043741 | [Grafana: Error Handling — Baseline Setup for Help Desk](Project_043741/README.md) |
+| 043742 | [Grafana: Error Handling — Automation for Help Desk](Project_043742/README.md) |
+| 043743 | [Grafana: Error Handling — Recovery for Help Desk](Project_043743/README.md) |
+| 043744 | [Grafana: Error Handling — Reporting for Help Desk](Project_043744/README.md) |
+| 043745 | [Grafana: Error Handling — Usability Improvement for Help Desk](Project_043745/README.md) |
+| 043746 | [Grafana: Error Handling — Baseline Setup for Portfolio Demo](Project_043746/README.md) |
+| 043747 | [Grafana: Error Handling — Automation for Portfolio Demo](Project_043747/README.md) |
+| 043748 | [Grafana: Error Handling — Recovery for Portfolio Demo](Project_043748/README.md) |
+| 043749 | [Grafana: Error Handling — Reporting for Portfolio Demo](Project_043749/README.md) |
+| 043750 | [Grafana: Error Handling — Usability Improvement for Portfolio Demo](Project_043750/README.md) |
+| 043751 | [Grafana: Data Validation — Baseline Setup for School Lab](Project_043751/README.md) |
+| 043752 | [Grafana: Data Validation — Automation for School Lab](Project_043752/README.md) |
+| 043753 | [Grafana: Data Validation — Recovery for School Lab](Project_043753/README.md) |
+| 043754 | [Grafana: Data Validation — Reporting for School Lab](Project_043754/README.md) |
+| 043755 | [Grafana: Data Validation — Usability Improvement for School Lab](Project_043755/README.md) |
+| 043756 | [Grafana: Data Validation — Baseline Setup for Small Business](Project_043756/README.md) |
+| 043757 | [Grafana: Data Validation — Automation for Small Business](Project_043757/README.md) |
+| 043758 | [Grafana: Data Validation — Recovery for Small Business](Project_043758/README.md) |
+| 043759 | [Grafana: Data Validation — Reporting for Small Business](Project_043759/README.md) |
+| 043760 | [Grafana: Data Validation — Usability Improvement for Small Business](Project_043760/README.md) |
 
 [Back to the portfolio home](../README.md)
