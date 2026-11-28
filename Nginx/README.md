@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041398 | [Nginx: Dashboard — Recovery for Portfolio Demo](Project_041398/README.md) |
 | 041399 | [Nginx: Dashboard — Reporting for Portfolio Demo](Project_041399/README.md) |
 | 041400 | [Nginx: Dashboard — Usability Improvement for Portfolio Demo](Project_041400/README.md) |
+| 041401 | [Nginx: Alerting — Baseline Setup for School Lab](Project_041401/README.md) |
+| 041402 | [Nginx: Alerting — Automation for School Lab](Project_041402/README.md) |
+| 041403 | [Nginx: Alerting — Recovery for School Lab](Project_041403/README.md) |
+| 041404 | [Nginx: Alerting — Reporting for School Lab](Project_041404/README.md) |
+| 041405 | [Nginx: Alerting — Usability Improvement for School Lab](Project_041405/README.md) |
+| 041406 | [Nginx: Alerting — Baseline Setup for Small Business](Project_041406/README.md) |
+| 041407 | [Nginx: Alerting — Automation for Small Business](Project_041407/README.md) |
+| 041408 | [Nginx: Alerting — Recovery for Small Business](Project_041408/README.md) |
+| 041409 | [Nginx: Alerting — Reporting for Small Business](Project_041409/README.md) |
+| 041410 | [Nginx: Alerting — Usability Improvement for Small Business](Project_041410/README.md) |
+| 041411 | [Nginx: Alerting — Baseline Setup for Home Development](Project_041411/README.md) |
+| 041412 | [Nginx: Alerting — Automation for Home Development](Project_041412/README.md) |
+| 041413 | [Nginx: Alerting — Recovery for Home Development](Project_041413/README.md) |
+| 041414 | [Nginx: Alerting — Reporting for Home Development](Project_041414/README.md) |
+| 041415 | [Nginx: Alerting — Usability Improvement for Home Development](Project_041415/README.md) |
+| 041416 | [Nginx: Alerting — Baseline Setup for Public Dataset](Project_041416/README.md) |
+| 041417 | [Nginx: Alerting — Automation for Public Dataset](Project_041417/README.md) |
+| 041418 | [Nginx: Alerting — Recovery for Public Dataset](Project_041418/README.md) |
+| 041419 | [Nginx: Alerting — Reporting for Public Dataset](Project_041419/README.md) |
+| 041420 | [Nginx: Alerting — Usability Improvement for Public Dataset](Project_041420/README.md) |
 
 [Back to the portfolio home](../README.md)
