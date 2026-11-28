@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031038 | [Greenbone: Inventory — Recovery for Two-Node Lab](Project_031038/README.md) |
 | 031039 | [Greenbone: Inventory — Reporting for Two-Node Lab](Project_031039/README.md) |
 | 031040 | [Greenbone: Inventory — Usability Improvement for Two-Node Lab](Project_031040/README.md) |
+| 031041 | [Greenbone: Inventory — Baseline Setup for Help Desk](Project_031041/README.md) |
+| 031042 | [Greenbone: Inventory — Automation for Help Desk](Project_031042/README.md) |
+| 031043 | [Greenbone: Inventory — Recovery for Help Desk](Project_031043/README.md) |
+| 031044 | [Greenbone: Inventory — Reporting for Help Desk](Project_031044/README.md) |
+| 031045 | [Greenbone: Inventory — Usability Improvement for Help Desk](Project_031045/README.md) |
+| 031046 | [Greenbone: Inventory — Baseline Setup for Portfolio Demo](Project_031046/README.md) |
+| 031047 | [Greenbone: Inventory — Automation for Portfolio Demo](Project_031047/README.md) |
+| 031048 | [Greenbone: Inventory — Recovery for Portfolio Demo](Project_031048/README.md) |
+| 031049 | [Greenbone: Inventory — Reporting for Portfolio Demo](Project_031049/README.md) |
+| 031050 | [Greenbone: Inventory — Usability Improvement for Portfolio Demo](Project_031050/README.md) |
+| 031051 | [Greenbone: Monitoring — Baseline Setup for School Lab](Project_031051/README.md) |
+| 031052 | [Greenbone: Monitoring — Automation for School Lab](Project_031052/README.md) |
+| 031053 | [Greenbone: Monitoring — Recovery for School Lab](Project_031053/README.md) |
+| 031054 | [Greenbone: Monitoring — Reporting for School Lab](Project_031054/README.md) |
+| 031055 | [Greenbone: Monitoring — Usability Improvement for School Lab](Project_031055/README.md) |
+| 031056 | [Greenbone: Monitoring — Baseline Setup for Small Business](Project_031056/README.md) |
+| 031057 | [Greenbone: Monitoring — Automation for Small Business](Project_031057/README.md) |
+| 031058 | [Greenbone: Monitoring — Recovery for Small Business](Project_031058/README.md) |
+| 031059 | [Greenbone: Monitoring — Reporting for Small Business](Project_031059/README.md) |
+| 031060 | [Greenbone: Monitoring — Usability Improvement for Small Business](Project_031060/README.md) |
 
 [Back to the portfolio home](../README.md)
