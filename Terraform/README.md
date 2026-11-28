@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046438 | [Terraform: Alerting — Recovery for Two-Node Lab](Project_046438/README.md) |
 | 046439 | [Terraform: Alerting — Reporting for Two-Node Lab](Project_046439/README.md) |
 | 046440 | [Terraform: Alerting — Usability Improvement for Two-Node Lab](Project_046440/README.md) |
+| 046441 | [Terraform: Alerting — Baseline Setup for Help Desk](Project_046441/README.md) |
+| 046442 | [Terraform: Alerting — Automation for Help Desk](Project_046442/README.md) |
+| 046443 | [Terraform: Alerting — Recovery for Help Desk](Project_046443/README.md) |
+| 046444 | [Terraform: Alerting — Reporting for Help Desk](Project_046444/README.md) |
+| 046445 | [Terraform: Alerting — Usability Improvement for Help Desk](Project_046445/README.md) |
+| 046446 | [Terraform: Alerting — Baseline Setup for Portfolio Demo](Project_046446/README.md) |
+| 046447 | [Terraform: Alerting — Automation for Portfolio Demo](Project_046447/README.md) |
+| 046448 | [Terraform: Alerting — Recovery for Portfolio Demo](Project_046448/README.md) |
+| 046449 | [Terraform: Alerting — Reporting for Portfolio Demo](Project_046449/README.md) |
+| 046450 | [Terraform: Alerting — Usability Improvement for Portfolio Demo](Project_046450/README.md) |
+| 046451 | [Terraform: Scheduled Reporting — Baseline Setup for School Lab](Project_046451/README.md) |
+| 046452 | [Terraform: Scheduled Reporting — Automation for School Lab](Project_046452/README.md) |
+| 046453 | [Terraform: Scheduled Reporting — Recovery for School Lab](Project_046453/README.md) |
+| 046454 | [Terraform: Scheduled Reporting — Reporting for School Lab](Project_046454/README.md) |
+| 046455 | [Terraform: Scheduled Reporting — Usability Improvement for School Lab](Project_046455/README.md) |
+| 046456 | [Terraform: Scheduled Reporting — Baseline Setup for Small Business](Project_046456/README.md) |
+| 046457 | [Terraform: Scheduled Reporting — Automation for Small Business](Project_046457/README.md) |
+| 046458 | [Terraform: Scheduled Reporting — Recovery for Small Business](Project_046458/README.md) |
+| 046459 | [Terraform: Scheduled Reporting — Reporting for Small Business](Project_046459/README.md) |
+| 046460 | [Terraform: Scheduled Reporting — Usability Improvement for Small Business](Project_046460/README.md) |
 
 [Back to the portfolio home](../README.md)
