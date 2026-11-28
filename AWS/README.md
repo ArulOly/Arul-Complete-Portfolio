@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014978 | [AWS: Recovery Test — Recovery for Offline Classroom](Project_014978/README.md) |
 | 014979 | [AWS: Recovery Test — Reporting for Offline Classroom](Project_014979/README.md) |
 | 014980 | [AWS: Recovery Test — Usability Improvement for Offline Classroom](Project_014980/README.md) |
+| 014981 | [AWS: Recovery Test — Baseline Setup for Single-Host Lab](Project_014981/README.md) |
+| 014982 | [AWS: Recovery Test — Automation for Single-Host Lab](Project_014982/README.md) |
+| 014983 | [AWS: Recovery Test — Recovery for Single-Host Lab](Project_014983/README.md) |
+| 014984 | [AWS: Recovery Test — Reporting for Single-Host Lab](Project_014984/README.md) |
+| 014985 | [AWS: Recovery Test — Usability Improvement for Single-Host Lab](Project_014985/README.md) |
+| 014986 | [AWS: Recovery Test — Baseline Setup for Two-Node Lab](Project_014986/README.md) |
+| 014987 | [AWS: Recovery Test — Automation for Two-Node Lab](Project_014987/README.md) |
+| 014988 | [AWS: Recovery Test — Recovery for Two-Node Lab](Project_014988/README.md) |
+| 014989 | [AWS: Recovery Test — Reporting for Two-Node Lab](Project_014989/README.md) |
+| 014990 | [AWS: Recovery Test — Usability Improvement for Two-Node Lab](Project_014990/README.md) |
+| 014991 | [AWS: Recovery Test — Baseline Setup for Help Desk](Project_014991/README.md) |
+| 014992 | [AWS: Recovery Test — Automation for Help Desk](Project_014992/README.md) |
+| 014993 | [AWS: Recovery Test — Recovery for Help Desk](Project_014993/README.md) |
+| 014994 | [AWS: Recovery Test — Reporting for Help Desk](Project_014994/README.md) |
+| 014995 | [AWS: Recovery Test — Usability Improvement for Help Desk](Project_014995/README.md) |
+| 014996 | [AWS: Recovery Test — Baseline Setup for Portfolio Demo](Project_014996/README.md) |
+| 014997 | [AWS: Recovery Test — Automation for Portfolio Demo](Project_014997/README.md) |
+| 014998 | [AWS: Recovery Test — Recovery for Portfolio Demo](Project_014998/README.md) |
+| 014999 | [AWS: Recovery Test — Reporting for Portfolio Demo](Project_014999/README.md) |
+| 015000 | [AWS: Recovery Test — Usability Improvement for Portfolio Demo](Project_015000/README.md) |
 
 [Back to the portfolio home](../README.md)
