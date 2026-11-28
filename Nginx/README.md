@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041618 | [Nginx: Service Check — Recovery for Public Dataset](Project_041618/README.md) |
 | 041619 | [Nginx: Service Check — Reporting for Public Dataset](Project_041619/README.md) |
 | 041620 | [Nginx: Service Check — Usability Improvement for Public Dataset](Project_041620/README.md) |
+| 041621 | [Nginx: Service Check — Baseline Setup for Branch Office Simulator](Project_041621/README.md) |
+| 041622 | [Nginx: Service Check — Automation for Branch Office Simulator](Project_041622/README.md) |
+| 041623 | [Nginx: Service Check — Recovery for Branch Office Simulator](Project_041623/README.md) |
+| 041624 | [Nginx: Service Check — Reporting for Branch Office Simulator](Project_041624/README.md) |
+| 041625 | [Nginx: Service Check — Usability Improvement for Branch Office Simulator](Project_041625/README.md) |
+| 041626 | [Nginx: Service Check — Baseline Setup for Offline Classroom](Project_041626/README.md) |
+| 041627 | [Nginx: Service Check — Automation for Offline Classroom](Project_041627/README.md) |
+| 041628 | [Nginx: Service Check — Recovery for Offline Classroom](Project_041628/README.md) |
+| 041629 | [Nginx: Service Check — Reporting for Offline Classroom](Project_041629/README.md) |
+| 041630 | [Nginx: Service Check — Usability Improvement for Offline Classroom](Project_041630/README.md) |
+| 041631 | [Nginx: Service Check — Baseline Setup for Single-Host Lab](Project_041631/README.md) |
+| 041632 | [Nginx: Service Check — Automation for Single-Host Lab](Project_041632/README.md) |
+| 041633 | [Nginx: Service Check — Recovery for Single-Host Lab](Project_041633/README.md) |
+| 041634 | [Nginx: Service Check — Reporting for Single-Host Lab](Project_041634/README.md) |
+| 041635 | [Nginx: Service Check — Usability Improvement for Single-Host Lab](Project_041635/README.md) |
+| 041636 | [Nginx: Service Check — Baseline Setup for Two-Node Lab](Project_041636/README.md) |
+| 041637 | [Nginx: Service Check — Automation for Two-Node Lab](Project_041637/README.md) |
+| 041638 | [Nginx: Service Check — Recovery for Two-Node Lab](Project_041638/README.md) |
+| 041639 | [Nginx: Service Check — Reporting for Two-Node Lab](Project_041639/README.md) |
+| 041640 | [Nginx: Service Check — Usability Improvement for Two-Node Lab](Project_041640/README.md) |
 
 [Back to the portfolio home](../README.md)
