@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015098 | [Azure: Monitoring — Recovery for Portfolio Demo](Project_015098/README.md) |
 | 015099 | [Azure: Monitoring — Reporting for Portfolio Demo](Project_015099/README.md) |
 | 015100 | [Azure: Monitoring — Usability Improvement for Portfolio Demo](Project_015100/README.md) |
+| 015101 | [Azure: Audit — Baseline Setup for School Lab](Project_015101/README.md) |
+| 015102 | [Azure: Audit — Automation for School Lab](Project_015102/README.md) |
+| 015103 | [Azure: Audit — Recovery for School Lab](Project_015103/README.md) |
+| 015104 | [Azure: Audit — Reporting for School Lab](Project_015104/README.md) |
+| 015105 | [Azure: Audit — Usability Improvement for School Lab](Project_015105/README.md) |
+| 015106 | [Azure: Audit — Baseline Setup for Small Business](Project_015106/README.md) |
+| 015107 | [Azure: Audit — Automation for Small Business](Project_015107/README.md) |
+| 015108 | [Azure: Audit — Recovery for Small Business](Project_015108/README.md) |
+| 015109 | [Azure: Audit — Reporting for Small Business](Project_015109/README.md) |
+| 015110 | [Azure: Audit — Usability Improvement for Small Business](Project_015110/README.md) |
+| 015111 | [Azure: Audit — Baseline Setup for Home Development](Project_015111/README.md) |
+| 015112 | [Azure: Audit — Automation for Home Development](Project_015112/README.md) |
+| 015113 | [Azure: Audit — Recovery for Home Development](Project_015113/README.md) |
+| 015114 | [Azure: Audit — Reporting for Home Development](Project_015114/README.md) |
+| 015115 | [Azure: Audit — Usability Improvement for Home Development](Project_015115/README.md) |
+| 015116 | [Azure: Audit — Baseline Setup for Public Dataset](Project_015116/README.md) |
+| 015117 | [Azure: Audit — Automation for Public Dataset](Project_015117/README.md) |
+| 015118 | [Azure: Audit — Recovery for Public Dataset](Project_015118/README.md) |
+| 015119 | [Azure: Audit — Reporting for Public Dataset](Project_015119/README.md) |
+| 015120 | [Azure: Audit — Usability Improvement for Public Dataset](Project_015120/README.md) |
 
 [Back to the portfolio home](../README.md)
