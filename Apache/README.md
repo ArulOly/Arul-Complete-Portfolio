@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042278 | [Apache: Data Import — Recovery for Offline Classroom](Project_042278/README.md) |
 | 042279 | [Apache: Data Import — Reporting for Offline Classroom](Project_042279/README.md) |
 | 042280 | [Apache: Data Import — Usability Improvement for Offline Classroom](Project_042280/README.md) |
+| 042281 | [Apache: Data Import — Baseline Setup for Single-Host Lab](Project_042281/README.md) |
+| 042282 | [Apache: Data Import — Automation for Single-Host Lab](Project_042282/README.md) |
+| 042283 | [Apache: Data Import — Recovery for Single-Host Lab](Project_042283/README.md) |
+| 042284 | [Apache: Data Import — Reporting for Single-Host Lab](Project_042284/README.md) |
+| 042285 | [Apache: Data Import — Usability Improvement for Single-Host Lab](Project_042285/README.md) |
+| 042286 | [Apache: Data Import — Baseline Setup for Two-Node Lab](Project_042286/README.md) |
+| 042287 | [Apache: Data Import — Automation for Two-Node Lab](Project_042287/README.md) |
+| 042288 | [Apache: Data Import — Recovery for Two-Node Lab](Project_042288/README.md) |
+| 042289 | [Apache: Data Import — Reporting for Two-Node Lab](Project_042289/README.md) |
+| 042290 | [Apache: Data Import — Usability Improvement for Two-Node Lab](Project_042290/README.md) |
+| 042291 | [Apache: Data Import — Baseline Setup for Help Desk](Project_042291/README.md) |
+| 042292 | [Apache: Data Import — Automation for Help Desk](Project_042292/README.md) |
+| 042293 | [Apache: Data Import — Recovery for Help Desk](Project_042293/README.md) |
+| 042294 | [Apache: Data Import — Reporting for Help Desk](Project_042294/README.md) |
+| 042295 | [Apache: Data Import — Usability Improvement for Help Desk](Project_042295/README.md) |
+| 042296 | [Apache: Data Import — Baseline Setup for Portfolio Demo](Project_042296/README.md) |
+| 042297 | [Apache: Data Import — Automation for Portfolio Demo](Project_042297/README.md) |
+| 042298 | [Apache: Data Import — Recovery for Portfolio Demo](Project_042298/README.md) |
+| 042299 | [Apache: Data Import — Reporting for Portfolio Demo](Project_042299/README.md) |
+| 042300 | [Apache: Data Import — Usability Improvement for Portfolio Demo](Project_042300/README.md) |
 
 [Back to the portfolio home](../README.md)
