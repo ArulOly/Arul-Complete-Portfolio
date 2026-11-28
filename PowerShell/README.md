@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040498 | [PowerShell: Scheduled Reporting — Recovery for Portfolio Demo](Project_040498/README.md) |
 | 040499 | [PowerShell: Scheduled Reporting — Reporting for Portfolio Demo](Project_040499/README.md) |
 | 040500 | [PowerShell: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_040500/README.md) |
+| 040501 | [PowerShell: Access Review — Baseline Setup for School Lab](Project_040501/README.md) |
+| 040502 | [PowerShell: Access Review — Automation for School Lab](Project_040502/README.md) |
+| 040503 | [PowerShell: Access Review — Recovery for School Lab](Project_040503/README.md) |
+| 040504 | [PowerShell: Access Review — Reporting for School Lab](Project_040504/README.md) |
+| 040505 | [PowerShell: Access Review — Usability Improvement for School Lab](Project_040505/README.md) |
+| 040506 | [PowerShell: Access Review — Baseline Setup for Small Business](Project_040506/README.md) |
+| 040507 | [PowerShell: Access Review — Automation for Small Business](Project_040507/README.md) |
+| 040508 | [PowerShell: Access Review — Recovery for Small Business](Project_040508/README.md) |
+| 040509 | [PowerShell: Access Review — Reporting for Small Business](Project_040509/README.md) |
+| 040510 | [PowerShell: Access Review — Usability Improvement for Small Business](Project_040510/README.md) |
+| 040511 | [PowerShell: Access Review — Baseline Setup for Home Development](Project_040511/README.md) |
+| 040512 | [PowerShell: Access Review — Automation for Home Development](Project_040512/README.md) |
+| 040513 | [PowerShell: Access Review — Recovery for Home Development](Project_040513/README.md) |
+| 040514 | [PowerShell: Access Review — Reporting for Home Development](Project_040514/README.md) |
+| 040515 | [PowerShell: Access Review — Usability Improvement for Home Development](Project_040515/README.md) |
+| 040516 | [PowerShell: Access Review — Baseline Setup for Public Dataset](Project_040516/README.md) |
+| 040517 | [PowerShell: Access Review — Automation for Public Dataset](Project_040517/README.md) |
+| 040518 | [PowerShell: Access Review — Recovery for Public Dataset](Project_040518/README.md) |
+| 040519 | [PowerShell: Access Review — Reporting for Public Dataset](Project_040519/README.md) |
+| 040520 | [PowerShell: Access Review — Usability Improvement for Public Dataset](Project_040520/README.md) |
 
 [Back to the portfolio home](../README.md)
