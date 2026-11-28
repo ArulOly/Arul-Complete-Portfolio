@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042058 | [Apache: Monitoring — Recovery for Small Business](Project_042058/README.md) |
 | 042059 | [Apache: Monitoring — Reporting for Small Business](Project_042059/README.md) |
 | 042060 | [Apache: Monitoring — Usability Improvement for Small Business](Project_042060/README.md) |
+| 042061 | [Apache: Monitoring — Baseline Setup for Home Development](Project_042061/README.md) |
+| 042062 | [Apache: Monitoring — Automation for Home Development](Project_042062/README.md) |
+| 042063 | [Apache: Monitoring — Recovery for Home Development](Project_042063/README.md) |
+| 042064 | [Apache: Monitoring — Reporting for Home Development](Project_042064/README.md) |
+| 042065 | [Apache: Monitoring — Usability Improvement for Home Development](Project_042065/README.md) |
+| 042066 | [Apache: Monitoring — Baseline Setup for Public Dataset](Project_042066/README.md) |
+| 042067 | [Apache: Monitoring — Automation for Public Dataset](Project_042067/README.md) |
+| 042068 | [Apache: Monitoring — Recovery for Public Dataset](Project_042068/README.md) |
+| 042069 | [Apache: Monitoring — Reporting for Public Dataset](Project_042069/README.md) |
+| 042070 | [Apache: Monitoring — Usability Improvement for Public Dataset](Project_042070/README.md) |
+| 042071 | [Apache: Monitoring — Baseline Setup for Branch Office Simulator](Project_042071/README.md) |
+| 042072 | [Apache: Monitoring — Automation for Branch Office Simulator](Project_042072/README.md) |
+| 042073 | [Apache: Monitoring — Recovery for Branch Office Simulator](Project_042073/README.md) |
+| 042074 | [Apache: Monitoring — Reporting for Branch Office Simulator](Project_042074/README.md) |
+| 042075 | [Apache: Monitoring — Usability Improvement for Branch Office Simulator](Project_042075/README.md) |
+| 042076 | [Apache: Monitoring — Baseline Setup for Offline Classroom](Project_042076/README.md) |
+| 042077 | [Apache: Monitoring — Automation for Offline Classroom](Project_042077/README.md) |
+| 042078 | [Apache: Monitoring — Recovery for Offline Classroom](Project_042078/README.md) |
+| 042079 | [Apache: Monitoring — Reporting for Offline Classroom](Project_042079/README.md) |
+| 042080 | [Apache: Monitoring — Usability Improvement for Offline Classroom](Project_042080/README.md) |
 
 [Back to the portfolio home](../README.md)
