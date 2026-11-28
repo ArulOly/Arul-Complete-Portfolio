@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039618 | [Bash: Service Check — Recovery for Public Dataset](Project_039618/README.md) |
 | 039619 | [Bash: Service Check — Reporting for Public Dataset](Project_039619/README.md) |
 | 039620 | [Bash: Service Check — Usability Improvement for Public Dataset](Project_039620/README.md) |
+| 039621 | [Bash: Service Check — Baseline Setup for Branch Office Simulator](Project_039621/README.md) |
+| 039622 | [Bash: Service Check — Automation for Branch Office Simulator](Project_039622/README.md) |
+| 039623 | [Bash: Service Check — Recovery for Branch Office Simulator](Project_039623/README.md) |
+| 039624 | [Bash: Service Check — Reporting for Branch Office Simulator](Project_039624/README.md) |
+| 039625 | [Bash: Service Check — Usability Improvement for Branch Office Simulator](Project_039625/README.md) |
+| 039626 | [Bash: Service Check — Baseline Setup for Offline Classroom](Project_039626/README.md) |
+| 039627 | [Bash: Service Check — Automation for Offline Classroom](Project_039627/README.md) |
+| 039628 | [Bash: Service Check — Recovery for Offline Classroom](Project_039628/README.md) |
+| 039629 | [Bash: Service Check — Reporting for Offline Classroom](Project_039629/README.md) |
+| 039630 | [Bash: Service Check — Usability Improvement for Offline Classroom](Project_039630/README.md) |
+| 039631 | [Bash: Service Check — Baseline Setup for Single-Host Lab](Project_039631/README.md) |
+| 039632 | [Bash: Service Check — Automation for Single-Host Lab](Project_039632/README.md) |
+| 039633 | [Bash: Service Check — Recovery for Single-Host Lab](Project_039633/README.md) |
+| 039634 | [Bash: Service Check — Reporting for Single-Host Lab](Project_039634/README.md) |
+| 039635 | [Bash: Service Check — Usability Improvement for Single-Host Lab](Project_039635/README.md) |
+| 039636 | [Bash: Service Check — Baseline Setup for Two-Node Lab](Project_039636/README.md) |
+| 039637 | [Bash: Service Check — Automation for Two-Node Lab](Project_039637/README.md) |
+| 039638 | [Bash: Service Check — Recovery for Two-Node Lab](Project_039638/README.md) |
+| 039639 | [Bash: Service Check — Reporting for Two-Node Lab](Project_039639/README.md) |
+| 039640 | [Bash: Service Check — Usability Improvement for Two-Node Lab](Project_039640/README.md) |
 
 [Back to the portfolio home](../README.md)
