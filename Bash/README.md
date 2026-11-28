@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039518 | [Bash: Access Review — Recovery for Public Dataset](Project_039518/README.md) |
 | 039519 | [Bash: Access Review — Reporting for Public Dataset](Project_039519/README.md) |
 | 039520 | [Bash: Access Review — Usability Improvement for Public Dataset](Project_039520/README.md) |
+| 039521 | [Bash: Access Review — Baseline Setup for Branch Office Simulator](Project_039521/README.md) |
+| 039522 | [Bash: Access Review — Automation for Branch Office Simulator](Project_039522/README.md) |
+| 039523 | [Bash: Access Review — Recovery for Branch Office Simulator](Project_039523/README.md) |
+| 039524 | [Bash: Access Review — Reporting for Branch Office Simulator](Project_039524/README.md) |
+| 039525 | [Bash: Access Review — Usability Improvement for Branch Office Simulator](Project_039525/README.md) |
+| 039526 | [Bash: Access Review — Baseline Setup for Offline Classroom](Project_039526/README.md) |
+| 039527 | [Bash: Access Review — Automation for Offline Classroom](Project_039527/README.md) |
+| 039528 | [Bash: Access Review — Recovery for Offline Classroom](Project_039528/README.md) |
+| 039529 | [Bash: Access Review — Reporting for Offline Classroom](Project_039529/README.md) |
+| 039530 | [Bash: Access Review — Usability Improvement for Offline Classroom](Project_039530/README.md) |
+| 039531 | [Bash: Access Review — Baseline Setup for Single-Host Lab](Project_039531/README.md) |
+| 039532 | [Bash: Access Review — Automation for Single-Host Lab](Project_039532/README.md) |
+| 039533 | [Bash: Access Review — Recovery for Single-Host Lab](Project_039533/README.md) |
+| 039534 | [Bash: Access Review — Reporting for Single-Host Lab](Project_039534/README.md) |
+| 039535 | [Bash: Access Review — Usability Improvement for Single-Host Lab](Project_039535/README.md) |
+| 039536 | [Bash: Access Review — Baseline Setup for Two-Node Lab](Project_039536/README.md) |
+| 039537 | [Bash: Access Review — Automation for Two-Node Lab](Project_039537/README.md) |
+| 039538 | [Bash: Access Review — Recovery for Two-Node Lab](Project_039538/README.md) |
+| 039539 | [Bash: Access Review — Reporting for Two-Node Lab](Project_039539/README.md) |
+| 039540 | [Bash: Access Review — Usability Improvement for Two-Node Lab](Project_039540/README.md) |
 
 [Back to the portfolio home](../README.md)
