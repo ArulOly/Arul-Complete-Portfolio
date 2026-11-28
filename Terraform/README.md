@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046058 | [Terraform: Monitoring — Recovery for Small Business](Project_046058/README.md) |
 | 046059 | [Terraform: Monitoring — Reporting for Small Business](Project_046059/README.md) |
 | 046060 | [Terraform: Monitoring — Usability Improvement for Small Business](Project_046060/README.md) |
+| 046061 | [Terraform: Monitoring — Baseline Setup for Home Development](Project_046061/README.md) |
+| 046062 | [Terraform: Monitoring — Automation for Home Development](Project_046062/README.md) |
+| 046063 | [Terraform: Monitoring — Recovery for Home Development](Project_046063/README.md) |
+| 046064 | [Terraform: Monitoring — Reporting for Home Development](Project_046064/README.md) |
+| 046065 | [Terraform: Monitoring — Usability Improvement for Home Development](Project_046065/README.md) |
+| 046066 | [Terraform: Monitoring — Baseline Setup for Public Dataset](Project_046066/README.md) |
+| 046067 | [Terraform: Monitoring — Automation for Public Dataset](Project_046067/README.md) |
+| 046068 | [Terraform: Monitoring — Recovery for Public Dataset](Project_046068/README.md) |
+| 046069 | [Terraform: Monitoring — Reporting for Public Dataset](Project_046069/README.md) |
+| 046070 | [Terraform: Monitoring — Usability Improvement for Public Dataset](Project_046070/README.md) |
+| 046071 | [Terraform: Monitoring — Baseline Setup for Branch Office Simulator](Project_046071/README.md) |
+| 046072 | [Terraform: Monitoring — Automation for Branch Office Simulator](Project_046072/README.md) |
+| 046073 | [Terraform: Monitoring — Recovery for Branch Office Simulator](Project_046073/README.md) |
+| 046074 | [Terraform: Monitoring — Reporting for Branch Office Simulator](Project_046074/README.md) |
+| 046075 | [Terraform: Monitoring — Usability Improvement for Branch Office Simulator](Project_046075/README.md) |
+| 046076 | [Terraform: Monitoring — Baseline Setup for Offline Classroom](Project_046076/README.md) |
+| 046077 | [Terraform: Monitoring — Automation for Offline Classroom](Project_046077/README.md) |
+| 046078 | [Terraform: Monitoring — Recovery for Offline Classroom](Project_046078/README.md) |
+| 046079 | [Terraform: Monitoring — Reporting for Offline Classroom](Project_046079/README.md) |
+| 046080 | [Terraform: Monitoring — Usability Improvement for Offline Classroom](Project_046080/README.md) |
 
 [Back to the portfolio home](../README.md)
