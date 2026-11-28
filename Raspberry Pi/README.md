@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035218 | [Raspberry Pi: Backup Verification — Recovery for Public Dataset](Project_035218/README.md) |
 | 035219 | [Raspberry Pi: Backup Verification — Reporting for Public Dataset](Project_035219/README.md) |
 | 035220 | [Raspberry Pi: Backup Verification — Usability Improvement for Public Dataset](Project_035220/README.md) |
+| 035221 | [Raspberry Pi: Backup Verification — Baseline Setup for Branch Office Simulator](Project_035221/README.md) |
+| 035222 | [Raspberry Pi: Backup Verification — Automation for Branch Office Simulator](Project_035222/README.md) |
+| 035223 | [Raspberry Pi: Backup Verification — Recovery for Branch Office Simulator](Project_035223/README.md) |
+| 035224 | [Raspberry Pi: Backup Verification — Reporting for Branch Office Simulator](Project_035224/README.md) |
+| 035225 | [Raspberry Pi: Backup Verification — Usability Improvement for Branch Office Simulator](Project_035225/README.md) |
+| 035226 | [Raspberry Pi: Backup Verification — Baseline Setup for Offline Classroom](Project_035226/README.md) |
+| 035227 | [Raspberry Pi: Backup Verification — Automation for Offline Classroom](Project_035227/README.md) |
+| 035228 | [Raspberry Pi: Backup Verification — Recovery for Offline Classroom](Project_035228/README.md) |
+| 035229 | [Raspberry Pi: Backup Verification — Reporting for Offline Classroom](Project_035229/README.md) |
+| 035230 | [Raspberry Pi: Backup Verification — Usability Improvement for Offline Classroom](Project_035230/README.md) |
+| 035231 | [Raspberry Pi: Backup Verification — Baseline Setup for Single-Host Lab](Project_035231/README.md) |
+| 035232 | [Raspberry Pi: Backup Verification — Automation for Single-Host Lab](Project_035232/README.md) |
+| 035233 | [Raspberry Pi: Backup Verification — Recovery for Single-Host Lab](Project_035233/README.md) |
+| 035234 | [Raspberry Pi: Backup Verification — Reporting for Single-Host Lab](Project_035234/README.md) |
+| 035235 | [Raspberry Pi: Backup Verification — Usability Improvement for Single-Host Lab](Project_035235/README.md) |
+| 035236 | [Raspberry Pi: Backup Verification — Baseline Setup for Two-Node Lab](Project_035236/README.md) |
+| 035237 | [Raspberry Pi: Backup Verification — Automation for Two-Node Lab](Project_035237/README.md) |
+| 035238 | [Raspberry Pi: Backup Verification — Recovery for Two-Node Lab](Project_035238/README.md) |
+| 035239 | [Raspberry Pi: Backup Verification — Reporting for Two-Node Lab](Project_035239/README.md) |
+| 035240 | [Raspberry Pi: Backup Verification — Usability Improvement for Two-Node Lab](Project_035240/README.md) |
 
 [Back to the portfolio home](../README.md)
