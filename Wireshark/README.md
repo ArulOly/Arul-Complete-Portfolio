@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029458 | [Wireshark: Scheduled Reporting — Recovery for Small Business](Project_029458/README.md) |
 | 029459 | [Wireshark: Scheduled Reporting — Reporting for Small Business](Project_029459/README.md) |
 | 029460 | [Wireshark: Scheduled Reporting — Usability Improvement for Small Business](Project_029460/README.md) |
+| 029461 | [Wireshark: Scheduled Reporting — Baseline Setup for Home Development](Project_029461/README.md) |
+| 029462 | [Wireshark: Scheduled Reporting — Automation for Home Development](Project_029462/README.md) |
+| 029463 | [Wireshark: Scheduled Reporting — Recovery for Home Development](Project_029463/README.md) |
+| 029464 | [Wireshark: Scheduled Reporting — Reporting for Home Development](Project_029464/README.md) |
+| 029465 | [Wireshark: Scheduled Reporting — Usability Improvement for Home Development](Project_029465/README.md) |
+| 029466 | [Wireshark: Scheduled Reporting — Baseline Setup for Public Dataset](Project_029466/README.md) |
+| 029467 | [Wireshark: Scheduled Reporting — Automation for Public Dataset](Project_029467/README.md) |
+| 029468 | [Wireshark: Scheduled Reporting — Recovery for Public Dataset](Project_029468/README.md) |
+| 029469 | [Wireshark: Scheduled Reporting — Reporting for Public Dataset](Project_029469/README.md) |
+| 029470 | [Wireshark: Scheduled Reporting — Usability Improvement for Public Dataset](Project_029470/README.md) |
+| 029471 | [Wireshark: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_029471/README.md) |
+| 029472 | [Wireshark: Scheduled Reporting — Automation for Branch Office Simulator](Project_029472/README.md) |
+| 029473 | [Wireshark: Scheduled Reporting — Recovery for Branch Office Simulator](Project_029473/README.md) |
+| 029474 | [Wireshark: Scheduled Reporting — Reporting for Branch Office Simulator](Project_029474/README.md) |
+| 029475 | [Wireshark: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_029475/README.md) |
+| 029476 | [Wireshark: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_029476/README.md) |
+| 029477 | [Wireshark: Scheduled Reporting — Automation for Offline Classroom](Project_029477/README.md) |
+| 029478 | [Wireshark: Scheduled Reporting — Recovery for Offline Classroom](Project_029478/README.md) |
+| 029479 | [Wireshark: Scheduled Reporting — Reporting for Offline Classroom](Project_029479/README.md) |
+| 029480 | [Wireshark: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_029480/README.md) |
 
 [Back to the portfolio home](../README.md)
