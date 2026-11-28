@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040538 | [PowerShell: Access Review — Recovery for Two-Node Lab](Project_040538/README.md) |
 | 040539 | [PowerShell: Access Review — Reporting for Two-Node Lab](Project_040539/README.md) |
 | 040540 | [PowerShell: Access Review — Usability Improvement for Two-Node Lab](Project_040540/README.md) |
+| 040541 | [PowerShell: Access Review — Baseline Setup for Help Desk](Project_040541/README.md) |
+| 040542 | [PowerShell: Access Review — Automation for Help Desk](Project_040542/README.md) |
+| 040543 | [PowerShell: Access Review — Recovery for Help Desk](Project_040543/README.md) |
+| 040544 | [PowerShell: Access Review — Reporting for Help Desk](Project_040544/README.md) |
+| 040545 | [PowerShell: Access Review — Usability Improvement for Help Desk](Project_040545/README.md) |
+| 040546 | [PowerShell: Access Review — Baseline Setup for Portfolio Demo](Project_040546/README.md) |
+| 040547 | [PowerShell: Access Review — Automation for Portfolio Demo](Project_040547/README.md) |
+| 040548 | [PowerShell: Access Review — Recovery for Portfolio Demo](Project_040548/README.md) |
+| 040549 | [PowerShell: Access Review — Reporting for Portfolio Demo](Project_040549/README.md) |
+| 040550 | [PowerShell: Access Review — Usability Improvement for Portfolio Demo](Project_040550/README.md) |
+| 040551 | [PowerShell: Performance Baseline — Baseline Setup for School Lab](Project_040551/README.md) |
+| 040552 | [PowerShell: Performance Baseline — Automation for School Lab](Project_040552/README.md) |
+| 040553 | [PowerShell: Performance Baseline — Recovery for School Lab](Project_040553/README.md) |
+| 040554 | [PowerShell: Performance Baseline — Reporting for School Lab](Project_040554/README.md) |
+| 040555 | [PowerShell: Performance Baseline — Usability Improvement for School Lab](Project_040555/README.md) |
+| 040556 | [PowerShell: Performance Baseline — Baseline Setup for Small Business](Project_040556/README.md) |
+| 040557 | [PowerShell: Performance Baseline — Automation for Small Business](Project_040557/README.md) |
+| 040558 | [PowerShell: Performance Baseline — Recovery for Small Business](Project_040558/README.md) |
+| 040559 | [PowerShell: Performance Baseline — Reporting for Small Business](Project_040559/README.md) |
+| 040560 | [PowerShell: Performance Baseline — Usability Improvement for Small Business](Project_040560/README.md) |
 
 [Back to the portfolio home](../README.md)
