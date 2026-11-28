@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014518 | [AWS: Access Review — Recovery for Public Dataset](Project_014518/README.md) |
 | 014519 | [AWS: Access Review — Reporting for Public Dataset](Project_014519/README.md) |
 | 014520 | [AWS: Access Review — Usability Improvement for Public Dataset](Project_014520/README.md) |
+| 014521 | [AWS: Access Review — Baseline Setup for Branch Office Simulator](Project_014521/README.md) |
+| 014522 | [AWS: Access Review — Automation for Branch Office Simulator](Project_014522/README.md) |
+| 014523 | [AWS: Access Review — Recovery for Branch Office Simulator](Project_014523/README.md) |
+| 014524 | [AWS: Access Review — Reporting for Branch Office Simulator](Project_014524/README.md) |
+| 014525 | [AWS: Access Review — Usability Improvement for Branch Office Simulator](Project_014525/README.md) |
+| 014526 | [AWS: Access Review — Baseline Setup for Offline Classroom](Project_014526/README.md) |
+| 014527 | [AWS: Access Review — Automation for Offline Classroom](Project_014527/README.md) |
+| 014528 | [AWS: Access Review — Recovery for Offline Classroom](Project_014528/README.md) |
+| 014529 | [AWS: Access Review — Reporting for Offline Classroom](Project_014529/README.md) |
+| 014530 | [AWS: Access Review — Usability Improvement for Offline Classroom](Project_014530/README.md) |
+| 014531 | [AWS: Access Review — Baseline Setup for Single-Host Lab](Project_014531/README.md) |
+| 014532 | [AWS: Access Review — Automation for Single-Host Lab](Project_014532/README.md) |
+| 014533 | [AWS: Access Review — Recovery for Single-Host Lab](Project_014533/README.md) |
+| 014534 | [AWS: Access Review — Reporting for Single-Host Lab](Project_014534/README.md) |
+| 014535 | [AWS: Access Review — Usability Improvement for Single-Host Lab](Project_014535/README.md) |
+| 014536 | [AWS: Access Review — Baseline Setup for Two-Node Lab](Project_014536/README.md) |
+| 014537 | [AWS: Access Review — Automation for Two-Node Lab](Project_014537/README.md) |
+| 014538 | [AWS: Access Review — Recovery for Two-Node Lab](Project_014538/README.md) |
+| 014539 | [AWS: Access Review — Reporting for Two-Node Lab](Project_014539/README.md) |
+| 014540 | [AWS: Access Review — Usability Improvement for Two-Node Lab](Project_014540/README.md) |
 
 [Back to the portfolio home](../README.md)
