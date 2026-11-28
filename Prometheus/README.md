@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044658 | [Prometheus: Configuration Comparison — Recovery for Small Business](Project_044658/README.md) |
 | 044659 | [Prometheus: Configuration Comparison — Reporting for Small Business](Project_044659/README.md) |
 | 044660 | [Prometheus: Configuration Comparison — Usability Improvement for Small Business](Project_044660/README.md) |
+| 044661 | [Prometheus: Configuration Comparison — Baseline Setup for Home Development](Project_044661/README.md) |
+| 044662 | [Prometheus: Configuration Comparison — Automation for Home Development](Project_044662/README.md) |
+| 044663 | [Prometheus: Configuration Comparison — Recovery for Home Development](Project_044663/README.md) |
+| 044664 | [Prometheus: Configuration Comparison — Reporting for Home Development](Project_044664/README.md) |
+| 044665 | [Prometheus: Configuration Comparison — Usability Improvement for Home Development](Project_044665/README.md) |
+| 044666 | [Prometheus: Configuration Comparison — Baseline Setup for Public Dataset](Project_044666/README.md) |
+| 044667 | [Prometheus: Configuration Comparison — Automation for Public Dataset](Project_044667/README.md) |
+| 044668 | [Prometheus: Configuration Comparison — Recovery for Public Dataset](Project_044668/README.md) |
+| 044669 | [Prometheus: Configuration Comparison — Reporting for Public Dataset](Project_044669/README.md) |
+| 044670 | [Prometheus: Configuration Comparison — Usability Improvement for Public Dataset](Project_044670/README.md) |
+| 044671 | [Prometheus: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_044671/README.md) |
+| 044672 | [Prometheus: Configuration Comparison — Automation for Branch Office Simulator](Project_044672/README.md) |
+| 044673 | [Prometheus: Configuration Comparison — Recovery for Branch Office Simulator](Project_044673/README.md) |
+| 044674 | [Prometheus: Configuration Comparison — Reporting for Branch Office Simulator](Project_044674/README.md) |
+| 044675 | [Prometheus: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_044675/README.md) |
+| 044676 | [Prometheus: Configuration Comparison — Baseline Setup for Offline Classroom](Project_044676/README.md) |
+| 044677 | [Prometheus: Configuration Comparison — Automation for Offline Classroom](Project_044677/README.md) |
+| 044678 | [Prometheus: Configuration Comparison — Recovery for Offline Classroom](Project_044678/README.md) |
+| 044679 | [Prometheus: Configuration Comparison — Reporting for Offline Classroom](Project_044679/README.md) |
+| 044680 | [Prometheus: Configuration Comparison — Usability Improvement for Offline Classroom](Project_044680/README.md) |
 
 [Back to the portfolio home](../README.md)
