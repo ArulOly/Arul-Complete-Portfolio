@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042518 | [Apache: Access Review — Recovery for Public Dataset](Project_042518/README.md) |
 | 042519 | [Apache: Access Review — Reporting for Public Dataset](Project_042519/README.md) |
 | 042520 | [Apache: Access Review — Usability Improvement for Public Dataset](Project_042520/README.md) |
+| 042521 | [Apache: Access Review — Baseline Setup for Branch Office Simulator](Project_042521/README.md) |
+| 042522 | [Apache: Access Review — Automation for Branch Office Simulator](Project_042522/README.md) |
+| 042523 | [Apache: Access Review — Recovery for Branch Office Simulator](Project_042523/README.md) |
+| 042524 | [Apache: Access Review — Reporting for Branch Office Simulator](Project_042524/README.md) |
+| 042525 | [Apache: Access Review — Usability Improvement for Branch Office Simulator](Project_042525/README.md) |
+| 042526 | [Apache: Access Review — Baseline Setup for Offline Classroom](Project_042526/README.md) |
+| 042527 | [Apache: Access Review — Automation for Offline Classroom](Project_042527/README.md) |
+| 042528 | [Apache: Access Review — Recovery for Offline Classroom](Project_042528/README.md) |
+| 042529 | [Apache: Access Review — Reporting for Offline Classroom](Project_042529/README.md) |
+| 042530 | [Apache: Access Review — Usability Improvement for Offline Classroom](Project_042530/README.md) |
+| 042531 | [Apache: Access Review — Baseline Setup for Single-Host Lab](Project_042531/README.md) |
+| 042532 | [Apache: Access Review — Automation for Single-Host Lab](Project_042532/README.md) |
+| 042533 | [Apache: Access Review — Recovery for Single-Host Lab](Project_042533/README.md) |
+| 042534 | [Apache: Access Review — Reporting for Single-Host Lab](Project_042534/README.md) |
+| 042535 | [Apache: Access Review — Usability Improvement for Single-Host Lab](Project_042535/README.md) |
+| 042536 | [Apache: Access Review — Baseline Setup for Two-Node Lab](Project_042536/README.md) |
+| 042537 | [Apache: Access Review — Automation for Two-Node Lab](Project_042537/README.md) |
+| 042538 | [Apache: Access Review — Recovery for Two-Node Lab](Project_042538/README.md) |
+| 042539 | [Apache: Access Review — Reporting for Two-Node Lab](Project_042539/README.md) |
+| 042540 | [Apache: Access Review — Usability Improvement for Two-Node Lab](Project_042540/README.md) |
 
 [Back to the portfolio home](../README.md)
