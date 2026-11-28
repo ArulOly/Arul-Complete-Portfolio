@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014878 | [AWS: Automation — Recovery for Offline Classroom](Project_014878/README.md) |
 | 014879 | [AWS: Automation — Reporting for Offline Classroom](Project_014879/README.md) |
 | 014880 | [AWS: Automation — Usability Improvement for Offline Classroom](Project_014880/README.md) |
+| 014881 | [AWS: Automation — Baseline Setup for Single-Host Lab](Project_014881/README.md) |
+| 014882 | [AWS: Automation — Automation for Single-Host Lab](Project_014882/README.md) |
+| 014883 | [AWS: Automation — Recovery for Single-Host Lab](Project_014883/README.md) |
+| 014884 | [AWS: Automation — Reporting for Single-Host Lab](Project_014884/README.md) |
+| 014885 | [AWS: Automation — Usability Improvement for Single-Host Lab](Project_014885/README.md) |
+| 014886 | [AWS: Automation — Baseline Setup for Two-Node Lab](Project_014886/README.md) |
+| 014887 | [AWS: Automation — Automation for Two-Node Lab](Project_014887/README.md) |
+| 014888 | [AWS: Automation — Recovery for Two-Node Lab](Project_014888/README.md) |
+| 014889 | [AWS: Automation — Reporting for Two-Node Lab](Project_014889/README.md) |
+| 014890 | [AWS: Automation — Usability Improvement for Two-Node Lab](Project_014890/README.md) |
+| 014891 | [AWS: Automation — Baseline Setup for Help Desk](Project_014891/README.md) |
+| 014892 | [AWS: Automation — Automation for Help Desk](Project_014892/README.md) |
+| 014893 | [AWS: Automation — Recovery for Help Desk](Project_014893/README.md) |
+| 014894 | [AWS: Automation — Reporting for Help Desk](Project_014894/README.md) |
+| 014895 | [AWS: Automation — Usability Improvement for Help Desk](Project_014895/README.md) |
+| 014896 | [AWS: Automation — Baseline Setup for Portfolio Demo](Project_014896/README.md) |
+| 014897 | [AWS: Automation — Automation for Portfolio Demo](Project_014897/README.md) |
+| 014898 | [AWS: Automation — Recovery for Portfolio Demo](Project_014898/README.md) |
+| 014899 | [AWS: Automation — Reporting for Portfolio Demo](Project_014899/README.md) |
+| 014900 | [AWS: Automation — Usability Improvement for Portfolio Demo](Project_014900/README.md) |
 
 [Back to the portfolio home](../README.md)
