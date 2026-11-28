@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046798 | [Terraform: Data Validation — Recovery for Portfolio Demo](Project_046798/README.md) |
 | 046799 | [Terraform: Data Validation — Reporting for Portfolio Demo](Project_046799/README.md) |
 | 046800 | [Terraform: Data Validation — Usability Improvement for Portfolio Demo](Project_046800/README.md) |
+| 046801 | [Terraform: Documentation Generation — Baseline Setup for School Lab](Project_046801/README.md) |
+| 046802 | [Terraform: Documentation Generation — Automation for School Lab](Project_046802/README.md) |
+| 046803 | [Terraform: Documentation Generation — Recovery for School Lab](Project_046803/README.md) |
+| 046804 | [Terraform: Documentation Generation — Reporting for School Lab](Project_046804/README.md) |
+| 046805 | [Terraform: Documentation Generation — Usability Improvement for School Lab](Project_046805/README.md) |
+| 046806 | [Terraform: Documentation Generation — Baseline Setup for Small Business](Project_046806/README.md) |
+| 046807 | [Terraform: Documentation Generation — Automation for Small Business](Project_046807/README.md) |
+| 046808 | [Terraform: Documentation Generation — Recovery for Small Business](Project_046808/README.md) |
+| 046809 | [Terraform: Documentation Generation — Reporting for Small Business](Project_046809/README.md) |
+| 046810 | [Terraform: Documentation Generation — Usability Improvement for Small Business](Project_046810/README.md) |
+| 046811 | [Terraform: Documentation Generation — Baseline Setup for Home Development](Project_046811/README.md) |
+| 046812 | [Terraform: Documentation Generation — Automation for Home Development](Project_046812/README.md) |
+| 046813 | [Terraform: Documentation Generation — Recovery for Home Development](Project_046813/README.md) |
+| 046814 | [Terraform: Documentation Generation — Reporting for Home Development](Project_046814/README.md) |
+| 046815 | [Terraform: Documentation Generation — Usability Improvement for Home Development](Project_046815/README.md) |
+| 046816 | [Terraform: Documentation Generation — Baseline Setup for Public Dataset](Project_046816/README.md) |
+| 046817 | [Terraform: Documentation Generation — Automation for Public Dataset](Project_046817/README.md) |
+| 046818 | [Terraform: Documentation Generation — Recovery for Public Dataset](Project_046818/README.md) |
+| 046819 | [Terraform: Documentation Generation — Reporting for Public Dataset](Project_046819/README.md) |
+| 046820 | [Terraform: Documentation Generation — Usability Improvement for Public Dataset](Project_046820/README.md) |
 
 [Back to the portfolio home](../README.md)
