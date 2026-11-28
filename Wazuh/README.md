@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030838 | [Wazuh: Documentation Generation — Recovery for Two-Node Lab](Project_030838/README.md) |
 | 030839 | [Wazuh: Documentation Generation — Reporting for Two-Node Lab](Project_030839/README.md) |
 | 030840 | [Wazuh: Documentation Generation — Usability Improvement for Two-Node Lab](Project_030840/README.md) |
+| 030841 | [Wazuh: Documentation Generation — Baseline Setup for Help Desk](Project_030841/README.md) |
+| 030842 | [Wazuh: Documentation Generation — Automation for Help Desk](Project_030842/README.md) |
+| 030843 | [Wazuh: Documentation Generation — Recovery for Help Desk](Project_030843/README.md) |
+| 030844 | [Wazuh: Documentation Generation — Reporting for Help Desk](Project_030844/README.md) |
+| 030845 | [Wazuh: Documentation Generation — Usability Improvement for Help Desk](Project_030845/README.md) |
+| 030846 | [Wazuh: Documentation Generation — Baseline Setup for Portfolio Demo](Project_030846/README.md) |
+| 030847 | [Wazuh: Documentation Generation — Automation for Portfolio Demo](Project_030847/README.md) |
+| 030848 | [Wazuh: Documentation Generation — Recovery for Portfolio Demo](Project_030848/README.md) |
+| 030849 | [Wazuh: Documentation Generation — Reporting for Portfolio Demo](Project_030849/README.md) |
+| 030850 | [Wazuh: Documentation Generation — Usability Improvement for Portfolio Demo](Project_030850/README.md) |
+| 030851 | [Wazuh: Automation — Baseline Setup for School Lab](Project_030851/README.md) |
+| 030852 | [Wazuh: Automation — Automation for School Lab](Project_030852/README.md) |
+| 030853 | [Wazuh: Automation — Recovery for School Lab](Project_030853/README.md) |
+| 030854 | [Wazuh: Automation — Reporting for School Lab](Project_030854/README.md) |
+| 030855 | [Wazuh: Automation — Usability Improvement for School Lab](Project_030855/README.md) |
+| 030856 | [Wazuh: Automation — Baseline Setup for Small Business](Project_030856/README.md) |
+| 030857 | [Wazuh: Automation — Automation for Small Business](Project_030857/README.md) |
+| 030858 | [Wazuh: Automation — Recovery for Small Business](Project_030858/README.md) |
+| 030859 | [Wazuh: Automation — Reporting for Small Business](Project_030859/README.md) |
+| 030860 | [Wazuh: Automation — Usability Improvement for Small Business](Project_030860/README.md) |
 
 [Back to the portfolio home](../README.md)
