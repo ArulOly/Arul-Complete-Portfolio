@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043318 | [Grafana: Data Export — Recovery for Public Dataset](Project_043318/README.md) |
 | 043319 | [Grafana: Data Export — Reporting for Public Dataset](Project_043319/README.md) |
 | 043320 | [Grafana: Data Export — Usability Improvement for Public Dataset](Project_043320/README.md) |
+| 043321 | [Grafana: Data Export — Baseline Setup for Branch Office Simulator](Project_043321/README.md) |
+| 043322 | [Grafana: Data Export — Automation for Branch Office Simulator](Project_043322/README.md) |
+| 043323 | [Grafana: Data Export — Recovery for Branch Office Simulator](Project_043323/README.md) |
+| 043324 | [Grafana: Data Export — Reporting for Branch Office Simulator](Project_043324/README.md) |
+| 043325 | [Grafana: Data Export — Usability Improvement for Branch Office Simulator](Project_043325/README.md) |
+| 043326 | [Grafana: Data Export — Baseline Setup for Offline Classroom](Project_043326/README.md) |
+| 043327 | [Grafana: Data Export — Automation for Offline Classroom](Project_043327/README.md) |
+| 043328 | [Grafana: Data Export — Recovery for Offline Classroom](Project_043328/README.md) |
+| 043329 | [Grafana: Data Export — Reporting for Offline Classroom](Project_043329/README.md) |
+| 043330 | [Grafana: Data Export — Usability Improvement for Offline Classroom](Project_043330/README.md) |
+| 043331 | [Grafana: Data Export — Baseline Setup for Single-Host Lab](Project_043331/README.md) |
+| 043332 | [Grafana: Data Export — Automation for Single-Host Lab](Project_043332/README.md) |
+| 043333 | [Grafana: Data Export — Recovery for Single-Host Lab](Project_043333/README.md) |
+| 043334 | [Grafana: Data Export — Reporting for Single-Host Lab](Project_043334/README.md) |
+| 043335 | [Grafana: Data Export — Usability Improvement for Single-Host Lab](Project_043335/README.md) |
+| 043336 | [Grafana: Data Export — Baseline Setup for Two-Node Lab](Project_043336/README.md) |
+| 043337 | [Grafana: Data Export — Automation for Two-Node Lab](Project_043337/README.md) |
+| 043338 | [Grafana: Data Export — Recovery for Two-Node Lab](Project_043338/README.md) |
+| 043339 | [Grafana: Data Export — Reporting for Two-Node Lab](Project_043339/README.md) |
+| 043340 | [Grafana: Data Export — Usability Improvement for Two-Node Lab](Project_043340/README.md) |
 
 [Back to the portfolio home](../README.md)
