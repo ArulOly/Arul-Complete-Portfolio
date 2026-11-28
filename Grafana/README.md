@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043278 | [Grafana: Data Import — Recovery for Offline Classroom](Project_043278/README.md) |
 | 043279 | [Grafana: Data Import — Reporting for Offline Classroom](Project_043279/README.md) |
 | 043280 | [Grafana: Data Import — Usability Improvement for Offline Classroom](Project_043280/README.md) |
+| 043281 | [Grafana: Data Import — Baseline Setup for Single-Host Lab](Project_043281/README.md) |
+| 043282 | [Grafana: Data Import — Automation for Single-Host Lab](Project_043282/README.md) |
+| 043283 | [Grafana: Data Import — Recovery for Single-Host Lab](Project_043283/README.md) |
+| 043284 | [Grafana: Data Import — Reporting for Single-Host Lab](Project_043284/README.md) |
+| 043285 | [Grafana: Data Import — Usability Improvement for Single-Host Lab](Project_043285/README.md) |
+| 043286 | [Grafana: Data Import — Baseline Setup for Two-Node Lab](Project_043286/README.md) |
+| 043287 | [Grafana: Data Import — Automation for Two-Node Lab](Project_043287/README.md) |
+| 043288 | [Grafana: Data Import — Recovery for Two-Node Lab](Project_043288/README.md) |
+| 043289 | [Grafana: Data Import — Reporting for Two-Node Lab](Project_043289/README.md) |
+| 043290 | [Grafana: Data Import — Usability Improvement for Two-Node Lab](Project_043290/README.md) |
+| 043291 | [Grafana: Data Import — Baseline Setup for Help Desk](Project_043291/README.md) |
+| 043292 | [Grafana: Data Import — Automation for Help Desk](Project_043292/README.md) |
+| 043293 | [Grafana: Data Import — Recovery for Help Desk](Project_043293/README.md) |
+| 043294 | [Grafana: Data Import — Reporting for Help Desk](Project_043294/README.md) |
+| 043295 | [Grafana: Data Import — Usability Improvement for Help Desk](Project_043295/README.md) |
+| 043296 | [Grafana: Data Import — Baseline Setup for Portfolio Demo](Project_043296/README.md) |
+| 043297 | [Grafana: Data Import — Automation for Portfolio Demo](Project_043297/README.md) |
+| 043298 | [Grafana: Data Import — Recovery for Portfolio Demo](Project_043298/README.md) |
+| 043299 | [Grafana: Data Import — Reporting for Portfolio Demo](Project_043299/README.md) |
+| 043300 | [Grafana: Data Import — Usability Improvement for Portfolio Demo](Project_043300/README.md) |
 
 [Back to the portfolio home](../README.md)
