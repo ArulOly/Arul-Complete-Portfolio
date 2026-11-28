@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044518 | [Prometheus: Access Review — Recovery for Public Dataset](Project_044518/README.md) |
 | 044519 | [Prometheus: Access Review — Reporting for Public Dataset](Project_044519/README.md) |
 | 044520 | [Prometheus: Access Review — Usability Improvement for Public Dataset](Project_044520/README.md) |
+| 044521 | [Prometheus: Access Review — Baseline Setup for Branch Office Simulator](Project_044521/README.md) |
+| 044522 | [Prometheus: Access Review — Automation for Branch Office Simulator](Project_044522/README.md) |
+| 044523 | [Prometheus: Access Review — Recovery for Branch Office Simulator](Project_044523/README.md) |
+| 044524 | [Prometheus: Access Review — Reporting for Branch Office Simulator](Project_044524/README.md) |
+| 044525 | [Prometheus: Access Review — Usability Improvement for Branch Office Simulator](Project_044525/README.md) |
+| 044526 | [Prometheus: Access Review — Baseline Setup for Offline Classroom](Project_044526/README.md) |
+| 044527 | [Prometheus: Access Review — Automation for Offline Classroom](Project_044527/README.md) |
+| 044528 | [Prometheus: Access Review — Recovery for Offline Classroom](Project_044528/README.md) |
+| 044529 | [Prometheus: Access Review — Reporting for Offline Classroom](Project_044529/README.md) |
+| 044530 | [Prometheus: Access Review — Usability Improvement for Offline Classroom](Project_044530/README.md) |
+| 044531 | [Prometheus: Access Review — Baseline Setup for Single-Host Lab](Project_044531/README.md) |
+| 044532 | [Prometheus: Access Review — Automation for Single-Host Lab](Project_044532/README.md) |
+| 044533 | [Prometheus: Access Review — Recovery for Single-Host Lab](Project_044533/README.md) |
+| 044534 | [Prometheus: Access Review — Reporting for Single-Host Lab](Project_044534/README.md) |
+| 044535 | [Prometheus: Access Review — Usability Improvement for Single-Host Lab](Project_044535/README.md) |
+| 044536 | [Prometheus: Access Review — Baseline Setup for Two-Node Lab](Project_044536/README.md) |
+| 044537 | [Prometheus: Access Review — Automation for Two-Node Lab](Project_044537/README.md) |
+| 044538 | [Prometheus: Access Review — Recovery for Two-Node Lab](Project_044538/README.md) |
+| 044539 | [Prometheus: Access Review — Reporting for Two-Node Lab](Project_044539/README.md) |
+| 044540 | [Prometheus: Access Review — Usability Improvement for Two-Node Lab](Project_044540/README.md) |
 
 [Back to the portfolio home](../README.md)
