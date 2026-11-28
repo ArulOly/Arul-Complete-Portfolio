@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044398 | [Prometheus: Dashboard — Recovery for Portfolio Demo](Project_044398/README.md) |
 | 044399 | [Prometheus: Dashboard — Reporting for Portfolio Demo](Project_044399/README.md) |
 | 044400 | [Prometheus: Dashboard — Usability Improvement for Portfolio Demo](Project_044400/README.md) |
+| 044401 | [Prometheus: Alerting — Baseline Setup for School Lab](Project_044401/README.md) |
+| 044402 | [Prometheus: Alerting — Automation for School Lab](Project_044402/README.md) |
+| 044403 | [Prometheus: Alerting — Recovery for School Lab](Project_044403/README.md) |
+| 044404 | [Prometheus: Alerting — Reporting for School Lab](Project_044404/README.md) |
+| 044405 | [Prometheus: Alerting — Usability Improvement for School Lab](Project_044405/README.md) |
+| 044406 | [Prometheus: Alerting — Baseline Setup for Small Business](Project_044406/README.md) |
+| 044407 | [Prometheus: Alerting — Automation for Small Business](Project_044407/README.md) |
+| 044408 | [Prometheus: Alerting — Recovery for Small Business](Project_044408/README.md) |
+| 044409 | [Prometheus: Alerting — Reporting for Small Business](Project_044409/README.md) |
+| 044410 | [Prometheus: Alerting — Usability Improvement for Small Business](Project_044410/README.md) |
+| 044411 | [Prometheus: Alerting — Baseline Setup for Home Development](Project_044411/README.md) |
+| 044412 | [Prometheus: Alerting — Automation for Home Development](Project_044412/README.md) |
+| 044413 | [Prometheus: Alerting — Recovery for Home Development](Project_044413/README.md) |
+| 044414 | [Prometheus: Alerting — Reporting for Home Development](Project_044414/README.md) |
+| 044415 | [Prometheus: Alerting — Usability Improvement for Home Development](Project_044415/README.md) |
+| 044416 | [Prometheus: Alerting — Baseline Setup for Public Dataset](Project_044416/README.md) |
+| 044417 | [Prometheus: Alerting — Automation for Public Dataset](Project_044417/README.md) |
+| 044418 | [Prometheus: Alerting — Recovery for Public Dataset](Project_044418/README.md) |
+| 044419 | [Prometheus: Alerting — Reporting for Public Dataset](Project_044419/README.md) |
+| 044420 | [Prometheus: Alerting — Usability Improvement for Public Dataset](Project_044420/README.md) |
 
 [Back to the portfolio home](../README.md)
