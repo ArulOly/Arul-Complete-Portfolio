@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041358 | [Nginx: Dashboard — Recovery for Small Business](Project_041358/README.md) |
 | 041359 | [Nginx: Dashboard — Reporting for Small Business](Project_041359/README.md) |
 | 041360 | [Nginx: Dashboard — Usability Improvement for Small Business](Project_041360/README.md) |
+| 041361 | [Nginx: Dashboard — Baseline Setup for Home Development](Project_041361/README.md) |
+| 041362 | [Nginx: Dashboard — Automation for Home Development](Project_041362/README.md) |
+| 041363 | [Nginx: Dashboard — Recovery for Home Development](Project_041363/README.md) |
+| 041364 | [Nginx: Dashboard — Reporting for Home Development](Project_041364/README.md) |
+| 041365 | [Nginx: Dashboard — Usability Improvement for Home Development](Project_041365/README.md) |
+| 041366 | [Nginx: Dashboard — Baseline Setup for Public Dataset](Project_041366/README.md) |
+| 041367 | [Nginx: Dashboard — Automation for Public Dataset](Project_041367/README.md) |
+| 041368 | [Nginx: Dashboard — Recovery for Public Dataset](Project_041368/README.md) |
+| 041369 | [Nginx: Dashboard — Reporting for Public Dataset](Project_041369/README.md) |
+| 041370 | [Nginx: Dashboard — Usability Improvement for Public Dataset](Project_041370/README.md) |
+| 041371 | [Nginx: Dashboard — Baseline Setup for Branch Office Simulator](Project_041371/README.md) |
+| 041372 | [Nginx: Dashboard — Automation for Branch Office Simulator](Project_041372/README.md) |
+| 041373 | [Nginx: Dashboard — Recovery for Branch Office Simulator](Project_041373/README.md) |
+| 041374 | [Nginx: Dashboard — Reporting for Branch Office Simulator](Project_041374/README.md) |
+| 041375 | [Nginx: Dashboard — Usability Improvement for Branch Office Simulator](Project_041375/README.md) |
+| 041376 | [Nginx: Dashboard — Baseline Setup for Offline Classroom](Project_041376/README.md) |
+| 041377 | [Nginx: Dashboard — Automation for Offline Classroom](Project_041377/README.md) |
+| 041378 | [Nginx: Dashboard — Recovery for Offline Classroom](Project_041378/README.md) |
+| 041379 | [Nginx: Dashboard — Reporting for Offline Classroom](Project_041379/README.md) |
+| 041380 | [Nginx: Dashboard — Usability Improvement for Offline Classroom](Project_041380/README.md) |
 
 [Back to the portfolio home](../README.md)
