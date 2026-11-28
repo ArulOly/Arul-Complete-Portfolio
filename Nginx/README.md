@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041658 | [Nginx: Configuration Comparison — Recovery for Small Business](Project_041658/README.md) |
 | 041659 | [Nginx: Configuration Comparison — Reporting for Small Business](Project_041659/README.md) |
 | 041660 | [Nginx: Configuration Comparison — Usability Improvement for Small Business](Project_041660/README.md) |
+| 041661 | [Nginx: Configuration Comparison — Baseline Setup for Home Development](Project_041661/README.md) |
+| 041662 | [Nginx: Configuration Comparison — Automation for Home Development](Project_041662/README.md) |
+| 041663 | [Nginx: Configuration Comparison — Recovery for Home Development](Project_041663/README.md) |
+| 041664 | [Nginx: Configuration Comparison — Reporting for Home Development](Project_041664/README.md) |
+| 041665 | [Nginx: Configuration Comparison — Usability Improvement for Home Development](Project_041665/README.md) |
+| 041666 | [Nginx: Configuration Comparison — Baseline Setup for Public Dataset](Project_041666/README.md) |
+| 041667 | [Nginx: Configuration Comparison — Automation for Public Dataset](Project_041667/README.md) |
+| 041668 | [Nginx: Configuration Comparison — Recovery for Public Dataset](Project_041668/README.md) |
+| 041669 | [Nginx: Configuration Comparison — Reporting for Public Dataset](Project_041669/README.md) |
+| 041670 | [Nginx: Configuration Comparison — Usability Improvement for Public Dataset](Project_041670/README.md) |
+| 041671 | [Nginx: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_041671/README.md) |
+| 041672 | [Nginx: Configuration Comparison — Automation for Branch Office Simulator](Project_041672/README.md) |
+| 041673 | [Nginx: Configuration Comparison — Recovery for Branch Office Simulator](Project_041673/README.md) |
+| 041674 | [Nginx: Configuration Comparison — Reporting for Branch Office Simulator](Project_041674/README.md) |
+| 041675 | [Nginx: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_041675/README.md) |
+| 041676 | [Nginx: Configuration Comparison — Baseline Setup for Offline Classroom](Project_041676/README.md) |
+| 041677 | [Nginx: Configuration Comparison — Automation for Offline Classroom](Project_041677/README.md) |
+| 041678 | [Nginx: Configuration Comparison — Recovery for Offline Classroom](Project_041678/README.md) |
+| 041679 | [Nginx: Configuration Comparison — Reporting for Offline Classroom](Project_041679/README.md) |
+| 041680 | [Nginx: Configuration Comparison — Usability Improvement for Offline Classroom](Project_041680/README.md) |
 
 [Back to the portfolio home](../README.md)
