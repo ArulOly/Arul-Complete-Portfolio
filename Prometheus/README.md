@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044538 | [Prometheus: Access Review — Recovery for Two-Node Lab](Project_044538/README.md) |
 | 044539 | [Prometheus: Access Review — Reporting for Two-Node Lab](Project_044539/README.md) |
 | 044540 | [Prometheus: Access Review — Usability Improvement for Two-Node Lab](Project_044540/README.md) |
+| 044541 | [Prometheus: Access Review — Baseline Setup for Help Desk](Project_044541/README.md) |
+| 044542 | [Prometheus: Access Review — Automation for Help Desk](Project_044542/README.md) |
+| 044543 | [Prometheus: Access Review — Recovery for Help Desk](Project_044543/README.md) |
+| 044544 | [Prometheus: Access Review — Reporting for Help Desk](Project_044544/README.md) |
+| 044545 | [Prometheus: Access Review — Usability Improvement for Help Desk](Project_044545/README.md) |
+| 044546 | [Prometheus: Access Review — Baseline Setup for Portfolio Demo](Project_044546/README.md) |
+| 044547 | [Prometheus: Access Review — Automation for Portfolio Demo](Project_044547/README.md) |
+| 044548 | [Prometheus: Access Review — Recovery for Portfolio Demo](Project_044548/README.md) |
+| 044549 | [Prometheus: Access Review — Reporting for Portfolio Demo](Project_044549/README.md) |
+| 044550 | [Prometheus: Access Review — Usability Improvement for Portfolio Demo](Project_044550/README.md) |
+| 044551 | [Prometheus: Performance Baseline — Baseline Setup for School Lab](Project_044551/README.md) |
+| 044552 | [Prometheus: Performance Baseline — Automation for School Lab](Project_044552/README.md) |
+| 044553 | [Prometheus: Performance Baseline — Recovery for School Lab](Project_044553/README.md) |
+| 044554 | [Prometheus: Performance Baseline — Reporting for School Lab](Project_044554/README.md) |
+| 044555 | [Prometheus: Performance Baseline — Usability Improvement for School Lab](Project_044555/README.md) |
+| 044556 | [Prometheus: Performance Baseline — Baseline Setup for Small Business](Project_044556/README.md) |
+| 044557 | [Prometheus: Performance Baseline — Automation for Small Business](Project_044557/README.md) |
+| 044558 | [Prometheus: Performance Baseline — Recovery for Small Business](Project_044558/README.md) |
+| 044559 | [Prometheus: Performance Baseline — Reporting for Small Business](Project_044559/README.md) |
+| 044560 | [Prometheus: Performance Baseline — Usability Improvement for Small Business](Project_044560/README.md) |
 
 [Back to the portfolio home](../README.md)
