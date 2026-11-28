@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039298 | [Bash: Data Import — Recovery for Portfolio Demo](Project_039298/README.md) |
 | 039299 | [Bash: Data Import — Reporting for Portfolio Demo](Project_039299/README.md) |
 | 039300 | [Bash: Data Import — Usability Improvement for Portfolio Demo](Project_039300/README.md) |
+| 039301 | [Bash: Data Export — Baseline Setup for School Lab](Project_039301/README.md) |
+| 039302 | [Bash: Data Export — Automation for School Lab](Project_039302/README.md) |
+| 039303 | [Bash: Data Export — Recovery for School Lab](Project_039303/README.md) |
+| 039304 | [Bash: Data Export — Reporting for School Lab](Project_039304/README.md) |
+| 039305 | [Bash: Data Export — Usability Improvement for School Lab](Project_039305/README.md) |
+| 039306 | [Bash: Data Export — Baseline Setup for Small Business](Project_039306/README.md) |
+| 039307 | [Bash: Data Export — Automation for Small Business](Project_039307/README.md) |
+| 039308 | [Bash: Data Export — Recovery for Small Business](Project_039308/README.md) |
+| 039309 | [Bash: Data Export — Reporting for Small Business](Project_039309/README.md) |
+| 039310 | [Bash: Data Export — Usability Improvement for Small Business](Project_039310/README.md) |
+| 039311 | [Bash: Data Export — Baseline Setup for Home Development](Project_039311/README.md) |
+| 039312 | [Bash: Data Export — Automation for Home Development](Project_039312/README.md) |
+| 039313 | [Bash: Data Export — Recovery for Home Development](Project_039313/README.md) |
+| 039314 | [Bash: Data Export — Reporting for Home Development](Project_039314/README.md) |
+| 039315 | [Bash: Data Export — Usability Improvement for Home Development](Project_039315/README.md) |
+| 039316 | [Bash: Data Export — Baseline Setup for Public Dataset](Project_039316/README.md) |
+| 039317 | [Bash: Data Export — Automation for Public Dataset](Project_039317/README.md) |
+| 039318 | [Bash: Data Export — Recovery for Public Dataset](Project_039318/README.md) |
+| 039319 | [Bash: Data Export — Reporting for Public Dataset](Project_039319/README.md) |
+| 039320 | [Bash: Data Export — Usability Improvement for Public Dataset](Project_039320/README.md) |
 
 [Back to the portfolio home](../README.md)
