@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042918 | [Apache: Visual Reporting — Recovery for Public Dataset](Project_042918/README.md) |
 | 042919 | [Apache: Visual Reporting — Reporting for Public Dataset](Project_042919/README.md) |
 | 042920 | [Apache: Visual Reporting — Usability Improvement for Public Dataset](Project_042920/README.md) |
+| 042921 | [Apache: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_042921/README.md) |
+| 042922 | [Apache: Visual Reporting — Automation for Branch Office Simulator](Project_042922/README.md) |
+| 042923 | [Apache: Visual Reporting — Recovery for Branch Office Simulator](Project_042923/README.md) |
+| 042924 | [Apache: Visual Reporting — Reporting for Branch Office Simulator](Project_042924/README.md) |
+| 042925 | [Apache: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_042925/README.md) |
+| 042926 | [Apache: Visual Reporting — Baseline Setup for Offline Classroom](Project_042926/README.md) |
+| 042927 | [Apache: Visual Reporting — Automation for Offline Classroom](Project_042927/README.md) |
+| 042928 | [Apache: Visual Reporting — Recovery for Offline Classroom](Project_042928/README.md) |
+| 042929 | [Apache: Visual Reporting — Reporting for Offline Classroom](Project_042929/README.md) |
+| 042930 | [Apache: Visual Reporting — Usability Improvement for Offline Classroom](Project_042930/README.md) |
+| 042931 | [Apache: Visual Reporting — Baseline Setup for Single-Host Lab](Project_042931/README.md) |
+| 042932 | [Apache: Visual Reporting — Automation for Single-Host Lab](Project_042932/README.md) |
+| 042933 | [Apache: Visual Reporting — Recovery for Single-Host Lab](Project_042933/README.md) |
+| 042934 | [Apache: Visual Reporting — Reporting for Single-Host Lab](Project_042934/README.md) |
+| 042935 | [Apache: Visual Reporting — Usability Improvement for Single-Host Lab](Project_042935/README.md) |
+| 042936 | [Apache: Visual Reporting — Baseline Setup for Two-Node Lab](Project_042936/README.md) |
+| 042937 | [Apache: Visual Reporting — Automation for Two-Node Lab](Project_042937/README.md) |
+| 042938 | [Apache: Visual Reporting — Recovery for Two-Node Lab](Project_042938/README.md) |
+| 042939 | [Apache: Visual Reporting — Reporting for Two-Node Lab](Project_042939/README.md) |
+| 042940 | [Apache: Visual Reporting — Usability Improvement for Two-Node Lab](Project_042940/README.md) |
 
 [Back to the portfolio home](../README.md)
