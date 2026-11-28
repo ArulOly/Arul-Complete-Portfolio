@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029098 | [Wireshark: Monitoring — Recovery for Portfolio Demo](Project_029098/README.md) |
 | 029099 | [Wireshark: Monitoring — Reporting for Portfolio Demo](Project_029099/README.md) |
 | 029100 | [Wireshark: Monitoring — Usability Improvement for Portfolio Demo](Project_029100/README.md) |
+| 029101 | [Wireshark: Audit — Baseline Setup for School Lab](Project_029101/README.md) |
+| 029102 | [Wireshark: Audit — Automation for School Lab](Project_029102/README.md) |
+| 029103 | [Wireshark: Audit — Recovery for School Lab](Project_029103/README.md) |
+| 029104 | [Wireshark: Audit — Reporting for School Lab](Project_029104/README.md) |
+| 029105 | [Wireshark: Audit — Usability Improvement for School Lab](Project_029105/README.md) |
+| 029106 | [Wireshark: Audit — Baseline Setup for Small Business](Project_029106/README.md) |
+| 029107 | [Wireshark: Audit — Automation for Small Business](Project_029107/README.md) |
+| 029108 | [Wireshark: Audit — Recovery for Small Business](Project_029108/README.md) |
+| 029109 | [Wireshark: Audit — Reporting for Small Business](Project_029109/README.md) |
+| 029110 | [Wireshark: Audit — Usability Improvement for Small Business](Project_029110/README.md) |
+| 029111 | [Wireshark: Audit — Baseline Setup for Home Development](Project_029111/README.md) |
+| 029112 | [Wireshark: Audit — Automation for Home Development](Project_029112/README.md) |
+| 029113 | [Wireshark: Audit — Recovery for Home Development](Project_029113/README.md) |
+| 029114 | [Wireshark: Audit — Reporting for Home Development](Project_029114/README.md) |
+| 029115 | [Wireshark: Audit — Usability Improvement for Home Development](Project_029115/README.md) |
+| 029116 | [Wireshark: Audit — Baseline Setup for Public Dataset](Project_029116/README.md) |
+| 029117 | [Wireshark: Audit — Automation for Public Dataset](Project_029117/README.md) |
+| 029118 | [Wireshark: Audit — Recovery for Public Dataset](Project_029118/README.md) |
+| 029119 | [Wireshark: Audit — Reporting for Public Dataset](Project_029119/README.md) |
+| 029120 | [Wireshark: Audit — Usability Improvement for Public Dataset](Project_029120/README.md) |
 
 [Back to the portfolio home](../README.md)
