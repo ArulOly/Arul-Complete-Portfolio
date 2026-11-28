@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046378 | [Terraform: Dashboard — Recovery for Offline Classroom](Project_046378/README.md) |
 | 046379 | [Terraform: Dashboard — Reporting for Offline Classroom](Project_046379/README.md) |
 | 046380 | [Terraform: Dashboard — Usability Improvement for Offline Classroom](Project_046380/README.md) |
+| 046381 | [Terraform: Dashboard — Baseline Setup for Single-Host Lab](Project_046381/README.md) |
+| 046382 | [Terraform: Dashboard — Automation for Single-Host Lab](Project_046382/README.md) |
+| 046383 | [Terraform: Dashboard — Recovery for Single-Host Lab](Project_046383/README.md) |
+| 046384 | [Terraform: Dashboard — Reporting for Single-Host Lab](Project_046384/README.md) |
+| 046385 | [Terraform: Dashboard — Usability Improvement for Single-Host Lab](Project_046385/README.md) |
+| 046386 | [Terraform: Dashboard — Baseline Setup for Two-Node Lab](Project_046386/README.md) |
+| 046387 | [Terraform: Dashboard — Automation for Two-Node Lab](Project_046387/README.md) |
+| 046388 | [Terraform: Dashboard — Recovery for Two-Node Lab](Project_046388/README.md) |
+| 046389 | [Terraform: Dashboard — Reporting for Two-Node Lab](Project_046389/README.md) |
+| 046390 | [Terraform: Dashboard — Usability Improvement for Two-Node Lab](Project_046390/README.md) |
+| 046391 | [Terraform: Dashboard — Baseline Setup for Help Desk](Project_046391/README.md) |
+| 046392 | [Terraform: Dashboard — Automation for Help Desk](Project_046392/README.md) |
+| 046393 | [Terraform: Dashboard — Recovery for Help Desk](Project_046393/README.md) |
+| 046394 | [Terraform: Dashboard — Reporting for Help Desk](Project_046394/README.md) |
+| 046395 | [Terraform: Dashboard — Usability Improvement for Help Desk](Project_046395/README.md) |
+| 046396 | [Terraform: Dashboard — Baseline Setup for Portfolio Demo](Project_046396/README.md) |
+| 046397 | [Terraform: Dashboard — Automation for Portfolio Demo](Project_046397/README.md) |
+| 046398 | [Terraform: Dashboard — Recovery for Portfolio Demo](Project_046398/README.md) |
+| 046399 | [Terraform: Dashboard — Reporting for Portfolio Demo](Project_046399/README.md) |
+| 046400 | [Terraform: Dashboard — Usability Improvement for Portfolio Demo](Project_046400/README.md) |
 
 [Back to the portfolio home](../README.md)
