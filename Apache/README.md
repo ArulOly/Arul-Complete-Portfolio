@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042398 | [Apache: Dashboard — Recovery for Portfolio Demo](Project_042398/README.md) |
 | 042399 | [Apache: Dashboard — Reporting for Portfolio Demo](Project_042399/README.md) |
 | 042400 | [Apache: Dashboard — Usability Improvement for Portfolio Demo](Project_042400/README.md) |
+| 042401 | [Apache: Alerting — Baseline Setup for School Lab](Project_042401/README.md) |
+| 042402 | [Apache: Alerting — Automation for School Lab](Project_042402/README.md) |
+| 042403 | [Apache: Alerting — Recovery for School Lab](Project_042403/README.md) |
+| 042404 | [Apache: Alerting — Reporting for School Lab](Project_042404/README.md) |
+| 042405 | [Apache: Alerting — Usability Improvement for School Lab](Project_042405/README.md) |
+| 042406 | [Apache: Alerting — Baseline Setup for Small Business](Project_042406/README.md) |
+| 042407 | [Apache: Alerting — Automation for Small Business](Project_042407/README.md) |
+| 042408 | [Apache: Alerting — Recovery for Small Business](Project_042408/README.md) |
+| 042409 | [Apache: Alerting — Reporting for Small Business](Project_042409/README.md) |
+| 042410 | [Apache: Alerting — Usability Improvement for Small Business](Project_042410/README.md) |
+| 042411 | [Apache: Alerting — Baseline Setup for Home Development](Project_042411/README.md) |
+| 042412 | [Apache: Alerting — Automation for Home Development](Project_042412/README.md) |
+| 042413 | [Apache: Alerting — Recovery for Home Development](Project_042413/README.md) |
+| 042414 | [Apache: Alerting — Reporting for Home Development](Project_042414/README.md) |
+| 042415 | [Apache: Alerting — Usability Improvement for Home Development](Project_042415/README.md) |
+| 042416 | [Apache: Alerting — Baseline Setup for Public Dataset](Project_042416/README.md) |
+| 042417 | [Apache: Alerting — Automation for Public Dataset](Project_042417/README.md) |
+| 042418 | [Apache: Alerting — Recovery for Public Dataset](Project_042418/README.md) |
+| 042419 | [Apache: Alerting — Reporting for Public Dataset](Project_042419/README.md) |
+| 042420 | [Apache: Alerting — Usability Improvement for Public Dataset](Project_042420/README.md) |
 
 [Back to the portfolio home](../README.md)
