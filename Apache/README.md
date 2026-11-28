@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042218 | [Apache: Backup Verification — Recovery for Public Dataset](Project_042218/README.md) |
 | 042219 | [Apache: Backup Verification — Reporting for Public Dataset](Project_042219/README.md) |
 | 042220 | [Apache: Backup Verification — Usability Improvement for Public Dataset](Project_042220/README.md) |
+| 042221 | [Apache: Backup Verification — Baseline Setup for Branch Office Simulator](Project_042221/README.md) |
+| 042222 | [Apache: Backup Verification — Automation for Branch Office Simulator](Project_042222/README.md) |
+| 042223 | [Apache: Backup Verification — Recovery for Branch Office Simulator](Project_042223/README.md) |
+| 042224 | [Apache: Backup Verification — Reporting for Branch Office Simulator](Project_042224/README.md) |
+| 042225 | [Apache: Backup Verification — Usability Improvement for Branch Office Simulator](Project_042225/README.md) |
+| 042226 | [Apache: Backup Verification — Baseline Setup for Offline Classroom](Project_042226/README.md) |
+| 042227 | [Apache: Backup Verification — Automation for Offline Classroom](Project_042227/README.md) |
+| 042228 | [Apache: Backup Verification — Recovery for Offline Classroom](Project_042228/README.md) |
+| 042229 | [Apache: Backup Verification — Reporting for Offline Classroom](Project_042229/README.md) |
+| 042230 | [Apache: Backup Verification — Usability Improvement for Offline Classroom](Project_042230/README.md) |
+| 042231 | [Apache: Backup Verification — Baseline Setup for Single-Host Lab](Project_042231/README.md) |
+| 042232 | [Apache: Backup Verification — Automation for Single-Host Lab](Project_042232/README.md) |
+| 042233 | [Apache: Backup Verification — Recovery for Single-Host Lab](Project_042233/README.md) |
+| 042234 | [Apache: Backup Verification — Reporting for Single-Host Lab](Project_042234/README.md) |
+| 042235 | [Apache: Backup Verification — Usability Improvement for Single-Host Lab](Project_042235/README.md) |
+| 042236 | [Apache: Backup Verification — Baseline Setup for Two-Node Lab](Project_042236/README.md) |
+| 042237 | [Apache: Backup Verification — Automation for Two-Node Lab](Project_042237/README.md) |
+| 042238 | [Apache: Backup Verification — Recovery for Two-Node Lab](Project_042238/README.md) |
+| 042239 | [Apache: Backup Verification — Reporting for Two-Node Lab](Project_042239/README.md) |
+| 042240 | [Apache: Backup Verification — Usability Improvement for Two-Node Lab](Project_042240/README.md) |
 
 [Back to the portfolio home](../README.md)
