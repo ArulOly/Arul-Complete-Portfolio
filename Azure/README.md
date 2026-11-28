@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015378 | [Azure: Dashboard — Recovery for Offline Classroom](Project_015378/README.md) |
 | 015379 | [Azure: Dashboard — Reporting for Offline Classroom](Project_015379/README.md) |
 | 015380 | [Azure: Dashboard — Usability Improvement for Offline Classroom](Project_015380/README.md) |
+| 015381 | [Azure: Dashboard — Baseline Setup for Single-Host Lab](Project_015381/README.md) |
+| 015382 | [Azure: Dashboard — Automation for Single-Host Lab](Project_015382/README.md) |
+| 015383 | [Azure: Dashboard — Recovery for Single-Host Lab](Project_015383/README.md) |
+| 015384 | [Azure: Dashboard — Reporting for Single-Host Lab](Project_015384/README.md) |
+| 015385 | [Azure: Dashboard — Usability Improvement for Single-Host Lab](Project_015385/README.md) |
+| 015386 | [Azure: Dashboard — Baseline Setup for Two-Node Lab](Project_015386/README.md) |
+| 015387 | [Azure: Dashboard — Automation for Two-Node Lab](Project_015387/README.md) |
+| 015388 | [Azure: Dashboard — Recovery for Two-Node Lab](Project_015388/README.md) |
+| 015389 | [Azure: Dashboard — Reporting for Two-Node Lab](Project_015389/README.md) |
+| 015390 | [Azure: Dashboard — Usability Improvement for Two-Node Lab](Project_015390/README.md) |
+| 015391 | [Azure: Dashboard — Baseline Setup for Help Desk](Project_015391/README.md) |
+| 015392 | [Azure: Dashboard — Automation for Help Desk](Project_015392/README.md) |
+| 015393 | [Azure: Dashboard — Recovery for Help Desk](Project_015393/README.md) |
+| 015394 | [Azure: Dashboard — Reporting for Help Desk](Project_015394/README.md) |
+| 015395 | [Azure: Dashboard — Usability Improvement for Help Desk](Project_015395/README.md) |
+| 015396 | [Azure: Dashboard — Baseline Setup for Portfolio Demo](Project_015396/README.md) |
+| 015397 | [Azure: Dashboard — Automation for Portfolio Demo](Project_015397/README.md) |
+| 015398 | [Azure: Dashboard — Recovery for Portfolio Demo](Project_015398/README.md) |
+| 015399 | [Azure: Dashboard — Reporting for Portfolio Demo](Project_015399/README.md) |
+| 015400 | [Azure: Dashboard — Usability Improvement for Portfolio Demo](Project_015400/README.md) |
 
 [Back to the portfolio home](../README.md)
