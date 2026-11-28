@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031658 | [Greenbone: Configuration Comparison — Recovery for Small Business](Project_031658/README.md) |
 | 031659 | [Greenbone: Configuration Comparison — Reporting for Small Business](Project_031659/README.md) |
 | 031660 | [Greenbone: Configuration Comparison — Usability Improvement for Small Business](Project_031660/README.md) |
+| 031661 | [Greenbone: Configuration Comparison — Baseline Setup for Home Development](Project_031661/README.md) |
+| 031662 | [Greenbone: Configuration Comparison — Automation for Home Development](Project_031662/README.md) |
+| 031663 | [Greenbone: Configuration Comparison — Recovery for Home Development](Project_031663/README.md) |
+| 031664 | [Greenbone: Configuration Comparison — Reporting for Home Development](Project_031664/README.md) |
+| 031665 | [Greenbone: Configuration Comparison — Usability Improvement for Home Development](Project_031665/README.md) |
+| 031666 | [Greenbone: Configuration Comparison — Baseline Setup for Public Dataset](Project_031666/README.md) |
+| 031667 | [Greenbone: Configuration Comparison — Automation for Public Dataset](Project_031667/README.md) |
+| 031668 | [Greenbone: Configuration Comparison — Recovery for Public Dataset](Project_031668/README.md) |
+| 031669 | [Greenbone: Configuration Comparison — Reporting for Public Dataset](Project_031669/README.md) |
+| 031670 | [Greenbone: Configuration Comparison — Usability Improvement for Public Dataset](Project_031670/README.md) |
+| 031671 | [Greenbone: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_031671/README.md) |
+| 031672 | [Greenbone: Configuration Comparison — Automation for Branch Office Simulator](Project_031672/README.md) |
+| 031673 | [Greenbone: Configuration Comparison — Recovery for Branch Office Simulator](Project_031673/README.md) |
+| 031674 | [Greenbone: Configuration Comparison — Reporting for Branch Office Simulator](Project_031674/README.md) |
+| 031675 | [Greenbone: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_031675/README.md) |
+| 031676 | [Greenbone: Configuration Comparison — Baseline Setup for Offline Classroom](Project_031676/README.md) |
+| 031677 | [Greenbone: Configuration Comparison — Automation for Offline Classroom](Project_031677/README.md) |
+| 031678 | [Greenbone: Configuration Comparison — Recovery for Offline Classroom](Project_031678/README.md) |
+| 031679 | [Greenbone: Configuration Comparison — Reporting for Offline Classroom](Project_031679/README.md) |
+| 031680 | [Greenbone: Configuration Comparison — Usability Improvement for Offline Classroom](Project_031680/README.md) |
 
 [Back to the portfolio home](../README.md)
