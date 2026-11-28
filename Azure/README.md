@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015018 | [Azure: Inventory — Recovery for Public Dataset](Project_015018/README.md) |
 | 015019 | [Azure: Inventory — Reporting for Public Dataset](Project_015019/README.md) |
 | 015020 | [Azure: Inventory — Usability Improvement for Public Dataset](Project_015020/README.md) |
+| 015021 | [Azure: Inventory — Baseline Setup for Branch Office Simulator](Project_015021/README.md) |
+| 015022 | [Azure: Inventory — Automation for Branch Office Simulator](Project_015022/README.md) |
+| 015023 | [Azure: Inventory — Recovery for Branch Office Simulator](Project_015023/README.md) |
+| 015024 | [Azure: Inventory — Reporting for Branch Office Simulator](Project_015024/README.md) |
+| 015025 | [Azure: Inventory — Usability Improvement for Branch Office Simulator](Project_015025/README.md) |
+| 015026 | [Azure: Inventory — Baseline Setup for Offline Classroom](Project_015026/README.md) |
+| 015027 | [Azure: Inventory — Automation for Offline Classroom](Project_015027/README.md) |
+| 015028 | [Azure: Inventory — Recovery for Offline Classroom](Project_015028/README.md) |
+| 015029 | [Azure: Inventory — Reporting for Offline Classroom](Project_015029/README.md) |
+| 015030 | [Azure: Inventory — Usability Improvement for Offline Classroom](Project_015030/README.md) |
+| 015031 | [Azure: Inventory — Baseline Setup for Single-Host Lab](Project_015031/README.md) |
+| 015032 | [Azure: Inventory — Automation for Single-Host Lab](Project_015032/README.md) |
+| 015033 | [Azure: Inventory — Recovery for Single-Host Lab](Project_015033/README.md) |
+| 015034 | [Azure: Inventory — Reporting for Single-Host Lab](Project_015034/README.md) |
+| 015035 | [Azure: Inventory — Usability Improvement for Single-Host Lab](Project_015035/README.md) |
+| 015036 | [Azure: Inventory — Baseline Setup for Two-Node Lab](Project_015036/README.md) |
+| 015037 | [Azure: Inventory — Automation for Two-Node Lab](Project_015037/README.md) |
+| 015038 | [Azure: Inventory — Recovery for Two-Node Lab](Project_015038/README.md) |
+| 015039 | [Azure: Inventory — Reporting for Two-Node Lab](Project_015039/README.md) |
+| 015040 | [Azure: Inventory — Usability Improvement for Two-Node Lab](Project_015040/README.md) |
 
 [Back to the portfolio home](../README.md)
