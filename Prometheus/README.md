@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044858 | [Prometheus: Automation — Recovery for Small Business](Project_044858/README.md) |
 | 044859 | [Prometheus: Automation — Reporting for Small Business](Project_044859/README.md) |
 | 044860 | [Prometheus: Automation — Usability Improvement for Small Business](Project_044860/README.md) |
+| 044861 | [Prometheus: Automation — Baseline Setup for Home Development](Project_044861/README.md) |
+| 044862 | [Prometheus: Automation — Automation for Home Development](Project_044862/README.md) |
+| 044863 | [Prometheus: Automation — Recovery for Home Development](Project_044863/README.md) |
+| 044864 | [Prometheus: Automation — Reporting for Home Development](Project_044864/README.md) |
+| 044865 | [Prometheus: Automation — Usability Improvement for Home Development](Project_044865/README.md) |
+| 044866 | [Prometheus: Automation — Baseline Setup for Public Dataset](Project_044866/README.md) |
+| 044867 | [Prometheus: Automation — Automation for Public Dataset](Project_044867/README.md) |
+| 044868 | [Prometheus: Automation — Recovery for Public Dataset](Project_044868/README.md) |
+| 044869 | [Prometheus: Automation — Reporting for Public Dataset](Project_044869/README.md) |
+| 044870 | [Prometheus: Automation — Usability Improvement for Public Dataset](Project_044870/README.md) |
+| 044871 | [Prometheus: Automation — Baseline Setup for Branch Office Simulator](Project_044871/README.md) |
+| 044872 | [Prometheus: Automation — Automation for Branch Office Simulator](Project_044872/README.md) |
+| 044873 | [Prometheus: Automation — Recovery for Branch Office Simulator](Project_044873/README.md) |
+| 044874 | [Prometheus: Automation — Reporting for Branch Office Simulator](Project_044874/README.md) |
+| 044875 | [Prometheus: Automation — Usability Improvement for Branch Office Simulator](Project_044875/README.md) |
+| 044876 | [Prometheus: Automation — Baseline Setup for Offline Classroom](Project_044876/README.md) |
+| 044877 | [Prometheus: Automation — Automation for Offline Classroom](Project_044877/README.md) |
+| 044878 | [Prometheus: Automation — Recovery for Offline Classroom](Project_044878/README.md) |
+| 044879 | [Prometheus: Automation — Reporting for Offline Classroom](Project_044879/README.md) |
+| 044880 | [Prometheus: Automation — Usability Improvement for Offline Classroom](Project_044880/README.md) |
 
 [Back to the portfolio home](../README.md)
