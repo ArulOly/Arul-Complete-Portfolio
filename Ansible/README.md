@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047398 | [Ansible: Dashboard — Recovery for Portfolio Demo](Project_047398/README.md) |
 | 047399 | [Ansible: Dashboard — Reporting for Portfolio Demo](Project_047399/README.md) |
 | 047400 | [Ansible: Dashboard — Usability Improvement for Portfolio Demo](Project_047400/README.md) |
+| 047401 | [Ansible: Alerting — Baseline Setup for School Lab](Project_047401/README.md) |
+| 047402 | [Ansible: Alerting — Automation for School Lab](Project_047402/README.md) |
+| 047403 | [Ansible: Alerting — Recovery for School Lab](Project_047403/README.md) |
+| 047404 | [Ansible: Alerting — Reporting for School Lab](Project_047404/README.md) |
+| 047405 | [Ansible: Alerting — Usability Improvement for School Lab](Project_047405/README.md) |
+| 047406 | [Ansible: Alerting — Baseline Setup for Small Business](Project_047406/README.md) |
+| 047407 | [Ansible: Alerting — Automation for Small Business](Project_047407/README.md) |
+| 047408 | [Ansible: Alerting — Recovery for Small Business](Project_047408/README.md) |
+| 047409 | [Ansible: Alerting — Reporting for Small Business](Project_047409/README.md) |
+| 047410 | [Ansible: Alerting — Usability Improvement for Small Business](Project_047410/README.md) |
+| 047411 | [Ansible: Alerting — Baseline Setup for Home Development](Project_047411/README.md) |
+| 047412 | [Ansible: Alerting — Automation for Home Development](Project_047412/README.md) |
+| 047413 | [Ansible: Alerting — Recovery for Home Development](Project_047413/README.md) |
+| 047414 | [Ansible: Alerting — Reporting for Home Development](Project_047414/README.md) |
+| 047415 | [Ansible: Alerting — Usability Improvement for Home Development](Project_047415/README.md) |
+| 047416 | [Ansible: Alerting — Baseline Setup for Public Dataset](Project_047416/README.md) |
+| 047417 | [Ansible: Alerting — Automation for Public Dataset](Project_047417/README.md) |
+| 047418 | [Ansible: Alerting — Recovery for Public Dataset](Project_047418/README.md) |
+| 047419 | [Ansible: Alerting — Reporting for Public Dataset](Project_047419/README.md) |
+| 047420 | [Ansible: Alerting — Usability Improvement for Public Dataset](Project_047420/README.md) |
 
 [Back to the portfolio home](../README.md)
