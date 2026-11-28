@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015478 | [Azure: Scheduled Reporting — Recovery for Offline Classroom](Project_015478/README.md) |
 | 015479 | [Azure: Scheduled Reporting — Reporting for Offline Classroom](Project_015479/README.md) |
 | 015480 | [Azure: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_015480/README.md) |
+| 015481 | [Azure: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_015481/README.md) |
+| 015482 | [Azure: Scheduled Reporting — Automation for Single-Host Lab](Project_015482/README.md) |
+| 015483 | [Azure: Scheduled Reporting — Recovery for Single-Host Lab](Project_015483/README.md) |
+| 015484 | [Azure: Scheduled Reporting — Reporting for Single-Host Lab](Project_015484/README.md) |
+| 015485 | [Azure: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_015485/README.md) |
+| 015486 | [Azure: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_015486/README.md) |
+| 015487 | [Azure: Scheduled Reporting — Automation for Two-Node Lab](Project_015487/README.md) |
+| 015488 | [Azure: Scheduled Reporting — Recovery for Two-Node Lab](Project_015488/README.md) |
+| 015489 | [Azure: Scheduled Reporting — Reporting for Two-Node Lab](Project_015489/README.md) |
+| 015490 | [Azure: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_015490/README.md) |
+| 015491 | [Azure: Scheduled Reporting — Baseline Setup for Help Desk](Project_015491/README.md) |
+| 015492 | [Azure: Scheduled Reporting — Automation for Help Desk](Project_015492/README.md) |
+| 015493 | [Azure: Scheduled Reporting — Recovery for Help Desk](Project_015493/README.md) |
+| 015494 | [Azure: Scheduled Reporting — Reporting for Help Desk](Project_015494/README.md) |
+| 015495 | [Azure: Scheduled Reporting — Usability Improvement for Help Desk](Project_015495/README.md) |
+| 015496 | [Azure: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_015496/README.md) |
+| 015497 | [Azure: Scheduled Reporting — Automation for Portfolio Demo](Project_015497/README.md) |
+| 015498 | [Azure: Scheduled Reporting — Recovery for Portfolio Demo](Project_015498/README.md) |
+| 015499 | [Azure: Scheduled Reporting — Reporting for Portfolio Demo](Project_015499/README.md) |
+| 015500 | [Azure: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_015500/README.md) |
 
 [Back to the portfolio home](../README.md)
