@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017438 | [Docker: Alerting — Recovery for Two-Node Lab](Project_017438/README.md) |
 | 017439 | [Docker: Alerting — Reporting for Two-Node Lab](Project_017439/README.md) |
 | 017440 | [Docker: Alerting — Usability Improvement for Two-Node Lab](Project_017440/README.md) |
+| 017441 | [Docker: Alerting — Baseline Setup for Help Desk](Project_017441/README.md) |
+| 017442 | [Docker: Alerting — Automation for Help Desk](Project_017442/README.md) |
+| 017443 | [Docker: Alerting — Recovery for Help Desk](Project_017443/README.md) |
+| 017444 | [Docker: Alerting — Reporting for Help Desk](Project_017444/README.md) |
+| 017445 | [Docker: Alerting — Usability Improvement for Help Desk](Project_017445/README.md) |
+| 017446 | [Docker: Alerting — Baseline Setup for Portfolio Demo](Project_017446/README.md) |
+| 017447 | [Docker: Alerting — Automation for Portfolio Demo](Project_017447/README.md) |
+| 017448 | [Docker: Alerting — Recovery for Portfolio Demo](Project_017448/README.md) |
+| 017449 | [Docker: Alerting — Reporting for Portfolio Demo](Project_017449/README.md) |
+| 017450 | [Docker: Alerting — Usability Improvement for Portfolio Demo](Project_017450/README.md) |
+| 017451 | [Docker: Scheduled Reporting — Baseline Setup for School Lab](Project_017451/README.md) |
+| 017452 | [Docker: Scheduled Reporting — Automation for School Lab](Project_017452/README.md) |
+| 017453 | [Docker: Scheduled Reporting — Recovery for School Lab](Project_017453/README.md) |
+| 017454 | [Docker: Scheduled Reporting — Reporting for School Lab](Project_017454/README.md) |
+| 017455 | [Docker: Scheduled Reporting — Usability Improvement for School Lab](Project_017455/README.md) |
+| 017456 | [Docker: Scheduled Reporting — Baseline Setup for Small Business](Project_017456/README.md) |
+| 017457 | [Docker: Scheduled Reporting — Automation for Small Business](Project_017457/README.md) |
+| 017458 | [Docker: Scheduled Reporting — Recovery for Small Business](Project_017458/README.md) |
+| 017459 | [Docker: Scheduled Reporting — Reporting for Small Business](Project_017459/README.md) |
+| 017460 | [Docker: Scheduled Reporting — Usability Improvement for Small Business](Project_017460/README.md) |
 
 [Back to the portfolio home](../README.md)
