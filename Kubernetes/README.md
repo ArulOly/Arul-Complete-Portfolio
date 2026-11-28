@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018738 | [Kubernetes: Error Handling — Recovery for Two-Node Lab](Project_018738/README.md) |
 | 018739 | [Kubernetes: Error Handling — Reporting for Two-Node Lab](Project_018739/README.md) |
 | 018740 | [Kubernetes: Error Handling — Usability Improvement for Two-Node Lab](Project_018740/README.md) |
+| 018741 | [Kubernetes: Error Handling — Baseline Setup for Help Desk](Project_018741/README.md) |
+| 018742 | [Kubernetes: Error Handling — Automation for Help Desk](Project_018742/README.md) |
+| 018743 | [Kubernetes: Error Handling — Recovery for Help Desk](Project_018743/README.md) |
+| 018744 | [Kubernetes: Error Handling — Reporting for Help Desk](Project_018744/README.md) |
+| 018745 | [Kubernetes: Error Handling — Usability Improvement for Help Desk](Project_018745/README.md) |
+| 018746 | [Kubernetes: Error Handling — Baseline Setup for Portfolio Demo](Project_018746/README.md) |
+| 018747 | [Kubernetes: Error Handling — Automation for Portfolio Demo](Project_018747/README.md) |
+| 018748 | [Kubernetes: Error Handling — Recovery for Portfolio Demo](Project_018748/README.md) |
+| 018749 | [Kubernetes: Error Handling — Reporting for Portfolio Demo](Project_018749/README.md) |
+| 018750 | [Kubernetes: Error Handling — Usability Improvement for Portfolio Demo](Project_018750/README.md) |
+| 018751 | [Kubernetes: Data Validation — Baseline Setup for School Lab](Project_018751/README.md) |
+| 018752 | [Kubernetes: Data Validation — Automation for School Lab](Project_018752/README.md) |
+| 018753 | [Kubernetes: Data Validation — Recovery for School Lab](Project_018753/README.md) |
+| 018754 | [Kubernetes: Data Validation — Reporting for School Lab](Project_018754/README.md) |
+| 018755 | [Kubernetes: Data Validation — Usability Improvement for School Lab](Project_018755/README.md) |
+| 018756 | [Kubernetes: Data Validation — Baseline Setup for Small Business](Project_018756/README.md) |
+| 018757 | [Kubernetes: Data Validation — Automation for Small Business](Project_018757/README.md) |
+| 018758 | [Kubernetes: Data Validation — Recovery for Small Business](Project_018758/README.md) |
+| 018759 | [Kubernetes: Data Validation — Reporting for Small Business](Project_018759/README.md) |
+| 018760 | [Kubernetes: Data Validation — Usability Improvement for Small Business](Project_018760/README.md) |
 
 [Back to the portfolio home](../README.md)
