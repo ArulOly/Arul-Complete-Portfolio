@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017158 | [Docker: Log Analysis — Recovery for Small Business](Project_017158/README.md) |
 | 017159 | [Docker: Log Analysis — Reporting for Small Business](Project_017159/README.md) |
 | 017160 | [Docker: Log Analysis — Usability Improvement for Small Business](Project_017160/README.md) |
+| 017161 | [Docker: Log Analysis — Baseline Setup for Home Development](Project_017161/README.md) |
+| 017162 | [Docker: Log Analysis — Automation for Home Development](Project_017162/README.md) |
+| 017163 | [Docker: Log Analysis — Recovery for Home Development](Project_017163/README.md) |
+| 017164 | [Docker: Log Analysis — Reporting for Home Development](Project_017164/README.md) |
+| 017165 | [Docker: Log Analysis — Usability Improvement for Home Development](Project_017165/README.md) |
+| 017166 | [Docker: Log Analysis — Baseline Setup for Public Dataset](Project_017166/README.md) |
+| 017167 | [Docker: Log Analysis — Automation for Public Dataset](Project_017167/README.md) |
+| 017168 | [Docker: Log Analysis — Recovery for Public Dataset](Project_017168/README.md) |
+| 017169 | [Docker: Log Analysis — Reporting for Public Dataset](Project_017169/README.md) |
+| 017170 | [Docker: Log Analysis — Usability Improvement for Public Dataset](Project_017170/README.md) |
+| 017171 | [Docker: Log Analysis — Baseline Setup for Branch Office Simulator](Project_017171/README.md) |
+| 017172 | [Docker: Log Analysis — Automation for Branch Office Simulator](Project_017172/README.md) |
+| 017173 | [Docker: Log Analysis — Recovery for Branch Office Simulator](Project_017173/README.md) |
+| 017174 | [Docker: Log Analysis — Reporting for Branch Office Simulator](Project_017174/README.md) |
+| 017175 | [Docker: Log Analysis — Usability Improvement for Branch Office Simulator](Project_017175/README.md) |
+| 017176 | [Docker: Log Analysis — Baseline Setup for Offline Classroom](Project_017176/README.md) |
+| 017177 | [Docker: Log Analysis — Automation for Offline Classroom](Project_017177/README.md) |
+| 017178 | [Docker: Log Analysis — Recovery for Offline Classroom](Project_017178/README.md) |
+| 017179 | [Docker: Log Analysis — Reporting for Offline Classroom](Project_017179/README.md) |
+| 017180 | [Docker: Log Analysis — Usability Improvement for Offline Classroom](Project_017180/README.md) |
 
 [Back to the portfolio home](../README.md)
