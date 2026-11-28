@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030938 | [Wazuh: Visual Reporting — Recovery for Two-Node Lab](Project_030938/README.md) |
 | 030939 | [Wazuh: Visual Reporting — Reporting for Two-Node Lab](Project_030939/README.md) |
 | 030940 | [Wazuh: Visual Reporting — Usability Improvement for Two-Node Lab](Project_030940/README.md) |
+| 030941 | [Wazuh: Visual Reporting — Baseline Setup for Help Desk](Project_030941/README.md) |
+| 030942 | [Wazuh: Visual Reporting — Automation for Help Desk](Project_030942/README.md) |
+| 030943 | [Wazuh: Visual Reporting — Recovery for Help Desk](Project_030943/README.md) |
+| 030944 | [Wazuh: Visual Reporting — Reporting for Help Desk](Project_030944/README.md) |
+| 030945 | [Wazuh: Visual Reporting — Usability Improvement for Help Desk](Project_030945/README.md) |
+| 030946 | [Wazuh: Visual Reporting — Baseline Setup for Portfolio Demo](Project_030946/README.md) |
+| 030947 | [Wazuh: Visual Reporting — Automation for Portfolio Demo](Project_030947/README.md) |
+| 030948 | [Wazuh: Visual Reporting — Recovery for Portfolio Demo](Project_030948/README.md) |
+| 030949 | [Wazuh: Visual Reporting — Reporting for Portfolio Demo](Project_030949/README.md) |
+| 030950 | [Wazuh: Visual Reporting — Usability Improvement for Portfolio Demo](Project_030950/README.md) |
+| 030951 | [Wazuh: Recovery Test — Baseline Setup for School Lab](Project_030951/README.md) |
+| 030952 | [Wazuh: Recovery Test — Automation for School Lab](Project_030952/README.md) |
+| 030953 | [Wazuh: Recovery Test — Recovery for School Lab](Project_030953/README.md) |
+| 030954 | [Wazuh: Recovery Test — Reporting for School Lab](Project_030954/README.md) |
+| 030955 | [Wazuh: Recovery Test — Usability Improvement for School Lab](Project_030955/README.md) |
+| 030956 | [Wazuh: Recovery Test — Baseline Setup for Small Business](Project_030956/README.md) |
+| 030957 | [Wazuh: Recovery Test — Automation for Small Business](Project_030957/README.md) |
+| 030958 | [Wazuh: Recovery Test — Recovery for Small Business](Project_030958/README.md) |
+| 030959 | [Wazuh: Recovery Test — Reporting for Small Business](Project_030959/README.md) |
+| 030960 | [Wazuh: Recovery Test — Usability Improvement for Small Business](Project_030960/README.md) |
 
 [Back to the portfolio home](../README.md)
