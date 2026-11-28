@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041978 | [Nginx: Recovery Test — Recovery for Offline Classroom](Project_041978/README.md) |
 | 041979 | [Nginx: Recovery Test — Reporting for Offline Classroom](Project_041979/README.md) |
 | 041980 | [Nginx: Recovery Test — Usability Improvement for Offline Classroom](Project_041980/README.md) |
+| 041981 | [Nginx: Recovery Test — Baseline Setup for Single-Host Lab](Project_041981/README.md) |
+| 041982 | [Nginx: Recovery Test — Automation for Single-Host Lab](Project_041982/README.md) |
+| 041983 | [Nginx: Recovery Test — Recovery for Single-Host Lab](Project_041983/README.md) |
+| 041984 | [Nginx: Recovery Test — Reporting for Single-Host Lab](Project_041984/README.md) |
+| 041985 | [Nginx: Recovery Test — Usability Improvement for Single-Host Lab](Project_041985/README.md) |
+| 041986 | [Nginx: Recovery Test — Baseline Setup for Two-Node Lab](Project_041986/README.md) |
+| 041987 | [Nginx: Recovery Test — Automation for Two-Node Lab](Project_041987/README.md) |
+| 041988 | [Nginx: Recovery Test — Recovery for Two-Node Lab](Project_041988/README.md) |
+| 041989 | [Nginx: Recovery Test — Reporting for Two-Node Lab](Project_041989/README.md) |
+| 041990 | [Nginx: Recovery Test — Usability Improvement for Two-Node Lab](Project_041990/README.md) |
+| 041991 | [Nginx: Recovery Test — Baseline Setup for Help Desk](Project_041991/README.md) |
+| 041992 | [Nginx: Recovery Test — Automation for Help Desk](Project_041992/README.md) |
+| 041993 | [Nginx: Recovery Test — Recovery for Help Desk](Project_041993/README.md) |
+| 041994 | [Nginx: Recovery Test — Reporting for Help Desk](Project_041994/README.md) |
+| 041995 | [Nginx: Recovery Test — Usability Improvement for Help Desk](Project_041995/README.md) |
+| 041996 | [Nginx: Recovery Test — Baseline Setup for Portfolio Demo](Project_041996/README.md) |
+| 041997 | [Nginx: Recovery Test — Automation for Portfolio Demo](Project_041997/README.md) |
+| 041998 | [Nginx: Recovery Test — Recovery for Portfolio Demo](Project_041998/README.md) |
+| 041999 | [Nginx: Recovery Test — Reporting for Portfolio Demo](Project_041999/README.md) |
+| 042000 | [Nginx: Recovery Test — Usability Improvement for Portfolio Demo](Project_042000/README.md) |
 
 [Back to the portfolio home](../README.md)
