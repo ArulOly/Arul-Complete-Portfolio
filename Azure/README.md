@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015458 | [Azure: Scheduled Reporting — Recovery for Small Business](Project_015458/README.md) |
 | 015459 | [Azure: Scheduled Reporting — Reporting for Small Business](Project_015459/README.md) |
 | 015460 | [Azure: Scheduled Reporting — Usability Improvement for Small Business](Project_015460/README.md) |
+| 015461 | [Azure: Scheduled Reporting — Baseline Setup for Home Development](Project_015461/README.md) |
+| 015462 | [Azure: Scheduled Reporting — Automation for Home Development](Project_015462/README.md) |
+| 015463 | [Azure: Scheduled Reporting — Recovery for Home Development](Project_015463/README.md) |
+| 015464 | [Azure: Scheduled Reporting — Reporting for Home Development](Project_015464/README.md) |
+| 015465 | [Azure: Scheduled Reporting — Usability Improvement for Home Development](Project_015465/README.md) |
+| 015466 | [Azure: Scheduled Reporting — Baseline Setup for Public Dataset](Project_015466/README.md) |
+| 015467 | [Azure: Scheduled Reporting — Automation for Public Dataset](Project_015467/README.md) |
+| 015468 | [Azure: Scheduled Reporting — Recovery for Public Dataset](Project_015468/README.md) |
+| 015469 | [Azure: Scheduled Reporting — Reporting for Public Dataset](Project_015469/README.md) |
+| 015470 | [Azure: Scheduled Reporting — Usability Improvement for Public Dataset](Project_015470/README.md) |
+| 015471 | [Azure: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_015471/README.md) |
+| 015472 | [Azure: Scheduled Reporting — Automation for Branch Office Simulator](Project_015472/README.md) |
+| 015473 | [Azure: Scheduled Reporting — Recovery for Branch Office Simulator](Project_015473/README.md) |
+| 015474 | [Azure: Scheduled Reporting — Reporting for Branch Office Simulator](Project_015474/README.md) |
+| 015475 | [Azure: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_015475/README.md) |
+| 015476 | [Azure: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_015476/README.md) |
+| 015477 | [Azure: Scheduled Reporting — Automation for Offline Classroom](Project_015477/README.md) |
+| 015478 | [Azure: Scheduled Reporting — Recovery for Offline Classroom](Project_015478/README.md) |
+| 015479 | [Azure: Scheduled Reporting — Reporting for Offline Classroom](Project_015479/README.md) |
+| 015480 | [Azure: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_015480/README.md) |
 
 [Back to the portfolio home](../README.md)
