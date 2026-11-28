@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030538 | [Wazuh: Access Review — Recovery for Two-Node Lab](Project_030538/README.md) |
 | 030539 | [Wazuh: Access Review — Reporting for Two-Node Lab](Project_030539/README.md) |
 | 030540 | [Wazuh: Access Review — Usability Improvement for Two-Node Lab](Project_030540/README.md) |
+| 030541 | [Wazuh: Access Review — Baseline Setup for Help Desk](Project_030541/README.md) |
+| 030542 | [Wazuh: Access Review — Automation for Help Desk](Project_030542/README.md) |
+| 030543 | [Wazuh: Access Review — Recovery for Help Desk](Project_030543/README.md) |
+| 030544 | [Wazuh: Access Review — Reporting for Help Desk](Project_030544/README.md) |
+| 030545 | [Wazuh: Access Review — Usability Improvement for Help Desk](Project_030545/README.md) |
+| 030546 | [Wazuh: Access Review — Baseline Setup for Portfolio Demo](Project_030546/README.md) |
+| 030547 | [Wazuh: Access Review — Automation for Portfolio Demo](Project_030547/README.md) |
+| 030548 | [Wazuh: Access Review — Recovery for Portfolio Demo](Project_030548/README.md) |
+| 030549 | [Wazuh: Access Review — Reporting for Portfolio Demo](Project_030549/README.md) |
+| 030550 | [Wazuh: Access Review — Usability Improvement for Portfolio Demo](Project_030550/README.md) |
+| 030551 | [Wazuh: Performance Baseline — Baseline Setup for School Lab](Project_030551/README.md) |
+| 030552 | [Wazuh: Performance Baseline — Automation for School Lab](Project_030552/README.md) |
+| 030553 | [Wazuh: Performance Baseline — Recovery for School Lab](Project_030553/README.md) |
+| 030554 | [Wazuh: Performance Baseline — Reporting for School Lab](Project_030554/README.md) |
+| 030555 | [Wazuh: Performance Baseline — Usability Improvement for School Lab](Project_030555/README.md) |
+| 030556 | [Wazuh: Performance Baseline — Baseline Setup for Small Business](Project_030556/README.md) |
+| 030557 | [Wazuh: Performance Baseline — Automation for Small Business](Project_030557/README.md) |
+| 030558 | [Wazuh: Performance Baseline — Recovery for Small Business](Project_030558/README.md) |
+| 030559 | [Wazuh: Performance Baseline — Reporting for Small Business](Project_030559/README.md) |
+| 030560 | [Wazuh: Performance Baseline — Usability Improvement for Small Business](Project_030560/README.md) |
 
 [Back to the portfolio home](../README.md)
