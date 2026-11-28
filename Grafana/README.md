@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043118 | [Grafana: Audit — Recovery for Public Dataset](Project_043118/README.md) |
 | 043119 | [Grafana: Audit — Reporting for Public Dataset](Project_043119/README.md) |
 | 043120 | [Grafana: Audit — Usability Improvement for Public Dataset](Project_043120/README.md) |
+| 043121 | [Grafana: Audit — Baseline Setup for Branch Office Simulator](Project_043121/README.md) |
+| 043122 | [Grafana: Audit — Automation for Branch Office Simulator](Project_043122/README.md) |
+| 043123 | [Grafana: Audit — Recovery for Branch Office Simulator](Project_043123/README.md) |
+| 043124 | [Grafana: Audit — Reporting for Branch Office Simulator](Project_043124/README.md) |
+| 043125 | [Grafana: Audit — Usability Improvement for Branch Office Simulator](Project_043125/README.md) |
+| 043126 | [Grafana: Audit — Baseline Setup for Offline Classroom](Project_043126/README.md) |
+| 043127 | [Grafana: Audit — Automation for Offline Classroom](Project_043127/README.md) |
+| 043128 | [Grafana: Audit — Recovery for Offline Classroom](Project_043128/README.md) |
+| 043129 | [Grafana: Audit — Reporting for Offline Classroom](Project_043129/README.md) |
+| 043130 | [Grafana: Audit — Usability Improvement for Offline Classroom](Project_043130/README.md) |
+| 043131 | [Grafana: Audit — Baseline Setup for Single-Host Lab](Project_043131/README.md) |
+| 043132 | [Grafana: Audit — Automation for Single-Host Lab](Project_043132/README.md) |
+| 043133 | [Grafana: Audit — Recovery for Single-Host Lab](Project_043133/README.md) |
+| 043134 | [Grafana: Audit — Reporting for Single-Host Lab](Project_043134/README.md) |
+| 043135 | [Grafana: Audit — Usability Improvement for Single-Host Lab](Project_043135/README.md) |
+| 043136 | [Grafana: Audit — Baseline Setup for Two-Node Lab](Project_043136/README.md) |
+| 043137 | [Grafana: Audit — Automation for Two-Node Lab](Project_043137/README.md) |
+| 043138 | [Grafana: Audit — Recovery for Two-Node Lab](Project_043138/README.md) |
+| 043139 | [Grafana: Audit — Reporting for Two-Node Lab](Project_043139/README.md) |
+| 043140 | [Grafana: Audit — Usability Improvement for Two-Node Lab](Project_043140/README.md) |
 
 [Back to the portfolio home](../README.md)
