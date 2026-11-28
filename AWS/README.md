@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014038 | [AWS: Inventory — Recovery for Two-Node Lab](Project_014038/README.md) |
 | 014039 | [AWS: Inventory — Reporting for Two-Node Lab](Project_014039/README.md) |
 | 014040 | [AWS: Inventory — Usability Improvement for Two-Node Lab](Project_014040/README.md) |
+| 014041 | [AWS: Inventory — Baseline Setup for Help Desk](Project_014041/README.md) |
+| 014042 | [AWS: Inventory — Automation for Help Desk](Project_014042/README.md) |
+| 014043 | [AWS: Inventory — Recovery for Help Desk](Project_014043/README.md) |
+| 014044 | [AWS: Inventory — Reporting for Help Desk](Project_014044/README.md) |
+| 014045 | [AWS: Inventory — Usability Improvement for Help Desk](Project_014045/README.md) |
+| 014046 | [AWS: Inventory — Baseline Setup for Portfolio Demo](Project_014046/README.md) |
+| 014047 | [AWS: Inventory — Automation for Portfolio Demo](Project_014047/README.md) |
+| 014048 | [AWS: Inventory — Recovery for Portfolio Demo](Project_014048/README.md) |
+| 014049 | [AWS: Inventory — Reporting for Portfolio Demo](Project_014049/README.md) |
+| 014050 | [AWS: Inventory — Usability Improvement for Portfolio Demo](Project_014050/README.md) |
+| 014051 | [AWS: Monitoring — Baseline Setup for School Lab](Project_014051/README.md) |
+| 014052 | [AWS: Monitoring — Automation for School Lab](Project_014052/README.md) |
+| 014053 | [AWS: Monitoring — Recovery for School Lab](Project_014053/README.md) |
+| 014054 | [AWS: Monitoring — Reporting for School Lab](Project_014054/README.md) |
+| 014055 | [AWS: Monitoring — Usability Improvement for School Lab](Project_014055/README.md) |
+| 014056 | [AWS: Monitoring — Baseline Setup for Small Business](Project_014056/README.md) |
+| 014057 | [AWS: Monitoring — Automation for Small Business](Project_014057/README.md) |
+| 014058 | [AWS: Monitoring — Recovery for Small Business](Project_014058/README.md) |
+| 014059 | [AWS: Monitoring — Reporting for Small Business](Project_014059/README.md) |
+| 014060 | [AWS: Monitoring — Usability Improvement for Small Business](Project_014060/README.md) |
 
 [Back to the portfolio home](../README.md)
