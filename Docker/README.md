@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017718 | [Docker: Error Handling — Recovery for Public Dataset](Project_017718/README.md) |
 | 017719 | [Docker: Error Handling — Reporting for Public Dataset](Project_017719/README.md) |
 | 017720 | [Docker: Error Handling — Usability Improvement for Public Dataset](Project_017720/README.md) |
+| 017721 | [Docker: Error Handling — Baseline Setup for Branch Office Simulator](Project_017721/README.md) |
+| 017722 | [Docker: Error Handling — Automation for Branch Office Simulator](Project_017722/README.md) |
+| 017723 | [Docker: Error Handling — Recovery for Branch Office Simulator](Project_017723/README.md) |
+| 017724 | [Docker: Error Handling — Reporting for Branch Office Simulator](Project_017724/README.md) |
+| 017725 | [Docker: Error Handling — Usability Improvement for Branch Office Simulator](Project_017725/README.md) |
+| 017726 | [Docker: Error Handling — Baseline Setup for Offline Classroom](Project_017726/README.md) |
+| 017727 | [Docker: Error Handling — Automation for Offline Classroom](Project_017727/README.md) |
+| 017728 | [Docker: Error Handling — Recovery for Offline Classroom](Project_017728/README.md) |
+| 017729 | [Docker: Error Handling — Reporting for Offline Classroom](Project_017729/README.md) |
+| 017730 | [Docker: Error Handling — Usability Improvement for Offline Classroom](Project_017730/README.md) |
+| 017731 | [Docker: Error Handling — Baseline Setup for Single-Host Lab](Project_017731/README.md) |
+| 017732 | [Docker: Error Handling — Automation for Single-Host Lab](Project_017732/README.md) |
+| 017733 | [Docker: Error Handling — Recovery for Single-Host Lab](Project_017733/README.md) |
+| 017734 | [Docker: Error Handling — Reporting for Single-Host Lab](Project_017734/README.md) |
+| 017735 | [Docker: Error Handling — Usability Improvement for Single-Host Lab](Project_017735/README.md) |
+| 017736 | [Docker: Error Handling — Baseline Setup for Two-Node Lab](Project_017736/README.md) |
+| 017737 | [Docker: Error Handling — Automation for Two-Node Lab](Project_017737/README.md) |
+| 017738 | [Docker: Error Handling — Recovery for Two-Node Lab](Project_017738/README.md) |
+| 017739 | [Docker: Error Handling — Reporting for Two-Node Lab](Project_017739/README.md) |
+| 017740 | [Docker: Error Handling — Usability Improvement for Two-Node Lab](Project_017740/README.md) |
 
 [Back to the portfolio home](../README.md)
