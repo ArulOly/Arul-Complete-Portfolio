@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044458 | [Prometheus: Scheduled Reporting — Recovery for Small Business](Project_044458/README.md) |
 | 044459 | [Prometheus: Scheduled Reporting — Reporting for Small Business](Project_044459/README.md) |
 | 044460 | [Prometheus: Scheduled Reporting — Usability Improvement for Small Business](Project_044460/README.md) |
+| 044461 | [Prometheus: Scheduled Reporting — Baseline Setup for Home Development](Project_044461/README.md) |
+| 044462 | [Prometheus: Scheduled Reporting — Automation for Home Development](Project_044462/README.md) |
+| 044463 | [Prometheus: Scheduled Reporting — Recovery for Home Development](Project_044463/README.md) |
+| 044464 | [Prometheus: Scheduled Reporting — Reporting for Home Development](Project_044464/README.md) |
+| 044465 | [Prometheus: Scheduled Reporting — Usability Improvement for Home Development](Project_044465/README.md) |
+| 044466 | [Prometheus: Scheduled Reporting — Baseline Setup for Public Dataset](Project_044466/README.md) |
+| 044467 | [Prometheus: Scheduled Reporting — Automation for Public Dataset](Project_044467/README.md) |
+| 044468 | [Prometheus: Scheduled Reporting — Recovery for Public Dataset](Project_044468/README.md) |
+| 044469 | [Prometheus: Scheduled Reporting — Reporting for Public Dataset](Project_044469/README.md) |
+| 044470 | [Prometheus: Scheduled Reporting — Usability Improvement for Public Dataset](Project_044470/README.md) |
+| 044471 | [Prometheus: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_044471/README.md) |
+| 044472 | [Prometheus: Scheduled Reporting — Automation for Branch Office Simulator](Project_044472/README.md) |
+| 044473 | [Prometheus: Scheduled Reporting — Recovery for Branch Office Simulator](Project_044473/README.md) |
+| 044474 | [Prometheus: Scheduled Reporting — Reporting for Branch Office Simulator](Project_044474/README.md) |
+| 044475 | [Prometheus: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_044475/README.md) |
+| 044476 | [Prometheus: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_044476/README.md) |
+| 044477 | [Prometheus: Scheduled Reporting — Automation for Offline Classroom](Project_044477/README.md) |
+| 044478 | [Prometheus: Scheduled Reporting — Recovery for Offline Classroom](Project_044478/README.md) |
+| 044479 | [Prometheus: Scheduled Reporting — Reporting for Offline Classroom](Project_044479/README.md) |
+| 044480 | [Prometheus: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_044480/README.md) |
 
 [Back to the portfolio home](../README.md)
