@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018418 | [Kubernetes: Alerting — Recovery for Public Dataset](Project_018418/README.md) |
 | 018419 | [Kubernetes: Alerting — Reporting for Public Dataset](Project_018419/README.md) |
 | 018420 | [Kubernetes: Alerting — Usability Improvement for Public Dataset](Project_018420/README.md) |
+| 018421 | [Kubernetes: Alerting — Baseline Setup for Branch Office Simulator](Project_018421/README.md) |
+| 018422 | [Kubernetes: Alerting — Automation for Branch Office Simulator](Project_018422/README.md) |
+| 018423 | [Kubernetes: Alerting — Recovery for Branch Office Simulator](Project_018423/README.md) |
+| 018424 | [Kubernetes: Alerting — Reporting for Branch Office Simulator](Project_018424/README.md) |
+| 018425 | [Kubernetes: Alerting — Usability Improvement for Branch Office Simulator](Project_018425/README.md) |
+| 018426 | [Kubernetes: Alerting — Baseline Setup for Offline Classroom](Project_018426/README.md) |
+| 018427 | [Kubernetes: Alerting — Automation for Offline Classroom](Project_018427/README.md) |
+| 018428 | [Kubernetes: Alerting — Recovery for Offline Classroom](Project_018428/README.md) |
+| 018429 | [Kubernetes: Alerting — Reporting for Offline Classroom](Project_018429/README.md) |
+| 018430 | [Kubernetes: Alerting — Usability Improvement for Offline Classroom](Project_018430/README.md) |
+| 018431 | [Kubernetes: Alerting — Baseline Setup for Single-Host Lab](Project_018431/README.md) |
+| 018432 | [Kubernetes: Alerting — Automation for Single-Host Lab](Project_018432/README.md) |
+| 018433 | [Kubernetes: Alerting — Recovery for Single-Host Lab](Project_018433/README.md) |
+| 018434 | [Kubernetes: Alerting — Reporting for Single-Host Lab](Project_018434/README.md) |
+| 018435 | [Kubernetes: Alerting — Usability Improvement for Single-Host Lab](Project_018435/README.md) |
+| 018436 | [Kubernetes: Alerting — Baseline Setup for Two-Node Lab](Project_018436/README.md) |
+| 018437 | [Kubernetes: Alerting — Automation for Two-Node Lab](Project_018437/README.md) |
+| 018438 | [Kubernetes: Alerting — Recovery for Two-Node Lab](Project_018438/README.md) |
+| 018439 | [Kubernetes: Alerting — Reporting for Two-Node Lab](Project_018439/README.md) |
+| 018440 | [Kubernetes: Alerting — Usability Improvement for Two-Node Lab](Project_018440/README.md) |
 
 [Back to the portfolio home](../README.md)
