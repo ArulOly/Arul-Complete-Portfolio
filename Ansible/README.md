@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047278 | [Ansible: Data Import — Recovery for Offline Classroom](Project_047278/README.md) |
 | 047279 | [Ansible: Data Import — Reporting for Offline Classroom](Project_047279/README.md) |
 | 047280 | [Ansible: Data Import — Usability Improvement for Offline Classroom](Project_047280/README.md) |
+| 047281 | [Ansible: Data Import — Baseline Setup for Single-Host Lab](Project_047281/README.md) |
+| 047282 | [Ansible: Data Import — Automation for Single-Host Lab](Project_047282/README.md) |
+| 047283 | [Ansible: Data Import — Recovery for Single-Host Lab](Project_047283/README.md) |
+| 047284 | [Ansible: Data Import — Reporting for Single-Host Lab](Project_047284/README.md) |
+| 047285 | [Ansible: Data Import — Usability Improvement for Single-Host Lab](Project_047285/README.md) |
+| 047286 | [Ansible: Data Import — Baseline Setup for Two-Node Lab](Project_047286/README.md) |
+| 047287 | [Ansible: Data Import — Automation for Two-Node Lab](Project_047287/README.md) |
+| 047288 | [Ansible: Data Import — Recovery for Two-Node Lab](Project_047288/README.md) |
+| 047289 | [Ansible: Data Import — Reporting for Two-Node Lab](Project_047289/README.md) |
+| 047290 | [Ansible: Data Import — Usability Improvement for Two-Node Lab](Project_047290/README.md) |
+| 047291 | [Ansible: Data Import — Baseline Setup for Help Desk](Project_047291/README.md) |
+| 047292 | [Ansible: Data Import — Automation for Help Desk](Project_047292/README.md) |
+| 047293 | [Ansible: Data Import — Recovery for Help Desk](Project_047293/README.md) |
+| 047294 | [Ansible: Data Import — Reporting for Help Desk](Project_047294/README.md) |
+| 047295 | [Ansible: Data Import — Usability Improvement for Help Desk](Project_047295/README.md) |
+| 047296 | [Ansible: Data Import — Baseline Setup for Portfolio Demo](Project_047296/README.md) |
+| 047297 | [Ansible: Data Import — Automation for Portfolio Demo](Project_047297/README.md) |
+| 047298 | [Ansible: Data Import — Recovery for Portfolio Demo](Project_047298/README.md) |
+| 047299 | [Ansible: Data Import — Reporting for Portfolio Demo](Project_047299/README.md) |
+| 047300 | [Ansible: Data Import — Usability Improvement for Portfolio Demo](Project_047300/README.md) |
 
 [Back to the portfolio home](../README.md)
