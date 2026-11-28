@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035498 | [Raspberry Pi: Scheduled Reporting — Recovery for Portfolio Demo](Project_035498/README.md) |
 | 035499 | [Raspberry Pi: Scheduled Reporting — Reporting for Portfolio Demo](Project_035499/README.md) |
 | 035500 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_035500/README.md) |
+| 035501 | [Raspberry Pi: Access Review — Baseline Setup for School Lab](Project_035501/README.md) |
+| 035502 | [Raspberry Pi: Access Review — Automation for School Lab](Project_035502/README.md) |
+| 035503 | [Raspberry Pi: Access Review — Recovery for School Lab](Project_035503/README.md) |
+| 035504 | [Raspberry Pi: Access Review — Reporting for School Lab](Project_035504/README.md) |
+| 035505 | [Raspberry Pi: Access Review — Usability Improvement for School Lab](Project_035505/README.md) |
+| 035506 | [Raspberry Pi: Access Review — Baseline Setup for Small Business](Project_035506/README.md) |
+| 035507 | [Raspberry Pi: Access Review — Automation for Small Business](Project_035507/README.md) |
+| 035508 | [Raspberry Pi: Access Review — Recovery for Small Business](Project_035508/README.md) |
+| 035509 | [Raspberry Pi: Access Review — Reporting for Small Business](Project_035509/README.md) |
+| 035510 | [Raspberry Pi: Access Review — Usability Improvement for Small Business](Project_035510/README.md) |
+| 035511 | [Raspberry Pi: Access Review — Baseline Setup for Home Development](Project_035511/README.md) |
+| 035512 | [Raspberry Pi: Access Review — Automation for Home Development](Project_035512/README.md) |
+| 035513 | [Raspberry Pi: Access Review — Recovery for Home Development](Project_035513/README.md) |
+| 035514 | [Raspberry Pi: Access Review — Reporting for Home Development](Project_035514/README.md) |
+| 035515 | [Raspberry Pi: Access Review — Usability Improvement for Home Development](Project_035515/README.md) |
+| 035516 | [Raspberry Pi: Access Review — Baseline Setup for Public Dataset](Project_035516/README.md) |
+| 035517 | [Raspberry Pi: Access Review — Automation for Public Dataset](Project_035517/README.md) |
+| 035518 | [Raspberry Pi: Access Review — Recovery for Public Dataset](Project_035518/README.md) |
+| 035519 | [Raspberry Pi: Access Review — Reporting for Public Dataset](Project_035519/README.md) |
+| 035520 | [Raspberry Pi: Access Review — Usability Improvement for Public Dataset](Project_035520/README.md) |
 
 [Back to the portfolio home](../README.md)
