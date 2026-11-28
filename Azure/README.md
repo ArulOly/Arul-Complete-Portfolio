@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015658 | [Azure: Configuration Comparison — Recovery for Small Business](Project_015658/README.md) |
 | 015659 | [Azure: Configuration Comparison — Reporting for Small Business](Project_015659/README.md) |
 | 015660 | [Azure: Configuration Comparison — Usability Improvement for Small Business](Project_015660/README.md) |
+| 015661 | [Azure: Configuration Comparison — Baseline Setup for Home Development](Project_015661/README.md) |
+| 015662 | [Azure: Configuration Comparison — Automation for Home Development](Project_015662/README.md) |
+| 015663 | [Azure: Configuration Comparison — Recovery for Home Development](Project_015663/README.md) |
+| 015664 | [Azure: Configuration Comparison — Reporting for Home Development](Project_015664/README.md) |
+| 015665 | [Azure: Configuration Comparison — Usability Improvement for Home Development](Project_015665/README.md) |
+| 015666 | [Azure: Configuration Comparison — Baseline Setup for Public Dataset](Project_015666/README.md) |
+| 015667 | [Azure: Configuration Comparison — Automation for Public Dataset](Project_015667/README.md) |
+| 015668 | [Azure: Configuration Comparison — Recovery for Public Dataset](Project_015668/README.md) |
+| 015669 | [Azure: Configuration Comparison — Reporting for Public Dataset](Project_015669/README.md) |
+| 015670 | [Azure: Configuration Comparison — Usability Improvement for Public Dataset](Project_015670/README.md) |
+| 015671 | [Azure: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_015671/README.md) |
+| 015672 | [Azure: Configuration Comparison — Automation for Branch Office Simulator](Project_015672/README.md) |
+| 015673 | [Azure: Configuration Comparison — Recovery for Branch Office Simulator](Project_015673/README.md) |
+| 015674 | [Azure: Configuration Comparison — Reporting for Branch Office Simulator](Project_015674/README.md) |
+| 015675 | [Azure: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_015675/README.md) |
+| 015676 | [Azure: Configuration Comparison — Baseline Setup for Offline Classroom](Project_015676/README.md) |
+| 015677 | [Azure: Configuration Comparison — Automation for Offline Classroom](Project_015677/README.md) |
+| 015678 | [Azure: Configuration Comparison — Recovery for Offline Classroom](Project_015678/README.md) |
+| 015679 | [Azure: Configuration Comparison — Reporting for Offline Classroom](Project_015679/README.md) |
+| 015680 | [Azure: Configuration Comparison — Usability Improvement for Offline Classroom](Project_015680/README.md) |
 
 [Back to the portfolio home](../README.md)
