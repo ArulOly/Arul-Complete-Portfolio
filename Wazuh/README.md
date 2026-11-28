@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030438 | [Wazuh: Alerting — Recovery for Two-Node Lab](Project_030438/README.md) |
 | 030439 | [Wazuh: Alerting — Reporting for Two-Node Lab](Project_030439/README.md) |
 | 030440 | [Wazuh: Alerting — Usability Improvement for Two-Node Lab](Project_030440/README.md) |
+| 030441 | [Wazuh: Alerting — Baseline Setup for Help Desk](Project_030441/README.md) |
+| 030442 | [Wazuh: Alerting — Automation for Help Desk](Project_030442/README.md) |
+| 030443 | [Wazuh: Alerting — Recovery for Help Desk](Project_030443/README.md) |
+| 030444 | [Wazuh: Alerting — Reporting for Help Desk](Project_030444/README.md) |
+| 030445 | [Wazuh: Alerting — Usability Improvement for Help Desk](Project_030445/README.md) |
+| 030446 | [Wazuh: Alerting — Baseline Setup for Portfolio Demo](Project_030446/README.md) |
+| 030447 | [Wazuh: Alerting — Automation for Portfolio Demo](Project_030447/README.md) |
+| 030448 | [Wazuh: Alerting — Recovery for Portfolio Demo](Project_030448/README.md) |
+| 030449 | [Wazuh: Alerting — Reporting for Portfolio Demo](Project_030449/README.md) |
+| 030450 | [Wazuh: Alerting — Usability Improvement for Portfolio Demo](Project_030450/README.md) |
+| 030451 | [Wazuh: Scheduled Reporting — Baseline Setup for School Lab](Project_030451/README.md) |
+| 030452 | [Wazuh: Scheduled Reporting — Automation for School Lab](Project_030452/README.md) |
+| 030453 | [Wazuh: Scheduled Reporting — Recovery for School Lab](Project_030453/README.md) |
+| 030454 | [Wazuh: Scheduled Reporting — Reporting for School Lab](Project_030454/README.md) |
+| 030455 | [Wazuh: Scheduled Reporting — Usability Improvement for School Lab](Project_030455/README.md) |
+| 030456 | [Wazuh: Scheduled Reporting — Baseline Setup for Small Business](Project_030456/README.md) |
+| 030457 | [Wazuh: Scheduled Reporting — Automation for Small Business](Project_030457/README.md) |
+| 030458 | [Wazuh: Scheduled Reporting — Recovery for Small Business](Project_030458/README.md) |
+| 030459 | [Wazuh: Scheduled Reporting — Reporting for Small Business](Project_030459/README.md) |
+| 030460 | [Wazuh: Scheduled Reporting — Usability Improvement for Small Business](Project_030460/README.md) |
 
 [Back to the portfolio home](../README.md)
