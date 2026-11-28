@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014078 | [AWS: Monitoring — Recovery for Offline Classroom](Project_014078/README.md) |
 | 014079 | [AWS: Monitoring — Reporting for Offline Classroom](Project_014079/README.md) |
 | 014080 | [AWS: Monitoring — Usability Improvement for Offline Classroom](Project_014080/README.md) |
+| 014081 | [AWS: Monitoring — Baseline Setup for Single-Host Lab](Project_014081/README.md) |
+| 014082 | [AWS: Monitoring — Automation for Single-Host Lab](Project_014082/README.md) |
+| 014083 | [AWS: Monitoring — Recovery for Single-Host Lab](Project_014083/README.md) |
+| 014084 | [AWS: Monitoring — Reporting for Single-Host Lab](Project_014084/README.md) |
+| 014085 | [AWS: Monitoring — Usability Improvement for Single-Host Lab](Project_014085/README.md) |
+| 014086 | [AWS: Monitoring — Baseline Setup for Two-Node Lab](Project_014086/README.md) |
+| 014087 | [AWS: Monitoring — Automation for Two-Node Lab](Project_014087/README.md) |
+| 014088 | [AWS: Monitoring — Recovery for Two-Node Lab](Project_014088/README.md) |
+| 014089 | [AWS: Monitoring — Reporting for Two-Node Lab](Project_014089/README.md) |
+| 014090 | [AWS: Monitoring — Usability Improvement for Two-Node Lab](Project_014090/README.md) |
+| 014091 | [AWS: Monitoring — Baseline Setup for Help Desk](Project_014091/README.md) |
+| 014092 | [AWS: Monitoring — Automation for Help Desk](Project_014092/README.md) |
+| 014093 | [AWS: Monitoring — Recovery for Help Desk](Project_014093/README.md) |
+| 014094 | [AWS: Monitoring — Reporting for Help Desk](Project_014094/README.md) |
+| 014095 | [AWS: Monitoring — Usability Improvement for Help Desk](Project_014095/README.md) |
+| 014096 | [AWS: Monitoring — Baseline Setup for Portfolio Demo](Project_014096/README.md) |
+| 014097 | [AWS: Monitoring — Automation for Portfolio Demo](Project_014097/README.md) |
+| 014098 | [AWS: Monitoring — Recovery for Portfolio Demo](Project_014098/README.md) |
+| 014099 | [AWS: Monitoring — Reporting for Portfolio Demo](Project_014099/README.md) |
+| 014100 | [AWS: Monitoring — Usability Improvement for Portfolio Demo](Project_014100/README.md) |
 
 [Back to the portfolio home](../README.md)
