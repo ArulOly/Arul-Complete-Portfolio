@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035778 | [Raspberry Pi: Data Validation — Recovery for Offline Classroom](Project_035778/README.md) |
 | 035779 | [Raspberry Pi: Data Validation — Reporting for Offline Classroom](Project_035779/README.md) |
 | 035780 | [Raspberry Pi: Data Validation — Usability Improvement for Offline Classroom](Project_035780/README.md) |
+| 035781 | [Raspberry Pi: Data Validation — Baseline Setup for Single-Host Lab](Project_035781/README.md) |
+| 035782 | [Raspberry Pi: Data Validation — Automation for Single-Host Lab](Project_035782/README.md) |
+| 035783 | [Raspberry Pi: Data Validation — Recovery for Single-Host Lab](Project_035783/README.md) |
+| 035784 | [Raspberry Pi: Data Validation — Reporting for Single-Host Lab](Project_035784/README.md) |
+| 035785 | [Raspberry Pi: Data Validation — Usability Improvement for Single-Host Lab](Project_035785/README.md) |
+| 035786 | [Raspberry Pi: Data Validation — Baseline Setup for Two-Node Lab](Project_035786/README.md) |
+| 035787 | [Raspberry Pi: Data Validation — Automation for Two-Node Lab](Project_035787/README.md) |
+| 035788 | [Raspberry Pi: Data Validation — Recovery for Two-Node Lab](Project_035788/README.md) |
+| 035789 | [Raspberry Pi: Data Validation — Reporting for Two-Node Lab](Project_035789/README.md) |
+| 035790 | [Raspberry Pi: Data Validation — Usability Improvement for Two-Node Lab](Project_035790/README.md) |
+| 035791 | [Raspberry Pi: Data Validation — Baseline Setup for Help Desk](Project_035791/README.md) |
+| 035792 | [Raspberry Pi: Data Validation — Automation for Help Desk](Project_035792/README.md) |
+| 035793 | [Raspberry Pi: Data Validation — Recovery for Help Desk](Project_035793/README.md) |
+| 035794 | [Raspberry Pi: Data Validation — Reporting for Help Desk](Project_035794/README.md) |
+| 035795 | [Raspberry Pi: Data Validation — Usability Improvement for Help Desk](Project_035795/README.md) |
+| 035796 | [Raspberry Pi: Data Validation — Baseline Setup for Portfolio Demo](Project_035796/README.md) |
+| 035797 | [Raspberry Pi: Data Validation — Automation for Portfolio Demo](Project_035797/README.md) |
+| 035798 | [Raspberry Pi: Data Validation — Recovery for Portfolio Demo](Project_035798/README.md) |
+| 035799 | [Raspberry Pi: Data Validation — Reporting for Portfolio Demo](Project_035799/README.md) |
+| 035800 | [Raspberry Pi: Data Validation — Usability Improvement for Portfolio Demo](Project_035800/README.md) |
 
 [Back to the portfolio home](../README.md)
