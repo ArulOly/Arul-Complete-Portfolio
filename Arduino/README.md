@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037678 | [Arduino: Configuration Comparison — Recovery for Offline Classroom](Project_037678/README.md) |
 | 037679 | [Arduino: Configuration Comparison — Reporting for Offline Classroom](Project_037679/README.md) |
 | 037680 | [Arduino: Configuration Comparison — Usability Improvement for Offline Classroom](Project_037680/README.md) |
+| 037681 | [Arduino: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_037681/README.md) |
+| 037682 | [Arduino: Configuration Comparison — Automation for Single-Host Lab](Project_037682/README.md) |
+| 037683 | [Arduino: Configuration Comparison — Recovery for Single-Host Lab](Project_037683/README.md) |
+| 037684 | [Arduino: Configuration Comparison — Reporting for Single-Host Lab](Project_037684/README.md) |
+| 037685 | [Arduino: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_037685/README.md) |
+| 037686 | [Arduino: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_037686/README.md) |
+| 037687 | [Arduino: Configuration Comparison — Automation for Two-Node Lab](Project_037687/README.md) |
+| 037688 | [Arduino: Configuration Comparison — Recovery for Two-Node Lab](Project_037688/README.md) |
+| 037689 | [Arduino: Configuration Comparison — Reporting for Two-Node Lab](Project_037689/README.md) |
+| 037690 | [Arduino: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_037690/README.md) |
+| 037691 | [Arduino: Configuration Comparison — Baseline Setup for Help Desk](Project_037691/README.md) |
+| 037692 | [Arduino: Configuration Comparison — Automation for Help Desk](Project_037692/README.md) |
+| 037693 | [Arduino: Configuration Comparison — Recovery for Help Desk](Project_037693/README.md) |
+| 037694 | [Arduino: Configuration Comparison — Reporting for Help Desk](Project_037694/README.md) |
+| 037695 | [Arduino: Configuration Comparison — Usability Improvement for Help Desk](Project_037695/README.md) |
+| 037696 | [Arduino: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_037696/README.md) |
+| 037697 | [Arduino: Configuration Comparison — Automation for Portfolio Demo](Project_037697/README.md) |
+| 037698 | [Arduino: Configuration Comparison — Recovery for Portfolio Demo](Project_037698/README.md) |
+| 037699 | [Arduino: Configuration Comparison — Reporting for Portfolio Demo](Project_037699/README.md) |
+| 037700 | [Arduino: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_037700/README.md) |
 
 [Back to the portfolio home](../README.md)
