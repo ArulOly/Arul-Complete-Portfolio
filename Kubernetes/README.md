@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018558 | [Kubernetes: Performance Baseline — Recovery for Small Business](Project_018558/README.md) |
 | 018559 | [Kubernetes: Performance Baseline — Reporting for Small Business](Project_018559/README.md) |
 | 018560 | [Kubernetes: Performance Baseline — Usability Improvement for Small Business](Project_018560/README.md) |
+| 018561 | [Kubernetes: Performance Baseline — Baseline Setup for Home Development](Project_018561/README.md) |
+| 018562 | [Kubernetes: Performance Baseline — Automation for Home Development](Project_018562/README.md) |
+| 018563 | [Kubernetes: Performance Baseline — Recovery for Home Development](Project_018563/README.md) |
+| 018564 | [Kubernetes: Performance Baseline — Reporting for Home Development](Project_018564/README.md) |
+| 018565 | [Kubernetes: Performance Baseline — Usability Improvement for Home Development](Project_018565/README.md) |
+| 018566 | [Kubernetes: Performance Baseline — Baseline Setup for Public Dataset](Project_018566/README.md) |
+| 018567 | [Kubernetes: Performance Baseline — Automation for Public Dataset](Project_018567/README.md) |
+| 018568 | [Kubernetes: Performance Baseline — Recovery for Public Dataset](Project_018568/README.md) |
+| 018569 | [Kubernetes: Performance Baseline — Reporting for Public Dataset](Project_018569/README.md) |
+| 018570 | [Kubernetes: Performance Baseline — Usability Improvement for Public Dataset](Project_018570/README.md) |
+| 018571 | [Kubernetes: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_018571/README.md) |
+| 018572 | [Kubernetes: Performance Baseline — Automation for Branch Office Simulator](Project_018572/README.md) |
+| 018573 | [Kubernetes: Performance Baseline — Recovery for Branch Office Simulator](Project_018573/README.md) |
+| 018574 | [Kubernetes: Performance Baseline — Reporting for Branch Office Simulator](Project_018574/README.md) |
+| 018575 | [Kubernetes: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_018575/README.md) |
+| 018576 | [Kubernetes: Performance Baseline — Baseline Setup for Offline Classroom](Project_018576/README.md) |
+| 018577 | [Kubernetes: Performance Baseline — Automation for Offline Classroom](Project_018577/README.md) |
+| 018578 | [Kubernetes: Performance Baseline — Recovery for Offline Classroom](Project_018578/README.md) |
+| 018579 | [Kubernetes: Performance Baseline — Reporting for Offline Classroom](Project_018579/README.md) |
+| 018580 | [Kubernetes: Performance Baseline — Usability Improvement for Offline Classroom](Project_018580/README.md) |
 
 [Back to the portfolio home](../README.md)
