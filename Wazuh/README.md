@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030258 | [Wazuh: Data Import — Recovery for Small Business](Project_030258/README.md) |
 | 030259 | [Wazuh: Data Import — Reporting for Small Business](Project_030259/README.md) |
 | 030260 | [Wazuh: Data Import — Usability Improvement for Small Business](Project_030260/README.md) |
+| 030261 | [Wazuh: Data Import — Baseline Setup for Home Development](Project_030261/README.md) |
+| 030262 | [Wazuh: Data Import — Automation for Home Development](Project_030262/README.md) |
+| 030263 | [Wazuh: Data Import — Recovery for Home Development](Project_030263/README.md) |
+| 030264 | [Wazuh: Data Import — Reporting for Home Development](Project_030264/README.md) |
+| 030265 | [Wazuh: Data Import — Usability Improvement for Home Development](Project_030265/README.md) |
+| 030266 | [Wazuh: Data Import — Baseline Setup for Public Dataset](Project_030266/README.md) |
+| 030267 | [Wazuh: Data Import — Automation for Public Dataset](Project_030267/README.md) |
+| 030268 | [Wazuh: Data Import — Recovery for Public Dataset](Project_030268/README.md) |
+| 030269 | [Wazuh: Data Import — Reporting for Public Dataset](Project_030269/README.md) |
+| 030270 | [Wazuh: Data Import — Usability Improvement for Public Dataset](Project_030270/README.md) |
+| 030271 | [Wazuh: Data Import — Baseline Setup for Branch Office Simulator](Project_030271/README.md) |
+| 030272 | [Wazuh: Data Import — Automation for Branch Office Simulator](Project_030272/README.md) |
+| 030273 | [Wazuh: Data Import — Recovery for Branch Office Simulator](Project_030273/README.md) |
+| 030274 | [Wazuh: Data Import — Reporting for Branch Office Simulator](Project_030274/README.md) |
+| 030275 | [Wazuh: Data Import — Usability Improvement for Branch Office Simulator](Project_030275/README.md) |
+| 030276 | [Wazuh: Data Import — Baseline Setup for Offline Classroom](Project_030276/README.md) |
+| 030277 | [Wazuh: Data Import — Automation for Offline Classroom](Project_030277/README.md) |
+| 030278 | [Wazuh: Data Import — Recovery for Offline Classroom](Project_030278/README.md) |
+| 030279 | [Wazuh: Data Import — Reporting for Offline Classroom](Project_030279/README.md) |
+| 030280 | [Wazuh: Data Import — Usability Improvement for Offline Classroom](Project_030280/README.md) |
 
 [Back to the portfolio home](../README.md)
