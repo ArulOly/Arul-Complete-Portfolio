@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038298 | [Git: Data Import — Recovery for Portfolio Demo](Project_038298/README.md) |
 | 038299 | [Git: Data Import — Reporting for Portfolio Demo](Project_038299/README.md) |
 | 038300 | [Git: Data Import — Usability Improvement for Portfolio Demo](Project_038300/README.md) |
+| 038301 | [Git: Data Export — Baseline Setup for School Lab](Project_038301/README.md) |
+| 038302 | [Git: Data Export — Automation for School Lab](Project_038302/README.md) |
+| 038303 | [Git: Data Export — Recovery for School Lab](Project_038303/README.md) |
+| 038304 | [Git: Data Export — Reporting for School Lab](Project_038304/README.md) |
+| 038305 | [Git: Data Export — Usability Improvement for School Lab](Project_038305/README.md) |
+| 038306 | [Git: Data Export — Baseline Setup for Small Business](Project_038306/README.md) |
+| 038307 | [Git: Data Export — Automation for Small Business](Project_038307/README.md) |
+| 038308 | [Git: Data Export — Recovery for Small Business](Project_038308/README.md) |
+| 038309 | [Git: Data Export — Reporting for Small Business](Project_038309/README.md) |
+| 038310 | [Git: Data Export — Usability Improvement for Small Business](Project_038310/README.md) |
+| 038311 | [Git: Data Export — Baseline Setup for Home Development](Project_038311/README.md) |
+| 038312 | [Git: Data Export — Automation for Home Development](Project_038312/README.md) |
+| 038313 | [Git: Data Export — Recovery for Home Development](Project_038313/README.md) |
+| 038314 | [Git: Data Export — Reporting for Home Development](Project_038314/README.md) |
+| 038315 | [Git: Data Export — Usability Improvement for Home Development](Project_038315/README.md) |
+| 038316 | [Git: Data Export — Baseline Setup for Public Dataset](Project_038316/README.md) |
+| 038317 | [Git: Data Export — Automation for Public Dataset](Project_038317/README.md) |
+| 038318 | [Git: Data Export — Recovery for Public Dataset](Project_038318/README.md) |
+| 038319 | [Git: Data Export — Reporting for Public Dataset](Project_038319/README.md) |
+| 038320 | [Git: Data Export — Usability Improvement for Public Dataset](Project_038320/README.md) |
 
 [Back to the portfolio home](../README.md)
