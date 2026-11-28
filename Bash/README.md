@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039498 | [Bash: Scheduled Reporting — Recovery for Portfolio Demo](Project_039498/README.md) |
 | 039499 | [Bash: Scheduled Reporting — Reporting for Portfolio Demo](Project_039499/README.md) |
 | 039500 | [Bash: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_039500/README.md) |
+| 039501 | [Bash: Access Review — Baseline Setup for School Lab](Project_039501/README.md) |
+| 039502 | [Bash: Access Review — Automation for School Lab](Project_039502/README.md) |
+| 039503 | [Bash: Access Review — Recovery for School Lab](Project_039503/README.md) |
+| 039504 | [Bash: Access Review — Reporting for School Lab](Project_039504/README.md) |
+| 039505 | [Bash: Access Review — Usability Improvement for School Lab](Project_039505/README.md) |
+| 039506 | [Bash: Access Review — Baseline Setup for Small Business](Project_039506/README.md) |
+| 039507 | [Bash: Access Review — Automation for Small Business](Project_039507/README.md) |
+| 039508 | [Bash: Access Review — Recovery for Small Business](Project_039508/README.md) |
+| 039509 | [Bash: Access Review — Reporting for Small Business](Project_039509/README.md) |
+| 039510 | [Bash: Access Review — Usability Improvement for Small Business](Project_039510/README.md) |
+| 039511 | [Bash: Access Review — Baseline Setup for Home Development](Project_039511/README.md) |
+| 039512 | [Bash: Access Review — Automation for Home Development](Project_039512/README.md) |
+| 039513 | [Bash: Access Review — Recovery for Home Development](Project_039513/README.md) |
+| 039514 | [Bash: Access Review — Reporting for Home Development](Project_039514/README.md) |
+| 039515 | [Bash: Access Review — Usability Improvement for Home Development](Project_039515/README.md) |
+| 039516 | [Bash: Access Review — Baseline Setup for Public Dataset](Project_039516/README.md) |
+| 039517 | [Bash: Access Review — Automation for Public Dataset](Project_039517/README.md) |
+| 039518 | [Bash: Access Review — Recovery for Public Dataset](Project_039518/README.md) |
+| 039519 | [Bash: Access Review — Reporting for Public Dataset](Project_039519/README.md) |
+| 039520 | [Bash: Access Review — Usability Improvement for Public Dataset](Project_039520/README.md) |
 
 [Back to the portfolio home](../README.md)
