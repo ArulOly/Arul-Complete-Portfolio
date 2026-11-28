@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039118 | [Bash: Audit — Recovery for Public Dataset](Project_039118/README.md) |
 | 039119 | [Bash: Audit — Reporting for Public Dataset](Project_039119/README.md) |
 | 039120 | [Bash: Audit — Usability Improvement for Public Dataset](Project_039120/README.md) |
+| 039121 | [Bash: Audit — Baseline Setup for Branch Office Simulator](Project_039121/README.md) |
+| 039122 | [Bash: Audit — Automation for Branch Office Simulator](Project_039122/README.md) |
+| 039123 | [Bash: Audit — Recovery for Branch Office Simulator](Project_039123/README.md) |
+| 039124 | [Bash: Audit — Reporting for Branch Office Simulator](Project_039124/README.md) |
+| 039125 | [Bash: Audit — Usability Improvement for Branch Office Simulator](Project_039125/README.md) |
+| 039126 | [Bash: Audit — Baseline Setup for Offline Classroom](Project_039126/README.md) |
+| 039127 | [Bash: Audit — Automation for Offline Classroom](Project_039127/README.md) |
+| 039128 | [Bash: Audit — Recovery for Offline Classroom](Project_039128/README.md) |
+| 039129 | [Bash: Audit — Reporting for Offline Classroom](Project_039129/README.md) |
+| 039130 | [Bash: Audit — Usability Improvement for Offline Classroom](Project_039130/README.md) |
+| 039131 | [Bash: Audit — Baseline Setup for Single-Host Lab](Project_039131/README.md) |
+| 039132 | [Bash: Audit — Automation for Single-Host Lab](Project_039132/README.md) |
+| 039133 | [Bash: Audit — Recovery for Single-Host Lab](Project_039133/README.md) |
+| 039134 | [Bash: Audit — Reporting for Single-Host Lab](Project_039134/README.md) |
+| 039135 | [Bash: Audit — Usability Improvement for Single-Host Lab](Project_039135/README.md) |
+| 039136 | [Bash: Audit — Baseline Setup for Two-Node Lab](Project_039136/README.md) |
+| 039137 | [Bash: Audit — Automation for Two-Node Lab](Project_039137/README.md) |
+| 039138 | [Bash: Audit — Recovery for Two-Node Lab](Project_039138/README.md) |
+| 039139 | [Bash: Audit — Reporting for Two-Node Lab](Project_039139/README.md) |
+| 039140 | [Bash: Audit — Usability Improvement for Two-Node Lab](Project_039140/README.md) |
 
 [Back to the portfolio home](../README.md)
