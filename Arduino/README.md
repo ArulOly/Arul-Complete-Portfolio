@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037918 | [Arduino: Visual Reporting — Recovery for Public Dataset](Project_037918/README.md) |
 | 037919 | [Arduino: Visual Reporting — Reporting for Public Dataset](Project_037919/README.md) |
 | 037920 | [Arduino: Visual Reporting — Usability Improvement for Public Dataset](Project_037920/README.md) |
+| 037921 | [Arduino: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_037921/README.md) |
+| 037922 | [Arduino: Visual Reporting — Automation for Branch Office Simulator](Project_037922/README.md) |
+| 037923 | [Arduino: Visual Reporting — Recovery for Branch Office Simulator](Project_037923/README.md) |
+| 037924 | [Arduino: Visual Reporting — Reporting for Branch Office Simulator](Project_037924/README.md) |
+| 037925 | [Arduino: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_037925/README.md) |
+| 037926 | [Arduino: Visual Reporting — Baseline Setup for Offline Classroom](Project_037926/README.md) |
+| 037927 | [Arduino: Visual Reporting — Automation for Offline Classroom](Project_037927/README.md) |
+| 037928 | [Arduino: Visual Reporting — Recovery for Offline Classroom](Project_037928/README.md) |
+| 037929 | [Arduino: Visual Reporting — Reporting for Offline Classroom](Project_037929/README.md) |
+| 037930 | [Arduino: Visual Reporting — Usability Improvement for Offline Classroom](Project_037930/README.md) |
+| 037931 | [Arduino: Visual Reporting — Baseline Setup for Single-Host Lab](Project_037931/README.md) |
+| 037932 | [Arduino: Visual Reporting — Automation for Single-Host Lab](Project_037932/README.md) |
+| 037933 | [Arduino: Visual Reporting — Recovery for Single-Host Lab](Project_037933/README.md) |
+| 037934 | [Arduino: Visual Reporting — Reporting for Single-Host Lab](Project_037934/README.md) |
+| 037935 | [Arduino: Visual Reporting — Usability Improvement for Single-Host Lab](Project_037935/README.md) |
+| 037936 | [Arduino: Visual Reporting — Baseline Setup for Two-Node Lab](Project_037936/README.md) |
+| 037937 | [Arduino: Visual Reporting — Automation for Two-Node Lab](Project_037937/README.md) |
+| 037938 | [Arduino: Visual Reporting — Recovery for Two-Node Lab](Project_037938/README.md) |
+| 037939 | [Arduino: Visual Reporting — Reporting for Two-Node Lab](Project_037939/README.md) |
+| 037940 | [Arduino: Visual Reporting — Usability Improvement for Two-Node Lab](Project_037940/README.md) |
 
 [Back to the portfolio home](../README.md)
