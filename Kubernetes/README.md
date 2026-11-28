@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018278 | [Kubernetes: Data Import — Recovery for Offline Classroom](Project_018278/README.md) |
 | 018279 | [Kubernetes: Data Import — Reporting for Offline Classroom](Project_018279/README.md) |
 | 018280 | [Kubernetes: Data Import — Usability Improvement for Offline Classroom](Project_018280/README.md) |
+| 018281 | [Kubernetes: Data Import — Baseline Setup for Single-Host Lab](Project_018281/README.md) |
+| 018282 | [Kubernetes: Data Import — Automation for Single-Host Lab](Project_018282/README.md) |
+| 018283 | [Kubernetes: Data Import — Recovery for Single-Host Lab](Project_018283/README.md) |
+| 018284 | [Kubernetes: Data Import — Reporting for Single-Host Lab](Project_018284/README.md) |
+| 018285 | [Kubernetes: Data Import — Usability Improvement for Single-Host Lab](Project_018285/README.md) |
+| 018286 | [Kubernetes: Data Import — Baseline Setup for Two-Node Lab](Project_018286/README.md) |
+| 018287 | [Kubernetes: Data Import — Automation for Two-Node Lab](Project_018287/README.md) |
+| 018288 | [Kubernetes: Data Import — Recovery for Two-Node Lab](Project_018288/README.md) |
+| 018289 | [Kubernetes: Data Import — Reporting for Two-Node Lab](Project_018289/README.md) |
+| 018290 | [Kubernetes: Data Import — Usability Improvement for Two-Node Lab](Project_018290/README.md) |
+| 018291 | [Kubernetes: Data Import — Baseline Setup for Help Desk](Project_018291/README.md) |
+| 018292 | [Kubernetes: Data Import — Automation for Help Desk](Project_018292/README.md) |
+| 018293 | [Kubernetes: Data Import — Recovery for Help Desk](Project_018293/README.md) |
+| 018294 | [Kubernetes: Data Import — Reporting for Help Desk](Project_018294/README.md) |
+| 018295 | [Kubernetes: Data Import — Usability Improvement for Help Desk](Project_018295/README.md) |
+| 018296 | [Kubernetes: Data Import — Baseline Setup for Portfolio Demo](Project_018296/README.md) |
+| 018297 | [Kubernetes: Data Import — Automation for Portfolio Demo](Project_018297/README.md) |
+| 018298 | [Kubernetes: Data Import — Recovery for Portfolio Demo](Project_018298/README.md) |
+| 018299 | [Kubernetes: Data Import — Reporting for Portfolio Demo](Project_018299/README.md) |
+| 018300 | [Kubernetes: Data Import — Usability Improvement for Portfolio Demo](Project_018300/README.md) |
 
 [Back to the portfolio home](../README.md)
