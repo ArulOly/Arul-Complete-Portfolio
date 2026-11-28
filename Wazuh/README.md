@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030638 | [Wazuh: Service Check — Recovery for Two-Node Lab](Project_030638/README.md) |
 | 030639 | [Wazuh: Service Check — Reporting for Two-Node Lab](Project_030639/README.md) |
 | 030640 | [Wazuh: Service Check — Usability Improvement for Two-Node Lab](Project_030640/README.md) |
+| 030641 | [Wazuh: Service Check — Baseline Setup for Help Desk](Project_030641/README.md) |
+| 030642 | [Wazuh: Service Check — Automation for Help Desk](Project_030642/README.md) |
+| 030643 | [Wazuh: Service Check — Recovery for Help Desk](Project_030643/README.md) |
+| 030644 | [Wazuh: Service Check — Reporting for Help Desk](Project_030644/README.md) |
+| 030645 | [Wazuh: Service Check — Usability Improvement for Help Desk](Project_030645/README.md) |
+| 030646 | [Wazuh: Service Check — Baseline Setup for Portfolio Demo](Project_030646/README.md) |
+| 030647 | [Wazuh: Service Check — Automation for Portfolio Demo](Project_030647/README.md) |
+| 030648 | [Wazuh: Service Check — Recovery for Portfolio Demo](Project_030648/README.md) |
+| 030649 | [Wazuh: Service Check — Reporting for Portfolio Demo](Project_030649/README.md) |
+| 030650 | [Wazuh: Service Check — Usability Improvement for Portfolio Demo](Project_030650/README.md) |
+| 030651 | [Wazuh: Configuration Comparison — Baseline Setup for School Lab](Project_030651/README.md) |
+| 030652 | [Wazuh: Configuration Comparison — Automation for School Lab](Project_030652/README.md) |
+| 030653 | [Wazuh: Configuration Comparison — Recovery for School Lab](Project_030653/README.md) |
+| 030654 | [Wazuh: Configuration Comparison — Reporting for School Lab](Project_030654/README.md) |
+| 030655 | [Wazuh: Configuration Comparison — Usability Improvement for School Lab](Project_030655/README.md) |
+| 030656 | [Wazuh: Configuration Comparison — Baseline Setup for Small Business](Project_030656/README.md) |
+| 030657 | [Wazuh: Configuration Comparison — Automation for Small Business](Project_030657/README.md) |
+| 030658 | [Wazuh: Configuration Comparison — Recovery for Small Business](Project_030658/README.md) |
+| 030659 | [Wazuh: Configuration Comparison — Reporting for Small Business](Project_030659/README.md) |
+| 030660 | [Wazuh: Configuration Comparison — Usability Improvement for Small Business](Project_030660/README.md) |
 
 [Back to the portfolio home](../README.md)
