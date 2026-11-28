@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037118 | [Arduino: Audit — Recovery for Public Dataset](Project_037118/README.md) |
 | 037119 | [Arduino: Audit — Reporting for Public Dataset](Project_037119/README.md) |
 | 037120 | [Arduino: Audit — Usability Improvement for Public Dataset](Project_037120/README.md) |
+| 037121 | [Arduino: Audit — Baseline Setup for Branch Office Simulator](Project_037121/README.md) |
+| 037122 | [Arduino: Audit — Automation for Branch Office Simulator](Project_037122/README.md) |
+| 037123 | [Arduino: Audit — Recovery for Branch Office Simulator](Project_037123/README.md) |
+| 037124 | [Arduino: Audit — Reporting for Branch Office Simulator](Project_037124/README.md) |
+| 037125 | [Arduino: Audit — Usability Improvement for Branch Office Simulator](Project_037125/README.md) |
+| 037126 | [Arduino: Audit — Baseline Setup for Offline Classroom](Project_037126/README.md) |
+| 037127 | [Arduino: Audit — Automation for Offline Classroom](Project_037127/README.md) |
+| 037128 | [Arduino: Audit — Recovery for Offline Classroom](Project_037128/README.md) |
+| 037129 | [Arduino: Audit — Reporting for Offline Classroom](Project_037129/README.md) |
+| 037130 | [Arduino: Audit — Usability Improvement for Offline Classroom](Project_037130/README.md) |
+| 037131 | [Arduino: Audit — Baseline Setup for Single-Host Lab](Project_037131/README.md) |
+| 037132 | [Arduino: Audit — Automation for Single-Host Lab](Project_037132/README.md) |
+| 037133 | [Arduino: Audit — Recovery for Single-Host Lab](Project_037133/README.md) |
+| 037134 | [Arduino: Audit — Reporting for Single-Host Lab](Project_037134/README.md) |
+| 037135 | [Arduino: Audit — Usability Improvement for Single-Host Lab](Project_037135/README.md) |
+| 037136 | [Arduino: Audit — Baseline Setup for Two-Node Lab](Project_037136/README.md) |
+| 037137 | [Arduino: Audit — Automation for Two-Node Lab](Project_037137/README.md) |
+| 037138 | [Arduino: Audit — Recovery for Two-Node Lab](Project_037138/README.md) |
+| 037139 | [Arduino: Audit — Reporting for Two-Node Lab](Project_037139/README.md) |
+| 037140 | [Arduino: Audit — Usability Improvement for Two-Node Lab](Project_037140/README.md) |
 
 [Back to the portfolio home](../README.md)
