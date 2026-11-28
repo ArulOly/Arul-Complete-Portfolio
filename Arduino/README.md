@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037378 | [Arduino: Dashboard — Recovery for Offline Classroom](Project_037378/README.md) |
 | 037379 | [Arduino: Dashboard — Reporting for Offline Classroom](Project_037379/README.md) |
 | 037380 | [Arduino: Dashboard — Usability Improvement for Offline Classroom](Project_037380/README.md) |
+| 037381 | [Arduino: Dashboard — Baseline Setup for Single-Host Lab](Project_037381/README.md) |
+| 037382 | [Arduino: Dashboard — Automation for Single-Host Lab](Project_037382/README.md) |
+| 037383 | [Arduino: Dashboard — Recovery for Single-Host Lab](Project_037383/README.md) |
+| 037384 | [Arduino: Dashboard — Reporting for Single-Host Lab](Project_037384/README.md) |
+| 037385 | [Arduino: Dashboard — Usability Improvement for Single-Host Lab](Project_037385/README.md) |
+| 037386 | [Arduino: Dashboard — Baseline Setup for Two-Node Lab](Project_037386/README.md) |
+| 037387 | [Arduino: Dashboard — Automation for Two-Node Lab](Project_037387/README.md) |
+| 037388 | [Arduino: Dashboard — Recovery for Two-Node Lab](Project_037388/README.md) |
+| 037389 | [Arduino: Dashboard — Reporting for Two-Node Lab](Project_037389/README.md) |
+| 037390 | [Arduino: Dashboard — Usability Improvement for Two-Node Lab](Project_037390/README.md) |
+| 037391 | [Arduino: Dashboard — Baseline Setup for Help Desk](Project_037391/README.md) |
+| 037392 | [Arduino: Dashboard — Automation for Help Desk](Project_037392/README.md) |
+| 037393 | [Arduino: Dashboard — Recovery for Help Desk](Project_037393/README.md) |
+| 037394 | [Arduino: Dashboard — Reporting for Help Desk](Project_037394/README.md) |
+| 037395 | [Arduino: Dashboard — Usability Improvement for Help Desk](Project_037395/README.md) |
+| 037396 | [Arduino: Dashboard — Baseline Setup for Portfolio Demo](Project_037396/README.md) |
+| 037397 | [Arduino: Dashboard — Automation for Portfolio Demo](Project_037397/README.md) |
+| 037398 | [Arduino: Dashboard — Recovery for Portfolio Demo](Project_037398/README.md) |
+| 037399 | [Arduino: Dashboard — Reporting for Portfolio Demo](Project_037399/README.md) |
+| 037400 | [Arduino: Dashboard — Usability Improvement for Portfolio Demo](Project_037400/README.md) |
 
 [Back to the portfolio home](../README.md)
