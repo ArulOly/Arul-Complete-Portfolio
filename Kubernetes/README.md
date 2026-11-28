@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018978 | [Kubernetes: Recovery Test — Recovery for Offline Classroom](Project_018978/README.md) |
 | 018979 | [Kubernetes: Recovery Test — Reporting for Offline Classroom](Project_018979/README.md) |
 | 018980 | [Kubernetes: Recovery Test — Usability Improvement for Offline Classroom](Project_018980/README.md) |
+| 018981 | [Kubernetes: Recovery Test — Baseline Setup for Single-Host Lab](Project_018981/README.md) |
+| 018982 | [Kubernetes: Recovery Test — Automation for Single-Host Lab](Project_018982/README.md) |
+| 018983 | [Kubernetes: Recovery Test — Recovery for Single-Host Lab](Project_018983/README.md) |
+| 018984 | [Kubernetes: Recovery Test — Reporting for Single-Host Lab](Project_018984/README.md) |
+| 018985 | [Kubernetes: Recovery Test — Usability Improvement for Single-Host Lab](Project_018985/README.md) |
+| 018986 | [Kubernetes: Recovery Test — Baseline Setup for Two-Node Lab](Project_018986/README.md) |
+| 018987 | [Kubernetes: Recovery Test — Automation for Two-Node Lab](Project_018987/README.md) |
+| 018988 | [Kubernetes: Recovery Test — Recovery for Two-Node Lab](Project_018988/README.md) |
+| 018989 | [Kubernetes: Recovery Test — Reporting for Two-Node Lab](Project_018989/README.md) |
+| 018990 | [Kubernetes: Recovery Test — Usability Improvement for Two-Node Lab](Project_018990/README.md) |
+| 018991 | [Kubernetes: Recovery Test — Baseline Setup for Help Desk](Project_018991/README.md) |
+| 018992 | [Kubernetes: Recovery Test — Automation for Help Desk](Project_018992/README.md) |
+| 018993 | [Kubernetes: Recovery Test — Recovery for Help Desk](Project_018993/README.md) |
+| 018994 | [Kubernetes: Recovery Test — Reporting for Help Desk](Project_018994/README.md) |
+| 018995 | [Kubernetes: Recovery Test — Usability Improvement for Help Desk](Project_018995/README.md) |
+| 018996 | [Kubernetes: Recovery Test — Baseline Setup for Portfolio Demo](Project_018996/README.md) |
+| 018997 | [Kubernetes: Recovery Test — Automation for Portfolio Demo](Project_018997/README.md) |
+| 018998 | [Kubernetes: Recovery Test — Recovery for Portfolio Demo](Project_018998/README.md) |
+| 018999 | [Kubernetes: Recovery Test — Reporting for Portfolio Demo](Project_018999/README.md) |
+| 019000 | [Kubernetes: Recovery Test — Usability Improvement for Portfolio Demo](Project_019000/README.md) |
 
 [Back to the portfolio home](../README.md)
