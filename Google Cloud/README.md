@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016918 | [Google Cloud: Visual Reporting — Recovery for Public Dataset](Project_016918/README.md) |
 | 016919 | [Google Cloud: Visual Reporting — Reporting for Public Dataset](Project_016919/README.md) |
 | 016920 | [Google Cloud: Visual Reporting — Usability Improvement for Public Dataset](Project_016920/README.md) |
+| 016921 | [Google Cloud: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_016921/README.md) |
+| 016922 | [Google Cloud: Visual Reporting — Automation for Branch Office Simulator](Project_016922/README.md) |
+| 016923 | [Google Cloud: Visual Reporting — Recovery for Branch Office Simulator](Project_016923/README.md) |
+| 016924 | [Google Cloud: Visual Reporting — Reporting for Branch Office Simulator](Project_016924/README.md) |
+| 016925 | [Google Cloud: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_016925/README.md) |
+| 016926 | [Google Cloud: Visual Reporting — Baseline Setup for Offline Classroom](Project_016926/README.md) |
+| 016927 | [Google Cloud: Visual Reporting — Automation for Offline Classroom](Project_016927/README.md) |
+| 016928 | [Google Cloud: Visual Reporting — Recovery for Offline Classroom](Project_016928/README.md) |
+| 016929 | [Google Cloud: Visual Reporting — Reporting for Offline Classroom](Project_016929/README.md) |
+| 016930 | [Google Cloud: Visual Reporting — Usability Improvement for Offline Classroom](Project_016930/README.md) |
+| 016931 | [Google Cloud: Visual Reporting — Baseline Setup for Single-Host Lab](Project_016931/README.md) |
+| 016932 | [Google Cloud: Visual Reporting — Automation for Single-Host Lab](Project_016932/README.md) |
+| 016933 | [Google Cloud: Visual Reporting — Recovery for Single-Host Lab](Project_016933/README.md) |
+| 016934 | [Google Cloud: Visual Reporting — Reporting for Single-Host Lab](Project_016934/README.md) |
+| 016935 | [Google Cloud: Visual Reporting — Usability Improvement for Single-Host Lab](Project_016935/README.md) |
+| 016936 | [Google Cloud: Visual Reporting — Baseline Setup for Two-Node Lab](Project_016936/README.md) |
+| 016937 | [Google Cloud: Visual Reporting — Automation for Two-Node Lab](Project_016937/README.md) |
+| 016938 | [Google Cloud: Visual Reporting — Recovery for Two-Node Lab](Project_016938/README.md) |
+| 016939 | [Google Cloud: Visual Reporting — Reporting for Two-Node Lab](Project_016939/README.md) |
+| 016940 | [Google Cloud: Visual Reporting — Usability Improvement for Two-Node Lab](Project_016940/README.md) |
 
 [Back to the portfolio home](../README.md)
