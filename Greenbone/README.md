@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031838 | [Greenbone: Documentation Generation — Recovery for Two-Node Lab](Project_031838/README.md) |
 | 031839 | [Greenbone: Documentation Generation — Reporting for Two-Node Lab](Project_031839/README.md) |
 | 031840 | [Greenbone: Documentation Generation — Usability Improvement for Two-Node Lab](Project_031840/README.md) |
+| 031841 | [Greenbone: Documentation Generation — Baseline Setup for Help Desk](Project_031841/README.md) |
+| 031842 | [Greenbone: Documentation Generation — Automation for Help Desk](Project_031842/README.md) |
+| 031843 | [Greenbone: Documentation Generation — Recovery for Help Desk](Project_031843/README.md) |
+| 031844 | [Greenbone: Documentation Generation — Reporting for Help Desk](Project_031844/README.md) |
+| 031845 | [Greenbone: Documentation Generation — Usability Improvement for Help Desk](Project_031845/README.md) |
+| 031846 | [Greenbone: Documentation Generation — Baseline Setup for Portfolio Demo](Project_031846/README.md) |
+| 031847 | [Greenbone: Documentation Generation — Automation for Portfolio Demo](Project_031847/README.md) |
+| 031848 | [Greenbone: Documentation Generation — Recovery for Portfolio Demo](Project_031848/README.md) |
+| 031849 | [Greenbone: Documentation Generation — Reporting for Portfolio Demo](Project_031849/README.md) |
+| 031850 | [Greenbone: Documentation Generation — Usability Improvement for Portfolio Demo](Project_031850/README.md) |
+| 031851 | [Greenbone: Automation — Baseline Setup for School Lab](Project_031851/README.md) |
+| 031852 | [Greenbone: Automation — Automation for School Lab](Project_031852/README.md) |
+| 031853 | [Greenbone: Automation — Recovery for School Lab](Project_031853/README.md) |
+| 031854 | [Greenbone: Automation — Reporting for School Lab](Project_031854/README.md) |
+| 031855 | [Greenbone: Automation — Usability Improvement for School Lab](Project_031855/README.md) |
+| 031856 | [Greenbone: Automation — Baseline Setup for Small Business](Project_031856/README.md) |
+| 031857 | [Greenbone: Automation — Automation for Small Business](Project_031857/README.md) |
+| 031858 | [Greenbone: Automation — Recovery for Small Business](Project_031858/README.md) |
+| 031859 | [Greenbone: Automation — Reporting for Small Business](Project_031859/README.md) |
+| 031860 | [Greenbone: Automation — Usability Improvement for Small Business](Project_031860/README.md) |
 
 [Back to the portfolio home](../README.md)
