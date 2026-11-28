@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040778 | [PowerShell: Data Validation — Recovery for Offline Classroom](Project_040778/README.md) |
 | 040779 | [PowerShell: Data Validation — Reporting for Offline Classroom](Project_040779/README.md) |
 | 040780 | [PowerShell: Data Validation — Usability Improvement for Offline Classroom](Project_040780/README.md) |
+| 040781 | [PowerShell: Data Validation — Baseline Setup for Single-Host Lab](Project_040781/README.md) |
+| 040782 | [PowerShell: Data Validation — Automation for Single-Host Lab](Project_040782/README.md) |
+| 040783 | [PowerShell: Data Validation — Recovery for Single-Host Lab](Project_040783/README.md) |
+| 040784 | [PowerShell: Data Validation — Reporting for Single-Host Lab](Project_040784/README.md) |
+| 040785 | [PowerShell: Data Validation — Usability Improvement for Single-Host Lab](Project_040785/README.md) |
+| 040786 | [PowerShell: Data Validation — Baseline Setup for Two-Node Lab](Project_040786/README.md) |
+| 040787 | [PowerShell: Data Validation — Automation for Two-Node Lab](Project_040787/README.md) |
+| 040788 | [PowerShell: Data Validation — Recovery for Two-Node Lab](Project_040788/README.md) |
+| 040789 | [PowerShell: Data Validation — Reporting for Two-Node Lab](Project_040789/README.md) |
+| 040790 | [PowerShell: Data Validation — Usability Improvement for Two-Node Lab](Project_040790/README.md) |
+| 040791 | [PowerShell: Data Validation — Baseline Setup for Help Desk](Project_040791/README.md) |
+| 040792 | [PowerShell: Data Validation — Automation for Help Desk](Project_040792/README.md) |
+| 040793 | [PowerShell: Data Validation — Recovery for Help Desk](Project_040793/README.md) |
+| 040794 | [PowerShell: Data Validation — Reporting for Help Desk](Project_040794/README.md) |
+| 040795 | [PowerShell: Data Validation — Usability Improvement for Help Desk](Project_040795/README.md) |
+| 040796 | [PowerShell: Data Validation — Baseline Setup for Portfolio Demo](Project_040796/README.md) |
+| 040797 | [PowerShell: Data Validation — Automation for Portfolio Demo](Project_040797/README.md) |
+| 040798 | [PowerShell: Data Validation — Recovery for Portfolio Demo](Project_040798/README.md) |
+| 040799 | [PowerShell: Data Validation — Reporting for Portfolio Demo](Project_040799/README.md) |
+| 040800 | [PowerShell: Data Validation — Usability Improvement for Portfolio Demo](Project_040800/README.md) |
 
 [Back to the portfolio home](../README.md)
