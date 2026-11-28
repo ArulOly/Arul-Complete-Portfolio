@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015918 | [Azure: Visual Reporting — Recovery for Public Dataset](Project_015918/README.md) |
 | 015919 | [Azure: Visual Reporting — Reporting for Public Dataset](Project_015919/README.md) |
 | 015920 | [Azure: Visual Reporting — Usability Improvement for Public Dataset](Project_015920/README.md) |
+| 015921 | [Azure: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_015921/README.md) |
+| 015922 | [Azure: Visual Reporting — Automation for Branch Office Simulator](Project_015922/README.md) |
+| 015923 | [Azure: Visual Reporting — Recovery for Branch Office Simulator](Project_015923/README.md) |
+| 015924 | [Azure: Visual Reporting — Reporting for Branch Office Simulator](Project_015924/README.md) |
+| 015925 | [Azure: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_015925/README.md) |
+| 015926 | [Azure: Visual Reporting — Baseline Setup for Offline Classroom](Project_015926/README.md) |
+| 015927 | [Azure: Visual Reporting — Automation for Offline Classroom](Project_015927/README.md) |
+| 015928 | [Azure: Visual Reporting — Recovery for Offline Classroom](Project_015928/README.md) |
+| 015929 | [Azure: Visual Reporting — Reporting for Offline Classroom](Project_015929/README.md) |
+| 015930 | [Azure: Visual Reporting — Usability Improvement for Offline Classroom](Project_015930/README.md) |
+| 015931 | [Azure: Visual Reporting — Baseline Setup for Single-Host Lab](Project_015931/README.md) |
+| 015932 | [Azure: Visual Reporting — Automation for Single-Host Lab](Project_015932/README.md) |
+| 015933 | [Azure: Visual Reporting — Recovery for Single-Host Lab](Project_015933/README.md) |
+| 015934 | [Azure: Visual Reporting — Reporting for Single-Host Lab](Project_015934/README.md) |
+| 015935 | [Azure: Visual Reporting — Usability Improvement for Single-Host Lab](Project_015935/README.md) |
+| 015936 | [Azure: Visual Reporting — Baseline Setup for Two-Node Lab](Project_015936/README.md) |
+| 015937 | [Azure: Visual Reporting — Automation for Two-Node Lab](Project_015937/README.md) |
+| 015938 | [Azure: Visual Reporting — Recovery for Two-Node Lab](Project_015938/README.md) |
+| 015939 | [Azure: Visual Reporting — Reporting for Two-Node Lab](Project_015939/README.md) |
+| 015940 | [Azure: Visual Reporting — Usability Improvement for Two-Node Lab](Project_015940/README.md) |
 
 [Back to the portfolio home](../README.md)
