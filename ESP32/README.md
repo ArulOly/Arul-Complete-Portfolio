@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036258 | [ESP32: Data Import — Recovery for Small Business](Project_036258/README.md) |
 | 036259 | [ESP32: Data Import — Reporting for Small Business](Project_036259/README.md) |
 | 036260 | [ESP32: Data Import — Usability Improvement for Small Business](Project_036260/README.md) |
+| 036261 | [ESP32: Data Import — Baseline Setup for Home Development](Project_036261/README.md) |
+| 036262 | [ESP32: Data Import — Automation for Home Development](Project_036262/README.md) |
+| 036263 | [ESP32: Data Import — Recovery for Home Development](Project_036263/README.md) |
+| 036264 | [ESP32: Data Import — Reporting for Home Development](Project_036264/README.md) |
+| 036265 | [ESP32: Data Import — Usability Improvement for Home Development](Project_036265/README.md) |
+| 036266 | [ESP32: Data Import — Baseline Setup for Public Dataset](Project_036266/README.md) |
+| 036267 | [ESP32: Data Import — Automation for Public Dataset](Project_036267/README.md) |
+| 036268 | [ESP32: Data Import — Recovery for Public Dataset](Project_036268/README.md) |
+| 036269 | [ESP32: Data Import — Reporting for Public Dataset](Project_036269/README.md) |
+| 036270 | [ESP32: Data Import — Usability Improvement for Public Dataset](Project_036270/README.md) |
+| 036271 | [ESP32: Data Import — Baseline Setup for Branch Office Simulator](Project_036271/README.md) |
+| 036272 | [ESP32: Data Import — Automation for Branch Office Simulator](Project_036272/README.md) |
+| 036273 | [ESP32: Data Import — Recovery for Branch Office Simulator](Project_036273/README.md) |
+| 036274 | [ESP32: Data Import — Reporting for Branch Office Simulator](Project_036274/README.md) |
+| 036275 | [ESP32: Data Import — Usability Improvement for Branch Office Simulator](Project_036275/README.md) |
+| 036276 | [ESP32: Data Import — Baseline Setup for Offline Classroom](Project_036276/README.md) |
+| 036277 | [ESP32: Data Import — Automation for Offline Classroom](Project_036277/README.md) |
+| 036278 | [ESP32: Data Import — Recovery for Offline Classroom](Project_036278/README.md) |
+| 036279 | [ESP32: Data Import — Reporting for Offline Classroom](Project_036279/README.md) |
+| 036280 | [ESP32: Data Import — Usability Improvement for Offline Classroom](Project_036280/README.md) |
 
 [Back to the portfolio home](../README.md)
