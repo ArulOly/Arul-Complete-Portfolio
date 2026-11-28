@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038058 | [Git: Monitoring — Recovery for Small Business](Project_038058/README.md) |
 | 038059 | [Git: Monitoring — Reporting for Small Business](Project_038059/README.md) |
 | 038060 | [Git: Monitoring — Usability Improvement for Small Business](Project_038060/README.md) |
+| 038061 | [Git: Monitoring — Baseline Setup for Home Development](Project_038061/README.md) |
+| 038062 | [Git: Monitoring — Automation for Home Development](Project_038062/README.md) |
+| 038063 | [Git: Monitoring — Recovery for Home Development](Project_038063/README.md) |
+| 038064 | [Git: Monitoring — Reporting for Home Development](Project_038064/README.md) |
+| 038065 | [Git: Monitoring — Usability Improvement for Home Development](Project_038065/README.md) |
+| 038066 | [Git: Monitoring — Baseline Setup for Public Dataset](Project_038066/README.md) |
+| 038067 | [Git: Monitoring — Automation for Public Dataset](Project_038067/README.md) |
+| 038068 | [Git: Monitoring — Recovery for Public Dataset](Project_038068/README.md) |
+| 038069 | [Git: Monitoring — Reporting for Public Dataset](Project_038069/README.md) |
+| 038070 | [Git: Monitoring — Usability Improvement for Public Dataset](Project_038070/README.md) |
+| 038071 | [Git: Monitoring — Baseline Setup for Branch Office Simulator](Project_038071/README.md) |
+| 038072 | [Git: Monitoring — Automation for Branch Office Simulator](Project_038072/README.md) |
+| 038073 | [Git: Monitoring — Recovery for Branch Office Simulator](Project_038073/README.md) |
+| 038074 | [Git: Monitoring — Reporting for Branch Office Simulator](Project_038074/README.md) |
+| 038075 | [Git: Monitoring — Usability Improvement for Branch Office Simulator](Project_038075/README.md) |
+| 038076 | [Git: Monitoring — Baseline Setup for Offline Classroom](Project_038076/README.md) |
+| 038077 | [Git: Monitoring — Automation for Offline Classroom](Project_038077/README.md) |
+| 038078 | [Git: Monitoring — Recovery for Offline Classroom](Project_038078/README.md) |
+| 038079 | [Git: Monitoring — Reporting for Offline Classroom](Project_038079/README.md) |
+| 038080 | [Git: Monitoring — Usability Improvement for Offline Classroom](Project_038080/README.md) |
 
 [Back to the portfolio home](../README.md)
