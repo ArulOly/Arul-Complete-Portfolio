@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016738 | [Google Cloud: Error Handling — Recovery for Two-Node Lab](Project_016738/README.md) |
 | 016739 | [Google Cloud: Error Handling — Reporting for Two-Node Lab](Project_016739/README.md) |
 | 016740 | [Google Cloud: Error Handling — Usability Improvement for Two-Node Lab](Project_016740/README.md) |
+| 016741 | [Google Cloud: Error Handling — Baseline Setup for Help Desk](Project_016741/README.md) |
+| 016742 | [Google Cloud: Error Handling — Automation for Help Desk](Project_016742/README.md) |
+| 016743 | [Google Cloud: Error Handling — Recovery for Help Desk](Project_016743/README.md) |
+| 016744 | [Google Cloud: Error Handling — Reporting for Help Desk](Project_016744/README.md) |
+| 016745 | [Google Cloud: Error Handling — Usability Improvement for Help Desk](Project_016745/README.md) |
+| 016746 | [Google Cloud: Error Handling — Baseline Setup for Portfolio Demo](Project_016746/README.md) |
+| 016747 | [Google Cloud: Error Handling — Automation for Portfolio Demo](Project_016747/README.md) |
+| 016748 | [Google Cloud: Error Handling — Recovery for Portfolio Demo](Project_016748/README.md) |
+| 016749 | [Google Cloud: Error Handling — Reporting for Portfolio Demo](Project_016749/README.md) |
+| 016750 | [Google Cloud: Error Handling — Usability Improvement for Portfolio Demo](Project_016750/README.md) |
+| 016751 | [Google Cloud: Data Validation — Baseline Setup for School Lab](Project_016751/README.md) |
+| 016752 | [Google Cloud: Data Validation — Automation for School Lab](Project_016752/README.md) |
+| 016753 | [Google Cloud: Data Validation — Recovery for School Lab](Project_016753/README.md) |
+| 016754 | [Google Cloud: Data Validation — Reporting for School Lab](Project_016754/README.md) |
+| 016755 | [Google Cloud: Data Validation — Usability Improvement for School Lab](Project_016755/README.md) |
+| 016756 | [Google Cloud: Data Validation — Baseline Setup for Small Business](Project_016756/README.md) |
+| 016757 | [Google Cloud: Data Validation — Automation for Small Business](Project_016757/README.md) |
+| 016758 | [Google Cloud: Data Validation — Recovery for Small Business](Project_016758/README.md) |
+| 016759 | [Google Cloud: Data Validation — Reporting for Small Business](Project_016759/README.md) |
+| 016760 | [Google Cloud: Data Validation — Usability Improvement for Small Business](Project_016760/README.md) |
 
 [Back to the portfolio home](../README.md)
