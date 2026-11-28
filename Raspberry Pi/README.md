@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035678 | [Raspberry Pi: Configuration Comparison — Recovery for Offline Classroom](Project_035678/README.md) |
 | 035679 | [Raspberry Pi: Configuration Comparison — Reporting for Offline Classroom](Project_035679/README.md) |
 | 035680 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Offline Classroom](Project_035680/README.md) |
+| 035681 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_035681/README.md) |
+| 035682 | [Raspberry Pi: Configuration Comparison — Automation for Single-Host Lab](Project_035682/README.md) |
+| 035683 | [Raspberry Pi: Configuration Comparison — Recovery for Single-Host Lab](Project_035683/README.md) |
+| 035684 | [Raspberry Pi: Configuration Comparison — Reporting for Single-Host Lab](Project_035684/README.md) |
+| 035685 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_035685/README.md) |
+| 035686 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_035686/README.md) |
+| 035687 | [Raspberry Pi: Configuration Comparison — Automation for Two-Node Lab](Project_035687/README.md) |
+| 035688 | [Raspberry Pi: Configuration Comparison — Recovery for Two-Node Lab](Project_035688/README.md) |
+| 035689 | [Raspberry Pi: Configuration Comparison — Reporting for Two-Node Lab](Project_035689/README.md) |
+| 035690 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_035690/README.md) |
+| 035691 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Help Desk](Project_035691/README.md) |
+| 035692 | [Raspberry Pi: Configuration Comparison — Automation for Help Desk](Project_035692/README.md) |
+| 035693 | [Raspberry Pi: Configuration Comparison — Recovery for Help Desk](Project_035693/README.md) |
+| 035694 | [Raspberry Pi: Configuration Comparison — Reporting for Help Desk](Project_035694/README.md) |
+| 035695 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Help Desk](Project_035695/README.md) |
+| 035696 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_035696/README.md) |
+| 035697 | [Raspberry Pi: Configuration Comparison — Automation for Portfolio Demo](Project_035697/README.md) |
+| 035698 | [Raspberry Pi: Configuration Comparison — Recovery for Portfolio Demo](Project_035698/README.md) |
+| 035699 | [Raspberry Pi: Configuration Comparison — Reporting for Portfolio Demo](Project_035699/README.md) |
+| 035700 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_035700/README.md) |
 
 [Back to the portfolio home](../README.md)
