@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044098 | [Prometheus: Monitoring — Recovery for Portfolio Demo](Project_044098/README.md) |
 | 044099 | [Prometheus: Monitoring — Reporting for Portfolio Demo](Project_044099/README.md) |
 | 044100 | [Prometheus: Monitoring — Usability Improvement for Portfolio Demo](Project_044100/README.md) |
+| 044101 | [Prometheus: Audit — Baseline Setup for School Lab](Project_044101/README.md) |
+| 044102 | [Prometheus: Audit — Automation for School Lab](Project_044102/README.md) |
+| 044103 | [Prometheus: Audit — Recovery for School Lab](Project_044103/README.md) |
+| 044104 | [Prometheus: Audit — Reporting for School Lab](Project_044104/README.md) |
+| 044105 | [Prometheus: Audit — Usability Improvement for School Lab](Project_044105/README.md) |
+| 044106 | [Prometheus: Audit — Baseline Setup for Small Business](Project_044106/README.md) |
+| 044107 | [Prometheus: Audit — Automation for Small Business](Project_044107/README.md) |
+| 044108 | [Prometheus: Audit — Recovery for Small Business](Project_044108/README.md) |
+| 044109 | [Prometheus: Audit — Reporting for Small Business](Project_044109/README.md) |
+| 044110 | [Prometheus: Audit — Usability Improvement for Small Business](Project_044110/README.md) |
+| 044111 | [Prometheus: Audit — Baseline Setup for Home Development](Project_044111/README.md) |
+| 044112 | [Prometheus: Audit — Automation for Home Development](Project_044112/README.md) |
+| 044113 | [Prometheus: Audit — Recovery for Home Development](Project_044113/README.md) |
+| 044114 | [Prometheus: Audit — Reporting for Home Development](Project_044114/README.md) |
+| 044115 | [Prometheus: Audit — Usability Improvement for Home Development](Project_044115/README.md) |
+| 044116 | [Prometheus: Audit — Baseline Setup for Public Dataset](Project_044116/README.md) |
+| 044117 | [Prometheus: Audit — Automation for Public Dataset](Project_044117/README.md) |
+| 044118 | [Prometheus: Audit — Recovery for Public Dataset](Project_044118/README.md) |
+| 044119 | [Prometheus: Audit — Reporting for Public Dataset](Project_044119/README.md) |
+| 044120 | [Prometheus: Audit — Usability Improvement for Public Dataset](Project_044120/README.md) |
 
 [Back to the portfolio home](../README.md)
