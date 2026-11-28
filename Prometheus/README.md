@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044058 | [Prometheus: Monitoring — Recovery for Small Business](Project_044058/README.md) |
 | 044059 | [Prometheus: Monitoring — Reporting for Small Business](Project_044059/README.md) |
 | 044060 | [Prometheus: Monitoring — Usability Improvement for Small Business](Project_044060/README.md) |
+| 044061 | [Prometheus: Monitoring — Baseline Setup for Home Development](Project_044061/README.md) |
+| 044062 | [Prometheus: Monitoring — Automation for Home Development](Project_044062/README.md) |
+| 044063 | [Prometheus: Monitoring — Recovery for Home Development](Project_044063/README.md) |
+| 044064 | [Prometheus: Monitoring — Reporting for Home Development](Project_044064/README.md) |
+| 044065 | [Prometheus: Monitoring — Usability Improvement for Home Development](Project_044065/README.md) |
+| 044066 | [Prometheus: Monitoring — Baseline Setup for Public Dataset](Project_044066/README.md) |
+| 044067 | [Prometheus: Monitoring — Automation for Public Dataset](Project_044067/README.md) |
+| 044068 | [Prometheus: Monitoring — Recovery for Public Dataset](Project_044068/README.md) |
+| 044069 | [Prometheus: Monitoring — Reporting for Public Dataset](Project_044069/README.md) |
+| 044070 | [Prometheus: Monitoring — Usability Improvement for Public Dataset](Project_044070/README.md) |
+| 044071 | [Prometheus: Monitoring — Baseline Setup for Branch Office Simulator](Project_044071/README.md) |
+| 044072 | [Prometheus: Monitoring — Automation for Branch Office Simulator](Project_044072/README.md) |
+| 044073 | [Prometheus: Monitoring — Recovery for Branch Office Simulator](Project_044073/README.md) |
+| 044074 | [Prometheus: Monitoring — Reporting for Branch Office Simulator](Project_044074/README.md) |
+| 044075 | [Prometheus: Monitoring — Usability Improvement for Branch Office Simulator](Project_044075/README.md) |
+| 044076 | [Prometheus: Monitoring — Baseline Setup for Offline Classroom](Project_044076/README.md) |
+| 044077 | [Prometheus: Monitoring — Automation for Offline Classroom](Project_044077/README.md) |
+| 044078 | [Prometheus: Monitoring — Recovery for Offline Classroom](Project_044078/README.md) |
+| 044079 | [Prometheus: Monitoring — Reporting for Offline Classroom](Project_044079/README.md) |
+| 044080 | [Prometheus: Monitoring — Usability Improvement for Offline Classroom](Project_044080/README.md) |
 
 [Back to the portfolio home](../README.md)
