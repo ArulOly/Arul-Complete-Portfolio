@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035758 | [Raspberry Pi: Data Validation — Recovery for Small Business](Project_035758/README.md) |
 | 035759 | [Raspberry Pi: Data Validation — Reporting for Small Business](Project_035759/README.md) |
 | 035760 | [Raspberry Pi: Data Validation — Usability Improvement for Small Business](Project_035760/README.md) |
+| 035761 | [Raspberry Pi: Data Validation — Baseline Setup for Home Development](Project_035761/README.md) |
+| 035762 | [Raspberry Pi: Data Validation — Automation for Home Development](Project_035762/README.md) |
+| 035763 | [Raspberry Pi: Data Validation — Recovery for Home Development](Project_035763/README.md) |
+| 035764 | [Raspberry Pi: Data Validation — Reporting for Home Development](Project_035764/README.md) |
+| 035765 | [Raspberry Pi: Data Validation — Usability Improvement for Home Development](Project_035765/README.md) |
+| 035766 | [Raspberry Pi: Data Validation — Baseline Setup for Public Dataset](Project_035766/README.md) |
+| 035767 | [Raspberry Pi: Data Validation — Automation for Public Dataset](Project_035767/README.md) |
+| 035768 | [Raspberry Pi: Data Validation — Recovery for Public Dataset](Project_035768/README.md) |
+| 035769 | [Raspberry Pi: Data Validation — Reporting for Public Dataset](Project_035769/README.md) |
+| 035770 | [Raspberry Pi: Data Validation — Usability Improvement for Public Dataset](Project_035770/README.md) |
+| 035771 | [Raspberry Pi: Data Validation — Baseline Setup for Branch Office Simulator](Project_035771/README.md) |
+| 035772 | [Raspberry Pi: Data Validation — Automation for Branch Office Simulator](Project_035772/README.md) |
+| 035773 | [Raspberry Pi: Data Validation — Recovery for Branch Office Simulator](Project_035773/README.md) |
+| 035774 | [Raspberry Pi: Data Validation — Reporting for Branch Office Simulator](Project_035774/README.md) |
+| 035775 | [Raspberry Pi: Data Validation — Usability Improvement for Branch Office Simulator](Project_035775/README.md) |
+| 035776 | [Raspberry Pi: Data Validation — Baseline Setup for Offline Classroom](Project_035776/README.md) |
+| 035777 | [Raspberry Pi: Data Validation — Automation for Offline Classroom](Project_035777/README.md) |
+| 035778 | [Raspberry Pi: Data Validation — Recovery for Offline Classroom](Project_035778/README.md) |
+| 035779 | [Raspberry Pi: Data Validation — Reporting for Offline Classroom](Project_035779/README.md) |
+| 035780 | [Raspberry Pi: Data Validation — Usability Improvement for Offline Classroom](Project_035780/README.md) |
 
 [Back to the portfolio home](../README.md)
