@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043018 | [Grafana: Inventory — Recovery for Public Dataset](Project_043018/README.md) |
 | 043019 | [Grafana: Inventory — Reporting for Public Dataset](Project_043019/README.md) |
 | 043020 | [Grafana: Inventory — Usability Improvement for Public Dataset](Project_043020/README.md) |
+| 043021 | [Grafana: Inventory — Baseline Setup for Branch Office Simulator](Project_043021/README.md) |
+| 043022 | [Grafana: Inventory — Automation for Branch Office Simulator](Project_043022/README.md) |
+| 043023 | [Grafana: Inventory — Recovery for Branch Office Simulator](Project_043023/README.md) |
+| 043024 | [Grafana: Inventory — Reporting for Branch Office Simulator](Project_043024/README.md) |
+| 043025 | [Grafana: Inventory — Usability Improvement for Branch Office Simulator](Project_043025/README.md) |
+| 043026 | [Grafana: Inventory — Baseline Setup for Offline Classroom](Project_043026/README.md) |
+| 043027 | [Grafana: Inventory — Automation for Offline Classroom](Project_043027/README.md) |
+| 043028 | [Grafana: Inventory — Recovery for Offline Classroom](Project_043028/README.md) |
+| 043029 | [Grafana: Inventory — Reporting for Offline Classroom](Project_043029/README.md) |
+| 043030 | [Grafana: Inventory — Usability Improvement for Offline Classroom](Project_043030/README.md) |
+| 043031 | [Grafana: Inventory — Baseline Setup for Single-Host Lab](Project_043031/README.md) |
+| 043032 | [Grafana: Inventory — Automation for Single-Host Lab](Project_043032/README.md) |
+| 043033 | [Grafana: Inventory — Recovery for Single-Host Lab](Project_043033/README.md) |
+| 043034 | [Grafana: Inventory — Reporting for Single-Host Lab](Project_043034/README.md) |
+| 043035 | [Grafana: Inventory — Usability Improvement for Single-Host Lab](Project_043035/README.md) |
+| 043036 | [Grafana: Inventory — Baseline Setup for Two-Node Lab](Project_043036/README.md) |
+| 043037 | [Grafana: Inventory — Automation for Two-Node Lab](Project_043037/README.md) |
+| 043038 | [Grafana: Inventory — Recovery for Two-Node Lab](Project_043038/README.md) |
+| 043039 | [Grafana: Inventory — Reporting for Two-Node Lab](Project_043039/README.md) |
+| 043040 | [Grafana: Inventory — Usability Improvement for Two-Node Lab](Project_043040/README.md) |
 
 [Back to the portfolio home](../README.md)
