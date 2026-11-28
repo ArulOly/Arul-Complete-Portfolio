@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030618 | [Wazuh: Service Check — Recovery for Public Dataset](Project_030618/README.md) |
 | 030619 | [Wazuh: Service Check — Reporting for Public Dataset](Project_030619/README.md) |
 | 030620 | [Wazuh: Service Check — Usability Improvement for Public Dataset](Project_030620/README.md) |
+| 030621 | [Wazuh: Service Check — Baseline Setup for Branch Office Simulator](Project_030621/README.md) |
+| 030622 | [Wazuh: Service Check — Automation for Branch Office Simulator](Project_030622/README.md) |
+| 030623 | [Wazuh: Service Check — Recovery for Branch Office Simulator](Project_030623/README.md) |
+| 030624 | [Wazuh: Service Check — Reporting for Branch Office Simulator](Project_030624/README.md) |
+| 030625 | [Wazuh: Service Check — Usability Improvement for Branch Office Simulator](Project_030625/README.md) |
+| 030626 | [Wazuh: Service Check — Baseline Setup for Offline Classroom](Project_030626/README.md) |
+| 030627 | [Wazuh: Service Check — Automation for Offline Classroom](Project_030627/README.md) |
+| 030628 | [Wazuh: Service Check — Recovery for Offline Classroom](Project_030628/README.md) |
+| 030629 | [Wazuh: Service Check — Reporting for Offline Classroom](Project_030629/README.md) |
+| 030630 | [Wazuh: Service Check — Usability Improvement for Offline Classroom](Project_030630/README.md) |
+| 030631 | [Wazuh: Service Check — Baseline Setup for Single-Host Lab](Project_030631/README.md) |
+| 030632 | [Wazuh: Service Check — Automation for Single-Host Lab](Project_030632/README.md) |
+| 030633 | [Wazuh: Service Check — Recovery for Single-Host Lab](Project_030633/README.md) |
+| 030634 | [Wazuh: Service Check — Reporting for Single-Host Lab](Project_030634/README.md) |
+| 030635 | [Wazuh: Service Check — Usability Improvement for Single-Host Lab](Project_030635/README.md) |
+| 030636 | [Wazuh: Service Check — Baseline Setup for Two-Node Lab](Project_030636/README.md) |
+| 030637 | [Wazuh: Service Check — Automation for Two-Node Lab](Project_030637/README.md) |
+| 030638 | [Wazuh: Service Check — Recovery for Two-Node Lab](Project_030638/README.md) |
+| 030639 | [Wazuh: Service Check — Reporting for Two-Node Lab](Project_030639/README.md) |
+| 030640 | [Wazuh: Service Check — Usability Improvement for Two-Node Lab](Project_030640/README.md) |
 
 [Back to the portfolio home](../README.md)
