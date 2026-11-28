@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037878 | [Arduino: Automation — Recovery for Offline Classroom](Project_037878/README.md) |
 | 037879 | [Arduino: Automation — Reporting for Offline Classroom](Project_037879/README.md) |
 | 037880 | [Arduino: Automation — Usability Improvement for Offline Classroom](Project_037880/README.md) |
+| 037881 | [Arduino: Automation — Baseline Setup for Single-Host Lab](Project_037881/README.md) |
+| 037882 | [Arduino: Automation — Automation for Single-Host Lab](Project_037882/README.md) |
+| 037883 | [Arduino: Automation — Recovery for Single-Host Lab](Project_037883/README.md) |
+| 037884 | [Arduino: Automation — Reporting for Single-Host Lab](Project_037884/README.md) |
+| 037885 | [Arduino: Automation — Usability Improvement for Single-Host Lab](Project_037885/README.md) |
+| 037886 | [Arduino: Automation — Baseline Setup for Two-Node Lab](Project_037886/README.md) |
+| 037887 | [Arduino: Automation — Automation for Two-Node Lab](Project_037887/README.md) |
+| 037888 | [Arduino: Automation — Recovery for Two-Node Lab](Project_037888/README.md) |
+| 037889 | [Arduino: Automation — Reporting for Two-Node Lab](Project_037889/README.md) |
+| 037890 | [Arduino: Automation — Usability Improvement for Two-Node Lab](Project_037890/README.md) |
+| 037891 | [Arduino: Automation — Baseline Setup for Help Desk](Project_037891/README.md) |
+| 037892 | [Arduino: Automation — Automation for Help Desk](Project_037892/README.md) |
+| 037893 | [Arduino: Automation — Recovery for Help Desk](Project_037893/README.md) |
+| 037894 | [Arduino: Automation — Reporting for Help Desk](Project_037894/README.md) |
+| 037895 | [Arduino: Automation — Usability Improvement for Help Desk](Project_037895/README.md) |
+| 037896 | [Arduino: Automation — Baseline Setup for Portfolio Demo](Project_037896/README.md) |
+| 037897 | [Arduino: Automation — Automation for Portfolio Demo](Project_037897/README.md) |
+| 037898 | [Arduino: Automation — Recovery for Portfolio Demo](Project_037898/README.md) |
+| 037899 | [Arduino: Automation — Reporting for Portfolio Demo](Project_037899/README.md) |
+| 037900 | [Arduino: Automation — Usability Improvement for Portfolio Demo](Project_037900/README.md) |
 
 [Back to the portfolio home](../README.md)
