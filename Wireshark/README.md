@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029598 | [Wireshark: Performance Baseline — Recovery for Portfolio Demo](Project_029598/README.md) |
 | 029599 | [Wireshark: Performance Baseline — Reporting for Portfolio Demo](Project_029599/README.md) |
 | 029600 | [Wireshark: Performance Baseline — Usability Improvement for Portfolio Demo](Project_029600/README.md) |
+| 029601 | [Wireshark: Service Check — Baseline Setup for School Lab](Project_029601/README.md) |
+| 029602 | [Wireshark: Service Check — Automation for School Lab](Project_029602/README.md) |
+| 029603 | [Wireshark: Service Check — Recovery for School Lab](Project_029603/README.md) |
+| 029604 | [Wireshark: Service Check — Reporting for School Lab](Project_029604/README.md) |
+| 029605 | [Wireshark: Service Check — Usability Improvement for School Lab](Project_029605/README.md) |
+| 029606 | [Wireshark: Service Check — Baseline Setup for Small Business](Project_029606/README.md) |
+| 029607 | [Wireshark: Service Check — Automation for Small Business](Project_029607/README.md) |
+| 029608 | [Wireshark: Service Check — Recovery for Small Business](Project_029608/README.md) |
+| 029609 | [Wireshark: Service Check — Reporting for Small Business](Project_029609/README.md) |
+| 029610 | [Wireshark: Service Check — Usability Improvement for Small Business](Project_029610/README.md) |
+| 029611 | [Wireshark: Service Check — Baseline Setup for Home Development](Project_029611/README.md) |
+| 029612 | [Wireshark: Service Check — Automation for Home Development](Project_029612/README.md) |
+| 029613 | [Wireshark: Service Check — Recovery for Home Development](Project_029613/README.md) |
+| 029614 | [Wireshark: Service Check — Reporting for Home Development](Project_029614/README.md) |
+| 029615 | [Wireshark: Service Check — Usability Improvement for Home Development](Project_029615/README.md) |
+| 029616 | [Wireshark: Service Check — Baseline Setup for Public Dataset](Project_029616/README.md) |
+| 029617 | [Wireshark: Service Check — Automation for Public Dataset](Project_029617/README.md) |
+| 029618 | [Wireshark: Service Check — Recovery for Public Dataset](Project_029618/README.md) |
+| 029619 | [Wireshark: Service Check — Reporting for Public Dataset](Project_029619/README.md) |
+| 029620 | [Wireshark: Service Check — Usability Improvement for Public Dataset](Project_029620/README.md) |
 
 [Back to the portfolio home](../README.md)
