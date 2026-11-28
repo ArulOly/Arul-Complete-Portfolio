@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047038 | [Ansible: Inventory — Recovery for Two-Node Lab](Project_047038/README.md) |
 | 047039 | [Ansible: Inventory — Reporting for Two-Node Lab](Project_047039/README.md) |
 | 047040 | [Ansible: Inventory — Usability Improvement for Two-Node Lab](Project_047040/README.md) |
+| 047041 | [Ansible: Inventory — Baseline Setup for Help Desk](Project_047041/README.md) |
+| 047042 | [Ansible: Inventory — Automation for Help Desk](Project_047042/README.md) |
+| 047043 | [Ansible: Inventory — Recovery for Help Desk](Project_047043/README.md) |
+| 047044 | [Ansible: Inventory — Reporting for Help Desk](Project_047044/README.md) |
+| 047045 | [Ansible: Inventory — Usability Improvement for Help Desk](Project_047045/README.md) |
+| 047046 | [Ansible: Inventory — Baseline Setup for Portfolio Demo](Project_047046/README.md) |
+| 047047 | [Ansible: Inventory — Automation for Portfolio Demo](Project_047047/README.md) |
+| 047048 | [Ansible: Inventory — Recovery for Portfolio Demo](Project_047048/README.md) |
+| 047049 | [Ansible: Inventory — Reporting for Portfolio Demo](Project_047049/README.md) |
+| 047050 | [Ansible: Inventory — Usability Improvement for Portfolio Demo](Project_047050/README.md) |
+| 047051 | [Ansible: Monitoring — Baseline Setup for School Lab](Project_047051/README.md) |
+| 047052 | [Ansible: Monitoring — Automation for School Lab](Project_047052/README.md) |
+| 047053 | [Ansible: Monitoring — Recovery for School Lab](Project_047053/README.md) |
+| 047054 | [Ansible: Monitoring — Reporting for School Lab](Project_047054/README.md) |
+| 047055 | [Ansible: Monitoring — Usability Improvement for School Lab](Project_047055/README.md) |
+| 047056 | [Ansible: Monitoring — Baseline Setup for Small Business](Project_047056/README.md) |
+| 047057 | [Ansible: Monitoring — Automation for Small Business](Project_047057/README.md) |
+| 047058 | [Ansible: Monitoring — Recovery for Small Business](Project_047058/README.md) |
+| 047059 | [Ansible: Monitoring — Reporting for Small Business](Project_047059/README.md) |
+| 047060 | [Ansible: Monitoring — Usability Improvement for Small Business](Project_047060/README.md) |
 
 [Back to the portfolio home](../README.md)
