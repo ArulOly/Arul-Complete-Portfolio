@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040418 | [PowerShell: Alerting — Recovery for Public Dataset](Project_040418/README.md) |
 | 040419 | [PowerShell: Alerting — Reporting for Public Dataset](Project_040419/README.md) |
 | 040420 | [PowerShell: Alerting — Usability Improvement for Public Dataset](Project_040420/README.md) |
+| 040421 | [PowerShell: Alerting — Baseline Setup for Branch Office Simulator](Project_040421/README.md) |
+| 040422 | [PowerShell: Alerting — Automation for Branch Office Simulator](Project_040422/README.md) |
+| 040423 | [PowerShell: Alerting — Recovery for Branch Office Simulator](Project_040423/README.md) |
+| 040424 | [PowerShell: Alerting — Reporting for Branch Office Simulator](Project_040424/README.md) |
+| 040425 | [PowerShell: Alerting — Usability Improvement for Branch Office Simulator](Project_040425/README.md) |
+| 040426 | [PowerShell: Alerting — Baseline Setup for Offline Classroom](Project_040426/README.md) |
+| 040427 | [PowerShell: Alerting — Automation for Offline Classroom](Project_040427/README.md) |
+| 040428 | [PowerShell: Alerting — Recovery for Offline Classroom](Project_040428/README.md) |
+| 040429 | [PowerShell: Alerting — Reporting for Offline Classroom](Project_040429/README.md) |
+| 040430 | [PowerShell: Alerting — Usability Improvement for Offline Classroom](Project_040430/README.md) |
+| 040431 | [PowerShell: Alerting — Baseline Setup for Single-Host Lab](Project_040431/README.md) |
+| 040432 | [PowerShell: Alerting — Automation for Single-Host Lab](Project_040432/README.md) |
+| 040433 | [PowerShell: Alerting — Recovery for Single-Host Lab](Project_040433/README.md) |
+| 040434 | [PowerShell: Alerting — Reporting for Single-Host Lab](Project_040434/README.md) |
+| 040435 | [PowerShell: Alerting — Usability Improvement for Single-Host Lab](Project_040435/README.md) |
+| 040436 | [PowerShell: Alerting — Baseline Setup for Two-Node Lab](Project_040436/README.md) |
+| 040437 | [PowerShell: Alerting — Automation for Two-Node Lab](Project_040437/README.md) |
+| 040438 | [PowerShell: Alerting — Recovery for Two-Node Lab](Project_040438/README.md) |
+| 040439 | [PowerShell: Alerting — Reporting for Two-Node Lab](Project_040439/README.md) |
+| 040440 | [PowerShell: Alerting — Usability Improvement for Two-Node Lab](Project_040440/README.md) |
 
 [Back to the portfolio home](../README.md)
