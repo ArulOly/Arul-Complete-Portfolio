@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038378 | [Git: Dashboard — Recovery for Offline Classroom](Project_038378/README.md) |
 | 038379 | [Git: Dashboard — Reporting for Offline Classroom](Project_038379/README.md) |
 | 038380 | [Git: Dashboard — Usability Improvement for Offline Classroom](Project_038380/README.md) |
+| 038381 | [Git: Dashboard — Baseline Setup for Single-Host Lab](Project_038381/README.md) |
+| 038382 | [Git: Dashboard — Automation for Single-Host Lab](Project_038382/README.md) |
+| 038383 | [Git: Dashboard — Recovery for Single-Host Lab](Project_038383/README.md) |
+| 038384 | [Git: Dashboard — Reporting for Single-Host Lab](Project_038384/README.md) |
+| 038385 | [Git: Dashboard — Usability Improvement for Single-Host Lab](Project_038385/README.md) |
+| 038386 | [Git: Dashboard — Baseline Setup for Two-Node Lab](Project_038386/README.md) |
+| 038387 | [Git: Dashboard — Automation for Two-Node Lab](Project_038387/README.md) |
+| 038388 | [Git: Dashboard — Recovery for Two-Node Lab](Project_038388/README.md) |
+| 038389 | [Git: Dashboard — Reporting for Two-Node Lab](Project_038389/README.md) |
+| 038390 | [Git: Dashboard — Usability Improvement for Two-Node Lab](Project_038390/README.md) |
+| 038391 | [Git: Dashboard — Baseline Setup for Help Desk](Project_038391/README.md) |
+| 038392 | [Git: Dashboard — Automation for Help Desk](Project_038392/README.md) |
+| 038393 | [Git: Dashboard — Recovery for Help Desk](Project_038393/README.md) |
+| 038394 | [Git: Dashboard — Reporting for Help Desk](Project_038394/README.md) |
+| 038395 | [Git: Dashboard — Usability Improvement for Help Desk](Project_038395/README.md) |
+| 038396 | [Git: Dashboard — Baseline Setup for Portfolio Demo](Project_038396/README.md) |
+| 038397 | [Git: Dashboard — Automation for Portfolio Demo](Project_038397/README.md) |
+| 038398 | [Git: Dashboard — Recovery for Portfolio Demo](Project_038398/README.md) |
+| 038399 | [Git: Dashboard — Reporting for Portfolio Demo](Project_038399/README.md) |
+| 038400 | [Git: Dashboard — Usability Improvement for Portfolio Demo](Project_038400/README.md) |
 
 [Back to the portfolio home](../README.md)
