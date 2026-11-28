@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038598 | [Git: Performance Baseline — Recovery for Portfolio Demo](Project_038598/README.md) |
 | 038599 | [Git: Performance Baseline — Reporting for Portfolio Demo](Project_038599/README.md) |
 | 038600 | [Git: Performance Baseline — Usability Improvement for Portfolio Demo](Project_038600/README.md) |
+| 038601 | [Git: Service Check — Baseline Setup for School Lab](Project_038601/README.md) |
+| 038602 | [Git: Service Check — Automation for School Lab](Project_038602/README.md) |
+| 038603 | [Git: Service Check — Recovery for School Lab](Project_038603/README.md) |
+| 038604 | [Git: Service Check — Reporting for School Lab](Project_038604/README.md) |
+| 038605 | [Git: Service Check — Usability Improvement for School Lab](Project_038605/README.md) |
+| 038606 | [Git: Service Check — Baseline Setup for Small Business](Project_038606/README.md) |
+| 038607 | [Git: Service Check — Automation for Small Business](Project_038607/README.md) |
+| 038608 | [Git: Service Check — Recovery for Small Business](Project_038608/README.md) |
+| 038609 | [Git: Service Check — Reporting for Small Business](Project_038609/README.md) |
+| 038610 | [Git: Service Check — Usability Improvement for Small Business](Project_038610/README.md) |
+| 038611 | [Git: Service Check — Baseline Setup for Home Development](Project_038611/README.md) |
+| 038612 | [Git: Service Check — Automation for Home Development](Project_038612/README.md) |
+| 038613 | [Git: Service Check — Recovery for Home Development](Project_038613/README.md) |
+| 038614 | [Git: Service Check — Reporting for Home Development](Project_038614/README.md) |
+| 038615 | [Git: Service Check — Usability Improvement for Home Development](Project_038615/README.md) |
+| 038616 | [Git: Service Check — Baseline Setup for Public Dataset](Project_038616/README.md) |
+| 038617 | [Git: Service Check — Automation for Public Dataset](Project_038617/README.md) |
+| 038618 | [Git: Service Check — Recovery for Public Dataset](Project_038618/README.md) |
+| 038619 | [Git: Service Check — Reporting for Public Dataset](Project_038619/README.md) |
+| 038620 | [Git: Service Check — Usability Improvement for Public Dataset](Project_038620/README.md) |
 
 [Back to the portfolio home](../README.md)
