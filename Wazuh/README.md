@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030278 | [Wazuh: Data Import — Recovery for Offline Classroom](Project_030278/README.md) |
 | 030279 | [Wazuh: Data Import — Reporting for Offline Classroom](Project_030279/README.md) |
 | 030280 | [Wazuh: Data Import — Usability Improvement for Offline Classroom](Project_030280/README.md) |
+| 030281 | [Wazuh: Data Import — Baseline Setup for Single-Host Lab](Project_030281/README.md) |
+| 030282 | [Wazuh: Data Import — Automation for Single-Host Lab](Project_030282/README.md) |
+| 030283 | [Wazuh: Data Import — Recovery for Single-Host Lab](Project_030283/README.md) |
+| 030284 | [Wazuh: Data Import — Reporting for Single-Host Lab](Project_030284/README.md) |
+| 030285 | [Wazuh: Data Import — Usability Improvement for Single-Host Lab](Project_030285/README.md) |
+| 030286 | [Wazuh: Data Import — Baseline Setup for Two-Node Lab](Project_030286/README.md) |
+| 030287 | [Wazuh: Data Import — Automation for Two-Node Lab](Project_030287/README.md) |
+| 030288 | [Wazuh: Data Import — Recovery for Two-Node Lab](Project_030288/README.md) |
+| 030289 | [Wazuh: Data Import — Reporting for Two-Node Lab](Project_030289/README.md) |
+| 030290 | [Wazuh: Data Import — Usability Improvement for Two-Node Lab](Project_030290/README.md) |
+| 030291 | [Wazuh: Data Import — Baseline Setup for Help Desk](Project_030291/README.md) |
+| 030292 | [Wazuh: Data Import — Automation for Help Desk](Project_030292/README.md) |
+| 030293 | [Wazuh: Data Import — Recovery for Help Desk](Project_030293/README.md) |
+| 030294 | [Wazuh: Data Import — Reporting for Help Desk](Project_030294/README.md) |
+| 030295 | [Wazuh: Data Import — Usability Improvement for Help Desk](Project_030295/README.md) |
+| 030296 | [Wazuh: Data Import — Baseline Setup for Portfolio Demo](Project_030296/README.md) |
+| 030297 | [Wazuh: Data Import — Automation for Portfolio Demo](Project_030297/README.md) |
+| 030298 | [Wazuh: Data Import — Recovery for Portfolio Demo](Project_030298/README.md) |
+| 030299 | [Wazuh: Data Import — Reporting for Portfolio Demo](Project_030299/README.md) |
+| 030300 | [Wazuh: Data Import — Usability Improvement for Portfolio Demo](Project_030300/README.md) |
 
 [Back to the portfolio home](../README.md)
