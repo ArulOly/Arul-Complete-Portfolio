@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038778 | [Git: Data Validation — Recovery for Offline Classroom](Project_038778/README.md) |
 | 038779 | [Git: Data Validation — Reporting for Offline Classroom](Project_038779/README.md) |
 | 038780 | [Git: Data Validation — Usability Improvement for Offline Classroom](Project_038780/README.md) |
+| 038781 | [Git: Data Validation — Baseline Setup for Single-Host Lab](Project_038781/README.md) |
+| 038782 | [Git: Data Validation — Automation for Single-Host Lab](Project_038782/README.md) |
+| 038783 | [Git: Data Validation — Recovery for Single-Host Lab](Project_038783/README.md) |
+| 038784 | [Git: Data Validation — Reporting for Single-Host Lab](Project_038784/README.md) |
+| 038785 | [Git: Data Validation — Usability Improvement for Single-Host Lab](Project_038785/README.md) |
+| 038786 | [Git: Data Validation — Baseline Setup for Two-Node Lab](Project_038786/README.md) |
+| 038787 | [Git: Data Validation — Automation for Two-Node Lab](Project_038787/README.md) |
+| 038788 | [Git: Data Validation — Recovery for Two-Node Lab](Project_038788/README.md) |
+| 038789 | [Git: Data Validation — Reporting for Two-Node Lab](Project_038789/README.md) |
+| 038790 | [Git: Data Validation — Usability Improvement for Two-Node Lab](Project_038790/README.md) |
+| 038791 | [Git: Data Validation — Baseline Setup for Help Desk](Project_038791/README.md) |
+| 038792 | [Git: Data Validation — Automation for Help Desk](Project_038792/README.md) |
+| 038793 | [Git: Data Validation — Recovery for Help Desk](Project_038793/README.md) |
+| 038794 | [Git: Data Validation — Reporting for Help Desk](Project_038794/README.md) |
+| 038795 | [Git: Data Validation — Usability Improvement for Help Desk](Project_038795/README.md) |
+| 038796 | [Git: Data Validation — Baseline Setup for Portfolio Demo](Project_038796/README.md) |
+| 038797 | [Git: Data Validation — Automation for Portfolio Demo](Project_038797/README.md) |
+| 038798 | [Git: Data Validation — Recovery for Portfolio Demo](Project_038798/README.md) |
+| 038799 | [Git: Data Validation — Reporting for Portfolio Demo](Project_038799/README.md) |
+| 038800 | [Git: Data Validation — Usability Improvement for Portfolio Demo](Project_038800/README.md) |
 
 [Back to the portfolio home](../README.md)
