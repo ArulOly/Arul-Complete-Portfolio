@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047918 | [Ansible: Visual Reporting — Recovery for Public Dataset](Project_047918/README.md) |
 | 047919 | [Ansible: Visual Reporting — Reporting for Public Dataset](Project_047919/README.md) |
 | 047920 | [Ansible: Visual Reporting — Usability Improvement for Public Dataset](Project_047920/README.md) |
+| 047921 | [Ansible: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_047921/README.md) |
+| 047922 | [Ansible: Visual Reporting — Automation for Branch Office Simulator](Project_047922/README.md) |
+| 047923 | [Ansible: Visual Reporting — Recovery for Branch Office Simulator](Project_047923/README.md) |
+| 047924 | [Ansible: Visual Reporting — Reporting for Branch Office Simulator](Project_047924/README.md) |
+| 047925 | [Ansible: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_047925/README.md) |
+| 047926 | [Ansible: Visual Reporting — Baseline Setup for Offline Classroom](Project_047926/README.md) |
+| 047927 | [Ansible: Visual Reporting — Automation for Offline Classroom](Project_047927/README.md) |
+| 047928 | [Ansible: Visual Reporting — Recovery for Offline Classroom](Project_047928/README.md) |
+| 047929 | [Ansible: Visual Reporting — Reporting for Offline Classroom](Project_047929/README.md) |
+| 047930 | [Ansible: Visual Reporting — Usability Improvement for Offline Classroom](Project_047930/README.md) |
+| 047931 | [Ansible: Visual Reporting — Baseline Setup for Single-Host Lab](Project_047931/README.md) |
+| 047932 | [Ansible: Visual Reporting — Automation for Single-Host Lab](Project_047932/README.md) |
+| 047933 | [Ansible: Visual Reporting — Recovery for Single-Host Lab](Project_047933/README.md) |
+| 047934 | [Ansible: Visual Reporting — Reporting for Single-Host Lab](Project_047934/README.md) |
+| 047935 | [Ansible: Visual Reporting — Usability Improvement for Single-Host Lab](Project_047935/README.md) |
+| 047936 | [Ansible: Visual Reporting — Baseline Setup for Two-Node Lab](Project_047936/README.md) |
+| 047937 | [Ansible: Visual Reporting — Automation for Two-Node Lab](Project_047937/README.md) |
+| 047938 | [Ansible: Visual Reporting — Recovery for Two-Node Lab](Project_047938/README.md) |
+| 047939 | [Ansible: Visual Reporting — Reporting for Two-Node Lab](Project_047939/README.md) |
+| 047940 | [Ansible: Visual Reporting — Usability Improvement for Two-Node Lab](Project_047940/README.md) |
 
 [Back to the portfolio home](../README.md)
