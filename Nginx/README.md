@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041798 | [Nginx: Data Validation — Recovery for Portfolio Demo](Project_041798/README.md) |
 | 041799 | [Nginx: Data Validation — Reporting for Portfolio Demo](Project_041799/README.md) |
 | 041800 | [Nginx: Data Validation — Usability Improvement for Portfolio Demo](Project_041800/README.md) |
+| 041801 | [Nginx: Documentation Generation — Baseline Setup for School Lab](Project_041801/README.md) |
+| 041802 | [Nginx: Documentation Generation — Automation for School Lab](Project_041802/README.md) |
+| 041803 | [Nginx: Documentation Generation — Recovery for School Lab](Project_041803/README.md) |
+| 041804 | [Nginx: Documentation Generation — Reporting for School Lab](Project_041804/README.md) |
+| 041805 | [Nginx: Documentation Generation — Usability Improvement for School Lab](Project_041805/README.md) |
+| 041806 | [Nginx: Documentation Generation — Baseline Setup for Small Business](Project_041806/README.md) |
+| 041807 | [Nginx: Documentation Generation — Automation for Small Business](Project_041807/README.md) |
+| 041808 | [Nginx: Documentation Generation — Recovery for Small Business](Project_041808/README.md) |
+| 041809 | [Nginx: Documentation Generation — Reporting for Small Business](Project_041809/README.md) |
+| 041810 | [Nginx: Documentation Generation — Usability Improvement for Small Business](Project_041810/README.md) |
+| 041811 | [Nginx: Documentation Generation — Baseline Setup for Home Development](Project_041811/README.md) |
+| 041812 | [Nginx: Documentation Generation — Automation for Home Development](Project_041812/README.md) |
+| 041813 | [Nginx: Documentation Generation — Recovery for Home Development](Project_041813/README.md) |
+| 041814 | [Nginx: Documentation Generation — Reporting for Home Development](Project_041814/README.md) |
+| 041815 | [Nginx: Documentation Generation — Usability Improvement for Home Development](Project_041815/README.md) |
+| 041816 | [Nginx: Documentation Generation — Baseline Setup for Public Dataset](Project_041816/README.md) |
+| 041817 | [Nginx: Documentation Generation — Automation for Public Dataset](Project_041817/README.md) |
+| 041818 | [Nginx: Documentation Generation — Recovery for Public Dataset](Project_041818/README.md) |
+| 041819 | [Nginx: Documentation Generation — Reporting for Public Dataset](Project_041819/README.md) |
+| 041820 | [Nginx: Documentation Generation — Usability Improvement for Public Dataset](Project_041820/README.md) |
 
 [Back to the portfolio home](../README.md)
