@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018538 | [Kubernetes: Access Review — Recovery for Two-Node Lab](Project_018538/README.md) |
 | 018539 | [Kubernetes: Access Review — Reporting for Two-Node Lab](Project_018539/README.md) |
 | 018540 | [Kubernetes: Access Review — Usability Improvement for Two-Node Lab](Project_018540/README.md) |
+| 018541 | [Kubernetes: Access Review — Baseline Setup for Help Desk](Project_018541/README.md) |
+| 018542 | [Kubernetes: Access Review — Automation for Help Desk](Project_018542/README.md) |
+| 018543 | [Kubernetes: Access Review — Recovery for Help Desk](Project_018543/README.md) |
+| 018544 | [Kubernetes: Access Review — Reporting for Help Desk](Project_018544/README.md) |
+| 018545 | [Kubernetes: Access Review — Usability Improvement for Help Desk](Project_018545/README.md) |
+| 018546 | [Kubernetes: Access Review — Baseline Setup for Portfolio Demo](Project_018546/README.md) |
+| 018547 | [Kubernetes: Access Review — Automation for Portfolio Demo](Project_018547/README.md) |
+| 018548 | [Kubernetes: Access Review — Recovery for Portfolio Demo](Project_018548/README.md) |
+| 018549 | [Kubernetes: Access Review — Reporting for Portfolio Demo](Project_018549/README.md) |
+| 018550 | [Kubernetes: Access Review — Usability Improvement for Portfolio Demo](Project_018550/README.md) |
+| 018551 | [Kubernetes: Performance Baseline — Baseline Setup for School Lab](Project_018551/README.md) |
+| 018552 | [Kubernetes: Performance Baseline — Automation for School Lab](Project_018552/README.md) |
+| 018553 | [Kubernetes: Performance Baseline — Recovery for School Lab](Project_018553/README.md) |
+| 018554 | [Kubernetes: Performance Baseline — Reporting for School Lab](Project_018554/README.md) |
+| 018555 | [Kubernetes: Performance Baseline — Usability Improvement for School Lab](Project_018555/README.md) |
+| 018556 | [Kubernetes: Performance Baseline — Baseline Setup for Small Business](Project_018556/README.md) |
+| 018557 | [Kubernetes: Performance Baseline — Automation for Small Business](Project_018557/README.md) |
+| 018558 | [Kubernetes: Performance Baseline — Recovery for Small Business](Project_018558/README.md) |
+| 018559 | [Kubernetes: Performance Baseline — Reporting for Small Business](Project_018559/README.md) |
+| 018560 | [Kubernetes: Performance Baseline — Usability Improvement for Small Business](Project_018560/README.md) |
 
 [Back to the portfolio home](../README.md)
