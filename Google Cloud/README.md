@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016298 | [Google Cloud: Data Import — Recovery for Portfolio Demo](Project_016298/README.md) |
 | 016299 | [Google Cloud: Data Import — Reporting for Portfolio Demo](Project_016299/README.md) |
 | 016300 | [Google Cloud: Data Import — Usability Improvement for Portfolio Demo](Project_016300/README.md) |
+| 016301 | [Google Cloud: Data Export — Baseline Setup for School Lab](Project_016301/README.md) |
+| 016302 | [Google Cloud: Data Export — Automation for School Lab](Project_016302/README.md) |
+| 016303 | [Google Cloud: Data Export — Recovery for School Lab](Project_016303/README.md) |
+| 016304 | [Google Cloud: Data Export — Reporting for School Lab](Project_016304/README.md) |
+| 016305 | [Google Cloud: Data Export — Usability Improvement for School Lab](Project_016305/README.md) |
+| 016306 | [Google Cloud: Data Export — Baseline Setup for Small Business](Project_016306/README.md) |
+| 016307 | [Google Cloud: Data Export — Automation for Small Business](Project_016307/README.md) |
+| 016308 | [Google Cloud: Data Export — Recovery for Small Business](Project_016308/README.md) |
+| 016309 | [Google Cloud: Data Export — Reporting for Small Business](Project_016309/README.md) |
+| 016310 | [Google Cloud: Data Export — Usability Improvement for Small Business](Project_016310/README.md) |
+| 016311 | [Google Cloud: Data Export — Baseline Setup for Home Development](Project_016311/README.md) |
+| 016312 | [Google Cloud: Data Export — Automation for Home Development](Project_016312/README.md) |
+| 016313 | [Google Cloud: Data Export — Recovery for Home Development](Project_016313/README.md) |
+| 016314 | [Google Cloud: Data Export — Reporting for Home Development](Project_016314/README.md) |
+| 016315 | [Google Cloud: Data Export — Usability Improvement for Home Development](Project_016315/README.md) |
+| 016316 | [Google Cloud: Data Export — Baseline Setup for Public Dataset](Project_016316/README.md) |
+| 016317 | [Google Cloud: Data Export — Automation for Public Dataset](Project_016317/README.md) |
+| 016318 | [Google Cloud: Data Export — Recovery for Public Dataset](Project_016318/README.md) |
+| 016319 | [Google Cloud: Data Export — Reporting for Public Dataset](Project_016319/README.md) |
+| 016320 | [Google Cloud: Data Export — Usability Improvement for Public Dataset](Project_016320/README.md) |
 
 [Back to the portfolio home](../README.md)
