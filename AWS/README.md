@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014158 | [AWS: Log Analysis — Recovery for Small Business](Project_014158/README.md) |
 | 014159 | [AWS: Log Analysis — Reporting for Small Business](Project_014159/README.md) |
 | 014160 | [AWS: Log Analysis — Usability Improvement for Small Business](Project_014160/README.md) |
+| 014161 | [AWS: Log Analysis — Baseline Setup for Home Development](Project_014161/README.md) |
+| 014162 | [AWS: Log Analysis — Automation for Home Development](Project_014162/README.md) |
+| 014163 | [AWS: Log Analysis — Recovery for Home Development](Project_014163/README.md) |
+| 014164 | [AWS: Log Analysis — Reporting for Home Development](Project_014164/README.md) |
+| 014165 | [AWS: Log Analysis — Usability Improvement for Home Development](Project_014165/README.md) |
+| 014166 | [AWS: Log Analysis — Baseline Setup for Public Dataset](Project_014166/README.md) |
+| 014167 | [AWS: Log Analysis — Automation for Public Dataset](Project_014167/README.md) |
+| 014168 | [AWS: Log Analysis — Recovery for Public Dataset](Project_014168/README.md) |
+| 014169 | [AWS: Log Analysis — Reporting for Public Dataset](Project_014169/README.md) |
+| 014170 | [AWS: Log Analysis — Usability Improvement for Public Dataset](Project_014170/README.md) |
+| 014171 | [AWS: Log Analysis — Baseline Setup for Branch Office Simulator](Project_014171/README.md) |
+| 014172 | [AWS: Log Analysis — Automation for Branch Office Simulator](Project_014172/README.md) |
+| 014173 | [AWS: Log Analysis — Recovery for Branch Office Simulator](Project_014173/README.md) |
+| 014174 | [AWS: Log Analysis — Reporting for Branch Office Simulator](Project_014174/README.md) |
+| 014175 | [AWS: Log Analysis — Usability Improvement for Branch Office Simulator](Project_014175/README.md) |
+| 014176 | [AWS: Log Analysis — Baseline Setup for Offline Classroom](Project_014176/README.md) |
+| 014177 | [AWS: Log Analysis — Automation for Offline Classroom](Project_014177/README.md) |
+| 014178 | [AWS: Log Analysis — Recovery for Offline Classroom](Project_014178/README.md) |
+| 014179 | [AWS: Log Analysis — Reporting for Offline Classroom](Project_014179/README.md) |
+| 014180 | [AWS: Log Analysis — Usability Improvement for Offline Classroom](Project_014180/README.md) |
 
 [Back to the portfolio home](../README.md)
