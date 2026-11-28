@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037298 | [Arduino: Data Import — Recovery for Portfolio Demo](Project_037298/README.md) |
 | 037299 | [Arduino: Data Import — Reporting for Portfolio Demo](Project_037299/README.md) |
 | 037300 | [Arduino: Data Import — Usability Improvement for Portfolio Demo](Project_037300/README.md) |
+| 037301 | [Arduino: Data Export — Baseline Setup for School Lab](Project_037301/README.md) |
+| 037302 | [Arduino: Data Export — Automation for School Lab](Project_037302/README.md) |
+| 037303 | [Arduino: Data Export — Recovery for School Lab](Project_037303/README.md) |
+| 037304 | [Arduino: Data Export — Reporting for School Lab](Project_037304/README.md) |
+| 037305 | [Arduino: Data Export — Usability Improvement for School Lab](Project_037305/README.md) |
+| 037306 | [Arduino: Data Export — Baseline Setup for Small Business](Project_037306/README.md) |
+| 037307 | [Arduino: Data Export — Automation for Small Business](Project_037307/README.md) |
+| 037308 | [Arduino: Data Export — Recovery for Small Business](Project_037308/README.md) |
+| 037309 | [Arduino: Data Export — Reporting for Small Business](Project_037309/README.md) |
+| 037310 | [Arduino: Data Export — Usability Improvement for Small Business](Project_037310/README.md) |
+| 037311 | [Arduino: Data Export — Baseline Setup for Home Development](Project_037311/README.md) |
+| 037312 | [Arduino: Data Export — Automation for Home Development](Project_037312/README.md) |
+| 037313 | [Arduino: Data Export — Recovery for Home Development](Project_037313/README.md) |
+| 037314 | [Arduino: Data Export — Reporting for Home Development](Project_037314/README.md) |
+| 037315 | [Arduino: Data Export — Usability Improvement for Home Development](Project_037315/README.md) |
+| 037316 | [Arduino: Data Export — Baseline Setup for Public Dataset](Project_037316/README.md) |
+| 037317 | [Arduino: Data Export — Automation for Public Dataset](Project_037317/README.md) |
+| 037318 | [Arduino: Data Export — Recovery for Public Dataset](Project_037318/README.md) |
+| 037319 | [Arduino: Data Export — Reporting for Public Dataset](Project_037319/README.md) |
+| 037320 | [Arduino: Data Export — Usability Improvement for Public Dataset](Project_037320/README.md) |
 
 [Back to the portfolio home](../README.md)
