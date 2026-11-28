@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042598 | [Apache: Performance Baseline — Recovery for Portfolio Demo](Project_042598/README.md) |
 | 042599 | [Apache: Performance Baseline — Reporting for Portfolio Demo](Project_042599/README.md) |
 | 042600 | [Apache: Performance Baseline — Usability Improvement for Portfolio Demo](Project_042600/README.md) |
+| 042601 | [Apache: Service Check — Baseline Setup for School Lab](Project_042601/README.md) |
+| 042602 | [Apache: Service Check — Automation for School Lab](Project_042602/README.md) |
+| 042603 | [Apache: Service Check — Recovery for School Lab](Project_042603/README.md) |
+| 042604 | [Apache: Service Check — Reporting for School Lab](Project_042604/README.md) |
+| 042605 | [Apache: Service Check — Usability Improvement for School Lab](Project_042605/README.md) |
+| 042606 | [Apache: Service Check — Baseline Setup for Small Business](Project_042606/README.md) |
+| 042607 | [Apache: Service Check — Automation for Small Business](Project_042607/README.md) |
+| 042608 | [Apache: Service Check — Recovery for Small Business](Project_042608/README.md) |
+| 042609 | [Apache: Service Check — Reporting for Small Business](Project_042609/README.md) |
+| 042610 | [Apache: Service Check — Usability Improvement for Small Business](Project_042610/README.md) |
+| 042611 | [Apache: Service Check — Baseline Setup for Home Development](Project_042611/README.md) |
+| 042612 | [Apache: Service Check — Automation for Home Development](Project_042612/README.md) |
+| 042613 | [Apache: Service Check — Recovery for Home Development](Project_042613/README.md) |
+| 042614 | [Apache: Service Check — Reporting for Home Development](Project_042614/README.md) |
+| 042615 | [Apache: Service Check — Usability Improvement for Home Development](Project_042615/README.md) |
+| 042616 | [Apache: Service Check — Baseline Setup for Public Dataset](Project_042616/README.md) |
+| 042617 | [Apache: Service Check — Automation for Public Dataset](Project_042617/README.md) |
+| 042618 | [Apache: Service Check — Recovery for Public Dataset](Project_042618/README.md) |
+| 042619 | [Apache: Service Check — Reporting for Public Dataset](Project_042619/README.md) |
+| 042620 | [Apache: Service Check — Usability Improvement for Public Dataset](Project_042620/README.md) |
 
 [Back to the portfolio home](../README.md)
