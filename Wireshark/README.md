@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029798 | [Wireshark: Data Validation — Recovery for Portfolio Demo](Project_029798/README.md) |
 | 029799 | [Wireshark: Data Validation — Reporting for Portfolio Demo](Project_029799/README.md) |
 | 029800 | [Wireshark: Data Validation — Usability Improvement for Portfolio Demo](Project_029800/README.md) |
+| 029801 | [Wireshark: Documentation Generation — Baseline Setup for School Lab](Project_029801/README.md) |
+| 029802 | [Wireshark: Documentation Generation — Automation for School Lab](Project_029802/README.md) |
+| 029803 | [Wireshark: Documentation Generation — Recovery for School Lab](Project_029803/README.md) |
+| 029804 | [Wireshark: Documentation Generation — Reporting for School Lab](Project_029804/README.md) |
+| 029805 | [Wireshark: Documentation Generation — Usability Improvement for School Lab](Project_029805/README.md) |
+| 029806 | [Wireshark: Documentation Generation — Baseline Setup for Small Business](Project_029806/README.md) |
+| 029807 | [Wireshark: Documentation Generation — Automation for Small Business](Project_029807/README.md) |
+| 029808 | [Wireshark: Documentation Generation — Recovery for Small Business](Project_029808/README.md) |
+| 029809 | [Wireshark: Documentation Generation — Reporting for Small Business](Project_029809/README.md) |
+| 029810 | [Wireshark: Documentation Generation — Usability Improvement for Small Business](Project_029810/README.md) |
+| 029811 | [Wireshark: Documentation Generation — Baseline Setup for Home Development](Project_029811/README.md) |
+| 029812 | [Wireshark: Documentation Generation — Automation for Home Development](Project_029812/README.md) |
+| 029813 | [Wireshark: Documentation Generation — Recovery for Home Development](Project_029813/README.md) |
+| 029814 | [Wireshark: Documentation Generation — Reporting for Home Development](Project_029814/README.md) |
+| 029815 | [Wireshark: Documentation Generation — Usability Improvement for Home Development](Project_029815/README.md) |
+| 029816 | [Wireshark: Documentation Generation — Baseline Setup for Public Dataset](Project_029816/README.md) |
+| 029817 | [Wireshark: Documentation Generation — Automation for Public Dataset](Project_029817/README.md) |
+| 029818 | [Wireshark: Documentation Generation — Recovery for Public Dataset](Project_029818/README.md) |
+| 029819 | [Wireshark: Documentation Generation — Reporting for Public Dataset](Project_029819/README.md) |
+| 029820 | [Wireshark: Documentation Generation — Usability Improvement for Public Dataset](Project_029820/README.md) |
 
 [Back to the portfolio home](../README.md)
