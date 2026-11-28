@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047218 | [Ansible: Backup Verification — Recovery for Public Dataset](Project_047218/README.md) |
 | 047219 | [Ansible: Backup Verification — Reporting for Public Dataset](Project_047219/README.md) |
 | 047220 | [Ansible: Backup Verification — Usability Improvement for Public Dataset](Project_047220/README.md) |
+| 047221 | [Ansible: Backup Verification — Baseline Setup for Branch Office Simulator](Project_047221/README.md) |
+| 047222 | [Ansible: Backup Verification — Automation for Branch Office Simulator](Project_047222/README.md) |
+| 047223 | [Ansible: Backup Verification — Recovery for Branch Office Simulator](Project_047223/README.md) |
+| 047224 | [Ansible: Backup Verification — Reporting for Branch Office Simulator](Project_047224/README.md) |
+| 047225 | [Ansible: Backup Verification — Usability Improvement for Branch Office Simulator](Project_047225/README.md) |
+| 047226 | [Ansible: Backup Verification — Baseline Setup for Offline Classroom](Project_047226/README.md) |
+| 047227 | [Ansible: Backup Verification — Automation for Offline Classroom](Project_047227/README.md) |
+| 047228 | [Ansible: Backup Verification — Recovery for Offline Classroom](Project_047228/README.md) |
+| 047229 | [Ansible: Backup Verification — Reporting for Offline Classroom](Project_047229/README.md) |
+| 047230 | [Ansible: Backup Verification — Usability Improvement for Offline Classroom](Project_047230/README.md) |
+| 047231 | [Ansible: Backup Verification — Baseline Setup for Single-Host Lab](Project_047231/README.md) |
+| 047232 | [Ansible: Backup Verification — Automation for Single-Host Lab](Project_047232/README.md) |
+| 047233 | [Ansible: Backup Verification — Recovery for Single-Host Lab](Project_047233/README.md) |
+| 047234 | [Ansible: Backup Verification — Reporting for Single-Host Lab](Project_047234/README.md) |
+| 047235 | [Ansible: Backup Verification — Usability Improvement for Single-Host Lab](Project_047235/README.md) |
+| 047236 | [Ansible: Backup Verification — Baseline Setup for Two-Node Lab](Project_047236/README.md) |
+| 047237 | [Ansible: Backup Verification — Automation for Two-Node Lab](Project_047237/README.md) |
+| 047238 | [Ansible: Backup Verification — Recovery for Two-Node Lab](Project_047238/README.md) |
+| 047239 | [Ansible: Backup Verification — Reporting for Two-Node Lab](Project_047239/README.md) |
+| 047240 | [Ansible: Backup Verification — Usability Improvement for Two-Node Lab](Project_047240/README.md) |
 
 [Back to the portfolio home](../README.md)
