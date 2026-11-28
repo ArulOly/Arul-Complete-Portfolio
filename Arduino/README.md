@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037598 | [Arduino: Performance Baseline — Recovery for Portfolio Demo](Project_037598/README.md) |
 | 037599 | [Arduino: Performance Baseline — Reporting for Portfolio Demo](Project_037599/README.md) |
 | 037600 | [Arduino: Performance Baseline — Usability Improvement for Portfolio Demo](Project_037600/README.md) |
+| 037601 | [Arduino: Service Check — Baseline Setup for School Lab](Project_037601/README.md) |
+| 037602 | [Arduino: Service Check — Automation for School Lab](Project_037602/README.md) |
+| 037603 | [Arduino: Service Check — Recovery for School Lab](Project_037603/README.md) |
+| 037604 | [Arduino: Service Check — Reporting for School Lab](Project_037604/README.md) |
+| 037605 | [Arduino: Service Check — Usability Improvement for School Lab](Project_037605/README.md) |
+| 037606 | [Arduino: Service Check — Baseline Setup for Small Business](Project_037606/README.md) |
+| 037607 | [Arduino: Service Check — Automation for Small Business](Project_037607/README.md) |
+| 037608 | [Arduino: Service Check — Recovery for Small Business](Project_037608/README.md) |
+| 037609 | [Arduino: Service Check — Reporting for Small Business](Project_037609/README.md) |
+| 037610 | [Arduino: Service Check — Usability Improvement for Small Business](Project_037610/README.md) |
+| 037611 | [Arduino: Service Check — Baseline Setup for Home Development](Project_037611/README.md) |
+| 037612 | [Arduino: Service Check — Automation for Home Development](Project_037612/README.md) |
+| 037613 | [Arduino: Service Check — Recovery for Home Development](Project_037613/README.md) |
+| 037614 | [Arduino: Service Check — Reporting for Home Development](Project_037614/README.md) |
+| 037615 | [Arduino: Service Check — Usability Improvement for Home Development](Project_037615/README.md) |
+| 037616 | [Arduino: Service Check — Baseline Setup for Public Dataset](Project_037616/README.md) |
+| 037617 | [Arduino: Service Check — Automation for Public Dataset](Project_037617/README.md) |
+| 037618 | [Arduino: Service Check — Recovery for Public Dataset](Project_037618/README.md) |
+| 037619 | [Arduino: Service Check — Reporting for Public Dataset](Project_037619/README.md) |
+| 037620 | [Arduino: Service Check — Usability Improvement for Public Dataset](Project_037620/README.md) |
 
 [Back to the portfolio home](../README.md)
