@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035038 | [Raspberry Pi: Inventory — Recovery for Two-Node Lab](Project_035038/README.md) |
 | 035039 | [Raspberry Pi: Inventory — Reporting for Two-Node Lab](Project_035039/README.md) |
 | 035040 | [Raspberry Pi: Inventory — Usability Improvement for Two-Node Lab](Project_035040/README.md) |
+| 035041 | [Raspberry Pi: Inventory — Baseline Setup for Help Desk](Project_035041/README.md) |
+| 035042 | [Raspberry Pi: Inventory — Automation for Help Desk](Project_035042/README.md) |
+| 035043 | [Raspberry Pi: Inventory — Recovery for Help Desk](Project_035043/README.md) |
+| 035044 | [Raspberry Pi: Inventory — Reporting for Help Desk](Project_035044/README.md) |
+| 035045 | [Raspberry Pi: Inventory — Usability Improvement for Help Desk](Project_035045/README.md) |
+| 035046 | [Raspberry Pi: Inventory — Baseline Setup for Portfolio Demo](Project_035046/README.md) |
+| 035047 | [Raspberry Pi: Inventory — Automation for Portfolio Demo](Project_035047/README.md) |
+| 035048 | [Raspberry Pi: Inventory — Recovery for Portfolio Demo](Project_035048/README.md) |
+| 035049 | [Raspberry Pi: Inventory — Reporting for Portfolio Demo](Project_035049/README.md) |
+| 035050 | [Raspberry Pi: Inventory — Usability Improvement for Portfolio Demo](Project_035050/README.md) |
+| 035051 | [Raspberry Pi: Monitoring — Baseline Setup for School Lab](Project_035051/README.md) |
+| 035052 | [Raspberry Pi: Monitoring — Automation for School Lab](Project_035052/README.md) |
+| 035053 | [Raspberry Pi: Monitoring — Recovery for School Lab](Project_035053/README.md) |
+| 035054 | [Raspberry Pi: Monitoring — Reporting for School Lab](Project_035054/README.md) |
+| 035055 | [Raspberry Pi: Monitoring — Usability Improvement for School Lab](Project_035055/README.md) |
+| 035056 | [Raspberry Pi: Monitoring — Baseline Setup for Small Business](Project_035056/README.md) |
+| 035057 | [Raspberry Pi: Monitoring — Automation for Small Business](Project_035057/README.md) |
+| 035058 | [Raspberry Pi: Monitoring — Recovery for Small Business](Project_035058/README.md) |
+| 035059 | [Raspberry Pi: Monitoring — Reporting for Small Business](Project_035059/README.md) |
+| 035060 | [Raspberry Pi: Monitoring — Usability Improvement for Small Business](Project_035060/README.md) |
 
 [Back to the portfolio home](../README.md)
