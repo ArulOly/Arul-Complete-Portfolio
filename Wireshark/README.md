@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029538 | [Wireshark: Access Review — Recovery for Two-Node Lab](Project_029538/README.md) |
 | 029539 | [Wireshark: Access Review — Reporting for Two-Node Lab](Project_029539/README.md) |
 | 029540 | [Wireshark: Access Review — Usability Improvement for Two-Node Lab](Project_029540/README.md) |
+| 029541 | [Wireshark: Access Review — Baseline Setup for Help Desk](Project_029541/README.md) |
+| 029542 | [Wireshark: Access Review — Automation for Help Desk](Project_029542/README.md) |
+| 029543 | [Wireshark: Access Review — Recovery for Help Desk](Project_029543/README.md) |
+| 029544 | [Wireshark: Access Review — Reporting for Help Desk](Project_029544/README.md) |
+| 029545 | [Wireshark: Access Review — Usability Improvement for Help Desk](Project_029545/README.md) |
+| 029546 | [Wireshark: Access Review — Baseline Setup for Portfolio Demo](Project_029546/README.md) |
+| 029547 | [Wireshark: Access Review — Automation for Portfolio Demo](Project_029547/README.md) |
+| 029548 | [Wireshark: Access Review — Recovery for Portfolio Demo](Project_029548/README.md) |
+| 029549 | [Wireshark: Access Review — Reporting for Portfolio Demo](Project_029549/README.md) |
+| 029550 | [Wireshark: Access Review — Usability Improvement for Portfolio Demo](Project_029550/README.md) |
+| 029551 | [Wireshark: Performance Baseline — Baseline Setup for School Lab](Project_029551/README.md) |
+| 029552 | [Wireshark: Performance Baseline — Automation for School Lab](Project_029552/README.md) |
+| 029553 | [Wireshark: Performance Baseline — Recovery for School Lab](Project_029553/README.md) |
+| 029554 | [Wireshark: Performance Baseline — Reporting for School Lab](Project_029554/README.md) |
+| 029555 | [Wireshark: Performance Baseline — Usability Improvement for School Lab](Project_029555/README.md) |
+| 029556 | [Wireshark: Performance Baseline — Baseline Setup for Small Business](Project_029556/README.md) |
+| 029557 | [Wireshark: Performance Baseline — Automation for Small Business](Project_029557/README.md) |
+| 029558 | [Wireshark: Performance Baseline — Recovery for Small Business](Project_029558/README.md) |
+| 029559 | [Wireshark: Performance Baseline — Reporting for Small Business](Project_029559/README.md) |
+| 029560 | [Wireshark: Performance Baseline — Usability Improvement for Small Business](Project_029560/README.md) |
 
 [Back to the portfolio home](../README.md)
