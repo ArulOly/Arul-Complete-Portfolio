@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017558 | [Docker: Performance Baseline — Recovery for Small Business](Project_017558/README.md) |
 | 017559 | [Docker: Performance Baseline — Reporting for Small Business](Project_017559/README.md) |
 | 017560 | [Docker: Performance Baseline — Usability Improvement for Small Business](Project_017560/README.md) |
+| 017561 | [Docker: Performance Baseline — Baseline Setup for Home Development](Project_017561/README.md) |
+| 017562 | [Docker: Performance Baseline — Automation for Home Development](Project_017562/README.md) |
+| 017563 | [Docker: Performance Baseline — Recovery for Home Development](Project_017563/README.md) |
+| 017564 | [Docker: Performance Baseline — Reporting for Home Development](Project_017564/README.md) |
+| 017565 | [Docker: Performance Baseline — Usability Improvement for Home Development](Project_017565/README.md) |
+| 017566 | [Docker: Performance Baseline — Baseline Setup for Public Dataset](Project_017566/README.md) |
+| 017567 | [Docker: Performance Baseline — Automation for Public Dataset](Project_017567/README.md) |
+| 017568 | [Docker: Performance Baseline — Recovery for Public Dataset](Project_017568/README.md) |
+| 017569 | [Docker: Performance Baseline — Reporting for Public Dataset](Project_017569/README.md) |
+| 017570 | [Docker: Performance Baseline — Usability Improvement for Public Dataset](Project_017570/README.md) |
+| 017571 | [Docker: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_017571/README.md) |
+| 017572 | [Docker: Performance Baseline — Automation for Branch Office Simulator](Project_017572/README.md) |
+| 017573 | [Docker: Performance Baseline — Recovery for Branch Office Simulator](Project_017573/README.md) |
+| 017574 | [Docker: Performance Baseline — Reporting for Branch Office Simulator](Project_017574/README.md) |
+| 017575 | [Docker: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_017575/README.md) |
+| 017576 | [Docker: Performance Baseline — Baseline Setup for Offline Classroom](Project_017576/README.md) |
+| 017577 | [Docker: Performance Baseline — Automation for Offline Classroom](Project_017577/README.md) |
+| 017578 | [Docker: Performance Baseline — Recovery for Offline Classroom](Project_017578/README.md) |
+| 017579 | [Docker: Performance Baseline — Reporting for Offline Classroom](Project_017579/README.md) |
+| 017580 | [Docker: Performance Baseline — Usability Improvement for Offline Classroom](Project_017580/README.md) |
 
 [Back to the portfolio home](../README.md)
