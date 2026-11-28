@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031058 | [Greenbone: Monitoring — Recovery for Small Business](Project_031058/README.md) |
 | 031059 | [Greenbone: Monitoring — Reporting for Small Business](Project_031059/README.md) |
 | 031060 | [Greenbone: Monitoring — Usability Improvement for Small Business](Project_031060/README.md) |
+| 031061 | [Greenbone: Monitoring — Baseline Setup for Home Development](Project_031061/README.md) |
+| 031062 | [Greenbone: Monitoring — Automation for Home Development](Project_031062/README.md) |
+| 031063 | [Greenbone: Monitoring — Recovery for Home Development](Project_031063/README.md) |
+| 031064 | [Greenbone: Monitoring — Reporting for Home Development](Project_031064/README.md) |
+| 031065 | [Greenbone: Monitoring — Usability Improvement for Home Development](Project_031065/README.md) |
+| 031066 | [Greenbone: Monitoring — Baseline Setup for Public Dataset](Project_031066/README.md) |
+| 031067 | [Greenbone: Monitoring — Automation for Public Dataset](Project_031067/README.md) |
+| 031068 | [Greenbone: Monitoring — Recovery for Public Dataset](Project_031068/README.md) |
+| 031069 | [Greenbone: Monitoring — Reporting for Public Dataset](Project_031069/README.md) |
+| 031070 | [Greenbone: Monitoring — Usability Improvement for Public Dataset](Project_031070/README.md) |
+| 031071 | [Greenbone: Monitoring — Baseline Setup for Branch Office Simulator](Project_031071/README.md) |
+| 031072 | [Greenbone: Monitoring — Automation for Branch Office Simulator](Project_031072/README.md) |
+| 031073 | [Greenbone: Monitoring — Recovery for Branch Office Simulator](Project_031073/README.md) |
+| 031074 | [Greenbone: Monitoring — Reporting for Branch Office Simulator](Project_031074/README.md) |
+| 031075 | [Greenbone: Monitoring — Usability Improvement for Branch Office Simulator](Project_031075/README.md) |
+| 031076 | [Greenbone: Monitoring — Baseline Setup for Offline Classroom](Project_031076/README.md) |
+| 031077 | [Greenbone: Monitoring — Automation for Offline Classroom](Project_031077/README.md) |
+| 031078 | [Greenbone: Monitoring — Recovery for Offline Classroom](Project_031078/README.md) |
+| 031079 | [Greenbone: Monitoring — Reporting for Offline Classroom](Project_031079/README.md) |
+| 031080 | [Greenbone: Monitoring — Usability Improvement for Offline Classroom](Project_031080/README.md) |
 
 [Back to the portfolio home](../README.md)
