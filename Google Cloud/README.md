@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016058 | [Google Cloud: Monitoring — Recovery for Small Business](Project_016058/README.md) |
 | 016059 | [Google Cloud: Monitoring — Reporting for Small Business](Project_016059/README.md) |
 | 016060 | [Google Cloud: Monitoring — Usability Improvement for Small Business](Project_016060/README.md) |
+| 016061 | [Google Cloud: Monitoring — Baseline Setup for Home Development](Project_016061/README.md) |
+| 016062 | [Google Cloud: Monitoring — Automation for Home Development](Project_016062/README.md) |
+| 016063 | [Google Cloud: Monitoring — Recovery for Home Development](Project_016063/README.md) |
+| 016064 | [Google Cloud: Monitoring — Reporting for Home Development](Project_016064/README.md) |
+| 016065 | [Google Cloud: Monitoring — Usability Improvement for Home Development](Project_016065/README.md) |
+| 016066 | [Google Cloud: Monitoring — Baseline Setup for Public Dataset](Project_016066/README.md) |
+| 016067 | [Google Cloud: Monitoring — Automation for Public Dataset](Project_016067/README.md) |
+| 016068 | [Google Cloud: Monitoring — Recovery for Public Dataset](Project_016068/README.md) |
+| 016069 | [Google Cloud: Monitoring — Reporting for Public Dataset](Project_016069/README.md) |
+| 016070 | [Google Cloud: Monitoring — Usability Improvement for Public Dataset](Project_016070/README.md) |
+| 016071 | [Google Cloud: Monitoring — Baseline Setup for Branch Office Simulator](Project_016071/README.md) |
+| 016072 | [Google Cloud: Monitoring — Automation for Branch Office Simulator](Project_016072/README.md) |
+| 016073 | [Google Cloud: Monitoring — Recovery for Branch Office Simulator](Project_016073/README.md) |
+| 016074 | [Google Cloud: Monitoring — Reporting for Branch Office Simulator](Project_016074/README.md) |
+| 016075 | [Google Cloud: Monitoring — Usability Improvement for Branch Office Simulator](Project_016075/README.md) |
+| 016076 | [Google Cloud: Monitoring — Baseline Setup for Offline Classroom](Project_016076/README.md) |
+| 016077 | [Google Cloud: Monitoring — Automation for Offline Classroom](Project_016077/README.md) |
+| 016078 | [Google Cloud: Monitoring — Recovery for Offline Classroom](Project_016078/README.md) |
+| 016079 | [Google Cloud: Monitoring — Reporting for Offline Classroom](Project_016079/README.md) |
+| 016080 | [Google Cloud: Monitoring — Usability Improvement for Offline Classroom](Project_016080/README.md) |
 
 [Back to the portfolio home](../README.md)
