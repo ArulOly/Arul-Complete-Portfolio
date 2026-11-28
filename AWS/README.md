@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014658 | [AWS: Configuration Comparison — Recovery for Small Business](Project_014658/README.md) |
 | 014659 | [AWS: Configuration Comparison — Reporting for Small Business](Project_014659/README.md) |
 | 014660 | [AWS: Configuration Comparison — Usability Improvement for Small Business](Project_014660/README.md) |
+| 014661 | [AWS: Configuration Comparison — Baseline Setup for Home Development](Project_014661/README.md) |
+| 014662 | [AWS: Configuration Comparison — Automation for Home Development](Project_014662/README.md) |
+| 014663 | [AWS: Configuration Comparison — Recovery for Home Development](Project_014663/README.md) |
+| 014664 | [AWS: Configuration Comparison — Reporting for Home Development](Project_014664/README.md) |
+| 014665 | [AWS: Configuration Comparison — Usability Improvement for Home Development](Project_014665/README.md) |
+| 014666 | [AWS: Configuration Comparison — Baseline Setup for Public Dataset](Project_014666/README.md) |
+| 014667 | [AWS: Configuration Comparison — Automation for Public Dataset](Project_014667/README.md) |
+| 014668 | [AWS: Configuration Comparison — Recovery for Public Dataset](Project_014668/README.md) |
+| 014669 | [AWS: Configuration Comparison — Reporting for Public Dataset](Project_014669/README.md) |
+| 014670 | [AWS: Configuration Comparison — Usability Improvement for Public Dataset](Project_014670/README.md) |
+| 014671 | [AWS: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_014671/README.md) |
+| 014672 | [AWS: Configuration Comparison — Automation for Branch Office Simulator](Project_014672/README.md) |
+| 014673 | [AWS: Configuration Comparison — Recovery for Branch Office Simulator](Project_014673/README.md) |
+| 014674 | [AWS: Configuration Comparison — Reporting for Branch Office Simulator](Project_014674/README.md) |
+| 014675 | [AWS: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_014675/README.md) |
+| 014676 | [AWS: Configuration Comparison — Baseline Setup for Offline Classroom](Project_014676/README.md) |
+| 014677 | [AWS: Configuration Comparison — Automation for Offline Classroom](Project_014677/README.md) |
+| 014678 | [AWS: Configuration Comparison — Recovery for Offline Classroom](Project_014678/README.md) |
+| 014679 | [AWS: Configuration Comparison — Reporting for Offline Classroom](Project_014679/README.md) |
+| 014680 | [AWS: Configuration Comparison — Usability Improvement for Offline Classroom](Project_014680/README.md) |
 
 [Back to the portfolio home](../README.md)
