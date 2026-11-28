@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043598 | [Grafana: Performance Baseline — Recovery for Portfolio Demo](Project_043598/README.md) |
 | 043599 | [Grafana: Performance Baseline — Reporting for Portfolio Demo](Project_043599/README.md) |
 | 043600 | [Grafana: Performance Baseline — Usability Improvement for Portfolio Demo](Project_043600/README.md) |
+| 043601 | [Grafana: Service Check — Baseline Setup for School Lab](Project_043601/README.md) |
+| 043602 | [Grafana: Service Check — Automation for School Lab](Project_043602/README.md) |
+| 043603 | [Grafana: Service Check — Recovery for School Lab](Project_043603/README.md) |
+| 043604 | [Grafana: Service Check — Reporting for School Lab](Project_043604/README.md) |
+| 043605 | [Grafana: Service Check — Usability Improvement for School Lab](Project_043605/README.md) |
+| 043606 | [Grafana: Service Check — Baseline Setup for Small Business](Project_043606/README.md) |
+| 043607 | [Grafana: Service Check — Automation for Small Business](Project_043607/README.md) |
+| 043608 | [Grafana: Service Check — Recovery for Small Business](Project_043608/README.md) |
+| 043609 | [Grafana: Service Check — Reporting for Small Business](Project_043609/README.md) |
+| 043610 | [Grafana: Service Check — Usability Improvement for Small Business](Project_043610/README.md) |
+| 043611 | [Grafana: Service Check — Baseline Setup for Home Development](Project_043611/README.md) |
+| 043612 | [Grafana: Service Check — Automation for Home Development](Project_043612/README.md) |
+| 043613 | [Grafana: Service Check — Recovery for Home Development](Project_043613/README.md) |
+| 043614 | [Grafana: Service Check — Reporting for Home Development](Project_043614/README.md) |
+| 043615 | [Grafana: Service Check — Usability Improvement for Home Development](Project_043615/README.md) |
+| 043616 | [Grafana: Service Check — Baseline Setup for Public Dataset](Project_043616/README.md) |
+| 043617 | [Grafana: Service Check — Automation for Public Dataset](Project_043617/README.md) |
+| 043618 | [Grafana: Service Check — Recovery for Public Dataset](Project_043618/README.md) |
+| 043619 | [Grafana: Service Check — Reporting for Public Dataset](Project_043619/README.md) |
+| 043620 | [Grafana: Service Check — Usability Improvement for Public Dataset](Project_043620/README.md) |
 
 [Back to the portfolio home](../README.md)
