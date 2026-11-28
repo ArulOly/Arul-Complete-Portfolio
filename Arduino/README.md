@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037358 | [Arduino: Dashboard — Recovery for Small Business](Project_037358/README.md) |
 | 037359 | [Arduino: Dashboard — Reporting for Small Business](Project_037359/README.md) |
 | 037360 | [Arduino: Dashboard — Usability Improvement for Small Business](Project_037360/README.md) |
+| 037361 | [Arduino: Dashboard — Baseline Setup for Home Development](Project_037361/README.md) |
+| 037362 | [Arduino: Dashboard — Automation for Home Development](Project_037362/README.md) |
+| 037363 | [Arduino: Dashboard — Recovery for Home Development](Project_037363/README.md) |
+| 037364 | [Arduino: Dashboard — Reporting for Home Development](Project_037364/README.md) |
+| 037365 | [Arduino: Dashboard — Usability Improvement for Home Development](Project_037365/README.md) |
+| 037366 | [Arduino: Dashboard — Baseline Setup for Public Dataset](Project_037366/README.md) |
+| 037367 | [Arduino: Dashboard — Automation for Public Dataset](Project_037367/README.md) |
+| 037368 | [Arduino: Dashboard — Recovery for Public Dataset](Project_037368/README.md) |
+| 037369 | [Arduino: Dashboard — Reporting for Public Dataset](Project_037369/README.md) |
+| 037370 | [Arduino: Dashboard — Usability Improvement for Public Dataset](Project_037370/README.md) |
+| 037371 | [Arduino: Dashboard — Baseline Setup for Branch Office Simulator](Project_037371/README.md) |
+| 037372 | [Arduino: Dashboard — Automation for Branch Office Simulator](Project_037372/README.md) |
+| 037373 | [Arduino: Dashboard — Recovery for Branch Office Simulator](Project_037373/README.md) |
+| 037374 | [Arduino: Dashboard — Reporting for Branch Office Simulator](Project_037374/README.md) |
+| 037375 | [Arduino: Dashboard — Usability Improvement for Branch Office Simulator](Project_037375/README.md) |
+| 037376 | [Arduino: Dashboard — Baseline Setup for Offline Classroom](Project_037376/README.md) |
+| 037377 | [Arduino: Dashboard — Automation for Offline Classroom](Project_037377/README.md) |
+| 037378 | [Arduino: Dashboard — Recovery for Offline Classroom](Project_037378/README.md) |
+| 037379 | [Arduino: Dashboard — Reporting for Offline Classroom](Project_037379/README.md) |
+| 037380 | [Arduino: Dashboard — Usability Improvement for Offline Classroom](Project_037380/README.md) |
 
 [Back to the portfolio home](../README.md)
