@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018038 | [Kubernetes: Inventory — Recovery for Two-Node Lab](Project_018038/README.md) |
 | 018039 | [Kubernetes: Inventory — Reporting for Two-Node Lab](Project_018039/README.md) |
 | 018040 | [Kubernetes: Inventory — Usability Improvement for Two-Node Lab](Project_018040/README.md) |
+| 018041 | [Kubernetes: Inventory — Baseline Setup for Help Desk](Project_018041/README.md) |
+| 018042 | [Kubernetes: Inventory — Automation for Help Desk](Project_018042/README.md) |
+| 018043 | [Kubernetes: Inventory — Recovery for Help Desk](Project_018043/README.md) |
+| 018044 | [Kubernetes: Inventory — Reporting for Help Desk](Project_018044/README.md) |
+| 018045 | [Kubernetes: Inventory — Usability Improvement for Help Desk](Project_018045/README.md) |
+| 018046 | [Kubernetes: Inventory — Baseline Setup for Portfolio Demo](Project_018046/README.md) |
+| 018047 | [Kubernetes: Inventory — Automation for Portfolio Demo](Project_018047/README.md) |
+| 018048 | [Kubernetes: Inventory — Recovery for Portfolio Demo](Project_018048/README.md) |
+| 018049 | [Kubernetes: Inventory — Reporting for Portfolio Demo](Project_018049/README.md) |
+| 018050 | [Kubernetes: Inventory — Usability Improvement for Portfolio Demo](Project_018050/README.md) |
+| 018051 | [Kubernetes: Monitoring — Baseline Setup for School Lab](Project_018051/README.md) |
+| 018052 | [Kubernetes: Monitoring — Automation for School Lab](Project_018052/README.md) |
+| 018053 | [Kubernetes: Monitoring — Recovery for School Lab](Project_018053/README.md) |
+| 018054 | [Kubernetes: Monitoring — Reporting for School Lab](Project_018054/README.md) |
+| 018055 | [Kubernetes: Monitoring — Usability Improvement for School Lab](Project_018055/README.md) |
+| 018056 | [Kubernetes: Monitoring — Baseline Setup for Small Business](Project_018056/README.md) |
+| 018057 | [Kubernetes: Monitoring — Automation for Small Business](Project_018057/README.md) |
+| 018058 | [Kubernetes: Monitoring — Recovery for Small Business](Project_018058/README.md) |
+| 018059 | [Kubernetes: Monitoring — Reporting for Small Business](Project_018059/README.md) |
+| 018060 | [Kubernetes: Monitoring — Usability Improvement for Small Business](Project_018060/README.md) |
 
 [Back to the portfolio home](../README.md)
