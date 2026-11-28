@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044578 | [Prometheus: Performance Baseline — Recovery for Offline Classroom](Project_044578/README.md) |
 | 044579 | [Prometheus: Performance Baseline — Reporting for Offline Classroom](Project_044579/README.md) |
 | 044580 | [Prometheus: Performance Baseline — Usability Improvement for Offline Classroom](Project_044580/README.md) |
+| 044581 | [Prometheus: Performance Baseline — Baseline Setup for Single-Host Lab](Project_044581/README.md) |
+| 044582 | [Prometheus: Performance Baseline — Automation for Single-Host Lab](Project_044582/README.md) |
+| 044583 | [Prometheus: Performance Baseline — Recovery for Single-Host Lab](Project_044583/README.md) |
+| 044584 | [Prometheus: Performance Baseline — Reporting for Single-Host Lab](Project_044584/README.md) |
+| 044585 | [Prometheus: Performance Baseline — Usability Improvement for Single-Host Lab](Project_044585/README.md) |
+| 044586 | [Prometheus: Performance Baseline — Baseline Setup for Two-Node Lab](Project_044586/README.md) |
+| 044587 | [Prometheus: Performance Baseline — Automation for Two-Node Lab](Project_044587/README.md) |
+| 044588 | [Prometheus: Performance Baseline — Recovery for Two-Node Lab](Project_044588/README.md) |
+| 044589 | [Prometheus: Performance Baseline — Reporting for Two-Node Lab](Project_044589/README.md) |
+| 044590 | [Prometheus: Performance Baseline — Usability Improvement for Two-Node Lab](Project_044590/README.md) |
+| 044591 | [Prometheus: Performance Baseline — Baseline Setup for Help Desk](Project_044591/README.md) |
+| 044592 | [Prometheus: Performance Baseline — Automation for Help Desk](Project_044592/README.md) |
+| 044593 | [Prometheus: Performance Baseline — Recovery for Help Desk](Project_044593/README.md) |
+| 044594 | [Prometheus: Performance Baseline — Reporting for Help Desk](Project_044594/README.md) |
+| 044595 | [Prometheus: Performance Baseline — Usability Improvement for Help Desk](Project_044595/README.md) |
+| 044596 | [Prometheus: Performance Baseline — Baseline Setup for Portfolio Demo](Project_044596/README.md) |
+| 044597 | [Prometheus: Performance Baseline — Automation for Portfolio Demo](Project_044597/README.md) |
+| 044598 | [Prometheus: Performance Baseline — Recovery for Portfolio Demo](Project_044598/README.md) |
+| 044599 | [Prometheus: Performance Baseline — Reporting for Portfolio Demo](Project_044599/README.md) |
+| 044600 | [Prometheus: Performance Baseline — Usability Improvement for Portfolio Demo](Project_044600/README.md) |
 
 [Back to the portfolio home](../README.md)
