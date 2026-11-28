@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047498 | [Ansible: Scheduled Reporting — Recovery for Portfolio Demo](Project_047498/README.md) |
 | 047499 | [Ansible: Scheduled Reporting — Reporting for Portfolio Demo](Project_047499/README.md) |
 | 047500 | [Ansible: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_047500/README.md) |
+| 047501 | [Ansible: Access Review — Baseline Setup for School Lab](Project_047501/README.md) |
+| 047502 | [Ansible: Access Review — Automation for School Lab](Project_047502/README.md) |
+| 047503 | [Ansible: Access Review — Recovery for School Lab](Project_047503/README.md) |
+| 047504 | [Ansible: Access Review — Reporting for School Lab](Project_047504/README.md) |
+| 047505 | [Ansible: Access Review — Usability Improvement for School Lab](Project_047505/README.md) |
+| 047506 | [Ansible: Access Review — Baseline Setup for Small Business](Project_047506/README.md) |
+| 047507 | [Ansible: Access Review — Automation for Small Business](Project_047507/README.md) |
+| 047508 | [Ansible: Access Review — Recovery for Small Business](Project_047508/README.md) |
+| 047509 | [Ansible: Access Review — Reporting for Small Business](Project_047509/README.md) |
+| 047510 | [Ansible: Access Review — Usability Improvement for Small Business](Project_047510/README.md) |
+| 047511 | [Ansible: Access Review — Baseline Setup for Home Development](Project_047511/README.md) |
+| 047512 | [Ansible: Access Review — Automation for Home Development](Project_047512/README.md) |
+| 047513 | [Ansible: Access Review — Recovery for Home Development](Project_047513/README.md) |
+| 047514 | [Ansible: Access Review — Reporting for Home Development](Project_047514/README.md) |
+| 047515 | [Ansible: Access Review — Usability Improvement for Home Development](Project_047515/README.md) |
+| 047516 | [Ansible: Access Review — Baseline Setup for Public Dataset](Project_047516/README.md) |
+| 047517 | [Ansible: Access Review — Automation for Public Dataset](Project_047517/README.md) |
+| 047518 | [Ansible: Access Review — Recovery for Public Dataset](Project_047518/README.md) |
+| 047519 | [Ansible: Access Review — Reporting for Public Dataset](Project_047519/README.md) |
+| 047520 | [Ansible: Access Review — Usability Improvement for Public Dataset](Project_047520/README.md) |
 
 [Back to the portfolio home](../README.md)
