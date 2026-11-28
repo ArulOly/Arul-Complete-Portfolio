@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044758 | [Prometheus: Data Validation — Recovery for Small Business](Project_044758/README.md) |
 | 044759 | [Prometheus: Data Validation — Reporting for Small Business](Project_044759/README.md) |
 | 044760 | [Prometheus: Data Validation — Usability Improvement for Small Business](Project_044760/README.md) |
+| 044761 | [Prometheus: Data Validation — Baseline Setup for Home Development](Project_044761/README.md) |
+| 044762 | [Prometheus: Data Validation — Automation for Home Development](Project_044762/README.md) |
+| 044763 | [Prometheus: Data Validation — Recovery for Home Development](Project_044763/README.md) |
+| 044764 | [Prometheus: Data Validation — Reporting for Home Development](Project_044764/README.md) |
+| 044765 | [Prometheus: Data Validation — Usability Improvement for Home Development](Project_044765/README.md) |
+| 044766 | [Prometheus: Data Validation — Baseline Setup for Public Dataset](Project_044766/README.md) |
+| 044767 | [Prometheus: Data Validation — Automation for Public Dataset](Project_044767/README.md) |
+| 044768 | [Prometheus: Data Validation — Recovery for Public Dataset](Project_044768/README.md) |
+| 044769 | [Prometheus: Data Validation — Reporting for Public Dataset](Project_044769/README.md) |
+| 044770 | [Prometheus: Data Validation — Usability Improvement for Public Dataset](Project_044770/README.md) |
+| 044771 | [Prometheus: Data Validation — Baseline Setup for Branch Office Simulator](Project_044771/README.md) |
+| 044772 | [Prometheus: Data Validation — Automation for Branch Office Simulator](Project_044772/README.md) |
+| 044773 | [Prometheus: Data Validation — Recovery for Branch Office Simulator](Project_044773/README.md) |
+| 044774 | [Prometheus: Data Validation — Reporting for Branch Office Simulator](Project_044774/README.md) |
+| 044775 | [Prometheus: Data Validation — Usability Improvement for Branch Office Simulator](Project_044775/README.md) |
+| 044776 | [Prometheus: Data Validation — Baseline Setup for Offline Classroom](Project_044776/README.md) |
+| 044777 | [Prometheus: Data Validation — Automation for Offline Classroom](Project_044777/README.md) |
+| 044778 | [Prometheus: Data Validation — Recovery for Offline Classroom](Project_044778/README.md) |
+| 044779 | [Prometheus: Data Validation — Reporting for Offline Classroom](Project_044779/README.md) |
+| 044780 | [Prometheus: Data Validation — Usability Improvement for Offline Classroom](Project_044780/README.md) |
 
 [Back to the portfolio home](../README.md)
