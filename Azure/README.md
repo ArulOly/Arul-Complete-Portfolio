@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015538 | [Azure: Access Review — Recovery for Two-Node Lab](Project_015538/README.md) |
 | 015539 | [Azure: Access Review — Reporting for Two-Node Lab](Project_015539/README.md) |
 | 015540 | [Azure: Access Review — Usability Improvement for Two-Node Lab](Project_015540/README.md) |
+| 015541 | [Azure: Access Review — Baseline Setup for Help Desk](Project_015541/README.md) |
+| 015542 | [Azure: Access Review — Automation for Help Desk](Project_015542/README.md) |
+| 015543 | [Azure: Access Review — Recovery for Help Desk](Project_015543/README.md) |
+| 015544 | [Azure: Access Review — Reporting for Help Desk](Project_015544/README.md) |
+| 015545 | [Azure: Access Review — Usability Improvement for Help Desk](Project_015545/README.md) |
+| 015546 | [Azure: Access Review — Baseline Setup for Portfolio Demo](Project_015546/README.md) |
+| 015547 | [Azure: Access Review — Automation for Portfolio Demo](Project_015547/README.md) |
+| 015548 | [Azure: Access Review — Recovery for Portfolio Demo](Project_015548/README.md) |
+| 015549 | [Azure: Access Review — Reporting for Portfolio Demo](Project_015549/README.md) |
+| 015550 | [Azure: Access Review — Usability Improvement for Portfolio Demo](Project_015550/README.md) |
+| 015551 | [Azure: Performance Baseline — Baseline Setup for School Lab](Project_015551/README.md) |
+| 015552 | [Azure: Performance Baseline — Automation for School Lab](Project_015552/README.md) |
+| 015553 | [Azure: Performance Baseline — Recovery for School Lab](Project_015553/README.md) |
+| 015554 | [Azure: Performance Baseline — Reporting for School Lab](Project_015554/README.md) |
+| 015555 | [Azure: Performance Baseline — Usability Improvement for School Lab](Project_015555/README.md) |
+| 015556 | [Azure: Performance Baseline — Baseline Setup for Small Business](Project_015556/README.md) |
+| 015557 | [Azure: Performance Baseline — Automation for Small Business](Project_015557/README.md) |
+| 015558 | [Azure: Performance Baseline — Recovery for Small Business](Project_015558/README.md) |
+| 015559 | [Azure: Performance Baseline — Reporting for Small Business](Project_015559/README.md) |
+| 015560 | [Azure: Performance Baseline — Usability Improvement for Small Business](Project_015560/README.md) |
 
 [Back to the portfolio home](../README.md)
