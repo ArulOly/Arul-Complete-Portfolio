@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016798 | [Google Cloud: Data Validation — Recovery for Portfolio Demo](Project_016798/README.md) |
 | 016799 | [Google Cloud: Data Validation — Reporting for Portfolio Demo](Project_016799/README.md) |
 | 016800 | [Google Cloud: Data Validation — Usability Improvement for Portfolio Demo](Project_016800/README.md) |
+| 016801 | [Google Cloud: Documentation Generation — Baseline Setup for School Lab](Project_016801/README.md) |
+| 016802 | [Google Cloud: Documentation Generation — Automation for School Lab](Project_016802/README.md) |
+| 016803 | [Google Cloud: Documentation Generation — Recovery for School Lab](Project_016803/README.md) |
+| 016804 | [Google Cloud: Documentation Generation — Reporting for School Lab](Project_016804/README.md) |
+| 016805 | [Google Cloud: Documentation Generation — Usability Improvement for School Lab](Project_016805/README.md) |
+| 016806 | [Google Cloud: Documentation Generation — Baseline Setup for Small Business](Project_016806/README.md) |
+| 016807 | [Google Cloud: Documentation Generation — Automation for Small Business](Project_016807/README.md) |
+| 016808 | [Google Cloud: Documentation Generation — Recovery for Small Business](Project_016808/README.md) |
+| 016809 | [Google Cloud: Documentation Generation — Reporting for Small Business](Project_016809/README.md) |
+| 016810 | [Google Cloud: Documentation Generation — Usability Improvement for Small Business](Project_016810/README.md) |
+| 016811 | [Google Cloud: Documentation Generation — Baseline Setup for Home Development](Project_016811/README.md) |
+| 016812 | [Google Cloud: Documentation Generation — Automation for Home Development](Project_016812/README.md) |
+| 016813 | [Google Cloud: Documentation Generation — Recovery for Home Development](Project_016813/README.md) |
+| 016814 | [Google Cloud: Documentation Generation — Reporting for Home Development](Project_016814/README.md) |
+| 016815 | [Google Cloud: Documentation Generation — Usability Improvement for Home Development](Project_016815/README.md) |
+| 016816 | [Google Cloud: Documentation Generation — Baseline Setup for Public Dataset](Project_016816/README.md) |
+| 016817 | [Google Cloud: Documentation Generation — Automation for Public Dataset](Project_016817/README.md) |
+| 016818 | [Google Cloud: Documentation Generation — Recovery for Public Dataset](Project_016818/README.md) |
+| 016819 | [Google Cloud: Documentation Generation — Reporting for Public Dataset](Project_016819/README.md) |
+| 016820 | [Google Cloud: Documentation Generation — Usability Improvement for Public Dataset](Project_016820/README.md) |
 
 [Back to the portfolio home](../README.md)
