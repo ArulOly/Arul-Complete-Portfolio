@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043178 | [Grafana: Log Analysis — Recovery for Offline Classroom](Project_043178/README.md) |
 | 043179 | [Grafana: Log Analysis — Reporting for Offline Classroom](Project_043179/README.md) |
 | 043180 | [Grafana: Log Analysis — Usability Improvement for Offline Classroom](Project_043180/README.md) |
+| 043181 | [Grafana: Log Analysis — Baseline Setup for Single-Host Lab](Project_043181/README.md) |
+| 043182 | [Grafana: Log Analysis — Automation for Single-Host Lab](Project_043182/README.md) |
+| 043183 | [Grafana: Log Analysis — Recovery for Single-Host Lab](Project_043183/README.md) |
+| 043184 | [Grafana: Log Analysis — Reporting for Single-Host Lab](Project_043184/README.md) |
+| 043185 | [Grafana: Log Analysis — Usability Improvement for Single-Host Lab](Project_043185/README.md) |
+| 043186 | [Grafana: Log Analysis — Baseline Setup for Two-Node Lab](Project_043186/README.md) |
+| 043187 | [Grafana: Log Analysis — Automation for Two-Node Lab](Project_043187/README.md) |
+| 043188 | [Grafana: Log Analysis — Recovery for Two-Node Lab](Project_043188/README.md) |
+| 043189 | [Grafana: Log Analysis — Reporting for Two-Node Lab](Project_043189/README.md) |
+| 043190 | [Grafana: Log Analysis — Usability Improvement for Two-Node Lab](Project_043190/README.md) |
+| 043191 | [Grafana: Log Analysis — Baseline Setup for Help Desk](Project_043191/README.md) |
+| 043192 | [Grafana: Log Analysis — Automation for Help Desk](Project_043192/README.md) |
+| 043193 | [Grafana: Log Analysis — Recovery for Help Desk](Project_043193/README.md) |
+| 043194 | [Grafana: Log Analysis — Reporting for Help Desk](Project_043194/README.md) |
+| 043195 | [Grafana: Log Analysis — Usability Improvement for Help Desk](Project_043195/README.md) |
+| 043196 | [Grafana: Log Analysis — Baseline Setup for Portfolio Demo](Project_043196/README.md) |
+| 043197 | [Grafana: Log Analysis — Automation for Portfolio Demo](Project_043197/README.md) |
+| 043198 | [Grafana: Log Analysis — Recovery for Portfolio Demo](Project_043198/README.md) |
+| 043199 | [Grafana: Log Analysis — Reporting for Portfolio Demo](Project_043199/README.md) |
+| 043200 | [Grafana: Log Analysis — Usability Improvement for Portfolio Demo](Project_043200/README.md) |
 
 [Back to the portfolio home](../README.md)
