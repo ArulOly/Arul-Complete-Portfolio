@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015498 | [Azure: Scheduled Reporting — Recovery for Portfolio Demo](Project_015498/README.md) |
 | 015499 | [Azure: Scheduled Reporting — Reporting for Portfolio Demo](Project_015499/README.md) |
 | 015500 | [Azure: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_015500/README.md) |
+| 015501 | [Azure: Access Review — Baseline Setup for School Lab](Project_015501/README.md) |
+| 015502 | [Azure: Access Review — Automation for School Lab](Project_015502/README.md) |
+| 015503 | [Azure: Access Review — Recovery for School Lab](Project_015503/README.md) |
+| 015504 | [Azure: Access Review — Reporting for School Lab](Project_015504/README.md) |
+| 015505 | [Azure: Access Review — Usability Improvement for School Lab](Project_015505/README.md) |
+| 015506 | [Azure: Access Review — Baseline Setup for Small Business](Project_015506/README.md) |
+| 015507 | [Azure: Access Review — Automation for Small Business](Project_015507/README.md) |
+| 015508 | [Azure: Access Review — Recovery for Small Business](Project_015508/README.md) |
+| 015509 | [Azure: Access Review — Reporting for Small Business](Project_015509/README.md) |
+| 015510 | [Azure: Access Review — Usability Improvement for Small Business](Project_015510/README.md) |
+| 015511 | [Azure: Access Review — Baseline Setup for Home Development](Project_015511/README.md) |
+| 015512 | [Azure: Access Review — Automation for Home Development](Project_015512/README.md) |
+| 015513 | [Azure: Access Review — Recovery for Home Development](Project_015513/README.md) |
+| 015514 | [Azure: Access Review — Reporting for Home Development](Project_015514/README.md) |
+| 015515 | [Azure: Access Review — Usability Improvement for Home Development](Project_015515/README.md) |
+| 015516 | [Azure: Access Review — Baseline Setup for Public Dataset](Project_015516/README.md) |
+| 015517 | [Azure: Access Review — Automation for Public Dataset](Project_015517/README.md) |
+| 015518 | [Azure: Access Review — Recovery for Public Dataset](Project_015518/README.md) |
+| 015519 | [Azure: Access Review — Reporting for Public Dataset](Project_015519/README.md) |
+| 015520 | [Azure: Access Review — Usability Improvement for Public Dataset](Project_015520/README.md) |
 
 [Back to the portfolio home](../README.md)
