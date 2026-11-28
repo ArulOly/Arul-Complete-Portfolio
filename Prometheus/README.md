@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044198 | [Prometheus: Log Analysis — Recovery for Portfolio Demo](Project_044198/README.md) |
 | 044199 | [Prometheus: Log Analysis — Reporting for Portfolio Demo](Project_044199/README.md) |
 | 044200 | [Prometheus: Log Analysis — Usability Improvement for Portfolio Demo](Project_044200/README.md) |
+| 044201 | [Prometheus: Backup Verification — Baseline Setup for School Lab](Project_044201/README.md) |
+| 044202 | [Prometheus: Backup Verification — Automation for School Lab](Project_044202/README.md) |
+| 044203 | [Prometheus: Backup Verification — Recovery for School Lab](Project_044203/README.md) |
+| 044204 | [Prometheus: Backup Verification — Reporting for School Lab](Project_044204/README.md) |
+| 044205 | [Prometheus: Backup Verification — Usability Improvement for School Lab](Project_044205/README.md) |
+| 044206 | [Prometheus: Backup Verification — Baseline Setup for Small Business](Project_044206/README.md) |
+| 044207 | [Prometheus: Backup Verification — Automation for Small Business](Project_044207/README.md) |
+| 044208 | [Prometheus: Backup Verification — Recovery for Small Business](Project_044208/README.md) |
+| 044209 | [Prometheus: Backup Verification — Reporting for Small Business](Project_044209/README.md) |
+| 044210 | [Prometheus: Backup Verification — Usability Improvement for Small Business](Project_044210/README.md) |
+| 044211 | [Prometheus: Backup Verification — Baseline Setup for Home Development](Project_044211/README.md) |
+| 044212 | [Prometheus: Backup Verification — Automation for Home Development](Project_044212/README.md) |
+| 044213 | [Prometheus: Backup Verification — Recovery for Home Development](Project_044213/README.md) |
+| 044214 | [Prometheus: Backup Verification — Reporting for Home Development](Project_044214/README.md) |
+| 044215 | [Prometheus: Backup Verification — Usability Improvement for Home Development](Project_044215/README.md) |
+| 044216 | [Prometheus: Backup Verification — Baseline Setup for Public Dataset](Project_044216/README.md) |
+| 044217 | [Prometheus: Backup Verification — Automation for Public Dataset](Project_044217/README.md) |
+| 044218 | [Prometheus: Backup Verification — Recovery for Public Dataset](Project_044218/README.md) |
+| 044219 | [Prometheus: Backup Verification — Reporting for Public Dataset](Project_044219/README.md) |
+| 044220 | [Prometheus: Backup Verification — Usability Improvement for Public Dataset](Project_044220/README.md) |
 
 [Back to the portfolio home](../README.md)
