@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035338 | [Raspberry Pi: Data Export — Recovery for Two-Node Lab](Project_035338/README.md) |
 | 035339 | [Raspberry Pi: Data Export — Reporting for Two-Node Lab](Project_035339/README.md) |
 | 035340 | [Raspberry Pi: Data Export — Usability Improvement for Two-Node Lab](Project_035340/README.md) |
+| 035341 | [Raspberry Pi: Data Export — Baseline Setup for Help Desk](Project_035341/README.md) |
+| 035342 | [Raspberry Pi: Data Export — Automation for Help Desk](Project_035342/README.md) |
+| 035343 | [Raspberry Pi: Data Export — Recovery for Help Desk](Project_035343/README.md) |
+| 035344 | [Raspberry Pi: Data Export — Reporting for Help Desk](Project_035344/README.md) |
+| 035345 | [Raspberry Pi: Data Export — Usability Improvement for Help Desk](Project_035345/README.md) |
+| 035346 | [Raspberry Pi: Data Export — Baseline Setup for Portfolio Demo](Project_035346/README.md) |
+| 035347 | [Raspberry Pi: Data Export — Automation for Portfolio Demo](Project_035347/README.md) |
+| 035348 | [Raspberry Pi: Data Export — Recovery for Portfolio Demo](Project_035348/README.md) |
+| 035349 | [Raspberry Pi: Data Export — Reporting for Portfolio Demo](Project_035349/README.md) |
+| 035350 | [Raspberry Pi: Data Export — Usability Improvement for Portfolio Demo](Project_035350/README.md) |
+| 035351 | [Raspberry Pi: Dashboard — Baseline Setup for School Lab](Project_035351/README.md) |
+| 035352 | [Raspberry Pi: Dashboard — Automation for School Lab](Project_035352/README.md) |
+| 035353 | [Raspberry Pi: Dashboard — Recovery for School Lab](Project_035353/README.md) |
+| 035354 | [Raspberry Pi: Dashboard — Reporting for School Lab](Project_035354/README.md) |
+| 035355 | [Raspberry Pi: Dashboard — Usability Improvement for School Lab](Project_035355/README.md) |
+| 035356 | [Raspberry Pi: Dashboard — Baseline Setup for Small Business](Project_035356/README.md) |
+| 035357 | [Raspberry Pi: Dashboard — Automation for Small Business](Project_035357/README.md) |
+| 035358 | [Raspberry Pi: Dashboard — Recovery for Small Business](Project_035358/README.md) |
+| 035359 | [Raspberry Pi: Dashboard — Reporting for Small Business](Project_035359/README.md) |
+| 035360 | [Raspberry Pi: Dashboard — Usability Improvement for Small Business](Project_035360/README.md) |
 
 [Back to the portfolio home](../README.md)
