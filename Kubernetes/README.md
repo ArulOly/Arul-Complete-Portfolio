@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018298 | [Kubernetes: Data Import — Recovery for Portfolio Demo](Project_018298/README.md) |
 | 018299 | [Kubernetes: Data Import — Reporting for Portfolio Demo](Project_018299/README.md) |
 | 018300 | [Kubernetes: Data Import — Usability Improvement for Portfolio Demo](Project_018300/README.md) |
+| 018301 | [Kubernetes: Data Export — Baseline Setup for School Lab](Project_018301/README.md) |
+| 018302 | [Kubernetes: Data Export — Automation for School Lab](Project_018302/README.md) |
+| 018303 | [Kubernetes: Data Export — Recovery for School Lab](Project_018303/README.md) |
+| 018304 | [Kubernetes: Data Export — Reporting for School Lab](Project_018304/README.md) |
+| 018305 | [Kubernetes: Data Export — Usability Improvement for School Lab](Project_018305/README.md) |
+| 018306 | [Kubernetes: Data Export — Baseline Setup for Small Business](Project_018306/README.md) |
+| 018307 | [Kubernetes: Data Export — Automation for Small Business](Project_018307/README.md) |
+| 018308 | [Kubernetes: Data Export — Recovery for Small Business](Project_018308/README.md) |
+| 018309 | [Kubernetes: Data Export — Reporting for Small Business](Project_018309/README.md) |
+| 018310 | [Kubernetes: Data Export — Usability Improvement for Small Business](Project_018310/README.md) |
+| 018311 | [Kubernetes: Data Export — Baseline Setup for Home Development](Project_018311/README.md) |
+| 018312 | [Kubernetes: Data Export — Automation for Home Development](Project_018312/README.md) |
+| 018313 | [Kubernetes: Data Export — Recovery for Home Development](Project_018313/README.md) |
+| 018314 | [Kubernetes: Data Export — Reporting for Home Development](Project_018314/README.md) |
+| 018315 | [Kubernetes: Data Export — Usability Improvement for Home Development](Project_018315/README.md) |
+| 018316 | [Kubernetes: Data Export — Baseline Setup for Public Dataset](Project_018316/README.md) |
+| 018317 | [Kubernetes: Data Export — Automation for Public Dataset](Project_018317/README.md) |
+| 018318 | [Kubernetes: Data Export — Recovery for Public Dataset](Project_018318/README.md) |
+| 018319 | [Kubernetes: Data Export — Reporting for Public Dataset](Project_018319/README.md) |
+| 018320 | [Kubernetes: Data Export — Usability Improvement for Public Dataset](Project_018320/README.md) |
 
 [Back to the portfolio home](../README.md)
