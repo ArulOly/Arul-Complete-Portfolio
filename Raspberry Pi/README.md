@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035098 | [Raspberry Pi: Monitoring — Recovery for Portfolio Demo](Project_035098/README.md) |
 | 035099 | [Raspberry Pi: Monitoring — Reporting for Portfolio Demo](Project_035099/README.md) |
 | 035100 | [Raspberry Pi: Monitoring — Usability Improvement for Portfolio Demo](Project_035100/README.md) |
+| 035101 | [Raspberry Pi: Audit — Baseline Setup for School Lab](Project_035101/README.md) |
+| 035102 | [Raspberry Pi: Audit — Automation for School Lab](Project_035102/README.md) |
+| 035103 | [Raspberry Pi: Audit — Recovery for School Lab](Project_035103/README.md) |
+| 035104 | [Raspberry Pi: Audit — Reporting for School Lab](Project_035104/README.md) |
+| 035105 | [Raspberry Pi: Audit — Usability Improvement for School Lab](Project_035105/README.md) |
+| 035106 | [Raspberry Pi: Audit — Baseline Setup for Small Business](Project_035106/README.md) |
+| 035107 | [Raspberry Pi: Audit — Automation for Small Business](Project_035107/README.md) |
+| 035108 | [Raspberry Pi: Audit — Recovery for Small Business](Project_035108/README.md) |
+| 035109 | [Raspberry Pi: Audit — Reporting for Small Business](Project_035109/README.md) |
+| 035110 | [Raspberry Pi: Audit — Usability Improvement for Small Business](Project_035110/README.md) |
+| 035111 | [Raspberry Pi: Audit — Baseline Setup for Home Development](Project_035111/README.md) |
+| 035112 | [Raspberry Pi: Audit — Automation for Home Development](Project_035112/README.md) |
+| 035113 | [Raspberry Pi: Audit — Recovery for Home Development](Project_035113/README.md) |
+| 035114 | [Raspberry Pi: Audit — Reporting for Home Development](Project_035114/README.md) |
+| 035115 | [Raspberry Pi: Audit — Usability Improvement for Home Development](Project_035115/README.md) |
+| 035116 | [Raspberry Pi: Audit — Baseline Setup for Public Dataset](Project_035116/README.md) |
+| 035117 | [Raspberry Pi: Audit — Automation for Public Dataset](Project_035117/README.md) |
+| 035118 | [Raspberry Pi: Audit — Recovery for Public Dataset](Project_035118/README.md) |
+| 035119 | [Raspberry Pi: Audit — Reporting for Public Dataset](Project_035119/README.md) |
+| 035120 | [Raspberry Pi: Audit — Usability Improvement for Public Dataset](Project_035120/README.md) |
 
 [Back to the portfolio home](../README.md)
