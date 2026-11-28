@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036118 | [ESP32: Audit — Recovery for Public Dataset](Project_036118/README.md) |
 | 036119 | [ESP32: Audit — Reporting for Public Dataset](Project_036119/README.md) |
 | 036120 | [ESP32: Audit — Usability Improvement for Public Dataset](Project_036120/README.md) |
+| 036121 | [ESP32: Audit — Baseline Setup for Branch Office Simulator](Project_036121/README.md) |
+| 036122 | [ESP32: Audit — Automation for Branch Office Simulator](Project_036122/README.md) |
+| 036123 | [ESP32: Audit — Recovery for Branch Office Simulator](Project_036123/README.md) |
+| 036124 | [ESP32: Audit — Reporting for Branch Office Simulator](Project_036124/README.md) |
+| 036125 | [ESP32: Audit — Usability Improvement for Branch Office Simulator](Project_036125/README.md) |
+| 036126 | [ESP32: Audit — Baseline Setup for Offline Classroom](Project_036126/README.md) |
+| 036127 | [ESP32: Audit — Automation for Offline Classroom](Project_036127/README.md) |
+| 036128 | [ESP32: Audit — Recovery for Offline Classroom](Project_036128/README.md) |
+| 036129 | [ESP32: Audit — Reporting for Offline Classroom](Project_036129/README.md) |
+| 036130 | [ESP32: Audit — Usability Improvement for Offline Classroom](Project_036130/README.md) |
+| 036131 | [ESP32: Audit — Baseline Setup for Single-Host Lab](Project_036131/README.md) |
+| 036132 | [ESP32: Audit — Automation for Single-Host Lab](Project_036132/README.md) |
+| 036133 | [ESP32: Audit — Recovery for Single-Host Lab](Project_036133/README.md) |
+| 036134 | [ESP32: Audit — Reporting for Single-Host Lab](Project_036134/README.md) |
+| 036135 | [ESP32: Audit — Usability Improvement for Single-Host Lab](Project_036135/README.md) |
+| 036136 | [ESP32: Audit — Baseline Setup for Two-Node Lab](Project_036136/README.md) |
+| 036137 | [ESP32: Audit — Automation for Two-Node Lab](Project_036137/README.md) |
+| 036138 | [ESP32: Audit — Recovery for Two-Node Lab](Project_036138/README.md) |
+| 036139 | [ESP32: Audit — Reporting for Two-Node Lab](Project_036139/README.md) |
+| 036140 | [ESP32: Audit — Usability Improvement for Two-Node Lab](Project_036140/README.md) |
 
 [Back to the portfolio home](../README.md)
