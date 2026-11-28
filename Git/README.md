@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038958 | [Git: Recovery Test — Recovery for Small Business](Project_038958/README.md) |
 | 038959 | [Git: Recovery Test — Reporting for Small Business](Project_038959/README.md) |
 | 038960 | [Git: Recovery Test — Usability Improvement for Small Business](Project_038960/README.md) |
+| 038961 | [Git: Recovery Test — Baseline Setup for Home Development](Project_038961/README.md) |
+| 038962 | [Git: Recovery Test — Automation for Home Development](Project_038962/README.md) |
+| 038963 | [Git: Recovery Test — Recovery for Home Development](Project_038963/README.md) |
+| 038964 | [Git: Recovery Test — Reporting for Home Development](Project_038964/README.md) |
+| 038965 | [Git: Recovery Test — Usability Improvement for Home Development](Project_038965/README.md) |
+| 038966 | [Git: Recovery Test — Baseline Setup for Public Dataset](Project_038966/README.md) |
+| 038967 | [Git: Recovery Test — Automation for Public Dataset](Project_038967/README.md) |
+| 038968 | [Git: Recovery Test — Recovery for Public Dataset](Project_038968/README.md) |
+| 038969 | [Git: Recovery Test — Reporting for Public Dataset](Project_038969/README.md) |
+| 038970 | [Git: Recovery Test — Usability Improvement for Public Dataset](Project_038970/README.md) |
+| 038971 | [Git: Recovery Test — Baseline Setup for Branch Office Simulator](Project_038971/README.md) |
+| 038972 | [Git: Recovery Test — Automation for Branch Office Simulator](Project_038972/README.md) |
+| 038973 | [Git: Recovery Test — Recovery for Branch Office Simulator](Project_038973/README.md) |
+| 038974 | [Git: Recovery Test — Reporting for Branch Office Simulator](Project_038974/README.md) |
+| 038975 | [Git: Recovery Test — Usability Improvement for Branch Office Simulator](Project_038975/README.md) |
+| 038976 | [Git: Recovery Test — Baseline Setup for Offline Classroom](Project_038976/README.md) |
+| 038977 | [Git: Recovery Test — Automation for Offline Classroom](Project_038977/README.md) |
+| 038978 | [Git: Recovery Test — Recovery for Offline Classroom](Project_038978/README.md) |
+| 038979 | [Git: Recovery Test — Reporting for Offline Classroom](Project_038979/README.md) |
+| 038980 | [Git: Recovery Test — Usability Improvement for Offline Classroom](Project_038980/README.md) |
 
 [Back to the portfolio home](../README.md)
