@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030658 | [Wazuh: Configuration Comparison — Recovery for Small Business](Project_030658/README.md) |
 | 030659 | [Wazuh: Configuration Comparison — Reporting for Small Business](Project_030659/README.md) |
 | 030660 | [Wazuh: Configuration Comparison — Usability Improvement for Small Business](Project_030660/README.md) |
+| 030661 | [Wazuh: Configuration Comparison — Baseline Setup for Home Development](Project_030661/README.md) |
+| 030662 | [Wazuh: Configuration Comparison — Automation for Home Development](Project_030662/README.md) |
+| 030663 | [Wazuh: Configuration Comparison — Recovery for Home Development](Project_030663/README.md) |
+| 030664 | [Wazuh: Configuration Comparison — Reporting for Home Development](Project_030664/README.md) |
+| 030665 | [Wazuh: Configuration Comparison — Usability Improvement for Home Development](Project_030665/README.md) |
+| 030666 | [Wazuh: Configuration Comparison — Baseline Setup for Public Dataset](Project_030666/README.md) |
+| 030667 | [Wazuh: Configuration Comparison — Automation for Public Dataset](Project_030667/README.md) |
+| 030668 | [Wazuh: Configuration Comparison — Recovery for Public Dataset](Project_030668/README.md) |
+| 030669 | [Wazuh: Configuration Comparison — Reporting for Public Dataset](Project_030669/README.md) |
+| 030670 | [Wazuh: Configuration Comparison — Usability Improvement for Public Dataset](Project_030670/README.md) |
+| 030671 | [Wazuh: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_030671/README.md) |
+| 030672 | [Wazuh: Configuration Comparison — Automation for Branch Office Simulator](Project_030672/README.md) |
+| 030673 | [Wazuh: Configuration Comparison — Recovery for Branch Office Simulator](Project_030673/README.md) |
+| 030674 | [Wazuh: Configuration Comparison — Reporting for Branch Office Simulator](Project_030674/README.md) |
+| 030675 | [Wazuh: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_030675/README.md) |
+| 030676 | [Wazuh: Configuration Comparison — Baseline Setup for Offline Classroom](Project_030676/README.md) |
+| 030677 | [Wazuh: Configuration Comparison — Automation for Offline Classroom](Project_030677/README.md) |
+| 030678 | [Wazuh: Configuration Comparison — Recovery for Offline Classroom](Project_030678/README.md) |
+| 030679 | [Wazuh: Configuration Comparison — Reporting for Offline Classroom](Project_030679/README.md) |
+| 030680 | [Wazuh: Configuration Comparison — Usability Improvement for Offline Classroom](Project_030680/README.md) |
 
 [Back to the portfolio home](../README.md)
