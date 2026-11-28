@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044018 | [Prometheus: Inventory — Recovery for Public Dataset](Project_044018/README.md) |
 | 044019 | [Prometheus: Inventory — Reporting for Public Dataset](Project_044019/README.md) |
 | 044020 | [Prometheus: Inventory — Usability Improvement for Public Dataset](Project_044020/README.md) |
+| 044021 | [Prometheus: Inventory — Baseline Setup for Branch Office Simulator](Project_044021/README.md) |
+| 044022 | [Prometheus: Inventory — Automation for Branch Office Simulator](Project_044022/README.md) |
+| 044023 | [Prometheus: Inventory — Recovery for Branch Office Simulator](Project_044023/README.md) |
+| 044024 | [Prometheus: Inventory — Reporting for Branch Office Simulator](Project_044024/README.md) |
+| 044025 | [Prometheus: Inventory — Usability Improvement for Branch Office Simulator](Project_044025/README.md) |
+| 044026 | [Prometheus: Inventory — Baseline Setup for Offline Classroom](Project_044026/README.md) |
+| 044027 | [Prometheus: Inventory — Automation for Offline Classroom](Project_044027/README.md) |
+| 044028 | [Prometheus: Inventory — Recovery for Offline Classroom](Project_044028/README.md) |
+| 044029 | [Prometheus: Inventory — Reporting for Offline Classroom](Project_044029/README.md) |
+| 044030 | [Prometheus: Inventory — Usability Improvement for Offline Classroom](Project_044030/README.md) |
+| 044031 | [Prometheus: Inventory — Baseline Setup for Single-Host Lab](Project_044031/README.md) |
+| 044032 | [Prometheus: Inventory — Automation for Single-Host Lab](Project_044032/README.md) |
+| 044033 | [Prometheus: Inventory — Recovery for Single-Host Lab](Project_044033/README.md) |
+| 044034 | [Prometheus: Inventory — Reporting for Single-Host Lab](Project_044034/README.md) |
+| 044035 | [Prometheus: Inventory — Usability Improvement for Single-Host Lab](Project_044035/README.md) |
+| 044036 | [Prometheus: Inventory — Baseline Setup for Two-Node Lab](Project_044036/README.md) |
+| 044037 | [Prometheus: Inventory — Automation for Two-Node Lab](Project_044037/README.md) |
+| 044038 | [Prometheus: Inventory — Recovery for Two-Node Lab](Project_044038/README.md) |
+| 044039 | [Prometheus: Inventory — Reporting for Two-Node Lab](Project_044039/README.md) |
+| 044040 | [Prometheus: Inventory — Usability Improvement for Two-Node Lab](Project_044040/README.md) |
 
 [Back to the portfolio home](../README.md)
