@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035118 | [Raspberry Pi: Audit — Recovery for Public Dataset](Project_035118/README.md) |
 | 035119 | [Raspberry Pi: Audit — Reporting for Public Dataset](Project_035119/README.md) |
 | 035120 | [Raspberry Pi: Audit — Usability Improvement for Public Dataset](Project_035120/README.md) |
+| 035121 | [Raspberry Pi: Audit — Baseline Setup for Branch Office Simulator](Project_035121/README.md) |
+| 035122 | [Raspberry Pi: Audit — Automation for Branch Office Simulator](Project_035122/README.md) |
+| 035123 | [Raspberry Pi: Audit — Recovery for Branch Office Simulator](Project_035123/README.md) |
+| 035124 | [Raspberry Pi: Audit — Reporting for Branch Office Simulator](Project_035124/README.md) |
+| 035125 | [Raspberry Pi: Audit — Usability Improvement for Branch Office Simulator](Project_035125/README.md) |
+| 035126 | [Raspberry Pi: Audit — Baseline Setup for Offline Classroom](Project_035126/README.md) |
+| 035127 | [Raspberry Pi: Audit — Automation for Offline Classroom](Project_035127/README.md) |
+| 035128 | [Raspberry Pi: Audit — Recovery for Offline Classroom](Project_035128/README.md) |
+| 035129 | [Raspberry Pi: Audit — Reporting for Offline Classroom](Project_035129/README.md) |
+| 035130 | [Raspberry Pi: Audit — Usability Improvement for Offline Classroom](Project_035130/README.md) |
+| 035131 | [Raspberry Pi: Audit — Baseline Setup for Single-Host Lab](Project_035131/README.md) |
+| 035132 | [Raspberry Pi: Audit — Automation for Single-Host Lab](Project_035132/README.md) |
+| 035133 | [Raspberry Pi: Audit — Recovery for Single-Host Lab](Project_035133/README.md) |
+| 035134 | [Raspberry Pi: Audit — Reporting for Single-Host Lab](Project_035134/README.md) |
+| 035135 | [Raspberry Pi: Audit — Usability Improvement for Single-Host Lab](Project_035135/README.md) |
+| 035136 | [Raspberry Pi: Audit — Baseline Setup for Two-Node Lab](Project_035136/README.md) |
+| 035137 | [Raspberry Pi: Audit — Automation for Two-Node Lab](Project_035137/README.md) |
+| 035138 | [Raspberry Pi: Audit — Recovery for Two-Node Lab](Project_035138/README.md) |
+| 035139 | [Raspberry Pi: Audit — Reporting for Two-Node Lab](Project_035139/README.md) |
+| 035140 | [Raspberry Pi: Audit — Usability Improvement for Two-Node Lab](Project_035140/README.md) |
 
 [Back to the portfolio home](../README.md)
