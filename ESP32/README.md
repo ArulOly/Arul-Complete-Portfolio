@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036318 | [ESP32: Data Export — Recovery for Public Dataset](Project_036318/README.md) |
 | 036319 | [ESP32: Data Export — Reporting for Public Dataset](Project_036319/README.md) |
 | 036320 | [ESP32: Data Export — Usability Improvement for Public Dataset](Project_036320/README.md) |
+| 036321 | [ESP32: Data Export — Baseline Setup for Branch Office Simulator](Project_036321/README.md) |
+| 036322 | [ESP32: Data Export — Automation for Branch Office Simulator](Project_036322/README.md) |
+| 036323 | [ESP32: Data Export — Recovery for Branch Office Simulator](Project_036323/README.md) |
+| 036324 | [ESP32: Data Export — Reporting for Branch Office Simulator](Project_036324/README.md) |
+| 036325 | [ESP32: Data Export — Usability Improvement for Branch Office Simulator](Project_036325/README.md) |
+| 036326 | [ESP32: Data Export — Baseline Setup for Offline Classroom](Project_036326/README.md) |
+| 036327 | [ESP32: Data Export — Automation for Offline Classroom](Project_036327/README.md) |
+| 036328 | [ESP32: Data Export — Recovery for Offline Classroom](Project_036328/README.md) |
+| 036329 | [ESP32: Data Export — Reporting for Offline Classroom](Project_036329/README.md) |
+| 036330 | [ESP32: Data Export — Usability Improvement for Offline Classroom](Project_036330/README.md) |
+| 036331 | [ESP32: Data Export — Baseline Setup for Single-Host Lab](Project_036331/README.md) |
+| 036332 | [ESP32: Data Export — Automation for Single-Host Lab](Project_036332/README.md) |
+| 036333 | [ESP32: Data Export — Recovery for Single-Host Lab](Project_036333/README.md) |
+| 036334 | [ESP32: Data Export — Reporting for Single-Host Lab](Project_036334/README.md) |
+| 036335 | [ESP32: Data Export — Usability Improvement for Single-Host Lab](Project_036335/README.md) |
+| 036336 | [ESP32: Data Export — Baseline Setup for Two-Node Lab](Project_036336/README.md) |
+| 036337 | [ESP32: Data Export — Automation for Two-Node Lab](Project_036337/README.md) |
+| 036338 | [ESP32: Data Export — Recovery for Two-Node Lab](Project_036338/README.md) |
+| 036339 | [ESP32: Data Export — Reporting for Two-Node Lab](Project_036339/README.md) |
+| 036340 | [ESP32: Data Export — Usability Improvement for Two-Node Lab](Project_036340/README.md) |
 
 [Back to the portfolio home](../README.md)
