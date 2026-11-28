@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043838 | [Grafana: Documentation Generation — Recovery for Two-Node Lab](Project_043838/README.md) |
 | 043839 | [Grafana: Documentation Generation — Reporting for Two-Node Lab](Project_043839/README.md) |
 | 043840 | [Grafana: Documentation Generation — Usability Improvement for Two-Node Lab](Project_043840/README.md) |
+| 043841 | [Grafana: Documentation Generation — Baseline Setup for Help Desk](Project_043841/README.md) |
+| 043842 | [Grafana: Documentation Generation — Automation for Help Desk](Project_043842/README.md) |
+| 043843 | [Grafana: Documentation Generation — Recovery for Help Desk](Project_043843/README.md) |
+| 043844 | [Grafana: Documentation Generation — Reporting for Help Desk](Project_043844/README.md) |
+| 043845 | [Grafana: Documentation Generation — Usability Improvement for Help Desk](Project_043845/README.md) |
+| 043846 | [Grafana: Documentation Generation — Baseline Setup for Portfolio Demo](Project_043846/README.md) |
+| 043847 | [Grafana: Documentation Generation — Automation for Portfolio Demo](Project_043847/README.md) |
+| 043848 | [Grafana: Documentation Generation — Recovery for Portfolio Demo](Project_043848/README.md) |
+| 043849 | [Grafana: Documentation Generation — Reporting for Portfolio Demo](Project_043849/README.md) |
+| 043850 | [Grafana: Documentation Generation — Usability Improvement for Portfolio Demo](Project_043850/README.md) |
+| 043851 | [Grafana: Automation — Baseline Setup for School Lab](Project_043851/README.md) |
+| 043852 | [Grafana: Automation — Automation for School Lab](Project_043852/README.md) |
+| 043853 | [Grafana: Automation — Recovery for School Lab](Project_043853/README.md) |
+| 043854 | [Grafana: Automation — Reporting for School Lab](Project_043854/README.md) |
+| 043855 | [Grafana: Automation — Usability Improvement for School Lab](Project_043855/README.md) |
+| 043856 | [Grafana: Automation — Baseline Setup for Small Business](Project_043856/README.md) |
+| 043857 | [Grafana: Automation — Automation for Small Business](Project_043857/README.md) |
+| 043858 | [Grafana: Automation — Recovery for Small Business](Project_043858/README.md) |
+| 043859 | [Grafana: Automation — Reporting for Small Business](Project_043859/README.md) |
+| 043860 | [Grafana: Automation — Usability Improvement for Small Business](Project_043860/README.md) |
 
 [Back to the portfolio home](../README.md)
