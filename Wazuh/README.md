@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030918 | [Wazuh: Visual Reporting — Recovery for Public Dataset](Project_030918/README.md) |
 | 030919 | [Wazuh: Visual Reporting — Reporting for Public Dataset](Project_030919/README.md) |
 | 030920 | [Wazuh: Visual Reporting — Usability Improvement for Public Dataset](Project_030920/README.md) |
+| 030921 | [Wazuh: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_030921/README.md) |
+| 030922 | [Wazuh: Visual Reporting — Automation for Branch Office Simulator](Project_030922/README.md) |
+| 030923 | [Wazuh: Visual Reporting — Recovery for Branch Office Simulator](Project_030923/README.md) |
+| 030924 | [Wazuh: Visual Reporting — Reporting for Branch Office Simulator](Project_030924/README.md) |
+| 030925 | [Wazuh: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_030925/README.md) |
+| 030926 | [Wazuh: Visual Reporting — Baseline Setup for Offline Classroom](Project_030926/README.md) |
+| 030927 | [Wazuh: Visual Reporting — Automation for Offline Classroom](Project_030927/README.md) |
+| 030928 | [Wazuh: Visual Reporting — Recovery for Offline Classroom](Project_030928/README.md) |
+| 030929 | [Wazuh: Visual Reporting — Reporting for Offline Classroom](Project_030929/README.md) |
+| 030930 | [Wazuh: Visual Reporting — Usability Improvement for Offline Classroom](Project_030930/README.md) |
+| 030931 | [Wazuh: Visual Reporting — Baseline Setup for Single-Host Lab](Project_030931/README.md) |
+| 030932 | [Wazuh: Visual Reporting — Automation for Single-Host Lab](Project_030932/README.md) |
+| 030933 | [Wazuh: Visual Reporting — Recovery for Single-Host Lab](Project_030933/README.md) |
+| 030934 | [Wazuh: Visual Reporting — Reporting for Single-Host Lab](Project_030934/README.md) |
+| 030935 | [Wazuh: Visual Reporting — Usability Improvement for Single-Host Lab](Project_030935/README.md) |
+| 030936 | [Wazuh: Visual Reporting — Baseline Setup for Two-Node Lab](Project_030936/README.md) |
+| 030937 | [Wazuh: Visual Reporting — Automation for Two-Node Lab](Project_030937/README.md) |
+| 030938 | [Wazuh: Visual Reporting — Recovery for Two-Node Lab](Project_030938/README.md) |
+| 030939 | [Wazuh: Visual Reporting — Reporting for Two-Node Lab](Project_030939/README.md) |
+| 030940 | [Wazuh: Visual Reporting — Usability Improvement for Two-Node Lab](Project_030940/README.md) |
 
 [Back to the portfolio home](../README.md)
