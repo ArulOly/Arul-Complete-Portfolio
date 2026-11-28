@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017138 | [Docker: Audit — Recovery for Two-Node Lab](Project_017138/README.md) |
 | 017139 | [Docker: Audit — Reporting for Two-Node Lab](Project_017139/README.md) |
 | 017140 | [Docker: Audit — Usability Improvement for Two-Node Lab](Project_017140/README.md) |
+| 017141 | [Docker: Audit — Baseline Setup for Help Desk](Project_017141/README.md) |
+| 017142 | [Docker: Audit — Automation for Help Desk](Project_017142/README.md) |
+| 017143 | [Docker: Audit — Recovery for Help Desk](Project_017143/README.md) |
+| 017144 | [Docker: Audit — Reporting for Help Desk](Project_017144/README.md) |
+| 017145 | [Docker: Audit — Usability Improvement for Help Desk](Project_017145/README.md) |
+| 017146 | [Docker: Audit — Baseline Setup for Portfolio Demo](Project_017146/README.md) |
+| 017147 | [Docker: Audit — Automation for Portfolio Demo](Project_017147/README.md) |
+| 017148 | [Docker: Audit — Recovery for Portfolio Demo](Project_017148/README.md) |
+| 017149 | [Docker: Audit — Reporting for Portfolio Demo](Project_017149/README.md) |
+| 017150 | [Docker: Audit — Usability Improvement for Portfolio Demo](Project_017150/README.md) |
+| 017151 | [Docker: Log Analysis — Baseline Setup for School Lab](Project_017151/README.md) |
+| 017152 | [Docker: Log Analysis — Automation for School Lab](Project_017152/README.md) |
+| 017153 | [Docker: Log Analysis — Recovery for School Lab](Project_017153/README.md) |
+| 017154 | [Docker: Log Analysis — Reporting for School Lab](Project_017154/README.md) |
+| 017155 | [Docker: Log Analysis — Usability Improvement for School Lab](Project_017155/README.md) |
+| 017156 | [Docker: Log Analysis — Baseline Setup for Small Business](Project_017156/README.md) |
+| 017157 | [Docker: Log Analysis — Automation for Small Business](Project_017157/README.md) |
+| 017158 | [Docker: Log Analysis — Recovery for Small Business](Project_017158/README.md) |
+| 017159 | [Docker: Log Analysis — Reporting for Small Business](Project_017159/README.md) |
+| 017160 | [Docker: Log Analysis — Usability Improvement for Small Business](Project_017160/README.md) |
 
 [Back to the portfolio home](../README.md)
