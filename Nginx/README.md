@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041278 | [Nginx: Data Import — Recovery for Offline Classroom](Project_041278/README.md) |
 | 041279 | [Nginx: Data Import — Reporting for Offline Classroom](Project_041279/README.md) |
 | 041280 | [Nginx: Data Import — Usability Improvement for Offline Classroom](Project_041280/README.md) |
+| 041281 | [Nginx: Data Import — Baseline Setup for Single-Host Lab](Project_041281/README.md) |
+| 041282 | [Nginx: Data Import — Automation for Single-Host Lab](Project_041282/README.md) |
+| 041283 | [Nginx: Data Import — Recovery for Single-Host Lab](Project_041283/README.md) |
+| 041284 | [Nginx: Data Import — Reporting for Single-Host Lab](Project_041284/README.md) |
+| 041285 | [Nginx: Data Import — Usability Improvement for Single-Host Lab](Project_041285/README.md) |
+| 041286 | [Nginx: Data Import — Baseline Setup for Two-Node Lab](Project_041286/README.md) |
+| 041287 | [Nginx: Data Import — Automation for Two-Node Lab](Project_041287/README.md) |
+| 041288 | [Nginx: Data Import — Recovery for Two-Node Lab](Project_041288/README.md) |
+| 041289 | [Nginx: Data Import — Reporting for Two-Node Lab](Project_041289/README.md) |
+| 041290 | [Nginx: Data Import — Usability Improvement for Two-Node Lab](Project_041290/README.md) |
+| 041291 | [Nginx: Data Import — Baseline Setup for Help Desk](Project_041291/README.md) |
+| 041292 | [Nginx: Data Import — Automation for Help Desk](Project_041292/README.md) |
+| 041293 | [Nginx: Data Import — Recovery for Help Desk](Project_041293/README.md) |
+| 041294 | [Nginx: Data Import — Reporting for Help Desk](Project_041294/README.md) |
+| 041295 | [Nginx: Data Import — Usability Improvement for Help Desk](Project_041295/README.md) |
+| 041296 | [Nginx: Data Import — Baseline Setup for Portfolio Demo](Project_041296/README.md) |
+| 041297 | [Nginx: Data Import — Automation for Portfolio Demo](Project_041297/README.md) |
+| 041298 | [Nginx: Data Import — Recovery for Portfolio Demo](Project_041298/README.md) |
+| 041299 | [Nginx: Data Import — Reporting for Portfolio Demo](Project_041299/README.md) |
+| 041300 | [Nginx: Data Import — Usability Improvement for Portfolio Demo](Project_041300/README.md) |
 
 [Back to the portfolio home](../README.md)
