@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047838 | [Ansible: Documentation Generation — Recovery for Two-Node Lab](Project_047838/README.md) |
 | 047839 | [Ansible: Documentation Generation — Reporting for Two-Node Lab](Project_047839/README.md) |
 | 047840 | [Ansible: Documentation Generation — Usability Improvement for Two-Node Lab](Project_047840/README.md) |
+| 047841 | [Ansible: Documentation Generation — Baseline Setup for Help Desk](Project_047841/README.md) |
+| 047842 | [Ansible: Documentation Generation — Automation for Help Desk](Project_047842/README.md) |
+| 047843 | [Ansible: Documentation Generation — Recovery for Help Desk](Project_047843/README.md) |
+| 047844 | [Ansible: Documentation Generation — Reporting for Help Desk](Project_047844/README.md) |
+| 047845 | [Ansible: Documentation Generation — Usability Improvement for Help Desk](Project_047845/README.md) |
+| 047846 | [Ansible: Documentation Generation — Baseline Setup for Portfolio Demo](Project_047846/README.md) |
+| 047847 | [Ansible: Documentation Generation — Automation for Portfolio Demo](Project_047847/README.md) |
+| 047848 | [Ansible: Documentation Generation — Recovery for Portfolio Demo](Project_047848/README.md) |
+| 047849 | [Ansible: Documentation Generation — Reporting for Portfolio Demo](Project_047849/README.md) |
+| 047850 | [Ansible: Documentation Generation — Usability Improvement for Portfolio Demo](Project_047850/README.md) |
+| 047851 | [Ansible: Automation — Baseline Setup for School Lab](Project_047851/README.md) |
+| 047852 | [Ansible: Automation — Automation for School Lab](Project_047852/README.md) |
+| 047853 | [Ansible: Automation — Recovery for School Lab](Project_047853/README.md) |
+| 047854 | [Ansible: Automation — Reporting for School Lab](Project_047854/README.md) |
+| 047855 | [Ansible: Automation — Usability Improvement for School Lab](Project_047855/README.md) |
+| 047856 | [Ansible: Automation — Baseline Setup for Small Business](Project_047856/README.md) |
+| 047857 | [Ansible: Automation — Automation for Small Business](Project_047857/README.md) |
+| 047858 | [Ansible: Automation — Recovery for Small Business](Project_047858/README.md) |
+| 047859 | [Ansible: Automation — Reporting for Small Business](Project_047859/README.md) |
+| 047860 | [Ansible: Automation — Usability Improvement for Small Business](Project_047860/README.md) |
 
 [Back to the portfolio home](../README.md)
