@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039818 | [Bash: Documentation Generation — Recovery for Public Dataset](Project_039818/README.md) |
 | 039819 | [Bash: Documentation Generation — Reporting for Public Dataset](Project_039819/README.md) |
 | 039820 | [Bash: Documentation Generation — Usability Improvement for Public Dataset](Project_039820/README.md) |
+| 039821 | [Bash: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_039821/README.md) |
+| 039822 | [Bash: Documentation Generation — Automation for Branch Office Simulator](Project_039822/README.md) |
+| 039823 | [Bash: Documentation Generation — Recovery for Branch Office Simulator](Project_039823/README.md) |
+| 039824 | [Bash: Documentation Generation — Reporting for Branch Office Simulator](Project_039824/README.md) |
+| 039825 | [Bash: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_039825/README.md) |
+| 039826 | [Bash: Documentation Generation — Baseline Setup for Offline Classroom](Project_039826/README.md) |
+| 039827 | [Bash: Documentation Generation — Automation for Offline Classroom](Project_039827/README.md) |
+| 039828 | [Bash: Documentation Generation — Recovery for Offline Classroom](Project_039828/README.md) |
+| 039829 | [Bash: Documentation Generation — Reporting for Offline Classroom](Project_039829/README.md) |
+| 039830 | [Bash: Documentation Generation — Usability Improvement for Offline Classroom](Project_039830/README.md) |
+| 039831 | [Bash: Documentation Generation — Baseline Setup for Single-Host Lab](Project_039831/README.md) |
+| 039832 | [Bash: Documentation Generation — Automation for Single-Host Lab](Project_039832/README.md) |
+| 039833 | [Bash: Documentation Generation — Recovery for Single-Host Lab](Project_039833/README.md) |
+| 039834 | [Bash: Documentation Generation — Reporting for Single-Host Lab](Project_039834/README.md) |
+| 039835 | [Bash: Documentation Generation — Usability Improvement for Single-Host Lab](Project_039835/README.md) |
+| 039836 | [Bash: Documentation Generation — Baseline Setup for Two-Node Lab](Project_039836/README.md) |
+| 039837 | [Bash: Documentation Generation — Automation for Two-Node Lab](Project_039837/README.md) |
+| 039838 | [Bash: Documentation Generation — Recovery for Two-Node Lab](Project_039838/README.md) |
+| 039839 | [Bash: Documentation Generation — Reporting for Two-Node Lab](Project_039839/README.md) |
+| 039840 | [Bash: Documentation Generation — Usability Improvement for Two-Node Lab](Project_039840/README.md) |
 
 [Back to the portfolio home](../README.md)
