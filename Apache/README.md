@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042798 | [Apache: Data Validation — Recovery for Portfolio Demo](Project_042798/README.md) |
 | 042799 | [Apache: Data Validation — Reporting for Portfolio Demo](Project_042799/README.md) |
 | 042800 | [Apache: Data Validation — Usability Improvement for Portfolio Demo](Project_042800/README.md) |
+| 042801 | [Apache: Documentation Generation — Baseline Setup for School Lab](Project_042801/README.md) |
+| 042802 | [Apache: Documentation Generation — Automation for School Lab](Project_042802/README.md) |
+| 042803 | [Apache: Documentation Generation — Recovery for School Lab](Project_042803/README.md) |
+| 042804 | [Apache: Documentation Generation — Reporting for School Lab](Project_042804/README.md) |
+| 042805 | [Apache: Documentation Generation — Usability Improvement for School Lab](Project_042805/README.md) |
+| 042806 | [Apache: Documentation Generation — Baseline Setup for Small Business](Project_042806/README.md) |
+| 042807 | [Apache: Documentation Generation — Automation for Small Business](Project_042807/README.md) |
+| 042808 | [Apache: Documentation Generation — Recovery for Small Business](Project_042808/README.md) |
+| 042809 | [Apache: Documentation Generation — Reporting for Small Business](Project_042809/README.md) |
+| 042810 | [Apache: Documentation Generation — Usability Improvement for Small Business](Project_042810/README.md) |
+| 042811 | [Apache: Documentation Generation — Baseline Setup for Home Development](Project_042811/README.md) |
+| 042812 | [Apache: Documentation Generation — Automation for Home Development](Project_042812/README.md) |
+| 042813 | [Apache: Documentation Generation — Recovery for Home Development](Project_042813/README.md) |
+| 042814 | [Apache: Documentation Generation — Reporting for Home Development](Project_042814/README.md) |
+| 042815 | [Apache: Documentation Generation — Usability Improvement for Home Development](Project_042815/README.md) |
+| 042816 | [Apache: Documentation Generation — Baseline Setup for Public Dataset](Project_042816/README.md) |
+| 042817 | [Apache: Documentation Generation — Automation for Public Dataset](Project_042817/README.md) |
+| 042818 | [Apache: Documentation Generation — Recovery for Public Dataset](Project_042818/README.md) |
+| 042819 | [Apache: Documentation Generation — Reporting for Public Dataset](Project_042819/README.md) |
+| 042820 | [Apache: Documentation Generation — Usability Improvement for Public Dataset](Project_042820/README.md) |
 
 [Back to the portfolio home](../README.md)
