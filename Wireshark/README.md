@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029018 | [Wireshark: Inventory — Recovery for Public Dataset](Project_029018/README.md) |
 | 029019 | [Wireshark: Inventory — Reporting for Public Dataset](Project_029019/README.md) |
 | 029020 | [Wireshark: Inventory — Usability Improvement for Public Dataset](Project_029020/README.md) |
+| 029021 | [Wireshark: Inventory — Baseline Setup for Branch Office Simulator](Project_029021/README.md) |
+| 029022 | [Wireshark: Inventory — Automation for Branch Office Simulator](Project_029022/README.md) |
+| 029023 | [Wireshark: Inventory — Recovery for Branch Office Simulator](Project_029023/README.md) |
+| 029024 | [Wireshark: Inventory — Reporting for Branch Office Simulator](Project_029024/README.md) |
+| 029025 | [Wireshark: Inventory — Usability Improvement for Branch Office Simulator](Project_029025/README.md) |
+| 029026 | [Wireshark: Inventory — Baseline Setup for Offline Classroom](Project_029026/README.md) |
+| 029027 | [Wireshark: Inventory — Automation for Offline Classroom](Project_029027/README.md) |
+| 029028 | [Wireshark: Inventory — Recovery for Offline Classroom](Project_029028/README.md) |
+| 029029 | [Wireshark: Inventory — Reporting for Offline Classroom](Project_029029/README.md) |
+| 029030 | [Wireshark: Inventory — Usability Improvement for Offline Classroom](Project_029030/README.md) |
+| 029031 | [Wireshark: Inventory — Baseline Setup for Single-Host Lab](Project_029031/README.md) |
+| 029032 | [Wireshark: Inventory — Automation for Single-Host Lab](Project_029032/README.md) |
+| 029033 | [Wireshark: Inventory — Recovery for Single-Host Lab](Project_029033/README.md) |
+| 029034 | [Wireshark: Inventory — Reporting for Single-Host Lab](Project_029034/README.md) |
+| 029035 | [Wireshark: Inventory — Usability Improvement for Single-Host Lab](Project_029035/README.md) |
+| 029036 | [Wireshark: Inventory — Baseline Setup for Two-Node Lab](Project_029036/README.md) |
+| 029037 | [Wireshark: Inventory — Automation for Two-Node Lab](Project_029037/README.md) |
+| 029038 | [Wireshark: Inventory — Recovery for Two-Node Lab](Project_029038/README.md) |
+| 029039 | [Wireshark: Inventory — Reporting for Two-Node Lab](Project_029039/README.md) |
+| 029040 | [Wireshark: Inventory — Usability Improvement for Two-Node Lab](Project_029040/README.md) |
 
 [Back to the portfolio home](../README.md)
