@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035558 | [Raspberry Pi: Performance Baseline — Recovery for Small Business](Project_035558/README.md) |
 | 035559 | [Raspberry Pi: Performance Baseline — Reporting for Small Business](Project_035559/README.md) |
 | 035560 | [Raspberry Pi: Performance Baseline — Usability Improvement for Small Business](Project_035560/README.md) |
+| 035561 | [Raspberry Pi: Performance Baseline — Baseline Setup for Home Development](Project_035561/README.md) |
+| 035562 | [Raspberry Pi: Performance Baseline — Automation for Home Development](Project_035562/README.md) |
+| 035563 | [Raspberry Pi: Performance Baseline — Recovery for Home Development](Project_035563/README.md) |
+| 035564 | [Raspberry Pi: Performance Baseline — Reporting for Home Development](Project_035564/README.md) |
+| 035565 | [Raspberry Pi: Performance Baseline — Usability Improvement for Home Development](Project_035565/README.md) |
+| 035566 | [Raspberry Pi: Performance Baseline — Baseline Setup for Public Dataset](Project_035566/README.md) |
+| 035567 | [Raspberry Pi: Performance Baseline — Automation for Public Dataset](Project_035567/README.md) |
+| 035568 | [Raspberry Pi: Performance Baseline — Recovery for Public Dataset](Project_035568/README.md) |
+| 035569 | [Raspberry Pi: Performance Baseline — Reporting for Public Dataset](Project_035569/README.md) |
+| 035570 | [Raspberry Pi: Performance Baseline — Usability Improvement for Public Dataset](Project_035570/README.md) |
+| 035571 | [Raspberry Pi: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_035571/README.md) |
+| 035572 | [Raspberry Pi: Performance Baseline — Automation for Branch Office Simulator](Project_035572/README.md) |
+| 035573 | [Raspberry Pi: Performance Baseline — Recovery for Branch Office Simulator](Project_035573/README.md) |
+| 035574 | [Raspberry Pi: Performance Baseline — Reporting for Branch Office Simulator](Project_035574/README.md) |
+| 035575 | [Raspberry Pi: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_035575/README.md) |
+| 035576 | [Raspberry Pi: Performance Baseline — Baseline Setup for Offline Classroom](Project_035576/README.md) |
+| 035577 | [Raspberry Pi: Performance Baseline — Automation for Offline Classroom](Project_035577/README.md) |
+| 035578 | [Raspberry Pi: Performance Baseline — Recovery for Offline Classroom](Project_035578/README.md) |
+| 035579 | [Raspberry Pi: Performance Baseline — Reporting for Offline Classroom](Project_035579/README.md) |
+| 035580 | [Raspberry Pi: Performance Baseline — Usability Improvement for Offline Classroom](Project_035580/README.md) |
 
 [Back to the portfolio home](../README.md)
