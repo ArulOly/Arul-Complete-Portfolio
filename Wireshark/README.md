@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029338 | [Wireshark: Data Export — Recovery for Two-Node Lab](Project_029338/README.md) |
 | 029339 | [Wireshark: Data Export — Reporting for Two-Node Lab](Project_029339/README.md) |
 | 029340 | [Wireshark: Data Export — Usability Improvement for Two-Node Lab](Project_029340/README.md) |
+| 029341 | [Wireshark: Data Export — Baseline Setup for Help Desk](Project_029341/README.md) |
+| 029342 | [Wireshark: Data Export — Automation for Help Desk](Project_029342/README.md) |
+| 029343 | [Wireshark: Data Export — Recovery for Help Desk](Project_029343/README.md) |
+| 029344 | [Wireshark: Data Export — Reporting for Help Desk](Project_029344/README.md) |
+| 029345 | [Wireshark: Data Export — Usability Improvement for Help Desk](Project_029345/README.md) |
+| 029346 | [Wireshark: Data Export — Baseline Setup for Portfolio Demo](Project_029346/README.md) |
+| 029347 | [Wireshark: Data Export — Automation for Portfolio Demo](Project_029347/README.md) |
+| 029348 | [Wireshark: Data Export — Recovery for Portfolio Demo](Project_029348/README.md) |
+| 029349 | [Wireshark: Data Export — Reporting for Portfolio Demo](Project_029349/README.md) |
+| 029350 | [Wireshark: Data Export — Usability Improvement for Portfolio Demo](Project_029350/README.md) |
+| 029351 | [Wireshark: Dashboard — Baseline Setup for School Lab](Project_029351/README.md) |
+| 029352 | [Wireshark: Dashboard — Automation for School Lab](Project_029352/README.md) |
+| 029353 | [Wireshark: Dashboard — Recovery for School Lab](Project_029353/README.md) |
+| 029354 | [Wireshark: Dashboard — Reporting for School Lab](Project_029354/README.md) |
+| 029355 | [Wireshark: Dashboard — Usability Improvement for School Lab](Project_029355/README.md) |
+| 029356 | [Wireshark: Dashboard — Baseline Setup for Small Business](Project_029356/README.md) |
+| 029357 | [Wireshark: Dashboard — Automation for Small Business](Project_029357/README.md) |
+| 029358 | [Wireshark: Dashboard — Recovery for Small Business](Project_029358/README.md) |
+| 029359 | [Wireshark: Dashboard — Reporting for Small Business](Project_029359/README.md) |
+| 029360 | [Wireshark: Dashboard — Usability Improvement for Small Business](Project_029360/README.md) |
 
 [Back to the portfolio home](../README.md)
