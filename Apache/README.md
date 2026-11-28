@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042778 | [Apache: Data Validation — Recovery for Offline Classroom](Project_042778/README.md) |
 | 042779 | [Apache: Data Validation — Reporting for Offline Classroom](Project_042779/README.md) |
 | 042780 | [Apache: Data Validation — Usability Improvement for Offline Classroom](Project_042780/README.md) |
+| 042781 | [Apache: Data Validation — Baseline Setup for Single-Host Lab](Project_042781/README.md) |
+| 042782 | [Apache: Data Validation — Automation for Single-Host Lab](Project_042782/README.md) |
+| 042783 | [Apache: Data Validation — Recovery for Single-Host Lab](Project_042783/README.md) |
+| 042784 | [Apache: Data Validation — Reporting for Single-Host Lab](Project_042784/README.md) |
+| 042785 | [Apache: Data Validation — Usability Improvement for Single-Host Lab](Project_042785/README.md) |
+| 042786 | [Apache: Data Validation — Baseline Setup for Two-Node Lab](Project_042786/README.md) |
+| 042787 | [Apache: Data Validation — Automation for Two-Node Lab](Project_042787/README.md) |
+| 042788 | [Apache: Data Validation — Recovery for Two-Node Lab](Project_042788/README.md) |
+| 042789 | [Apache: Data Validation — Reporting for Two-Node Lab](Project_042789/README.md) |
+| 042790 | [Apache: Data Validation — Usability Improvement for Two-Node Lab](Project_042790/README.md) |
+| 042791 | [Apache: Data Validation — Baseline Setup for Help Desk](Project_042791/README.md) |
+| 042792 | [Apache: Data Validation — Automation for Help Desk](Project_042792/README.md) |
+| 042793 | [Apache: Data Validation — Recovery for Help Desk](Project_042793/README.md) |
+| 042794 | [Apache: Data Validation — Reporting for Help Desk](Project_042794/README.md) |
+| 042795 | [Apache: Data Validation — Usability Improvement for Help Desk](Project_042795/README.md) |
+| 042796 | [Apache: Data Validation — Baseline Setup for Portfolio Demo](Project_042796/README.md) |
+| 042797 | [Apache: Data Validation — Automation for Portfolio Demo](Project_042797/README.md) |
+| 042798 | [Apache: Data Validation — Recovery for Portfolio Demo](Project_042798/README.md) |
+| 042799 | [Apache: Data Validation — Reporting for Portfolio Demo](Project_042799/README.md) |
+| 042800 | [Apache: Data Validation — Usability Improvement for Portfolio Demo](Project_042800/README.md) |
 
 [Back to the portfolio home](../README.md)
