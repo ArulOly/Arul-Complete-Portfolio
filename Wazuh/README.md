@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030798 | [Wazuh: Data Validation — Recovery for Portfolio Demo](Project_030798/README.md) |
 | 030799 | [Wazuh: Data Validation — Reporting for Portfolio Demo](Project_030799/README.md) |
 | 030800 | [Wazuh: Data Validation — Usability Improvement for Portfolio Demo](Project_030800/README.md) |
+| 030801 | [Wazuh: Documentation Generation — Baseline Setup for School Lab](Project_030801/README.md) |
+| 030802 | [Wazuh: Documentation Generation — Automation for School Lab](Project_030802/README.md) |
+| 030803 | [Wazuh: Documentation Generation — Recovery for School Lab](Project_030803/README.md) |
+| 030804 | [Wazuh: Documentation Generation — Reporting for School Lab](Project_030804/README.md) |
+| 030805 | [Wazuh: Documentation Generation — Usability Improvement for School Lab](Project_030805/README.md) |
+| 030806 | [Wazuh: Documentation Generation — Baseline Setup for Small Business](Project_030806/README.md) |
+| 030807 | [Wazuh: Documentation Generation — Automation for Small Business](Project_030807/README.md) |
+| 030808 | [Wazuh: Documentation Generation — Recovery for Small Business](Project_030808/README.md) |
+| 030809 | [Wazuh: Documentation Generation — Reporting for Small Business](Project_030809/README.md) |
+| 030810 | [Wazuh: Documentation Generation — Usability Improvement for Small Business](Project_030810/README.md) |
+| 030811 | [Wazuh: Documentation Generation — Baseline Setup for Home Development](Project_030811/README.md) |
+| 030812 | [Wazuh: Documentation Generation — Automation for Home Development](Project_030812/README.md) |
+| 030813 | [Wazuh: Documentation Generation — Recovery for Home Development](Project_030813/README.md) |
+| 030814 | [Wazuh: Documentation Generation — Reporting for Home Development](Project_030814/README.md) |
+| 030815 | [Wazuh: Documentation Generation — Usability Improvement for Home Development](Project_030815/README.md) |
+| 030816 | [Wazuh: Documentation Generation — Baseline Setup for Public Dataset](Project_030816/README.md) |
+| 030817 | [Wazuh: Documentation Generation — Automation for Public Dataset](Project_030817/README.md) |
+| 030818 | [Wazuh: Documentation Generation — Recovery for Public Dataset](Project_030818/README.md) |
+| 030819 | [Wazuh: Documentation Generation — Reporting for Public Dataset](Project_030819/README.md) |
+| 030820 | [Wazuh: Documentation Generation — Usability Improvement for Public Dataset](Project_030820/README.md) |
 
 [Back to the portfolio home](../README.md)
