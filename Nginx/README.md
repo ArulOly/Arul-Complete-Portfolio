@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041718 | [Nginx: Error Handling — Recovery for Public Dataset](Project_041718/README.md) |
 | 041719 | [Nginx: Error Handling — Reporting for Public Dataset](Project_041719/README.md) |
 | 041720 | [Nginx: Error Handling — Usability Improvement for Public Dataset](Project_041720/README.md) |
+| 041721 | [Nginx: Error Handling — Baseline Setup for Branch Office Simulator](Project_041721/README.md) |
+| 041722 | [Nginx: Error Handling — Automation for Branch Office Simulator](Project_041722/README.md) |
+| 041723 | [Nginx: Error Handling — Recovery for Branch Office Simulator](Project_041723/README.md) |
+| 041724 | [Nginx: Error Handling — Reporting for Branch Office Simulator](Project_041724/README.md) |
+| 041725 | [Nginx: Error Handling — Usability Improvement for Branch Office Simulator](Project_041725/README.md) |
+| 041726 | [Nginx: Error Handling — Baseline Setup for Offline Classroom](Project_041726/README.md) |
+| 041727 | [Nginx: Error Handling — Automation for Offline Classroom](Project_041727/README.md) |
+| 041728 | [Nginx: Error Handling — Recovery for Offline Classroom](Project_041728/README.md) |
+| 041729 | [Nginx: Error Handling — Reporting for Offline Classroom](Project_041729/README.md) |
+| 041730 | [Nginx: Error Handling — Usability Improvement for Offline Classroom](Project_041730/README.md) |
+| 041731 | [Nginx: Error Handling — Baseline Setup for Single-Host Lab](Project_041731/README.md) |
+| 041732 | [Nginx: Error Handling — Automation for Single-Host Lab](Project_041732/README.md) |
+| 041733 | [Nginx: Error Handling — Recovery for Single-Host Lab](Project_041733/README.md) |
+| 041734 | [Nginx: Error Handling — Reporting for Single-Host Lab](Project_041734/README.md) |
+| 041735 | [Nginx: Error Handling — Usability Improvement for Single-Host Lab](Project_041735/README.md) |
+| 041736 | [Nginx: Error Handling — Baseline Setup for Two-Node Lab](Project_041736/README.md) |
+| 041737 | [Nginx: Error Handling — Automation for Two-Node Lab](Project_041737/README.md) |
+| 041738 | [Nginx: Error Handling — Recovery for Two-Node Lab](Project_041738/README.md) |
+| 041739 | [Nginx: Error Handling — Reporting for Two-Node Lab](Project_041739/README.md) |
+| 041740 | [Nginx: Error Handling — Usability Improvement for Two-Node Lab](Project_041740/README.md) |
 
 [Back to the portfolio home](../README.md)
