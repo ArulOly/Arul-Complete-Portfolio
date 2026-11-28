@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037858 | [Arduino: Automation — Recovery for Small Business](Project_037858/README.md) |
 | 037859 | [Arduino: Automation — Reporting for Small Business](Project_037859/README.md) |
 | 037860 | [Arduino: Automation — Usability Improvement for Small Business](Project_037860/README.md) |
+| 037861 | [Arduino: Automation — Baseline Setup for Home Development](Project_037861/README.md) |
+| 037862 | [Arduino: Automation — Automation for Home Development](Project_037862/README.md) |
+| 037863 | [Arduino: Automation — Recovery for Home Development](Project_037863/README.md) |
+| 037864 | [Arduino: Automation — Reporting for Home Development](Project_037864/README.md) |
+| 037865 | [Arduino: Automation — Usability Improvement for Home Development](Project_037865/README.md) |
+| 037866 | [Arduino: Automation — Baseline Setup for Public Dataset](Project_037866/README.md) |
+| 037867 | [Arduino: Automation — Automation for Public Dataset](Project_037867/README.md) |
+| 037868 | [Arduino: Automation — Recovery for Public Dataset](Project_037868/README.md) |
+| 037869 | [Arduino: Automation — Reporting for Public Dataset](Project_037869/README.md) |
+| 037870 | [Arduino: Automation — Usability Improvement for Public Dataset](Project_037870/README.md) |
+| 037871 | [Arduino: Automation — Baseline Setup for Branch Office Simulator](Project_037871/README.md) |
+| 037872 | [Arduino: Automation — Automation for Branch Office Simulator](Project_037872/README.md) |
+| 037873 | [Arduino: Automation — Recovery for Branch Office Simulator](Project_037873/README.md) |
+| 037874 | [Arduino: Automation — Reporting for Branch Office Simulator](Project_037874/README.md) |
+| 037875 | [Arduino: Automation — Usability Improvement for Branch Office Simulator](Project_037875/README.md) |
+| 037876 | [Arduino: Automation — Baseline Setup for Offline Classroom](Project_037876/README.md) |
+| 037877 | [Arduino: Automation — Automation for Offline Classroom](Project_037877/README.md) |
+| 037878 | [Arduino: Automation — Recovery for Offline Classroom](Project_037878/README.md) |
+| 037879 | [Arduino: Automation — Reporting for Offline Classroom](Project_037879/README.md) |
+| 037880 | [Arduino: Automation — Usability Improvement for Offline Classroom](Project_037880/README.md) |
 
 [Back to the portfolio home](../README.md)
