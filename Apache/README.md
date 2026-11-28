@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042858 | [Apache: Automation — Recovery for Small Business](Project_042858/README.md) |
 | 042859 | [Apache: Automation — Reporting for Small Business](Project_042859/README.md) |
 | 042860 | [Apache: Automation — Usability Improvement for Small Business](Project_042860/README.md) |
+| 042861 | [Apache: Automation — Baseline Setup for Home Development](Project_042861/README.md) |
+| 042862 | [Apache: Automation — Automation for Home Development](Project_042862/README.md) |
+| 042863 | [Apache: Automation — Recovery for Home Development](Project_042863/README.md) |
+| 042864 | [Apache: Automation — Reporting for Home Development](Project_042864/README.md) |
+| 042865 | [Apache: Automation — Usability Improvement for Home Development](Project_042865/README.md) |
+| 042866 | [Apache: Automation — Baseline Setup for Public Dataset](Project_042866/README.md) |
+| 042867 | [Apache: Automation — Automation for Public Dataset](Project_042867/README.md) |
+| 042868 | [Apache: Automation — Recovery for Public Dataset](Project_042868/README.md) |
+| 042869 | [Apache: Automation — Reporting for Public Dataset](Project_042869/README.md) |
+| 042870 | [Apache: Automation — Usability Improvement for Public Dataset](Project_042870/README.md) |
+| 042871 | [Apache: Automation — Baseline Setup for Branch Office Simulator](Project_042871/README.md) |
+| 042872 | [Apache: Automation — Automation for Branch Office Simulator](Project_042872/README.md) |
+| 042873 | [Apache: Automation — Recovery for Branch Office Simulator](Project_042873/README.md) |
+| 042874 | [Apache: Automation — Reporting for Branch Office Simulator](Project_042874/README.md) |
+| 042875 | [Apache: Automation — Usability Improvement for Branch Office Simulator](Project_042875/README.md) |
+| 042876 | [Apache: Automation — Baseline Setup for Offline Classroom](Project_042876/README.md) |
+| 042877 | [Apache: Automation — Automation for Offline Classroom](Project_042877/README.md) |
+| 042878 | [Apache: Automation — Recovery for Offline Classroom](Project_042878/README.md) |
+| 042879 | [Apache: Automation — Reporting for Offline Classroom](Project_042879/README.md) |
+| 042880 | [Apache: Automation — Usability Improvement for Offline Classroom](Project_042880/README.md) |
 
 [Back to the portfolio home](../README.md)
