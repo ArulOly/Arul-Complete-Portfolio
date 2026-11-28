@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041418 | [Nginx: Alerting — Recovery for Public Dataset](Project_041418/README.md) |
 | 041419 | [Nginx: Alerting — Reporting for Public Dataset](Project_041419/README.md) |
 | 041420 | [Nginx: Alerting — Usability Improvement for Public Dataset](Project_041420/README.md) |
+| 041421 | [Nginx: Alerting — Baseline Setup for Branch Office Simulator](Project_041421/README.md) |
+| 041422 | [Nginx: Alerting — Automation for Branch Office Simulator](Project_041422/README.md) |
+| 041423 | [Nginx: Alerting — Recovery for Branch Office Simulator](Project_041423/README.md) |
+| 041424 | [Nginx: Alerting — Reporting for Branch Office Simulator](Project_041424/README.md) |
+| 041425 | [Nginx: Alerting — Usability Improvement for Branch Office Simulator](Project_041425/README.md) |
+| 041426 | [Nginx: Alerting — Baseline Setup for Offline Classroom](Project_041426/README.md) |
+| 041427 | [Nginx: Alerting — Automation for Offline Classroom](Project_041427/README.md) |
+| 041428 | [Nginx: Alerting — Recovery for Offline Classroom](Project_041428/README.md) |
+| 041429 | [Nginx: Alerting — Reporting for Offline Classroom](Project_041429/README.md) |
+| 041430 | [Nginx: Alerting — Usability Improvement for Offline Classroom](Project_041430/README.md) |
+| 041431 | [Nginx: Alerting — Baseline Setup for Single-Host Lab](Project_041431/README.md) |
+| 041432 | [Nginx: Alerting — Automation for Single-Host Lab](Project_041432/README.md) |
+| 041433 | [Nginx: Alerting — Recovery for Single-Host Lab](Project_041433/README.md) |
+| 041434 | [Nginx: Alerting — Reporting for Single-Host Lab](Project_041434/README.md) |
+| 041435 | [Nginx: Alerting — Usability Improvement for Single-Host Lab](Project_041435/README.md) |
+| 041436 | [Nginx: Alerting — Baseline Setup for Two-Node Lab](Project_041436/README.md) |
+| 041437 | [Nginx: Alerting — Automation for Two-Node Lab](Project_041437/README.md) |
+| 041438 | [Nginx: Alerting — Recovery for Two-Node Lab](Project_041438/README.md) |
+| 041439 | [Nginx: Alerting — Reporting for Two-Node Lab](Project_041439/README.md) |
+| 041440 | [Nginx: Alerting — Usability Improvement for Two-Node Lab](Project_041440/README.md) |
 
 [Back to the portfolio home](../README.md)
