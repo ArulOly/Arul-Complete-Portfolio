@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015218 | [Azure: Backup Verification — Recovery for Public Dataset](Project_015218/README.md) |
 | 015219 | [Azure: Backup Verification — Reporting for Public Dataset](Project_015219/README.md) |
 | 015220 | [Azure: Backup Verification — Usability Improvement for Public Dataset](Project_015220/README.md) |
+| 015221 | [Azure: Backup Verification — Baseline Setup for Branch Office Simulator](Project_015221/README.md) |
+| 015222 | [Azure: Backup Verification — Automation for Branch Office Simulator](Project_015222/README.md) |
+| 015223 | [Azure: Backup Verification — Recovery for Branch Office Simulator](Project_015223/README.md) |
+| 015224 | [Azure: Backup Verification — Reporting for Branch Office Simulator](Project_015224/README.md) |
+| 015225 | [Azure: Backup Verification — Usability Improvement for Branch Office Simulator](Project_015225/README.md) |
+| 015226 | [Azure: Backup Verification — Baseline Setup for Offline Classroom](Project_015226/README.md) |
+| 015227 | [Azure: Backup Verification — Automation for Offline Classroom](Project_015227/README.md) |
+| 015228 | [Azure: Backup Verification — Recovery for Offline Classroom](Project_015228/README.md) |
+| 015229 | [Azure: Backup Verification — Reporting for Offline Classroom](Project_015229/README.md) |
+| 015230 | [Azure: Backup Verification — Usability Improvement for Offline Classroom](Project_015230/README.md) |
+| 015231 | [Azure: Backup Verification — Baseline Setup for Single-Host Lab](Project_015231/README.md) |
+| 015232 | [Azure: Backup Verification — Automation for Single-Host Lab](Project_015232/README.md) |
+| 015233 | [Azure: Backup Verification — Recovery for Single-Host Lab](Project_015233/README.md) |
+| 015234 | [Azure: Backup Verification — Reporting for Single-Host Lab](Project_015234/README.md) |
+| 015235 | [Azure: Backup Verification — Usability Improvement for Single-Host Lab](Project_015235/README.md) |
+| 015236 | [Azure: Backup Verification — Baseline Setup for Two-Node Lab](Project_015236/README.md) |
+| 015237 | [Azure: Backup Verification — Automation for Two-Node Lab](Project_015237/README.md) |
+| 015238 | [Azure: Backup Verification — Recovery for Two-Node Lab](Project_015238/README.md) |
+| 015239 | [Azure: Backup Verification — Reporting for Two-Node Lab](Project_015239/README.md) |
+| 015240 | [Azure: Backup Verification — Usability Improvement for Two-Node Lab](Project_015240/README.md) |
 
 [Back to the portfolio home](../README.md)
