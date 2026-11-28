@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015778 | [Azure: Data Validation — Recovery for Offline Classroom](Project_015778/README.md) |
 | 015779 | [Azure: Data Validation — Reporting for Offline Classroom](Project_015779/README.md) |
 | 015780 | [Azure: Data Validation — Usability Improvement for Offline Classroom](Project_015780/README.md) |
+| 015781 | [Azure: Data Validation — Baseline Setup for Single-Host Lab](Project_015781/README.md) |
+| 015782 | [Azure: Data Validation — Automation for Single-Host Lab](Project_015782/README.md) |
+| 015783 | [Azure: Data Validation — Recovery for Single-Host Lab](Project_015783/README.md) |
+| 015784 | [Azure: Data Validation — Reporting for Single-Host Lab](Project_015784/README.md) |
+| 015785 | [Azure: Data Validation — Usability Improvement for Single-Host Lab](Project_015785/README.md) |
+| 015786 | [Azure: Data Validation — Baseline Setup for Two-Node Lab](Project_015786/README.md) |
+| 015787 | [Azure: Data Validation — Automation for Two-Node Lab](Project_015787/README.md) |
+| 015788 | [Azure: Data Validation — Recovery for Two-Node Lab](Project_015788/README.md) |
+| 015789 | [Azure: Data Validation — Reporting for Two-Node Lab](Project_015789/README.md) |
+| 015790 | [Azure: Data Validation — Usability Improvement for Two-Node Lab](Project_015790/README.md) |
+| 015791 | [Azure: Data Validation — Baseline Setup for Help Desk](Project_015791/README.md) |
+| 015792 | [Azure: Data Validation — Automation for Help Desk](Project_015792/README.md) |
+| 015793 | [Azure: Data Validation — Recovery for Help Desk](Project_015793/README.md) |
+| 015794 | [Azure: Data Validation — Reporting for Help Desk](Project_015794/README.md) |
+| 015795 | [Azure: Data Validation — Usability Improvement for Help Desk](Project_015795/README.md) |
+| 015796 | [Azure: Data Validation — Baseline Setup for Portfolio Demo](Project_015796/README.md) |
+| 015797 | [Azure: Data Validation — Automation for Portfolio Demo](Project_015797/README.md) |
+| 015798 | [Azure: Data Validation — Recovery for Portfolio Demo](Project_015798/README.md) |
+| 015799 | [Azure: Data Validation — Reporting for Portfolio Demo](Project_015799/README.md) |
+| 015800 | [Azure: Data Validation — Usability Improvement for Portfolio Demo](Project_015800/README.md) |
 
 [Back to the portfolio home](../README.md)
