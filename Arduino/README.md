@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037418 | [Arduino: Alerting — Recovery for Public Dataset](Project_037418/README.md) |
 | 037419 | [Arduino: Alerting — Reporting for Public Dataset](Project_037419/README.md) |
 | 037420 | [Arduino: Alerting — Usability Improvement for Public Dataset](Project_037420/README.md) |
+| 037421 | [Arduino: Alerting — Baseline Setup for Branch Office Simulator](Project_037421/README.md) |
+| 037422 | [Arduino: Alerting — Automation for Branch Office Simulator](Project_037422/README.md) |
+| 037423 | [Arduino: Alerting — Recovery for Branch Office Simulator](Project_037423/README.md) |
+| 037424 | [Arduino: Alerting — Reporting for Branch Office Simulator](Project_037424/README.md) |
+| 037425 | [Arduino: Alerting — Usability Improvement for Branch Office Simulator](Project_037425/README.md) |
+| 037426 | [Arduino: Alerting — Baseline Setup for Offline Classroom](Project_037426/README.md) |
+| 037427 | [Arduino: Alerting — Automation for Offline Classroom](Project_037427/README.md) |
+| 037428 | [Arduino: Alerting — Recovery for Offline Classroom](Project_037428/README.md) |
+| 037429 | [Arduino: Alerting — Reporting for Offline Classroom](Project_037429/README.md) |
+| 037430 | [Arduino: Alerting — Usability Improvement for Offline Classroom](Project_037430/README.md) |
+| 037431 | [Arduino: Alerting — Baseline Setup for Single-Host Lab](Project_037431/README.md) |
+| 037432 | [Arduino: Alerting — Automation for Single-Host Lab](Project_037432/README.md) |
+| 037433 | [Arduino: Alerting — Recovery for Single-Host Lab](Project_037433/README.md) |
+| 037434 | [Arduino: Alerting — Reporting for Single-Host Lab](Project_037434/README.md) |
+| 037435 | [Arduino: Alerting — Usability Improvement for Single-Host Lab](Project_037435/README.md) |
+| 037436 | [Arduino: Alerting — Baseline Setup for Two-Node Lab](Project_037436/README.md) |
+| 037437 | [Arduino: Alerting — Automation for Two-Node Lab](Project_037437/README.md) |
+| 037438 | [Arduino: Alerting — Recovery for Two-Node Lab](Project_037438/README.md) |
+| 037439 | [Arduino: Alerting — Reporting for Two-Node Lab](Project_037439/README.md) |
+| 037440 | [Arduino: Alerting — Usability Improvement for Two-Node Lab](Project_037440/README.md) |
 
 [Back to the portfolio home](../README.md)
