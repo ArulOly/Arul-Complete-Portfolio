@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040078 | [PowerShell: Monitoring — Recovery for Offline Classroom](Project_040078/README.md) |
 | 040079 | [PowerShell: Monitoring — Reporting for Offline Classroom](Project_040079/README.md) |
 | 040080 | [PowerShell: Monitoring — Usability Improvement for Offline Classroom](Project_040080/README.md) |
+| 040081 | [PowerShell: Monitoring — Baseline Setup for Single-Host Lab](Project_040081/README.md) |
+| 040082 | [PowerShell: Monitoring — Automation for Single-Host Lab](Project_040082/README.md) |
+| 040083 | [PowerShell: Monitoring — Recovery for Single-Host Lab](Project_040083/README.md) |
+| 040084 | [PowerShell: Monitoring — Reporting for Single-Host Lab](Project_040084/README.md) |
+| 040085 | [PowerShell: Monitoring — Usability Improvement for Single-Host Lab](Project_040085/README.md) |
+| 040086 | [PowerShell: Monitoring — Baseline Setup for Two-Node Lab](Project_040086/README.md) |
+| 040087 | [PowerShell: Monitoring — Automation for Two-Node Lab](Project_040087/README.md) |
+| 040088 | [PowerShell: Monitoring — Recovery for Two-Node Lab](Project_040088/README.md) |
+| 040089 | [PowerShell: Monitoring — Reporting for Two-Node Lab](Project_040089/README.md) |
+| 040090 | [PowerShell: Monitoring — Usability Improvement for Two-Node Lab](Project_040090/README.md) |
+| 040091 | [PowerShell: Monitoring — Baseline Setup for Help Desk](Project_040091/README.md) |
+| 040092 | [PowerShell: Monitoring — Automation for Help Desk](Project_040092/README.md) |
+| 040093 | [PowerShell: Monitoring — Recovery for Help Desk](Project_040093/README.md) |
+| 040094 | [PowerShell: Monitoring — Reporting for Help Desk](Project_040094/README.md) |
+| 040095 | [PowerShell: Monitoring — Usability Improvement for Help Desk](Project_040095/README.md) |
+| 040096 | [PowerShell: Monitoring — Baseline Setup for Portfolio Demo](Project_040096/README.md) |
+| 040097 | [PowerShell: Monitoring — Automation for Portfolio Demo](Project_040097/README.md) |
+| 040098 | [PowerShell: Monitoring — Recovery for Portfolio Demo](Project_040098/README.md) |
+| 040099 | [PowerShell: Monitoring — Reporting for Portfolio Demo](Project_040099/README.md) |
+| 040100 | [PowerShell: Monitoring — Usability Improvement for Portfolio Demo](Project_040100/README.md) |
 
 [Back to the portfolio home](../README.md)
