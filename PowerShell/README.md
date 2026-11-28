@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040578 | [PowerShell: Performance Baseline — Recovery for Offline Classroom](Project_040578/README.md) |
 | 040579 | [PowerShell: Performance Baseline — Reporting for Offline Classroom](Project_040579/README.md) |
 | 040580 | [PowerShell: Performance Baseline — Usability Improvement for Offline Classroom](Project_040580/README.md) |
+| 040581 | [PowerShell: Performance Baseline — Baseline Setup for Single-Host Lab](Project_040581/README.md) |
+| 040582 | [PowerShell: Performance Baseline — Automation for Single-Host Lab](Project_040582/README.md) |
+| 040583 | [PowerShell: Performance Baseline — Recovery for Single-Host Lab](Project_040583/README.md) |
+| 040584 | [PowerShell: Performance Baseline — Reporting for Single-Host Lab](Project_040584/README.md) |
+| 040585 | [PowerShell: Performance Baseline — Usability Improvement for Single-Host Lab](Project_040585/README.md) |
+| 040586 | [PowerShell: Performance Baseline — Baseline Setup for Two-Node Lab](Project_040586/README.md) |
+| 040587 | [PowerShell: Performance Baseline — Automation for Two-Node Lab](Project_040587/README.md) |
+| 040588 | [PowerShell: Performance Baseline — Recovery for Two-Node Lab](Project_040588/README.md) |
+| 040589 | [PowerShell: Performance Baseline — Reporting for Two-Node Lab](Project_040589/README.md) |
+| 040590 | [PowerShell: Performance Baseline — Usability Improvement for Two-Node Lab](Project_040590/README.md) |
+| 040591 | [PowerShell: Performance Baseline — Baseline Setup for Help Desk](Project_040591/README.md) |
+| 040592 | [PowerShell: Performance Baseline — Automation for Help Desk](Project_040592/README.md) |
+| 040593 | [PowerShell: Performance Baseline — Recovery for Help Desk](Project_040593/README.md) |
+| 040594 | [PowerShell: Performance Baseline — Reporting for Help Desk](Project_040594/README.md) |
+| 040595 | [PowerShell: Performance Baseline — Usability Improvement for Help Desk](Project_040595/README.md) |
+| 040596 | [PowerShell: Performance Baseline — Baseline Setup for Portfolio Demo](Project_040596/README.md) |
+| 040597 | [PowerShell: Performance Baseline — Automation for Portfolio Demo](Project_040597/README.md) |
+| 040598 | [PowerShell: Performance Baseline — Recovery for Portfolio Demo](Project_040598/README.md) |
+| 040599 | [PowerShell: Performance Baseline — Reporting for Portfolio Demo](Project_040599/README.md) |
+| 040600 | [PowerShell: Performance Baseline — Usability Improvement for Portfolio Demo](Project_040600/README.md) |
 
 [Back to the portfolio home](../README.md)
