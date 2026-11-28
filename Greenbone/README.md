@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031358 | [Greenbone: Dashboard — Recovery for Small Business](Project_031358/README.md) |
 | 031359 | [Greenbone: Dashboard — Reporting for Small Business](Project_031359/README.md) |
 | 031360 | [Greenbone: Dashboard — Usability Improvement for Small Business](Project_031360/README.md) |
+| 031361 | [Greenbone: Dashboard — Baseline Setup for Home Development](Project_031361/README.md) |
+| 031362 | [Greenbone: Dashboard — Automation for Home Development](Project_031362/README.md) |
+| 031363 | [Greenbone: Dashboard — Recovery for Home Development](Project_031363/README.md) |
+| 031364 | [Greenbone: Dashboard — Reporting for Home Development](Project_031364/README.md) |
+| 031365 | [Greenbone: Dashboard — Usability Improvement for Home Development](Project_031365/README.md) |
+| 031366 | [Greenbone: Dashboard — Baseline Setup for Public Dataset](Project_031366/README.md) |
+| 031367 | [Greenbone: Dashboard — Automation for Public Dataset](Project_031367/README.md) |
+| 031368 | [Greenbone: Dashboard — Recovery for Public Dataset](Project_031368/README.md) |
+| 031369 | [Greenbone: Dashboard — Reporting for Public Dataset](Project_031369/README.md) |
+| 031370 | [Greenbone: Dashboard — Usability Improvement for Public Dataset](Project_031370/README.md) |
+| 031371 | [Greenbone: Dashboard — Baseline Setup for Branch Office Simulator](Project_031371/README.md) |
+| 031372 | [Greenbone: Dashboard — Automation for Branch Office Simulator](Project_031372/README.md) |
+| 031373 | [Greenbone: Dashboard — Recovery for Branch Office Simulator](Project_031373/README.md) |
+| 031374 | [Greenbone: Dashboard — Reporting for Branch Office Simulator](Project_031374/README.md) |
+| 031375 | [Greenbone: Dashboard — Usability Improvement for Branch Office Simulator](Project_031375/README.md) |
+| 031376 | [Greenbone: Dashboard — Baseline Setup for Offline Classroom](Project_031376/README.md) |
+| 031377 | [Greenbone: Dashboard — Automation for Offline Classroom](Project_031377/README.md) |
+| 031378 | [Greenbone: Dashboard — Recovery for Offline Classroom](Project_031378/README.md) |
+| 031379 | [Greenbone: Dashboard — Reporting for Offline Classroom](Project_031379/README.md) |
+| 031380 | [Greenbone: Dashboard — Usability Improvement for Offline Classroom](Project_031380/README.md) |
 
 [Back to the portfolio home](../README.md)
