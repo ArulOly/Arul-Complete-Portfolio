@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042898 | [Apache: Automation — Recovery for Portfolio Demo](Project_042898/README.md) |
 | 042899 | [Apache: Automation — Reporting for Portfolio Demo](Project_042899/README.md) |
 | 042900 | [Apache: Automation — Usability Improvement for Portfolio Demo](Project_042900/README.md) |
+| 042901 | [Apache: Visual Reporting — Baseline Setup for School Lab](Project_042901/README.md) |
+| 042902 | [Apache: Visual Reporting — Automation for School Lab](Project_042902/README.md) |
+| 042903 | [Apache: Visual Reporting — Recovery for School Lab](Project_042903/README.md) |
+| 042904 | [Apache: Visual Reporting — Reporting for School Lab](Project_042904/README.md) |
+| 042905 | [Apache: Visual Reporting — Usability Improvement for School Lab](Project_042905/README.md) |
+| 042906 | [Apache: Visual Reporting — Baseline Setup for Small Business](Project_042906/README.md) |
+| 042907 | [Apache: Visual Reporting — Automation for Small Business](Project_042907/README.md) |
+| 042908 | [Apache: Visual Reporting — Recovery for Small Business](Project_042908/README.md) |
+| 042909 | [Apache: Visual Reporting — Reporting for Small Business](Project_042909/README.md) |
+| 042910 | [Apache: Visual Reporting — Usability Improvement for Small Business](Project_042910/README.md) |
+| 042911 | [Apache: Visual Reporting — Baseline Setup for Home Development](Project_042911/README.md) |
+| 042912 | [Apache: Visual Reporting — Automation for Home Development](Project_042912/README.md) |
+| 042913 | [Apache: Visual Reporting — Recovery for Home Development](Project_042913/README.md) |
+| 042914 | [Apache: Visual Reporting — Reporting for Home Development](Project_042914/README.md) |
+| 042915 | [Apache: Visual Reporting — Usability Improvement for Home Development](Project_042915/README.md) |
+| 042916 | [Apache: Visual Reporting — Baseline Setup for Public Dataset](Project_042916/README.md) |
+| 042917 | [Apache: Visual Reporting — Automation for Public Dataset](Project_042917/README.md) |
+| 042918 | [Apache: Visual Reporting — Recovery for Public Dataset](Project_042918/README.md) |
+| 042919 | [Apache: Visual Reporting — Reporting for Public Dataset](Project_042919/README.md) |
+| 042920 | [Apache: Visual Reporting — Usability Improvement for Public Dataset](Project_042920/README.md) |
 
 [Back to the portfolio home](../README.md)
