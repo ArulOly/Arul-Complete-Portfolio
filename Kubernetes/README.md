@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018258 | [Kubernetes: Data Import — Recovery for Small Business](Project_018258/README.md) |
 | 018259 | [Kubernetes: Data Import — Reporting for Small Business](Project_018259/README.md) |
 | 018260 | [Kubernetes: Data Import — Usability Improvement for Small Business](Project_018260/README.md) |
+| 018261 | [Kubernetes: Data Import — Baseline Setup for Home Development](Project_018261/README.md) |
+| 018262 | [Kubernetes: Data Import — Automation for Home Development](Project_018262/README.md) |
+| 018263 | [Kubernetes: Data Import — Recovery for Home Development](Project_018263/README.md) |
+| 018264 | [Kubernetes: Data Import — Reporting for Home Development](Project_018264/README.md) |
+| 018265 | [Kubernetes: Data Import — Usability Improvement for Home Development](Project_018265/README.md) |
+| 018266 | [Kubernetes: Data Import — Baseline Setup for Public Dataset](Project_018266/README.md) |
+| 018267 | [Kubernetes: Data Import — Automation for Public Dataset](Project_018267/README.md) |
+| 018268 | [Kubernetes: Data Import — Recovery for Public Dataset](Project_018268/README.md) |
+| 018269 | [Kubernetes: Data Import — Reporting for Public Dataset](Project_018269/README.md) |
+| 018270 | [Kubernetes: Data Import — Usability Improvement for Public Dataset](Project_018270/README.md) |
+| 018271 | [Kubernetes: Data Import — Baseline Setup for Branch Office Simulator](Project_018271/README.md) |
+| 018272 | [Kubernetes: Data Import — Automation for Branch Office Simulator](Project_018272/README.md) |
+| 018273 | [Kubernetes: Data Import — Recovery for Branch Office Simulator](Project_018273/README.md) |
+| 018274 | [Kubernetes: Data Import — Reporting for Branch Office Simulator](Project_018274/README.md) |
+| 018275 | [Kubernetes: Data Import — Usability Improvement for Branch Office Simulator](Project_018275/README.md) |
+| 018276 | [Kubernetes: Data Import — Baseline Setup for Offline Classroom](Project_018276/README.md) |
+| 018277 | [Kubernetes: Data Import — Automation for Offline Classroom](Project_018277/README.md) |
+| 018278 | [Kubernetes: Data Import — Recovery for Offline Classroom](Project_018278/README.md) |
+| 018279 | [Kubernetes: Data Import — Reporting for Offline Classroom](Project_018279/README.md) |
+| 018280 | [Kubernetes: Data Import — Usability Improvement for Offline Classroom](Project_018280/README.md) |
 
 [Back to the portfolio home](../README.md)
