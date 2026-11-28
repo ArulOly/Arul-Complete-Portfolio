@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042138 | [Apache: Audit — Recovery for Two-Node Lab](Project_042138/README.md) |
 | 042139 | [Apache: Audit — Reporting for Two-Node Lab](Project_042139/README.md) |
 | 042140 | [Apache: Audit — Usability Improvement for Two-Node Lab](Project_042140/README.md) |
+| 042141 | [Apache: Audit — Baseline Setup for Help Desk](Project_042141/README.md) |
+| 042142 | [Apache: Audit — Automation for Help Desk](Project_042142/README.md) |
+| 042143 | [Apache: Audit — Recovery for Help Desk](Project_042143/README.md) |
+| 042144 | [Apache: Audit — Reporting for Help Desk](Project_042144/README.md) |
+| 042145 | [Apache: Audit — Usability Improvement for Help Desk](Project_042145/README.md) |
+| 042146 | [Apache: Audit — Baseline Setup for Portfolio Demo](Project_042146/README.md) |
+| 042147 | [Apache: Audit — Automation for Portfolio Demo](Project_042147/README.md) |
+| 042148 | [Apache: Audit — Recovery for Portfolio Demo](Project_042148/README.md) |
+| 042149 | [Apache: Audit — Reporting for Portfolio Demo](Project_042149/README.md) |
+| 042150 | [Apache: Audit — Usability Improvement for Portfolio Demo](Project_042150/README.md) |
+| 042151 | [Apache: Log Analysis — Baseline Setup for School Lab](Project_042151/README.md) |
+| 042152 | [Apache: Log Analysis — Automation for School Lab](Project_042152/README.md) |
+| 042153 | [Apache: Log Analysis — Recovery for School Lab](Project_042153/README.md) |
+| 042154 | [Apache: Log Analysis — Reporting for School Lab](Project_042154/README.md) |
+| 042155 | [Apache: Log Analysis — Usability Improvement for School Lab](Project_042155/README.md) |
+| 042156 | [Apache: Log Analysis — Baseline Setup for Small Business](Project_042156/README.md) |
+| 042157 | [Apache: Log Analysis — Automation for Small Business](Project_042157/README.md) |
+| 042158 | [Apache: Log Analysis — Recovery for Small Business](Project_042158/README.md) |
+| 042159 | [Apache: Log Analysis — Reporting for Small Business](Project_042159/README.md) |
+| 042160 | [Apache: Log Analysis — Usability Improvement for Small Business](Project_042160/README.md) |
 
 [Back to the portfolio home](../README.md)
