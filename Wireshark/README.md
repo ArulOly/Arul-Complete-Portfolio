@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029358 | [Wireshark: Dashboard — Recovery for Small Business](Project_029358/README.md) |
 | 029359 | [Wireshark: Dashboard — Reporting for Small Business](Project_029359/README.md) |
 | 029360 | [Wireshark: Dashboard — Usability Improvement for Small Business](Project_029360/README.md) |
+| 029361 | [Wireshark: Dashboard — Baseline Setup for Home Development](Project_029361/README.md) |
+| 029362 | [Wireshark: Dashboard — Automation for Home Development](Project_029362/README.md) |
+| 029363 | [Wireshark: Dashboard — Recovery for Home Development](Project_029363/README.md) |
+| 029364 | [Wireshark: Dashboard — Reporting for Home Development](Project_029364/README.md) |
+| 029365 | [Wireshark: Dashboard — Usability Improvement for Home Development](Project_029365/README.md) |
+| 029366 | [Wireshark: Dashboard — Baseline Setup for Public Dataset](Project_029366/README.md) |
+| 029367 | [Wireshark: Dashboard — Automation for Public Dataset](Project_029367/README.md) |
+| 029368 | [Wireshark: Dashboard — Recovery for Public Dataset](Project_029368/README.md) |
+| 029369 | [Wireshark: Dashboard — Reporting for Public Dataset](Project_029369/README.md) |
+| 029370 | [Wireshark: Dashboard — Usability Improvement for Public Dataset](Project_029370/README.md) |
+| 029371 | [Wireshark: Dashboard — Baseline Setup for Branch Office Simulator](Project_029371/README.md) |
+| 029372 | [Wireshark: Dashboard — Automation for Branch Office Simulator](Project_029372/README.md) |
+| 029373 | [Wireshark: Dashboard — Recovery for Branch Office Simulator](Project_029373/README.md) |
+| 029374 | [Wireshark: Dashboard — Reporting for Branch Office Simulator](Project_029374/README.md) |
+| 029375 | [Wireshark: Dashboard — Usability Improvement for Branch Office Simulator](Project_029375/README.md) |
+| 029376 | [Wireshark: Dashboard — Baseline Setup for Offline Classroom](Project_029376/README.md) |
+| 029377 | [Wireshark: Dashboard — Automation for Offline Classroom](Project_029377/README.md) |
+| 029378 | [Wireshark: Dashboard — Recovery for Offline Classroom](Project_029378/README.md) |
+| 029379 | [Wireshark: Dashboard — Reporting for Offline Classroom](Project_029379/README.md) |
+| 029380 | [Wireshark: Dashboard — Usability Improvement for Offline Classroom](Project_029380/README.md) |
 
 [Back to the portfolio home](../README.md)
