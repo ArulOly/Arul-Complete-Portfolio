@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043458 | [Grafana: Scheduled Reporting — Recovery for Small Business](Project_043458/README.md) |
 | 043459 | [Grafana: Scheduled Reporting — Reporting for Small Business](Project_043459/README.md) |
 | 043460 | [Grafana: Scheduled Reporting — Usability Improvement for Small Business](Project_043460/README.md) |
+| 043461 | [Grafana: Scheduled Reporting — Baseline Setup for Home Development](Project_043461/README.md) |
+| 043462 | [Grafana: Scheduled Reporting — Automation for Home Development](Project_043462/README.md) |
+| 043463 | [Grafana: Scheduled Reporting — Recovery for Home Development](Project_043463/README.md) |
+| 043464 | [Grafana: Scheduled Reporting — Reporting for Home Development](Project_043464/README.md) |
+| 043465 | [Grafana: Scheduled Reporting — Usability Improvement for Home Development](Project_043465/README.md) |
+| 043466 | [Grafana: Scheduled Reporting — Baseline Setup for Public Dataset](Project_043466/README.md) |
+| 043467 | [Grafana: Scheduled Reporting — Automation for Public Dataset](Project_043467/README.md) |
+| 043468 | [Grafana: Scheduled Reporting — Recovery for Public Dataset](Project_043468/README.md) |
+| 043469 | [Grafana: Scheduled Reporting — Reporting for Public Dataset](Project_043469/README.md) |
+| 043470 | [Grafana: Scheduled Reporting — Usability Improvement for Public Dataset](Project_043470/README.md) |
+| 043471 | [Grafana: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_043471/README.md) |
+| 043472 | [Grafana: Scheduled Reporting — Automation for Branch Office Simulator](Project_043472/README.md) |
+| 043473 | [Grafana: Scheduled Reporting — Recovery for Branch Office Simulator](Project_043473/README.md) |
+| 043474 | [Grafana: Scheduled Reporting — Reporting for Branch Office Simulator](Project_043474/README.md) |
+| 043475 | [Grafana: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_043475/README.md) |
+| 043476 | [Grafana: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_043476/README.md) |
+| 043477 | [Grafana: Scheduled Reporting — Automation for Offline Classroom](Project_043477/README.md) |
+| 043478 | [Grafana: Scheduled Reporting — Recovery for Offline Classroom](Project_043478/README.md) |
+| 043479 | [Grafana: Scheduled Reporting — Reporting for Offline Classroom](Project_043479/README.md) |
+| 043480 | [Grafana: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_043480/README.md) |
 
 [Back to the portfolio home](../README.md)
