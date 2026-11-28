@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035158 | [Raspberry Pi: Log Analysis — Recovery for Small Business](Project_035158/README.md) |
 | 035159 | [Raspberry Pi: Log Analysis — Reporting for Small Business](Project_035159/README.md) |
 | 035160 | [Raspberry Pi: Log Analysis — Usability Improvement for Small Business](Project_035160/README.md) |
+| 035161 | [Raspberry Pi: Log Analysis — Baseline Setup for Home Development](Project_035161/README.md) |
+| 035162 | [Raspberry Pi: Log Analysis — Automation for Home Development](Project_035162/README.md) |
+| 035163 | [Raspberry Pi: Log Analysis — Recovery for Home Development](Project_035163/README.md) |
+| 035164 | [Raspberry Pi: Log Analysis — Reporting for Home Development](Project_035164/README.md) |
+| 035165 | [Raspberry Pi: Log Analysis — Usability Improvement for Home Development](Project_035165/README.md) |
+| 035166 | [Raspberry Pi: Log Analysis — Baseline Setup for Public Dataset](Project_035166/README.md) |
+| 035167 | [Raspberry Pi: Log Analysis — Automation for Public Dataset](Project_035167/README.md) |
+| 035168 | [Raspberry Pi: Log Analysis — Recovery for Public Dataset](Project_035168/README.md) |
+| 035169 | [Raspberry Pi: Log Analysis — Reporting for Public Dataset](Project_035169/README.md) |
+| 035170 | [Raspberry Pi: Log Analysis — Usability Improvement for Public Dataset](Project_035170/README.md) |
+| 035171 | [Raspberry Pi: Log Analysis — Baseline Setup for Branch Office Simulator](Project_035171/README.md) |
+| 035172 | [Raspberry Pi: Log Analysis — Automation for Branch Office Simulator](Project_035172/README.md) |
+| 035173 | [Raspberry Pi: Log Analysis — Recovery for Branch Office Simulator](Project_035173/README.md) |
+| 035174 | [Raspberry Pi: Log Analysis — Reporting for Branch Office Simulator](Project_035174/README.md) |
+| 035175 | [Raspberry Pi: Log Analysis — Usability Improvement for Branch Office Simulator](Project_035175/README.md) |
+| 035176 | [Raspberry Pi: Log Analysis — Baseline Setup for Offline Classroom](Project_035176/README.md) |
+| 035177 | [Raspberry Pi: Log Analysis — Automation for Offline Classroom](Project_035177/README.md) |
+| 035178 | [Raspberry Pi: Log Analysis — Recovery for Offline Classroom](Project_035178/README.md) |
+| 035179 | [Raspberry Pi: Log Analysis — Reporting for Offline Classroom](Project_035179/README.md) |
+| 035180 | [Raspberry Pi: Log Analysis — Usability Improvement for Offline Classroom](Project_035180/README.md) |
 
 [Back to the portfolio home](../README.md)
