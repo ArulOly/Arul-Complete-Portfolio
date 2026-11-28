@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042478 | [Apache: Scheduled Reporting — Recovery for Offline Classroom](Project_042478/README.md) |
 | 042479 | [Apache: Scheduled Reporting — Reporting for Offline Classroom](Project_042479/README.md) |
 | 042480 | [Apache: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_042480/README.md) |
+| 042481 | [Apache: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_042481/README.md) |
+| 042482 | [Apache: Scheduled Reporting — Automation for Single-Host Lab](Project_042482/README.md) |
+| 042483 | [Apache: Scheduled Reporting — Recovery for Single-Host Lab](Project_042483/README.md) |
+| 042484 | [Apache: Scheduled Reporting — Reporting for Single-Host Lab](Project_042484/README.md) |
+| 042485 | [Apache: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_042485/README.md) |
+| 042486 | [Apache: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_042486/README.md) |
+| 042487 | [Apache: Scheduled Reporting — Automation for Two-Node Lab](Project_042487/README.md) |
+| 042488 | [Apache: Scheduled Reporting — Recovery for Two-Node Lab](Project_042488/README.md) |
+| 042489 | [Apache: Scheduled Reporting — Reporting for Two-Node Lab](Project_042489/README.md) |
+| 042490 | [Apache: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_042490/README.md) |
+| 042491 | [Apache: Scheduled Reporting — Baseline Setup for Help Desk](Project_042491/README.md) |
+| 042492 | [Apache: Scheduled Reporting — Automation for Help Desk](Project_042492/README.md) |
+| 042493 | [Apache: Scheduled Reporting — Recovery for Help Desk](Project_042493/README.md) |
+| 042494 | [Apache: Scheduled Reporting — Reporting for Help Desk](Project_042494/README.md) |
+| 042495 | [Apache: Scheduled Reporting — Usability Improvement for Help Desk](Project_042495/README.md) |
+| 042496 | [Apache: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_042496/README.md) |
+| 042497 | [Apache: Scheduled Reporting — Automation for Portfolio Demo](Project_042497/README.md) |
+| 042498 | [Apache: Scheduled Reporting — Recovery for Portfolio Demo](Project_042498/README.md) |
+| 042499 | [Apache: Scheduled Reporting — Reporting for Portfolio Demo](Project_042499/README.md) |
+| 042500 | [Apache: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_042500/README.md) |
 
 [Back to the portfolio home](../README.md)
