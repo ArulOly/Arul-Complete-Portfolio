@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037978 | [Arduino: Recovery Test — Recovery for Offline Classroom](Project_037978/README.md) |
 | 037979 | [Arduino: Recovery Test — Reporting for Offline Classroom](Project_037979/README.md) |
 | 037980 | [Arduino: Recovery Test — Usability Improvement for Offline Classroom](Project_037980/README.md) |
+| 037981 | [Arduino: Recovery Test — Baseline Setup for Single-Host Lab](Project_037981/README.md) |
+| 037982 | [Arduino: Recovery Test — Automation for Single-Host Lab](Project_037982/README.md) |
+| 037983 | [Arduino: Recovery Test — Recovery for Single-Host Lab](Project_037983/README.md) |
+| 037984 | [Arduino: Recovery Test — Reporting for Single-Host Lab](Project_037984/README.md) |
+| 037985 | [Arduino: Recovery Test — Usability Improvement for Single-Host Lab](Project_037985/README.md) |
+| 037986 | [Arduino: Recovery Test — Baseline Setup for Two-Node Lab](Project_037986/README.md) |
+| 037987 | [Arduino: Recovery Test — Automation for Two-Node Lab](Project_037987/README.md) |
+| 037988 | [Arduino: Recovery Test — Recovery for Two-Node Lab](Project_037988/README.md) |
+| 037989 | [Arduino: Recovery Test — Reporting for Two-Node Lab](Project_037989/README.md) |
+| 037990 | [Arduino: Recovery Test — Usability Improvement for Two-Node Lab](Project_037990/README.md) |
+| 037991 | [Arduino: Recovery Test — Baseline Setup for Help Desk](Project_037991/README.md) |
+| 037992 | [Arduino: Recovery Test — Automation for Help Desk](Project_037992/README.md) |
+| 037993 | [Arduino: Recovery Test — Recovery for Help Desk](Project_037993/README.md) |
+| 037994 | [Arduino: Recovery Test — Reporting for Help Desk](Project_037994/README.md) |
+| 037995 | [Arduino: Recovery Test — Usability Improvement for Help Desk](Project_037995/README.md) |
+| 037996 | [Arduino: Recovery Test — Baseline Setup for Portfolio Demo](Project_037996/README.md) |
+| 037997 | [Arduino: Recovery Test — Automation for Portfolio Demo](Project_037997/README.md) |
+| 037998 | [Arduino: Recovery Test — Recovery for Portfolio Demo](Project_037998/README.md) |
+| 037999 | [Arduino: Recovery Test — Reporting for Portfolio Demo](Project_037999/README.md) |
+| 038000 | [Arduino: Recovery Test — Usability Improvement for Portfolio Demo](Project_038000/README.md) |
 
 [Back to the portfolio home](../README.md)
