@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017198 | [Docker: Log Analysis — Recovery for Portfolio Demo](Project_017198/README.md) |
 | 017199 | [Docker: Log Analysis — Reporting for Portfolio Demo](Project_017199/README.md) |
 | 017200 | [Docker: Log Analysis — Usability Improvement for Portfolio Demo](Project_017200/README.md) |
+| 017201 | [Docker: Backup Verification — Baseline Setup for School Lab](Project_017201/README.md) |
+| 017202 | [Docker: Backup Verification — Automation for School Lab](Project_017202/README.md) |
+| 017203 | [Docker: Backup Verification — Recovery for School Lab](Project_017203/README.md) |
+| 017204 | [Docker: Backup Verification — Reporting for School Lab](Project_017204/README.md) |
+| 017205 | [Docker: Backup Verification — Usability Improvement for School Lab](Project_017205/README.md) |
+| 017206 | [Docker: Backup Verification — Baseline Setup for Small Business](Project_017206/README.md) |
+| 017207 | [Docker: Backup Verification — Automation for Small Business](Project_017207/README.md) |
+| 017208 | [Docker: Backup Verification — Recovery for Small Business](Project_017208/README.md) |
+| 017209 | [Docker: Backup Verification — Reporting for Small Business](Project_017209/README.md) |
+| 017210 | [Docker: Backup Verification — Usability Improvement for Small Business](Project_017210/README.md) |
+| 017211 | [Docker: Backup Verification — Baseline Setup for Home Development](Project_017211/README.md) |
+| 017212 | [Docker: Backup Verification — Automation for Home Development](Project_017212/README.md) |
+| 017213 | [Docker: Backup Verification — Recovery for Home Development](Project_017213/README.md) |
+| 017214 | [Docker: Backup Verification — Reporting for Home Development](Project_017214/README.md) |
+| 017215 | [Docker: Backup Verification — Usability Improvement for Home Development](Project_017215/README.md) |
+| 017216 | [Docker: Backup Verification — Baseline Setup for Public Dataset](Project_017216/README.md) |
+| 017217 | [Docker: Backup Verification — Automation for Public Dataset](Project_017217/README.md) |
+| 017218 | [Docker: Backup Verification — Recovery for Public Dataset](Project_017218/README.md) |
+| 017219 | [Docker: Backup Verification — Reporting for Public Dataset](Project_017219/README.md) |
+| 017220 | [Docker: Backup Verification — Usability Improvement for Public Dataset](Project_017220/README.md) |
 
 [Back to the portfolio home](../README.md)
