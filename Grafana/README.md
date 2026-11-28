@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043978 | [Grafana: Recovery Test — Recovery for Offline Classroom](Project_043978/README.md) |
 | 043979 | [Grafana: Recovery Test — Reporting for Offline Classroom](Project_043979/README.md) |
 | 043980 | [Grafana: Recovery Test — Usability Improvement for Offline Classroom](Project_043980/README.md) |
+| 043981 | [Grafana: Recovery Test — Baseline Setup for Single-Host Lab](Project_043981/README.md) |
+| 043982 | [Grafana: Recovery Test — Automation for Single-Host Lab](Project_043982/README.md) |
+| 043983 | [Grafana: Recovery Test — Recovery for Single-Host Lab](Project_043983/README.md) |
+| 043984 | [Grafana: Recovery Test — Reporting for Single-Host Lab](Project_043984/README.md) |
+| 043985 | [Grafana: Recovery Test — Usability Improvement for Single-Host Lab](Project_043985/README.md) |
+| 043986 | [Grafana: Recovery Test — Baseline Setup for Two-Node Lab](Project_043986/README.md) |
+| 043987 | [Grafana: Recovery Test — Automation for Two-Node Lab](Project_043987/README.md) |
+| 043988 | [Grafana: Recovery Test — Recovery for Two-Node Lab](Project_043988/README.md) |
+| 043989 | [Grafana: Recovery Test — Reporting for Two-Node Lab](Project_043989/README.md) |
+| 043990 | [Grafana: Recovery Test — Usability Improvement for Two-Node Lab](Project_043990/README.md) |
+| 043991 | [Grafana: Recovery Test — Baseline Setup for Help Desk](Project_043991/README.md) |
+| 043992 | [Grafana: Recovery Test — Automation for Help Desk](Project_043992/README.md) |
+| 043993 | [Grafana: Recovery Test — Recovery for Help Desk](Project_043993/README.md) |
+| 043994 | [Grafana: Recovery Test — Reporting for Help Desk](Project_043994/README.md) |
+| 043995 | [Grafana: Recovery Test — Usability Improvement for Help Desk](Project_043995/README.md) |
+| 043996 | [Grafana: Recovery Test — Baseline Setup for Portfolio Demo](Project_043996/README.md) |
+| 043997 | [Grafana: Recovery Test — Automation for Portfolio Demo](Project_043997/README.md) |
+| 043998 | [Grafana: Recovery Test — Recovery for Portfolio Demo](Project_043998/README.md) |
+| 043999 | [Grafana: Recovery Test — Reporting for Portfolio Demo](Project_043999/README.md) |
+| 044000 | [Grafana: Recovery Test — Usability Improvement for Portfolio Demo](Project_044000/README.md) |
 
 [Back to the portfolio home](../README.md)
