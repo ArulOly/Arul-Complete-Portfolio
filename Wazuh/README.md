@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030878 | [Wazuh: Automation — Recovery for Offline Classroom](Project_030878/README.md) |
 | 030879 | [Wazuh: Automation — Reporting for Offline Classroom](Project_030879/README.md) |
 | 030880 | [Wazuh: Automation — Usability Improvement for Offline Classroom](Project_030880/README.md) |
+| 030881 | [Wazuh: Automation — Baseline Setup for Single-Host Lab](Project_030881/README.md) |
+| 030882 | [Wazuh: Automation — Automation for Single-Host Lab](Project_030882/README.md) |
+| 030883 | [Wazuh: Automation — Recovery for Single-Host Lab](Project_030883/README.md) |
+| 030884 | [Wazuh: Automation — Reporting for Single-Host Lab](Project_030884/README.md) |
+| 030885 | [Wazuh: Automation — Usability Improvement for Single-Host Lab](Project_030885/README.md) |
+| 030886 | [Wazuh: Automation — Baseline Setup for Two-Node Lab](Project_030886/README.md) |
+| 030887 | [Wazuh: Automation — Automation for Two-Node Lab](Project_030887/README.md) |
+| 030888 | [Wazuh: Automation — Recovery for Two-Node Lab](Project_030888/README.md) |
+| 030889 | [Wazuh: Automation — Reporting for Two-Node Lab](Project_030889/README.md) |
+| 030890 | [Wazuh: Automation — Usability Improvement for Two-Node Lab](Project_030890/README.md) |
+| 030891 | [Wazuh: Automation — Baseline Setup for Help Desk](Project_030891/README.md) |
+| 030892 | [Wazuh: Automation — Automation for Help Desk](Project_030892/README.md) |
+| 030893 | [Wazuh: Automation — Recovery for Help Desk](Project_030893/README.md) |
+| 030894 | [Wazuh: Automation — Reporting for Help Desk](Project_030894/README.md) |
+| 030895 | [Wazuh: Automation — Usability Improvement for Help Desk](Project_030895/README.md) |
+| 030896 | [Wazuh: Automation — Baseline Setup for Portfolio Demo](Project_030896/README.md) |
+| 030897 | [Wazuh: Automation — Automation for Portfolio Demo](Project_030897/README.md) |
+| 030898 | [Wazuh: Automation — Recovery for Portfolio Demo](Project_030898/README.md) |
+| 030899 | [Wazuh: Automation — Reporting for Portfolio Demo](Project_030899/README.md) |
+| 030900 | [Wazuh: Automation — Usability Improvement for Portfolio Demo](Project_030900/README.md) |
 
 [Back to the portfolio home](../README.md)
