@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014898 | [AWS: Automation — Recovery for Portfolio Demo](Project_014898/README.md) |
 | 014899 | [AWS: Automation — Reporting for Portfolio Demo](Project_014899/README.md) |
 | 014900 | [AWS: Automation — Usability Improvement for Portfolio Demo](Project_014900/README.md) |
+| 014901 | [AWS: Visual Reporting — Baseline Setup for School Lab](Project_014901/README.md) |
+| 014902 | [AWS: Visual Reporting — Automation for School Lab](Project_014902/README.md) |
+| 014903 | [AWS: Visual Reporting — Recovery for School Lab](Project_014903/README.md) |
+| 014904 | [AWS: Visual Reporting — Reporting for School Lab](Project_014904/README.md) |
+| 014905 | [AWS: Visual Reporting — Usability Improvement for School Lab](Project_014905/README.md) |
+| 014906 | [AWS: Visual Reporting — Baseline Setup for Small Business](Project_014906/README.md) |
+| 014907 | [AWS: Visual Reporting — Automation for Small Business](Project_014907/README.md) |
+| 014908 | [AWS: Visual Reporting — Recovery for Small Business](Project_014908/README.md) |
+| 014909 | [AWS: Visual Reporting — Reporting for Small Business](Project_014909/README.md) |
+| 014910 | [AWS: Visual Reporting — Usability Improvement for Small Business](Project_014910/README.md) |
+| 014911 | [AWS: Visual Reporting — Baseline Setup for Home Development](Project_014911/README.md) |
+| 014912 | [AWS: Visual Reporting — Automation for Home Development](Project_014912/README.md) |
+| 014913 | [AWS: Visual Reporting — Recovery for Home Development](Project_014913/README.md) |
+| 014914 | [AWS: Visual Reporting — Reporting for Home Development](Project_014914/README.md) |
+| 014915 | [AWS: Visual Reporting — Usability Improvement for Home Development](Project_014915/README.md) |
+| 014916 | [AWS: Visual Reporting — Baseline Setup for Public Dataset](Project_014916/README.md) |
+| 014917 | [AWS: Visual Reporting — Automation for Public Dataset](Project_014917/README.md) |
+| 014918 | [AWS: Visual Reporting — Recovery for Public Dataset](Project_014918/README.md) |
+| 014919 | [AWS: Visual Reporting — Reporting for Public Dataset](Project_014919/README.md) |
+| 014920 | [AWS: Visual Reporting — Usability Improvement for Public Dataset](Project_014920/README.md) |
 
 [Back to the portfolio home](../README.md)
