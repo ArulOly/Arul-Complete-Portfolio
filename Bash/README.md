@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039398 | [Bash: Dashboard — Recovery for Portfolio Demo](Project_039398/README.md) |
 | 039399 | [Bash: Dashboard — Reporting for Portfolio Demo](Project_039399/README.md) |
 | 039400 | [Bash: Dashboard — Usability Improvement for Portfolio Demo](Project_039400/README.md) |
+| 039401 | [Bash: Alerting — Baseline Setup for School Lab](Project_039401/README.md) |
+| 039402 | [Bash: Alerting — Automation for School Lab](Project_039402/README.md) |
+| 039403 | [Bash: Alerting — Recovery for School Lab](Project_039403/README.md) |
+| 039404 | [Bash: Alerting — Reporting for School Lab](Project_039404/README.md) |
+| 039405 | [Bash: Alerting — Usability Improvement for School Lab](Project_039405/README.md) |
+| 039406 | [Bash: Alerting — Baseline Setup for Small Business](Project_039406/README.md) |
+| 039407 | [Bash: Alerting — Automation for Small Business](Project_039407/README.md) |
+| 039408 | [Bash: Alerting — Recovery for Small Business](Project_039408/README.md) |
+| 039409 | [Bash: Alerting — Reporting for Small Business](Project_039409/README.md) |
+| 039410 | [Bash: Alerting — Usability Improvement for Small Business](Project_039410/README.md) |
+| 039411 | [Bash: Alerting — Baseline Setup for Home Development](Project_039411/README.md) |
+| 039412 | [Bash: Alerting — Automation for Home Development](Project_039412/README.md) |
+| 039413 | [Bash: Alerting — Recovery for Home Development](Project_039413/README.md) |
+| 039414 | [Bash: Alerting — Reporting for Home Development](Project_039414/README.md) |
+| 039415 | [Bash: Alerting — Usability Improvement for Home Development](Project_039415/README.md) |
+| 039416 | [Bash: Alerting — Baseline Setup for Public Dataset](Project_039416/README.md) |
+| 039417 | [Bash: Alerting — Automation for Public Dataset](Project_039417/README.md) |
+| 039418 | [Bash: Alerting — Recovery for Public Dataset](Project_039418/README.md) |
+| 039419 | [Bash: Alerting — Reporting for Public Dataset](Project_039419/README.md) |
+| 039420 | [Bash: Alerting — Usability Improvement for Public Dataset](Project_039420/README.md) |
 
 [Back to the portfolio home](../README.md)
