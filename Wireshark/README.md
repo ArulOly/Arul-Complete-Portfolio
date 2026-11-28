@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029858 | [Wireshark: Automation — Recovery for Small Business](Project_029858/README.md) |
 | 029859 | [Wireshark: Automation — Reporting for Small Business](Project_029859/README.md) |
 | 029860 | [Wireshark: Automation — Usability Improvement for Small Business](Project_029860/README.md) |
+| 029861 | [Wireshark: Automation — Baseline Setup for Home Development](Project_029861/README.md) |
+| 029862 | [Wireshark: Automation — Automation for Home Development](Project_029862/README.md) |
+| 029863 | [Wireshark: Automation — Recovery for Home Development](Project_029863/README.md) |
+| 029864 | [Wireshark: Automation — Reporting for Home Development](Project_029864/README.md) |
+| 029865 | [Wireshark: Automation — Usability Improvement for Home Development](Project_029865/README.md) |
+| 029866 | [Wireshark: Automation — Baseline Setup for Public Dataset](Project_029866/README.md) |
+| 029867 | [Wireshark: Automation — Automation for Public Dataset](Project_029867/README.md) |
+| 029868 | [Wireshark: Automation — Recovery for Public Dataset](Project_029868/README.md) |
+| 029869 | [Wireshark: Automation — Reporting for Public Dataset](Project_029869/README.md) |
+| 029870 | [Wireshark: Automation — Usability Improvement for Public Dataset](Project_029870/README.md) |
+| 029871 | [Wireshark: Automation — Baseline Setup for Branch Office Simulator](Project_029871/README.md) |
+| 029872 | [Wireshark: Automation — Automation for Branch Office Simulator](Project_029872/README.md) |
+| 029873 | [Wireshark: Automation — Recovery for Branch Office Simulator](Project_029873/README.md) |
+| 029874 | [Wireshark: Automation — Reporting for Branch Office Simulator](Project_029874/README.md) |
+| 029875 | [Wireshark: Automation — Usability Improvement for Branch Office Simulator](Project_029875/README.md) |
+| 029876 | [Wireshark: Automation — Baseline Setup for Offline Classroom](Project_029876/README.md) |
+| 029877 | [Wireshark: Automation — Automation for Offline Classroom](Project_029877/README.md) |
+| 029878 | [Wireshark: Automation — Recovery for Offline Classroom](Project_029878/README.md) |
+| 029879 | [Wireshark: Automation — Reporting for Offline Classroom](Project_029879/README.md) |
+| 029880 | [Wireshark: Automation — Usability Improvement for Offline Classroom](Project_029880/README.md) |
 
 [Back to the portfolio home](../README.md)
