@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037278 | [Arduino: Data Import — Recovery for Offline Classroom](Project_037278/README.md) |
 | 037279 | [Arduino: Data Import — Reporting for Offline Classroom](Project_037279/README.md) |
 | 037280 | [Arduino: Data Import — Usability Improvement for Offline Classroom](Project_037280/README.md) |
+| 037281 | [Arduino: Data Import — Baseline Setup for Single-Host Lab](Project_037281/README.md) |
+| 037282 | [Arduino: Data Import — Automation for Single-Host Lab](Project_037282/README.md) |
+| 037283 | [Arduino: Data Import — Recovery for Single-Host Lab](Project_037283/README.md) |
+| 037284 | [Arduino: Data Import — Reporting for Single-Host Lab](Project_037284/README.md) |
+| 037285 | [Arduino: Data Import — Usability Improvement for Single-Host Lab](Project_037285/README.md) |
+| 037286 | [Arduino: Data Import — Baseline Setup for Two-Node Lab](Project_037286/README.md) |
+| 037287 | [Arduino: Data Import — Automation for Two-Node Lab](Project_037287/README.md) |
+| 037288 | [Arduino: Data Import — Recovery for Two-Node Lab](Project_037288/README.md) |
+| 037289 | [Arduino: Data Import — Reporting for Two-Node Lab](Project_037289/README.md) |
+| 037290 | [Arduino: Data Import — Usability Improvement for Two-Node Lab](Project_037290/README.md) |
+| 037291 | [Arduino: Data Import — Baseline Setup for Help Desk](Project_037291/README.md) |
+| 037292 | [Arduino: Data Import — Automation for Help Desk](Project_037292/README.md) |
+| 037293 | [Arduino: Data Import — Recovery for Help Desk](Project_037293/README.md) |
+| 037294 | [Arduino: Data Import — Reporting for Help Desk](Project_037294/README.md) |
+| 037295 | [Arduino: Data Import — Usability Improvement for Help Desk](Project_037295/README.md) |
+| 037296 | [Arduino: Data Import — Baseline Setup for Portfolio Demo](Project_037296/README.md) |
+| 037297 | [Arduino: Data Import — Automation for Portfolio Demo](Project_037297/README.md) |
+| 037298 | [Arduino: Data Import — Recovery for Portfolio Demo](Project_037298/README.md) |
+| 037299 | [Arduino: Data Import — Reporting for Portfolio Demo](Project_037299/README.md) |
+| 037300 | [Arduino: Data Import — Usability Improvement for Portfolio Demo](Project_037300/README.md) |
 
 [Back to the portfolio home](../README.md)
