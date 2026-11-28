@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042678 | [Apache: Configuration Comparison — Recovery for Offline Classroom](Project_042678/README.md) |
 | 042679 | [Apache: Configuration Comparison — Reporting for Offline Classroom](Project_042679/README.md) |
 | 042680 | [Apache: Configuration Comparison — Usability Improvement for Offline Classroom](Project_042680/README.md) |
+| 042681 | [Apache: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_042681/README.md) |
+| 042682 | [Apache: Configuration Comparison — Automation for Single-Host Lab](Project_042682/README.md) |
+| 042683 | [Apache: Configuration Comparison — Recovery for Single-Host Lab](Project_042683/README.md) |
+| 042684 | [Apache: Configuration Comparison — Reporting for Single-Host Lab](Project_042684/README.md) |
+| 042685 | [Apache: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_042685/README.md) |
+| 042686 | [Apache: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_042686/README.md) |
+| 042687 | [Apache: Configuration Comparison — Automation for Two-Node Lab](Project_042687/README.md) |
+| 042688 | [Apache: Configuration Comparison — Recovery for Two-Node Lab](Project_042688/README.md) |
+| 042689 | [Apache: Configuration Comparison — Reporting for Two-Node Lab](Project_042689/README.md) |
+| 042690 | [Apache: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_042690/README.md) |
+| 042691 | [Apache: Configuration Comparison — Baseline Setup for Help Desk](Project_042691/README.md) |
+| 042692 | [Apache: Configuration Comparison — Automation for Help Desk](Project_042692/README.md) |
+| 042693 | [Apache: Configuration Comparison — Recovery for Help Desk](Project_042693/README.md) |
+| 042694 | [Apache: Configuration Comparison — Reporting for Help Desk](Project_042694/README.md) |
+| 042695 | [Apache: Configuration Comparison — Usability Improvement for Help Desk](Project_042695/README.md) |
+| 042696 | [Apache: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_042696/README.md) |
+| 042697 | [Apache: Configuration Comparison — Automation for Portfolio Demo](Project_042697/README.md) |
+| 042698 | [Apache: Configuration Comparison — Recovery for Portfolio Demo](Project_042698/README.md) |
+| 042699 | [Apache: Configuration Comparison — Reporting for Portfolio Demo](Project_042699/README.md) |
+| 042700 | [Apache: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_042700/README.md) |
 
 [Back to the portfolio home](../README.md)
