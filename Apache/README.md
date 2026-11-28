@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042818 | [Apache: Documentation Generation — Recovery for Public Dataset](Project_042818/README.md) |
 | 042819 | [Apache: Documentation Generation — Reporting for Public Dataset](Project_042819/README.md) |
 | 042820 | [Apache: Documentation Generation — Usability Improvement for Public Dataset](Project_042820/README.md) |
+| 042821 | [Apache: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_042821/README.md) |
+| 042822 | [Apache: Documentation Generation — Automation for Branch Office Simulator](Project_042822/README.md) |
+| 042823 | [Apache: Documentation Generation — Recovery for Branch Office Simulator](Project_042823/README.md) |
+| 042824 | [Apache: Documentation Generation — Reporting for Branch Office Simulator](Project_042824/README.md) |
+| 042825 | [Apache: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_042825/README.md) |
+| 042826 | [Apache: Documentation Generation — Baseline Setup for Offline Classroom](Project_042826/README.md) |
+| 042827 | [Apache: Documentation Generation — Automation for Offline Classroom](Project_042827/README.md) |
+| 042828 | [Apache: Documentation Generation — Recovery for Offline Classroom](Project_042828/README.md) |
+| 042829 | [Apache: Documentation Generation — Reporting for Offline Classroom](Project_042829/README.md) |
+| 042830 | [Apache: Documentation Generation — Usability Improvement for Offline Classroom](Project_042830/README.md) |
+| 042831 | [Apache: Documentation Generation — Baseline Setup for Single-Host Lab](Project_042831/README.md) |
+| 042832 | [Apache: Documentation Generation — Automation for Single-Host Lab](Project_042832/README.md) |
+| 042833 | [Apache: Documentation Generation — Recovery for Single-Host Lab](Project_042833/README.md) |
+| 042834 | [Apache: Documentation Generation — Reporting for Single-Host Lab](Project_042834/README.md) |
+| 042835 | [Apache: Documentation Generation — Usability Improvement for Single-Host Lab](Project_042835/README.md) |
+| 042836 | [Apache: Documentation Generation — Baseline Setup for Two-Node Lab](Project_042836/README.md) |
+| 042837 | [Apache: Documentation Generation — Automation for Two-Node Lab](Project_042837/README.md) |
+| 042838 | [Apache: Documentation Generation — Recovery for Two-Node Lab](Project_042838/README.md) |
+| 042839 | [Apache: Documentation Generation — Reporting for Two-Node Lab](Project_042839/README.md) |
+| 042840 | [Apache: Documentation Generation — Usability Improvement for Two-Node Lab](Project_042840/README.md) |
 
 [Back to the portfolio home](../README.md)
