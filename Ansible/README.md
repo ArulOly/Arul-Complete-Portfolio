@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047118 | [Ansible: Audit — Recovery for Public Dataset](Project_047118/README.md) |
 | 047119 | [Ansible: Audit — Reporting for Public Dataset](Project_047119/README.md) |
 | 047120 | [Ansible: Audit — Usability Improvement for Public Dataset](Project_047120/README.md) |
+| 047121 | [Ansible: Audit — Baseline Setup for Branch Office Simulator](Project_047121/README.md) |
+| 047122 | [Ansible: Audit — Automation for Branch Office Simulator](Project_047122/README.md) |
+| 047123 | [Ansible: Audit — Recovery for Branch Office Simulator](Project_047123/README.md) |
+| 047124 | [Ansible: Audit — Reporting for Branch Office Simulator](Project_047124/README.md) |
+| 047125 | [Ansible: Audit — Usability Improvement for Branch Office Simulator](Project_047125/README.md) |
+| 047126 | [Ansible: Audit — Baseline Setup for Offline Classroom](Project_047126/README.md) |
+| 047127 | [Ansible: Audit — Automation for Offline Classroom](Project_047127/README.md) |
+| 047128 | [Ansible: Audit — Recovery for Offline Classroom](Project_047128/README.md) |
+| 047129 | [Ansible: Audit — Reporting for Offline Classroom](Project_047129/README.md) |
+| 047130 | [Ansible: Audit — Usability Improvement for Offline Classroom](Project_047130/README.md) |
+| 047131 | [Ansible: Audit — Baseline Setup for Single-Host Lab](Project_047131/README.md) |
+| 047132 | [Ansible: Audit — Automation for Single-Host Lab](Project_047132/README.md) |
+| 047133 | [Ansible: Audit — Recovery for Single-Host Lab](Project_047133/README.md) |
+| 047134 | [Ansible: Audit — Reporting for Single-Host Lab](Project_047134/README.md) |
+| 047135 | [Ansible: Audit — Usability Improvement for Single-Host Lab](Project_047135/README.md) |
+| 047136 | [Ansible: Audit — Baseline Setup for Two-Node Lab](Project_047136/README.md) |
+| 047137 | [Ansible: Audit — Automation for Two-Node Lab](Project_047137/README.md) |
+| 047138 | [Ansible: Audit — Recovery for Two-Node Lab](Project_047138/README.md) |
+| 047139 | [Ansible: Audit — Reporting for Two-Node Lab](Project_047139/README.md) |
+| 047140 | [Ansible: Audit — Usability Improvement for Two-Node Lab](Project_047140/README.md) |
 
 [Back to the portfolio home](../README.md)
