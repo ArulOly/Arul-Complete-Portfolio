@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041438 | [Nginx: Alerting — Recovery for Two-Node Lab](Project_041438/README.md) |
 | 041439 | [Nginx: Alerting — Reporting for Two-Node Lab](Project_041439/README.md) |
 | 041440 | [Nginx: Alerting — Usability Improvement for Two-Node Lab](Project_041440/README.md) |
+| 041441 | [Nginx: Alerting — Baseline Setup for Help Desk](Project_041441/README.md) |
+| 041442 | [Nginx: Alerting — Automation for Help Desk](Project_041442/README.md) |
+| 041443 | [Nginx: Alerting — Recovery for Help Desk](Project_041443/README.md) |
+| 041444 | [Nginx: Alerting — Reporting for Help Desk](Project_041444/README.md) |
+| 041445 | [Nginx: Alerting — Usability Improvement for Help Desk](Project_041445/README.md) |
+| 041446 | [Nginx: Alerting — Baseline Setup for Portfolio Demo](Project_041446/README.md) |
+| 041447 | [Nginx: Alerting — Automation for Portfolio Demo](Project_041447/README.md) |
+| 041448 | [Nginx: Alerting — Recovery for Portfolio Demo](Project_041448/README.md) |
+| 041449 | [Nginx: Alerting — Reporting for Portfolio Demo](Project_041449/README.md) |
+| 041450 | [Nginx: Alerting — Usability Improvement for Portfolio Demo](Project_041450/README.md) |
+| 041451 | [Nginx: Scheduled Reporting — Baseline Setup for School Lab](Project_041451/README.md) |
+| 041452 | [Nginx: Scheduled Reporting — Automation for School Lab](Project_041452/README.md) |
+| 041453 | [Nginx: Scheduled Reporting — Recovery for School Lab](Project_041453/README.md) |
+| 041454 | [Nginx: Scheduled Reporting — Reporting for School Lab](Project_041454/README.md) |
+| 041455 | [Nginx: Scheduled Reporting — Usability Improvement for School Lab](Project_041455/README.md) |
+| 041456 | [Nginx: Scheduled Reporting — Baseline Setup for Small Business](Project_041456/README.md) |
+| 041457 | [Nginx: Scheduled Reporting — Automation for Small Business](Project_041457/README.md) |
+| 041458 | [Nginx: Scheduled Reporting — Recovery for Small Business](Project_041458/README.md) |
+| 041459 | [Nginx: Scheduled Reporting — Reporting for Small Business](Project_041459/README.md) |
+| 041460 | [Nginx: Scheduled Reporting — Usability Improvement for Small Business](Project_041460/README.md) |
 
 [Back to the portfolio home](../README.md)
