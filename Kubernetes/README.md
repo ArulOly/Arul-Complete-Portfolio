@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018638 | [Kubernetes: Service Check — Recovery for Two-Node Lab](Project_018638/README.md) |
 | 018639 | [Kubernetes: Service Check — Reporting for Two-Node Lab](Project_018639/README.md) |
 | 018640 | [Kubernetes: Service Check — Usability Improvement for Two-Node Lab](Project_018640/README.md) |
+| 018641 | [Kubernetes: Service Check — Baseline Setup for Help Desk](Project_018641/README.md) |
+| 018642 | [Kubernetes: Service Check — Automation for Help Desk](Project_018642/README.md) |
+| 018643 | [Kubernetes: Service Check — Recovery for Help Desk](Project_018643/README.md) |
+| 018644 | [Kubernetes: Service Check — Reporting for Help Desk](Project_018644/README.md) |
+| 018645 | [Kubernetes: Service Check — Usability Improvement for Help Desk](Project_018645/README.md) |
+| 018646 | [Kubernetes: Service Check — Baseline Setup for Portfolio Demo](Project_018646/README.md) |
+| 018647 | [Kubernetes: Service Check — Automation for Portfolio Demo](Project_018647/README.md) |
+| 018648 | [Kubernetes: Service Check — Recovery for Portfolio Demo](Project_018648/README.md) |
+| 018649 | [Kubernetes: Service Check — Reporting for Portfolio Demo](Project_018649/README.md) |
+| 018650 | [Kubernetes: Service Check — Usability Improvement for Portfolio Demo](Project_018650/README.md) |
+| 018651 | [Kubernetes: Configuration Comparison — Baseline Setup for School Lab](Project_018651/README.md) |
+| 018652 | [Kubernetes: Configuration Comparison — Automation for School Lab](Project_018652/README.md) |
+| 018653 | [Kubernetes: Configuration Comparison — Recovery for School Lab](Project_018653/README.md) |
+| 018654 | [Kubernetes: Configuration Comparison — Reporting for School Lab](Project_018654/README.md) |
+| 018655 | [Kubernetes: Configuration Comparison — Usability Improvement for School Lab](Project_018655/README.md) |
+| 018656 | [Kubernetes: Configuration Comparison — Baseline Setup for Small Business](Project_018656/README.md) |
+| 018657 | [Kubernetes: Configuration Comparison — Automation for Small Business](Project_018657/README.md) |
+| 018658 | [Kubernetes: Configuration Comparison — Recovery for Small Business](Project_018658/README.md) |
+| 018659 | [Kubernetes: Configuration Comparison — Reporting for Small Business](Project_018659/README.md) |
+| 018660 | [Kubernetes: Configuration Comparison — Usability Improvement for Small Business](Project_018660/README.md) |
 
 [Back to the portfolio home](../README.md)
