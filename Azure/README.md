@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015678 | [Azure: Configuration Comparison — Recovery for Offline Classroom](Project_015678/README.md) |
 | 015679 | [Azure: Configuration Comparison — Reporting for Offline Classroom](Project_015679/README.md) |
 | 015680 | [Azure: Configuration Comparison — Usability Improvement for Offline Classroom](Project_015680/README.md) |
+| 015681 | [Azure: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_015681/README.md) |
+| 015682 | [Azure: Configuration Comparison — Automation for Single-Host Lab](Project_015682/README.md) |
+| 015683 | [Azure: Configuration Comparison — Recovery for Single-Host Lab](Project_015683/README.md) |
+| 015684 | [Azure: Configuration Comparison — Reporting for Single-Host Lab](Project_015684/README.md) |
+| 015685 | [Azure: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_015685/README.md) |
+| 015686 | [Azure: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_015686/README.md) |
+| 015687 | [Azure: Configuration Comparison — Automation for Two-Node Lab](Project_015687/README.md) |
+| 015688 | [Azure: Configuration Comparison — Recovery for Two-Node Lab](Project_015688/README.md) |
+| 015689 | [Azure: Configuration Comparison — Reporting for Two-Node Lab](Project_015689/README.md) |
+| 015690 | [Azure: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_015690/README.md) |
+| 015691 | [Azure: Configuration Comparison — Baseline Setup for Help Desk](Project_015691/README.md) |
+| 015692 | [Azure: Configuration Comparison — Automation for Help Desk](Project_015692/README.md) |
+| 015693 | [Azure: Configuration Comparison — Recovery for Help Desk](Project_015693/README.md) |
+| 015694 | [Azure: Configuration Comparison — Reporting for Help Desk](Project_015694/README.md) |
+| 015695 | [Azure: Configuration Comparison — Usability Improvement for Help Desk](Project_015695/README.md) |
+| 015696 | [Azure: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_015696/README.md) |
+| 015697 | [Azure: Configuration Comparison — Automation for Portfolio Demo](Project_015697/README.md) |
+| 015698 | [Azure: Configuration Comparison — Recovery for Portfolio Demo](Project_015698/README.md) |
+| 015699 | [Azure: Configuration Comparison — Reporting for Portfolio Demo](Project_015699/README.md) |
+| 015700 | [Azure: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_015700/README.md) |
 
 [Back to the portfolio home](../README.md)
