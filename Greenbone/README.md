@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031118 | [Greenbone: Audit — Recovery for Public Dataset](Project_031118/README.md) |
 | 031119 | [Greenbone: Audit — Reporting for Public Dataset](Project_031119/README.md) |
 | 031120 | [Greenbone: Audit — Usability Improvement for Public Dataset](Project_031120/README.md) |
+| 031121 | [Greenbone: Audit — Baseline Setup for Branch Office Simulator](Project_031121/README.md) |
+| 031122 | [Greenbone: Audit — Automation for Branch Office Simulator](Project_031122/README.md) |
+| 031123 | [Greenbone: Audit — Recovery for Branch Office Simulator](Project_031123/README.md) |
+| 031124 | [Greenbone: Audit — Reporting for Branch Office Simulator](Project_031124/README.md) |
+| 031125 | [Greenbone: Audit — Usability Improvement for Branch Office Simulator](Project_031125/README.md) |
+| 031126 | [Greenbone: Audit — Baseline Setup for Offline Classroom](Project_031126/README.md) |
+| 031127 | [Greenbone: Audit — Automation for Offline Classroom](Project_031127/README.md) |
+| 031128 | [Greenbone: Audit — Recovery for Offline Classroom](Project_031128/README.md) |
+| 031129 | [Greenbone: Audit — Reporting for Offline Classroom](Project_031129/README.md) |
+| 031130 | [Greenbone: Audit — Usability Improvement for Offline Classroom](Project_031130/README.md) |
+| 031131 | [Greenbone: Audit — Baseline Setup for Single-Host Lab](Project_031131/README.md) |
+| 031132 | [Greenbone: Audit — Automation for Single-Host Lab](Project_031132/README.md) |
+| 031133 | [Greenbone: Audit — Recovery for Single-Host Lab](Project_031133/README.md) |
+| 031134 | [Greenbone: Audit — Reporting for Single-Host Lab](Project_031134/README.md) |
+| 031135 | [Greenbone: Audit — Usability Improvement for Single-Host Lab](Project_031135/README.md) |
+| 031136 | [Greenbone: Audit — Baseline Setup for Two-Node Lab](Project_031136/README.md) |
+| 031137 | [Greenbone: Audit — Automation for Two-Node Lab](Project_031137/README.md) |
+| 031138 | [Greenbone: Audit — Recovery for Two-Node Lab](Project_031138/README.md) |
+| 031139 | [Greenbone: Audit — Reporting for Two-Node Lab](Project_031139/README.md) |
+| 031140 | [Greenbone: Audit — Usability Improvement for Two-Node Lab](Project_031140/README.md) |
 
 [Back to the portfolio home](../README.md)
