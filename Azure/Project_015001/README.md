@@ -6,156 +6,90 @@ Shared classroom equipment provides the setting for this inventory exercise. The
 
 ## Problem statement
 
-The school lab needs a reproducible inventory workflow for an event modeled on Azure Blob Storage.
+The school lab needs a repeatable inventory baseline that another student can verify.
 
 ## Project objectives
 
-- Count items and identify stock below the reorder level.
-- Record the platform and a reference result for one input.
+- Record the school lab inventory baseline.
+- Declare an ARM storage account with inventory tags and HTTPS-only access.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
 
-Azure Blob Storage event format, a simulated local object store, JSON, and Python standard-library modules.
+Azure Resource Manager JSON and Azure Blob Storage.
 
 ## System architecture
 
-`Synthetic event → object address → local fixture lookup → validated workflow → report`
+`Inventory parameters → infrastructure template → local validation → declared asset baseline`
 
 ## Features
 
-- Count items and identify stock below the reorder level.
-- Record the platform and a reference result for one input.
+- Record the school lab inventory baseline.
+- Declare an ARM storage account with inventory tags and HTTPS-only access.
 
 ## Prerequisites
 
-Use Python 3.10 or later. The offline practice run requires no cloud account or packages. Use a text editor and a local practice directory.
+Use the Azure Resource Manager 2023-05-01 Storage schema to review the template. Use a text editor and a local practice directory.
 
 ## Complete Azure source code
 
-```python
-"""Local Azure reference implementation for project 015001."""
-
-
-from pathlib import Path
-from urllib.parse import unquote, urlsplit
-import argparse
-import json
-import sys
-
-
-
-
-def label(record, key):
-    value = record.get(key)
-    if not isinstance(value, str) or not value.strip():
-        raise ValueError(f"{key} must be non-empty text")
-    return value.strip()
-
-
-def integer(record, key, minimum=0, maximum=1_000_000_000):
-    value = record.get(key)
-    if type(value) is not int or not minimum <= value <= maximum:
-        raise ValueError(f"{key} must be an integer from {minimum} to {maximum}")
-    return value
-
-
-def evaluate(record):
-    """Count items and identify stock below the reorder level."""
-    stock = integer(record, "stock")
-    reorder = integer(record, "reorder_at", minimum=1)
-    return {"stock": stock, "reorder_at": reorder, "needs_reorder": stock < reorder}
-
-
-def platform_details():
-    return {"platform": 'Azure', "service": 'Azure Blob Storage', "mode": "offline fixture"}
-
-
-def object_address(event):
-    if event["eventType"] != "Microsoft.Storage.BlobCreated":
-        raise ValueError("Expected a BlobCreated event")
-    address = urlsplit(event["data"]["url"])
-    if address.scheme != "https" or not address.hostname or not address.hostname.endswith(".blob.core.windows.net"):
-        raise ValueError("Expected an Azure Blob Storage URL")
-    segments = unquote(address.path).strip("/").split("/", 1)
-    if len(segments) != 2 or not all(segments):
-        raise ValueError("Expected a container and blob name")
-    return f"https://{address.hostname}/" + "/".join(segments)
-
-
-def load(path):
-    fixture = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(fixture, dict):
-        raise ValueError("Expected a JSON fixture object")
-    try:
-        address = object_address(fixture["event"])
-        value = fixture["objects"][address]
-    except (KeyError, IndexError, TypeError, AttributeError) as exc:
-        raise ValueError("Invalid event or event object missing from local storage") from exc
-    if not isinstance(value, dict):
-        raise ValueError("Expected an object payload")
-    json.dumps(value, allow_nan=False)
-    return value
-
-
-def process(args):
-    record = load(args.input)
-    return {"asset": label(record, "asset"), "result": evaluate(record)}, 0
-
-
-def main():
-    parser = argparse.ArgumentParser(description='Count items and identify stock below the reorder level.')
-    parser.add_argument("input", type=Path)
-    args = parser.parse_args()
-    try:
-        environment = platform_details()
-        outcome, status = process(args)
-        report = {"environment": environment, "result": outcome}
-        serialized = json.dumps(report, indent=2, ensure_ascii=False, allow_nan=False)
-        print(serialized)
-        return status
-    except (OSError, ValueError, OverflowError, RecursionError) as exc:
-        print(f"Demo error: {exc}", file=sys.stderr)
-        return 2
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+```json
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "storageName": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 24
+    },
+    "location": {
+      "type": "string",
+      "defaultValue": "[resourceGroup().location]"
+    }
+  },
+  "resources": [
+    {
+      "type": "Microsoft.Storage/storageAccounts",
+      "apiVersion": "2023-05-01",
+      "name": "[parameters('storageName')]",
+      "location": "[parameters('location')]",
+      "kind": "StorageV2",
+      "sku": {
+        "name": "Standard_LRS"
+      },
+      "tags": {
+        "Asset": "LAB-17",
+        "Environment": "practice"
+      },
+      "properties": {
+        "allowBlobPublicAccess": false,
+        "supportsHttpsTrafficOnly": true,
+        "minimumTlsVersion": "TLS1_2"
+      }
+    }
+  ]
+}
 ```
 
 ## Implementation explanation
 
-The adapter reads the Event Grid BlobCreated notification and extracts an object address. It uses that address to read from a local dictionary. The inventory workflow then evaluates the selected payload.
+Declare an ARM storage account with inventory tags and HTTPS-only access.
 
 ## Sample input data
 
-Save the synthetic event and object fixture together as `sample.json`.
+Use this example input.
 
 ```json
 {
-  "event": {
-    "eventType": "Microsoft.Storage.BlobCreated",
-    "data": {
-      "url": "https://portfolioexample.blob.core.windows.net/practice/inputs/portfolio%20015001.json"
-    }
-  },
-  "objects": {
-    "https://portfolioexample.blob.core.windows.net/practice/inputs/portfolio 015001.json": {
-      "asset": "LAB-17",
-      "stock": 2,
-      "reorder_at": 4
-    }
-  }
+  "storageName": "labinventory17",
+  "location": "eastus"
 }
 ```
 
 ## Execution instructions
 
-Save the source as `project.py` alongside `sample.json`.
-
-```sh
-python project.py sample.json
-```
+Save the source as `inventory.json`. In an authorized Azure environment, the Azure CLI can check the planned template using `az deployment group validate --resource-group YOUR_PRACTICE_GROUP --template-file inventory.json --parameters storageName=YOUR_UNIQUE_NAME`. This account-level check was not run for the portfolio.
 
 ## Example output
 
@@ -163,23 +97,31 @@ Illustrative excerpt for the synthetic sample.
 
 ```json
 {
-  "needs_reorder": true
+  "resource_type": "Microsoft.Storage/storageAccounts",
+  "asset_tag": "LAB-17",
+  "allowBlobPublicAccess": false,
+  "supportsHttpsTrafficOnly": true,
+  "minimumTlsVersion": "TLS1_2"
 }
 ```
 
 ## Testing and validation
 
-Actual tests ran the Python program against a local simulated object store. The sample field matched the expected value and repeated. The incomplete input returned exit status 2.
+The declared storage-account resource passed Microsoft's ARM resource schema with the illustrated parameter values. A local check verified the fields shown below.
 
 ```json
 {
-  "needs_reorder": true
+  "resource_type": "Microsoft.Storage/storageAccounts",
+  "asset_tag": "LAB-17",
+  "allowBlobPublicAccess": false,
+  "supportsHttpsTrafficOnly": true,
+  "minimumTlsVersion": "TLS1_2"
 }
 ```
 
 ## Error handling
 
-The adapter raises a diagnostic when the event is malformed or its object is missing from the fixture. Invalid payloads follow the documented CLI, batch, or recovery behavior.
+Check syntax, resource types, and input names before deployment. Always use an authorized practice resource group or project for provider-side validation.
 
 ## Troubleshooting
 
@@ -189,7 +131,7 @@ The adapter raises a diagnostic when the event is malformed or its object is mis
 
 ## Limitations
 
-This offline reference uses synthetic event data and a local dictionary. Cloud deployment, credentials, permissions, and live event delivery are outside the tested scope.
+This example covers the declared configuration. No cloud resources were provisioned or checked in a live account.
 
 ## Learning outcomes
 

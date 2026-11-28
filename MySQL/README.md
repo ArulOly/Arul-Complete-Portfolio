@@ -37,6 +37,10 @@ MySQL temporary tables, JSON_EXTRACT, and bound SQL parameters, Python, and stru
 
 Save the embedded Python code as `project.py` and the JSON sample as `sample.json`. Follow the project's database setup and run command.
 
+## Native inventory example
+
+[Open Project 026001](Project_026001/README.md) for the MySQL SQL workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

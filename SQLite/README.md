@@ -37,6 +37,10 @@ SQLite temporary tables, bound SQL parameters, and JSON functions, Python, and s
 
 Save the embedded Python code as `project.py` and the JSON sample as `sample.json`. Follow the project's database setup and run command.
 
+## Native inventory example
+
+[Open Project 028001](Project_028001/README.md) for the SQLite SQL workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

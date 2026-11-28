@@ -37,6 +37,10 @@ Debian, dpkg-query, Python, JSON, and local command-line reporting.
 
 Run the embedded Python on Debian. Save the project code and synthetic input locally and use the command in the README.
 
+## Native inventory example
+
+[Open Project 003001](Project_003001/README.md) for the POSIX shell and dpkg-query workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

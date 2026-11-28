@@ -6,157 +6,92 @@ Shared classroom equipment provides the setting for this inventory exercise. The
 
 ## Problem statement
 
-The school lab needs a reproducible inventory workflow for an event modeled on Google Cloud Storage.
+The school lab needs a repeatable inventory baseline that another student can verify.
 
 ## Project objectives
 
-- Count items and identify stock below the reorder level.
-- Record the platform and a reference result for one input.
+- Record the school lab inventory baseline.
+- Declare a labeled Cloud Storage bucket with versioning and public access prevention.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
 
-Google Cloud Storage event format, a simulated local object store, JSON, and Python standard-library modules.
+Terraform HCL and Google Cloud Storage.
 
 ## System architecture
 
-`Synthetic event → object address → local fixture lookup → validated workflow → report`
+`Inventory parameters → infrastructure template → local validation → declared asset baseline`
 
 ## Features
 
-- Count items and identify stock below the reorder level.
-- Record the platform and a reference result for one input.
+- Record the school lab inventory baseline.
+- Declare a labeled Cloud Storage bucket with versioning and public access prevention.
 
 ## Prerequisites
 
-Use Python 3.10 or later. The offline practice run requires no cloud account or packages. Use a text editor and a local practice directory.
+Use Terraform with the Google provider for a provider-schema check. Use a text editor and a local practice directory.
 
 ## Complete Google Cloud source code
 
-```python
-"""Local Google Cloud reference implementation for project 016001."""
+```hcl
+terraform {
+  required_providers {
+    google = {
+      source  = "hashicorp/google"
+      version = "~> 6.0"
+    }
+  }
+}
 
+variable "project_id" {
+  type        = string
+  description = "ID of an authorized practice Google Cloud project"
+}
 
-from pathlib import Path
-import argparse
-import json
-import sys
+variable "bucket_name" {
+  type        = string
+  description = "Globally unique name for the lab inventory bucket"
+}
 
+provider "google" {
+  project = var.project_id
+}
 
+resource "google_storage_bucket" "lab_inventory" {
+  name                        = var.bucket_name
+  location                    = "US"
+  uniform_bucket_level_access = true
+  public_access_prevention    = "enforced"
 
+  versioning {
+    enabled = true
+  }
 
-def label(record, key):
-    value = record.get(key)
-    if not isinstance(value, str) or not value.strip():
-        raise ValueError(f"{key} must be non-empty text")
-    return value.strip()
-
-
-def integer(record, key, minimum=0, maximum=1_000_000_000):
-    value = record.get(key)
-    if type(value) is not int or not minimum <= value <= maximum:
-        raise ValueError(f"{key} must be an integer from {minimum} to {maximum}")
-    return value
-
-
-def evaluate(record):
-    """Count items and identify stock below the reorder level."""
-    stock = integer(record, "stock")
-    reorder = integer(record, "reorder_at", minimum=1)
-    return {"stock": stock, "reorder_at": reorder, "needs_reorder": stock < reorder}
-
-
-def platform_details():
-    return {"platform": 'Google Cloud', "service": 'Google Cloud Storage', "mode": "offline fixture"}
-
-
-def object_address(event):
-    if event["specversion"] != "1.0" or event["type"] != "google.cloud.storage.object.v1.finalized":
-        raise ValueError("Expected a CloudEvents 1.0 object-finalized event")
-    data = event["data"]
-    bucket, key = data["bucket"], data["name"]
-    if not bucket or not key:
-        raise ValueError("Expected a bucket and object name")
-    return f"gs://{bucket}/{key}"
-
-
-def load(path):
-    fixture = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(fixture, dict):
-        raise ValueError("Expected a JSON fixture object")
-    try:
-        address = object_address(fixture["event"])
-        value = fixture["objects"][address]
-    except (KeyError, IndexError, TypeError, AttributeError) as exc:
-        raise ValueError("Invalid event or event object missing from local storage") from exc
-    if not isinstance(value, dict):
-        raise ValueError("Expected an object payload")
-    json.dumps(value, allow_nan=False)
-    return value
-
-
-def process(args):
-    record = load(args.input)
-    return {"asset": label(record, "asset"), "result": evaluate(record)}, 0
-
-
-def main():
-    parser = argparse.ArgumentParser(description='Count items and identify stock below the reorder level.')
-    parser.add_argument("input", type=Path)
-    args = parser.parse_args()
-    try:
-        environment = platform_details()
-        outcome, status = process(args)
-        report = {"environment": environment, "result": outcome}
-        serialized = json.dumps(report, indent=2, ensure_ascii=False, allow_nan=False)
-        print(serialized)
-        return status
-    except (OSError, ValueError, OverflowError, RecursionError) as exc:
-        print(f"Demo error: {exc}", file=sys.stderr)
-        return 2
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+  labels = {
+    asset       = "lab-17"
+    environment = "practice"
+  }
+}
 ```
 
 ## Implementation explanation
 
-The adapter reads the Cloud Storage object-finalized CloudEvent and extracts an object address. It uses that address to read from a local dictionary. The inventory workflow then evaluates the selected payload.
+Declare a labeled Cloud Storage bucket with versioning and public access prevention.
 
 ## Sample input data
 
-Save the synthetic event and object fixture together as `sample.json`.
+Use this example input.
 
 ```json
 {
-  "event": {
-    "specversion": "1.0",
-    "type": "google.cloud.storage.object.v1.finalized",
-    "id": "016001",
-    "source": "//storage.googleapis.com/projects/_/buckets/portfolio-example",
-    "data": {
-      "bucket": "portfolio-example",
-      "name": "inputs/portfolio 016001.json"
-    }
-  },
-  "objects": {
-    "gs://portfolio-example/inputs/portfolio 016001.json": {
-      "asset": "LAB-17",
-      "stock": 2,
-      "reorder_at": 4
-    }
-  }
+  "project_id": "example-practice-project",
+  "bucket_name": "example-lab-inventory-17"
 }
 ```
 
 ## Execution instructions
 
-Save the source as `project.py` alongside `sample.json`.
-
-```sh
-python project.py sample.json
-```
+Save the source as `main.tf`, then run `terraform init -backend=false` followed by `terraform validate`. Provider initialization requires network access. These commands are for local validation and neither was executed for the portfolio.
 
 ## Example output
 
@@ -164,23 +99,31 @@ Illustrative excerpt for the synthetic sample.
 
 ```json
 {
-  "needs_reorder": true
+  "resource_type": "google_storage_bucket",
+  "asset_label": "lab-17",
+  "public_access_prevention": "enforced",
+  "uniform_bucket_level_access": true,
+  "versioning": true
 }
 ```
 
 ## Testing and validation
 
-Actual tests ran the Python program against a local simulated object store. The sample field matched the expected value and repeated. The incomplete input returned exit status 2.
+A local HCL parser accepted the configuration. Assertions inspected the resource block and verified the inventory label and settings shown below.
 
 ```json
 {
-  "needs_reorder": true
+  "resource_type": "google_storage_bucket",
+  "asset_label": "lab-17",
+  "public_access_prevention": "enforced",
+  "uniform_bucket_level_access": true,
+  "versioning": true
 }
 ```
 
 ## Error handling
 
-The adapter raises a diagnostic when the event is malformed or its object is missing from the fixture. Invalid payloads follow the documented CLI, batch, or recovery behavior.
+Check syntax, resource types, and input names before deployment. Always use an authorized practice resource group or project for provider-side validation.
 
 ## Troubleshooting
 
@@ -190,7 +133,7 @@ The adapter raises a diagnostic when the event is malformed or its object is mis
 
 ## Limitations
 
-This offline reference uses synthetic event data and a local dictionary. Cloud deployment, credentials, permissions, and live event delivery are outside the tested scope.
+This example covers the declared configuration. No cloud resources were provisioned or checked in a live account.
 
 ## Learning outcomes
 

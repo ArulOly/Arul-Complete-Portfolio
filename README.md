@@ -32,6 +32,8 @@ This repository contains a collection of practical information technology projec
 | [Azure](./Azure/) | Offline Blob Storage and Event Grid workflows |
 | [Google Cloud](./Google%20Cloud/) | Offline Cloud Storage event workflows |
 
+Read the [native examples and category audit](./Native_Examples.md) to see which projects use platform-native tools and what was verified.
+
 ## Repository Structure
 
 Each project is documented in an individual README.md file containing its objectives, implementation, source code, usage instructions and testing procedures.

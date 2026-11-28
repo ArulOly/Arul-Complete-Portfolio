@@ -37,6 +37,10 @@ PostgreSQL temporary tables, JSONB operators, and bound SQL parameters, Python, 
 
 Save the embedded Python code as `project.py` and the JSON sample as `sample.json`. Follow the project's database setup and run command.
 
+## Native inventory example
+
+[Open Project 025001](Project_025001/README.md) for the PostgreSQL SQL workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |
