@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029158 | [Wireshark: Log Analysis — Recovery for Small Business](Project_029158/README.md) |
 | 029159 | [Wireshark: Log Analysis — Reporting for Small Business](Project_029159/README.md) |
 | 029160 | [Wireshark: Log Analysis — Usability Improvement for Small Business](Project_029160/README.md) |
+| 029161 | [Wireshark: Log Analysis — Baseline Setup for Home Development](Project_029161/README.md) |
+| 029162 | [Wireshark: Log Analysis — Automation for Home Development](Project_029162/README.md) |
+| 029163 | [Wireshark: Log Analysis — Recovery for Home Development](Project_029163/README.md) |
+| 029164 | [Wireshark: Log Analysis — Reporting for Home Development](Project_029164/README.md) |
+| 029165 | [Wireshark: Log Analysis — Usability Improvement for Home Development](Project_029165/README.md) |
+| 029166 | [Wireshark: Log Analysis — Baseline Setup for Public Dataset](Project_029166/README.md) |
+| 029167 | [Wireshark: Log Analysis — Automation for Public Dataset](Project_029167/README.md) |
+| 029168 | [Wireshark: Log Analysis — Recovery for Public Dataset](Project_029168/README.md) |
+| 029169 | [Wireshark: Log Analysis — Reporting for Public Dataset](Project_029169/README.md) |
+| 029170 | [Wireshark: Log Analysis — Usability Improvement for Public Dataset](Project_029170/README.md) |
+| 029171 | [Wireshark: Log Analysis — Baseline Setup for Branch Office Simulator](Project_029171/README.md) |
+| 029172 | [Wireshark: Log Analysis — Automation for Branch Office Simulator](Project_029172/README.md) |
+| 029173 | [Wireshark: Log Analysis — Recovery for Branch Office Simulator](Project_029173/README.md) |
+| 029174 | [Wireshark: Log Analysis — Reporting for Branch Office Simulator](Project_029174/README.md) |
+| 029175 | [Wireshark: Log Analysis — Usability Improvement for Branch Office Simulator](Project_029175/README.md) |
+| 029176 | [Wireshark: Log Analysis — Baseline Setup for Offline Classroom](Project_029176/README.md) |
+| 029177 | [Wireshark: Log Analysis — Automation for Offline Classroom](Project_029177/README.md) |
+| 029178 | [Wireshark: Log Analysis — Recovery for Offline Classroom](Project_029178/README.md) |
+| 029179 | [Wireshark: Log Analysis — Reporting for Offline Classroom](Project_029179/README.md) |
+| 029180 | [Wireshark: Log Analysis — Usability Improvement for Offline Classroom](Project_029180/README.md) |
 
 [Back to the portfolio home](../README.md)
