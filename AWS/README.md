@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014118 | [AWS: Audit — Recovery for Public Dataset](Project_014118/README.md) |
 | 014119 | [AWS: Audit — Reporting for Public Dataset](Project_014119/README.md) |
 | 014120 | [AWS: Audit — Usability Improvement for Public Dataset](Project_014120/README.md) |
+| 014121 | [AWS: Audit — Baseline Setup for Branch Office Simulator](Project_014121/README.md) |
+| 014122 | [AWS: Audit — Automation for Branch Office Simulator](Project_014122/README.md) |
+| 014123 | [AWS: Audit — Recovery for Branch Office Simulator](Project_014123/README.md) |
+| 014124 | [AWS: Audit — Reporting for Branch Office Simulator](Project_014124/README.md) |
+| 014125 | [AWS: Audit — Usability Improvement for Branch Office Simulator](Project_014125/README.md) |
+| 014126 | [AWS: Audit — Baseline Setup for Offline Classroom](Project_014126/README.md) |
+| 014127 | [AWS: Audit — Automation for Offline Classroom](Project_014127/README.md) |
+| 014128 | [AWS: Audit — Recovery for Offline Classroom](Project_014128/README.md) |
+| 014129 | [AWS: Audit — Reporting for Offline Classroom](Project_014129/README.md) |
+| 014130 | [AWS: Audit — Usability Improvement for Offline Classroom](Project_014130/README.md) |
+| 014131 | [AWS: Audit — Baseline Setup for Single-Host Lab](Project_014131/README.md) |
+| 014132 | [AWS: Audit — Automation for Single-Host Lab](Project_014132/README.md) |
+| 014133 | [AWS: Audit — Recovery for Single-Host Lab](Project_014133/README.md) |
+| 014134 | [AWS: Audit — Reporting for Single-Host Lab](Project_014134/README.md) |
+| 014135 | [AWS: Audit — Usability Improvement for Single-Host Lab](Project_014135/README.md) |
+| 014136 | [AWS: Audit — Baseline Setup for Two-Node Lab](Project_014136/README.md) |
+| 014137 | [AWS: Audit — Automation for Two-Node Lab](Project_014137/README.md) |
+| 014138 | [AWS: Audit — Recovery for Two-Node Lab](Project_014138/README.md) |
+| 014139 | [AWS: Audit — Reporting for Two-Node Lab](Project_014139/README.md) |
+| 014140 | [AWS: Audit — Usability Improvement for Two-Node Lab](Project_014140/README.md) |
 
 [Back to the portfolio home](../README.md)
