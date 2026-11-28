@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039738 | [Bash: Error Handling — Recovery for Two-Node Lab](Project_039738/README.md) |
 | 039739 | [Bash: Error Handling — Reporting for Two-Node Lab](Project_039739/README.md) |
 | 039740 | [Bash: Error Handling — Usability Improvement for Two-Node Lab](Project_039740/README.md) |
+| 039741 | [Bash: Error Handling — Baseline Setup for Help Desk](Project_039741/README.md) |
+| 039742 | [Bash: Error Handling — Automation for Help Desk](Project_039742/README.md) |
+| 039743 | [Bash: Error Handling — Recovery for Help Desk](Project_039743/README.md) |
+| 039744 | [Bash: Error Handling — Reporting for Help Desk](Project_039744/README.md) |
+| 039745 | [Bash: Error Handling — Usability Improvement for Help Desk](Project_039745/README.md) |
+| 039746 | [Bash: Error Handling — Baseline Setup for Portfolio Demo](Project_039746/README.md) |
+| 039747 | [Bash: Error Handling — Automation for Portfolio Demo](Project_039747/README.md) |
+| 039748 | [Bash: Error Handling — Recovery for Portfolio Demo](Project_039748/README.md) |
+| 039749 | [Bash: Error Handling — Reporting for Portfolio Demo](Project_039749/README.md) |
+| 039750 | [Bash: Error Handling — Usability Improvement for Portfolio Demo](Project_039750/README.md) |
+| 039751 | [Bash: Data Validation — Baseline Setup for School Lab](Project_039751/README.md) |
+| 039752 | [Bash: Data Validation — Automation for School Lab](Project_039752/README.md) |
+| 039753 | [Bash: Data Validation — Recovery for School Lab](Project_039753/README.md) |
+| 039754 | [Bash: Data Validation — Reporting for School Lab](Project_039754/README.md) |
+| 039755 | [Bash: Data Validation — Usability Improvement for School Lab](Project_039755/README.md) |
+| 039756 | [Bash: Data Validation — Baseline Setup for Small Business](Project_039756/README.md) |
+| 039757 | [Bash: Data Validation — Automation for Small Business](Project_039757/README.md) |
+| 039758 | [Bash: Data Validation — Recovery for Small Business](Project_039758/README.md) |
+| 039759 | [Bash: Data Validation — Reporting for Small Business](Project_039759/README.md) |
+| 039760 | [Bash: Data Validation — Usability Improvement for Small Business](Project_039760/README.md) |
 
 [Back to the portfolio home](../README.md)
