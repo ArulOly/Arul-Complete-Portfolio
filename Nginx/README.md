@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041018 | [Nginx: Inventory — Recovery for Public Dataset](Project_041018/README.md) |
 | 041019 | [Nginx: Inventory — Reporting for Public Dataset](Project_041019/README.md) |
 | 041020 | [Nginx: Inventory — Usability Improvement for Public Dataset](Project_041020/README.md) |
+| 041021 | [Nginx: Inventory — Baseline Setup for Branch Office Simulator](Project_041021/README.md) |
+| 041022 | [Nginx: Inventory — Automation for Branch Office Simulator](Project_041022/README.md) |
+| 041023 | [Nginx: Inventory — Recovery for Branch Office Simulator](Project_041023/README.md) |
+| 041024 | [Nginx: Inventory — Reporting for Branch Office Simulator](Project_041024/README.md) |
+| 041025 | [Nginx: Inventory — Usability Improvement for Branch Office Simulator](Project_041025/README.md) |
+| 041026 | [Nginx: Inventory — Baseline Setup for Offline Classroom](Project_041026/README.md) |
+| 041027 | [Nginx: Inventory — Automation for Offline Classroom](Project_041027/README.md) |
+| 041028 | [Nginx: Inventory — Recovery for Offline Classroom](Project_041028/README.md) |
+| 041029 | [Nginx: Inventory — Reporting for Offline Classroom](Project_041029/README.md) |
+| 041030 | [Nginx: Inventory — Usability Improvement for Offline Classroom](Project_041030/README.md) |
+| 041031 | [Nginx: Inventory — Baseline Setup for Single-Host Lab](Project_041031/README.md) |
+| 041032 | [Nginx: Inventory — Automation for Single-Host Lab](Project_041032/README.md) |
+| 041033 | [Nginx: Inventory — Recovery for Single-Host Lab](Project_041033/README.md) |
+| 041034 | [Nginx: Inventory — Reporting for Single-Host Lab](Project_041034/README.md) |
+| 041035 | [Nginx: Inventory — Usability Improvement for Single-Host Lab](Project_041035/README.md) |
+| 041036 | [Nginx: Inventory — Baseline Setup for Two-Node Lab](Project_041036/README.md) |
+| 041037 | [Nginx: Inventory — Automation for Two-Node Lab](Project_041037/README.md) |
+| 041038 | [Nginx: Inventory — Recovery for Two-Node Lab](Project_041038/README.md) |
+| 041039 | [Nginx: Inventory — Reporting for Two-Node Lab](Project_041039/README.md) |
+| 041040 | [Nginx: Inventory — Usability Improvement for Two-Node Lab](Project_041040/README.md) |
 
 [Back to the portfolio home](../README.md)
