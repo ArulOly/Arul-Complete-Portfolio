@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018698 | [Kubernetes: Configuration Comparison — Recovery for Portfolio Demo](Project_018698/README.md) |
 | 018699 | [Kubernetes: Configuration Comparison — Reporting for Portfolio Demo](Project_018699/README.md) |
 | 018700 | [Kubernetes: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_018700/README.md) |
+| 018701 | [Kubernetes: Error Handling — Baseline Setup for School Lab](Project_018701/README.md) |
+| 018702 | [Kubernetes: Error Handling — Automation for School Lab](Project_018702/README.md) |
+| 018703 | [Kubernetes: Error Handling — Recovery for School Lab](Project_018703/README.md) |
+| 018704 | [Kubernetes: Error Handling — Reporting for School Lab](Project_018704/README.md) |
+| 018705 | [Kubernetes: Error Handling — Usability Improvement for School Lab](Project_018705/README.md) |
+| 018706 | [Kubernetes: Error Handling — Baseline Setup for Small Business](Project_018706/README.md) |
+| 018707 | [Kubernetes: Error Handling — Automation for Small Business](Project_018707/README.md) |
+| 018708 | [Kubernetes: Error Handling — Recovery for Small Business](Project_018708/README.md) |
+| 018709 | [Kubernetes: Error Handling — Reporting for Small Business](Project_018709/README.md) |
+| 018710 | [Kubernetes: Error Handling — Usability Improvement for Small Business](Project_018710/README.md) |
+| 018711 | [Kubernetes: Error Handling — Baseline Setup for Home Development](Project_018711/README.md) |
+| 018712 | [Kubernetes: Error Handling — Automation for Home Development](Project_018712/README.md) |
+| 018713 | [Kubernetes: Error Handling — Recovery for Home Development](Project_018713/README.md) |
+| 018714 | [Kubernetes: Error Handling — Reporting for Home Development](Project_018714/README.md) |
+| 018715 | [Kubernetes: Error Handling — Usability Improvement for Home Development](Project_018715/README.md) |
+| 018716 | [Kubernetes: Error Handling — Baseline Setup for Public Dataset](Project_018716/README.md) |
+| 018717 | [Kubernetes: Error Handling — Automation for Public Dataset](Project_018717/README.md) |
+| 018718 | [Kubernetes: Error Handling — Recovery for Public Dataset](Project_018718/README.md) |
+| 018719 | [Kubernetes: Error Handling — Reporting for Public Dataset](Project_018719/README.md) |
+| 018720 | [Kubernetes: Error Handling — Usability Improvement for Public Dataset](Project_018720/README.md) |
 
 [Back to the portfolio home](../README.md)
