@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036278 | [ESP32: Data Import — Recovery for Offline Classroom](Project_036278/README.md) |
 | 036279 | [ESP32: Data Import — Reporting for Offline Classroom](Project_036279/README.md) |
 | 036280 | [ESP32: Data Import — Usability Improvement for Offline Classroom](Project_036280/README.md) |
+| 036281 | [ESP32: Data Import — Baseline Setup for Single-Host Lab](Project_036281/README.md) |
+| 036282 | [ESP32: Data Import — Automation for Single-Host Lab](Project_036282/README.md) |
+| 036283 | [ESP32: Data Import — Recovery for Single-Host Lab](Project_036283/README.md) |
+| 036284 | [ESP32: Data Import — Reporting for Single-Host Lab](Project_036284/README.md) |
+| 036285 | [ESP32: Data Import — Usability Improvement for Single-Host Lab](Project_036285/README.md) |
+| 036286 | [ESP32: Data Import — Baseline Setup for Two-Node Lab](Project_036286/README.md) |
+| 036287 | [ESP32: Data Import — Automation for Two-Node Lab](Project_036287/README.md) |
+| 036288 | [ESP32: Data Import — Recovery for Two-Node Lab](Project_036288/README.md) |
+| 036289 | [ESP32: Data Import — Reporting for Two-Node Lab](Project_036289/README.md) |
+| 036290 | [ESP32: Data Import — Usability Improvement for Two-Node Lab](Project_036290/README.md) |
+| 036291 | [ESP32: Data Import — Baseline Setup for Help Desk](Project_036291/README.md) |
+| 036292 | [ESP32: Data Import — Automation for Help Desk](Project_036292/README.md) |
+| 036293 | [ESP32: Data Import — Recovery for Help Desk](Project_036293/README.md) |
+| 036294 | [ESP32: Data Import — Reporting for Help Desk](Project_036294/README.md) |
+| 036295 | [ESP32: Data Import — Usability Improvement for Help Desk](Project_036295/README.md) |
+| 036296 | [ESP32: Data Import — Baseline Setup for Portfolio Demo](Project_036296/README.md) |
+| 036297 | [ESP32: Data Import — Automation for Portfolio Demo](Project_036297/README.md) |
+| 036298 | [ESP32: Data Import — Recovery for Portfolio Demo](Project_036298/README.md) |
+| 036299 | [ESP32: Data Import — Reporting for Portfolio Demo](Project_036299/README.md) |
+| 036300 | [ESP32: Data Import — Usability Improvement for Portfolio Demo](Project_036300/README.md) |
 
 [Back to the portfolio home](../README.md)
