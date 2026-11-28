@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040978 | [PowerShell: Recovery Test — Recovery for Offline Classroom](Project_040978/README.md) |
 | 040979 | [PowerShell: Recovery Test — Reporting for Offline Classroom](Project_040979/README.md) |
 | 040980 | [PowerShell: Recovery Test — Usability Improvement for Offline Classroom](Project_040980/README.md) |
+| 040981 | [PowerShell: Recovery Test — Baseline Setup for Single-Host Lab](Project_040981/README.md) |
+| 040982 | [PowerShell: Recovery Test — Automation for Single-Host Lab](Project_040982/README.md) |
+| 040983 | [PowerShell: Recovery Test — Recovery for Single-Host Lab](Project_040983/README.md) |
+| 040984 | [PowerShell: Recovery Test — Reporting for Single-Host Lab](Project_040984/README.md) |
+| 040985 | [PowerShell: Recovery Test — Usability Improvement for Single-Host Lab](Project_040985/README.md) |
+| 040986 | [PowerShell: Recovery Test — Baseline Setup for Two-Node Lab](Project_040986/README.md) |
+| 040987 | [PowerShell: Recovery Test — Automation for Two-Node Lab](Project_040987/README.md) |
+| 040988 | [PowerShell: Recovery Test — Recovery for Two-Node Lab](Project_040988/README.md) |
+| 040989 | [PowerShell: Recovery Test — Reporting for Two-Node Lab](Project_040989/README.md) |
+| 040990 | [PowerShell: Recovery Test — Usability Improvement for Two-Node Lab](Project_040990/README.md) |
+| 040991 | [PowerShell: Recovery Test — Baseline Setup for Help Desk](Project_040991/README.md) |
+| 040992 | [PowerShell: Recovery Test — Automation for Help Desk](Project_040992/README.md) |
+| 040993 | [PowerShell: Recovery Test — Recovery for Help Desk](Project_040993/README.md) |
+| 040994 | [PowerShell: Recovery Test — Reporting for Help Desk](Project_040994/README.md) |
+| 040995 | [PowerShell: Recovery Test — Usability Improvement for Help Desk](Project_040995/README.md) |
+| 040996 | [PowerShell: Recovery Test — Baseline Setup for Portfolio Demo](Project_040996/README.md) |
+| 040997 | [PowerShell: Recovery Test — Automation for Portfolio Demo](Project_040997/README.md) |
+| 040998 | [PowerShell: Recovery Test — Recovery for Portfolio Demo](Project_040998/README.md) |
+| 040999 | [PowerShell: Recovery Test — Reporting for Portfolio Demo](Project_040999/README.md) |
+| 041000 | [PowerShell: Recovery Test — Usability Improvement for Portfolio Demo](Project_041000/README.md) |
 
 [Back to the portfolio home](../README.md)
