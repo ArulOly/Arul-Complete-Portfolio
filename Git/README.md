@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038198 | [Git: Log Analysis — Recovery for Portfolio Demo](Project_038198/README.md) |
 | 038199 | [Git: Log Analysis — Reporting for Portfolio Demo](Project_038199/README.md) |
 | 038200 | [Git: Log Analysis — Usability Improvement for Portfolio Demo](Project_038200/README.md) |
+| 038201 | [Git: Backup Verification — Baseline Setup for School Lab](Project_038201/README.md) |
+| 038202 | [Git: Backup Verification — Automation for School Lab](Project_038202/README.md) |
+| 038203 | [Git: Backup Verification — Recovery for School Lab](Project_038203/README.md) |
+| 038204 | [Git: Backup Verification — Reporting for School Lab](Project_038204/README.md) |
+| 038205 | [Git: Backup Verification — Usability Improvement for School Lab](Project_038205/README.md) |
+| 038206 | [Git: Backup Verification — Baseline Setup for Small Business](Project_038206/README.md) |
+| 038207 | [Git: Backup Verification — Automation for Small Business](Project_038207/README.md) |
+| 038208 | [Git: Backup Verification — Recovery for Small Business](Project_038208/README.md) |
+| 038209 | [Git: Backup Verification — Reporting for Small Business](Project_038209/README.md) |
+| 038210 | [Git: Backup Verification — Usability Improvement for Small Business](Project_038210/README.md) |
+| 038211 | [Git: Backup Verification — Baseline Setup for Home Development](Project_038211/README.md) |
+| 038212 | [Git: Backup Verification — Automation for Home Development](Project_038212/README.md) |
+| 038213 | [Git: Backup Verification — Recovery for Home Development](Project_038213/README.md) |
+| 038214 | [Git: Backup Verification — Reporting for Home Development](Project_038214/README.md) |
+| 038215 | [Git: Backup Verification — Usability Improvement for Home Development](Project_038215/README.md) |
+| 038216 | [Git: Backup Verification — Baseline Setup for Public Dataset](Project_038216/README.md) |
+| 038217 | [Git: Backup Verification — Automation for Public Dataset](Project_038217/README.md) |
+| 038218 | [Git: Backup Verification — Recovery for Public Dataset](Project_038218/README.md) |
+| 038219 | [Git: Backup Verification — Reporting for Public Dataset](Project_038219/README.md) |
+| 038220 | [Git: Backup Verification — Usability Improvement for Public Dataset](Project_038220/README.md) |
 
 [Back to the portfolio home](../README.md)
