@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015898 | [Azure: Automation — Recovery for Portfolio Demo](Project_015898/README.md) |
 | 015899 | [Azure: Automation — Reporting for Portfolio Demo](Project_015899/README.md) |
 | 015900 | [Azure: Automation — Usability Improvement for Portfolio Demo](Project_015900/README.md) |
+| 015901 | [Azure: Visual Reporting — Baseline Setup for School Lab](Project_015901/README.md) |
+| 015902 | [Azure: Visual Reporting — Automation for School Lab](Project_015902/README.md) |
+| 015903 | [Azure: Visual Reporting — Recovery for School Lab](Project_015903/README.md) |
+| 015904 | [Azure: Visual Reporting — Reporting for School Lab](Project_015904/README.md) |
+| 015905 | [Azure: Visual Reporting — Usability Improvement for School Lab](Project_015905/README.md) |
+| 015906 | [Azure: Visual Reporting — Baseline Setup for Small Business](Project_015906/README.md) |
+| 015907 | [Azure: Visual Reporting — Automation for Small Business](Project_015907/README.md) |
+| 015908 | [Azure: Visual Reporting — Recovery for Small Business](Project_015908/README.md) |
+| 015909 | [Azure: Visual Reporting — Reporting for Small Business](Project_015909/README.md) |
+| 015910 | [Azure: Visual Reporting — Usability Improvement for Small Business](Project_015910/README.md) |
+| 015911 | [Azure: Visual Reporting — Baseline Setup for Home Development](Project_015911/README.md) |
+| 015912 | [Azure: Visual Reporting — Automation for Home Development](Project_015912/README.md) |
+| 015913 | [Azure: Visual Reporting — Recovery for Home Development](Project_015913/README.md) |
+| 015914 | [Azure: Visual Reporting — Reporting for Home Development](Project_015914/README.md) |
+| 015915 | [Azure: Visual Reporting — Usability Improvement for Home Development](Project_015915/README.md) |
+| 015916 | [Azure: Visual Reporting — Baseline Setup for Public Dataset](Project_015916/README.md) |
+| 015917 | [Azure: Visual Reporting — Automation for Public Dataset](Project_015917/README.md) |
+| 015918 | [Azure: Visual Reporting — Recovery for Public Dataset](Project_015918/README.md) |
+| 015919 | [Azure: Visual Reporting — Reporting for Public Dataset](Project_015919/README.md) |
+| 015920 | [Azure: Visual Reporting — Usability Improvement for Public Dataset](Project_015920/README.md) |
 
 [Back to the portfolio home](../README.md)
