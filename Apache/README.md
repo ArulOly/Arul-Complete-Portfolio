@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042458 | [Apache: Scheduled Reporting — Recovery for Small Business](Project_042458/README.md) |
 | 042459 | [Apache: Scheduled Reporting — Reporting for Small Business](Project_042459/README.md) |
 | 042460 | [Apache: Scheduled Reporting — Usability Improvement for Small Business](Project_042460/README.md) |
+| 042461 | [Apache: Scheduled Reporting — Baseline Setup for Home Development](Project_042461/README.md) |
+| 042462 | [Apache: Scheduled Reporting — Automation for Home Development](Project_042462/README.md) |
+| 042463 | [Apache: Scheduled Reporting — Recovery for Home Development](Project_042463/README.md) |
+| 042464 | [Apache: Scheduled Reporting — Reporting for Home Development](Project_042464/README.md) |
+| 042465 | [Apache: Scheduled Reporting — Usability Improvement for Home Development](Project_042465/README.md) |
+| 042466 | [Apache: Scheduled Reporting — Baseline Setup for Public Dataset](Project_042466/README.md) |
+| 042467 | [Apache: Scheduled Reporting — Automation for Public Dataset](Project_042467/README.md) |
+| 042468 | [Apache: Scheduled Reporting — Recovery for Public Dataset](Project_042468/README.md) |
+| 042469 | [Apache: Scheduled Reporting — Reporting for Public Dataset](Project_042469/README.md) |
+| 042470 | [Apache: Scheduled Reporting — Usability Improvement for Public Dataset](Project_042470/README.md) |
+| 042471 | [Apache: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_042471/README.md) |
+| 042472 | [Apache: Scheduled Reporting — Automation for Branch Office Simulator](Project_042472/README.md) |
+| 042473 | [Apache: Scheduled Reporting — Recovery for Branch Office Simulator](Project_042473/README.md) |
+| 042474 | [Apache: Scheduled Reporting — Reporting for Branch Office Simulator](Project_042474/README.md) |
+| 042475 | [Apache: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_042475/README.md) |
+| 042476 | [Apache: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_042476/README.md) |
+| 042477 | [Apache: Scheduled Reporting — Automation for Offline Classroom](Project_042477/README.md) |
+| 042478 | [Apache: Scheduled Reporting — Recovery for Offline Classroom](Project_042478/README.md) |
+| 042479 | [Apache: Scheduled Reporting — Reporting for Offline Classroom](Project_042479/README.md) |
+| 042480 | [Apache: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_042480/README.md) |
 
 [Back to the portfolio home](../README.md)
