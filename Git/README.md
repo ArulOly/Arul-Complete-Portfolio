@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038098 | [Git: Monitoring — Recovery for Portfolio Demo](Project_038098/README.md) |
 | 038099 | [Git: Monitoring — Reporting for Portfolio Demo](Project_038099/README.md) |
 | 038100 | [Git: Monitoring — Usability Improvement for Portfolio Demo](Project_038100/README.md) |
+| 038101 | [Git: Audit — Baseline Setup for School Lab](Project_038101/README.md) |
+| 038102 | [Git: Audit — Automation for School Lab](Project_038102/README.md) |
+| 038103 | [Git: Audit — Recovery for School Lab](Project_038103/README.md) |
+| 038104 | [Git: Audit — Reporting for School Lab](Project_038104/README.md) |
+| 038105 | [Git: Audit — Usability Improvement for School Lab](Project_038105/README.md) |
+| 038106 | [Git: Audit — Baseline Setup for Small Business](Project_038106/README.md) |
+| 038107 | [Git: Audit — Automation for Small Business](Project_038107/README.md) |
+| 038108 | [Git: Audit — Recovery for Small Business](Project_038108/README.md) |
+| 038109 | [Git: Audit — Reporting for Small Business](Project_038109/README.md) |
+| 038110 | [Git: Audit — Usability Improvement for Small Business](Project_038110/README.md) |
+| 038111 | [Git: Audit — Baseline Setup for Home Development](Project_038111/README.md) |
+| 038112 | [Git: Audit — Automation for Home Development](Project_038112/README.md) |
+| 038113 | [Git: Audit — Recovery for Home Development](Project_038113/README.md) |
+| 038114 | [Git: Audit — Reporting for Home Development](Project_038114/README.md) |
+| 038115 | [Git: Audit — Usability Improvement for Home Development](Project_038115/README.md) |
+| 038116 | [Git: Audit — Baseline Setup for Public Dataset](Project_038116/README.md) |
+| 038117 | [Git: Audit — Automation for Public Dataset](Project_038117/README.md) |
+| 038118 | [Git: Audit — Recovery for Public Dataset](Project_038118/README.md) |
+| 038119 | [Git: Audit — Reporting for Public Dataset](Project_038119/README.md) |
+| 038120 | [Git: Audit — Usability Improvement for Public Dataset](Project_038120/README.md) |
 
 [Back to the portfolio home](../README.md)
