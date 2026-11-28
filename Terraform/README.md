@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046418 | [Terraform: Alerting — Recovery for Public Dataset](Project_046418/README.md) |
 | 046419 | [Terraform: Alerting — Reporting for Public Dataset](Project_046419/README.md) |
 | 046420 | [Terraform: Alerting — Usability Improvement for Public Dataset](Project_046420/README.md) |
+| 046421 | [Terraform: Alerting — Baseline Setup for Branch Office Simulator](Project_046421/README.md) |
+| 046422 | [Terraform: Alerting — Automation for Branch Office Simulator](Project_046422/README.md) |
+| 046423 | [Terraform: Alerting — Recovery for Branch Office Simulator](Project_046423/README.md) |
+| 046424 | [Terraform: Alerting — Reporting for Branch Office Simulator](Project_046424/README.md) |
+| 046425 | [Terraform: Alerting — Usability Improvement for Branch Office Simulator](Project_046425/README.md) |
+| 046426 | [Terraform: Alerting — Baseline Setup for Offline Classroom](Project_046426/README.md) |
+| 046427 | [Terraform: Alerting — Automation for Offline Classroom](Project_046427/README.md) |
+| 046428 | [Terraform: Alerting — Recovery for Offline Classroom](Project_046428/README.md) |
+| 046429 | [Terraform: Alerting — Reporting for Offline Classroom](Project_046429/README.md) |
+| 046430 | [Terraform: Alerting — Usability Improvement for Offline Classroom](Project_046430/README.md) |
+| 046431 | [Terraform: Alerting — Baseline Setup for Single-Host Lab](Project_046431/README.md) |
+| 046432 | [Terraform: Alerting — Automation for Single-Host Lab](Project_046432/README.md) |
+| 046433 | [Terraform: Alerting — Recovery for Single-Host Lab](Project_046433/README.md) |
+| 046434 | [Terraform: Alerting — Reporting for Single-Host Lab](Project_046434/README.md) |
+| 046435 | [Terraform: Alerting — Usability Improvement for Single-Host Lab](Project_046435/README.md) |
+| 046436 | [Terraform: Alerting — Baseline Setup for Two-Node Lab](Project_046436/README.md) |
+| 046437 | [Terraform: Alerting — Automation for Two-Node Lab](Project_046437/README.md) |
+| 046438 | [Terraform: Alerting — Recovery for Two-Node Lab](Project_046438/README.md) |
+| 046439 | [Terraform: Alerting — Reporting for Two-Node Lab](Project_046439/README.md) |
+| 046440 | [Terraform: Alerting — Usability Improvement for Two-Node Lab](Project_046440/README.md) |
 
 [Back to the portfolio home](../README.md)
