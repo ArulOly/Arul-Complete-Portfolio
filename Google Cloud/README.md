@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016078 | [Google Cloud: Monitoring — Recovery for Offline Classroom](Project_016078/README.md) |
 | 016079 | [Google Cloud: Monitoring — Reporting for Offline Classroom](Project_016079/README.md) |
 | 016080 | [Google Cloud: Monitoring — Usability Improvement for Offline Classroom](Project_016080/README.md) |
+| 016081 | [Google Cloud: Monitoring — Baseline Setup for Single-Host Lab](Project_016081/README.md) |
+| 016082 | [Google Cloud: Monitoring — Automation for Single-Host Lab](Project_016082/README.md) |
+| 016083 | [Google Cloud: Monitoring — Recovery for Single-Host Lab](Project_016083/README.md) |
+| 016084 | [Google Cloud: Monitoring — Reporting for Single-Host Lab](Project_016084/README.md) |
+| 016085 | [Google Cloud: Monitoring — Usability Improvement for Single-Host Lab](Project_016085/README.md) |
+| 016086 | [Google Cloud: Monitoring — Baseline Setup for Two-Node Lab](Project_016086/README.md) |
+| 016087 | [Google Cloud: Monitoring — Automation for Two-Node Lab](Project_016087/README.md) |
+| 016088 | [Google Cloud: Monitoring — Recovery for Two-Node Lab](Project_016088/README.md) |
+| 016089 | [Google Cloud: Monitoring — Reporting for Two-Node Lab](Project_016089/README.md) |
+| 016090 | [Google Cloud: Monitoring — Usability Improvement for Two-Node Lab](Project_016090/README.md) |
+| 016091 | [Google Cloud: Monitoring — Baseline Setup for Help Desk](Project_016091/README.md) |
+| 016092 | [Google Cloud: Monitoring — Automation for Help Desk](Project_016092/README.md) |
+| 016093 | [Google Cloud: Monitoring — Recovery for Help Desk](Project_016093/README.md) |
+| 016094 | [Google Cloud: Monitoring — Reporting for Help Desk](Project_016094/README.md) |
+| 016095 | [Google Cloud: Monitoring — Usability Improvement for Help Desk](Project_016095/README.md) |
+| 016096 | [Google Cloud: Monitoring — Baseline Setup for Portfolio Demo](Project_016096/README.md) |
+| 016097 | [Google Cloud: Monitoring — Automation for Portfolio Demo](Project_016097/README.md) |
+| 016098 | [Google Cloud: Monitoring — Recovery for Portfolio Demo](Project_016098/README.md) |
+| 016099 | [Google Cloud: Monitoring — Reporting for Portfolio Demo](Project_016099/README.md) |
+| 016100 | [Google Cloud: Monitoring — Usability Improvement for Portfolio Demo](Project_016100/README.md) |
 
 [Back to the portfolio home](../README.md)
