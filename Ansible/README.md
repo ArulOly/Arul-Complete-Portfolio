@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047478 | [Ansible: Scheduled Reporting — Recovery for Offline Classroom](Project_047478/README.md) |
 | 047479 | [Ansible: Scheduled Reporting — Reporting for Offline Classroom](Project_047479/README.md) |
 | 047480 | [Ansible: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_047480/README.md) |
+| 047481 | [Ansible: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_047481/README.md) |
+| 047482 | [Ansible: Scheduled Reporting — Automation for Single-Host Lab](Project_047482/README.md) |
+| 047483 | [Ansible: Scheduled Reporting — Recovery for Single-Host Lab](Project_047483/README.md) |
+| 047484 | [Ansible: Scheduled Reporting — Reporting for Single-Host Lab](Project_047484/README.md) |
+| 047485 | [Ansible: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_047485/README.md) |
+| 047486 | [Ansible: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_047486/README.md) |
+| 047487 | [Ansible: Scheduled Reporting — Automation for Two-Node Lab](Project_047487/README.md) |
+| 047488 | [Ansible: Scheduled Reporting — Recovery for Two-Node Lab](Project_047488/README.md) |
+| 047489 | [Ansible: Scheduled Reporting — Reporting for Two-Node Lab](Project_047489/README.md) |
+| 047490 | [Ansible: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_047490/README.md) |
+| 047491 | [Ansible: Scheduled Reporting — Baseline Setup for Help Desk](Project_047491/README.md) |
+| 047492 | [Ansible: Scheduled Reporting — Automation for Help Desk](Project_047492/README.md) |
+| 047493 | [Ansible: Scheduled Reporting — Recovery for Help Desk](Project_047493/README.md) |
+| 047494 | [Ansible: Scheduled Reporting — Reporting for Help Desk](Project_047494/README.md) |
+| 047495 | [Ansible: Scheduled Reporting — Usability Improvement for Help Desk](Project_047495/README.md) |
+| 047496 | [Ansible: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_047496/README.md) |
+| 047497 | [Ansible: Scheduled Reporting — Automation for Portfolio Demo](Project_047497/README.md) |
+| 047498 | [Ansible: Scheduled Reporting — Recovery for Portfolio Demo](Project_047498/README.md) |
+| 047499 | [Ansible: Scheduled Reporting — Reporting for Portfolio Demo](Project_047499/README.md) |
+| 047500 | [Ansible: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_047500/README.md) |
 
 [Back to the portfolio home](../README.md)
