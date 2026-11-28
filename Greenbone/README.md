@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031858 | [Greenbone: Automation — Recovery for Small Business](Project_031858/README.md) |
 | 031859 | [Greenbone: Automation — Reporting for Small Business](Project_031859/README.md) |
 | 031860 | [Greenbone: Automation — Usability Improvement for Small Business](Project_031860/README.md) |
+| 031861 | [Greenbone: Automation — Baseline Setup for Home Development](Project_031861/README.md) |
+| 031862 | [Greenbone: Automation — Automation for Home Development](Project_031862/README.md) |
+| 031863 | [Greenbone: Automation — Recovery for Home Development](Project_031863/README.md) |
+| 031864 | [Greenbone: Automation — Reporting for Home Development](Project_031864/README.md) |
+| 031865 | [Greenbone: Automation — Usability Improvement for Home Development](Project_031865/README.md) |
+| 031866 | [Greenbone: Automation — Baseline Setup for Public Dataset](Project_031866/README.md) |
+| 031867 | [Greenbone: Automation — Automation for Public Dataset](Project_031867/README.md) |
+| 031868 | [Greenbone: Automation — Recovery for Public Dataset](Project_031868/README.md) |
+| 031869 | [Greenbone: Automation — Reporting for Public Dataset](Project_031869/README.md) |
+| 031870 | [Greenbone: Automation — Usability Improvement for Public Dataset](Project_031870/README.md) |
+| 031871 | [Greenbone: Automation — Baseline Setup for Branch Office Simulator](Project_031871/README.md) |
+| 031872 | [Greenbone: Automation — Automation for Branch Office Simulator](Project_031872/README.md) |
+| 031873 | [Greenbone: Automation — Recovery for Branch Office Simulator](Project_031873/README.md) |
+| 031874 | [Greenbone: Automation — Reporting for Branch Office Simulator](Project_031874/README.md) |
+| 031875 | [Greenbone: Automation — Usability Improvement for Branch Office Simulator](Project_031875/README.md) |
+| 031876 | [Greenbone: Automation — Baseline Setup for Offline Classroom](Project_031876/README.md) |
+| 031877 | [Greenbone: Automation — Automation for Offline Classroom](Project_031877/README.md) |
+| 031878 | [Greenbone: Automation — Recovery for Offline Classroom](Project_031878/README.md) |
+| 031879 | [Greenbone: Automation — Reporting for Offline Classroom](Project_031879/README.md) |
+| 031880 | [Greenbone: Automation — Usability Improvement for Offline Classroom](Project_031880/README.md) |
 
 [Back to the portfolio home](../README.md)
