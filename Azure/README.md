@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015438 | [Azure: Alerting — Recovery for Two-Node Lab](Project_015438/README.md) |
 | 015439 | [Azure: Alerting — Reporting for Two-Node Lab](Project_015439/README.md) |
 | 015440 | [Azure: Alerting — Usability Improvement for Two-Node Lab](Project_015440/README.md) |
+| 015441 | [Azure: Alerting — Baseline Setup for Help Desk](Project_015441/README.md) |
+| 015442 | [Azure: Alerting — Automation for Help Desk](Project_015442/README.md) |
+| 015443 | [Azure: Alerting — Recovery for Help Desk](Project_015443/README.md) |
+| 015444 | [Azure: Alerting — Reporting for Help Desk](Project_015444/README.md) |
+| 015445 | [Azure: Alerting — Usability Improvement for Help Desk](Project_015445/README.md) |
+| 015446 | [Azure: Alerting — Baseline Setup for Portfolio Demo](Project_015446/README.md) |
+| 015447 | [Azure: Alerting — Automation for Portfolio Demo](Project_015447/README.md) |
+| 015448 | [Azure: Alerting — Recovery for Portfolio Demo](Project_015448/README.md) |
+| 015449 | [Azure: Alerting — Reporting for Portfolio Demo](Project_015449/README.md) |
+| 015450 | [Azure: Alerting — Usability Improvement for Portfolio Demo](Project_015450/README.md) |
+| 015451 | [Azure: Scheduled Reporting — Baseline Setup for School Lab](Project_015451/README.md) |
+| 015452 | [Azure: Scheduled Reporting — Automation for School Lab](Project_015452/README.md) |
+| 015453 | [Azure: Scheduled Reporting — Recovery for School Lab](Project_015453/README.md) |
+| 015454 | [Azure: Scheduled Reporting — Reporting for School Lab](Project_015454/README.md) |
+| 015455 | [Azure: Scheduled Reporting — Usability Improvement for School Lab](Project_015455/README.md) |
+| 015456 | [Azure: Scheduled Reporting — Baseline Setup for Small Business](Project_015456/README.md) |
+| 015457 | [Azure: Scheduled Reporting — Automation for Small Business](Project_015457/README.md) |
+| 015458 | [Azure: Scheduled Reporting — Recovery for Small Business](Project_015458/README.md) |
+| 015459 | [Azure: Scheduled Reporting — Reporting for Small Business](Project_015459/README.md) |
+| 015460 | [Azure: Scheduled Reporting — Usability Improvement for Small Business](Project_015460/README.md) |
 
 [Back to the portfolio home](../README.md)
