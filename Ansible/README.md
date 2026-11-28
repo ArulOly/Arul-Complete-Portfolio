@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047298 | [Ansible: Data Import — Recovery for Portfolio Demo](Project_047298/README.md) |
 | 047299 | [Ansible: Data Import — Reporting for Portfolio Demo](Project_047299/README.md) |
 | 047300 | [Ansible: Data Import — Usability Improvement for Portfolio Demo](Project_047300/README.md) |
+| 047301 | [Ansible: Data Export — Baseline Setup for School Lab](Project_047301/README.md) |
+| 047302 | [Ansible: Data Export — Automation for School Lab](Project_047302/README.md) |
+| 047303 | [Ansible: Data Export — Recovery for School Lab](Project_047303/README.md) |
+| 047304 | [Ansible: Data Export — Reporting for School Lab](Project_047304/README.md) |
+| 047305 | [Ansible: Data Export — Usability Improvement for School Lab](Project_047305/README.md) |
+| 047306 | [Ansible: Data Export — Baseline Setup for Small Business](Project_047306/README.md) |
+| 047307 | [Ansible: Data Export — Automation for Small Business](Project_047307/README.md) |
+| 047308 | [Ansible: Data Export — Recovery for Small Business](Project_047308/README.md) |
+| 047309 | [Ansible: Data Export — Reporting for Small Business](Project_047309/README.md) |
+| 047310 | [Ansible: Data Export — Usability Improvement for Small Business](Project_047310/README.md) |
+| 047311 | [Ansible: Data Export — Baseline Setup for Home Development](Project_047311/README.md) |
+| 047312 | [Ansible: Data Export — Automation for Home Development](Project_047312/README.md) |
+| 047313 | [Ansible: Data Export — Recovery for Home Development](Project_047313/README.md) |
+| 047314 | [Ansible: Data Export — Reporting for Home Development](Project_047314/README.md) |
+| 047315 | [Ansible: Data Export — Usability Improvement for Home Development](Project_047315/README.md) |
+| 047316 | [Ansible: Data Export — Baseline Setup for Public Dataset](Project_047316/README.md) |
+| 047317 | [Ansible: Data Export — Automation for Public Dataset](Project_047317/README.md) |
+| 047318 | [Ansible: Data Export — Recovery for Public Dataset](Project_047318/README.md) |
+| 047319 | [Ansible: Data Export — Reporting for Public Dataset](Project_047319/README.md) |
+| 047320 | [Ansible: Data Export — Usability Improvement for Public Dataset](Project_047320/README.md) |
 
 [Back to the portfolio home](../README.md)
