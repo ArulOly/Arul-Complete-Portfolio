@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036878 | [ESP32: Automation — Recovery for Offline Classroom](Project_036878/README.md) |
 | 036879 | [ESP32: Automation — Reporting for Offline Classroom](Project_036879/README.md) |
 | 036880 | [ESP32: Automation — Usability Improvement for Offline Classroom](Project_036880/README.md) |
+| 036881 | [ESP32: Automation — Baseline Setup for Single-Host Lab](Project_036881/README.md) |
+| 036882 | [ESP32: Automation — Automation for Single-Host Lab](Project_036882/README.md) |
+| 036883 | [ESP32: Automation — Recovery for Single-Host Lab](Project_036883/README.md) |
+| 036884 | [ESP32: Automation — Reporting for Single-Host Lab](Project_036884/README.md) |
+| 036885 | [ESP32: Automation — Usability Improvement for Single-Host Lab](Project_036885/README.md) |
+| 036886 | [ESP32: Automation — Baseline Setup for Two-Node Lab](Project_036886/README.md) |
+| 036887 | [ESP32: Automation — Automation for Two-Node Lab](Project_036887/README.md) |
+| 036888 | [ESP32: Automation — Recovery for Two-Node Lab](Project_036888/README.md) |
+| 036889 | [ESP32: Automation — Reporting for Two-Node Lab](Project_036889/README.md) |
+| 036890 | [ESP32: Automation — Usability Improvement for Two-Node Lab](Project_036890/README.md) |
+| 036891 | [ESP32: Automation — Baseline Setup for Help Desk](Project_036891/README.md) |
+| 036892 | [ESP32: Automation — Automation for Help Desk](Project_036892/README.md) |
+| 036893 | [ESP32: Automation — Recovery for Help Desk](Project_036893/README.md) |
+| 036894 | [ESP32: Automation — Reporting for Help Desk](Project_036894/README.md) |
+| 036895 | [ESP32: Automation — Usability Improvement for Help Desk](Project_036895/README.md) |
+| 036896 | [ESP32: Automation — Baseline Setup for Portfolio Demo](Project_036896/README.md) |
+| 036897 | [ESP32: Automation — Automation for Portfolio Demo](Project_036897/README.md) |
+| 036898 | [ESP32: Automation — Recovery for Portfolio Demo](Project_036898/README.md) |
+| 036899 | [ESP32: Automation — Reporting for Portfolio Demo](Project_036899/README.md) |
+| 036900 | [ESP32: Automation — Usability Improvement for Portfolio Demo](Project_036900/README.md) |
 
 [Back to the portfolio home](../README.md)
