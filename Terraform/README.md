@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046958 | [Terraform: Recovery Test — Recovery for Small Business](Project_046958/README.md) |
 | 046959 | [Terraform: Recovery Test — Reporting for Small Business](Project_046959/README.md) |
 | 046960 | [Terraform: Recovery Test — Usability Improvement for Small Business](Project_046960/README.md) |
+| 046961 | [Terraform: Recovery Test — Baseline Setup for Home Development](Project_046961/README.md) |
+| 046962 | [Terraform: Recovery Test — Automation for Home Development](Project_046962/README.md) |
+| 046963 | [Terraform: Recovery Test — Recovery for Home Development](Project_046963/README.md) |
+| 046964 | [Terraform: Recovery Test — Reporting for Home Development](Project_046964/README.md) |
+| 046965 | [Terraform: Recovery Test — Usability Improvement for Home Development](Project_046965/README.md) |
+| 046966 | [Terraform: Recovery Test — Baseline Setup for Public Dataset](Project_046966/README.md) |
+| 046967 | [Terraform: Recovery Test — Automation for Public Dataset](Project_046967/README.md) |
+| 046968 | [Terraform: Recovery Test — Recovery for Public Dataset](Project_046968/README.md) |
+| 046969 | [Terraform: Recovery Test — Reporting for Public Dataset](Project_046969/README.md) |
+| 046970 | [Terraform: Recovery Test — Usability Improvement for Public Dataset](Project_046970/README.md) |
+| 046971 | [Terraform: Recovery Test — Baseline Setup for Branch Office Simulator](Project_046971/README.md) |
+| 046972 | [Terraform: Recovery Test — Automation for Branch Office Simulator](Project_046972/README.md) |
+| 046973 | [Terraform: Recovery Test — Recovery for Branch Office Simulator](Project_046973/README.md) |
+| 046974 | [Terraform: Recovery Test — Reporting for Branch Office Simulator](Project_046974/README.md) |
+| 046975 | [Terraform: Recovery Test — Usability Improvement for Branch Office Simulator](Project_046975/README.md) |
+| 046976 | [Terraform: Recovery Test — Baseline Setup for Offline Classroom](Project_046976/README.md) |
+| 046977 | [Terraform: Recovery Test — Automation for Offline Classroom](Project_046977/README.md) |
+| 046978 | [Terraform: Recovery Test — Recovery for Offline Classroom](Project_046978/README.md) |
+| 046979 | [Terraform: Recovery Test — Reporting for Offline Classroom](Project_046979/README.md) |
+| 046980 | [Terraform: Recovery Test — Usability Improvement for Offline Classroom](Project_046980/README.md) |
 
 [Back to the portfolio home](../README.md)
