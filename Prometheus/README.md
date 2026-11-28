@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044298 | [Prometheus: Data Import — Recovery for Portfolio Demo](Project_044298/README.md) |
 | 044299 | [Prometheus: Data Import — Reporting for Portfolio Demo](Project_044299/README.md) |
 | 044300 | [Prometheus: Data Import — Usability Improvement for Portfolio Demo](Project_044300/README.md) |
+| 044301 | [Prometheus: Data Export — Baseline Setup for School Lab](Project_044301/README.md) |
+| 044302 | [Prometheus: Data Export — Automation for School Lab](Project_044302/README.md) |
+| 044303 | [Prometheus: Data Export — Recovery for School Lab](Project_044303/README.md) |
+| 044304 | [Prometheus: Data Export — Reporting for School Lab](Project_044304/README.md) |
+| 044305 | [Prometheus: Data Export — Usability Improvement for School Lab](Project_044305/README.md) |
+| 044306 | [Prometheus: Data Export — Baseline Setup for Small Business](Project_044306/README.md) |
+| 044307 | [Prometheus: Data Export — Automation for Small Business](Project_044307/README.md) |
+| 044308 | [Prometheus: Data Export — Recovery for Small Business](Project_044308/README.md) |
+| 044309 | [Prometheus: Data Export — Reporting for Small Business](Project_044309/README.md) |
+| 044310 | [Prometheus: Data Export — Usability Improvement for Small Business](Project_044310/README.md) |
+| 044311 | [Prometheus: Data Export — Baseline Setup for Home Development](Project_044311/README.md) |
+| 044312 | [Prometheus: Data Export — Automation for Home Development](Project_044312/README.md) |
+| 044313 | [Prometheus: Data Export — Recovery for Home Development](Project_044313/README.md) |
+| 044314 | [Prometheus: Data Export — Reporting for Home Development](Project_044314/README.md) |
+| 044315 | [Prometheus: Data Export — Usability Improvement for Home Development](Project_044315/README.md) |
+| 044316 | [Prometheus: Data Export — Baseline Setup for Public Dataset](Project_044316/README.md) |
+| 044317 | [Prometheus: Data Export — Automation for Public Dataset](Project_044317/README.md) |
+| 044318 | [Prometheus: Data Export — Recovery for Public Dataset](Project_044318/README.md) |
+| 044319 | [Prometheus: Data Export — Reporting for Public Dataset](Project_044319/README.md) |
+| 044320 | [Prometheus: Data Export — Usability Improvement for Public Dataset](Project_044320/README.md) |
 
 [Back to the portfolio home](../README.md)
