@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018898 | [Kubernetes: Automation — Recovery for Portfolio Demo](Project_018898/README.md) |
 | 018899 | [Kubernetes: Automation — Reporting for Portfolio Demo](Project_018899/README.md) |
 | 018900 | [Kubernetes: Automation — Usability Improvement for Portfolio Demo](Project_018900/README.md) |
+| 018901 | [Kubernetes: Visual Reporting — Baseline Setup for School Lab](Project_018901/README.md) |
+| 018902 | [Kubernetes: Visual Reporting — Automation for School Lab](Project_018902/README.md) |
+| 018903 | [Kubernetes: Visual Reporting — Recovery for School Lab](Project_018903/README.md) |
+| 018904 | [Kubernetes: Visual Reporting — Reporting for School Lab](Project_018904/README.md) |
+| 018905 | [Kubernetes: Visual Reporting — Usability Improvement for School Lab](Project_018905/README.md) |
+| 018906 | [Kubernetes: Visual Reporting — Baseline Setup for Small Business](Project_018906/README.md) |
+| 018907 | [Kubernetes: Visual Reporting — Automation for Small Business](Project_018907/README.md) |
+| 018908 | [Kubernetes: Visual Reporting — Recovery for Small Business](Project_018908/README.md) |
+| 018909 | [Kubernetes: Visual Reporting — Reporting for Small Business](Project_018909/README.md) |
+| 018910 | [Kubernetes: Visual Reporting — Usability Improvement for Small Business](Project_018910/README.md) |
+| 018911 | [Kubernetes: Visual Reporting — Baseline Setup for Home Development](Project_018911/README.md) |
+| 018912 | [Kubernetes: Visual Reporting — Automation for Home Development](Project_018912/README.md) |
+| 018913 | [Kubernetes: Visual Reporting — Recovery for Home Development](Project_018913/README.md) |
+| 018914 | [Kubernetes: Visual Reporting — Reporting for Home Development](Project_018914/README.md) |
+| 018915 | [Kubernetes: Visual Reporting — Usability Improvement for Home Development](Project_018915/README.md) |
+| 018916 | [Kubernetes: Visual Reporting — Baseline Setup for Public Dataset](Project_018916/README.md) |
+| 018917 | [Kubernetes: Visual Reporting — Automation for Public Dataset](Project_018917/README.md) |
+| 018918 | [Kubernetes: Visual Reporting — Recovery for Public Dataset](Project_018918/README.md) |
+| 018919 | [Kubernetes: Visual Reporting — Reporting for Public Dataset](Project_018919/README.md) |
+| 018920 | [Kubernetes: Visual Reporting — Usability Improvement for Public Dataset](Project_018920/README.md) |
 
 [Back to the portfolio home](../README.md)
