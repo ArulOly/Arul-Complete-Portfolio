@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039278 | [Bash: Data Import — Recovery for Offline Classroom](Project_039278/README.md) |
 | 039279 | [Bash: Data Import — Reporting for Offline Classroom](Project_039279/README.md) |
 | 039280 | [Bash: Data Import — Usability Improvement for Offline Classroom](Project_039280/README.md) |
+| 039281 | [Bash: Data Import — Baseline Setup for Single-Host Lab](Project_039281/README.md) |
+| 039282 | [Bash: Data Import — Automation for Single-Host Lab](Project_039282/README.md) |
+| 039283 | [Bash: Data Import — Recovery for Single-Host Lab](Project_039283/README.md) |
+| 039284 | [Bash: Data Import — Reporting for Single-Host Lab](Project_039284/README.md) |
+| 039285 | [Bash: Data Import — Usability Improvement for Single-Host Lab](Project_039285/README.md) |
+| 039286 | [Bash: Data Import — Baseline Setup for Two-Node Lab](Project_039286/README.md) |
+| 039287 | [Bash: Data Import — Automation for Two-Node Lab](Project_039287/README.md) |
+| 039288 | [Bash: Data Import — Recovery for Two-Node Lab](Project_039288/README.md) |
+| 039289 | [Bash: Data Import — Reporting for Two-Node Lab](Project_039289/README.md) |
+| 039290 | [Bash: Data Import — Usability Improvement for Two-Node Lab](Project_039290/README.md) |
+| 039291 | [Bash: Data Import — Baseline Setup for Help Desk](Project_039291/README.md) |
+| 039292 | [Bash: Data Import — Automation for Help Desk](Project_039292/README.md) |
+| 039293 | [Bash: Data Import — Recovery for Help Desk](Project_039293/README.md) |
+| 039294 | [Bash: Data Import — Reporting for Help Desk](Project_039294/README.md) |
+| 039295 | [Bash: Data Import — Usability Improvement for Help Desk](Project_039295/README.md) |
+| 039296 | [Bash: Data Import — Baseline Setup for Portfolio Demo](Project_039296/README.md) |
+| 039297 | [Bash: Data Import — Automation for Portfolio Demo](Project_039297/README.md) |
+| 039298 | [Bash: Data Import — Recovery for Portfolio Demo](Project_039298/README.md) |
+| 039299 | [Bash: Data Import — Reporting for Portfolio Demo](Project_039299/README.md) |
+| 039300 | [Bash: Data Import — Usability Improvement for Portfolio Demo](Project_039300/README.md) |
 
 [Back to the portfolio home](../README.md)
