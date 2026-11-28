@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029178 | [Wireshark: Log Analysis — Recovery for Offline Classroom](Project_029178/README.md) |
 | 029179 | [Wireshark: Log Analysis — Reporting for Offline Classroom](Project_029179/README.md) |
 | 029180 | [Wireshark: Log Analysis — Usability Improvement for Offline Classroom](Project_029180/README.md) |
+| 029181 | [Wireshark: Log Analysis — Baseline Setup for Single-Host Lab](Project_029181/README.md) |
+| 029182 | [Wireshark: Log Analysis — Automation for Single-Host Lab](Project_029182/README.md) |
+| 029183 | [Wireshark: Log Analysis — Recovery for Single-Host Lab](Project_029183/README.md) |
+| 029184 | [Wireshark: Log Analysis — Reporting for Single-Host Lab](Project_029184/README.md) |
+| 029185 | [Wireshark: Log Analysis — Usability Improvement for Single-Host Lab](Project_029185/README.md) |
+| 029186 | [Wireshark: Log Analysis — Baseline Setup for Two-Node Lab](Project_029186/README.md) |
+| 029187 | [Wireshark: Log Analysis — Automation for Two-Node Lab](Project_029187/README.md) |
+| 029188 | [Wireshark: Log Analysis — Recovery for Two-Node Lab](Project_029188/README.md) |
+| 029189 | [Wireshark: Log Analysis — Reporting for Two-Node Lab](Project_029189/README.md) |
+| 029190 | [Wireshark: Log Analysis — Usability Improvement for Two-Node Lab](Project_029190/README.md) |
+| 029191 | [Wireshark: Log Analysis — Baseline Setup for Help Desk](Project_029191/README.md) |
+| 029192 | [Wireshark: Log Analysis — Automation for Help Desk](Project_029192/README.md) |
+| 029193 | [Wireshark: Log Analysis — Recovery for Help Desk](Project_029193/README.md) |
+| 029194 | [Wireshark: Log Analysis — Reporting for Help Desk](Project_029194/README.md) |
+| 029195 | [Wireshark: Log Analysis — Usability Improvement for Help Desk](Project_029195/README.md) |
+| 029196 | [Wireshark: Log Analysis — Baseline Setup for Portfolio Demo](Project_029196/README.md) |
+| 029197 | [Wireshark: Log Analysis — Automation for Portfolio Demo](Project_029197/README.md) |
+| 029198 | [Wireshark: Log Analysis — Recovery for Portfolio Demo](Project_029198/README.md) |
+| 029199 | [Wireshark: Log Analysis — Reporting for Portfolio Demo](Project_029199/README.md) |
+| 029200 | [Wireshark: Log Analysis — Usability Improvement for Portfolio Demo](Project_029200/README.md) |
 
 [Back to the portfolio home](../README.md)
