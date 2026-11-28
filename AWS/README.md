@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014918 | [AWS: Visual Reporting — Recovery for Public Dataset](Project_014918/README.md) |
 | 014919 | [AWS: Visual Reporting — Reporting for Public Dataset](Project_014919/README.md) |
 | 014920 | [AWS: Visual Reporting — Usability Improvement for Public Dataset](Project_014920/README.md) |
+| 014921 | [AWS: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_014921/README.md) |
+| 014922 | [AWS: Visual Reporting — Automation for Branch Office Simulator](Project_014922/README.md) |
+| 014923 | [AWS: Visual Reporting — Recovery for Branch Office Simulator](Project_014923/README.md) |
+| 014924 | [AWS: Visual Reporting — Reporting for Branch Office Simulator](Project_014924/README.md) |
+| 014925 | [AWS: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_014925/README.md) |
+| 014926 | [AWS: Visual Reporting — Baseline Setup for Offline Classroom](Project_014926/README.md) |
+| 014927 | [AWS: Visual Reporting — Automation for Offline Classroom](Project_014927/README.md) |
+| 014928 | [AWS: Visual Reporting — Recovery for Offline Classroom](Project_014928/README.md) |
+| 014929 | [AWS: Visual Reporting — Reporting for Offline Classroom](Project_014929/README.md) |
+| 014930 | [AWS: Visual Reporting — Usability Improvement for Offline Classroom](Project_014930/README.md) |
+| 014931 | [AWS: Visual Reporting — Baseline Setup for Single-Host Lab](Project_014931/README.md) |
+| 014932 | [AWS: Visual Reporting — Automation for Single-Host Lab](Project_014932/README.md) |
+| 014933 | [AWS: Visual Reporting — Recovery for Single-Host Lab](Project_014933/README.md) |
+| 014934 | [AWS: Visual Reporting — Reporting for Single-Host Lab](Project_014934/README.md) |
+| 014935 | [AWS: Visual Reporting — Usability Improvement for Single-Host Lab](Project_014935/README.md) |
+| 014936 | [AWS: Visual Reporting — Baseline Setup for Two-Node Lab](Project_014936/README.md) |
+| 014937 | [AWS: Visual Reporting — Automation for Two-Node Lab](Project_014937/README.md) |
+| 014938 | [AWS: Visual Reporting — Recovery for Two-Node Lab](Project_014938/README.md) |
+| 014939 | [AWS: Visual Reporting — Reporting for Two-Node Lab](Project_014939/README.md) |
+| 014940 | [AWS: Visual Reporting — Usability Improvement for Two-Node Lab](Project_014940/README.md) |
 
 [Back to the portfolio home](../README.md)
