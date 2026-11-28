@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037018 | [Arduino: Inventory — Recovery for Public Dataset](Project_037018/README.md) |
 | 037019 | [Arduino: Inventory — Reporting for Public Dataset](Project_037019/README.md) |
 | 037020 | [Arduino: Inventory — Usability Improvement for Public Dataset](Project_037020/README.md) |
+| 037021 | [Arduino: Inventory — Baseline Setup for Branch Office Simulator](Project_037021/README.md) |
+| 037022 | [Arduino: Inventory — Automation for Branch Office Simulator](Project_037022/README.md) |
+| 037023 | [Arduino: Inventory — Recovery for Branch Office Simulator](Project_037023/README.md) |
+| 037024 | [Arduino: Inventory — Reporting for Branch Office Simulator](Project_037024/README.md) |
+| 037025 | [Arduino: Inventory — Usability Improvement for Branch Office Simulator](Project_037025/README.md) |
+| 037026 | [Arduino: Inventory — Baseline Setup for Offline Classroom](Project_037026/README.md) |
+| 037027 | [Arduino: Inventory — Automation for Offline Classroom](Project_037027/README.md) |
+| 037028 | [Arduino: Inventory — Recovery for Offline Classroom](Project_037028/README.md) |
+| 037029 | [Arduino: Inventory — Reporting for Offline Classroom](Project_037029/README.md) |
+| 037030 | [Arduino: Inventory — Usability Improvement for Offline Classroom](Project_037030/README.md) |
+| 037031 | [Arduino: Inventory — Baseline Setup for Single-Host Lab](Project_037031/README.md) |
+| 037032 | [Arduino: Inventory — Automation for Single-Host Lab](Project_037032/README.md) |
+| 037033 | [Arduino: Inventory — Recovery for Single-Host Lab](Project_037033/README.md) |
+| 037034 | [Arduino: Inventory — Reporting for Single-Host Lab](Project_037034/README.md) |
+| 037035 | [Arduino: Inventory — Usability Improvement for Single-Host Lab](Project_037035/README.md) |
+| 037036 | [Arduino: Inventory — Baseline Setup for Two-Node Lab](Project_037036/README.md) |
+| 037037 | [Arduino: Inventory — Automation for Two-Node Lab](Project_037037/README.md) |
+| 037038 | [Arduino: Inventory — Recovery for Two-Node Lab](Project_037038/README.md) |
+| 037039 | [Arduino: Inventory — Reporting for Two-Node Lab](Project_037039/README.md) |
+| 037040 | [Arduino: Inventory — Usability Improvement for Two-Node Lab](Project_037040/README.md) |
 
 [Back to the portfolio home](../README.md)
