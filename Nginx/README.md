@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041038 | [Nginx: Inventory — Recovery for Two-Node Lab](Project_041038/README.md) |
 | 041039 | [Nginx: Inventory — Reporting for Two-Node Lab](Project_041039/README.md) |
 | 041040 | [Nginx: Inventory — Usability Improvement for Two-Node Lab](Project_041040/README.md) |
+| 041041 | [Nginx: Inventory — Baseline Setup for Help Desk](Project_041041/README.md) |
+| 041042 | [Nginx: Inventory — Automation for Help Desk](Project_041042/README.md) |
+| 041043 | [Nginx: Inventory — Recovery for Help Desk](Project_041043/README.md) |
+| 041044 | [Nginx: Inventory — Reporting for Help Desk](Project_041044/README.md) |
+| 041045 | [Nginx: Inventory — Usability Improvement for Help Desk](Project_041045/README.md) |
+| 041046 | [Nginx: Inventory — Baseline Setup for Portfolio Demo](Project_041046/README.md) |
+| 041047 | [Nginx: Inventory — Automation for Portfolio Demo](Project_041047/README.md) |
+| 041048 | [Nginx: Inventory — Recovery for Portfolio Demo](Project_041048/README.md) |
+| 041049 | [Nginx: Inventory — Reporting for Portfolio Demo](Project_041049/README.md) |
+| 041050 | [Nginx: Inventory — Usability Improvement for Portfolio Demo](Project_041050/README.md) |
+| 041051 | [Nginx: Monitoring — Baseline Setup for School Lab](Project_041051/README.md) |
+| 041052 | [Nginx: Monitoring — Automation for School Lab](Project_041052/README.md) |
+| 041053 | [Nginx: Monitoring — Recovery for School Lab](Project_041053/README.md) |
+| 041054 | [Nginx: Monitoring — Reporting for School Lab](Project_041054/README.md) |
+| 041055 | [Nginx: Monitoring — Usability Improvement for School Lab](Project_041055/README.md) |
+| 041056 | [Nginx: Monitoring — Baseline Setup for Small Business](Project_041056/README.md) |
+| 041057 | [Nginx: Monitoring — Automation for Small Business](Project_041057/README.md) |
+| 041058 | [Nginx: Monitoring — Recovery for Small Business](Project_041058/README.md) |
+| 041059 | [Nginx: Monitoring — Reporting for Small Business](Project_041059/README.md) |
+| 041060 | [Nginx: Monitoring — Usability Improvement for Small Business](Project_041060/README.md) |
 
 [Back to the portfolio home](../README.md)
