@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030098 | [Wazuh: Monitoring — Recovery for Portfolio Demo](Project_030098/README.md) |
 | 030099 | [Wazuh: Monitoring — Reporting for Portfolio Demo](Project_030099/README.md) |
 | 030100 | [Wazuh: Monitoring — Usability Improvement for Portfolio Demo](Project_030100/README.md) |
+| 030101 | [Wazuh: Audit — Baseline Setup for School Lab](Project_030101/README.md) |
+| 030102 | [Wazuh: Audit — Automation for School Lab](Project_030102/README.md) |
+| 030103 | [Wazuh: Audit — Recovery for School Lab](Project_030103/README.md) |
+| 030104 | [Wazuh: Audit — Reporting for School Lab](Project_030104/README.md) |
+| 030105 | [Wazuh: Audit — Usability Improvement for School Lab](Project_030105/README.md) |
+| 030106 | [Wazuh: Audit — Baseline Setup for Small Business](Project_030106/README.md) |
+| 030107 | [Wazuh: Audit — Automation for Small Business](Project_030107/README.md) |
+| 030108 | [Wazuh: Audit — Recovery for Small Business](Project_030108/README.md) |
+| 030109 | [Wazuh: Audit — Reporting for Small Business](Project_030109/README.md) |
+| 030110 | [Wazuh: Audit — Usability Improvement for Small Business](Project_030110/README.md) |
+| 030111 | [Wazuh: Audit — Baseline Setup for Home Development](Project_030111/README.md) |
+| 030112 | [Wazuh: Audit — Automation for Home Development](Project_030112/README.md) |
+| 030113 | [Wazuh: Audit — Recovery for Home Development](Project_030113/README.md) |
+| 030114 | [Wazuh: Audit — Reporting for Home Development](Project_030114/README.md) |
+| 030115 | [Wazuh: Audit — Usability Improvement for Home Development](Project_030115/README.md) |
+| 030116 | [Wazuh: Audit — Baseline Setup for Public Dataset](Project_030116/README.md) |
+| 030117 | [Wazuh: Audit — Automation for Public Dataset](Project_030117/README.md) |
+| 030118 | [Wazuh: Audit — Recovery for Public Dataset](Project_030118/README.md) |
+| 030119 | [Wazuh: Audit — Reporting for Public Dataset](Project_030119/README.md) |
+| 030120 | [Wazuh: Audit — Usability Improvement for Public Dataset](Project_030120/README.md) |
 
 [Back to the portfolio home](../README.md)
