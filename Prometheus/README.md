@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044598 | [Prometheus: Performance Baseline — Recovery for Portfolio Demo](Project_044598/README.md) |
 | 044599 | [Prometheus: Performance Baseline — Reporting for Portfolio Demo](Project_044599/README.md) |
 | 044600 | [Prometheus: Performance Baseline — Usability Improvement for Portfolio Demo](Project_044600/README.md) |
+| 044601 | [Prometheus: Service Check — Baseline Setup for School Lab](Project_044601/README.md) |
+| 044602 | [Prometheus: Service Check — Automation for School Lab](Project_044602/README.md) |
+| 044603 | [Prometheus: Service Check — Recovery for School Lab](Project_044603/README.md) |
+| 044604 | [Prometheus: Service Check — Reporting for School Lab](Project_044604/README.md) |
+| 044605 | [Prometheus: Service Check — Usability Improvement for School Lab](Project_044605/README.md) |
+| 044606 | [Prometheus: Service Check — Baseline Setup for Small Business](Project_044606/README.md) |
+| 044607 | [Prometheus: Service Check — Automation for Small Business](Project_044607/README.md) |
+| 044608 | [Prometheus: Service Check — Recovery for Small Business](Project_044608/README.md) |
+| 044609 | [Prometheus: Service Check — Reporting for Small Business](Project_044609/README.md) |
+| 044610 | [Prometheus: Service Check — Usability Improvement for Small Business](Project_044610/README.md) |
+| 044611 | [Prometheus: Service Check — Baseline Setup for Home Development](Project_044611/README.md) |
+| 044612 | [Prometheus: Service Check — Automation for Home Development](Project_044612/README.md) |
+| 044613 | [Prometheus: Service Check — Recovery for Home Development](Project_044613/README.md) |
+| 044614 | [Prometheus: Service Check — Reporting for Home Development](Project_044614/README.md) |
+| 044615 | [Prometheus: Service Check — Usability Improvement for Home Development](Project_044615/README.md) |
+| 044616 | [Prometheus: Service Check — Baseline Setup for Public Dataset](Project_044616/README.md) |
+| 044617 | [Prometheus: Service Check — Automation for Public Dataset](Project_044617/README.md) |
+| 044618 | [Prometheus: Service Check — Recovery for Public Dataset](Project_044618/README.md) |
+| 044619 | [Prometheus: Service Check — Reporting for Public Dataset](Project_044619/README.md) |
+| 044620 | [Prometheus: Service Check — Usability Improvement for Public Dataset](Project_044620/README.md) |
 
 [Back to the portfolio home](../README.md)
