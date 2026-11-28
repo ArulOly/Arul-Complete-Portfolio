@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039318 | [Bash: Data Export — Recovery for Public Dataset](Project_039318/README.md) |
 | 039319 | [Bash: Data Export — Reporting for Public Dataset](Project_039319/README.md) |
 | 039320 | [Bash: Data Export — Usability Improvement for Public Dataset](Project_039320/README.md) |
+| 039321 | [Bash: Data Export — Baseline Setup for Branch Office Simulator](Project_039321/README.md) |
+| 039322 | [Bash: Data Export — Automation for Branch Office Simulator](Project_039322/README.md) |
+| 039323 | [Bash: Data Export — Recovery for Branch Office Simulator](Project_039323/README.md) |
+| 039324 | [Bash: Data Export — Reporting for Branch Office Simulator](Project_039324/README.md) |
+| 039325 | [Bash: Data Export — Usability Improvement for Branch Office Simulator](Project_039325/README.md) |
+| 039326 | [Bash: Data Export — Baseline Setup for Offline Classroom](Project_039326/README.md) |
+| 039327 | [Bash: Data Export — Automation for Offline Classroom](Project_039327/README.md) |
+| 039328 | [Bash: Data Export — Recovery for Offline Classroom](Project_039328/README.md) |
+| 039329 | [Bash: Data Export — Reporting for Offline Classroom](Project_039329/README.md) |
+| 039330 | [Bash: Data Export — Usability Improvement for Offline Classroom](Project_039330/README.md) |
+| 039331 | [Bash: Data Export — Baseline Setup for Single-Host Lab](Project_039331/README.md) |
+| 039332 | [Bash: Data Export — Automation for Single-Host Lab](Project_039332/README.md) |
+| 039333 | [Bash: Data Export — Recovery for Single-Host Lab](Project_039333/README.md) |
+| 039334 | [Bash: Data Export — Reporting for Single-Host Lab](Project_039334/README.md) |
+| 039335 | [Bash: Data Export — Usability Improvement for Single-Host Lab](Project_039335/README.md) |
+| 039336 | [Bash: Data Export — Baseline Setup for Two-Node Lab](Project_039336/README.md) |
+| 039337 | [Bash: Data Export — Automation for Two-Node Lab](Project_039337/README.md) |
+| 039338 | [Bash: Data Export — Recovery for Two-Node Lab](Project_039338/README.md) |
+| 039339 | [Bash: Data Export — Reporting for Two-Node Lab](Project_039339/README.md) |
+| 039340 | [Bash: Data Export — Usability Improvement for Two-Node Lab](Project_039340/README.md) |
 
 [Back to the portfolio home](../README.md)
