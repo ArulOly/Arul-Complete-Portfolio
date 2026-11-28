@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047238 | [Ansible: Backup Verification — Recovery for Two-Node Lab](Project_047238/README.md) |
 | 047239 | [Ansible: Backup Verification — Reporting for Two-Node Lab](Project_047239/README.md) |
 | 047240 | [Ansible: Backup Verification — Usability Improvement for Two-Node Lab](Project_047240/README.md) |
+| 047241 | [Ansible: Backup Verification — Baseline Setup for Help Desk](Project_047241/README.md) |
+| 047242 | [Ansible: Backup Verification — Automation for Help Desk](Project_047242/README.md) |
+| 047243 | [Ansible: Backup Verification — Recovery for Help Desk](Project_047243/README.md) |
+| 047244 | [Ansible: Backup Verification — Reporting for Help Desk](Project_047244/README.md) |
+| 047245 | [Ansible: Backup Verification — Usability Improvement for Help Desk](Project_047245/README.md) |
+| 047246 | [Ansible: Backup Verification — Baseline Setup for Portfolio Demo](Project_047246/README.md) |
+| 047247 | [Ansible: Backup Verification — Automation for Portfolio Demo](Project_047247/README.md) |
+| 047248 | [Ansible: Backup Verification — Recovery for Portfolio Demo](Project_047248/README.md) |
+| 047249 | [Ansible: Backup Verification — Reporting for Portfolio Demo](Project_047249/README.md) |
+| 047250 | [Ansible: Backup Verification — Usability Improvement for Portfolio Demo](Project_047250/README.md) |
+| 047251 | [Ansible: Data Import — Baseline Setup for School Lab](Project_047251/README.md) |
+| 047252 | [Ansible: Data Import — Automation for School Lab](Project_047252/README.md) |
+| 047253 | [Ansible: Data Import — Recovery for School Lab](Project_047253/README.md) |
+| 047254 | [Ansible: Data Import — Reporting for School Lab](Project_047254/README.md) |
+| 047255 | [Ansible: Data Import — Usability Improvement for School Lab](Project_047255/README.md) |
+| 047256 | [Ansible: Data Import — Baseline Setup for Small Business](Project_047256/README.md) |
+| 047257 | [Ansible: Data Import — Automation for Small Business](Project_047257/README.md) |
+| 047258 | [Ansible: Data Import — Recovery for Small Business](Project_047258/README.md) |
+| 047259 | [Ansible: Data Import — Reporting for Small Business](Project_047259/README.md) |
+| 047260 | [Ansible: Data Import — Usability Improvement for Small Business](Project_047260/README.md) |
 
 [Back to the portfolio home](../README.md)
