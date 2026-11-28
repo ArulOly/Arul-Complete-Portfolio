@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036098 | [ESP32: Monitoring — Recovery for Portfolio Demo](Project_036098/README.md) |
 | 036099 | [ESP32: Monitoring — Reporting for Portfolio Demo](Project_036099/README.md) |
 | 036100 | [ESP32: Monitoring — Usability Improvement for Portfolio Demo](Project_036100/README.md) |
+| 036101 | [ESP32: Audit — Baseline Setup for School Lab](Project_036101/README.md) |
+| 036102 | [ESP32: Audit — Automation for School Lab](Project_036102/README.md) |
+| 036103 | [ESP32: Audit — Recovery for School Lab](Project_036103/README.md) |
+| 036104 | [ESP32: Audit — Reporting for School Lab](Project_036104/README.md) |
+| 036105 | [ESP32: Audit — Usability Improvement for School Lab](Project_036105/README.md) |
+| 036106 | [ESP32: Audit — Baseline Setup for Small Business](Project_036106/README.md) |
+| 036107 | [ESP32: Audit — Automation for Small Business](Project_036107/README.md) |
+| 036108 | [ESP32: Audit — Recovery for Small Business](Project_036108/README.md) |
+| 036109 | [ESP32: Audit — Reporting for Small Business](Project_036109/README.md) |
+| 036110 | [ESP32: Audit — Usability Improvement for Small Business](Project_036110/README.md) |
+| 036111 | [ESP32: Audit — Baseline Setup for Home Development](Project_036111/README.md) |
+| 036112 | [ESP32: Audit — Automation for Home Development](Project_036112/README.md) |
+| 036113 | [ESP32: Audit — Recovery for Home Development](Project_036113/README.md) |
+| 036114 | [ESP32: Audit — Reporting for Home Development](Project_036114/README.md) |
+| 036115 | [ESP32: Audit — Usability Improvement for Home Development](Project_036115/README.md) |
+| 036116 | [ESP32: Audit — Baseline Setup for Public Dataset](Project_036116/README.md) |
+| 036117 | [ESP32: Audit — Automation for Public Dataset](Project_036117/README.md) |
+| 036118 | [ESP32: Audit — Recovery for Public Dataset](Project_036118/README.md) |
+| 036119 | [ESP32: Audit — Reporting for Public Dataset](Project_036119/README.md) |
+| 036120 | [ESP32: Audit — Usability Improvement for Public Dataset](Project_036120/README.md) |
 
 [Back to the portfolio home](../README.md)
