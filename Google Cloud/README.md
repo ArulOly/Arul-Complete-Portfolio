@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016518 | [Google Cloud: Access Review — Recovery for Public Dataset](Project_016518/README.md) |
 | 016519 | [Google Cloud: Access Review — Reporting for Public Dataset](Project_016519/README.md) |
 | 016520 | [Google Cloud: Access Review — Usability Improvement for Public Dataset](Project_016520/README.md) |
+| 016521 | [Google Cloud: Access Review — Baseline Setup for Branch Office Simulator](Project_016521/README.md) |
+| 016522 | [Google Cloud: Access Review — Automation for Branch Office Simulator](Project_016522/README.md) |
+| 016523 | [Google Cloud: Access Review — Recovery for Branch Office Simulator](Project_016523/README.md) |
+| 016524 | [Google Cloud: Access Review — Reporting for Branch Office Simulator](Project_016524/README.md) |
+| 016525 | [Google Cloud: Access Review — Usability Improvement for Branch Office Simulator](Project_016525/README.md) |
+| 016526 | [Google Cloud: Access Review — Baseline Setup for Offline Classroom](Project_016526/README.md) |
+| 016527 | [Google Cloud: Access Review — Automation for Offline Classroom](Project_016527/README.md) |
+| 016528 | [Google Cloud: Access Review — Recovery for Offline Classroom](Project_016528/README.md) |
+| 016529 | [Google Cloud: Access Review — Reporting for Offline Classroom](Project_016529/README.md) |
+| 016530 | [Google Cloud: Access Review — Usability Improvement for Offline Classroom](Project_016530/README.md) |
+| 016531 | [Google Cloud: Access Review — Baseline Setup for Single-Host Lab](Project_016531/README.md) |
+| 016532 | [Google Cloud: Access Review — Automation for Single-Host Lab](Project_016532/README.md) |
+| 016533 | [Google Cloud: Access Review — Recovery for Single-Host Lab](Project_016533/README.md) |
+| 016534 | [Google Cloud: Access Review — Reporting for Single-Host Lab](Project_016534/README.md) |
+| 016535 | [Google Cloud: Access Review — Usability Improvement for Single-Host Lab](Project_016535/README.md) |
+| 016536 | [Google Cloud: Access Review — Baseline Setup for Two-Node Lab](Project_016536/README.md) |
+| 016537 | [Google Cloud: Access Review — Automation for Two-Node Lab](Project_016537/README.md) |
+| 016538 | [Google Cloud: Access Review — Recovery for Two-Node Lab](Project_016538/README.md) |
+| 016539 | [Google Cloud: Access Review — Reporting for Two-Node Lab](Project_016539/README.md) |
+| 016540 | [Google Cloud: Access Review — Usability Improvement for Two-Node Lab](Project_016540/README.md) |
 
 [Back to the portfolio home](../README.md)
