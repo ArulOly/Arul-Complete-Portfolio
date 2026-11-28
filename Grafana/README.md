@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043218 | [Grafana: Backup Verification — Recovery for Public Dataset](Project_043218/README.md) |
 | 043219 | [Grafana: Backup Verification — Reporting for Public Dataset](Project_043219/README.md) |
 | 043220 | [Grafana: Backup Verification — Usability Improvement for Public Dataset](Project_043220/README.md) |
+| 043221 | [Grafana: Backup Verification — Baseline Setup for Branch Office Simulator](Project_043221/README.md) |
+| 043222 | [Grafana: Backup Verification — Automation for Branch Office Simulator](Project_043222/README.md) |
+| 043223 | [Grafana: Backup Verification — Recovery for Branch Office Simulator](Project_043223/README.md) |
+| 043224 | [Grafana: Backup Verification — Reporting for Branch Office Simulator](Project_043224/README.md) |
+| 043225 | [Grafana: Backup Verification — Usability Improvement for Branch Office Simulator](Project_043225/README.md) |
+| 043226 | [Grafana: Backup Verification — Baseline Setup for Offline Classroom](Project_043226/README.md) |
+| 043227 | [Grafana: Backup Verification — Automation for Offline Classroom](Project_043227/README.md) |
+| 043228 | [Grafana: Backup Verification — Recovery for Offline Classroom](Project_043228/README.md) |
+| 043229 | [Grafana: Backup Verification — Reporting for Offline Classroom](Project_043229/README.md) |
+| 043230 | [Grafana: Backup Verification — Usability Improvement for Offline Classroom](Project_043230/README.md) |
+| 043231 | [Grafana: Backup Verification — Baseline Setup for Single-Host Lab](Project_043231/README.md) |
+| 043232 | [Grafana: Backup Verification — Automation for Single-Host Lab](Project_043232/README.md) |
+| 043233 | [Grafana: Backup Verification — Recovery for Single-Host Lab](Project_043233/README.md) |
+| 043234 | [Grafana: Backup Verification — Reporting for Single-Host Lab](Project_043234/README.md) |
+| 043235 | [Grafana: Backup Verification — Usability Improvement for Single-Host Lab](Project_043235/README.md) |
+| 043236 | [Grafana: Backup Verification — Baseline Setup for Two-Node Lab](Project_043236/README.md) |
+| 043237 | [Grafana: Backup Verification — Automation for Two-Node Lab](Project_043237/README.md) |
+| 043238 | [Grafana: Backup Verification — Recovery for Two-Node Lab](Project_043238/README.md) |
+| 043239 | [Grafana: Backup Verification — Reporting for Two-Node Lab](Project_043239/README.md) |
+| 043240 | [Grafana: Backup Verification — Usability Improvement for Two-Node Lab](Project_043240/README.md) |
 
 [Back to the portfolio home](../README.md)
