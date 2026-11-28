@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016118 | [Google Cloud: Audit — Recovery for Public Dataset](Project_016118/README.md) |
 | 016119 | [Google Cloud: Audit — Reporting for Public Dataset](Project_016119/README.md) |
 | 016120 | [Google Cloud: Audit — Usability Improvement for Public Dataset](Project_016120/README.md) |
+| 016121 | [Google Cloud: Audit — Baseline Setup for Branch Office Simulator](Project_016121/README.md) |
+| 016122 | [Google Cloud: Audit — Automation for Branch Office Simulator](Project_016122/README.md) |
+| 016123 | [Google Cloud: Audit — Recovery for Branch Office Simulator](Project_016123/README.md) |
+| 016124 | [Google Cloud: Audit — Reporting for Branch Office Simulator](Project_016124/README.md) |
+| 016125 | [Google Cloud: Audit — Usability Improvement for Branch Office Simulator](Project_016125/README.md) |
+| 016126 | [Google Cloud: Audit — Baseline Setup for Offline Classroom](Project_016126/README.md) |
+| 016127 | [Google Cloud: Audit — Automation for Offline Classroom](Project_016127/README.md) |
+| 016128 | [Google Cloud: Audit — Recovery for Offline Classroom](Project_016128/README.md) |
+| 016129 | [Google Cloud: Audit — Reporting for Offline Classroom](Project_016129/README.md) |
+| 016130 | [Google Cloud: Audit — Usability Improvement for Offline Classroom](Project_016130/README.md) |
+| 016131 | [Google Cloud: Audit — Baseline Setup for Single-Host Lab](Project_016131/README.md) |
+| 016132 | [Google Cloud: Audit — Automation for Single-Host Lab](Project_016132/README.md) |
+| 016133 | [Google Cloud: Audit — Recovery for Single-Host Lab](Project_016133/README.md) |
+| 016134 | [Google Cloud: Audit — Reporting for Single-Host Lab](Project_016134/README.md) |
+| 016135 | [Google Cloud: Audit — Usability Improvement for Single-Host Lab](Project_016135/README.md) |
+| 016136 | [Google Cloud: Audit — Baseline Setup for Two-Node Lab](Project_016136/README.md) |
+| 016137 | [Google Cloud: Audit — Automation for Two-Node Lab](Project_016137/README.md) |
+| 016138 | [Google Cloud: Audit — Recovery for Two-Node Lab](Project_016138/README.md) |
+| 016139 | [Google Cloud: Audit — Reporting for Two-Node Lab](Project_016139/README.md) |
+| 016140 | [Google Cloud: Audit — Usability Improvement for Two-Node Lab](Project_016140/README.md) |
 
 [Back to the portfolio home](../README.md)
