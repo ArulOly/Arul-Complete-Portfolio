@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039658 | [Bash: Configuration Comparison — Recovery for Small Business](Project_039658/README.md) |
 | 039659 | [Bash: Configuration Comparison — Reporting for Small Business](Project_039659/README.md) |
 | 039660 | [Bash: Configuration Comparison — Usability Improvement for Small Business](Project_039660/README.md) |
+| 039661 | [Bash: Configuration Comparison — Baseline Setup for Home Development](Project_039661/README.md) |
+| 039662 | [Bash: Configuration Comparison — Automation for Home Development](Project_039662/README.md) |
+| 039663 | [Bash: Configuration Comparison — Recovery for Home Development](Project_039663/README.md) |
+| 039664 | [Bash: Configuration Comparison — Reporting for Home Development](Project_039664/README.md) |
+| 039665 | [Bash: Configuration Comparison — Usability Improvement for Home Development](Project_039665/README.md) |
+| 039666 | [Bash: Configuration Comparison — Baseline Setup for Public Dataset](Project_039666/README.md) |
+| 039667 | [Bash: Configuration Comparison — Automation for Public Dataset](Project_039667/README.md) |
+| 039668 | [Bash: Configuration Comparison — Recovery for Public Dataset](Project_039668/README.md) |
+| 039669 | [Bash: Configuration Comparison — Reporting for Public Dataset](Project_039669/README.md) |
+| 039670 | [Bash: Configuration Comparison — Usability Improvement for Public Dataset](Project_039670/README.md) |
+| 039671 | [Bash: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_039671/README.md) |
+| 039672 | [Bash: Configuration Comparison — Automation for Branch Office Simulator](Project_039672/README.md) |
+| 039673 | [Bash: Configuration Comparison — Recovery for Branch Office Simulator](Project_039673/README.md) |
+| 039674 | [Bash: Configuration Comparison — Reporting for Branch Office Simulator](Project_039674/README.md) |
+| 039675 | [Bash: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_039675/README.md) |
+| 039676 | [Bash: Configuration Comparison — Baseline Setup for Offline Classroom](Project_039676/README.md) |
+| 039677 | [Bash: Configuration Comparison — Automation for Offline Classroom](Project_039677/README.md) |
+| 039678 | [Bash: Configuration Comparison — Recovery for Offline Classroom](Project_039678/README.md) |
+| 039679 | [Bash: Configuration Comparison — Reporting for Offline Classroom](Project_039679/README.md) |
+| 039680 | [Bash: Configuration Comparison — Usability Improvement for Offline Classroom](Project_039680/README.md) |
 
 [Back to the portfolio home](../README.md)
