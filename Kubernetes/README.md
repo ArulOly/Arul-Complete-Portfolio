@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018118 | [Kubernetes: Audit — Recovery for Public Dataset](Project_018118/README.md) |
 | 018119 | [Kubernetes: Audit — Reporting for Public Dataset](Project_018119/README.md) |
 | 018120 | [Kubernetes: Audit — Usability Improvement for Public Dataset](Project_018120/README.md) |
+| 018121 | [Kubernetes: Audit — Baseline Setup for Branch Office Simulator](Project_018121/README.md) |
+| 018122 | [Kubernetes: Audit — Automation for Branch Office Simulator](Project_018122/README.md) |
+| 018123 | [Kubernetes: Audit — Recovery for Branch Office Simulator](Project_018123/README.md) |
+| 018124 | [Kubernetes: Audit — Reporting for Branch Office Simulator](Project_018124/README.md) |
+| 018125 | [Kubernetes: Audit — Usability Improvement for Branch Office Simulator](Project_018125/README.md) |
+| 018126 | [Kubernetes: Audit — Baseline Setup for Offline Classroom](Project_018126/README.md) |
+| 018127 | [Kubernetes: Audit — Automation for Offline Classroom](Project_018127/README.md) |
+| 018128 | [Kubernetes: Audit — Recovery for Offline Classroom](Project_018128/README.md) |
+| 018129 | [Kubernetes: Audit — Reporting for Offline Classroom](Project_018129/README.md) |
+| 018130 | [Kubernetes: Audit — Usability Improvement for Offline Classroom](Project_018130/README.md) |
+| 018131 | [Kubernetes: Audit — Baseline Setup for Single-Host Lab](Project_018131/README.md) |
+| 018132 | [Kubernetes: Audit — Automation for Single-Host Lab](Project_018132/README.md) |
+| 018133 | [Kubernetes: Audit — Recovery for Single-Host Lab](Project_018133/README.md) |
+| 018134 | [Kubernetes: Audit — Reporting for Single-Host Lab](Project_018134/README.md) |
+| 018135 | [Kubernetes: Audit — Usability Improvement for Single-Host Lab](Project_018135/README.md) |
+| 018136 | [Kubernetes: Audit — Baseline Setup for Two-Node Lab](Project_018136/README.md) |
+| 018137 | [Kubernetes: Audit — Automation for Two-Node Lab](Project_018137/README.md) |
+| 018138 | [Kubernetes: Audit — Recovery for Two-Node Lab](Project_018138/README.md) |
+| 018139 | [Kubernetes: Audit — Reporting for Two-Node Lab](Project_018139/README.md) |
+| 018140 | [Kubernetes: Audit — Usability Improvement for Two-Node Lab](Project_018140/README.md) |
 
 [Back to the portfolio home](../README.md)
