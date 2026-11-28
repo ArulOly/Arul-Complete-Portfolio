@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038538 | [Git: Access Review — Recovery for Two-Node Lab](Project_038538/README.md) |
 | 038539 | [Git: Access Review — Reporting for Two-Node Lab](Project_038539/README.md) |
 | 038540 | [Git: Access Review — Usability Improvement for Two-Node Lab](Project_038540/README.md) |
+| 038541 | [Git: Access Review — Baseline Setup for Help Desk](Project_038541/README.md) |
+| 038542 | [Git: Access Review — Automation for Help Desk](Project_038542/README.md) |
+| 038543 | [Git: Access Review — Recovery for Help Desk](Project_038543/README.md) |
+| 038544 | [Git: Access Review — Reporting for Help Desk](Project_038544/README.md) |
+| 038545 | [Git: Access Review — Usability Improvement for Help Desk](Project_038545/README.md) |
+| 038546 | [Git: Access Review — Baseline Setup for Portfolio Demo](Project_038546/README.md) |
+| 038547 | [Git: Access Review — Automation for Portfolio Demo](Project_038547/README.md) |
+| 038548 | [Git: Access Review — Recovery for Portfolio Demo](Project_038548/README.md) |
+| 038549 | [Git: Access Review — Reporting for Portfolio Demo](Project_038549/README.md) |
+| 038550 | [Git: Access Review — Usability Improvement for Portfolio Demo](Project_038550/README.md) |
+| 038551 | [Git: Performance Baseline — Baseline Setup for School Lab](Project_038551/README.md) |
+| 038552 | [Git: Performance Baseline — Automation for School Lab](Project_038552/README.md) |
+| 038553 | [Git: Performance Baseline — Recovery for School Lab](Project_038553/README.md) |
+| 038554 | [Git: Performance Baseline — Reporting for School Lab](Project_038554/README.md) |
+| 038555 | [Git: Performance Baseline — Usability Improvement for School Lab](Project_038555/README.md) |
+| 038556 | [Git: Performance Baseline — Baseline Setup for Small Business](Project_038556/README.md) |
+| 038557 | [Git: Performance Baseline — Automation for Small Business](Project_038557/README.md) |
+| 038558 | [Git: Performance Baseline — Recovery for Small Business](Project_038558/README.md) |
+| 038559 | [Git: Performance Baseline — Reporting for Small Business](Project_038559/README.md) |
+| 038560 | [Git: Performance Baseline — Usability Improvement for Small Business](Project_038560/README.md) |
 
 [Back to the portfolio home](../README.md)
