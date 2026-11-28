@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041078 | [Nginx: Monitoring — Recovery for Offline Classroom](Project_041078/README.md) |
 | 041079 | [Nginx: Monitoring — Reporting for Offline Classroom](Project_041079/README.md) |
 | 041080 | [Nginx: Monitoring — Usability Improvement for Offline Classroom](Project_041080/README.md) |
+| 041081 | [Nginx: Monitoring — Baseline Setup for Single-Host Lab](Project_041081/README.md) |
+| 041082 | [Nginx: Monitoring — Automation for Single-Host Lab](Project_041082/README.md) |
+| 041083 | [Nginx: Monitoring — Recovery for Single-Host Lab](Project_041083/README.md) |
+| 041084 | [Nginx: Monitoring — Reporting for Single-Host Lab](Project_041084/README.md) |
+| 041085 | [Nginx: Monitoring — Usability Improvement for Single-Host Lab](Project_041085/README.md) |
+| 041086 | [Nginx: Monitoring — Baseline Setup for Two-Node Lab](Project_041086/README.md) |
+| 041087 | [Nginx: Monitoring — Automation for Two-Node Lab](Project_041087/README.md) |
+| 041088 | [Nginx: Monitoring — Recovery for Two-Node Lab](Project_041088/README.md) |
+| 041089 | [Nginx: Monitoring — Reporting for Two-Node Lab](Project_041089/README.md) |
+| 041090 | [Nginx: Monitoring — Usability Improvement for Two-Node Lab](Project_041090/README.md) |
+| 041091 | [Nginx: Monitoring — Baseline Setup for Help Desk](Project_041091/README.md) |
+| 041092 | [Nginx: Monitoring — Automation for Help Desk](Project_041092/README.md) |
+| 041093 | [Nginx: Monitoring — Recovery for Help Desk](Project_041093/README.md) |
+| 041094 | [Nginx: Monitoring — Reporting for Help Desk](Project_041094/README.md) |
+| 041095 | [Nginx: Monitoring — Usability Improvement for Help Desk](Project_041095/README.md) |
+| 041096 | [Nginx: Monitoring — Baseline Setup for Portfolio Demo](Project_041096/README.md) |
+| 041097 | [Nginx: Monitoring — Automation for Portfolio Demo](Project_041097/README.md) |
+| 041098 | [Nginx: Monitoring — Recovery for Portfolio Demo](Project_041098/README.md) |
+| 041099 | [Nginx: Monitoring — Reporting for Portfolio Demo](Project_041099/README.md) |
+| 041100 | [Nginx: Monitoring — Usability Improvement for Portfolio Demo](Project_041100/README.md) |
 
 [Back to the portfolio home](../README.md)
