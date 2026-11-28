@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037458 | [Arduino: Scheduled Reporting — Recovery for Small Business](Project_037458/README.md) |
 | 037459 | [Arduino: Scheduled Reporting — Reporting for Small Business](Project_037459/README.md) |
 | 037460 | [Arduino: Scheduled Reporting — Usability Improvement for Small Business](Project_037460/README.md) |
+| 037461 | [Arduino: Scheduled Reporting — Baseline Setup for Home Development](Project_037461/README.md) |
+| 037462 | [Arduino: Scheduled Reporting — Automation for Home Development](Project_037462/README.md) |
+| 037463 | [Arduino: Scheduled Reporting — Recovery for Home Development](Project_037463/README.md) |
+| 037464 | [Arduino: Scheduled Reporting — Reporting for Home Development](Project_037464/README.md) |
+| 037465 | [Arduino: Scheduled Reporting — Usability Improvement for Home Development](Project_037465/README.md) |
+| 037466 | [Arduino: Scheduled Reporting — Baseline Setup for Public Dataset](Project_037466/README.md) |
+| 037467 | [Arduino: Scheduled Reporting — Automation for Public Dataset](Project_037467/README.md) |
+| 037468 | [Arduino: Scheduled Reporting — Recovery for Public Dataset](Project_037468/README.md) |
+| 037469 | [Arduino: Scheduled Reporting — Reporting for Public Dataset](Project_037469/README.md) |
+| 037470 | [Arduino: Scheduled Reporting — Usability Improvement for Public Dataset](Project_037470/README.md) |
+| 037471 | [Arduino: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_037471/README.md) |
+| 037472 | [Arduino: Scheduled Reporting — Automation for Branch Office Simulator](Project_037472/README.md) |
+| 037473 | [Arduino: Scheduled Reporting — Recovery for Branch Office Simulator](Project_037473/README.md) |
+| 037474 | [Arduino: Scheduled Reporting — Reporting for Branch Office Simulator](Project_037474/README.md) |
+| 037475 | [Arduino: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_037475/README.md) |
+| 037476 | [Arduino: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_037476/README.md) |
+| 037477 | [Arduino: Scheduled Reporting — Automation for Offline Classroom](Project_037477/README.md) |
+| 037478 | [Arduino: Scheduled Reporting — Recovery for Offline Classroom](Project_037478/README.md) |
+| 037479 | [Arduino: Scheduled Reporting — Reporting for Offline Classroom](Project_037479/README.md) |
+| 037480 | [Arduino: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_037480/README.md) |
 
 [Back to the portfolio home](../README.md)
