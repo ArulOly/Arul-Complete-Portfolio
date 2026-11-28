@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038118 | [Git: Audit — Recovery for Public Dataset](Project_038118/README.md) |
 | 038119 | [Git: Audit — Reporting for Public Dataset](Project_038119/README.md) |
 | 038120 | [Git: Audit — Usability Improvement for Public Dataset](Project_038120/README.md) |
+| 038121 | [Git: Audit — Baseline Setup for Branch Office Simulator](Project_038121/README.md) |
+| 038122 | [Git: Audit — Automation for Branch Office Simulator](Project_038122/README.md) |
+| 038123 | [Git: Audit — Recovery for Branch Office Simulator](Project_038123/README.md) |
+| 038124 | [Git: Audit — Reporting for Branch Office Simulator](Project_038124/README.md) |
+| 038125 | [Git: Audit — Usability Improvement for Branch Office Simulator](Project_038125/README.md) |
+| 038126 | [Git: Audit — Baseline Setup for Offline Classroom](Project_038126/README.md) |
+| 038127 | [Git: Audit — Automation for Offline Classroom](Project_038127/README.md) |
+| 038128 | [Git: Audit — Recovery for Offline Classroom](Project_038128/README.md) |
+| 038129 | [Git: Audit — Reporting for Offline Classroom](Project_038129/README.md) |
+| 038130 | [Git: Audit — Usability Improvement for Offline Classroom](Project_038130/README.md) |
+| 038131 | [Git: Audit — Baseline Setup for Single-Host Lab](Project_038131/README.md) |
+| 038132 | [Git: Audit — Automation for Single-Host Lab](Project_038132/README.md) |
+| 038133 | [Git: Audit — Recovery for Single-Host Lab](Project_038133/README.md) |
+| 038134 | [Git: Audit — Reporting for Single-Host Lab](Project_038134/README.md) |
+| 038135 | [Git: Audit — Usability Improvement for Single-Host Lab](Project_038135/README.md) |
+| 038136 | [Git: Audit — Baseline Setup for Two-Node Lab](Project_038136/README.md) |
+| 038137 | [Git: Audit — Automation for Two-Node Lab](Project_038137/README.md) |
+| 038138 | [Git: Audit — Recovery for Two-Node Lab](Project_038138/README.md) |
+| 038139 | [Git: Audit — Reporting for Two-Node Lab](Project_038139/README.md) |
+| 038140 | [Git: Audit — Usability Improvement for Two-Node Lab](Project_038140/README.md) |
 
 [Back to the portfolio home](../README.md)
