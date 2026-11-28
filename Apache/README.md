@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042118 | [Apache: Audit — Recovery for Public Dataset](Project_042118/README.md) |
 | 042119 | [Apache: Audit — Reporting for Public Dataset](Project_042119/README.md) |
 | 042120 | [Apache: Audit — Usability Improvement for Public Dataset](Project_042120/README.md) |
+| 042121 | [Apache: Audit — Baseline Setup for Branch Office Simulator](Project_042121/README.md) |
+| 042122 | [Apache: Audit — Automation for Branch Office Simulator](Project_042122/README.md) |
+| 042123 | [Apache: Audit — Recovery for Branch Office Simulator](Project_042123/README.md) |
+| 042124 | [Apache: Audit — Reporting for Branch Office Simulator](Project_042124/README.md) |
+| 042125 | [Apache: Audit — Usability Improvement for Branch Office Simulator](Project_042125/README.md) |
+| 042126 | [Apache: Audit — Baseline Setup for Offline Classroom](Project_042126/README.md) |
+| 042127 | [Apache: Audit — Automation for Offline Classroom](Project_042127/README.md) |
+| 042128 | [Apache: Audit — Recovery for Offline Classroom](Project_042128/README.md) |
+| 042129 | [Apache: Audit — Reporting for Offline Classroom](Project_042129/README.md) |
+| 042130 | [Apache: Audit — Usability Improvement for Offline Classroom](Project_042130/README.md) |
+| 042131 | [Apache: Audit — Baseline Setup for Single-Host Lab](Project_042131/README.md) |
+| 042132 | [Apache: Audit — Automation for Single-Host Lab](Project_042132/README.md) |
+| 042133 | [Apache: Audit — Recovery for Single-Host Lab](Project_042133/README.md) |
+| 042134 | [Apache: Audit — Reporting for Single-Host Lab](Project_042134/README.md) |
+| 042135 | [Apache: Audit — Usability Improvement for Single-Host Lab](Project_042135/README.md) |
+| 042136 | [Apache: Audit — Baseline Setup for Two-Node Lab](Project_042136/README.md) |
+| 042137 | [Apache: Audit — Automation for Two-Node Lab](Project_042137/README.md) |
+| 042138 | [Apache: Audit — Recovery for Two-Node Lab](Project_042138/README.md) |
+| 042139 | [Apache: Audit — Reporting for Two-Node Lab](Project_042139/README.md) |
+| 042140 | [Apache: Audit — Usability Improvement for Two-Node Lab](Project_042140/README.md) |
 
 [Back to the portfolio home](../README.md)
