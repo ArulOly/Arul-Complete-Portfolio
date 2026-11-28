@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016378 | [Google Cloud: Dashboard — Recovery for Offline Classroom](Project_016378/README.md) |
 | 016379 | [Google Cloud: Dashboard — Reporting for Offline Classroom](Project_016379/README.md) |
 | 016380 | [Google Cloud: Dashboard — Usability Improvement for Offline Classroom](Project_016380/README.md) |
+| 016381 | [Google Cloud: Dashboard — Baseline Setup for Single-Host Lab](Project_016381/README.md) |
+| 016382 | [Google Cloud: Dashboard — Automation for Single-Host Lab](Project_016382/README.md) |
+| 016383 | [Google Cloud: Dashboard — Recovery for Single-Host Lab](Project_016383/README.md) |
+| 016384 | [Google Cloud: Dashboard — Reporting for Single-Host Lab](Project_016384/README.md) |
+| 016385 | [Google Cloud: Dashboard — Usability Improvement for Single-Host Lab](Project_016385/README.md) |
+| 016386 | [Google Cloud: Dashboard — Baseline Setup for Two-Node Lab](Project_016386/README.md) |
+| 016387 | [Google Cloud: Dashboard — Automation for Two-Node Lab](Project_016387/README.md) |
+| 016388 | [Google Cloud: Dashboard — Recovery for Two-Node Lab](Project_016388/README.md) |
+| 016389 | [Google Cloud: Dashboard — Reporting for Two-Node Lab](Project_016389/README.md) |
+| 016390 | [Google Cloud: Dashboard — Usability Improvement for Two-Node Lab](Project_016390/README.md) |
+| 016391 | [Google Cloud: Dashboard — Baseline Setup for Help Desk](Project_016391/README.md) |
+| 016392 | [Google Cloud: Dashboard — Automation for Help Desk](Project_016392/README.md) |
+| 016393 | [Google Cloud: Dashboard — Recovery for Help Desk](Project_016393/README.md) |
+| 016394 | [Google Cloud: Dashboard — Reporting for Help Desk](Project_016394/README.md) |
+| 016395 | [Google Cloud: Dashboard — Usability Improvement for Help Desk](Project_016395/README.md) |
+| 016396 | [Google Cloud: Dashboard — Baseline Setup for Portfolio Demo](Project_016396/README.md) |
+| 016397 | [Google Cloud: Dashboard — Automation for Portfolio Demo](Project_016397/README.md) |
+| 016398 | [Google Cloud: Dashboard — Recovery for Portfolio Demo](Project_016398/README.md) |
+| 016399 | [Google Cloud: Dashboard — Reporting for Portfolio Demo](Project_016399/README.md) |
+| 016400 | [Google Cloud: Dashboard — Usability Improvement for Portfolio Demo](Project_016400/README.md) |
 
 [Back to the portfolio home](../README.md)
