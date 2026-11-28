@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031458 | [Greenbone: Scheduled Reporting — Recovery for Small Business](Project_031458/README.md) |
 | 031459 | [Greenbone: Scheduled Reporting — Reporting for Small Business](Project_031459/README.md) |
 | 031460 | [Greenbone: Scheduled Reporting — Usability Improvement for Small Business](Project_031460/README.md) |
+| 031461 | [Greenbone: Scheduled Reporting — Baseline Setup for Home Development](Project_031461/README.md) |
+| 031462 | [Greenbone: Scheduled Reporting — Automation for Home Development](Project_031462/README.md) |
+| 031463 | [Greenbone: Scheduled Reporting — Recovery for Home Development](Project_031463/README.md) |
+| 031464 | [Greenbone: Scheduled Reporting — Reporting for Home Development](Project_031464/README.md) |
+| 031465 | [Greenbone: Scheduled Reporting — Usability Improvement for Home Development](Project_031465/README.md) |
+| 031466 | [Greenbone: Scheduled Reporting — Baseline Setup for Public Dataset](Project_031466/README.md) |
+| 031467 | [Greenbone: Scheduled Reporting — Automation for Public Dataset](Project_031467/README.md) |
+| 031468 | [Greenbone: Scheduled Reporting — Recovery for Public Dataset](Project_031468/README.md) |
+| 031469 | [Greenbone: Scheduled Reporting — Reporting for Public Dataset](Project_031469/README.md) |
+| 031470 | [Greenbone: Scheduled Reporting — Usability Improvement for Public Dataset](Project_031470/README.md) |
+| 031471 | [Greenbone: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_031471/README.md) |
+| 031472 | [Greenbone: Scheduled Reporting — Automation for Branch Office Simulator](Project_031472/README.md) |
+| 031473 | [Greenbone: Scheduled Reporting — Recovery for Branch Office Simulator](Project_031473/README.md) |
+| 031474 | [Greenbone: Scheduled Reporting — Reporting for Branch Office Simulator](Project_031474/README.md) |
+| 031475 | [Greenbone: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_031475/README.md) |
+| 031476 | [Greenbone: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_031476/README.md) |
+| 031477 | [Greenbone: Scheduled Reporting — Automation for Offline Classroom](Project_031477/README.md) |
+| 031478 | [Greenbone: Scheduled Reporting — Recovery for Offline Classroom](Project_031478/README.md) |
+| 031479 | [Greenbone: Scheduled Reporting — Reporting for Offline Classroom](Project_031479/README.md) |
+| 031480 | [Greenbone: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_031480/README.md) |
 
 [Back to the portfolio home](../README.md)
