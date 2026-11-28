@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041298 | [Nginx: Data Import — Recovery for Portfolio Demo](Project_041298/README.md) |
 | 041299 | [Nginx: Data Import — Reporting for Portfolio Demo](Project_041299/README.md) |
 | 041300 | [Nginx: Data Import — Usability Improvement for Portfolio Demo](Project_041300/README.md) |
+| 041301 | [Nginx: Data Export — Baseline Setup for School Lab](Project_041301/README.md) |
+| 041302 | [Nginx: Data Export — Automation for School Lab](Project_041302/README.md) |
+| 041303 | [Nginx: Data Export — Recovery for School Lab](Project_041303/README.md) |
+| 041304 | [Nginx: Data Export — Reporting for School Lab](Project_041304/README.md) |
+| 041305 | [Nginx: Data Export — Usability Improvement for School Lab](Project_041305/README.md) |
+| 041306 | [Nginx: Data Export — Baseline Setup for Small Business](Project_041306/README.md) |
+| 041307 | [Nginx: Data Export — Automation for Small Business](Project_041307/README.md) |
+| 041308 | [Nginx: Data Export — Recovery for Small Business](Project_041308/README.md) |
+| 041309 | [Nginx: Data Export — Reporting for Small Business](Project_041309/README.md) |
+| 041310 | [Nginx: Data Export — Usability Improvement for Small Business](Project_041310/README.md) |
+| 041311 | [Nginx: Data Export — Baseline Setup for Home Development](Project_041311/README.md) |
+| 041312 | [Nginx: Data Export — Automation for Home Development](Project_041312/README.md) |
+| 041313 | [Nginx: Data Export — Recovery for Home Development](Project_041313/README.md) |
+| 041314 | [Nginx: Data Export — Reporting for Home Development](Project_041314/README.md) |
+| 041315 | [Nginx: Data Export — Usability Improvement for Home Development](Project_041315/README.md) |
+| 041316 | [Nginx: Data Export — Baseline Setup for Public Dataset](Project_041316/README.md) |
+| 041317 | [Nginx: Data Export — Automation for Public Dataset](Project_041317/README.md) |
+| 041318 | [Nginx: Data Export — Recovery for Public Dataset](Project_041318/README.md) |
+| 041319 | [Nginx: Data Export — Reporting for Public Dataset](Project_041319/README.md) |
+| 041320 | [Nginx: Data Export — Usability Improvement for Public Dataset](Project_041320/README.md) |
 
 [Back to the portfolio home](../README.md)
