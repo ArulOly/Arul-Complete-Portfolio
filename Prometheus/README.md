@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044618 | [Prometheus: Service Check — Recovery for Public Dataset](Project_044618/README.md) |
 | 044619 | [Prometheus: Service Check — Reporting for Public Dataset](Project_044619/README.md) |
 | 044620 | [Prometheus: Service Check — Usability Improvement for Public Dataset](Project_044620/README.md) |
+| 044621 | [Prometheus: Service Check — Baseline Setup for Branch Office Simulator](Project_044621/README.md) |
+| 044622 | [Prometheus: Service Check — Automation for Branch Office Simulator](Project_044622/README.md) |
+| 044623 | [Prometheus: Service Check — Recovery for Branch Office Simulator](Project_044623/README.md) |
+| 044624 | [Prometheus: Service Check — Reporting for Branch Office Simulator](Project_044624/README.md) |
+| 044625 | [Prometheus: Service Check — Usability Improvement for Branch Office Simulator](Project_044625/README.md) |
+| 044626 | [Prometheus: Service Check — Baseline Setup for Offline Classroom](Project_044626/README.md) |
+| 044627 | [Prometheus: Service Check — Automation for Offline Classroom](Project_044627/README.md) |
+| 044628 | [Prometheus: Service Check — Recovery for Offline Classroom](Project_044628/README.md) |
+| 044629 | [Prometheus: Service Check — Reporting for Offline Classroom](Project_044629/README.md) |
+| 044630 | [Prometheus: Service Check — Usability Improvement for Offline Classroom](Project_044630/README.md) |
+| 044631 | [Prometheus: Service Check — Baseline Setup for Single-Host Lab](Project_044631/README.md) |
+| 044632 | [Prometheus: Service Check — Automation for Single-Host Lab](Project_044632/README.md) |
+| 044633 | [Prometheus: Service Check — Recovery for Single-Host Lab](Project_044633/README.md) |
+| 044634 | [Prometheus: Service Check — Reporting for Single-Host Lab](Project_044634/README.md) |
+| 044635 | [Prometheus: Service Check — Usability Improvement for Single-Host Lab](Project_044635/README.md) |
+| 044636 | [Prometheus: Service Check — Baseline Setup for Two-Node Lab](Project_044636/README.md) |
+| 044637 | [Prometheus: Service Check — Automation for Two-Node Lab](Project_044637/README.md) |
+| 044638 | [Prometheus: Service Check — Recovery for Two-Node Lab](Project_044638/README.md) |
+| 044639 | [Prometheus: Service Check — Reporting for Two-Node Lab](Project_044639/README.md) |
+| 044640 | [Prometheus: Service Check — Usability Improvement for Two-Node Lab](Project_044640/README.md) |
 
 [Back to the portfolio home](../README.md)
