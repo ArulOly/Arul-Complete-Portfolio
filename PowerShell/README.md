@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040398 | [PowerShell: Dashboard — Recovery for Portfolio Demo](Project_040398/README.md) |
 | 040399 | [PowerShell: Dashboard — Reporting for Portfolio Demo](Project_040399/README.md) |
 | 040400 | [PowerShell: Dashboard — Usability Improvement for Portfolio Demo](Project_040400/README.md) |
+| 040401 | [PowerShell: Alerting — Baseline Setup for School Lab](Project_040401/README.md) |
+| 040402 | [PowerShell: Alerting — Automation for School Lab](Project_040402/README.md) |
+| 040403 | [PowerShell: Alerting — Recovery for School Lab](Project_040403/README.md) |
+| 040404 | [PowerShell: Alerting — Reporting for School Lab](Project_040404/README.md) |
+| 040405 | [PowerShell: Alerting — Usability Improvement for School Lab](Project_040405/README.md) |
+| 040406 | [PowerShell: Alerting — Baseline Setup for Small Business](Project_040406/README.md) |
+| 040407 | [PowerShell: Alerting — Automation for Small Business](Project_040407/README.md) |
+| 040408 | [PowerShell: Alerting — Recovery for Small Business](Project_040408/README.md) |
+| 040409 | [PowerShell: Alerting — Reporting for Small Business](Project_040409/README.md) |
+| 040410 | [PowerShell: Alerting — Usability Improvement for Small Business](Project_040410/README.md) |
+| 040411 | [PowerShell: Alerting — Baseline Setup for Home Development](Project_040411/README.md) |
+| 040412 | [PowerShell: Alerting — Automation for Home Development](Project_040412/README.md) |
+| 040413 | [PowerShell: Alerting — Recovery for Home Development](Project_040413/README.md) |
+| 040414 | [PowerShell: Alerting — Reporting for Home Development](Project_040414/README.md) |
+| 040415 | [PowerShell: Alerting — Usability Improvement for Home Development](Project_040415/README.md) |
+| 040416 | [PowerShell: Alerting — Baseline Setup for Public Dataset](Project_040416/README.md) |
+| 040417 | [PowerShell: Alerting — Automation for Public Dataset](Project_040417/README.md) |
+| 040418 | [PowerShell: Alerting — Recovery for Public Dataset](Project_040418/README.md) |
+| 040419 | [PowerShell: Alerting — Reporting for Public Dataset](Project_040419/README.md) |
+| 040420 | [PowerShell: Alerting — Usability Improvement for Public Dataset](Project_040420/README.md) |
 
 [Back to the portfolio home](../README.md)
