@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029578 | [Wireshark: Performance Baseline — Recovery for Offline Classroom](Project_029578/README.md) |
 | 029579 | [Wireshark: Performance Baseline — Reporting for Offline Classroom](Project_029579/README.md) |
 | 029580 | [Wireshark: Performance Baseline — Usability Improvement for Offline Classroom](Project_029580/README.md) |
+| 029581 | [Wireshark: Performance Baseline — Baseline Setup for Single-Host Lab](Project_029581/README.md) |
+| 029582 | [Wireshark: Performance Baseline — Automation for Single-Host Lab](Project_029582/README.md) |
+| 029583 | [Wireshark: Performance Baseline — Recovery for Single-Host Lab](Project_029583/README.md) |
+| 029584 | [Wireshark: Performance Baseline — Reporting for Single-Host Lab](Project_029584/README.md) |
+| 029585 | [Wireshark: Performance Baseline — Usability Improvement for Single-Host Lab](Project_029585/README.md) |
+| 029586 | [Wireshark: Performance Baseline — Baseline Setup for Two-Node Lab](Project_029586/README.md) |
+| 029587 | [Wireshark: Performance Baseline — Automation for Two-Node Lab](Project_029587/README.md) |
+| 029588 | [Wireshark: Performance Baseline — Recovery for Two-Node Lab](Project_029588/README.md) |
+| 029589 | [Wireshark: Performance Baseline — Reporting for Two-Node Lab](Project_029589/README.md) |
+| 029590 | [Wireshark: Performance Baseline — Usability Improvement for Two-Node Lab](Project_029590/README.md) |
+| 029591 | [Wireshark: Performance Baseline — Baseline Setup for Help Desk](Project_029591/README.md) |
+| 029592 | [Wireshark: Performance Baseline — Automation for Help Desk](Project_029592/README.md) |
+| 029593 | [Wireshark: Performance Baseline — Recovery for Help Desk](Project_029593/README.md) |
+| 029594 | [Wireshark: Performance Baseline — Reporting for Help Desk](Project_029594/README.md) |
+| 029595 | [Wireshark: Performance Baseline — Usability Improvement for Help Desk](Project_029595/README.md) |
+| 029596 | [Wireshark: Performance Baseline — Baseline Setup for Portfolio Demo](Project_029596/README.md) |
+| 029597 | [Wireshark: Performance Baseline — Automation for Portfolio Demo](Project_029597/README.md) |
+| 029598 | [Wireshark: Performance Baseline — Recovery for Portfolio Demo](Project_029598/README.md) |
+| 029599 | [Wireshark: Performance Baseline — Reporting for Portfolio Demo](Project_029599/README.md) |
+| 029600 | [Wireshark: Performance Baseline — Usability Improvement for Portfolio Demo](Project_029600/README.md) |
 
 [Back to the portfolio home](../README.md)
