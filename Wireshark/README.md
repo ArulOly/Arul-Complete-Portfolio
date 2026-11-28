@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029618 | [Wireshark: Service Check — Recovery for Public Dataset](Project_029618/README.md) |
 | 029619 | [Wireshark: Service Check — Reporting for Public Dataset](Project_029619/README.md) |
 | 029620 | [Wireshark: Service Check — Usability Improvement for Public Dataset](Project_029620/README.md) |
+| 029621 | [Wireshark: Service Check — Baseline Setup for Branch Office Simulator](Project_029621/README.md) |
+| 029622 | [Wireshark: Service Check — Automation for Branch Office Simulator](Project_029622/README.md) |
+| 029623 | [Wireshark: Service Check — Recovery for Branch Office Simulator](Project_029623/README.md) |
+| 029624 | [Wireshark: Service Check — Reporting for Branch Office Simulator](Project_029624/README.md) |
+| 029625 | [Wireshark: Service Check — Usability Improvement for Branch Office Simulator](Project_029625/README.md) |
+| 029626 | [Wireshark: Service Check — Baseline Setup for Offline Classroom](Project_029626/README.md) |
+| 029627 | [Wireshark: Service Check — Automation for Offline Classroom](Project_029627/README.md) |
+| 029628 | [Wireshark: Service Check — Recovery for Offline Classroom](Project_029628/README.md) |
+| 029629 | [Wireshark: Service Check — Reporting for Offline Classroom](Project_029629/README.md) |
+| 029630 | [Wireshark: Service Check — Usability Improvement for Offline Classroom](Project_029630/README.md) |
+| 029631 | [Wireshark: Service Check — Baseline Setup for Single-Host Lab](Project_029631/README.md) |
+| 029632 | [Wireshark: Service Check — Automation for Single-Host Lab](Project_029632/README.md) |
+| 029633 | [Wireshark: Service Check — Recovery for Single-Host Lab](Project_029633/README.md) |
+| 029634 | [Wireshark: Service Check — Reporting for Single-Host Lab](Project_029634/README.md) |
+| 029635 | [Wireshark: Service Check — Usability Improvement for Single-Host Lab](Project_029635/README.md) |
+| 029636 | [Wireshark: Service Check — Baseline Setup for Two-Node Lab](Project_029636/README.md) |
+| 029637 | [Wireshark: Service Check — Automation for Two-Node Lab](Project_029637/README.md) |
+| 029638 | [Wireshark: Service Check — Recovery for Two-Node Lab](Project_029638/README.md) |
+| 029639 | [Wireshark: Service Check — Reporting for Two-Node Lab](Project_029639/README.md) |
+| 029640 | [Wireshark: Service Check — Usability Improvement for Two-Node Lab](Project_029640/README.md) |
 
 [Back to the portfolio home](../README.md)
