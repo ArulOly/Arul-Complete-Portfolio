@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017598 | [Docker: Performance Baseline — Recovery for Portfolio Demo](Project_017598/README.md) |
 | 017599 | [Docker: Performance Baseline — Reporting for Portfolio Demo](Project_017599/README.md) |
 | 017600 | [Docker: Performance Baseline — Usability Improvement for Portfolio Demo](Project_017600/README.md) |
+| 017601 | [Docker: Service Check — Baseline Setup for School Lab](Project_017601/README.md) |
+| 017602 | [Docker: Service Check — Automation for School Lab](Project_017602/README.md) |
+| 017603 | [Docker: Service Check — Recovery for School Lab](Project_017603/README.md) |
+| 017604 | [Docker: Service Check — Reporting for School Lab](Project_017604/README.md) |
+| 017605 | [Docker: Service Check — Usability Improvement for School Lab](Project_017605/README.md) |
+| 017606 | [Docker: Service Check — Baseline Setup for Small Business](Project_017606/README.md) |
+| 017607 | [Docker: Service Check — Automation for Small Business](Project_017607/README.md) |
+| 017608 | [Docker: Service Check — Recovery for Small Business](Project_017608/README.md) |
+| 017609 | [Docker: Service Check — Reporting for Small Business](Project_017609/README.md) |
+| 017610 | [Docker: Service Check — Usability Improvement for Small Business](Project_017610/README.md) |
+| 017611 | [Docker: Service Check — Baseline Setup for Home Development](Project_017611/README.md) |
+| 017612 | [Docker: Service Check — Automation for Home Development](Project_017612/README.md) |
+| 017613 | [Docker: Service Check — Recovery for Home Development](Project_017613/README.md) |
+| 017614 | [Docker: Service Check — Reporting for Home Development](Project_017614/README.md) |
+| 017615 | [Docker: Service Check — Usability Improvement for Home Development](Project_017615/README.md) |
+| 017616 | [Docker: Service Check — Baseline Setup for Public Dataset](Project_017616/README.md) |
+| 017617 | [Docker: Service Check — Automation for Public Dataset](Project_017617/README.md) |
+| 017618 | [Docker: Service Check — Recovery for Public Dataset](Project_017618/README.md) |
+| 017619 | [Docker: Service Check — Reporting for Public Dataset](Project_017619/README.md) |
+| 017620 | [Docker: Service Check — Usability Improvement for Public Dataset](Project_017620/README.md) |
 
 [Back to the portfolio home](../README.md)
