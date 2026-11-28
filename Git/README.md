@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038558 | [Git: Performance Baseline — Recovery for Small Business](Project_038558/README.md) |
 | 038559 | [Git: Performance Baseline — Reporting for Small Business](Project_038559/README.md) |
 | 038560 | [Git: Performance Baseline — Usability Improvement for Small Business](Project_038560/README.md) |
+| 038561 | [Git: Performance Baseline — Baseline Setup for Home Development](Project_038561/README.md) |
+| 038562 | [Git: Performance Baseline — Automation for Home Development](Project_038562/README.md) |
+| 038563 | [Git: Performance Baseline — Recovery for Home Development](Project_038563/README.md) |
+| 038564 | [Git: Performance Baseline — Reporting for Home Development](Project_038564/README.md) |
+| 038565 | [Git: Performance Baseline — Usability Improvement for Home Development](Project_038565/README.md) |
+| 038566 | [Git: Performance Baseline — Baseline Setup for Public Dataset](Project_038566/README.md) |
+| 038567 | [Git: Performance Baseline — Automation for Public Dataset](Project_038567/README.md) |
+| 038568 | [Git: Performance Baseline — Recovery for Public Dataset](Project_038568/README.md) |
+| 038569 | [Git: Performance Baseline — Reporting for Public Dataset](Project_038569/README.md) |
+| 038570 | [Git: Performance Baseline — Usability Improvement for Public Dataset](Project_038570/README.md) |
+| 038571 | [Git: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_038571/README.md) |
+| 038572 | [Git: Performance Baseline — Automation for Branch Office Simulator](Project_038572/README.md) |
+| 038573 | [Git: Performance Baseline — Recovery for Branch Office Simulator](Project_038573/README.md) |
+| 038574 | [Git: Performance Baseline — Reporting for Branch Office Simulator](Project_038574/README.md) |
+| 038575 | [Git: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_038575/README.md) |
+| 038576 | [Git: Performance Baseline — Baseline Setup for Offline Classroom](Project_038576/README.md) |
+| 038577 | [Git: Performance Baseline — Automation for Offline Classroom](Project_038577/README.md) |
+| 038578 | [Git: Performance Baseline — Recovery for Offline Classroom](Project_038578/README.md) |
+| 038579 | [Git: Performance Baseline — Reporting for Offline Classroom](Project_038579/README.md) |
+| 038580 | [Git: Performance Baseline — Usability Improvement for Offline Classroom](Project_038580/README.md) |
 
 [Back to the portfolio home](../README.md)
