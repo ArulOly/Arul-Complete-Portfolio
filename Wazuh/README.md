@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030898 | [Wazuh: Automation — Recovery for Portfolio Demo](Project_030898/README.md) |
 | 030899 | [Wazuh: Automation — Reporting for Portfolio Demo](Project_030899/README.md) |
 | 030900 | [Wazuh: Automation — Usability Improvement for Portfolio Demo](Project_030900/README.md) |
+| 030901 | [Wazuh: Visual Reporting — Baseline Setup for School Lab](Project_030901/README.md) |
+| 030902 | [Wazuh: Visual Reporting — Automation for School Lab](Project_030902/README.md) |
+| 030903 | [Wazuh: Visual Reporting — Recovery for School Lab](Project_030903/README.md) |
+| 030904 | [Wazuh: Visual Reporting — Reporting for School Lab](Project_030904/README.md) |
+| 030905 | [Wazuh: Visual Reporting — Usability Improvement for School Lab](Project_030905/README.md) |
+| 030906 | [Wazuh: Visual Reporting — Baseline Setup for Small Business](Project_030906/README.md) |
+| 030907 | [Wazuh: Visual Reporting — Automation for Small Business](Project_030907/README.md) |
+| 030908 | [Wazuh: Visual Reporting — Recovery for Small Business](Project_030908/README.md) |
+| 030909 | [Wazuh: Visual Reporting — Reporting for Small Business](Project_030909/README.md) |
+| 030910 | [Wazuh: Visual Reporting — Usability Improvement for Small Business](Project_030910/README.md) |
+| 030911 | [Wazuh: Visual Reporting — Baseline Setup for Home Development](Project_030911/README.md) |
+| 030912 | [Wazuh: Visual Reporting — Automation for Home Development](Project_030912/README.md) |
+| 030913 | [Wazuh: Visual Reporting — Recovery for Home Development](Project_030913/README.md) |
+| 030914 | [Wazuh: Visual Reporting — Reporting for Home Development](Project_030914/README.md) |
+| 030915 | [Wazuh: Visual Reporting — Usability Improvement for Home Development](Project_030915/README.md) |
+| 030916 | [Wazuh: Visual Reporting — Baseline Setup for Public Dataset](Project_030916/README.md) |
+| 030917 | [Wazuh: Visual Reporting — Automation for Public Dataset](Project_030917/README.md) |
+| 030918 | [Wazuh: Visual Reporting — Recovery for Public Dataset](Project_030918/README.md) |
+| 030919 | [Wazuh: Visual Reporting — Reporting for Public Dataset](Project_030919/README.md) |
+| 030920 | [Wazuh: Visual Reporting — Usability Improvement for Public Dataset](Project_030920/README.md) |
 
 [Back to the portfolio home](../README.md)
