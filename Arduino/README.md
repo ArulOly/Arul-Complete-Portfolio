@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037478 | [Arduino: Scheduled Reporting — Recovery for Offline Classroom](Project_037478/README.md) |
 | 037479 | [Arduino: Scheduled Reporting — Reporting for Offline Classroom](Project_037479/README.md) |
 | 037480 | [Arduino: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_037480/README.md) |
+| 037481 | [Arduino: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_037481/README.md) |
+| 037482 | [Arduino: Scheduled Reporting — Automation for Single-Host Lab](Project_037482/README.md) |
+| 037483 | [Arduino: Scheduled Reporting — Recovery for Single-Host Lab](Project_037483/README.md) |
+| 037484 | [Arduino: Scheduled Reporting — Reporting for Single-Host Lab](Project_037484/README.md) |
+| 037485 | [Arduino: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_037485/README.md) |
+| 037486 | [Arduino: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_037486/README.md) |
+| 037487 | [Arduino: Scheduled Reporting — Automation for Two-Node Lab](Project_037487/README.md) |
+| 037488 | [Arduino: Scheduled Reporting — Recovery for Two-Node Lab](Project_037488/README.md) |
+| 037489 | [Arduino: Scheduled Reporting — Reporting for Two-Node Lab](Project_037489/README.md) |
+| 037490 | [Arduino: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_037490/README.md) |
+| 037491 | [Arduino: Scheduled Reporting — Baseline Setup for Help Desk](Project_037491/README.md) |
+| 037492 | [Arduino: Scheduled Reporting — Automation for Help Desk](Project_037492/README.md) |
+| 037493 | [Arduino: Scheduled Reporting — Recovery for Help Desk](Project_037493/README.md) |
+| 037494 | [Arduino: Scheduled Reporting — Reporting for Help Desk](Project_037494/README.md) |
+| 037495 | [Arduino: Scheduled Reporting — Usability Improvement for Help Desk](Project_037495/README.md) |
+| 037496 | [Arduino: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_037496/README.md) |
+| 037497 | [Arduino: Scheduled Reporting — Automation for Portfolio Demo](Project_037497/README.md) |
+| 037498 | [Arduino: Scheduled Reporting — Recovery for Portfolio Demo](Project_037498/README.md) |
+| 037499 | [Arduino: Scheduled Reporting — Reporting for Portfolio Demo](Project_037499/README.md) |
+| 037500 | [Arduino: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_037500/README.md) |
 
 [Back to the portfolio home](../README.md)
