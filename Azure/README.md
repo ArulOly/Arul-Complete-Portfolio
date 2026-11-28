@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015818 | [Azure: Documentation Generation — Recovery for Public Dataset](Project_015818/README.md) |
 | 015819 | [Azure: Documentation Generation — Reporting for Public Dataset](Project_015819/README.md) |
 | 015820 | [Azure: Documentation Generation — Usability Improvement for Public Dataset](Project_015820/README.md) |
+| 015821 | [Azure: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_015821/README.md) |
+| 015822 | [Azure: Documentation Generation — Automation for Branch Office Simulator](Project_015822/README.md) |
+| 015823 | [Azure: Documentation Generation — Recovery for Branch Office Simulator](Project_015823/README.md) |
+| 015824 | [Azure: Documentation Generation — Reporting for Branch Office Simulator](Project_015824/README.md) |
+| 015825 | [Azure: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_015825/README.md) |
+| 015826 | [Azure: Documentation Generation — Baseline Setup for Offline Classroom](Project_015826/README.md) |
+| 015827 | [Azure: Documentation Generation — Automation for Offline Classroom](Project_015827/README.md) |
+| 015828 | [Azure: Documentation Generation — Recovery for Offline Classroom](Project_015828/README.md) |
+| 015829 | [Azure: Documentation Generation — Reporting for Offline Classroom](Project_015829/README.md) |
+| 015830 | [Azure: Documentation Generation — Usability Improvement for Offline Classroom](Project_015830/README.md) |
+| 015831 | [Azure: Documentation Generation — Baseline Setup for Single-Host Lab](Project_015831/README.md) |
+| 015832 | [Azure: Documentation Generation — Automation for Single-Host Lab](Project_015832/README.md) |
+| 015833 | [Azure: Documentation Generation — Recovery for Single-Host Lab](Project_015833/README.md) |
+| 015834 | [Azure: Documentation Generation — Reporting for Single-Host Lab](Project_015834/README.md) |
+| 015835 | [Azure: Documentation Generation — Usability Improvement for Single-Host Lab](Project_015835/README.md) |
+| 015836 | [Azure: Documentation Generation — Baseline Setup for Two-Node Lab](Project_015836/README.md) |
+| 015837 | [Azure: Documentation Generation — Automation for Two-Node Lab](Project_015837/README.md) |
+| 015838 | [Azure: Documentation Generation — Recovery for Two-Node Lab](Project_015838/README.md) |
+| 015839 | [Azure: Documentation Generation — Reporting for Two-Node Lab](Project_015839/README.md) |
+| 015840 | [Azure: Documentation Generation — Usability Improvement for Two-Node Lab](Project_015840/README.md) |
 
 [Back to the portfolio home](../README.md)
