@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015638 | [Azure: Service Check — Recovery for Two-Node Lab](Project_015638/README.md) |
 | 015639 | [Azure: Service Check — Reporting for Two-Node Lab](Project_015639/README.md) |
 | 015640 | [Azure: Service Check — Usability Improvement for Two-Node Lab](Project_015640/README.md) |
+| 015641 | [Azure: Service Check — Baseline Setup for Help Desk](Project_015641/README.md) |
+| 015642 | [Azure: Service Check — Automation for Help Desk](Project_015642/README.md) |
+| 015643 | [Azure: Service Check — Recovery for Help Desk](Project_015643/README.md) |
+| 015644 | [Azure: Service Check — Reporting for Help Desk](Project_015644/README.md) |
+| 015645 | [Azure: Service Check — Usability Improvement for Help Desk](Project_015645/README.md) |
+| 015646 | [Azure: Service Check — Baseline Setup for Portfolio Demo](Project_015646/README.md) |
+| 015647 | [Azure: Service Check — Automation for Portfolio Demo](Project_015647/README.md) |
+| 015648 | [Azure: Service Check — Recovery for Portfolio Demo](Project_015648/README.md) |
+| 015649 | [Azure: Service Check — Reporting for Portfolio Demo](Project_015649/README.md) |
+| 015650 | [Azure: Service Check — Usability Improvement for Portfolio Demo](Project_015650/README.md) |
+| 015651 | [Azure: Configuration Comparison — Baseline Setup for School Lab](Project_015651/README.md) |
+| 015652 | [Azure: Configuration Comparison — Automation for School Lab](Project_015652/README.md) |
+| 015653 | [Azure: Configuration Comparison — Recovery for School Lab](Project_015653/README.md) |
+| 015654 | [Azure: Configuration Comparison — Reporting for School Lab](Project_015654/README.md) |
+| 015655 | [Azure: Configuration Comparison — Usability Improvement for School Lab](Project_015655/README.md) |
+| 015656 | [Azure: Configuration Comparison — Baseline Setup for Small Business](Project_015656/README.md) |
+| 015657 | [Azure: Configuration Comparison — Automation for Small Business](Project_015657/README.md) |
+| 015658 | [Azure: Configuration Comparison — Recovery for Small Business](Project_015658/README.md) |
+| 015659 | [Azure: Configuration Comparison — Reporting for Small Business](Project_015659/README.md) |
+| 015660 | [Azure: Configuration Comparison — Usability Improvement for Small Business](Project_015660/README.md) |
 
 [Back to the portfolio home](../README.md)
