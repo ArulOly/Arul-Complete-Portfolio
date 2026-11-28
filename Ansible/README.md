@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047258 | [Ansible: Data Import — Recovery for Small Business](Project_047258/README.md) |
 | 047259 | [Ansible: Data Import — Reporting for Small Business](Project_047259/README.md) |
 | 047260 | [Ansible: Data Import — Usability Improvement for Small Business](Project_047260/README.md) |
+| 047261 | [Ansible: Data Import — Baseline Setup for Home Development](Project_047261/README.md) |
+| 047262 | [Ansible: Data Import — Automation for Home Development](Project_047262/README.md) |
+| 047263 | [Ansible: Data Import — Recovery for Home Development](Project_047263/README.md) |
+| 047264 | [Ansible: Data Import — Reporting for Home Development](Project_047264/README.md) |
+| 047265 | [Ansible: Data Import — Usability Improvement for Home Development](Project_047265/README.md) |
+| 047266 | [Ansible: Data Import — Baseline Setup for Public Dataset](Project_047266/README.md) |
+| 047267 | [Ansible: Data Import — Automation for Public Dataset](Project_047267/README.md) |
+| 047268 | [Ansible: Data Import — Recovery for Public Dataset](Project_047268/README.md) |
+| 047269 | [Ansible: Data Import — Reporting for Public Dataset](Project_047269/README.md) |
+| 047270 | [Ansible: Data Import — Usability Improvement for Public Dataset](Project_047270/README.md) |
+| 047271 | [Ansible: Data Import — Baseline Setup for Branch Office Simulator](Project_047271/README.md) |
+| 047272 | [Ansible: Data Import — Automation for Branch Office Simulator](Project_047272/README.md) |
+| 047273 | [Ansible: Data Import — Recovery for Branch Office Simulator](Project_047273/README.md) |
+| 047274 | [Ansible: Data Import — Reporting for Branch Office Simulator](Project_047274/README.md) |
+| 047275 | [Ansible: Data Import — Usability Improvement for Branch Office Simulator](Project_047275/README.md) |
+| 047276 | [Ansible: Data Import — Baseline Setup for Offline Classroom](Project_047276/README.md) |
+| 047277 | [Ansible: Data Import — Automation for Offline Classroom](Project_047277/README.md) |
+| 047278 | [Ansible: Data Import — Recovery for Offline Classroom](Project_047278/README.md) |
+| 047279 | [Ansible: Data Import — Reporting for Offline Classroom](Project_047279/README.md) |
+| 047280 | [Ansible: Data Import — Usability Improvement for Offline Classroom](Project_047280/README.md) |
 
 [Back to the portfolio home](../README.md)
