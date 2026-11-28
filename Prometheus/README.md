@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044158 | [Prometheus: Log Analysis — Recovery for Small Business](Project_044158/README.md) |
 | 044159 | [Prometheus: Log Analysis — Reporting for Small Business](Project_044159/README.md) |
 | 044160 | [Prometheus: Log Analysis — Usability Improvement for Small Business](Project_044160/README.md) |
+| 044161 | [Prometheus: Log Analysis — Baseline Setup for Home Development](Project_044161/README.md) |
+| 044162 | [Prometheus: Log Analysis — Automation for Home Development](Project_044162/README.md) |
+| 044163 | [Prometheus: Log Analysis — Recovery for Home Development](Project_044163/README.md) |
+| 044164 | [Prometheus: Log Analysis — Reporting for Home Development](Project_044164/README.md) |
+| 044165 | [Prometheus: Log Analysis — Usability Improvement for Home Development](Project_044165/README.md) |
+| 044166 | [Prometheus: Log Analysis — Baseline Setup for Public Dataset](Project_044166/README.md) |
+| 044167 | [Prometheus: Log Analysis — Automation for Public Dataset](Project_044167/README.md) |
+| 044168 | [Prometheus: Log Analysis — Recovery for Public Dataset](Project_044168/README.md) |
+| 044169 | [Prometheus: Log Analysis — Reporting for Public Dataset](Project_044169/README.md) |
+| 044170 | [Prometheus: Log Analysis — Usability Improvement for Public Dataset](Project_044170/README.md) |
+| 044171 | [Prometheus: Log Analysis — Baseline Setup for Branch Office Simulator](Project_044171/README.md) |
+| 044172 | [Prometheus: Log Analysis — Automation for Branch Office Simulator](Project_044172/README.md) |
+| 044173 | [Prometheus: Log Analysis — Recovery for Branch Office Simulator](Project_044173/README.md) |
+| 044174 | [Prometheus: Log Analysis — Reporting for Branch Office Simulator](Project_044174/README.md) |
+| 044175 | [Prometheus: Log Analysis — Usability Improvement for Branch Office Simulator](Project_044175/README.md) |
+| 044176 | [Prometheus: Log Analysis — Baseline Setup for Offline Classroom](Project_044176/README.md) |
+| 044177 | [Prometheus: Log Analysis — Automation for Offline Classroom](Project_044177/README.md) |
+| 044178 | [Prometheus: Log Analysis — Recovery for Offline Classroom](Project_044178/README.md) |
+| 044179 | [Prometheus: Log Analysis — Reporting for Offline Classroom](Project_044179/README.md) |
+| 044180 | [Prometheus: Log Analysis — Usability Improvement for Offline Classroom](Project_044180/README.md) |
 
 [Back to the portfolio home](../README.md)
