@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038178 | [Git: Log Analysis — Recovery for Offline Classroom](Project_038178/README.md) |
 | 038179 | [Git: Log Analysis — Reporting for Offline Classroom](Project_038179/README.md) |
 | 038180 | [Git: Log Analysis — Usability Improvement for Offline Classroom](Project_038180/README.md) |
+| 038181 | [Git: Log Analysis — Baseline Setup for Single-Host Lab](Project_038181/README.md) |
+| 038182 | [Git: Log Analysis — Automation for Single-Host Lab](Project_038182/README.md) |
+| 038183 | [Git: Log Analysis — Recovery for Single-Host Lab](Project_038183/README.md) |
+| 038184 | [Git: Log Analysis — Reporting for Single-Host Lab](Project_038184/README.md) |
+| 038185 | [Git: Log Analysis — Usability Improvement for Single-Host Lab](Project_038185/README.md) |
+| 038186 | [Git: Log Analysis — Baseline Setup for Two-Node Lab](Project_038186/README.md) |
+| 038187 | [Git: Log Analysis — Automation for Two-Node Lab](Project_038187/README.md) |
+| 038188 | [Git: Log Analysis — Recovery for Two-Node Lab](Project_038188/README.md) |
+| 038189 | [Git: Log Analysis — Reporting for Two-Node Lab](Project_038189/README.md) |
+| 038190 | [Git: Log Analysis — Usability Improvement for Two-Node Lab](Project_038190/README.md) |
+| 038191 | [Git: Log Analysis — Baseline Setup for Help Desk](Project_038191/README.md) |
+| 038192 | [Git: Log Analysis — Automation for Help Desk](Project_038192/README.md) |
+| 038193 | [Git: Log Analysis — Recovery for Help Desk](Project_038193/README.md) |
+| 038194 | [Git: Log Analysis — Reporting for Help Desk](Project_038194/README.md) |
+| 038195 | [Git: Log Analysis — Usability Improvement for Help Desk](Project_038195/README.md) |
+| 038196 | [Git: Log Analysis — Baseline Setup for Portfolio Demo](Project_038196/README.md) |
+| 038197 | [Git: Log Analysis — Automation for Portfolio Demo](Project_038197/README.md) |
+| 038198 | [Git: Log Analysis — Recovery for Portfolio Demo](Project_038198/README.md) |
+| 038199 | [Git: Log Analysis — Reporting for Portfolio Demo](Project_038199/README.md) |
+| 038200 | [Git: Log Analysis — Usability Improvement for Portfolio Demo](Project_038200/README.md) |
 
 [Back to the portfolio home](../README.md)
