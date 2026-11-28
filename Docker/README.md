@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017698 | [Docker: Configuration Comparison — Recovery for Portfolio Demo](Project_017698/README.md) |
 | 017699 | [Docker: Configuration Comparison — Reporting for Portfolio Demo](Project_017699/README.md) |
 | 017700 | [Docker: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_017700/README.md) |
+| 017701 | [Docker: Error Handling — Baseline Setup for School Lab](Project_017701/README.md) |
+| 017702 | [Docker: Error Handling — Automation for School Lab](Project_017702/README.md) |
+| 017703 | [Docker: Error Handling — Recovery for School Lab](Project_017703/README.md) |
+| 017704 | [Docker: Error Handling — Reporting for School Lab](Project_017704/README.md) |
+| 017705 | [Docker: Error Handling — Usability Improvement for School Lab](Project_017705/README.md) |
+| 017706 | [Docker: Error Handling — Baseline Setup for Small Business](Project_017706/README.md) |
+| 017707 | [Docker: Error Handling — Automation for Small Business](Project_017707/README.md) |
+| 017708 | [Docker: Error Handling — Recovery for Small Business](Project_017708/README.md) |
+| 017709 | [Docker: Error Handling — Reporting for Small Business](Project_017709/README.md) |
+| 017710 | [Docker: Error Handling — Usability Improvement for Small Business](Project_017710/README.md) |
+| 017711 | [Docker: Error Handling — Baseline Setup for Home Development](Project_017711/README.md) |
+| 017712 | [Docker: Error Handling — Automation for Home Development](Project_017712/README.md) |
+| 017713 | [Docker: Error Handling — Recovery for Home Development](Project_017713/README.md) |
+| 017714 | [Docker: Error Handling — Reporting for Home Development](Project_017714/README.md) |
+| 017715 | [Docker: Error Handling — Usability Improvement for Home Development](Project_017715/README.md) |
+| 017716 | [Docker: Error Handling — Baseline Setup for Public Dataset](Project_017716/README.md) |
+| 017717 | [Docker: Error Handling — Automation for Public Dataset](Project_017717/README.md) |
+| 017718 | [Docker: Error Handling — Recovery for Public Dataset](Project_017718/README.md) |
+| 017719 | [Docker: Error Handling — Reporting for Public Dataset](Project_017719/README.md) |
+| 017720 | [Docker: Error Handling — Usability Improvement for Public Dataset](Project_017720/README.md) |
 
 [Back to the portfolio home](../README.md)
