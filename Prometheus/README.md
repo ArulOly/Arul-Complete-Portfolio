@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044878 | [Prometheus: Automation — Recovery for Offline Classroom](Project_044878/README.md) |
 | 044879 | [Prometheus: Automation — Reporting for Offline Classroom](Project_044879/README.md) |
 | 044880 | [Prometheus: Automation — Usability Improvement for Offline Classroom](Project_044880/README.md) |
+| 044881 | [Prometheus: Automation — Baseline Setup for Single-Host Lab](Project_044881/README.md) |
+| 044882 | [Prometheus: Automation — Automation for Single-Host Lab](Project_044882/README.md) |
+| 044883 | [Prometheus: Automation — Recovery for Single-Host Lab](Project_044883/README.md) |
+| 044884 | [Prometheus: Automation — Reporting for Single-Host Lab](Project_044884/README.md) |
+| 044885 | [Prometheus: Automation — Usability Improvement for Single-Host Lab](Project_044885/README.md) |
+| 044886 | [Prometheus: Automation — Baseline Setup for Two-Node Lab](Project_044886/README.md) |
+| 044887 | [Prometheus: Automation — Automation for Two-Node Lab](Project_044887/README.md) |
+| 044888 | [Prometheus: Automation — Recovery for Two-Node Lab](Project_044888/README.md) |
+| 044889 | [Prometheus: Automation — Reporting for Two-Node Lab](Project_044889/README.md) |
+| 044890 | [Prometheus: Automation — Usability Improvement for Two-Node Lab](Project_044890/README.md) |
+| 044891 | [Prometheus: Automation — Baseline Setup for Help Desk](Project_044891/README.md) |
+| 044892 | [Prometheus: Automation — Automation for Help Desk](Project_044892/README.md) |
+| 044893 | [Prometheus: Automation — Recovery for Help Desk](Project_044893/README.md) |
+| 044894 | [Prometheus: Automation — Reporting for Help Desk](Project_044894/README.md) |
+| 044895 | [Prometheus: Automation — Usability Improvement for Help Desk](Project_044895/README.md) |
+| 044896 | [Prometheus: Automation — Baseline Setup for Portfolio Demo](Project_044896/README.md) |
+| 044897 | [Prometheus: Automation — Automation for Portfolio Demo](Project_044897/README.md) |
+| 044898 | [Prometheus: Automation — Recovery for Portfolio Demo](Project_044898/README.md) |
+| 044899 | [Prometheus: Automation — Reporting for Portfolio Demo](Project_044899/README.md) |
+| 044900 | [Prometheus: Automation — Usability Improvement for Portfolio Demo](Project_044900/README.md) |
 
 [Back to the portfolio home](../README.md)
