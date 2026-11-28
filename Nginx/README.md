@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041818 | [Nginx: Documentation Generation — Recovery for Public Dataset](Project_041818/README.md) |
 | 041819 | [Nginx: Documentation Generation — Reporting for Public Dataset](Project_041819/README.md) |
 | 041820 | [Nginx: Documentation Generation — Usability Improvement for Public Dataset](Project_041820/README.md) |
+| 041821 | [Nginx: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_041821/README.md) |
+| 041822 | [Nginx: Documentation Generation — Automation for Branch Office Simulator](Project_041822/README.md) |
+| 041823 | [Nginx: Documentation Generation — Recovery for Branch Office Simulator](Project_041823/README.md) |
+| 041824 | [Nginx: Documentation Generation — Reporting for Branch Office Simulator](Project_041824/README.md) |
+| 041825 | [Nginx: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_041825/README.md) |
+| 041826 | [Nginx: Documentation Generation — Baseline Setup for Offline Classroom](Project_041826/README.md) |
+| 041827 | [Nginx: Documentation Generation — Automation for Offline Classroom](Project_041827/README.md) |
+| 041828 | [Nginx: Documentation Generation — Recovery for Offline Classroom](Project_041828/README.md) |
+| 041829 | [Nginx: Documentation Generation — Reporting for Offline Classroom](Project_041829/README.md) |
+| 041830 | [Nginx: Documentation Generation — Usability Improvement for Offline Classroom](Project_041830/README.md) |
+| 041831 | [Nginx: Documentation Generation — Baseline Setup for Single-Host Lab](Project_041831/README.md) |
+| 041832 | [Nginx: Documentation Generation — Automation for Single-Host Lab](Project_041832/README.md) |
+| 041833 | [Nginx: Documentation Generation — Recovery for Single-Host Lab](Project_041833/README.md) |
+| 041834 | [Nginx: Documentation Generation — Reporting for Single-Host Lab](Project_041834/README.md) |
+| 041835 | [Nginx: Documentation Generation — Usability Improvement for Single-Host Lab](Project_041835/README.md) |
+| 041836 | [Nginx: Documentation Generation — Baseline Setup for Two-Node Lab](Project_041836/README.md) |
+| 041837 | [Nginx: Documentation Generation — Automation for Two-Node Lab](Project_041837/README.md) |
+| 041838 | [Nginx: Documentation Generation — Recovery for Two-Node Lab](Project_041838/README.md) |
+| 041839 | [Nginx: Documentation Generation — Reporting for Two-Node Lab](Project_041839/README.md) |
+| 041840 | [Nginx: Documentation Generation — Usability Improvement for Two-Node Lab](Project_041840/README.md) |
 
 [Back to the portfolio home](../README.md)
