@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015238 | [Azure: Backup Verification — Recovery for Two-Node Lab](Project_015238/README.md) |
 | 015239 | [Azure: Backup Verification — Reporting for Two-Node Lab](Project_015239/README.md) |
 | 015240 | [Azure: Backup Verification — Usability Improvement for Two-Node Lab](Project_015240/README.md) |
+| 015241 | [Azure: Backup Verification — Baseline Setup for Help Desk](Project_015241/README.md) |
+| 015242 | [Azure: Backup Verification — Automation for Help Desk](Project_015242/README.md) |
+| 015243 | [Azure: Backup Verification — Recovery for Help Desk](Project_015243/README.md) |
+| 015244 | [Azure: Backup Verification — Reporting for Help Desk](Project_015244/README.md) |
+| 015245 | [Azure: Backup Verification — Usability Improvement for Help Desk](Project_015245/README.md) |
+| 015246 | [Azure: Backup Verification — Baseline Setup for Portfolio Demo](Project_015246/README.md) |
+| 015247 | [Azure: Backup Verification — Automation for Portfolio Demo](Project_015247/README.md) |
+| 015248 | [Azure: Backup Verification — Recovery for Portfolio Demo](Project_015248/README.md) |
+| 015249 | [Azure: Backup Verification — Reporting for Portfolio Demo](Project_015249/README.md) |
+| 015250 | [Azure: Backup Verification — Usability Improvement for Portfolio Demo](Project_015250/README.md) |
+| 015251 | [Azure: Data Import — Baseline Setup for School Lab](Project_015251/README.md) |
+| 015252 | [Azure: Data Import — Automation for School Lab](Project_015252/README.md) |
+| 015253 | [Azure: Data Import — Recovery for School Lab](Project_015253/README.md) |
+| 015254 | [Azure: Data Import — Reporting for School Lab](Project_015254/README.md) |
+| 015255 | [Azure: Data Import — Usability Improvement for School Lab](Project_015255/README.md) |
+| 015256 | [Azure: Data Import — Baseline Setup for Small Business](Project_015256/README.md) |
+| 015257 | [Azure: Data Import — Automation for Small Business](Project_015257/README.md) |
+| 015258 | [Azure: Data Import — Recovery for Small Business](Project_015258/README.md) |
+| 015259 | [Azure: Data Import — Reporting for Small Business](Project_015259/README.md) |
+| 015260 | [Azure: Data Import — Usability Improvement for Small Business](Project_015260/README.md) |
 
 [Back to the portfolio home](../README.md)
