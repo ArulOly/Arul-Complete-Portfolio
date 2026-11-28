@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015058 | [Azure: Monitoring — Recovery for Small Business](Project_015058/README.md) |
 | 015059 | [Azure: Monitoring — Reporting for Small Business](Project_015059/README.md) |
 | 015060 | [Azure: Monitoring — Usability Improvement for Small Business](Project_015060/README.md) |
+| 015061 | [Azure: Monitoring — Baseline Setup for Home Development](Project_015061/README.md) |
+| 015062 | [Azure: Monitoring — Automation for Home Development](Project_015062/README.md) |
+| 015063 | [Azure: Monitoring — Recovery for Home Development](Project_015063/README.md) |
+| 015064 | [Azure: Monitoring — Reporting for Home Development](Project_015064/README.md) |
+| 015065 | [Azure: Monitoring — Usability Improvement for Home Development](Project_015065/README.md) |
+| 015066 | [Azure: Monitoring — Baseline Setup for Public Dataset](Project_015066/README.md) |
+| 015067 | [Azure: Monitoring — Automation for Public Dataset](Project_015067/README.md) |
+| 015068 | [Azure: Monitoring — Recovery for Public Dataset](Project_015068/README.md) |
+| 015069 | [Azure: Monitoring — Reporting for Public Dataset](Project_015069/README.md) |
+| 015070 | [Azure: Monitoring — Usability Improvement for Public Dataset](Project_015070/README.md) |
+| 015071 | [Azure: Monitoring — Baseline Setup for Branch Office Simulator](Project_015071/README.md) |
+| 015072 | [Azure: Monitoring — Automation for Branch Office Simulator](Project_015072/README.md) |
+| 015073 | [Azure: Monitoring — Recovery for Branch Office Simulator](Project_015073/README.md) |
+| 015074 | [Azure: Monitoring — Reporting for Branch Office Simulator](Project_015074/README.md) |
+| 015075 | [Azure: Monitoring — Usability Improvement for Branch Office Simulator](Project_015075/README.md) |
+| 015076 | [Azure: Monitoring — Baseline Setup for Offline Classroom](Project_015076/README.md) |
+| 015077 | [Azure: Monitoring — Automation for Offline Classroom](Project_015077/README.md) |
+| 015078 | [Azure: Monitoring — Recovery for Offline Classroom](Project_015078/README.md) |
+| 015079 | [Azure: Monitoring — Reporting for Offline Classroom](Project_015079/README.md) |
+| 015080 | [Azure: Monitoring — Usability Improvement for Offline Classroom](Project_015080/README.md) |
 
 [Back to the portfolio home](../README.md)
