@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039778 | [Bash: Data Validation — Recovery for Offline Classroom](Project_039778/README.md) |
 | 039779 | [Bash: Data Validation — Reporting for Offline Classroom](Project_039779/README.md) |
 | 039780 | [Bash: Data Validation — Usability Improvement for Offline Classroom](Project_039780/README.md) |
+| 039781 | [Bash: Data Validation — Baseline Setup for Single-Host Lab](Project_039781/README.md) |
+| 039782 | [Bash: Data Validation — Automation for Single-Host Lab](Project_039782/README.md) |
+| 039783 | [Bash: Data Validation — Recovery for Single-Host Lab](Project_039783/README.md) |
+| 039784 | [Bash: Data Validation — Reporting for Single-Host Lab](Project_039784/README.md) |
+| 039785 | [Bash: Data Validation — Usability Improvement for Single-Host Lab](Project_039785/README.md) |
+| 039786 | [Bash: Data Validation — Baseline Setup for Two-Node Lab](Project_039786/README.md) |
+| 039787 | [Bash: Data Validation — Automation for Two-Node Lab](Project_039787/README.md) |
+| 039788 | [Bash: Data Validation — Recovery for Two-Node Lab](Project_039788/README.md) |
+| 039789 | [Bash: Data Validation — Reporting for Two-Node Lab](Project_039789/README.md) |
+| 039790 | [Bash: Data Validation — Usability Improvement for Two-Node Lab](Project_039790/README.md) |
+| 039791 | [Bash: Data Validation — Baseline Setup for Help Desk](Project_039791/README.md) |
+| 039792 | [Bash: Data Validation — Automation for Help Desk](Project_039792/README.md) |
+| 039793 | [Bash: Data Validation — Recovery for Help Desk](Project_039793/README.md) |
+| 039794 | [Bash: Data Validation — Reporting for Help Desk](Project_039794/README.md) |
+| 039795 | [Bash: Data Validation — Usability Improvement for Help Desk](Project_039795/README.md) |
+| 039796 | [Bash: Data Validation — Baseline Setup for Portfolio Demo](Project_039796/README.md) |
+| 039797 | [Bash: Data Validation — Automation for Portfolio Demo](Project_039797/README.md) |
+| 039798 | [Bash: Data Validation — Recovery for Portfolio Demo](Project_039798/README.md) |
+| 039799 | [Bash: Data Validation — Reporting for Portfolio Demo](Project_039799/README.md) |
+| 039800 | [Bash: Data Validation — Usability Improvement for Portfolio Demo](Project_039800/README.md) |
 
 [Back to the portfolio home](../README.md)
