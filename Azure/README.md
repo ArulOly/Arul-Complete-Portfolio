@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015138 | [Azure: Audit — Recovery for Two-Node Lab](Project_015138/README.md) |
 | 015139 | [Azure: Audit — Reporting for Two-Node Lab](Project_015139/README.md) |
 | 015140 | [Azure: Audit — Usability Improvement for Two-Node Lab](Project_015140/README.md) |
+| 015141 | [Azure: Audit — Baseline Setup for Help Desk](Project_015141/README.md) |
+| 015142 | [Azure: Audit — Automation for Help Desk](Project_015142/README.md) |
+| 015143 | [Azure: Audit — Recovery for Help Desk](Project_015143/README.md) |
+| 015144 | [Azure: Audit — Reporting for Help Desk](Project_015144/README.md) |
+| 015145 | [Azure: Audit — Usability Improvement for Help Desk](Project_015145/README.md) |
+| 015146 | [Azure: Audit — Baseline Setup for Portfolio Demo](Project_015146/README.md) |
+| 015147 | [Azure: Audit — Automation for Portfolio Demo](Project_015147/README.md) |
+| 015148 | [Azure: Audit — Recovery for Portfolio Demo](Project_015148/README.md) |
+| 015149 | [Azure: Audit — Reporting for Portfolio Demo](Project_015149/README.md) |
+| 015150 | [Azure: Audit — Usability Improvement for Portfolio Demo](Project_015150/README.md) |
+| 015151 | [Azure: Log Analysis — Baseline Setup for School Lab](Project_015151/README.md) |
+| 015152 | [Azure: Log Analysis — Automation for School Lab](Project_015152/README.md) |
+| 015153 | [Azure: Log Analysis — Recovery for School Lab](Project_015153/README.md) |
+| 015154 | [Azure: Log Analysis — Reporting for School Lab](Project_015154/README.md) |
+| 015155 | [Azure: Log Analysis — Usability Improvement for School Lab](Project_015155/README.md) |
+| 015156 | [Azure: Log Analysis — Baseline Setup for Small Business](Project_015156/README.md) |
+| 015157 | [Azure: Log Analysis — Automation for Small Business](Project_015157/README.md) |
+| 015158 | [Azure: Log Analysis — Recovery for Small Business](Project_015158/README.md) |
+| 015159 | [Azure: Log Analysis — Reporting for Small Business](Project_015159/README.md) |
+| 015160 | [Azure: Log Analysis — Usability Improvement for Small Business](Project_015160/README.md) |
 
 [Back to the portfolio home](../README.md)
