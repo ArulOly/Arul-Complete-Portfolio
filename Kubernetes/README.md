@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018438 | [Kubernetes: Alerting — Recovery for Two-Node Lab](Project_018438/README.md) |
 | 018439 | [Kubernetes: Alerting — Reporting for Two-Node Lab](Project_018439/README.md) |
 | 018440 | [Kubernetes: Alerting — Usability Improvement for Two-Node Lab](Project_018440/README.md) |
+| 018441 | [Kubernetes: Alerting — Baseline Setup for Help Desk](Project_018441/README.md) |
+| 018442 | [Kubernetes: Alerting — Automation for Help Desk](Project_018442/README.md) |
+| 018443 | [Kubernetes: Alerting — Recovery for Help Desk](Project_018443/README.md) |
+| 018444 | [Kubernetes: Alerting — Reporting for Help Desk](Project_018444/README.md) |
+| 018445 | [Kubernetes: Alerting — Usability Improvement for Help Desk](Project_018445/README.md) |
+| 018446 | [Kubernetes: Alerting — Baseline Setup for Portfolio Demo](Project_018446/README.md) |
+| 018447 | [Kubernetes: Alerting — Automation for Portfolio Demo](Project_018447/README.md) |
+| 018448 | [Kubernetes: Alerting — Recovery for Portfolio Demo](Project_018448/README.md) |
+| 018449 | [Kubernetes: Alerting — Reporting for Portfolio Demo](Project_018449/README.md) |
+| 018450 | [Kubernetes: Alerting — Usability Improvement for Portfolio Demo](Project_018450/README.md) |
+| 018451 | [Kubernetes: Scheduled Reporting — Baseline Setup for School Lab](Project_018451/README.md) |
+| 018452 | [Kubernetes: Scheduled Reporting — Automation for School Lab](Project_018452/README.md) |
+| 018453 | [Kubernetes: Scheduled Reporting — Recovery for School Lab](Project_018453/README.md) |
+| 018454 | [Kubernetes: Scheduled Reporting — Reporting for School Lab](Project_018454/README.md) |
+| 018455 | [Kubernetes: Scheduled Reporting — Usability Improvement for School Lab](Project_018455/README.md) |
+| 018456 | [Kubernetes: Scheduled Reporting — Baseline Setup for Small Business](Project_018456/README.md) |
+| 018457 | [Kubernetes: Scheduled Reporting — Automation for Small Business](Project_018457/README.md) |
+| 018458 | [Kubernetes: Scheduled Reporting — Recovery for Small Business](Project_018458/README.md) |
+| 018459 | [Kubernetes: Scheduled Reporting — Reporting for Small Business](Project_018459/README.md) |
+| 018460 | [Kubernetes: Scheduled Reporting — Usability Improvement for Small Business](Project_018460/README.md) |
 
 [Back to the portfolio home](../README.md)
