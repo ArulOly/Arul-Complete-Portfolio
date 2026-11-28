@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044978 | [Prometheus: Recovery Test — Recovery for Offline Classroom](Project_044978/README.md) |
 | 044979 | [Prometheus: Recovery Test — Reporting for Offline Classroom](Project_044979/README.md) |
 | 044980 | [Prometheus: Recovery Test — Usability Improvement for Offline Classroom](Project_044980/README.md) |
+| 044981 | [Prometheus: Recovery Test — Baseline Setup for Single-Host Lab](Project_044981/README.md) |
+| 044982 | [Prometheus: Recovery Test — Automation for Single-Host Lab](Project_044982/README.md) |
+| 044983 | [Prometheus: Recovery Test — Recovery for Single-Host Lab](Project_044983/README.md) |
+| 044984 | [Prometheus: Recovery Test — Reporting for Single-Host Lab](Project_044984/README.md) |
+| 044985 | [Prometheus: Recovery Test — Usability Improvement for Single-Host Lab](Project_044985/README.md) |
+| 044986 | [Prometheus: Recovery Test — Baseline Setup for Two-Node Lab](Project_044986/README.md) |
+| 044987 | [Prometheus: Recovery Test — Automation for Two-Node Lab](Project_044987/README.md) |
+| 044988 | [Prometheus: Recovery Test — Recovery for Two-Node Lab](Project_044988/README.md) |
+| 044989 | [Prometheus: Recovery Test — Reporting for Two-Node Lab](Project_044989/README.md) |
+| 044990 | [Prometheus: Recovery Test — Usability Improvement for Two-Node Lab](Project_044990/README.md) |
+| 044991 | [Prometheus: Recovery Test — Baseline Setup for Help Desk](Project_044991/README.md) |
+| 044992 | [Prometheus: Recovery Test — Automation for Help Desk](Project_044992/README.md) |
+| 044993 | [Prometheus: Recovery Test — Recovery for Help Desk](Project_044993/README.md) |
+| 044994 | [Prometheus: Recovery Test — Reporting for Help Desk](Project_044994/README.md) |
+| 044995 | [Prometheus: Recovery Test — Usability Improvement for Help Desk](Project_044995/README.md) |
+| 044996 | [Prometheus: Recovery Test — Baseline Setup for Portfolio Demo](Project_044996/README.md) |
+| 044997 | [Prometheus: Recovery Test — Automation for Portfolio Demo](Project_044997/README.md) |
+| 044998 | [Prometheus: Recovery Test — Recovery for Portfolio Demo](Project_044998/README.md) |
+| 044999 | [Prometheus: Recovery Test — Reporting for Portfolio Demo](Project_044999/README.md) |
+| 045000 | [Prometheus: Recovery Test — Usability Improvement for Portfolio Demo](Project_045000/README.md) |
 
 [Back to the portfolio home](../README.md)
