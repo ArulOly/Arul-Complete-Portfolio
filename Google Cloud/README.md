@@ -37,6 +37,10 @@ Google Cloud Storage event format, Python, JSON, and offline fixture-based testi
 
 Save the embedded Python block and JSON sample, then run the documented command locally. The provider event and object storage are simulated.
 
+## Native inventory example
+
+[Open Project 016001](Project_016001/README.md) for the Terraform HCL and Google Cloud Storage workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

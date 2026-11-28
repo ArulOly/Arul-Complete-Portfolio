@@ -37,6 +37,10 @@ Redis hashes, multi-command transactions, and expiration, Python, and structured
 
 Save the embedded Python code as `project.py` and the JSON sample as `sample.json`. Follow the project's database setup and run command.
 
+## Native inventory example
+
+[Open Project 045001](Project_045001/README.md) for the Redis Lua scripting and hashes workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

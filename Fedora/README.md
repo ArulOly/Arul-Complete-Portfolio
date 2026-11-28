@@ -37,6 +37,10 @@ Fedora, rpm, Python, JSON, and local command-line reporting.
 
 Run the embedded Python on Fedora. Save the project code and synthetic input locally and use the command in the README.
 
+## Native inventory example
+
+[Open Project 004001](Project_004001/README.md) for the POSIX shell and rpm workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

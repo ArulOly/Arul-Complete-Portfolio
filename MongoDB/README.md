@@ -37,6 +37,10 @@ MongoDB BSON documents, indexed IDs, and an aggregation pipeline, Python, and st
 
 Save the embedded Python code as `project.py` and the JSON sample as `sample.json`. Follow the project's database setup and run command.
 
+## Native inventory example
+
+[Open Project 027001](Project_027001/README.md) for the MongoDB aggregation and mongosh workflow. The rest of the index documents the established portfolio examples.
+
 ## Project index
 
 | Project ID | Project title |

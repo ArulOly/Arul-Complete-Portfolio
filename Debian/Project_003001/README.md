@@ -6,138 +6,79 @@ Shared classroom equipment provides the setting for this inventory exercise. The
 
 ## Problem statement
 
-The school lab needs a reproducible inventory workflow focused on baseline setup on Debian.
+The school lab needs a repeatable inventory baseline that another student can verify.
 
 ## Project objectives
 
-- Count items and identify stock below the reorder level.
-- Record the platform and a reference result for one input.
+- Record the school lab inventory baseline.
+- Report the installed version using the platform's native inventory tools.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
 
-Debian, dpkg-query, JSON, and Python standard-library modules.
+POSIX shell and dpkg-query.
 
 ## System architecture
 
-`OS identity → local JSON → validated workflow → terminal or report`
+`Package name → platform check → native package database → terminal report`
 
 ## Features
 
-- Count items and identify stock below the reorder level.
-- Record the platform and a reference result for one input.
+- Record the school lab inventory baseline.
+- Report the installed version using the platform's native inventory tools.
 
 ## Prerequisites
 
-Use Debian in a practice environment with Python 3.11 or later and dpkg-query. Use a text editor and a local practice directory.
+Use Debian with its standard package database and dpkg-query. Use a text editor and a local practice directory.
 
 ## Complete Debian source code
 
-```python
-"""Local Debian reference implementation for project 003001."""
+```sh
+#!/bin/sh
+set -eu
 
+if [ "$#" -ne 1 ]; then
+    echo "Usage: sh inventory.sh PACKAGE" >&2
+    exit 2
+fi
 
-from pathlib import Path
-import argparse
-import json
-import platform
-import subprocess
-import sys
+package=$1
+case "$package" in
+    ""|-*|*[!A-Za-z0-9_.+-]*)
+        echo "Use one unqualified package name" >&2
+        exit 2 ;;
+esac
 
+if ! { [ -r /etc/os-release ] && ( . /etc/os-release; [ "$ID" = debian ] ); }; then
+    echo "Run this inventory check on Debian" >&2
+    exit 2
+fi
 
-EXPECTED_SYSTEM = 'Debian'
+if ! version=$(dpkg-query -W -f='${Version}' -- "$package" 2>/dev/null) || [ -z "$version" ]; then
+    echo "Package not found: $package" >&2
+    exit 1
+fi
 
-
-def label(record, key):
-    value = record.get(key)
-    if not isinstance(value, str) or not value.strip():
-        raise ValueError(f"{key} must be non-empty text")
-    return value.strip()
-
-
-def integer(record, key, minimum=0, maximum=1_000_000_000):
-    value = record.get(key)
-    if type(value) is not int or not minimum <= value <= maximum:
-        raise ValueError(f"{key} must be an integer from {minimum} to {maximum}")
-    return value
-
-
-def evaluate(record):
-    """Count items and identify stock below the reorder level."""
-    stock = integer(record, "stock")
-    reorder = integer(record, "reorder_at", minimum=1)
-    return {"stock": stock, "reorder_at": reorder, "needs_reorder": stock < reorder}
-
-
-def platform_details():
-    if platform.system() != "Linux":
-        raise ValueError("This demo requires Debian")
-    distribution = platform.freedesktop_os_release()
-    if distribution.get("ID") != 'debian':
-        raise ValueError("Expected Debian /etc/os-release information")
-    version = subprocess.run(['dpkg-query', '--show', '--showformat=${Version}', 'dpkg'], text=True, capture_output=True,
-                             timeout=5, check=True).stdout.strip()
-    if not version:
-        raise ValueError("The platform version command returned no output")
-    return {"platform": EXPECTED_SYSTEM, "tool": 'dpkg-query', "version": version}
-
-
-def load(path):
-    value = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(value, dict):
-        raise ValueError("Expected a JSON object")
-    json.dumps(value, allow_nan=False)
-    return value
-
-
-def process(args):
-    record = load(args.input)
-    return {"asset": label(record, "asset"), "result": evaluate(record)}, 0
-
-
-def main():
-    parser = argparse.ArgumentParser(description='Count items and identify stock below the reorder level.')
-    parser.add_argument("input", type=Path)
-    args = parser.parse_args()
-    try:
-        environment = platform_details()
-        outcome, status = process(args)
-        report = {"environment": environment, "result": outcome}
-        serialized = json.dumps(report, indent=2, ensure_ascii=False, allow_nan=False)
-        print(serialized)
-        return status
-    except (OSError, ValueError, OverflowError, RecursionError, subprocess.SubprocessError) as exc:
-        print(f"Demo error: {exc}", file=sys.stderr)
-        return 2
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+printf 'package=%s\nversion=%s\n' "$package" "$version"
 ```
 
 ## Implementation explanation
 
-The program verifies the OS and reads dpkg-query to identify the practice environment. The inventory calculation works on synthetic input. Record the platform and a reference result for one input.
+Report the installed version using the platform's native inventory tools.
 
 ## Sample input data
 
-Save this synthetic record as `sample.json`.
+Use this example input.
 
 ```json
 {
-  "asset": "LAB-17",
-  "stock": 2,
-  "reorder_at": 4
+  "package": "dpkg"
 }
 ```
 
 ## Execution instructions
 
-Copy the Python source to `project.py` and the sample JSON to `sample.json` in the same directory.
-
-```sh
-python3 project.py sample.json
-```
+Save the block as `inventory.sh`, then run `sh inventory.sh dpkg` in the practice environment.
 
 ## Example output
 
@@ -145,28 +86,25 @@ Illustrative excerpt for the synthetic sample.
 
 ```json
 {
-  "needs_reorder": true
+  "package": "dpkg",
+  "version": "1.21.23"
 }
 ```
 
 ## Testing and validation
 
-Actual tests ran on a Debian 12 container. The platform command returned the observed version and the sample result repeated. The incomplete input returned exit status 2.
+Executed the embedded script on a Debian 12 container. A repeat matched the report. A missing package returned status 1, and a malformed name returned status 2.
 
 ```json
 {
-  "needs_reorder": true,
-  "environment": {
-    "platform": "Debian",
-    "tool": "dpkg-query",
-    "version": "1.21.23"
-  }
+  "package": "dpkg",
+  "version": "1.21.23"
 }
 ```
 
 ## Error handling
 
-The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.
+Invalid names return status 2. An unavailable package returns status 1. The package database is read only.
 
 ## Troubleshooting
 
@@ -176,7 +114,7 @@ The CLI reports invalid input, missing files, and failed platform checks. Batch 
 
 ## Limitations
 
-This exercise works on local synthetic records. The only operating-system commands are read-only version checks.
+It reads one installed item at a time. Installed versions vary by system and update level.
 
 ## Learning outcomes
 

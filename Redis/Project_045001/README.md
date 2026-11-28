@@ -6,171 +6,71 @@ Shared classroom equipment provides the setting for this inventory exercise. The
 
 ## Problem statement
 
-The school lab needs a reproducible inventory workflow that stores and reads results in Redis.
+The school lab needs a repeatable inventory baseline that another student can verify.
 
 ## Project objectives
 
-- Count items and identify stock below the reorder level.
-- Create a session-local store, save a validated baseline, and read it back by row.
+- Record the school lab inventory baseline.
+- Run the inventory calculation inside Redis and delete the temporary hash.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
 
-Redis hashes, multi-command transactions, and expiration, Python, JSON, and redis-py.
+Redis Lua scripting and hashes.
 
 ## System architecture
 
-
-`Local JSON → Python workflow → database write → database read or summary → terminal`
+`CLI values → atomic Lua script → temporary Redis hash → reorder result`
 
 ## Features
 
-- Count items and identify stock below the reorder level.
-- Create a session-local store, save a validated baseline, and read it back by row.
+- Record the school lab inventory baseline.
+- Run the inventory calculation inside Redis and delete the temporary hash.
 
 ## Prerequisites
 
-Install Python 3.10 or later and use a local Redis instance and a practice user allowed to read, write, and expire hashes and use transactions. Use a text editor and a local practice directory.
+Use a local Redis instance and redis-cli. Use a text editor and a local practice directory.
 
 ## Complete Redis source code
 
-```python
-"""Local Redis reference implementation for project 045001."""
+```lua
+if #KEYS ~= 1 or #ARGV ~= 3 then
+    return redis.error_reply("Pass one scratch key, an asset, stock, and a threshold")
+end
 
+local key, asset = KEYS[1], ARGV[1]
+local stock, threshold = tonumber(ARGV[2]), tonumber(ARGV[3])
+if string.sub(key, 1, 24) ~= "portfolio:inventory:lab:" or asset == "" then
+    return redis.error_reply("Use a portfolio scratch key and a non-empty asset")
+end
+if not stock or not threshold or stock < 0 or threshold < 1
+   or stock > 1000000000 or threshold > 1000000000
+   or stock ~= math.floor(stock) or threshold ~= math.floor(threshold) then
+    return redis.error_reply("Stock and threshold must be valid integers")
+end
+if redis.call("EXISTS", key) == 1 then
+    return redis.error_reply("Scratch key already exists")
+end
 
-from uuid import uuid4
-import argparse
-import json
-import os
-import redis
-import sys
-
-
-METRIC = 'needs_reorder'
-
-
-def dumps(value):
-    return json.dumps(value, ensure_ascii=False, allow_nan=False, sort_keys=True)
-
-
-def label(record, key):
-    value = record.get(key)
-    if not isinstance(value, str) or not value.strip():
-        raise ValueError(f"{key} must be non-empty text")
-    return value.strip()
-
-
-def integer(record, key, minimum=0, maximum=1_000_000_000):
-    value = record.get(key)
-    if type(value) is not int or not minimum <= value <= maximum:
-        raise ValueError(f"{key} must be an integer from {minimum} to {maximum}")
-    return value
-
-
-def evaluate(record):
-    """Count items and identify stock below the reorder level."""
-    stock = integer(record, "stock")
-    reorder = integer(record, "reorder_at", minimum=1)
-    return {"stock": stock, "reorder_at": reorder, "needs_reorder": stock < reorder}
-
-
-def mapping(record, key):
-    if not isinstance(record, dict):
-        raise ValueError(f"{key} must be an object")
-    return record
-
-
-class Store:
-
-    def __enter__(self):
-        self.client = redis.Redis.from_url(os.environ["PORTFOLIO_REDIS_URL"],
-                                          decode_responses=True, socket_timeout=5,
-                                          socket_connect_timeout=5)
-        self.key = "portfolio:demo:" + uuid4().hex
-        return self
-
-    def __exit__(self, *_):
-        try:
-            self.client.delete(self.key)
-        finally:
-            self.client.close()
-
-    def put(self, position, source, response):
-        with self.client.pipeline(transaction=True) as batch:
-            batch.hset(self.key, mapping={
-                f"source:{position}": dumps(source), f"response:{position}": dumps(response),
-                f"rejected:{position}": int("error" in response),
-            })
-            if "result" in response:
-                batch.hset(self.key, mapping={
-                    f"metric:{position}:{key}": dumps(value)
-                    for key, value in response["result"].items()
-                })
-            batch.expire(self.key, 300)
-            batch.execute()
-
-    def read(self, position):
-        source, response = self.client.hmget(self.key, f"source:{position}", f"response:{position}")
-        if source is None or response is None:
-            raise ValueError("Stored row is missing")
-        return json.loads(source), json.loads(response)
-
-    def metric(self, position, key):
-        raw = self.client.hget(self.key, f"metric:{position}:{key}")
-        return json.loads(raw) if raw is not None else None
-
-
-def load_input(path):
-    with open(path, encoding="utf-8") as handle:
-        value = json.load(handle)
-    dumps(value)  # Reject non-finite numbers before any database write.
-    return value
-
-
-def evaluate_record(record):
-    return {"asset": label(record, "asset"), "result": evaluate(record)}
-
-
-def process(payload, store):
-    record = mapping(payload, "input")
-    result = evaluate_record(record)
-    store.put(1, record, result)
-    original, restored = store.read(1)
-    if original != record:
-        raise ValueError("Stored baseline changed")
-    return {"baseline": restored, "metric": store.metric(1, METRIC), "status": 0}
-
-
-def run(path):
-    payload = load_input(path)
-    with Store() as store:
-        return process(payload, store)
-
-
-def main():
-    parser = argparse.ArgumentParser(description='Count items and identify stock below the reorder level.')
-    parser.add_argument("input", help="path to the synthetic JSON fixture")
-    args = parser.parse_args()
-    try:
-        response = run(args.input)
-        print(json.dumps(response, indent=2, ensure_ascii=False, sort_keys=True))
-        return response["status"]
-    except (redis.RedisError, OSError, ValueError, KeyError, OverflowError, RecursionError) as exc:
-        print(f"Demo failed: {exc}", file=sys.stderr)
-        return 2
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+redis.call("HSET", key, "asset", asset, "stock", stock, "reorder_at", threshold)
+redis.call("EXPIRE", key, 60)
+local row = redis.call("HMGET", key, "asset", "stock", "reorder_at")
+redis.call("DEL", key)
+return cjson.encode({
+    asset = row[1],
+    stock = tonumber(row[2]),
+    reorder_at = tonumber(row[3]),
+    needs_reorder = tonumber(row[2]) < tonumber(row[3])
+})
 ```
 
 ## Implementation explanation
 
-`evaluate()` performs the inventory calculation and validates its inputs. `Store` handles database writes and reads. The program uses a uniquely named Redis hash with a five-minute TTL and deletes that hash on normal exit. Create a session-local store, save a validated baseline, and read it back by row.
+Run the inventory calculation inside Redis and delete the temporary hash.
 
 ## Sample input data
 
-Save this synthetic data as `sample.json`.
+Use this example input.
 
 ```json
 {
@@ -182,14 +82,10 @@ Save this synthetic data as `sample.json`.
 
 ## Execution instructions
 
-Copy the Python block to `project.py` and the sample to `sample.json` in the same directory.
-
-Install the driver in your virtual environment with `python -m pip install redis`. Set `PORTFOLIO_REDIS_URL` to your local connection URI. Its format is `redis://127.0.0.1:6379/0`. Use your own practice credentials when authentication is required.
-
-Run the example.
+Save the block as `inventory.lua`. Use a fresh scratch key on your local practice instance.
 
 ```sh
-python project.py sample.json
+redis-cli --eval inventory.lua "portfolio:inventory:lab:sample-17" , LAB-17 2 4
 ```
 
 ## Example output
@@ -198,23 +94,29 @@ Illustrative excerpt for the synthetic sample.
 
 ```json
 {
+  "asset": "LAB-17",
+  "stock": 2,
+  "reorder_at": 4,
   "needs_reorder": true
 }
 ```
 
 ## Testing and validation
 
-Actual tests used Redis and temporary synthetic JSON fixtures. The sample returned the field below twice with the same result. An incomplete record was rejected.
+Executed the embedded script in Redis 7. Two runs matched and cleaned up the scratch key. Negative stock returned an error.
 
 ```json
 {
+  "asset": "LAB-17",
+  "stock": 2,
+  "reorder_at": 4,
   "needs_reorder": true
 }
 ```
 
 ## Error handling
 
-The CLI reports invalid input, database errors, and file errors with status 2. A batch with rejected records preserves its valid rows and returns status 1.
+The script rejects malformed values and refuses to replace an occupied key. A short expiry bounds the scratch hash lifetime.
 
 ## Troubleshooting
 
@@ -224,7 +126,7 @@ The CLI reports invalid input, database errors, and file errors with status 2. A
 
 ## Limitations
 
-This small example uses a temporary database store and synthetic records.
+The example processes one inventory row and deletes its scratch hash after reading it.
 
 ## Learning outcomes
 
