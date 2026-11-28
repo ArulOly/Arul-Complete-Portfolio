@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037758 | [Arduino: Data Validation — Recovery for Small Business](Project_037758/README.md) |
 | 037759 | [Arduino: Data Validation — Reporting for Small Business](Project_037759/README.md) |
 | 037760 | [Arduino: Data Validation — Usability Improvement for Small Business](Project_037760/README.md) |
+| 037761 | [Arduino: Data Validation — Baseline Setup for Home Development](Project_037761/README.md) |
+| 037762 | [Arduino: Data Validation — Automation for Home Development](Project_037762/README.md) |
+| 037763 | [Arduino: Data Validation — Recovery for Home Development](Project_037763/README.md) |
+| 037764 | [Arduino: Data Validation — Reporting for Home Development](Project_037764/README.md) |
+| 037765 | [Arduino: Data Validation — Usability Improvement for Home Development](Project_037765/README.md) |
+| 037766 | [Arduino: Data Validation — Baseline Setup for Public Dataset](Project_037766/README.md) |
+| 037767 | [Arduino: Data Validation — Automation for Public Dataset](Project_037767/README.md) |
+| 037768 | [Arduino: Data Validation — Recovery for Public Dataset](Project_037768/README.md) |
+| 037769 | [Arduino: Data Validation — Reporting for Public Dataset](Project_037769/README.md) |
+| 037770 | [Arduino: Data Validation — Usability Improvement for Public Dataset](Project_037770/README.md) |
+| 037771 | [Arduino: Data Validation — Baseline Setup for Branch Office Simulator](Project_037771/README.md) |
+| 037772 | [Arduino: Data Validation — Automation for Branch Office Simulator](Project_037772/README.md) |
+| 037773 | [Arduino: Data Validation — Recovery for Branch Office Simulator](Project_037773/README.md) |
+| 037774 | [Arduino: Data Validation — Reporting for Branch Office Simulator](Project_037774/README.md) |
+| 037775 | [Arduino: Data Validation — Usability Improvement for Branch Office Simulator](Project_037775/README.md) |
+| 037776 | [Arduino: Data Validation — Baseline Setup for Offline Classroom](Project_037776/README.md) |
+| 037777 | [Arduino: Data Validation — Automation for Offline Classroom](Project_037777/README.md) |
+| 037778 | [Arduino: Data Validation — Recovery for Offline Classroom](Project_037778/README.md) |
+| 037779 | [Arduino: Data Validation — Reporting for Offline Classroom](Project_037779/README.md) |
+| 037780 | [Arduino: Data Validation — Usability Improvement for Offline Classroom](Project_037780/README.md) |
 
 [Back to the portfolio home](../README.md)
