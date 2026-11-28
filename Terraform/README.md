@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046278 | [Terraform: Data Import — Recovery for Offline Classroom](Project_046278/README.md) |
 | 046279 | [Terraform: Data Import — Reporting for Offline Classroom](Project_046279/README.md) |
 | 046280 | [Terraform: Data Import — Usability Improvement for Offline Classroom](Project_046280/README.md) |
+| 046281 | [Terraform: Data Import — Baseline Setup for Single-Host Lab](Project_046281/README.md) |
+| 046282 | [Terraform: Data Import — Automation for Single-Host Lab](Project_046282/README.md) |
+| 046283 | [Terraform: Data Import — Recovery for Single-Host Lab](Project_046283/README.md) |
+| 046284 | [Terraform: Data Import — Reporting for Single-Host Lab](Project_046284/README.md) |
+| 046285 | [Terraform: Data Import — Usability Improvement for Single-Host Lab](Project_046285/README.md) |
+| 046286 | [Terraform: Data Import — Baseline Setup for Two-Node Lab](Project_046286/README.md) |
+| 046287 | [Terraform: Data Import — Automation for Two-Node Lab](Project_046287/README.md) |
+| 046288 | [Terraform: Data Import — Recovery for Two-Node Lab](Project_046288/README.md) |
+| 046289 | [Terraform: Data Import — Reporting for Two-Node Lab](Project_046289/README.md) |
+| 046290 | [Terraform: Data Import — Usability Improvement for Two-Node Lab](Project_046290/README.md) |
+| 046291 | [Terraform: Data Import — Baseline Setup for Help Desk](Project_046291/README.md) |
+| 046292 | [Terraform: Data Import — Automation for Help Desk](Project_046292/README.md) |
+| 046293 | [Terraform: Data Import — Recovery for Help Desk](Project_046293/README.md) |
+| 046294 | [Terraform: Data Import — Reporting for Help Desk](Project_046294/README.md) |
+| 046295 | [Terraform: Data Import — Usability Improvement for Help Desk](Project_046295/README.md) |
+| 046296 | [Terraform: Data Import — Baseline Setup for Portfolio Demo](Project_046296/README.md) |
+| 046297 | [Terraform: Data Import — Automation for Portfolio Demo](Project_046297/README.md) |
+| 046298 | [Terraform: Data Import — Recovery for Portfolio Demo](Project_046298/README.md) |
+| 046299 | [Terraform: Data Import — Reporting for Portfolio Demo](Project_046299/README.md) |
+| 046300 | [Terraform: Data Import — Usability Improvement for Portfolio Demo](Project_046300/README.md) |
 
 [Back to the portfolio home](../README.md)
