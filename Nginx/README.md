@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041938 | [Nginx: Visual Reporting — Recovery for Two-Node Lab](Project_041938/README.md) |
 | 041939 | [Nginx: Visual Reporting — Reporting for Two-Node Lab](Project_041939/README.md) |
 | 041940 | [Nginx: Visual Reporting — Usability Improvement for Two-Node Lab](Project_041940/README.md) |
+| 041941 | [Nginx: Visual Reporting — Baseline Setup for Help Desk](Project_041941/README.md) |
+| 041942 | [Nginx: Visual Reporting — Automation for Help Desk](Project_041942/README.md) |
+| 041943 | [Nginx: Visual Reporting — Recovery for Help Desk](Project_041943/README.md) |
+| 041944 | [Nginx: Visual Reporting — Reporting for Help Desk](Project_041944/README.md) |
+| 041945 | [Nginx: Visual Reporting — Usability Improvement for Help Desk](Project_041945/README.md) |
+| 041946 | [Nginx: Visual Reporting — Baseline Setup for Portfolio Demo](Project_041946/README.md) |
+| 041947 | [Nginx: Visual Reporting — Automation for Portfolio Demo](Project_041947/README.md) |
+| 041948 | [Nginx: Visual Reporting — Recovery for Portfolio Demo](Project_041948/README.md) |
+| 041949 | [Nginx: Visual Reporting — Reporting for Portfolio Demo](Project_041949/README.md) |
+| 041950 | [Nginx: Visual Reporting — Usability Improvement for Portfolio Demo](Project_041950/README.md) |
+| 041951 | [Nginx: Recovery Test — Baseline Setup for School Lab](Project_041951/README.md) |
+| 041952 | [Nginx: Recovery Test — Automation for School Lab](Project_041952/README.md) |
+| 041953 | [Nginx: Recovery Test — Recovery for School Lab](Project_041953/README.md) |
+| 041954 | [Nginx: Recovery Test — Reporting for School Lab](Project_041954/README.md) |
+| 041955 | [Nginx: Recovery Test — Usability Improvement for School Lab](Project_041955/README.md) |
+| 041956 | [Nginx: Recovery Test — Baseline Setup for Small Business](Project_041956/README.md) |
+| 041957 | [Nginx: Recovery Test — Automation for Small Business](Project_041957/README.md) |
+| 041958 | [Nginx: Recovery Test — Recovery for Small Business](Project_041958/README.md) |
+| 041959 | [Nginx: Recovery Test — Reporting for Small Business](Project_041959/README.md) |
+| 041960 | [Nginx: Recovery Test — Usability Improvement for Small Business](Project_041960/README.md) |
 
 [Back to the portfolio home](../README.md)
