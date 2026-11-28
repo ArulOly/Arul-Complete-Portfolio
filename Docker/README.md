@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017618 | [Docker: Service Check — Recovery for Public Dataset](Project_017618/README.md) |
 | 017619 | [Docker: Service Check — Reporting for Public Dataset](Project_017619/README.md) |
 | 017620 | [Docker: Service Check — Usability Improvement for Public Dataset](Project_017620/README.md) |
+| 017621 | [Docker: Service Check — Baseline Setup for Branch Office Simulator](Project_017621/README.md) |
+| 017622 | [Docker: Service Check — Automation for Branch Office Simulator](Project_017622/README.md) |
+| 017623 | [Docker: Service Check — Recovery for Branch Office Simulator](Project_017623/README.md) |
+| 017624 | [Docker: Service Check — Reporting for Branch Office Simulator](Project_017624/README.md) |
+| 017625 | [Docker: Service Check — Usability Improvement for Branch Office Simulator](Project_017625/README.md) |
+| 017626 | [Docker: Service Check — Baseline Setup for Offline Classroom](Project_017626/README.md) |
+| 017627 | [Docker: Service Check — Automation for Offline Classroom](Project_017627/README.md) |
+| 017628 | [Docker: Service Check — Recovery for Offline Classroom](Project_017628/README.md) |
+| 017629 | [Docker: Service Check — Reporting for Offline Classroom](Project_017629/README.md) |
+| 017630 | [Docker: Service Check — Usability Improvement for Offline Classroom](Project_017630/README.md) |
+| 017631 | [Docker: Service Check — Baseline Setup for Single-Host Lab](Project_017631/README.md) |
+| 017632 | [Docker: Service Check — Automation for Single-Host Lab](Project_017632/README.md) |
+| 017633 | [Docker: Service Check — Recovery for Single-Host Lab](Project_017633/README.md) |
+| 017634 | [Docker: Service Check — Reporting for Single-Host Lab](Project_017634/README.md) |
+| 017635 | [Docker: Service Check — Usability Improvement for Single-Host Lab](Project_017635/README.md) |
+| 017636 | [Docker: Service Check — Baseline Setup for Two-Node Lab](Project_017636/README.md) |
+| 017637 | [Docker: Service Check — Automation for Two-Node Lab](Project_017637/README.md) |
+| 017638 | [Docker: Service Check — Recovery for Two-Node Lab](Project_017638/README.md) |
+| 017639 | [Docker: Service Check — Reporting for Two-Node Lab](Project_017639/README.md) |
+| 017640 | [Docker: Service Check — Usability Improvement for Two-Node Lab](Project_017640/README.md) |
 
 [Back to the portfolio home](../README.md)
