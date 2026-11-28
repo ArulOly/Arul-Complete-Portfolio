@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015578 | [Azure: Performance Baseline — Recovery for Offline Classroom](Project_015578/README.md) |
 | 015579 | [Azure: Performance Baseline — Reporting for Offline Classroom](Project_015579/README.md) |
 | 015580 | [Azure: Performance Baseline — Usability Improvement for Offline Classroom](Project_015580/README.md) |
+| 015581 | [Azure: Performance Baseline — Baseline Setup for Single-Host Lab](Project_015581/README.md) |
+| 015582 | [Azure: Performance Baseline — Automation for Single-Host Lab](Project_015582/README.md) |
+| 015583 | [Azure: Performance Baseline — Recovery for Single-Host Lab](Project_015583/README.md) |
+| 015584 | [Azure: Performance Baseline — Reporting for Single-Host Lab](Project_015584/README.md) |
+| 015585 | [Azure: Performance Baseline — Usability Improvement for Single-Host Lab](Project_015585/README.md) |
+| 015586 | [Azure: Performance Baseline — Baseline Setup for Two-Node Lab](Project_015586/README.md) |
+| 015587 | [Azure: Performance Baseline — Automation for Two-Node Lab](Project_015587/README.md) |
+| 015588 | [Azure: Performance Baseline — Recovery for Two-Node Lab](Project_015588/README.md) |
+| 015589 | [Azure: Performance Baseline — Reporting for Two-Node Lab](Project_015589/README.md) |
+| 015590 | [Azure: Performance Baseline — Usability Improvement for Two-Node Lab](Project_015590/README.md) |
+| 015591 | [Azure: Performance Baseline — Baseline Setup for Help Desk](Project_015591/README.md) |
+| 015592 | [Azure: Performance Baseline — Automation for Help Desk](Project_015592/README.md) |
+| 015593 | [Azure: Performance Baseline — Recovery for Help Desk](Project_015593/README.md) |
+| 015594 | [Azure: Performance Baseline — Reporting for Help Desk](Project_015594/README.md) |
+| 015595 | [Azure: Performance Baseline — Usability Improvement for Help Desk](Project_015595/README.md) |
+| 015596 | [Azure: Performance Baseline — Baseline Setup for Portfolio Demo](Project_015596/README.md) |
+| 015597 | [Azure: Performance Baseline — Automation for Portfolio Demo](Project_015597/README.md) |
+| 015598 | [Azure: Performance Baseline — Recovery for Portfolio Demo](Project_015598/README.md) |
+| 015599 | [Azure: Performance Baseline — Reporting for Portfolio Demo](Project_015599/README.md) |
+| 015600 | [Azure: Performance Baseline — Usability Improvement for Portfolio Demo](Project_015600/README.md) |
 
 [Back to the portfolio home](../README.md)
