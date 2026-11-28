@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035458 | [Raspberry Pi: Scheduled Reporting — Recovery for Small Business](Project_035458/README.md) |
 | 035459 | [Raspberry Pi: Scheduled Reporting — Reporting for Small Business](Project_035459/README.md) |
 | 035460 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Small Business](Project_035460/README.md) |
+| 035461 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Home Development](Project_035461/README.md) |
+| 035462 | [Raspberry Pi: Scheduled Reporting — Automation for Home Development](Project_035462/README.md) |
+| 035463 | [Raspberry Pi: Scheduled Reporting — Recovery for Home Development](Project_035463/README.md) |
+| 035464 | [Raspberry Pi: Scheduled Reporting — Reporting for Home Development](Project_035464/README.md) |
+| 035465 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Home Development](Project_035465/README.md) |
+| 035466 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Public Dataset](Project_035466/README.md) |
+| 035467 | [Raspberry Pi: Scheduled Reporting — Automation for Public Dataset](Project_035467/README.md) |
+| 035468 | [Raspberry Pi: Scheduled Reporting — Recovery for Public Dataset](Project_035468/README.md) |
+| 035469 | [Raspberry Pi: Scheduled Reporting — Reporting for Public Dataset](Project_035469/README.md) |
+| 035470 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Public Dataset](Project_035470/README.md) |
+| 035471 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_035471/README.md) |
+| 035472 | [Raspberry Pi: Scheduled Reporting — Automation for Branch Office Simulator](Project_035472/README.md) |
+| 035473 | [Raspberry Pi: Scheduled Reporting — Recovery for Branch Office Simulator](Project_035473/README.md) |
+| 035474 | [Raspberry Pi: Scheduled Reporting — Reporting for Branch Office Simulator](Project_035474/README.md) |
+| 035475 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_035475/README.md) |
+| 035476 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_035476/README.md) |
+| 035477 | [Raspberry Pi: Scheduled Reporting — Automation for Offline Classroom](Project_035477/README.md) |
+| 035478 | [Raspberry Pi: Scheduled Reporting — Recovery for Offline Classroom](Project_035478/README.md) |
+| 035479 | [Raspberry Pi: Scheduled Reporting — Reporting for Offline Classroom](Project_035479/README.md) |
+| 035480 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_035480/README.md) |
 
 [Back to the portfolio home](../README.md)
