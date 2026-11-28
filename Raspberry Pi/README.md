@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035878 | [Raspberry Pi: Automation — Recovery for Offline Classroom](Project_035878/README.md) |
 | 035879 | [Raspberry Pi: Automation — Reporting for Offline Classroom](Project_035879/README.md) |
 | 035880 | [Raspberry Pi: Automation — Usability Improvement for Offline Classroom](Project_035880/README.md) |
+| 035881 | [Raspberry Pi: Automation — Baseline Setup for Single-Host Lab](Project_035881/README.md) |
+| 035882 | [Raspberry Pi: Automation — Automation for Single-Host Lab](Project_035882/README.md) |
+| 035883 | [Raspberry Pi: Automation — Recovery for Single-Host Lab](Project_035883/README.md) |
+| 035884 | [Raspberry Pi: Automation — Reporting for Single-Host Lab](Project_035884/README.md) |
+| 035885 | [Raspberry Pi: Automation — Usability Improvement for Single-Host Lab](Project_035885/README.md) |
+| 035886 | [Raspberry Pi: Automation — Baseline Setup for Two-Node Lab](Project_035886/README.md) |
+| 035887 | [Raspberry Pi: Automation — Automation for Two-Node Lab](Project_035887/README.md) |
+| 035888 | [Raspberry Pi: Automation — Recovery for Two-Node Lab](Project_035888/README.md) |
+| 035889 | [Raspberry Pi: Automation — Reporting for Two-Node Lab](Project_035889/README.md) |
+| 035890 | [Raspberry Pi: Automation — Usability Improvement for Two-Node Lab](Project_035890/README.md) |
+| 035891 | [Raspberry Pi: Automation — Baseline Setup for Help Desk](Project_035891/README.md) |
+| 035892 | [Raspberry Pi: Automation — Automation for Help Desk](Project_035892/README.md) |
+| 035893 | [Raspberry Pi: Automation — Recovery for Help Desk](Project_035893/README.md) |
+| 035894 | [Raspberry Pi: Automation — Reporting for Help Desk](Project_035894/README.md) |
+| 035895 | [Raspberry Pi: Automation — Usability Improvement for Help Desk](Project_035895/README.md) |
+| 035896 | [Raspberry Pi: Automation — Baseline Setup for Portfolio Demo](Project_035896/README.md) |
+| 035897 | [Raspberry Pi: Automation — Automation for Portfolio Demo](Project_035897/README.md) |
+| 035898 | [Raspberry Pi: Automation — Recovery for Portfolio Demo](Project_035898/README.md) |
+| 035899 | [Raspberry Pi: Automation — Reporting for Portfolio Demo](Project_035899/README.md) |
+| 035900 | [Raspberry Pi: Automation — Usability Improvement for Portfolio Demo](Project_035900/README.md) |
 
 [Back to the portfolio home](../README.md)
