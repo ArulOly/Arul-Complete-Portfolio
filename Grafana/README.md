@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043678 | [Grafana: Configuration Comparison — Recovery for Offline Classroom](Project_043678/README.md) |
 | 043679 | [Grafana: Configuration Comparison — Reporting for Offline Classroom](Project_043679/README.md) |
 | 043680 | [Grafana: Configuration Comparison — Usability Improvement for Offline Classroom](Project_043680/README.md) |
+| 043681 | [Grafana: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_043681/README.md) |
+| 043682 | [Grafana: Configuration Comparison — Automation for Single-Host Lab](Project_043682/README.md) |
+| 043683 | [Grafana: Configuration Comparison — Recovery for Single-Host Lab](Project_043683/README.md) |
+| 043684 | [Grafana: Configuration Comparison — Reporting for Single-Host Lab](Project_043684/README.md) |
+| 043685 | [Grafana: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_043685/README.md) |
+| 043686 | [Grafana: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_043686/README.md) |
+| 043687 | [Grafana: Configuration Comparison — Automation for Two-Node Lab](Project_043687/README.md) |
+| 043688 | [Grafana: Configuration Comparison — Recovery for Two-Node Lab](Project_043688/README.md) |
+| 043689 | [Grafana: Configuration Comparison — Reporting for Two-Node Lab](Project_043689/README.md) |
+| 043690 | [Grafana: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_043690/README.md) |
+| 043691 | [Grafana: Configuration Comparison — Baseline Setup for Help Desk](Project_043691/README.md) |
+| 043692 | [Grafana: Configuration Comparison — Automation for Help Desk](Project_043692/README.md) |
+| 043693 | [Grafana: Configuration Comparison — Recovery for Help Desk](Project_043693/README.md) |
+| 043694 | [Grafana: Configuration Comparison — Reporting for Help Desk](Project_043694/README.md) |
+| 043695 | [Grafana: Configuration Comparison — Usability Improvement for Help Desk](Project_043695/README.md) |
+| 043696 | [Grafana: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_043696/README.md) |
+| 043697 | [Grafana: Configuration Comparison — Automation for Portfolio Demo](Project_043697/README.md) |
+| 043698 | [Grafana: Configuration Comparison — Recovery for Portfolio Demo](Project_043698/README.md) |
+| 043699 | [Grafana: Configuration Comparison — Reporting for Portfolio Demo](Project_043699/README.md) |
+| 043700 | [Grafana: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_043700/README.md) |
 
 [Back to the portfolio home](../README.md)
