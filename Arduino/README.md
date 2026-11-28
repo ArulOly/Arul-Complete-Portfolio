@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037398 | [Arduino: Dashboard — Recovery for Portfolio Demo](Project_037398/README.md) |
 | 037399 | [Arduino: Dashboard — Reporting for Portfolio Demo](Project_037399/README.md) |
 | 037400 | [Arduino: Dashboard — Usability Improvement for Portfolio Demo](Project_037400/README.md) |
+| 037401 | [Arduino: Alerting — Baseline Setup for School Lab](Project_037401/README.md) |
+| 037402 | [Arduino: Alerting — Automation for School Lab](Project_037402/README.md) |
+| 037403 | [Arduino: Alerting — Recovery for School Lab](Project_037403/README.md) |
+| 037404 | [Arduino: Alerting — Reporting for School Lab](Project_037404/README.md) |
+| 037405 | [Arduino: Alerting — Usability Improvement for School Lab](Project_037405/README.md) |
+| 037406 | [Arduino: Alerting — Baseline Setup for Small Business](Project_037406/README.md) |
+| 037407 | [Arduino: Alerting — Automation for Small Business](Project_037407/README.md) |
+| 037408 | [Arduino: Alerting — Recovery for Small Business](Project_037408/README.md) |
+| 037409 | [Arduino: Alerting — Reporting for Small Business](Project_037409/README.md) |
+| 037410 | [Arduino: Alerting — Usability Improvement for Small Business](Project_037410/README.md) |
+| 037411 | [Arduino: Alerting — Baseline Setup for Home Development](Project_037411/README.md) |
+| 037412 | [Arduino: Alerting — Automation for Home Development](Project_037412/README.md) |
+| 037413 | [Arduino: Alerting — Recovery for Home Development](Project_037413/README.md) |
+| 037414 | [Arduino: Alerting — Reporting for Home Development](Project_037414/README.md) |
+| 037415 | [Arduino: Alerting — Usability Improvement for Home Development](Project_037415/README.md) |
+| 037416 | [Arduino: Alerting — Baseline Setup for Public Dataset](Project_037416/README.md) |
+| 037417 | [Arduino: Alerting — Automation for Public Dataset](Project_037417/README.md) |
+| 037418 | [Arduino: Alerting — Recovery for Public Dataset](Project_037418/README.md) |
+| 037419 | [Arduino: Alerting — Reporting for Public Dataset](Project_037419/README.md) |
+| 037420 | [Arduino: Alerting — Usability Improvement for Public Dataset](Project_037420/README.md) |
 
 [Back to the portfolio home](../README.md)
