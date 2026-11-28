@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035298 | [Raspberry Pi: Data Import — Recovery for Portfolio Demo](Project_035298/README.md) |
 | 035299 | [Raspberry Pi: Data Import — Reporting for Portfolio Demo](Project_035299/README.md) |
 | 035300 | [Raspberry Pi: Data Import — Usability Improvement for Portfolio Demo](Project_035300/README.md) |
+| 035301 | [Raspberry Pi: Data Export — Baseline Setup for School Lab](Project_035301/README.md) |
+| 035302 | [Raspberry Pi: Data Export — Automation for School Lab](Project_035302/README.md) |
+| 035303 | [Raspberry Pi: Data Export — Recovery for School Lab](Project_035303/README.md) |
+| 035304 | [Raspberry Pi: Data Export — Reporting for School Lab](Project_035304/README.md) |
+| 035305 | [Raspberry Pi: Data Export — Usability Improvement for School Lab](Project_035305/README.md) |
+| 035306 | [Raspberry Pi: Data Export — Baseline Setup for Small Business](Project_035306/README.md) |
+| 035307 | [Raspberry Pi: Data Export — Automation for Small Business](Project_035307/README.md) |
+| 035308 | [Raspberry Pi: Data Export — Recovery for Small Business](Project_035308/README.md) |
+| 035309 | [Raspberry Pi: Data Export — Reporting for Small Business](Project_035309/README.md) |
+| 035310 | [Raspberry Pi: Data Export — Usability Improvement for Small Business](Project_035310/README.md) |
+| 035311 | [Raspberry Pi: Data Export — Baseline Setup for Home Development](Project_035311/README.md) |
+| 035312 | [Raspberry Pi: Data Export — Automation for Home Development](Project_035312/README.md) |
+| 035313 | [Raspberry Pi: Data Export — Recovery for Home Development](Project_035313/README.md) |
+| 035314 | [Raspberry Pi: Data Export — Reporting for Home Development](Project_035314/README.md) |
+| 035315 | [Raspberry Pi: Data Export — Usability Improvement for Home Development](Project_035315/README.md) |
+| 035316 | [Raspberry Pi: Data Export — Baseline Setup for Public Dataset](Project_035316/README.md) |
+| 035317 | [Raspberry Pi: Data Export — Automation for Public Dataset](Project_035317/README.md) |
+| 035318 | [Raspberry Pi: Data Export — Recovery for Public Dataset](Project_035318/README.md) |
+| 035319 | [Raspberry Pi: Data Export — Reporting for Public Dataset](Project_035319/README.md) |
+| 035320 | [Raspberry Pi: Data Export — Usability Improvement for Public Dataset](Project_035320/README.md) |
 
 [Back to the portfolio home](../README.md)
