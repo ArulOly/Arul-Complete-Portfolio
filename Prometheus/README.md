@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044218 | [Prometheus: Backup Verification — Recovery for Public Dataset](Project_044218/README.md) |
 | 044219 | [Prometheus: Backup Verification — Reporting for Public Dataset](Project_044219/README.md) |
 | 044220 | [Prometheus: Backup Verification — Usability Improvement for Public Dataset](Project_044220/README.md) |
+| 044221 | [Prometheus: Backup Verification — Baseline Setup for Branch Office Simulator](Project_044221/README.md) |
+| 044222 | [Prometheus: Backup Verification — Automation for Branch Office Simulator](Project_044222/README.md) |
+| 044223 | [Prometheus: Backup Verification — Recovery for Branch Office Simulator](Project_044223/README.md) |
+| 044224 | [Prometheus: Backup Verification — Reporting for Branch Office Simulator](Project_044224/README.md) |
+| 044225 | [Prometheus: Backup Verification — Usability Improvement for Branch Office Simulator](Project_044225/README.md) |
+| 044226 | [Prometheus: Backup Verification — Baseline Setup for Offline Classroom](Project_044226/README.md) |
+| 044227 | [Prometheus: Backup Verification — Automation for Offline Classroom](Project_044227/README.md) |
+| 044228 | [Prometheus: Backup Verification — Recovery for Offline Classroom](Project_044228/README.md) |
+| 044229 | [Prometheus: Backup Verification — Reporting for Offline Classroom](Project_044229/README.md) |
+| 044230 | [Prometheus: Backup Verification — Usability Improvement for Offline Classroom](Project_044230/README.md) |
+| 044231 | [Prometheus: Backup Verification — Baseline Setup for Single-Host Lab](Project_044231/README.md) |
+| 044232 | [Prometheus: Backup Verification — Automation for Single-Host Lab](Project_044232/README.md) |
+| 044233 | [Prometheus: Backup Verification — Recovery for Single-Host Lab](Project_044233/README.md) |
+| 044234 | [Prometheus: Backup Verification — Reporting for Single-Host Lab](Project_044234/README.md) |
+| 044235 | [Prometheus: Backup Verification — Usability Improvement for Single-Host Lab](Project_044235/README.md) |
+| 044236 | [Prometheus: Backup Verification — Baseline Setup for Two-Node Lab](Project_044236/README.md) |
+| 044237 | [Prometheus: Backup Verification — Automation for Two-Node Lab](Project_044237/README.md) |
+| 044238 | [Prometheus: Backup Verification — Recovery for Two-Node Lab](Project_044238/README.md) |
+| 044239 | [Prometheus: Backup Verification — Reporting for Two-Node Lab](Project_044239/README.md) |
+| 044240 | [Prometheus: Backup Verification — Usability Improvement for Two-Node Lab](Project_044240/README.md) |
 
 [Back to the portfolio home](../README.md)
