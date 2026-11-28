@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036238 | [ESP32: Backup Verification — Recovery for Two-Node Lab](Project_036238/README.md) |
 | 036239 | [ESP32: Backup Verification — Reporting for Two-Node Lab](Project_036239/README.md) |
 | 036240 | [ESP32: Backup Verification — Usability Improvement for Two-Node Lab](Project_036240/README.md) |
+| 036241 | [ESP32: Backup Verification — Baseline Setup for Help Desk](Project_036241/README.md) |
+| 036242 | [ESP32: Backup Verification — Automation for Help Desk](Project_036242/README.md) |
+| 036243 | [ESP32: Backup Verification — Recovery for Help Desk](Project_036243/README.md) |
+| 036244 | [ESP32: Backup Verification — Reporting for Help Desk](Project_036244/README.md) |
+| 036245 | [ESP32: Backup Verification — Usability Improvement for Help Desk](Project_036245/README.md) |
+| 036246 | [ESP32: Backup Verification — Baseline Setup for Portfolio Demo](Project_036246/README.md) |
+| 036247 | [ESP32: Backup Verification — Automation for Portfolio Demo](Project_036247/README.md) |
+| 036248 | [ESP32: Backup Verification — Recovery for Portfolio Demo](Project_036248/README.md) |
+| 036249 | [ESP32: Backup Verification — Reporting for Portfolio Demo](Project_036249/README.md) |
+| 036250 | [ESP32: Backup Verification — Usability Improvement for Portfolio Demo](Project_036250/README.md) |
+| 036251 | [ESP32: Data Import — Baseline Setup for School Lab](Project_036251/README.md) |
+| 036252 | [ESP32: Data Import — Automation for School Lab](Project_036252/README.md) |
+| 036253 | [ESP32: Data Import — Recovery for School Lab](Project_036253/README.md) |
+| 036254 | [ESP32: Data Import — Reporting for School Lab](Project_036254/README.md) |
+| 036255 | [ESP32: Data Import — Usability Improvement for School Lab](Project_036255/README.md) |
+| 036256 | [ESP32: Data Import — Baseline Setup for Small Business](Project_036256/README.md) |
+| 036257 | [ESP32: Data Import — Automation for Small Business](Project_036257/README.md) |
+| 036258 | [ESP32: Data Import — Recovery for Small Business](Project_036258/README.md) |
+| 036259 | [ESP32: Data Import — Reporting for Small Business](Project_036259/README.md) |
+| 036260 | [ESP32: Data Import — Usability Improvement for Small Business](Project_036260/README.md) |
 
 [Back to the portfolio home](../README.md)
