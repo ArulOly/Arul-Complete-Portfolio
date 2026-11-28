@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043538 | [Grafana: Access Review — Recovery for Two-Node Lab](Project_043538/README.md) |
 | 043539 | [Grafana: Access Review — Reporting for Two-Node Lab](Project_043539/README.md) |
 | 043540 | [Grafana: Access Review — Usability Improvement for Two-Node Lab](Project_043540/README.md) |
+| 043541 | [Grafana: Access Review — Baseline Setup for Help Desk](Project_043541/README.md) |
+| 043542 | [Grafana: Access Review — Automation for Help Desk](Project_043542/README.md) |
+| 043543 | [Grafana: Access Review — Recovery for Help Desk](Project_043543/README.md) |
+| 043544 | [Grafana: Access Review — Reporting for Help Desk](Project_043544/README.md) |
+| 043545 | [Grafana: Access Review — Usability Improvement for Help Desk](Project_043545/README.md) |
+| 043546 | [Grafana: Access Review — Baseline Setup for Portfolio Demo](Project_043546/README.md) |
+| 043547 | [Grafana: Access Review — Automation for Portfolio Demo](Project_043547/README.md) |
+| 043548 | [Grafana: Access Review — Recovery for Portfolio Demo](Project_043548/README.md) |
+| 043549 | [Grafana: Access Review — Reporting for Portfolio Demo](Project_043549/README.md) |
+| 043550 | [Grafana: Access Review — Usability Improvement for Portfolio Demo](Project_043550/README.md) |
+| 043551 | [Grafana: Performance Baseline — Baseline Setup for School Lab](Project_043551/README.md) |
+| 043552 | [Grafana: Performance Baseline — Automation for School Lab](Project_043552/README.md) |
+| 043553 | [Grafana: Performance Baseline — Recovery for School Lab](Project_043553/README.md) |
+| 043554 | [Grafana: Performance Baseline — Reporting for School Lab](Project_043554/README.md) |
+| 043555 | [Grafana: Performance Baseline — Usability Improvement for School Lab](Project_043555/README.md) |
+| 043556 | [Grafana: Performance Baseline — Baseline Setup for Small Business](Project_043556/README.md) |
+| 043557 | [Grafana: Performance Baseline — Automation for Small Business](Project_043557/README.md) |
+| 043558 | [Grafana: Performance Baseline — Recovery for Small Business](Project_043558/README.md) |
+| 043559 | [Grafana: Performance Baseline — Reporting for Small Business](Project_043559/README.md) |
+| 043560 | [Grafana: Performance Baseline — Usability Improvement for Small Business](Project_043560/README.md) |
 
 [Back to the portfolio home](../README.md)
