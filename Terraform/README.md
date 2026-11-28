@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046858 | [Terraform: Automation — Recovery for Small Business](Project_046858/README.md) |
 | 046859 | [Terraform: Automation — Reporting for Small Business](Project_046859/README.md) |
 | 046860 | [Terraform: Automation — Usability Improvement for Small Business](Project_046860/README.md) |
+| 046861 | [Terraform: Automation — Baseline Setup for Home Development](Project_046861/README.md) |
+| 046862 | [Terraform: Automation — Automation for Home Development](Project_046862/README.md) |
+| 046863 | [Terraform: Automation — Recovery for Home Development](Project_046863/README.md) |
+| 046864 | [Terraform: Automation — Reporting for Home Development](Project_046864/README.md) |
+| 046865 | [Terraform: Automation — Usability Improvement for Home Development](Project_046865/README.md) |
+| 046866 | [Terraform: Automation — Baseline Setup for Public Dataset](Project_046866/README.md) |
+| 046867 | [Terraform: Automation — Automation for Public Dataset](Project_046867/README.md) |
+| 046868 | [Terraform: Automation — Recovery for Public Dataset](Project_046868/README.md) |
+| 046869 | [Terraform: Automation — Reporting for Public Dataset](Project_046869/README.md) |
+| 046870 | [Terraform: Automation — Usability Improvement for Public Dataset](Project_046870/README.md) |
+| 046871 | [Terraform: Automation — Baseline Setup for Branch Office Simulator](Project_046871/README.md) |
+| 046872 | [Terraform: Automation — Automation for Branch Office Simulator](Project_046872/README.md) |
+| 046873 | [Terraform: Automation — Recovery for Branch Office Simulator](Project_046873/README.md) |
+| 046874 | [Terraform: Automation — Reporting for Branch Office Simulator](Project_046874/README.md) |
+| 046875 | [Terraform: Automation — Usability Improvement for Branch Office Simulator](Project_046875/README.md) |
+| 046876 | [Terraform: Automation — Baseline Setup for Offline Classroom](Project_046876/README.md) |
+| 046877 | [Terraform: Automation — Automation for Offline Classroom](Project_046877/README.md) |
+| 046878 | [Terraform: Automation — Recovery for Offline Classroom](Project_046878/README.md) |
+| 046879 | [Terraform: Automation — Reporting for Offline Classroom](Project_046879/README.md) |
+| 046880 | [Terraform: Automation — Usability Improvement for Offline Classroom](Project_046880/README.md) |
 
 [Back to the portfolio home](../README.md)
