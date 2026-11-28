@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047078 | [Ansible: Monitoring — Recovery for Offline Classroom](Project_047078/README.md) |
 | 047079 | [Ansible: Monitoring — Reporting for Offline Classroom](Project_047079/README.md) |
 | 047080 | [Ansible: Monitoring — Usability Improvement for Offline Classroom](Project_047080/README.md) |
+| 047081 | [Ansible: Monitoring — Baseline Setup for Single-Host Lab](Project_047081/README.md) |
+| 047082 | [Ansible: Monitoring — Automation for Single-Host Lab](Project_047082/README.md) |
+| 047083 | [Ansible: Monitoring — Recovery for Single-Host Lab](Project_047083/README.md) |
+| 047084 | [Ansible: Monitoring — Reporting for Single-Host Lab](Project_047084/README.md) |
+| 047085 | [Ansible: Monitoring — Usability Improvement for Single-Host Lab](Project_047085/README.md) |
+| 047086 | [Ansible: Monitoring — Baseline Setup for Two-Node Lab](Project_047086/README.md) |
+| 047087 | [Ansible: Monitoring — Automation for Two-Node Lab](Project_047087/README.md) |
+| 047088 | [Ansible: Monitoring — Recovery for Two-Node Lab](Project_047088/README.md) |
+| 047089 | [Ansible: Monitoring — Reporting for Two-Node Lab](Project_047089/README.md) |
+| 047090 | [Ansible: Monitoring — Usability Improvement for Two-Node Lab](Project_047090/README.md) |
+| 047091 | [Ansible: Monitoring — Baseline Setup for Help Desk](Project_047091/README.md) |
+| 047092 | [Ansible: Monitoring — Automation for Help Desk](Project_047092/README.md) |
+| 047093 | [Ansible: Monitoring — Recovery for Help Desk](Project_047093/README.md) |
+| 047094 | [Ansible: Monitoring — Reporting for Help Desk](Project_047094/README.md) |
+| 047095 | [Ansible: Monitoring — Usability Improvement for Help Desk](Project_047095/README.md) |
+| 047096 | [Ansible: Monitoring — Baseline Setup for Portfolio Demo](Project_047096/README.md) |
+| 047097 | [Ansible: Monitoring — Automation for Portfolio Demo](Project_047097/README.md) |
+| 047098 | [Ansible: Monitoring — Recovery for Portfolio Demo](Project_047098/README.md) |
+| 047099 | [Ansible: Monitoring — Reporting for Portfolio Demo](Project_047099/README.md) |
+| 047100 | [Ansible: Monitoring — Usability Improvement for Portfolio Demo](Project_047100/README.md) |
 
 [Back to the portfolio home](../README.md)
