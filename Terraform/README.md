@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046478 | [Terraform: Scheduled Reporting — Recovery for Offline Classroom](Project_046478/README.md) |
 | 046479 | [Terraform: Scheduled Reporting — Reporting for Offline Classroom](Project_046479/README.md) |
 | 046480 | [Terraform: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_046480/README.md) |
+| 046481 | [Terraform: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_046481/README.md) |
+| 046482 | [Terraform: Scheduled Reporting — Automation for Single-Host Lab](Project_046482/README.md) |
+| 046483 | [Terraform: Scheduled Reporting — Recovery for Single-Host Lab](Project_046483/README.md) |
+| 046484 | [Terraform: Scheduled Reporting — Reporting for Single-Host Lab](Project_046484/README.md) |
+| 046485 | [Terraform: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_046485/README.md) |
+| 046486 | [Terraform: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_046486/README.md) |
+| 046487 | [Terraform: Scheduled Reporting — Automation for Two-Node Lab](Project_046487/README.md) |
+| 046488 | [Terraform: Scheduled Reporting — Recovery for Two-Node Lab](Project_046488/README.md) |
+| 046489 | [Terraform: Scheduled Reporting — Reporting for Two-Node Lab](Project_046489/README.md) |
+| 046490 | [Terraform: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_046490/README.md) |
+| 046491 | [Terraform: Scheduled Reporting — Baseline Setup for Help Desk](Project_046491/README.md) |
+| 046492 | [Terraform: Scheduled Reporting — Automation for Help Desk](Project_046492/README.md) |
+| 046493 | [Terraform: Scheduled Reporting — Recovery for Help Desk](Project_046493/README.md) |
+| 046494 | [Terraform: Scheduled Reporting — Reporting for Help Desk](Project_046494/README.md) |
+| 046495 | [Terraform: Scheduled Reporting — Usability Improvement for Help Desk](Project_046495/README.md) |
+| 046496 | [Terraform: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_046496/README.md) |
+| 046497 | [Terraform: Scheduled Reporting — Automation for Portfolio Demo](Project_046497/README.md) |
+| 046498 | [Terraform: Scheduled Reporting — Recovery for Portfolio Demo](Project_046498/README.md) |
+| 046499 | [Terraform: Scheduled Reporting — Reporting for Portfolio Demo](Project_046499/README.md) |
+| 046500 | [Terraform: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_046500/README.md) |
 
 [Back to the portfolio home](../README.md)
