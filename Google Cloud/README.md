@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016718 | [Google Cloud: Error Handling — Recovery for Public Dataset](Project_016718/README.md) |
 | 016719 | [Google Cloud: Error Handling — Reporting for Public Dataset](Project_016719/README.md) |
 | 016720 | [Google Cloud: Error Handling — Usability Improvement for Public Dataset](Project_016720/README.md) |
+| 016721 | [Google Cloud: Error Handling — Baseline Setup for Branch Office Simulator](Project_016721/README.md) |
+| 016722 | [Google Cloud: Error Handling — Automation for Branch Office Simulator](Project_016722/README.md) |
+| 016723 | [Google Cloud: Error Handling — Recovery for Branch Office Simulator](Project_016723/README.md) |
+| 016724 | [Google Cloud: Error Handling — Reporting for Branch Office Simulator](Project_016724/README.md) |
+| 016725 | [Google Cloud: Error Handling — Usability Improvement for Branch Office Simulator](Project_016725/README.md) |
+| 016726 | [Google Cloud: Error Handling — Baseline Setup for Offline Classroom](Project_016726/README.md) |
+| 016727 | [Google Cloud: Error Handling — Automation for Offline Classroom](Project_016727/README.md) |
+| 016728 | [Google Cloud: Error Handling — Recovery for Offline Classroom](Project_016728/README.md) |
+| 016729 | [Google Cloud: Error Handling — Reporting for Offline Classroom](Project_016729/README.md) |
+| 016730 | [Google Cloud: Error Handling — Usability Improvement for Offline Classroom](Project_016730/README.md) |
+| 016731 | [Google Cloud: Error Handling — Baseline Setup for Single-Host Lab](Project_016731/README.md) |
+| 016732 | [Google Cloud: Error Handling — Automation for Single-Host Lab](Project_016732/README.md) |
+| 016733 | [Google Cloud: Error Handling — Recovery for Single-Host Lab](Project_016733/README.md) |
+| 016734 | [Google Cloud: Error Handling — Reporting for Single-Host Lab](Project_016734/README.md) |
+| 016735 | [Google Cloud: Error Handling — Usability Improvement for Single-Host Lab](Project_016735/README.md) |
+| 016736 | [Google Cloud: Error Handling — Baseline Setup for Two-Node Lab](Project_016736/README.md) |
+| 016737 | [Google Cloud: Error Handling — Automation for Two-Node Lab](Project_016737/README.md) |
+| 016738 | [Google Cloud: Error Handling — Recovery for Two-Node Lab](Project_016738/README.md) |
+| 016739 | [Google Cloud: Error Handling — Reporting for Two-Node Lab](Project_016739/README.md) |
+| 016740 | [Google Cloud: Error Handling — Usability Improvement for Two-Node Lab](Project_016740/README.md) |
 
 [Back to the portfolio home](../README.md)
