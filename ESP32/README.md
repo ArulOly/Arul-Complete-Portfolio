@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036938 | [ESP32: Visual Reporting — Recovery for Two-Node Lab](Project_036938/README.md) |
 | 036939 | [ESP32: Visual Reporting — Reporting for Two-Node Lab](Project_036939/README.md) |
 | 036940 | [ESP32: Visual Reporting — Usability Improvement for Two-Node Lab](Project_036940/README.md) |
+| 036941 | [ESP32: Visual Reporting — Baseline Setup for Help Desk](Project_036941/README.md) |
+| 036942 | [ESP32: Visual Reporting — Automation for Help Desk](Project_036942/README.md) |
+| 036943 | [ESP32: Visual Reporting — Recovery for Help Desk](Project_036943/README.md) |
+| 036944 | [ESP32: Visual Reporting — Reporting for Help Desk](Project_036944/README.md) |
+| 036945 | [ESP32: Visual Reporting — Usability Improvement for Help Desk](Project_036945/README.md) |
+| 036946 | [ESP32: Visual Reporting — Baseline Setup for Portfolio Demo](Project_036946/README.md) |
+| 036947 | [ESP32: Visual Reporting — Automation for Portfolio Demo](Project_036947/README.md) |
+| 036948 | [ESP32: Visual Reporting — Recovery for Portfolio Demo](Project_036948/README.md) |
+| 036949 | [ESP32: Visual Reporting — Reporting for Portfolio Demo](Project_036949/README.md) |
+| 036950 | [ESP32: Visual Reporting — Usability Improvement for Portfolio Demo](Project_036950/README.md) |
+| 036951 | [ESP32: Recovery Test — Baseline Setup for School Lab](Project_036951/README.md) |
+| 036952 | [ESP32: Recovery Test — Automation for School Lab](Project_036952/README.md) |
+| 036953 | [ESP32: Recovery Test — Recovery for School Lab](Project_036953/README.md) |
+| 036954 | [ESP32: Recovery Test — Reporting for School Lab](Project_036954/README.md) |
+| 036955 | [ESP32: Recovery Test — Usability Improvement for School Lab](Project_036955/README.md) |
+| 036956 | [ESP32: Recovery Test — Baseline Setup for Small Business](Project_036956/README.md) |
+| 036957 | [ESP32: Recovery Test — Automation for Small Business](Project_036957/README.md) |
+| 036958 | [ESP32: Recovery Test — Recovery for Small Business](Project_036958/README.md) |
+| 036959 | [ESP32: Recovery Test — Reporting for Small Business](Project_036959/README.md) |
+| 036960 | [ESP32: Recovery Test — Usability Improvement for Small Business](Project_036960/README.md) |
 
 [Back to the portfolio home](../README.md)
