@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047938 | [Ansible: Visual Reporting — Recovery for Two-Node Lab](Project_047938/README.md) |
 | 047939 | [Ansible: Visual Reporting — Reporting for Two-Node Lab](Project_047939/README.md) |
 | 047940 | [Ansible: Visual Reporting — Usability Improvement for Two-Node Lab](Project_047940/README.md) |
+| 047941 | [Ansible: Visual Reporting — Baseline Setup for Help Desk](Project_047941/README.md) |
+| 047942 | [Ansible: Visual Reporting — Automation for Help Desk](Project_047942/README.md) |
+| 047943 | [Ansible: Visual Reporting — Recovery for Help Desk](Project_047943/README.md) |
+| 047944 | [Ansible: Visual Reporting — Reporting for Help Desk](Project_047944/README.md) |
+| 047945 | [Ansible: Visual Reporting — Usability Improvement for Help Desk](Project_047945/README.md) |
+| 047946 | [Ansible: Visual Reporting — Baseline Setup for Portfolio Demo](Project_047946/README.md) |
+| 047947 | [Ansible: Visual Reporting — Automation for Portfolio Demo](Project_047947/README.md) |
+| 047948 | [Ansible: Visual Reporting — Recovery for Portfolio Demo](Project_047948/README.md) |
+| 047949 | [Ansible: Visual Reporting — Reporting for Portfolio Demo](Project_047949/README.md) |
+| 047950 | [Ansible: Visual Reporting — Usability Improvement for Portfolio Demo](Project_047950/README.md) |
+| 047951 | [Ansible: Recovery Test — Baseline Setup for School Lab](Project_047951/README.md) |
+| 047952 | [Ansible: Recovery Test — Automation for School Lab](Project_047952/README.md) |
+| 047953 | [Ansible: Recovery Test — Recovery for School Lab](Project_047953/README.md) |
+| 047954 | [Ansible: Recovery Test — Reporting for School Lab](Project_047954/README.md) |
+| 047955 | [Ansible: Recovery Test — Usability Improvement for School Lab](Project_047955/README.md) |
+| 047956 | [Ansible: Recovery Test — Baseline Setup for Small Business](Project_047956/README.md) |
+| 047957 | [Ansible: Recovery Test — Automation for Small Business](Project_047957/README.md) |
+| 047958 | [Ansible: Recovery Test — Recovery for Small Business](Project_047958/README.md) |
+| 047959 | [Ansible: Recovery Test — Reporting for Small Business](Project_047959/README.md) |
+| 047960 | [Ansible: Recovery Test — Usability Improvement for Small Business](Project_047960/README.md) |
 
 [Back to the portfolio home](../README.md)
