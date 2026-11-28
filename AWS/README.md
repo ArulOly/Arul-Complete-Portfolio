@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014958 | [AWS: Recovery Test — Recovery for Small Business](Project_014958/README.md) |
 | 014959 | [AWS: Recovery Test — Reporting for Small Business](Project_014959/README.md) |
 | 014960 | [AWS: Recovery Test — Usability Improvement for Small Business](Project_014960/README.md) |
+| 014961 | [AWS: Recovery Test — Baseline Setup for Home Development](Project_014961/README.md) |
+| 014962 | [AWS: Recovery Test — Automation for Home Development](Project_014962/README.md) |
+| 014963 | [AWS: Recovery Test — Recovery for Home Development](Project_014963/README.md) |
+| 014964 | [AWS: Recovery Test — Reporting for Home Development](Project_014964/README.md) |
+| 014965 | [AWS: Recovery Test — Usability Improvement for Home Development](Project_014965/README.md) |
+| 014966 | [AWS: Recovery Test — Baseline Setup for Public Dataset](Project_014966/README.md) |
+| 014967 | [AWS: Recovery Test — Automation for Public Dataset](Project_014967/README.md) |
+| 014968 | [AWS: Recovery Test — Recovery for Public Dataset](Project_014968/README.md) |
+| 014969 | [AWS: Recovery Test — Reporting for Public Dataset](Project_014969/README.md) |
+| 014970 | [AWS: Recovery Test — Usability Improvement for Public Dataset](Project_014970/README.md) |
+| 014971 | [AWS: Recovery Test — Baseline Setup for Branch Office Simulator](Project_014971/README.md) |
+| 014972 | [AWS: Recovery Test — Automation for Branch Office Simulator](Project_014972/README.md) |
+| 014973 | [AWS: Recovery Test — Recovery for Branch Office Simulator](Project_014973/README.md) |
+| 014974 | [AWS: Recovery Test — Reporting for Branch Office Simulator](Project_014974/README.md) |
+| 014975 | [AWS: Recovery Test — Usability Improvement for Branch Office Simulator](Project_014975/README.md) |
+| 014976 | [AWS: Recovery Test — Baseline Setup for Offline Classroom](Project_014976/README.md) |
+| 014977 | [AWS: Recovery Test — Automation for Offline Classroom](Project_014977/README.md) |
+| 014978 | [AWS: Recovery Test — Recovery for Offline Classroom](Project_014978/README.md) |
+| 014979 | [AWS: Recovery Test — Reporting for Offline Classroom](Project_014979/README.md) |
+| 014980 | [AWS: Recovery Test — Usability Improvement for Offline Classroom](Project_014980/README.md) |
 
 [Back to the portfolio home](../README.md)
