@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047778 | [Ansible: Data Validation — Recovery for Offline Classroom](Project_047778/README.md) |
 | 047779 | [Ansible: Data Validation — Reporting for Offline Classroom](Project_047779/README.md) |
 | 047780 | [Ansible: Data Validation — Usability Improvement for Offline Classroom](Project_047780/README.md) |
+| 047781 | [Ansible: Data Validation — Baseline Setup for Single-Host Lab](Project_047781/README.md) |
+| 047782 | [Ansible: Data Validation — Automation for Single-Host Lab](Project_047782/README.md) |
+| 047783 | [Ansible: Data Validation — Recovery for Single-Host Lab](Project_047783/README.md) |
+| 047784 | [Ansible: Data Validation — Reporting for Single-Host Lab](Project_047784/README.md) |
+| 047785 | [Ansible: Data Validation — Usability Improvement for Single-Host Lab](Project_047785/README.md) |
+| 047786 | [Ansible: Data Validation — Baseline Setup for Two-Node Lab](Project_047786/README.md) |
+| 047787 | [Ansible: Data Validation — Automation for Two-Node Lab](Project_047787/README.md) |
+| 047788 | [Ansible: Data Validation — Recovery for Two-Node Lab](Project_047788/README.md) |
+| 047789 | [Ansible: Data Validation — Reporting for Two-Node Lab](Project_047789/README.md) |
+| 047790 | [Ansible: Data Validation — Usability Improvement for Two-Node Lab](Project_047790/README.md) |
+| 047791 | [Ansible: Data Validation — Baseline Setup for Help Desk](Project_047791/README.md) |
+| 047792 | [Ansible: Data Validation — Automation for Help Desk](Project_047792/README.md) |
+| 047793 | [Ansible: Data Validation — Recovery for Help Desk](Project_047793/README.md) |
+| 047794 | [Ansible: Data Validation — Reporting for Help Desk](Project_047794/README.md) |
+| 047795 | [Ansible: Data Validation — Usability Improvement for Help Desk](Project_047795/README.md) |
+| 047796 | [Ansible: Data Validation — Baseline Setup for Portfolio Demo](Project_047796/README.md) |
+| 047797 | [Ansible: Data Validation — Automation for Portfolio Demo](Project_047797/README.md) |
+| 047798 | [Ansible: Data Validation — Recovery for Portfolio Demo](Project_047798/README.md) |
+| 047799 | [Ansible: Data Validation — Reporting for Portfolio Demo](Project_047799/README.md) |
+| 047800 | [Ansible: Data Validation — Usability Improvement for Portfolio Demo](Project_047800/README.md) |
 
 [Back to the portfolio home](../README.md)
