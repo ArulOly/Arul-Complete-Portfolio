@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014298 | [AWS: Data Import — Recovery for Portfolio Demo](Project_014298/README.md) |
 | 014299 | [AWS: Data Import — Reporting for Portfolio Demo](Project_014299/README.md) |
 | 014300 | [AWS: Data Import — Usability Improvement for Portfolio Demo](Project_014300/README.md) |
+| 014301 | [AWS: Data Export — Baseline Setup for School Lab](Project_014301/README.md) |
+| 014302 | [AWS: Data Export — Automation for School Lab](Project_014302/README.md) |
+| 014303 | [AWS: Data Export — Recovery for School Lab](Project_014303/README.md) |
+| 014304 | [AWS: Data Export — Reporting for School Lab](Project_014304/README.md) |
+| 014305 | [AWS: Data Export — Usability Improvement for School Lab](Project_014305/README.md) |
+| 014306 | [AWS: Data Export — Baseline Setup for Small Business](Project_014306/README.md) |
+| 014307 | [AWS: Data Export — Automation for Small Business](Project_014307/README.md) |
+| 014308 | [AWS: Data Export — Recovery for Small Business](Project_014308/README.md) |
+| 014309 | [AWS: Data Export — Reporting for Small Business](Project_014309/README.md) |
+| 014310 | [AWS: Data Export — Usability Improvement for Small Business](Project_014310/README.md) |
+| 014311 | [AWS: Data Export — Baseline Setup for Home Development](Project_014311/README.md) |
+| 014312 | [AWS: Data Export — Automation for Home Development](Project_014312/README.md) |
+| 014313 | [AWS: Data Export — Recovery for Home Development](Project_014313/README.md) |
+| 014314 | [AWS: Data Export — Reporting for Home Development](Project_014314/README.md) |
+| 014315 | [AWS: Data Export — Usability Improvement for Home Development](Project_014315/README.md) |
+| 014316 | [AWS: Data Export — Baseline Setup for Public Dataset](Project_014316/README.md) |
+| 014317 | [AWS: Data Export — Automation for Public Dataset](Project_014317/README.md) |
+| 014318 | [AWS: Data Export — Recovery for Public Dataset](Project_014318/README.md) |
+| 014319 | [AWS: Data Export — Reporting for Public Dataset](Project_014319/README.md) |
+| 014320 | [AWS: Data Export — Usability Improvement for Public Dataset](Project_014320/README.md) |
 
 [Back to the portfolio home](../README.md)
