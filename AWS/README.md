@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014498 | [AWS: Scheduled Reporting — Recovery for Portfolio Demo](Project_014498/README.md) |
 | 014499 | [AWS: Scheduled Reporting — Reporting for Portfolio Demo](Project_014499/README.md) |
 | 014500 | [AWS: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_014500/README.md) |
+| 014501 | [AWS: Access Review — Baseline Setup for School Lab](Project_014501/README.md) |
+| 014502 | [AWS: Access Review — Automation for School Lab](Project_014502/README.md) |
+| 014503 | [AWS: Access Review — Recovery for School Lab](Project_014503/README.md) |
+| 014504 | [AWS: Access Review — Reporting for School Lab](Project_014504/README.md) |
+| 014505 | [AWS: Access Review — Usability Improvement for School Lab](Project_014505/README.md) |
+| 014506 | [AWS: Access Review — Baseline Setup for Small Business](Project_014506/README.md) |
+| 014507 | [AWS: Access Review — Automation for Small Business](Project_014507/README.md) |
+| 014508 | [AWS: Access Review — Recovery for Small Business](Project_014508/README.md) |
+| 014509 | [AWS: Access Review — Reporting for Small Business](Project_014509/README.md) |
+| 014510 | [AWS: Access Review — Usability Improvement for Small Business](Project_014510/README.md) |
+| 014511 | [AWS: Access Review — Baseline Setup for Home Development](Project_014511/README.md) |
+| 014512 | [AWS: Access Review — Automation for Home Development](Project_014512/README.md) |
+| 014513 | [AWS: Access Review — Recovery for Home Development](Project_014513/README.md) |
+| 014514 | [AWS: Access Review — Reporting for Home Development](Project_014514/README.md) |
+| 014515 | [AWS: Access Review — Usability Improvement for Home Development](Project_014515/README.md) |
+| 014516 | [AWS: Access Review — Baseline Setup for Public Dataset](Project_014516/README.md) |
+| 014517 | [AWS: Access Review — Automation for Public Dataset](Project_014517/README.md) |
+| 014518 | [AWS: Access Review — Recovery for Public Dataset](Project_014518/README.md) |
+| 014519 | [AWS: Access Review — Reporting for Public Dataset](Project_014519/README.md) |
+| 014520 | [AWS: Access Review — Usability Improvement for Public Dataset](Project_014520/README.md) |
 
 [Back to the portfolio home](../README.md)
