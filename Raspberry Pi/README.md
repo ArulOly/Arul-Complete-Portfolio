@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035418 | [Raspberry Pi: Alerting — Recovery for Public Dataset](Project_035418/README.md) |
 | 035419 | [Raspberry Pi: Alerting — Reporting for Public Dataset](Project_035419/README.md) |
 | 035420 | [Raspberry Pi: Alerting — Usability Improvement for Public Dataset](Project_035420/README.md) |
+| 035421 | [Raspberry Pi: Alerting — Baseline Setup for Branch Office Simulator](Project_035421/README.md) |
+| 035422 | [Raspberry Pi: Alerting — Automation for Branch Office Simulator](Project_035422/README.md) |
+| 035423 | [Raspberry Pi: Alerting — Recovery for Branch Office Simulator](Project_035423/README.md) |
+| 035424 | [Raspberry Pi: Alerting — Reporting for Branch Office Simulator](Project_035424/README.md) |
+| 035425 | [Raspberry Pi: Alerting — Usability Improvement for Branch Office Simulator](Project_035425/README.md) |
+| 035426 | [Raspberry Pi: Alerting — Baseline Setup for Offline Classroom](Project_035426/README.md) |
+| 035427 | [Raspberry Pi: Alerting — Automation for Offline Classroom](Project_035427/README.md) |
+| 035428 | [Raspberry Pi: Alerting — Recovery for Offline Classroom](Project_035428/README.md) |
+| 035429 | [Raspberry Pi: Alerting — Reporting for Offline Classroom](Project_035429/README.md) |
+| 035430 | [Raspberry Pi: Alerting — Usability Improvement for Offline Classroom](Project_035430/README.md) |
+| 035431 | [Raspberry Pi: Alerting — Baseline Setup for Single-Host Lab](Project_035431/README.md) |
+| 035432 | [Raspberry Pi: Alerting — Automation for Single-Host Lab](Project_035432/README.md) |
+| 035433 | [Raspberry Pi: Alerting — Recovery for Single-Host Lab](Project_035433/README.md) |
+| 035434 | [Raspberry Pi: Alerting — Reporting for Single-Host Lab](Project_035434/README.md) |
+| 035435 | [Raspberry Pi: Alerting — Usability Improvement for Single-Host Lab](Project_035435/README.md) |
+| 035436 | [Raspberry Pi: Alerting — Baseline Setup for Two-Node Lab](Project_035436/README.md) |
+| 035437 | [Raspberry Pi: Alerting — Automation for Two-Node Lab](Project_035437/README.md) |
+| 035438 | [Raspberry Pi: Alerting — Recovery for Two-Node Lab](Project_035438/README.md) |
+| 035439 | [Raspberry Pi: Alerting — Reporting for Two-Node Lab](Project_035439/README.md) |
+| 035440 | [Raspberry Pi: Alerting — Usability Improvement for Two-Node Lab](Project_035440/README.md) |
 
 [Back to the portfolio home](../README.md)
