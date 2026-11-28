@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039718 | [Bash: Error Handling — Recovery for Public Dataset](Project_039718/README.md) |
 | 039719 | [Bash: Error Handling — Reporting for Public Dataset](Project_039719/README.md) |
 | 039720 | [Bash: Error Handling — Usability Improvement for Public Dataset](Project_039720/README.md) |
+| 039721 | [Bash: Error Handling — Baseline Setup for Branch Office Simulator](Project_039721/README.md) |
+| 039722 | [Bash: Error Handling — Automation for Branch Office Simulator](Project_039722/README.md) |
+| 039723 | [Bash: Error Handling — Recovery for Branch Office Simulator](Project_039723/README.md) |
+| 039724 | [Bash: Error Handling — Reporting for Branch Office Simulator](Project_039724/README.md) |
+| 039725 | [Bash: Error Handling — Usability Improvement for Branch Office Simulator](Project_039725/README.md) |
+| 039726 | [Bash: Error Handling — Baseline Setup for Offline Classroom](Project_039726/README.md) |
+| 039727 | [Bash: Error Handling — Automation for Offline Classroom](Project_039727/README.md) |
+| 039728 | [Bash: Error Handling — Recovery for Offline Classroom](Project_039728/README.md) |
+| 039729 | [Bash: Error Handling — Reporting for Offline Classroom](Project_039729/README.md) |
+| 039730 | [Bash: Error Handling — Usability Improvement for Offline Classroom](Project_039730/README.md) |
+| 039731 | [Bash: Error Handling — Baseline Setup for Single-Host Lab](Project_039731/README.md) |
+| 039732 | [Bash: Error Handling — Automation for Single-Host Lab](Project_039732/README.md) |
+| 039733 | [Bash: Error Handling — Recovery for Single-Host Lab](Project_039733/README.md) |
+| 039734 | [Bash: Error Handling — Reporting for Single-Host Lab](Project_039734/README.md) |
+| 039735 | [Bash: Error Handling — Usability Improvement for Single-Host Lab](Project_039735/README.md) |
+| 039736 | [Bash: Error Handling — Baseline Setup for Two-Node Lab](Project_039736/README.md) |
+| 039737 | [Bash: Error Handling — Automation for Two-Node Lab](Project_039737/README.md) |
+| 039738 | [Bash: Error Handling — Recovery for Two-Node Lab](Project_039738/README.md) |
+| 039739 | [Bash: Error Handling — Reporting for Two-Node Lab](Project_039739/README.md) |
+| 039740 | [Bash: Error Handling — Usability Improvement for Two-Node Lab](Project_039740/README.md) |
 
 [Back to the portfolio home](../README.md)
