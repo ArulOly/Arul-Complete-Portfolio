@@ -1,6 +1,6 @@
 # JavaScript Portfolio
 
-These guide-based exercises use Node.js to practice local data processing, reporting, automation, and simulated IT operations. Each README includes an AI-generated reference implementation, synthetic data, and recorded validation.
+These guide-based exercises use Node.js to practice local data processing, reporting, automation, and simulated IT operations. Each README includes a reference implementation, synthetic data, and recorded validation.
 
 **Guides discovered** 1000
 

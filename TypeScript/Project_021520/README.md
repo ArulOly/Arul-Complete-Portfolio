@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A synthetic public-data exercise provides the setting for this access review exercise. The code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A synthetic public-data exercise provides the setting for this access review exercise. The code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

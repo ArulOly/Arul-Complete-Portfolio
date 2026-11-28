@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A help desk training queue provides the setting for this recovery test exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+A help desk training queue provides the setting for this recovery test exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

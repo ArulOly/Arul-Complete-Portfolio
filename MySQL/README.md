@@ -1,6 +1,6 @@
 # MySQL Portfolio
 
-This collection contains guide-based MySQL exercises covering local data processing, IT operations simulations, and reporting. Every project includes an AI-generated reference implementation, synthetic data, and recorded validation.
+This collection contains guide-based MySQL exercises covering local data processing, IT operations simulations, and reporting. Every project includes a reference implementation, synthetic data, and recorded validation.
 
 **Guides discovered** 1000
 

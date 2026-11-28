@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A synthetic public-data exercise provides the setting for this data export exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+A synthetic public-data exercise provides the setting for this data export exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

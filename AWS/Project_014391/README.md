@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A help desk training queue provides the setting for this dashboard exercise. The embedded code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A help desk training queue provides the setting for this dashboard exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

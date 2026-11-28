@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Shared classroom equipment provides the setting for this access review exercise. The code is an AI-generated reference implementation based on the student guide. Its inputs describe fictional operations.
+Shared classroom equipment provides the setting for this access review exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
 
 ## Problem statement
 

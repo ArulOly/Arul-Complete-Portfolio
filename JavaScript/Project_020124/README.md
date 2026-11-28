@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A simulated branch office provides the setting for this audit exercise. The code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A simulated branch office provides the setting for this audit exercise. The code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

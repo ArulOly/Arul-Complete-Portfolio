@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A home development workspace provides the setting for this documentation generation exercise. The code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A home development workspace provides the setting for this documentation generation exercise. The code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

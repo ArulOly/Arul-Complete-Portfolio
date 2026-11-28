@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Local shop operations provides the setting for this dashboard exercise. The embedded code is an AI-generated reference implementation based on the student guide and uses fictional data.
+Local shop operations provides the setting for this dashboard exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A two-node lab simulation provides the setting for this documentation generation exercise. The embedded code is an AI-generated reference implementation based on the student guide and uses fictional data.
+A two-node lab simulation provides the setting for this documentation generation exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 

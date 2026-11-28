@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Shared classroom equipment provides the setting for this documentation generation exercise. The embedded code is an AI-generated reference implementation based on the student guide and uses fictional data.
+Shared classroom equipment provides the setting for this documentation generation exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
 
 ## Problem statement
 
