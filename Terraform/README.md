@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046658 | [Terraform: Configuration Comparison — Recovery for Small Business](Project_046658/README.md) |
 | 046659 | [Terraform: Configuration Comparison — Reporting for Small Business](Project_046659/README.md) |
 | 046660 | [Terraform: Configuration Comparison — Usability Improvement for Small Business](Project_046660/README.md) |
+| 046661 | [Terraform: Configuration Comparison — Baseline Setup for Home Development](Project_046661/README.md) |
+| 046662 | [Terraform: Configuration Comparison — Automation for Home Development](Project_046662/README.md) |
+| 046663 | [Terraform: Configuration Comparison — Recovery for Home Development](Project_046663/README.md) |
+| 046664 | [Terraform: Configuration Comparison — Reporting for Home Development](Project_046664/README.md) |
+| 046665 | [Terraform: Configuration Comparison — Usability Improvement for Home Development](Project_046665/README.md) |
+| 046666 | [Terraform: Configuration Comparison — Baseline Setup for Public Dataset](Project_046666/README.md) |
+| 046667 | [Terraform: Configuration Comparison — Automation for Public Dataset](Project_046667/README.md) |
+| 046668 | [Terraform: Configuration Comparison — Recovery for Public Dataset](Project_046668/README.md) |
+| 046669 | [Terraform: Configuration Comparison — Reporting for Public Dataset](Project_046669/README.md) |
+| 046670 | [Terraform: Configuration Comparison — Usability Improvement for Public Dataset](Project_046670/README.md) |
+| 046671 | [Terraform: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_046671/README.md) |
+| 046672 | [Terraform: Configuration Comparison — Automation for Branch Office Simulator](Project_046672/README.md) |
+| 046673 | [Terraform: Configuration Comparison — Recovery for Branch Office Simulator](Project_046673/README.md) |
+| 046674 | [Terraform: Configuration Comparison — Reporting for Branch Office Simulator](Project_046674/README.md) |
+| 046675 | [Terraform: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_046675/README.md) |
+| 046676 | [Terraform: Configuration Comparison — Baseline Setup for Offline Classroom](Project_046676/README.md) |
+| 046677 | [Terraform: Configuration Comparison — Automation for Offline Classroom](Project_046677/README.md) |
+| 046678 | [Terraform: Configuration Comparison — Recovery for Offline Classroom](Project_046678/README.md) |
+| 046679 | [Terraform: Configuration Comparison — Reporting for Offline Classroom](Project_046679/README.md) |
+| 046680 | [Terraform: Configuration Comparison — Usability Improvement for Offline Classroom](Project_046680/README.md) |
 
 [Back to the portfolio home](../README.md)
