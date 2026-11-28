@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047898 | [Ansible: Automation — Recovery for Portfolio Demo](Project_047898/README.md) |
 | 047899 | [Ansible: Automation — Reporting for Portfolio Demo](Project_047899/README.md) |
 | 047900 | [Ansible: Automation — Usability Improvement for Portfolio Demo](Project_047900/README.md) |
+| 047901 | [Ansible: Visual Reporting — Baseline Setup for School Lab](Project_047901/README.md) |
+| 047902 | [Ansible: Visual Reporting — Automation for School Lab](Project_047902/README.md) |
+| 047903 | [Ansible: Visual Reporting — Recovery for School Lab](Project_047903/README.md) |
+| 047904 | [Ansible: Visual Reporting — Reporting for School Lab](Project_047904/README.md) |
+| 047905 | [Ansible: Visual Reporting — Usability Improvement for School Lab](Project_047905/README.md) |
+| 047906 | [Ansible: Visual Reporting — Baseline Setup for Small Business](Project_047906/README.md) |
+| 047907 | [Ansible: Visual Reporting — Automation for Small Business](Project_047907/README.md) |
+| 047908 | [Ansible: Visual Reporting — Recovery for Small Business](Project_047908/README.md) |
+| 047909 | [Ansible: Visual Reporting — Reporting for Small Business](Project_047909/README.md) |
+| 047910 | [Ansible: Visual Reporting — Usability Improvement for Small Business](Project_047910/README.md) |
+| 047911 | [Ansible: Visual Reporting — Baseline Setup for Home Development](Project_047911/README.md) |
+| 047912 | [Ansible: Visual Reporting — Automation for Home Development](Project_047912/README.md) |
+| 047913 | [Ansible: Visual Reporting — Recovery for Home Development](Project_047913/README.md) |
+| 047914 | [Ansible: Visual Reporting — Reporting for Home Development](Project_047914/README.md) |
+| 047915 | [Ansible: Visual Reporting — Usability Improvement for Home Development](Project_047915/README.md) |
+| 047916 | [Ansible: Visual Reporting — Baseline Setup for Public Dataset](Project_047916/README.md) |
+| 047917 | [Ansible: Visual Reporting — Automation for Public Dataset](Project_047917/README.md) |
+| 047918 | [Ansible: Visual Reporting — Recovery for Public Dataset](Project_047918/README.md) |
+| 047919 | [Ansible: Visual Reporting — Reporting for Public Dataset](Project_047919/README.md) |
+| 047920 | [Ansible: Visual Reporting — Usability Improvement for Public Dataset](Project_047920/README.md) |
 
 [Back to the portfolio home](../README.md)
