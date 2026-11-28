@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039378 | [Bash: Dashboard — Recovery for Offline Classroom](Project_039378/README.md) |
 | 039379 | [Bash: Dashboard — Reporting for Offline Classroom](Project_039379/README.md) |
 | 039380 | [Bash: Dashboard — Usability Improvement for Offline Classroom](Project_039380/README.md) |
+| 039381 | [Bash: Dashboard — Baseline Setup for Single-Host Lab](Project_039381/README.md) |
+| 039382 | [Bash: Dashboard — Automation for Single-Host Lab](Project_039382/README.md) |
+| 039383 | [Bash: Dashboard — Recovery for Single-Host Lab](Project_039383/README.md) |
+| 039384 | [Bash: Dashboard — Reporting for Single-Host Lab](Project_039384/README.md) |
+| 039385 | [Bash: Dashboard — Usability Improvement for Single-Host Lab](Project_039385/README.md) |
+| 039386 | [Bash: Dashboard — Baseline Setup for Two-Node Lab](Project_039386/README.md) |
+| 039387 | [Bash: Dashboard — Automation for Two-Node Lab](Project_039387/README.md) |
+| 039388 | [Bash: Dashboard — Recovery for Two-Node Lab](Project_039388/README.md) |
+| 039389 | [Bash: Dashboard — Reporting for Two-Node Lab](Project_039389/README.md) |
+| 039390 | [Bash: Dashboard — Usability Improvement for Two-Node Lab](Project_039390/README.md) |
+| 039391 | [Bash: Dashboard — Baseline Setup for Help Desk](Project_039391/README.md) |
+| 039392 | [Bash: Dashboard — Automation for Help Desk](Project_039392/README.md) |
+| 039393 | [Bash: Dashboard — Recovery for Help Desk](Project_039393/README.md) |
+| 039394 | [Bash: Dashboard — Reporting for Help Desk](Project_039394/README.md) |
+| 039395 | [Bash: Dashboard — Usability Improvement for Help Desk](Project_039395/README.md) |
+| 039396 | [Bash: Dashboard — Baseline Setup for Portfolio Demo](Project_039396/README.md) |
+| 039397 | [Bash: Dashboard — Automation for Portfolio Demo](Project_039397/README.md) |
+| 039398 | [Bash: Dashboard — Recovery for Portfolio Demo](Project_039398/README.md) |
+| 039399 | [Bash: Dashboard — Reporting for Portfolio Demo](Project_039399/README.md) |
+| 039400 | [Bash: Dashboard — Usability Improvement for Portfolio Demo](Project_039400/README.md) |
 
 [Back to the portfolio home](../README.md)
