@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038498 | [Git: Scheduled Reporting — Recovery for Portfolio Demo](Project_038498/README.md) |
 | 038499 | [Git: Scheduled Reporting — Reporting for Portfolio Demo](Project_038499/README.md) |
 | 038500 | [Git: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_038500/README.md) |
+| 038501 | [Git: Access Review — Baseline Setup for School Lab](Project_038501/README.md) |
+| 038502 | [Git: Access Review — Automation for School Lab](Project_038502/README.md) |
+| 038503 | [Git: Access Review — Recovery for School Lab](Project_038503/README.md) |
+| 038504 | [Git: Access Review — Reporting for School Lab](Project_038504/README.md) |
+| 038505 | [Git: Access Review — Usability Improvement for School Lab](Project_038505/README.md) |
+| 038506 | [Git: Access Review — Baseline Setup for Small Business](Project_038506/README.md) |
+| 038507 | [Git: Access Review — Automation for Small Business](Project_038507/README.md) |
+| 038508 | [Git: Access Review — Recovery for Small Business](Project_038508/README.md) |
+| 038509 | [Git: Access Review — Reporting for Small Business](Project_038509/README.md) |
+| 038510 | [Git: Access Review — Usability Improvement for Small Business](Project_038510/README.md) |
+| 038511 | [Git: Access Review — Baseline Setup for Home Development](Project_038511/README.md) |
+| 038512 | [Git: Access Review — Automation for Home Development](Project_038512/README.md) |
+| 038513 | [Git: Access Review — Recovery for Home Development](Project_038513/README.md) |
+| 038514 | [Git: Access Review — Reporting for Home Development](Project_038514/README.md) |
+| 038515 | [Git: Access Review — Usability Improvement for Home Development](Project_038515/README.md) |
+| 038516 | [Git: Access Review — Baseline Setup for Public Dataset](Project_038516/README.md) |
+| 038517 | [Git: Access Review — Automation for Public Dataset](Project_038517/README.md) |
+| 038518 | [Git: Access Review — Recovery for Public Dataset](Project_038518/README.md) |
+| 038519 | [Git: Access Review — Reporting for Public Dataset](Project_038519/README.md) |
+| 038520 | [Git: Access Review — Usability Improvement for Public Dataset](Project_038520/README.md) |
 
 [Back to the portfolio home](../README.md)
