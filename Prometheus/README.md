@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044838 | [Prometheus: Documentation Generation — Recovery for Two-Node Lab](Project_044838/README.md) |
 | 044839 | [Prometheus: Documentation Generation — Reporting for Two-Node Lab](Project_044839/README.md) |
 | 044840 | [Prometheus: Documentation Generation — Usability Improvement for Two-Node Lab](Project_044840/README.md) |
+| 044841 | [Prometheus: Documentation Generation — Baseline Setup for Help Desk](Project_044841/README.md) |
+| 044842 | [Prometheus: Documentation Generation — Automation for Help Desk](Project_044842/README.md) |
+| 044843 | [Prometheus: Documentation Generation — Recovery for Help Desk](Project_044843/README.md) |
+| 044844 | [Prometheus: Documentation Generation — Reporting for Help Desk](Project_044844/README.md) |
+| 044845 | [Prometheus: Documentation Generation — Usability Improvement for Help Desk](Project_044845/README.md) |
+| 044846 | [Prometheus: Documentation Generation — Baseline Setup for Portfolio Demo](Project_044846/README.md) |
+| 044847 | [Prometheus: Documentation Generation — Automation for Portfolio Demo](Project_044847/README.md) |
+| 044848 | [Prometheus: Documentation Generation — Recovery for Portfolio Demo](Project_044848/README.md) |
+| 044849 | [Prometheus: Documentation Generation — Reporting for Portfolio Demo](Project_044849/README.md) |
+| 044850 | [Prometheus: Documentation Generation — Usability Improvement for Portfolio Demo](Project_044850/README.md) |
+| 044851 | [Prometheus: Automation — Baseline Setup for School Lab](Project_044851/README.md) |
+| 044852 | [Prometheus: Automation — Automation for School Lab](Project_044852/README.md) |
+| 044853 | [Prometheus: Automation — Recovery for School Lab](Project_044853/README.md) |
+| 044854 | [Prometheus: Automation — Reporting for School Lab](Project_044854/README.md) |
+| 044855 | [Prometheus: Automation — Usability Improvement for School Lab](Project_044855/README.md) |
+| 044856 | [Prometheus: Automation — Baseline Setup for Small Business](Project_044856/README.md) |
+| 044857 | [Prometheus: Automation — Automation for Small Business](Project_044857/README.md) |
+| 044858 | [Prometheus: Automation — Recovery for Small Business](Project_044858/README.md) |
+| 044859 | [Prometheus: Automation — Reporting for Small Business](Project_044859/README.md) |
+| 044860 | [Prometheus: Automation — Usability Improvement for Small Business](Project_044860/README.md) |
 
 [Back to the portfolio home](../README.md)
