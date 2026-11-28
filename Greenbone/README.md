@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031478 | [Greenbone: Scheduled Reporting — Recovery for Offline Classroom](Project_031478/README.md) |
 | 031479 | [Greenbone: Scheduled Reporting — Reporting for Offline Classroom](Project_031479/README.md) |
 | 031480 | [Greenbone: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_031480/README.md) |
+| 031481 | [Greenbone: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_031481/README.md) |
+| 031482 | [Greenbone: Scheduled Reporting — Automation for Single-Host Lab](Project_031482/README.md) |
+| 031483 | [Greenbone: Scheduled Reporting — Recovery for Single-Host Lab](Project_031483/README.md) |
+| 031484 | [Greenbone: Scheduled Reporting — Reporting for Single-Host Lab](Project_031484/README.md) |
+| 031485 | [Greenbone: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_031485/README.md) |
+| 031486 | [Greenbone: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_031486/README.md) |
+| 031487 | [Greenbone: Scheduled Reporting — Automation for Two-Node Lab](Project_031487/README.md) |
+| 031488 | [Greenbone: Scheduled Reporting — Recovery for Two-Node Lab](Project_031488/README.md) |
+| 031489 | [Greenbone: Scheduled Reporting — Reporting for Two-Node Lab](Project_031489/README.md) |
+| 031490 | [Greenbone: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_031490/README.md) |
+| 031491 | [Greenbone: Scheduled Reporting — Baseline Setup for Help Desk](Project_031491/README.md) |
+| 031492 | [Greenbone: Scheduled Reporting — Automation for Help Desk](Project_031492/README.md) |
+| 031493 | [Greenbone: Scheduled Reporting — Recovery for Help Desk](Project_031493/README.md) |
+| 031494 | [Greenbone: Scheduled Reporting — Reporting for Help Desk](Project_031494/README.md) |
+| 031495 | [Greenbone: Scheduled Reporting — Usability Improvement for Help Desk](Project_031495/README.md) |
+| 031496 | [Greenbone: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_031496/README.md) |
+| 031497 | [Greenbone: Scheduled Reporting — Automation for Portfolio Demo](Project_031497/README.md) |
+| 031498 | [Greenbone: Scheduled Reporting — Recovery for Portfolio Demo](Project_031498/README.md) |
+| 031499 | [Greenbone: Scheduled Reporting — Reporting for Portfolio Demo](Project_031499/README.md) |
+| 031500 | [Greenbone: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_031500/README.md) |
 
 [Back to the portfolio home](../README.md)
