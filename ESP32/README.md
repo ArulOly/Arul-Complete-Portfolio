@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036678 | [ESP32: Configuration Comparison — Recovery for Offline Classroom](Project_036678/README.md) |
 | 036679 | [ESP32: Configuration Comparison — Reporting for Offline Classroom](Project_036679/README.md) |
 | 036680 | [ESP32: Configuration Comparison — Usability Improvement for Offline Classroom](Project_036680/README.md) |
+| 036681 | [ESP32: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_036681/README.md) |
+| 036682 | [ESP32: Configuration Comparison — Automation for Single-Host Lab](Project_036682/README.md) |
+| 036683 | [ESP32: Configuration Comparison — Recovery for Single-Host Lab](Project_036683/README.md) |
+| 036684 | [ESP32: Configuration Comparison — Reporting for Single-Host Lab](Project_036684/README.md) |
+| 036685 | [ESP32: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_036685/README.md) |
+| 036686 | [ESP32: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_036686/README.md) |
+| 036687 | [ESP32: Configuration Comparison — Automation for Two-Node Lab](Project_036687/README.md) |
+| 036688 | [ESP32: Configuration Comparison — Recovery for Two-Node Lab](Project_036688/README.md) |
+| 036689 | [ESP32: Configuration Comparison — Reporting for Two-Node Lab](Project_036689/README.md) |
+| 036690 | [ESP32: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_036690/README.md) |
+| 036691 | [ESP32: Configuration Comparison — Baseline Setup for Help Desk](Project_036691/README.md) |
+| 036692 | [ESP32: Configuration Comparison — Automation for Help Desk](Project_036692/README.md) |
+| 036693 | [ESP32: Configuration Comparison — Recovery for Help Desk](Project_036693/README.md) |
+| 036694 | [ESP32: Configuration Comparison — Reporting for Help Desk](Project_036694/README.md) |
+| 036695 | [ESP32: Configuration Comparison — Usability Improvement for Help Desk](Project_036695/README.md) |
+| 036696 | [ESP32: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_036696/README.md) |
+| 036697 | [ESP32: Configuration Comparison — Automation for Portfolio Demo](Project_036697/README.md) |
+| 036698 | [ESP32: Configuration Comparison — Recovery for Portfolio Demo](Project_036698/README.md) |
+| 036699 | [ESP32: Configuration Comparison — Reporting for Portfolio Demo](Project_036699/README.md) |
+| 036700 | [ESP32: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_036700/README.md) |
 
 [Back to the portfolio home](../README.md)
