@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030678 | [Wazuh: Configuration Comparison — Recovery for Offline Classroom](Project_030678/README.md) |
 | 030679 | [Wazuh: Configuration Comparison — Reporting for Offline Classroom](Project_030679/README.md) |
 | 030680 | [Wazuh: Configuration Comparison — Usability Improvement for Offline Classroom](Project_030680/README.md) |
+| 030681 | [Wazuh: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_030681/README.md) |
+| 030682 | [Wazuh: Configuration Comparison — Automation for Single-Host Lab](Project_030682/README.md) |
+| 030683 | [Wazuh: Configuration Comparison — Recovery for Single-Host Lab](Project_030683/README.md) |
+| 030684 | [Wazuh: Configuration Comparison — Reporting for Single-Host Lab](Project_030684/README.md) |
+| 030685 | [Wazuh: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_030685/README.md) |
+| 030686 | [Wazuh: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_030686/README.md) |
+| 030687 | [Wazuh: Configuration Comparison — Automation for Two-Node Lab](Project_030687/README.md) |
+| 030688 | [Wazuh: Configuration Comparison — Recovery for Two-Node Lab](Project_030688/README.md) |
+| 030689 | [Wazuh: Configuration Comparison — Reporting for Two-Node Lab](Project_030689/README.md) |
+| 030690 | [Wazuh: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_030690/README.md) |
+| 030691 | [Wazuh: Configuration Comparison — Baseline Setup for Help Desk](Project_030691/README.md) |
+| 030692 | [Wazuh: Configuration Comparison — Automation for Help Desk](Project_030692/README.md) |
+| 030693 | [Wazuh: Configuration Comparison — Recovery for Help Desk](Project_030693/README.md) |
+| 030694 | [Wazuh: Configuration Comparison — Reporting for Help Desk](Project_030694/README.md) |
+| 030695 | [Wazuh: Configuration Comparison — Usability Improvement for Help Desk](Project_030695/README.md) |
+| 030696 | [Wazuh: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_030696/README.md) |
+| 030697 | [Wazuh: Configuration Comparison — Automation for Portfolio Demo](Project_030697/README.md) |
+| 030698 | [Wazuh: Configuration Comparison — Recovery for Portfolio Demo](Project_030698/README.md) |
+| 030699 | [Wazuh: Configuration Comparison — Reporting for Portfolio Demo](Project_030699/README.md) |
+| 030700 | [Wazuh: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_030700/README.md) |
 
 [Back to the portfolio home](../README.md)
