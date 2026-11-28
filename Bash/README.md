@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039418 | [Bash: Alerting — Recovery for Public Dataset](Project_039418/README.md) |
 | 039419 | [Bash: Alerting — Reporting for Public Dataset](Project_039419/README.md) |
 | 039420 | [Bash: Alerting — Usability Improvement for Public Dataset](Project_039420/README.md) |
+| 039421 | [Bash: Alerting — Baseline Setup for Branch Office Simulator](Project_039421/README.md) |
+| 039422 | [Bash: Alerting — Automation for Branch Office Simulator](Project_039422/README.md) |
+| 039423 | [Bash: Alerting — Recovery for Branch Office Simulator](Project_039423/README.md) |
+| 039424 | [Bash: Alerting — Reporting for Branch Office Simulator](Project_039424/README.md) |
+| 039425 | [Bash: Alerting — Usability Improvement for Branch Office Simulator](Project_039425/README.md) |
+| 039426 | [Bash: Alerting — Baseline Setup for Offline Classroom](Project_039426/README.md) |
+| 039427 | [Bash: Alerting — Automation for Offline Classroom](Project_039427/README.md) |
+| 039428 | [Bash: Alerting — Recovery for Offline Classroom](Project_039428/README.md) |
+| 039429 | [Bash: Alerting — Reporting for Offline Classroom](Project_039429/README.md) |
+| 039430 | [Bash: Alerting — Usability Improvement for Offline Classroom](Project_039430/README.md) |
+| 039431 | [Bash: Alerting — Baseline Setup for Single-Host Lab](Project_039431/README.md) |
+| 039432 | [Bash: Alerting — Automation for Single-Host Lab](Project_039432/README.md) |
+| 039433 | [Bash: Alerting — Recovery for Single-Host Lab](Project_039433/README.md) |
+| 039434 | [Bash: Alerting — Reporting for Single-Host Lab](Project_039434/README.md) |
+| 039435 | [Bash: Alerting — Usability Improvement for Single-Host Lab](Project_039435/README.md) |
+| 039436 | [Bash: Alerting — Baseline Setup for Two-Node Lab](Project_039436/README.md) |
+| 039437 | [Bash: Alerting — Automation for Two-Node Lab](Project_039437/README.md) |
+| 039438 | [Bash: Alerting — Recovery for Two-Node Lab](Project_039438/README.md) |
+| 039439 | [Bash: Alerting — Reporting for Two-Node Lab](Project_039439/README.md) |
+| 039440 | [Bash: Alerting — Usability Improvement for Two-Node Lab](Project_039440/README.md) |
 
 [Back to the portfolio home](../README.md)
