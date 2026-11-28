@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044358 | [Prometheus: Dashboard — Recovery for Small Business](Project_044358/README.md) |
 | 044359 | [Prometheus: Dashboard — Reporting for Small Business](Project_044359/README.md) |
 | 044360 | [Prometheus: Dashboard — Usability Improvement for Small Business](Project_044360/README.md) |
+| 044361 | [Prometheus: Dashboard — Baseline Setup for Home Development](Project_044361/README.md) |
+| 044362 | [Prometheus: Dashboard — Automation for Home Development](Project_044362/README.md) |
+| 044363 | [Prometheus: Dashboard — Recovery for Home Development](Project_044363/README.md) |
+| 044364 | [Prometheus: Dashboard — Reporting for Home Development](Project_044364/README.md) |
+| 044365 | [Prometheus: Dashboard — Usability Improvement for Home Development](Project_044365/README.md) |
+| 044366 | [Prometheus: Dashboard — Baseline Setup for Public Dataset](Project_044366/README.md) |
+| 044367 | [Prometheus: Dashboard — Automation for Public Dataset](Project_044367/README.md) |
+| 044368 | [Prometheus: Dashboard — Recovery for Public Dataset](Project_044368/README.md) |
+| 044369 | [Prometheus: Dashboard — Reporting for Public Dataset](Project_044369/README.md) |
+| 044370 | [Prometheus: Dashboard — Usability Improvement for Public Dataset](Project_044370/README.md) |
+| 044371 | [Prometheus: Dashboard — Baseline Setup for Branch Office Simulator](Project_044371/README.md) |
+| 044372 | [Prometheus: Dashboard — Automation for Branch Office Simulator](Project_044372/README.md) |
+| 044373 | [Prometheus: Dashboard — Recovery for Branch Office Simulator](Project_044373/README.md) |
+| 044374 | [Prometheus: Dashboard — Reporting for Branch Office Simulator](Project_044374/README.md) |
+| 044375 | [Prometheus: Dashboard — Usability Improvement for Branch Office Simulator](Project_044375/README.md) |
+| 044376 | [Prometheus: Dashboard — Baseline Setup for Offline Classroom](Project_044376/README.md) |
+| 044377 | [Prometheus: Dashboard — Automation for Offline Classroom](Project_044377/README.md) |
+| 044378 | [Prometheus: Dashboard — Recovery for Offline Classroom](Project_044378/README.md) |
+| 044379 | [Prometheus: Dashboard — Reporting for Offline Classroom](Project_044379/README.md) |
+| 044380 | [Prometheus: Dashboard — Usability Improvement for Offline Classroom](Project_044380/README.md) |
 
 [Back to the portfolio home](../README.md)
