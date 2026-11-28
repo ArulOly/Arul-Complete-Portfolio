@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046098 | [Terraform: Monitoring — Recovery for Portfolio Demo](Project_046098/README.md) |
 | 046099 | [Terraform: Monitoring — Reporting for Portfolio Demo](Project_046099/README.md) |
 | 046100 | [Terraform: Monitoring — Usability Improvement for Portfolio Demo](Project_046100/README.md) |
+| 046101 | [Terraform: Audit — Baseline Setup for School Lab](Project_046101/README.md) |
+| 046102 | [Terraform: Audit — Automation for School Lab](Project_046102/README.md) |
+| 046103 | [Terraform: Audit — Recovery for School Lab](Project_046103/README.md) |
+| 046104 | [Terraform: Audit — Reporting for School Lab](Project_046104/README.md) |
+| 046105 | [Terraform: Audit — Usability Improvement for School Lab](Project_046105/README.md) |
+| 046106 | [Terraform: Audit — Baseline Setup for Small Business](Project_046106/README.md) |
+| 046107 | [Terraform: Audit — Automation for Small Business](Project_046107/README.md) |
+| 046108 | [Terraform: Audit — Recovery for Small Business](Project_046108/README.md) |
+| 046109 | [Terraform: Audit — Reporting for Small Business](Project_046109/README.md) |
+| 046110 | [Terraform: Audit — Usability Improvement for Small Business](Project_046110/README.md) |
+| 046111 | [Terraform: Audit — Baseline Setup for Home Development](Project_046111/README.md) |
+| 046112 | [Terraform: Audit — Automation for Home Development](Project_046112/README.md) |
+| 046113 | [Terraform: Audit — Recovery for Home Development](Project_046113/README.md) |
+| 046114 | [Terraform: Audit — Reporting for Home Development](Project_046114/README.md) |
+| 046115 | [Terraform: Audit — Usability Improvement for Home Development](Project_046115/README.md) |
+| 046116 | [Terraform: Audit — Baseline Setup for Public Dataset](Project_046116/README.md) |
+| 046117 | [Terraform: Audit — Automation for Public Dataset](Project_046117/README.md) |
+| 046118 | [Terraform: Audit — Recovery for Public Dataset](Project_046118/README.md) |
+| 046119 | [Terraform: Audit — Reporting for Public Dataset](Project_046119/README.md) |
+| 046120 | [Terraform: Audit — Usability Improvement for Public Dataset](Project_046120/README.md) |
 
 [Back to the portfolio home](../README.md)
