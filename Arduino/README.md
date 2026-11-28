@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037078 | [Arduino: Monitoring — Recovery for Offline Classroom](Project_037078/README.md) |
 | 037079 | [Arduino: Monitoring — Reporting for Offline Classroom](Project_037079/README.md) |
 | 037080 | [Arduino: Monitoring — Usability Improvement for Offline Classroom](Project_037080/README.md) |
+| 037081 | [Arduino: Monitoring — Baseline Setup for Single-Host Lab](Project_037081/README.md) |
+| 037082 | [Arduino: Monitoring — Automation for Single-Host Lab](Project_037082/README.md) |
+| 037083 | [Arduino: Monitoring — Recovery for Single-Host Lab](Project_037083/README.md) |
+| 037084 | [Arduino: Monitoring — Reporting for Single-Host Lab](Project_037084/README.md) |
+| 037085 | [Arduino: Monitoring — Usability Improvement for Single-Host Lab](Project_037085/README.md) |
+| 037086 | [Arduino: Monitoring — Baseline Setup for Two-Node Lab](Project_037086/README.md) |
+| 037087 | [Arduino: Monitoring — Automation for Two-Node Lab](Project_037087/README.md) |
+| 037088 | [Arduino: Monitoring — Recovery for Two-Node Lab](Project_037088/README.md) |
+| 037089 | [Arduino: Monitoring — Reporting for Two-Node Lab](Project_037089/README.md) |
+| 037090 | [Arduino: Monitoring — Usability Improvement for Two-Node Lab](Project_037090/README.md) |
+| 037091 | [Arduino: Monitoring — Baseline Setup for Help Desk](Project_037091/README.md) |
+| 037092 | [Arduino: Monitoring — Automation for Help Desk](Project_037092/README.md) |
+| 037093 | [Arduino: Monitoring — Recovery for Help Desk](Project_037093/README.md) |
+| 037094 | [Arduino: Monitoring — Reporting for Help Desk](Project_037094/README.md) |
+| 037095 | [Arduino: Monitoring — Usability Improvement for Help Desk](Project_037095/README.md) |
+| 037096 | [Arduino: Monitoring — Baseline Setup for Portfolio Demo](Project_037096/README.md) |
+| 037097 | [Arduino: Monitoring — Automation for Portfolio Demo](Project_037097/README.md) |
+| 037098 | [Arduino: Monitoring — Recovery for Portfolio Demo](Project_037098/README.md) |
+| 037099 | [Arduino: Monitoring — Reporting for Portfolio Demo](Project_037099/README.md) |
+| 037100 | [Arduino: Monitoring — Usability Improvement for Portfolio Demo](Project_037100/README.md) |
 
 [Back to the portfolio home](../README.md)
