@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030858 | [Wazuh: Automation — Recovery for Small Business](Project_030858/README.md) |
 | 030859 | [Wazuh: Automation — Reporting for Small Business](Project_030859/README.md) |
 | 030860 | [Wazuh: Automation — Usability Improvement for Small Business](Project_030860/README.md) |
+| 030861 | [Wazuh: Automation — Baseline Setup for Home Development](Project_030861/README.md) |
+| 030862 | [Wazuh: Automation — Automation for Home Development](Project_030862/README.md) |
+| 030863 | [Wazuh: Automation — Recovery for Home Development](Project_030863/README.md) |
+| 030864 | [Wazuh: Automation — Reporting for Home Development](Project_030864/README.md) |
+| 030865 | [Wazuh: Automation — Usability Improvement for Home Development](Project_030865/README.md) |
+| 030866 | [Wazuh: Automation — Baseline Setup for Public Dataset](Project_030866/README.md) |
+| 030867 | [Wazuh: Automation — Automation for Public Dataset](Project_030867/README.md) |
+| 030868 | [Wazuh: Automation — Recovery for Public Dataset](Project_030868/README.md) |
+| 030869 | [Wazuh: Automation — Reporting for Public Dataset](Project_030869/README.md) |
+| 030870 | [Wazuh: Automation — Usability Improvement for Public Dataset](Project_030870/README.md) |
+| 030871 | [Wazuh: Automation — Baseline Setup for Branch Office Simulator](Project_030871/README.md) |
+| 030872 | [Wazuh: Automation — Automation for Branch Office Simulator](Project_030872/README.md) |
+| 030873 | [Wazuh: Automation — Recovery for Branch Office Simulator](Project_030873/README.md) |
+| 030874 | [Wazuh: Automation — Reporting for Branch Office Simulator](Project_030874/README.md) |
+| 030875 | [Wazuh: Automation — Usability Improvement for Branch Office Simulator](Project_030875/README.md) |
+| 030876 | [Wazuh: Automation — Baseline Setup for Offline Classroom](Project_030876/README.md) |
+| 030877 | [Wazuh: Automation — Automation for Offline Classroom](Project_030877/README.md) |
+| 030878 | [Wazuh: Automation — Recovery for Offline Classroom](Project_030878/README.md) |
+| 030879 | [Wazuh: Automation — Reporting for Offline Classroom](Project_030879/README.md) |
+| 030880 | [Wazuh: Automation — Usability Improvement for Offline Classroom](Project_030880/README.md) |
 
 [Back to the portfolio home](../README.md)
