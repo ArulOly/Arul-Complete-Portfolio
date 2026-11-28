@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043078 | [Grafana: Monitoring — Recovery for Offline Classroom](Project_043078/README.md) |
 | 043079 | [Grafana: Monitoring — Reporting for Offline Classroom](Project_043079/README.md) |
 | 043080 | [Grafana: Monitoring — Usability Improvement for Offline Classroom](Project_043080/README.md) |
+| 043081 | [Grafana: Monitoring — Baseline Setup for Single-Host Lab](Project_043081/README.md) |
+| 043082 | [Grafana: Monitoring — Automation for Single-Host Lab](Project_043082/README.md) |
+| 043083 | [Grafana: Monitoring — Recovery for Single-Host Lab](Project_043083/README.md) |
+| 043084 | [Grafana: Monitoring — Reporting for Single-Host Lab](Project_043084/README.md) |
+| 043085 | [Grafana: Monitoring — Usability Improvement for Single-Host Lab](Project_043085/README.md) |
+| 043086 | [Grafana: Monitoring — Baseline Setup for Two-Node Lab](Project_043086/README.md) |
+| 043087 | [Grafana: Monitoring — Automation for Two-Node Lab](Project_043087/README.md) |
+| 043088 | [Grafana: Monitoring — Recovery for Two-Node Lab](Project_043088/README.md) |
+| 043089 | [Grafana: Monitoring — Reporting for Two-Node Lab](Project_043089/README.md) |
+| 043090 | [Grafana: Monitoring — Usability Improvement for Two-Node Lab](Project_043090/README.md) |
+| 043091 | [Grafana: Monitoring — Baseline Setup for Help Desk](Project_043091/README.md) |
+| 043092 | [Grafana: Monitoring — Automation for Help Desk](Project_043092/README.md) |
+| 043093 | [Grafana: Monitoring — Recovery for Help Desk](Project_043093/README.md) |
+| 043094 | [Grafana: Monitoring — Reporting for Help Desk](Project_043094/README.md) |
+| 043095 | [Grafana: Monitoring — Usability Improvement for Help Desk](Project_043095/README.md) |
+| 043096 | [Grafana: Monitoring — Baseline Setup for Portfolio Demo](Project_043096/README.md) |
+| 043097 | [Grafana: Monitoring — Automation for Portfolio Demo](Project_043097/README.md) |
+| 043098 | [Grafana: Monitoring — Recovery for Portfolio Demo](Project_043098/README.md) |
+| 043099 | [Grafana: Monitoring — Reporting for Portfolio Demo](Project_043099/README.md) |
+| 043100 | [Grafana: Monitoring — Usability Improvement for Portfolio Demo](Project_043100/README.md) |
 
 [Back to the portfolio home](../README.md)
