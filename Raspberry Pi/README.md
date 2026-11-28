@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035178 | [Raspberry Pi: Log Analysis — Recovery for Offline Classroom](Project_035178/README.md) |
 | 035179 | [Raspberry Pi: Log Analysis — Reporting for Offline Classroom](Project_035179/README.md) |
 | 035180 | [Raspberry Pi: Log Analysis — Usability Improvement for Offline Classroom](Project_035180/README.md) |
+| 035181 | [Raspberry Pi: Log Analysis — Baseline Setup for Single-Host Lab](Project_035181/README.md) |
+| 035182 | [Raspberry Pi: Log Analysis — Automation for Single-Host Lab](Project_035182/README.md) |
+| 035183 | [Raspberry Pi: Log Analysis — Recovery for Single-Host Lab](Project_035183/README.md) |
+| 035184 | [Raspberry Pi: Log Analysis — Reporting for Single-Host Lab](Project_035184/README.md) |
+| 035185 | [Raspberry Pi: Log Analysis — Usability Improvement for Single-Host Lab](Project_035185/README.md) |
+| 035186 | [Raspberry Pi: Log Analysis — Baseline Setup for Two-Node Lab](Project_035186/README.md) |
+| 035187 | [Raspberry Pi: Log Analysis — Automation for Two-Node Lab](Project_035187/README.md) |
+| 035188 | [Raspberry Pi: Log Analysis — Recovery for Two-Node Lab](Project_035188/README.md) |
+| 035189 | [Raspberry Pi: Log Analysis — Reporting for Two-Node Lab](Project_035189/README.md) |
+| 035190 | [Raspberry Pi: Log Analysis — Usability Improvement for Two-Node Lab](Project_035190/README.md) |
+| 035191 | [Raspberry Pi: Log Analysis — Baseline Setup for Help Desk](Project_035191/README.md) |
+| 035192 | [Raspberry Pi: Log Analysis — Automation for Help Desk](Project_035192/README.md) |
+| 035193 | [Raspberry Pi: Log Analysis — Recovery for Help Desk](Project_035193/README.md) |
+| 035194 | [Raspberry Pi: Log Analysis — Reporting for Help Desk](Project_035194/README.md) |
+| 035195 | [Raspberry Pi: Log Analysis — Usability Improvement for Help Desk](Project_035195/README.md) |
+| 035196 | [Raspberry Pi: Log Analysis — Baseline Setup for Portfolio Demo](Project_035196/README.md) |
+| 035197 | [Raspberry Pi: Log Analysis — Automation for Portfolio Demo](Project_035197/README.md) |
+| 035198 | [Raspberry Pi: Log Analysis — Recovery for Portfolio Demo](Project_035198/README.md) |
+| 035199 | [Raspberry Pi: Log Analysis — Reporting for Portfolio Demo](Project_035199/README.md) |
+| 035200 | [Raspberry Pi: Log Analysis — Usability Improvement for Portfolio Demo](Project_035200/README.md) |
 
 [Back to the portfolio home](../README.md)
