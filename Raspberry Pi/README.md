@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035958 | [Raspberry Pi: Recovery Test — Recovery for Small Business](Project_035958/README.md) |
 | 035959 | [Raspberry Pi: Recovery Test — Reporting for Small Business](Project_035959/README.md) |
 | 035960 | [Raspberry Pi: Recovery Test — Usability Improvement for Small Business](Project_035960/README.md) |
+| 035961 | [Raspberry Pi: Recovery Test — Baseline Setup for Home Development](Project_035961/README.md) |
+| 035962 | [Raspberry Pi: Recovery Test — Automation for Home Development](Project_035962/README.md) |
+| 035963 | [Raspberry Pi: Recovery Test — Recovery for Home Development](Project_035963/README.md) |
+| 035964 | [Raspberry Pi: Recovery Test — Reporting for Home Development](Project_035964/README.md) |
+| 035965 | [Raspberry Pi: Recovery Test — Usability Improvement for Home Development](Project_035965/README.md) |
+| 035966 | [Raspberry Pi: Recovery Test — Baseline Setup for Public Dataset](Project_035966/README.md) |
+| 035967 | [Raspberry Pi: Recovery Test — Automation for Public Dataset](Project_035967/README.md) |
+| 035968 | [Raspberry Pi: Recovery Test — Recovery for Public Dataset](Project_035968/README.md) |
+| 035969 | [Raspberry Pi: Recovery Test — Reporting for Public Dataset](Project_035969/README.md) |
+| 035970 | [Raspberry Pi: Recovery Test — Usability Improvement for Public Dataset](Project_035970/README.md) |
+| 035971 | [Raspberry Pi: Recovery Test — Baseline Setup for Branch Office Simulator](Project_035971/README.md) |
+| 035972 | [Raspberry Pi: Recovery Test — Automation for Branch Office Simulator](Project_035972/README.md) |
+| 035973 | [Raspberry Pi: Recovery Test — Recovery for Branch Office Simulator](Project_035973/README.md) |
+| 035974 | [Raspberry Pi: Recovery Test — Reporting for Branch Office Simulator](Project_035974/README.md) |
+| 035975 | [Raspberry Pi: Recovery Test — Usability Improvement for Branch Office Simulator](Project_035975/README.md) |
+| 035976 | [Raspberry Pi: Recovery Test — Baseline Setup for Offline Classroom](Project_035976/README.md) |
+| 035977 | [Raspberry Pi: Recovery Test — Automation for Offline Classroom](Project_035977/README.md) |
+| 035978 | [Raspberry Pi: Recovery Test — Recovery for Offline Classroom](Project_035978/README.md) |
+| 035979 | [Raspberry Pi: Recovery Test — Reporting for Offline Classroom](Project_035979/README.md) |
+| 035980 | [Raspberry Pi: Recovery Test — Usability Improvement for Offline Classroom](Project_035980/README.md) |
 
 [Back to the portfolio home](../README.md)
