@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041878 | [Nginx: Automation — Recovery for Offline Classroom](Project_041878/README.md) |
 | 041879 | [Nginx: Automation — Reporting for Offline Classroom](Project_041879/README.md) |
 | 041880 | [Nginx: Automation — Usability Improvement for Offline Classroom](Project_041880/README.md) |
+| 041881 | [Nginx: Automation — Baseline Setup for Single-Host Lab](Project_041881/README.md) |
+| 041882 | [Nginx: Automation — Automation for Single-Host Lab](Project_041882/README.md) |
+| 041883 | [Nginx: Automation — Recovery for Single-Host Lab](Project_041883/README.md) |
+| 041884 | [Nginx: Automation — Reporting for Single-Host Lab](Project_041884/README.md) |
+| 041885 | [Nginx: Automation — Usability Improvement for Single-Host Lab](Project_041885/README.md) |
+| 041886 | [Nginx: Automation — Baseline Setup for Two-Node Lab](Project_041886/README.md) |
+| 041887 | [Nginx: Automation — Automation for Two-Node Lab](Project_041887/README.md) |
+| 041888 | [Nginx: Automation — Recovery for Two-Node Lab](Project_041888/README.md) |
+| 041889 | [Nginx: Automation — Reporting for Two-Node Lab](Project_041889/README.md) |
+| 041890 | [Nginx: Automation — Usability Improvement for Two-Node Lab](Project_041890/README.md) |
+| 041891 | [Nginx: Automation — Baseline Setup for Help Desk](Project_041891/README.md) |
+| 041892 | [Nginx: Automation — Automation for Help Desk](Project_041892/README.md) |
+| 041893 | [Nginx: Automation — Recovery for Help Desk](Project_041893/README.md) |
+| 041894 | [Nginx: Automation — Reporting for Help Desk](Project_041894/README.md) |
+| 041895 | [Nginx: Automation — Usability Improvement for Help Desk](Project_041895/README.md) |
+| 041896 | [Nginx: Automation — Baseline Setup for Portfolio Demo](Project_041896/README.md) |
+| 041897 | [Nginx: Automation — Automation for Portfolio Demo](Project_041897/README.md) |
+| 041898 | [Nginx: Automation — Recovery for Portfolio Demo](Project_041898/README.md) |
+| 041899 | [Nginx: Automation — Reporting for Portfolio Demo](Project_041899/README.md) |
+| 041900 | [Nginx: Automation — Usability Improvement for Portfolio Demo](Project_041900/README.md) |
 
 [Back to the portfolio home](../README.md)
