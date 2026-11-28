@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029478 | [Wireshark: Scheduled Reporting — Recovery for Offline Classroom](Project_029478/README.md) |
 | 029479 | [Wireshark: Scheduled Reporting — Reporting for Offline Classroom](Project_029479/README.md) |
 | 029480 | [Wireshark: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_029480/README.md) |
+| 029481 | [Wireshark: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_029481/README.md) |
+| 029482 | [Wireshark: Scheduled Reporting — Automation for Single-Host Lab](Project_029482/README.md) |
+| 029483 | [Wireshark: Scheduled Reporting — Recovery for Single-Host Lab](Project_029483/README.md) |
+| 029484 | [Wireshark: Scheduled Reporting — Reporting for Single-Host Lab](Project_029484/README.md) |
+| 029485 | [Wireshark: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_029485/README.md) |
+| 029486 | [Wireshark: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_029486/README.md) |
+| 029487 | [Wireshark: Scheduled Reporting — Automation for Two-Node Lab](Project_029487/README.md) |
+| 029488 | [Wireshark: Scheduled Reporting — Recovery for Two-Node Lab](Project_029488/README.md) |
+| 029489 | [Wireshark: Scheduled Reporting — Reporting for Two-Node Lab](Project_029489/README.md) |
+| 029490 | [Wireshark: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_029490/README.md) |
+| 029491 | [Wireshark: Scheduled Reporting — Baseline Setup for Help Desk](Project_029491/README.md) |
+| 029492 | [Wireshark: Scheduled Reporting — Automation for Help Desk](Project_029492/README.md) |
+| 029493 | [Wireshark: Scheduled Reporting — Recovery for Help Desk](Project_029493/README.md) |
+| 029494 | [Wireshark: Scheduled Reporting — Reporting for Help Desk](Project_029494/README.md) |
+| 029495 | [Wireshark: Scheduled Reporting — Usability Improvement for Help Desk](Project_029495/README.md) |
+| 029496 | [Wireshark: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_029496/README.md) |
+| 029497 | [Wireshark: Scheduled Reporting — Automation for Portfolio Demo](Project_029497/README.md) |
+| 029498 | [Wireshark: Scheduled Reporting — Recovery for Portfolio Demo](Project_029498/README.md) |
+| 029499 | [Wireshark: Scheduled Reporting — Reporting for Portfolio Demo](Project_029499/README.md) |
+| 029500 | [Wireshark: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_029500/README.md) |
 
 [Back to the portfolio home](../README.md)
