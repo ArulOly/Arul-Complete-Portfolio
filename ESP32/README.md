@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036038 | [ESP32: Inventory — Recovery for Two-Node Lab](Project_036038/README.md) |
 | 036039 | [ESP32: Inventory — Reporting for Two-Node Lab](Project_036039/README.md) |
 | 036040 | [ESP32: Inventory — Usability Improvement for Two-Node Lab](Project_036040/README.md) |
+| 036041 | [ESP32: Inventory — Baseline Setup for Help Desk](Project_036041/README.md) |
+| 036042 | [ESP32: Inventory — Automation for Help Desk](Project_036042/README.md) |
+| 036043 | [ESP32: Inventory — Recovery for Help Desk](Project_036043/README.md) |
+| 036044 | [ESP32: Inventory — Reporting for Help Desk](Project_036044/README.md) |
+| 036045 | [ESP32: Inventory — Usability Improvement for Help Desk](Project_036045/README.md) |
+| 036046 | [ESP32: Inventory — Baseline Setup for Portfolio Demo](Project_036046/README.md) |
+| 036047 | [ESP32: Inventory — Automation for Portfolio Demo](Project_036047/README.md) |
+| 036048 | [ESP32: Inventory — Recovery for Portfolio Demo](Project_036048/README.md) |
+| 036049 | [ESP32: Inventory — Reporting for Portfolio Demo](Project_036049/README.md) |
+| 036050 | [ESP32: Inventory — Usability Improvement for Portfolio Demo](Project_036050/README.md) |
+| 036051 | [ESP32: Monitoring — Baseline Setup for School Lab](Project_036051/README.md) |
+| 036052 | [ESP32: Monitoring — Automation for School Lab](Project_036052/README.md) |
+| 036053 | [ESP32: Monitoring — Recovery for School Lab](Project_036053/README.md) |
+| 036054 | [ESP32: Monitoring — Reporting for School Lab](Project_036054/README.md) |
+| 036055 | [ESP32: Monitoring — Usability Improvement for School Lab](Project_036055/README.md) |
+| 036056 | [ESP32: Monitoring — Baseline Setup for Small Business](Project_036056/README.md) |
+| 036057 | [ESP32: Monitoring — Automation for Small Business](Project_036057/README.md) |
+| 036058 | [ESP32: Monitoring — Recovery for Small Business](Project_036058/README.md) |
+| 036059 | [ESP32: Monitoring — Reporting for Small Business](Project_036059/README.md) |
+| 036060 | [ESP32: Monitoring — Usability Improvement for Small Business](Project_036060/README.md) |
 
 [Back to the portfolio home](../README.md)
