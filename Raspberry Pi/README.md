@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035078 | [Raspberry Pi: Monitoring — Recovery for Offline Classroom](Project_035078/README.md) |
 | 035079 | [Raspberry Pi: Monitoring — Reporting for Offline Classroom](Project_035079/README.md) |
 | 035080 | [Raspberry Pi: Monitoring — Usability Improvement for Offline Classroom](Project_035080/README.md) |
+| 035081 | [Raspberry Pi: Monitoring — Baseline Setup for Single-Host Lab](Project_035081/README.md) |
+| 035082 | [Raspberry Pi: Monitoring — Automation for Single-Host Lab](Project_035082/README.md) |
+| 035083 | [Raspberry Pi: Monitoring — Recovery for Single-Host Lab](Project_035083/README.md) |
+| 035084 | [Raspberry Pi: Monitoring — Reporting for Single-Host Lab](Project_035084/README.md) |
+| 035085 | [Raspberry Pi: Monitoring — Usability Improvement for Single-Host Lab](Project_035085/README.md) |
+| 035086 | [Raspberry Pi: Monitoring — Baseline Setup for Two-Node Lab](Project_035086/README.md) |
+| 035087 | [Raspberry Pi: Monitoring — Automation for Two-Node Lab](Project_035087/README.md) |
+| 035088 | [Raspberry Pi: Monitoring — Recovery for Two-Node Lab](Project_035088/README.md) |
+| 035089 | [Raspberry Pi: Monitoring — Reporting for Two-Node Lab](Project_035089/README.md) |
+| 035090 | [Raspberry Pi: Monitoring — Usability Improvement for Two-Node Lab](Project_035090/README.md) |
+| 035091 | [Raspberry Pi: Monitoring — Baseline Setup for Help Desk](Project_035091/README.md) |
+| 035092 | [Raspberry Pi: Monitoring — Automation for Help Desk](Project_035092/README.md) |
+| 035093 | [Raspberry Pi: Monitoring — Recovery for Help Desk](Project_035093/README.md) |
+| 035094 | [Raspberry Pi: Monitoring — Reporting for Help Desk](Project_035094/README.md) |
+| 035095 | [Raspberry Pi: Monitoring — Usability Improvement for Help Desk](Project_035095/README.md) |
+| 035096 | [Raspberry Pi: Monitoring — Baseline Setup for Portfolio Demo](Project_035096/README.md) |
+| 035097 | [Raspberry Pi: Monitoring — Automation for Portfolio Demo](Project_035097/README.md) |
+| 035098 | [Raspberry Pi: Monitoring — Recovery for Portfolio Demo](Project_035098/README.md) |
+| 035099 | [Raspberry Pi: Monitoring — Reporting for Portfolio Demo](Project_035099/README.md) |
+| 035100 | [Raspberry Pi: Monitoring — Usability Improvement for Portfolio Demo](Project_035100/README.md) |
 
 [Back to the portfolio home](../README.md)
