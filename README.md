@@ -28,6 +28,11 @@ This repository contains a collection of practical information technology projec
 | [Debian](./Debian/) | Synthetic operations workflows tested on Debian 12 |
 | [Fedora](./Fedora/) | Synthetic operations workflows tested on Fedora 43 |
 | [FreeBSD](./FreeBSD/) | Synthetic operations workflows for FreeBSD |
+| [Prometheus](./Prometheus/) | Recording rules checked against synthetic metrics |
+| [Grafana](./Grafana/) | Dashboards using built-in TestData fixtures |
+| [Wazuh](./Wazuh/) | Defensive rules for synthetic JSON logs |
+| [Greenbone](./Greenbone/) | Offline review of synthetic GMP-shaped reports |
+| [Wireshark](./Wireshark/) | Offline packet analysis and display filters |
 | [AWS](./AWS/) | Offline Amazon S3 event and object-storage workflows |
 | [Azure](./Azure/) | Offline Blob Storage and Event Grid workflows |
 | [Google Cloud](./Google%20Cloud/) | Offline Cloud Storage event workflows |
@@ -66,6 +71,11 @@ Each project is documented in an individual README.md file containing its object
 - Debian
 - Fedora
 - FreeBSD
+- Prometheus
+- Grafana
+- Wazuh
+- Greenbone
+- Wireshark
 - AWS
 - Azure
 - Google Cloud
