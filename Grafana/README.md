@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043798 | [Grafana: Data Validation — Recovery for Portfolio Demo](Project_043798/README.md) |
 | 043799 | [Grafana: Data Validation — Reporting for Portfolio Demo](Project_043799/README.md) |
 | 043800 | [Grafana: Data Validation — Usability Improvement for Portfolio Demo](Project_043800/README.md) |
+| 043801 | [Grafana: Documentation Generation — Baseline Setup for School Lab](Project_043801/README.md) |
+| 043802 | [Grafana: Documentation Generation — Automation for School Lab](Project_043802/README.md) |
+| 043803 | [Grafana: Documentation Generation — Recovery for School Lab](Project_043803/README.md) |
+| 043804 | [Grafana: Documentation Generation — Reporting for School Lab](Project_043804/README.md) |
+| 043805 | [Grafana: Documentation Generation — Usability Improvement for School Lab](Project_043805/README.md) |
+| 043806 | [Grafana: Documentation Generation — Baseline Setup for Small Business](Project_043806/README.md) |
+| 043807 | [Grafana: Documentation Generation — Automation for Small Business](Project_043807/README.md) |
+| 043808 | [Grafana: Documentation Generation — Recovery for Small Business](Project_043808/README.md) |
+| 043809 | [Grafana: Documentation Generation — Reporting for Small Business](Project_043809/README.md) |
+| 043810 | [Grafana: Documentation Generation — Usability Improvement for Small Business](Project_043810/README.md) |
+| 043811 | [Grafana: Documentation Generation — Baseline Setup for Home Development](Project_043811/README.md) |
+| 043812 | [Grafana: Documentation Generation — Automation for Home Development](Project_043812/README.md) |
+| 043813 | [Grafana: Documentation Generation — Recovery for Home Development](Project_043813/README.md) |
+| 043814 | [Grafana: Documentation Generation — Reporting for Home Development](Project_043814/README.md) |
+| 043815 | [Grafana: Documentation Generation — Usability Improvement for Home Development](Project_043815/README.md) |
+| 043816 | [Grafana: Documentation Generation — Baseline Setup for Public Dataset](Project_043816/README.md) |
+| 043817 | [Grafana: Documentation Generation — Automation for Public Dataset](Project_043817/README.md) |
+| 043818 | [Grafana: Documentation Generation — Recovery for Public Dataset](Project_043818/README.md) |
+| 043819 | [Grafana: Documentation Generation — Reporting for Public Dataset](Project_043819/README.md) |
+| 043820 | [Grafana: Documentation Generation — Usability Improvement for Public Dataset](Project_043820/README.md) |
 
 [Back to the portfolio home](../README.md)
