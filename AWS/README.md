@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014538 | [AWS: Access Review — Recovery for Two-Node Lab](Project_014538/README.md) |
 | 014539 | [AWS: Access Review — Reporting for Two-Node Lab](Project_014539/README.md) |
 | 014540 | [AWS: Access Review — Usability Improvement for Two-Node Lab](Project_014540/README.md) |
+| 014541 | [AWS: Access Review — Baseline Setup for Help Desk](Project_014541/README.md) |
+| 014542 | [AWS: Access Review — Automation for Help Desk](Project_014542/README.md) |
+| 014543 | [AWS: Access Review — Recovery for Help Desk](Project_014543/README.md) |
+| 014544 | [AWS: Access Review — Reporting for Help Desk](Project_014544/README.md) |
+| 014545 | [AWS: Access Review — Usability Improvement for Help Desk](Project_014545/README.md) |
+| 014546 | [AWS: Access Review — Baseline Setup for Portfolio Demo](Project_014546/README.md) |
+| 014547 | [AWS: Access Review — Automation for Portfolio Demo](Project_014547/README.md) |
+| 014548 | [AWS: Access Review — Recovery for Portfolio Demo](Project_014548/README.md) |
+| 014549 | [AWS: Access Review — Reporting for Portfolio Demo](Project_014549/README.md) |
+| 014550 | [AWS: Access Review — Usability Improvement for Portfolio Demo](Project_014550/README.md) |
+| 014551 | [AWS: Performance Baseline — Baseline Setup for School Lab](Project_014551/README.md) |
+| 014552 | [AWS: Performance Baseline — Automation for School Lab](Project_014552/README.md) |
+| 014553 | [AWS: Performance Baseline — Recovery for School Lab](Project_014553/README.md) |
+| 014554 | [AWS: Performance Baseline — Reporting for School Lab](Project_014554/README.md) |
+| 014555 | [AWS: Performance Baseline — Usability Improvement for School Lab](Project_014555/README.md) |
+| 014556 | [AWS: Performance Baseline — Baseline Setup for Small Business](Project_014556/README.md) |
+| 014557 | [AWS: Performance Baseline — Automation for Small Business](Project_014557/README.md) |
+| 014558 | [AWS: Performance Baseline — Recovery for Small Business](Project_014558/README.md) |
+| 014559 | [AWS: Performance Baseline — Reporting for Small Business](Project_014559/README.md) |
+| 014560 | [AWS: Performance Baseline — Usability Improvement for Small Business](Project_014560/README.md) |
 
 [Back to the portfolio home](../README.md)
