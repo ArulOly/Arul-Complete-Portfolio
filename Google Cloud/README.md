@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016658 | [Google Cloud: Configuration Comparison — Recovery for Small Business](Project_016658/README.md) |
 | 016659 | [Google Cloud: Configuration Comparison — Reporting for Small Business](Project_016659/README.md) |
 | 016660 | [Google Cloud: Configuration Comparison — Usability Improvement for Small Business](Project_016660/README.md) |
+| 016661 | [Google Cloud: Configuration Comparison — Baseline Setup for Home Development](Project_016661/README.md) |
+| 016662 | [Google Cloud: Configuration Comparison — Automation for Home Development](Project_016662/README.md) |
+| 016663 | [Google Cloud: Configuration Comparison — Recovery for Home Development](Project_016663/README.md) |
+| 016664 | [Google Cloud: Configuration Comparison — Reporting for Home Development](Project_016664/README.md) |
+| 016665 | [Google Cloud: Configuration Comparison — Usability Improvement for Home Development](Project_016665/README.md) |
+| 016666 | [Google Cloud: Configuration Comparison — Baseline Setup for Public Dataset](Project_016666/README.md) |
+| 016667 | [Google Cloud: Configuration Comparison — Automation for Public Dataset](Project_016667/README.md) |
+| 016668 | [Google Cloud: Configuration Comparison — Recovery for Public Dataset](Project_016668/README.md) |
+| 016669 | [Google Cloud: Configuration Comparison — Reporting for Public Dataset](Project_016669/README.md) |
+| 016670 | [Google Cloud: Configuration Comparison — Usability Improvement for Public Dataset](Project_016670/README.md) |
+| 016671 | [Google Cloud: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_016671/README.md) |
+| 016672 | [Google Cloud: Configuration Comparison — Automation for Branch Office Simulator](Project_016672/README.md) |
+| 016673 | [Google Cloud: Configuration Comparison — Recovery for Branch Office Simulator](Project_016673/README.md) |
+| 016674 | [Google Cloud: Configuration Comparison — Reporting for Branch Office Simulator](Project_016674/README.md) |
+| 016675 | [Google Cloud: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_016675/README.md) |
+| 016676 | [Google Cloud: Configuration Comparison — Baseline Setup for Offline Classroom](Project_016676/README.md) |
+| 016677 | [Google Cloud: Configuration Comparison — Automation for Offline Classroom](Project_016677/README.md) |
+| 016678 | [Google Cloud: Configuration Comparison — Recovery for Offline Classroom](Project_016678/README.md) |
+| 016679 | [Google Cloud: Configuration Comparison — Reporting for Offline Classroom](Project_016679/README.md) |
+| 016680 | [Google Cloud: Configuration Comparison — Usability Improvement for Offline Classroom](Project_016680/README.md) |
 
 [Back to the portfolio home](../README.md)
