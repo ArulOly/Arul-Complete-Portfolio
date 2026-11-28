@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042618 | [Apache: Service Check — Recovery for Public Dataset](Project_042618/README.md) |
 | 042619 | [Apache: Service Check — Reporting for Public Dataset](Project_042619/README.md) |
 | 042620 | [Apache: Service Check — Usability Improvement for Public Dataset](Project_042620/README.md) |
+| 042621 | [Apache: Service Check — Baseline Setup for Branch Office Simulator](Project_042621/README.md) |
+| 042622 | [Apache: Service Check — Automation for Branch Office Simulator](Project_042622/README.md) |
+| 042623 | [Apache: Service Check — Recovery for Branch Office Simulator](Project_042623/README.md) |
+| 042624 | [Apache: Service Check — Reporting for Branch Office Simulator](Project_042624/README.md) |
+| 042625 | [Apache: Service Check — Usability Improvement for Branch Office Simulator](Project_042625/README.md) |
+| 042626 | [Apache: Service Check — Baseline Setup for Offline Classroom](Project_042626/README.md) |
+| 042627 | [Apache: Service Check — Automation for Offline Classroom](Project_042627/README.md) |
+| 042628 | [Apache: Service Check — Recovery for Offline Classroom](Project_042628/README.md) |
+| 042629 | [Apache: Service Check — Reporting for Offline Classroom](Project_042629/README.md) |
+| 042630 | [Apache: Service Check — Usability Improvement for Offline Classroom](Project_042630/README.md) |
+| 042631 | [Apache: Service Check — Baseline Setup for Single-Host Lab](Project_042631/README.md) |
+| 042632 | [Apache: Service Check — Automation for Single-Host Lab](Project_042632/README.md) |
+| 042633 | [Apache: Service Check — Recovery for Single-Host Lab](Project_042633/README.md) |
+| 042634 | [Apache: Service Check — Reporting for Single-Host Lab](Project_042634/README.md) |
+| 042635 | [Apache: Service Check — Usability Improvement for Single-Host Lab](Project_042635/README.md) |
+| 042636 | [Apache: Service Check — Baseline Setup for Two-Node Lab](Project_042636/README.md) |
+| 042637 | [Apache: Service Check — Automation for Two-Node Lab](Project_042637/README.md) |
+| 042638 | [Apache: Service Check — Recovery for Two-Node Lab](Project_042638/README.md) |
+| 042639 | [Apache: Service Check — Reporting for Two-Node Lab](Project_042639/README.md) |
+| 042640 | [Apache: Service Check — Usability Improvement for Two-Node Lab](Project_042640/README.md) |
 
 [Back to the portfolio home](../README.md)
