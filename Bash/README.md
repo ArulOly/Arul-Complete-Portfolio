@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039978 | [Bash: Recovery Test — Recovery for Offline Classroom](Project_039978/README.md) |
 | 039979 | [Bash: Recovery Test — Reporting for Offline Classroom](Project_039979/README.md) |
 | 039980 | [Bash: Recovery Test — Usability Improvement for Offline Classroom](Project_039980/README.md) |
+| 039981 | [Bash: Recovery Test — Baseline Setup for Single-Host Lab](Project_039981/README.md) |
+| 039982 | [Bash: Recovery Test — Automation for Single-Host Lab](Project_039982/README.md) |
+| 039983 | [Bash: Recovery Test — Recovery for Single-Host Lab](Project_039983/README.md) |
+| 039984 | [Bash: Recovery Test — Reporting for Single-Host Lab](Project_039984/README.md) |
+| 039985 | [Bash: Recovery Test — Usability Improvement for Single-Host Lab](Project_039985/README.md) |
+| 039986 | [Bash: Recovery Test — Baseline Setup for Two-Node Lab](Project_039986/README.md) |
+| 039987 | [Bash: Recovery Test — Automation for Two-Node Lab](Project_039987/README.md) |
+| 039988 | [Bash: Recovery Test — Recovery for Two-Node Lab](Project_039988/README.md) |
+| 039989 | [Bash: Recovery Test — Reporting for Two-Node Lab](Project_039989/README.md) |
+| 039990 | [Bash: Recovery Test — Usability Improvement for Two-Node Lab](Project_039990/README.md) |
+| 039991 | [Bash: Recovery Test — Baseline Setup for Help Desk](Project_039991/README.md) |
+| 039992 | [Bash: Recovery Test — Automation for Help Desk](Project_039992/README.md) |
+| 039993 | [Bash: Recovery Test — Recovery for Help Desk](Project_039993/README.md) |
+| 039994 | [Bash: Recovery Test — Reporting for Help Desk](Project_039994/README.md) |
+| 039995 | [Bash: Recovery Test — Usability Improvement for Help Desk](Project_039995/README.md) |
+| 039996 | [Bash: Recovery Test — Baseline Setup for Portfolio Demo](Project_039996/README.md) |
+| 039997 | [Bash: Recovery Test — Automation for Portfolio Demo](Project_039997/README.md) |
+| 039998 | [Bash: Recovery Test — Recovery for Portfolio Demo](Project_039998/README.md) |
+| 039999 | [Bash: Recovery Test — Reporting for Portfolio Demo](Project_039999/README.md) |
+| 040000 | [Bash: Recovery Test — Usability Improvement for Portfolio Demo](Project_040000/README.md) |
 
 [Back to the portfolio home](../README.md)
