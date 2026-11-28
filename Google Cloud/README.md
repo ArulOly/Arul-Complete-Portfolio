@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016958 | [Google Cloud: Recovery Test — Recovery for Small Business](Project_016958/README.md) |
 | 016959 | [Google Cloud: Recovery Test — Reporting for Small Business](Project_016959/README.md) |
 | 016960 | [Google Cloud: Recovery Test — Usability Improvement for Small Business](Project_016960/README.md) |
+| 016961 | [Google Cloud: Recovery Test — Baseline Setup for Home Development](Project_016961/README.md) |
+| 016962 | [Google Cloud: Recovery Test — Automation for Home Development](Project_016962/README.md) |
+| 016963 | [Google Cloud: Recovery Test — Recovery for Home Development](Project_016963/README.md) |
+| 016964 | [Google Cloud: Recovery Test — Reporting for Home Development](Project_016964/README.md) |
+| 016965 | [Google Cloud: Recovery Test — Usability Improvement for Home Development](Project_016965/README.md) |
+| 016966 | [Google Cloud: Recovery Test — Baseline Setup for Public Dataset](Project_016966/README.md) |
+| 016967 | [Google Cloud: Recovery Test — Automation for Public Dataset](Project_016967/README.md) |
+| 016968 | [Google Cloud: Recovery Test — Recovery for Public Dataset](Project_016968/README.md) |
+| 016969 | [Google Cloud: Recovery Test — Reporting for Public Dataset](Project_016969/README.md) |
+| 016970 | [Google Cloud: Recovery Test — Usability Improvement for Public Dataset](Project_016970/README.md) |
+| 016971 | [Google Cloud: Recovery Test — Baseline Setup for Branch Office Simulator](Project_016971/README.md) |
+| 016972 | [Google Cloud: Recovery Test — Automation for Branch Office Simulator](Project_016972/README.md) |
+| 016973 | [Google Cloud: Recovery Test — Recovery for Branch Office Simulator](Project_016973/README.md) |
+| 016974 | [Google Cloud: Recovery Test — Reporting for Branch Office Simulator](Project_016974/README.md) |
+| 016975 | [Google Cloud: Recovery Test — Usability Improvement for Branch Office Simulator](Project_016975/README.md) |
+| 016976 | [Google Cloud: Recovery Test — Baseline Setup for Offline Classroom](Project_016976/README.md) |
+| 016977 | [Google Cloud: Recovery Test — Automation for Offline Classroom](Project_016977/README.md) |
+| 016978 | [Google Cloud: Recovery Test — Recovery for Offline Classroom](Project_016978/README.md) |
+| 016979 | [Google Cloud: Recovery Test — Reporting for Offline Classroom](Project_016979/README.md) |
+| 016980 | [Google Cloud: Recovery Test — Usability Improvement for Offline Classroom](Project_016980/README.md) |
 
 [Back to the portfolio home](../README.md)
