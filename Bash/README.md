@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039838 | [Bash: Documentation Generation — Recovery for Two-Node Lab](Project_039838/README.md) |
 | 039839 | [Bash: Documentation Generation — Reporting for Two-Node Lab](Project_039839/README.md) |
 | 039840 | [Bash: Documentation Generation — Usability Improvement for Two-Node Lab](Project_039840/README.md) |
+| 039841 | [Bash: Documentation Generation — Baseline Setup for Help Desk](Project_039841/README.md) |
+| 039842 | [Bash: Documentation Generation — Automation for Help Desk](Project_039842/README.md) |
+| 039843 | [Bash: Documentation Generation — Recovery for Help Desk](Project_039843/README.md) |
+| 039844 | [Bash: Documentation Generation — Reporting for Help Desk](Project_039844/README.md) |
+| 039845 | [Bash: Documentation Generation — Usability Improvement for Help Desk](Project_039845/README.md) |
+| 039846 | [Bash: Documentation Generation — Baseline Setup for Portfolio Demo](Project_039846/README.md) |
+| 039847 | [Bash: Documentation Generation — Automation for Portfolio Demo](Project_039847/README.md) |
+| 039848 | [Bash: Documentation Generation — Recovery for Portfolio Demo](Project_039848/README.md) |
+| 039849 | [Bash: Documentation Generation — Reporting for Portfolio Demo](Project_039849/README.md) |
+| 039850 | [Bash: Documentation Generation — Usability Improvement for Portfolio Demo](Project_039850/README.md) |
+| 039851 | [Bash: Automation — Baseline Setup for School Lab](Project_039851/README.md) |
+| 039852 | [Bash: Automation — Automation for School Lab](Project_039852/README.md) |
+| 039853 | [Bash: Automation — Recovery for School Lab](Project_039853/README.md) |
+| 039854 | [Bash: Automation — Reporting for School Lab](Project_039854/README.md) |
+| 039855 | [Bash: Automation — Usability Improvement for School Lab](Project_039855/README.md) |
+| 039856 | [Bash: Automation — Baseline Setup for Small Business](Project_039856/README.md) |
+| 039857 | [Bash: Automation — Automation for Small Business](Project_039857/README.md) |
+| 039858 | [Bash: Automation — Recovery for Small Business](Project_039858/README.md) |
+| 039859 | [Bash: Automation — Reporting for Small Business](Project_039859/README.md) |
+| 039860 | [Bash: Automation — Usability Improvement for Small Business](Project_039860/README.md) |
 
 [Back to the portfolio home](../README.md)
