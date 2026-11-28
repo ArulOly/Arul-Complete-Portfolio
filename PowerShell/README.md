@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040938 | [PowerShell: Visual Reporting — Recovery for Two-Node Lab](Project_040938/README.md) |
 | 040939 | [PowerShell: Visual Reporting — Reporting for Two-Node Lab](Project_040939/README.md) |
 | 040940 | [PowerShell: Visual Reporting — Usability Improvement for Two-Node Lab](Project_040940/README.md) |
+| 040941 | [PowerShell: Visual Reporting — Baseline Setup for Help Desk](Project_040941/README.md) |
+| 040942 | [PowerShell: Visual Reporting — Automation for Help Desk](Project_040942/README.md) |
+| 040943 | [PowerShell: Visual Reporting — Recovery for Help Desk](Project_040943/README.md) |
+| 040944 | [PowerShell: Visual Reporting — Reporting for Help Desk](Project_040944/README.md) |
+| 040945 | [PowerShell: Visual Reporting — Usability Improvement for Help Desk](Project_040945/README.md) |
+| 040946 | [PowerShell: Visual Reporting — Baseline Setup for Portfolio Demo](Project_040946/README.md) |
+| 040947 | [PowerShell: Visual Reporting — Automation for Portfolio Demo](Project_040947/README.md) |
+| 040948 | [PowerShell: Visual Reporting — Recovery for Portfolio Demo](Project_040948/README.md) |
+| 040949 | [PowerShell: Visual Reporting — Reporting for Portfolio Demo](Project_040949/README.md) |
+| 040950 | [PowerShell: Visual Reporting — Usability Improvement for Portfolio Demo](Project_040950/README.md) |
+| 040951 | [PowerShell: Recovery Test — Baseline Setup for School Lab](Project_040951/README.md) |
+| 040952 | [PowerShell: Recovery Test — Automation for School Lab](Project_040952/README.md) |
+| 040953 | [PowerShell: Recovery Test — Recovery for School Lab](Project_040953/README.md) |
+| 040954 | [PowerShell: Recovery Test — Reporting for School Lab](Project_040954/README.md) |
+| 040955 | [PowerShell: Recovery Test — Usability Improvement for School Lab](Project_040955/README.md) |
+| 040956 | [PowerShell: Recovery Test — Baseline Setup for Small Business](Project_040956/README.md) |
+| 040957 | [PowerShell: Recovery Test — Automation for Small Business](Project_040957/README.md) |
+| 040958 | [PowerShell: Recovery Test — Recovery for Small Business](Project_040958/README.md) |
+| 040959 | [PowerShell: Recovery Test — Reporting for Small Business](Project_040959/README.md) |
+| 040960 | [PowerShell: Recovery Test — Usability Improvement for Small Business](Project_040960/README.md) |
 
 [Back to the portfolio home](../README.md)
