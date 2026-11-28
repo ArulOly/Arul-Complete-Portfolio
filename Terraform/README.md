@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046918 | [Terraform: Visual Reporting — Recovery for Public Dataset](Project_046918/README.md) |
 | 046919 | [Terraform: Visual Reporting — Reporting for Public Dataset](Project_046919/README.md) |
 | 046920 | [Terraform: Visual Reporting — Usability Improvement for Public Dataset](Project_046920/README.md) |
+| 046921 | [Terraform: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_046921/README.md) |
+| 046922 | [Terraform: Visual Reporting — Automation for Branch Office Simulator](Project_046922/README.md) |
+| 046923 | [Terraform: Visual Reporting — Recovery for Branch Office Simulator](Project_046923/README.md) |
+| 046924 | [Terraform: Visual Reporting — Reporting for Branch Office Simulator](Project_046924/README.md) |
+| 046925 | [Terraform: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_046925/README.md) |
+| 046926 | [Terraform: Visual Reporting — Baseline Setup for Offline Classroom](Project_046926/README.md) |
+| 046927 | [Terraform: Visual Reporting — Automation for Offline Classroom](Project_046927/README.md) |
+| 046928 | [Terraform: Visual Reporting — Recovery for Offline Classroom](Project_046928/README.md) |
+| 046929 | [Terraform: Visual Reporting — Reporting for Offline Classroom](Project_046929/README.md) |
+| 046930 | [Terraform: Visual Reporting — Usability Improvement for Offline Classroom](Project_046930/README.md) |
+| 046931 | [Terraform: Visual Reporting — Baseline Setup for Single-Host Lab](Project_046931/README.md) |
+| 046932 | [Terraform: Visual Reporting — Automation for Single-Host Lab](Project_046932/README.md) |
+| 046933 | [Terraform: Visual Reporting — Recovery for Single-Host Lab](Project_046933/README.md) |
+| 046934 | [Terraform: Visual Reporting — Reporting for Single-Host Lab](Project_046934/README.md) |
+| 046935 | [Terraform: Visual Reporting — Usability Improvement for Single-Host Lab](Project_046935/README.md) |
+| 046936 | [Terraform: Visual Reporting — Baseline Setup for Two-Node Lab](Project_046936/README.md) |
+| 046937 | [Terraform: Visual Reporting — Automation for Two-Node Lab](Project_046937/README.md) |
+| 046938 | [Terraform: Visual Reporting — Recovery for Two-Node Lab](Project_046938/README.md) |
+| 046939 | [Terraform: Visual Reporting — Reporting for Two-Node Lab](Project_046939/README.md) |
+| 046940 | [Terraform: Visual Reporting — Usability Improvement for Two-Node Lab](Project_046940/README.md) |
 
 [Back to the portfolio home](../README.md)
