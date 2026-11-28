@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016338 | [Google Cloud: Data Export — Recovery for Two-Node Lab](Project_016338/README.md) |
 | 016339 | [Google Cloud: Data Export — Reporting for Two-Node Lab](Project_016339/README.md) |
 | 016340 | [Google Cloud: Data Export — Usability Improvement for Two-Node Lab](Project_016340/README.md) |
+| 016341 | [Google Cloud: Data Export — Baseline Setup for Help Desk](Project_016341/README.md) |
+| 016342 | [Google Cloud: Data Export — Automation for Help Desk](Project_016342/README.md) |
+| 016343 | [Google Cloud: Data Export — Recovery for Help Desk](Project_016343/README.md) |
+| 016344 | [Google Cloud: Data Export — Reporting for Help Desk](Project_016344/README.md) |
+| 016345 | [Google Cloud: Data Export — Usability Improvement for Help Desk](Project_016345/README.md) |
+| 016346 | [Google Cloud: Data Export — Baseline Setup for Portfolio Demo](Project_016346/README.md) |
+| 016347 | [Google Cloud: Data Export — Automation for Portfolio Demo](Project_016347/README.md) |
+| 016348 | [Google Cloud: Data Export — Recovery for Portfolio Demo](Project_016348/README.md) |
+| 016349 | [Google Cloud: Data Export — Reporting for Portfolio Demo](Project_016349/README.md) |
+| 016350 | [Google Cloud: Data Export — Usability Improvement for Portfolio Demo](Project_016350/README.md) |
+| 016351 | [Google Cloud: Dashboard — Baseline Setup for School Lab](Project_016351/README.md) |
+| 016352 | [Google Cloud: Dashboard — Automation for School Lab](Project_016352/README.md) |
+| 016353 | [Google Cloud: Dashboard — Recovery for School Lab](Project_016353/README.md) |
+| 016354 | [Google Cloud: Dashboard — Reporting for School Lab](Project_016354/README.md) |
+| 016355 | [Google Cloud: Dashboard — Usability Improvement for School Lab](Project_016355/README.md) |
+| 016356 | [Google Cloud: Dashboard — Baseline Setup for Small Business](Project_016356/README.md) |
+| 016357 | [Google Cloud: Dashboard — Automation for Small Business](Project_016357/README.md) |
+| 016358 | [Google Cloud: Dashboard — Recovery for Small Business](Project_016358/README.md) |
+| 016359 | [Google Cloud: Dashboard — Reporting for Small Business](Project_016359/README.md) |
+| 016360 | [Google Cloud: Dashboard — Usability Improvement for Small Business](Project_016360/README.md) |
 
 [Back to the portfolio home](../README.md)
