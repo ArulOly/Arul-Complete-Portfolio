@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047718 | [Ansible: Error Handling — Recovery for Public Dataset](Project_047718/README.md) |
 | 047719 | [Ansible: Error Handling — Reporting for Public Dataset](Project_047719/README.md) |
 | 047720 | [Ansible: Error Handling — Usability Improvement for Public Dataset](Project_047720/README.md) |
+| 047721 | [Ansible: Error Handling — Baseline Setup for Branch Office Simulator](Project_047721/README.md) |
+| 047722 | [Ansible: Error Handling — Automation for Branch Office Simulator](Project_047722/README.md) |
+| 047723 | [Ansible: Error Handling — Recovery for Branch Office Simulator](Project_047723/README.md) |
+| 047724 | [Ansible: Error Handling — Reporting for Branch Office Simulator](Project_047724/README.md) |
+| 047725 | [Ansible: Error Handling — Usability Improvement for Branch Office Simulator](Project_047725/README.md) |
+| 047726 | [Ansible: Error Handling — Baseline Setup for Offline Classroom](Project_047726/README.md) |
+| 047727 | [Ansible: Error Handling — Automation for Offline Classroom](Project_047727/README.md) |
+| 047728 | [Ansible: Error Handling — Recovery for Offline Classroom](Project_047728/README.md) |
+| 047729 | [Ansible: Error Handling — Reporting for Offline Classroom](Project_047729/README.md) |
+| 047730 | [Ansible: Error Handling — Usability Improvement for Offline Classroom](Project_047730/README.md) |
+| 047731 | [Ansible: Error Handling — Baseline Setup for Single-Host Lab](Project_047731/README.md) |
+| 047732 | [Ansible: Error Handling — Automation for Single-Host Lab](Project_047732/README.md) |
+| 047733 | [Ansible: Error Handling — Recovery for Single-Host Lab](Project_047733/README.md) |
+| 047734 | [Ansible: Error Handling — Reporting for Single-Host Lab](Project_047734/README.md) |
+| 047735 | [Ansible: Error Handling — Usability Improvement for Single-Host Lab](Project_047735/README.md) |
+| 047736 | [Ansible: Error Handling — Baseline Setup for Two-Node Lab](Project_047736/README.md) |
+| 047737 | [Ansible: Error Handling — Automation for Two-Node Lab](Project_047737/README.md) |
+| 047738 | [Ansible: Error Handling — Recovery for Two-Node Lab](Project_047738/README.md) |
+| 047739 | [Ansible: Error Handling — Reporting for Two-Node Lab](Project_047739/README.md) |
+| 047740 | [Ansible: Error Handling — Usability Improvement for Two-Node Lab](Project_047740/README.md) |
 
 [Back to the portfolio home](../README.md)
