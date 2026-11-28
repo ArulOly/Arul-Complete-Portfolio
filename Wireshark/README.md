@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029438 | [Wireshark: Alerting — Recovery for Two-Node Lab](Project_029438/README.md) |
 | 029439 | [Wireshark: Alerting — Reporting for Two-Node Lab](Project_029439/README.md) |
 | 029440 | [Wireshark: Alerting — Usability Improvement for Two-Node Lab](Project_029440/README.md) |
+| 029441 | [Wireshark: Alerting — Baseline Setup for Help Desk](Project_029441/README.md) |
+| 029442 | [Wireshark: Alerting — Automation for Help Desk](Project_029442/README.md) |
+| 029443 | [Wireshark: Alerting — Recovery for Help Desk](Project_029443/README.md) |
+| 029444 | [Wireshark: Alerting — Reporting for Help Desk](Project_029444/README.md) |
+| 029445 | [Wireshark: Alerting — Usability Improvement for Help Desk](Project_029445/README.md) |
+| 029446 | [Wireshark: Alerting — Baseline Setup for Portfolio Demo](Project_029446/README.md) |
+| 029447 | [Wireshark: Alerting — Automation for Portfolio Demo](Project_029447/README.md) |
+| 029448 | [Wireshark: Alerting — Recovery for Portfolio Demo](Project_029448/README.md) |
+| 029449 | [Wireshark: Alerting — Reporting for Portfolio Demo](Project_029449/README.md) |
+| 029450 | [Wireshark: Alerting — Usability Improvement for Portfolio Demo](Project_029450/README.md) |
+| 029451 | [Wireshark: Scheduled Reporting — Baseline Setup for School Lab](Project_029451/README.md) |
+| 029452 | [Wireshark: Scheduled Reporting — Automation for School Lab](Project_029452/README.md) |
+| 029453 | [Wireshark: Scheduled Reporting — Recovery for School Lab](Project_029453/README.md) |
+| 029454 | [Wireshark: Scheduled Reporting — Reporting for School Lab](Project_029454/README.md) |
+| 029455 | [Wireshark: Scheduled Reporting — Usability Improvement for School Lab](Project_029455/README.md) |
+| 029456 | [Wireshark: Scheduled Reporting — Baseline Setup for Small Business](Project_029456/README.md) |
+| 029457 | [Wireshark: Scheduled Reporting — Automation for Small Business](Project_029457/README.md) |
+| 029458 | [Wireshark: Scheduled Reporting — Recovery for Small Business](Project_029458/README.md) |
+| 029459 | [Wireshark: Scheduled Reporting — Reporting for Small Business](Project_029459/README.md) |
+| 029460 | [Wireshark: Scheduled Reporting — Usability Improvement for Small Business](Project_029460/README.md) |
 
 [Back to the portfolio home](../README.md)
