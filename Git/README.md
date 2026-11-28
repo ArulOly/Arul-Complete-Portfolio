@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038858 | [Git: Automation — Recovery for Small Business](Project_038858/README.md) |
 | 038859 | [Git: Automation — Reporting for Small Business](Project_038859/README.md) |
 | 038860 | [Git: Automation — Usability Improvement for Small Business](Project_038860/README.md) |
+| 038861 | [Git: Automation — Baseline Setup for Home Development](Project_038861/README.md) |
+| 038862 | [Git: Automation — Automation for Home Development](Project_038862/README.md) |
+| 038863 | [Git: Automation — Recovery for Home Development](Project_038863/README.md) |
+| 038864 | [Git: Automation — Reporting for Home Development](Project_038864/README.md) |
+| 038865 | [Git: Automation — Usability Improvement for Home Development](Project_038865/README.md) |
+| 038866 | [Git: Automation — Baseline Setup for Public Dataset](Project_038866/README.md) |
+| 038867 | [Git: Automation — Automation for Public Dataset](Project_038867/README.md) |
+| 038868 | [Git: Automation — Recovery for Public Dataset](Project_038868/README.md) |
+| 038869 | [Git: Automation — Reporting for Public Dataset](Project_038869/README.md) |
+| 038870 | [Git: Automation — Usability Improvement for Public Dataset](Project_038870/README.md) |
+| 038871 | [Git: Automation — Baseline Setup for Branch Office Simulator](Project_038871/README.md) |
+| 038872 | [Git: Automation — Automation for Branch Office Simulator](Project_038872/README.md) |
+| 038873 | [Git: Automation — Recovery for Branch Office Simulator](Project_038873/README.md) |
+| 038874 | [Git: Automation — Reporting for Branch Office Simulator](Project_038874/README.md) |
+| 038875 | [Git: Automation — Usability Improvement for Branch Office Simulator](Project_038875/README.md) |
+| 038876 | [Git: Automation — Baseline Setup for Offline Classroom](Project_038876/README.md) |
+| 038877 | [Git: Automation — Automation for Offline Classroom](Project_038877/README.md) |
+| 038878 | [Git: Automation — Recovery for Offline Classroom](Project_038878/README.md) |
+| 038879 | [Git: Automation — Reporting for Offline Classroom](Project_038879/README.md) |
+| 038880 | [Git: Automation — Usability Improvement for Offline Classroom](Project_038880/README.md) |
 
 [Back to the portfolio home](../README.md)
