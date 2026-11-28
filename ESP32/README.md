@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036598 | [ESP32: Performance Baseline — Recovery for Portfolio Demo](Project_036598/README.md) |
 | 036599 | [ESP32: Performance Baseline — Reporting for Portfolio Demo](Project_036599/README.md) |
 | 036600 | [ESP32: Performance Baseline — Usability Improvement for Portfolio Demo](Project_036600/README.md) |
+| 036601 | [ESP32: Service Check — Baseline Setup for School Lab](Project_036601/README.md) |
+| 036602 | [ESP32: Service Check — Automation for School Lab](Project_036602/README.md) |
+| 036603 | [ESP32: Service Check — Recovery for School Lab](Project_036603/README.md) |
+| 036604 | [ESP32: Service Check — Reporting for School Lab](Project_036604/README.md) |
+| 036605 | [ESP32: Service Check — Usability Improvement for School Lab](Project_036605/README.md) |
+| 036606 | [ESP32: Service Check — Baseline Setup for Small Business](Project_036606/README.md) |
+| 036607 | [ESP32: Service Check — Automation for Small Business](Project_036607/README.md) |
+| 036608 | [ESP32: Service Check — Recovery for Small Business](Project_036608/README.md) |
+| 036609 | [ESP32: Service Check — Reporting for Small Business](Project_036609/README.md) |
+| 036610 | [ESP32: Service Check — Usability Improvement for Small Business](Project_036610/README.md) |
+| 036611 | [ESP32: Service Check — Baseline Setup for Home Development](Project_036611/README.md) |
+| 036612 | [ESP32: Service Check — Automation for Home Development](Project_036612/README.md) |
+| 036613 | [ESP32: Service Check — Recovery for Home Development](Project_036613/README.md) |
+| 036614 | [ESP32: Service Check — Reporting for Home Development](Project_036614/README.md) |
+| 036615 | [ESP32: Service Check — Usability Improvement for Home Development](Project_036615/README.md) |
+| 036616 | [ESP32: Service Check — Baseline Setup for Public Dataset](Project_036616/README.md) |
+| 036617 | [ESP32: Service Check — Automation for Public Dataset](Project_036617/README.md) |
+| 036618 | [ESP32: Service Check — Recovery for Public Dataset](Project_036618/README.md) |
+| 036619 | [ESP32: Service Check — Reporting for Public Dataset](Project_036619/README.md) |
+| 036620 | [ESP32: Service Check — Usability Improvement for Public Dataset](Project_036620/README.md) |
 
 [Back to the portfolio home](../README.md)
