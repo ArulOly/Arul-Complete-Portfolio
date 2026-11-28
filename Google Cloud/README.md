@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016778 | [Google Cloud: Data Validation — Recovery for Offline Classroom](Project_016778/README.md) |
 | 016779 | [Google Cloud: Data Validation — Reporting for Offline Classroom](Project_016779/README.md) |
 | 016780 | [Google Cloud: Data Validation — Usability Improvement for Offline Classroom](Project_016780/README.md) |
+| 016781 | [Google Cloud: Data Validation — Baseline Setup for Single-Host Lab](Project_016781/README.md) |
+| 016782 | [Google Cloud: Data Validation — Automation for Single-Host Lab](Project_016782/README.md) |
+| 016783 | [Google Cloud: Data Validation — Recovery for Single-Host Lab](Project_016783/README.md) |
+| 016784 | [Google Cloud: Data Validation — Reporting for Single-Host Lab](Project_016784/README.md) |
+| 016785 | [Google Cloud: Data Validation — Usability Improvement for Single-Host Lab](Project_016785/README.md) |
+| 016786 | [Google Cloud: Data Validation — Baseline Setup for Two-Node Lab](Project_016786/README.md) |
+| 016787 | [Google Cloud: Data Validation — Automation for Two-Node Lab](Project_016787/README.md) |
+| 016788 | [Google Cloud: Data Validation — Recovery for Two-Node Lab](Project_016788/README.md) |
+| 016789 | [Google Cloud: Data Validation — Reporting for Two-Node Lab](Project_016789/README.md) |
+| 016790 | [Google Cloud: Data Validation — Usability Improvement for Two-Node Lab](Project_016790/README.md) |
+| 016791 | [Google Cloud: Data Validation — Baseline Setup for Help Desk](Project_016791/README.md) |
+| 016792 | [Google Cloud: Data Validation — Automation for Help Desk](Project_016792/README.md) |
+| 016793 | [Google Cloud: Data Validation — Recovery for Help Desk](Project_016793/README.md) |
+| 016794 | [Google Cloud: Data Validation — Reporting for Help Desk](Project_016794/README.md) |
+| 016795 | [Google Cloud: Data Validation — Usability Improvement for Help Desk](Project_016795/README.md) |
+| 016796 | [Google Cloud: Data Validation — Baseline Setup for Portfolio Demo](Project_016796/README.md) |
+| 016797 | [Google Cloud: Data Validation — Automation for Portfolio Demo](Project_016797/README.md) |
+| 016798 | [Google Cloud: Data Validation — Recovery for Portfolio Demo](Project_016798/README.md) |
+| 016799 | [Google Cloud: Data Validation — Reporting for Portfolio Demo](Project_016799/README.md) |
+| 016800 | [Google Cloud: Data Validation — Usability Improvement for Portfolio Demo](Project_016800/README.md) |
 
 [Back to the portfolio home](../README.md)
