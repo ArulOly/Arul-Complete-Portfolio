@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043098 | [Grafana: Monitoring — Recovery for Portfolio Demo](Project_043098/README.md) |
 | 043099 | [Grafana: Monitoring — Reporting for Portfolio Demo](Project_043099/README.md) |
 | 043100 | [Grafana: Monitoring — Usability Improvement for Portfolio Demo](Project_043100/README.md) |
+| 043101 | [Grafana: Audit — Baseline Setup for School Lab](Project_043101/README.md) |
+| 043102 | [Grafana: Audit — Automation for School Lab](Project_043102/README.md) |
+| 043103 | [Grafana: Audit — Recovery for School Lab](Project_043103/README.md) |
+| 043104 | [Grafana: Audit — Reporting for School Lab](Project_043104/README.md) |
+| 043105 | [Grafana: Audit — Usability Improvement for School Lab](Project_043105/README.md) |
+| 043106 | [Grafana: Audit — Baseline Setup for Small Business](Project_043106/README.md) |
+| 043107 | [Grafana: Audit — Automation for Small Business](Project_043107/README.md) |
+| 043108 | [Grafana: Audit — Recovery for Small Business](Project_043108/README.md) |
+| 043109 | [Grafana: Audit — Reporting for Small Business](Project_043109/README.md) |
+| 043110 | [Grafana: Audit — Usability Improvement for Small Business](Project_043110/README.md) |
+| 043111 | [Grafana: Audit — Baseline Setup for Home Development](Project_043111/README.md) |
+| 043112 | [Grafana: Audit — Automation for Home Development](Project_043112/README.md) |
+| 043113 | [Grafana: Audit — Recovery for Home Development](Project_043113/README.md) |
+| 043114 | [Grafana: Audit — Reporting for Home Development](Project_043114/README.md) |
+| 043115 | [Grafana: Audit — Usability Improvement for Home Development](Project_043115/README.md) |
+| 043116 | [Grafana: Audit — Baseline Setup for Public Dataset](Project_043116/README.md) |
+| 043117 | [Grafana: Audit — Automation for Public Dataset](Project_043117/README.md) |
+| 043118 | [Grafana: Audit — Recovery for Public Dataset](Project_043118/README.md) |
+| 043119 | [Grafana: Audit — Reporting for Public Dataset](Project_043119/README.md) |
+| 043120 | [Grafana: Audit — Usability Improvement for Public Dataset](Project_043120/README.md) |
 
 [Back to the portfolio home](../README.md)
