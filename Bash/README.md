@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039538 | [Bash: Access Review — Recovery for Two-Node Lab](Project_039538/README.md) |
 | 039539 | [Bash: Access Review — Reporting for Two-Node Lab](Project_039539/README.md) |
 | 039540 | [Bash: Access Review — Usability Improvement for Two-Node Lab](Project_039540/README.md) |
+| 039541 | [Bash: Access Review — Baseline Setup for Help Desk](Project_039541/README.md) |
+| 039542 | [Bash: Access Review — Automation for Help Desk](Project_039542/README.md) |
+| 039543 | [Bash: Access Review — Recovery for Help Desk](Project_039543/README.md) |
+| 039544 | [Bash: Access Review — Reporting for Help Desk](Project_039544/README.md) |
+| 039545 | [Bash: Access Review — Usability Improvement for Help Desk](Project_039545/README.md) |
+| 039546 | [Bash: Access Review — Baseline Setup for Portfolio Demo](Project_039546/README.md) |
+| 039547 | [Bash: Access Review — Automation for Portfolio Demo](Project_039547/README.md) |
+| 039548 | [Bash: Access Review — Recovery for Portfolio Demo](Project_039548/README.md) |
+| 039549 | [Bash: Access Review — Reporting for Portfolio Demo](Project_039549/README.md) |
+| 039550 | [Bash: Access Review — Usability Improvement for Portfolio Demo](Project_039550/README.md) |
+| 039551 | [Bash: Performance Baseline — Baseline Setup for School Lab](Project_039551/README.md) |
+| 039552 | [Bash: Performance Baseline — Automation for School Lab](Project_039552/README.md) |
+| 039553 | [Bash: Performance Baseline — Recovery for School Lab](Project_039553/README.md) |
+| 039554 | [Bash: Performance Baseline — Reporting for School Lab](Project_039554/README.md) |
+| 039555 | [Bash: Performance Baseline — Usability Improvement for School Lab](Project_039555/README.md) |
+| 039556 | [Bash: Performance Baseline — Baseline Setup for Small Business](Project_039556/README.md) |
+| 039557 | [Bash: Performance Baseline — Automation for Small Business](Project_039557/README.md) |
+| 039558 | [Bash: Performance Baseline — Recovery for Small Business](Project_039558/README.md) |
+| 039559 | [Bash: Performance Baseline — Reporting for Small Business](Project_039559/README.md) |
+| 039560 | [Bash: Performance Baseline — Usability Improvement for Small Business](Project_039560/README.md) |
 
 [Back to the portfolio home](../README.md)
