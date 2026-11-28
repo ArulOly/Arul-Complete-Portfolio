@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039878 | [Bash: Automation — Recovery for Offline Classroom](Project_039878/README.md) |
 | 039879 | [Bash: Automation — Reporting for Offline Classroom](Project_039879/README.md) |
 | 039880 | [Bash: Automation — Usability Improvement for Offline Classroom](Project_039880/README.md) |
+| 039881 | [Bash: Automation — Baseline Setup for Single-Host Lab](Project_039881/README.md) |
+| 039882 | [Bash: Automation — Automation for Single-Host Lab](Project_039882/README.md) |
+| 039883 | [Bash: Automation — Recovery for Single-Host Lab](Project_039883/README.md) |
+| 039884 | [Bash: Automation — Reporting for Single-Host Lab](Project_039884/README.md) |
+| 039885 | [Bash: Automation — Usability Improvement for Single-Host Lab](Project_039885/README.md) |
+| 039886 | [Bash: Automation — Baseline Setup for Two-Node Lab](Project_039886/README.md) |
+| 039887 | [Bash: Automation — Automation for Two-Node Lab](Project_039887/README.md) |
+| 039888 | [Bash: Automation — Recovery for Two-Node Lab](Project_039888/README.md) |
+| 039889 | [Bash: Automation — Reporting for Two-Node Lab](Project_039889/README.md) |
+| 039890 | [Bash: Automation — Usability Improvement for Two-Node Lab](Project_039890/README.md) |
+| 039891 | [Bash: Automation — Baseline Setup for Help Desk](Project_039891/README.md) |
+| 039892 | [Bash: Automation — Automation for Help Desk](Project_039892/README.md) |
+| 039893 | [Bash: Automation — Recovery for Help Desk](Project_039893/README.md) |
+| 039894 | [Bash: Automation — Reporting for Help Desk](Project_039894/README.md) |
+| 039895 | [Bash: Automation — Usability Improvement for Help Desk](Project_039895/README.md) |
+| 039896 | [Bash: Automation — Baseline Setup for Portfolio Demo](Project_039896/README.md) |
+| 039897 | [Bash: Automation — Automation for Portfolio Demo](Project_039897/README.md) |
+| 039898 | [Bash: Automation — Recovery for Portfolio Demo](Project_039898/README.md) |
+| 039899 | [Bash: Automation — Reporting for Portfolio Demo](Project_039899/README.md) |
+| 039900 | [Bash: Automation — Usability Improvement for Portfolio Demo](Project_039900/README.md) |
 
 [Back to the portfolio home](../README.md)
