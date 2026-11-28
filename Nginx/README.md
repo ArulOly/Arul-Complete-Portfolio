@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041138 | [Nginx: Audit — Recovery for Two-Node Lab](Project_041138/README.md) |
 | 041139 | [Nginx: Audit — Reporting for Two-Node Lab](Project_041139/README.md) |
 | 041140 | [Nginx: Audit — Usability Improvement for Two-Node Lab](Project_041140/README.md) |
+| 041141 | [Nginx: Audit — Baseline Setup for Help Desk](Project_041141/README.md) |
+| 041142 | [Nginx: Audit — Automation for Help Desk](Project_041142/README.md) |
+| 041143 | [Nginx: Audit — Recovery for Help Desk](Project_041143/README.md) |
+| 041144 | [Nginx: Audit — Reporting for Help Desk](Project_041144/README.md) |
+| 041145 | [Nginx: Audit — Usability Improvement for Help Desk](Project_041145/README.md) |
+| 041146 | [Nginx: Audit — Baseline Setup for Portfolio Demo](Project_041146/README.md) |
+| 041147 | [Nginx: Audit — Automation for Portfolio Demo](Project_041147/README.md) |
+| 041148 | [Nginx: Audit — Recovery for Portfolio Demo](Project_041148/README.md) |
+| 041149 | [Nginx: Audit — Reporting for Portfolio Demo](Project_041149/README.md) |
+| 041150 | [Nginx: Audit — Usability Improvement for Portfolio Demo](Project_041150/README.md) |
+| 041151 | [Nginx: Log Analysis — Baseline Setup for School Lab](Project_041151/README.md) |
+| 041152 | [Nginx: Log Analysis — Automation for School Lab](Project_041152/README.md) |
+| 041153 | [Nginx: Log Analysis — Recovery for School Lab](Project_041153/README.md) |
+| 041154 | [Nginx: Log Analysis — Reporting for School Lab](Project_041154/README.md) |
+| 041155 | [Nginx: Log Analysis — Usability Improvement for School Lab](Project_041155/README.md) |
+| 041156 | [Nginx: Log Analysis — Baseline Setup for Small Business](Project_041156/README.md) |
+| 041157 | [Nginx: Log Analysis — Automation for Small Business](Project_041157/README.md) |
+| 041158 | [Nginx: Log Analysis — Recovery for Small Business](Project_041158/README.md) |
+| 041159 | [Nginx: Log Analysis — Reporting for Small Business](Project_041159/README.md) |
+| 041160 | [Nginx: Log Analysis — Usability Improvement for Small Business](Project_041160/README.md) |
 
 [Back to the portfolio home](../README.md)
