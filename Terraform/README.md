@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046698 | [Terraform: Configuration Comparison — Recovery for Portfolio Demo](Project_046698/README.md) |
 | 046699 | [Terraform: Configuration Comparison — Reporting for Portfolio Demo](Project_046699/README.md) |
 | 046700 | [Terraform: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_046700/README.md) |
+| 046701 | [Terraform: Error Handling — Baseline Setup for School Lab](Project_046701/README.md) |
+| 046702 | [Terraform: Error Handling — Automation for School Lab](Project_046702/README.md) |
+| 046703 | [Terraform: Error Handling — Recovery for School Lab](Project_046703/README.md) |
+| 046704 | [Terraform: Error Handling — Reporting for School Lab](Project_046704/README.md) |
+| 046705 | [Terraform: Error Handling — Usability Improvement for School Lab](Project_046705/README.md) |
+| 046706 | [Terraform: Error Handling — Baseline Setup for Small Business](Project_046706/README.md) |
+| 046707 | [Terraform: Error Handling — Automation for Small Business](Project_046707/README.md) |
+| 046708 | [Terraform: Error Handling — Recovery for Small Business](Project_046708/README.md) |
+| 046709 | [Terraform: Error Handling — Reporting for Small Business](Project_046709/README.md) |
+| 046710 | [Terraform: Error Handling — Usability Improvement for Small Business](Project_046710/README.md) |
+| 046711 | [Terraform: Error Handling — Baseline Setup for Home Development](Project_046711/README.md) |
+| 046712 | [Terraform: Error Handling — Automation for Home Development](Project_046712/README.md) |
+| 046713 | [Terraform: Error Handling — Recovery for Home Development](Project_046713/README.md) |
+| 046714 | [Terraform: Error Handling — Reporting for Home Development](Project_046714/README.md) |
+| 046715 | [Terraform: Error Handling — Usability Improvement for Home Development](Project_046715/README.md) |
+| 046716 | [Terraform: Error Handling — Baseline Setup for Public Dataset](Project_046716/README.md) |
+| 046717 | [Terraform: Error Handling — Automation for Public Dataset](Project_046717/README.md) |
+| 046718 | [Terraform: Error Handling — Recovery for Public Dataset](Project_046718/README.md) |
+| 046719 | [Terraform: Error Handling — Reporting for Public Dataset](Project_046719/README.md) |
+| 046720 | [Terraform: Error Handling — Usability Improvement for Public Dataset](Project_046720/README.md) |
 
 [Back to the portfolio home](../README.md)
