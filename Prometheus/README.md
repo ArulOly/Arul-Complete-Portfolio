@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044338 | [Prometheus: Data Export — Recovery for Two-Node Lab](Project_044338/README.md) |
 | 044339 | [Prometheus: Data Export — Reporting for Two-Node Lab](Project_044339/README.md) |
 | 044340 | [Prometheus: Data Export — Usability Improvement for Two-Node Lab](Project_044340/README.md) |
+| 044341 | [Prometheus: Data Export — Baseline Setup for Help Desk](Project_044341/README.md) |
+| 044342 | [Prometheus: Data Export — Automation for Help Desk](Project_044342/README.md) |
+| 044343 | [Prometheus: Data Export — Recovery for Help Desk](Project_044343/README.md) |
+| 044344 | [Prometheus: Data Export — Reporting for Help Desk](Project_044344/README.md) |
+| 044345 | [Prometheus: Data Export — Usability Improvement for Help Desk](Project_044345/README.md) |
+| 044346 | [Prometheus: Data Export — Baseline Setup for Portfolio Demo](Project_044346/README.md) |
+| 044347 | [Prometheus: Data Export — Automation for Portfolio Demo](Project_044347/README.md) |
+| 044348 | [Prometheus: Data Export — Recovery for Portfolio Demo](Project_044348/README.md) |
+| 044349 | [Prometheus: Data Export — Reporting for Portfolio Demo](Project_044349/README.md) |
+| 044350 | [Prometheus: Data Export — Usability Improvement for Portfolio Demo](Project_044350/README.md) |
+| 044351 | [Prometheus: Dashboard — Baseline Setup for School Lab](Project_044351/README.md) |
+| 044352 | [Prometheus: Dashboard — Automation for School Lab](Project_044352/README.md) |
+| 044353 | [Prometheus: Dashboard — Recovery for School Lab](Project_044353/README.md) |
+| 044354 | [Prometheus: Dashboard — Reporting for School Lab](Project_044354/README.md) |
+| 044355 | [Prometheus: Dashboard — Usability Improvement for School Lab](Project_044355/README.md) |
+| 044356 | [Prometheus: Dashboard — Baseline Setup for Small Business](Project_044356/README.md) |
+| 044357 | [Prometheus: Dashboard — Automation for Small Business](Project_044357/README.md) |
+| 044358 | [Prometheus: Dashboard — Recovery for Small Business](Project_044358/README.md) |
+| 044359 | [Prometheus: Dashboard — Reporting for Small Business](Project_044359/README.md) |
+| 044360 | [Prometheus: Dashboard — Usability Improvement for Small Business](Project_044360/README.md) |
 
 [Back to the portfolio home](../README.md)
