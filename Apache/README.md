@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042038 | [Apache: Inventory — Recovery for Two-Node Lab](Project_042038/README.md) |
 | 042039 | [Apache: Inventory — Reporting for Two-Node Lab](Project_042039/README.md) |
 | 042040 | [Apache: Inventory — Usability Improvement for Two-Node Lab](Project_042040/README.md) |
+| 042041 | [Apache: Inventory — Baseline Setup for Help Desk](Project_042041/README.md) |
+| 042042 | [Apache: Inventory — Automation for Help Desk](Project_042042/README.md) |
+| 042043 | [Apache: Inventory — Recovery for Help Desk](Project_042043/README.md) |
+| 042044 | [Apache: Inventory — Reporting for Help Desk](Project_042044/README.md) |
+| 042045 | [Apache: Inventory — Usability Improvement for Help Desk](Project_042045/README.md) |
+| 042046 | [Apache: Inventory — Baseline Setup for Portfolio Demo](Project_042046/README.md) |
+| 042047 | [Apache: Inventory — Automation for Portfolio Demo](Project_042047/README.md) |
+| 042048 | [Apache: Inventory — Recovery for Portfolio Demo](Project_042048/README.md) |
+| 042049 | [Apache: Inventory — Reporting for Portfolio Demo](Project_042049/README.md) |
+| 042050 | [Apache: Inventory — Usability Improvement for Portfolio Demo](Project_042050/README.md) |
+| 042051 | [Apache: Monitoring — Baseline Setup for School Lab](Project_042051/README.md) |
+| 042052 | [Apache: Monitoring — Automation for School Lab](Project_042052/README.md) |
+| 042053 | [Apache: Monitoring — Recovery for School Lab](Project_042053/README.md) |
+| 042054 | [Apache: Monitoring — Reporting for School Lab](Project_042054/README.md) |
+| 042055 | [Apache: Monitoring — Usability Improvement for School Lab](Project_042055/README.md) |
+| 042056 | [Apache: Monitoring — Baseline Setup for Small Business](Project_042056/README.md) |
+| 042057 | [Apache: Monitoring — Automation for Small Business](Project_042057/README.md) |
+| 042058 | [Apache: Monitoring — Recovery for Small Business](Project_042058/README.md) |
+| 042059 | [Apache: Monitoring — Reporting for Small Business](Project_042059/README.md) |
+| 042060 | [Apache: Monitoring — Usability Improvement for Small Business](Project_042060/README.md) |
 
 [Back to the portfolio home](../README.md)
