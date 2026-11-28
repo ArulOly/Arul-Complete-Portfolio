@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047318 | [Ansible: Data Export — Recovery for Public Dataset](Project_047318/README.md) |
 | 047319 | [Ansible: Data Export — Reporting for Public Dataset](Project_047319/README.md) |
 | 047320 | [Ansible: Data Export — Usability Improvement for Public Dataset](Project_047320/README.md) |
+| 047321 | [Ansible: Data Export — Baseline Setup for Branch Office Simulator](Project_047321/README.md) |
+| 047322 | [Ansible: Data Export — Automation for Branch Office Simulator](Project_047322/README.md) |
+| 047323 | [Ansible: Data Export — Recovery for Branch Office Simulator](Project_047323/README.md) |
+| 047324 | [Ansible: Data Export — Reporting for Branch Office Simulator](Project_047324/README.md) |
+| 047325 | [Ansible: Data Export — Usability Improvement for Branch Office Simulator](Project_047325/README.md) |
+| 047326 | [Ansible: Data Export — Baseline Setup for Offline Classroom](Project_047326/README.md) |
+| 047327 | [Ansible: Data Export — Automation for Offline Classroom](Project_047327/README.md) |
+| 047328 | [Ansible: Data Export — Recovery for Offline Classroom](Project_047328/README.md) |
+| 047329 | [Ansible: Data Export — Reporting for Offline Classroom](Project_047329/README.md) |
+| 047330 | [Ansible: Data Export — Usability Improvement for Offline Classroom](Project_047330/README.md) |
+| 047331 | [Ansible: Data Export — Baseline Setup for Single-Host Lab](Project_047331/README.md) |
+| 047332 | [Ansible: Data Export — Automation for Single-Host Lab](Project_047332/README.md) |
+| 047333 | [Ansible: Data Export — Recovery for Single-Host Lab](Project_047333/README.md) |
+| 047334 | [Ansible: Data Export — Reporting for Single-Host Lab](Project_047334/README.md) |
+| 047335 | [Ansible: Data Export — Usability Improvement for Single-Host Lab](Project_047335/README.md) |
+| 047336 | [Ansible: Data Export — Baseline Setup for Two-Node Lab](Project_047336/README.md) |
+| 047337 | [Ansible: Data Export — Automation for Two-Node Lab](Project_047337/README.md) |
+| 047338 | [Ansible: Data Export — Recovery for Two-Node Lab](Project_047338/README.md) |
+| 047339 | [Ansible: Data Export — Reporting for Two-Node Lab](Project_047339/README.md) |
+| 047340 | [Ansible: Data Export — Usability Improvement for Two-Node Lab](Project_047340/README.md) |
 
 [Back to the portfolio home](../README.md)
