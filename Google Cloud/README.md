@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016758 | [Google Cloud: Data Validation — Recovery for Small Business](Project_016758/README.md) |
 | 016759 | [Google Cloud: Data Validation — Reporting for Small Business](Project_016759/README.md) |
 | 016760 | [Google Cloud: Data Validation — Usability Improvement for Small Business](Project_016760/README.md) |
+| 016761 | [Google Cloud: Data Validation — Baseline Setup for Home Development](Project_016761/README.md) |
+| 016762 | [Google Cloud: Data Validation — Automation for Home Development](Project_016762/README.md) |
+| 016763 | [Google Cloud: Data Validation — Recovery for Home Development](Project_016763/README.md) |
+| 016764 | [Google Cloud: Data Validation — Reporting for Home Development](Project_016764/README.md) |
+| 016765 | [Google Cloud: Data Validation — Usability Improvement for Home Development](Project_016765/README.md) |
+| 016766 | [Google Cloud: Data Validation — Baseline Setup for Public Dataset](Project_016766/README.md) |
+| 016767 | [Google Cloud: Data Validation — Automation for Public Dataset](Project_016767/README.md) |
+| 016768 | [Google Cloud: Data Validation — Recovery for Public Dataset](Project_016768/README.md) |
+| 016769 | [Google Cloud: Data Validation — Reporting for Public Dataset](Project_016769/README.md) |
+| 016770 | [Google Cloud: Data Validation — Usability Improvement for Public Dataset](Project_016770/README.md) |
+| 016771 | [Google Cloud: Data Validation — Baseline Setup for Branch Office Simulator](Project_016771/README.md) |
+| 016772 | [Google Cloud: Data Validation — Automation for Branch Office Simulator](Project_016772/README.md) |
+| 016773 | [Google Cloud: Data Validation — Recovery for Branch Office Simulator](Project_016773/README.md) |
+| 016774 | [Google Cloud: Data Validation — Reporting for Branch Office Simulator](Project_016774/README.md) |
+| 016775 | [Google Cloud: Data Validation — Usability Improvement for Branch Office Simulator](Project_016775/README.md) |
+| 016776 | [Google Cloud: Data Validation — Baseline Setup for Offline Classroom](Project_016776/README.md) |
+| 016777 | [Google Cloud: Data Validation — Automation for Offline Classroom](Project_016777/README.md) |
+| 016778 | [Google Cloud: Data Validation — Recovery for Offline Classroom](Project_016778/README.md) |
+| 016779 | [Google Cloud: Data Validation — Reporting for Offline Classroom](Project_016779/README.md) |
+| 016780 | [Google Cloud: Data Validation — Usability Improvement for Offline Classroom](Project_016780/README.md) |
 
 [Back to the portfolio home](../README.md)
