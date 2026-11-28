@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016398 | [Google Cloud: Dashboard — Recovery for Portfolio Demo](Project_016398/README.md) |
 | 016399 | [Google Cloud: Dashboard — Reporting for Portfolio Demo](Project_016399/README.md) |
 | 016400 | [Google Cloud: Dashboard — Usability Improvement for Portfolio Demo](Project_016400/README.md) |
+| 016401 | [Google Cloud: Alerting — Baseline Setup for School Lab](Project_016401/README.md) |
+| 016402 | [Google Cloud: Alerting — Automation for School Lab](Project_016402/README.md) |
+| 016403 | [Google Cloud: Alerting — Recovery for School Lab](Project_016403/README.md) |
+| 016404 | [Google Cloud: Alerting — Reporting for School Lab](Project_016404/README.md) |
+| 016405 | [Google Cloud: Alerting — Usability Improvement for School Lab](Project_016405/README.md) |
+| 016406 | [Google Cloud: Alerting — Baseline Setup for Small Business](Project_016406/README.md) |
+| 016407 | [Google Cloud: Alerting — Automation for Small Business](Project_016407/README.md) |
+| 016408 | [Google Cloud: Alerting — Recovery for Small Business](Project_016408/README.md) |
+| 016409 | [Google Cloud: Alerting — Reporting for Small Business](Project_016409/README.md) |
+| 016410 | [Google Cloud: Alerting — Usability Improvement for Small Business](Project_016410/README.md) |
+| 016411 | [Google Cloud: Alerting — Baseline Setup for Home Development](Project_016411/README.md) |
+| 016412 | [Google Cloud: Alerting — Automation for Home Development](Project_016412/README.md) |
+| 016413 | [Google Cloud: Alerting — Recovery for Home Development](Project_016413/README.md) |
+| 016414 | [Google Cloud: Alerting — Reporting for Home Development](Project_016414/README.md) |
+| 016415 | [Google Cloud: Alerting — Usability Improvement for Home Development](Project_016415/README.md) |
+| 016416 | [Google Cloud: Alerting — Baseline Setup for Public Dataset](Project_016416/README.md) |
+| 016417 | [Google Cloud: Alerting — Automation for Public Dataset](Project_016417/README.md) |
+| 016418 | [Google Cloud: Alerting — Recovery for Public Dataset](Project_016418/README.md) |
+| 016419 | [Google Cloud: Alerting — Reporting for Public Dataset](Project_016419/README.md) |
+| 016420 | [Google Cloud: Alerting — Usability Improvement for Public Dataset](Project_016420/README.md) |
 
 [Back to the portfolio home](../README.md)
