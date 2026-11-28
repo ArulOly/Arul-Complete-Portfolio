@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047058 | [Ansible: Monitoring — Recovery for Small Business](Project_047058/README.md) |
 | 047059 | [Ansible: Monitoring — Reporting for Small Business](Project_047059/README.md) |
 | 047060 | [Ansible: Monitoring — Usability Improvement for Small Business](Project_047060/README.md) |
+| 047061 | [Ansible: Monitoring — Baseline Setup for Home Development](Project_047061/README.md) |
+| 047062 | [Ansible: Monitoring — Automation for Home Development](Project_047062/README.md) |
+| 047063 | [Ansible: Monitoring — Recovery for Home Development](Project_047063/README.md) |
+| 047064 | [Ansible: Monitoring — Reporting for Home Development](Project_047064/README.md) |
+| 047065 | [Ansible: Monitoring — Usability Improvement for Home Development](Project_047065/README.md) |
+| 047066 | [Ansible: Monitoring — Baseline Setup for Public Dataset](Project_047066/README.md) |
+| 047067 | [Ansible: Monitoring — Automation for Public Dataset](Project_047067/README.md) |
+| 047068 | [Ansible: Monitoring — Recovery for Public Dataset](Project_047068/README.md) |
+| 047069 | [Ansible: Monitoring — Reporting for Public Dataset](Project_047069/README.md) |
+| 047070 | [Ansible: Monitoring — Usability Improvement for Public Dataset](Project_047070/README.md) |
+| 047071 | [Ansible: Monitoring — Baseline Setup for Branch Office Simulator](Project_047071/README.md) |
+| 047072 | [Ansible: Monitoring — Automation for Branch Office Simulator](Project_047072/README.md) |
+| 047073 | [Ansible: Monitoring — Recovery for Branch Office Simulator](Project_047073/README.md) |
+| 047074 | [Ansible: Monitoring — Reporting for Branch Office Simulator](Project_047074/README.md) |
+| 047075 | [Ansible: Monitoring — Usability Improvement for Branch Office Simulator](Project_047075/README.md) |
+| 047076 | [Ansible: Monitoring — Baseline Setup for Offline Classroom](Project_047076/README.md) |
+| 047077 | [Ansible: Monitoring — Automation for Offline Classroom](Project_047077/README.md) |
+| 047078 | [Ansible: Monitoring — Recovery for Offline Classroom](Project_047078/README.md) |
+| 047079 | [Ansible: Monitoring — Reporting for Offline Classroom](Project_047079/README.md) |
+| 047080 | [Ansible: Monitoring — Usability Improvement for Offline Classroom](Project_047080/README.md) |
 
 [Back to the portfolio home](../README.md)
