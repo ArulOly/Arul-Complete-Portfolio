@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030458 | [Wazuh: Scheduled Reporting — Recovery for Small Business](Project_030458/README.md) |
 | 030459 | [Wazuh: Scheduled Reporting — Reporting for Small Business](Project_030459/README.md) |
 | 030460 | [Wazuh: Scheduled Reporting — Usability Improvement for Small Business](Project_030460/README.md) |
+| 030461 | [Wazuh: Scheduled Reporting — Baseline Setup for Home Development](Project_030461/README.md) |
+| 030462 | [Wazuh: Scheduled Reporting — Automation for Home Development](Project_030462/README.md) |
+| 030463 | [Wazuh: Scheduled Reporting — Recovery for Home Development](Project_030463/README.md) |
+| 030464 | [Wazuh: Scheduled Reporting — Reporting for Home Development](Project_030464/README.md) |
+| 030465 | [Wazuh: Scheduled Reporting — Usability Improvement for Home Development](Project_030465/README.md) |
+| 030466 | [Wazuh: Scheduled Reporting — Baseline Setup for Public Dataset](Project_030466/README.md) |
+| 030467 | [Wazuh: Scheduled Reporting — Automation for Public Dataset](Project_030467/README.md) |
+| 030468 | [Wazuh: Scheduled Reporting — Recovery for Public Dataset](Project_030468/README.md) |
+| 030469 | [Wazuh: Scheduled Reporting — Reporting for Public Dataset](Project_030469/README.md) |
+| 030470 | [Wazuh: Scheduled Reporting — Usability Improvement for Public Dataset](Project_030470/README.md) |
+| 030471 | [Wazuh: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_030471/README.md) |
+| 030472 | [Wazuh: Scheduled Reporting — Automation for Branch Office Simulator](Project_030472/README.md) |
+| 030473 | [Wazuh: Scheduled Reporting — Recovery for Branch Office Simulator](Project_030473/README.md) |
+| 030474 | [Wazuh: Scheduled Reporting — Reporting for Branch Office Simulator](Project_030474/README.md) |
+| 030475 | [Wazuh: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_030475/README.md) |
+| 030476 | [Wazuh: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_030476/README.md) |
+| 030477 | [Wazuh: Scheduled Reporting — Automation for Offline Classroom](Project_030477/README.md) |
+| 030478 | [Wazuh: Scheduled Reporting — Recovery for Offline Classroom](Project_030478/README.md) |
+| 030479 | [Wazuh: Scheduled Reporting — Reporting for Offline Classroom](Project_030479/README.md) |
+| 030480 | [Wazuh: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_030480/README.md) |
 
 [Back to the portfolio home](../README.md)
