@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014238 | [AWS: Backup Verification — Recovery for Two-Node Lab](Project_014238/README.md) |
 | 014239 | [AWS: Backup Verification — Reporting for Two-Node Lab](Project_014239/README.md) |
 | 014240 | [AWS: Backup Verification — Usability Improvement for Two-Node Lab](Project_014240/README.md) |
+| 014241 | [AWS: Backup Verification — Baseline Setup for Help Desk](Project_014241/README.md) |
+| 014242 | [AWS: Backup Verification — Automation for Help Desk](Project_014242/README.md) |
+| 014243 | [AWS: Backup Verification — Recovery for Help Desk](Project_014243/README.md) |
+| 014244 | [AWS: Backup Verification — Reporting for Help Desk](Project_014244/README.md) |
+| 014245 | [AWS: Backup Verification — Usability Improvement for Help Desk](Project_014245/README.md) |
+| 014246 | [AWS: Backup Verification — Baseline Setup for Portfolio Demo](Project_014246/README.md) |
+| 014247 | [AWS: Backup Verification — Automation for Portfolio Demo](Project_014247/README.md) |
+| 014248 | [AWS: Backup Verification — Recovery for Portfolio Demo](Project_014248/README.md) |
+| 014249 | [AWS: Backup Verification — Reporting for Portfolio Demo](Project_014249/README.md) |
+| 014250 | [AWS: Backup Verification — Usability Improvement for Portfolio Demo](Project_014250/README.md) |
+| 014251 | [AWS: Data Import — Baseline Setup for School Lab](Project_014251/README.md) |
+| 014252 | [AWS: Data Import — Automation for School Lab](Project_014252/README.md) |
+| 014253 | [AWS: Data Import — Recovery for School Lab](Project_014253/README.md) |
+| 014254 | [AWS: Data Import — Reporting for School Lab](Project_014254/README.md) |
+| 014255 | [AWS: Data Import — Usability Improvement for School Lab](Project_014255/README.md) |
+| 014256 | [AWS: Data Import — Baseline Setup for Small Business](Project_014256/README.md) |
+| 014257 | [AWS: Data Import — Automation for Small Business](Project_014257/README.md) |
+| 014258 | [AWS: Data Import — Recovery for Small Business](Project_014258/README.md) |
+| 014259 | [AWS: Data Import — Reporting for Small Business](Project_014259/README.md) |
+| 014260 | [AWS: Data Import — Usability Improvement for Small Business](Project_014260/README.md) |
 
 [Back to the portfolio home](../README.md)
