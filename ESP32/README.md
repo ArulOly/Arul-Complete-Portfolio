@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036358 | [ESP32: Dashboard — Recovery for Small Business](Project_036358/README.md) |
 | 036359 | [ESP32: Dashboard — Reporting for Small Business](Project_036359/README.md) |
 | 036360 | [ESP32: Dashboard — Usability Improvement for Small Business](Project_036360/README.md) |
+| 036361 | [ESP32: Dashboard — Baseline Setup for Home Development](Project_036361/README.md) |
+| 036362 | [ESP32: Dashboard — Automation for Home Development](Project_036362/README.md) |
+| 036363 | [ESP32: Dashboard — Recovery for Home Development](Project_036363/README.md) |
+| 036364 | [ESP32: Dashboard — Reporting for Home Development](Project_036364/README.md) |
+| 036365 | [ESP32: Dashboard — Usability Improvement for Home Development](Project_036365/README.md) |
+| 036366 | [ESP32: Dashboard — Baseline Setup for Public Dataset](Project_036366/README.md) |
+| 036367 | [ESP32: Dashboard — Automation for Public Dataset](Project_036367/README.md) |
+| 036368 | [ESP32: Dashboard — Recovery for Public Dataset](Project_036368/README.md) |
+| 036369 | [ESP32: Dashboard — Reporting for Public Dataset](Project_036369/README.md) |
+| 036370 | [ESP32: Dashboard — Usability Improvement for Public Dataset](Project_036370/README.md) |
+| 036371 | [ESP32: Dashboard — Baseline Setup for Branch Office Simulator](Project_036371/README.md) |
+| 036372 | [ESP32: Dashboard — Automation for Branch Office Simulator](Project_036372/README.md) |
+| 036373 | [ESP32: Dashboard — Recovery for Branch Office Simulator](Project_036373/README.md) |
+| 036374 | [ESP32: Dashboard — Reporting for Branch Office Simulator](Project_036374/README.md) |
+| 036375 | [ESP32: Dashboard — Usability Improvement for Branch Office Simulator](Project_036375/README.md) |
+| 036376 | [ESP32: Dashboard — Baseline Setup for Offline Classroom](Project_036376/README.md) |
+| 036377 | [ESP32: Dashboard — Automation for Offline Classroom](Project_036377/README.md) |
+| 036378 | [ESP32: Dashboard — Recovery for Offline Classroom](Project_036378/README.md) |
+| 036379 | [ESP32: Dashboard — Reporting for Offline Classroom](Project_036379/README.md) |
+| 036380 | [ESP32: Dashboard — Usability Improvement for Offline Classroom](Project_036380/README.md) |
 
 [Back to the portfolio home](../README.md)
