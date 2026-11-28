@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014398 | [AWS: Dashboard — Recovery for Portfolio Demo](Project_014398/README.md) |
 | 014399 | [AWS: Dashboard — Reporting for Portfolio Demo](Project_014399/README.md) |
 | 014400 | [AWS: Dashboard — Usability Improvement for Portfolio Demo](Project_014400/README.md) |
+| 014401 | [AWS: Alerting — Baseline Setup for School Lab](Project_014401/README.md) |
+| 014402 | [AWS: Alerting — Automation for School Lab](Project_014402/README.md) |
+| 014403 | [AWS: Alerting — Recovery for School Lab](Project_014403/README.md) |
+| 014404 | [AWS: Alerting — Reporting for School Lab](Project_014404/README.md) |
+| 014405 | [AWS: Alerting — Usability Improvement for School Lab](Project_014405/README.md) |
+| 014406 | [AWS: Alerting — Baseline Setup for Small Business](Project_014406/README.md) |
+| 014407 | [AWS: Alerting — Automation for Small Business](Project_014407/README.md) |
+| 014408 | [AWS: Alerting — Recovery for Small Business](Project_014408/README.md) |
+| 014409 | [AWS: Alerting — Reporting for Small Business](Project_014409/README.md) |
+| 014410 | [AWS: Alerting — Usability Improvement for Small Business](Project_014410/README.md) |
+| 014411 | [AWS: Alerting — Baseline Setup for Home Development](Project_014411/README.md) |
+| 014412 | [AWS: Alerting — Automation for Home Development](Project_014412/README.md) |
+| 014413 | [AWS: Alerting — Recovery for Home Development](Project_014413/README.md) |
+| 014414 | [AWS: Alerting — Reporting for Home Development](Project_014414/README.md) |
+| 014415 | [AWS: Alerting — Usability Improvement for Home Development](Project_014415/README.md) |
+| 014416 | [AWS: Alerting — Baseline Setup for Public Dataset](Project_014416/README.md) |
+| 014417 | [AWS: Alerting — Automation for Public Dataset](Project_014417/README.md) |
+| 014418 | [AWS: Alerting — Recovery for Public Dataset](Project_014418/README.md) |
+| 014419 | [AWS: Alerting — Reporting for Public Dataset](Project_014419/README.md) |
+| 014420 | [AWS: Alerting — Usability Improvement for Public Dataset](Project_014420/README.md) |
 
 [Back to the portfolio home](../README.md)
