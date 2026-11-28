@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043758 | [Grafana: Data Validation — Recovery for Small Business](Project_043758/README.md) |
 | 043759 | [Grafana: Data Validation — Reporting for Small Business](Project_043759/README.md) |
 | 043760 | [Grafana: Data Validation — Usability Improvement for Small Business](Project_043760/README.md) |
+| 043761 | [Grafana: Data Validation — Baseline Setup for Home Development](Project_043761/README.md) |
+| 043762 | [Grafana: Data Validation — Automation for Home Development](Project_043762/README.md) |
+| 043763 | [Grafana: Data Validation — Recovery for Home Development](Project_043763/README.md) |
+| 043764 | [Grafana: Data Validation — Reporting for Home Development](Project_043764/README.md) |
+| 043765 | [Grafana: Data Validation — Usability Improvement for Home Development](Project_043765/README.md) |
+| 043766 | [Grafana: Data Validation — Baseline Setup for Public Dataset](Project_043766/README.md) |
+| 043767 | [Grafana: Data Validation — Automation for Public Dataset](Project_043767/README.md) |
+| 043768 | [Grafana: Data Validation — Recovery for Public Dataset](Project_043768/README.md) |
+| 043769 | [Grafana: Data Validation — Reporting for Public Dataset](Project_043769/README.md) |
+| 043770 | [Grafana: Data Validation — Usability Improvement for Public Dataset](Project_043770/README.md) |
+| 043771 | [Grafana: Data Validation — Baseline Setup for Branch Office Simulator](Project_043771/README.md) |
+| 043772 | [Grafana: Data Validation — Automation for Branch Office Simulator](Project_043772/README.md) |
+| 043773 | [Grafana: Data Validation — Recovery for Branch Office Simulator](Project_043773/README.md) |
+| 043774 | [Grafana: Data Validation — Reporting for Branch Office Simulator](Project_043774/README.md) |
+| 043775 | [Grafana: Data Validation — Usability Improvement for Branch Office Simulator](Project_043775/README.md) |
+| 043776 | [Grafana: Data Validation — Baseline Setup for Offline Classroom](Project_043776/README.md) |
+| 043777 | [Grafana: Data Validation — Automation for Offline Classroom](Project_043777/README.md) |
+| 043778 | [Grafana: Data Validation — Recovery for Offline Classroom](Project_043778/README.md) |
+| 043779 | [Grafana: Data Validation — Reporting for Offline Classroom](Project_043779/README.md) |
+| 043780 | [Grafana: Data Validation — Usability Improvement for Offline Classroom](Project_043780/README.md) |
 
 [Back to the portfolio home](../README.md)
