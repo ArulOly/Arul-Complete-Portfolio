@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035138 | [Raspberry Pi: Audit — Recovery for Two-Node Lab](Project_035138/README.md) |
 | 035139 | [Raspberry Pi: Audit — Reporting for Two-Node Lab](Project_035139/README.md) |
 | 035140 | [Raspberry Pi: Audit — Usability Improvement for Two-Node Lab](Project_035140/README.md) |
+| 035141 | [Raspberry Pi: Audit — Baseline Setup for Help Desk](Project_035141/README.md) |
+| 035142 | [Raspberry Pi: Audit — Automation for Help Desk](Project_035142/README.md) |
+| 035143 | [Raspberry Pi: Audit — Recovery for Help Desk](Project_035143/README.md) |
+| 035144 | [Raspberry Pi: Audit — Reporting for Help Desk](Project_035144/README.md) |
+| 035145 | [Raspberry Pi: Audit — Usability Improvement for Help Desk](Project_035145/README.md) |
+| 035146 | [Raspberry Pi: Audit — Baseline Setup for Portfolio Demo](Project_035146/README.md) |
+| 035147 | [Raspberry Pi: Audit — Automation for Portfolio Demo](Project_035147/README.md) |
+| 035148 | [Raspberry Pi: Audit — Recovery for Portfolio Demo](Project_035148/README.md) |
+| 035149 | [Raspberry Pi: Audit — Reporting for Portfolio Demo](Project_035149/README.md) |
+| 035150 | [Raspberry Pi: Audit — Usability Improvement for Portfolio Demo](Project_035150/README.md) |
+| 035151 | [Raspberry Pi: Log Analysis — Baseline Setup for School Lab](Project_035151/README.md) |
+| 035152 | [Raspberry Pi: Log Analysis — Automation for School Lab](Project_035152/README.md) |
+| 035153 | [Raspberry Pi: Log Analysis — Recovery for School Lab](Project_035153/README.md) |
+| 035154 | [Raspberry Pi: Log Analysis — Reporting for School Lab](Project_035154/README.md) |
+| 035155 | [Raspberry Pi: Log Analysis — Usability Improvement for School Lab](Project_035155/README.md) |
+| 035156 | [Raspberry Pi: Log Analysis — Baseline Setup for Small Business](Project_035156/README.md) |
+| 035157 | [Raspberry Pi: Log Analysis — Automation for Small Business](Project_035157/README.md) |
+| 035158 | [Raspberry Pi: Log Analysis — Recovery for Small Business](Project_035158/README.md) |
+| 035159 | [Raspberry Pi: Log Analysis — Reporting for Small Business](Project_035159/README.md) |
+| 035160 | [Raspberry Pi: Log Analysis — Usability Improvement for Small Business](Project_035160/README.md) |
 
 [Back to the portfolio home](../README.md)
