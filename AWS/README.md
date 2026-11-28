@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014638 | [AWS: Service Check — Recovery for Two-Node Lab](Project_014638/README.md) |
 | 014639 | [AWS: Service Check — Reporting for Two-Node Lab](Project_014639/README.md) |
 | 014640 | [AWS: Service Check — Usability Improvement for Two-Node Lab](Project_014640/README.md) |
+| 014641 | [AWS: Service Check — Baseline Setup for Help Desk](Project_014641/README.md) |
+| 014642 | [AWS: Service Check — Automation for Help Desk](Project_014642/README.md) |
+| 014643 | [AWS: Service Check — Recovery for Help Desk](Project_014643/README.md) |
+| 014644 | [AWS: Service Check — Reporting for Help Desk](Project_014644/README.md) |
+| 014645 | [AWS: Service Check — Usability Improvement for Help Desk](Project_014645/README.md) |
+| 014646 | [AWS: Service Check — Baseline Setup for Portfolio Demo](Project_014646/README.md) |
+| 014647 | [AWS: Service Check — Automation for Portfolio Demo](Project_014647/README.md) |
+| 014648 | [AWS: Service Check — Recovery for Portfolio Demo](Project_014648/README.md) |
+| 014649 | [AWS: Service Check — Reporting for Portfolio Demo](Project_014649/README.md) |
+| 014650 | [AWS: Service Check — Usability Improvement for Portfolio Demo](Project_014650/README.md) |
+| 014651 | [AWS: Configuration Comparison — Baseline Setup for School Lab](Project_014651/README.md) |
+| 014652 | [AWS: Configuration Comparison — Automation for School Lab](Project_014652/README.md) |
+| 014653 | [AWS: Configuration Comparison — Recovery for School Lab](Project_014653/README.md) |
+| 014654 | [AWS: Configuration Comparison — Reporting for School Lab](Project_014654/README.md) |
+| 014655 | [AWS: Configuration Comparison — Usability Improvement for School Lab](Project_014655/README.md) |
+| 014656 | [AWS: Configuration Comparison — Baseline Setup for Small Business](Project_014656/README.md) |
+| 014657 | [AWS: Configuration Comparison — Automation for Small Business](Project_014657/README.md) |
+| 014658 | [AWS: Configuration Comparison — Recovery for Small Business](Project_014658/README.md) |
+| 014659 | [AWS: Configuration Comparison — Reporting for Small Business](Project_014659/README.md) |
+| 014660 | [AWS: Configuration Comparison — Usability Improvement for Small Business](Project_014660/README.md) |
 
 [Back to the portfolio home](../README.md)
