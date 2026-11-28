@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043498 | [Grafana: Scheduled Reporting — Recovery for Portfolio Demo](Project_043498/README.md) |
 | 043499 | [Grafana: Scheduled Reporting — Reporting for Portfolio Demo](Project_043499/README.md) |
 | 043500 | [Grafana: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_043500/README.md) |
+| 043501 | [Grafana: Access Review — Baseline Setup for School Lab](Project_043501/README.md) |
+| 043502 | [Grafana: Access Review — Automation for School Lab](Project_043502/README.md) |
+| 043503 | [Grafana: Access Review — Recovery for School Lab](Project_043503/README.md) |
+| 043504 | [Grafana: Access Review — Reporting for School Lab](Project_043504/README.md) |
+| 043505 | [Grafana: Access Review — Usability Improvement for School Lab](Project_043505/README.md) |
+| 043506 | [Grafana: Access Review — Baseline Setup for Small Business](Project_043506/README.md) |
+| 043507 | [Grafana: Access Review — Automation for Small Business](Project_043507/README.md) |
+| 043508 | [Grafana: Access Review — Recovery for Small Business](Project_043508/README.md) |
+| 043509 | [Grafana: Access Review — Reporting for Small Business](Project_043509/README.md) |
+| 043510 | [Grafana: Access Review — Usability Improvement for Small Business](Project_043510/README.md) |
+| 043511 | [Grafana: Access Review — Baseline Setup for Home Development](Project_043511/README.md) |
+| 043512 | [Grafana: Access Review — Automation for Home Development](Project_043512/README.md) |
+| 043513 | [Grafana: Access Review — Recovery for Home Development](Project_043513/README.md) |
+| 043514 | [Grafana: Access Review — Reporting for Home Development](Project_043514/README.md) |
+| 043515 | [Grafana: Access Review — Usability Improvement for Home Development](Project_043515/README.md) |
+| 043516 | [Grafana: Access Review — Baseline Setup for Public Dataset](Project_043516/README.md) |
+| 043517 | [Grafana: Access Review — Automation for Public Dataset](Project_043517/README.md) |
+| 043518 | [Grafana: Access Review — Recovery for Public Dataset](Project_043518/README.md) |
+| 043519 | [Grafana: Access Review — Reporting for Public Dataset](Project_043519/README.md) |
+| 043520 | [Grafana: Access Review — Usability Improvement for Public Dataset](Project_043520/README.md) |
 
 [Back to the portfolio home](../README.md)
