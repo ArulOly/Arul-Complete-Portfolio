@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036158 | [ESP32: Log Analysis — Recovery for Small Business](Project_036158/README.md) |
 | 036159 | [ESP32: Log Analysis — Reporting for Small Business](Project_036159/README.md) |
 | 036160 | [ESP32: Log Analysis — Usability Improvement for Small Business](Project_036160/README.md) |
+| 036161 | [ESP32: Log Analysis — Baseline Setup for Home Development](Project_036161/README.md) |
+| 036162 | [ESP32: Log Analysis — Automation for Home Development](Project_036162/README.md) |
+| 036163 | [ESP32: Log Analysis — Recovery for Home Development](Project_036163/README.md) |
+| 036164 | [ESP32: Log Analysis — Reporting for Home Development](Project_036164/README.md) |
+| 036165 | [ESP32: Log Analysis — Usability Improvement for Home Development](Project_036165/README.md) |
+| 036166 | [ESP32: Log Analysis — Baseline Setup for Public Dataset](Project_036166/README.md) |
+| 036167 | [ESP32: Log Analysis — Automation for Public Dataset](Project_036167/README.md) |
+| 036168 | [ESP32: Log Analysis — Recovery for Public Dataset](Project_036168/README.md) |
+| 036169 | [ESP32: Log Analysis — Reporting for Public Dataset](Project_036169/README.md) |
+| 036170 | [ESP32: Log Analysis — Usability Improvement for Public Dataset](Project_036170/README.md) |
+| 036171 | [ESP32: Log Analysis — Baseline Setup for Branch Office Simulator](Project_036171/README.md) |
+| 036172 | [ESP32: Log Analysis — Automation for Branch Office Simulator](Project_036172/README.md) |
+| 036173 | [ESP32: Log Analysis — Recovery for Branch Office Simulator](Project_036173/README.md) |
+| 036174 | [ESP32: Log Analysis — Reporting for Branch Office Simulator](Project_036174/README.md) |
+| 036175 | [ESP32: Log Analysis — Usability Improvement for Branch Office Simulator](Project_036175/README.md) |
+| 036176 | [ESP32: Log Analysis — Baseline Setup for Offline Classroom](Project_036176/README.md) |
+| 036177 | [ESP32: Log Analysis — Automation for Offline Classroom](Project_036177/README.md) |
+| 036178 | [ESP32: Log Analysis — Recovery for Offline Classroom](Project_036178/README.md) |
+| 036179 | [ESP32: Log Analysis — Reporting for Offline Classroom](Project_036179/README.md) |
+| 036180 | [ESP32: Log Analysis — Usability Improvement for Offline Classroom](Project_036180/README.md) |
 
 [Back to the portfolio home](../README.md)
