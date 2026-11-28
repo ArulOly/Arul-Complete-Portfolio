@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031378 | [Greenbone: Dashboard — Recovery for Offline Classroom](Project_031378/README.md) |
 | 031379 | [Greenbone: Dashboard — Reporting for Offline Classroom](Project_031379/README.md) |
 | 031380 | [Greenbone: Dashboard — Usability Improvement for Offline Classroom](Project_031380/README.md) |
+| 031381 | [Greenbone: Dashboard — Baseline Setup for Single-Host Lab](Project_031381/README.md) |
+| 031382 | [Greenbone: Dashboard — Automation for Single-Host Lab](Project_031382/README.md) |
+| 031383 | [Greenbone: Dashboard — Recovery for Single-Host Lab](Project_031383/README.md) |
+| 031384 | [Greenbone: Dashboard — Reporting for Single-Host Lab](Project_031384/README.md) |
+| 031385 | [Greenbone: Dashboard — Usability Improvement for Single-Host Lab](Project_031385/README.md) |
+| 031386 | [Greenbone: Dashboard — Baseline Setup for Two-Node Lab](Project_031386/README.md) |
+| 031387 | [Greenbone: Dashboard — Automation for Two-Node Lab](Project_031387/README.md) |
+| 031388 | [Greenbone: Dashboard — Recovery for Two-Node Lab](Project_031388/README.md) |
+| 031389 | [Greenbone: Dashboard — Reporting for Two-Node Lab](Project_031389/README.md) |
+| 031390 | [Greenbone: Dashboard — Usability Improvement for Two-Node Lab](Project_031390/README.md) |
+| 031391 | [Greenbone: Dashboard — Baseline Setup for Help Desk](Project_031391/README.md) |
+| 031392 | [Greenbone: Dashboard — Automation for Help Desk](Project_031392/README.md) |
+| 031393 | [Greenbone: Dashboard — Recovery for Help Desk](Project_031393/README.md) |
+| 031394 | [Greenbone: Dashboard — Reporting for Help Desk](Project_031394/README.md) |
+| 031395 | [Greenbone: Dashboard — Usability Improvement for Help Desk](Project_031395/README.md) |
+| 031396 | [Greenbone: Dashboard — Baseline Setup for Portfolio Demo](Project_031396/README.md) |
+| 031397 | [Greenbone: Dashboard — Automation for Portfolio Demo](Project_031397/README.md) |
+| 031398 | [Greenbone: Dashboard — Recovery for Portfolio Demo](Project_031398/README.md) |
+| 031399 | [Greenbone: Dashboard — Reporting for Portfolio Demo](Project_031399/README.md) |
+| 031400 | [Greenbone: Dashboard — Usability Improvement for Portfolio Demo](Project_031400/README.md) |
 
 [Back to the portfolio home](../README.md)
