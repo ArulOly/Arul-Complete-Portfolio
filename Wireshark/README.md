@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029218 | [Wireshark: Backup Verification — Recovery for Public Dataset](Project_029218/README.md) |
 | 029219 | [Wireshark: Backup Verification — Reporting for Public Dataset](Project_029219/README.md) |
 | 029220 | [Wireshark: Backup Verification — Usability Improvement for Public Dataset](Project_029220/README.md) |
+| 029221 | [Wireshark: Backup Verification — Baseline Setup for Branch Office Simulator](Project_029221/README.md) |
+| 029222 | [Wireshark: Backup Verification — Automation for Branch Office Simulator](Project_029222/README.md) |
+| 029223 | [Wireshark: Backup Verification — Recovery for Branch Office Simulator](Project_029223/README.md) |
+| 029224 | [Wireshark: Backup Verification — Reporting for Branch Office Simulator](Project_029224/README.md) |
+| 029225 | [Wireshark: Backup Verification — Usability Improvement for Branch Office Simulator](Project_029225/README.md) |
+| 029226 | [Wireshark: Backup Verification — Baseline Setup for Offline Classroom](Project_029226/README.md) |
+| 029227 | [Wireshark: Backup Verification — Automation for Offline Classroom](Project_029227/README.md) |
+| 029228 | [Wireshark: Backup Verification — Recovery for Offline Classroom](Project_029228/README.md) |
+| 029229 | [Wireshark: Backup Verification — Reporting for Offline Classroom](Project_029229/README.md) |
+| 029230 | [Wireshark: Backup Verification — Usability Improvement for Offline Classroom](Project_029230/README.md) |
+| 029231 | [Wireshark: Backup Verification — Baseline Setup for Single-Host Lab](Project_029231/README.md) |
+| 029232 | [Wireshark: Backup Verification — Automation for Single-Host Lab](Project_029232/README.md) |
+| 029233 | [Wireshark: Backup Verification — Recovery for Single-Host Lab](Project_029233/README.md) |
+| 029234 | [Wireshark: Backup Verification — Reporting for Single-Host Lab](Project_029234/README.md) |
+| 029235 | [Wireshark: Backup Verification — Usability Improvement for Single-Host Lab](Project_029235/README.md) |
+| 029236 | [Wireshark: Backup Verification — Baseline Setup for Two-Node Lab](Project_029236/README.md) |
+| 029237 | [Wireshark: Backup Verification — Automation for Two-Node Lab](Project_029237/README.md) |
+| 029238 | [Wireshark: Backup Verification — Recovery for Two-Node Lab](Project_029238/README.md) |
+| 029239 | [Wireshark: Backup Verification — Reporting for Two-Node Lab](Project_029239/README.md) |
+| 029240 | [Wireshark: Backup Verification — Usability Improvement for Two-Node Lab](Project_029240/README.md) |
 
 [Back to the portfolio home](../README.md)
