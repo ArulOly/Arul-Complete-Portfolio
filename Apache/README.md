@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042698 | [Apache: Configuration Comparison — Recovery for Portfolio Demo](Project_042698/README.md) |
 | 042699 | [Apache: Configuration Comparison — Reporting for Portfolio Demo](Project_042699/README.md) |
 | 042700 | [Apache: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_042700/README.md) |
+| 042701 | [Apache: Error Handling — Baseline Setup for School Lab](Project_042701/README.md) |
+| 042702 | [Apache: Error Handling — Automation for School Lab](Project_042702/README.md) |
+| 042703 | [Apache: Error Handling — Recovery for School Lab](Project_042703/README.md) |
+| 042704 | [Apache: Error Handling — Reporting for School Lab](Project_042704/README.md) |
+| 042705 | [Apache: Error Handling — Usability Improvement for School Lab](Project_042705/README.md) |
+| 042706 | [Apache: Error Handling — Baseline Setup for Small Business](Project_042706/README.md) |
+| 042707 | [Apache: Error Handling — Automation for Small Business](Project_042707/README.md) |
+| 042708 | [Apache: Error Handling — Recovery for Small Business](Project_042708/README.md) |
+| 042709 | [Apache: Error Handling — Reporting for Small Business](Project_042709/README.md) |
+| 042710 | [Apache: Error Handling — Usability Improvement for Small Business](Project_042710/README.md) |
+| 042711 | [Apache: Error Handling — Baseline Setup for Home Development](Project_042711/README.md) |
+| 042712 | [Apache: Error Handling — Automation for Home Development](Project_042712/README.md) |
+| 042713 | [Apache: Error Handling — Recovery for Home Development](Project_042713/README.md) |
+| 042714 | [Apache: Error Handling — Reporting for Home Development](Project_042714/README.md) |
+| 042715 | [Apache: Error Handling — Usability Improvement for Home Development](Project_042715/README.md) |
+| 042716 | [Apache: Error Handling — Baseline Setup for Public Dataset](Project_042716/README.md) |
+| 042717 | [Apache: Error Handling — Automation for Public Dataset](Project_042717/README.md) |
+| 042718 | [Apache: Error Handling — Recovery for Public Dataset](Project_042718/README.md) |
+| 042719 | [Apache: Error Handling — Reporting for Public Dataset](Project_042719/README.md) |
+| 042720 | [Apache: Error Handling — Usability Improvement for Public Dataset](Project_042720/README.md) |
 
 [Back to the portfolio home](../README.md)
