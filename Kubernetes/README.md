@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018598 | [Kubernetes: Performance Baseline — Recovery for Portfolio Demo](Project_018598/README.md) |
 | 018599 | [Kubernetes: Performance Baseline — Reporting for Portfolio Demo](Project_018599/README.md) |
 | 018600 | [Kubernetes: Performance Baseline — Usability Improvement for Portfolio Demo](Project_018600/README.md) |
+| 018601 | [Kubernetes: Service Check — Baseline Setup for School Lab](Project_018601/README.md) |
+| 018602 | [Kubernetes: Service Check — Automation for School Lab](Project_018602/README.md) |
+| 018603 | [Kubernetes: Service Check — Recovery for School Lab](Project_018603/README.md) |
+| 018604 | [Kubernetes: Service Check — Reporting for School Lab](Project_018604/README.md) |
+| 018605 | [Kubernetes: Service Check — Usability Improvement for School Lab](Project_018605/README.md) |
+| 018606 | [Kubernetes: Service Check — Baseline Setup for Small Business](Project_018606/README.md) |
+| 018607 | [Kubernetes: Service Check — Automation for Small Business](Project_018607/README.md) |
+| 018608 | [Kubernetes: Service Check — Recovery for Small Business](Project_018608/README.md) |
+| 018609 | [Kubernetes: Service Check — Reporting for Small Business](Project_018609/README.md) |
+| 018610 | [Kubernetes: Service Check — Usability Improvement for Small Business](Project_018610/README.md) |
+| 018611 | [Kubernetes: Service Check — Baseline Setup for Home Development](Project_018611/README.md) |
+| 018612 | [Kubernetes: Service Check — Automation for Home Development](Project_018612/README.md) |
+| 018613 | [Kubernetes: Service Check — Recovery for Home Development](Project_018613/README.md) |
+| 018614 | [Kubernetes: Service Check — Reporting for Home Development](Project_018614/README.md) |
+| 018615 | [Kubernetes: Service Check — Usability Improvement for Home Development](Project_018615/README.md) |
+| 018616 | [Kubernetes: Service Check — Baseline Setup for Public Dataset](Project_018616/README.md) |
+| 018617 | [Kubernetes: Service Check — Automation for Public Dataset](Project_018617/README.md) |
+| 018618 | [Kubernetes: Service Check — Recovery for Public Dataset](Project_018618/README.md) |
+| 018619 | [Kubernetes: Service Check — Reporting for Public Dataset](Project_018619/README.md) |
+| 018620 | [Kubernetes: Service Check — Usability Improvement for Public Dataset](Project_018620/README.md) |
 
 [Back to the portfolio home](../README.md)
