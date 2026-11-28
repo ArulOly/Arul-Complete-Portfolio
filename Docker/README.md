@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017638 | [Docker: Service Check — Recovery for Two-Node Lab](Project_017638/README.md) |
 | 017639 | [Docker: Service Check — Reporting for Two-Node Lab](Project_017639/README.md) |
 | 017640 | [Docker: Service Check — Usability Improvement for Two-Node Lab](Project_017640/README.md) |
+| 017641 | [Docker: Service Check — Baseline Setup for Help Desk](Project_017641/README.md) |
+| 017642 | [Docker: Service Check — Automation for Help Desk](Project_017642/README.md) |
+| 017643 | [Docker: Service Check — Recovery for Help Desk](Project_017643/README.md) |
+| 017644 | [Docker: Service Check — Reporting for Help Desk](Project_017644/README.md) |
+| 017645 | [Docker: Service Check — Usability Improvement for Help Desk](Project_017645/README.md) |
+| 017646 | [Docker: Service Check — Baseline Setup for Portfolio Demo](Project_017646/README.md) |
+| 017647 | [Docker: Service Check — Automation for Portfolio Demo](Project_017647/README.md) |
+| 017648 | [Docker: Service Check — Recovery for Portfolio Demo](Project_017648/README.md) |
+| 017649 | [Docker: Service Check — Reporting for Portfolio Demo](Project_017649/README.md) |
+| 017650 | [Docker: Service Check — Usability Improvement for Portfolio Demo](Project_017650/README.md) |
+| 017651 | [Docker: Configuration Comparison — Baseline Setup for School Lab](Project_017651/README.md) |
+| 017652 | [Docker: Configuration Comparison — Automation for School Lab](Project_017652/README.md) |
+| 017653 | [Docker: Configuration Comparison — Recovery for School Lab](Project_017653/README.md) |
+| 017654 | [Docker: Configuration Comparison — Reporting for School Lab](Project_017654/README.md) |
+| 017655 | [Docker: Configuration Comparison — Usability Improvement for School Lab](Project_017655/README.md) |
+| 017656 | [Docker: Configuration Comparison — Baseline Setup for Small Business](Project_017656/README.md) |
+| 017657 | [Docker: Configuration Comparison — Automation for Small Business](Project_017657/README.md) |
+| 017658 | [Docker: Configuration Comparison — Recovery for Small Business](Project_017658/README.md) |
+| 017659 | [Docker: Configuration Comparison — Reporting for Small Business](Project_017659/README.md) |
+| 017660 | [Docker: Configuration Comparison — Usability Improvement for Small Business](Project_017660/README.md) |
 
 [Back to the portfolio home](../README.md)
