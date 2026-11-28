@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037538 | [Arduino: Access Review — Recovery for Two-Node Lab](Project_037538/README.md) |
 | 037539 | [Arduino: Access Review — Reporting for Two-Node Lab](Project_037539/README.md) |
 | 037540 | [Arduino: Access Review — Usability Improvement for Two-Node Lab](Project_037540/README.md) |
+| 037541 | [Arduino: Access Review — Baseline Setup for Help Desk](Project_037541/README.md) |
+| 037542 | [Arduino: Access Review — Automation for Help Desk](Project_037542/README.md) |
+| 037543 | [Arduino: Access Review — Recovery for Help Desk](Project_037543/README.md) |
+| 037544 | [Arduino: Access Review — Reporting for Help Desk](Project_037544/README.md) |
+| 037545 | [Arduino: Access Review — Usability Improvement for Help Desk](Project_037545/README.md) |
+| 037546 | [Arduino: Access Review — Baseline Setup for Portfolio Demo](Project_037546/README.md) |
+| 037547 | [Arduino: Access Review — Automation for Portfolio Demo](Project_037547/README.md) |
+| 037548 | [Arduino: Access Review — Recovery for Portfolio Demo](Project_037548/README.md) |
+| 037549 | [Arduino: Access Review — Reporting for Portfolio Demo](Project_037549/README.md) |
+| 037550 | [Arduino: Access Review — Usability Improvement for Portfolio Demo](Project_037550/README.md) |
+| 037551 | [Arduino: Performance Baseline — Baseline Setup for School Lab](Project_037551/README.md) |
+| 037552 | [Arduino: Performance Baseline — Automation for School Lab](Project_037552/README.md) |
+| 037553 | [Arduino: Performance Baseline — Recovery for School Lab](Project_037553/README.md) |
+| 037554 | [Arduino: Performance Baseline — Reporting for School Lab](Project_037554/README.md) |
+| 037555 | [Arduino: Performance Baseline — Usability Improvement for School Lab](Project_037555/README.md) |
+| 037556 | [Arduino: Performance Baseline — Baseline Setup for Small Business](Project_037556/README.md) |
+| 037557 | [Arduino: Performance Baseline — Automation for Small Business](Project_037557/README.md) |
+| 037558 | [Arduino: Performance Baseline — Recovery for Small Business](Project_037558/README.md) |
+| 037559 | [Arduino: Performance Baseline — Reporting for Small Business](Project_037559/README.md) |
+| 037560 | [Arduino: Performance Baseline — Usability Improvement for Small Business](Project_037560/README.md) |
 
 [Back to the portfolio home](../README.md)
