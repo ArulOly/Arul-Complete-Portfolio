@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037938 | [Arduino: Visual Reporting — Recovery for Two-Node Lab](Project_037938/README.md) |
 | 037939 | [Arduino: Visual Reporting — Reporting for Two-Node Lab](Project_037939/README.md) |
 | 037940 | [Arduino: Visual Reporting — Usability Improvement for Two-Node Lab](Project_037940/README.md) |
+| 037941 | [Arduino: Visual Reporting — Baseline Setup for Help Desk](Project_037941/README.md) |
+| 037942 | [Arduino: Visual Reporting — Automation for Help Desk](Project_037942/README.md) |
+| 037943 | [Arduino: Visual Reporting — Recovery for Help Desk](Project_037943/README.md) |
+| 037944 | [Arduino: Visual Reporting — Reporting for Help Desk](Project_037944/README.md) |
+| 037945 | [Arduino: Visual Reporting — Usability Improvement for Help Desk](Project_037945/README.md) |
+| 037946 | [Arduino: Visual Reporting — Baseline Setup for Portfolio Demo](Project_037946/README.md) |
+| 037947 | [Arduino: Visual Reporting — Automation for Portfolio Demo](Project_037947/README.md) |
+| 037948 | [Arduino: Visual Reporting — Recovery for Portfolio Demo](Project_037948/README.md) |
+| 037949 | [Arduino: Visual Reporting — Reporting for Portfolio Demo](Project_037949/README.md) |
+| 037950 | [Arduino: Visual Reporting — Usability Improvement for Portfolio Demo](Project_037950/README.md) |
+| 037951 | [Arduino: Recovery Test — Baseline Setup for School Lab](Project_037951/README.md) |
+| 037952 | [Arduino: Recovery Test — Automation for School Lab](Project_037952/README.md) |
+| 037953 | [Arduino: Recovery Test — Recovery for School Lab](Project_037953/README.md) |
+| 037954 | [Arduino: Recovery Test — Reporting for School Lab](Project_037954/README.md) |
+| 037955 | [Arduino: Recovery Test — Usability Improvement for School Lab](Project_037955/README.md) |
+| 037956 | [Arduino: Recovery Test — Baseline Setup for Small Business](Project_037956/README.md) |
+| 037957 | [Arduino: Recovery Test — Automation for Small Business](Project_037957/README.md) |
+| 037958 | [Arduino: Recovery Test — Recovery for Small Business](Project_037958/README.md) |
+| 037959 | [Arduino: Recovery Test — Reporting for Small Business](Project_037959/README.md) |
+| 037960 | [Arduino: Recovery Test — Usability Improvement for Small Business](Project_037960/README.md) |
 
 [Back to the portfolio home](../README.md)
