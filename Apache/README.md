@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042958 | [Apache: Recovery Test — Recovery for Small Business](Project_042958/README.md) |
 | 042959 | [Apache: Recovery Test — Reporting for Small Business](Project_042959/README.md) |
 | 042960 | [Apache: Recovery Test — Usability Improvement for Small Business](Project_042960/README.md) |
+| 042961 | [Apache: Recovery Test — Baseline Setup for Home Development](Project_042961/README.md) |
+| 042962 | [Apache: Recovery Test — Automation for Home Development](Project_042962/README.md) |
+| 042963 | [Apache: Recovery Test — Recovery for Home Development](Project_042963/README.md) |
+| 042964 | [Apache: Recovery Test — Reporting for Home Development](Project_042964/README.md) |
+| 042965 | [Apache: Recovery Test — Usability Improvement for Home Development](Project_042965/README.md) |
+| 042966 | [Apache: Recovery Test — Baseline Setup for Public Dataset](Project_042966/README.md) |
+| 042967 | [Apache: Recovery Test — Automation for Public Dataset](Project_042967/README.md) |
+| 042968 | [Apache: Recovery Test — Recovery for Public Dataset](Project_042968/README.md) |
+| 042969 | [Apache: Recovery Test — Reporting for Public Dataset](Project_042969/README.md) |
+| 042970 | [Apache: Recovery Test — Usability Improvement for Public Dataset](Project_042970/README.md) |
+| 042971 | [Apache: Recovery Test — Baseline Setup for Branch Office Simulator](Project_042971/README.md) |
+| 042972 | [Apache: Recovery Test — Automation for Branch Office Simulator](Project_042972/README.md) |
+| 042973 | [Apache: Recovery Test — Recovery for Branch Office Simulator](Project_042973/README.md) |
+| 042974 | [Apache: Recovery Test — Reporting for Branch Office Simulator](Project_042974/README.md) |
+| 042975 | [Apache: Recovery Test — Usability Improvement for Branch Office Simulator](Project_042975/README.md) |
+| 042976 | [Apache: Recovery Test — Baseline Setup for Offline Classroom](Project_042976/README.md) |
+| 042977 | [Apache: Recovery Test — Automation for Offline Classroom](Project_042977/README.md) |
+| 042978 | [Apache: Recovery Test — Recovery for Offline Classroom](Project_042978/README.md) |
+| 042979 | [Apache: Recovery Test — Reporting for Offline Classroom](Project_042979/README.md) |
+| 042980 | [Apache: Recovery Test — Usability Improvement for Offline Classroom](Project_042980/README.md) |
 
 [Back to the portfolio home](../README.md)
