@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029378 | [Wireshark: Dashboard — Recovery for Offline Classroom](Project_029378/README.md) |
 | 029379 | [Wireshark: Dashboard — Reporting for Offline Classroom](Project_029379/README.md) |
 | 029380 | [Wireshark: Dashboard — Usability Improvement for Offline Classroom](Project_029380/README.md) |
+| 029381 | [Wireshark: Dashboard — Baseline Setup for Single-Host Lab](Project_029381/README.md) |
+| 029382 | [Wireshark: Dashboard — Automation for Single-Host Lab](Project_029382/README.md) |
+| 029383 | [Wireshark: Dashboard — Recovery for Single-Host Lab](Project_029383/README.md) |
+| 029384 | [Wireshark: Dashboard — Reporting for Single-Host Lab](Project_029384/README.md) |
+| 029385 | [Wireshark: Dashboard — Usability Improvement for Single-Host Lab](Project_029385/README.md) |
+| 029386 | [Wireshark: Dashboard — Baseline Setup for Two-Node Lab](Project_029386/README.md) |
+| 029387 | [Wireshark: Dashboard — Automation for Two-Node Lab](Project_029387/README.md) |
+| 029388 | [Wireshark: Dashboard — Recovery for Two-Node Lab](Project_029388/README.md) |
+| 029389 | [Wireshark: Dashboard — Reporting for Two-Node Lab](Project_029389/README.md) |
+| 029390 | [Wireshark: Dashboard — Usability Improvement for Two-Node Lab](Project_029390/README.md) |
+| 029391 | [Wireshark: Dashboard — Baseline Setup for Help Desk](Project_029391/README.md) |
+| 029392 | [Wireshark: Dashboard — Automation for Help Desk](Project_029392/README.md) |
+| 029393 | [Wireshark: Dashboard — Recovery for Help Desk](Project_029393/README.md) |
+| 029394 | [Wireshark: Dashboard — Reporting for Help Desk](Project_029394/README.md) |
+| 029395 | [Wireshark: Dashboard — Usability Improvement for Help Desk](Project_029395/README.md) |
+| 029396 | [Wireshark: Dashboard — Baseline Setup for Portfolio Demo](Project_029396/README.md) |
+| 029397 | [Wireshark: Dashboard — Automation for Portfolio Demo](Project_029397/README.md) |
+| 029398 | [Wireshark: Dashboard — Recovery for Portfolio Demo](Project_029398/README.md) |
+| 029399 | [Wireshark: Dashboard — Reporting for Portfolio Demo](Project_029399/README.md) |
+| 029400 | [Wireshark: Dashboard — Usability Improvement for Portfolio Demo](Project_029400/README.md) |
 
 [Back to the portfolio home](../README.md)
