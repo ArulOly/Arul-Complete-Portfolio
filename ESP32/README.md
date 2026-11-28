@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036558 | [ESP32: Performance Baseline — Recovery for Small Business](Project_036558/README.md) |
 | 036559 | [ESP32: Performance Baseline — Reporting for Small Business](Project_036559/README.md) |
 | 036560 | [ESP32: Performance Baseline — Usability Improvement for Small Business](Project_036560/README.md) |
+| 036561 | [ESP32: Performance Baseline — Baseline Setup for Home Development](Project_036561/README.md) |
+| 036562 | [ESP32: Performance Baseline — Automation for Home Development](Project_036562/README.md) |
+| 036563 | [ESP32: Performance Baseline — Recovery for Home Development](Project_036563/README.md) |
+| 036564 | [ESP32: Performance Baseline — Reporting for Home Development](Project_036564/README.md) |
+| 036565 | [ESP32: Performance Baseline — Usability Improvement for Home Development](Project_036565/README.md) |
+| 036566 | [ESP32: Performance Baseline — Baseline Setup for Public Dataset](Project_036566/README.md) |
+| 036567 | [ESP32: Performance Baseline — Automation for Public Dataset](Project_036567/README.md) |
+| 036568 | [ESP32: Performance Baseline — Recovery for Public Dataset](Project_036568/README.md) |
+| 036569 | [ESP32: Performance Baseline — Reporting for Public Dataset](Project_036569/README.md) |
+| 036570 | [ESP32: Performance Baseline — Usability Improvement for Public Dataset](Project_036570/README.md) |
+| 036571 | [ESP32: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_036571/README.md) |
+| 036572 | [ESP32: Performance Baseline — Automation for Branch Office Simulator](Project_036572/README.md) |
+| 036573 | [ESP32: Performance Baseline — Recovery for Branch Office Simulator](Project_036573/README.md) |
+| 036574 | [ESP32: Performance Baseline — Reporting for Branch Office Simulator](Project_036574/README.md) |
+| 036575 | [ESP32: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_036575/README.md) |
+| 036576 | [ESP32: Performance Baseline — Baseline Setup for Offline Classroom](Project_036576/README.md) |
+| 036577 | [ESP32: Performance Baseline — Automation for Offline Classroom](Project_036577/README.md) |
+| 036578 | [ESP32: Performance Baseline — Recovery for Offline Classroom](Project_036578/README.md) |
+| 036579 | [ESP32: Performance Baseline — Reporting for Offline Classroom](Project_036579/README.md) |
+| 036580 | [ESP32: Performance Baseline — Usability Improvement for Offline Classroom](Project_036580/README.md) |
 
 [Back to the portfolio home](../README.md)
