@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042158 | [Apache: Log Analysis — Recovery for Small Business](Project_042158/README.md) |
 | 042159 | [Apache: Log Analysis — Reporting for Small Business](Project_042159/README.md) |
 | 042160 | [Apache: Log Analysis — Usability Improvement for Small Business](Project_042160/README.md) |
+| 042161 | [Apache: Log Analysis — Baseline Setup for Home Development](Project_042161/README.md) |
+| 042162 | [Apache: Log Analysis — Automation for Home Development](Project_042162/README.md) |
+| 042163 | [Apache: Log Analysis — Recovery for Home Development](Project_042163/README.md) |
+| 042164 | [Apache: Log Analysis — Reporting for Home Development](Project_042164/README.md) |
+| 042165 | [Apache: Log Analysis — Usability Improvement for Home Development](Project_042165/README.md) |
+| 042166 | [Apache: Log Analysis — Baseline Setup for Public Dataset](Project_042166/README.md) |
+| 042167 | [Apache: Log Analysis — Automation for Public Dataset](Project_042167/README.md) |
+| 042168 | [Apache: Log Analysis — Recovery for Public Dataset](Project_042168/README.md) |
+| 042169 | [Apache: Log Analysis — Reporting for Public Dataset](Project_042169/README.md) |
+| 042170 | [Apache: Log Analysis — Usability Improvement for Public Dataset](Project_042170/README.md) |
+| 042171 | [Apache: Log Analysis — Baseline Setup for Branch Office Simulator](Project_042171/README.md) |
+| 042172 | [Apache: Log Analysis — Automation for Branch Office Simulator](Project_042172/README.md) |
+| 042173 | [Apache: Log Analysis — Recovery for Branch Office Simulator](Project_042173/README.md) |
+| 042174 | [Apache: Log Analysis — Reporting for Branch Office Simulator](Project_042174/README.md) |
+| 042175 | [Apache: Log Analysis — Usability Improvement for Branch Office Simulator](Project_042175/README.md) |
+| 042176 | [Apache: Log Analysis — Baseline Setup for Offline Classroom](Project_042176/README.md) |
+| 042177 | [Apache: Log Analysis — Automation for Offline Classroom](Project_042177/README.md) |
+| 042178 | [Apache: Log Analysis — Recovery for Offline Classroom](Project_042178/README.md) |
+| 042179 | [Apache: Log Analysis — Reporting for Offline Classroom](Project_042179/README.md) |
+| 042180 | [Apache: Log Analysis — Usability Improvement for Offline Classroom](Project_042180/README.md) |
 
 [Back to the portfolio home](../README.md)
