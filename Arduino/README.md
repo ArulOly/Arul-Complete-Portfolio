@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037098 | [Arduino: Monitoring — Recovery for Portfolio Demo](Project_037098/README.md) |
 | 037099 | [Arduino: Monitoring — Reporting for Portfolio Demo](Project_037099/README.md) |
 | 037100 | [Arduino: Monitoring — Usability Improvement for Portfolio Demo](Project_037100/README.md) |
+| 037101 | [Arduino: Audit — Baseline Setup for School Lab](Project_037101/README.md) |
+| 037102 | [Arduino: Audit — Automation for School Lab](Project_037102/README.md) |
+| 037103 | [Arduino: Audit — Recovery for School Lab](Project_037103/README.md) |
+| 037104 | [Arduino: Audit — Reporting for School Lab](Project_037104/README.md) |
+| 037105 | [Arduino: Audit — Usability Improvement for School Lab](Project_037105/README.md) |
+| 037106 | [Arduino: Audit — Baseline Setup for Small Business](Project_037106/README.md) |
+| 037107 | [Arduino: Audit — Automation for Small Business](Project_037107/README.md) |
+| 037108 | [Arduino: Audit — Recovery for Small Business](Project_037108/README.md) |
+| 037109 | [Arduino: Audit — Reporting for Small Business](Project_037109/README.md) |
+| 037110 | [Arduino: Audit — Usability Improvement for Small Business](Project_037110/README.md) |
+| 037111 | [Arduino: Audit — Baseline Setup for Home Development](Project_037111/README.md) |
+| 037112 | [Arduino: Audit — Automation for Home Development](Project_037112/README.md) |
+| 037113 | [Arduino: Audit — Recovery for Home Development](Project_037113/README.md) |
+| 037114 | [Arduino: Audit — Reporting for Home Development](Project_037114/README.md) |
+| 037115 | [Arduino: Audit — Usability Improvement for Home Development](Project_037115/README.md) |
+| 037116 | [Arduino: Audit — Baseline Setup for Public Dataset](Project_037116/README.md) |
+| 037117 | [Arduino: Audit — Automation for Public Dataset](Project_037117/README.md) |
+| 037118 | [Arduino: Audit — Recovery for Public Dataset](Project_037118/README.md) |
+| 037119 | [Arduino: Audit — Reporting for Public Dataset](Project_037119/README.md) |
+| 037120 | [Arduino: Audit — Usability Improvement for Public Dataset](Project_037120/README.md) |
 
 [Back to the portfolio home](../README.md)
