@@ -2,7 +2,7 @@
 
 ## Project overview
 
-One simulated lab host provides the setting for this backup verification exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
+One simulated lab host provides the setting for this backup verification exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

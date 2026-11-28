@@ -2,7 +2,7 @@
 
 ## Project overview
 
-One simulated lab host provides the setting for this scheduled reporting exercise. The code is a reference implementation based on the student guide and uses fictional data.
+One simulated lab host provides the setting for this scheduled reporting exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

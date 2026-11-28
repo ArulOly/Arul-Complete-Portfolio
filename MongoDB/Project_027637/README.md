@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A two-node lab simulation provides the setting for this service check exercise. The embedded code is a reference implementation based on the student guide and uses fictional data.
+A two-node lab simulation provides the setting for this service check exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 

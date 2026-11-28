@@ -2,7 +2,7 @@
 
 ## Project overview
 
-A classroom operating offline provides the setting for this error handling exercise. The code is a reference implementation based on the student guide. Its inputs describe fictional operations.
+A classroom operating offline provides the setting for this error handling exercise. This exercise is based on the student guide and uses fictional data. This project includes source code, sample data, and instructions to run it.
 
 ## Problem statement
 
