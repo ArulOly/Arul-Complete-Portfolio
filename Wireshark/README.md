@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029878 | [Wireshark: Automation — Recovery for Offline Classroom](Project_029878/README.md) |
 | 029879 | [Wireshark: Automation — Reporting for Offline Classroom](Project_029879/README.md) |
 | 029880 | [Wireshark: Automation — Usability Improvement for Offline Classroom](Project_029880/README.md) |
+| 029881 | [Wireshark: Automation — Baseline Setup for Single-Host Lab](Project_029881/README.md) |
+| 029882 | [Wireshark: Automation — Automation for Single-Host Lab](Project_029882/README.md) |
+| 029883 | [Wireshark: Automation — Recovery for Single-Host Lab](Project_029883/README.md) |
+| 029884 | [Wireshark: Automation — Reporting for Single-Host Lab](Project_029884/README.md) |
+| 029885 | [Wireshark: Automation — Usability Improvement for Single-Host Lab](Project_029885/README.md) |
+| 029886 | [Wireshark: Automation — Baseline Setup for Two-Node Lab](Project_029886/README.md) |
+| 029887 | [Wireshark: Automation — Automation for Two-Node Lab](Project_029887/README.md) |
+| 029888 | [Wireshark: Automation — Recovery for Two-Node Lab](Project_029888/README.md) |
+| 029889 | [Wireshark: Automation — Reporting for Two-Node Lab](Project_029889/README.md) |
+| 029890 | [Wireshark: Automation — Usability Improvement for Two-Node Lab](Project_029890/README.md) |
+| 029891 | [Wireshark: Automation — Baseline Setup for Help Desk](Project_029891/README.md) |
+| 029892 | [Wireshark: Automation — Automation for Help Desk](Project_029892/README.md) |
+| 029893 | [Wireshark: Automation — Recovery for Help Desk](Project_029893/README.md) |
+| 029894 | [Wireshark: Automation — Reporting for Help Desk](Project_029894/README.md) |
+| 029895 | [Wireshark: Automation — Usability Improvement for Help Desk](Project_029895/README.md) |
+| 029896 | [Wireshark: Automation — Baseline Setup for Portfolio Demo](Project_029896/README.md) |
+| 029897 | [Wireshark: Automation — Automation for Portfolio Demo](Project_029897/README.md) |
+| 029898 | [Wireshark: Automation — Recovery for Portfolio Demo](Project_029898/README.md) |
+| 029899 | [Wireshark: Automation — Reporting for Portfolio Demo](Project_029899/README.md) |
+| 029900 | [Wireshark: Automation — Usability Improvement for Portfolio Demo](Project_029900/README.md) |
 
 [Back to the portfolio home](../README.md)
