@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035258 | [Raspberry Pi: Data Import — Recovery for Small Business](Project_035258/README.md) |
 | 035259 | [Raspberry Pi: Data Import — Reporting for Small Business](Project_035259/README.md) |
 | 035260 | [Raspberry Pi: Data Import — Usability Improvement for Small Business](Project_035260/README.md) |
+| 035261 | [Raspberry Pi: Data Import — Baseline Setup for Home Development](Project_035261/README.md) |
+| 035262 | [Raspberry Pi: Data Import — Automation for Home Development](Project_035262/README.md) |
+| 035263 | [Raspberry Pi: Data Import — Recovery for Home Development](Project_035263/README.md) |
+| 035264 | [Raspberry Pi: Data Import — Reporting for Home Development](Project_035264/README.md) |
+| 035265 | [Raspberry Pi: Data Import — Usability Improvement for Home Development](Project_035265/README.md) |
+| 035266 | [Raspberry Pi: Data Import — Baseline Setup for Public Dataset](Project_035266/README.md) |
+| 035267 | [Raspberry Pi: Data Import — Automation for Public Dataset](Project_035267/README.md) |
+| 035268 | [Raspberry Pi: Data Import — Recovery for Public Dataset](Project_035268/README.md) |
+| 035269 | [Raspberry Pi: Data Import — Reporting for Public Dataset](Project_035269/README.md) |
+| 035270 | [Raspberry Pi: Data Import — Usability Improvement for Public Dataset](Project_035270/README.md) |
+| 035271 | [Raspberry Pi: Data Import — Baseline Setup for Branch Office Simulator](Project_035271/README.md) |
+| 035272 | [Raspberry Pi: Data Import — Automation for Branch Office Simulator](Project_035272/README.md) |
+| 035273 | [Raspberry Pi: Data Import — Recovery for Branch Office Simulator](Project_035273/README.md) |
+| 035274 | [Raspberry Pi: Data Import — Reporting for Branch Office Simulator](Project_035274/README.md) |
+| 035275 | [Raspberry Pi: Data Import — Usability Improvement for Branch Office Simulator](Project_035275/README.md) |
+| 035276 | [Raspberry Pi: Data Import — Baseline Setup for Offline Classroom](Project_035276/README.md) |
+| 035277 | [Raspberry Pi: Data Import — Automation for Offline Classroom](Project_035277/README.md) |
+| 035278 | [Raspberry Pi: Data Import — Recovery for Offline Classroom](Project_035278/README.md) |
+| 035279 | [Raspberry Pi: Data Import — Reporting for Offline Classroom](Project_035279/README.md) |
+| 035280 | [Raspberry Pi: Data Import — Usability Improvement for Offline Classroom](Project_035280/README.md) |
 
 [Back to the portfolio home](../README.md)
