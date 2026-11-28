@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030978 | [Wazuh: Recovery Test — Recovery for Offline Classroom](Project_030978/README.md) |
 | 030979 | [Wazuh: Recovery Test — Reporting for Offline Classroom](Project_030979/README.md) |
 | 030980 | [Wazuh: Recovery Test — Usability Improvement for Offline Classroom](Project_030980/README.md) |
+| 030981 | [Wazuh: Recovery Test — Baseline Setup for Single-Host Lab](Project_030981/README.md) |
+| 030982 | [Wazuh: Recovery Test — Automation for Single-Host Lab](Project_030982/README.md) |
+| 030983 | [Wazuh: Recovery Test — Recovery for Single-Host Lab](Project_030983/README.md) |
+| 030984 | [Wazuh: Recovery Test — Reporting for Single-Host Lab](Project_030984/README.md) |
+| 030985 | [Wazuh: Recovery Test — Usability Improvement for Single-Host Lab](Project_030985/README.md) |
+| 030986 | [Wazuh: Recovery Test — Baseline Setup for Two-Node Lab](Project_030986/README.md) |
+| 030987 | [Wazuh: Recovery Test — Automation for Two-Node Lab](Project_030987/README.md) |
+| 030988 | [Wazuh: Recovery Test — Recovery for Two-Node Lab](Project_030988/README.md) |
+| 030989 | [Wazuh: Recovery Test — Reporting for Two-Node Lab](Project_030989/README.md) |
+| 030990 | [Wazuh: Recovery Test — Usability Improvement for Two-Node Lab](Project_030990/README.md) |
+| 030991 | [Wazuh: Recovery Test — Baseline Setup for Help Desk](Project_030991/README.md) |
+| 030992 | [Wazuh: Recovery Test — Automation for Help Desk](Project_030992/README.md) |
+| 030993 | [Wazuh: Recovery Test — Recovery for Help Desk](Project_030993/README.md) |
+| 030994 | [Wazuh: Recovery Test — Reporting for Help Desk](Project_030994/README.md) |
+| 030995 | [Wazuh: Recovery Test — Usability Improvement for Help Desk](Project_030995/README.md) |
+| 030996 | [Wazuh: Recovery Test — Baseline Setup for Portfolio Demo](Project_030996/README.md) |
+| 030997 | [Wazuh: Recovery Test — Automation for Portfolio Demo](Project_030997/README.md) |
+| 030998 | [Wazuh: Recovery Test — Recovery for Portfolio Demo](Project_030998/README.md) |
+| 030999 | [Wazuh: Recovery Test — Reporting for Portfolio Demo](Project_030999/README.md) |
+| 031000 | [Wazuh: Recovery Test — Usability Improvement for Portfolio Demo](Project_031000/README.md) |
 
 [Back to the portfolio home](../README.md)
