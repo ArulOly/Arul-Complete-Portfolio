@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038238 | [Git: Backup Verification — Recovery for Two-Node Lab](Project_038238/README.md) |
 | 038239 | [Git: Backup Verification — Reporting for Two-Node Lab](Project_038239/README.md) |
 | 038240 | [Git: Backup Verification — Usability Improvement for Two-Node Lab](Project_038240/README.md) |
+| 038241 | [Git: Backup Verification — Baseline Setup for Help Desk](Project_038241/README.md) |
+| 038242 | [Git: Backup Verification — Automation for Help Desk](Project_038242/README.md) |
+| 038243 | [Git: Backup Verification — Recovery for Help Desk](Project_038243/README.md) |
+| 038244 | [Git: Backup Verification — Reporting for Help Desk](Project_038244/README.md) |
+| 038245 | [Git: Backup Verification — Usability Improvement for Help Desk](Project_038245/README.md) |
+| 038246 | [Git: Backup Verification — Baseline Setup for Portfolio Demo](Project_038246/README.md) |
+| 038247 | [Git: Backup Verification — Automation for Portfolio Demo](Project_038247/README.md) |
+| 038248 | [Git: Backup Verification — Recovery for Portfolio Demo](Project_038248/README.md) |
+| 038249 | [Git: Backup Verification — Reporting for Portfolio Demo](Project_038249/README.md) |
+| 038250 | [Git: Backup Verification — Usability Improvement for Portfolio Demo](Project_038250/README.md) |
+| 038251 | [Git: Data Import — Baseline Setup for School Lab](Project_038251/README.md) |
+| 038252 | [Git: Data Import — Automation for School Lab](Project_038252/README.md) |
+| 038253 | [Git: Data Import — Recovery for School Lab](Project_038253/README.md) |
+| 038254 | [Git: Data Import — Reporting for School Lab](Project_038254/README.md) |
+| 038255 | [Git: Data Import — Usability Improvement for School Lab](Project_038255/README.md) |
+| 038256 | [Git: Data Import — Baseline Setup for Small Business](Project_038256/README.md) |
+| 038257 | [Git: Data Import — Automation for Small Business](Project_038257/README.md) |
+| 038258 | [Git: Data Import — Recovery for Small Business](Project_038258/README.md) |
+| 038259 | [Git: Data Import — Reporting for Small Business](Project_038259/README.md) |
+| 038260 | [Git: Data Import — Usability Improvement for Small Business](Project_038260/README.md) |
 
 [Back to the portfolio home](../README.md)
