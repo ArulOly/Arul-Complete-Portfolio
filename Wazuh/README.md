@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030378 | [Wazuh: Dashboard — Recovery for Offline Classroom](Project_030378/README.md) |
 | 030379 | [Wazuh: Dashboard — Reporting for Offline Classroom](Project_030379/README.md) |
 | 030380 | [Wazuh: Dashboard — Usability Improvement for Offline Classroom](Project_030380/README.md) |
+| 030381 | [Wazuh: Dashboard — Baseline Setup for Single-Host Lab](Project_030381/README.md) |
+| 030382 | [Wazuh: Dashboard — Automation for Single-Host Lab](Project_030382/README.md) |
+| 030383 | [Wazuh: Dashboard — Recovery for Single-Host Lab](Project_030383/README.md) |
+| 030384 | [Wazuh: Dashboard — Reporting for Single-Host Lab](Project_030384/README.md) |
+| 030385 | [Wazuh: Dashboard — Usability Improvement for Single-Host Lab](Project_030385/README.md) |
+| 030386 | [Wazuh: Dashboard — Baseline Setup for Two-Node Lab](Project_030386/README.md) |
+| 030387 | [Wazuh: Dashboard — Automation for Two-Node Lab](Project_030387/README.md) |
+| 030388 | [Wazuh: Dashboard — Recovery for Two-Node Lab](Project_030388/README.md) |
+| 030389 | [Wazuh: Dashboard — Reporting for Two-Node Lab](Project_030389/README.md) |
+| 030390 | [Wazuh: Dashboard — Usability Improvement for Two-Node Lab](Project_030390/README.md) |
+| 030391 | [Wazuh: Dashboard — Baseline Setup for Help Desk](Project_030391/README.md) |
+| 030392 | [Wazuh: Dashboard — Automation for Help Desk](Project_030392/README.md) |
+| 030393 | [Wazuh: Dashboard — Recovery for Help Desk](Project_030393/README.md) |
+| 030394 | [Wazuh: Dashboard — Reporting for Help Desk](Project_030394/README.md) |
+| 030395 | [Wazuh: Dashboard — Usability Improvement for Help Desk](Project_030395/README.md) |
+| 030396 | [Wazuh: Dashboard — Baseline Setup for Portfolio Demo](Project_030396/README.md) |
+| 030397 | [Wazuh: Dashboard — Automation for Portfolio Demo](Project_030397/README.md) |
+| 030398 | [Wazuh: Dashboard — Recovery for Portfolio Demo](Project_030398/README.md) |
+| 030399 | [Wazuh: Dashboard — Reporting for Portfolio Demo](Project_030399/README.md) |
+| 030400 | [Wazuh: Dashboard — Usability Improvement for Portfolio Demo](Project_030400/README.md) |
 
 [Back to the portfolio home](../README.md)
