@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040618 | [PowerShell: Service Check — Recovery for Public Dataset](Project_040618/README.md) |
 | 040619 | [PowerShell: Service Check — Reporting for Public Dataset](Project_040619/README.md) |
 | 040620 | [PowerShell: Service Check — Usability Improvement for Public Dataset](Project_040620/README.md) |
+| 040621 | [PowerShell: Service Check — Baseline Setup for Branch Office Simulator](Project_040621/README.md) |
+| 040622 | [PowerShell: Service Check — Automation for Branch Office Simulator](Project_040622/README.md) |
+| 040623 | [PowerShell: Service Check — Recovery for Branch Office Simulator](Project_040623/README.md) |
+| 040624 | [PowerShell: Service Check — Reporting for Branch Office Simulator](Project_040624/README.md) |
+| 040625 | [PowerShell: Service Check — Usability Improvement for Branch Office Simulator](Project_040625/README.md) |
+| 040626 | [PowerShell: Service Check — Baseline Setup for Offline Classroom](Project_040626/README.md) |
+| 040627 | [PowerShell: Service Check — Automation for Offline Classroom](Project_040627/README.md) |
+| 040628 | [PowerShell: Service Check — Recovery for Offline Classroom](Project_040628/README.md) |
+| 040629 | [PowerShell: Service Check — Reporting for Offline Classroom](Project_040629/README.md) |
+| 040630 | [PowerShell: Service Check — Usability Improvement for Offline Classroom](Project_040630/README.md) |
+| 040631 | [PowerShell: Service Check — Baseline Setup for Single-Host Lab](Project_040631/README.md) |
+| 040632 | [PowerShell: Service Check — Automation for Single-Host Lab](Project_040632/README.md) |
+| 040633 | [PowerShell: Service Check — Recovery for Single-Host Lab](Project_040633/README.md) |
+| 040634 | [PowerShell: Service Check — Reporting for Single-Host Lab](Project_040634/README.md) |
+| 040635 | [PowerShell: Service Check — Usability Improvement for Single-Host Lab](Project_040635/README.md) |
+| 040636 | [PowerShell: Service Check — Baseline Setup for Two-Node Lab](Project_040636/README.md) |
+| 040637 | [PowerShell: Service Check — Automation for Two-Node Lab](Project_040637/README.md) |
+| 040638 | [PowerShell: Service Check — Recovery for Two-Node Lab](Project_040638/README.md) |
+| 040639 | [PowerShell: Service Check — Reporting for Two-Node Lab](Project_040639/README.md) |
+| 040640 | [PowerShell: Service Check — Usability Improvement for Two-Node Lab](Project_040640/README.md) |
 
 [Back to the portfolio home](../README.md)
