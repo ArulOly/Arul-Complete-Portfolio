@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031258 | [Greenbone: Data Import — Recovery for Small Business](Project_031258/README.md) |
 | 031259 | [Greenbone: Data Import — Reporting for Small Business](Project_031259/README.md) |
 | 031260 | [Greenbone: Data Import — Usability Improvement for Small Business](Project_031260/README.md) |
+| 031261 | [Greenbone: Data Import — Baseline Setup for Home Development](Project_031261/README.md) |
+| 031262 | [Greenbone: Data Import — Automation for Home Development](Project_031262/README.md) |
+| 031263 | [Greenbone: Data Import — Recovery for Home Development](Project_031263/README.md) |
+| 031264 | [Greenbone: Data Import — Reporting for Home Development](Project_031264/README.md) |
+| 031265 | [Greenbone: Data Import — Usability Improvement for Home Development](Project_031265/README.md) |
+| 031266 | [Greenbone: Data Import — Baseline Setup for Public Dataset](Project_031266/README.md) |
+| 031267 | [Greenbone: Data Import — Automation for Public Dataset](Project_031267/README.md) |
+| 031268 | [Greenbone: Data Import — Recovery for Public Dataset](Project_031268/README.md) |
+| 031269 | [Greenbone: Data Import — Reporting for Public Dataset](Project_031269/README.md) |
+| 031270 | [Greenbone: Data Import — Usability Improvement for Public Dataset](Project_031270/README.md) |
+| 031271 | [Greenbone: Data Import — Baseline Setup for Branch Office Simulator](Project_031271/README.md) |
+| 031272 | [Greenbone: Data Import — Automation for Branch Office Simulator](Project_031272/README.md) |
+| 031273 | [Greenbone: Data Import — Recovery for Branch Office Simulator](Project_031273/README.md) |
+| 031274 | [Greenbone: Data Import — Reporting for Branch Office Simulator](Project_031274/README.md) |
+| 031275 | [Greenbone: Data Import — Usability Improvement for Branch Office Simulator](Project_031275/README.md) |
+| 031276 | [Greenbone: Data Import — Baseline Setup for Offline Classroom](Project_031276/README.md) |
+| 031277 | [Greenbone: Data Import — Automation for Offline Classroom](Project_031277/README.md) |
+| 031278 | [Greenbone: Data Import — Recovery for Offline Classroom](Project_031278/README.md) |
+| 031279 | [Greenbone: Data Import — Reporting for Offline Classroom](Project_031279/README.md) |
+| 031280 | [Greenbone: Data Import — Usability Improvement for Offline Classroom](Project_031280/README.md) |
 
 [Back to the portfolio home](../README.md)
