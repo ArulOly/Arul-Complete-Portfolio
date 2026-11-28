@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016258 | [Google Cloud: Data Import — Recovery for Small Business](Project_016258/README.md) |
 | 016259 | [Google Cloud: Data Import — Reporting for Small Business](Project_016259/README.md) |
 | 016260 | [Google Cloud: Data Import — Usability Improvement for Small Business](Project_016260/README.md) |
+| 016261 | [Google Cloud: Data Import — Baseline Setup for Home Development](Project_016261/README.md) |
+| 016262 | [Google Cloud: Data Import — Automation for Home Development](Project_016262/README.md) |
+| 016263 | [Google Cloud: Data Import — Recovery for Home Development](Project_016263/README.md) |
+| 016264 | [Google Cloud: Data Import — Reporting for Home Development](Project_016264/README.md) |
+| 016265 | [Google Cloud: Data Import — Usability Improvement for Home Development](Project_016265/README.md) |
+| 016266 | [Google Cloud: Data Import — Baseline Setup for Public Dataset](Project_016266/README.md) |
+| 016267 | [Google Cloud: Data Import — Automation for Public Dataset](Project_016267/README.md) |
+| 016268 | [Google Cloud: Data Import — Recovery for Public Dataset](Project_016268/README.md) |
+| 016269 | [Google Cloud: Data Import — Reporting for Public Dataset](Project_016269/README.md) |
+| 016270 | [Google Cloud: Data Import — Usability Improvement for Public Dataset](Project_016270/README.md) |
+| 016271 | [Google Cloud: Data Import — Baseline Setup for Branch Office Simulator](Project_016271/README.md) |
+| 016272 | [Google Cloud: Data Import — Automation for Branch Office Simulator](Project_016272/README.md) |
+| 016273 | [Google Cloud: Data Import — Recovery for Branch Office Simulator](Project_016273/README.md) |
+| 016274 | [Google Cloud: Data Import — Reporting for Branch Office Simulator](Project_016274/README.md) |
+| 016275 | [Google Cloud: Data Import — Usability Improvement for Branch Office Simulator](Project_016275/README.md) |
+| 016276 | [Google Cloud: Data Import — Baseline Setup for Offline Classroom](Project_016276/README.md) |
+| 016277 | [Google Cloud: Data Import — Automation for Offline Classroom](Project_016277/README.md) |
+| 016278 | [Google Cloud: Data Import — Recovery for Offline Classroom](Project_016278/README.md) |
+| 016279 | [Google Cloud: Data Import — Reporting for Offline Classroom](Project_016279/README.md) |
+| 016280 | [Google Cloud: Data Import — Usability Improvement for Offline Classroom](Project_016280/README.md) |
 
 [Back to the portfolio home](../README.md)
