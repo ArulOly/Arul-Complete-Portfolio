@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014178 | [AWS: Log Analysis — Recovery for Offline Classroom](Project_014178/README.md) |
 | 014179 | [AWS: Log Analysis — Reporting for Offline Classroom](Project_014179/README.md) |
 | 014180 | [AWS: Log Analysis — Usability Improvement for Offline Classroom](Project_014180/README.md) |
+| 014181 | [AWS: Log Analysis — Baseline Setup for Single-Host Lab](Project_014181/README.md) |
+| 014182 | [AWS: Log Analysis — Automation for Single-Host Lab](Project_014182/README.md) |
+| 014183 | [AWS: Log Analysis — Recovery for Single-Host Lab](Project_014183/README.md) |
+| 014184 | [AWS: Log Analysis — Reporting for Single-Host Lab](Project_014184/README.md) |
+| 014185 | [AWS: Log Analysis — Usability Improvement for Single-Host Lab](Project_014185/README.md) |
+| 014186 | [AWS: Log Analysis — Baseline Setup for Two-Node Lab](Project_014186/README.md) |
+| 014187 | [AWS: Log Analysis — Automation for Two-Node Lab](Project_014187/README.md) |
+| 014188 | [AWS: Log Analysis — Recovery for Two-Node Lab](Project_014188/README.md) |
+| 014189 | [AWS: Log Analysis — Reporting for Two-Node Lab](Project_014189/README.md) |
+| 014190 | [AWS: Log Analysis — Usability Improvement for Two-Node Lab](Project_014190/README.md) |
+| 014191 | [AWS: Log Analysis — Baseline Setup for Help Desk](Project_014191/README.md) |
+| 014192 | [AWS: Log Analysis — Automation for Help Desk](Project_014192/README.md) |
+| 014193 | [AWS: Log Analysis — Recovery for Help Desk](Project_014193/README.md) |
+| 014194 | [AWS: Log Analysis — Reporting for Help Desk](Project_014194/README.md) |
+| 014195 | [AWS: Log Analysis — Usability Improvement for Help Desk](Project_014195/README.md) |
+| 014196 | [AWS: Log Analysis — Baseline Setup for Portfolio Demo](Project_014196/README.md) |
+| 014197 | [AWS: Log Analysis — Automation for Portfolio Demo](Project_014197/README.md) |
+| 014198 | [AWS: Log Analysis — Recovery for Portfolio Demo](Project_014198/README.md) |
+| 014199 | [AWS: Log Analysis — Reporting for Portfolio Demo](Project_014199/README.md) |
+| 014200 | [AWS: Log Analysis — Usability Improvement for Portfolio Demo](Project_014200/README.md) |
 
 [Back to the portfolio home](../README.md)
