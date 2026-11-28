@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041698 | [Nginx: Configuration Comparison — Recovery for Portfolio Demo](Project_041698/README.md) |
 | 041699 | [Nginx: Configuration Comparison — Reporting for Portfolio Demo](Project_041699/README.md) |
 | 041700 | [Nginx: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_041700/README.md) |
+| 041701 | [Nginx: Error Handling — Baseline Setup for School Lab](Project_041701/README.md) |
+| 041702 | [Nginx: Error Handling — Automation for School Lab](Project_041702/README.md) |
+| 041703 | [Nginx: Error Handling — Recovery for School Lab](Project_041703/README.md) |
+| 041704 | [Nginx: Error Handling — Reporting for School Lab](Project_041704/README.md) |
+| 041705 | [Nginx: Error Handling — Usability Improvement for School Lab](Project_041705/README.md) |
+| 041706 | [Nginx: Error Handling — Baseline Setup for Small Business](Project_041706/README.md) |
+| 041707 | [Nginx: Error Handling — Automation for Small Business](Project_041707/README.md) |
+| 041708 | [Nginx: Error Handling — Recovery for Small Business](Project_041708/README.md) |
+| 041709 | [Nginx: Error Handling — Reporting for Small Business](Project_041709/README.md) |
+| 041710 | [Nginx: Error Handling — Usability Improvement for Small Business](Project_041710/README.md) |
+| 041711 | [Nginx: Error Handling — Baseline Setup for Home Development](Project_041711/README.md) |
+| 041712 | [Nginx: Error Handling — Automation for Home Development](Project_041712/README.md) |
+| 041713 | [Nginx: Error Handling — Recovery for Home Development](Project_041713/README.md) |
+| 041714 | [Nginx: Error Handling — Reporting for Home Development](Project_041714/README.md) |
+| 041715 | [Nginx: Error Handling — Usability Improvement for Home Development](Project_041715/README.md) |
+| 041716 | [Nginx: Error Handling — Baseline Setup for Public Dataset](Project_041716/README.md) |
+| 041717 | [Nginx: Error Handling — Automation for Public Dataset](Project_041717/README.md) |
+| 041718 | [Nginx: Error Handling — Recovery for Public Dataset](Project_041718/README.md) |
+| 041719 | [Nginx: Error Handling — Reporting for Public Dataset](Project_041719/README.md) |
+| 041720 | [Nginx: Error Handling — Usability Improvement for Public Dataset](Project_041720/README.md) |
 
 [Back to the portfolio home](../README.md)
