@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046338 | [Terraform: Data Export — Recovery for Two-Node Lab](Project_046338/README.md) |
 | 046339 | [Terraform: Data Export — Reporting for Two-Node Lab](Project_046339/README.md) |
 | 046340 | [Terraform: Data Export — Usability Improvement for Two-Node Lab](Project_046340/README.md) |
+| 046341 | [Terraform: Data Export — Baseline Setup for Help Desk](Project_046341/README.md) |
+| 046342 | [Terraform: Data Export — Automation for Help Desk](Project_046342/README.md) |
+| 046343 | [Terraform: Data Export — Recovery for Help Desk](Project_046343/README.md) |
+| 046344 | [Terraform: Data Export — Reporting for Help Desk](Project_046344/README.md) |
+| 046345 | [Terraform: Data Export — Usability Improvement for Help Desk](Project_046345/README.md) |
+| 046346 | [Terraform: Data Export — Baseline Setup for Portfolio Demo](Project_046346/README.md) |
+| 046347 | [Terraform: Data Export — Automation for Portfolio Demo](Project_046347/README.md) |
+| 046348 | [Terraform: Data Export — Recovery for Portfolio Demo](Project_046348/README.md) |
+| 046349 | [Terraform: Data Export — Reporting for Portfolio Demo](Project_046349/README.md) |
+| 046350 | [Terraform: Data Export — Usability Improvement for Portfolio Demo](Project_046350/README.md) |
+| 046351 | [Terraform: Dashboard — Baseline Setup for School Lab](Project_046351/README.md) |
+| 046352 | [Terraform: Dashboard — Automation for School Lab](Project_046352/README.md) |
+| 046353 | [Terraform: Dashboard — Recovery for School Lab](Project_046353/README.md) |
+| 046354 | [Terraform: Dashboard — Reporting for School Lab](Project_046354/README.md) |
+| 046355 | [Terraform: Dashboard — Usability Improvement for School Lab](Project_046355/README.md) |
+| 046356 | [Terraform: Dashboard — Baseline Setup for Small Business](Project_046356/README.md) |
+| 046357 | [Terraform: Dashboard — Automation for Small Business](Project_046357/README.md) |
+| 046358 | [Terraform: Dashboard — Recovery for Small Business](Project_046358/README.md) |
+| 046359 | [Terraform: Dashboard — Reporting for Small Business](Project_046359/README.md) |
+| 046360 | [Terraform: Dashboard — Usability Improvement for Small Business](Project_046360/README.md) |
 
 [Back to the portfolio home](../README.md)
