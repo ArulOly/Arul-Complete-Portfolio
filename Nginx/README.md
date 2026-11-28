@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041598 | [Nginx: Performance Baseline — Recovery for Portfolio Demo](Project_041598/README.md) |
 | 041599 | [Nginx: Performance Baseline — Reporting for Portfolio Demo](Project_041599/README.md) |
 | 041600 | [Nginx: Performance Baseline — Usability Improvement for Portfolio Demo](Project_041600/README.md) |
+| 041601 | [Nginx: Service Check — Baseline Setup for School Lab](Project_041601/README.md) |
+| 041602 | [Nginx: Service Check — Automation for School Lab](Project_041602/README.md) |
+| 041603 | [Nginx: Service Check — Recovery for School Lab](Project_041603/README.md) |
+| 041604 | [Nginx: Service Check — Reporting for School Lab](Project_041604/README.md) |
+| 041605 | [Nginx: Service Check — Usability Improvement for School Lab](Project_041605/README.md) |
+| 041606 | [Nginx: Service Check — Baseline Setup for Small Business](Project_041606/README.md) |
+| 041607 | [Nginx: Service Check — Automation for Small Business](Project_041607/README.md) |
+| 041608 | [Nginx: Service Check — Recovery for Small Business](Project_041608/README.md) |
+| 041609 | [Nginx: Service Check — Reporting for Small Business](Project_041609/README.md) |
+| 041610 | [Nginx: Service Check — Usability Improvement for Small Business](Project_041610/README.md) |
+| 041611 | [Nginx: Service Check — Baseline Setup for Home Development](Project_041611/README.md) |
+| 041612 | [Nginx: Service Check — Automation for Home Development](Project_041612/README.md) |
+| 041613 | [Nginx: Service Check — Recovery for Home Development](Project_041613/README.md) |
+| 041614 | [Nginx: Service Check — Reporting for Home Development](Project_041614/README.md) |
+| 041615 | [Nginx: Service Check — Usability Improvement for Home Development](Project_041615/README.md) |
+| 041616 | [Nginx: Service Check — Baseline Setup for Public Dataset](Project_041616/README.md) |
+| 041617 | [Nginx: Service Check — Automation for Public Dataset](Project_041617/README.md) |
+| 041618 | [Nginx: Service Check — Recovery for Public Dataset](Project_041618/README.md) |
+| 041619 | [Nginx: Service Check — Reporting for Public Dataset](Project_041619/README.md) |
+| 041620 | [Nginx: Service Check — Usability Improvement for Public Dataset](Project_041620/README.md) |
 
 [Back to the portfolio home](../README.md)
