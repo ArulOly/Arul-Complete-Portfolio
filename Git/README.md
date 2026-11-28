@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038878 | [Git: Automation — Recovery for Offline Classroom](Project_038878/README.md) |
 | 038879 | [Git: Automation — Reporting for Offline Classroom](Project_038879/README.md) |
 | 038880 | [Git: Automation — Usability Improvement for Offline Classroom](Project_038880/README.md) |
+| 038881 | [Git: Automation — Baseline Setup for Single-Host Lab](Project_038881/README.md) |
+| 038882 | [Git: Automation — Automation for Single-Host Lab](Project_038882/README.md) |
+| 038883 | [Git: Automation — Recovery for Single-Host Lab](Project_038883/README.md) |
+| 038884 | [Git: Automation — Reporting for Single-Host Lab](Project_038884/README.md) |
+| 038885 | [Git: Automation — Usability Improvement for Single-Host Lab](Project_038885/README.md) |
+| 038886 | [Git: Automation — Baseline Setup for Two-Node Lab](Project_038886/README.md) |
+| 038887 | [Git: Automation — Automation for Two-Node Lab](Project_038887/README.md) |
+| 038888 | [Git: Automation — Recovery for Two-Node Lab](Project_038888/README.md) |
+| 038889 | [Git: Automation — Reporting for Two-Node Lab](Project_038889/README.md) |
+| 038890 | [Git: Automation — Usability Improvement for Two-Node Lab](Project_038890/README.md) |
+| 038891 | [Git: Automation — Baseline Setup for Help Desk](Project_038891/README.md) |
+| 038892 | [Git: Automation — Automation for Help Desk](Project_038892/README.md) |
+| 038893 | [Git: Automation — Recovery for Help Desk](Project_038893/README.md) |
+| 038894 | [Git: Automation — Reporting for Help Desk](Project_038894/README.md) |
+| 038895 | [Git: Automation — Usability Improvement for Help Desk](Project_038895/README.md) |
+| 038896 | [Git: Automation — Baseline Setup for Portfolio Demo](Project_038896/README.md) |
+| 038897 | [Git: Automation — Automation for Portfolio Demo](Project_038897/README.md) |
+| 038898 | [Git: Automation — Recovery for Portfolio Demo](Project_038898/README.md) |
+| 038899 | [Git: Automation — Reporting for Portfolio Demo](Project_038899/README.md) |
+| 038900 | [Git: Automation — Usability Improvement for Portfolio Demo](Project_038900/README.md) |
 
 [Back to the portfolio home](../README.md)
