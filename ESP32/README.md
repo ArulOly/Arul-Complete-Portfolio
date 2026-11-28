@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036338 | [ESP32: Data Export — Recovery for Two-Node Lab](Project_036338/README.md) |
 | 036339 | [ESP32: Data Export — Reporting for Two-Node Lab](Project_036339/README.md) |
 | 036340 | [ESP32: Data Export — Usability Improvement for Two-Node Lab](Project_036340/README.md) |
+| 036341 | [ESP32: Data Export — Baseline Setup for Help Desk](Project_036341/README.md) |
+| 036342 | [ESP32: Data Export — Automation for Help Desk](Project_036342/README.md) |
+| 036343 | [ESP32: Data Export — Recovery for Help Desk](Project_036343/README.md) |
+| 036344 | [ESP32: Data Export — Reporting for Help Desk](Project_036344/README.md) |
+| 036345 | [ESP32: Data Export — Usability Improvement for Help Desk](Project_036345/README.md) |
+| 036346 | [ESP32: Data Export — Baseline Setup for Portfolio Demo](Project_036346/README.md) |
+| 036347 | [ESP32: Data Export — Automation for Portfolio Demo](Project_036347/README.md) |
+| 036348 | [ESP32: Data Export — Recovery for Portfolio Demo](Project_036348/README.md) |
+| 036349 | [ESP32: Data Export — Reporting for Portfolio Demo](Project_036349/README.md) |
+| 036350 | [ESP32: Data Export — Usability Improvement for Portfolio Demo](Project_036350/README.md) |
+| 036351 | [ESP32: Dashboard — Baseline Setup for School Lab](Project_036351/README.md) |
+| 036352 | [ESP32: Dashboard — Automation for School Lab](Project_036352/README.md) |
+| 036353 | [ESP32: Dashboard — Recovery for School Lab](Project_036353/README.md) |
+| 036354 | [ESP32: Dashboard — Reporting for School Lab](Project_036354/README.md) |
+| 036355 | [ESP32: Dashboard — Usability Improvement for School Lab](Project_036355/README.md) |
+| 036356 | [ESP32: Dashboard — Baseline Setup for Small Business](Project_036356/README.md) |
+| 036357 | [ESP32: Dashboard — Automation for Small Business](Project_036357/README.md) |
+| 036358 | [ESP32: Dashboard — Recovery for Small Business](Project_036358/README.md) |
+| 036359 | [ESP32: Dashboard — Reporting for Small Business](Project_036359/README.md) |
+| 036360 | [ESP32: Dashboard — Usability Improvement for Small Business](Project_036360/README.md) |
 
 [Back to the portfolio home](../README.md)
