@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036818 | [ESP32: Documentation Generation — Recovery for Public Dataset](Project_036818/README.md) |
 | 036819 | [ESP32: Documentation Generation — Reporting for Public Dataset](Project_036819/README.md) |
 | 036820 | [ESP32: Documentation Generation — Usability Improvement for Public Dataset](Project_036820/README.md) |
+| 036821 | [ESP32: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_036821/README.md) |
+| 036822 | [ESP32: Documentation Generation — Automation for Branch Office Simulator](Project_036822/README.md) |
+| 036823 | [ESP32: Documentation Generation — Recovery for Branch Office Simulator](Project_036823/README.md) |
+| 036824 | [ESP32: Documentation Generation — Reporting for Branch Office Simulator](Project_036824/README.md) |
+| 036825 | [ESP32: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_036825/README.md) |
+| 036826 | [ESP32: Documentation Generation — Baseline Setup for Offline Classroom](Project_036826/README.md) |
+| 036827 | [ESP32: Documentation Generation — Automation for Offline Classroom](Project_036827/README.md) |
+| 036828 | [ESP32: Documentation Generation — Recovery for Offline Classroom](Project_036828/README.md) |
+| 036829 | [ESP32: Documentation Generation — Reporting for Offline Classroom](Project_036829/README.md) |
+| 036830 | [ESP32: Documentation Generation — Usability Improvement for Offline Classroom](Project_036830/README.md) |
+| 036831 | [ESP32: Documentation Generation — Baseline Setup for Single-Host Lab](Project_036831/README.md) |
+| 036832 | [ESP32: Documentation Generation — Automation for Single-Host Lab](Project_036832/README.md) |
+| 036833 | [ESP32: Documentation Generation — Recovery for Single-Host Lab](Project_036833/README.md) |
+| 036834 | [ESP32: Documentation Generation — Reporting for Single-Host Lab](Project_036834/README.md) |
+| 036835 | [ESP32: Documentation Generation — Usability Improvement for Single-Host Lab](Project_036835/README.md) |
+| 036836 | [ESP32: Documentation Generation — Baseline Setup for Two-Node Lab](Project_036836/README.md) |
+| 036837 | [ESP32: Documentation Generation — Automation for Two-Node Lab](Project_036837/README.md) |
+| 036838 | [ESP32: Documentation Generation — Recovery for Two-Node Lab](Project_036838/README.md) |
+| 036839 | [ESP32: Documentation Generation — Reporting for Two-Node Lab](Project_036839/README.md) |
+| 036840 | [ESP32: Documentation Generation — Usability Improvement for Two-Node Lab](Project_036840/README.md) |
 
 [Back to the portfolio home](../README.md)
