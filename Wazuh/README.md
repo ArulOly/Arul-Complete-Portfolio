@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030158 | [Wazuh: Log Analysis — Recovery for Small Business](Project_030158/README.md) |
 | 030159 | [Wazuh: Log Analysis — Reporting for Small Business](Project_030159/README.md) |
 | 030160 | [Wazuh: Log Analysis — Usability Improvement for Small Business](Project_030160/README.md) |
+| 030161 | [Wazuh: Log Analysis — Baseline Setup for Home Development](Project_030161/README.md) |
+| 030162 | [Wazuh: Log Analysis — Automation for Home Development](Project_030162/README.md) |
+| 030163 | [Wazuh: Log Analysis — Recovery for Home Development](Project_030163/README.md) |
+| 030164 | [Wazuh: Log Analysis — Reporting for Home Development](Project_030164/README.md) |
+| 030165 | [Wazuh: Log Analysis — Usability Improvement for Home Development](Project_030165/README.md) |
+| 030166 | [Wazuh: Log Analysis — Baseline Setup for Public Dataset](Project_030166/README.md) |
+| 030167 | [Wazuh: Log Analysis — Automation for Public Dataset](Project_030167/README.md) |
+| 030168 | [Wazuh: Log Analysis — Recovery for Public Dataset](Project_030168/README.md) |
+| 030169 | [Wazuh: Log Analysis — Reporting for Public Dataset](Project_030169/README.md) |
+| 030170 | [Wazuh: Log Analysis — Usability Improvement for Public Dataset](Project_030170/README.md) |
+| 030171 | [Wazuh: Log Analysis — Baseline Setup for Branch Office Simulator](Project_030171/README.md) |
+| 030172 | [Wazuh: Log Analysis — Automation for Branch Office Simulator](Project_030172/README.md) |
+| 030173 | [Wazuh: Log Analysis — Recovery for Branch Office Simulator](Project_030173/README.md) |
+| 030174 | [Wazuh: Log Analysis — Reporting for Branch Office Simulator](Project_030174/README.md) |
+| 030175 | [Wazuh: Log Analysis — Usability Improvement for Branch Office Simulator](Project_030175/README.md) |
+| 030176 | [Wazuh: Log Analysis — Baseline Setup for Offline Classroom](Project_030176/README.md) |
+| 030177 | [Wazuh: Log Analysis — Automation for Offline Classroom](Project_030177/README.md) |
+| 030178 | [Wazuh: Log Analysis — Recovery for Offline Classroom](Project_030178/README.md) |
+| 030179 | [Wazuh: Log Analysis — Reporting for Offline Classroom](Project_030179/README.md) |
+| 030180 | [Wazuh: Log Analysis — Usability Improvement for Offline Classroom](Project_030180/README.md) |
 
 [Back to the portfolio home](../README.md)
