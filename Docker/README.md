@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017678 | [Docker: Configuration Comparison — Recovery for Offline Classroom](Project_017678/README.md) |
 | 017679 | [Docker: Configuration Comparison — Reporting for Offline Classroom](Project_017679/README.md) |
 | 017680 | [Docker: Configuration Comparison — Usability Improvement for Offline Classroom](Project_017680/README.md) |
+| 017681 | [Docker: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_017681/README.md) |
+| 017682 | [Docker: Configuration Comparison — Automation for Single-Host Lab](Project_017682/README.md) |
+| 017683 | [Docker: Configuration Comparison — Recovery for Single-Host Lab](Project_017683/README.md) |
+| 017684 | [Docker: Configuration Comparison — Reporting for Single-Host Lab](Project_017684/README.md) |
+| 017685 | [Docker: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_017685/README.md) |
+| 017686 | [Docker: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_017686/README.md) |
+| 017687 | [Docker: Configuration Comparison — Automation for Two-Node Lab](Project_017687/README.md) |
+| 017688 | [Docker: Configuration Comparison — Recovery for Two-Node Lab](Project_017688/README.md) |
+| 017689 | [Docker: Configuration Comparison — Reporting for Two-Node Lab](Project_017689/README.md) |
+| 017690 | [Docker: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_017690/README.md) |
+| 017691 | [Docker: Configuration Comparison — Baseline Setup for Help Desk](Project_017691/README.md) |
+| 017692 | [Docker: Configuration Comparison — Automation for Help Desk](Project_017692/README.md) |
+| 017693 | [Docker: Configuration Comparison — Recovery for Help Desk](Project_017693/README.md) |
+| 017694 | [Docker: Configuration Comparison — Reporting for Help Desk](Project_017694/README.md) |
+| 017695 | [Docker: Configuration Comparison — Usability Improvement for Help Desk](Project_017695/README.md) |
+| 017696 | [Docker: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_017696/README.md) |
+| 017697 | [Docker: Configuration Comparison — Automation for Portfolio Demo](Project_017697/README.md) |
+| 017698 | [Docker: Configuration Comparison — Recovery for Portfolio Demo](Project_017698/README.md) |
+| 017699 | [Docker: Configuration Comparison — Reporting for Portfolio Demo](Project_017699/README.md) |
+| 017700 | [Docker: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_017700/README.md) |
 
 [Back to the portfolio home](../README.md)
