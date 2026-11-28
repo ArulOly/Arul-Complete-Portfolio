@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036438 | [ESP32: Alerting — Recovery for Two-Node Lab](Project_036438/README.md) |
 | 036439 | [ESP32: Alerting — Reporting for Two-Node Lab](Project_036439/README.md) |
 | 036440 | [ESP32: Alerting — Usability Improvement for Two-Node Lab](Project_036440/README.md) |
+| 036441 | [ESP32: Alerting — Baseline Setup for Help Desk](Project_036441/README.md) |
+| 036442 | [ESP32: Alerting — Automation for Help Desk](Project_036442/README.md) |
+| 036443 | [ESP32: Alerting — Recovery for Help Desk](Project_036443/README.md) |
+| 036444 | [ESP32: Alerting — Reporting for Help Desk](Project_036444/README.md) |
+| 036445 | [ESP32: Alerting — Usability Improvement for Help Desk](Project_036445/README.md) |
+| 036446 | [ESP32: Alerting — Baseline Setup for Portfolio Demo](Project_036446/README.md) |
+| 036447 | [ESP32: Alerting — Automation for Portfolio Demo](Project_036447/README.md) |
+| 036448 | [ESP32: Alerting — Recovery for Portfolio Demo](Project_036448/README.md) |
+| 036449 | [ESP32: Alerting — Reporting for Portfolio Demo](Project_036449/README.md) |
+| 036450 | [ESP32: Alerting — Usability Improvement for Portfolio Demo](Project_036450/README.md) |
+| 036451 | [ESP32: Scheduled Reporting — Baseline Setup for School Lab](Project_036451/README.md) |
+| 036452 | [ESP32: Scheduled Reporting — Automation for School Lab](Project_036452/README.md) |
+| 036453 | [ESP32: Scheduled Reporting — Recovery for School Lab](Project_036453/README.md) |
+| 036454 | [ESP32: Scheduled Reporting — Reporting for School Lab](Project_036454/README.md) |
+| 036455 | [ESP32: Scheduled Reporting — Usability Improvement for School Lab](Project_036455/README.md) |
+| 036456 | [ESP32: Scheduled Reporting — Baseline Setup for Small Business](Project_036456/README.md) |
+| 036457 | [ESP32: Scheduled Reporting — Automation for Small Business](Project_036457/README.md) |
+| 036458 | [ESP32: Scheduled Reporting — Recovery for Small Business](Project_036458/README.md) |
+| 036459 | [ESP32: Scheduled Reporting — Reporting for Small Business](Project_036459/README.md) |
+| 036460 | [ESP32: Scheduled Reporting — Usability Improvement for Small Business](Project_036460/README.md) |
 
 [Back to the portfolio home](../README.md)
