@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038258 | [Git: Data Import — Recovery for Small Business](Project_038258/README.md) |
 | 038259 | [Git: Data Import — Reporting for Small Business](Project_038259/README.md) |
 | 038260 | [Git: Data Import — Usability Improvement for Small Business](Project_038260/README.md) |
+| 038261 | [Git: Data Import — Baseline Setup for Home Development](Project_038261/README.md) |
+| 038262 | [Git: Data Import — Automation for Home Development](Project_038262/README.md) |
+| 038263 | [Git: Data Import — Recovery for Home Development](Project_038263/README.md) |
+| 038264 | [Git: Data Import — Reporting for Home Development](Project_038264/README.md) |
+| 038265 | [Git: Data Import — Usability Improvement for Home Development](Project_038265/README.md) |
+| 038266 | [Git: Data Import — Baseline Setup for Public Dataset](Project_038266/README.md) |
+| 038267 | [Git: Data Import — Automation for Public Dataset](Project_038267/README.md) |
+| 038268 | [Git: Data Import — Recovery for Public Dataset](Project_038268/README.md) |
+| 038269 | [Git: Data Import — Reporting for Public Dataset](Project_038269/README.md) |
+| 038270 | [Git: Data Import — Usability Improvement for Public Dataset](Project_038270/README.md) |
+| 038271 | [Git: Data Import — Baseline Setup for Branch Office Simulator](Project_038271/README.md) |
+| 038272 | [Git: Data Import — Automation for Branch Office Simulator](Project_038272/README.md) |
+| 038273 | [Git: Data Import — Recovery for Branch Office Simulator](Project_038273/README.md) |
+| 038274 | [Git: Data Import — Reporting for Branch Office Simulator](Project_038274/README.md) |
+| 038275 | [Git: Data Import — Usability Improvement for Branch Office Simulator](Project_038275/README.md) |
+| 038276 | [Git: Data Import — Baseline Setup for Offline Classroom](Project_038276/README.md) |
+| 038277 | [Git: Data Import — Automation for Offline Classroom](Project_038277/README.md) |
+| 038278 | [Git: Data Import — Recovery for Offline Classroom](Project_038278/README.md) |
+| 038279 | [Git: Data Import — Reporting for Offline Classroom](Project_038279/README.md) |
+| 038280 | [Git: Data Import — Usability Improvement for Offline Classroom](Project_038280/README.md) |
 
 [Back to the portfolio home](../README.md)
