@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038518 | [Git: Access Review — Recovery for Public Dataset](Project_038518/README.md) |
 | 038519 | [Git: Access Review — Reporting for Public Dataset](Project_038519/README.md) |
 | 038520 | [Git: Access Review — Usability Improvement for Public Dataset](Project_038520/README.md) |
+| 038521 | [Git: Access Review — Baseline Setup for Branch Office Simulator](Project_038521/README.md) |
+| 038522 | [Git: Access Review — Automation for Branch Office Simulator](Project_038522/README.md) |
+| 038523 | [Git: Access Review — Recovery for Branch Office Simulator](Project_038523/README.md) |
+| 038524 | [Git: Access Review — Reporting for Branch Office Simulator](Project_038524/README.md) |
+| 038525 | [Git: Access Review — Usability Improvement for Branch Office Simulator](Project_038525/README.md) |
+| 038526 | [Git: Access Review — Baseline Setup for Offline Classroom](Project_038526/README.md) |
+| 038527 | [Git: Access Review — Automation for Offline Classroom](Project_038527/README.md) |
+| 038528 | [Git: Access Review — Recovery for Offline Classroom](Project_038528/README.md) |
+| 038529 | [Git: Access Review — Reporting for Offline Classroom](Project_038529/README.md) |
+| 038530 | [Git: Access Review — Usability Improvement for Offline Classroom](Project_038530/README.md) |
+| 038531 | [Git: Access Review — Baseline Setup for Single-Host Lab](Project_038531/README.md) |
+| 038532 | [Git: Access Review — Automation for Single-Host Lab](Project_038532/README.md) |
+| 038533 | [Git: Access Review — Recovery for Single-Host Lab](Project_038533/README.md) |
+| 038534 | [Git: Access Review — Reporting for Single-Host Lab](Project_038534/README.md) |
+| 038535 | [Git: Access Review — Usability Improvement for Single-Host Lab](Project_038535/README.md) |
+| 038536 | [Git: Access Review — Baseline Setup for Two-Node Lab](Project_038536/README.md) |
+| 038537 | [Git: Access Review — Automation for Two-Node Lab](Project_038537/README.md) |
+| 038538 | [Git: Access Review — Recovery for Two-Node Lab](Project_038538/README.md) |
+| 038539 | [Git: Access Review — Reporting for Two-Node Lab](Project_038539/README.md) |
+| 038540 | [Git: Access Review — Usability Improvement for Two-Node Lab](Project_038540/README.md) |
 
 [Back to the portfolio home](../README.md)
