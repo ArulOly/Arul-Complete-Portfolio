@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038718 | [Git: Error Handling — Recovery for Public Dataset](Project_038718/README.md) |
 | 038719 | [Git: Error Handling — Reporting for Public Dataset](Project_038719/README.md) |
 | 038720 | [Git: Error Handling — Usability Improvement for Public Dataset](Project_038720/README.md) |
+| 038721 | [Git: Error Handling — Baseline Setup for Branch Office Simulator](Project_038721/README.md) |
+| 038722 | [Git: Error Handling — Automation for Branch Office Simulator](Project_038722/README.md) |
+| 038723 | [Git: Error Handling — Recovery for Branch Office Simulator](Project_038723/README.md) |
+| 038724 | [Git: Error Handling — Reporting for Branch Office Simulator](Project_038724/README.md) |
+| 038725 | [Git: Error Handling — Usability Improvement for Branch Office Simulator](Project_038725/README.md) |
+| 038726 | [Git: Error Handling — Baseline Setup for Offline Classroom](Project_038726/README.md) |
+| 038727 | [Git: Error Handling — Automation for Offline Classroom](Project_038727/README.md) |
+| 038728 | [Git: Error Handling — Recovery for Offline Classroom](Project_038728/README.md) |
+| 038729 | [Git: Error Handling — Reporting for Offline Classroom](Project_038729/README.md) |
+| 038730 | [Git: Error Handling — Usability Improvement for Offline Classroom](Project_038730/README.md) |
+| 038731 | [Git: Error Handling — Baseline Setup for Single-Host Lab](Project_038731/README.md) |
+| 038732 | [Git: Error Handling — Automation for Single-Host Lab](Project_038732/README.md) |
+| 038733 | [Git: Error Handling — Recovery for Single-Host Lab](Project_038733/README.md) |
+| 038734 | [Git: Error Handling — Reporting for Single-Host Lab](Project_038734/README.md) |
+| 038735 | [Git: Error Handling — Usability Improvement for Single-Host Lab](Project_038735/README.md) |
+| 038736 | [Git: Error Handling — Baseline Setup for Two-Node Lab](Project_038736/README.md) |
+| 038737 | [Git: Error Handling — Automation for Two-Node Lab](Project_038737/README.md) |
+| 038738 | [Git: Error Handling — Recovery for Two-Node Lab](Project_038738/README.md) |
+| 038739 | [Git: Error Handling — Reporting for Two-Node Lab](Project_038739/README.md) |
+| 038740 | [Git: Error Handling — Usability Improvement for Two-Node Lab](Project_038740/README.md) |
 
 [Back to the portfolio home](../README.md)
