@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014278 | [AWS: Data Import — Recovery for Offline Classroom](Project_014278/README.md) |
 | 014279 | [AWS: Data Import — Reporting for Offline Classroom](Project_014279/README.md) |
 | 014280 | [AWS: Data Import — Usability Improvement for Offline Classroom](Project_014280/README.md) |
+| 014281 | [AWS: Data Import — Baseline Setup for Single-Host Lab](Project_014281/README.md) |
+| 014282 | [AWS: Data Import — Automation for Single-Host Lab](Project_014282/README.md) |
+| 014283 | [AWS: Data Import — Recovery for Single-Host Lab](Project_014283/README.md) |
+| 014284 | [AWS: Data Import — Reporting for Single-Host Lab](Project_014284/README.md) |
+| 014285 | [AWS: Data Import — Usability Improvement for Single-Host Lab](Project_014285/README.md) |
+| 014286 | [AWS: Data Import — Baseline Setup for Two-Node Lab](Project_014286/README.md) |
+| 014287 | [AWS: Data Import — Automation for Two-Node Lab](Project_014287/README.md) |
+| 014288 | [AWS: Data Import — Recovery for Two-Node Lab](Project_014288/README.md) |
+| 014289 | [AWS: Data Import — Reporting for Two-Node Lab](Project_014289/README.md) |
+| 014290 | [AWS: Data Import — Usability Improvement for Two-Node Lab](Project_014290/README.md) |
+| 014291 | [AWS: Data Import — Baseline Setup for Help Desk](Project_014291/README.md) |
+| 014292 | [AWS: Data Import — Automation for Help Desk](Project_014292/README.md) |
+| 014293 | [AWS: Data Import — Recovery for Help Desk](Project_014293/README.md) |
+| 014294 | [AWS: Data Import — Reporting for Help Desk](Project_014294/README.md) |
+| 014295 | [AWS: Data Import — Usability Improvement for Help Desk](Project_014295/README.md) |
+| 014296 | [AWS: Data Import — Baseline Setup for Portfolio Demo](Project_014296/README.md) |
+| 014297 | [AWS: Data Import — Automation for Portfolio Demo](Project_014297/README.md) |
+| 014298 | [AWS: Data Import — Recovery for Portfolio Demo](Project_014298/README.md) |
+| 014299 | [AWS: Data Import — Reporting for Portfolio Demo](Project_014299/README.md) |
+| 014300 | [AWS: Data Import — Usability Improvement for Portfolio Demo](Project_014300/README.md) |
 
 [Back to the portfolio home](../README.md)
