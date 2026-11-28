@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030338 | [Wazuh: Data Export — Recovery for Two-Node Lab](Project_030338/README.md) |
 | 030339 | [Wazuh: Data Export — Reporting for Two-Node Lab](Project_030339/README.md) |
 | 030340 | [Wazuh: Data Export — Usability Improvement for Two-Node Lab](Project_030340/README.md) |
+| 030341 | [Wazuh: Data Export — Baseline Setup for Help Desk](Project_030341/README.md) |
+| 030342 | [Wazuh: Data Export — Automation for Help Desk](Project_030342/README.md) |
+| 030343 | [Wazuh: Data Export — Recovery for Help Desk](Project_030343/README.md) |
+| 030344 | [Wazuh: Data Export — Reporting for Help Desk](Project_030344/README.md) |
+| 030345 | [Wazuh: Data Export — Usability Improvement for Help Desk](Project_030345/README.md) |
+| 030346 | [Wazuh: Data Export — Baseline Setup for Portfolio Demo](Project_030346/README.md) |
+| 030347 | [Wazuh: Data Export — Automation for Portfolio Demo](Project_030347/README.md) |
+| 030348 | [Wazuh: Data Export — Recovery for Portfolio Demo](Project_030348/README.md) |
+| 030349 | [Wazuh: Data Export — Reporting for Portfolio Demo](Project_030349/README.md) |
+| 030350 | [Wazuh: Data Export — Usability Improvement for Portfolio Demo](Project_030350/README.md) |
+| 030351 | [Wazuh: Dashboard — Baseline Setup for School Lab](Project_030351/README.md) |
+| 030352 | [Wazuh: Dashboard — Automation for School Lab](Project_030352/README.md) |
+| 030353 | [Wazuh: Dashboard — Recovery for School Lab](Project_030353/README.md) |
+| 030354 | [Wazuh: Dashboard — Reporting for School Lab](Project_030354/README.md) |
+| 030355 | [Wazuh: Dashboard — Usability Improvement for School Lab](Project_030355/README.md) |
+| 030356 | [Wazuh: Dashboard — Baseline Setup for Small Business](Project_030356/README.md) |
+| 030357 | [Wazuh: Dashboard — Automation for Small Business](Project_030357/README.md) |
+| 030358 | [Wazuh: Dashboard — Recovery for Small Business](Project_030358/README.md) |
+| 030359 | [Wazuh: Dashboard — Reporting for Small Business](Project_030359/README.md) |
+| 030360 | [Wazuh: Dashboard — Usability Improvement for Small Business](Project_030360/README.md) |
 
 [Back to the portfolio home](../README.md)
