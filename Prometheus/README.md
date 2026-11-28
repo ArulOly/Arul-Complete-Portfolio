@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044478 | [Prometheus: Scheduled Reporting — Recovery for Offline Classroom](Project_044478/README.md) |
 | 044479 | [Prometheus: Scheduled Reporting — Reporting for Offline Classroom](Project_044479/README.md) |
 | 044480 | [Prometheus: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_044480/README.md) |
+| 044481 | [Prometheus: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_044481/README.md) |
+| 044482 | [Prometheus: Scheduled Reporting — Automation for Single-Host Lab](Project_044482/README.md) |
+| 044483 | [Prometheus: Scheduled Reporting — Recovery for Single-Host Lab](Project_044483/README.md) |
+| 044484 | [Prometheus: Scheduled Reporting — Reporting for Single-Host Lab](Project_044484/README.md) |
+| 044485 | [Prometheus: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_044485/README.md) |
+| 044486 | [Prometheus: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_044486/README.md) |
+| 044487 | [Prometheus: Scheduled Reporting — Automation for Two-Node Lab](Project_044487/README.md) |
+| 044488 | [Prometheus: Scheduled Reporting — Recovery for Two-Node Lab](Project_044488/README.md) |
+| 044489 | [Prometheus: Scheduled Reporting — Reporting for Two-Node Lab](Project_044489/README.md) |
+| 044490 | [Prometheus: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_044490/README.md) |
+| 044491 | [Prometheus: Scheduled Reporting — Baseline Setup for Help Desk](Project_044491/README.md) |
+| 044492 | [Prometheus: Scheduled Reporting — Automation for Help Desk](Project_044492/README.md) |
+| 044493 | [Prometheus: Scheduled Reporting — Recovery for Help Desk](Project_044493/README.md) |
+| 044494 | [Prometheus: Scheduled Reporting — Reporting for Help Desk](Project_044494/README.md) |
+| 044495 | [Prometheus: Scheduled Reporting — Usability Improvement for Help Desk](Project_044495/README.md) |
+| 044496 | [Prometheus: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_044496/README.md) |
+| 044497 | [Prometheus: Scheduled Reporting — Automation for Portfolio Demo](Project_044497/README.md) |
+| 044498 | [Prometheus: Scheduled Reporting — Recovery for Portfolio Demo](Project_044498/README.md) |
+| 044499 | [Prometheus: Scheduled Reporting — Reporting for Portfolio Demo](Project_044499/README.md) |
+| 044500 | [Prometheus: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_044500/README.md) |
 
 [Back to the portfolio home](../README.md)
