@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030818 | [Wazuh: Documentation Generation — Recovery for Public Dataset](Project_030818/README.md) |
 | 030819 | [Wazuh: Documentation Generation — Reporting for Public Dataset](Project_030819/README.md) |
 | 030820 | [Wazuh: Documentation Generation — Usability Improvement for Public Dataset](Project_030820/README.md) |
+| 030821 | [Wazuh: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_030821/README.md) |
+| 030822 | [Wazuh: Documentation Generation — Automation for Branch Office Simulator](Project_030822/README.md) |
+| 030823 | [Wazuh: Documentation Generation — Recovery for Branch Office Simulator](Project_030823/README.md) |
+| 030824 | [Wazuh: Documentation Generation — Reporting for Branch Office Simulator](Project_030824/README.md) |
+| 030825 | [Wazuh: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_030825/README.md) |
+| 030826 | [Wazuh: Documentation Generation — Baseline Setup for Offline Classroom](Project_030826/README.md) |
+| 030827 | [Wazuh: Documentation Generation — Automation for Offline Classroom](Project_030827/README.md) |
+| 030828 | [Wazuh: Documentation Generation — Recovery for Offline Classroom](Project_030828/README.md) |
+| 030829 | [Wazuh: Documentation Generation — Reporting for Offline Classroom](Project_030829/README.md) |
+| 030830 | [Wazuh: Documentation Generation — Usability Improvement for Offline Classroom](Project_030830/README.md) |
+| 030831 | [Wazuh: Documentation Generation — Baseline Setup for Single-Host Lab](Project_030831/README.md) |
+| 030832 | [Wazuh: Documentation Generation — Automation for Single-Host Lab](Project_030832/README.md) |
+| 030833 | [Wazuh: Documentation Generation — Recovery for Single-Host Lab](Project_030833/README.md) |
+| 030834 | [Wazuh: Documentation Generation — Reporting for Single-Host Lab](Project_030834/README.md) |
+| 030835 | [Wazuh: Documentation Generation — Usability Improvement for Single-Host Lab](Project_030835/README.md) |
+| 030836 | [Wazuh: Documentation Generation — Baseline Setup for Two-Node Lab](Project_030836/README.md) |
+| 030837 | [Wazuh: Documentation Generation — Automation for Two-Node Lab](Project_030837/README.md) |
+| 030838 | [Wazuh: Documentation Generation — Recovery for Two-Node Lab](Project_030838/README.md) |
+| 030839 | [Wazuh: Documentation Generation — Reporting for Two-Node Lab](Project_030839/README.md) |
+| 030840 | [Wazuh: Documentation Generation — Usability Improvement for Two-Node Lab](Project_030840/README.md) |
 
 [Back to the portfolio home](../README.md)
