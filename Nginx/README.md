@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041918 | [Nginx: Visual Reporting — Recovery for Public Dataset](Project_041918/README.md) |
 | 041919 | [Nginx: Visual Reporting — Reporting for Public Dataset](Project_041919/README.md) |
 | 041920 | [Nginx: Visual Reporting — Usability Improvement for Public Dataset](Project_041920/README.md) |
+| 041921 | [Nginx: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_041921/README.md) |
+| 041922 | [Nginx: Visual Reporting — Automation for Branch Office Simulator](Project_041922/README.md) |
+| 041923 | [Nginx: Visual Reporting — Recovery for Branch Office Simulator](Project_041923/README.md) |
+| 041924 | [Nginx: Visual Reporting — Reporting for Branch Office Simulator](Project_041924/README.md) |
+| 041925 | [Nginx: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_041925/README.md) |
+| 041926 | [Nginx: Visual Reporting — Baseline Setup for Offline Classroom](Project_041926/README.md) |
+| 041927 | [Nginx: Visual Reporting — Automation for Offline Classroom](Project_041927/README.md) |
+| 041928 | [Nginx: Visual Reporting — Recovery for Offline Classroom](Project_041928/README.md) |
+| 041929 | [Nginx: Visual Reporting — Reporting for Offline Classroom](Project_041929/README.md) |
+| 041930 | [Nginx: Visual Reporting — Usability Improvement for Offline Classroom](Project_041930/README.md) |
+| 041931 | [Nginx: Visual Reporting — Baseline Setup for Single-Host Lab](Project_041931/README.md) |
+| 041932 | [Nginx: Visual Reporting — Automation for Single-Host Lab](Project_041932/README.md) |
+| 041933 | [Nginx: Visual Reporting — Recovery for Single-Host Lab](Project_041933/README.md) |
+| 041934 | [Nginx: Visual Reporting — Reporting for Single-Host Lab](Project_041934/README.md) |
+| 041935 | [Nginx: Visual Reporting — Usability Improvement for Single-Host Lab](Project_041935/README.md) |
+| 041936 | [Nginx: Visual Reporting — Baseline Setup for Two-Node Lab](Project_041936/README.md) |
+| 041937 | [Nginx: Visual Reporting — Automation for Two-Node Lab](Project_041937/README.md) |
+| 041938 | [Nginx: Visual Reporting — Recovery for Two-Node Lab](Project_041938/README.md) |
+| 041939 | [Nginx: Visual Reporting — Reporting for Two-Node Lab](Project_041939/README.md) |
+| 041940 | [Nginx: Visual Reporting — Usability Improvement for Two-Node Lab](Project_041940/README.md) |
 
 [Back to the portfolio home](../README.md)
