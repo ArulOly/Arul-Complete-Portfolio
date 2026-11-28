@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044078 | [Prometheus: Monitoring — Recovery for Offline Classroom](Project_044078/README.md) |
 | 044079 | [Prometheus: Monitoring — Reporting for Offline Classroom](Project_044079/README.md) |
 | 044080 | [Prometheus: Monitoring — Usability Improvement for Offline Classroom](Project_044080/README.md) |
+| 044081 | [Prometheus: Monitoring — Baseline Setup for Single-Host Lab](Project_044081/README.md) |
+| 044082 | [Prometheus: Monitoring — Automation for Single-Host Lab](Project_044082/README.md) |
+| 044083 | [Prometheus: Monitoring — Recovery for Single-Host Lab](Project_044083/README.md) |
+| 044084 | [Prometheus: Monitoring — Reporting for Single-Host Lab](Project_044084/README.md) |
+| 044085 | [Prometheus: Monitoring — Usability Improvement for Single-Host Lab](Project_044085/README.md) |
+| 044086 | [Prometheus: Monitoring — Baseline Setup for Two-Node Lab](Project_044086/README.md) |
+| 044087 | [Prometheus: Monitoring — Automation for Two-Node Lab](Project_044087/README.md) |
+| 044088 | [Prometheus: Monitoring — Recovery for Two-Node Lab](Project_044088/README.md) |
+| 044089 | [Prometheus: Monitoring — Reporting for Two-Node Lab](Project_044089/README.md) |
+| 044090 | [Prometheus: Monitoring — Usability Improvement for Two-Node Lab](Project_044090/README.md) |
+| 044091 | [Prometheus: Monitoring — Baseline Setup for Help Desk](Project_044091/README.md) |
+| 044092 | [Prometheus: Monitoring — Automation for Help Desk](Project_044092/README.md) |
+| 044093 | [Prometheus: Monitoring — Recovery for Help Desk](Project_044093/README.md) |
+| 044094 | [Prometheus: Monitoring — Reporting for Help Desk](Project_044094/README.md) |
+| 044095 | [Prometheus: Monitoring — Usability Improvement for Help Desk](Project_044095/README.md) |
+| 044096 | [Prometheus: Monitoring — Baseline Setup for Portfolio Demo](Project_044096/README.md) |
+| 044097 | [Prometheus: Monitoring — Automation for Portfolio Demo](Project_044097/README.md) |
+| 044098 | [Prometheus: Monitoring — Recovery for Portfolio Demo](Project_044098/README.md) |
+| 044099 | [Prometheus: Monitoring — Reporting for Portfolio Demo](Project_044099/README.md) |
+| 044100 | [Prometheus: Monitoring — Usability Improvement for Portfolio Demo](Project_044100/README.md) |
 
 [Back to the portfolio home](../README.md)
