@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031578 | [Greenbone: Performance Baseline — Recovery for Offline Classroom](Project_031578/README.md) |
 | 031579 | [Greenbone: Performance Baseline — Reporting for Offline Classroom](Project_031579/README.md) |
 | 031580 | [Greenbone: Performance Baseline — Usability Improvement for Offline Classroom](Project_031580/README.md) |
+| 031581 | [Greenbone: Performance Baseline — Baseline Setup for Single-Host Lab](Project_031581/README.md) |
+| 031582 | [Greenbone: Performance Baseline — Automation for Single-Host Lab](Project_031582/README.md) |
+| 031583 | [Greenbone: Performance Baseline — Recovery for Single-Host Lab](Project_031583/README.md) |
+| 031584 | [Greenbone: Performance Baseline — Reporting for Single-Host Lab](Project_031584/README.md) |
+| 031585 | [Greenbone: Performance Baseline — Usability Improvement for Single-Host Lab](Project_031585/README.md) |
+| 031586 | [Greenbone: Performance Baseline — Baseline Setup for Two-Node Lab](Project_031586/README.md) |
+| 031587 | [Greenbone: Performance Baseline — Automation for Two-Node Lab](Project_031587/README.md) |
+| 031588 | [Greenbone: Performance Baseline — Recovery for Two-Node Lab](Project_031588/README.md) |
+| 031589 | [Greenbone: Performance Baseline — Reporting for Two-Node Lab](Project_031589/README.md) |
+| 031590 | [Greenbone: Performance Baseline — Usability Improvement for Two-Node Lab](Project_031590/README.md) |
+| 031591 | [Greenbone: Performance Baseline — Baseline Setup for Help Desk](Project_031591/README.md) |
+| 031592 | [Greenbone: Performance Baseline — Automation for Help Desk](Project_031592/README.md) |
+| 031593 | [Greenbone: Performance Baseline — Recovery for Help Desk](Project_031593/README.md) |
+| 031594 | [Greenbone: Performance Baseline — Reporting for Help Desk](Project_031594/README.md) |
+| 031595 | [Greenbone: Performance Baseline — Usability Improvement for Help Desk](Project_031595/README.md) |
+| 031596 | [Greenbone: Performance Baseline — Baseline Setup for Portfolio Demo](Project_031596/README.md) |
+| 031597 | [Greenbone: Performance Baseline — Automation for Portfolio Demo](Project_031597/README.md) |
+| 031598 | [Greenbone: Performance Baseline — Recovery for Portfolio Demo](Project_031598/README.md) |
+| 031599 | [Greenbone: Performance Baseline — Reporting for Portfolio Demo](Project_031599/README.md) |
+| 031600 | [Greenbone: Performance Baseline — Usability Improvement for Portfolio Demo](Project_031600/README.md) |
 
 [Back to the portfolio home](../README.md)
