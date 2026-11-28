@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014798 | [AWS: Data Validation — Recovery for Portfolio Demo](Project_014798/README.md) |
 | 014799 | [AWS: Data Validation — Reporting for Portfolio Demo](Project_014799/README.md) |
 | 014800 | [AWS: Data Validation — Usability Improvement for Portfolio Demo](Project_014800/README.md) |
+| 014801 | [AWS: Documentation Generation — Baseline Setup for School Lab](Project_014801/README.md) |
+| 014802 | [AWS: Documentation Generation — Automation for School Lab](Project_014802/README.md) |
+| 014803 | [AWS: Documentation Generation — Recovery for School Lab](Project_014803/README.md) |
+| 014804 | [AWS: Documentation Generation — Reporting for School Lab](Project_014804/README.md) |
+| 014805 | [AWS: Documentation Generation — Usability Improvement for School Lab](Project_014805/README.md) |
+| 014806 | [AWS: Documentation Generation — Baseline Setup for Small Business](Project_014806/README.md) |
+| 014807 | [AWS: Documentation Generation — Automation for Small Business](Project_014807/README.md) |
+| 014808 | [AWS: Documentation Generation — Recovery for Small Business](Project_014808/README.md) |
+| 014809 | [AWS: Documentation Generation — Reporting for Small Business](Project_014809/README.md) |
+| 014810 | [AWS: Documentation Generation — Usability Improvement for Small Business](Project_014810/README.md) |
+| 014811 | [AWS: Documentation Generation — Baseline Setup for Home Development](Project_014811/README.md) |
+| 014812 | [AWS: Documentation Generation — Automation for Home Development](Project_014812/README.md) |
+| 014813 | [AWS: Documentation Generation — Recovery for Home Development](Project_014813/README.md) |
+| 014814 | [AWS: Documentation Generation — Reporting for Home Development](Project_014814/README.md) |
+| 014815 | [AWS: Documentation Generation — Usability Improvement for Home Development](Project_014815/README.md) |
+| 014816 | [AWS: Documentation Generation — Baseline Setup for Public Dataset](Project_014816/README.md) |
+| 014817 | [AWS: Documentation Generation — Automation for Public Dataset](Project_014817/README.md) |
+| 014818 | [AWS: Documentation Generation — Recovery for Public Dataset](Project_014818/README.md) |
+| 014819 | [AWS: Documentation Generation — Reporting for Public Dataset](Project_014819/README.md) |
+| 014820 | [AWS: Documentation Generation — Usability Improvement for Public Dataset](Project_014820/README.md) |
 
 [Back to the portfolio home](../README.md)
