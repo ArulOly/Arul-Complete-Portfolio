@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037838 | [Arduino: Documentation Generation — Recovery for Two-Node Lab](Project_037838/README.md) |
 | 037839 | [Arduino: Documentation Generation — Reporting for Two-Node Lab](Project_037839/README.md) |
 | 037840 | [Arduino: Documentation Generation — Usability Improvement for Two-Node Lab](Project_037840/README.md) |
+| 037841 | [Arduino: Documentation Generation — Baseline Setup for Help Desk](Project_037841/README.md) |
+| 037842 | [Arduino: Documentation Generation — Automation for Help Desk](Project_037842/README.md) |
+| 037843 | [Arduino: Documentation Generation — Recovery for Help Desk](Project_037843/README.md) |
+| 037844 | [Arduino: Documentation Generation — Reporting for Help Desk](Project_037844/README.md) |
+| 037845 | [Arduino: Documentation Generation — Usability Improvement for Help Desk](Project_037845/README.md) |
+| 037846 | [Arduino: Documentation Generation — Baseline Setup for Portfolio Demo](Project_037846/README.md) |
+| 037847 | [Arduino: Documentation Generation — Automation for Portfolio Demo](Project_037847/README.md) |
+| 037848 | [Arduino: Documentation Generation — Recovery for Portfolio Demo](Project_037848/README.md) |
+| 037849 | [Arduino: Documentation Generation — Reporting for Portfolio Demo](Project_037849/README.md) |
+| 037850 | [Arduino: Documentation Generation — Usability Improvement for Portfolio Demo](Project_037850/README.md) |
+| 037851 | [Arduino: Automation — Baseline Setup for School Lab](Project_037851/README.md) |
+| 037852 | [Arduino: Automation — Automation for School Lab](Project_037852/README.md) |
+| 037853 | [Arduino: Automation — Recovery for School Lab](Project_037853/README.md) |
+| 037854 | [Arduino: Automation — Reporting for School Lab](Project_037854/README.md) |
+| 037855 | [Arduino: Automation — Usability Improvement for School Lab](Project_037855/README.md) |
+| 037856 | [Arduino: Automation — Baseline Setup for Small Business](Project_037856/README.md) |
+| 037857 | [Arduino: Automation — Automation for Small Business](Project_037857/README.md) |
+| 037858 | [Arduino: Automation — Recovery for Small Business](Project_037858/README.md) |
+| 037859 | [Arduino: Automation — Reporting for Small Business](Project_037859/README.md) |
+| 037860 | [Arduino: Automation — Usability Improvement for Small Business](Project_037860/README.md) |
 
 [Back to the portfolio home](../README.md)
