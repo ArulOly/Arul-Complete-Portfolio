@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016198 | [Google Cloud: Log Analysis — Recovery for Portfolio Demo](Project_016198/README.md) |
 | 016199 | [Google Cloud: Log Analysis — Reporting for Portfolio Demo](Project_016199/README.md) |
 | 016200 | [Google Cloud: Log Analysis — Usability Improvement for Portfolio Demo](Project_016200/README.md) |
+| 016201 | [Google Cloud: Backup Verification — Baseline Setup for School Lab](Project_016201/README.md) |
+| 016202 | [Google Cloud: Backup Verification — Automation for School Lab](Project_016202/README.md) |
+| 016203 | [Google Cloud: Backup Verification — Recovery for School Lab](Project_016203/README.md) |
+| 016204 | [Google Cloud: Backup Verification — Reporting for School Lab](Project_016204/README.md) |
+| 016205 | [Google Cloud: Backup Verification — Usability Improvement for School Lab](Project_016205/README.md) |
+| 016206 | [Google Cloud: Backup Verification — Baseline Setup for Small Business](Project_016206/README.md) |
+| 016207 | [Google Cloud: Backup Verification — Automation for Small Business](Project_016207/README.md) |
+| 016208 | [Google Cloud: Backup Verification — Recovery for Small Business](Project_016208/README.md) |
+| 016209 | [Google Cloud: Backup Verification — Reporting for Small Business](Project_016209/README.md) |
+| 016210 | [Google Cloud: Backup Verification — Usability Improvement for Small Business](Project_016210/README.md) |
+| 016211 | [Google Cloud: Backup Verification — Baseline Setup for Home Development](Project_016211/README.md) |
+| 016212 | [Google Cloud: Backup Verification — Automation for Home Development](Project_016212/README.md) |
+| 016213 | [Google Cloud: Backup Verification — Recovery for Home Development](Project_016213/README.md) |
+| 016214 | [Google Cloud: Backup Verification — Reporting for Home Development](Project_016214/README.md) |
+| 016215 | [Google Cloud: Backup Verification — Usability Improvement for Home Development](Project_016215/README.md) |
+| 016216 | [Google Cloud: Backup Verification — Baseline Setup for Public Dataset](Project_016216/README.md) |
+| 016217 | [Google Cloud: Backup Verification — Automation for Public Dataset](Project_016217/README.md) |
+| 016218 | [Google Cloud: Backup Verification — Recovery for Public Dataset](Project_016218/README.md) |
+| 016219 | [Google Cloud: Backup Verification — Reporting for Public Dataset](Project_016219/README.md) |
+| 016220 | [Google Cloud: Backup Verification — Usability Improvement for Public Dataset](Project_016220/README.md) |
 
 [Back to the portfolio home](../README.md)
