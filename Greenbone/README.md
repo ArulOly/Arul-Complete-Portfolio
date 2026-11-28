@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031818 | [Greenbone: Documentation Generation — Recovery for Public Dataset](Project_031818/README.md) |
 | 031819 | [Greenbone: Documentation Generation — Reporting for Public Dataset](Project_031819/README.md) |
 | 031820 | [Greenbone: Documentation Generation — Usability Improvement for Public Dataset](Project_031820/README.md) |
+| 031821 | [Greenbone: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_031821/README.md) |
+| 031822 | [Greenbone: Documentation Generation — Automation for Branch Office Simulator](Project_031822/README.md) |
+| 031823 | [Greenbone: Documentation Generation — Recovery for Branch Office Simulator](Project_031823/README.md) |
+| 031824 | [Greenbone: Documentation Generation — Reporting for Branch Office Simulator](Project_031824/README.md) |
+| 031825 | [Greenbone: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_031825/README.md) |
+| 031826 | [Greenbone: Documentation Generation — Baseline Setup for Offline Classroom](Project_031826/README.md) |
+| 031827 | [Greenbone: Documentation Generation — Automation for Offline Classroom](Project_031827/README.md) |
+| 031828 | [Greenbone: Documentation Generation — Recovery for Offline Classroom](Project_031828/README.md) |
+| 031829 | [Greenbone: Documentation Generation — Reporting for Offline Classroom](Project_031829/README.md) |
+| 031830 | [Greenbone: Documentation Generation — Usability Improvement for Offline Classroom](Project_031830/README.md) |
+| 031831 | [Greenbone: Documentation Generation — Baseline Setup for Single-Host Lab](Project_031831/README.md) |
+| 031832 | [Greenbone: Documentation Generation — Automation for Single-Host Lab](Project_031832/README.md) |
+| 031833 | [Greenbone: Documentation Generation — Recovery for Single-Host Lab](Project_031833/README.md) |
+| 031834 | [Greenbone: Documentation Generation — Reporting for Single-Host Lab](Project_031834/README.md) |
+| 031835 | [Greenbone: Documentation Generation — Usability Improvement for Single-Host Lab](Project_031835/README.md) |
+| 031836 | [Greenbone: Documentation Generation — Baseline Setup for Two-Node Lab](Project_031836/README.md) |
+| 031837 | [Greenbone: Documentation Generation — Automation for Two-Node Lab](Project_031837/README.md) |
+| 031838 | [Greenbone: Documentation Generation — Recovery for Two-Node Lab](Project_031838/README.md) |
+| 031839 | [Greenbone: Documentation Generation — Reporting for Two-Node Lab](Project_031839/README.md) |
+| 031840 | [Greenbone: Documentation Generation — Usability Improvement for Two-Node Lab](Project_031840/README.md) |
 
 [Back to the portfolio home](../README.md)
