@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036638 | [ESP32: Service Check — Recovery for Two-Node Lab](Project_036638/README.md) |
 | 036639 | [ESP32: Service Check — Reporting for Two-Node Lab](Project_036639/README.md) |
 | 036640 | [ESP32: Service Check — Usability Improvement for Two-Node Lab](Project_036640/README.md) |
+| 036641 | [ESP32: Service Check — Baseline Setup for Help Desk](Project_036641/README.md) |
+| 036642 | [ESP32: Service Check — Automation for Help Desk](Project_036642/README.md) |
+| 036643 | [ESP32: Service Check — Recovery for Help Desk](Project_036643/README.md) |
+| 036644 | [ESP32: Service Check — Reporting for Help Desk](Project_036644/README.md) |
+| 036645 | [ESP32: Service Check — Usability Improvement for Help Desk](Project_036645/README.md) |
+| 036646 | [ESP32: Service Check — Baseline Setup for Portfolio Demo](Project_036646/README.md) |
+| 036647 | [ESP32: Service Check — Automation for Portfolio Demo](Project_036647/README.md) |
+| 036648 | [ESP32: Service Check — Recovery for Portfolio Demo](Project_036648/README.md) |
+| 036649 | [ESP32: Service Check — Reporting for Portfolio Demo](Project_036649/README.md) |
+| 036650 | [ESP32: Service Check — Usability Improvement for Portfolio Demo](Project_036650/README.md) |
+| 036651 | [ESP32: Configuration Comparison — Baseline Setup for School Lab](Project_036651/README.md) |
+| 036652 | [ESP32: Configuration Comparison — Automation for School Lab](Project_036652/README.md) |
+| 036653 | [ESP32: Configuration Comparison — Recovery for School Lab](Project_036653/README.md) |
+| 036654 | [ESP32: Configuration Comparison — Reporting for School Lab](Project_036654/README.md) |
+| 036655 | [ESP32: Configuration Comparison — Usability Improvement for School Lab](Project_036655/README.md) |
+| 036656 | [ESP32: Configuration Comparison — Baseline Setup for Small Business](Project_036656/README.md) |
+| 036657 | [ESP32: Configuration Comparison — Automation for Small Business](Project_036657/README.md) |
+| 036658 | [ESP32: Configuration Comparison — Recovery for Small Business](Project_036658/README.md) |
+| 036659 | [ESP32: Configuration Comparison — Reporting for Small Business](Project_036659/README.md) |
+| 036660 | [ESP32: Configuration Comparison — Usability Improvement for Small Business](Project_036660/README.md) |
 
 [Back to the portfolio home](../README.md)
