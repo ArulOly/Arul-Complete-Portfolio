@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015198 | [Azure: Log Analysis — Recovery for Portfolio Demo](Project_015198/README.md) |
 | 015199 | [Azure: Log Analysis — Reporting for Portfolio Demo](Project_015199/README.md) |
 | 015200 | [Azure: Log Analysis — Usability Improvement for Portfolio Demo](Project_015200/README.md) |
+| 015201 | [Azure: Backup Verification — Baseline Setup for School Lab](Project_015201/README.md) |
+| 015202 | [Azure: Backup Verification — Automation for School Lab](Project_015202/README.md) |
+| 015203 | [Azure: Backup Verification — Recovery for School Lab](Project_015203/README.md) |
+| 015204 | [Azure: Backup Verification — Reporting for School Lab](Project_015204/README.md) |
+| 015205 | [Azure: Backup Verification — Usability Improvement for School Lab](Project_015205/README.md) |
+| 015206 | [Azure: Backup Verification — Baseline Setup for Small Business](Project_015206/README.md) |
+| 015207 | [Azure: Backup Verification — Automation for Small Business](Project_015207/README.md) |
+| 015208 | [Azure: Backup Verification — Recovery for Small Business](Project_015208/README.md) |
+| 015209 | [Azure: Backup Verification — Reporting for Small Business](Project_015209/README.md) |
+| 015210 | [Azure: Backup Verification — Usability Improvement for Small Business](Project_015210/README.md) |
+| 015211 | [Azure: Backup Verification — Baseline Setup for Home Development](Project_015211/README.md) |
+| 015212 | [Azure: Backup Verification — Automation for Home Development](Project_015212/README.md) |
+| 015213 | [Azure: Backup Verification — Recovery for Home Development](Project_015213/README.md) |
+| 015214 | [Azure: Backup Verification — Reporting for Home Development](Project_015214/README.md) |
+| 015215 | [Azure: Backup Verification — Usability Improvement for Home Development](Project_015215/README.md) |
+| 015216 | [Azure: Backup Verification — Baseline Setup for Public Dataset](Project_015216/README.md) |
+| 015217 | [Azure: Backup Verification — Automation for Public Dataset](Project_015217/README.md) |
+| 015218 | [Azure: Backup Verification — Recovery for Public Dataset](Project_015218/README.md) |
+| 015219 | [Azure: Backup Verification — Reporting for Public Dataset](Project_015219/README.md) |
+| 015220 | [Azure: Backup Verification — Usability Improvement for Public Dataset](Project_015220/README.md) |
 
 [Back to the portfolio home](../README.md)
