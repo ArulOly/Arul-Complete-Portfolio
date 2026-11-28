@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018158 | [Kubernetes: Log Analysis — Recovery for Small Business](Project_018158/README.md) |
 | 018159 | [Kubernetes: Log Analysis — Reporting for Small Business](Project_018159/README.md) |
 | 018160 | [Kubernetes: Log Analysis — Usability Improvement for Small Business](Project_018160/README.md) |
+| 018161 | [Kubernetes: Log Analysis — Baseline Setup for Home Development](Project_018161/README.md) |
+| 018162 | [Kubernetes: Log Analysis — Automation for Home Development](Project_018162/README.md) |
+| 018163 | [Kubernetes: Log Analysis — Recovery for Home Development](Project_018163/README.md) |
+| 018164 | [Kubernetes: Log Analysis — Reporting for Home Development](Project_018164/README.md) |
+| 018165 | [Kubernetes: Log Analysis — Usability Improvement for Home Development](Project_018165/README.md) |
+| 018166 | [Kubernetes: Log Analysis — Baseline Setup for Public Dataset](Project_018166/README.md) |
+| 018167 | [Kubernetes: Log Analysis — Automation for Public Dataset](Project_018167/README.md) |
+| 018168 | [Kubernetes: Log Analysis — Recovery for Public Dataset](Project_018168/README.md) |
+| 018169 | [Kubernetes: Log Analysis — Reporting for Public Dataset](Project_018169/README.md) |
+| 018170 | [Kubernetes: Log Analysis — Usability Improvement for Public Dataset](Project_018170/README.md) |
+| 018171 | [Kubernetes: Log Analysis — Baseline Setup for Branch Office Simulator](Project_018171/README.md) |
+| 018172 | [Kubernetes: Log Analysis — Automation for Branch Office Simulator](Project_018172/README.md) |
+| 018173 | [Kubernetes: Log Analysis — Recovery for Branch Office Simulator](Project_018173/README.md) |
+| 018174 | [Kubernetes: Log Analysis — Reporting for Branch Office Simulator](Project_018174/README.md) |
+| 018175 | [Kubernetes: Log Analysis — Usability Improvement for Branch Office Simulator](Project_018175/README.md) |
+| 018176 | [Kubernetes: Log Analysis — Baseline Setup for Offline Classroom](Project_018176/README.md) |
+| 018177 | [Kubernetes: Log Analysis — Automation for Offline Classroom](Project_018177/README.md) |
+| 018178 | [Kubernetes: Log Analysis — Recovery for Offline Classroom](Project_018178/README.md) |
+| 018179 | [Kubernetes: Log Analysis — Reporting for Offline Classroom](Project_018179/README.md) |
+| 018180 | [Kubernetes: Log Analysis — Usability Improvement for Offline Classroom](Project_018180/README.md) |
 
 [Back to the portfolio home](../README.md)
