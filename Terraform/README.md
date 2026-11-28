@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046758 | [Terraform: Data Validation — Recovery for Small Business](Project_046758/README.md) |
 | 046759 | [Terraform: Data Validation — Reporting for Small Business](Project_046759/README.md) |
 | 046760 | [Terraform: Data Validation — Usability Improvement for Small Business](Project_046760/README.md) |
+| 046761 | [Terraform: Data Validation — Baseline Setup for Home Development](Project_046761/README.md) |
+| 046762 | [Terraform: Data Validation — Automation for Home Development](Project_046762/README.md) |
+| 046763 | [Terraform: Data Validation — Recovery for Home Development](Project_046763/README.md) |
+| 046764 | [Terraform: Data Validation — Reporting for Home Development](Project_046764/README.md) |
+| 046765 | [Terraform: Data Validation — Usability Improvement for Home Development](Project_046765/README.md) |
+| 046766 | [Terraform: Data Validation — Baseline Setup for Public Dataset](Project_046766/README.md) |
+| 046767 | [Terraform: Data Validation — Automation for Public Dataset](Project_046767/README.md) |
+| 046768 | [Terraform: Data Validation — Recovery for Public Dataset](Project_046768/README.md) |
+| 046769 | [Terraform: Data Validation — Reporting for Public Dataset](Project_046769/README.md) |
+| 046770 | [Terraform: Data Validation — Usability Improvement for Public Dataset](Project_046770/README.md) |
+| 046771 | [Terraform: Data Validation — Baseline Setup for Branch Office Simulator](Project_046771/README.md) |
+| 046772 | [Terraform: Data Validation — Automation for Branch Office Simulator](Project_046772/README.md) |
+| 046773 | [Terraform: Data Validation — Recovery for Branch Office Simulator](Project_046773/README.md) |
+| 046774 | [Terraform: Data Validation — Reporting for Branch Office Simulator](Project_046774/README.md) |
+| 046775 | [Terraform: Data Validation — Usability Improvement for Branch Office Simulator](Project_046775/README.md) |
+| 046776 | [Terraform: Data Validation — Baseline Setup for Offline Classroom](Project_046776/README.md) |
+| 046777 | [Terraform: Data Validation — Automation for Offline Classroom](Project_046777/README.md) |
+| 046778 | [Terraform: Data Validation — Recovery for Offline Classroom](Project_046778/README.md) |
+| 046779 | [Terraform: Data Validation — Reporting for Offline Classroom](Project_046779/README.md) |
+| 046780 | [Terraform: Data Validation — Usability Improvement for Offline Classroom](Project_046780/README.md) |
 
 [Back to the portfolio home](../README.md)
