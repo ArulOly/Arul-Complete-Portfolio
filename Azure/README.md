@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015598 | [Azure: Performance Baseline — Recovery for Portfolio Demo](Project_015598/README.md) |
 | 015599 | [Azure: Performance Baseline — Reporting for Portfolio Demo](Project_015599/README.md) |
 | 015600 | [Azure: Performance Baseline — Usability Improvement for Portfolio Demo](Project_015600/README.md) |
+| 015601 | [Azure: Service Check — Baseline Setup for School Lab](Project_015601/README.md) |
+| 015602 | [Azure: Service Check — Automation for School Lab](Project_015602/README.md) |
+| 015603 | [Azure: Service Check — Recovery for School Lab](Project_015603/README.md) |
+| 015604 | [Azure: Service Check — Reporting for School Lab](Project_015604/README.md) |
+| 015605 | [Azure: Service Check — Usability Improvement for School Lab](Project_015605/README.md) |
+| 015606 | [Azure: Service Check — Baseline Setup for Small Business](Project_015606/README.md) |
+| 015607 | [Azure: Service Check — Automation for Small Business](Project_015607/README.md) |
+| 015608 | [Azure: Service Check — Recovery for Small Business](Project_015608/README.md) |
+| 015609 | [Azure: Service Check — Reporting for Small Business](Project_015609/README.md) |
+| 015610 | [Azure: Service Check — Usability Improvement for Small Business](Project_015610/README.md) |
+| 015611 | [Azure: Service Check — Baseline Setup for Home Development](Project_015611/README.md) |
+| 015612 | [Azure: Service Check — Automation for Home Development](Project_015612/README.md) |
+| 015613 | [Azure: Service Check — Recovery for Home Development](Project_015613/README.md) |
+| 015614 | [Azure: Service Check — Reporting for Home Development](Project_015614/README.md) |
+| 015615 | [Azure: Service Check — Usability Improvement for Home Development](Project_015615/README.md) |
+| 015616 | [Azure: Service Check — Baseline Setup for Public Dataset](Project_015616/README.md) |
+| 015617 | [Azure: Service Check — Automation for Public Dataset](Project_015617/README.md) |
+| 015618 | [Azure: Service Check — Recovery for Public Dataset](Project_015618/README.md) |
+| 015619 | [Azure: Service Check — Reporting for Public Dataset](Project_015619/README.md) |
+| 015620 | [Azure: Service Check — Usability Improvement for Public Dataset](Project_015620/README.md) |
 
 [Back to the portfolio home](../README.md)
