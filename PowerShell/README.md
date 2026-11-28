@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040258 | [PowerShell: Data Import — Recovery for Small Business](Project_040258/README.md) |
 | 040259 | [PowerShell: Data Import — Reporting for Small Business](Project_040259/README.md) |
 | 040260 | [PowerShell: Data Import — Usability Improvement for Small Business](Project_040260/README.md) |
+| 040261 | [PowerShell: Data Import — Baseline Setup for Home Development](Project_040261/README.md) |
+| 040262 | [PowerShell: Data Import — Automation for Home Development](Project_040262/README.md) |
+| 040263 | [PowerShell: Data Import — Recovery for Home Development](Project_040263/README.md) |
+| 040264 | [PowerShell: Data Import — Reporting for Home Development](Project_040264/README.md) |
+| 040265 | [PowerShell: Data Import — Usability Improvement for Home Development](Project_040265/README.md) |
+| 040266 | [PowerShell: Data Import — Baseline Setup for Public Dataset](Project_040266/README.md) |
+| 040267 | [PowerShell: Data Import — Automation for Public Dataset](Project_040267/README.md) |
+| 040268 | [PowerShell: Data Import — Recovery for Public Dataset](Project_040268/README.md) |
+| 040269 | [PowerShell: Data Import — Reporting for Public Dataset](Project_040269/README.md) |
+| 040270 | [PowerShell: Data Import — Usability Improvement for Public Dataset](Project_040270/README.md) |
+| 040271 | [PowerShell: Data Import — Baseline Setup for Branch Office Simulator](Project_040271/README.md) |
+| 040272 | [PowerShell: Data Import — Automation for Branch Office Simulator](Project_040272/README.md) |
+| 040273 | [PowerShell: Data Import — Recovery for Branch Office Simulator](Project_040273/README.md) |
+| 040274 | [PowerShell: Data Import — Reporting for Branch Office Simulator](Project_040274/README.md) |
+| 040275 | [PowerShell: Data Import — Usability Improvement for Branch Office Simulator](Project_040275/README.md) |
+| 040276 | [PowerShell: Data Import — Baseline Setup for Offline Classroom](Project_040276/README.md) |
+| 040277 | [PowerShell: Data Import — Automation for Offline Classroom](Project_040277/README.md) |
+| 040278 | [PowerShell: Data Import — Recovery for Offline Classroom](Project_040278/README.md) |
+| 040279 | [PowerShell: Data Import — Reporting for Offline Classroom](Project_040279/README.md) |
+| 040280 | [PowerShell: Data Import — Usability Improvement for Offline Classroom](Project_040280/README.md) |
 
 [Back to the portfolio home](../README.md)
