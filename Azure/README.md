@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015838 | [Azure: Documentation Generation — Recovery for Two-Node Lab](Project_015838/README.md) |
 | 015839 | [Azure: Documentation Generation — Reporting for Two-Node Lab](Project_015839/README.md) |
 | 015840 | [Azure: Documentation Generation — Usability Improvement for Two-Node Lab](Project_015840/README.md) |
+| 015841 | [Azure: Documentation Generation — Baseline Setup for Help Desk](Project_015841/README.md) |
+| 015842 | [Azure: Documentation Generation — Automation for Help Desk](Project_015842/README.md) |
+| 015843 | [Azure: Documentation Generation — Recovery for Help Desk](Project_015843/README.md) |
+| 015844 | [Azure: Documentation Generation — Reporting for Help Desk](Project_015844/README.md) |
+| 015845 | [Azure: Documentation Generation — Usability Improvement for Help Desk](Project_015845/README.md) |
+| 015846 | [Azure: Documentation Generation — Baseline Setup for Portfolio Demo](Project_015846/README.md) |
+| 015847 | [Azure: Documentation Generation — Automation for Portfolio Demo](Project_015847/README.md) |
+| 015848 | [Azure: Documentation Generation — Recovery for Portfolio Demo](Project_015848/README.md) |
+| 015849 | [Azure: Documentation Generation — Reporting for Portfolio Demo](Project_015849/README.md) |
+| 015850 | [Azure: Documentation Generation — Usability Improvement for Portfolio Demo](Project_015850/README.md) |
+| 015851 | [Azure: Automation — Baseline Setup for School Lab](Project_015851/README.md) |
+| 015852 | [Azure: Automation — Automation for School Lab](Project_015852/README.md) |
+| 015853 | [Azure: Automation — Recovery for School Lab](Project_015853/README.md) |
+| 015854 | [Azure: Automation — Reporting for School Lab](Project_015854/README.md) |
+| 015855 | [Azure: Automation — Usability Improvement for School Lab](Project_015855/README.md) |
+| 015856 | [Azure: Automation — Baseline Setup for Small Business](Project_015856/README.md) |
+| 015857 | [Azure: Automation — Automation for Small Business](Project_015857/README.md) |
+| 015858 | [Azure: Automation — Recovery for Small Business](Project_015858/README.md) |
+| 015859 | [Azure: Automation — Reporting for Small Business](Project_015859/README.md) |
+| 015860 | [Azure: Automation — Usability Improvement for Small Business](Project_015860/README.md) |
 
 [Back to the portfolio home](../README.md)
