@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035318 | [Raspberry Pi: Data Export — Recovery for Public Dataset](Project_035318/README.md) |
 | 035319 | [Raspberry Pi: Data Export — Reporting for Public Dataset](Project_035319/README.md) |
 | 035320 | [Raspberry Pi: Data Export — Usability Improvement for Public Dataset](Project_035320/README.md) |
+| 035321 | [Raspberry Pi: Data Export — Baseline Setup for Branch Office Simulator](Project_035321/README.md) |
+| 035322 | [Raspberry Pi: Data Export — Automation for Branch Office Simulator](Project_035322/README.md) |
+| 035323 | [Raspberry Pi: Data Export — Recovery for Branch Office Simulator](Project_035323/README.md) |
+| 035324 | [Raspberry Pi: Data Export — Reporting for Branch Office Simulator](Project_035324/README.md) |
+| 035325 | [Raspberry Pi: Data Export — Usability Improvement for Branch Office Simulator](Project_035325/README.md) |
+| 035326 | [Raspberry Pi: Data Export — Baseline Setup for Offline Classroom](Project_035326/README.md) |
+| 035327 | [Raspberry Pi: Data Export — Automation for Offline Classroom](Project_035327/README.md) |
+| 035328 | [Raspberry Pi: Data Export — Recovery for Offline Classroom](Project_035328/README.md) |
+| 035329 | [Raspberry Pi: Data Export — Reporting for Offline Classroom](Project_035329/README.md) |
+| 035330 | [Raspberry Pi: Data Export — Usability Improvement for Offline Classroom](Project_035330/README.md) |
+| 035331 | [Raspberry Pi: Data Export — Baseline Setup for Single-Host Lab](Project_035331/README.md) |
+| 035332 | [Raspberry Pi: Data Export — Automation for Single-Host Lab](Project_035332/README.md) |
+| 035333 | [Raspberry Pi: Data Export — Recovery for Single-Host Lab](Project_035333/README.md) |
+| 035334 | [Raspberry Pi: Data Export — Reporting for Single-Host Lab](Project_035334/README.md) |
+| 035335 | [Raspberry Pi: Data Export — Usability Improvement for Single-Host Lab](Project_035335/README.md) |
+| 035336 | [Raspberry Pi: Data Export — Baseline Setup for Two-Node Lab](Project_035336/README.md) |
+| 035337 | [Raspberry Pi: Data Export — Automation for Two-Node Lab](Project_035337/README.md) |
+| 035338 | [Raspberry Pi: Data Export — Recovery for Two-Node Lab](Project_035338/README.md) |
+| 035339 | [Raspberry Pi: Data Export — Reporting for Two-Node Lab](Project_035339/README.md) |
+| 035340 | [Raspberry Pi: Data Export — Usability Improvement for Two-Node Lab](Project_035340/README.md) |
 
 [Back to the portfolio home](../README.md)
