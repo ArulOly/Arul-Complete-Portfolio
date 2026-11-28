@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017658 | [Docker: Configuration Comparison — Recovery for Small Business](Project_017658/README.md) |
 | 017659 | [Docker: Configuration Comparison — Reporting for Small Business](Project_017659/README.md) |
 | 017660 | [Docker: Configuration Comparison — Usability Improvement for Small Business](Project_017660/README.md) |
+| 017661 | [Docker: Configuration Comparison — Baseline Setup for Home Development](Project_017661/README.md) |
+| 017662 | [Docker: Configuration Comparison — Automation for Home Development](Project_017662/README.md) |
+| 017663 | [Docker: Configuration Comparison — Recovery for Home Development](Project_017663/README.md) |
+| 017664 | [Docker: Configuration Comparison — Reporting for Home Development](Project_017664/README.md) |
+| 017665 | [Docker: Configuration Comparison — Usability Improvement for Home Development](Project_017665/README.md) |
+| 017666 | [Docker: Configuration Comparison — Baseline Setup for Public Dataset](Project_017666/README.md) |
+| 017667 | [Docker: Configuration Comparison — Automation for Public Dataset](Project_017667/README.md) |
+| 017668 | [Docker: Configuration Comparison — Recovery for Public Dataset](Project_017668/README.md) |
+| 017669 | [Docker: Configuration Comparison — Reporting for Public Dataset](Project_017669/README.md) |
+| 017670 | [Docker: Configuration Comparison — Usability Improvement for Public Dataset](Project_017670/README.md) |
+| 017671 | [Docker: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_017671/README.md) |
+| 017672 | [Docker: Configuration Comparison — Automation for Branch Office Simulator](Project_017672/README.md) |
+| 017673 | [Docker: Configuration Comparison — Recovery for Branch Office Simulator](Project_017673/README.md) |
+| 017674 | [Docker: Configuration Comparison — Reporting for Branch Office Simulator](Project_017674/README.md) |
+| 017675 | [Docker: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_017675/README.md) |
+| 017676 | [Docker: Configuration Comparison — Baseline Setup for Offline Classroom](Project_017676/README.md) |
+| 017677 | [Docker: Configuration Comparison — Automation for Offline Classroom](Project_017677/README.md) |
+| 017678 | [Docker: Configuration Comparison — Recovery for Offline Classroom](Project_017678/README.md) |
+| 017679 | [Docker: Configuration Comparison — Reporting for Offline Classroom](Project_017679/README.md) |
+| 017680 | [Docker: Configuration Comparison — Usability Improvement for Offline Classroom](Project_017680/README.md) |
 
 [Back to the portfolio home](../README.md)
