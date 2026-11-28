@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031278 | [Greenbone: Data Import — Recovery for Offline Classroom](Project_031278/README.md) |
 | 031279 | [Greenbone: Data Import — Reporting for Offline Classroom](Project_031279/README.md) |
 | 031280 | [Greenbone: Data Import — Usability Improvement for Offline Classroom](Project_031280/README.md) |
+| 031281 | [Greenbone: Data Import — Baseline Setup for Single-Host Lab](Project_031281/README.md) |
+| 031282 | [Greenbone: Data Import — Automation for Single-Host Lab](Project_031282/README.md) |
+| 031283 | [Greenbone: Data Import — Recovery for Single-Host Lab](Project_031283/README.md) |
+| 031284 | [Greenbone: Data Import — Reporting for Single-Host Lab](Project_031284/README.md) |
+| 031285 | [Greenbone: Data Import — Usability Improvement for Single-Host Lab](Project_031285/README.md) |
+| 031286 | [Greenbone: Data Import — Baseline Setup for Two-Node Lab](Project_031286/README.md) |
+| 031287 | [Greenbone: Data Import — Automation for Two-Node Lab](Project_031287/README.md) |
+| 031288 | [Greenbone: Data Import — Recovery for Two-Node Lab](Project_031288/README.md) |
+| 031289 | [Greenbone: Data Import — Reporting for Two-Node Lab](Project_031289/README.md) |
+| 031290 | [Greenbone: Data Import — Usability Improvement for Two-Node Lab](Project_031290/README.md) |
+| 031291 | [Greenbone: Data Import — Baseline Setup for Help Desk](Project_031291/README.md) |
+| 031292 | [Greenbone: Data Import — Automation for Help Desk](Project_031292/README.md) |
+| 031293 | [Greenbone: Data Import — Recovery for Help Desk](Project_031293/README.md) |
+| 031294 | [Greenbone: Data Import — Reporting for Help Desk](Project_031294/README.md) |
+| 031295 | [Greenbone: Data Import — Usability Improvement for Help Desk](Project_031295/README.md) |
+| 031296 | [Greenbone: Data Import — Baseline Setup for Portfolio Demo](Project_031296/README.md) |
+| 031297 | [Greenbone: Data Import — Automation for Portfolio Demo](Project_031297/README.md) |
+| 031298 | [Greenbone: Data Import — Recovery for Portfolio Demo](Project_031298/README.md) |
+| 031299 | [Greenbone: Data Import — Reporting for Portfolio Demo](Project_031299/README.md) |
+| 031300 | [Greenbone: Data Import — Usability Improvement for Portfolio Demo](Project_031300/README.md) |
 
 [Back to the portfolio home](../README.md)
