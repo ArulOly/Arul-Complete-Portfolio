@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044718 | [Prometheus: Error Handling — Recovery for Public Dataset](Project_044718/README.md) |
 | 044719 | [Prometheus: Error Handling — Reporting for Public Dataset](Project_044719/README.md) |
 | 044720 | [Prometheus: Error Handling — Usability Improvement for Public Dataset](Project_044720/README.md) |
+| 044721 | [Prometheus: Error Handling — Baseline Setup for Branch Office Simulator](Project_044721/README.md) |
+| 044722 | [Prometheus: Error Handling — Automation for Branch Office Simulator](Project_044722/README.md) |
+| 044723 | [Prometheus: Error Handling — Recovery for Branch Office Simulator](Project_044723/README.md) |
+| 044724 | [Prometheus: Error Handling — Reporting for Branch Office Simulator](Project_044724/README.md) |
+| 044725 | [Prometheus: Error Handling — Usability Improvement for Branch Office Simulator](Project_044725/README.md) |
+| 044726 | [Prometheus: Error Handling — Baseline Setup for Offline Classroom](Project_044726/README.md) |
+| 044727 | [Prometheus: Error Handling — Automation for Offline Classroom](Project_044727/README.md) |
+| 044728 | [Prometheus: Error Handling — Recovery for Offline Classroom](Project_044728/README.md) |
+| 044729 | [Prometheus: Error Handling — Reporting for Offline Classroom](Project_044729/README.md) |
+| 044730 | [Prometheus: Error Handling — Usability Improvement for Offline Classroom](Project_044730/README.md) |
+| 044731 | [Prometheus: Error Handling — Baseline Setup for Single-Host Lab](Project_044731/README.md) |
+| 044732 | [Prometheus: Error Handling — Automation for Single-Host Lab](Project_044732/README.md) |
+| 044733 | [Prometheus: Error Handling — Recovery for Single-Host Lab](Project_044733/README.md) |
+| 044734 | [Prometheus: Error Handling — Reporting for Single-Host Lab](Project_044734/README.md) |
+| 044735 | [Prometheus: Error Handling — Usability Improvement for Single-Host Lab](Project_044735/README.md) |
+| 044736 | [Prometheus: Error Handling — Baseline Setup for Two-Node Lab](Project_044736/README.md) |
+| 044737 | [Prometheus: Error Handling — Automation for Two-Node Lab](Project_044737/README.md) |
+| 044738 | [Prometheus: Error Handling — Recovery for Two-Node Lab](Project_044738/README.md) |
+| 044739 | [Prometheus: Error Handling — Reporting for Two-Node Lab](Project_044739/README.md) |
+| 044740 | [Prometheus: Error Handling — Usability Improvement for Two-Node Lab](Project_044740/README.md) |
 
 [Back to the portfolio home](../README.md)
