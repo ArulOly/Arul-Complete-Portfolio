@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041518 | [Nginx: Access Review — Recovery for Public Dataset](Project_041518/README.md) |
 | 041519 | [Nginx: Access Review — Reporting for Public Dataset](Project_041519/README.md) |
 | 041520 | [Nginx: Access Review — Usability Improvement for Public Dataset](Project_041520/README.md) |
+| 041521 | [Nginx: Access Review — Baseline Setup for Branch Office Simulator](Project_041521/README.md) |
+| 041522 | [Nginx: Access Review — Automation for Branch Office Simulator](Project_041522/README.md) |
+| 041523 | [Nginx: Access Review — Recovery for Branch Office Simulator](Project_041523/README.md) |
+| 041524 | [Nginx: Access Review — Reporting for Branch Office Simulator](Project_041524/README.md) |
+| 041525 | [Nginx: Access Review — Usability Improvement for Branch Office Simulator](Project_041525/README.md) |
+| 041526 | [Nginx: Access Review — Baseline Setup for Offline Classroom](Project_041526/README.md) |
+| 041527 | [Nginx: Access Review — Automation for Offline Classroom](Project_041527/README.md) |
+| 041528 | [Nginx: Access Review — Recovery for Offline Classroom](Project_041528/README.md) |
+| 041529 | [Nginx: Access Review — Reporting for Offline Classroom](Project_041529/README.md) |
+| 041530 | [Nginx: Access Review — Usability Improvement for Offline Classroom](Project_041530/README.md) |
+| 041531 | [Nginx: Access Review — Baseline Setup for Single-Host Lab](Project_041531/README.md) |
+| 041532 | [Nginx: Access Review — Automation for Single-Host Lab](Project_041532/README.md) |
+| 041533 | [Nginx: Access Review — Recovery for Single-Host Lab](Project_041533/README.md) |
+| 041534 | [Nginx: Access Review — Reporting for Single-Host Lab](Project_041534/README.md) |
+| 041535 | [Nginx: Access Review — Usability Improvement for Single-Host Lab](Project_041535/README.md) |
+| 041536 | [Nginx: Access Review — Baseline Setup for Two-Node Lab](Project_041536/README.md) |
+| 041537 | [Nginx: Access Review — Automation for Two-Node Lab](Project_041537/README.md) |
+| 041538 | [Nginx: Access Review — Recovery for Two-Node Lab](Project_041538/README.md) |
+| 041539 | [Nginx: Access Review — Reporting for Two-Node Lab](Project_041539/README.md) |
+| 041540 | [Nginx: Access Review — Usability Improvement for Two-Node Lab](Project_041540/README.md) |
 
 [Back to the portfolio home](../README.md)
