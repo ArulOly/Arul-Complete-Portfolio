@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038578 | [Git: Performance Baseline — Recovery for Offline Classroom](Project_038578/README.md) |
 | 038579 | [Git: Performance Baseline — Reporting for Offline Classroom](Project_038579/README.md) |
 | 038580 | [Git: Performance Baseline — Usability Improvement for Offline Classroom](Project_038580/README.md) |
+| 038581 | [Git: Performance Baseline — Baseline Setup for Single-Host Lab](Project_038581/README.md) |
+| 038582 | [Git: Performance Baseline — Automation for Single-Host Lab](Project_038582/README.md) |
+| 038583 | [Git: Performance Baseline — Recovery for Single-Host Lab](Project_038583/README.md) |
+| 038584 | [Git: Performance Baseline — Reporting for Single-Host Lab](Project_038584/README.md) |
+| 038585 | [Git: Performance Baseline — Usability Improvement for Single-Host Lab](Project_038585/README.md) |
+| 038586 | [Git: Performance Baseline — Baseline Setup for Two-Node Lab](Project_038586/README.md) |
+| 038587 | [Git: Performance Baseline — Automation for Two-Node Lab](Project_038587/README.md) |
+| 038588 | [Git: Performance Baseline — Recovery for Two-Node Lab](Project_038588/README.md) |
+| 038589 | [Git: Performance Baseline — Reporting for Two-Node Lab](Project_038589/README.md) |
+| 038590 | [Git: Performance Baseline — Usability Improvement for Two-Node Lab](Project_038590/README.md) |
+| 038591 | [Git: Performance Baseline — Baseline Setup for Help Desk](Project_038591/README.md) |
+| 038592 | [Git: Performance Baseline — Automation for Help Desk](Project_038592/README.md) |
+| 038593 | [Git: Performance Baseline — Recovery for Help Desk](Project_038593/README.md) |
+| 038594 | [Git: Performance Baseline — Reporting for Help Desk](Project_038594/README.md) |
+| 038595 | [Git: Performance Baseline — Usability Improvement for Help Desk](Project_038595/README.md) |
+| 038596 | [Git: Performance Baseline — Baseline Setup for Portfolio Demo](Project_038596/README.md) |
+| 038597 | [Git: Performance Baseline — Automation for Portfolio Demo](Project_038597/README.md) |
+| 038598 | [Git: Performance Baseline — Recovery for Portfolio Demo](Project_038598/README.md) |
+| 038599 | [Git: Performance Baseline — Reporting for Portfolio Demo](Project_038599/README.md) |
+| 038600 | [Git: Performance Baseline — Usability Improvement for Portfolio Demo](Project_038600/README.md) |
 
 [Back to the portfolio home](../README.md)
