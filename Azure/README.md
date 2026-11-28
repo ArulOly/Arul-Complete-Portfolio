@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015738 | [Azure: Error Handling — Recovery for Two-Node Lab](Project_015738/README.md) |
 | 015739 | [Azure: Error Handling — Reporting for Two-Node Lab](Project_015739/README.md) |
 | 015740 | [Azure: Error Handling — Usability Improvement for Two-Node Lab](Project_015740/README.md) |
+| 015741 | [Azure: Error Handling — Baseline Setup for Help Desk](Project_015741/README.md) |
+| 015742 | [Azure: Error Handling — Automation for Help Desk](Project_015742/README.md) |
+| 015743 | [Azure: Error Handling — Recovery for Help Desk](Project_015743/README.md) |
+| 015744 | [Azure: Error Handling — Reporting for Help Desk](Project_015744/README.md) |
+| 015745 | [Azure: Error Handling — Usability Improvement for Help Desk](Project_015745/README.md) |
+| 015746 | [Azure: Error Handling — Baseline Setup for Portfolio Demo](Project_015746/README.md) |
+| 015747 | [Azure: Error Handling — Automation for Portfolio Demo](Project_015747/README.md) |
+| 015748 | [Azure: Error Handling — Recovery for Portfolio Demo](Project_015748/README.md) |
+| 015749 | [Azure: Error Handling — Reporting for Portfolio Demo](Project_015749/README.md) |
+| 015750 | [Azure: Error Handling — Usability Improvement for Portfolio Demo](Project_015750/README.md) |
+| 015751 | [Azure: Data Validation — Baseline Setup for School Lab](Project_015751/README.md) |
+| 015752 | [Azure: Data Validation — Automation for School Lab](Project_015752/README.md) |
+| 015753 | [Azure: Data Validation — Recovery for School Lab](Project_015753/README.md) |
+| 015754 | [Azure: Data Validation — Reporting for School Lab](Project_015754/README.md) |
+| 015755 | [Azure: Data Validation — Usability Improvement for School Lab](Project_015755/README.md) |
+| 015756 | [Azure: Data Validation — Baseline Setup for Small Business](Project_015756/README.md) |
+| 015757 | [Azure: Data Validation — Automation for Small Business](Project_015757/README.md) |
+| 015758 | [Azure: Data Validation — Recovery for Small Business](Project_015758/README.md) |
+| 015759 | [Azure: Data Validation — Reporting for Small Business](Project_015759/README.md) |
+| 015760 | [Azure: Data Validation — Usability Improvement for Small Business](Project_015760/README.md) |
 
 [Back to the portfolio home](../README.md)
