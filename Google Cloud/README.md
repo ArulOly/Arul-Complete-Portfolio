@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016278 | [Google Cloud: Data Import — Recovery for Offline Classroom](Project_016278/README.md) |
 | 016279 | [Google Cloud: Data Import — Reporting for Offline Classroom](Project_016279/README.md) |
 | 016280 | [Google Cloud: Data Import — Usability Improvement for Offline Classroom](Project_016280/README.md) |
+| 016281 | [Google Cloud: Data Import — Baseline Setup for Single-Host Lab](Project_016281/README.md) |
+| 016282 | [Google Cloud: Data Import — Automation for Single-Host Lab](Project_016282/README.md) |
+| 016283 | [Google Cloud: Data Import — Recovery for Single-Host Lab](Project_016283/README.md) |
+| 016284 | [Google Cloud: Data Import — Reporting for Single-Host Lab](Project_016284/README.md) |
+| 016285 | [Google Cloud: Data Import — Usability Improvement for Single-Host Lab](Project_016285/README.md) |
+| 016286 | [Google Cloud: Data Import — Baseline Setup for Two-Node Lab](Project_016286/README.md) |
+| 016287 | [Google Cloud: Data Import — Automation for Two-Node Lab](Project_016287/README.md) |
+| 016288 | [Google Cloud: Data Import — Recovery for Two-Node Lab](Project_016288/README.md) |
+| 016289 | [Google Cloud: Data Import — Reporting for Two-Node Lab](Project_016289/README.md) |
+| 016290 | [Google Cloud: Data Import — Usability Improvement for Two-Node Lab](Project_016290/README.md) |
+| 016291 | [Google Cloud: Data Import — Baseline Setup for Help Desk](Project_016291/README.md) |
+| 016292 | [Google Cloud: Data Import — Automation for Help Desk](Project_016292/README.md) |
+| 016293 | [Google Cloud: Data Import — Recovery for Help Desk](Project_016293/README.md) |
+| 016294 | [Google Cloud: Data Import — Reporting for Help Desk](Project_016294/README.md) |
+| 016295 | [Google Cloud: Data Import — Usability Improvement for Help Desk](Project_016295/README.md) |
+| 016296 | [Google Cloud: Data Import — Baseline Setup for Portfolio Demo](Project_016296/README.md) |
+| 016297 | [Google Cloud: Data Import — Automation for Portfolio Demo](Project_016297/README.md) |
+| 016298 | [Google Cloud: Data Import — Recovery for Portfolio Demo](Project_016298/README.md) |
+| 016299 | [Google Cloud: Data Import — Reporting for Portfolio Demo](Project_016299/README.md) |
+| 016300 | [Google Cloud: Data Import — Usability Improvement for Portfolio Demo](Project_016300/README.md) |
 
 [Back to the portfolio home](../README.md)
