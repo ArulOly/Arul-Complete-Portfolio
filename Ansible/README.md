@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047338 | [Ansible: Data Export — Recovery for Two-Node Lab](Project_047338/README.md) |
 | 047339 | [Ansible: Data Export — Reporting for Two-Node Lab](Project_047339/README.md) |
 | 047340 | [Ansible: Data Export — Usability Improvement for Two-Node Lab](Project_047340/README.md) |
+| 047341 | [Ansible: Data Export — Baseline Setup for Help Desk](Project_047341/README.md) |
+| 047342 | [Ansible: Data Export — Automation for Help Desk](Project_047342/README.md) |
+| 047343 | [Ansible: Data Export — Recovery for Help Desk](Project_047343/README.md) |
+| 047344 | [Ansible: Data Export — Reporting for Help Desk](Project_047344/README.md) |
+| 047345 | [Ansible: Data Export — Usability Improvement for Help Desk](Project_047345/README.md) |
+| 047346 | [Ansible: Data Export — Baseline Setup for Portfolio Demo](Project_047346/README.md) |
+| 047347 | [Ansible: Data Export — Automation for Portfolio Demo](Project_047347/README.md) |
+| 047348 | [Ansible: Data Export — Recovery for Portfolio Demo](Project_047348/README.md) |
+| 047349 | [Ansible: Data Export — Reporting for Portfolio Demo](Project_047349/README.md) |
+| 047350 | [Ansible: Data Export — Usability Improvement for Portfolio Demo](Project_047350/README.md) |
+| 047351 | [Ansible: Dashboard — Baseline Setup for School Lab](Project_047351/README.md) |
+| 047352 | [Ansible: Dashboard — Automation for School Lab](Project_047352/README.md) |
+| 047353 | [Ansible: Dashboard — Recovery for School Lab](Project_047353/README.md) |
+| 047354 | [Ansible: Dashboard — Reporting for School Lab](Project_047354/README.md) |
+| 047355 | [Ansible: Dashboard — Usability Improvement for School Lab](Project_047355/README.md) |
+| 047356 | [Ansible: Dashboard — Baseline Setup for Small Business](Project_047356/README.md) |
+| 047357 | [Ansible: Dashboard — Automation for Small Business](Project_047357/README.md) |
+| 047358 | [Ansible: Dashboard — Recovery for Small Business](Project_047358/README.md) |
+| 047359 | [Ansible: Dashboard — Reporting for Small Business](Project_047359/README.md) |
+| 047360 | [Ansible: Dashboard — Usability Improvement for Small Business](Project_047360/README.md) |
 
 [Back to the portfolio home](../README.md)
