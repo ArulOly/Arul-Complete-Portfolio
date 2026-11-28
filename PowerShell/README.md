@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040358 | [PowerShell: Dashboard — Recovery for Small Business](Project_040358/README.md) |
 | 040359 | [PowerShell: Dashboard — Reporting for Small Business](Project_040359/README.md) |
 | 040360 | [PowerShell: Dashboard — Usability Improvement for Small Business](Project_040360/README.md) |
+| 040361 | [PowerShell: Dashboard — Baseline Setup for Home Development](Project_040361/README.md) |
+| 040362 | [PowerShell: Dashboard — Automation for Home Development](Project_040362/README.md) |
+| 040363 | [PowerShell: Dashboard — Recovery for Home Development](Project_040363/README.md) |
+| 040364 | [PowerShell: Dashboard — Reporting for Home Development](Project_040364/README.md) |
+| 040365 | [PowerShell: Dashboard — Usability Improvement for Home Development](Project_040365/README.md) |
+| 040366 | [PowerShell: Dashboard — Baseline Setup for Public Dataset](Project_040366/README.md) |
+| 040367 | [PowerShell: Dashboard — Automation for Public Dataset](Project_040367/README.md) |
+| 040368 | [PowerShell: Dashboard — Recovery for Public Dataset](Project_040368/README.md) |
+| 040369 | [PowerShell: Dashboard — Reporting for Public Dataset](Project_040369/README.md) |
+| 040370 | [PowerShell: Dashboard — Usability Improvement for Public Dataset](Project_040370/README.md) |
+| 040371 | [PowerShell: Dashboard — Baseline Setup for Branch Office Simulator](Project_040371/README.md) |
+| 040372 | [PowerShell: Dashboard — Automation for Branch Office Simulator](Project_040372/README.md) |
+| 040373 | [PowerShell: Dashboard — Recovery for Branch Office Simulator](Project_040373/README.md) |
+| 040374 | [PowerShell: Dashboard — Reporting for Branch Office Simulator](Project_040374/README.md) |
+| 040375 | [PowerShell: Dashboard — Usability Improvement for Branch Office Simulator](Project_040375/README.md) |
+| 040376 | [PowerShell: Dashboard — Baseline Setup for Offline Classroom](Project_040376/README.md) |
+| 040377 | [PowerShell: Dashboard — Automation for Offline Classroom](Project_040377/README.md) |
+| 040378 | [PowerShell: Dashboard — Recovery for Offline Classroom](Project_040378/README.md) |
+| 040379 | [PowerShell: Dashboard — Reporting for Offline Classroom](Project_040379/README.md) |
+| 040380 | [PowerShell: Dashboard — Usability Improvement for Offline Classroom](Project_040380/README.md) |
 
 [Back to the portfolio home](../README.md)
