@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029958 | [Wireshark: Recovery Test — Recovery for Small Business](Project_029958/README.md) |
 | 029959 | [Wireshark: Recovery Test — Reporting for Small Business](Project_029959/README.md) |
 | 029960 | [Wireshark: Recovery Test — Usability Improvement for Small Business](Project_029960/README.md) |
+| 029961 | [Wireshark: Recovery Test — Baseline Setup for Home Development](Project_029961/README.md) |
+| 029962 | [Wireshark: Recovery Test — Automation for Home Development](Project_029962/README.md) |
+| 029963 | [Wireshark: Recovery Test — Recovery for Home Development](Project_029963/README.md) |
+| 029964 | [Wireshark: Recovery Test — Reporting for Home Development](Project_029964/README.md) |
+| 029965 | [Wireshark: Recovery Test — Usability Improvement for Home Development](Project_029965/README.md) |
+| 029966 | [Wireshark: Recovery Test — Baseline Setup for Public Dataset](Project_029966/README.md) |
+| 029967 | [Wireshark: Recovery Test — Automation for Public Dataset](Project_029967/README.md) |
+| 029968 | [Wireshark: Recovery Test — Recovery for Public Dataset](Project_029968/README.md) |
+| 029969 | [Wireshark: Recovery Test — Reporting for Public Dataset](Project_029969/README.md) |
+| 029970 | [Wireshark: Recovery Test — Usability Improvement for Public Dataset](Project_029970/README.md) |
+| 029971 | [Wireshark: Recovery Test — Baseline Setup for Branch Office Simulator](Project_029971/README.md) |
+| 029972 | [Wireshark: Recovery Test — Automation for Branch Office Simulator](Project_029972/README.md) |
+| 029973 | [Wireshark: Recovery Test — Recovery for Branch Office Simulator](Project_029973/README.md) |
+| 029974 | [Wireshark: Recovery Test — Reporting for Branch Office Simulator](Project_029974/README.md) |
+| 029975 | [Wireshark: Recovery Test — Usability Improvement for Branch Office Simulator](Project_029975/README.md) |
+| 029976 | [Wireshark: Recovery Test — Baseline Setup for Offline Classroom](Project_029976/README.md) |
+| 029977 | [Wireshark: Recovery Test — Automation for Offline Classroom](Project_029977/README.md) |
+| 029978 | [Wireshark: Recovery Test — Recovery for Offline Classroom](Project_029978/README.md) |
+| 029979 | [Wireshark: Recovery Test — Reporting for Offline Classroom](Project_029979/README.md) |
+| 029980 | [Wireshark: Recovery Test — Usability Improvement for Offline Classroom](Project_029980/README.md) |
 
 [Back to the portfolio home](../README.md)
