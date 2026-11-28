@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016498 | [Google Cloud: Scheduled Reporting — Recovery for Portfolio Demo](Project_016498/README.md) |
 | 016499 | [Google Cloud: Scheduled Reporting — Reporting for Portfolio Demo](Project_016499/README.md) |
 | 016500 | [Google Cloud: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_016500/README.md) |
+| 016501 | [Google Cloud: Access Review — Baseline Setup for School Lab](Project_016501/README.md) |
+| 016502 | [Google Cloud: Access Review — Automation for School Lab](Project_016502/README.md) |
+| 016503 | [Google Cloud: Access Review — Recovery for School Lab](Project_016503/README.md) |
+| 016504 | [Google Cloud: Access Review — Reporting for School Lab](Project_016504/README.md) |
+| 016505 | [Google Cloud: Access Review — Usability Improvement for School Lab](Project_016505/README.md) |
+| 016506 | [Google Cloud: Access Review — Baseline Setup for Small Business](Project_016506/README.md) |
+| 016507 | [Google Cloud: Access Review — Automation for Small Business](Project_016507/README.md) |
+| 016508 | [Google Cloud: Access Review — Recovery for Small Business](Project_016508/README.md) |
+| 016509 | [Google Cloud: Access Review — Reporting for Small Business](Project_016509/README.md) |
+| 016510 | [Google Cloud: Access Review — Usability Improvement for Small Business](Project_016510/README.md) |
+| 016511 | [Google Cloud: Access Review — Baseline Setup for Home Development](Project_016511/README.md) |
+| 016512 | [Google Cloud: Access Review — Automation for Home Development](Project_016512/README.md) |
+| 016513 | [Google Cloud: Access Review — Recovery for Home Development](Project_016513/README.md) |
+| 016514 | [Google Cloud: Access Review — Reporting for Home Development](Project_016514/README.md) |
+| 016515 | [Google Cloud: Access Review — Usability Improvement for Home Development](Project_016515/README.md) |
+| 016516 | [Google Cloud: Access Review — Baseline Setup for Public Dataset](Project_016516/README.md) |
+| 016517 | [Google Cloud: Access Review — Automation for Public Dataset](Project_016517/README.md) |
+| 016518 | [Google Cloud: Access Review — Recovery for Public Dataset](Project_016518/README.md) |
+| 016519 | [Google Cloud: Access Review — Reporting for Public Dataset](Project_016519/README.md) |
+| 016520 | [Google Cloud: Access Review — Usability Improvement for Public Dataset](Project_016520/README.md) |
 
 [Back to the portfolio home](../README.md)
