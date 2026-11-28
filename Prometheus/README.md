@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044278 | [Prometheus: Data Import — Recovery for Offline Classroom](Project_044278/README.md) |
 | 044279 | [Prometheus: Data Import — Reporting for Offline Classroom](Project_044279/README.md) |
 | 044280 | [Prometheus: Data Import — Usability Improvement for Offline Classroom](Project_044280/README.md) |
+| 044281 | [Prometheus: Data Import — Baseline Setup for Single-Host Lab](Project_044281/README.md) |
+| 044282 | [Prometheus: Data Import — Automation for Single-Host Lab](Project_044282/README.md) |
+| 044283 | [Prometheus: Data Import — Recovery for Single-Host Lab](Project_044283/README.md) |
+| 044284 | [Prometheus: Data Import — Reporting for Single-Host Lab](Project_044284/README.md) |
+| 044285 | [Prometheus: Data Import — Usability Improvement for Single-Host Lab](Project_044285/README.md) |
+| 044286 | [Prometheus: Data Import — Baseline Setup for Two-Node Lab](Project_044286/README.md) |
+| 044287 | [Prometheus: Data Import — Automation for Two-Node Lab](Project_044287/README.md) |
+| 044288 | [Prometheus: Data Import — Recovery for Two-Node Lab](Project_044288/README.md) |
+| 044289 | [Prometheus: Data Import — Reporting for Two-Node Lab](Project_044289/README.md) |
+| 044290 | [Prometheus: Data Import — Usability Improvement for Two-Node Lab](Project_044290/README.md) |
+| 044291 | [Prometheus: Data Import — Baseline Setup for Help Desk](Project_044291/README.md) |
+| 044292 | [Prometheus: Data Import — Automation for Help Desk](Project_044292/README.md) |
+| 044293 | [Prometheus: Data Import — Recovery for Help Desk](Project_044293/README.md) |
+| 044294 | [Prometheus: Data Import — Reporting for Help Desk](Project_044294/README.md) |
+| 044295 | [Prometheus: Data Import — Usability Improvement for Help Desk](Project_044295/README.md) |
+| 044296 | [Prometheus: Data Import — Baseline Setup for Portfolio Demo](Project_044296/README.md) |
+| 044297 | [Prometheus: Data Import — Automation for Portfolio Demo](Project_044297/README.md) |
+| 044298 | [Prometheus: Data Import — Recovery for Portfolio Demo](Project_044298/README.md) |
+| 044299 | [Prometheus: Data Import — Reporting for Portfolio Demo](Project_044299/README.md) |
+| 044300 | [Prometheus: Data Import — Usability Improvement for Portfolio Demo](Project_044300/README.md) |
 
 [Back to the portfolio home](../README.md)
