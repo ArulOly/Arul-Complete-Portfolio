@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047138 | [Ansible: Audit — Recovery for Two-Node Lab](Project_047138/README.md) |
 | 047139 | [Ansible: Audit — Reporting for Two-Node Lab](Project_047139/README.md) |
 | 047140 | [Ansible: Audit — Usability Improvement for Two-Node Lab](Project_047140/README.md) |
+| 047141 | [Ansible: Audit — Baseline Setup for Help Desk](Project_047141/README.md) |
+| 047142 | [Ansible: Audit — Automation for Help Desk](Project_047142/README.md) |
+| 047143 | [Ansible: Audit — Recovery for Help Desk](Project_047143/README.md) |
+| 047144 | [Ansible: Audit — Reporting for Help Desk](Project_047144/README.md) |
+| 047145 | [Ansible: Audit — Usability Improvement for Help Desk](Project_047145/README.md) |
+| 047146 | [Ansible: Audit — Baseline Setup for Portfolio Demo](Project_047146/README.md) |
+| 047147 | [Ansible: Audit — Automation for Portfolio Demo](Project_047147/README.md) |
+| 047148 | [Ansible: Audit — Recovery for Portfolio Demo](Project_047148/README.md) |
+| 047149 | [Ansible: Audit — Reporting for Portfolio Demo](Project_047149/README.md) |
+| 047150 | [Ansible: Audit — Usability Improvement for Portfolio Demo](Project_047150/README.md) |
+| 047151 | [Ansible: Log Analysis — Baseline Setup for School Lab](Project_047151/README.md) |
+| 047152 | [Ansible: Log Analysis — Automation for School Lab](Project_047152/README.md) |
+| 047153 | [Ansible: Log Analysis — Recovery for School Lab](Project_047153/README.md) |
+| 047154 | [Ansible: Log Analysis — Reporting for School Lab](Project_047154/README.md) |
+| 047155 | [Ansible: Log Analysis — Usability Improvement for School Lab](Project_047155/README.md) |
+| 047156 | [Ansible: Log Analysis — Baseline Setup for Small Business](Project_047156/README.md) |
+| 047157 | [Ansible: Log Analysis — Automation for Small Business](Project_047157/README.md) |
+| 047158 | [Ansible: Log Analysis — Recovery for Small Business](Project_047158/README.md) |
+| 047159 | [Ansible: Log Analysis — Reporting for Small Business](Project_047159/README.md) |
+| 047160 | [Ansible: Log Analysis — Usability Improvement for Small Business](Project_047160/README.md) |
 
 [Back to the portfolio home](../README.md)
