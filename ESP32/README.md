@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036178 | [ESP32: Log Analysis — Recovery for Offline Classroom](Project_036178/README.md) |
 | 036179 | [ESP32: Log Analysis — Reporting for Offline Classroom](Project_036179/README.md) |
 | 036180 | [ESP32: Log Analysis — Usability Improvement for Offline Classroom](Project_036180/README.md) |
+| 036181 | [ESP32: Log Analysis — Baseline Setup for Single-Host Lab](Project_036181/README.md) |
+| 036182 | [ESP32: Log Analysis — Automation for Single-Host Lab](Project_036182/README.md) |
+| 036183 | [ESP32: Log Analysis — Recovery for Single-Host Lab](Project_036183/README.md) |
+| 036184 | [ESP32: Log Analysis — Reporting for Single-Host Lab](Project_036184/README.md) |
+| 036185 | [ESP32: Log Analysis — Usability Improvement for Single-Host Lab](Project_036185/README.md) |
+| 036186 | [ESP32: Log Analysis — Baseline Setup for Two-Node Lab](Project_036186/README.md) |
+| 036187 | [ESP32: Log Analysis — Automation for Two-Node Lab](Project_036187/README.md) |
+| 036188 | [ESP32: Log Analysis — Recovery for Two-Node Lab](Project_036188/README.md) |
+| 036189 | [ESP32: Log Analysis — Reporting for Two-Node Lab](Project_036189/README.md) |
+| 036190 | [ESP32: Log Analysis — Usability Improvement for Two-Node Lab](Project_036190/README.md) |
+| 036191 | [ESP32: Log Analysis — Baseline Setup for Help Desk](Project_036191/README.md) |
+| 036192 | [ESP32: Log Analysis — Automation for Help Desk](Project_036192/README.md) |
+| 036193 | [ESP32: Log Analysis — Recovery for Help Desk](Project_036193/README.md) |
+| 036194 | [ESP32: Log Analysis — Reporting for Help Desk](Project_036194/README.md) |
+| 036195 | [ESP32: Log Analysis — Usability Improvement for Help Desk](Project_036195/README.md) |
+| 036196 | [ESP32: Log Analysis — Baseline Setup for Portfolio Demo](Project_036196/README.md) |
+| 036197 | [ESP32: Log Analysis — Automation for Portfolio Demo](Project_036197/README.md) |
+| 036198 | [ESP32: Log Analysis — Recovery for Portfolio Demo](Project_036198/README.md) |
+| 036199 | [ESP32: Log Analysis — Reporting for Portfolio Demo](Project_036199/README.md) |
+| 036200 | [ESP32: Log Analysis — Usability Improvement for Portfolio Demo](Project_036200/README.md) |
 
 [Back to the portfolio home](../README.md)
