@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036478 | [ESP32: Scheduled Reporting — Recovery for Offline Classroom](Project_036478/README.md) |
 | 036479 | [ESP32: Scheduled Reporting — Reporting for Offline Classroom](Project_036479/README.md) |
 | 036480 | [ESP32: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_036480/README.md) |
+| 036481 | [ESP32: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_036481/README.md) |
+| 036482 | [ESP32: Scheduled Reporting — Automation for Single-Host Lab](Project_036482/README.md) |
+| 036483 | [ESP32: Scheduled Reporting — Recovery for Single-Host Lab](Project_036483/README.md) |
+| 036484 | [ESP32: Scheduled Reporting — Reporting for Single-Host Lab](Project_036484/README.md) |
+| 036485 | [ESP32: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_036485/README.md) |
+| 036486 | [ESP32: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_036486/README.md) |
+| 036487 | [ESP32: Scheduled Reporting — Automation for Two-Node Lab](Project_036487/README.md) |
+| 036488 | [ESP32: Scheduled Reporting — Recovery for Two-Node Lab](Project_036488/README.md) |
+| 036489 | [ESP32: Scheduled Reporting — Reporting for Two-Node Lab](Project_036489/README.md) |
+| 036490 | [ESP32: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_036490/README.md) |
+| 036491 | [ESP32: Scheduled Reporting — Baseline Setup for Help Desk](Project_036491/README.md) |
+| 036492 | [ESP32: Scheduled Reporting — Automation for Help Desk](Project_036492/README.md) |
+| 036493 | [ESP32: Scheduled Reporting — Recovery for Help Desk](Project_036493/README.md) |
+| 036494 | [ESP32: Scheduled Reporting — Reporting for Help Desk](Project_036494/README.md) |
+| 036495 | [ESP32: Scheduled Reporting — Usability Improvement for Help Desk](Project_036495/README.md) |
+| 036496 | [ESP32: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_036496/README.md) |
+| 036497 | [ESP32: Scheduled Reporting — Automation for Portfolio Demo](Project_036497/README.md) |
+| 036498 | [ESP32: Scheduled Reporting — Recovery for Portfolio Demo](Project_036498/README.md) |
+| 036499 | [ESP32: Scheduled Reporting — Reporting for Portfolio Demo](Project_036499/README.md) |
+| 036500 | [ESP32: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_036500/README.md) |
 
 [Back to the portfolio home](../README.md)
