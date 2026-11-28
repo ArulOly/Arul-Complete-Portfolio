@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046718 | [Terraform: Error Handling — Recovery for Public Dataset](Project_046718/README.md) |
 | 046719 | [Terraform: Error Handling — Reporting for Public Dataset](Project_046719/README.md) |
 | 046720 | [Terraform: Error Handling — Usability Improvement for Public Dataset](Project_046720/README.md) |
+| 046721 | [Terraform: Error Handling — Baseline Setup for Branch Office Simulator](Project_046721/README.md) |
+| 046722 | [Terraform: Error Handling — Automation for Branch Office Simulator](Project_046722/README.md) |
+| 046723 | [Terraform: Error Handling — Recovery for Branch Office Simulator](Project_046723/README.md) |
+| 046724 | [Terraform: Error Handling — Reporting for Branch Office Simulator](Project_046724/README.md) |
+| 046725 | [Terraform: Error Handling — Usability Improvement for Branch Office Simulator](Project_046725/README.md) |
+| 046726 | [Terraform: Error Handling — Baseline Setup for Offline Classroom](Project_046726/README.md) |
+| 046727 | [Terraform: Error Handling — Automation for Offline Classroom](Project_046727/README.md) |
+| 046728 | [Terraform: Error Handling — Recovery for Offline Classroom](Project_046728/README.md) |
+| 046729 | [Terraform: Error Handling — Reporting for Offline Classroom](Project_046729/README.md) |
+| 046730 | [Terraform: Error Handling — Usability Improvement for Offline Classroom](Project_046730/README.md) |
+| 046731 | [Terraform: Error Handling — Baseline Setup for Single-Host Lab](Project_046731/README.md) |
+| 046732 | [Terraform: Error Handling — Automation for Single-Host Lab](Project_046732/README.md) |
+| 046733 | [Terraform: Error Handling — Recovery for Single-Host Lab](Project_046733/README.md) |
+| 046734 | [Terraform: Error Handling — Reporting for Single-Host Lab](Project_046734/README.md) |
+| 046735 | [Terraform: Error Handling — Usability Improvement for Single-Host Lab](Project_046735/README.md) |
+| 046736 | [Terraform: Error Handling — Baseline Setup for Two-Node Lab](Project_046736/README.md) |
+| 046737 | [Terraform: Error Handling — Automation for Two-Node Lab](Project_046737/README.md) |
+| 046738 | [Terraform: Error Handling — Recovery for Two-Node Lab](Project_046738/README.md) |
+| 046739 | [Terraform: Error Handling — Reporting for Two-Node Lab](Project_046739/README.md) |
+| 046740 | [Terraform: Error Handling — Usability Improvement for Two-Node Lab](Project_046740/README.md) |
 
 [Back to the portfolio home](../README.md)
