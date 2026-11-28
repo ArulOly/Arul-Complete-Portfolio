@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017798 | [Docker: Data Validation — Recovery for Portfolio Demo](Project_017798/README.md) |
 | 017799 | [Docker: Data Validation — Reporting for Portfolio Demo](Project_017799/README.md) |
 | 017800 | [Docker: Data Validation — Usability Improvement for Portfolio Demo](Project_017800/README.md) |
+| 017801 | [Docker: Documentation Generation — Baseline Setup for School Lab](Project_017801/README.md) |
+| 017802 | [Docker: Documentation Generation — Automation for School Lab](Project_017802/README.md) |
+| 017803 | [Docker: Documentation Generation — Recovery for School Lab](Project_017803/README.md) |
+| 017804 | [Docker: Documentation Generation — Reporting for School Lab](Project_017804/README.md) |
+| 017805 | [Docker: Documentation Generation — Usability Improvement for School Lab](Project_017805/README.md) |
+| 017806 | [Docker: Documentation Generation — Baseline Setup for Small Business](Project_017806/README.md) |
+| 017807 | [Docker: Documentation Generation — Automation for Small Business](Project_017807/README.md) |
+| 017808 | [Docker: Documentation Generation — Recovery for Small Business](Project_017808/README.md) |
+| 017809 | [Docker: Documentation Generation — Reporting for Small Business](Project_017809/README.md) |
+| 017810 | [Docker: Documentation Generation — Usability Improvement for Small Business](Project_017810/README.md) |
+| 017811 | [Docker: Documentation Generation — Baseline Setup for Home Development](Project_017811/README.md) |
+| 017812 | [Docker: Documentation Generation — Automation for Home Development](Project_017812/README.md) |
+| 017813 | [Docker: Documentation Generation — Recovery for Home Development](Project_017813/README.md) |
+| 017814 | [Docker: Documentation Generation — Reporting for Home Development](Project_017814/README.md) |
+| 017815 | [Docker: Documentation Generation — Usability Improvement for Home Development](Project_017815/README.md) |
+| 017816 | [Docker: Documentation Generation — Baseline Setup for Public Dataset](Project_017816/README.md) |
+| 017817 | [Docker: Documentation Generation — Automation for Public Dataset](Project_017817/README.md) |
+| 017818 | [Docker: Documentation Generation — Recovery for Public Dataset](Project_017818/README.md) |
+| 017819 | [Docker: Documentation Generation — Reporting for Public Dataset](Project_017819/README.md) |
+| 017820 | [Docker: Documentation Generation — Usability Improvement for Public Dataset](Project_017820/README.md) |
 
 [Back to the portfolio home](../README.md)
