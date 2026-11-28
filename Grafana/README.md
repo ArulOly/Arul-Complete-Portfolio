@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043138 | [Grafana: Audit — Recovery for Two-Node Lab](Project_043138/README.md) |
 | 043139 | [Grafana: Audit — Reporting for Two-Node Lab](Project_043139/README.md) |
 | 043140 | [Grafana: Audit — Usability Improvement for Two-Node Lab](Project_043140/README.md) |
+| 043141 | [Grafana: Audit — Baseline Setup for Help Desk](Project_043141/README.md) |
+| 043142 | [Grafana: Audit — Automation for Help Desk](Project_043142/README.md) |
+| 043143 | [Grafana: Audit — Recovery for Help Desk](Project_043143/README.md) |
+| 043144 | [Grafana: Audit — Reporting for Help Desk](Project_043144/README.md) |
+| 043145 | [Grafana: Audit — Usability Improvement for Help Desk](Project_043145/README.md) |
+| 043146 | [Grafana: Audit — Baseline Setup for Portfolio Demo](Project_043146/README.md) |
+| 043147 | [Grafana: Audit — Automation for Portfolio Demo](Project_043147/README.md) |
+| 043148 | [Grafana: Audit — Recovery for Portfolio Demo](Project_043148/README.md) |
+| 043149 | [Grafana: Audit — Reporting for Portfolio Demo](Project_043149/README.md) |
+| 043150 | [Grafana: Audit — Usability Improvement for Portfolio Demo](Project_043150/README.md) |
+| 043151 | [Grafana: Log Analysis — Baseline Setup for School Lab](Project_043151/README.md) |
+| 043152 | [Grafana: Log Analysis — Automation for School Lab](Project_043152/README.md) |
+| 043153 | [Grafana: Log Analysis — Recovery for School Lab](Project_043153/README.md) |
+| 043154 | [Grafana: Log Analysis — Reporting for School Lab](Project_043154/README.md) |
+| 043155 | [Grafana: Log Analysis — Usability Improvement for School Lab](Project_043155/README.md) |
+| 043156 | [Grafana: Log Analysis — Baseline Setup for Small Business](Project_043156/README.md) |
+| 043157 | [Grafana: Log Analysis — Automation for Small Business](Project_043157/README.md) |
+| 043158 | [Grafana: Log Analysis — Recovery for Small Business](Project_043158/README.md) |
+| 043159 | [Grafana: Log Analysis — Reporting for Small Business](Project_043159/README.md) |
+| 043160 | [Grafana: Log Analysis — Usability Improvement for Small Business](Project_043160/README.md) |
 
 [Back to the portfolio home](../README.md)
