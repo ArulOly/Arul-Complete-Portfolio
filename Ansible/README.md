@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047578 | [Ansible: Performance Baseline — Recovery for Offline Classroom](Project_047578/README.md) |
 | 047579 | [Ansible: Performance Baseline — Reporting for Offline Classroom](Project_047579/README.md) |
 | 047580 | [Ansible: Performance Baseline — Usability Improvement for Offline Classroom](Project_047580/README.md) |
+| 047581 | [Ansible: Performance Baseline — Baseline Setup for Single-Host Lab](Project_047581/README.md) |
+| 047582 | [Ansible: Performance Baseline — Automation for Single-Host Lab](Project_047582/README.md) |
+| 047583 | [Ansible: Performance Baseline — Recovery for Single-Host Lab](Project_047583/README.md) |
+| 047584 | [Ansible: Performance Baseline — Reporting for Single-Host Lab](Project_047584/README.md) |
+| 047585 | [Ansible: Performance Baseline — Usability Improvement for Single-Host Lab](Project_047585/README.md) |
+| 047586 | [Ansible: Performance Baseline — Baseline Setup for Two-Node Lab](Project_047586/README.md) |
+| 047587 | [Ansible: Performance Baseline — Automation for Two-Node Lab](Project_047587/README.md) |
+| 047588 | [Ansible: Performance Baseline — Recovery for Two-Node Lab](Project_047588/README.md) |
+| 047589 | [Ansible: Performance Baseline — Reporting for Two-Node Lab](Project_047589/README.md) |
+| 047590 | [Ansible: Performance Baseline — Usability Improvement for Two-Node Lab](Project_047590/README.md) |
+| 047591 | [Ansible: Performance Baseline — Baseline Setup for Help Desk](Project_047591/README.md) |
+| 047592 | [Ansible: Performance Baseline — Automation for Help Desk](Project_047592/README.md) |
+| 047593 | [Ansible: Performance Baseline — Recovery for Help Desk](Project_047593/README.md) |
+| 047594 | [Ansible: Performance Baseline — Reporting for Help Desk](Project_047594/README.md) |
+| 047595 | [Ansible: Performance Baseline — Usability Improvement for Help Desk](Project_047595/README.md) |
+| 047596 | [Ansible: Performance Baseline — Baseline Setup for Portfolio Demo](Project_047596/README.md) |
+| 047597 | [Ansible: Performance Baseline — Automation for Portfolio Demo](Project_047597/README.md) |
+| 047598 | [Ansible: Performance Baseline — Recovery for Portfolio Demo](Project_047598/README.md) |
+| 047599 | [Ansible: Performance Baseline — Reporting for Portfolio Demo](Project_047599/README.md) |
+| 047600 | [Ansible: Performance Baseline — Usability Improvement for Portfolio Demo](Project_047600/README.md) |
 
 [Back to the portfolio home](../README.md)
