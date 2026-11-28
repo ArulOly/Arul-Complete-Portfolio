@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014418 | [AWS: Alerting — Recovery for Public Dataset](Project_014418/README.md) |
 | 014419 | [AWS: Alerting — Reporting for Public Dataset](Project_014419/README.md) |
 | 014420 | [AWS: Alerting — Usability Improvement for Public Dataset](Project_014420/README.md) |
+| 014421 | [AWS: Alerting — Baseline Setup for Branch Office Simulator](Project_014421/README.md) |
+| 014422 | [AWS: Alerting — Automation for Branch Office Simulator](Project_014422/README.md) |
+| 014423 | [AWS: Alerting — Recovery for Branch Office Simulator](Project_014423/README.md) |
+| 014424 | [AWS: Alerting — Reporting for Branch Office Simulator](Project_014424/README.md) |
+| 014425 | [AWS: Alerting — Usability Improvement for Branch Office Simulator](Project_014425/README.md) |
+| 014426 | [AWS: Alerting — Baseline Setup for Offline Classroom](Project_014426/README.md) |
+| 014427 | [AWS: Alerting — Automation for Offline Classroom](Project_014427/README.md) |
+| 014428 | [AWS: Alerting — Recovery for Offline Classroom](Project_014428/README.md) |
+| 014429 | [AWS: Alerting — Reporting for Offline Classroom](Project_014429/README.md) |
+| 014430 | [AWS: Alerting — Usability Improvement for Offline Classroom](Project_014430/README.md) |
+| 014431 | [AWS: Alerting — Baseline Setup for Single-Host Lab](Project_014431/README.md) |
+| 014432 | [AWS: Alerting — Automation for Single-Host Lab](Project_014432/README.md) |
+| 014433 | [AWS: Alerting — Recovery for Single-Host Lab](Project_014433/README.md) |
+| 014434 | [AWS: Alerting — Reporting for Single-Host Lab](Project_014434/README.md) |
+| 014435 | [AWS: Alerting — Usability Improvement for Single-Host Lab](Project_014435/README.md) |
+| 014436 | [AWS: Alerting — Baseline Setup for Two-Node Lab](Project_014436/README.md) |
+| 014437 | [AWS: Alerting — Automation for Two-Node Lab](Project_014437/README.md) |
+| 014438 | [AWS: Alerting — Recovery for Two-Node Lab](Project_014438/README.md) |
+| 014439 | [AWS: Alerting — Reporting for Two-Node Lab](Project_014439/README.md) |
+| 014440 | [AWS: Alerting — Usability Improvement for Two-Node Lab](Project_014440/README.md) |
 
 [Back to the portfolio home](../README.md)
