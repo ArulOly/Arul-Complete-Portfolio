@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014738 | [AWS: Error Handling — Recovery for Two-Node Lab](Project_014738/README.md) |
 | 014739 | [AWS: Error Handling — Reporting for Two-Node Lab](Project_014739/README.md) |
 | 014740 | [AWS: Error Handling — Usability Improvement for Two-Node Lab](Project_014740/README.md) |
+| 014741 | [AWS: Error Handling — Baseline Setup for Help Desk](Project_014741/README.md) |
+| 014742 | [AWS: Error Handling — Automation for Help Desk](Project_014742/README.md) |
+| 014743 | [AWS: Error Handling — Recovery for Help Desk](Project_014743/README.md) |
+| 014744 | [AWS: Error Handling — Reporting for Help Desk](Project_014744/README.md) |
+| 014745 | [AWS: Error Handling — Usability Improvement for Help Desk](Project_014745/README.md) |
+| 014746 | [AWS: Error Handling — Baseline Setup for Portfolio Demo](Project_014746/README.md) |
+| 014747 | [AWS: Error Handling — Automation for Portfolio Demo](Project_014747/README.md) |
+| 014748 | [AWS: Error Handling — Recovery for Portfolio Demo](Project_014748/README.md) |
+| 014749 | [AWS: Error Handling — Reporting for Portfolio Demo](Project_014749/README.md) |
+| 014750 | [AWS: Error Handling — Usability Improvement for Portfolio Demo](Project_014750/README.md) |
+| 014751 | [AWS: Data Validation — Baseline Setup for School Lab](Project_014751/README.md) |
+| 014752 | [AWS: Data Validation — Automation for School Lab](Project_014752/README.md) |
+| 014753 | [AWS: Data Validation — Recovery for School Lab](Project_014753/README.md) |
+| 014754 | [AWS: Data Validation — Reporting for School Lab](Project_014754/README.md) |
+| 014755 | [AWS: Data Validation — Usability Improvement for School Lab](Project_014755/README.md) |
+| 014756 | [AWS: Data Validation — Baseline Setup for Small Business](Project_014756/README.md) |
+| 014757 | [AWS: Data Validation — Automation for Small Business](Project_014757/README.md) |
+| 014758 | [AWS: Data Validation — Recovery for Small Business](Project_014758/README.md) |
+| 014759 | [AWS: Data Validation — Reporting for Small Business](Project_014759/README.md) |
+| 014760 | [AWS: Data Validation — Usability Improvement for Small Business](Project_014760/README.md) |
 
 [Back to the portfolio home](../README.md)
