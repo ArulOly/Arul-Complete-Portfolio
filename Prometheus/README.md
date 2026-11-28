@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044918 | [Prometheus: Visual Reporting — Recovery for Public Dataset](Project_044918/README.md) |
 | 044919 | [Prometheus: Visual Reporting — Reporting for Public Dataset](Project_044919/README.md) |
 | 044920 | [Prometheus: Visual Reporting — Usability Improvement for Public Dataset](Project_044920/README.md) |
+| 044921 | [Prometheus: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_044921/README.md) |
+| 044922 | [Prometheus: Visual Reporting — Automation for Branch Office Simulator](Project_044922/README.md) |
+| 044923 | [Prometheus: Visual Reporting — Recovery for Branch Office Simulator](Project_044923/README.md) |
+| 044924 | [Prometheus: Visual Reporting — Reporting for Branch Office Simulator](Project_044924/README.md) |
+| 044925 | [Prometheus: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_044925/README.md) |
+| 044926 | [Prometheus: Visual Reporting — Baseline Setup for Offline Classroom](Project_044926/README.md) |
+| 044927 | [Prometheus: Visual Reporting — Automation for Offline Classroom](Project_044927/README.md) |
+| 044928 | [Prometheus: Visual Reporting — Recovery for Offline Classroom](Project_044928/README.md) |
+| 044929 | [Prometheus: Visual Reporting — Reporting for Offline Classroom](Project_044929/README.md) |
+| 044930 | [Prometheus: Visual Reporting — Usability Improvement for Offline Classroom](Project_044930/README.md) |
+| 044931 | [Prometheus: Visual Reporting — Baseline Setup for Single-Host Lab](Project_044931/README.md) |
+| 044932 | [Prometheus: Visual Reporting — Automation for Single-Host Lab](Project_044932/README.md) |
+| 044933 | [Prometheus: Visual Reporting — Recovery for Single-Host Lab](Project_044933/README.md) |
+| 044934 | [Prometheus: Visual Reporting — Reporting for Single-Host Lab](Project_044934/README.md) |
+| 044935 | [Prometheus: Visual Reporting — Usability Improvement for Single-Host Lab](Project_044935/README.md) |
+| 044936 | [Prometheus: Visual Reporting — Baseline Setup for Two-Node Lab](Project_044936/README.md) |
+| 044937 | [Prometheus: Visual Reporting — Automation for Two-Node Lab](Project_044937/README.md) |
+| 044938 | [Prometheus: Visual Reporting — Recovery for Two-Node Lab](Project_044938/README.md) |
+| 044939 | [Prometheus: Visual Reporting — Reporting for Two-Node Lab](Project_044939/README.md) |
+| 044940 | [Prometheus: Visual Reporting — Usability Improvement for Two-Node Lab](Project_044940/README.md) |
 
 [Back to the portfolio home](../README.md)
