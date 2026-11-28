@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040198 | [PowerShell: Log Analysis — Recovery for Portfolio Demo](Project_040198/README.md) |
 | 040199 | [PowerShell: Log Analysis — Reporting for Portfolio Demo](Project_040199/README.md) |
 | 040200 | [PowerShell: Log Analysis — Usability Improvement for Portfolio Demo](Project_040200/README.md) |
+| 040201 | [PowerShell: Backup Verification — Baseline Setup for School Lab](Project_040201/README.md) |
+| 040202 | [PowerShell: Backup Verification — Automation for School Lab](Project_040202/README.md) |
+| 040203 | [PowerShell: Backup Verification — Recovery for School Lab](Project_040203/README.md) |
+| 040204 | [PowerShell: Backup Verification — Reporting for School Lab](Project_040204/README.md) |
+| 040205 | [PowerShell: Backup Verification — Usability Improvement for School Lab](Project_040205/README.md) |
+| 040206 | [PowerShell: Backup Verification — Baseline Setup for Small Business](Project_040206/README.md) |
+| 040207 | [PowerShell: Backup Verification — Automation for Small Business](Project_040207/README.md) |
+| 040208 | [PowerShell: Backup Verification — Recovery for Small Business](Project_040208/README.md) |
+| 040209 | [PowerShell: Backup Verification — Reporting for Small Business](Project_040209/README.md) |
+| 040210 | [PowerShell: Backup Verification — Usability Improvement for Small Business](Project_040210/README.md) |
+| 040211 | [PowerShell: Backup Verification — Baseline Setup for Home Development](Project_040211/README.md) |
+| 040212 | [PowerShell: Backup Verification — Automation for Home Development](Project_040212/README.md) |
+| 040213 | [PowerShell: Backup Verification — Recovery for Home Development](Project_040213/README.md) |
+| 040214 | [PowerShell: Backup Verification — Reporting for Home Development](Project_040214/README.md) |
+| 040215 | [PowerShell: Backup Verification — Usability Improvement for Home Development](Project_040215/README.md) |
+| 040216 | [PowerShell: Backup Verification — Baseline Setup for Public Dataset](Project_040216/README.md) |
+| 040217 | [PowerShell: Backup Verification — Automation for Public Dataset](Project_040217/README.md) |
+| 040218 | [PowerShell: Backup Verification — Recovery for Public Dataset](Project_040218/README.md) |
+| 040219 | [PowerShell: Backup Verification — Reporting for Public Dataset](Project_040219/README.md) |
+| 040220 | [PowerShell: Backup Verification — Usability Improvement for Public Dataset](Project_040220/README.md) |
 
 [Back to the portfolio home](../README.md)
