@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029278 | [Wireshark: Data Import — Recovery for Offline Classroom](Project_029278/README.md) |
 | 029279 | [Wireshark: Data Import — Reporting for Offline Classroom](Project_029279/README.md) |
 | 029280 | [Wireshark: Data Import — Usability Improvement for Offline Classroom](Project_029280/README.md) |
+| 029281 | [Wireshark: Data Import — Baseline Setup for Single-Host Lab](Project_029281/README.md) |
+| 029282 | [Wireshark: Data Import — Automation for Single-Host Lab](Project_029282/README.md) |
+| 029283 | [Wireshark: Data Import — Recovery for Single-Host Lab](Project_029283/README.md) |
+| 029284 | [Wireshark: Data Import — Reporting for Single-Host Lab](Project_029284/README.md) |
+| 029285 | [Wireshark: Data Import — Usability Improvement for Single-Host Lab](Project_029285/README.md) |
+| 029286 | [Wireshark: Data Import — Baseline Setup for Two-Node Lab](Project_029286/README.md) |
+| 029287 | [Wireshark: Data Import — Automation for Two-Node Lab](Project_029287/README.md) |
+| 029288 | [Wireshark: Data Import — Recovery for Two-Node Lab](Project_029288/README.md) |
+| 029289 | [Wireshark: Data Import — Reporting for Two-Node Lab](Project_029289/README.md) |
+| 029290 | [Wireshark: Data Import — Usability Improvement for Two-Node Lab](Project_029290/README.md) |
+| 029291 | [Wireshark: Data Import — Baseline Setup for Help Desk](Project_029291/README.md) |
+| 029292 | [Wireshark: Data Import — Automation for Help Desk](Project_029292/README.md) |
+| 029293 | [Wireshark: Data Import — Recovery for Help Desk](Project_029293/README.md) |
+| 029294 | [Wireshark: Data Import — Reporting for Help Desk](Project_029294/README.md) |
+| 029295 | [Wireshark: Data Import — Usability Improvement for Help Desk](Project_029295/README.md) |
+| 029296 | [Wireshark: Data Import — Baseline Setup for Portfolio Demo](Project_029296/README.md) |
+| 029297 | [Wireshark: Data Import — Automation for Portfolio Demo](Project_029297/README.md) |
+| 029298 | [Wireshark: Data Import — Recovery for Portfolio Demo](Project_029298/README.md) |
+| 029299 | [Wireshark: Data Import — Reporting for Portfolio Demo](Project_029299/README.md) |
+| 029300 | [Wireshark: Data Import — Usability Improvement for Portfolio Demo](Project_029300/README.md) |
 
 [Back to the portfolio home](../README.md)
