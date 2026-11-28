@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046078 | [Terraform: Monitoring — Recovery for Offline Classroom](Project_046078/README.md) |
 | 046079 | [Terraform: Monitoring — Reporting for Offline Classroom](Project_046079/README.md) |
 | 046080 | [Terraform: Monitoring — Usability Improvement for Offline Classroom](Project_046080/README.md) |
+| 046081 | [Terraform: Monitoring — Baseline Setup for Single-Host Lab](Project_046081/README.md) |
+| 046082 | [Terraform: Monitoring — Automation for Single-Host Lab](Project_046082/README.md) |
+| 046083 | [Terraform: Monitoring — Recovery for Single-Host Lab](Project_046083/README.md) |
+| 046084 | [Terraform: Monitoring — Reporting for Single-Host Lab](Project_046084/README.md) |
+| 046085 | [Terraform: Monitoring — Usability Improvement for Single-Host Lab](Project_046085/README.md) |
+| 046086 | [Terraform: Monitoring — Baseline Setup for Two-Node Lab](Project_046086/README.md) |
+| 046087 | [Terraform: Monitoring — Automation for Two-Node Lab](Project_046087/README.md) |
+| 046088 | [Terraform: Monitoring — Recovery for Two-Node Lab](Project_046088/README.md) |
+| 046089 | [Terraform: Monitoring — Reporting for Two-Node Lab](Project_046089/README.md) |
+| 046090 | [Terraform: Monitoring — Usability Improvement for Two-Node Lab](Project_046090/README.md) |
+| 046091 | [Terraform: Monitoring — Baseline Setup for Help Desk](Project_046091/README.md) |
+| 046092 | [Terraform: Monitoring — Automation for Help Desk](Project_046092/README.md) |
+| 046093 | [Terraform: Monitoring — Recovery for Help Desk](Project_046093/README.md) |
+| 046094 | [Terraform: Monitoring — Reporting for Help Desk](Project_046094/README.md) |
+| 046095 | [Terraform: Monitoring — Usability Improvement for Help Desk](Project_046095/README.md) |
+| 046096 | [Terraform: Monitoring — Baseline Setup for Portfolio Demo](Project_046096/README.md) |
+| 046097 | [Terraform: Monitoring — Automation for Portfolio Demo](Project_046097/README.md) |
+| 046098 | [Terraform: Monitoring — Recovery for Portfolio Demo](Project_046098/README.md) |
+| 046099 | [Terraform: Monitoring — Reporting for Portfolio Demo](Project_046099/README.md) |
+| 046100 | [Terraform: Monitoring — Usability Improvement for Portfolio Demo](Project_046100/README.md) |
 
 [Back to the portfolio home](../README.md)
