@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038798 | [Git: Data Validation — Recovery for Portfolio Demo](Project_038798/README.md) |
 | 038799 | [Git: Data Validation — Reporting for Portfolio Demo](Project_038799/README.md) |
 | 038800 | [Git: Data Validation — Usability Improvement for Portfolio Demo](Project_038800/README.md) |
+| 038801 | [Git: Documentation Generation — Baseline Setup for School Lab](Project_038801/README.md) |
+| 038802 | [Git: Documentation Generation — Automation for School Lab](Project_038802/README.md) |
+| 038803 | [Git: Documentation Generation — Recovery for School Lab](Project_038803/README.md) |
+| 038804 | [Git: Documentation Generation — Reporting for School Lab](Project_038804/README.md) |
+| 038805 | [Git: Documentation Generation — Usability Improvement for School Lab](Project_038805/README.md) |
+| 038806 | [Git: Documentation Generation — Baseline Setup for Small Business](Project_038806/README.md) |
+| 038807 | [Git: Documentation Generation — Automation for Small Business](Project_038807/README.md) |
+| 038808 | [Git: Documentation Generation — Recovery for Small Business](Project_038808/README.md) |
+| 038809 | [Git: Documentation Generation — Reporting for Small Business](Project_038809/README.md) |
+| 038810 | [Git: Documentation Generation — Usability Improvement for Small Business](Project_038810/README.md) |
+| 038811 | [Git: Documentation Generation — Baseline Setup for Home Development](Project_038811/README.md) |
+| 038812 | [Git: Documentation Generation — Automation for Home Development](Project_038812/README.md) |
+| 038813 | [Git: Documentation Generation — Recovery for Home Development](Project_038813/README.md) |
+| 038814 | [Git: Documentation Generation — Reporting for Home Development](Project_038814/README.md) |
+| 038815 | [Git: Documentation Generation — Usability Improvement for Home Development](Project_038815/README.md) |
+| 038816 | [Git: Documentation Generation — Baseline Setup for Public Dataset](Project_038816/README.md) |
+| 038817 | [Git: Documentation Generation — Automation for Public Dataset](Project_038817/README.md) |
+| 038818 | [Git: Documentation Generation — Recovery for Public Dataset](Project_038818/README.md) |
+| 038819 | [Git: Documentation Generation — Reporting for Public Dataset](Project_038819/README.md) |
+| 038820 | [Git: Documentation Generation — Usability Improvement for Public Dataset](Project_038820/README.md) |
 
 [Back to the portfolio home](../README.md)
