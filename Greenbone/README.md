@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031438 | [Greenbone: Alerting — Recovery for Two-Node Lab](Project_031438/README.md) |
 | 031439 | [Greenbone: Alerting — Reporting for Two-Node Lab](Project_031439/README.md) |
 | 031440 | [Greenbone: Alerting — Usability Improvement for Two-Node Lab](Project_031440/README.md) |
+| 031441 | [Greenbone: Alerting — Baseline Setup for Help Desk](Project_031441/README.md) |
+| 031442 | [Greenbone: Alerting — Automation for Help Desk](Project_031442/README.md) |
+| 031443 | [Greenbone: Alerting — Recovery for Help Desk](Project_031443/README.md) |
+| 031444 | [Greenbone: Alerting — Reporting for Help Desk](Project_031444/README.md) |
+| 031445 | [Greenbone: Alerting — Usability Improvement for Help Desk](Project_031445/README.md) |
+| 031446 | [Greenbone: Alerting — Baseline Setup for Portfolio Demo](Project_031446/README.md) |
+| 031447 | [Greenbone: Alerting — Automation for Portfolio Demo](Project_031447/README.md) |
+| 031448 | [Greenbone: Alerting — Recovery for Portfolio Demo](Project_031448/README.md) |
+| 031449 | [Greenbone: Alerting — Reporting for Portfolio Demo](Project_031449/README.md) |
+| 031450 | [Greenbone: Alerting — Usability Improvement for Portfolio Demo](Project_031450/README.md) |
+| 031451 | [Greenbone: Scheduled Reporting — Baseline Setup for School Lab](Project_031451/README.md) |
+| 031452 | [Greenbone: Scheduled Reporting — Automation for School Lab](Project_031452/README.md) |
+| 031453 | [Greenbone: Scheduled Reporting — Recovery for School Lab](Project_031453/README.md) |
+| 031454 | [Greenbone: Scheduled Reporting — Reporting for School Lab](Project_031454/README.md) |
+| 031455 | [Greenbone: Scheduled Reporting — Usability Improvement for School Lab](Project_031455/README.md) |
+| 031456 | [Greenbone: Scheduled Reporting — Baseline Setup for Small Business](Project_031456/README.md) |
+| 031457 | [Greenbone: Scheduled Reporting — Automation for Small Business](Project_031457/README.md) |
+| 031458 | [Greenbone: Scheduled Reporting — Recovery for Small Business](Project_031458/README.md) |
+| 031459 | [Greenbone: Scheduled Reporting — Reporting for Small Business](Project_031459/README.md) |
+| 031460 | [Greenbone: Scheduled Reporting — Usability Improvement for Small Business](Project_031460/README.md) |
 
 [Back to the portfolio home](../README.md)
