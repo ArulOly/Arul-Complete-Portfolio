@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030498 | [Wazuh: Scheduled Reporting — Recovery for Portfolio Demo](Project_030498/README.md) |
 | 030499 | [Wazuh: Scheduled Reporting — Reporting for Portfolio Demo](Project_030499/README.md) |
 | 030500 | [Wazuh: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_030500/README.md) |
+| 030501 | [Wazuh: Access Review — Baseline Setup for School Lab](Project_030501/README.md) |
+| 030502 | [Wazuh: Access Review — Automation for School Lab](Project_030502/README.md) |
+| 030503 | [Wazuh: Access Review — Recovery for School Lab](Project_030503/README.md) |
+| 030504 | [Wazuh: Access Review — Reporting for School Lab](Project_030504/README.md) |
+| 030505 | [Wazuh: Access Review — Usability Improvement for School Lab](Project_030505/README.md) |
+| 030506 | [Wazuh: Access Review — Baseline Setup for Small Business](Project_030506/README.md) |
+| 030507 | [Wazuh: Access Review — Automation for Small Business](Project_030507/README.md) |
+| 030508 | [Wazuh: Access Review — Recovery for Small Business](Project_030508/README.md) |
+| 030509 | [Wazuh: Access Review — Reporting for Small Business](Project_030509/README.md) |
+| 030510 | [Wazuh: Access Review — Usability Improvement for Small Business](Project_030510/README.md) |
+| 030511 | [Wazuh: Access Review — Baseline Setup for Home Development](Project_030511/README.md) |
+| 030512 | [Wazuh: Access Review — Automation for Home Development](Project_030512/README.md) |
+| 030513 | [Wazuh: Access Review — Recovery for Home Development](Project_030513/README.md) |
+| 030514 | [Wazuh: Access Review — Reporting for Home Development](Project_030514/README.md) |
+| 030515 | [Wazuh: Access Review — Usability Improvement for Home Development](Project_030515/README.md) |
+| 030516 | [Wazuh: Access Review — Baseline Setup for Public Dataset](Project_030516/README.md) |
+| 030517 | [Wazuh: Access Review — Automation for Public Dataset](Project_030517/README.md) |
+| 030518 | [Wazuh: Access Review — Recovery for Public Dataset](Project_030518/README.md) |
+| 030519 | [Wazuh: Access Review — Reporting for Public Dataset](Project_030519/README.md) |
+| 030520 | [Wazuh: Access Review — Usability Improvement for Public Dataset](Project_030520/README.md) |
 
 [Back to the portfolio home](../README.md)
