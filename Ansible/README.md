@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047558 | [Ansible: Performance Baseline — Recovery for Small Business](Project_047558/README.md) |
 | 047559 | [Ansible: Performance Baseline — Reporting for Small Business](Project_047559/README.md) |
 | 047560 | [Ansible: Performance Baseline — Usability Improvement for Small Business](Project_047560/README.md) |
+| 047561 | [Ansible: Performance Baseline — Baseline Setup for Home Development](Project_047561/README.md) |
+| 047562 | [Ansible: Performance Baseline — Automation for Home Development](Project_047562/README.md) |
+| 047563 | [Ansible: Performance Baseline — Recovery for Home Development](Project_047563/README.md) |
+| 047564 | [Ansible: Performance Baseline — Reporting for Home Development](Project_047564/README.md) |
+| 047565 | [Ansible: Performance Baseline — Usability Improvement for Home Development](Project_047565/README.md) |
+| 047566 | [Ansible: Performance Baseline — Baseline Setup for Public Dataset](Project_047566/README.md) |
+| 047567 | [Ansible: Performance Baseline — Automation for Public Dataset](Project_047567/README.md) |
+| 047568 | [Ansible: Performance Baseline — Recovery for Public Dataset](Project_047568/README.md) |
+| 047569 | [Ansible: Performance Baseline — Reporting for Public Dataset](Project_047569/README.md) |
+| 047570 | [Ansible: Performance Baseline — Usability Improvement for Public Dataset](Project_047570/README.md) |
+| 047571 | [Ansible: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_047571/README.md) |
+| 047572 | [Ansible: Performance Baseline — Automation for Branch Office Simulator](Project_047572/README.md) |
+| 047573 | [Ansible: Performance Baseline — Recovery for Branch Office Simulator](Project_047573/README.md) |
+| 047574 | [Ansible: Performance Baseline — Reporting for Branch Office Simulator](Project_047574/README.md) |
+| 047575 | [Ansible: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_047575/README.md) |
+| 047576 | [Ansible: Performance Baseline — Baseline Setup for Offline Classroom](Project_047576/README.md) |
+| 047577 | [Ansible: Performance Baseline — Automation for Offline Classroom](Project_047577/README.md) |
+| 047578 | [Ansible: Performance Baseline — Recovery for Offline Classroom](Project_047578/README.md) |
+| 047579 | [Ansible: Performance Baseline — Reporting for Offline Classroom](Project_047579/README.md) |
+| 047580 | [Ansible: Performance Baseline — Usability Improvement for Offline Classroom](Project_047580/README.md) |
 
 [Back to the portfolio home](../README.md)
