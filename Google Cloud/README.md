@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016178 | [Google Cloud: Log Analysis — Recovery for Offline Classroom](Project_016178/README.md) |
 | 016179 | [Google Cloud: Log Analysis — Reporting for Offline Classroom](Project_016179/README.md) |
 | 016180 | [Google Cloud: Log Analysis — Usability Improvement for Offline Classroom](Project_016180/README.md) |
+| 016181 | [Google Cloud: Log Analysis — Baseline Setup for Single-Host Lab](Project_016181/README.md) |
+| 016182 | [Google Cloud: Log Analysis — Automation for Single-Host Lab](Project_016182/README.md) |
+| 016183 | [Google Cloud: Log Analysis — Recovery for Single-Host Lab](Project_016183/README.md) |
+| 016184 | [Google Cloud: Log Analysis — Reporting for Single-Host Lab](Project_016184/README.md) |
+| 016185 | [Google Cloud: Log Analysis — Usability Improvement for Single-Host Lab](Project_016185/README.md) |
+| 016186 | [Google Cloud: Log Analysis — Baseline Setup for Two-Node Lab](Project_016186/README.md) |
+| 016187 | [Google Cloud: Log Analysis — Automation for Two-Node Lab](Project_016187/README.md) |
+| 016188 | [Google Cloud: Log Analysis — Recovery for Two-Node Lab](Project_016188/README.md) |
+| 016189 | [Google Cloud: Log Analysis — Reporting for Two-Node Lab](Project_016189/README.md) |
+| 016190 | [Google Cloud: Log Analysis — Usability Improvement for Two-Node Lab](Project_016190/README.md) |
+| 016191 | [Google Cloud: Log Analysis — Baseline Setup for Help Desk](Project_016191/README.md) |
+| 016192 | [Google Cloud: Log Analysis — Automation for Help Desk](Project_016192/README.md) |
+| 016193 | [Google Cloud: Log Analysis — Recovery for Help Desk](Project_016193/README.md) |
+| 016194 | [Google Cloud: Log Analysis — Reporting for Help Desk](Project_016194/README.md) |
+| 016195 | [Google Cloud: Log Analysis — Usability Improvement for Help Desk](Project_016195/README.md) |
+| 016196 | [Google Cloud: Log Analysis — Baseline Setup for Portfolio Demo](Project_016196/README.md) |
+| 016197 | [Google Cloud: Log Analysis — Automation for Portfolio Demo](Project_016197/README.md) |
+| 016198 | [Google Cloud: Log Analysis — Recovery for Portfolio Demo](Project_016198/README.md) |
+| 016199 | [Google Cloud: Log Analysis — Reporting for Portfolio Demo](Project_016199/README.md) |
+| 016200 | [Google Cloud: Log Analysis — Usability Improvement for Portfolio Demo](Project_016200/README.md) |
 
 [Back to the portfolio home](../README.md)
