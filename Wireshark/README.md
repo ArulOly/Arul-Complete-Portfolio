@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029198 | [Wireshark: Log Analysis — Recovery for Portfolio Demo](Project_029198/README.md) |
 | 029199 | [Wireshark: Log Analysis — Reporting for Portfolio Demo](Project_029199/README.md) |
 | 029200 | [Wireshark: Log Analysis — Usability Improvement for Portfolio Demo](Project_029200/README.md) |
+| 029201 | [Wireshark: Backup Verification — Baseline Setup for School Lab](Project_029201/README.md) |
+| 029202 | [Wireshark: Backup Verification — Automation for School Lab](Project_029202/README.md) |
+| 029203 | [Wireshark: Backup Verification — Recovery for School Lab](Project_029203/README.md) |
+| 029204 | [Wireshark: Backup Verification — Reporting for School Lab](Project_029204/README.md) |
+| 029205 | [Wireshark: Backup Verification — Usability Improvement for School Lab](Project_029205/README.md) |
+| 029206 | [Wireshark: Backup Verification — Baseline Setup for Small Business](Project_029206/README.md) |
+| 029207 | [Wireshark: Backup Verification — Automation for Small Business](Project_029207/README.md) |
+| 029208 | [Wireshark: Backup Verification — Recovery for Small Business](Project_029208/README.md) |
+| 029209 | [Wireshark: Backup Verification — Reporting for Small Business](Project_029209/README.md) |
+| 029210 | [Wireshark: Backup Verification — Usability Improvement for Small Business](Project_029210/README.md) |
+| 029211 | [Wireshark: Backup Verification — Baseline Setup for Home Development](Project_029211/README.md) |
+| 029212 | [Wireshark: Backup Verification — Automation for Home Development](Project_029212/README.md) |
+| 029213 | [Wireshark: Backup Verification — Recovery for Home Development](Project_029213/README.md) |
+| 029214 | [Wireshark: Backup Verification — Reporting for Home Development](Project_029214/README.md) |
+| 029215 | [Wireshark: Backup Verification — Usability Improvement for Home Development](Project_029215/README.md) |
+| 029216 | [Wireshark: Backup Verification — Baseline Setup for Public Dataset](Project_029216/README.md) |
+| 029217 | [Wireshark: Backup Verification — Automation for Public Dataset](Project_029217/README.md) |
+| 029218 | [Wireshark: Backup Verification — Recovery for Public Dataset](Project_029218/README.md) |
+| 029219 | [Wireshark: Backup Verification — Reporting for Public Dataset](Project_029219/README.md) |
+| 029220 | [Wireshark: Backup Verification — Usability Improvement for Public Dataset](Project_029220/README.md) |
 
 [Back to the portfolio home](../README.md)
