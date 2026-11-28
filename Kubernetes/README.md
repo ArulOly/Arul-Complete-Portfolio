@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018478 | [Kubernetes: Scheduled Reporting — Recovery for Offline Classroom](Project_018478/README.md) |
 | 018479 | [Kubernetes: Scheduled Reporting — Reporting for Offline Classroom](Project_018479/README.md) |
 | 018480 | [Kubernetes: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_018480/README.md) |
+| 018481 | [Kubernetes: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_018481/README.md) |
+| 018482 | [Kubernetes: Scheduled Reporting — Automation for Single-Host Lab](Project_018482/README.md) |
+| 018483 | [Kubernetes: Scheduled Reporting — Recovery for Single-Host Lab](Project_018483/README.md) |
+| 018484 | [Kubernetes: Scheduled Reporting — Reporting for Single-Host Lab](Project_018484/README.md) |
+| 018485 | [Kubernetes: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_018485/README.md) |
+| 018486 | [Kubernetes: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_018486/README.md) |
+| 018487 | [Kubernetes: Scheduled Reporting — Automation for Two-Node Lab](Project_018487/README.md) |
+| 018488 | [Kubernetes: Scheduled Reporting — Recovery for Two-Node Lab](Project_018488/README.md) |
+| 018489 | [Kubernetes: Scheduled Reporting — Reporting for Two-Node Lab](Project_018489/README.md) |
+| 018490 | [Kubernetes: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_018490/README.md) |
+| 018491 | [Kubernetes: Scheduled Reporting — Baseline Setup for Help Desk](Project_018491/README.md) |
+| 018492 | [Kubernetes: Scheduled Reporting — Automation for Help Desk](Project_018492/README.md) |
+| 018493 | [Kubernetes: Scheduled Reporting — Recovery for Help Desk](Project_018493/README.md) |
+| 018494 | [Kubernetes: Scheduled Reporting — Reporting for Help Desk](Project_018494/README.md) |
+| 018495 | [Kubernetes: Scheduled Reporting — Usability Improvement for Help Desk](Project_018495/README.md) |
+| 018496 | [Kubernetes: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_018496/README.md) |
+| 018497 | [Kubernetes: Scheduled Reporting — Automation for Portfolio Demo](Project_018497/README.md) |
+| 018498 | [Kubernetes: Scheduled Reporting — Recovery for Portfolio Demo](Project_018498/README.md) |
+| 018499 | [Kubernetes: Scheduled Reporting — Reporting for Portfolio Demo](Project_018499/README.md) |
+| 018500 | [Kubernetes: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_018500/README.md) |
 
 [Back to the portfolio home](../README.md)
