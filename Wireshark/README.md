@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029718 | [Wireshark: Error Handling — Recovery for Public Dataset](Project_029718/README.md) |
 | 029719 | [Wireshark: Error Handling — Reporting for Public Dataset](Project_029719/README.md) |
 | 029720 | [Wireshark: Error Handling — Usability Improvement for Public Dataset](Project_029720/README.md) |
+| 029721 | [Wireshark: Error Handling — Baseline Setup for Branch Office Simulator](Project_029721/README.md) |
+| 029722 | [Wireshark: Error Handling — Automation for Branch Office Simulator](Project_029722/README.md) |
+| 029723 | [Wireshark: Error Handling — Recovery for Branch Office Simulator](Project_029723/README.md) |
+| 029724 | [Wireshark: Error Handling — Reporting for Branch Office Simulator](Project_029724/README.md) |
+| 029725 | [Wireshark: Error Handling — Usability Improvement for Branch Office Simulator](Project_029725/README.md) |
+| 029726 | [Wireshark: Error Handling — Baseline Setup for Offline Classroom](Project_029726/README.md) |
+| 029727 | [Wireshark: Error Handling — Automation for Offline Classroom](Project_029727/README.md) |
+| 029728 | [Wireshark: Error Handling — Recovery for Offline Classroom](Project_029728/README.md) |
+| 029729 | [Wireshark: Error Handling — Reporting for Offline Classroom](Project_029729/README.md) |
+| 029730 | [Wireshark: Error Handling — Usability Improvement for Offline Classroom](Project_029730/README.md) |
+| 029731 | [Wireshark: Error Handling — Baseline Setup for Single-Host Lab](Project_029731/README.md) |
+| 029732 | [Wireshark: Error Handling — Automation for Single-Host Lab](Project_029732/README.md) |
+| 029733 | [Wireshark: Error Handling — Recovery for Single-Host Lab](Project_029733/README.md) |
+| 029734 | [Wireshark: Error Handling — Reporting for Single-Host Lab](Project_029734/README.md) |
+| 029735 | [Wireshark: Error Handling — Usability Improvement for Single-Host Lab](Project_029735/README.md) |
+| 029736 | [Wireshark: Error Handling — Baseline Setup for Two-Node Lab](Project_029736/README.md) |
+| 029737 | [Wireshark: Error Handling — Automation for Two-Node Lab](Project_029737/README.md) |
+| 029738 | [Wireshark: Error Handling — Recovery for Two-Node Lab](Project_029738/README.md) |
+| 029739 | [Wireshark: Error Handling — Reporting for Two-Node Lab](Project_029739/README.md) |
+| 029740 | [Wireshark: Error Handling — Usability Improvement for Two-Node Lab](Project_029740/README.md) |
 
 [Back to the portfolio home](../README.md)
