@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029398 | [Wireshark: Dashboard — Recovery for Portfolio Demo](Project_029398/README.md) |
 | 029399 | [Wireshark: Dashboard — Reporting for Portfolio Demo](Project_029399/README.md) |
 | 029400 | [Wireshark: Dashboard — Usability Improvement for Portfolio Demo](Project_029400/README.md) |
+| 029401 | [Wireshark: Alerting — Baseline Setup for School Lab](Project_029401/README.md) |
+| 029402 | [Wireshark: Alerting — Automation for School Lab](Project_029402/README.md) |
+| 029403 | [Wireshark: Alerting — Recovery for School Lab](Project_029403/README.md) |
+| 029404 | [Wireshark: Alerting — Reporting for School Lab](Project_029404/README.md) |
+| 029405 | [Wireshark: Alerting — Usability Improvement for School Lab](Project_029405/README.md) |
+| 029406 | [Wireshark: Alerting — Baseline Setup for Small Business](Project_029406/README.md) |
+| 029407 | [Wireshark: Alerting — Automation for Small Business](Project_029407/README.md) |
+| 029408 | [Wireshark: Alerting — Recovery for Small Business](Project_029408/README.md) |
+| 029409 | [Wireshark: Alerting — Reporting for Small Business](Project_029409/README.md) |
+| 029410 | [Wireshark: Alerting — Usability Improvement for Small Business](Project_029410/README.md) |
+| 029411 | [Wireshark: Alerting — Baseline Setup for Home Development](Project_029411/README.md) |
+| 029412 | [Wireshark: Alerting — Automation for Home Development](Project_029412/README.md) |
+| 029413 | [Wireshark: Alerting — Recovery for Home Development](Project_029413/README.md) |
+| 029414 | [Wireshark: Alerting — Reporting for Home Development](Project_029414/README.md) |
+| 029415 | [Wireshark: Alerting — Usability Improvement for Home Development](Project_029415/README.md) |
+| 029416 | [Wireshark: Alerting — Baseline Setup for Public Dataset](Project_029416/README.md) |
+| 029417 | [Wireshark: Alerting — Automation for Public Dataset](Project_029417/README.md) |
+| 029418 | [Wireshark: Alerting — Recovery for Public Dataset](Project_029418/README.md) |
+| 029419 | [Wireshark: Alerting — Reporting for Public Dataset](Project_029419/README.md) |
+| 029420 | [Wireshark: Alerting — Usability Improvement for Public Dataset](Project_029420/README.md) |
 
 [Back to the portfolio home](../README.md)
