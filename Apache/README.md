@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042098 | [Apache: Monitoring — Recovery for Portfolio Demo](Project_042098/README.md) |
 | 042099 | [Apache: Monitoring — Reporting for Portfolio Demo](Project_042099/README.md) |
 | 042100 | [Apache: Monitoring — Usability Improvement for Portfolio Demo](Project_042100/README.md) |
+| 042101 | [Apache: Audit — Baseline Setup for School Lab](Project_042101/README.md) |
+| 042102 | [Apache: Audit — Automation for School Lab](Project_042102/README.md) |
+| 042103 | [Apache: Audit — Recovery for School Lab](Project_042103/README.md) |
+| 042104 | [Apache: Audit — Reporting for School Lab](Project_042104/README.md) |
+| 042105 | [Apache: Audit — Usability Improvement for School Lab](Project_042105/README.md) |
+| 042106 | [Apache: Audit — Baseline Setup for Small Business](Project_042106/README.md) |
+| 042107 | [Apache: Audit — Automation for Small Business](Project_042107/README.md) |
+| 042108 | [Apache: Audit — Recovery for Small Business](Project_042108/README.md) |
+| 042109 | [Apache: Audit — Reporting for Small Business](Project_042109/README.md) |
+| 042110 | [Apache: Audit — Usability Improvement for Small Business](Project_042110/README.md) |
+| 042111 | [Apache: Audit — Baseline Setup for Home Development](Project_042111/README.md) |
+| 042112 | [Apache: Audit — Automation for Home Development](Project_042112/README.md) |
+| 042113 | [Apache: Audit — Recovery for Home Development](Project_042113/README.md) |
+| 042114 | [Apache: Audit — Reporting for Home Development](Project_042114/README.md) |
+| 042115 | [Apache: Audit — Usability Improvement for Home Development](Project_042115/README.md) |
+| 042116 | [Apache: Audit — Baseline Setup for Public Dataset](Project_042116/README.md) |
+| 042117 | [Apache: Audit — Automation for Public Dataset](Project_042117/README.md) |
+| 042118 | [Apache: Audit — Recovery for Public Dataset](Project_042118/README.md) |
+| 042119 | [Apache: Audit — Reporting for Public Dataset](Project_042119/README.md) |
+| 042120 | [Apache: Audit — Usability Improvement for Public Dataset](Project_042120/README.md) |
 
 [Back to the portfolio home](../README.md)
