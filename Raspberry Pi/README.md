@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035378 | [Raspberry Pi: Dashboard — Recovery for Offline Classroom](Project_035378/README.md) |
 | 035379 | [Raspberry Pi: Dashboard — Reporting for Offline Classroom](Project_035379/README.md) |
 | 035380 | [Raspberry Pi: Dashboard — Usability Improvement for Offline Classroom](Project_035380/README.md) |
+| 035381 | [Raspberry Pi: Dashboard — Baseline Setup for Single-Host Lab](Project_035381/README.md) |
+| 035382 | [Raspberry Pi: Dashboard — Automation for Single-Host Lab](Project_035382/README.md) |
+| 035383 | [Raspberry Pi: Dashboard — Recovery for Single-Host Lab](Project_035383/README.md) |
+| 035384 | [Raspberry Pi: Dashboard — Reporting for Single-Host Lab](Project_035384/README.md) |
+| 035385 | [Raspberry Pi: Dashboard — Usability Improvement for Single-Host Lab](Project_035385/README.md) |
+| 035386 | [Raspberry Pi: Dashboard — Baseline Setup for Two-Node Lab](Project_035386/README.md) |
+| 035387 | [Raspberry Pi: Dashboard — Automation for Two-Node Lab](Project_035387/README.md) |
+| 035388 | [Raspberry Pi: Dashboard — Recovery for Two-Node Lab](Project_035388/README.md) |
+| 035389 | [Raspberry Pi: Dashboard — Reporting for Two-Node Lab](Project_035389/README.md) |
+| 035390 | [Raspberry Pi: Dashboard — Usability Improvement for Two-Node Lab](Project_035390/README.md) |
+| 035391 | [Raspberry Pi: Dashboard — Baseline Setup for Help Desk](Project_035391/README.md) |
+| 035392 | [Raspberry Pi: Dashboard — Automation for Help Desk](Project_035392/README.md) |
+| 035393 | [Raspberry Pi: Dashboard — Recovery for Help Desk](Project_035393/README.md) |
+| 035394 | [Raspberry Pi: Dashboard — Reporting for Help Desk](Project_035394/README.md) |
+| 035395 | [Raspberry Pi: Dashboard — Usability Improvement for Help Desk](Project_035395/README.md) |
+| 035396 | [Raspberry Pi: Dashboard — Baseline Setup for Portfolio Demo](Project_035396/README.md) |
+| 035397 | [Raspberry Pi: Dashboard — Automation for Portfolio Demo](Project_035397/README.md) |
+| 035398 | [Raspberry Pi: Dashboard — Recovery for Portfolio Demo](Project_035398/README.md) |
+| 035399 | [Raspberry Pi: Dashboard — Reporting for Portfolio Demo](Project_035399/README.md) |
+| 035400 | [Raspberry Pi: Dashboard — Usability Improvement for Portfolio Demo](Project_035400/README.md) |
 
 [Back to the portfolio home](../README.md)
