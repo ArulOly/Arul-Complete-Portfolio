@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015618 | [Azure: Service Check — Recovery for Public Dataset](Project_015618/README.md) |
 | 015619 | [Azure: Service Check — Reporting for Public Dataset](Project_015619/README.md) |
 | 015620 | [Azure: Service Check — Usability Improvement for Public Dataset](Project_015620/README.md) |
+| 015621 | [Azure: Service Check — Baseline Setup for Branch Office Simulator](Project_015621/README.md) |
+| 015622 | [Azure: Service Check — Automation for Branch Office Simulator](Project_015622/README.md) |
+| 015623 | [Azure: Service Check — Recovery for Branch Office Simulator](Project_015623/README.md) |
+| 015624 | [Azure: Service Check — Reporting for Branch Office Simulator](Project_015624/README.md) |
+| 015625 | [Azure: Service Check — Usability Improvement for Branch Office Simulator](Project_015625/README.md) |
+| 015626 | [Azure: Service Check — Baseline Setup for Offline Classroom](Project_015626/README.md) |
+| 015627 | [Azure: Service Check — Automation for Offline Classroom](Project_015627/README.md) |
+| 015628 | [Azure: Service Check — Recovery for Offline Classroom](Project_015628/README.md) |
+| 015629 | [Azure: Service Check — Reporting for Offline Classroom](Project_015629/README.md) |
+| 015630 | [Azure: Service Check — Usability Improvement for Offline Classroom](Project_015630/README.md) |
+| 015631 | [Azure: Service Check — Baseline Setup for Single-Host Lab](Project_015631/README.md) |
+| 015632 | [Azure: Service Check — Automation for Single-Host Lab](Project_015632/README.md) |
+| 015633 | [Azure: Service Check — Recovery for Single-Host Lab](Project_015633/README.md) |
+| 015634 | [Azure: Service Check — Reporting for Single-Host Lab](Project_015634/README.md) |
+| 015635 | [Azure: Service Check — Usability Improvement for Single-Host Lab](Project_015635/README.md) |
+| 015636 | [Azure: Service Check — Baseline Setup for Two-Node Lab](Project_015636/README.md) |
+| 015637 | [Azure: Service Check — Automation for Two-Node Lab](Project_015637/README.md) |
+| 015638 | [Azure: Service Check — Recovery for Two-Node Lab](Project_015638/README.md) |
+| 015639 | [Azure: Service Check — Reporting for Two-Node Lab](Project_015639/README.md) |
+| 015640 | [Azure: Service Check — Usability Improvement for Two-Node Lab](Project_015640/README.md) |
 
 [Back to the portfolio home](../README.md)
