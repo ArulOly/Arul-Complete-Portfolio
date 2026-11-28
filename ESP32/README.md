@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036138 | [ESP32: Audit — Recovery for Two-Node Lab](Project_036138/README.md) |
 | 036139 | [ESP32: Audit — Reporting for Two-Node Lab](Project_036139/README.md) |
 | 036140 | [ESP32: Audit — Usability Improvement for Two-Node Lab](Project_036140/README.md) |
+| 036141 | [ESP32: Audit — Baseline Setup for Help Desk](Project_036141/README.md) |
+| 036142 | [ESP32: Audit — Automation for Help Desk](Project_036142/README.md) |
+| 036143 | [ESP32: Audit — Recovery for Help Desk](Project_036143/README.md) |
+| 036144 | [ESP32: Audit — Reporting for Help Desk](Project_036144/README.md) |
+| 036145 | [ESP32: Audit — Usability Improvement for Help Desk](Project_036145/README.md) |
+| 036146 | [ESP32: Audit — Baseline Setup for Portfolio Demo](Project_036146/README.md) |
+| 036147 | [ESP32: Audit — Automation for Portfolio Demo](Project_036147/README.md) |
+| 036148 | [ESP32: Audit — Recovery for Portfolio Demo](Project_036148/README.md) |
+| 036149 | [ESP32: Audit — Reporting for Portfolio Demo](Project_036149/README.md) |
+| 036150 | [ESP32: Audit — Usability Improvement for Portfolio Demo](Project_036150/README.md) |
+| 036151 | [ESP32: Log Analysis — Baseline Setup for School Lab](Project_036151/README.md) |
+| 036152 | [ESP32: Log Analysis — Automation for School Lab](Project_036152/README.md) |
+| 036153 | [ESP32: Log Analysis — Recovery for School Lab](Project_036153/README.md) |
+| 036154 | [ESP32: Log Analysis — Reporting for School Lab](Project_036154/README.md) |
+| 036155 | [ESP32: Log Analysis — Usability Improvement for School Lab](Project_036155/README.md) |
+| 036156 | [ESP32: Log Analysis — Baseline Setup for Small Business](Project_036156/README.md) |
+| 036157 | [ESP32: Log Analysis — Automation for Small Business](Project_036157/README.md) |
+| 036158 | [ESP32: Log Analysis — Recovery for Small Business](Project_036158/README.md) |
+| 036159 | [ESP32: Log Analysis — Reporting for Small Business](Project_036159/README.md) |
+| 036160 | [ESP32: Log Analysis — Usability Improvement for Small Business](Project_036160/README.md) |
 
 [Back to the portfolio home](../README.md)
