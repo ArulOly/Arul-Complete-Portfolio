@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043578 | [Grafana: Performance Baseline — Recovery for Offline Classroom](Project_043578/README.md) |
 | 043579 | [Grafana: Performance Baseline — Reporting for Offline Classroom](Project_043579/README.md) |
 | 043580 | [Grafana: Performance Baseline — Usability Improvement for Offline Classroom](Project_043580/README.md) |
+| 043581 | [Grafana: Performance Baseline — Baseline Setup for Single-Host Lab](Project_043581/README.md) |
+| 043582 | [Grafana: Performance Baseline — Automation for Single-Host Lab](Project_043582/README.md) |
+| 043583 | [Grafana: Performance Baseline — Recovery for Single-Host Lab](Project_043583/README.md) |
+| 043584 | [Grafana: Performance Baseline — Reporting for Single-Host Lab](Project_043584/README.md) |
+| 043585 | [Grafana: Performance Baseline — Usability Improvement for Single-Host Lab](Project_043585/README.md) |
+| 043586 | [Grafana: Performance Baseline — Baseline Setup for Two-Node Lab](Project_043586/README.md) |
+| 043587 | [Grafana: Performance Baseline — Automation for Two-Node Lab](Project_043587/README.md) |
+| 043588 | [Grafana: Performance Baseline — Recovery for Two-Node Lab](Project_043588/README.md) |
+| 043589 | [Grafana: Performance Baseline — Reporting for Two-Node Lab](Project_043589/README.md) |
+| 043590 | [Grafana: Performance Baseline — Usability Improvement for Two-Node Lab](Project_043590/README.md) |
+| 043591 | [Grafana: Performance Baseline — Baseline Setup for Help Desk](Project_043591/README.md) |
+| 043592 | [Grafana: Performance Baseline — Automation for Help Desk](Project_043592/README.md) |
+| 043593 | [Grafana: Performance Baseline — Recovery for Help Desk](Project_043593/README.md) |
+| 043594 | [Grafana: Performance Baseline — Reporting for Help Desk](Project_043594/README.md) |
+| 043595 | [Grafana: Performance Baseline — Usability Improvement for Help Desk](Project_043595/README.md) |
+| 043596 | [Grafana: Performance Baseline — Baseline Setup for Portfolio Demo](Project_043596/README.md) |
+| 043597 | [Grafana: Performance Baseline — Automation for Portfolio Demo](Project_043597/README.md) |
+| 043598 | [Grafana: Performance Baseline — Recovery for Portfolio Demo](Project_043598/README.md) |
+| 043599 | [Grafana: Performance Baseline — Reporting for Portfolio Demo](Project_043599/README.md) |
+| 043600 | [Grafana: Performance Baseline — Usability Improvement for Portfolio Demo](Project_043600/README.md) |
 
 [Back to the portfolio home](../README.md)
