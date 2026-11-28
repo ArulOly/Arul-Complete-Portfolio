@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031538 | [Greenbone: Access Review — Recovery for Two-Node Lab](Project_031538/README.md) |
 | 031539 | [Greenbone: Access Review — Reporting for Two-Node Lab](Project_031539/README.md) |
 | 031540 | [Greenbone: Access Review — Usability Improvement for Two-Node Lab](Project_031540/README.md) |
+| 031541 | [Greenbone: Access Review — Baseline Setup for Help Desk](Project_031541/README.md) |
+| 031542 | [Greenbone: Access Review — Automation for Help Desk](Project_031542/README.md) |
+| 031543 | [Greenbone: Access Review — Recovery for Help Desk](Project_031543/README.md) |
+| 031544 | [Greenbone: Access Review — Reporting for Help Desk](Project_031544/README.md) |
+| 031545 | [Greenbone: Access Review — Usability Improvement for Help Desk](Project_031545/README.md) |
+| 031546 | [Greenbone: Access Review — Baseline Setup for Portfolio Demo](Project_031546/README.md) |
+| 031547 | [Greenbone: Access Review — Automation for Portfolio Demo](Project_031547/README.md) |
+| 031548 | [Greenbone: Access Review — Recovery for Portfolio Demo](Project_031548/README.md) |
+| 031549 | [Greenbone: Access Review — Reporting for Portfolio Demo](Project_031549/README.md) |
+| 031550 | [Greenbone: Access Review — Usability Improvement for Portfolio Demo](Project_031550/README.md) |
+| 031551 | [Greenbone: Performance Baseline — Baseline Setup for School Lab](Project_031551/README.md) |
+| 031552 | [Greenbone: Performance Baseline — Automation for School Lab](Project_031552/README.md) |
+| 031553 | [Greenbone: Performance Baseline — Recovery for School Lab](Project_031553/README.md) |
+| 031554 | [Greenbone: Performance Baseline — Reporting for School Lab](Project_031554/README.md) |
+| 031555 | [Greenbone: Performance Baseline — Usability Improvement for School Lab](Project_031555/README.md) |
+| 031556 | [Greenbone: Performance Baseline — Baseline Setup for Small Business](Project_031556/README.md) |
+| 031557 | [Greenbone: Performance Baseline — Automation for Small Business](Project_031557/README.md) |
+| 031558 | [Greenbone: Performance Baseline — Recovery for Small Business](Project_031558/README.md) |
+| 031559 | [Greenbone: Performance Baseline — Reporting for Small Business](Project_031559/README.md) |
+| 031560 | [Greenbone: Performance Baseline — Usability Improvement for Small Business](Project_031560/README.md) |
 
 [Back to the portfolio home](../README.md)
