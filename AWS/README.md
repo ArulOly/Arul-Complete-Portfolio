@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014378 | [AWS: Dashboard — Recovery for Offline Classroom](Project_014378/README.md) |
 | 014379 | [AWS: Dashboard — Reporting for Offline Classroom](Project_014379/README.md) |
 | 014380 | [AWS: Dashboard — Usability Improvement for Offline Classroom](Project_014380/README.md) |
+| 014381 | [AWS: Dashboard — Baseline Setup for Single-Host Lab](Project_014381/README.md) |
+| 014382 | [AWS: Dashboard — Automation for Single-Host Lab](Project_014382/README.md) |
+| 014383 | [AWS: Dashboard — Recovery for Single-Host Lab](Project_014383/README.md) |
+| 014384 | [AWS: Dashboard — Reporting for Single-Host Lab](Project_014384/README.md) |
+| 014385 | [AWS: Dashboard — Usability Improvement for Single-Host Lab](Project_014385/README.md) |
+| 014386 | [AWS: Dashboard — Baseline Setup for Two-Node Lab](Project_014386/README.md) |
+| 014387 | [AWS: Dashboard — Automation for Two-Node Lab](Project_014387/README.md) |
+| 014388 | [AWS: Dashboard — Recovery for Two-Node Lab](Project_014388/README.md) |
+| 014389 | [AWS: Dashboard — Reporting for Two-Node Lab](Project_014389/README.md) |
+| 014390 | [AWS: Dashboard — Usability Improvement for Two-Node Lab](Project_014390/README.md) |
+| 014391 | [AWS: Dashboard — Baseline Setup for Help Desk](Project_014391/README.md) |
+| 014392 | [AWS: Dashboard — Automation for Help Desk](Project_014392/README.md) |
+| 014393 | [AWS: Dashboard — Recovery for Help Desk](Project_014393/README.md) |
+| 014394 | [AWS: Dashboard — Reporting for Help Desk](Project_014394/README.md) |
+| 014395 | [AWS: Dashboard — Usability Improvement for Help Desk](Project_014395/README.md) |
+| 014396 | [AWS: Dashboard — Baseline Setup for Portfolio Demo](Project_014396/README.md) |
+| 014397 | [AWS: Dashboard — Automation for Portfolio Demo](Project_014397/README.md) |
+| 014398 | [AWS: Dashboard — Recovery for Portfolio Demo](Project_014398/README.md) |
+| 014399 | [AWS: Dashboard — Reporting for Portfolio Demo](Project_014399/README.md) |
+| 014400 | [AWS: Dashboard — Usability Improvement for Portfolio Demo](Project_014400/README.md) |
 
 [Back to the portfolio home](../README.md)
