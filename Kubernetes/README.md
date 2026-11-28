@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018458 | [Kubernetes: Scheduled Reporting — Recovery for Small Business](Project_018458/README.md) |
 | 018459 | [Kubernetes: Scheduled Reporting — Reporting for Small Business](Project_018459/README.md) |
 | 018460 | [Kubernetes: Scheduled Reporting — Usability Improvement for Small Business](Project_018460/README.md) |
+| 018461 | [Kubernetes: Scheduled Reporting — Baseline Setup for Home Development](Project_018461/README.md) |
+| 018462 | [Kubernetes: Scheduled Reporting — Automation for Home Development](Project_018462/README.md) |
+| 018463 | [Kubernetes: Scheduled Reporting — Recovery for Home Development](Project_018463/README.md) |
+| 018464 | [Kubernetes: Scheduled Reporting — Reporting for Home Development](Project_018464/README.md) |
+| 018465 | [Kubernetes: Scheduled Reporting — Usability Improvement for Home Development](Project_018465/README.md) |
+| 018466 | [Kubernetes: Scheduled Reporting — Baseline Setup for Public Dataset](Project_018466/README.md) |
+| 018467 | [Kubernetes: Scheduled Reporting — Automation for Public Dataset](Project_018467/README.md) |
+| 018468 | [Kubernetes: Scheduled Reporting — Recovery for Public Dataset](Project_018468/README.md) |
+| 018469 | [Kubernetes: Scheduled Reporting — Reporting for Public Dataset](Project_018469/README.md) |
+| 018470 | [Kubernetes: Scheduled Reporting — Usability Improvement for Public Dataset](Project_018470/README.md) |
+| 018471 | [Kubernetes: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_018471/README.md) |
+| 018472 | [Kubernetes: Scheduled Reporting — Automation for Branch Office Simulator](Project_018472/README.md) |
+| 018473 | [Kubernetes: Scheduled Reporting — Recovery for Branch Office Simulator](Project_018473/README.md) |
+| 018474 | [Kubernetes: Scheduled Reporting — Reporting for Branch Office Simulator](Project_018474/README.md) |
+| 018475 | [Kubernetes: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_018475/README.md) |
+| 018476 | [Kubernetes: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_018476/README.md) |
+| 018477 | [Kubernetes: Scheduled Reporting — Automation for Offline Classroom](Project_018477/README.md) |
+| 018478 | [Kubernetes: Scheduled Reporting — Recovery for Offline Classroom](Project_018478/README.md) |
+| 018479 | [Kubernetes: Scheduled Reporting — Reporting for Offline Classroom](Project_018479/README.md) |
+| 018480 | [Kubernetes: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_018480/README.md) |
 
 [Back to the portfolio home](../README.md)
