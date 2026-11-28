@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046898 | [Terraform: Automation — Recovery for Portfolio Demo](Project_046898/README.md) |
 | 046899 | [Terraform: Automation — Reporting for Portfolio Demo](Project_046899/README.md) |
 | 046900 | [Terraform: Automation — Usability Improvement for Portfolio Demo](Project_046900/README.md) |
+| 046901 | [Terraform: Visual Reporting — Baseline Setup for School Lab](Project_046901/README.md) |
+| 046902 | [Terraform: Visual Reporting — Automation for School Lab](Project_046902/README.md) |
+| 046903 | [Terraform: Visual Reporting — Recovery for School Lab](Project_046903/README.md) |
+| 046904 | [Terraform: Visual Reporting — Reporting for School Lab](Project_046904/README.md) |
+| 046905 | [Terraform: Visual Reporting — Usability Improvement for School Lab](Project_046905/README.md) |
+| 046906 | [Terraform: Visual Reporting — Baseline Setup for Small Business](Project_046906/README.md) |
+| 046907 | [Terraform: Visual Reporting — Automation for Small Business](Project_046907/README.md) |
+| 046908 | [Terraform: Visual Reporting — Recovery for Small Business](Project_046908/README.md) |
+| 046909 | [Terraform: Visual Reporting — Reporting for Small Business](Project_046909/README.md) |
+| 046910 | [Terraform: Visual Reporting — Usability Improvement for Small Business](Project_046910/README.md) |
+| 046911 | [Terraform: Visual Reporting — Baseline Setup for Home Development](Project_046911/README.md) |
+| 046912 | [Terraform: Visual Reporting — Automation for Home Development](Project_046912/README.md) |
+| 046913 | [Terraform: Visual Reporting — Recovery for Home Development](Project_046913/README.md) |
+| 046914 | [Terraform: Visual Reporting — Reporting for Home Development](Project_046914/README.md) |
+| 046915 | [Terraform: Visual Reporting — Usability Improvement for Home Development](Project_046915/README.md) |
+| 046916 | [Terraform: Visual Reporting — Baseline Setup for Public Dataset](Project_046916/README.md) |
+| 046917 | [Terraform: Visual Reporting — Automation for Public Dataset](Project_046917/README.md) |
+| 046918 | [Terraform: Visual Reporting — Recovery for Public Dataset](Project_046918/README.md) |
+| 046919 | [Terraform: Visual Reporting — Reporting for Public Dataset](Project_046919/README.md) |
+| 046920 | [Terraform: Visual Reporting — Usability Improvement for Public Dataset](Project_046920/README.md) |
 
 [Back to the portfolio home](../README.md)
