@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031338 | [Greenbone: Data Export — Recovery for Two-Node Lab](Project_031338/README.md) |
 | 031339 | [Greenbone: Data Export — Reporting for Two-Node Lab](Project_031339/README.md) |
 | 031340 | [Greenbone: Data Export — Usability Improvement for Two-Node Lab](Project_031340/README.md) |
+| 031341 | [Greenbone: Data Export — Baseline Setup for Help Desk](Project_031341/README.md) |
+| 031342 | [Greenbone: Data Export — Automation for Help Desk](Project_031342/README.md) |
+| 031343 | [Greenbone: Data Export — Recovery for Help Desk](Project_031343/README.md) |
+| 031344 | [Greenbone: Data Export — Reporting for Help Desk](Project_031344/README.md) |
+| 031345 | [Greenbone: Data Export — Usability Improvement for Help Desk](Project_031345/README.md) |
+| 031346 | [Greenbone: Data Export — Baseline Setup for Portfolio Demo](Project_031346/README.md) |
+| 031347 | [Greenbone: Data Export — Automation for Portfolio Demo](Project_031347/README.md) |
+| 031348 | [Greenbone: Data Export — Recovery for Portfolio Demo](Project_031348/README.md) |
+| 031349 | [Greenbone: Data Export — Reporting for Portfolio Demo](Project_031349/README.md) |
+| 031350 | [Greenbone: Data Export — Usability Improvement for Portfolio Demo](Project_031350/README.md) |
+| 031351 | [Greenbone: Dashboard — Baseline Setup for School Lab](Project_031351/README.md) |
+| 031352 | [Greenbone: Dashboard — Automation for School Lab](Project_031352/README.md) |
+| 031353 | [Greenbone: Dashboard — Recovery for School Lab](Project_031353/README.md) |
+| 031354 | [Greenbone: Dashboard — Reporting for School Lab](Project_031354/README.md) |
+| 031355 | [Greenbone: Dashboard — Usability Improvement for School Lab](Project_031355/README.md) |
+| 031356 | [Greenbone: Dashboard — Baseline Setup for Small Business](Project_031356/README.md) |
+| 031357 | [Greenbone: Dashboard — Automation for Small Business](Project_031357/README.md) |
+| 031358 | [Greenbone: Dashboard — Recovery for Small Business](Project_031358/README.md) |
+| 031359 | [Greenbone: Dashboard — Reporting for Small Business](Project_031359/README.md) |
+| 031360 | [Greenbone: Dashboard — Usability Improvement for Small Business](Project_031360/README.md) |
 
 [Back to the portfolio home](../README.md)
