@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017378 | [Docker: Dashboard — Recovery for Offline Classroom](Project_017378/README.md) |
 | 017379 | [Docker: Dashboard — Reporting for Offline Classroom](Project_017379/README.md) |
 | 017380 | [Docker: Dashboard — Usability Improvement for Offline Classroom](Project_017380/README.md) |
+| 017381 | [Docker: Dashboard — Baseline Setup for Single-Host Lab](Project_017381/README.md) |
+| 017382 | [Docker: Dashboard — Automation for Single-Host Lab](Project_017382/README.md) |
+| 017383 | [Docker: Dashboard — Recovery for Single-Host Lab](Project_017383/README.md) |
+| 017384 | [Docker: Dashboard — Reporting for Single-Host Lab](Project_017384/README.md) |
+| 017385 | [Docker: Dashboard — Usability Improvement for Single-Host Lab](Project_017385/README.md) |
+| 017386 | [Docker: Dashboard — Baseline Setup for Two-Node Lab](Project_017386/README.md) |
+| 017387 | [Docker: Dashboard — Automation for Two-Node Lab](Project_017387/README.md) |
+| 017388 | [Docker: Dashboard — Recovery for Two-Node Lab](Project_017388/README.md) |
+| 017389 | [Docker: Dashboard — Reporting for Two-Node Lab](Project_017389/README.md) |
+| 017390 | [Docker: Dashboard — Usability Improvement for Two-Node Lab](Project_017390/README.md) |
+| 017391 | [Docker: Dashboard — Baseline Setup for Help Desk](Project_017391/README.md) |
+| 017392 | [Docker: Dashboard — Automation for Help Desk](Project_017392/README.md) |
+| 017393 | [Docker: Dashboard — Recovery for Help Desk](Project_017393/README.md) |
+| 017394 | [Docker: Dashboard — Reporting for Help Desk](Project_017394/README.md) |
+| 017395 | [Docker: Dashboard — Usability Improvement for Help Desk](Project_017395/README.md) |
+| 017396 | [Docker: Dashboard — Baseline Setup for Portfolio Demo](Project_017396/README.md) |
+| 017397 | [Docker: Dashboard — Automation for Portfolio Demo](Project_017397/README.md) |
+| 017398 | [Docker: Dashboard — Recovery for Portfolio Demo](Project_017398/README.md) |
+| 017399 | [Docker: Dashboard — Reporting for Portfolio Demo](Project_017399/README.md) |
+| 017400 | [Docker: Dashboard — Usability Improvement for Portfolio Demo](Project_017400/README.md) |
 
 [Back to the portfolio home](../README.md)
