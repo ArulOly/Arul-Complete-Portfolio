@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031078 | [Greenbone: Monitoring — Recovery for Offline Classroom](Project_031078/README.md) |
 | 031079 | [Greenbone: Monitoring — Reporting for Offline Classroom](Project_031079/README.md) |
 | 031080 | [Greenbone: Monitoring — Usability Improvement for Offline Classroom](Project_031080/README.md) |
+| 031081 | [Greenbone: Monitoring — Baseline Setup for Single-Host Lab](Project_031081/README.md) |
+| 031082 | [Greenbone: Monitoring — Automation for Single-Host Lab](Project_031082/README.md) |
+| 031083 | [Greenbone: Monitoring — Recovery for Single-Host Lab](Project_031083/README.md) |
+| 031084 | [Greenbone: Monitoring — Reporting for Single-Host Lab](Project_031084/README.md) |
+| 031085 | [Greenbone: Monitoring — Usability Improvement for Single-Host Lab](Project_031085/README.md) |
+| 031086 | [Greenbone: Monitoring — Baseline Setup for Two-Node Lab](Project_031086/README.md) |
+| 031087 | [Greenbone: Monitoring — Automation for Two-Node Lab](Project_031087/README.md) |
+| 031088 | [Greenbone: Monitoring — Recovery for Two-Node Lab](Project_031088/README.md) |
+| 031089 | [Greenbone: Monitoring — Reporting for Two-Node Lab](Project_031089/README.md) |
+| 031090 | [Greenbone: Monitoring — Usability Improvement for Two-Node Lab](Project_031090/README.md) |
+| 031091 | [Greenbone: Monitoring — Baseline Setup for Help Desk](Project_031091/README.md) |
+| 031092 | [Greenbone: Monitoring — Automation for Help Desk](Project_031092/README.md) |
+| 031093 | [Greenbone: Monitoring — Recovery for Help Desk](Project_031093/README.md) |
+| 031094 | [Greenbone: Monitoring — Reporting for Help Desk](Project_031094/README.md) |
+| 031095 | [Greenbone: Monitoring — Usability Improvement for Help Desk](Project_031095/README.md) |
+| 031096 | [Greenbone: Monitoring — Baseline Setup for Portfolio Demo](Project_031096/README.md) |
+| 031097 | [Greenbone: Monitoring — Automation for Portfolio Demo](Project_031097/README.md) |
+| 031098 | [Greenbone: Monitoring — Recovery for Portfolio Demo](Project_031098/README.md) |
+| 031099 | [Greenbone: Monitoring — Reporting for Portfolio Demo](Project_031099/README.md) |
+| 031100 | [Greenbone: Monitoring — Usability Improvement for Portfolio Demo](Project_031100/README.md) |
 
 [Back to the portfolio home](../README.md)
