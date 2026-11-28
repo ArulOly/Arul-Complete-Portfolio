@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041178 | [Nginx: Log Analysis — Recovery for Offline Classroom](Project_041178/README.md) |
 | 041179 | [Nginx: Log Analysis — Reporting for Offline Classroom](Project_041179/README.md) |
 | 041180 | [Nginx: Log Analysis — Usability Improvement for Offline Classroom](Project_041180/README.md) |
+| 041181 | [Nginx: Log Analysis — Baseline Setup for Single-Host Lab](Project_041181/README.md) |
+| 041182 | [Nginx: Log Analysis — Automation for Single-Host Lab](Project_041182/README.md) |
+| 041183 | [Nginx: Log Analysis — Recovery for Single-Host Lab](Project_041183/README.md) |
+| 041184 | [Nginx: Log Analysis — Reporting for Single-Host Lab](Project_041184/README.md) |
+| 041185 | [Nginx: Log Analysis — Usability Improvement for Single-Host Lab](Project_041185/README.md) |
+| 041186 | [Nginx: Log Analysis — Baseline Setup for Two-Node Lab](Project_041186/README.md) |
+| 041187 | [Nginx: Log Analysis — Automation for Two-Node Lab](Project_041187/README.md) |
+| 041188 | [Nginx: Log Analysis — Recovery for Two-Node Lab](Project_041188/README.md) |
+| 041189 | [Nginx: Log Analysis — Reporting for Two-Node Lab](Project_041189/README.md) |
+| 041190 | [Nginx: Log Analysis — Usability Improvement for Two-Node Lab](Project_041190/README.md) |
+| 041191 | [Nginx: Log Analysis — Baseline Setup for Help Desk](Project_041191/README.md) |
+| 041192 | [Nginx: Log Analysis — Automation for Help Desk](Project_041192/README.md) |
+| 041193 | [Nginx: Log Analysis — Recovery for Help Desk](Project_041193/README.md) |
+| 041194 | [Nginx: Log Analysis — Reporting for Help Desk](Project_041194/README.md) |
+| 041195 | [Nginx: Log Analysis — Usability Improvement for Help Desk](Project_041195/README.md) |
+| 041196 | [Nginx: Log Analysis — Baseline Setup for Portfolio Demo](Project_041196/README.md) |
+| 041197 | [Nginx: Log Analysis — Automation for Portfolio Demo](Project_041197/README.md) |
+| 041198 | [Nginx: Log Analysis — Recovery for Portfolio Demo](Project_041198/README.md) |
+| 041199 | [Nginx: Log Analysis — Reporting for Portfolio Demo](Project_041199/README.md) |
+| 041200 | [Nginx: Log Analysis — Usability Improvement for Portfolio Demo](Project_041200/README.md) |
 
 [Back to the portfolio home](../README.md)
