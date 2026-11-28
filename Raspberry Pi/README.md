@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035198 | [Raspberry Pi: Log Analysis — Recovery for Portfolio Demo](Project_035198/README.md) |
 | 035199 | [Raspberry Pi: Log Analysis — Reporting for Portfolio Demo](Project_035199/README.md) |
 | 035200 | [Raspberry Pi: Log Analysis — Usability Improvement for Portfolio Demo](Project_035200/README.md) |
+| 035201 | [Raspberry Pi: Backup Verification — Baseline Setup for School Lab](Project_035201/README.md) |
+| 035202 | [Raspberry Pi: Backup Verification — Automation for School Lab](Project_035202/README.md) |
+| 035203 | [Raspberry Pi: Backup Verification — Recovery for School Lab](Project_035203/README.md) |
+| 035204 | [Raspberry Pi: Backup Verification — Reporting for School Lab](Project_035204/README.md) |
+| 035205 | [Raspberry Pi: Backup Verification — Usability Improvement for School Lab](Project_035205/README.md) |
+| 035206 | [Raspberry Pi: Backup Verification — Baseline Setup for Small Business](Project_035206/README.md) |
+| 035207 | [Raspberry Pi: Backup Verification — Automation for Small Business](Project_035207/README.md) |
+| 035208 | [Raspberry Pi: Backup Verification — Recovery for Small Business](Project_035208/README.md) |
+| 035209 | [Raspberry Pi: Backup Verification — Reporting for Small Business](Project_035209/README.md) |
+| 035210 | [Raspberry Pi: Backup Verification — Usability Improvement for Small Business](Project_035210/README.md) |
+| 035211 | [Raspberry Pi: Backup Verification — Baseline Setup for Home Development](Project_035211/README.md) |
+| 035212 | [Raspberry Pi: Backup Verification — Automation for Home Development](Project_035212/README.md) |
+| 035213 | [Raspberry Pi: Backup Verification — Recovery for Home Development](Project_035213/README.md) |
+| 035214 | [Raspberry Pi: Backup Verification — Reporting for Home Development](Project_035214/README.md) |
+| 035215 | [Raspberry Pi: Backup Verification — Usability Improvement for Home Development](Project_035215/README.md) |
+| 035216 | [Raspberry Pi: Backup Verification — Baseline Setup for Public Dataset](Project_035216/README.md) |
+| 035217 | [Raspberry Pi: Backup Verification — Automation for Public Dataset](Project_035217/README.md) |
+| 035218 | [Raspberry Pi: Backup Verification — Recovery for Public Dataset](Project_035218/README.md) |
+| 035219 | [Raspberry Pi: Backup Verification — Reporting for Public Dataset](Project_035219/README.md) |
+| 035220 | [Raspberry Pi: Backup Verification — Usability Improvement for Public Dataset](Project_035220/README.md) |
 
 [Back to the portfolio home](../README.md)
