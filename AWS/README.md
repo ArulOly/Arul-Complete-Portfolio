@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014858 | [AWS: Automation — Recovery for Small Business](Project_014858/README.md) |
 | 014859 | [AWS: Automation — Reporting for Small Business](Project_014859/README.md) |
 | 014860 | [AWS: Automation — Usability Improvement for Small Business](Project_014860/README.md) |
+| 014861 | [AWS: Automation — Baseline Setup for Home Development](Project_014861/README.md) |
+| 014862 | [AWS: Automation — Automation for Home Development](Project_014862/README.md) |
+| 014863 | [AWS: Automation — Recovery for Home Development](Project_014863/README.md) |
+| 014864 | [AWS: Automation — Reporting for Home Development](Project_014864/README.md) |
+| 014865 | [AWS: Automation — Usability Improvement for Home Development](Project_014865/README.md) |
+| 014866 | [AWS: Automation — Baseline Setup for Public Dataset](Project_014866/README.md) |
+| 014867 | [AWS: Automation — Automation for Public Dataset](Project_014867/README.md) |
+| 014868 | [AWS: Automation — Recovery for Public Dataset](Project_014868/README.md) |
+| 014869 | [AWS: Automation — Reporting for Public Dataset](Project_014869/README.md) |
+| 014870 | [AWS: Automation — Usability Improvement for Public Dataset](Project_014870/README.md) |
+| 014871 | [AWS: Automation — Baseline Setup for Branch Office Simulator](Project_014871/README.md) |
+| 014872 | [AWS: Automation — Automation for Branch Office Simulator](Project_014872/README.md) |
+| 014873 | [AWS: Automation — Recovery for Branch Office Simulator](Project_014873/README.md) |
+| 014874 | [AWS: Automation — Reporting for Branch Office Simulator](Project_014874/README.md) |
+| 014875 | [AWS: Automation — Usability Improvement for Branch Office Simulator](Project_014875/README.md) |
+| 014876 | [AWS: Automation — Baseline Setup for Offline Classroom](Project_014876/README.md) |
+| 014877 | [AWS: Automation — Automation for Offline Classroom](Project_014877/README.md) |
+| 014878 | [AWS: Automation — Recovery for Offline Classroom](Project_014878/README.md) |
+| 014879 | [AWS: Automation — Reporting for Offline Classroom](Project_014879/README.md) |
+| 014880 | [AWS: Automation — Usability Improvement for Offline Classroom](Project_014880/README.md) |
 
 [Back to the portfolio home](../README.md)
