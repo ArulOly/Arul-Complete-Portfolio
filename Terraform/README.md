@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046978 | [Terraform: Recovery Test — Recovery for Offline Classroom](Project_046978/README.md) |
 | 046979 | [Terraform: Recovery Test — Reporting for Offline Classroom](Project_046979/README.md) |
 | 046980 | [Terraform: Recovery Test — Usability Improvement for Offline Classroom](Project_046980/README.md) |
+| 046981 | [Terraform: Recovery Test — Baseline Setup for Single-Host Lab](Project_046981/README.md) |
+| 046982 | [Terraform: Recovery Test — Automation for Single-Host Lab](Project_046982/README.md) |
+| 046983 | [Terraform: Recovery Test — Recovery for Single-Host Lab](Project_046983/README.md) |
+| 046984 | [Terraform: Recovery Test — Reporting for Single-Host Lab](Project_046984/README.md) |
+| 046985 | [Terraform: Recovery Test — Usability Improvement for Single-Host Lab](Project_046985/README.md) |
+| 046986 | [Terraform: Recovery Test — Baseline Setup for Two-Node Lab](Project_046986/README.md) |
+| 046987 | [Terraform: Recovery Test — Automation for Two-Node Lab](Project_046987/README.md) |
+| 046988 | [Terraform: Recovery Test — Recovery for Two-Node Lab](Project_046988/README.md) |
+| 046989 | [Terraform: Recovery Test — Reporting for Two-Node Lab](Project_046989/README.md) |
+| 046990 | [Terraform: Recovery Test — Usability Improvement for Two-Node Lab](Project_046990/README.md) |
+| 046991 | [Terraform: Recovery Test — Baseline Setup for Help Desk](Project_046991/README.md) |
+| 046992 | [Terraform: Recovery Test — Automation for Help Desk](Project_046992/README.md) |
+| 046993 | [Terraform: Recovery Test — Recovery for Help Desk](Project_046993/README.md) |
+| 046994 | [Terraform: Recovery Test — Reporting for Help Desk](Project_046994/README.md) |
+| 046995 | [Terraform: Recovery Test — Usability Improvement for Help Desk](Project_046995/README.md) |
+| 046996 | [Terraform: Recovery Test — Baseline Setup for Portfolio Demo](Project_046996/README.md) |
+| 046997 | [Terraform: Recovery Test — Automation for Portfolio Demo](Project_046997/README.md) |
+| 046998 | [Terraform: Recovery Test — Recovery for Portfolio Demo](Project_046998/README.md) |
+| 046999 | [Terraform: Recovery Test — Reporting for Portfolio Demo](Project_046999/README.md) |
+| 047000 | [Terraform: Recovery Test — Usability Improvement for Portfolio Demo](Project_047000/README.md) |
 
 [Back to the portfolio home](../README.md)
