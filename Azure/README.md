@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015298 | [Azure: Data Import — Recovery for Portfolio Demo](Project_015298/README.md) |
 | 015299 | [Azure: Data Import — Reporting for Portfolio Demo](Project_015299/README.md) |
 | 015300 | [Azure: Data Import — Usability Improvement for Portfolio Demo](Project_015300/README.md) |
+| 015301 | [Azure: Data Export — Baseline Setup for School Lab](Project_015301/README.md) |
+| 015302 | [Azure: Data Export — Automation for School Lab](Project_015302/README.md) |
+| 015303 | [Azure: Data Export — Recovery for School Lab](Project_015303/README.md) |
+| 015304 | [Azure: Data Export — Reporting for School Lab](Project_015304/README.md) |
+| 015305 | [Azure: Data Export — Usability Improvement for School Lab](Project_015305/README.md) |
+| 015306 | [Azure: Data Export — Baseline Setup for Small Business](Project_015306/README.md) |
+| 015307 | [Azure: Data Export — Automation for Small Business](Project_015307/README.md) |
+| 015308 | [Azure: Data Export — Recovery for Small Business](Project_015308/README.md) |
+| 015309 | [Azure: Data Export — Reporting for Small Business](Project_015309/README.md) |
+| 015310 | [Azure: Data Export — Usability Improvement for Small Business](Project_015310/README.md) |
+| 015311 | [Azure: Data Export — Baseline Setup for Home Development](Project_015311/README.md) |
+| 015312 | [Azure: Data Export — Automation for Home Development](Project_015312/README.md) |
+| 015313 | [Azure: Data Export — Recovery for Home Development](Project_015313/README.md) |
+| 015314 | [Azure: Data Export — Reporting for Home Development](Project_015314/README.md) |
+| 015315 | [Azure: Data Export — Usability Improvement for Home Development](Project_015315/README.md) |
+| 015316 | [Azure: Data Export — Baseline Setup for Public Dataset](Project_015316/README.md) |
+| 015317 | [Azure: Data Export — Automation for Public Dataset](Project_015317/README.md) |
+| 015318 | [Azure: Data Export — Recovery for Public Dataset](Project_015318/README.md) |
+| 015319 | [Azure: Data Export — Reporting for Public Dataset](Project_015319/README.md) |
+| 015320 | [Azure: Data Export — Usability Improvement for Public Dataset](Project_015320/README.md) |
 
 [Back to the portfolio home](../README.md)
