@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036618 | [ESP32: Service Check — Recovery for Public Dataset](Project_036618/README.md) |
 | 036619 | [ESP32: Service Check — Reporting for Public Dataset](Project_036619/README.md) |
 | 036620 | [ESP32: Service Check — Usability Improvement for Public Dataset](Project_036620/README.md) |
+| 036621 | [ESP32: Service Check — Baseline Setup for Branch Office Simulator](Project_036621/README.md) |
+| 036622 | [ESP32: Service Check — Automation for Branch Office Simulator](Project_036622/README.md) |
+| 036623 | [ESP32: Service Check — Recovery for Branch Office Simulator](Project_036623/README.md) |
+| 036624 | [ESP32: Service Check — Reporting for Branch Office Simulator](Project_036624/README.md) |
+| 036625 | [ESP32: Service Check — Usability Improvement for Branch Office Simulator](Project_036625/README.md) |
+| 036626 | [ESP32: Service Check — Baseline Setup for Offline Classroom](Project_036626/README.md) |
+| 036627 | [ESP32: Service Check — Automation for Offline Classroom](Project_036627/README.md) |
+| 036628 | [ESP32: Service Check — Recovery for Offline Classroom](Project_036628/README.md) |
+| 036629 | [ESP32: Service Check — Reporting for Offline Classroom](Project_036629/README.md) |
+| 036630 | [ESP32: Service Check — Usability Improvement for Offline Classroom](Project_036630/README.md) |
+| 036631 | [ESP32: Service Check — Baseline Setup for Single-Host Lab](Project_036631/README.md) |
+| 036632 | [ESP32: Service Check — Automation for Single-Host Lab](Project_036632/README.md) |
+| 036633 | [ESP32: Service Check — Recovery for Single-Host Lab](Project_036633/README.md) |
+| 036634 | [ESP32: Service Check — Reporting for Single-Host Lab](Project_036634/README.md) |
+| 036635 | [ESP32: Service Check — Usability Improvement for Single-Host Lab](Project_036635/README.md) |
+| 036636 | [ESP32: Service Check — Baseline Setup for Two-Node Lab](Project_036636/README.md) |
+| 036637 | [ESP32: Service Check — Automation for Two-Node Lab](Project_036637/README.md) |
+| 036638 | [ESP32: Service Check — Recovery for Two-Node Lab](Project_036638/README.md) |
+| 036639 | [ESP32: Service Check — Reporting for Two-Node Lab](Project_036639/README.md) |
+| 036640 | [ESP32: Service Check — Usability Improvement for Two-Node Lab](Project_036640/README.md) |
 
 [Back to the portfolio home](../README.md)
