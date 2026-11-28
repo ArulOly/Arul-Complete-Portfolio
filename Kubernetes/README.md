@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018938 | [Kubernetes: Visual Reporting — Recovery for Two-Node Lab](Project_018938/README.md) |
 | 018939 | [Kubernetes: Visual Reporting — Reporting for Two-Node Lab](Project_018939/README.md) |
 | 018940 | [Kubernetes: Visual Reporting — Usability Improvement for Two-Node Lab](Project_018940/README.md) |
+| 018941 | [Kubernetes: Visual Reporting — Baseline Setup for Help Desk](Project_018941/README.md) |
+| 018942 | [Kubernetes: Visual Reporting — Automation for Help Desk](Project_018942/README.md) |
+| 018943 | [Kubernetes: Visual Reporting — Recovery for Help Desk](Project_018943/README.md) |
+| 018944 | [Kubernetes: Visual Reporting — Reporting for Help Desk](Project_018944/README.md) |
+| 018945 | [Kubernetes: Visual Reporting — Usability Improvement for Help Desk](Project_018945/README.md) |
+| 018946 | [Kubernetes: Visual Reporting — Baseline Setup for Portfolio Demo](Project_018946/README.md) |
+| 018947 | [Kubernetes: Visual Reporting — Automation for Portfolio Demo](Project_018947/README.md) |
+| 018948 | [Kubernetes: Visual Reporting — Recovery for Portfolio Demo](Project_018948/README.md) |
+| 018949 | [Kubernetes: Visual Reporting — Reporting for Portfolio Demo](Project_018949/README.md) |
+| 018950 | [Kubernetes: Visual Reporting — Usability Improvement for Portfolio Demo](Project_018950/README.md) |
+| 018951 | [Kubernetes: Recovery Test — Baseline Setup for School Lab](Project_018951/README.md) |
+| 018952 | [Kubernetes: Recovery Test — Automation for School Lab](Project_018952/README.md) |
+| 018953 | [Kubernetes: Recovery Test — Recovery for School Lab](Project_018953/README.md) |
+| 018954 | [Kubernetes: Recovery Test — Reporting for School Lab](Project_018954/README.md) |
+| 018955 | [Kubernetes: Recovery Test — Usability Improvement for School Lab](Project_018955/README.md) |
+| 018956 | [Kubernetes: Recovery Test — Baseline Setup for Small Business](Project_018956/README.md) |
+| 018957 | [Kubernetes: Recovery Test — Automation for Small Business](Project_018957/README.md) |
+| 018958 | [Kubernetes: Recovery Test — Recovery for Small Business](Project_018958/README.md) |
+| 018959 | [Kubernetes: Recovery Test — Reporting for Small Business](Project_018959/README.md) |
+| 018960 | [Kubernetes: Recovery Test — Usability Improvement for Small Business](Project_018960/README.md) |
 
 [Back to the portfolio home](../README.md)
