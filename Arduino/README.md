@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037198 | [Arduino: Log Analysis — Recovery for Portfolio Demo](Project_037198/README.md) |
 | 037199 | [Arduino: Log Analysis — Reporting for Portfolio Demo](Project_037199/README.md) |
 | 037200 | [Arduino: Log Analysis — Usability Improvement for Portfolio Demo](Project_037200/README.md) |
+| 037201 | [Arduino: Backup Verification — Baseline Setup for School Lab](Project_037201/README.md) |
+| 037202 | [Arduino: Backup Verification — Automation for School Lab](Project_037202/README.md) |
+| 037203 | [Arduino: Backup Verification — Recovery for School Lab](Project_037203/README.md) |
+| 037204 | [Arduino: Backup Verification — Reporting for School Lab](Project_037204/README.md) |
+| 037205 | [Arduino: Backup Verification — Usability Improvement for School Lab](Project_037205/README.md) |
+| 037206 | [Arduino: Backup Verification — Baseline Setup for Small Business](Project_037206/README.md) |
+| 037207 | [Arduino: Backup Verification — Automation for Small Business](Project_037207/README.md) |
+| 037208 | [Arduino: Backup Verification — Recovery for Small Business](Project_037208/README.md) |
+| 037209 | [Arduino: Backup Verification — Reporting for Small Business](Project_037209/README.md) |
+| 037210 | [Arduino: Backup Verification — Usability Improvement for Small Business](Project_037210/README.md) |
+| 037211 | [Arduino: Backup Verification — Baseline Setup for Home Development](Project_037211/README.md) |
+| 037212 | [Arduino: Backup Verification — Automation for Home Development](Project_037212/README.md) |
+| 037213 | [Arduino: Backup Verification — Recovery for Home Development](Project_037213/README.md) |
+| 037214 | [Arduino: Backup Verification — Reporting for Home Development](Project_037214/README.md) |
+| 037215 | [Arduino: Backup Verification — Usability Improvement for Home Development](Project_037215/README.md) |
+| 037216 | [Arduino: Backup Verification — Baseline Setup for Public Dataset](Project_037216/README.md) |
+| 037217 | [Arduino: Backup Verification — Automation for Public Dataset](Project_037217/README.md) |
+| 037218 | [Arduino: Backup Verification — Recovery for Public Dataset](Project_037218/README.md) |
+| 037219 | [Arduino: Backup Verification — Reporting for Public Dataset](Project_037219/README.md) |
+| 037220 | [Arduino: Backup Verification — Usability Improvement for Public Dataset](Project_037220/README.md) |
 
 [Back to the portfolio home](../README.md)
