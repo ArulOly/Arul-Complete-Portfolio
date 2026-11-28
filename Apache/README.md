@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042838 | [Apache: Documentation Generation — Recovery for Two-Node Lab](Project_042838/README.md) |
 | 042839 | [Apache: Documentation Generation — Reporting for Two-Node Lab](Project_042839/README.md) |
 | 042840 | [Apache: Documentation Generation — Usability Improvement for Two-Node Lab](Project_042840/README.md) |
+| 042841 | [Apache: Documentation Generation — Baseline Setup for Help Desk](Project_042841/README.md) |
+| 042842 | [Apache: Documentation Generation — Automation for Help Desk](Project_042842/README.md) |
+| 042843 | [Apache: Documentation Generation — Recovery for Help Desk](Project_042843/README.md) |
+| 042844 | [Apache: Documentation Generation — Reporting for Help Desk](Project_042844/README.md) |
+| 042845 | [Apache: Documentation Generation — Usability Improvement for Help Desk](Project_042845/README.md) |
+| 042846 | [Apache: Documentation Generation — Baseline Setup for Portfolio Demo](Project_042846/README.md) |
+| 042847 | [Apache: Documentation Generation — Automation for Portfolio Demo](Project_042847/README.md) |
+| 042848 | [Apache: Documentation Generation — Recovery for Portfolio Demo](Project_042848/README.md) |
+| 042849 | [Apache: Documentation Generation — Reporting for Portfolio Demo](Project_042849/README.md) |
+| 042850 | [Apache: Documentation Generation — Usability Improvement for Portfolio Demo](Project_042850/README.md) |
+| 042851 | [Apache: Automation — Baseline Setup for School Lab](Project_042851/README.md) |
+| 042852 | [Apache: Automation — Automation for School Lab](Project_042852/README.md) |
+| 042853 | [Apache: Automation — Recovery for School Lab](Project_042853/README.md) |
+| 042854 | [Apache: Automation — Reporting for School Lab](Project_042854/README.md) |
+| 042855 | [Apache: Automation — Usability Improvement for School Lab](Project_042855/README.md) |
+| 042856 | [Apache: Automation — Baseline Setup for Small Business](Project_042856/README.md) |
+| 042857 | [Apache: Automation — Automation for Small Business](Project_042857/README.md) |
+| 042858 | [Apache: Automation — Recovery for Small Business](Project_042858/README.md) |
+| 042859 | [Apache: Automation — Reporting for Small Business](Project_042859/README.md) |
+| 042860 | [Apache: Automation — Usability Improvement for Small Business](Project_042860/README.md) |
 
 [Back to the portfolio home](../README.md)
