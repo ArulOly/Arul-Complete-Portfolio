@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018798 | [Kubernetes: Data Validation — Recovery for Portfolio Demo](Project_018798/README.md) |
 | 018799 | [Kubernetes: Data Validation — Reporting for Portfolio Demo](Project_018799/README.md) |
 | 018800 | [Kubernetes: Data Validation — Usability Improvement for Portfolio Demo](Project_018800/README.md) |
+| 018801 | [Kubernetes: Documentation Generation — Baseline Setup for School Lab](Project_018801/README.md) |
+| 018802 | [Kubernetes: Documentation Generation — Automation for School Lab](Project_018802/README.md) |
+| 018803 | [Kubernetes: Documentation Generation — Recovery for School Lab](Project_018803/README.md) |
+| 018804 | [Kubernetes: Documentation Generation — Reporting for School Lab](Project_018804/README.md) |
+| 018805 | [Kubernetes: Documentation Generation — Usability Improvement for School Lab](Project_018805/README.md) |
+| 018806 | [Kubernetes: Documentation Generation — Baseline Setup for Small Business](Project_018806/README.md) |
+| 018807 | [Kubernetes: Documentation Generation — Automation for Small Business](Project_018807/README.md) |
+| 018808 | [Kubernetes: Documentation Generation — Recovery for Small Business](Project_018808/README.md) |
+| 018809 | [Kubernetes: Documentation Generation — Reporting for Small Business](Project_018809/README.md) |
+| 018810 | [Kubernetes: Documentation Generation — Usability Improvement for Small Business](Project_018810/README.md) |
+| 018811 | [Kubernetes: Documentation Generation — Baseline Setup for Home Development](Project_018811/README.md) |
+| 018812 | [Kubernetes: Documentation Generation — Automation for Home Development](Project_018812/README.md) |
+| 018813 | [Kubernetes: Documentation Generation — Recovery for Home Development](Project_018813/README.md) |
+| 018814 | [Kubernetes: Documentation Generation — Reporting for Home Development](Project_018814/README.md) |
+| 018815 | [Kubernetes: Documentation Generation — Usability Improvement for Home Development](Project_018815/README.md) |
+| 018816 | [Kubernetes: Documentation Generation — Baseline Setup for Public Dataset](Project_018816/README.md) |
+| 018817 | [Kubernetes: Documentation Generation — Automation for Public Dataset](Project_018817/README.md) |
+| 018818 | [Kubernetes: Documentation Generation — Recovery for Public Dataset](Project_018818/README.md) |
+| 018819 | [Kubernetes: Documentation Generation — Reporting for Public Dataset](Project_018819/README.md) |
+| 018820 | [Kubernetes: Documentation Generation — Usability Improvement for Public Dataset](Project_018820/README.md) |
 
 [Back to the portfolio home](../README.md)
