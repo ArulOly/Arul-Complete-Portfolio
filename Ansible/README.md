@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047678 | [Ansible: Configuration Comparison — Recovery for Offline Classroom](Project_047678/README.md) |
 | 047679 | [Ansible: Configuration Comparison — Reporting for Offline Classroom](Project_047679/README.md) |
 | 047680 | [Ansible: Configuration Comparison — Usability Improvement for Offline Classroom](Project_047680/README.md) |
+| 047681 | [Ansible: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_047681/README.md) |
+| 047682 | [Ansible: Configuration Comparison — Automation for Single-Host Lab](Project_047682/README.md) |
+| 047683 | [Ansible: Configuration Comparison — Recovery for Single-Host Lab](Project_047683/README.md) |
+| 047684 | [Ansible: Configuration Comparison — Reporting for Single-Host Lab](Project_047684/README.md) |
+| 047685 | [Ansible: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_047685/README.md) |
+| 047686 | [Ansible: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_047686/README.md) |
+| 047687 | [Ansible: Configuration Comparison — Automation for Two-Node Lab](Project_047687/README.md) |
+| 047688 | [Ansible: Configuration Comparison — Recovery for Two-Node Lab](Project_047688/README.md) |
+| 047689 | [Ansible: Configuration Comparison — Reporting for Two-Node Lab](Project_047689/README.md) |
+| 047690 | [Ansible: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_047690/README.md) |
+| 047691 | [Ansible: Configuration Comparison — Baseline Setup for Help Desk](Project_047691/README.md) |
+| 047692 | [Ansible: Configuration Comparison — Automation for Help Desk](Project_047692/README.md) |
+| 047693 | [Ansible: Configuration Comparison — Recovery for Help Desk](Project_047693/README.md) |
+| 047694 | [Ansible: Configuration Comparison — Reporting for Help Desk](Project_047694/README.md) |
+| 047695 | [Ansible: Configuration Comparison — Usability Improvement for Help Desk](Project_047695/README.md) |
+| 047696 | [Ansible: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_047696/README.md) |
+| 047697 | [Ansible: Configuration Comparison — Automation for Portfolio Demo](Project_047697/README.md) |
+| 047698 | [Ansible: Configuration Comparison — Recovery for Portfolio Demo](Project_047698/README.md) |
+| 047699 | [Ansible: Configuration Comparison — Reporting for Portfolio Demo](Project_047699/README.md) |
+| 047700 | [Ansible: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_047700/README.md) |
 
 [Back to the portfolio home](../README.md)
