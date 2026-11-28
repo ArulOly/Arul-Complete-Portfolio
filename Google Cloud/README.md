@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016578 | [Google Cloud: Performance Baseline — Recovery for Offline Classroom](Project_016578/README.md) |
 | 016579 | [Google Cloud: Performance Baseline — Reporting for Offline Classroom](Project_016579/README.md) |
 | 016580 | [Google Cloud: Performance Baseline — Usability Improvement for Offline Classroom](Project_016580/README.md) |
+| 016581 | [Google Cloud: Performance Baseline — Baseline Setup for Single-Host Lab](Project_016581/README.md) |
+| 016582 | [Google Cloud: Performance Baseline — Automation for Single-Host Lab](Project_016582/README.md) |
+| 016583 | [Google Cloud: Performance Baseline — Recovery for Single-Host Lab](Project_016583/README.md) |
+| 016584 | [Google Cloud: Performance Baseline — Reporting for Single-Host Lab](Project_016584/README.md) |
+| 016585 | [Google Cloud: Performance Baseline — Usability Improvement for Single-Host Lab](Project_016585/README.md) |
+| 016586 | [Google Cloud: Performance Baseline — Baseline Setup for Two-Node Lab](Project_016586/README.md) |
+| 016587 | [Google Cloud: Performance Baseline — Automation for Two-Node Lab](Project_016587/README.md) |
+| 016588 | [Google Cloud: Performance Baseline — Recovery for Two-Node Lab](Project_016588/README.md) |
+| 016589 | [Google Cloud: Performance Baseline — Reporting for Two-Node Lab](Project_016589/README.md) |
+| 016590 | [Google Cloud: Performance Baseline — Usability Improvement for Two-Node Lab](Project_016590/README.md) |
+| 016591 | [Google Cloud: Performance Baseline — Baseline Setup for Help Desk](Project_016591/README.md) |
+| 016592 | [Google Cloud: Performance Baseline — Automation for Help Desk](Project_016592/README.md) |
+| 016593 | [Google Cloud: Performance Baseline — Recovery for Help Desk](Project_016593/README.md) |
+| 016594 | [Google Cloud: Performance Baseline — Reporting for Help Desk](Project_016594/README.md) |
+| 016595 | [Google Cloud: Performance Baseline — Usability Improvement for Help Desk](Project_016595/README.md) |
+| 016596 | [Google Cloud: Performance Baseline — Baseline Setup for Portfolio Demo](Project_016596/README.md) |
+| 016597 | [Google Cloud: Performance Baseline — Automation for Portfolio Demo](Project_016597/README.md) |
+| 016598 | [Google Cloud: Performance Baseline — Recovery for Portfolio Demo](Project_016598/README.md) |
+| 016599 | [Google Cloud: Performance Baseline — Reporting for Portfolio Demo](Project_016599/README.md) |
+| 016600 | [Google Cloud: Performance Baseline — Usability Improvement for Portfolio Demo](Project_016600/README.md) |
 
 [Back to the portfolio home](../README.md)
