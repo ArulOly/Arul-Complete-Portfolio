@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031978 | [Greenbone: Recovery Test — Recovery for Offline Classroom](Project_031978/README.md) |
 | 031979 | [Greenbone: Recovery Test — Reporting for Offline Classroom](Project_031979/README.md) |
 | 031980 | [Greenbone: Recovery Test — Usability Improvement for Offline Classroom](Project_031980/README.md) |
+| 031981 | [Greenbone: Recovery Test — Baseline Setup for Single-Host Lab](Project_031981/README.md) |
+| 031982 | [Greenbone: Recovery Test — Automation for Single-Host Lab](Project_031982/README.md) |
+| 031983 | [Greenbone: Recovery Test — Recovery for Single-Host Lab](Project_031983/README.md) |
+| 031984 | [Greenbone: Recovery Test — Reporting for Single-Host Lab](Project_031984/README.md) |
+| 031985 | [Greenbone: Recovery Test — Usability Improvement for Single-Host Lab](Project_031985/README.md) |
+| 031986 | [Greenbone: Recovery Test — Baseline Setup for Two-Node Lab](Project_031986/README.md) |
+| 031987 | [Greenbone: Recovery Test — Automation for Two-Node Lab](Project_031987/README.md) |
+| 031988 | [Greenbone: Recovery Test — Recovery for Two-Node Lab](Project_031988/README.md) |
+| 031989 | [Greenbone: Recovery Test — Reporting for Two-Node Lab](Project_031989/README.md) |
+| 031990 | [Greenbone: Recovery Test — Usability Improvement for Two-Node Lab](Project_031990/README.md) |
+| 031991 | [Greenbone: Recovery Test — Baseline Setup for Help Desk](Project_031991/README.md) |
+| 031992 | [Greenbone: Recovery Test — Automation for Help Desk](Project_031992/README.md) |
+| 031993 | [Greenbone: Recovery Test — Recovery for Help Desk](Project_031993/README.md) |
+| 031994 | [Greenbone: Recovery Test — Reporting for Help Desk](Project_031994/README.md) |
+| 031995 | [Greenbone: Recovery Test — Usability Improvement for Help Desk](Project_031995/README.md) |
+| 031996 | [Greenbone: Recovery Test — Baseline Setup for Portfolio Demo](Project_031996/README.md) |
+| 031997 | [Greenbone: Recovery Test — Automation for Portfolio Demo](Project_031997/README.md) |
+| 031998 | [Greenbone: Recovery Test — Recovery for Portfolio Demo](Project_031998/README.md) |
+| 031999 | [Greenbone: Recovery Test — Reporting for Portfolio Demo](Project_031999/README.md) |
+| 032000 | [Greenbone: Recovery Test — Usability Improvement for Portfolio Demo](Project_032000/README.md) |
 
 [Back to the portfolio home](../README.md)
