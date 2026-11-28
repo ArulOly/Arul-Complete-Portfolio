@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039858 | [Bash: Automation — Recovery for Small Business](Project_039858/README.md) |
 | 039859 | [Bash: Automation — Reporting for Small Business](Project_039859/README.md) |
 | 039860 | [Bash: Automation — Usability Improvement for Small Business](Project_039860/README.md) |
+| 039861 | [Bash: Automation — Baseline Setup for Home Development](Project_039861/README.md) |
+| 039862 | [Bash: Automation — Automation for Home Development](Project_039862/README.md) |
+| 039863 | [Bash: Automation — Recovery for Home Development](Project_039863/README.md) |
+| 039864 | [Bash: Automation — Reporting for Home Development](Project_039864/README.md) |
+| 039865 | [Bash: Automation — Usability Improvement for Home Development](Project_039865/README.md) |
+| 039866 | [Bash: Automation — Baseline Setup for Public Dataset](Project_039866/README.md) |
+| 039867 | [Bash: Automation — Automation for Public Dataset](Project_039867/README.md) |
+| 039868 | [Bash: Automation — Recovery for Public Dataset](Project_039868/README.md) |
+| 039869 | [Bash: Automation — Reporting for Public Dataset](Project_039869/README.md) |
+| 039870 | [Bash: Automation — Usability Improvement for Public Dataset](Project_039870/README.md) |
+| 039871 | [Bash: Automation — Baseline Setup for Branch Office Simulator](Project_039871/README.md) |
+| 039872 | [Bash: Automation — Automation for Branch Office Simulator](Project_039872/README.md) |
+| 039873 | [Bash: Automation — Recovery for Branch Office Simulator](Project_039873/README.md) |
+| 039874 | [Bash: Automation — Reporting for Branch Office Simulator](Project_039874/README.md) |
+| 039875 | [Bash: Automation — Usability Improvement for Branch Office Simulator](Project_039875/README.md) |
+| 039876 | [Bash: Automation — Baseline Setup for Offline Classroom](Project_039876/README.md) |
+| 039877 | [Bash: Automation — Automation for Offline Classroom](Project_039877/README.md) |
+| 039878 | [Bash: Automation — Recovery for Offline Classroom](Project_039878/README.md) |
+| 039879 | [Bash: Automation — Reporting for Offline Classroom](Project_039879/README.md) |
+| 039880 | [Bash: Automation — Usability Improvement for Offline Classroom](Project_039880/README.md) |
 
 [Back to the portfolio home](../README.md)
