@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040058 | [PowerShell: Monitoring — Recovery for Small Business](Project_040058/README.md) |
 | 040059 | [PowerShell: Monitoring — Reporting for Small Business](Project_040059/README.md) |
 | 040060 | [PowerShell: Monitoring — Usability Improvement for Small Business](Project_040060/README.md) |
+| 040061 | [PowerShell: Monitoring — Baseline Setup for Home Development](Project_040061/README.md) |
+| 040062 | [PowerShell: Monitoring — Automation for Home Development](Project_040062/README.md) |
+| 040063 | [PowerShell: Monitoring — Recovery for Home Development](Project_040063/README.md) |
+| 040064 | [PowerShell: Monitoring — Reporting for Home Development](Project_040064/README.md) |
+| 040065 | [PowerShell: Monitoring — Usability Improvement for Home Development](Project_040065/README.md) |
+| 040066 | [PowerShell: Monitoring — Baseline Setup for Public Dataset](Project_040066/README.md) |
+| 040067 | [PowerShell: Monitoring — Automation for Public Dataset](Project_040067/README.md) |
+| 040068 | [PowerShell: Monitoring — Recovery for Public Dataset](Project_040068/README.md) |
+| 040069 | [PowerShell: Monitoring — Reporting for Public Dataset](Project_040069/README.md) |
+| 040070 | [PowerShell: Monitoring — Usability Improvement for Public Dataset](Project_040070/README.md) |
+| 040071 | [PowerShell: Monitoring — Baseline Setup for Branch Office Simulator](Project_040071/README.md) |
+| 040072 | [PowerShell: Monitoring — Automation for Branch Office Simulator](Project_040072/README.md) |
+| 040073 | [PowerShell: Monitoring — Recovery for Branch Office Simulator](Project_040073/README.md) |
+| 040074 | [PowerShell: Monitoring — Reporting for Branch Office Simulator](Project_040074/README.md) |
+| 040075 | [PowerShell: Monitoring — Usability Improvement for Branch Office Simulator](Project_040075/README.md) |
+| 040076 | [PowerShell: Monitoring — Baseline Setup for Offline Classroom](Project_040076/README.md) |
+| 040077 | [PowerShell: Monitoring — Automation for Offline Classroom](Project_040077/README.md) |
+| 040078 | [PowerShell: Monitoring — Recovery for Offline Classroom](Project_040078/README.md) |
+| 040079 | [PowerShell: Monitoring — Reporting for Offline Classroom](Project_040079/README.md) |
+| 040080 | [PowerShell: Monitoring — Usability Improvement for Offline Classroom](Project_040080/README.md) |
 
 [Back to the portfolio home](../README.md)
