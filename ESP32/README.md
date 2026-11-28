@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036538 | [ESP32: Access Review — Recovery for Two-Node Lab](Project_036538/README.md) |
 | 036539 | [ESP32: Access Review — Reporting for Two-Node Lab](Project_036539/README.md) |
 | 036540 | [ESP32: Access Review — Usability Improvement for Two-Node Lab](Project_036540/README.md) |
+| 036541 | [ESP32: Access Review — Baseline Setup for Help Desk](Project_036541/README.md) |
+| 036542 | [ESP32: Access Review — Automation for Help Desk](Project_036542/README.md) |
+| 036543 | [ESP32: Access Review — Recovery for Help Desk](Project_036543/README.md) |
+| 036544 | [ESP32: Access Review — Reporting for Help Desk](Project_036544/README.md) |
+| 036545 | [ESP32: Access Review — Usability Improvement for Help Desk](Project_036545/README.md) |
+| 036546 | [ESP32: Access Review — Baseline Setup for Portfolio Demo](Project_036546/README.md) |
+| 036547 | [ESP32: Access Review — Automation for Portfolio Demo](Project_036547/README.md) |
+| 036548 | [ESP32: Access Review — Recovery for Portfolio Demo](Project_036548/README.md) |
+| 036549 | [ESP32: Access Review — Reporting for Portfolio Demo](Project_036549/README.md) |
+| 036550 | [ESP32: Access Review — Usability Improvement for Portfolio Demo](Project_036550/README.md) |
+| 036551 | [ESP32: Performance Baseline — Baseline Setup for School Lab](Project_036551/README.md) |
+| 036552 | [ESP32: Performance Baseline — Automation for School Lab](Project_036552/README.md) |
+| 036553 | [ESP32: Performance Baseline — Recovery for School Lab](Project_036553/README.md) |
+| 036554 | [ESP32: Performance Baseline — Reporting for School Lab](Project_036554/README.md) |
+| 036555 | [ESP32: Performance Baseline — Usability Improvement for School Lab](Project_036555/README.md) |
+| 036556 | [ESP32: Performance Baseline — Baseline Setup for Small Business](Project_036556/README.md) |
+| 036557 | [ESP32: Performance Baseline — Automation for Small Business](Project_036557/README.md) |
+| 036558 | [ESP32: Performance Baseline — Recovery for Small Business](Project_036558/README.md) |
+| 036559 | [ESP32: Performance Baseline — Reporting for Small Business](Project_036559/README.md) |
+| 036560 | [ESP32: Performance Baseline — Usability Improvement for Small Business](Project_036560/README.md) |
 
 [Back to the portfolio home](../README.md)
