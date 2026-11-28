@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039158 | [Bash: Log Analysis — Recovery for Small Business](Project_039158/README.md) |
 | 039159 | [Bash: Log Analysis — Reporting for Small Business](Project_039159/README.md) |
 | 039160 | [Bash: Log Analysis — Usability Improvement for Small Business](Project_039160/README.md) |
+| 039161 | [Bash: Log Analysis — Baseline Setup for Home Development](Project_039161/README.md) |
+| 039162 | [Bash: Log Analysis — Automation for Home Development](Project_039162/README.md) |
+| 039163 | [Bash: Log Analysis — Recovery for Home Development](Project_039163/README.md) |
+| 039164 | [Bash: Log Analysis — Reporting for Home Development](Project_039164/README.md) |
+| 039165 | [Bash: Log Analysis — Usability Improvement for Home Development](Project_039165/README.md) |
+| 039166 | [Bash: Log Analysis — Baseline Setup for Public Dataset](Project_039166/README.md) |
+| 039167 | [Bash: Log Analysis — Automation for Public Dataset](Project_039167/README.md) |
+| 039168 | [Bash: Log Analysis — Recovery for Public Dataset](Project_039168/README.md) |
+| 039169 | [Bash: Log Analysis — Reporting for Public Dataset](Project_039169/README.md) |
+| 039170 | [Bash: Log Analysis — Usability Improvement for Public Dataset](Project_039170/README.md) |
+| 039171 | [Bash: Log Analysis — Baseline Setup for Branch Office Simulator](Project_039171/README.md) |
+| 039172 | [Bash: Log Analysis — Automation for Branch Office Simulator](Project_039172/README.md) |
+| 039173 | [Bash: Log Analysis — Recovery for Branch Office Simulator](Project_039173/README.md) |
+| 039174 | [Bash: Log Analysis — Reporting for Branch Office Simulator](Project_039174/README.md) |
+| 039175 | [Bash: Log Analysis — Usability Improvement for Branch Office Simulator](Project_039175/README.md) |
+| 039176 | [Bash: Log Analysis — Baseline Setup for Offline Classroom](Project_039176/README.md) |
+| 039177 | [Bash: Log Analysis — Automation for Offline Classroom](Project_039177/README.md) |
+| 039178 | [Bash: Log Analysis — Recovery for Offline Classroom](Project_039178/README.md) |
+| 039179 | [Bash: Log Analysis — Reporting for Offline Classroom](Project_039179/README.md) |
+| 039180 | [Bash: Log Analysis — Usability Improvement for Offline Classroom](Project_039180/README.md) |
 
 [Back to the portfolio home](../README.md)
