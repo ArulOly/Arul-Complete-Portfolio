@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040798 | [PowerShell: Data Validation — Recovery for Portfolio Demo](Project_040798/README.md) |
 | 040799 | [PowerShell: Data Validation — Reporting for Portfolio Demo](Project_040799/README.md) |
 | 040800 | [PowerShell: Data Validation — Usability Improvement for Portfolio Demo](Project_040800/README.md) |
+| 040801 | [PowerShell: Documentation Generation — Baseline Setup for School Lab](Project_040801/README.md) |
+| 040802 | [PowerShell: Documentation Generation — Automation for School Lab](Project_040802/README.md) |
+| 040803 | [PowerShell: Documentation Generation — Recovery for School Lab](Project_040803/README.md) |
+| 040804 | [PowerShell: Documentation Generation — Reporting for School Lab](Project_040804/README.md) |
+| 040805 | [PowerShell: Documentation Generation — Usability Improvement for School Lab](Project_040805/README.md) |
+| 040806 | [PowerShell: Documentation Generation — Baseline Setup for Small Business](Project_040806/README.md) |
+| 040807 | [PowerShell: Documentation Generation — Automation for Small Business](Project_040807/README.md) |
+| 040808 | [PowerShell: Documentation Generation — Recovery for Small Business](Project_040808/README.md) |
+| 040809 | [PowerShell: Documentation Generation — Reporting for Small Business](Project_040809/README.md) |
+| 040810 | [PowerShell: Documentation Generation — Usability Improvement for Small Business](Project_040810/README.md) |
+| 040811 | [PowerShell: Documentation Generation — Baseline Setup for Home Development](Project_040811/README.md) |
+| 040812 | [PowerShell: Documentation Generation — Automation for Home Development](Project_040812/README.md) |
+| 040813 | [PowerShell: Documentation Generation — Recovery for Home Development](Project_040813/README.md) |
+| 040814 | [PowerShell: Documentation Generation — Reporting for Home Development](Project_040814/README.md) |
+| 040815 | [PowerShell: Documentation Generation — Usability Improvement for Home Development](Project_040815/README.md) |
+| 040816 | [PowerShell: Documentation Generation — Baseline Setup for Public Dataset](Project_040816/README.md) |
+| 040817 | [PowerShell: Documentation Generation — Automation for Public Dataset](Project_040817/README.md) |
+| 040818 | [PowerShell: Documentation Generation — Recovery for Public Dataset](Project_040818/README.md) |
+| 040819 | [PowerShell: Documentation Generation — Reporting for Public Dataset](Project_040819/README.md) |
+| 040820 | [PowerShell: Documentation Generation — Usability Improvement for Public Dataset](Project_040820/README.md) |
 
 [Back to the portfolio home](../README.md)
