@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042718 | [Apache: Error Handling — Recovery for Public Dataset](Project_042718/README.md) |
 | 042719 | [Apache: Error Handling — Reporting for Public Dataset](Project_042719/README.md) |
 | 042720 | [Apache: Error Handling — Usability Improvement for Public Dataset](Project_042720/README.md) |
+| 042721 | [Apache: Error Handling — Baseline Setup for Branch Office Simulator](Project_042721/README.md) |
+| 042722 | [Apache: Error Handling — Automation for Branch Office Simulator](Project_042722/README.md) |
+| 042723 | [Apache: Error Handling — Recovery for Branch Office Simulator](Project_042723/README.md) |
+| 042724 | [Apache: Error Handling — Reporting for Branch Office Simulator](Project_042724/README.md) |
+| 042725 | [Apache: Error Handling — Usability Improvement for Branch Office Simulator](Project_042725/README.md) |
+| 042726 | [Apache: Error Handling — Baseline Setup for Offline Classroom](Project_042726/README.md) |
+| 042727 | [Apache: Error Handling — Automation for Offline Classroom](Project_042727/README.md) |
+| 042728 | [Apache: Error Handling — Recovery for Offline Classroom](Project_042728/README.md) |
+| 042729 | [Apache: Error Handling — Reporting for Offline Classroom](Project_042729/README.md) |
+| 042730 | [Apache: Error Handling — Usability Improvement for Offline Classroom](Project_042730/README.md) |
+| 042731 | [Apache: Error Handling — Baseline Setup for Single-Host Lab](Project_042731/README.md) |
+| 042732 | [Apache: Error Handling — Automation for Single-Host Lab](Project_042732/README.md) |
+| 042733 | [Apache: Error Handling — Recovery for Single-Host Lab](Project_042733/README.md) |
+| 042734 | [Apache: Error Handling — Reporting for Single-Host Lab](Project_042734/README.md) |
+| 042735 | [Apache: Error Handling — Usability Improvement for Single-Host Lab](Project_042735/README.md) |
+| 042736 | [Apache: Error Handling — Baseline Setup for Two-Node Lab](Project_042736/README.md) |
+| 042737 | [Apache: Error Handling — Automation for Two-Node Lab](Project_042737/README.md) |
+| 042738 | [Apache: Error Handling — Recovery for Two-Node Lab](Project_042738/README.md) |
+| 042739 | [Apache: Error Handling — Reporting for Two-Node Lab](Project_042739/README.md) |
+| 042740 | [Apache: Error Handling — Usability Improvement for Two-Node Lab](Project_042740/README.md) |
 
 [Back to the portfolio home](../README.md)
