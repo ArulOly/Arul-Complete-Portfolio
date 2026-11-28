@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035978 | [Raspberry Pi: Recovery Test — Recovery for Offline Classroom](Project_035978/README.md) |
 | 035979 | [Raspberry Pi: Recovery Test — Reporting for Offline Classroom](Project_035979/README.md) |
 | 035980 | [Raspberry Pi: Recovery Test — Usability Improvement for Offline Classroom](Project_035980/README.md) |
+| 035981 | [Raspberry Pi: Recovery Test — Baseline Setup for Single-Host Lab](Project_035981/README.md) |
+| 035982 | [Raspberry Pi: Recovery Test — Automation for Single-Host Lab](Project_035982/README.md) |
+| 035983 | [Raspberry Pi: Recovery Test — Recovery for Single-Host Lab](Project_035983/README.md) |
+| 035984 | [Raspberry Pi: Recovery Test — Reporting for Single-Host Lab](Project_035984/README.md) |
+| 035985 | [Raspberry Pi: Recovery Test — Usability Improvement for Single-Host Lab](Project_035985/README.md) |
+| 035986 | [Raspberry Pi: Recovery Test — Baseline Setup for Two-Node Lab](Project_035986/README.md) |
+| 035987 | [Raspberry Pi: Recovery Test — Automation for Two-Node Lab](Project_035987/README.md) |
+| 035988 | [Raspberry Pi: Recovery Test — Recovery for Two-Node Lab](Project_035988/README.md) |
+| 035989 | [Raspberry Pi: Recovery Test — Reporting for Two-Node Lab](Project_035989/README.md) |
+| 035990 | [Raspberry Pi: Recovery Test — Usability Improvement for Two-Node Lab](Project_035990/README.md) |
+| 035991 | [Raspberry Pi: Recovery Test — Baseline Setup for Help Desk](Project_035991/README.md) |
+| 035992 | [Raspberry Pi: Recovery Test — Automation for Help Desk](Project_035992/README.md) |
+| 035993 | [Raspberry Pi: Recovery Test — Recovery for Help Desk](Project_035993/README.md) |
+| 035994 | [Raspberry Pi: Recovery Test — Reporting for Help Desk](Project_035994/README.md) |
+| 035995 | [Raspberry Pi: Recovery Test — Usability Improvement for Help Desk](Project_035995/README.md) |
+| 035996 | [Raspberry Pi: Recovery Test — Baseline Setup for Portfolio Demo](Project_035996/README.md) |
+| 035997 | [Raspberry Pi: Recovery Test — Automation for Portfolio Demo](Project_035997/README.md) |
+| 035998 | [Raspberry Pi: Recovery Test — Recovery for Portfolio Demo](Project_035998/README.md) |
+| 035999 | [Raspberry Pi: Recovery Test — Reporting for Portfolio Demo](Project_035999/README.md) |
+| 036000 | [Raspberry Pi: Recovery Test — Usability Improvement for Portfolio Demo](Project_036000/README.md) |
 
 [Back to the portfolio home](../README.md)
