@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039198 | [Bash: Log Analysis — Recovery for Portfolio Demo](Project_039198/README.md) |
 | 039199 | [Bash: Log Analysis — Reporting for Portfolio Demo](Project_039199/README.md) |
 | 039200 | [Bash: Log Analysis — Usability Improvement for Portfolio Demo](Project_039200/README.md) |
+| 039201 | [Bash: Backup Verification — Baseline Setup for School Lab](Project_039201/README.md) |
+| 039202 | [Bash: Backup Verification — Automation for School Lab](Project_039202/README.md) |
+| 039203 | [Bash: Backup Verification — Recovery for School Lab](Project_039203/README.md) |
+| 039204 | [Bash: Backup Verification — Reporting for School Lab](Project_039204/README.md) |
+| 039205 | [Bash: Backup Verification — Usability Improvement for School Lab](Project_039205/README.md) |
+| 039206 | [Bash: Backup Verification — Baseline Setup for Small Business](Project_039206/README.md) |
+| 039207 | [Bash: Backup Verification — Automation for Small Business](Project_039207/README.md) |
+| 039208 | [Bash: Backup Verification — Recovery for Small Business](Project_039208/README.md) |
+| 039209 | [Bash: Backup Verification — Reporting for Small Business](Project_039209/README.md) |
+| 039210 | [Bash: Backup Verification — Usability Improvement for Small Business](Project_039210/README.md) |
+| 039211 | [Bash: Backup Verification — Baseline Setup for Home Development](Project_039211/README.md) |
+| 039212 | [Bash: Backup Verification — Automation for Home Development](Project_039212/README.md) |
+| 039213 | [Bash: Backup Verification — Recovery for Home Development](Project_039213/README.md) |
+| 039214 | [Bash: Backup Verification — Reporting for Home Development](Project_039214/README.md) |
+| 039215 | [Bash: Backup Verification — Usability Improvement for Home Development](Project_039215/README.md) |
+| 039216 | [Bash: Backup Verification — Baseline Setup for Public Dataset](Project_039216/README.md) |
+| 039217 | [Bash: Backup Verification — Automation for Public Dataset](Project_039217/README.md) |
+| 039218 | [Bash: Backup Verification — Recovery for Public Dataset](Project_039218/README.md) |
+| 039219 | [Bash: Backup Verification — Reporting for Public Dataset](Project_039219/README.md) |
+| 039220 | [Bash: Backup Verification — Usability Improvement for Public Dataset](Project_039220/README.md) |
 
 [Back to the portfolio home](../README.md)
