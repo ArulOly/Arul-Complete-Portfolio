@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046238 | [Terraform: Backup Verification — Recovery for Two-Node Lab](Project_046238/README.md) |
 | 046239 | [Terraform: Backup Verification — Reporting for Two-Node Lab](Project_046239/README.md) |
 | 046240 | [Terraform: Backup Verification — Usability Improvement for Two-Node Lab](Project_046240/README.md) |
+| 046241 | [Terraform: Backup Verification — Baseline Setup for Help Desk](Project_046241/README.md) |
+| 046242 | [Terraform: Backup Verification — Automation for Help Desk](Project_046242/README.md) |
+| 046243 | [Terraform: Backup Verification — Recovery for Help Desk](Project_046243/README.md) |
+| 046244 | [Terraform: Backup Verification — Reporting for Help Desk](Project_046244/README.md) |
+| 046245 | [Terraform: Backup Verification — Usability Improvement for Help Desk](Project_046245/README.md) |
+| 046246 | [Terraform: Backup Verification — Baseline Setup for Portfolio Demo](Project_046246/README.md) |
+| 046247 | [Terraform: Backup Verification — Automation for Portfolio Demo](Project_046247/README.md) |
+| 046248 | [Terraform: Backup Verification — Recovery for Portfolio Demo](Project_046248/README.md) |
+| 046249 | [Terraform: Backup Verification — Reporting for Portfolio Demo](Project_046249/README.md) |
+| 046250 | [Terraform: Backup Verification — Usability Improvement for Portfolio Demo](Project_046250/README.md) |
+| 046251 | [Terraform: Data Import — Baseline Setup for School Lab](Project_046251/README.md) |
+| 046252 | [Terraform: Data Import — Automation for School Lab](Project_046252/README.md) |
+| 046253 | [Terraform: Data Import — Recovery for School Lab](Project_046253/README.md) |
+| 046254 | [Terraform: Data Import — Reporting for School Lab](Project_046254/README.md) |
+| 046255 | [Terraform: Data Import — Usability Improvement for School Lab](Project_046255/README.md) |
+| 046256 | [Terraform: Data Import — Baseline Setup for Small Business](Project_046256/README.md) |
+| 046257 | [Terraform: Data Import — Automation for Small Business](Project_046257/README.md) |
+| 046258 | [Terraform: Data Import — Recovery for Small Business](Project_046258/README.md) |
+| 046259 | [Terraform: Data Import — Reporting for Small Business](Project_046259/README.md) |
+| 046260 | [Terraform: Data Import — Usability Improvement for Small Business](Project_046260/README.md) |
 
 [Back to the portfolio home](../README.md)
