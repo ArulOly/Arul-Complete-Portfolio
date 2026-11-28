@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038278 | [Git: Data Import — Recovery for Offline Classroom](Project_038278/README.md) |
 | 038279 | [Git: Data Import — Reporting for Offline Classroom](Project_038279/README.md) |
 | 038280 | [Git: Data Import — Usability Improvement for Offline Classroom](Project_038280/README.md) |
+| 038281 | [Git: Data Import — Baseline Setup for Single-Host Lab](Project_038281/README.md) |
+| 038282 | [Git: Data Import — Automation for Single-Host Lab](Project_038282/README.md) |
+| 038283 | [Git: Data Import — Recovery for Single-Host Lab](Project_038283/README.md) |
+| 038284 | [Git: Data Import — Reporting for Single-Host Lab](Project_038284/README.md) |
+| 038285 | [Git: Data Import — Usability Improvement for Single-Host Lab](Project_038285/README.md) |
+| 038286 | [Git: Data Import — Baseline Setup for Two-Node Lab](Project_038286/README.md) |
+| 038287 | [Git: Data Import — Automation for Two-Node Lab](Project_038287/README.md) |
+| 038288 | [Git: Data Import — Recovery for Two-Node Lab](Project_038288/README.md) |
+| 038289 | [Git: Data Import — Reporting for Two-Node Lab](Project_038289/README.md) |
+| 038290 | [Git: Data Import — Usability Improvement for Two-Node Lab](Project_038290/README.md) |
+| 038291 | [Git: Data Import — Baseline Setup for Help Desk](Project_038291/README.md) |
+| 038292 | [Git: Data Import — Automation for Help Desk](Project_038292/README.md) |
+| 038293 | [Git: Data Import — Recovery for Help Desk](Project_038293/README.md) |
+| 038294 | [Git: Data Import — Reporting for Help Desk](Project_038294/README.md) |
+| 038295 | [Git: Data Import — Usability Improvement for Help Desk](Project_038295/README.md) |
+| 038296 | [Git: Data Import — Baseline Setup for Portfolio Demo](Project_038296/README.md) |
+| 038297 | [Git: Data Import — Automation for Portfolio Demo](Project_038297/README.md) |
+| 038298 | [Git: Data Import — Recovery for Portfolio Demo](Project_038298/README.md) |
+| 038299 | [Git: Data Import — Reporting for Portfolio Demo](Project_038299/README.md) |
+| 038300 | [Git: Data Import — Usability Improvement for Portfolio Demo](Project_038300/README.md) |
 
 [Back to the portfolio home](../README.md)
