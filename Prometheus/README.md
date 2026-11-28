@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044378 | [Prometheus: Dashboard — Recovery for Offline Classroom](Project_044378/README.md) |
 | 044379 | [Prometheus: Dashboard — Reporting for Offline Classroom](Project_044379/README.md) |
 | 044380 | [Prometheus: Dashboard — Usability Improvement for Offline Classroom](Project_044380/README.md) |
+| 044381 | [Prometheus: Dashboard — Baseline Setup for Single-Host Lab](Project_044381/README.md) |
+| 044382 | [Prometheus: Dashboard — Automation for Single-Host Lab](Project_044382/README.md) |
+| 044383 | [Prometheus: Dashboard — Recovery for Single-Host Lab](Project_044383/README.md) |
+| 044384 | [Prometheus: Dashboard — Reporting for Single-Host Lab](Project_044384/README.md) |
+| 044385 | [Prometheus: Dashboard — Usability Improvement for Single-Host Lab](Project_044385/README.md) |
+| 044386 | [Prometheus: Dashboard — Baseline Setup for Two-Node Lab](Project_044386/README.md) |
+| 044387 | [Prometheus: Dashboard — Automation for Two-Node Lab](Project_044387/README.md) |
+| 044388 | [Prometheus: Dashboard — Recovery for Two-Node Lab](Project_044388/README.md) |
+| 044389 | [Prometheus: Dashboard — Reporting for Two-Node Lab](Project_044389/README.md) |
+| 044390 | [Prometheus: Dashboard — Usability Improvement for Two-Node Lab](Project_044390/README.md) |
+| 044391 | [Prometheus: Dashboard — Baseline Setup for Help Desk](Project_044391/README.md) |
+| 044392 | [Prometheus: Dashboard — Automation for Help Desk](Project_044392/README.md) |
+| 044393 | [Prometheus: Dashboard — Recovery for Help Desk](Project_044393/README.md) |
+| 044394 | [Prometheus: Dashboard — Reporting for Help Desk](Project_044394/README.md) |
+| 044395 | [Prometheus: Dashboard — Usability Improvement for Help Desk](Project_044395/README.md) |
+| 044396 | [Prometheus: Dashboard — Baseline Setup for Portfolio Demo](Project_044396/README.md) |
+| 044397 | [Prometheus: Dashboard — Automation for Portfolio Demo](Project_044397/README.md) |
+| 044398 | [Prometheus: Dashboard — Recovery for Portfolio Demo](Project_044398/README.md) |
+| 044399 | [Prometheus: Dashboard — Reporting for Portfolio Demo](Project_044399/README.md) |
+| 044400 | [Prometheus: Dashboard — Usability Improvement for Portfolio Demo](Project_044400/README.md) |
 
 [Back to the portfolio home](../README.md)
