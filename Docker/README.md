@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017118 | [Docker: Audit — Recovery for Public Dataset](Project_017118/README.md) |
 | 017119 | [Docker: Audit — Reporting for Public Dataset](Project_017119/README.md) |
 | 017120 | [Docker: Audit — Usability Improvement for Public Dataset](Project_017120/README.md) |
+| 017121 | [Docker: Audit — Baseline Setup for Branch Office Simulator](Project_017121/README.md) |
+| 017122 | [Docker: Audit — Automation for Branch Office Simulator](Project_017122/README.md) |
+| 017123 | [Docker: Audit — Recovery for Branch Office Simulator](Project_017123/README.md) |
+| 017124 | [Docker: Audit — Reporting for Branch Office Simulator](Project_017124/README.md) |
+| 017125 | [Docker: Audit — Usability Improvement for Branch Office Simulator](Project_017125/README.md) |
+| 017126 | [Docker: Audit — Baseline Setup for Offline Classroom](Project_017126/README.md) |
+| 017127 | [Docker: Audit — Automation for Offline Classroom](Project_017127/README.md) |
+| 017128 | [Docker: Audit — Recovery for Offline Classroom](Project_017128/README.md) |
+| 017129 | [Docker: Audit — Reporting for Offline Classroom](Project_017129/README.md) |
+| 017130 | [Docker: Audit — Usability Improvement for Offline Classroom](Project_017130/README.md) |
+| 017131 | [Docker: Audit — Baseline Setup for Single-Host Lab](Project_017131/README.md) |
+| 017132 | [Docker: Audit — Automation for Single-Host Lab](Project_017132/README.md) |
+| 017133 | [Docker: Audit — Recovery for Single-Host Lab](Project_017133/README.md) |
+| 017134 | [Docker: Audit — Reporting for Single-Host Lab](Project_017134/README.md) |
+| 017135 | [Docker: Audit — Usability Improvement for Single-Host Lab](Project_017135/README.md) |
+| 017136 | [Docker: Audit — Baseline Setup for Two-Node Lab](Project_017136/README.md) |
+| 017137 | [Docker: Audit — Automation for Two-Node Lab](Project_017137/README.md) |
+| 017138 | [Docker: Audit — Recovery for Two-Node Lab](Project_017138/README.md) |
+| 017139 | [Docker: Audit — Reporting for Two-Node Lab](Project_017139/README.md) |
+| 017140 | [Docker: Audit — Usability Improvement for Two-Node Lab](Project_017140/README.md) |
 
 [Back to the portfolio home](../README.md)
