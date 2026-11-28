@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044498 | [Prometheus: Scheduled Reporting — Recovery for Portfolio Demo](Project_044498/README.md) |
 | 044499 | [Prometheus: Scheduled Reporting — Reporting for Portfolio Demo](Project_044499/README.md) |
 | 044500 | [Prometheus: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_044500/README.md) |
+| 044501 | [Prometheus: Access Review — Baseline Setup for School Lab](Project_044501/README.md) |
+| 044502 | [Prometheus: Access Review — Automation for School Lab](Project_044502/README.md) |
+| 044503 | [Prometheus: Access Review — Recovery for School Lab](Project_044503/README.md) |
+| 044504 | [Prometheus: Access Review — Reporting for School Lab](Project_044504/README.md) |
+| 044505 | [Prometheus: Access Review — Usability Improvement for School Lab](Project_044505/README.md) |
+| 044506 | [Prometheus: Access Review — Baseline Setup for Small Business](Project_044506/README.md) |
+| 044507 | [Prometheus: Access Review — Automation for Small Business](Project_044507/README.md) |
+| 044508 | [Prometheus: Access Review — Recovery for Small Business](Project_044508/README.md) |
+| 044509 | [Prometheus: Access Review — Reporting for Small Business](Project_044509/README.md) |
+| 044510 | [Prometheus: Access Review — Usability Improvement for Small Business](Project_044510/README.md) |
+| 044511 | [Prometheus: Access Review — Baseline Setup for Home Development](Project_044511/README.md) |
+| 044512 | [Prometheus: Access Review — Automation for Home Development](Project_044512/README.md) |
+| 044513 | [Prometheus: Access Review — Recovery for Home Development](Project_044513/README.md) |
+| 044514 | [Prometheus: Access Review — Reporting for Home Development](Project_044514/README.md) |
+| 044515 | [Prometheus: Access Review — Usability Improvement for Home Development](Project_044515/README.md) |
+| 044516 | [Prometheus: Access Review — Baseline Setup for Public Dataset](Project_044516/README.md) |
+| 044517 | [Prometheus: Access Review — Automation for Public Dataset](Project_044517/README.md) |
+| 044518 | [Prometheus: Access Review — Recovery for Public Dataset](Project_044518/README.md) |
+| 044519 | [Prometheus: Access Review — Reporting for Public Dataset](Project_044519/README.md) |
+| 044520 | [Prometheus: Access Review — Usability Improvement for Public Dataset](Project_044520/README.md) |
 
 [Back to the portfolio home](../README.md)
