@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036058 | [ESP32: Monitoring — Recovery for Small Business](Project_036058/README.md) |
 | 036059 | [ESP32: Monitoring — Reporting for Small Business](Project_036059/README.md) |
 | 036060 | [ESP32: Monitoring — Usability Improvement for Small Business](Project_036060/README.md) |
+| 036061 | [ESP32: Monitoring — Baseline Setup for Home Development](Project_036061/README.md) |
+| 036062 | [ESP32: Monitoring — Automation for Home Development](Project_036062/README.md) |
+| 036063 | [ESP32: Monitoring — Recovery for Home Development](Project_036063/README.md) |
+| 036064 | [ESP32: Monitoring — Reporting for Home Development](Project_036064/README.md) |
+| 036065 | [ESP32: Monitoring — Usability Improvement for Home Development](Project_036065/README.md) |
+| 036066 | [ESP32: Monitoring — Baseline Setup for Public Dataset](Project_036066/README.md) |
+| 036067 | [ESP32: Monitoring — Automation for Public Dataset](Project_036067/README.md) |
+| 036068 | [ESP32: Monitoring — Recovery for Public Dataset](Project_036068/README.md) |
+| 036069 | [ESP32: Monitoring — Reporting for Public Dataset](Project_036069/README.md) |
+| 036070 | [ESP32: Monitoring — Usability Improvement for Public Dataset](Project_036070/README.md) |
+| 036071 | [ESP32: Monitoring — Baseline Setup for Branch Office Simulator](Project_036071/README.md) |
+| 036072 | [ESP32: Monitoring — Automation for Branch Office Simulator](Project_036072/README.md) |
+| 036073 | [ESP32: Monitoring — Recovery for Branch Office Simulator](Project_036073/README.md) |
+| 036074 | [ESP32: Monitoring — Reporting for Branch Office Simulator](Project_036074/README.md) |
+| 036075 | [ESP32: Monitoring — Usability Improvement for Branch Office Simulator](Project_036075/README.md) |
+| 036076 | [ESP32: Monitoring — Baseline Setup for Offline Classroom](Project_036076/README.md) |
+| 036077 | [ESP32: Monitoring — Automation for Offline Classroom](Project_036077/README.md) |
+| 036078 | [ESP32: Monitoring — Recovery for Offline Classroom](Project_036078/README.md) |
+| 036079 | [ESP32: Monitoring — Reporting for Offline Classroom](Project_036079/README.md) |
+| 036080 | [ESP32: Monitoring — Usability Improvement for Offline Classroom](Project_036080/README.md) |
 
 [Back to the portfolio home](../README.md)
