@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029898 | [Wireshark: Automation — Recovery for Portfolio Demo](Project_029898/README.md) |
 | 029899 | [Wireshark: Automation — Reporting for Portfolio Demo](Project_029899/README.md) |
 | 029900 | [Wireshark: Automation — Usability Improvement for Portfolio Demo](Project_029900/README.md) |
+| 029901 | [Wireshark: Visual Reporting — Baseline Setup for School Lab](Project_029901/README.md) |
+| 029902 | [Wireshark: Visual Reporting — Automation for School Lab](Project_029902/README.md) |
+| 029903 | [Wireshark: Visual Reporting — Recovery for School Lab](Project_029903/README.md) |
+| 029904 | [Wireshark: Visual Reporting — Reporting for School Lab](Project_029904/README.md) |
+| 029905 | [Wireshark: Visual Reporting — Usability Improvement for School Lab](Project_029905/README.md) |
+| 029906 | [Wireshark: Visual Reporting — Baseline Setup for Small Business](Project_029906/README.md) |
+| 029907 | [Wireshark: Visual Reporting — Automation for Small Business](Project_029907/README.md) |
+| 029908 | [Wireshark: Visual Reporting — Recovery for Small Business](Project_029908/README.md) |
+| 029909 | [Wireshark: Visual Reporting — Reporting for Small Business](Project_029909/README.md) |
+| 029910 | [Wireshark: Visual Reporting — Usability Improvement for Small Business](Project_029910/README.md) |
+| 029911 | [Wireshark: Visual Reporting — Baseline Setup for Home Development](Project_029911/README.md) |
+| 029912 | [Wireshark: Visual Reporting — Automation for Home Development](Project_029912/README.md) |
+| 029913 | [Wireshark: Visual Reporting — Recovery for Home Development](Project_029913/README.md) |
+| 029914 | [Wireshark: Visual Reporting — Reporting for Home Development](Project_029914/README.md) |
+| 029915 | [Wireshark: Visual Reporting — Usability Improvement for Home Development](Project_029915/README.md) |
+| 029916 | [Wireshark: Visual Reporting — Baseline Setup for Public Dataset](Project_029916/README.md) |
+| 029917 | [Wireshark: Visual Reporting — Automation for Public Dataset](Project_029917/README.md) |
+| 029918 | [Wireshark: Visual Reporting — Recovery for Public Dataset](Project_029918/README.md) |
+| 029919 | [Wireshark: Visual Reporting — Reporting for Public Dataset](Project_029919/README.md) |
+| 029920 | [Wireshark: Visual Reporting — Usability Improvement for Public Dataset](Project_029920/README.md) |
 
 [Back to the portfolio home](../README.md)
