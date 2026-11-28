@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039058 | [Bash: Monitoring — Recovery for Small Business](Project_039058/README.md) |
 | 039059 | [Bash: Monitoring — Reporting for Small Business](Project_039059/README.md) |
 | 039060 | [Bash: Monitoring — Usability Improvement for Small Business](Project_039060/README.md) |
+| 039061 | [Bash: Monitoring — Baseline Setup for Home Development](Project_039061/README.md) |
+| 039062 | [Bash: Monitoring — Automation for Home Development](Project_039062/README.md) |
+| 039063 | [Bash: Monitoring — Recovery for Home Development](Project_039063/README.md) |
+| 039064 | [Bash: Monitoring — Reporting for Home Development](Project_039064/README.md) |
+| 039065 | [Bash: Monitoring — Usability Improvement for Home Development](Project_039065/README.md) |
+| 039066 | [Bash: Monitoring — Baseline Setup for Public Dataset](Project_039066/README.md) |
+| 039067 | [Bash: Monitoring — Automation for Public Dataset](Project_039067/README.md) |
+| 039068 | [Bash: Monitoring — Recovery for Public Dataset](Project_039068/README.md) |
+| 039069 | [Bash: Monitoring — Reporting for Public Dataset](Project_039069/README.md) |
+| 039070 | [Bash: Monitoring — Usability Improvement for Public Dataset](Project_039070/README.md) |
+| 039071 | [Bash: Monitoring — Baseline Setup for Branch Office Simulator](Project_039071/README.md) |
+| 039072 | [Bash: Monitoring — Automation for Branch Office Simulator](Project_039072/README.md) |
+| 039073 | [Bash: Monitoring — Recovery for Branch Office Simulator](Project_039073/README.md) |
+| 039074 | [Bash: Monitoring — Reporting for Branch Office Simulator](Project_039074/README.md) |
+| 039075 | [Bash: Monitoring — Usability Improvement for Branch Office Simulator](Project_039075/README.md) |
+| 039076 | [Bash: Monitoring — Baseline Setup for Offline Classroom](Project_039076/README.md) |
+| 039077 | [Bash: Monitoring — Automation for Offline Classroom](Project_039077/README.md) |
+| 039078 | [Bash: Monitoring — Recovery for Offline Classroom](Project_039078/README.md) |
+| 039079 | [Bash: Monitoring — Reporting for Offline Classroom](Project_039079/README.md) |
+| 039080 | [Bash: Monitoring — Usability Improvement for Offline Classroom](Project_039080/README.md) |
 
 [Back to the portfolio home](../README.md)
