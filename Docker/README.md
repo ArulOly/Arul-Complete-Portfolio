@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017258 | [Docker: Data Import — Recovery for Small Business](Project_017258/README.md) |
 | 017259 | [Docker: Data Import — Reporting for Small Business](Project_017259/README.md) |
 | 017260 | [Docker: Data Import — Usability Improvement for Small Business](Project_017260/README.md) |
+| 017261 | [Docker: Data Import — Baseline Setup for Home Development](Project_017261/README.md) |
+| 017262 | [Docker: Data Import — Automation for Home Development](Project_017262/README.md) |
+| 017263 | [Docker: Data Import — Recovery for Home Development](Project_017263/README.md) |
+| 017264 | [Docker: Data Import — Reporting for Home Development](Project_017264/README.md) |
+| 017265 | [Docker: Data Import — Usability Improvement for Home Development](Project_017265/README.md) |
+| 017266 | [Docker: Data Import — Baseline Setup for Public Dataset](Project_017266/README.md) |
+| 017267 | [Docker: Data Import — Automation for Public Dataset](Project_017267/README.md) |
+| 017268 | [Docker: Data Import — Recovery for Public Dataset](Project_017268/README.md) |
+| 017269 | [Docker: Data Import — Reporting for Public Dataset](Project_017269/README.md) |
+| 017270 | [Docker: Data Import — Usability Improvement for Public Dataset](Project_017270/README.md) |
+| 017271 | [Docker: Data Import — Baseline Setup for Branch Office Simulator](Project_017271/README.md) |
+| 017272 | [Docker: Data Import — Automation for Branch Office Simulator](Project_017272/README.md) |
+| 017273 | [Docker: Data Import — Recovery for Branch Office Simulator](Project_017273/README.md) |
+| 017274 | [Docker: Data Import — Reporting for Branch Office Simulator](Project_017274/README.md) |
+| 017275 | [Docker: Data Import — Usability Improvement for Branch Office Simulator](Project_017275/README.md) |
+| 017276 | [Docker: Data Import — Baseline Setup for Offline Classroom](Project_017276/README.md) |
+| 017277 | [Docker: Data Import — Automation for Offline Classroom](Project_017277/README.md) |
+| 017278 | [Docker: Data Import — Recovery for Offline Classroom](Project_017278/README.md) |
+| 017279 | [Docker: Data Import — Reporting for Offline Classroom](Project_017279/README.md) |
+| 017280 | [Docker: Data Import — Usability Improvement for Offline Classroom](Project_017280/README.md) |
 
 [Back to the portfolio home](../README.md)
