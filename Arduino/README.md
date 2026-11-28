@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037518 | [Arduino: Access Review — Recovery for Public Dataset](Project_037518/README.md) |
 | 037519 | [Arduino: Access Review — Reporting for Public Dataset](Project_037519/README.md) |
 | 037520 | [Arduino: Access Review — Usability Improvement for Public Dataset](Project_037520/README.md) |
+| 037521 | [Arduino: Access Review — Baseline Setup for Branch Office Simulator](Project_037521/README.md) |
+| 037522 | [Arduino: Access Review — Automation for Branch Office Simulator](Project_037522/README.md) |
+| 037523 | [Arduino: Access Review — Recovery for Branch Office Simulator](Project_037523/README.md) |
+| 037524 | [Arduino: Access Review — Reporting for Branch Office Simulator](Project_037524/README.md) |
+| 037525 | [Arduino: Access Review — Usability Improvement for Branch Office Simulator](Project_037525/README.md) |
+| 037526 | [Arduino: Access Review — Baseline Setup for Offline Classroom](Project_037526/README.md) |
+| 037527 | [Arduino: Access Review — Automation for Offline Classroom](Project_037527/README.md) |
+| 037528 | [Arduino: Access Review — Recovery for Offline Classroom](Project_037528/README.md) |
+| 037529 | [Arduino: Access Review — Reporting for Offline Classroom](Project_037529/README.md) |
+| 037530 | [Arduino: Access Review — Usability Improvement for Offline Classroom](Project_037530/README.md) |
+| 037531 | [Arduino: Access Review — Baseline Setup for Single-Host Lab](Project_037531/README.md) |
+| 037532 | [Arduino: Access Review — Automation for Single-Host Lab](Project_037532/README.md) |
+| 037533 | [Arduino: Access Review — Recovery for Single-Host Lab](Project_037533/README.md) |
+| 037534 | [Arduino: Access Review — Reporting for Single-Host Lab](Project_037534/README.md) |
+| 037535 | [Arduino: Access Review — Usability Improvement for Single-Host Lab](Project_037535/README.md) |
+| 037536 | [Arduino: Access Review — Baseline Setup for Two-Node Lab](Project_037536/README.md) |
+| 037537 | [Arduino: Access Review — Automation for Two-Node Lab](Project_037537/README.md) |
+| 037538 | [Arduino: Access Review — Recovery for Two-Node Lab](Project_037538/README.md) |
+| 037539 | [Arduino: Access Review — Reporting for Two-Node Lab](Project_037539/README.md) |
+| 037540 | [Arduino: Access Review — Usability Improvement for Two-Node Lab](Project_037540/README.md) |
 
 [Back to the portfolio home](../README.md)
