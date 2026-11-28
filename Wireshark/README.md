@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029838 | [Wireshark: Documentation Generation — Recovery for Two-Node Lab](Project_029838/README.md) |
 | 029839 | [Wireshark: Documentation Generation — Reporting for Two-Node Lab](Project_029839/README.md) |
 | 029840 | [Wireshark: Documentation Generation — Usability Improvement for Two-Node Lab](Project_029840/README.md) |
+| 029841 | [Wireshark: Documentation Generation — Baseline Setup for Help Desk](Project_029841/README.md) |
+| 029842 | [Wireshark: Documentation Generation — Automation for Help Desk](Project_029842/README.md) |
+| 029843 | [Wireshark: Documentation Generation — Recovery for Help Desk](Project_029843/README.md) |
+| 029844 | [Wireshark: Documentation Generation — Reporting for Help Desk](Project_029844/README.md) |
+| 029845 | [Wireshark: Documentation Generation — Usability Improvement for Help Desk](Project_029845/README.md) |
+| 029846 | [Wireshark: Documentation Generation — Baseline Setup for Portfolio Demo](Project_029846/README.md) |
+| 029847 | [Wireshark: Documentation Generation — Automation for Portfolio Demo](Project_029847/README.md) |
+| 029848 | [Wireshark: Documentation Generation — Recovery for Portfolio Demo](Project_029848/README.md) |
+| 029849 | [Wireshark: Documentation Generation — Reporting for Portfolio Demo](Project_029849/README.md) |
+| 029850 | [Wireshark: Documentation Generation — Usability Improvement for Portfolio Demo](Project_029850/README.md) |
+| 029851 | [Wireshark: Automation — Baseline Setup for School Lab](Project_029851/README.md) |
+| 029852 | [Wireshark: Automation — Automation for School Lab](Project_029852/README.md) |
+| 029853 | [Wireshark: Automation — Recovery for School Lab](Project_029853/README.md) |
+| 029854 | [Wireshark: Automation — Reporting for School Lab](Project_029854/README.md) |
+| 029855 | [Wireshark: Automation — Usability Improvement for School Lab](Project_029855/README.md) |
+| 029856 | [Wireshark: Automation — Baseline Setup for Small Business](Project_029856/README.md) |
+| 029857 | [Wireshark: Automation — Automation for Small Business](Project_029857/README.md) |
+| 029858 | [Wireshark: Automation — Recovery for Small Business](Project_029858/README.md) |
+| 029859 | [Wireshark: Automation — Reporting for Small Business](Project_029859/README.md) |
+| 029860 | [Wireshark: Automation — Usability Improvement for Small Business](Project_029860/README.md) |
 
 [Back to the portfolio home](../README.md)
