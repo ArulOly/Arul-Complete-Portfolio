@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018358 | [Kubernetes: Dashboard — Recovery for Small Business](Project_018358/README.md) |
 | 018359 | [Kubernetes: Dashboard — Reporting for Small Business](Project_018359/README.md) |
 | 018360 | [Kubernetes: Dashboard — Usability Improvement for Small Business](Project_018360/README.md) |
+| 018361 | [Kubernetes: Dashboard — Baseline Setup for Home Development](Project_018361/README.md) |
+| 018362 | [Kubernetes: Dashboard — Automation for Home Development](Project_018362/README.md) |
+| 018363 | [Kubernetes: Dashboard — Recovery for Home Development](Project_018363/README.md) |
+| 018364 | [Kubernetes: Dashboard — Reporting for Home Development](Project_018364/README.md) |
+| 018365 | [Kubernetes: Dashboard — Usability Improvement for Home Development](Project_018365/README.md) |
+| 018366 | [Kubernetes: Dashboard — Baseline Setup for Public Dataset](Project_018366/README.md) |
+| 018367 | [Kubernetes: Dashboard — Automation for Public Dataset](Project_018367/README.md) |
+| 018368 | [Kubernetes: Dashboard — Recovery for Public Dataset](Project_018368/README.md) |
+| 018369 | [Kubernetes: Dashboard — Reporting for Public Dataset](Project_018369/README.md) |
+| 018370 | [Kubernetes: Dashboard — Usability Improvement for Public Dataset](Project_018370/README.md) |
+| 018371 | [Kubernetes: Dashboard — Baseline Setup for Branch Office Simulator](Project_018371/README.md) |
+| 018372 | [Kubernetes: Dashboard — Automation for Branch Office Simulator](Project_018372/README.md) |
+| 018373 | [Kubernetes: Dashboard — Recovery for Branch Office Simulator](Project_018373/README.md) |
+| 018374 | [Kubernetes: Dashboard — Reporting for Branch Office Simulator](Project_018374/README.md) |
+| 018375 | [Kubernetes: Dashboard — Usability Improvement for Branch Office Simulator](Project_018375/README.md) |
+| 018376 | [Kubernetes: Dashboard — Baseline Setup for Offline Classroom](Project_018376/README.md) |
+| 018377 | [Kubernetes: Dashboard — Automation for Offline Classroom](Project_018377/README.md) |
+| 018378 | [Kubernetes: Dashboard — Recovery for Offline Classroom](Project_018378/README.md) |
+| 018379 | [Kubernetes: Dashboard — Reporting for Offline Classroom](Project_018379/README.md) |
+| 018380 | [Kubernetes: Dashboard — Usability Improvement for Offline Classroom](Project_018380/README.md) |
 
 [Back to the portfolio home](../README.md)
