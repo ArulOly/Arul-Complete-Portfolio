@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035598 | [Raspberry Pi: Performance Baseline — Recovery for Portfolio Demo](Project_035598/README.md) |
 | 035599 | [Raspberry Pi: Performance Baseline — Reporting for Portfolio Demo](Project_035599/README.md) |
 | 035600 | [Raspberry Pi: Performance Baseline — Usability Improvement for Portfolio Demo](Project_035600/README.md) |
+| 035601 | [Raspberry Pi: Service Check — Baseline Setup for School Lab](Project_035601/README.md) |
+| 035602 | [Raspberry Pi: Service Check — Automation for School Lab](Project_035602/README.md) |
+| 035603 | [Raspberry Pi: Service Check — Recovery for School Lab](Project_035603/README.md) |
+| 035604 | [Raspberry Pi: Service Check — Reporting for School Lab](Project_035604/README.md) |
+| 035605 | [Raspberry Pi: Service Check — Usability Improvement for School Lab](Project_035605/README.md) |
+| 035606 | [Raspberry Pi: Service Check — Baseline Setup for Small Business](Project_035606/README.md) |
+| 035607 | [Raspberry Pi: Service Check — Automation for Small Business](Project_035607/README.md) |
+| 035608 | [Raspberry Pi: Service Check — Recovery for Small Business](Project_035608/README.md) |
+| 035609 | [Raspberry Pi: Service Check — Reporting for Small Business](Project_035609/README.md) |
+| 035610 | [Raspberry Pi: Service Check — Usability Improvement for Small Business](Project_035610/README.md) |
+| 035611 | [Raspberry Pi: Service Check — Baseline Setup for Home Development](Project_035611/README.md) |
+| 035612 | [Raspberry Pi: Service Check — Automation for Home Development](Project_035612/README.md) |
+| 035613 | [Raspberry Pi: Service Check — Recovery for Home Development](Project_035613/README.md) |
+| 035614 | [Raspberry Pi: Service Check — Reporting for Home Development](Project_035614/README.md) |
+| 035615 | [Raspberry Pi: Service Check — Usability Improvement for Home Development](Project_035615/README.md) |
+| 035616 | [Raspberry Pi: Service Check — Baseline Setup for Public Dataset](Project_035616/README.md) |
+| 035617 | [Raspberry Pi: Service Check — Automation for Public Dataset](Project_035617/README.md) |
+| 035618 | [Raspberry Pi: Service Check — Recovery for Public Dataset](Project_035618/README.md) |
+| 035619 | [Raspberry Pi: Service Check — Reporting for Public Dataset](Project_035619/README.md) |
+| 035620 | [Raspberry Pi: Service Check — Usability Improvement for Public Dataset](Project_035620/README.md) |
 
 [Back to the portfolio home](../README.md)
