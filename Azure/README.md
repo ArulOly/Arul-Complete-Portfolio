@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015858 | [Azure: Automation — Recovery for Small Business](Project_015858/README.md) |
 | 015859 | [Azure: Automation — Reporting for Small Business](Project_015859/README.md) |
 | 015860 | [Azure: Automation — Usability Improvement for Small Business](Project_015860/README.md) |
+| 015861 | [Azure: Automation — Baseline Setup for Home Development](Project_015861/README.md) |
+| 015862 | [Azure: Automation — Automation for Home Development](Project_015862/README.md) |
+| 015863 | [Azure: Automation — Recovery for Home Development](Project_015863/README.md) |
+| 015864 | [Azure: Automation — Reporting for Home Development](Project_015864/README.md) |
+| 015865 | [Azure: Automation — Usability Improvement for Home Development](Project_015865/README.md) |
+| 015866 | [Azure: Automation — Baseline Setup for Public Dataset](Project_015866/README.md) |
+| 015867 | [Azure: Automation — Automation for Public Dataset](Project_015867/README.md) |
+| 015868 | [Azure: Automation — Recovery for Public Dataset](Project_015868/README.md) |
+| 015869 | [Azure: Automation — Reporting for Public Dataset](Project_015869/README.md) |
+| 015870 | [Azure: Automation — Usability Improvement for Public Dataset](Project_015870/README.md) |
+| 015871 | [Azure: Automation — Baseline Setup for Branch Office Simulator](Project_015871/README.md) |
+| 015872 | [Azure: Automation — Automation for Branch Office Simulator](Project_015872/README.md) |
+| 015873 | [Azure: Automation — Recovery for Branch Office Simulator](Project_015873/README.md) |
+| 015874 | [Azure: Automation — Reporting for Branch Office Simulator](Project_015874/README.md) |
+| 015875 | [Azure: Automation — Usability Improvement for Branch Office Simulator](Project_015875/README.md) |
+| 015876 | [Azure: Automation — Baseline Setup for Offline Classroom](Project_015876/README.md) |
+| 015877 | [Azure: Automation — Automation for Offline Classroom](Project_015877/README.md) |
+| 015878 | [Azure: Automation — Recovery for Offline Classroom](Project_015878/README.md) |
+| 015879 | [Azure: Automation — Reporting for Offline Classroom](Project_015879/README.md) |
+| 015880 | [Azure: Automation — Usability Improvement for Offline Classroom](Project_015880/README.md) |
 
 [Back to the portfolio home](../README.md)
