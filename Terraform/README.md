@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046738 | [Terraform: Error Handling — Recovery for Two-Node Lab](Project_046738/README.md) |
 | 046739 | [Terraform: Error Handling — Reporting for Two-Node Lab](Project_046739/README.md) |
 | 046740 | [Terraform: Error Handling — Usability Improvement for Two-Node Lab](Project_046740/README.md) |
+| 046741 | [Terraform: Error Handling — Baseline Setup for Help Desk](Project_046741/README.md) |
+| 046742 | [Terraform: Error Handling — Automation for Help Desk](Project_046742/README.md) |
+| 046743 | [Terraform: Error Handling — Recovery for Help Desk](Project_046743/README.md) |
+| 046744 | [Terraform: Error Handling — Reporting for Help Desk](Project_046744/README.md) |
+| 046745 | [Terraform: Error Handling — Usability Improvement for Help Desk](Project_046745/README.md) |
+| 046746 | [Terraform: Error Handling — Baseline Setup for Portfolio Demo](Project_046746/README.md) |
+| 046747 | [Terraform: Error Handling — Automation for Portfolio Demo](Project_046747/README.md) |
+| 046748 | [Terraform: Error Handling — Recovery for Portfolio Demo](Project_046748/README.md) |
+| 046749 | [Terraform: Error Handling — Reporting for Portfolio Demo](Project_046749/README.md) |
+| 046750 | [Terraform: Error Handling — Usability Improvement for Portfolio Demo](Project_046750/README.md) |
+| 046751 | [Terraform: Data Validation — Baseline Setup for School Lab](Project_046751/README.md) |
+| 046752 | [Terraform: Data Validation — Automation for School Lab](Project_046752/README.md) |
+| 046753 | [Terraform: Data Validation — Recovery for School Lab](Project_046753/README.md) |
+| 046754 | [Terraform: Data Validation — Reporting for School Lab](Project_046754/README.md) |
+| 046755 | [Terraform: Data Validation — Usability Improvement for School Lab](Project_046755/README.md) |
+| 046756 | [Terraform: Data Validation — Baseline Setup for Small Business](Project_046756/README.md) |
+| 046757 | [Terraform: Data Validation — Automation for Small Business](Project_046757/README.md) |
+| 046758 | [Terraform: Data Validation — Recovery for Small Business](Project_046758/README.md) |
+| 046759 | [Terraform: Data Validation — Reporting for Small Business](Project_046759/README.md) |
+| 046760 | [Terraform: Data Validation — Usability Improvement for Small Business](Project_046760/README.md) |
 
 [Back to the portfolio home](../README.md)
