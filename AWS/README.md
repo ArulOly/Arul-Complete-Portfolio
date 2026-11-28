@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014698 | [AWS: Configuration Comparison — Recovery for Portfolio Demo](Project_014698/README.md) |
 | 014699 | [AWS: Configuration Comparison — Reporting for Portfolio Demo](Project_014699/README.md) |
 | 014700 | [AWS: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_014700/README.md) |
+| 014701 | [AWS: Error Handling — Baseline Setup for School Lab](Project_014701/README.md) |
+| 014702 | [AWS: Error Handling — Automation for School Lab](Project_014702/README.md) |
+| 014703 | [AWS: Error Handling — Recovery for School Lab](Project_014703/README.md) |
+| 014704 | [AWS: Error Handling — Reporting for School Lab](Project_014704/README.md) |
+| 014705 | [AWS: Error Handling — Usability Improvement for School Lab](Project_014705/README.md) |
+| 014706 | [AWS: Error Handling — Baseline Setup for Small Business](Project_014706/README.md) |
+| 014707 | [AWS: Error Handling — Automation for Small Business](Project_014707/README.md) |
+| 014708 | [AWS: Error Handling — Recovery for Small Business](Project_014708/README.md) |
+| 014709 | [AWS: Error Handling — Reporting for Small Business](Project_014709/README.md) |
+| 014710 | [AWS: Error Handling — Usability Improvement for Small Business](Project_014710/README.md) |
+| 014711 | [AWS: Error Handling — Baseline Setup for Home Development](Project_014711/README.md) |
+| 014712 | [AWS: Error Handling — Automation for Home Development](Project_014712/README.md) |
+| 014713 | [AWS: Error Handling — Recovery for Home Development](Project_014713/README.md) |
+| 014714 | [AWS: Error Handling — Reporting for Home Development](Project_014714/README.md) |
+| 014715 | [AWS: Error Handling — Usability Improvement for Home Development](Project_014715/README.md) |
+| 014716 | [AWS: Error Handling — Baseline Setup for Public Dataset](Project_014716/README.md) |
+| 014717 | [AWS: Error Handling — Automation for Public Dataset](Project_014717/README.md) |
+| 014718 | [AWS: Error Handling — Recovery for Public Dataset](Project_014718/README.md) |
+| 014719 | [AWS: Error Handling — Reporting for Public Dataset](Project_014719/README.md) |
+| 014720 | [AWS: Error Handling — Usability Improvement for Public Dataset](Project_014720/README.md) |
 
 [Back to the portfolio home](../README.md)
