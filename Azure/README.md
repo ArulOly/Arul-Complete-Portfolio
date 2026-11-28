@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015358 | [Azure: Dashboard — Recovery for Small Business](Project_015358/README.md) |
 | 015359 | [Azure: Dashboard — Reporting for Small Business](Project_015359/README.md) |
 | 015360 | [Azure: Dashboard — Usability Improvement for Small Business](Project_015360/README.md) |
+| 015361 | [Azure: Dashboard — Baseline Setup for Home Development](Project_015361/README.md) |
+| 015362 | [Azure: Dashboard — Automation for Home Development](Project_015362/README.md) |
+| 015363 | [Azure: Dashboard — Recovery for Home Development](Project_015363/README.md) |
+| 015364 | [Azure: Dashboard — Reporting for Home Development](Project_015364/README.md) |
+| 015365 | [Azure: Dashboard — Usability Improvement for Home Development](Project_015365/README.md) |
+| 015366 | [Azure: Dashboard — Baseline Setup for Public Dataset](Project_015366/README.md) |
+| 015367 | [Azure: Dashboard — Automation for Public Dataset](Project_015367/README.md) |
+| 015368 | [Azure: Dashboard — Recovery for Public Dataset](Project_015368/README.md) |
+| 015369 | [Azure: Dashboard — Reporting for Public Dataset](Project_015369/README.md) |
+| 015370 | [Azure: Dashboard — Usability Improvement for Public Dataset](Project_015370/README.md) |
+| 015371 | [Azure: Dashboard — Baseline Setup for Branch Office Simulator](Project_015371/README.md) |
+| 015372 | [Azure: Dashboard — Automation for Branch Office Simulator](Project_015372/README.md) |
+| 015373 | [Azure: Dashboard — Recovery for Branch Office Simulator](Project_015373/README.md) |
+| 015374 | [Azure: Dashboard — Reporting for Branch Office Simulator](Project_015374/README.md) |
+| 015375 | [Azure: Dashboard — Usability Improvement for Branch Office Simulator](Project_015375/README.md) |
+| 015376 | [Azure: Dashboard — Baseline Setup for Offline Classroom](Project_015376/README.md) |
+| 015377 | [Azure: Dashboard — Automation for Offline Classroom](Project_015377/README.md) |
+| 015378 | [Azure: Dashboard — Recovery for Offline Classroom](Project_015378/README.md) |
+| 015379 | [Azure: Dashboard — Reporting for Offline Classroom](Project_015379/README.md) |
+| 015380 | [Azure: Dashboard — Usability Improvement for Offline Classroom](Project_015380/README.md) |
 
 [Back to the portfolio home](../README.md)
