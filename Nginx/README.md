@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041238 | [Nginx: Backup Verification — Recovery for Two-Node Lab](Project_041238/README.md) |
 | 041239 | [Nginx: Backup Verification — Reporting for Two-Node Lab](Project_041239/README.md) |
 | 041240 | [Nginx: Backup Verification — Usability Improvement for Two-Node Lab](Project_041240/README.md) |
+| 041241 | [Nginx: Backup Verification — Baseline Setup for Help Desk](Project_041241/README.md) |
+| 041242 | [Nginx: Backup Verification — Automation for Help Desk](Project_041242/README.md) |
+| 041243 | [Nginx: Backup Verification — Recovery for Help Desk](Project_041243/README.md) |
+| 041244 | [Nginx: Backup Verification — Reporting for Help Desk](Project_041244/README.md) |
+| 041245 | [Nginx: Backup Verification — Usability Improvement for Help Desk](Project_041245/README.md) |
+| 041246 | [Nginx: Backup Verification — Baseline Setup for Portfolio Demo](Project_041246/README.md) |
+| 041247 | [Nginx: Backup Verification — Automation for Portfolio Demo](Project_041247/README.md) |
+| 041248 | [Nginx: Backup Verification — Recovery for Portfolio Demo](Project_041248/README.md) |
+| 041249 | [Nginx: Backup Verification — Reporting for Portfolio Demo](Project_041249/README.md) |
+| 041250 | [Nginx: Backup Verification — Usability Improvement for Portfolio Demo](Project_041250/README.md) |
+| 041251 | [Nginx: Data Import — Baseline Setup for School Lab](Project_041251/README.md) |
+| 041252 | [Nginx: Data Import — Automation for School Lab](Project_041252/README.md) |
+| 041253 | [Nginx: Data Import — Recovery for School Lab](Project_041253/README.md) |
+| 041254 | [Nginx: Data Import — Reporting for School Lab](Project_041254/README.md) |
+| 041255 | [Nginx: Data Import — Usability Improvement for School Lab](Project_041255/README.md) |
+| 041256 | [Nginx: Data Import — Baseline Setup for Small Business](Project_041256/README.md) |
+| 041257 | [Nginx: Data Import — Automation for Small Business](Project_041257/README.md) |
+| 041258 | [Nginx: Data Import — Recovery for Small Business](Project_041258/README.md) |
+| 041259 | [Nginx: Data Import — Reporting for Small Business](Project_041259/README.md) |
+| 041260 | [Nginx: Data Import — Usability Improvement for Small Business](Project_041260/README.md) |
 
 [Back to the portfolio home](../README.md)
