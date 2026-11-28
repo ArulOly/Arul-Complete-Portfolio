@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035058 | [Raspberry Pi: Monitoring — Recovery for Small Business](Project_035058/README.md) |
 | 035059 | [Raspberry Pi: Monitoring — Reporting for Small Business](Project_035059/README.md) |
 | 035060 | [Raspberry Pi: Monitoring — Usability Improvement for Small Business](Project_035060/README.md) |
+| 035061 | [Raspberry Pi: Monitoring — Baseline Setup for Home Development](Project_035061/README.md) |
+| 035062 | [Raspberry Pi: Monitoring — Automation for Home Development](Project_035062/README.md) |
+| 035063 | [Raspberry Pi: Monitoring — Recovery for Home Development](Project_035063/README.md) |
+| 035064 | [Raspberry Pi: Monitoring — Reporting for Home Development](Project_035064/README.md) |
+| 035065 | [Raspberry Pi: Monitoring — Usability Improvement for Home Development](Project_035065/README.md) |
+| 035066 | [Raspberry Pi: Monitoring — Baseline Setup for Public Dataset](Project_035066/README.md) |
+| 035067 | [Raspberry Pi: Monitoring — Automation for Public Dataset](Project_035067/README.md) |
+| 035068 | [Raspberry Pi: Monitoring — Recovery for Public Dataset](Project_035068/README.md) |
+| 035069 | [Raspberry Pi: Monitoring — Reporting for Public Dataset](Project_035069/README.md) |
+| 035070 | [Raspberry Pi: Monitoring — Usability Improvement for Public Dataset](Project_035070/README.md) |
+| 035071 | [Raspberry Pi: Monitoring — Baseline Setup for Branch Office Simulator](Project_035071/README.md) |
+| 035072 | [Raspberry Pi: Monitoring — Automation for Branch Office Simulator](Project_035072/README.md) |
+| 035073 | [Raspberry Pi: Monitoring — Recovery for Branch Office Simulator](Project_035073/README.md) |
+| 035074 | [Raspberry Pi: Monitoring — Reporting for Branch Office Simulator](Project_035074/README.md) |
+| 035075 | [Raspberry Pi: Monitoring — Usability Improvement for Branch Office Simulator](Project_035075/README.md) |
+| 035076 | [Raspberry Pi: Monitoring — Baseline Setup for Offline Classroom](Project_035076/README.md) |
+| 035077 | [Raspberry Pi: Monitoring — Automation for Offline Classroom](Project_035077/README.md) |
+| 035078 | [Raspberry Pi: Monitoring — Recovery for Offline Classroom](Project_035078/README.md) |
+| 035079 | [Raspberry Pi: Monitoring — Reporting for Offline Classroom](Project_035079/README.md) |
+| 035080 | [Raspberry Pi: Monitoring — Usability Improvement for Offline Classroom](Project_035080/README.md) |
 
 [Back to the portfolio home](../README.md)
