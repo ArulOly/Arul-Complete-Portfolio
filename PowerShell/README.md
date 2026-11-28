@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040698 | [PowerShell: Configuration Comparison — Recovery for Portfolio Demo](Project_040698/README.md) |
 | 040699 | [PowerShell: Configuration Comparison — Reporting for Portfolio Demo](Project_040699/README.md) |
 | 040700 | [PowerShell: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_040700/README.md) |
+| 040701 | [PowerShell: Error Handling — Baseline Setup for School Lab](Project_040701/README.md) |
+| 040702 | [PowerShell: Error Handling — Automation for School Lab](Project_040702/README.md) |
+| 040703 | [PowerShell: Error Handling — Recovery for School Lab](Project_040703/README.md) |
+| 040704 | [PowerShell: Error Handling — Reporting for School Lab](Project_040704/README.md) |
+| 040705 | [PowerShell: Error Handling — Usability Improvement for School Lab](Project_040705/README.md) |
+| 040706 | [PowerShell: Error Handling — Baseline Setup for Small Business](Project_040706/README.md) |
+| 040707 | [PowerShell: Error Handling — Automation for Small Business](Project_040707/README.md) |
+| 040708 | [PowerShell: Error Handling — Recovery for Small Business](Project_040708/README.md) |
+| 040709 | [PowerShell: Error Handling — Reporting for Small Business](Project_040709/README.md) |
+| 040710 | [PowerShell: Error Handling — Usability Improvement for Small Business](Project_040710/README.md) |
+| 040711 | [PowerShell: Error Handling — Baseline Setup for Home Development](Project_040711/README.md) |
+| 040712 | [PowerShell: Error Handling — Automation for Home Development](Project_040712/README.md) |
+| 040713 | [PowerShell: Error Handling — Recovery for Home Development](Project_040713/README.md) |
+| 040714 | [PowerShell: Error Handling — Reporting for Home Development](Project_040714/README.md) |
+| 040715 | [PowerShell: Error Handling — Usability Improvement for Home Development](Project_040715/README.md) |
+| 040716 | [PowerShell: Error Handling — Baseline Setup for Public Dataset](Project_040716/README.md) |
+| 040717 | [PowerShell: Error Handling — Automation for Public Dataset](Project_040717/README.md) |
+| 040718 | [PowerShell: Error Handling — Recovery for Public Dataset](Project_040718/README.md) |
+| 040719 | [PowerShell: Error Handling — Reporting for Public Dataset](Project_040719/README.md) |
+| 040720 | [PowerShell: Error Handling — Usability Improvement for Public Dataset](Project_040720/README.md) |
 
 [Back to the portfolio home](../README.md)
