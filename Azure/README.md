@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015878 | [Azure: Automation — Recovery for Offline Classroom](Project_015878/README.md) |
 | 015879 | [Azure: Automation — Reporting for Offline Classroom](Project_015879/README.md) |
 | 015880 | [Azure: Automation — Usability Improvement for Offline Classroom](Project_015880/README.md) |
+| 015881 | [Azure: Automation — Baseline Setup for Single-Host Lab](Project_015881/README.md) |
+| 015882 | [Azure: Automation — Automation for Single-Host Lab](Project_015882/README.md) |
+| 015883 | [Azure: Automation — Recovery for Single-Host Lab](Project_015883/README.md) |
+| 015884 | [Azure: Automation — Reporting for Single-Host Lab](Project_015884/README.md) |
+| 015885 | [Azure: Automation — Usability Improvement for Single-Host Lab](Project_015885/README.md) |
+| 015886 | [Azure: Automation — Baseline Setup for Two-Node Lab](Project_015886/README.md) |
+| 015887 | [Azure: Automation — Automation for Two-Node Lab](Project_015887/README.md) |
+| 015888 | [Azure: Automation — Recovery for Two-Node Lab](Project_015888/README.md) |
+| 015889 | [Azure: Automation — Reporting for Two-Node Lab](Project_015889/README.md) |
+| 015890 | [Azure: Automation — Usability Improvement for Two-Node Lab](Project_015890/README.md) |
+| 015891 | [Azure: Automation — Baseline Setup for Help Desk](Project_015891/README.md) |
+| 015892 | [Azure: Automation — Automation for Help Desk](Project_015892/README.md) |
+| 015893 | [Azure: Automation — Recovery for Help Desk](Project_015893/README.md) |
+| 015894 | [Azure: Automation — Reporting for Help Desk](Project_015894/README.md) |
+| 015895 | [Azure: Automation — Usability Improvement for Help Desk](Project_015895/README.md) |
+| 015896 | [Azure: Automation — Baseline Setup for Portfolio Demo](Project_015896/README.md) |
+| 015897 | [Azure: Automation — Automation for Portfolio Demo](Project_015897/README.md) |
+| 015898 | [Azure: Automation — Recovery for Portfolio Demo](Project_015898/README.md) |
+| 015899 | [Azure: Automation — Reporting for Portfolio Demo](Project_015899/README.md) |
+| 015900 | [Azure: Automation — Usability Improvement for Portfolio Demo](Project_015900/README.md) |
 
 [Back to the portfolio home](../README.md)
