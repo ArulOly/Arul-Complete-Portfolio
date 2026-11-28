@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031158 | [Greenbone: Log Analysis — Recovery for Small Business](Project_031158/README.md) |
 | 031159 | [Greenbone: Log Analysis — Reporting for Small Business](Project_031159/README.md) |
 | 031160 | [Greenbone: Log Analysis — Usability Improvement for Small Business](Project_031160/README.md) |
+| 031161 | [Greenbone: Log Analysis — Baseline Setup for Home Development](Project_031161/README.md) |
+| 031162 | [Greenbone: Log Analysis — Automation for Home Development](Project_031162/README.md) |
+| 031163 | [Greenbone: Log Analysis — Recovery for Home Development](Project_031163/README.md) |
+| 031164 | [Greenbone: Log Analysis — Reporting for Home Development](Project_031164/README.md) |
+| 031165 | [Greenbone: Log Analysis — Usability Improvement for Home Development](Project_031165/README.md) |
+| 031166 | [Greenbone: Log Analysis — Baseline Setup for Public Dataset](Project_031166/README.md) |
+| 031167 | [Greenbone: Log Analysis — Automation for Public Dataset](Project_031167/README.md) |
+| 031168 | [Greenbone: Log Analysis — Recovery for Public Dataset](Project_031168/README.md) |
+| 031169 | [Greenbone: Log Analysis — Reporting for Public Dataset](Project_031169/README.md) |
+| 031170 | [Greenbone: Log Analysis — Usability Improvement for Public Dataset](Project_031170/README.md) |
+| 031171 | [Greenbone: Log Analysis — Baseline Setup for Branch Office Simulator](Project_031171/README.md) |
+| 031172 | [Greenbone: Log Analysis — Automation for Branch Office Simulator](Project_031172/README.md) |
+| 031173 | [Greenbone: Log Analysis — Recovery for Branch Office Simulator](Project_031173/README.md) |
+| 031174 | [Greenbone: Log Analysis — Reporting for Branch Office Simulator](Project_031174/README.md) |
+| 031175 | [Greenbone: Log Analysis — Usability Improvement for Branch Office Simulator](Project_031175/README.md) |
+| 031176 | [Greenbone: Log Analysis — Baseline Setup for Offline Classroom](Project_031176/README.md) |
+| 031177 | [Greenbone: Log Analysis — Automation for Offline Classroom](Project_031177/README.md) |
+| 031178 | [Greenbone: Log Analysis — Recovery for Offline Classroom](Project_031178/README.md) |
+| 031179 | [Greenbone: Log Analysis — Reporting for Offline Classroom](Project_031179/README.md) |
+| 031180 | [Greenbone: Log Analysis — Usability Improvement for Offline Classroom](Project_031180/README.md) |
 
 [Back to the portfolio home](../README.md)
