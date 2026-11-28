@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047458 | [Ansible: Scheduled Reporting — Recovery for Small Business](Project_047458/README.md) |
 | 047459 | [Ansible: Scheduled Reporting — Reporting for Small Business](Project_047459/README.md) |
 | 047460 | [Ansible: Scheduled Reporting — Usability Improvement for Small Business](Project_047460/README.md) |
+| 047461 | [Ansible: Scheduled Reporting — Baseline Setup for Home Development](Project_047461/README.md) |
+| 047462 | [Ansible: Scheduled Reporting — Automation for Home Development](Project_047462/README.md) |
+| 047463 | [Ansible: Scheduled Reporting — Recovery for Home Development](Project_047463/README.md) |
+| 047464 | [Ansible: Scheduled Reporting — Reporting for Home Development](Project_047464/README.md) |
+| 047465 | [Ansible: Scheduled Reporting — Usability Improvement for Home Development](Project_047465/README.md) |
+| 047466 | [Ansible: Scheduled Reporting — Baseline Setup for Public Dataset](Project_047466/README.md) |
+| 047467 | [Ansible: Scheduled Reporting — Automation for Public Dataset](Project_047467/README.md) |
+| 047468 | [Ansible: Scheduled Reporting — Recovery for Public Dataset](Project_047468/README.md) |
+| 047469 | [Ansible: Scheduled Reporting — Reporting for Public Dataset](Project_047469/README.md) |
+| 047470 | [Ansible: Scheduled Reporting — Usability Improvement for Public Dataset](Project_047470/README.md) |
+| 047471 | [Ansible: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_047471/README.md) |
+| 047472 | [Ansible: Scheduled Reporting — Automation for Branch Office Simulator](Project_047472/README.md) |
+| 047473 | [Ansible: Scheduled Reporting — Recovery for Branch Office Simulator](Project_047473/README.md) |
+| 047474 | [Ansible: Scheduled Reporting — Reporting for Branch Office Simulator](Project_047474/README.md) |
+| 047475 | [Ansible: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_047475/README.md) |
+| 047476 | [Ansible: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_047476/README.md) |
+| 047477 | [Ansible: Scheduled Reporting — Automation for Offline Classroom](Project_047477/README.md) |
+| 047478 | [Ansible: Scheduled Reporting — Recovery for Offline Classroom](Project_047478/README.md) |
+| 047479 | [Ansible: Scheduled Reporting — Reporting for Offline Classroom](Project_047479/README.md) |
+| 047480 | [Ansible: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_047480/README.md) |
 
 [Back to the portfolio home](../README.md)
