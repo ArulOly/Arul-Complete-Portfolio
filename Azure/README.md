@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015698 | [Azure: Configuration Comparison — Recovery for Portfolio Demo](Project_015698/README.md) |
 | 015699 | [Azure: Configuration Comparison — Reporting for Portfolio Demo](Project_015699/README.md) |
 | 015700 | [Azure: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_015700/README.md) |
+| 015701 | [Azure: Error Handling — Baseline Setup for School Lab](Project_015701/README.md) |
+| 015702 | [Azure: Error Handling — Automation for School Lab](Project_015702/README.md) |
+| 015703 | [Azure: Error Handling — Recovery for School Lab](Project_015703/README.md) |
+| 015704 | [Azure: Error Handling — Reporting for School Lab](Project_015704/README.md) |
+| 015705 | [Azure: Error Handling — Usability Improvement for School Lab](Project_015705/README.md) |
+| 015706 | [Azure: Error Handling — Baseline Setup for Small Business](Project_015706/README.md) |
+| 015707 | [Azure: Error Handling — Automation for Small Business](Project_015707/README.md) |
+| 015708 | [Azure: Error Handling — Recovery for Small Business](Project_015708/README.md) |
+| 015709 | [Azure: Error Handling — Reporting for Small Business](Project_015709/README.md) |
+| 015710 | [Azure: Error Handling — Usability Improvement for Small Business](Project_015710/README.md) |
+| 015711 | [Azure: Error Handling — Baseline Setup for Home Development](Project_015711/README.md) |
+| 015712 | [Azure: Error Handling — Automation for Home Development](Project_015712/README.md) |
+| 015713 | [Azure: Error Handling — Recovery for Home Development](Project_015713/README.md) |
+| 015714 | [Azure: Error Handling — Reporting for Home Development](Project_015714/README.md) |
+| 015715 | [Azure: Error Handling — Usability Improvement for Home Development](Project_015715/README.md) |
+| 015716 | [Azure: Error Handling — Baseline Setup for Public Dataset](Project_015716/README.md) |
+| 015717 | [Azure: Error Handling — Automation for Public Dataset](Project_015717/README.md) |
+| 015718 | [Azure: Error Handling — Recovery for Public Dataset](Project_015718/README.md) |
+| 015719 | [Azure: Error Handling — Reporting for Public Dataset](Project_015719/README.md) |
+| 015720 | [Azure: Error Handling — Usability Improvement for Public Dataset](Project_015720/README.md) |
 
 [Back to the portfolio home](../README.md)
