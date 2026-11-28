@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043938 | [Grafana: Visual Reporting — Recovery for Two-Node Lab](Project_043938/README.md) |
 | 043939 | [Grafana: Visual Reporting — Reporting for Two-Node Lab](Project_043939/README.md) |
 | 043940 | [Grafana: Visual Reporting — Usability Improvement for Two-Node Lab](Project_043940/README.md) |
+| 043941 | [Grafana: Visual Reporting — Baseline Setup for Help Desk](Project_043941/README.md) |
+| 043942 | [Grafana: Visual Reporting — Automation for Help Desk](Project_043942/README.md) |
+| 043943 | [Grafana: Visual Reporting — Recovery for Help Desk](Project_043943/README.md) |
+| 043944 | [Grafana: Visual Reporting — Reporting for Help Desk](Project_043944/README.md) |
+| 043945 | [Grafana: Visual Reporting — Usability Improvement for Help Desk](Project_043945/README.md) |
+| 043946 | [Grafana: Visual Reporting — Baseline Setup for Portfolio Demo](Project_043946/README.md) |
+| 043947 | [Grafana: Visual Reporting — Automation for Portfolio Demo](Project_043947/README.md) |
+| 043948 | [Grafana: Visual Reporting — Recovery for Portfolio Demo](Project_043948/README.md) |
+| 043949 | [Grafana: Visual Reporting — Reporting for Portfolio Demo](Project_043949/README.md) |
+| 043950 | [Grafana: Visual Reporting — Usability Improvement for Portfolio Demo](Project_043950/README.md) |
+| 043951 | [Grafana: Recovery Test — Baseline Setup for School Lab](Project_043951/README.md) |
+| 043952 | [Grafana: Recovery Test — Automation for School Lab](Project_043952/README.md) |
+| 043953 | [Grafana: Recovery Test — Recovery for School Lab](Project_043953/README.md) |
+| 043954 | [Grafana: Recovery Test — Reporting for School Lab](Project_043954/README.md) |
+| 043955 | [Grafana: Recovery Test — Usability Improvement for School Lab](Project_043955/README.md) |
+| 043956 | [Grafana: Recovery Test — Baseline Setup for Small Business](Project_043956/README.md) |
+| 043957 | [Grafana: Recovery Test — Automation for Small Business](Project_043957/README.md) |
+| 043958 | [Grafana: Recovery Test — Recovery for Small Business](Project_043958/README.md) |
+| 043959 | [Grafana: Recovery Test — Reporting for Small Business](Project_043959/README.md) |
+| 043960 | [Grafana: Recovery Test — Usability Improvement for Small Business](Project_043960/README.md) |
 
 [Back to the portfolio home](../README.md)
