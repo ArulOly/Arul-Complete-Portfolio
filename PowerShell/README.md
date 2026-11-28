@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040638 | [PowerShell: Service Check — Recovery for Two-Node Lab](Project_040638/README.md) |
 | 040639 | [PowerShell: Service Check — Reporting for Two-Node Lab](Project_040639/README.md) |
 | 040640 | [PowerShell: Service Check — Usability Improvement for Two-Node Lab](Project_040640/README.md) |
+| 040641 | [PowerShell: Service Check — Baseline Setup for Help Desk](Project_040641/README.md) |
+| 040642 | [PowerShell: Service Check — Automation for Help Desk](Project_040642/README.md) |
+| 040643 | [PowerShell: Service Check — Recovery for Help Desk](Project_040643/README.md) |
+| 040644 | [PowerShell: Service Check — Reporting for Help Desk](Project_040644/README.md) |
+| 040645 | [PowerShell: Service Check — Usability Improvement for Help Desk](Project_040645/README.md) |
+| 040646 | [PowerShell: Service Check — Baseline Setup for Portfolio Demo](Project_040646/README.md) |
+| 040647 | [PowerShell: Service Check — Automation for Portfolio Demo](Project_040647/README.md) |
+| 040648 | [PowerShell: Service Check — Recovery for Portfolio Demo](Project_040648/README.md) |
+| 040649 | [PowerShell: Service Check — Reporting for Portfolio Demo](Project_040649/README.md) |
+| 040650 | [PowerShell: Service Check — Usability Improvement for Portfolio Demo](Project_040650/README.md) |
+| 040651 | [PowerShell: Configuration Comparison — Baseline Setup for School Lab](Project_040651/README.md) |
+| 040652 | [PowerShell: Configuration Comparison — Automation for School Lab](Project_040652/README.md) |
+| 040653 | [PowerShell: Configuration Comparison — Recovery for School Lab](Project_040653/README.md) |
+| 040654 | [PowerShell: Configuration Comparison — Reporting for School Lab](Project_040654/README.md) |
+| 040655 | [PowerShell: Configuration Comparison — Usability Improvement for School Lab](Project_040655/README.md) |
+| 040656 | [PowerShell: Configuration Comparison — Baseline Setup for Small Business](Project_040656/README.md) |
+| 040657 | [PowerShell: Configuration Comparison — Automation for Small Business](Project_040657/README.md) |
+| 040658 | [PowerShell: Configuration Comparison — Recovery for Small Business](Project_040658/README.md) |
+| 040659 | [PowerShell: Configuration Comparison — Reporting for Small Business](Project_040659/README.md) |
+| 040660 | [PowerShell: Configuration Comparison — Usability Improvement for Small Business](Project_040660/README.md) |
 
 [Back to the portfolio home](../README.md)
