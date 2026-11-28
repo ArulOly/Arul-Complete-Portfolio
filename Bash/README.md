@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039098 | [Bash: Monitoring — Recovery for Portfolio Demo](Project_039098/README.md) |
 | 039099 | [Bash: Monitoring — Reporting for Portfolio Demo](Project_039099/README.md) |
 | 039100 | [Bash: Monitoring — Usability Improvement for Portfolio Demo](Project_039100/README.md) |
+| 039101 | [Bash: Audit — Baseline Setup for School Lab](Project_039101/README.md) |
+| 039102 | [Bash: Audit — Automation for School Lab](Project_039102/README.md) |
+| 039103 | [Bash: Audit — Recovery for School Lab](Project_039103/README.md) |
+| 039104 | [Bash: Audit — Reporting for School Lab](Project_039104/README.md) |
+| 039105 | [Bash: Audit — Usability Improvement for School Lab](Project_039105/README.md) |
+| 039106 | [Bash: Audit — Baseline Setup for Small Business](Project_039106/README.md) |
+| 039107 | [Bash: Audit — Automation for Small Business](Project_039107/README.md) |
+| 039108 | [Bash: Audit — Recovery for Small Business](Project_039108/README.md) |
+| 039109 | [Bash: Audit — Reporting for Small Business](Project_039109/README.md) |
+| 039110 | [Bash: Audit — Usability Improvement for Small Business](Project_039110/README.md) |
+| 039111 | [Bash: Audit — Baseline Setup for Home Development](Project_039111/README.md) |
+| 039112 | [Bash: Audit — Automation for Home Development](Project_039112/README.md) |
+| 039113 | [Bash: Audit — Recovery for Home Development](Project_039113/README.md) |
+| 039114 | [Bash: Audit — Reporting for Home Development](Project_039114/README.md) |
+| 039115 | [Bash: Audit — Usability Improvement for Home Development](Project_039115/README.md) |
+| 039116 | [Bash: Audit — Baseline Setup for Public Dataset](Project_039116/README.md) |
+| 039117 | [Bash: Audit — Automation for Public Dataset](Project_039117/README.md) |
+| 039118 | [Bash: Audit — Recovery for Public Dataset](Project_039118/README.md) |
+| 039119 | [Bash: Audit — Reporting for Public Dataset](Project_039119/README.md) |
+| 039120 | [Bash: Audit — Usability Improvement for Public Dataset](Project_039120/README.md) |
 
 [Back to the portfolio home](../README.md)
