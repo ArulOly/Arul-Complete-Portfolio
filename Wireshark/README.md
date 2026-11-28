@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029918 | [Wireshark: Visual Reporting — Recovery for Public Dataset](Project_029918/README.md) |
 | 029919 | [Wireshark: Visual Reporting — Reporting for Public Dataset](Project_029919/README.md) |
 | 029920 | [Wireshark: Visual Reporting — Usability Improvement for Public Dataset](Project_029920/README.md) |
+| 029921 | [Wireshark: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_029921/README.md) |
+| 029922 | [Wireshark: Visual Reporting — Automation for Branch Office Simulator](Project_029922/README.md) |
+| 029923 | [Wireshark: Visual Reporting — Recovery for Branch Office Simulator](Project_029923/README.md) |
+| 029924 | [Wireshark: Visual Reporting — Reporting for Branch Office Simulator](Project_029924/README.md) |
+| 029925 | [Wireshark: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_029925/README.md) |
+| 029926 | [Wireshark: Visual Reporting — Baseline Setup for Offline Classroom](Project_029926/README.md) |
+| 029927 | [Wireshark: Visual Reporting — Automation for Offline Classroom](Project_029927/README.md) |
+| 029928 | [Wireshark: Visual Reporting — Recovery for Offline Classroom](Project_029928/README.md) |
+| 029929 | [Wireshark: Visual Reporting — Reporting for Offline Classroom](Project_029929/README.md) |
+| 029930 | [Wireshark: Visual Reporting — Usability Improvement for Offline Classroom](Project_029930/README.md) |
+| 029931 | [Wireshark: Visual Reporting — Baseline Setup for Single-Host Lab](Project_029931/README.md) |
+| 029932 | [Wireshark: Visual Reporting — Automation for Single-Host Lab](Project_029932/README.md) |
+| 029933 | [Wireshark: Visual Reporting — Recovery for Single-Host Lab](Project_029933/README.md) |
+| 029934 | [Wireshark: Visual Reporting — Reporting for Single-Host Lab](Project_029934/README.md) |
+| 029935 | [Wireshark: Visual Reporting — Usability Improvement for Single-Host Lab](Project_029935/README.md) |
+| 029936 | [Wireshark: Visual Reporting — Baseline Setup for Two-Node Lab](Project_029936/README.md) |
+| 029937 | [Wireshark: Visual Reporting — Automation for Two-Node Lab](Project_029937/README.md) |
+| 029938 | [Wireshark: Visual Reporting — Recovery for Two-Node Lab](Project_029938/README.md) |
+| 029939 | [Wireshark: Visual Reporting — Reporting for Two-Node Lab](Project_029939/README.md) |
+| 029940 | [Wireshark: Visual Reporting — Usability Improvement for Two-Node Lab](Project_029940/README.md) |
 
 [Back to the portfolio home](../README.md)
