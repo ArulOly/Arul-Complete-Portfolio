@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042558 | [Apache: Performance Baseline — Recovery for Small Business](Project_042558/README.md) |
 | 042559 | [Apache: Performance Baseline — Reporting for Small Business](Project_042559/README.md) |
 | 042560 | [Apache: Performance Baseline — Usability Improvement for Small Business](Project_042560/README.md) |
+| 042561 | [Apache: Performance Baseline — Baseline Setup for Home Development](Project_042561/README.md) |
+| 042562 | [Apache: Performance Baseline — Automation for Home Development](Project_042562/README.md) |
+| 042563 | [Apache: Performance Baseline — Recovery for Home Development](Project_042563/README.md) |
+| 042564 | [Apache: Performance Baseline — Reporting for Home Development](Project_042564/README.md) |
+| 042565 | [Apache: Performance Baseline — Usability Improvement for Home Development](Project_042565/README.md) |
+| 042566 | [Apache: Performance Baseline — Baseline Setup for Public Dataset](Project_042566/README.md) |
+| 042567 | [Apache: Performance Baseline — Automation for Public Dataset](Project_042567/README.md) |
+| 042568 | [Apache: Performance Baseline — Recovery for Public Dataset](Project_042568/README.md) |
+| 042569 | [Apache: Performance Baseline — Reporting for Public Dataset](Project_042569/README.md) |
+| 042570 | [Apache: Performance Baseline — Usability Improvement for Public Dataset](Project_042570/README.md) |
+| 042571 | [Apache: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_042571/README.md) |
+| 042572 | [Apache: Performance Baseline — Automation for Branch Office Simulator](Project_042572/README.md) |
+| 042573 | [Apache: Performance Baseline — Recovery for Branch Office Simulator](Project_042573/README.md) |
+| 042574 | [Apache: Performance Baseline — Reporting for Branch Office Simulator](Project_042574/README.md) |
+| 042575 | [Apache: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_042575/README.md) |
+| 042576 | [Apache: Performance Baseline — Baseline Setup for Offline Classroom](Project_042576/README.md) |
+| 042577 | [Apache: Performance Baseline — Automation for Offline Classroom](Project_042577/README.md) |
+| 042578 | [Apache: Performance Baseline — Recovery for Offline Classroom](Project_042578/README.md) |
+| 042579 | [Apache: Performance Baseline — Reporting for Offline Classroom](Project_042579/README.md) |
+| 042580 | [Apache: Performance Baseline — Usability Improvement for Offline Classroom](Project_042580/README.md) |
 
 [Back to the portfolio home](../README.md)
