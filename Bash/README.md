@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039918 | [Bash: Visual Reporting — Recovery for Public Dataset](Project_039918/README.md) |
 | 039919 | [Bash: Visual Reporting — Reporting for Public Dataset](Project_039919/README.md) |
 | 039920 | [Bash: Visual Reporting — Usability Improvement for Public Dataset](Project_039920/README.md) |
+| 039921 | [Bash: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_039921/README.md) |
+| 039922 | [Bash: Visual Reporting — Automation for Branch Office Simulator](Project_039922/README.md) |
+| 039923 | [Bash: Visual Reporting — Recovery for Branch Office Simulator](Project_039923/README.md) |
+| 039924 | [Bash: Visual Reporting — Reporting for Branch Office Simulator](Project_039924/README.md) |
+| 039925 | [Bash: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_039925/README.md) |
+| 039926 | [Bash: Visual Reporting — Baseline Setup for Offline Classroom](Project_039926/README.md) |
+| 039927 | [Bash: Visual Reporting — Automation for Offline Classroom](Project_039927/README.md) |
+| 039928 | [Bash: Visual Reporting — Recovery for Offline Classroom](Project_039928/README.md) |
+| 039929 | [Bash: Visual Reporting — Reporting for Offline Classroom](Project_039929/README.md) |
+| 039930 | [Bash: Visual Reporting — Usability Improvement for Offline Classroom](Project_039930/README.md) |
+| 039931 | [Bash: Visual Reporting — Baseline Setup for Single-Host Lab](Project_039931/README.md) |
+| 039932 | [Bash: Visual Reporting — Automation for Single-Host Lab](Project_039932/README.md) |
+| 039933 | [Bash: Visual Reporting — Recovery for Single-Host Lab](Project_039933/README.md) |
+| 039934 | [Bash: Visual Reporting — Reporting for Single-Host Lab](Project_039934/README.md) |
+| 039935 | [Bash: Visual Reporting — Usability Improvement for Single-Host Lab](Project_039935/README.md) |
+| 039936 | [Bash: Visual Reporting — Baseline Setup for Two-Node Lab](Project_039936/README.md) |
+| 039937 | [Bash: Visual Reporting — Automation for Two-Node Lab](Project_039937/README.md) |
+| 039938 | [Bash: Visual Reporting — Recovery for Two-Node Lab](Project_039938/README.md) |
+| 039939 | [Bash: Visual Reporting — Reporting for Two-Node Lab](Project_039939/README.md) |
+| 039940 | [Bash: Visual Reporting — Usability Improvement for Two-Node Lab](Project_039940/README.md) |
 
 [Back to the portfolio home](../README.md)
