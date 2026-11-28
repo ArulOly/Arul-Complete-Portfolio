@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042358 | [Apache: Dashboard — Recovery for Small Business](Project_042358/README.md) |
 | 042359 | [Apache: Dashboard — Reporting for Small Business](Project_042359/README.md) |
 | 042360 | [Apache: Dashboard — Usability Improvement for Small Business](Project_042360/README.md) |
+| 042361 | [Apache: Dashboard — Baseline Setup for Home Development](Project_042361/README.md) |
+| 042362 | [Apache: Dashboard — Automation for Home Development](Project_042362/README.md) |
+| 042363 | [Apache: Dashboard — Recovery for Home Development](Project_042363/README.md) |
+| 042364 | [Apache: Dashboard — Reporting for Home Development](Project_042364/README.md) |
+| 042365 | [Apache: Dashboard — Usability Improvement for Home Development](Project_042365/README.md) |
+| 042366 | [Apache: Dashboard — Baseline Setup for Public Dataset](Project_042366/README.md) |
+| 042367 | [Apache: Dashboard — Automation for Public Dataset](Project_042367/README.md) |
+| 042368 | [Apache: Dashboard — Recovery for Public Dataset](Project_042368/README.md) |
+| 042369 | [Apache: Dashboard — Reporting for Public Dataset](Project_042369/README.md) |
+| 042370 | [Apache: Dashboard — Usability Improvement for Public Dataset](Project_042370/README.md) |
+| 042371 | [Apache: Dashboard — Baseline Setup for Branch Office Simulator](Project_042371/README.md) |
+| 042372 | [Apache: Dashboard — Automation for Branch Office Simulator](Project_042372/README.md) |
+| 042373 | [Apache: Dashboard — Recovery for Branch Office Simulator](Project_042373/README.md) |
+| 042374 | [Apache: Dashboard — Reporting for Branch Office Simulator](Project_042374/README.md) |
+| 042375 | [Apache: Dashboard — Usability Improvement for Branch Office Simulator](Project_042375/README.md) |
+| 042376 | [Apache: Dashboard — Baseline Setup for Offline Classroom](Project_042376/README.md) |
+| 042377 | [Apache: Dashboard — Automation for Offline Classroom](Project_042377/README.md) |
+| 042378 | [Apache: Dashboard — Recovery for Offline Classroom](Project_042378/README.md) |
+| 042379 | [Apache: Dashboard — Reporting for Offline Classroom](Project_042379/README.md) |
+| 042380 | [Apache: Dashboard — Usability Improvement for Offline Classroom](Project_042380/README.md) |
 
 [Back to the portfolio home](../README.md)
