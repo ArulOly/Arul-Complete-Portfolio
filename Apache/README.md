@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042198 | [Apache: Log Analysis — Recovery for Portfolio Demo](Project_042198/README.md) |
 | 042199 | [Apache: Log Analysis — Reporting for Portfolio Demo](Project_042199/README.md) |
 | 042200 | [Apache: Log Analysis — Usability Improvement for Portfolio Demo](Project_042200/README.md) |
+| 042201 | [Apache: Backup Verification — Baseline Setup for School Lab](Project_042201/README.md) |
+| 042202 | [Apache: Backup Verification — Automation for School Lab](Project_042202/README.md) |
+| 042203 | [Apache: Backup Verification — Recovery for School Lab](Project_042203/README.md) |
+| 042204 | [Apache: Backup Verification — Reporting for School Lab](Project_042204/README.md) |
+| 042205 | [Apache: Backup Verification — Usability Improvement for School Lab](Project_042205/README.md) |
+| 042206 | [Apache: Backup Verification — Baseline Setup for Small Business](Project_042206/README.md) |
+| 042207 | [Apache: Backup Verification — Automation for Small Business](Project_042207/README.md) |
+| 042208 | [Apache: Backup Verification — Recovery for Small Business](Project_042208/README.md) |
+| 042209 | [Apache: Backup Verification — Reporting for Small Business](Project_042209/README.md) |
+| 042210 | [Apache: Backup Verification — Usability Improvement for Small Business](Project_042210/README.md) |
+| 042211 | [Apache: Backup Verification — Baseline Setup for Home Development](Project_042211/README.md) |
+| 042212 | [Apache: Backup Verification — Automation for Home Development](Project_042212/README.md) |
+| 042213 | [Apache: Backup Verification — Recovery for Home Development](Project_042213/README.md) |
+| 042214 | [Apache: Backup Verification — Reporting for Home Development](Project_042214/README.md) |
+| 042215 | [Apache: Backup Verification — Usability Improvement for Home Development](Project_042215/README.md) |
+| 042216 | [Apache: Backup Verification — Baseline Setup for Public Dataset](Project_042216/README.md) |
+| 042217 | [Apache: Backup Verification — Automation for Public Dataset](Project_042217/README.md) |
+| 042218 | [Apache: Backup Verification — Recovery for Public Dataset](Project_042218/README.md) |
+| 042219 | [Apache: Backup Verification — Reporting for Public Dataset](Project_042219/README.md) |
+| 042220 | [Apache: Backup Verification — Usability Improvement for Public Dataset](Project_042220/README.md) |
 
 [Back to the portfolio home](../README.md)
