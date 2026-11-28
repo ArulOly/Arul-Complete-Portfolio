@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018818 | [Kubernetes: Documentation Generation — Recovery for Public Dataset](Project_018818/README.md) |
 | 018819 | [Kubernetes: Documentation Generation — Reporting for Public Dataset](Project_018819/README.md) |
 | 018820 | [Kubernetes: Documentation Generation — Usability Improvement for Public Dataset](Project_018820/README.md) |
+| 018821 | [Kubernetes: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_018821/README.md) |
+| 018822 | [Kubernetes: Documentation Generation — Automation for Branch Office Simulator](Project_018822/README.md) |
+| 018823 | [Kubernetes: Documentation Generation — Recovery for Branch Office Simulator](Project_018823/README.md) |
+| 018824 | [Kubernetes: Documentation Generation — Reporting for Branch Office Simulator](Project_018824/README.md) |
+| 018825 | [Kubernetes: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_018825/README.md) |
+| 018826 | [Kubernetes: Documentation Generation — Baseline Setup for Offline Classroom](Project_018826/README.md) |
+| 018827 | [Kubernetes: Documentation Generation — Automation for Offline Classroom](Project_018827/README.md) |
+| 018828 | [Kubernetes: Documentation Generation — Recovery for Offline Classroom](Project_018828/README.md) |
+| 018829 | [Kubernetes: Documentation Generation — Reporting for Offline Classroom](Project_018829/README.md) |
+| 018830 | [Kubernetes: Documentation Generation — Usability Improvement for Offline Classroom](Project_018830/README.md) |
+| 018831 | [Kubernetes: Documentation Generation — Baseline Setup for Single-Host Lab](Project_018831/README.md) |
+| 018832 | [Kubernetes: Documentation Generation — Automation for Single-Host Lab](Project_018832/README.md) |
+| 018833 | [Kubernetes: Documentation Generation — Recovery for Single-Host Lab](Project_018833/README.md) |
+| 018834 | [Kubernetes: Documentation Generation — Reporting for Single-Host Lab](Project_018834/README.md) |
+| 018835 | [Kubernetes: Documentation Generation — Usability Improvement for Single-Host Lab](Project_018835/README.md) |
+| 018836 | [Kubernetes: Documentation Generation — Baseline Setup for Two-Node Lab](Project_018836/README.md) |
+| 018837 | [Kubernetes: Documentation Generation — Automation for Two-Node Lab](Project_018837/README.md) |
+| 018838 | [Kubernetes: Documentation Generation — Recovery for Two-Node Lab](Project_018838/README.md) |
+| 018839 | [Kubernetes: Documentation Generation — Reporting for Two-Node Lab](Project_018839/README.md) |
+| 018840 | [Kubernetes: Documentation Generation — Usability Improvement for Two-Node Lab](Project_018840/README.md) |
 
 [Back to the portfolio home](../README.md)
