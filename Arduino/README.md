@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037138 | [Arduino: Audit — Recovery for Two-Node Lab](Project_037138/README.md) |
 | 037139 | [Arduino: Audit — Reporting for Two-Node Lab](Project_037139/README.md) |
 | 037140 | [Arduino: Audit — Usability Improvement for Two-Node Lab](Project_037140/README.md) |
+| 037141 | [Arduino: Audit — Baseline Setup for Help Desk](Project_037141/README.md) |
+| 037142 | [Arduino: Audit — Automation for Help Desk](Project_037142/README.md) |
+| 037143 | [Arduino: Audit — Recovery for Help Desk](Project_037143/README.md) |
+| 037144 | [Arduino: Audit — Reporting for Help Desk](Project_037144/README.md) |
+| 037145 | [Arduino: Audit — Usability Improvement for Help Desk](Project_037145/README.md) |
+| 037146 | [Arduino: Audit — Baseline Setup for Portfolio Demo](Project_037146/README.md) |
+| 037147 | [Arduino: Audit — Automation for Portfolio Demo](Project_037147/README.md) |
+| 037148 | [Arduino: Audit — Recovery for Portfolio Demo](Project_037148/README.md) |
+| 037149 | [Arduino: Audit — Reporting for Portfolio Demo](Project_037149/README.md) |
+| 037150 | [Arduino: Audit — Usability Improvement for Portfolio Demo](Project_037150/README.md) |
+| 037151 | [Arduino: Log Analysis — Baseline Setup for School Lab](Project_037151/README.md) |
+| 037152 | [Arduino: Log Analysis — Automation for School Lab](Project_037152/README.md) |
+| 037153 | [Arduino: Log Analysis — Recovery for School Lab](Project_037153/README.md) |
+| 037154 | [Arduino: Log Analysis — Reporting for School Lab](Project_037154/README.md) |
+| 037155 | [Arduino: Log Analysis — Usability Improvement for School Lab](Project_037155/README.md) |
+| 037156 | [Arduino: Log Analysis — Baseline Setup for Small Business](Project_037156/README.md) |
+| 037157 | [Arduino: Log Analysis — Automation for Small Business](Project_037157/README.md) |
+| 037158 | [Arduino: Log Analysis — Recovery for Small Business](Project_037158/README.md) |
+| 037159 | [Arduino: Log Analysis — Reporting for Small Business](Project_037159/README.md) |
+| 037160 | [Arduino: Log Analysis — Usability Improvement for Small Business](Project_037160/README.md) |
 
 [Back to the portfolio home](../README.md)
