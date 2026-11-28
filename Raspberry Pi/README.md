@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035798 | [Raspberry Pi: Data Validation — Recovery for Portfolio Demo](Project_035798/README.md) |
 | 035799 | [Raspberry Pi: Data Validation — Reporting for Portfolio Demo](Project_035799/README.md) |
 | 035800 | [Raspberry Pi: Data Validation — Usability Improvement for Portfolio Demo](Project_035800/README.md) |
+| 035801 | [Raspberry Pi: Documentation Generation — Baseline Setup for School Lab](Project_035801/README.md) |
+| 035802 | [Raspberry Pi: Documentation Generation — Automation for School Lab](Project_035802/README.md) |
+| 035803 | [Raspberry Pi: Documentation Generation — Recovery for School Lab](Project_035803/README.md) |
+| 035804 | [Raspberry Pi: Documentation Generation — Reporting for School Lab](Project_035804/README.md) |
+| 035805 | [Raspberry Pi: Documentation Generation — Usability Improvement for School Lab](Project_035805/README.md) |
+| 035806 | [Raspberry Pi: Documentation Generation — Baseline Setup for Small Business](Project_035806/README.md) |
+| 035807 | [Raspberry Pi: Documentation Generation — Automation for Small Business](Project_035807/README.md) |
+| 035808 | [Raspberry Pi: Documentation Generation — Recovery for Small Business](Project_035808/README.md) |
+| 035809 | [Raspberry Pi: Documentation Generation — Reporting for Small Business](Project_035809/README.md) |
+| 035810 | [Raspberry Pi: Documentation Generation — Usability Improvement for Small Business](Project_035810/README.md) |
+| 035811 | [Raspberry Pi: Documentation Generation — Baseline Setup for Home Development](Project_035811/README.md) |
+| 035812 | [Raspberry Pi: Documentation Generation — Automation for Home Development](Project_035812/README.md) |
+| 035813 | [Raspberry Pi: Documentation Generation — Recovery for Home Development](Project_035813/README.md) |
+| 035814 | [Raspberry Pi: Documentation Generation — Reporting for Home Development](Project_035814/README.md) |
+| 035815 | [Raspberry Pi: Documentation Generation — Usability Improvement for Home Development](Project_035815/README.md) |
+| 035816 | [Raspberry Pi: Documentation Generation — Baseline Setup for Public Dataset](Project_035816/README.md) |
+| 035817 | [Raspberry Pi: Documentation Generation — Automation for Public Dataset](Project_035817/README.md) |
+| 035818 | [Raspberry Pi: Documentation Generation — Recovery for Public Dataset](Project_035818/README.md) |
+| 035819 | [Raspberry Pi: Documentation Generation — Reporting for Public Dataset](Project_035819/README.md) |
+| 035820 | [Raspberry Pi: Documentation Generation — Usability Improvement for Public Dataset](Project_035820/README.md) |
 
 [Back to the portfolio home](../README.md)
