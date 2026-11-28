@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015398 | [Azure: Dashboard — Recovery for Portfolio Demo](Project_015398/README.md) |
 | 015399 | [Azure: Dashboard — Reporting for Portfolio Demo](Project_015399/README.md) |
 | 015400 | [Azure: Dashboard — Usability Improvement for Portfolio Demo](Project_015400/README.md) |
+| 015401 | [Azure: Alerting — Baseline Setup for School Lab](Project_015401/README.md) |
+| 015402 | [Azure: Alerting — Automation for School Lab](Project_015402/README.md) |
+| 015403 | [Azure: Alerting — Recovery for School Lab](Project_015403/README.md) |
+| 015404 | [Azure: Alerting — Reporting for School Lab](Project_015404/README.md) |
+| 015405 | [Azure: Alerting — Usability Improvement for School Lab](Project_015405/README.md) |
+| 015406 | [Azure: Alerting — Baseline Setup for Small Business](Project_015406/README.md) |
+| 015407 | [Azure: Alerting — Automation for Small Business](Project_015407/README.md) |
+| 015408 | [Azure: Alerting — Recovery for Small Business](Project_015408/README.md) |
+| 015409 | [Azure: Alerting — Reporting for Small Business](Project_015409/README.md) |
+| 015410 | [Azure: Alerting — Usability Improvement for Small Business](Project_015410/README.md) |
+| 015411 | [Azure: Alerting — Baseline Setup for Home Development](Project_015411/README.md) |
+| 015412 | [Azure: Alerting — Automation for Home Development](Project_015412/README.md) |
+| 015413 | [Azure: Alerting — Recovery for Home Development](Project_015413/README.md) |
+| 015414 | [Azure: Alerting — Reporting for Home Development](Project_015414/README.md) |
+| 015415 | [Azure: Alerting — Usability Improvement for Home Development](Project_015415/README.md) |
+| 015416 | [Azure: Alerting — Baseline Setup for Public Dataset](Project_015416/README.md) |
+| 015417 | [Azure: Alerting — Automation for Public Dataset](Project_015417/README.md) |
+| 015418 | [Azure: Alerting — Recovery for Public Dataset](Project_015418/README.md) |
+| 015419 | [Azure: Alerting — Reporting for Public Dataset](Project_015419/README.md) |
+| 015420 | [Azure: Alerting — Usability Improvement for Public Dataset](Project_015420/README.md) |
 
 [Back to the portfolio home](../README.md)
