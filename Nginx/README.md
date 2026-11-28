@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041318 | [Nginx: Data Export — Recovery for Public Dataset](Project_041318/README.md) |
 | 041319 | [Nginx: Data Export — Reporting for Public Dataset](Project_041319/README.md) |
 | 041320 | [Nginx: Data Export — Usability Improvement for Public Dataset](Project_041320/README.md) |
+| 041321 | [Nginx: Data Export — Baseline Setup for Branch Office Simulator](Project_041321/README.md) |
+| 041322 | [Nginx: Data Export — Automation for Branch Office Simulator](Project_041322/README.md) |
+| 041323 | [Nginx: Data Export — Recovery for Branch Office Simulator](Project_041323/README.md) |
+| 041324 | [Nginx: Data Export — Reporting for Branch Office Simulator](Project_041324/README.md) |
+| 041325 | [Nginx: Data Export — Usability Improvement for Branch Office Simulator](Project_041325/README.md) |
+| 041326 | [Nginx: Data Export — Baseline Setup for Offline Classroom](Project_041326/README.md) |
+| 041327 | [Nginx: Data Export — Automation for Offline Classroom](Project_041327/README.md) |
+| 041328 | [Nginx: Data Export — Recovery for Offline Classroom](Project_041328/README.md) |
+| 041329 | [Nginx: Data Export — Reporting for Offline Classroom](Project_041329/README.md) |
+| 041330 | [Nginx: Data Export — Usability Improvement for Offline Classroom](Project_041330/README.md) |
+| 041331 | [Nginx: Data Export — Baseline Setup for Single-Host Lab](Project_041331/README.md) |
+| 041332 | [Nginx: Data Export — Automation for Single-Host Lab](Project_041332/README.md) |
+| 041333 | [Nginx: Data Export — Recovery for Single-Host Lab](Project_041333/README.md) |
+| 041334 | [Nginx: Data Export — Reporting for Single-Host Lab](Project_041334/README.md) |
+| 041335 | [Nginx: Data Export — Usability Improvement for Single-Host Lab](Project_041335/README.md) |
+| 041336 | [Nginx: Data Export — Baseline Setup for Two-Node Lab](Project_041336/README.md) |
+| 041337 | [Nginx: Data Export — Automation for Two-Node Lab](Project_041337/README.md) |
+| 041338 | [Nginx: Data Export — Recovery for Two-Node Lab](Project_041338/README.md) |
+| 041339 | [Nginx: Data Export — Reporting for Two-Node Lab](Project_041339/README.md) |
+| 041340 | [Nginx: Data Export — Usability Improvement for Two-Node Lab](Project_041340/README.md) |
 
 [Back to the portfolio home](../README.md)
