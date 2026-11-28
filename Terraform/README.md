@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046938 | [Terraform: Visual Reporting — Recovery for Two-Node Lab](Project_046938/README.md) |
 | 046939 | [Terraform: Visual Reporting — Reporting for Two-Node Lab](Project_046939/README.md) |
 | 046940 | [Terraform: Visual Reporting — Usability Improvement for Two-Node Lab](Project_046940/README.md) |
+| 046941 | [Terraform: Visual Reporting — Baseline Setup for Help Desk](Project_046941/README.md) |
+| 046942 | [Terraform: Visual Reporting — Automation for Help Desk](Project_046942/README.md) |
+| 046943 | [Terraform: Visual Reporting — Recovery for Help Desk](Project_046943/README.md) |
+| 046944 | [Terraform: Visual Reporting — Reporting for Help Desk](Project_046944/README.md) |
+| 046945 | [Terraform: Visual Reporting — Usability Improvement for Help Desk](Project_046945/README.md) |
+| 046946 | [Terraform: Visual Reporting — Baseline Setup for Portfolio Demo](Project_046946/README.md) |
+| 046947 | [Terraform: Visual Reporting — Automation for Portfolio Demo](Project_046947/README.md) |
+| 046948 | [Terraform: Visual Reporting — Recovery for Portfolio Demo](Project_046948/README.md) |
+| 046949 | [Terraform: Visual Reporting — Reporting for Portfolio Demo](Project_046949/README.md) |
+| 046950 | [Terraform: Visual Reporting — Usability Improvement for Portfolio Demo](Project_046950/README.md) |
+| 046951 | [Terraform: Recovery Test — Baseline Setup for School Lab](Project_046951/README.md) |
+| 046952 | [Terraform: Recovery Test — Automation for School Lab](Project_046952/README.md) |
+| 046953 | [Terraform: Recovery Test — Recovery for School Lab](Project_046953/README.md) |
+| 046954 | [Terraform: Recovery Test — Reporting for School Lab](Project_046954/README.md) |
+| 046955 | [Terraform: Recovery Test — Usability Improvement for School Lab](Project_046955/README.md) |
+| 046956 | [Terraform: Recovery Test — Baseline Setup for Small Business](Project_046956/README.md) |
+| 046957 | [Terraform: Recovery Test — Automation for Small Business](Project_046957/README.md) |
+| 046958 | [Terraform: Recovery Test — Recovery for Small Business](Project_046958/README.md) |
+| 046959 | [Terraform: Recovery Test — Reporting for Small Business](Project_046959/README.md) |
+| 046960 | [Terraform: Recovery Test — Usability Improvement for Small Business](Project_046960/README.md) |
 
 [Back to the portfolio home](../README.md)
