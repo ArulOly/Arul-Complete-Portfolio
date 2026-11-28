@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046458 | [Terraform: Scheduled Reporting — Recovery for Small Business](Project_046458/README.md) |
 | 046459 | [Terraform: Scheduled Reporting — Reporting for Small Business](Project_046459/README.md) |
 | 046460 | [Terraform: Scheduled Reporting — Usability Improvement for Small Business](Project_046460/README.md) |
+| 046461 | [Terraform: Scheduled Reporting — Baseline Setup for Home Development](Project_046461/README.md) |
+| 046462 | [Terraform: Scheduled Reporting — Automation for Home Development](Project_046462/README.md) |
+| 046463 | [Terraform: Scheduled Reporting — Recovery for Home Development](Project_046463/README.md) |
+| 046464 | [Terraform: Scheduled Reporting — Reporting for Home Development](Project_046464/README.md) |
+| 046465 | [Terraform: Scheduled Reporting — Usability Improvement for Home Development](Project_046465/README.md) |
+| 046466 | [Terraform: Scheduled Reporting — Baseline Setup for Public Dataset](Project_046466/README.md) |
+| 046467 | [Terraform: Scheduled Reporting — Automation for Public Dataset](Project_046467/README.md) |
+| 046468 | [Terraform: Scheduled Reporting — Recovery for Public Dataset](Project_046468/README.md) |
+| 046469 | [Terraform: Scheduled Reporting — Reporting for Public Dataset](Project_046469/README.md) |
+| 046470 | [Terraform: Scheduled Reporting — Usability Improvement for Public Dataset](Project_046470/README.md) |
+| 046471 | [Terraform: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_046471/README.md) |
+| 046472 | [Terraform: Scheduled Reporting — Automation for Branch Office Simulator](Project_046472/README.md) |
+| 046473 | [Terraform: Scheduled Reporting — Recovery for Branch Office Simulator](Project_046473/README.md) |
+| 046474 | [Terraform: Scheduled Reporting — Reporting for Branch Office Simulator](Project_046474/README.md) |
+| 046475 | [Terraform: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_046475/README.md) |
+| 046476 | [Terraform: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_046476/README.md) |
+| 046477 | [Terraform: Scheduled Reporting — Automation for Offline Classroom](Project_046477/README.md) |
+| 046478 | [Terraform: Scheduled Reporting — Recovery for Offline Classroom](Project_046478/README.md) |
+| 046479 | [Terraform: Scheduled Reporting — Reporting for Offline Classroom](Project_046479/README.md) |
+| 046480 | [Terraform: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_046480/README.md) |
 
 [Back to the portfolio home](../README.md)
