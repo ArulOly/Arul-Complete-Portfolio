@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047858 | [Ansible: Automation — Recovery for Small Business](Project_047858/README.md) |
 | 047859 | [Ansible: Automation — Reporting for Small Business](Project_047859/README.md) |
 | 047860 | [Ansible: Automation — Usability Improvement for Small Business](Project_047860/README.md) |
+| 047861 | [Ansible: Automation — Baseline Setup for Home Development](Project_047861/README.md) |
+| 047862 | [Ansible: Automation — Automation for Home Development](Project_047862/README.md) |
+| 047863 | [Ansible: Automation — Recovery for Home Development](Project_047863/README.md) |
+| 047864 | [Ansible: Automation — Reporting for Home Development](Project_047864/README.md) |
+| 047865 | [Ansible: Automation — Usability Improvement for Home Development](Project_047865/README.md) |
+| 047866 | [Ansible: Automation — Baseline Setup for Public Dataset](Project_047866/README.md) |
+| 047867 | [Ansible: Automation — Automation for Public Dataset](Project_047867/README.md) |
+| 047868 | [Ansible: Automation — Recovery for Public Dataset](Project_047868/README.md) |
+| 047869 | [Ansible: Automation — Reporting for Public Dataset](Project_047869/README.md) |
+| 047870 | [Ansible: Automation — Usability Improvement for Public Dataset](Project_047870/README.md) |
+| 047871 | [Ansible: Automation — Baseline Setup for Branch Office Simulator](Project_047871/README.md) |
+| 047872 | [Ansible: Automation — Automation for Branch Office Simulator](Project_047872/README.md) |
+| 047873 | [Ansible: Automation — Recovery for Branch Office Simulator](Project_047873/README.md) |
+| 047874 | [Ansible: Automation — Reporting for Branch Office Simulator](Project_047874/README.md) |
+| 047875 | [Ansible: Automation — Usability Improvement for Branch Office Simulator](Project_047875/README.md) |
+| 047876 | [Ansible: Automation — Baseline Setup for Offline Classroom](Project_047876/README.md) |
+| 047877 | [Ansible: Automation — Automation for Offline Classroom](Project_047877/README.md) |
+| 047878 | [Ansible: Automation — Recovery for Offline Classroom](Project_047878/README.md) |
+| 047879 | [Ansible: Automation — Reporting for Offline Classroom](Project_047879/README.md) |
+| 047880 | [Ansible: Automation — Usability Improvement for Offline Classroom](Project_047880/README.md) |
 
 [Back to the portfolio home](../README.md)
