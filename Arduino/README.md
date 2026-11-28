@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037738 | [Arduino: Error Handling — Recovery for Two-Node Lab](Project_037738/README.md) |
 | 037739 | [Arduino: Error Handling — Reporting for Two-Node Lab](Project_037739/README.md) |
 | 037740 | [Arduino: Error Handling — Usability Improvement for Two-Node Lab](Project_037740/README.md) |
+| 037741 | [Arduino: Error Handling — Baseline Setup for Help Desk](Project_037741/README.md) |
+| 037742 | [Arduino: Error Handling — Automation for Help Desk](Project_037742/README.md) |
+| 037743 | [Arduino: Error Handling — Recovery for Help Desk](Project_037743/README.md) |
+| 037744 | [Arduino: Error Handling — Reporting for Help Desk](Project_037744/README.md) |
+| 037745 | [Arduino: Error Handling — Usability Improvement for Help Desk](Project_037745/README.md) |
+| 037746 | [Arduino: Error Handling — Baseline Setup for Portfolio Demo](Project_037746/README.md) |
+| 037747 | [Arduino: Error Handling — Automation for Portfolio Demo](Project_037747/README.md) |
+| 037748 | [Arduino: Error Handling — Recovery for Portfolio Demo](Project_037748/README.md) |
+| 037749 | [Arduino: Error Handling — Reporting for Portfolio Demo](Project_037749/README.md) |
+| 037750 | [Arduino: Error Handling — Usability Improvement for Portfolio Demo](Project_037750/README.md) |
+| 037751 | [Arduino: Data Validation — Baseline Setup for School Lab](Project_037751/README.md) |
+| 037752 | [Arduino: Data Validation — Automation for School Lab](Project_037752/README.md) |
+| 037753 | [Arduino: Data Validation — Recovery for School Lab](Project_037753/README.md) |
+| 037754 | [Arduino: Data Validation — Reporting for School Lab](Project_037754/README.md) |
+| 037755 | [Arduino: Data Validation — Usability Improvement for School Lab](Project_037755/README.md) |
+| 037756 | [Arduino: Data Validation — Baseline Setup for Small Business](Project_037756/README.md) |
+| 037757 | [Arduino: Data Validation — Automation for Small Business](Project_037757/README.md) |
+| 037758 | [Arduino: Data Validation — Recovery for Small Business](Project_037758/README.md) |
+| 037759 | [Arduino: Data Validation — Reporting for Small Business](Project_037759/README.md) |
+| 037760 | [Arduino: Data Validation — Usability Improvement for Small Business](Project_037760/README.md) |
 
 [Back to the portfolio home](../README.md)
