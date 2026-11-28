@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037958 | [Arduino: Recovery Test — Recovery for Small Business](Project_037958/README.md) |
 | 037959 | [Arduino: Recovery Test — Reporting for Small Business](Project_037959/README.md) |
 | 037960 | [Arduino: Recovery Test — Usability Improvement for Small Business](Project_037960/README.md) |
+| 037961 | [Arduino: Recovery Test — Baseline Setup for Home Development](Project_037961/README.md) |
+| 037962 | [Arduino: Recovery Test — Automation for Home Development](Project_037962/README.md) |
+| 037963 | [Arduino: Recovery Test — Recovery for Home Development](Project_037963/README.md) |
+| 037964 | [Arduino: Recovery Test — Reporting for Home Development](Project_037964/README.md) |
+| 037965 | [Arduino: Recovery Test — Usability Improvement for Home Development](Project_037965/README.md) |
+| 037966 | [Arduino: Recovery Test — Baseline Setup for Public Dataset](Project_037966/README.md) |
+| 037967 | [Arduino: Recovery Test — Automation for Public Dataset](Project_037967/README.md) |
+| 037968 | [Arduino: Recovery Test — Recovery for Public Dataset](Project_037968/README.md) |
+| 037969 | [Arduino: Recovery Test — Reporting for Public Dataset](Project_037969/README.md) |
+| 037970 | [Arduino: Recovery Test — Usability Improvement for Public Dataset](Project_037970/README.md) |
+| 037971 | [Arduino: Recovery Test — Baseline Setup for Branch Office Simulator](Project_037971/README.md) |
+| 037972 | [Arduino: Recovery Test — Automation for Branch Office Simulator](Project_037972/README.md) |
+| 037973 | [Arduino: Recovery Test — Recovery for Branch Office Simulator](Project_037973/README.md) |
+| 037974 | [Arduino: Recovery Test — Reporting for Branch Office Simulator](Project_037974/README.md) |
+| 037975 | [Arduino: Recovery Test — Usability Improvement for Branch Office Simulator](Project_037975/README.md) |
+| 037976 | [Arduino: Recovery Test — Baseline Setup for Offline Classroom](Project_037976/README.md) |
+| 037977 | [Arduino: Recovery Test — Automation for Offline Classroom](Project_037977/README.md) |
+| 037978 | [Arduino: Recovery Test — Recovery for Offline Classroom](Project_037978/README.md) |
+| 037979 | [Arduino: Recovery Test — Reporting for Offline Classroom](Project_037979/README.md) |
+| 037980 | [Arduino: Recovery Test — Usability Improvement for Offline Classroom](Project_037980/README.md) |
 
 [Back to the portfolio home](../README.md)
