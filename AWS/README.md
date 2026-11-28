@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014718 | [AWS: Error Handling — Recovery for Public Dataset](Project_014718/README.md) |
 | 014719 | [AWS: Error Handling — Reporting for Public Dataset](Project_014719/README.md) |
 | 014720 | [AWS: Error Handling — Usability Improvement for Public Dataset](Project_014720/README.md) |
+| 014721 | [AWS: Error Handling — Baseline Setup for Branch Office Simulator](Project_014721/README.md) |
+| 014722 | [AWS: Error Handling — Automation for Branch Office Simulator](Project_014722/README.md) |
+| 014723 | [AWS: Error Handling — Recovery for Branch Office Simulator](Project_014723/README.md) |
+| 014724 | [AWS: Error Handling — Reporting for Branch Office Simulator](Project_014724/README.md) |
+| 014725 | [AWS: Error Handling — Usability Improvement for Branch Office Simulator](Project_014725/README.md) |
+| 014726 | [AWS: Error Handling — Baseline Setup for Offline Classroom](Project_014726/README.md) |
+| 014727 | [AWS: Error Handling — Automation for Offline Classroom](Project_014727/README.md) |
+| 014728 | [AWS: Error Handling — Recovery for Offline Classroom](Project_014728/README.md) |
+| 014729 | [AWS: Error Handling — Reporting for Offline Classroom](Project_014729/README.md) |
+| 014730 | [AWS: Error Handling — Usability Improvement for Offline Classroom](Project_014730/README.md) |
+| 014731 | [AWS: Error Handling — Baseline Setup for Single-Host Lab](Project_014731/README.md) |
+| 014732 | [AWS: Error Handling — Automation for Single-Host Lab](Project_014732/README.md) |
+| 014733 | [AWS: Error Handling — Recovery for Single-Host Lab](Project_014733/README.md) |
+| 014734 | [AWS: Error Handling — Reporting for Single-Host Lab](Project_014734/README.md) |
+| 014735 | [AWS: Error Handling — Usability Improvement for Single-Host Lab](Project_014735/README.md) |
+| 014736 | [AWS: Error Handling — Baseline Setup for Two-Node Lab](Project_014736/README.md) |
+| 014737 | [AWS: Error Handling — Automation for Two-Node Lab](Project_014737/README.md) |
+| 014738 | [AWS: Error Handling — Recovery for Two-Node Lab](Project_014738/README.md) |
+| 014739 | [AWS: Error Handling — Reporting for Two-Node Lab](Project_014739/README.md) |
+| 014740 | [AWS: Error Handling — Usability Improvement for Two-Node Lab](Project_014740/README.md) |
 
 [Back to the portfolio home](../README.md)
