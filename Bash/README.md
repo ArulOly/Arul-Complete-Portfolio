@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039898 | [Bash: Automation — Recovery for Portfolio Demo](Project_039898/README.md) |
 | 039899 | [Bash: Automation — Reporting for Portfolio Demo](Project_039899/README.md) |
 | 039900 | [Bash: Automation — Usability Improvement for Portfolio Demo](Project_039900/README.md) |
+| 039901 | [Bash: Visual Reporting — Baseline Setup for School Lab](Project_039901/README.md) |
+| 039902 | [Bash: Visual Reporting — Automation for School Lab](Project_039902/README.md) |
+| 039903 | [Bash: Visual Reporting — Recovery for School Lab](Project_039903/README.md) |
+| 039904 | [Bash: Visual Reporting — Reporting for School Lab](Project_039904/README.md) |
+| 039905 | [Bash: Visual Reporting — Usability Improvement for School Lab](Project_039905/README.md) |
+| 039906 | [Bash: Visual Reporting — Baseline Setup for Small Business](Project_039906/README.md) |
+| 039907 | [Bash: Visual Reporting — Automation for Small Business](Project_039907/README.md) |
+| 039908 | [Bash: Visual Reporting — Recovery for Small Business](Project_039908/README.md) |
+| 039909 | [Bash: Visual Reporting — Reporting for Small Business](Project_039909/README.md) |
+| 039910 | [Bash: Visual Reporting — Usability Improvement for Small Business](Project_039910/README.md) |
+| 039911 | [Bash: Visual Reporting — Baseline Setup for Home Development](Project_039911/README.md) |
+| 039912 | [Bash: Visual Reporting — Automation for Home Development](Project_039912/README.md) |
+| 039913 | [Bash: Visual Reporting — Recovery for Home Development](Project_039913/README.md) |
+| 039914 | [Bash: Visual Reporting — Reporting for Home Development](Project_039914/README.md) |
+| 039915 | [Bash: Visual Reporting — Usability Improvement for Home Development](Project_039915/README.md) |
+| 039916 | [Bash: Visual Reporting — Baseline Setup for Public Dataset](Project_039916/README.md) |
+| 039917 | [Bash: Visual Reporting — Automation for Public Dataset](Project_039917/README.md) |
+| 039918 | [Bash: Visual Reporting — Recovery for Public Dataset](Project_039918/README.md) |
+| 039919 | [Bash: Visual Reporting — Reporting for Public Dataset](Project_039919/README.md) |
+| 039920 | [Bash: Visual Reporting — Usability Improvement for Public Dataset](Project_039920/README.md) |
 
 [Back to the portfolio home](../README.md)
