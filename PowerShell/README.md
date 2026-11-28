@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040298 | [PowerShell: Data Import — Recovery for Portfolio Demo](Project_040298/README.md) |
 | 040299 | [PowerShell: Data Import — Reporting for Portfolio Demo](Project_040299/README.md) |
 | 040300 | [PowerShell: Data Import — Usability Improvement for Portfolio Demo](Project_040300/README.md) |
+| 040301 | [PowerShell: Data Export — Baseline Setup for School Lab](Project_040301/README.md) |
+| 040302 | [PowerShell: Data Export — Automation for School Lab](Project_040302/README.md) |
+| 040303 | [PowerShell: Data Export — Recovery for School Lab](Project_040303/README.md) |
+| 040304 | [PowerShell: Data Export — Reporting for School Lab](Project_040304/README.md) |
+| 040305 | [PowerShell: Data Export — Usability Improvement for School Lab](Project_040305/README.md) |
+| 040306 | [PowerShell: Data Export — Baseline Setup for Small Business](Project_040306/README.md) |
+| 040307 | [PowerShell: Data Export — Automation for Small Business](Project_040307/README.md) |
+| 040308 | [PowerShell: Data Export — Recovery for Small Business](Project_040308/README.md) |
+| 040309 | [PowerShell: Data Export — Reporting for Small Business](Project_040309/README.md) |
+| 040310 | [PowerShell: Data Export — Usability Improvement for Small Business](Project_040310/README.md) |
+| 040311 | [PowerShell: Data Export — Baseline Setup for Home Development](Project_040311/README.md) |
+| 040312 | [PowerShell: Data Export — Automation for Home Development](Project_040312/README.md) |
+| 040313 | [PowerShell: Data Export — Recovery for Home Development](Project_040313/README.md) |
+| 040314 | [PowerShell: Data Export — Reporting for Home Development](Project_040314/README.md) |
+| 040315 | [PowerShell: Data Export — Usability Improvement for Home Development](Project_040315/README.md) |
+| 040316 | [PowerShell: Data Export — Baseline Setup for Public Dataset](Project_040316/README.md) |
+| 040317 | [PowerShell: Data Export — Automation for Public Dataset](Project_040317/README.md) |
+| 040318 | [PowerShell: Data Export — Recovery for Public Dataset](Project_040318/README.md) |
+| 040319 | [PowerShell: Data Export — Reporting for Public Dataset](Project_040319/README.md) |
+| 040320 | [PowerShell: Data Export — Usability Improvement for Public Dataset](Project_040320/README.md) |
 
 [Back to the portfolio home](../README.md)
