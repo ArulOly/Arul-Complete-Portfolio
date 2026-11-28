@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037618 | [Arduino: Service Check — Recovery for Public Dataset](Project_037618/README.md) |
 | 037619 | [Arduino: Service Check — Reporting for Public Dataset](Project_037619/README.md) |
 | 037620 | [Arduino: Service Check — Usability Improvement for Public Dataset](Project_037620/README.md) |
+| 037621 | [Arduino: Service Check — Baseline Setup for Branch Office Simulator](Project_037621/README.md) |
+| 037622 | [Arduino: Service Check — Automation for Branch Office Simulator](Project_037622/README.md) |
+| 037623 | [Arduino: Service Check — Recovery for Branch Office Simulator](Project_037623/README.md) |
+| 037624 | [Arduino: Service Check — Reporting for Branch Office Simulator](Project_037624/README.md) |
+| 037625 | [Arduino: Service Check — Usability Improvement for Branch Office Simulator](Project_037625/README.md) |
+| 037626 | [Arduino: Service Check — Baseline Setup for Offline Classroom](Project_037626/README.md) |
+| 037627 | [Arduino: Service Check — Automation for Offline Classroom](Project_037627/README.md) |
+| 037628 | [Arduino: Service Check — Recovery for Offline Classroom](Project_037628/README.md) |
+| 037629 | [Arduino: Service Check — Reporting for Offline Classroom](Project_037629/README.md) |
+| 037630 | [Arduino: Service Check — Usability Improvement for Offline Classroom](Project_037630/README.md) |
+| 037631 | [Arduino: Service Check — Baseline Setup for Single-Host Lab](Project_037631/README.md) |
+| 037632 | [Arduino: Service Check — Automation for Single-Host Lab](Project_037632/README.md) |
+| 037633 | [Arduino: Service Check — Recovery for Single-Host Lab](Project_037633/README.md) |
+| 037634 | [Arduino: Service Check — Reporting for Single-Host Lab](Project_037634/README.md) |
+| 037635 | [Arduino: Service Check — Usability Improvement for Single-Host Lab](Project_037635/README.md) |
+| 037636 | [Arduino: Service Check — Baseline Setup for Two-Node Lab](Project_037636/README.md) |
+| 037637 | [Arduino: Service Check — Automation for Two-Node Lab](Project_037637/README.md) |
+| 037638 | [Arduino: Service Check — Recovery for Two-Node Lab](Project_037638/README.md) |
+| 037639 | [Arduino: Service Check — Reporting for Two-Node Lab](Project_037639/README.md) |
+| 037640 | [Arduino: Service Check — Usability Improvement for Two-Node Lab](Project_037640/README.md) |
 
 [Back to the portfolio home](../README.md)
