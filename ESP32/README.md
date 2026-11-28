@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036918 | [ESP32: Visual Reporting — Recovery for Public Dataset](Project_036918/README.md) |
 | 036919 | [ESP32: Visual Reporting — Reporting for Public Dataset](Project_036919/README.md) |
 | 036920 | [ESP32: Visual Reporting — Usability Improvement for Public Dataset](Project_036920/README.md) |
+| 036921 | [ESP32: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_036921/README.md) |
+| 036922 | [ESP32: Visual Reporting — Automation for Branch Office Simulator](Project_036922/README.md) |
+| 036923 | [ESP32: Visual Reporting — Recovery for Branch Office Simulator](Project_036923/README.md) |
+| 036924 | [ESP32: Visual Reporting — Reporting for Branch Office Simulator](Project_036924/README.md) |
+| 036925 | [ESP32: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_036925/README.md) |
+| 036926 | [ESP32: Visual Reporting — Baseline Setup for Offline Classroom](Project_036926/README.md) |
+| 036927 | [ESP32: Visual Reporting — Automation for Offline Classroom](Project_036927/README.md) |
+| 036928 | [ESP32: Visual Reporting — Recovery for Offline Classroom](Project_036928/README.md) |
+| 036929 | [ESP32: Visual Reporting — Reporting for Offline Classroom](Project_036929/README.md) |
+| 036930 | [ESP32: Visual Reporting — Usability Improvement for Offline Classroom](Project_036930/README.md) |
+| 036931 | [ESP32: Visual Reporting — Baseline Setup for Single-Host Lab](Project_036931/README.md) |
+| 036932 | [ESP32: Visual Reporting — Automation for Single-Host Lab](Project_036932/README.md) |
+| 036933 | [ESP32: Visual Reporting — Recovery for Single-Host Lab](Project_036933/README.md) |
+| 036934 | [ESP32: Visual Reporting — Reporting for Single-Host Lab](Project_036934/README.md) |
+| 036935 | [ESP32: Visual Reporting — Usability Improvement for Single-Host Lab](Project_036935/README.md) |
+| 036936 | [ESP32: Visual Reporting — Baseline Setup for Two-Node Lab](Project_036936/README.md) |
+| 036937 | [ESP32: Visual Reporting — Automation for Two-Node Lab](Project_036937/README.md) |
+| 036938 | [ESP32: Visual Reporting — Recovery for Two-Node Lab](Project_036938/README.md) |
+| 036939 | [ESP32: Visual Reporting — Reporting for Two-Node Lab](Project_036939/README.md) |
+| 036940 | [ESP32: Visual Reporting — Usability Improvement for Two-Node Lab](Project_036940/README.md) |
 
 [Back to the portfolio home](../README.md)
