@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016458 | [Google Cloud: Scheduled Reporting — Recovery for Small Business](Project_016458/README.md) |
 | 016459 | [Google Cloud: Scheduled Reporting — Reporting for Small Business](Project_016459/README.md) |
 | 016460 | [Google Cloud: Scheduled Reporting — Usability Improvement for Small Business](Project_016460/README.md) |
+| 016461 | [Google Cloud: Scheduled Reporting — Baseline Setup for Home Development](Project_016461/README.md) |
+| 016462 | [Google Cloud: Scheduled Reporting — Automation for Home Development](Project_016462/README.md) |
+| 016463 | [Google Cloud: Scheduled Reporting — Recovery for Home Development](Project_016463/README.md) |
+| 016464 | [Google Cloud: Scheduled Reporting — Reporting for Home Development](Project_016464/README.md) |
+| 016465 | [Google Cloud: Scheduled Reporting — Usability Improvement for Home Development](Project_016465/README.md) |
+| 016466 | [Google Cloud: Scheduled Reporting — Baseline Setup for Public Dataset](Project_016466/README.md) |
+| 016467 | [Google Cloud: Scheduled Reporting — Automation for Public Dataset](Project_016467/README.md) |
+| 016468 | [Google Cloud: Scheduled Reporting — Recovery for Public Dataset](Project_016468/README.md) |
+| 016469 | [Google Cloud: Scheduled Reporting — Reporting for Public Dataset](Project_016469/README.md) |
+| 016470 | [Google Cloud: Scheduled Reporting — Usability Improvement for Public Dataset](Project_016470/README.md) |
+| 016471 | [Google Cloud: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_016471/README.md) |
+| 016472 | [Google Cloud: Scheduled Reporting — Automation for Branch Office Simulator](Project_016472/README.md) |
+| 016473 | [Google Cloud: Scheduled Reporting — Recovery for Branch Office Simulator](Project_016473/README.md) |
+| 016474 | [Google Cloud: Scheduled Reporting — Reporting for Branch Office Simulator](Project_016474/README.md) |
+| 016475 | [Google Cloud: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_016475/README.md) |
+| 016476 | [Google Cloud: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_016476/README.md) |
+| 016477 | [Google Cloud: Scheduled Reporting — Automation for Offline Classroom](Project_016477/README.md) |
+| 016478 | [Google Cloud: Scheduled Reporting — Recovery for Offline Classroom](Project_016478/README.md) |
+| 016479 | [Google Cloud: Scheduled Reporting — Reporting for Offline Classroom](Project_016479/README.md) |
+| 016480 | [Google Cloud: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_016480/README.md) |
 
 [Back to the portfolio home](../README.md)
