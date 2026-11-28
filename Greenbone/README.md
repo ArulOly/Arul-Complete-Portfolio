@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031958 | [Greenbone: Recovery Test — Recovery for Small Business](Project_031958/README.md) |
 | 031959 | [Greenbone: Recovery Test — Reporting for Small Business](Project_031959/README.md) |
 | 031960 | [Greenbone: Recovery Test — Usability Improvement for Small Business](Project_031960/README.md) |
+| 031961 | [Greenbone: Recovery Test — Baseline Setup for Home Development](Project_031961/README.md) |
+| 031962 | [Greenbone: Recovery Test — Automation for Home Development](Project_031962/README.md) |
+| 031963 | [Greenbone: Recovery Test — Recovery for Home Development](Project_031963/README.md) |
+| 031964 | [Greenbone: Recovery Test — Reporting for Home Development](Project_031964/README.md) |
+| 031965 | [Greenbone: Recovery Test — Usability Improvement for Home Development](Project_031965/README.md) |
+| 031966 | [Greenbone: Recovery Test — Baseline Setup for Public Dataset](Project_031966/README.md) |
+| 031967 | [Greenbone: Recovery Test — Automation for Public Dataset](Project_031967/README.md) |
+| 031968 | [Greenbone: Recovery Test — Recovery for Public Dataset](Project_031968/README.md) |
+| 031969 | [Greenbone: Recovery Test — Reporting for Public Dataset](Project_031969/README.md) |
+| 031970 | [Greenbone: Recovery Test — Usability Improvement for Public Dataset](Project_031970/README.md) |
+| 031971 | [Greenbone: Recovery Test — Baseline Setup for Branch Office Simulator](Project_031971/README.md) |
+| 031972 | [Greenbone: Recovery Test — Automation for Branch Office Simulator](Project_031972/README.md) |
+| 031973 | [Greenbone: Recovery Test — Recovery for Branch Office Simulator](Project_031973/README.md) |
+| 031974 | [Greenbone: Recovery Test — Reporting for Branch Office Simulator](Project_031974/README.md) |
+| 031975 | [Greenbone: Recovery Test — Usability Improvement for Branch Office Simulator](Project_031975/README.md) |
+| 031976 | [Greenbone: Recovery Test — Baseline Setup for Offline Classroom](Project_031976/README.md) |
+| 031977 | [Greenbone: Recovery Test — Automation for Offline Classroom](Project_031977/README.md) |
+| 031978 | [Greenbone: Recovery Test — Recovery for Offline Classroom](Project_031978/README.md) |
+| 031979 | [Greenbone: Recovery Test — Reporting for Offline Classroom](Project_031979/README.md) |
+| 031980 | [Greenbone: Recovery Test — Usability Improvement for Offline Classroom](Project_031980/README.md) |
 
 [Back to the portfolio home](../README.md)
