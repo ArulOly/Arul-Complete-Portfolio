@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030398 | [Wazuh: Dashboard — Recovery for Portfolio Demo](Project_030398/README.md) |
 | 030399 | [Wazuh: Dashboard — Reporting for Portfolio Demo](Project_030399/README.md) |
 | 030400 | [Wazuh: Dashboard — Usability Improvement for Portfolio Demo](Project_030400/README.md) |
+| 030401 | [Wazuh: Alerting — Baseline Setup for School Lab](Project_030401/README.md) |
+| 030402 | [Wazuh: Alerting — Automation for School Lab](Project_030402/README.md) |
+| 030403 | [Wazuh: Alerting — Recovery for School Lab](Project_030403/README.md) |
+| 030404 | [Wazuh: Alerting — Reporting for School Lab](Project_030404/README.md) |
+| 030405 | [Wazuh: Alerting — Usability Improvement for School Lab](Project_030405/README.md) |
+| 030406 | [Wazuh: Alerting — Baseline Setup for Small Business](Project_030406/README.md) |
+| 030407 | [Wazuh: Alerting — Automation for Small Business](Project_030407/README.md) |
+| 030408 | [Wazuh: Alerting — Recovery for Small Business](Project_030408/README.md) |
+| 030409 | [Wazuh: Alerting — Reporting for Small Business](Project_030409/README.md) |
+| 030410 | [Wazuh: Alerting — Usability Improvement for Small Business](Project_030410/README.md) |
+| 030411 | [Wazuh: Alerting — Baseline Setup for Home Development](Project_030411/README.md) |
+| 030412 | [Wazuh: Alerting — Automation for Home Development](Project_030412/README.md) |
+| 030413 | [Wazuh: Alerting — Recovery for Home Development](Project_030413/README.md) |
+| 030414 | [Wazuh: Alerting — Reporting for Home Development](Project_030414/README.md) |
+| 030415 | [Wazuh: Alerting — Usability Improvement for Home Development](Project_030415/README.md) |
+| 030416 | [Wazuh: Alerting — Baseline Setup for Public Dataset](Project_030416/README.md) |
+| 030417 | [Wazuh: Alerting — Automation for Public Dataset](Project_030417/README.md) |
+| 030418 | [Wazuh: Alerting — Recovery for Public Dataset](Project_030418/README.md) |
+| 030419 | [Wazuh: Alerting — Reporting for Public Dataset](Project_030419/README.md) |
+| 030420 | [Wazuh: Alerting — Usability Improvement for Public Dataset](Project_030420/README.md) |
 
 [Back to the portfolio home](../README.md)
