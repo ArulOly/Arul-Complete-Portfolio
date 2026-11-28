@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040858 | [PowerShell: Automation — Recovery for Small Business](Project_040858/README.md) |
 | 040859 | [PowerShell: Automation — Reporting for Small Business](Project_040859/README.md) |
 | 040860 | [PowerShell: Automation — Usability Improvement for Small Business](Project_040860/README.md) |
+| 040861 | [PowerShell: Automation — Baseline Setup for Home Development](Project_040861/README.md) |
+| 040862 | [PowerShell: Automation — Automation for Home Development](Project_040862/README.md) |
+| 040863 | [PowerShell: Automation — Recovery for Home Development](Project_040863/README.md) |
+| 040864 | [PowerShell: Automation — Reporting for Home Development](Project_040864/README.md) |
+| 040865 | [PowerShell: Automation — Usability Improvement for Home Development](Project_040865/README.md) |
+| 040866 | [PowerShell: Automation — Baseline Setup for Public Dataset](Project_040866/README.md) |
+| 040867 | [PowerShell: Automation — Automation for Public Dataset](Project_040867/README.md) |
+| 040868 | [PowerShell: Automation — Recovery for Public Dataset](Project_040868/README.md) |
+| 040869 | [PowerShell: Automation — Reporting for Public Dataset](Project_040869/README.md) |
+| 040870 | [PowerShell: Automation — Usability Improvement for Public Dataset](Project_040870/README.md) |
+| 040871 | [PowerShell: Automation — Baseline Setup for Branch Office Simulator](Project_040871/README.md) |
+| 040872 | [PowerShell: Automation — Automation for Branch Office Simulator](Project_040872/README.md) |
+| 040873 | [PowerShell: Automation — Recovery for Branch Office Simulator](Project_040873/README.md) |
+| 040874 | [PowerShell: Automation — Reporting for Branch Office Simulator](Project_040874/README.md) |
+| 040875 | [PowerShell: Automation — Usability Improvement for Branch Office Simulator](Project_040875/README.md) |
+| 040876 | [PowerShell: Automation — Baseline Setup for Offline Classroom](Project_040876/README.md) |
+| 040877 | [PowerShell: Automation — Automation for Offline Classroom](Project_040877/README.md) |
+| 040878 | [PowerShell: Automation — Recovery for Offline Classroom](Project_040878/README.md) |
+| 040879 | [PowerShell: Automation — Reporting for Offline Classroom](Project_040879/README.md) |
+| 040880 | [PowerShell: Automation — Usability Improvement for Offline Classroom](Project_040880/README.md) |
 
 [Back to the portfolio home](../README.md)
