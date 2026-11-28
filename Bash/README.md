@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039478 | [Bash: Scheduled Reporting — Recovery for Offline Classroom](Project_039478/README.md) |
 | 039479 | [Bash: Scheduled Reporting — Reporting for Offline Classroom](Project_039479/README.md) |
 | 039480 | [Bash: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_039480/README.md) |
+| 039481 | [Bash: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_039481/README.md) |
+| 039482 | [Bash: Scheduled Reporting — Automation for Single-Host Lab](Project_039482/README.md) |
+| 039483 | [Bash: Scheduled Reporting — Recovery for Single-Host Lab](Project_039483/README.md) |
+| 039484 | [Bash: Scheduled Reporting — Reporting for Single-Host Lab](Project_039484/README.md) |
+| 039485 | [Bash: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_039485/README.md) |
+| 039486 | [Bash: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_039486/README.md) |
+| 039487 | [Bash: Scheduled Reporting — Automation for Two-Node Lab](Project_039487/README.md) |
+| 039488 | [Bash: Scheduled Reporting — Recovery for Two-Node Lab](Project_039488/README.md) |
+| 039489 | [Bash: Scheduled Reporting — Reporting for Two-Node Lab](Project_039489/README.md) |
+| 039490 | [Bash: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_039490/README.md) |
+| 039491 | [Bash: Scheduled Reporting — Baseline Setup for Help Desk](Project_039491/README.md) |
+| 039492 | [Bash: Scheduled Reporting — Automation for Help Desk](Project_039492/README.md) |
+| 039493 | [Bash: Scheduled Reporting — Recovery for Help Desk](Project_039493/README.md) |
+| 039494 | [Bash: Scheduled Reporting — Reporting for Help Desk](Project_039494/README.md) |
+| 039495 | [Bash: Scheduled Reporting — Usability Improvement for Help Desk](Project_039495/README.md) |
+| 039496 | [Bash: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_039496/README.md) |
+| 039497 | [Bash: Scheduled Reporting — Automation for Portfolio Demo](Project_039497/README.md) |
+| 039498 | [Bash: Scheduled Reporting — Recovery for Portfolio Demo](Project_039498/README.md) |
+| 039499 | [Bash: Scheduled Reporting — Reporting for Portfolio Demo](Project_039499/README.md) |
+| 039500 | [Bash: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_039500/README.md) |
 
 [Back to the portfolio home](../README.md)
