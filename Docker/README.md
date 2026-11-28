@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017538 | [Docker: Access Review — Recovery for Two-Node Lab](Project_017538/README.md) |
 | 017539 | [Docker: Access Review — Reporting for Two-Node Lab](Project_017539/README.md) |
 | 017540 | [Docker: Access Review — Usability Improvement for Two-Node Lab](Project_017540/README.md) |
+| 017541 | [Docker: Access Review — Baseline Setup for Help Desk](Project_017541/README.md) |
+| 017542 | [Docker: Access Review — Automation for Help Desk](Project_017542/README.md) |
+| 017543 | [Docker: Access Review — Recovery for Help Desk](Project_017543/README.md) |
+| 017544 | [Docker: Access Review — Reporting for Help Desk](Project_017544/README.md) |
+| 017545 | [Docker: Access Review — Usability Improvement for Help Desk](Project_017545/README.md) |
+| 017546 | [Docker: Access Review — Baseline Setup for Portfolio Demo](Project_017546/README.md) |
+| 017547 | [Docker: Access Review — Automation for Portfolio Demo](Project_017547/README.md) |
+| 017548 | [Docker: Access Review — Recovery for Portfolio Demo](Project_017548/README.md) |
+| 017549 | [Docker: Access Review — Reporting for Portfolio Demo](Project_017549/README.md) |
+| 017550 | [Docker: Access Review — Usability Improvement for Portfolio Demo](Project_017550/README.md) |
+| 017551 | [Docker: Performance Baseline — Baseline Setup for School Lab](Project_017551/README.md) |
+| 017552 | [Docker: Performance Baseline — Automation for School Lab](Project_017552/README.md) |
+| 017553 | [Docker: Performance Baseline — Recovery for School Lab](Project_017553/README.md) |
+| 017554 | [Docker: Performance Baseline — Reporting for School Lab](Project_017554/README.md) |
+| 017555 | [Docker: Performance Baseline — Usability Improvement for School Lab](Project_017555/README.md) |
+| 017556 | [Docker: Performance Baseline — Baseline Setup for Small Business](Project_017556/README.md) |
+| 017557 | [Docker: Performance Baseline — Automation for Small Business](Project_017557/README.md) |
+| 017558 | [Docker: Performance Baseline — Recovery for Small Business](Project_017558/README.md) |
+| 017559 | [Docker: Performance Baseline — Reporting for Small Business](Project_017559/README.md) |
+| 017560 | [Docker: Performance Baseline — Usability Improvement for Small Business](Project_017560/README.md) |
 
 [Back to the portfolio home](../README.md)
