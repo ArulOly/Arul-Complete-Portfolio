@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029298 | [Wireshark: Data Import — Recovery for Portfolio Demo](Project_029298/README.md) |
 | 029299 | [Wireshark: Data Import — Reporting for Portfolio Demo](Project_029299/README.md) |
 | 029300 | [Wireshark: Data Import — Usability Improvement for Portfolio Demo](Project_029300/README.md) |
+| 029301 | [Wireshark: Data Export — Baseline Setup for School Lab](Project_029301/README.md) |
+| 029302 | [Wireshark: Data Export — Automation for School Lab](Project_029302/README.md) |
+| 029303 | [Wireshark: Data Export — Recovery for School Lab](Project_029303/README.md) |
+| 029304 | [Wireshark: Data Export — Reporting for School Lab](Project_029304/README.md) |
+| 029305 | [Wireshark: Data Export — Usability Improvement for School Lab](Project_029305/README.md) |
+| 029306 | [Wireshark: Data Export — Baseline Setup for Small Business](Project_029306/README.md) |
+| 029307 | [Wireshark: Data Export — Automation for Small Business](Project_029307/README.md) |
+| 029308 | [Wireshark: Data Export — Recovery for Small Business](Project_029308/README.md) |
+| 029309 | [Wireshark: Data Export — Reporting for Small Business](Project_029309/README.md) |
+| 029310 | [Wireshark: Data Export — Usability Improvement for Small Business](Project_029310/README.md) |
+| 029311 | [Wireshark: Data Export — Baseline Setup for Home Development](Project_029311/README.md) |
+| 029312 | [Wireshark: Data Export — Automation for Home Development](Project_029312/README.md) |
+| 029313 | [Wireshark: Data Export — Recovery for Home Development](Project_029313/README.md) |
+| 029314 | [Wireshark: Data Export — Reporting for Home Development](Project_029314/README.md) |
+| 029315 | [Wireshark: Data Export — Usability Improvement for Home Development](Project_029315/README.md) |
+| 029316 | [Wireshark: Data Export — Baseline Setup for Public Dataset](Project_029316/README.md) |
+| 029317 | [Wireshark: Data Export — Automation for Public Dataset](Project_029317/README.md) |
+| 029318 | [Wireshark: Data Export — Recovery for Public Dataset](Project_029318/README.md) |
+| 029319 | [Wireshark: Data Export — Reporting for Public Dataset](Project_029319/README.md) |
+| 029320 | [Wireshark: Data Export — Usability Improvement for Public Dataset](Project_029320/README.md) |
 
 [Back to the portfolio home](../README.md)
