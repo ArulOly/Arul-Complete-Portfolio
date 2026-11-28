@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017738 | [Docker: Error Handling — Recovery for Two-Node Lab](Project_017738/README.md) |
 | 017739 | [Docker: Error Handling — Reporting for Two-Node Lab](Project_017739/README.md) |
 | 017740 | [Docker: Error Handling — Usability Improvement for Two-Node Lab](Project_017740/README.md) |
+| 017741 | [Docker: Error Handling — Baseline Setup for Help Desk](Project_017741/README.md) |
+| 017742 | [Docker: Error Handling — Automation for Help Desk](Project_017742/README.md) |
+| 017743 | [Docker: Error Handling — Recovery for Help Desk](Project_017743/README.md) |
+| 017744 | [Docker: Error Handling — Reporting for Help Desk](Project_017744/README.md) |
+| 017745 | [Docker: Error Handling — Usability Improvement for Help Desk](Project_017745/README.md) |
+| 017746 | [Docker: Error Handling — Baseline Setup for Portfolio Demo](Project_017746/README.md) |
+| 017747 | [Docker: Error Handling — Automation for Portfolio Demo](Project_017747/README.md) |
+| 017748 | [Docker: Error Handling — Recovery for Portfolio Demo](Project_017748/README.md) |
+| 017749 | [Docker: Error Handling — Reporting for Portfolio Demo](Project_017749/README.md) |
+| 017750 | [Docker: Error Handling — Usability Improvement for Portfolio Demo](Project_017750/README.md) |
+| 017751 | [Docker: Data Validation — Baseline Setup for School Lab](Project_017751/README.md) |
+| 017752 | [Docker: Data Validation — Automation for School Lab](Project_017752/README.md) |
+| 017753 | [Docker: Data Validation — Recovery for School Lab](Project_017753/README.md) |
+| 017754 | [Docker: Data Validation — Reporting for School Lab](Project_017754/README.md) |
+| 017755 | [Docker: Data Validation — Usability Improvement for School Lab](Project_017755/README.md) |
+| 017756 | [Docker: Data Validation — Baseline Setup for Small Business](Project_017756/README.md) |
+| 017757 | [Docker: Data Validation — Automation for Small Business](Project_017757/README.md) |
+| 017758 | [Docker: Data Validation — Recovery for Small Business](Project_017758/README.md) |
+| 017759 | [Docker: Data Validation — Reporting for Small Business](Project_017759/README.md) |
+| 017760 | [Docker: Data Validation — Usability Improvement for Small Business](Project_017760/README.md) |
 
 [Back to the portfolio home](../README.md)
