@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030698 | [Wazuh: Configuration Comparison — Recovery for Portfolio Demo](Project_030698/README.md) |
 | 030699 | [Wazuh: Configuration Comparison — Reporting for Portfolio Demo](Project_030699/README.md) |
 | 030700 | [Wazuh: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_030700/README.md) |
+| 030701 | [Wazuh: Error Handling — Baseline Setup for School Lab](Project_030701/README.md) |
+| 030702 | [Wazuh: Error Handling — Automation for School Lab](Project_030702/README.md) |
+| 030703 | [Wazuh: Error Handling — Recovery for School Lab](Project_030703/README.md) |
+| 030704 | [Wazuh: Error Handling — Reporting for School Lab](Project_030704/README.md) |
+| 030705 | [Wazuh: Error Handling — Usability Improvement for School Lab](Project_030705/README.md) |
+| 030706 | [Wazuh: Error Handling — Baseline Setup for Small Business](Project_030706/README.md) |
+| 030707 | [Wazuh: Error Handling — Automation for Small Business](Project_030707/README.md) |
+| 030708 | [Wazuh: Error Handling — Recovery for Small Business](Project_030708/README.md) |
+| 030709 | [Wazuh: Error Handling — Reporting for Small Business](Project_030709/README.md) |
+| 030710 | [Wazuh: Error Handling — Usability Improvement for Small Business](Project_030710/README.md) |
+| 030711 | [Wazuh: Error Handling — Baseline Setup for Home Development](Project_030711/README.md) |
+| 030712 | [Wazuh: Error Handling — Automation for Home Development](Project_030712/README.md) |
+| 030713 | [Wazuh: Error Handling — Recovery for Home Development](Project_030713/README.md) |
+| 030714 | [Wazuh: Error Handling — Reporting for Home Development](Project_030714/README.md) |
+| 030715 | [Wazuh: Error Handling — Usability Improvement for Home Development](Project_030715/README.md) |
+| 030716 | [Wazuh: Error Handling — Baseline Setup for Public Dataset](Project_030716/README.md) |
+| 030717 | [Wazuh: Error Handling — Automation for Public Dataset](Project_030717/README.md) |
+| 030718 | [Wazuh: Error Handling — Recovery for Public Dataset](Project_030718/README.md) |
+| 030719 | [Wazuh: Error Handling — Reporting for Public Dataset](Project_030719/README.md) |
+| 030720 | [Wazuh: Error Handling — Usability Improvement for Public Dataset](Project_030720/README.md) |
 
 [Back to the portfolio home](../README.md)
