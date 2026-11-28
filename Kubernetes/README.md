@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018098 | [Kubernetes: Monitoring — Recovery for Portfolio Demo](Project_018098/README.md) |
 | 018099 | [Kubernetes: Monitoring — Reporting for Portfolio Demo](Project_018099/README.md) |
 | 018100 | [Kubernetes: Monitoring — Usability Improvement for Portfolio Demo](Project_018100/README.md) |
+| 018101 | [Kubernetes: Audit — Baseline Setup for School Lab](Project_018101/README.md) |
+| 018102 | [Kubernetes: Audit — Automation for School Lab](Project_018102/README.md) |
+| 018103 | [Kubernetes: Audit — Recovery for School Lab](Project_018103/README.md) |
+| 018104 | [Kubernetes: Audit — Reporting for School Lab](Project_018104/README.md) |
+| 018105 | [Kubernetes: Audit — Usability Improvement for School Lab](Project_018105/README.md) |
+| 018106 | [Kubernetes: Audit — Baseline Setup for Small Business](Project_018106/README.md) |
+| 018107 | [Kubernetes: Audit — Automation for Small Business](Project_018107/README.md) |
+| 018108 | [Kubernetes: Audit — Recovery for Small Business](Project_018108/README.md) |
+| 018109 | [Kubernetes: Audit — Reporting for Small Business](Project_018109/README.md) |
+| 018110 | [Kubernetes: Audit — Usability Improvement for Small Business](Project_018110/README.md) |
+| 018111 | [Kubernetes: Audit — Baseline Setup for Home Development](Project_018111/README.md) |
+| 018112 | [Kubernetes: Audit — Automation for Home Development](Project_018112/README.md) |
+| 018113 | [Kubernetes: Audit — Recovery for Home Development](Project_018113/README.md) |
+| 018114 | [Kubernetes: Audit — Reporting for Home Development](Project_018114/README.md) |
+| 018115 | [Kubernetes: Audit — Usability Improvement for Home Development](Project_018115/README.md) |
+| 018116 | [Kubernetes: Audit — Baseline Setup for Public Dataset](Project_018116/README.md) |
+| 018117 | [Kubernetes: Audit — Automation for Public Dataset](Project_018117/README.md) |
+| 018118 | [Kubernetes: Audit — Recovery for Public Dataset](Project_018118/README.md) |
+| 018119 | [Kubernetes: Audit — Reporting for Public Dataset](Project_018119/README.md) |
+| 018120 | [Kubernetes: Audit — Usability Improvement for Public Dataset](Project_018120/README.md) |
 
 [Back to the portfolio home](../README.md)
