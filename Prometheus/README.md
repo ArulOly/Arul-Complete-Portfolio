@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044118 | [Prometheus: Audit — Recovery for Public Dataset](Project_044118/README.md) |
 | 044119 | [Prometheus: Audit — Reporting for Public Dataset](Project_044119/README.md) |
 | 044120 | [Prometheus: Audit — Usability Improvement for Public Dataset](Project_044120/README.md) |
+| 044121 | [Prometheus: Audit — Baseline Setup for Branch Office Simulator](Project_044121/README.md) |
+| 044122 | [Prometheus: Audit — Automation for Branch Office Simulator](Project_044122/README.md) |
+| 044123 | [Prometheus: Audit — Recovery for Branch Office Simulator](Project_044123/README.md) |
+| 044124 | [Prometheus: Audit — Reporting for Branch Office Simulator](Project_044124/README.md) |
+| 044125 | [Prometheus: Audit — Usability Improvement for Branch Office Simulator](Project_044125/README.md) |
+| 044126 | [Prometheus: Audit — Baseline Setup for Offline Classroom](Project_044126/README.md) |
+| 044127 | [Prometheus: Audit — Automation for Offline Classroom](Project_044127/README.md) |
+| 044128 | [Prometheus: Audit — Recovery for Offline Classroom](Project_044128/README.md) |
+| 044129 | [Prometheus: Audit — Reporting for Offline Classroom](Project_044129/README.md) |
+| 044130 | [Prometheus: Audit — Usability Improvement for Offline Classroom](Project_044130/README.md) |
+| 044131 | [Prometheus: Audit — Baseline Setup for Single-Host Lab](Project_044131/README.md) |
+| 044132 | [Prometheus: Audit — Automation for Single-Host Lab](Project_044132/README.md) |
+| 044133 | [Prometheus: Audit — Recovery for Single-Host Lab](Project_044133/README.md) |
+| 044134 | [Prometheus: Audit — Reporting for Single-Host Lab](Project_044134/README.md) |
+| 044135 | [Prometheus: Audit — Usability Improvement for Single-Host Lab](Project_044135/README.md) |
+| 044136 | [Prometheus: Audit — Baseline Setup for Two-Node Lab](Project_044136/README.md) |
+| 044137 | [Prometheus: Audit — Automation for Two-Node Lab](Project_044137/README.md) |
+| 044138 | [Prometheus: Audit — Recovery for Two-Node Lab](Project_044138/README.md) |
+| 044139 | [Prometheus: Audit — Reporting for Two-Node Lab](Project_044139/README.md) |
+| 044140 | [Prometheus: Audit — Usability Improvement for Two-Node Lab](Project_044140/README.md) |
 
 [Back to the portfolio home](../README.md)
