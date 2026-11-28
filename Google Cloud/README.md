@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016638 | [Google Cloud: Service Check — Recovery for Two-Node Lab](Project_016638/README.md) |
 | 016639 | [Google Cloud: Service Check — Reporting for Two-Node Lab](Project_016639/README.md) |
 | 016640 | [Google Cloud: Service Check — Usability Improvement for Two-Node Lab](Project_016640/README.md) |
+| 016641 | [Google Cloud: Service Check — Baseline Setup for Help Desk](Project_016641/README.md) |
+| 016642 | [Google Cloud: Service Check — Automation for Help Desk](Project_016642/README.md) |
+| 016643 | [Google Cloud: Service Check — Recovery for Help Desk](Project_016643/README.md) |
+| 016644 | [Google Cloud: Service Check — Reporting for Help Desk](Project_016644/README.md) |
+| 016645 | [Google Cloud: Service Check — Usability Improvement for Help Desk](Project_016645/README.md) |
+| 016646 | [Google Cloud: Service Check — Baseline Setup for Portfolio Demo](Project_016646/README.md) |
+| 016647 | [Google Cloud: Service Check — Automation for Portfolio Demo](Project_016647/README.md) |
+| 016648 | [Google Cloud: Service Check — Recovery for Portfolio Demo](Project_016648/README.md) |
+| 016649 | [Google Cloud: Service Check — Reporting for Portfolio Demo](Project_016649/README.md) |
+| 016650 | [Google Cloud: Service Check — Usability Improvement for Portfolio Demo](Project_016650/README.md) |
+| 016651 | [Google Cloud: Configuration Comparison — Baseline Setup for School Lab](Project_016651/README.md) |
+| 016652 | [Google Cloud: Configuration Comparison — Automation for School Lab](Project_016652/README.md) |
+| 016653 | [Google Cloud: Configuration Comparison — Recovery for School Lab](Project_016653/README.md) |
+| 016654 | [Google Cloud: Configuration Comparison — Reporting for School Lab](Project_016654/README.md) |
+| 016655 | [Google Cloud: Configuration Comparison — Usability Improvement for School Lab](Project_016655/README.md) |
+| 016656 | [Google Cloud: Configuration Comparison — Baseline Setup for Small Business](Project_016656/README.md) |
+| 016657 | [Google Cloud: Configuration Comparison — Automation for Small Business](Project_016657/README.md) |
+| 016658 | [Google Cloud: Configuration Comparison — Recovery for Small Business](Project_016658/README.md) |
+| 016659 | [Google Cloud: Configuration Comparison — Reporting for Small Business](Project_016659/README.md) |
+| 016660 | [Google Cloud: Configuration Comparison — Usability Improvement for Small Business](Project_016660/README.md) |
 
 [Back to the portfolio home](../README.md)
