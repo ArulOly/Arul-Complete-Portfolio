@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029318 | [Wireshark: Data Export — Recovery for Public Dataset](Project_029318/README.md) |
 | 029319 | [Wireshark: Data Export — Reporting for Public Dataset](Project_029319/README.md) |
 | 029320 | [Wireshark: Data Export — Usability Improvement for Public Dataset](Project_029320/README.md) |
+| 029321 | [Wireshark: Data Export — Baseline Setup for Branch Office Simulator](Project_029321/README.md) |
+| 029322 | [Wireshark: Data Export — Automation for Branch Office Simulator](Project_029322/README.md) |
+| 029323 | [Wireshark: Data Export — Recovery for Branch Office Simulator](Project_029323/README.md) |
+| 029324 | [Wireshark: Data Export — Reporting for Branch Office Simulator](Project_029324/README.md) |
+| 029325 | [Wireshark: Data Export — Usability Improvement for Branch Office Simulator](Project_029325/README.md) |
+| 029326 | [Wireshark: Data Export — Baseline Setup for Offline Classroom](Project_029326/README.md) |
+| 029327 | [Wireshark: Data Export — Automation for Offline Classroom](Project_029327/README.md) |
+| 029328 | [Wireshark: Data Export — Recovery for Offline Classroom](Project_029328/README.md) |
+| 029329 | [Wireshark: Data Export — Reporting for Offline Classroom](Project_029329/README.md) |
+| 029330 | [Wireshark: Data Export — Usability Improvement for Offline Classroom](Project_029330/README.md) |
+| 029331 | [Wireshark: Data Export — Baseline Setup for Single-Host Lab](Project_029331/README.md) |
+| 029332 | [Wireshark: Data Export — Automation for Single-Host Lab](Project_029332/README.md) |
+| 029333 | [Wireshark: Data Export — Recovery for Single-Host Lab](Project_029333/README.md) |
+| 029334 | [Wireshark: Data Export — Reporting for Single-Host Lab](Project_029334/README.md) |
+| 029335 | [Wireshark: Data Export — Usability Improvement for Single-Host Lab](Project_029335/README.md) |
+| 029336 | [Wireshark: Data Export — Baseline Setup for Two-Node Lab](Project_029336/README.md) |
+| 029337 | [Wireshark: Data Export — Automation for Two-Node Lab](Project_029337/README.md) |
+| 029338 | [Wireshark: Data Export — Recovery for Two-Node Lab](Project_029338/README.md) |
+| 029339 | [Wireshark: Data Export — Reporting for Two-Node Lab](Project_029339/README.md) |
+| 029340 | [Wireshark: Data Export — Usability Improvement for Two-Node Lab](Project_029340/README.md) |
 
 [Back to the portfolio home](../README.md)
