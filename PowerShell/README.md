@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040438 | [PowerShell: Alerting — Recovery for Two-Node Lab](Project_040438/README.md) |
 | 040439 | [PowerShell: Alerting — Reporting for Two-Node Lab](Project_040439/README.md) |
 | 040440 | [PowerShell: Alerting — Usability Improvement for Two-Node Lab](Project_040440/README.md) |
+| 040441 | [PowerShell: Alerting — Baseline Setup for Help Desk](Project_040441/README.md) |
+| 040442 | [PowerShell: Alerting — Automation for Help Desk](Project_040442/README.md) |
+| 040443 | [PowerShell: Alerting — Recovery for Help Desk](Project_040443/README.md) |
+| 040444 | [PowerShell: Alerting — Reporting for Help Desk](Project_040444/README.md) |
+| 040445 | [PowerShell: Alerting — Usability Improvement for Help Desk](Project_040445/README.md) |
+| 040446 | [PowerShell: Alerting — Baseline Setup for Portfolio Demo](Project_040446/README.md) |
+| 040447 | [PowerShell: Alerting — Automation for Portfolio Demo](Project_040447/README.md) |
+| 040448 | [PowerShell: Alerting — Recovery for Portfolio Demo](Project_040448/README.md) |
+| 040449 | [PowerShell: Alerting — Reporting for Portfolio Demo](Project_040449/README.md) |
+| 040450 | [PowerShell: Alerting — Usability Improvement for Portfolio Demo](Project_040450/README.md) |
+| 040451 | [PowerShell: Scheduled Reporting — Baseline Setup for School Lab](Project_040451/README.md) |
+| 040452 | [PowerShell: Scheduled Reporting — Automation for School Lab](Project_040452/README.md) |
+| 040453 | [PowerShell: Scheduled Reporting — Recovery for School Lab](Project_040453/README.md) |
+| 040454 | [PowerShell: Scheduled Reporting — Reporting for School Lab](Project_040454/README.md) |
+| 040455 | [PowerShell: Scheduled Reporting — Usability Improvement for School Lab](Project_040455/README.md) |
+| 040456 | [PowerShell: Scheduled Reporting — Baseline Setup for Small Business](Project_040456/README.md) |
+| 040457 | [PowerShell: Scheduled Reporting — Automation for Small Business](Project_040457/README.md) |
+| 040458 | [PowerShell: Scheduled Reporting — Recovery for Small Business](Project_040458/README.md) |
+| 040459 | [PowerShell: Scheduled Reporting — Reporting for Small Business](Project_040459/README.md) |
+| 040460 | [PowerShell: Scheduled Reporting — Usability Improvement for Small Business](Project_040460/README.md) |
 
 [Back to the portfolio home](../README.md)
