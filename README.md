@@ -40,6 +40,14 @@ This repository contains a collection of practical information technology projec
 | [Kubernetes](./Kubernetes/) | Practice Jobs and ConfigMaps with resource limits |
 | [Ansible](./Ansible/) | Local playbooks with input validation and reports |
 | [Terraform](./Terraform/) | Provider-free plans and validated outputs |
+| [Arduino](./Arduino/) | Arduino sketches with synthetic readings and serial output |
+| [Raspberry Pi](./Raspberry%20Pi/) | Portable shell checks and device-tree model reporting |
+| [ESP32](./ESP32/) | Arduino-ESP32 sketches with synthetic readings and serial output |
+| [Git](./Git/) | Local repository history, diffs, restore, and status |
+| [Apache](./Apache/) | Loopback-only Apache HTTP report examples |
+| [Bash](./Bash/) | Shell arrays, input validation, and reporting |
+| [Nginx](./Nginx/) | Loopback-only Nginx routes serving practice reports |
+| [PowerShell](./PowerShell/) | Portable PowerShell checks and JSON output |
 
 Read the [native examples and category audit](./Native_Examples.md) to see which projects use platform-native tools and what was verified.
 
@@ -83,6 +91,14 @@ Each project is documented in an individual README.md file containing its object
 - Kubernetes
 - Ansible
 - Terraform
+- Arduino
+- Raspberry Pi
+- ESP32
+- Git
+- Apache
+- Bash
+- Nginx
+- PowerShell
 - Markdown
 
 ## Purpose
