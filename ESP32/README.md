@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036398 | [ESP32: Dashboard — Recovery for Portfolio Demo](Project_036398/README.md) |
 | 036399 | [ESP32: Dashboard — Reporting for Portfolio Demo](Project_036399/README.md) |
 | 036400 | [ESP32: Dashboard — Usability Improvement for Portfolio Demo](Project_036400/README.md) |
+| 036401 | [ESP32: Alerting — Baseline Setup for School Lab](Project_036401/README.md) |
+| 036402 | [ESP32: Alerting — Automation for School Lab](Project_036402/README.md) |
+| 036403 | [ESP32: Alerting — Recovery for School Lab](Project_036403/README.md) |
+| 036404 | [ESP32: Alerting — Reporting for School Lab](Project_036404/README.md) |
+| 036405 | [ESP32: Alerting — Usability Improvement for School Lab](Project_036405/README.md) |
+| 036406 | [ESP32: Alerting — Baseline Setup for Small Business](Project_036406/README.md) |
+| 036407 | [ESP32: Alerting — Automation for Small Business](Project_036407/README.md) |
+| 036408 | [ESP32: Alerting — Recovery for Small Business](Project_036408/README.md) |
+| 036409 | [ESP32: Alerting — Reporting for Small Business](Project_036409/README.md) |
+| 036410 | [ESP32: Alerting — Usability Improvement for Small Business](Project_036410/README.md) |
+| 036411 | [ESP32: Alerting — Baseline Setup for Home Development](Project_036411/README.md) |
+| 036412 | [ESP32: Alerting — Automation for Home Development](Project_036412/README.md) |
+| 036413 | [ESP32: Alerting — Recovery for Home Development](Project_036413/README.md) |
+| 036414 | [ESP32: Alerting — Reporting for Home Development](Project_036414/README.md) |
+| 036415 | [ESP32: Alerting — Usability Improvement for Home Development](Project_036415/README.md) |
+| 036416 | [ESP32: Alerting — Baseline Setup for Public Dataset](Project_036416/README.md) |
+| 036417 | [ESP32: Alerting — Automation for Public Dataset](Project_036417/README.md) |
+| 036418 | [ESP32: Alerting — Recovery for Public Dataset](Project_036418/README.md) |
+| 036419 | [ESP32: Alerting — Reporting for Public Dataset](Project_036419/README.md) |
+| 036420 | [ESP32: Alerting — Usability Improvement for Public Dataset](Project_036420/README.md) |
 
 [Back to the portfolio home](../README.md)
