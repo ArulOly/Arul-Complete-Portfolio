@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041198 | [Nginx: Log Analysis — Recovery for Portfolio Demo](Project_041198/README.md) |
 | 041199 | [Nginx: Log Analysis — Reporting for Portfolio Demo](Project_041199/README.md) |
 | 041200 | [Nginx: Log Analysis — Usability Improvement for Portfolio Demo](Project_041200/README.md) |
+| 041201 | [Nginx: Backup Verification — Baseline Setup for School Lab](Project_041201/README.md) |
+| 041202 | [Nginx: Backup Verification — Automation for School Lab](Project_041202/README.md) |
+| 041203 | [Nginx: Backup Verification — Recovery for School Lab](Project_041203/README.md) |
+| 041204 | [Nginx: Backup Verification — Reporting for School Lab](Project_041204/README.md) |
+| 041205 | [Nginx: Backup Verification — Usability Improvement for School Lab](Project_041205/README.md) |
+| 041206 | [Nginx: Backup Verification — Baseline Setup for Small Business](Project_041206/README.md) |
+| 041207 | [Nginx: Backup Verification — Automation for Small Business](Project_041207/README.md) |
+| 041208 | [Nginx: Backup Verification — Recovery for Small Business](Project_041208/README.md) |
+| 041209 | [Nginx: Backup Verification — Reporting for Small Business](Project_041209/README.md) |
+| 041210 | [Nginx: Backup Verification — Usability Improvement for Small Business](Project_041210/README.md) |
+| 041211 | [Nginx: Backup Verification — Baseline Setup for Home Development](Project_041211/README.md) |
+| 041212 | [Nginx: Backup Verification — Automation for Home Development](Project_041212/README.md) |
+| 041213 | [Nginx: Backup Verification — Recovery for Home Development](Project_041213/README.md) |
+| 041214 | [Nginx: Backup Verification — Reporting for Home Development](Project_041214/README.md) |
+| 041215 | [Nginx: Backup Verification — Usability Improvement for Home Development](Project_041215/README.md) |
+| 041216 | [Nginx: Backup Verification — Baseline Setup for Public Dataset](Project_041216/README.md) |
+| 041217 | [Nginx: Backup Verification — Automation for Public Dataset](Project_041217/README.md) |
+| 041218 | [Nginx: Backup Verification — Recovery for Public Dataset](Project_041218/README.md) |
+| 041219 | [Nginx: Backup Verification — Reporting for Public Dataset](Project_041219/README.md) |
+| 041220 | [Nginx: Backup Verification — Usability Improvement for Public Dataset](Project_041220/README.md) |
 
 [Back to the portfolio home](../README.md)
