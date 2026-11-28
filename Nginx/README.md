@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041738 | [Nginx: Error Handling — Recovery for Two-Node Lab](Project_041738/README.md) |
 | 041739 | [Nginx: Error Handling — Reporting for Two-Node Lab](Project_041739/README.md) |
 | 041740 | [Nginx: Error Handling — Usability Improvement for Two-Node Lab](Project_041740/README.md) |
+| 041741 | [Nginx: Error Handling — Baseline Setup for Help Desk](Project_041741/README.md) |
+| 041742 | [Nginx: Error Handling — Automation for Help Desk](Project_041742/README.md) |
+| 041743 | [Nginx: Error Handling — Recovery for Help Desk](Project_041743/README.md) |
+| 041744 | [Nginx: Error Handling — Reporting for Help Desk](Project_041744/README.md) |
+| 041745 | [Nginx: Error Handling — Usability Improvement for Help Desk](Project_041745/README.md) |
+| 041746 | [Nginx: Error Handling — Baseline Setup for Portfolio Demo](Project_041746/README.md) |
+| 041747 | [Nginx: Error Handling — Automation for Portfolio Demo](Project_041747/README.md) |
+| 041748 | [Nginx: Error Handling — Recovery for Portfolio Demo](Project_041748/README.md) |
+| 041749 | [Nginx: Error Handling — Reporting for Portfolio Demo](Project_041749/README.md) |
+| 041750 | [Nginx: Error Handling — Usability Improvement for Portfolio Demo](Project_041750/README.md) |
+| 041751 | [Nginx: Data Validation — Baseline Setup for School Lab](Project_041751/README.md) |
+| 041752 | [Nginx: Data Validation — Automation for School Lab](Project_041752/README.md) |
+| 041753 | [Nginx: Data Validation — Recovery for School Lab](Project_041753/README.md) |
+| 041754 | [Nginx: Data Validation — Reporting for School Lab](Project_041754/README.md) |
+| 041755 | [Nginx: Data Validation — Usability Improvement for School Lab](Project_041755/README.md) |
+| 041756 | [Nginx: Data Validation — Baseline Setup for Small Business](Project_041756/README.md) |
+| 041757 | [Nginx: Data Validation — Automation for Small Business](Project_041757/README.md) |
+| 041758 | [Nginx: Data Validation — Recovery for Small Business](Project_041758/README.md) |
+| 041759 | [Nginx: Data Validation — Reporting for Small Business](Project_041759/README.md) |
+| 041760 | [Nginx: Data Validation — Usability Improvement for Small Business](Project_041760/README.md) |
 
 [Back to the portfolio home](../README.md)
