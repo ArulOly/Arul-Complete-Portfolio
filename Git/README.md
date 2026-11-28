@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038758 | [Git: Data Validation — Recovery for Small Business](Project_038758/README.md) |
 | 038759 | [Git: Data Validation — Reporting for Small Business](Project_038759/README.md) |
 | 038760 | [Git: Data Validation — Usability Improvement for Small Business](Project_038760/README.md) |
+| 038761 | [Git: Data Validation — Baseline Setup for Home Development](Project_038761/README.md) |
+| 038762 | [Git: Data Validation — Automation for Home Development](Project_038762/README.md) |
+| 038763 | [Git: Data Validation — Recovery for Home Development](Project_038763/README.md) |
+| 038764 | [Git: Data Validation — Reporting for Home Development](Project_038764/README.md) |
+| 038765 | [Git: Data Validation — Usability Improvement for Home Development](Project_038765/README.md) |
+| 038766 | [Git: Data Validation — Baseline Setup for Public Dataset](Project_038766/README.md) |
+| 038767 | [Git: Data Validation — Automation for Public Dataset](Project_038767/README.md) |
+| 038768 | [Git: Data Validation — Recovery for Public Dataset](Project_038768/README.md) |
+| 038769 | [Git: Data Validation — Reporting for Public Dataset](Project_038769/README.md) |
+| 038770 | [Git: Data Validation — Usability Improvement for Public Dataset](Project_038770/README.md) |
+| 038771 | [Git: Data Validation — Baseline Setup for Branch Office Simulator](Project_038771/README.md) |
+| 038772 | [Git: Data Validation — Automation for Branch Office Simulator](Project_038772/README.md) |
+| 038773 | [Git: Data Validation — Recovery for Branch Office Simulator](Project_038773/README.md) |
+| 038774 | [Git: Data Validation — Reporting for Branch Office Simulator](Project_038774/README.md) |
+| 038775 | [Git: Data Validation — Usability Improvement for Branch Office Simulator](Project_038775/README.md) |
+| 038776 | [Git: Data Validation — Baseline Setup for Offline Classroom](Project_038776/README.md) |
+| 038777 | [Git: Data Validation — Automation for Offline Classroom](Project_038777/README.md) |
+| 038778 | [Git: Data Validation — Recovery for Offline Classroom](Project_038778/README.md) |
+| 038779 | [Git: Data Validation — Reporting for Offline Classroom](Project_038779/README.md) |
+| 038780 | [Git: Data Validation — Usability Improvement for Offline Classroom](Project_038780/README.md) |
 
 [Back to the portfolio home](../README.md)
