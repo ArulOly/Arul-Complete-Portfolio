@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014098 | [AWS: Monitoring — Recovery for Portfolio Demo](Project_014098/README.md) |
 | 014099 | [AWS: Monitoring — Reporting for Portfolio Demo](Project_014099/README.md) |
 | 014100 | [AWS: Monitoring — Usability Improvement for Portfolio Demo](Project_014100/README.md) |
+| 014101 | [AWS: Audit — Baseline Setup for School Lab](Project_014101/README.md) |
+| 014102 | [AWS: Audit — Automation for School Lab](Project_014102/README.md) |
+| 014103 | [AWS: Audit — Recovery for School Lab](Project_014103/README.md) |
+| 014104 | [AWS: Audit — Reporting for School Lab](Project_014104/README.md) |
+| 014105 | [AWS: Audit — Usability Improvement for School Lab](Project_014105/README.md) |
+| 014106 | [AWS: Audit — Baseline Setup for Small Business](Project_014106/README.md) |
+| 014107 | [AWS: Audit — Automation for Small Business](Project_014107/README.md) |
+| 014108 | [AWS: Audit — Recovery for Small Business](Project_014108/README.md) |
+| 014109 | [AWS: Audit — Reporting for Small Business](Project_014109/README.md) |
+| 014110 | [AWS: Audit — Usability Improvement for Small Business](Project_014110/README.md) |
+| 014111 | [AWS: Audit — Baseline Setup for Home Development](Project_014111/README.md) |
+| 014112 | [AWS: Audit — Automation for Home Development](Project_014112/README.md) |
+| 014113 | [AWS: Audit — Recovery for Home Development](Project_014113/README.md) |
+| 014114 | [AWS: Audit — Reporting for Home Development](Project_014114/README.md) |
+| 014115 | [AWS: Audit — Usability Improvement for Home Development](Project_014115/README.md) |
+| 014116 | [AWS: Audit — Baseline Setup for Public Dataset](Project_014116/README.md) |
+| 014117 | [AWS: Audit — Automation for Public Dataset](Project_014117/README.md) |
+| 014118 | [AWS: Audit — Recovery for Public Dataset](Project_014118/README.md) |
+| 014119 | [AWS: Audit — Reporting for Public Dataset](Project_014119/README.md) |
+| 014120 | [AWS: Audit — Usability Improvement for Public Dataset](Project_014120/README.md) |
 
 [Back to the portfolio home](../README.md)
