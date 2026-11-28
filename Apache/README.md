@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042438 | [Apache: Alerting — Recovery for Two-Node Lab](Project_042438/README.md) |
 | 042439 | [Apache: Alerting — Reporting for Two-Node Lab](Project_042439/README.md) |
 | 042440 | [Apache: Alerting — Usability Improvement for Two-Node Lab](Project_042440/README.md) |
+| 042441 | [Apache: Alerting — Baseline Setup for Help Desk](Project_042441/README.md) |
+| 042442 | [Apache: Alerting — Automation for Help Desk](Project_042442/README.md) |
+| 042443 | [Apache: Alerting — Recovery for Help Desk](Project_042443/README.md) |
+| 042444 | [Apache: Alerting — Reporting for Help Desk](Project_042444/README.md) |
+| 042445 | [Apache: Alerting — Usability Improvement for Help Desk](Project_042445/README.md) |
+| 042446 | [Apache: Alerting — Baseline Setup for Portfolio Demo](Project_042446/README.md) |
+| 042447 | [Apache: Alerting — Automation for Portfolio Demo](Project_042447/README.md) |
+| 042448 | [Apache: Alerting — Recovery for Portfolio Demo](Project_042448/README.md) |
+| 042449 | [Apache: Alerting — Reporting for Portfolio Demo](Project_042449/README.md) |
+| 042450 | [Apache: Alerting — Usability Improvement for Portfolio Demo](Project_042450/README.md) |
+| 042451 | [Apache: Scheduled Reporting — Baseline Setup for School Lab](Project_042451/README.md) |
+| 042452 | [Apache: Scheduled Reporting — Automation for School Lab](Project_042452/README.md) |
+| 042453 | [Apache: Scheduled Reporting — Recovery for School Lab](Project_042453/README.md) |
+| 042454 | [Apache: Scheduled Reporting — Reporting for School Lab](Project_042454/README.md) |
+| 042455 | [Apache: Scheduled Reporting — Usability Improvement for School Lab](Project_042455/README.md) |
+| 042456 | [Apache: Scheduled Reporting — Baseline Setup for Small Business](Project_042456/README.md) |
+| 042457 | [Apache: Scheduled Reporting — Automation for Small Business](Project_042457/README.md) |
+| 042458 | [Apache: Scheduled Reporting — Recovery for Small Business](Project_042458/README.md) |
+| 042459 | [Apache: Scheduled Reporting — Reporting for Small Business](Project_042459/README.md) |
+| 042460 | [Apache: Scheduled Reporting — Usability Improvement for Small Business](Project_042460/README.md) |
 
 [Back to the portfolio home](../README.md)
