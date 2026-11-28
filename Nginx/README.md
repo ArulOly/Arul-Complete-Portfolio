@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041158 | [Nginx: Log Analysis — Recovery for Small Business](Project_041158/README.md) |
 | 041159 | [Nginx: Log Analysis — Reporting for Small Business](Project_041159/README.md) |
 | 041160 | [Nginx: Log Analysis — Usability Improvement for Small Business](Project_041160/README.md) |
+| 041161 | [Nginx: Log Analysis — Baseline Setup for Home Development](Project_041161/README.md) |
+| 041162 | [Nginx: Log Analysis — Automation for Home Development](Project_041162/README.md) |
+| 041163 | [Nginx: Log Analysis — Recovery for Home Development](Project_041163/README.md) |
+| 041164 | [Nginx: Log Analysis — Reporting for Home Development](Project_041164/README.md) |
+| 041165 | [Nginx: Log Analysis — Usability Improvement for Home Development](Project_041165/README.md) |
+| 041166 | [Nginx: Log Analysis — Baseline Setup for Public Dataset](Project_041166/README.md) |
+| 041167 | [Nginx: Log Analysis — Automation for Public Dataset](Project_041167/README.md) |
+| 041168 | [Nginx: Log Analysis — Recovery for Public Dataset](Project_041168/README.md) |
+| 041169 | [Nginx: Log Analysis — Reporting for Public Dataset](Project_041169/README.md) |
+| 041170 | [Nginx: Log Analysis — Usability Improvement for Public Dataset](Project_041170/README.md) |
+| 041171 | [Nginx: Log Analysis — Baseline Setup for Branch Office Simulator](Project_041171/README.md) |
+| 041172 | [Nginx: Log Analysis — Automation for Branch Office Simulator](Project_041172/README.md) |
+| 041173 | [Nginx: Log Analysis — Recovery for Branch Office Simulator](Project_041173/README.md) |
+| 041174 | [Nginx: Log Analysis — Reporting for Branch Office Simulator](Project_041174/README.md) |
+| 041175 | [Nginx: Log Analysis — Usability Improvement for Branch Office Simulator](Project_041175/README.md) |
+| 041176 | [Nginx: Log Analysis — Baseline Setup for Offline Classroom](Project_041176/README.md) |
+| 041177 | [Nginx: Log Analysis — Automation for Offline Classroom](Project_041177/README.md) |
+| 041178 | [Nginx: Log Analysis — Recovery for Offline Classroom](Project_041178/README.md) |
+| 041179 | [Nginx: Log Analysis — Reporting for Offline Classroom](Project_041179/README.md) |
+| 041180 | [Nginx: Log Analysis — Usability Improvement for Offline Classroom](Project_041180/README.md) |
 
 [Back to the portfolio home](../README.md)
