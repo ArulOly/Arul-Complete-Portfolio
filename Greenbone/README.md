@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031618 | [Greenbone: Service Check — Recovery for Public Dataset](Project_031618/README.md) |
 | 031619 | [Greenbone: Service Check — Reporting for Public Dataset](Project_031619/README.md) |
 | 031620 | [Greenbone: Service Check — Usability Improvement for Public Dataset](Project_031620/README.md) |
+| 031621 | [Greenbone: Service Check — Baseline Setup for Branch Office Simulator](Project_031621/README.md) |
+| 031622 | [Greenbone: Service Check — Automation for Branch Office Simulator](Project_031622/README.md) |
+| 031623 | [Greenbone: Service Check — Recovery for Branch Office Simulator](Project_031623/README.md) |
+| 031624 | [Greenbone: Service Check — Reporting for Branch Office Simulator](Project_031624/README.md) |
+| 031625 | [Greenbone: Service Check — Usability Improvement for Branch Office Simulator](Project_031625/README.md) |
+| 031626 | [Greenbone: Service Check — Baseline Setup for Offline Classroom](Project_031626/README.md) |
+| 031627 | [Greenbone: Service Check — Automation for Offline Classroom](Project_031627/README.md) |
+| 031628 | [Greenbone: Service Check — Recovery for Offline Classroom](Project_031628/README.md) |
+| 031629 | [Greenbone: Service Check — Reporting for Offline Classroom](Project_031629/README.md) |
+| 031630 | [Greenbone: Service Check — Usability Improvement for Offline Classroom](Project_031630/README.md) |
+| 031631 | [Greenbone: Service Check — Baseline Setup for Single-Host Lab](Project_031631/README.md) |
+| 031632 | [Greenbone: Service Check — Automation for Single-Host Lab](Project_031632/README.md) |
+| 031633 | [Greenbone: Service Check — Recovery for Single-Host Lab](Project_031633/README.md) |
+| 031634 | [Greenbone: Service Check — Reporting for Single-Host Lab](Project_031634/README.md) |
+| 031635 | [Greenbone: Service Check — Usability Improvement for Single-Host Lab](Project_031635/README.md) |
+| 031636 | [Greenbone: Service Check — Baseline Setup for Two-Node Lab](Project_031636/README.md) |
+| 031637 | [Greenbone: Service Check — Automation for Two-Node Lab](Project_031637/README.md) |
+| 031638 | [Greenbone: Service Check — Recovery for Two-Node Lab](Project_031638/README.md) |
+| 031639 | [Greenbone: Service Check — Reporting for Two-Node Lab](Project_031639/README.md) |
+| 031640 | [Greenbone: Service Check — Usability Improvement for Two-Node Lab](Project_031640/README.md) |
 
 [Back to the portfolio home](../README.md)
