@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036458 | [ESP32: Scheduled Reporting — Recovery for Small Business](Project_036458/README.md) |
 | 036459 | [ESP32: Scheduled Reporting — Reporting for Small Business](Project_036459/README.md) |
 | 036460 | [ESP32: Scheduled Reporting — Usability Improvement for Small Business](Project_036460/README.md) |
+| 036461 | [ESP32: Scheduled Reporting — Baseline Setup for Home Development](Project_036461/README.md) |
+| 036462 | [ESP32: Scheduled Reporting — Automation for Home Development](Project_036462/README.md) |
+| 036463 | [ESP32: Scheduled Reporting — Recovery for Home Development](Project_036463/README.md) |
+| 036464 | [ESP32: Scheduled Reporting — Reporting for Home Development](Project_036464/README.md) |
+| 036465 | [ESP32: Scheduled Reporting — Usability Improvement for Home Development](Project_036465/README.md) |
+| 036466 | [ESP32: Scheduled Reporting — Baseline Setup for Public Dataset](Project_036466/README.md) |
+| 036467 | [ESP32: Scheduled Reporting — Automation for Public Dataset](Project_036467/README.md) |
+| 036468 | [ESP32: Scheduled Reporting — Recovery for Public Dataset](Project_036468/README.md) |
+| 036469 | [ESP32: Scheduled Reporting — Reporting for Public Dataset](Project_036469/README.md) |
+| 036470 | [ESP32: Scheduled Reporting — Usability Improvement for Public Dataset](Project_036470/README.md) |
+| 036471 | [ESP32: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_036471/README.md) |
+| 036472 | [ESP32: Scheduled Reporting — Automation for Branch Office Simulator](Project_036472/README.md) |
+| 036473 | [ESP32: Scheduled Reporting — Recovery for Branch Office Simulator](Project_036473/README.md) |
+| 036474 | [ESP32: Scheduled Reporting — Reporting for Branch Office Simulator](Project_036474/README.md) |
+| 036475 | [ESP32: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_036475/README.md) |
+| 036476 | [ESP32: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_036476/README.md) |
+| 036477 | [ESP32: Scheduled Reporting — Automation for Offline Classroom](Project_036477/README.md) |
+| 036478 | [ESP32: Scheduled Reporting — Recovery for Offline Classroom](Project_036478/README.md) |
+| 036479 | [ESP32: Scheduled Reporting — Reporting for Offline Classroom](Project_036479/README.md) |
+| 036480 | [ESP32: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_036480/README.md) |
 
 [Back to the portfolio home](../README.md)
