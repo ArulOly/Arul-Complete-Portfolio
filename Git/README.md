@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038358 | [Git: Dashboard — Recovery for Small Business](Project_038358/README.md) |
 | 038359 | [Git: Dashboard — Reporting for Small Business](Project_038359/README.md) |
 | 038360 | [Git: Dashboard — Usability Improvement for Small Business](Project_038360/README.md) |
+| 038361 | [Git: Dashboard — Baseline Setup for Home Development](Project_038361/README.md) |
+| 038362 | [Git: Dashboard — Automation for Home Development](Project_038362/README.md) |
+| 038363 | [Git: Dashboard — Recovery for Home Development](Project_038363/README.md) |
+| 038364 | [Git: Dashboard — Reporting for Home Development](Project_038364/README.md) |
+| 038365 | [Git: Dashboard — Usability Improvement for Home Development](Project_038365/README.md) |
+| 038366 | [Git: Dashboard — Baseline Setup for Public Dataset](Project_038366/README.md) |
+| 038367 | [Git: Dashboard — Automation for Public Dataset](Project_038367/README.md) |
+| 038368 | [Git: Dashboard — Recovery for Public Dataset](Project_038368/README.md) |
+| 038369 | [Git: Dashboard — Reporting for Public Dataset](Project_038369/README.md) |
+| 038370 | [Git: Dashboard — Usability Improvement for Public Dataset](Project_038370/README.md) |
+| 038371 | [Git: Dashboard — Baseline Setup for Branch Office Simulator](Project_038371/README.md) |
+| 038372 | [Git: Dashboard — Automation for Branch Office Simulator](Project_038372/README.md) |
+| 038373 | [Git: Dashboard — Recovery for Branch Office Simulator](Project_038373/README.md) |
+| 038374 | [Git: Dashboard — Reporting for Branch Office Simulator](Project_038374/README.md) |
+| 038375 | [Git: Dashboard — Usability Improvement for Branch Office Simulator](Project_038375/README.md) |
+| 038376 | [Git: Dashboard — Baseline Setup for Offline Classroom](Project_038376/README.md) |
+| 038377 | [Git: Dashboard — Automation for Offline Classroom](Project_038377/README.md) |
+| 038378 | [Git: Dashboard — Recovery for Offline Classroom](Project_038378/README.md) |
+| 038379 | [Git: Dashboard — Reporting for Offline Classroom](Project_038379/README.md) |
+| 038380 | [Git: Dashboard — Usability Improvement for Offline Classroom](Project_038380/README.md) |
 
 [Back to the portfolio home](../README.md)
