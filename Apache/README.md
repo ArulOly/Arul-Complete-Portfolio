@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042298 | [Apache: Data Import — Recovery for Portfolio Demo](Project_042298/README.md) |
 | 042299 | [Apache: Data Import — Reporting for Portfolio Demo](Project_042299/README.md) |
 | 042300 | [Apache: Data Import — Usability Improvement for Portfolio Demo](Project_042300/README.md) |
+| 042301 | [Apache: Data Export — Baseline Setup for School Lab](Project_042301/README.md) |
+| 042302 | [Apache: Data Export — Automation for School Lab](Project_042302/README.md) |
+| 042303 | [Apache: Data Export — Recovery for School Lab](Project_042303/README.md) |
+| 042304 | [Apache: Data Export — Reporting for School Lab](Project_042304/README.md) |
+| 042305 | [Apache: Data Export — Usability Improvement for School Lab](Project_042305/README.md) |
+| 042306 | [Apache: Data Export — Baseline Setup for Small Business](Project_042306/README.md) |
+| 042307 | [Apache: Data Export — Automation for Small Business](Project_042307/README.md) |
+| 042308 | [Apache: Data Export — Recovery for Small Business](Project_042308/README.md) |
+| 042309 | [Apache: Data Export — Reporting for Small Business](Project_042309/README.md) |
+| 042310 | [Apache: Data Export — Usability Improvement for Small Business](Project_042310/README.md) |
+| 042311 | [Apache: Data Export — Baseline Setup for Home Development](Project_042311/README.md) |
+| 042312 | [Apache: Data Export — Automation for Home Development](Project_042312/README.md) |
+| 042313 | [Apache: Data Export — Recovery for Home Development](Project_042313/README.md) |
+| 042314 | [Apache: Data Export — Reporting for Home Development](Project_042314/README.md) |
+| 042315 | [Apache: Data Export — Usability Improvement for Home Development](Project_042315/README.md) |
+| 042316 | [Apache: Data Export — Baseline Setup for Public Dataset](Project_042316/README.md) |
+| 042317 | [Apache: Data Export — Automation for Public Dataset](Project_042317/README.md) |
+| 042318 | [Apache: Data Export — Recovery for Public Dataset](Project_042318/README.md) |
+| 042319 | [Apache: Data Export — Reporting for Public Dataset](Project_042319/README.md) |
+| 042320 | [Apache: Data Export — Usability Improvement for Public Dataset](Project_042320/README.md) |
 
 [Back to the portfolio home](../README.md)
