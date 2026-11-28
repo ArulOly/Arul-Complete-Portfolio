@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043438 | [Grafana: Alerting — Recovery for Two-Node Lab](Project_043438/README.md) |
 | 043439 | [Grafana: Alerting — Reporting for Two-Node Lab](Project_043439/README.md) |
 | 043440 | [Grafana: Alerting — Usability Improvement for Two-Node Lab](Project_043440/README.md) |
+| 043441 | [Grafana: Alerting — Baseline Setup for Help Desk](Project_043441/README.md) |
+| 043442 | [Grafana: Alerting — Automation for Help Desk](Project_043442/README.md) |
+| 043443 | [Grafana: Alerting — Recovery for Help Desk](Project_043443/README.md) |
+| 043444 | [Grafana: Alerting — Reporting for Help Desk](Project_043444/README.md) |
+| 043445 | [Grafana: Alerting — Usability Improvement for Help Desk](Project_043445/README.md) |
+| 043446 | [Grafana: Alerting — Baseline Setup for Portfolio Demo](Project_043446/README.md) |
+| 043447 | [Grafana: Alerting — Automation for Portfolio Demo](Project_043447/README.md) |
+| 043448 | [Grafana: Alerting — Recovery for Portfolio Demo](Project_043448/README.md) |
+| 043449 | [Grafana: Alerting — Reporting for Portfolio Demo](Project_043449/README.md) |
+| 043450 | [Grafana: Alerting — Usability Improvement for Portfolio Demo](Project_043450/README.md) |
+| 043451 | [Grafana: Scheduled Reporting — Baseline Setup for School Lab](Project_043451/README.md) |
+| 043452 | [Grafana: Scheduled Reporting — Automation for School Lab](Project_043452/README.md) |
+| 043453 | [Grafana: Scheduled Reporting — Recovery for School Lab](Project_043453/README.md) |
+| 043454 | [Grafana: Scheduled Reporting — Reporting for School Lab](Project_043454/README.md) |
+| 043455 | [Grafana: Scheduled Reporting — Usability Improvement for School Lab](Project_043455/README.md) |
+| 043456 | [Grafana: Scheduled Reporting — Baseline Setup for Small Business](Project_043456/README.md) |
+| 043457 | [Grafana: Scheduled Reporting — Automation for Small Business](Project_043457/README.md) |
+| 043458 | [Grafana: Scheduled Reporting — Recovery for Small Business](Project_043458/README.md) |
+| 043459 | [Grafana: Scheduled Reporting — Reporting for Small Business](Project_043459/README.md) |
+| 043460 | [Grafana: Scheduled Reporting — Usability Improvement for Small Business](Project_043460/README.md) |
 
 [Back to the portfolio home](../README.md)
