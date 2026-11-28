@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039798 | [Bash: Data Validation — Recovery for Portfolio Demo](Project_039798/README.md) |
 | 039799 | [Bash: Data Validation — Reporting for Portfolio Demo](Project_039799/README.md) |
 | 039800 | [Bash: Data Validation — Usability Improvement for Portfolio Demo](Project_039800/README.md) |
+| 039801 | [Bash: Documentation Generation — Baseline Setup for School Lab](Project_039801/README.md) |
+| 039802 | [Bash: Documentation Generation — Automation for School Lab](Project_039802/README.md) |
+| 039803 | [Bash: Documentation Generation — Recovery for School Lab](Project_039803/README.md) |
+| 039804 | [Bash: Documentation Generation — Reporting for School Lab](Project_039804/README.md) |
+| 039805 | [Bash: Documentation Generation — Usability Improvement for School Lab](Project_039805/README.md) |
+| 039806 | [Bash: Documentation Generation — Baseline Setup for Small Business](Project_039806/README.md) |
+| 039807 | [Bash: Documentation Generation — Automation for Small Business](Project_039807/README.md) |
+| 039808 | [Bash: Documentation Generation — Recovery for Small Business](Project_039808/README.md) |
+| 039809 | [Bash: Documentation Generation — Reporting for Small Business](Project_039809/README.md) |
+| 039810 | [Bash: Documentation Generation — Usability Improvement for Small Business](Project_039810/README.md) |
+| 039811 | [Bash: Documentation Generation — Baseline Setup for Home Development](Project_039811/README.md) |
+| 039812 | [Bash: Documentation Generation — Automation for Home Development](Project_039812/README.md) |
+| 039813 | [Bash: Documentation Generation — Recovery for Home Development](Project_039813/README.md) |
+| 039814 | [Bash: Documentation Generation — Reporting for Home Development](Project_039814/README.md) |
+| 039815 | [Bash: Documentation Generation — Usability Improvement for Home Development](Project_039815/README.md) |
+| 039816 | [Bash: Documentation Generation — Baseline Setup for Public Dataset](Project_039816/README.md) |
+| 039817 | [Bash: Documentation Generation — Automation for Public Dataset](Project_039817/README.md) |
+| 039818 | [Bash: Documentation Generation — Recovery for Public Dataset](Project_039818/README.md) |
+| 039819 | [Bash: Documentation Generation — Reporting for Public Dataset](Project_039819/README.md) |
+| 039820 | [Bash: Documentation Generation — Usability Improvement for Public Dataset](Project_039820/README.md) |
 
 [Back to the portfolio home](../README.md)
