@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017238 | [Docker: Backup Verification — Recovery for Two-Node Lab](Project_017238/README.md) |
 | 017239 | [Docker: Backup Verification — Reporting for Two-Node Lab](Project_017239/README.md) |
 | 017240 | [Docker: Backup Verification — Usability Improvement for Two-Node Lab](Project_017240/README.md) |
+| 017241 | [Docker: Backup Verification — Baseline Setup for Help Desk](Project_017241/README.md) |
+| 017242 | [Docker: Backup Verification — Automation for Help Desk](Project_017242/README.md) |
+| 017243 | [Docker: Backup Verification — Recovery for Help Desk](Project_017243/README.md) |
+| 017244 | [Docker: Backup Verification — Reporting for Help Desk](Project_017244/README.md) |
+| 017245 | [Docker: Backup Verification — Usability Improvement for Help Desk](Project_017245/README.md) |
+| 017246 | [Docker: Backup Verification — Baseline Setup for Portfolio Demo](Project_017246/README.md) |
+| 017247 | [Docker: Backup Verification — Automation for Portfolio Demo](Project_017247/README.md) |
+| 017248 | [Docker: Backup Verification — Recovery for Portfolio Demo](Project_017248/README.md) |
+| 017249 | [Docker: Backup Verification — Reporting for Portfolio Demo](Project_017249/README.md) |
+| 017250 | [Docker: Backup Verification — Usability Improvement for Portfolio Demo](Project_017250/README.md) |
+| 017251 | [Docker: Data Import — Baseline Setup for School Lab](Project_017251/README.md) |
+| 017252 | [Docker: Data Import — Automation for School Lab](Project_017252/README.md) |
+| 017253 | [Docker: Data Import — Recovery for School Lab](Project_017253/README.md) |
+| 017254 | [Docker: Data Import — Reporting for School Lab](Project_017254/README.md) |
+| 017255 | [Docker: Data Import — Usability Improvement for School Lab](Project_017255/README.md) |
+| 017256 | [Docker: Data Import — Baseline Setup for Small Business](Project_017256/README.md) |
+| 017257 | [Docker: Data Import — Automation for Small Business](Project_017257/README.md) |
+| 017258 | [Docker: Data Import — Recovery for Small Business](Project_017258/README.md) |
+| 017259 | [Docker: Data Import — Reporting for Small Business](Project_017259/README.md) |
+| 017260 | [Docker: Data Import — Usability Improvement for Small Business](Project_017260/README.md) |
 
 [Back to the portfolio home](../README.md)
