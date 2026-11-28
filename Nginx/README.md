@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041258 | [Nginx: Data Import — Recovery for Small Business](Project_041258/README.md) |
 | 041259 | [Nginx: Data Import — Reporting for Small Business](Project_041259/README.md) |
 | 041260 | [Nginx: Data Import — Usability Improvement for Small Business](Project_041260/README.md) |
+| 041261 | [Nginx: Data Import — Baseline Setup for Home Development](Project_041261/README.md) |
+| 041262 | [Nginx: Data Import — Automation for Home Development](Project_041262/README.md) |
+| 041263 | [Nginx: Data Import — Recovery for Home Development](Project_041263/README.md) |
+| 041264 | [Nginx: Data Import — Reporting for Home Development](Project_041264/README.md) |
+| 041265 | [Nginx: Data Import — Usability Improvement for Home Development](Project_041265/README.md) |
+| 041266 | [Nginx: Data Import — Baseline Setup for Public Dataset](Project_041266/README.md) |
+| 041267 | [Nginx: Data Import — Automation for Public Dataset](Project_041267/README.md) |
+| 041268 | [Nginx: Data Import — Recovery for Public Dataset](Project_041268/README.md) |
+| 041269 | [Nginx: Data Import — Reporting for Public Dataset](Project_041269/README.md) |
+| 041270 | [Nginx: Data Import — Usability Improvement for Public Dataset](Project_041270/README.md) |
+| 041271 | [Nginx: Data Import — Baseline Setup for Branch Office Simulator](Project_041271/README.md) |
+| 041272 | [Nginx: Data Import — Automation for Branch Office Simulator](Project_041272/README.md) |
+| 041273 | [Nginx: Data Import — Recovery for Branch Office Simulator](Project_041273/README.md) |
+| 041274 | [Nginx: Data Import — Reporting for Branch Office Simulator](Project_041274/README.md) |
+| 041275 | [Nginx: Data Import — Usability Improvement for Branch Office Simulator](Project_041275/README.md) |
+| 041276 | [Nginx: Data Import — Baseline Setup for Offline Classroom](Project_041276/README.md) |
+| 041277 | [Nginx: Data Import — Automation for Offline Classroom](Project_041277/README.md) |
+| 041278 | [Nginx: Data Import — Recovery for Offline Classroom](Project_041278/README.md) |
+| 041279 | [Nginx: Data Import — Reporting for Offline Classroom](Project_041279/README.md) |
+| 041280 | [Nginx: Data Import — Usability Improvement for Offline Classroom](Project_041280/README.md) |
 
 [Back to the portfolio home](../README.md)
