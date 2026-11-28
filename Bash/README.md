@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039178 | [Bash: Log Analysis — Recovery for Offline Classroom](Project_039178/README.md) |
 | 039179 | [Bash: Log Analysis — Reporting for Offline Classroom](Project_039179/README.md) |
 | 039180 | [Bash: Log Analysis — Usability Improvement for Offline Classroom](Project_039180/README.md) |
+| 039181 | [Bash: Log Analysis — Baseline Setup for Single-Host Lab](Project_039181/README.md) |
+| 039182 | [Bash: Log Analysis — Automation for Single-Host Lab](Project_039182/README.md) |
+| 039183 | [Bash: Log Analysis — Recovery for Single-Host Lab](Project_039183/README.md) |
+| 039184 | [Bash: Log Analysis — Reporting for Single-Host Lab](Project_039184/README.md) |
+| 039185 | [Bash: Log Analysis — Usability Improvement for Single-Host Lab](Project_039185/README.md) |
+| 039186 | [Bash: Log Analysis — Baseline Setup for Two-Node Lab](Project_039186/README.md) |
+| 039187 | [Bash: Log Analysis — Automation for Two-Node Lab](Project_039187/README.md) |
+| 039188 | [Bash: Log Analysis — Recovery for Two-Node Lab](Project_039188/README.md) |
+| 039189 | [Bash: Log Analysis — Reporting for Two-Node Lab](Project_039189/README.md) |
+| 039190 | [Bash: Log Analysis — Usability Improvement for Two-Node Lab](Project_039190/README.md) |
+| 039191 | [Bash: Log Analysis — Baseline Setup for Help Desk](Project_039191/README.md) |
+| 039192 | [Bash: Log Analysis — Automation for Help Desk](Project_039192/README.md) |
+| 039193 | [Bash: Log Analysis — Recovery for Help Desk](Project_039193/README.md) |
+| 039194 | [Bash: Log Analysis — Reporting for Help Desk](Project_039194/README.md) |
+| 039195 | [Bash: Log Analysis — Usability Improvement for Help Desk](Project_039195/README.md) |
+| 039196 | [Bash: Log Analysis — Baseline Setup for Portfolio Demo](Project_039196/README.md) |
+| 039197 | [Bash: Log Analysis — Automation for Portfolio Demo](Project_039197/README.md) |
+| 039198 | [Bash: Log Analysis — Recovery for Portfolio Demo](Project_039198/README.md) |
+| 039199 | [Bash: Log Analysis — Reporting for Portfolio Demo](Project_039199/README.md) |
+| 039200 | [Bash: Log Analysis — Usability Improvement for Portfolio Demo](Project_039200/README.md) |
 
 [Back to the portfolio home](../README.md)
