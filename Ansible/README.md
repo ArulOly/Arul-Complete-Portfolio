@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047418 | [Ansible: Alerting — Recovery for Public Dataset](Project_047418/README.md) |
 | 047419 | [Ansible: Alerting — Reporting for Public Dataset](Project_047419/README.md) |
 | 047420 | [Ansible: Alerting — Usability Improvement for Public Dataset](Project_047420/README.md) |
+| 047421 | [Ansible: Alerting — Baseline Setup for Branch Office Simulator](Project_047421/README.md) |
+| 047422 | [Ansible: Alerting — Automation for Branch Office Simulator](Project_047422/README.md) |
+| 047423 | [Ansible: Alerting — Recovery for Branch Office Simulator](Project_047423/README.md) |
+| 047424 | [Ansible: Alerting — Reporting for Branch Office Simulator](Project_047424/README.md) |
+| 047425 | [Ansible: Alerting — Usability Improvement for Branch Office Simulator](Project_047425/README.md) |
+| 047426 | [Ansible: Alerting — Baseline Setup for Offline Classroom](Project_047426/README.md) |
+| 047427 | [Ansible: Alerting — Automation for Offline Classroom](Project_047427/README.md) |
+| 047428 | [Ansible: Alerting — Recovery for Offline Classroom](Project_047428/README.md) |
+| 047429 | [Ansible: Alerting — Reporting for Offline Classroom](Project_047429/README.md) |
+| 047430 | [Ansible: Alerting — Usability Improvement for Offline Classroom](Project_047430/README.md) |
+| 047431 | [Ansible: Alerting — Baseline Setup for Single-Host Lab](Project_047431/README.md) |
+| 047432 | [Ansible: Alerting — Automation for Single-Host Lab](Project_047432/README.md) |
+| 047433 | [Ansible: Alerting — Recovery for Single-Host Lab](Project_047433/README.md) |
+| 047434 | [Ansible: Alerting — Reporting for Single-Host Lab](Project_047434/README.md) |
+| 047435 | [Ansible: Alerting — Usability Improvement for Single-Host Lab](Project_047435/README.md) |
+| 047436 | [Ansible: Alerting — Baseline Setup for Two-Node Lab](Project_047436/README.md) |
+| 047437 | [Ansible: Alerting — Automation for Two-Node Lab](Project_047437/README.md) |
+| 047438 | [Ansible: Alerting — Recovery for Two-Node Lab](Project_047438/README.md) |
+| 047439 | [Ansible: Alerting — Reporting for Two-Node Lab](Project_047439/README.md) |
+| 047440 | [Ansible: Alerting — Usability Improvement for Two-Node Lab](Project_047440/README.md) |
 
 [Back to the portfolio home](../README.md)
