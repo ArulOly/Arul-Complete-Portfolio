@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015958 | [Azure: Recovery Test — Recovery for Small Business](Project_015958/README.md) |
 | 015959 | [Azure: Recovery Test — Reporting for Small Business](Project_015959/README.md) |
 | 015960 | [Azure: Recovery Test — Usability Improvement for Small Business](Project_015960/README.md) |
+| 015961 | [Azure: Recovery Test — Baseline Setup for Home Development](Project_015961/README.md) |
+| 015962 | [Azure: Recovery Test — Automation for Home Development](Project_015962/README.md) |
+| 015963 | [Azure: Recovery Test — Recovery for Home Development](Project_015963/README.md) |
+| 015964 | [Azure: Recovery Test — Reporting for Home Development](Project_015964/README.md) |
+| 015965 | [Azure: Recovery Test — Usability Improvement for Home Development](Project_015965/README.md) |
+| 015966 | [Azure: Recovery Test — Baseline Setup for Public Dataset](Project_015966/README.md) |
+| 015967 | [Azure: Recovery Test — Automation for Public Dataset](Project_015967/README.md) |
+| 015968 | [Azure: Recovery Test — Recovery for Public Dataset](Project_015968/README.md) |
+| 015969 | [Azure: Recovery Test — Reporting for Public Dataset](Project_015969/README.md) |
+| 015970 | [Azure: Recovery Test — Usability Improvement for Public Dataset](Project_015970/README.md) |
+| 015971 | [Azure: Recovery Test — Baseline Setup for Branch Office Simulator](Project_015971/README.md) |
+| 015972 | [Azure: Recovery Test — Automation for Branch Office Simulator](Project_015972/README.md) |
+| 015973 | [Azure: Recovery Test — Recovery for Branch Office Simulator](Project_015973/README.md) |
+| 015974 | [Azure: Recovery Test — Reporting for Branch Office Simulator](Project_015974/README.md) |
+| 015975 | [Azure: Recovery Test — Usability Improvement for Branch Office Simulator](Project_015975/README.md) |
+| 015976 | [Azure: Recovery Test — Baseline Setup for Offline Classroom](Project_015976/README.md) |
+| 015977 | [Azure: Recovery Test — Automation for Offline Classroom](Project_015977/README.md) |
+| 015978 | [Azure: Recovery Test — Recovery for Offline Classroom](Project_015978/README.md) |
+| 015979 | [Azure: Recovery Test — Reporting for Offline Classroom](Project_015979/README.md) |
+| 015980 | [Azure: Recovery Test — Usability Improvement for Offline Classroom](Project_015980/README.md) |
 
 [Back to the portfolio home](../README.md)
