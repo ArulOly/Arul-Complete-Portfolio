@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016138 | [Google Cloud: Audit — Recovery for Two-Node Lab](Project_016138/README.md) |
 | 016139 | [Google Cloud: Audit — Reporting for Two-Node Lab](Project_016139/README.md) |
 | 016140 | [Google Cloud: Audit — Usability Improvement for Two-Node Lab](Project_016140/README.md) |
+| 016141 | [Google Cloud: Audit — Baseline Setup for Help Desk](Project_016141/README.md) |
+| 016142 | [Google Cloud: Audit — Automation for Help Desk](Project_016142/README.md) |
+| 016143 | [Google Cloud: Audit — Recovery for Help Desk](Project_016143/README.md) |
+| 016144 | [Google Cloud: Audit — Reporting for Help Desk](Project_016144/README.md) |
+| 016145 | [Google Cloud: Audit — Usability Improvement for Help Desk](Project_016145/README.md) |
+| 016146 | [Google Cloud: Audit — Baseline Setup for Portfolio Demo](Project_016146/README.md) |
+| 016147 | [Google Cloud: Audit — Automation for Portfolio Demo](Project_016147/README.md) |
+| 016148 | [Google Cloud: Audit — Recovery for Portfolio Demo](Project_016148/README.md) |
+| 016149 | [Google Cloud: Audit — Reporting for Portfolio Demo](Project_016149/README.md) |
+| 016150 | [Google Cloud: Audit — Usability Improvement for Portfolio Demo](Project_016150/README.md) |
+| 016151 | [Google Cloud: Log Analysis — Baseline Setup for School Lab](Project_016151/README.md) |
+| 016152 | [Google Cloud: Log Analysis — Automation for School Lab](Project_016152/README.md) |
+| 016153 | [Google Cloud: Log Analysis — Recovery for School Lab](Project_016153/README.md) |
+| 016154 | [Google Cloud: Log Analysis — Reporting for School Lab](Project_016154/README.md) |
+| 016155 | [Google Cloud: Log Analysis — Usability Improvement for School Lab](Project_016155/README.md) |
+| 016156 | [Google Cloud: Log Analysis — Baseline Setup for Small Business](Project_016156/README.md) |
+| 016157 | [Google Cloud: Log Analysis — Automation for Small Business](Project_016157/README.md) |
+| 016158 | [Google Cloud: Log Analysis — Recovery for Small Business](Project_016158/README.md) |
+| 016159 | [Google Cloud: Log Analysis — Reporting for Small Business](Project_016159/README.md) |
+| 016160 | [Google Cloud: Log Analysis — Usability Improvement for Small Business](Project_016160/README.md) |
 
 [Back to the portfolio home](../README.md)
