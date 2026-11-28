@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029638 | [Wireshark: Service Check — Recovery for Two-Node Lab](Project_029638/README.md) |
 | 029639 | [Wireshark: Service Check — Reporting for Two-Node Lab](Project_029639/README.md) |
 | 029640 | [Wireshark: Service Check — Usability Improvement for Two-Node Lab](Project_029640/README.md) |
+| 029641 | [Wireshark: Service Check — Baseline Setup for Help Desk](Project_029641/README.md) |
+| 029642 | [Wireshark: Service Check — Automation for Help Desk](Project_029642/README.md) |
+| 029643 | [Wireshark: Service Check — Recovery for Help Desk](Project_029643/README.md) |
+| 029644 | [Wireshark: Service Check — Reporting for Help Desk](Project_029644/README.md) |
+| 029645 | [Wireshark: Service Check — Usability Improvement for Help Desk](Project_029645/README.md) |
+| 029646 | [Wireshark: Service Check — Baseline Setup for Portfolio Demo](Project_029646/README.md) |
+| 029647 | [Wireshark: Service Check — Automation for Portfolio Demo](Project_029647/README.md) |
+| 029648 | [Wireshark: Service Check — Recovery for Portfolio Demo](Project_029648/README.md) |
+| 029649 | [Wireshark: Service Check — Reporting for Portfolio Demo](Project_029649/README.md) |
+| 029650 | [Wireshark: Service Check — Usability Improvement for Portfolio Demo](Project_029650/README.md) |
+| 029651 | [Wireshark: Configuration Comparison — Baseline Setup for School Lab](Project_029651/README.md) |
+| 029652 | [Wireshark: Configuration Comparison — Automation for School Lab](Project_029652/README.md) |
+| 029653 | [Wireshark: Configuration Comparison — Recovery for School Lab](Project_029653/README.md) |
+| 029654 | [Wireshark: Configuration Comparison — Reporting for School Lab](Project_029654/README.md) |
+| 029655 | [Wireshark: Configuration Comparison — Usability Improvement for School Lab](Project_029655/README.md) |
+| 029656 | [Wireshark: Configuration Comparison — Baseline Setup for Small Business](Project_029656/README.md) |
+| 029657 | [Wireshark: Configuration Comparison — Automation for Small Business](Project_029657/README.md) |
+| 029658 | [Wireshark: Configuration Comparison — Recovery for Small Business](Project_029658/README.md) |
+| 029659 | [Wireshark: Configuration Comparison — Reporting for Small Business](Project_029659/README.md) |
+| 029660 | [Wireshark: Configuration Comparison — Usability Improvement for Small Business](Project_029660/README.md) |
 
 [Back to the portfolio home](../README.md)
