@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035918 | [Raspberry Pi: Visual Reporting — Recovery for Public Dataset](Project_035918/README.md) |
 | 035919 | [Raspberry Pi: Visual Reporting — Reporting for Public Dataset](Project_035919/README.md) |
 | 035920 | [Raspberry Pi: Visual Reporting — Usability Improvement for Public Dataset](Project_035920/README.md) |
+| 035921 | [Raspberry Pi: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_035921/README.md) |
+| 035922 | [Raspberry Pi: Visual Reporting — Automation for Branch Office Simulator](Project_035922/README.md) |
+| 035923 | [Raspberry Pi: Visual Reporting — Recovery for Branch Office Simulator](Project_035923/README.md) |
+| 035924 | [Raspberry Pi: Visual Reporting — Reporting for Branch Office Simulator](Project_035924/README.md) |
+| 035925 | [Raspberry Pi: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_035925/README.md) |
+| 035926 | [Raspberry Pi: Visual Reporting — Baseline Setup for Offline Classroom](Project_035926/README.md) |
+| 035927 | [Raspberry Pi: Visual Reporting — Automation for Offline Classroom](Project_035927/README.md) |
+| 035928 | [Raspberry Pi: Visual Reporting — Recovery for Offline Classroom](Project_035928/README.md) |
+| 035929 | [Raspberry Pi: Visual Reporting — Reporting for Offline Classroom](Project_035929/README.md) |
+| 035930 | [Raspberry Pi: Visual Reporting — Usability Improvement for Offline Classroom](Project_035930/README.md) |
+| 035931 | [Raspberry Pi: Visual Reporting — Baseline Setup for Single-Host Lab](Project_035931/README.md) |
+| 035932 | [Raspberry Pi: Visual Reporting — Automation for Single-Host Lab](Project_035932/README.md) |
+| 035933 | [Raspberry Pi: Visual Reporting — Recovery for Single-Host Lab](Project_035933/README.md) |
+| 035934 | [Raspberry Pi: Visual Reporting — Reporting for Single-Host Lab](Project_035934/README.md) |
+| 035935 | [Raspberry Pi: Visual Reporting — Usability Improvement for Single-Host Lab](Project_035935/README.md) |
+| 035936 | [Raspberry Pi: Visual Reporting — Baseline Setup for Two-Node Lab](Project_035936/README.md) |
+| 035937 | [Raspberry Pi: Visual Reporting — Automation for Two-Node Lab](Project_035937/README.md) |
+| 035938 | [Raspberry Pi: Visual Reporting — Recovery for Two-Node Lab](Project_035938/README.md) |
+| 035939 | [Raspberry Pi: Visual Reporting — Reporting for Two-Node Lab](Project_035939/README.md) |
+| 035940 | [Raspberry Pi: Visual Reporting — Usability Improvement for Two-Node Lab](Project_035940/README.md) |
 
 [Back to the portfolio home](../README.md)
