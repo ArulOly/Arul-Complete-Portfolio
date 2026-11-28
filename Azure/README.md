@@ -37,6 +37,18 @@ Azure Blob Storage event format, Python, JSON, and offline fixture-based testing
 
 Save the embedded Python block and JSON sample, then run the documented command locally. The provider event and object storage are simulated.
 
+## Test screenshots
+
+These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
+
+![Selected local Azure event simulation](Evidence/project-015001-baseline.png)
+
+- [Project 015001 · Inventory baseline](Project_015001/README.md) · [Screenshot](Evidence/project-015001-baseline.png)
+- [Project 015152 · Log analysis with one rejected batch row](Project_015152/README.md) · [Screenshot](Evidence/project-015152-automation.png)
+- [Project 015953 · Recovery Test using the saved fallback](Project_015953/README.md) · [Screenshot](Evidence/project-015953-recovery.png)
+- [Project 015554 · Performance baseline report](Project_015554/README.md) · [Screenshot](Evidence/project-015554-reporting.png)
+- [Project 015905 · Readable visual report](Project_015905/README.md) · [Screenshot](Evidence/project-015905-usability.png)
+
 ## Project index
 
 | Project ID | Project title |

@@ -196,6 +196,10 @@ Actual tests ran the Python program against a local simulated object store. The 
 }
 ```
 
+Captured terminal run on local Google Cloud Storage event simulation using the synthetic fixture shown above.
+
+![Recovery Test using the saved fallback on Google Cloud](../Evidence/project-016953-recovery.png)
+
 ## Error handling
 
 The adapter raises a diagnostic when the event is malformed or its object is missing from the fixture. Invalid payloads follow the documented CLI, batch, or recovery behavior.
