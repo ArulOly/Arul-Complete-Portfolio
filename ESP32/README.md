@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036578 | [ESP32: Performance Baseline — Recovery for Offline Classroom](Project_036578/README.md) |
 | 036579 | [ESP32: Performance Baseline — Reporting for Offline Classroom](Project_036579/README.md) |
 | 036580 | [ESP32: Performance Baseline — Usability Improvement for Offline Classroom](Project_036580/README.md) |
+| 036581 | [ESP32: Performance Baseline — Baseline Setup for Single-Host Lab](Project_036581/README.md) |
+| 036582 | [ESP32: Performance Baseline — Automation for Single-Host Lab](Project_036582/README.md) |
+| 036583 | [ESP32: Performance Baseline — Recovery for Single-Host Lab](Project_036583/README.md) |
+| 036584 | [ESP32: Performance Baseline — Reporting for Single-Host Lab](Project_036584/README.md) |
+| 036585 | [ESP32: Performance Baseline — Usability Improvement for Single-Host Lab](Project_036585/README.md) |
+| 036586 | [ESP32: Performance Baseline — Baseline Setup for Two-Node Lab](Project_036586/README.md) |
+| 036587 | [ESP32: Performance Baseline — Automation for Two-Node Lab](Project_036587/README.md) |
+| 036588 | [ESP32: Performance Baseline — Recovery for Two-Node Lab](Project_036588/README.md) |
+| 036589 | [ESP32: Performance Baseline — Reporting for Two-Node Lab](Project_036589/README.md) |
+| 036590 | [ESP32: Performance Baseline — Usability Improvement for Two-Node Lab](Project_036590/README.md) |
+| 036591 | [ESP32: Performance Baseline — Baseline Setup for Help Desk](Project_036591/README.md) |
+| 036592 | [ESP32: Performance Baseline — Automation for Help Desk](Project_036592/README.md) |
+| 036593 | [ESP32: Performance Baseline — Recovery for Help Desk](Project_036593/README.md) |
+| 036594 | [ESP32: Performance Baseline — Reporting for Help Desk](Project_036594/README.md) |
+| 036595 | [ESP32: Performance Baseline — Usability Improvement for Help Desk](Project_036595/README.md) |
+| 036596 | [ESP32: Performance Baseline — Baseline Setup for Portfolio Demo](Project_036596/README.md) |
+| 036597 | [ESP32: Performance Baseline — Automation for Portfolio Demo](Project_036597/README.md) |
+| 036598 | [ESP32: Performance Baseline — Recovery for Portfolio Demo](Project_036598/README.md) |
+| 036599 | [ESP32: Performance Baseline — Reporting for Portfolio Demo](Project_036599/README.md) |
+| 036600 | [ESP32: Performance Baseline — Usability Improvement for Portfolio Demo](Project_036600/README.md) |
 
 [Back to the portfolio home](../README.md)
