@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014678 | [AWS: Configuration Comparison — Recovery for Offline Classroom](Project_014678/README.md) |
 | 014679 | [AWS: Configuration Comparison — Reporting for Offline Classroom](Project_014679/README.md) |
 | 014680 | [AWS: Configuration Comparison — Usability Improvement for Offline Classroom](Project_014680/README.md) |
+| 014681 | [AWS: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_014681/README.md) |
+| 014682 | [AWS: Configuration Comparison — Automation for Single-Host Lab](Project_014682/README.md) |
+| 014683 | [AWS: Configuration Comparison — Recovery for Single-Host Lab](Project_014683/README.md) |
+| 014684 | [AWS: Configuration Comparison — Reporting for Single-Host Lab](Project_014684/README.md) |
+| 014685 | [AWS: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_014685/README.md) |
+| 014686 | [AWS: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_014686/README.md) |
+| 014687 | [AWS: Configuration Comparison — Automation for Two-Node Lab](Project_014687/README.md) |
+| 014688 | [AWS: Configuration Comparison — Recovery for Two-Node Lab](Project_014688/README.md) |
+| 014689 | [AWS: Configuration Comparison — Reporting for Two-Node Lab](Project_014689/README.md) |
+| 014690 | [AWS: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_014690/README.md) |
+| 014691 | [AWS: Configuration Comparison — Baseline Setup for Help Desk](Project_014691/README.md) |
+| 014692 | [AWS: Configuration Comparison — Automation for Help Desk](Project_014692/README.md) |
+| 014693 | [AWS: Configuration Comparison — Recovery for Help Desk](Project_014693/README.md) |
+| 014694 | [AWS: Configuration Comparison — Reporting for Help Desk](Project_014694/README.md) |
+| 014695 | [AWS: Configuration Comparison — Usability Improvement for Help Desk](Project_014695/README.md) |
+| 014696 | [AWS: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_014696/README.md) |
+| 014697 | [AWS: Configuration Comparison — Automation for Portfolio Demo](Project_014697/README.md) |
+| 014698 | [AWS: Configuration Comparison — Recovery for Portfolio Demo](Project_014698/README.md) |
+| 014699 | [AWS: Configuration Comparison — Reporting for Portfolio Demo](Project_014699/README.md) |
+| 014700 | [AWS: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_014700/README.md) |
 
 [Back to the portfolio home](../README.md)
