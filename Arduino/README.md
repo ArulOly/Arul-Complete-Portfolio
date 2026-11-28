@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037338 | [Arduino: Data Export — Recovery for Two-Node Lab](Project_037338/README.md) |
 | 037339 | [Arduino: Data Export — Reporting for Two-Node Lab](Project_037339/README.md) |
 | 037340 | [Arduino: Data Export — Usability Improvement for Two-Node Lab](Project_037340/README.md) |
+| 037341 | [Arduino: Data Export — Baseline Setup for Help Desk](Project_037341/README.md) |
+| 037342 | [Arduino: Data Export — Automation for Help Desk](Project_037342/README.md) |
+| 037343 | [Arduino: Data Export — Recovery for Help Desk](Project_037343/README.md) |
+| 037344 | [Arduino: Data Export — Reporting for Help Desk](Project_037344/README.md) |
+| 037345 | [Arduino: Data Export — Usability Improvement for Help Desk](Project_037345/README.md) |
+| 037346 | [Arduino: Data Export — Baseline Setup for Portfolio Demo](Project_037346/README.md) |
+| 037347 | [Arduino: Data Export — Automation for Portfolio Demo](Project_037347/README.md) |
+| 037348 | [Arduino: Data Export — Recovery for Portfolio Demo](Project_037348/README.md) |
+| 037349 | [Arduino: Data Export — Reporting for Portfolio Demo](Project_037349/README.md) |
+| 037350 | [Arduino: Data Export — Usability Improvement for Portfolio Demo](Project_037350/README.md) |
+| 037351 | [Arduino: Dashboard — Baseline Setup for School Lab](Project_037351/README.md) |
+| 037352 | [Arduino: Dashboard — Automation for School Lab](Project_037352/README.md) |
+| 037353 | [Arduino: Dashboard — Recovery for School Lab](Project_037353/README.md) |
+| 037354 | [Arduino: Dashboard — Reporting for School Lab](Project_037354/README.md) |
+| 037355 | [Arduino: Dashboard — Usability Improvement for School Lab](Project_037355/README.md) |
+| 037356 | [Arduino: Dashboard — Baseline Setup for Small Business](Project_037356/README.md) |
+| 037357 | [Arduino: Dashboard — Automation for Small Business](Project_037357/README.md) |
+| 037358 | [Arduino: Dashboard — Recovery for Small Business](Project_037358/README.md) |
+| 037359 | [Arduino: Dashboard — Reporting for Small Business](Project_037359/README.md) |
+| 037360 | [Arduino: Dashboard — Usability Improvement for Small Business](Project_037360/README.md) |
 
 [Back to the portfolio home](../README.md)
