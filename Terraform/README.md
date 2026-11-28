@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046298 | [Terraform: Data Import — Recovery for Portfolio Demo](Project_046298/README.md) |
 | 046299 | [Terraform: Data Import — Reporting for Portfolio Demo](Project_046299/README.md) |
 | 046300 | [Terraform: Data Import — Usability Improvement for Portfolio Demo](Project_046300/README.md) |
+| 046301 | [Terraform: Data Export — Baseline Setup for School Lab](Project_046301/README.md) |
+| 046302 | [Terraform: Data Export — Automation for School Lab](Project_046302/README.md) |
+| 046303 | [Terraform: Data Export — Recovery for School Lab](Project_046303/README.md) |
+| 046304 | [Terraform: Data Export — Reporting for School Lab](Project_046304/README.md) |
+| 046305 | [Terraform: Data Export — Usability Improvement for School Lab](Project_046305/README.md) |
+| 046306 | [Terraform: Data Export — Baseline Setup for Small Business](Project_046306/README.md) |
+| 046307 | [Terraform: Data Export — Automation for Small Business](Project_046307/README.md) |
+| 046308 | [Terraform: Data Export — Recovery for Small Business](Project_046308/README.md) |
+| 046309 | [Terraform: Data Export — Reporting for Small Business](Project_046309/README.md) |
+| 046310 | [Terraform: Data Export — Usability Improvement for Small Business](Project_046310/README.md) |
+| 046311 | [Terraform: Data Export — Baseline Setup for Home Development](Project_046311/README.md) |
+| 046312 | [Terraform: Data Export — Automation for Home Development](Project_046312/README.md) |
+| 046313 | [Terraform: Data Export — Recovery for Home Development](Project_046313/README.md) |
+| 046314 | [Terraform: Data Export — Reporting for Home Development](Project_046314/README.md) |
+| 046315 | [Terraform: Data Export — Usability Improvement for Home Development](Project_046315/README.md) |
+| 046316 | [Terraform: Data Export — Baseline Setup for Public Dataset](Project_046316/README.md) |
+| 046317 | [Terraform: Data Export — Automation for Public Dataset](Project_046317/README.md) |
+| 046318 | [Terraform: Data Export — Recovery for Public Dataset](Project_046318/README.md) |
+| 046319 | [Terraform: Data Export — Reporting for Public Dataset](Project_046319/README.md) |
+| 046320 | [Terraform: Data Export — Usability Improvement for Public Dataset](Project_046320/README.md) |
 
 [Back to the portfolio home](../README.md)
