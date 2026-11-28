@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017358 | [Docker: Dashboard — Recovery for Small Business](Project_017358/README.md) |
 | 017359 | [Docker: Dashboard — Reporting for Small Business](Project_017359/README.md) |
 | 017360 | [Docker: Dashboard — Usability Improvement for Small Business](Project_017360/README.md) |
+| 017361 | [Docker: Dashboard — Baseline Setup for Home Development](Project_017361/README.md) |
+| 017362 | [Docker: Dashboard — Automation for Home Development](Project_017362/README.md) |
+| 017363 | [Docker: Dashboard — Recovery for Home Development](Project_017363/README.md) |
+| 017364 | [Docker: Dashboard — Reporting for Home Development](Project_017364/README.md) |
+| 017365 | [Docker: Dashboard — Usability Improvement for Home Development](Project_017365/README.md) |
+| 017366 | [Docker: Dashboard — Baseline Setup for Public Dataset](Project_017366/README.md) |
+| 017367 | [Docker: Dashboard — Automation for Public Dataset](Project_017367/README.md) |
+| 017368 | [Docker: Dashboard — Recovery for Public Dataset](Project_017368/README.md) |
+| 017369 | [Docker: Dashboard — Reporting for Public Dataset](Project_017369/README.md) |
+| 017370 | [Docker: Dashboard — Usability Improvement for Public Dataset](Project_017370/README.md) |
+| 017371 | [Docker: Dashboard — Baseline Setup for Branch Office Simulator](Project_017371/README.md) |
+| 017372 | [Docker: Dashboard — Automation for Branch Office Simulator](Project_017372/README.md) |
+| 017373 | [Docker: Dashboard — Recovery for Branch Office Simulator](Project_017373/README.md) |
+| 017374 | [Docker: Dashboard — Reporting for Branch Office Simulator](Project_017374/README.md) |
+| 017375 | [Docker: Dashboard — Usability Improvement for Branch Office Simulator](Project_017375/README.md) |
+| 017376 | [Docker: Dashboard — Baseline Setup for Offline Classroom](Project_017376/README.md) |
+| 017377 | [Docker: Dashboard — Automation for Offline Classroom](Project_017377/README.md) |
+| 017378 | [Docker: Dashboard — Recovery for Offline Classroom](Project_017378/README.md) |
+| 017379 | [Docker: Dashboard — Reporting for Offline Classroom](Project_017379/README.md) |
+| 017380 | [Docker: Dashboard — Usability Improvement for Offline Classroom](Project_017380/README.md) |
 
 [Back to the portfolio home](../README.md)
