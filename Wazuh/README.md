@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030298 | [Wazuh: Data Import — Recovery for Portfolio Demo](Project_030298/README.md) |
 | 030299 | [Wazuh: Data Import — Reporting for Portfolio Demo](Project_030299/README.md) |
 | 030300 | [Wazuh: Data Import — Usability Improvement for Portfolio Demo](Project_030300/README.md) |
+| 030301 | [Wazuh: Data Export — Baseline Setup for School Lab](Project_030301/README.md) |
+| 030302 | [Wazuh: Data Export — Automation for School Lab](Project_030302/README.md) |
+| 030303 | [Wazuh: Data Export — Recovery for School Lab](Project_030303/README.md) |
+| 030304 | [Wazuh: Data Export — Reporting for School Lab](Project_030304/README.md) |
+| 030305 | [Wazuh: Data Export — Usability Improvement for School Lab](Project_030305/README.md) |
+| 030306 | [Wazuh: Data Export — Baseline Setup for Small Business](Project_030306/README.md) |
+| 030307 | [Wazuh: Data Export — Automation for Small Business](Project_030307/README.md) |
+| 030308 | [Wazuh: Data Export — Recovery for Small Business](Project_030308/README.md) |
+| 030309 | [Wazuh: Data Export — Reporting for Small Business](Project_030309/README.md) |
+| 030310 | [Wazuh: Data Export — Usability Improvement for Small Business](Project_030310/README.md) |
+| 030311 | [Wazuh: Data Export — Baseline Setup for Home Development](Project_030311/README.md) |
+| 030312 | [Wazuh: Data Export — Automation for Home Development](Project_030312/README.md) |
+| 030313 | [Wazuh: Data Export — Recovery for Home Development](Project_030313/README.md) |
+| 030314 | [Wazuh: Data Export — Reporting for Home Development](Project_030314/README.md) |
+| 030315 | [Wazuh: Data Export — Usability Improvement for Home Development](Project_030315/README.md) |
+| 030316 | [Wazuh: Data Export — Baseline Setup for Public Dataset](Project_030316/README.md) |
+| 030317 | [Wazuh: Data Export — Automation for Public Dataset](Project_030317/README.md) |
+| 030318 | [Wazuh: Data Export — Recovery for Public Dataset](Project_030318/README.md) |
+| 030319 | [Wazuh: Data Export — Reporting for Public Dataset](Project_030319/README.md) |
+| 030320 | [Wazuh: Data Export — Usability Improvement for Public Dataset](Project_030320/README.md) |
 
 [Back to the portfolio home](../README.md)
