@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016678 | [Google Cloud: Configuration Comparison — Recovery for Offline Classroom](Project_016678/README.md) |
 | 016679 | [Google Cloud: Configuration Comparison — Reporting for Offline Classroom](Project_016679/README.md) |
 | 016680 | [Google Cloud: Configuration Comparison — Usability Improvement for Offline Classroom](Project_016680/README.md) |
+| 016681 | [Google Cloud: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_016681/README.md) |
+| 016682 | [Google Cloud: Configuration Comparison — Automation for Single-Host Lab](Project_016682/README.md) |
+| 016683 | [Google Cloud: Configuration Comparison — Recovery for Single-Host Lab](Project_016683/README.md) |
+| 016684 | [Google Cloud: Configuration Comparison — Reporting for Single-Host Lab](Project_016684/README.md) |
+| 016685 | [Google Cloud: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_016685/README.md) |
+| 016686 | [Google Cloud: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_016686/README.md) |
+| 016687 | [Google Cloud: Configuration Comparison — Automation for Two-Node Lab](Project_016687/README.md) |
+| 016688 | [Google Cloud: Configuration Comparison — Recovery for Two-Node Lab](Project_016688/README.md) |
+| 016689 | [Google Cloud: Configuration Comparison — Reporting for Two-Node Lab](Project_016689/README.md) |
+| 016690 | [Google Cloud: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_016690/README.md) |
+| 016691 | [Google Cloud: Configuration Comparison — Baseline Setup for Help Desk](Project_016691/README.md) |
+| 016692 | [Google Cloud: Configuration Comparison — Automation for Help Desk](Project_016692/README.md) |
+| 016693 | [Google Cloud: Configuration Comparison — Recovery for Help Desk](Project_016693/README.md) |
+| 016694 | [Google Cloud: Configuration Comparison — Reporting for Help Desk](Project_016694/README.md) |
+| 016695 | [Google Cloud: Configuration Comparison — Usability Improvement for Help Desk](Project_016695/README.md) |
+| 016696 | [Google Cloud: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_016696/README.md) |
+| 016697 | [Google Cloud: Configuration Comparison — Automation for Portfolio Demo](Project_016697/README.md) |
+| 016698 | [Google Cloud: Configuration Comparison — Recovery for Portfolio Demo](Project_016698/README.md) |
+| 016699 | [Google Cloud: Configuration Comparison — Reporting for Portfolio Demo](Project_016699/README.md) |
+| 016700 | [Google Cloud: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_016700/README.md) |
 
 [Back to the portfolio home](../README.md)
