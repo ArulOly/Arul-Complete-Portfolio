@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043898 | [Grafana: Automation — Recovery for Portfolio Demo](Project_043898/README.md) |
 | 043899 | [Grafana: Automation — Reporting for Portfolio Demo](Project_043899/README.md) |
 | 043900 | [Grafana: Automation — Usability Improvement for Portfolio Demo](Project_043900/README.md) |
+| 043901 | [Grafana: Visual Reporting — Baseline Setup for School Lab](Project_043901/README.md) |
+| 043902 | [Grafana: Visual Reporting — Automation for School Lab](Project_043902/README.md) |
+| 043903 | [Grafana: Visual Reporting — Recovery for School Lab](Project_043903/README.md) |
+| 043904 | [Grafana: Visual Reporting — Reporting for School Lab](Project_043904/README.md) |
+| 043905 | [Grafana: Visual Reporting — Usability Improvement for School Lab](Project_043905/README.md) |
+| 043906 | [Grafana: Visual Reporting — Baseline Setup for Small Business](Project_043906/README.md) |
+| 043907 | [Grafana: Visual Reporting — Automation for Small Business](Project_043907/README.md) |
+| 043908 | [Grafana: Visual Reporting — Recovery for Small Business](Project_043908/README.md) |
+| 043909 | [Grafana: Visual Reporting — Reporting for Small Business](Project_043909/README.md) |
+| 043910 | [Grafana: Visual Reporting — Usability Improvement for Small Business](Project_043910/README.md) |
+| 043911 | [Grafana: Visual Reporting — Baseline Setup for Home Development](Project_043911/README.md) |
+| 043912 | [Grafana: Visual Reporting — Automation for Home Development](Project_043912/README.md) |
+| 043913 | [Grafana: Visual Reporting — Recovery for Home Development](Project_043913/README.md) |
+| 043914 | [Grafana: Visual Reporting — Reporting for Home Development](Project_043914/README.md) |
+| 043915 | [Grafana: Visual Reporting — Usability Improvement for Home Development](Project_043915/README.md) |
+| 043916 | [Grafana: Visual Reporting — Baseline Setup for Public Dataset](Project_043916/README.md) |
+| 043917 | [Grafana: Visual Reporting — Automation for Public Dataset](Project_043917/README.md) |
+| 043918 | [Grafana: Visual Reporting — Recovery for Public Dataset](Project_043918/README.md) |
+| 043919 | [Grafana: Visual Reporting — Reporting for Public Dataset](Project_043919/README.md) |
+| 043920 | [Grafana: Visual Reporting — Usability Improvement for Public Dataset](Project_043920/README.md) |
 
 [Back to the portfolio home](../README.md)
