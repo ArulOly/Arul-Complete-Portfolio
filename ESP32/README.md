@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036218 | [ESP32: Backup Verification — Recovery for Public Dataset](Project_036218/README.md) |
 | 036219 | [ESP32: Backup Verification — Reporting for Public Dataset](Project_036219/README.md) |
 | 036220 | [ESP32: Backup Verification — Usability Improvement for Public Dataset](Project_036220/README.md) |
+| 036221 | [ESP32: Backup Verification — Baseline Setup for Branch Office Simulator](Project_036221/README.md) |
+| 036222 | [ESP32: Backup Verification — Automation for Branch Office Simulator](Project_036222/README.md) |
+| 036223 | [ESP32: Backup Verification — Recovery for Branch Office Simulator](Project_036223/README.md) |
+| 036224 | [ESP32: Backup Verification — Reporting for Branch Office Simulator](Project_036224/README.md) |
+| 036225 | [ESP32: Backup Verification — Usability Improvement for Branch Office Simulator](Project_036225/README.md) |
+| 036226 | [ESP32: Backup Verification — Baseline Setup for Offline Classroom](Project_036226/README.md) |
+| 036227 | [ESP32: Backup Verification — Automation for Offline Classroom](Project_036227/README.md) |
+| 036228 | [ESP32: Backup Verification — Recovery for Offline Classroom](Project_036228/README.md) |
+| 036229 | [ESP32: Backup Verification — Reporting for Offline Classroom](Project_036229/README.md) |
+| 036230 | [ESP32: Backup Verification — Usability Improvement for Offline Classroom](Project_036230/README.md) |
+| 036231 | [ESP32: Backup Verification — Baseline Setup for Single-Host Lab](Project_036231/README.md) |
+| 036232 | [ESP32: Backup Verification — Automation for Single-Host Lab](Project_036232/README.md) |
+| 036233 | [ESP32: Backup Verification — Recovery for Single-Host Lab](Project_036233/README.md) |
+| 036234 | [ESP32: Backup Verification — Reporting for Single-Host Lab](Project_036234/README.md) |
+| 036235 | [ESP32: Backup Verification — Usability Improvement for Single-Host Lab](Project_036235/README.md) |
+| 036236 | [ESP32: Backup Verification — Baseline Setup for Two-Node Lab](Project_036236/README.md) |
+| 036237 | [ESP32: Backup Verification — Automation for Two-Node Lab](Project_036237/README.md) |
+| 036238 | [ESP32: Backup Verification — Recovery for Two-Node Lab](Project_036238/README.md) |
+| 036239 | [ESP32: Backup Verification — Reporting for Two-Node Lab](Project_036239/README.md) |
+| 036240 | [ESP32: Backup Verification — Usability Improvement for Two-Node Lab](Project_036240/README.md) |
 
 [Back to the portfolio home](../README.md)
