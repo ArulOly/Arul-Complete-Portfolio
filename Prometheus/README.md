@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044698 | [Prometheus: Configuration Comparison — Recovery for Portfolio Demo](Project_044698/README.md) |
 | 044699 | [Prometheus: Configuration Comparison — Reporting for Portfolio Demo](Project_044699/README.md) |
 | 044700 | [Prometheus: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_044700/README.md) |
+| 044701 | [Prometheus: Error Handling — Baseline Setup for School Lab](Project_044701/README.md) |
+| 044702 | [Prometheus: Error Handling — Automation for School Lab](Project_044702/README.md) |
+| 044703 | [Prometheus: Error Handling — Recovery for School Lab](Project_044703/README.md) |
+| 044704 | [Prometheus: Error Handling — Reporting for School Lab](Project_044704/README.md) |
+| 044705 | [Prometheus: Error Handling — Usability Improvement for School Lab](Project_044705/README.md) |
+| 044706 | [Prometheus: Error Handling — Baseline Setup for Small Business](Project_044706/README.md) |
+| 044707 | [Prometheus: Error Handling — Automation for Small Business](Project_044707/README.md) |
+| 044708 | [Prometheus: Error Handling — Recovery for Small Business](Project_044708/README.md) |
+| 044709 | [Prometheus: Error Handling — Reporting for Small Business](Project_044709/README.md) |
+| 044710 | [Prometheus: Error Handling — Usability Improvement for Small Business](Project_044710/README.md) |
+| 044711 | [Prometheus: Error Handling — Baseline Setup for Home Development](Project_044711/README.md) |
+| 044712 | [Prometheus: Error Handling — Automation for Home Development](Project_044712/README.md) |
+| 044713 | [Prometheus: Error Handling — Recovery for Home Development](Project_044713/README.md) |
+| 044714 | [Prometheus: Error Handling — Reporting for Home Development](Project_044714/README.md) |
+| 044715 | [Prometheus: Error Handling — Usability Improvement for Home Development](Project_044715/README.md) |
+| 044716 | [Prometheus: Error Handling — Baseline Setup for Public Dataset](Project_044716/README.md) |
+| 044717 | [Prometheus: Error Handling — Automation for Public Dataset](Project_044717/README.md) |
+| 044718 | [Prometheus: Error Handling — Recovery for Public Dataset](Project_044718/README.md) |
+| 044719 | [Prometheus: Error Handling — Reporting for Public Dataset](Project_044719/README.md) |
+| 044720 | [Prometheus: Error Handling — Usability Improvement for Public Dataset](Project_044720/README.md) |
 
 [Back to the portfolio home](../README.md)
