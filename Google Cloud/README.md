@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016538 | [Google Cloud: Access Review — Recovery for Two-Node Lab](Project_016538/README.md) |
 | 016539 | [Google Cloud: Access Review — Reporting for Two-Node Lab](Project_016539/README.md) |
 | 016540 | [Google Cloud: Access Review — Usability Improvement for Two-Node Lab](Project_016540/README.md) |
+| 016541 | [Google Cloud: Access Review — Baseline Setup for Help Desk](Project_016541/README.md) |
+| 016542 | [Google Cloud: Access Review — Automation for Help Desk](Project_016542/README.md) |
+| 016543 | [Google Cloud: Access Review — Recovery for Help Desk](Project_016543/README.md) |
+| 016544 | [Google Cloud: Access Review — Reporting for Help Desk](Project_016544/README.md) |
+| 016545 | [Google Cloud: Access Review — Usability Improvement for Help Desk](Project_016545/README.md) |
+| 016546 | [Google Cloud: Access Review — Baseline Setup for Portfolio Demo](Project_016546/README.md) |
+| 016547 | [Google Cloud: Access Review — Automation for Portfolio Demo](Project_016547/README.md) |
+| 016548 | [Google Cloud: Access Review — Recovery for Portfolio Demo](Project_016548/README.md) |
+| 016549 | [Google Cloud: Access Review — Reporting for Portfolio Demo](Project_016549/README.md) |
+| 016550 | [Google Cloud: Access Review — Usability Improvement for Portfolio Demo](Project_016550/README.md) |
+| 016551 | [Google Cloud: Performance Baseline — Baseline Setup for School Lab](Project_016551/README.md) |
+| 016552 | [Google Cloud: Performance Baseline — Automation for School Lab](Project_016552/README.md) |
+| 016553 | [Google Cloud: Performance Baseline — Recovery for School Lab](Project_016553/README.md) |
+| 016554 | [Google Cloud: Performance Baseline — Reporting for School Lab](Project_016554/README.md) |
+| 016555 | [Google Cloud: Performance Baseline — Usability Improvement for School Lab](Project_016555/README.md) |
+| 016556 | [Google Cloud: Performance Baseline — Baseline Setup for Small Business](Project_016556/README.md) |
+| 016557 | [Google Cloud: Performance Baseline — Automation for Small Business](Project_016557/README.md) |
+| 016558 | [Google Cloud: Performance Baseline — Recovery for Small Business](Project_016558/README.md) |
+| 016559 | [Google Cloud: Performance Baseline — Reporting for Small Business](Project_016559/README.md) |
+| 016560 | [Google Cloud: Performance Baseline — Usability Improvement for Small Business](Project_016560/README.md) |
 
 [Back to the portfolio home](../README.md)
