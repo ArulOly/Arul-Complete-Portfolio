@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036758 | [ESP32: Data Validation — Recovery for Small Business](Project_036758/README.md) |
 | 036759 | [ESP32: Data Validation — Reporting for Small Business](Project_036759/README.md) |
 | 036760 | [ESP32: Data Validation — Usability Improvement for Small Business](Project_036760/README.md) |
+| 036761 | [ESP32: Data Validation — Baseline Setup for Home Development](Project_036761/README.md) |
+| 036762 | [ESP32: Data Validation — Automation for Home Development](Project_036762/README.md) |
+| 036763 | [ESP32: Data Validation — Recovery for Home Development](Project_036763/README.md) |
+| 036764 | [ESP32: Data Validation — Reporting for Home Development](Project_036764/README.md) |
+| 036765 | [ESP32: Data Validation — Usability Improvement for Home Development](Project_036765/README.md) |
+| 036766 | [ESP32: Data Validation — Baseline Setup for Public Dataset](Project_036766/README.md) |
+| 036767 | [ESP32: Data Validation — Automation for Public Dataset](Project_036767/README.md) |
+| 036768 | [ESP32: Data Validation — Recovery for Public Dataset](Project_036768/README.md) |
+| 036769 | [ESP32: Data Validation — Reporting for Public Dataset](Project_036769/README.md) |
+| 036770 | [ESP32: Data Validation — Usability Improvement for Public Dataset](Project_036770/README.md) |
+| 036771 | [ESP32: Data Validation — Baseline Setup for Branch Office Simulator](Project_036771/README.md) |
+| 036772 | [ESP32: Data Validation — Automation for Branch Office Simulator](Project_036772/README.md) |
+| 036773 | [ESP32: Data Validation — Recovery for Branch Office Simulator](Project_036773/README.md) |
+| 036774 | [ESP32: Data Validation — Reporting for Branch Office Simulator](Project_036774/README.md) |
+| 036775 | [ESP32: Data Validation — Usability Improvement for Branch Office Simulator](Project_036775/README.md) |
+| 036776 | [ESP32: Data Validation — Baseline Setup for Offline Classroom](Project_036776/README.md) |
+| 036777 | [ESP32: Data Validation — Automation for Offline Classroom](Project_036777/README.md) |
+| 036778 | [ESP32: Data Validation — Recovery for Offline Classroom](Project_036778/README.md) |
+| 036779 | [ESP32: Data Validation — Reporting for Offline Classroom](Project_036779/README.md) |
+| 036780 | [ESP32: Data Validation — Usability Improvement for Offline Classroom](Project_036780/README.md) |
 
 [Back to the portfolio home](../README.md)
