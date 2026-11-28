@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031298 | [Greenbone: Data Import — Recovery for Portfolio Demo](Project_031298/README.md) |
 | 031299 | [Greenbone: Data Import — Reporting for Portfolio Demo](Project_031299/README.md) |
 | 031300 | [Greenbone: Data Import — Usability Improvement for Portfolio Demo](Project_031300/README.md) |
+| 031301 | [Greenbone: Data Export — Baseline Setup for School Lab](Project_031301/README.md) |
+| 031302 | [Greenbone: Data Export — Automation for School Lab](Project_031302/README.md) |
+| 031303 | [Greenbone: Data Export — Recovery for School Lab](Project_031303/README.md) |
+| 031304 | [Greenbone: Data Export — Reporting for School Lab](Project_031304/README.md) |
+| 031305 | [Greenbone: Data Export — Usability Improvement for School Lab](Project_031305/README.md) |
+| 031306 | [Greenbone: Data Export — Baseline Setup for Small Business](Project_031306/README.md) |
+| 031307 | [Greenbone: Data Export — Automation for Small Business](Project_031307/README.md) |
+| 031308 | [Greenbone: Data Export — Recovery for Small Business](Project_031308/README.md) |
+| 031309 | [Greenbone: Data Export — Reporting for Small Business](Project_031309/README.md) |
+| 031310 | [Greenbone: Data Export — Usability Improvement for Small Business](Project_031310/README.md) |
+| 031311 | [Greenbone: Data Export — Baseline Setup for Home Development](Project_031311/README.md) |
+| 031312 | [Greenbone: Data Export — Automation for Home Development](Project_031312/README.md) |
+| 031313 | [Greenbone: Data Export — Recovery for Home Development](Project_031313/README.md) |
+| 031314 | [Greenbone: Data Export — Reporting for Home Development](Project_031314/README.md) |
+| 031315 | [Greenbone: Data Export — Usability Improvement for Home Development](Project_031315/README.md) |
+| 031316 | [Greenbone: Data Export — Baseline Setup for Public Dataset](Project_031316/README.md) |
+| 031317 | [Greenbone: Data Export — Automation for Public Dataset](Project_031317/README.md) |
+| 031318 | [Greenbone: Data Export — Recovery for Public Dataset](Project_031318/README.md) |
+| 031319 | [Greenbone: Data Export — Reporting for Public Dataset](Project_031319/README.md) |
+| 031320 | [Greenbone: Data Export — Usability Improvement for Public Dataset](Project_031320/README.md) |
 
 [Back to the portfolio home](../README.md)
