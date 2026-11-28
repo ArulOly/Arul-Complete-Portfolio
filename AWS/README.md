@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014458 | [AWS: Scheduled Reporting — Recovery for Small Business](Project_014458/README.md) |
 | 014459 | [AWS: Scheduled Reporting — Reporting for Small Business](Project_014459/README.md) |
 | 014460 | [AWS: Scheduled Reporting — Usability Improvement for Small Business](Project_014460/README.md) |
+| 014461 | [AWS: Scheduled Reporting — Baseline Setup for Home Development](Project_014461/README.md) |
+| 014462 | [AWS: Scheduled Reporting — Automation for Home Development](Project_014462/README.md) |
+| 014463 | [AWS: Scheduled Reporting — Recovery for Home Development](Project_014463/README.md) |
+| 014464 | [AWS: Scheduled Reporting — Reporting for Home Development](Project_014464/README.md) |
+| 014465 | [AWS: Scheduled Reporting — Usability Improvement for Home Development](Project_014465/README.md) |
+| 014466 | [AWS: Scheduled Reporting — Baseline Setup for Public Dataset](Project_014466/README.md) |
+| 014467 | [AWS: Scheduled Reporting — Automation for Public Dataset](Project_014467/README.md) |
+| 014468 | [AWS: Scheduled Reporting — Recovery for Public Dataset](Project_014468/README.md) |
+| 014469 | [AWS: Scheduled Reporting — Reporting for Public Dataset](Project_014469/README.md) |
+| 014470 | [AWS: Scheduled Reporting — Usability Improvement for Public Dataset](Project_014470/README.md) |
+| 014471 | [AWS: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_014471/README.md) |
+| 014472 | [AWS: Scheduled Reporting — Automation for Branch Office Simulator](Project_014472/README.md) |
+| 014473 | [AWS: Scheduled Reporting — Recovery for Branch Office Simulator](Project_014473/README.md) |
+| 014474 | [AWS: Scheduled Reporting — Reporting for Branch Office Simulator](Project_014474/README.md) |
+| 014475 | [AWS: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_014475/README.md) |
+| 014476 | [AWS: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_014476/README.md) |
+| 014477 | [AWS: Scheduled Reporting — Automation for Offline Classroom](Project_014477/README.md) |
+| 014478 | [AWS: Scheduled Reporting — Recovery for Offline Classroom](Project_014478/README.md) |
+| 014479 | [AWS: Scheduled Reporting — Reporting for Offline Classroom](Project_014479/README.md) |
+| 014480 | [AWS: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_014480/README.md) |
 
 [Back to the portfolio home](../README.md)
