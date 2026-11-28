@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040658 | [PowerShell: Configuration Comparison — Recovery for Small Business](Project_040658/README.md) |
 | 040659 | [PowerShell: Configuration Comparison — Reporting for Small Business](Project_040659/README.md) |
 | 040660 | [PowerShell: Configuration Comparison — Usability Improvement for Small Business](Project_040660/README.md) |
+| 040661 | [PowerShell: Configuration Comparison — Baseline Setup for Home Development](Project_040661/README.md) |
+| 040662 | [PowerShell: Configuration Comparison — Automation for Home Development](Project_040662/README.md) |
+| 040663 | [PowerShell: Configuration Comparison — Recovery for Home Development](Project_040663/README.md) |
+| 040664 | [PowerShell: Configuration Comparison — Reporting for Home Development](Project_040664/README.md) |
+| 040665 | [PowerShell: Configuration Comparison — Usability Improvement for Home Development](Project_040665/README.md) |
+| 040666 | [PowerShell: Configuration Comparison — Baseline Setup for Public Dataset](Project_040666/README.md) |
+| 040667 | [PowerShell: Configuration Comparison — Automation for Public Dataset](Project_040667/README.md) |
+| 040668 | [PowerShell: Configuration Comparison — Recovery for Public Dataset](Project_040668/README.md) |
+| 040669 | [PowerShell: Configuration Comparison — Reporting for Public Dataset](Project_040669/README.md) |
+| 040670 | [PowerShell: Configuration Comparison — Usability Improvement for Public Dataset](Project_040670/README.md) |
+| 040671 | [PowerShell: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_040671/README.md) |
+| 040672 | [PowerShell: Configuration Comparison — Automation for Branch Office Simulator](Project_040672/README.md) |
+| 040673 | [PowerShell: Configuration Comparison — Recovery for Branch Office Simulator](Project_040673/README.md) |
+| 040674 | [PowerShell: Configuration Comparison — Reporting for Branch Office Simulator](Project_040674/README.md) |
+| 040675 | [PowerShell: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_040675/README.md) |
+| 040676 | [PowerShell: Configuration Comparison — Baseline Setup for Offline Classroom](Project_040676/README.md) |
+| 040677 | [PowerShell: Configuration Comparison — Automation for Offline Classroom](Project_040677/README.md) |
+| 040678 | [PowerShell: Configuration Comparison — Recovery for Offline Classroom](Project_040678/README.md) |
+| 040679 | [PowerShell: Configuration Comparison — Reporting for Offline Classroom](Project_040679/README.md) |
+| 040680 | [PowerShell: Configuration Comparison — Usability Improvement for Offline Classroom](Project_040680/README.md) |
 
 [Back to the portfolio home](../README.md)
