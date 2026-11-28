@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016598 | [Google Cloud: Performance Baseline — Recovery for Portfolio Demo](Project_016598/README.md) |
 | 016599 | [Google Cloud: Performance Baseline — Reporting for Portfolio Demo](Project_016599/README.md) |
 | 016600 | [Google Cloud: Performance Baseline — Usability Improvement for Portfolio Demo](Project_016600/README.md) |
+| 016601 | [Google Cloud: Service Check — Baseline Setup for School Lab](Project_016601/README.md) |
+| 016602 | [Google Cloud: Service Check — Automation for School Lab](Project_016602/README.md) |
+| 016603 | [Google Cloud: Service Check — Recovery for School Lab](Project_016603/README.md) |
+| 016604 | [Google Cloud: Service Check — Reporting for School Lab](Project_016604/README.md) |
+| 016605 | [Google Cloud: Service Check — Usability Improvement for School Lab](Project_016605/README.md) |
+| 016606 | [Google Cloud: Service Check — Baseline Setup for Small Business](Project_016606/README.md) |
+| 016607 | [Google Cloud: Service Check — Automation for Small Business](Project_016607/README.md) |
+| 016608 | [Google Cloud: Service Check — Recovery for Small Business](Project_016608/README.md) |
+| 016609 | [Google Cloud: Service Check — Reporting for Small Business](Project_016609/README.md) |
+| 016610 | [Google Cloud: Service Check — Usability Improvement for Small Business](Project_016610/README.md) |
+| 016611 | [Google Cloud: Service Check — Baseline Setup for Home Development](Project_016611/README.md) |
+| 016612 | [Google Cloud: Service Check — Automation for Home Development](Project_016612/README.md) |
+| 016613 | [Google Cloud: Service Check — Recovery for Home Development](Project_016613/README.md) |
+| 016614 | [Google Cloud: Service Check — Reporting for Home Development](Project_016614/README.md) |
+| 016615 | [Google Cloud: Service Check — Usability Improvement for Home Development](Project_016615/README.md) |
+| 016616 | [Google Cloud: Service Check — Baseline Setup for Public Dataset](Project_016616/README.md) |
+| 016617 | [Google Cloud: Service Check — Automation for Public Dataset](Project_016617/README.md) |
+| 016618 | [Google Cloud: Service Check — Recovery for Public Dataset](Project_016618/README.md) |
+| 016619 | [Google Cloud: Service Check — Reporting for Public Dataset](Project_016619/README.md) |
+| 016620 | [Google Cloud: Service Check — Usability Improvement for Public Dataset](Project_016620/README.md) |
 
 [Back to the portfolio home](../README.md)
