@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046358 | [Terraform: Dashboard — Recovery for Small Business](Project_046358/README.md) |
 | 046359 | [Terraform: Dashboard — Reporting for Small Business](Project_046359/README.md) |
 | 046360 | [Terraform: Dashboard — Usability Improvement for Small Business](Project_046360/README.md) |
+| 046361 | [Terraform: Dashboard — Baseline Setup for Home Development](Project_046361/README.md) |
+| 046362 | [Terraform: Dashboard — Automation for Home Development](Project_046362/README.md) |
+| 046363 | [Terraform: Dashboard — Recovery for Home Development](Project_046363/README.md) |
+| 046364 | [Terraform: Dashboard — Reporting for Home Development](Project_046364/README.md) |
+| 046365 | [Terraform: Dashboard — Usability Improvement for Home Development](Project_046365/README.md) |
+| 046366 | [Terraform: Dashboard — Baseline Setup for Public Dataset](Project_046366/README.md) |
+| 046367 | [Terraform: Dashboard — Automation for Public Dataset](Project_046367/README.md) |
+| 046368 | [Terraform: Dashboard — Recovery for Public Dataset](Project_046368/README.md) |
+| 046369 | [Terraform: Dashboard — Reporting for Public Dataset](Project_046369/README.md) |
+| 046370 | [Terraform: Dashboard — Usability Improvement for Public Dataset](Project_046370/README.md) |
+| 046371 | [Terraform: Dashboard — Baseline Setup for Branch Office Simulator](Project_046371/README.md) |
+| 046372 | [Terraform: Dashboard — Automation for Branch Office Simulator](Project_046372/README.md) |
+| 046373 | [Terraform: Dashboard — Recovery for Branch Office Simulator](Project_046373/README.md) |
+| 046374 | [Terraform: Dashboard — Reporting for Branch Office Simulator](Project_046374/README.md) |
+| 046375 | [Terraform: Dashboard — Usability Improvement for Branch Office Simulator](Project_046375/README.md) |
+| 046376 | [Terraform: Dashboard — Baseline Setup for Offline Classroom](Project_046376/README.md) |
+| 046377 | [Terraform: Dashboard — Automation for Offline Classroom](Project_046377/README.md) |
+| 046378 | [Terraform: Dashboard — Recovery for Offline Classroom](Project_046378/README.md) |
+| 046379 | [Terraform: Dashboard — Reporting for Offline Classroom](Project_046379/README.md) |
+| 046380 | [Terraform: Dashboard — Usability Improvement for Offline Classroom](Project_046380/README.md) |
 
 [Back to the portfolio home](../README.md)
