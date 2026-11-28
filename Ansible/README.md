@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047738 | [Ansible: Error Handling — Recovery for Two-Node Lab](Project_047738/README.md) |
 | 047739 | [Ansible: Error Handling — Reporting for Two-Node Lab](Project_047739/README.md) |
 | 047740 | [Ansible: Error Handling — Usability Improvement for Two-Node Lab](Project_047740/README.md) |
+| 047741 | [Ansible: Error Handling — Baseline Setup for Help Desk](Project_047741/README.md) |
+| 047742 | [Ansible: Error Handling — Automation for Help Desk](Project_047742/README.md) |
+| 047743 | [Ansible: Error Handling — Recovery for Help Desk](Project_047743/README.md) |
+| 047744 | [Ansible: Error Handling — Reporting for Help Desk](Project_047744/README.md) |
+| 047745 | [Ansible: Error Handling — Usability Improvement for Help Desk](Project_047745/README.md) |
+| 047746 | [Ansible: Error Handling — Baseline Setup for Portfolio Demo](Project_047746/README.md) |
+| 047747 | [Ansible: Error Handling — Automation for Portfolio Demo](Project_047747/README.md) |
+| 047748 | [Ansible: Error Handling — Recovery for Portfolio Demo](Project_047748/README.md) |
+| 047749 | [Ansible: Error Handling — Reporting for Portfolio Demo](Project_047749/README.md) |
+| 047750 | [Ansible: Error Handling — Usability Improvement for Portfolio Demo](Project_047750/README.md) |
+| 047751 | [Ansible: Data Validation — Baseline Setup for School Lab](Project_047751/README.md) |
+| 047752 | [Ansible: Data Validation — Automation for School Lab](Project_047752/README.md) |
+| 047753 | [Ansible: Data Validation — Recovery for School Lab](Project_047753/README.md) |
+| 047754 | [Ansible: Data Validation — Reporting for School Lab](Project_047754/README.md) |
+| 047755 | [Ansible: Data Validation — Usability Improvement for School Lab](Project_047755/README.md) |
+| 047756 | [Ansible: Data Validation — Baseline Setup for Small Business](Project_047756/README.md) |
+| 047757 | [Ansible: Data Validation — Automation for Small Business](Project_047757/README.md) |
+| 047758 | [Ansible: Data Validation — Recovery for Small Business](Project_047758/README.md) |
+| 047759 | [Ansible: Data Validation — Reporting for Small Business](Project_047759/README.md) |
+| 047760 | [Ansible: Data Validation — Usability Improvement for Small Business](Project_047760/README.md) |
 
 [Back to the portfolio home](../README.md)
