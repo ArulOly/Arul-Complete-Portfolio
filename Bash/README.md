@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039938 | [Bash: Visual Reporting — Recovery for Two-Node Lab](Project_039938/README.md) |
 | 039939 | [Bash: Visual Reporting — Reporting for Two-Node Lab](Project_039939/README.md) |
 | 039940 | [Bash: Visual Reporting — Usability Improvement for Two-Node Lab](Project_039940/README.md) |
+| 039941 | [Bash: Visual Reporting — Baseline Setup for Help Desk](Project_039941/README.md) |
+| 039942 | [Bash: Visual Reporting — Automation for Help Desk](Project_039942/README.md) |
+| 039943 | [Bash: Visual Reporting — Recovery for Help Desk](Project_039943/README.md) |
+| 039944 | [Bash: Visual Reporting — Reporting for Help Desk](Project_039944/README.md) |
+| 039945 | [Bash: Visual Reporting — Usability Improvement for Help Desk](Project_039945/README.md) |
+| 039946 | [Bash: Visual Reporting — Baseline Setup for Portfolio Demo](Project_039946/README.md) |
+| 039947 | [Bash: Visual Reporting — Automation for Portfolio Demo](Project_039947/README.md) |
+| 039948 | [Bash: Visual Reporting — Recovery for Portfolio Demo](Project_039948/README.md) |
+| 039949 | [Bash: Visual Reporting — Reporting for Portfolio Demo](Project_039949/README.md) |
+| 039950 | [Bash: Visual Reporting — Usability Improvement for Portfolio Demo](Project_039950/README.md) |
+| 039951 | [Bash: Recovery Test — Baseline Setup for School Lab](Project_039951/README.md) |
+| 039952 | [Bash: Recovery Test — Automation for School Lab](Project_039952/README.md) |
+| 039953 | [Bash: Recovery Test — Recovery for School Lab](Project_039953/README.md) |
+| 039954 | [Bash: Recovery Test — Reporting for School Lab](Project_039954/README.md) |
+| 039955 | [Bash: Recovery Test — Usability Improvement for School Lab](Project_039955/README.md) |
+| 039956 | [Bash: Recovery Test — Baseline Setup for Small Business](Project_039956/README.md) |
+| 039957 | [Bash: Recovery Test — Automation for Small Business](Project_039957/README.md) |
+| 039958 | [Bash: Recovery Test — Recovery for Small Business](Project_039958/README.md) |
+| 039959 | [Bash: Recovery Test — Reporting for Small Business](Project_039959/README.md) |
+| 039960 | [Bash: Recovery Test — Usability Improvement for Small Business](Project_039960/README.md) |
 
 [Back to the portfolio home](../README.md)
