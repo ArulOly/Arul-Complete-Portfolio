@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030218 | [Wazuh: Backup Verification — Recovery for Public Dataset](Project_030218/README.md) |
 | 030219 | [Wazuh: Backup Verification — Reporting for Public Dataset](Project_030219/README.md) |
 | 030220 | [Wazuh: Backup Verification — Usability Improvement for Public Dataset](Project_030220/README.md) |
+| 030221 | [Wazuh: Backup Verification — Baseline Setup for Branch Office Simulator](Project_030221/README.md) |
+| 030222 | [Wazuh: Backup Verification — Automation for Branch Office Simulator](Project_030222/README.md) |
+| 030223 | [Wazuh: Backup Verification — Recovery for Branch Office Simulator](Project_030223/README.md) |
+| 030224 | [Wazuh: Backup Verification — Reporting for Branch Office Simulator](Project_030224/README.md) |
+| 030225 | [Wazuh: Backup Verification — Usability Improvement for Branch Office Simulator](Project_030225/README.md) |
+| 030226 | [Wazuh: Backup Verification — Baseline Setup for Offline Classroom](Project_030226/README.md) |
+| 030227 | [Wazuh: Backup Verification — Automation for Offline Classroom](Project_030227/README.md) |
+| 030228 | [Wazuh: Backup Verification — Recovery for Offline Classroom](Project_030228/README.md) |
+| 030229 | [Wazuh: Backup Verification — Reporting for Offline Classroom](Project_030229/README.md) |
+| 030230 | [Wazuh: Backup Verification — Usability Improvement for Offline Classroom](Project_030230/README.md) |
+| 030231 | [Wazuh: Backup Verification — Baseline Setup for Single-Host Lab](Project_030231/README.md) |
+| 030232 | [Wazuh: Backup Verification — Automation for Single-Host Lab](Project_030232/README.md) |
+| 030233 | [Wazuh: Backup Verification — Recovery for Single-Host Lab](Project_030233/README.md) |
+| 030234 | [Wazuh: Backup Verification — Reporting for Single-Host Lab](Project_030234/README.md) |
+| 030235 | [Wazuh: Backup Verification — Usability Improvement for Single-Host Lab](Project_030235/README.md) |
+| 030236 | [Wazuh: Backup Verification — Baseline Setup for Two-Node Lab](Project_030236/README.md) |
+| 030237 | [Wazuh: Backup Verification — Automation for Two-Node Lab](Project_030237/README.md) |
+| 030238 | [Wazuh: Backup Verification — Recovery for Two-Node Lab](Project_030238/README.md) |
+| 030239 | [Wazuh: Backup Verification — Reporting for Two-Node Lab](Project_030239/README.md) |
+| 030240 | [Wazuh: Backup Verification — Usability Improvement for Two-Node Lab](Project_030240/README.md) |
 
 [Back to the portfolio home](../README.md)
