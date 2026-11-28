@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037778 | [Arduino: Data Validation — Recovery for Offline Classroom](Project_037778/README.md) |
 | 037779 | [Arduino: Data Validation — Reporting for Offline Classroom](Project_037779/README.md) |
 | 037780 | [Arduino: Data Validation — Usability Improvement for Offline Classroom](Project_037780/README.md) |
+| 037781 | [Arduino: Data Validation — Baseline Setup for Single-Host Lab](Project_037781/README.md) |
+| 037782 | [Arduino: Data Validation — Automation for Single-Host Lab](Project_037782/README.md) |
+| 037783 | [Arduino: Data Validation — Recovery for Single-Host Lab](Project_037783/README.md) |
+| 037784 | [Arduino: Data Validation — Reporting for Single-Host Lab](Project_037784/README.md) |
+| 037785 | [Arduino: Data Validation — Usability Improvement for Single-Host Lab](Project_037785/README.md) |
+| 037786 | [Arduino: Data Validation — Baseline Setup for Two-Node Lab](Project_037786/README.md) |
+| 037787 | [Arduino: Data Validation — Automation for Two-Node Lab](Project_037787/README.md) |
+| 037788 | [Arduino: Data Validation — Recovery for Two-Node Lab](Project_037788/README.md) |
+| 037789 | [Arduino: Data Validation — Reporting for Two-Node Lab](Project_037789/README.md) |
+| 037790 | [Arduino: Data Validation — Usability Improvement for Two-Node Lab](Project_037790/README.md) |
+| 037791 | [Arduino: Data Validation — Baseline Setup for Help Desk](Project_037791/README.md) |
+| 037792 | [Arduino: Data Validation — Automation for Help Desk](Project_037792/README.md) |
+| 037793 | [Arduino: Data Validation — Recovery for Help Desk](Project_037793/README.md) |
+| 037794 | [Arduino: Data Validation — Reporting for Help Desk](Project_037794/README.md) |
+| 037795 | [Arduino: Data Validation — Usability Improvement for Help Desk](Project_037795/README.md) |
+| 037796 | [Arduino: Data Validation — Baseline Setup for Portfolio Demo](Project_037796/README.md) |
+| 037797 | [Arduino: Data Validation — Automation for Portfolio Demo](Project_037797/README.md) |
+| 037798 | [Arduino: Data Validation — Recovery for Portfolio Demo](Project_037798/README.md) |
+| 037799 | [Arduino: Data Validation — Reporting for Portfolio Demo](Project_037799/README.md) |
+| 037800 | [Arduino: Data Validation — Usability Improvement for Portfolio Demo](Project_037800/README.md) |
 
 [Back to the portfolio home](../README.md)
