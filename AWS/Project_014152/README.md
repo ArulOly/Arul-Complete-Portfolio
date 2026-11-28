@@ -228,10 +228,6 @@ Actual tests ran the Python program against a local simulated object store. The 
 }
 ```
 
-Captured terminal run on local Amazon S3 event simulation using the synthetic fixture shown above.
-
-![Log analysis with one rejected batch row on AWS](../Evidence/project-014152-automation.png)
-
 ## Error handling
 
 The adapter raises a diagnostic when the event is malformed or its object is missing from the fixture. Invalid payloads follow the documented CLI, batch, or recovery behavior.

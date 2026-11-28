@@ -37,18 +37,6 @@ Google Cloud Storage event format, Python, JSON, and offline fixture-based testi
 
 Save the embedded Python block and JSON sample, then run the documented command locally. The provider event and object storage are simulated.
 
-## Test screenshots
-
-These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
-
-![Selected local Google Cloud event simulation](Evidence/project-016001-baseline.png)
-
-- [Project 016001 · Inventory baseline](Project_016001/README.md) · [Screenshot](Evidence/project-016001-baseline.png)
-- [Project 016152 · Log analysis with one rejected batch row](Project_016152/README.md) · [Screenshot](Evidence/project-016152-automation.png)
-- [Project 016953 · Recovery Test using the saved fallback](Project_016953/README.md) · [Screenshot](Evidence/project-016953-recovery.png)
-- [Project 016554 · Performance baseline report](Project_016554/README.md) · [Screenshot](Evidence/project-016554-reporting.png)
-- [Project 016905 · Readable visual report](Project_016905/README.md) · [Screenshot](Evidence/project-016905-usability.png)
-
 ## Project index
 
 | Project ID | Project title |

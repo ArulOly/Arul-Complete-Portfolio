@@ -37,18 +37,6 @@ FreeBSD, freebsd-version, Python, JSON, and local command-line reporting.
 
 Run the embedded Python on FreeBSD. Save the project code and synthetic input locally and use the command in the README.
 
-## Test screenshots
-
-These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
-
-![Inventory baseline valid and invalid terminal runs on FreeBSD](Evidence/project-005001-baseline.png)
-
-- [Project 005001 · Inventory baseline](Project_005001/README.md) · [Screenshot](Evidence/project-005001-baseline.png)
-- [Project 005152 · Log analysis with one rejected batch row](Project_005152/README.md) · [Screenshot](Evidence/project-005152-automation.png)
-- [Project 005953 · Recovery Test using the saved fallback](Project_005953/README.md) · [Screenshot](Evidence/project-005953-recovery.png)
-- [Project 005554 · Performance baseline report](Project_005554/README.md) · [Screenshot](Evidence/project-005554-reporting.png)
-- [Project 005905 · Readable visual report](Project_005905/README.md) · [Screenshot](Evidence/project-005905-usability.png)
-
 ## Project index
 
 | Project ID | Project title |
