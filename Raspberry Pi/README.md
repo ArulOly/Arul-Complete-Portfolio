@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035278 | [Raspberry Pi: Data Import — Recovery for Offline Classroom](Project_035278/README.md) |
 | 035279 | [Raspberry Pi: Data Import — Reporting for Offline Classroom](Project_035279/README.md) |
 | 035280 | [Raspberry Pi: Data Import — Usability Improvement for Offline Classroom](Project_035280/README.md) |
+| 035281 | [Raspberry Pi: Data Import — Baseline Setup for Single-Host Lab](Project_035281/README.md) |
+| 035282 | [Raspberry Pi: Data Import — Automation for Single-Host Lab](Project_035282/README.md) |
+| 035283 | [Raspberry Pi: Data Import — Recovery for Single-Host Lab](Project_035283/README.md) |
+| 035284 | [Raspberry Pi: Data Import — Reporting for Single-Host Lab](Project_035284/README.md) |
+| 035285 | [Raspberry Pi: Data Import — Usability Improvement for Single-Host Lab](Project_035285/README.md) |
+| 035286 | [Raspberry Pi: Data Import — Baseline Setup for Two-Node Lab](Project_035286/README.md) |
+| 035287 | [Raspberry Pi: Data Import — Automation for Two-Node Lab](Project_035287/README.md) |
+| 035288 | [Raspberry Pi: Data Import — Recovery for Two-Node Lab](Project_035288/README.md) |
+| 035289 | [Raspberry Pi: Data Import — Reporting for Two-Node Lab](Project_035289/README.md) |
+| 035290 | [Raspberry Pi: Data Import — Usability Improvement for Two-Node Lab](Project_035290/README.md) |
+| 035291 | [Raspberry Pi: Data Import — Baseline Setup for Help Desk](Project_035291/README.md) |
+| 035292 | [Raspberry Pi: Data Import — Automation for Help Desk](Project_035292/README.md) |
+| 035293 | [Raspberry Pi: Data Import — Recovery for Help Desk](Project_035293/README.md) |
+| 035294 | [Raspberry Pi: Data Import — Reporting for Help Desk](Project_035294/README.md) |
+| 035295 | [Raspberry Pi: Data Import — Usability Improvement for Help Desk](Project_035295/README.md) |
+| 035296 | [Raspberry Pi: Data Import — Baseline Setup for Portfolio Demo](Project_035296/README.md) |
+| 035297 | [Raspberry Pi: Data Import — Automation for Portfolio Demo](Project_035297/README.md) |
+| 035298 | [Raspberry Pi: Data Import — Recovery for Portfolio Demo](Project_035298/README.md) |
+| 035299 | [Raspberry Pi: Data Import — Reporting for Portfolio Demo](Project_035299/README.md) |
+| 035300 | [Raspberry Pi: Data Import — Usability Improvement for Portfolio Demo](Project_035300/README.md) |
 
 [Back to the portfolio home](../README.md)
