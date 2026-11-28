@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038318 | [Git: Data Export — Recovery for Public Dataset](Project_038318/README.md) |
 | 038319 | [Git: Data Export — Reporting for Public Dataset](Project_038319/README.md) |
 | 038320 | [Git: Data Export — Usability Improvement for Public Dataset](Project_038320/README.md) |
+| 038321 | [Git: Data Export — Baseline Setup for Branch Office Simulator](Project_038321/README.md) |
+| 038322 | [Git: Data Export — Automation for Branch Office Simulator](Project_038322/README.md) |
+| 038323 | [Git: Data Export — Recovery for Branch Office Simulator](Project_038323/README.md) |
+| 038324 | [Git: Data Export — Reporting for Branch Office Simulator](Project_038324/README.md) |
+| 038325 | [Git: Data Export — Usability Improvement for Branch Office Simulator](Project_038325/README.md) |
+| 038326 | [Git: Data Export — Baseline Setup for Offline Classroom](Project_038326/README.md) |
+| 038327 | [Git: Data Export — Automation for Offline Classroom](Project_038327/README.md) |
+| 038328 | [Git: Data Export — Recovery for Offline Classroom](Project_038328/README.md) |
+| 038329 | [Git: Data Export — Reporting for Offline Classroom](Project_038329/README.md) |
+| 038330 | [Git: Data Export — Usability Improvement for Offline Classroom](Project_038330/README.md) |
+| 038331 | [Git: Data Export — Baseline Setup for Single-Host Lab](Project_038331/README.md) |
+| 038332 | [Git: Data Export — Automation for Single-Host Lab](Project_038332/README.md) |
+| 038333 | [Git: Data Export — Recovery for Single-Host Lab](Project_038333/README.md) |
+| 038334 | [Git: Data Export — Reporting for Single-Host Lab](Project_038334/README.md) |
+| 038335 | [Git: Data Export — Usability Improvement for Single-Host Lab](Project_038335/README.md) |
+| 038336 | [Git: Data Export — Baseline Setup for Two-Node Lab](Project_038336/README.md) |
+| 038337 | [Git: Data Export — Automation for Two-Node Lab](Project_038337/README.md) |
+| 038338 | [Git: Data Export — Recovery for Two-Node Lab](Project_038338/README.md) |
+| 038339 | [Git: Data Export — Reporting for Two-Node Lab](Project_038339/README.md) |
+| 038340 | [Git: Data Export — Usability Improvement for Two-Node Lab](Project_038340/README.md) |
 
 [Back to the portfolio home](../README.md)
