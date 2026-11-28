@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035018 | [Raspberry Pi: Inventory — Recovery for Public Dataset](Project_035018/README.md) |
 | 035019 | [Raspberry Pi: Inventory — Reporting for Public Dataset](Project_035019/README.md) |
 | 035020 | [Raspberry Pi: Inventory — Usability Improvement for Public Dataset](Project_035020/README.md) |
+| 035021 | [Raspberry Pi: Inventory — Baseline Setup for Branch Office Simulator](Project_035021/README.md) |
+| 035022 | [Raspberry Pi: Inventory — Automation for Branch Office Simulator](Project_035022/README.md) |
+| 035023 | [Raspberry Pi: Inventory — Recovery for Branch Office Simulator](Project_035023/README.md) |
+| 035024 | [Raspberry Pi: Inventory — Reporting for Branch Office Simulator](Project_035024/README.md) |
+| 035025 | [Raspberry Pi: Inventory — Usability Improvement for Branch Office Simulator](Project_035025/README.md) |
+| 035026 | [Raspberry Pi: Inventory — Baseline Setup for Offline Classroom](Project_035026/README.md) |
+| 035027 | [Raspberry Pi: Inventory — Automation for Offline Classroom](Project_035027/README.md) |
+| 035028 | [Raspberry Pi: Inventory — Recovery for Offline Classroom](Project_035028/README.md) |
+| 035029 | [Raspberry Pi: Inventory — Reporting for Offline Classroom](Project_035029/README.md) |
+| 035030 | [Raspberry Pi: Inventory — Usability Improvement for Offline Classroom](Project_035030/README.md) |
+| 035031 | [Raspberry Pi: Inventory — Baseline Setup for Single-Host Lab](Project_035031/README.md) |
+| 035032 | [Raspberry Pi: Inventory — Automation for Single-Host Lab](Project_035032/README.md) |
+| 035033 | [Raspberry Pi: Inventory — Recovery for Single-Host Lab](Project_035033/README.md) |
+| 035034 | [Raspberry Pi: Inventory — Reporting for Single-Host Lab](Project_035034/README.md) |
+| 035035 | [Raspberry Pi: Inventory — Usability Improvement for Single-Host Lab](Project_035035/README.md) |
+| 035036 | [Raspberry Pi: Inventory — Baseline Setup for Two-Node Lab](Project_035036/README.md) |
+| 035037 | [Raspberry Pi: Inventory — Automation for Two-Node Lab](Project_035037/README.md) |
+| 035038 | [Raspberry Pi: Inventory — Recovery for Two-Node Lab](Project_035038/README.md) |
+| 035039 | [Raspberry Pi: Inventory — Reporting for Two-Node Lab](Project_035039/README.md) |
+| 035040 | [Raspberry Pi: Inventory — Usability Improvement for Two-Node Lab](Project_035040/README.md) |
 
 [Back to the portfolio home](../README.md)
