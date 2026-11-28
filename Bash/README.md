@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039238 | [Bash: Backup Verification — Recovery for Two-Node Lab](Project_039238/README.md) |
 | 039239 | [Bash: Backup Verification — Reporting for Two-Node Lab](Project_039239/README.md) |
 | 039240 | [Bash: Backup Verification — Usability Improvement for Two-Node Lab](Project_039240/README.md) |
+| 039241 | [Bash: Backup Verification — Baseline Setup for Help Desk](Project_039241/README.md) |
+| 039242 | [Bash: Backup Verification — Automation for Help Desk](Project_039242/README.md) |
+| 039243 | [Bash: Backup Verification — Recovery for Help Desk](Project_039243/README.md) |
+| 039244 | [Bash: Backup Verification — Reporting for Help Desk](Project_039244/README.md) |
+| 039245 | [Bash: Backup Verification — Usability Improvement for Help Desk](Project_039245/README.md) |
+| 039246 | [Bash: Backup Verification — Baseline Setup for Portfolio Demo](Project_039246/README.md) |
+| 039247 | [Bash: Backup Verification — Automation for Portfolio Demo](Project_039247/README.md) |
+| 039248 | [Bash: Backup Verification — Recovery for Portfolio Demo](Project_039248/README.md) |
+| 039249 | [Bash: Backup Verification — Reporting for Portfolio Demo](Project_039249/README.md) |
+| 039250 | [Bash: Backup Verification — Usability Improvement for Portfolio Demo](Project_039250/README.md) |
+| 039251 | [Bash: Data Import — Baseline Setup for School Lab](Project_039251/README.md) |
+| 039252 | [Bash: Data Import — Automation for School Lab](Project_039252/README.md) |
+| 039253 | [Bash: Data Import — Recovery for School Lab](Project_039253/README.md) |
+| 039254 | [Bash: Data Import — Reporting for School Lab](Project_039254/README.md) |
+| 039255 | [Bash: Data Import — Usability Improvement for School Lab](Project_039255/README.md) |
+| 039256 | [Bash: Data Import — Baseline Setup for Small Business](Project_039256/README.md) |
+| 039257 | [Bash: Data Import — Automation for Small Business](Project_039257/README.md) |
+| 039258 | [Bash: Data Import — Recovery for Small Business](Project_039258/README.md) |
+| 039259 | [Bash: Data Import — Reporting for Small Business](Project_039259/README.md) |
+| 039260 | [Bash: Data Import — Usability Improvement for Small Business](Project_039260/README.md) |
 
 [Back to the portfolio home](../README.md)
