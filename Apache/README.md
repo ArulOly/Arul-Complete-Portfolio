@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042318 | [Apache: Data Export — Recovery for Public Dataset](Project_042318/README.md) |
 | 042319 | [Apache: Data Export — Reporting for Public Dataset](Project_042319/README.md) |
 | 042320 | [Apache: Data Export — Usability Improvement for Public Dataset](Project_042320/README.md) |
+| 042321 | [Apache: Data Export — Baseline Setup for Branch Office Simulator](Project_042321/README.md) |
+| 042322 | [Apache: Data Export — Automation for Branch Office Simulator](Project_042322/README.md) |
+| 042323 | [Apache: Data Export — Recovery for Branch Office Simulator](Project_042323/README.md) |
+| 042324 | [Apache: Data Export — Reporting for Branch Office Simulator](Project_042324/README.md) |
+| 042325 | [Apache: Data Export — Usability Improvement for Branch Office Simulator](Project_042325/README.md) |
+| 042326 | [Apache: Data Export — Baseline Setup for Offline Classroom](Project_042326/README.md) |
+| 042327 | [Apache: Data Export — Automation for Offline Classroom](Project_042327/README.md) |
+| 042328 | [Apache: Data Export — Recovery for Offline Classroom](Project_042328/README.md) |
+| 042329 | [Apache: Data Export — Reporting for Offline Classroom](Project_042329/README.md) |
+| 042330 | [Apache: Data Export — Usability Improvement for Offline Classroom](Project_042330/README.md) |
+| 042331 | [Apache: Data Export — Baseline Setup for Single-Host Lab](Project_042331/README.md) |
+| 042332 | [Apache: Data Export — Automation for Single-Host Lab](Project_042332/README.md) |
+| 042333 | [Apache: Data Export — Recovery for Single-Host Lab](Project_042333/README.md) |
+| 042334 | [Apache: Data Export — Reporting for Single-Host Lab](Project_042334/README.md) |
+| 042335 | [Apache: Data Export — Usability Improvement for Single-Host Lab](Project_042335/README.md) |
+| 042336 | [Apache: Data Export — Baseline Setup for Two-Node Lab](Project_042336/README.md) |
+| 042337 | [Apache: Data Export — Automation for Two-Node Lab](Project_042337/README.md) |
+| 042338 | [Apache: Data Export — Recovery for Two-Node Lab](Project_042338/README.md) |
+| 042339 | [Apache: Data Export — Reporting for Two-Node Lab](Project_042339/README.md) |
+| 042340 | [Apache: Data Export — Usability Improvement for Two-Node Lab](Project_042340/README.md) |
 
 [Back to the portfolio home](../README.md)
