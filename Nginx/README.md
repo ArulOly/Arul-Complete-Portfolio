@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041638 | [Nginx: Service Check — Recovery for Two-Node Lab](Project_041638/README.md) |
 | 041639 | [Nginx: Service Check — Reporting for Two-Node Lab](Project_041639/README.md) |
 | 041640 | [Nginx: Service Check — Usability Improvement for Two-Node Lab](Project_041640/README.md) |
+| 041641 | [Nginx: Service Check — Baseline Setup for Help Desk](Project_041641/README.md) |
+| 041642 | [Nginx: Service Check — Automation for Help Desk](Project_041642/README.md) |
+| 041643 | [Nginx: Service Check — Recovery for Help Desk](Project_041643/README.md) |
+| 041644 | [Nginx: Service Check — Reporting for Help Desk](Project_041644/README.md) |
+| 041645 | [Nginx: Service Check — Usability Improvement for Help Desk](Project_041645/README.md) |
+| 041646 | [Nginx: Service Check — Baseline Setup for Portfolio Demo](Project_041646/README.md) |
+| 041647 | [Nginx: Service Check — Automation for Portfolio Demo](Project_041647/README.md) |
+| 041648 | [Nginx: Service Check — Recovery for Portfolio Demo](Project_041648/README.md) |
+| 041649 | [Nginx: Service Check — Reporting for Portfolio Demo](Project_041649/README.md) |
+| 041650 | [Nginx: Service Check — Usability Improvement for Portfolio Demo](Project_041650/README.md) |
+| 041651 | [Nginx: Configuration Comparison — Baseline Setup for School Lab](Project_041651/README.md) |
+| 041652 | [Nginx: Configuration Comparison — Automation for School Lab](Project_041652/README.md) |
+| 041653 | [Nginx: Configuration Comparison — Recovery for School Lab](Project_041653/README.md) |
+| 041654 | [Nginx: Configuration Comparison — Reporting for School Lab](Project_041654/README.md) |
+| 041655 | [Nginx: Configuration Comparison — Usability Improvement for School Lab](Project_041655/README.md) |
+| 041656 | [Nginx: Configuration Comparison — Baseline Setup for Small Business](Project_041656/README.md) |
+| 041657 | [Nginx: Configuration Comparison — Automation for Small Business](Project_041657/README.md) |
+| 041658 | [Nginx: Configuration Comparison — Recovery for Small Business](Project_041658/README.md) |
+| 041659 | [Nginx: Configuration Comparison — Reporting for Small Business](Project_041659/README.md) |
+| 041660 | [Nginx: Configuration Comparison — Usability Improvement for Small Business](Project_041660/README.md) |
 
 [Back to the portfolio home](../README.md)
