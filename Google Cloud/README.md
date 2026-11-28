@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016318 | [Google Cloud: Data Export — Recovery for Public Dataset](Project_016318/README.md) |
 | 016319 | [Google Cloud: Data Export — Reporting for Public Dataset](Project_016319/README.md) |
 | 016320 | [Google Cloud: Data Export — Usability Improvement for Public Dataset](Project_016320/README.md) |
+| 016321 | [Google Cloud: Data Export — Baseline Setup for Branch Office Simulator](Project_016321/README.md) |
+| 016322 | [Google Cloud: Data Export — Automation for Branch Office Simulator](Project_016322/README.md) |
+| 016323 | [Google Cloud: Data Export — Recovery for Branch Office Simulator](Project_016323/README.md) |
+| 016324 | [Google Cloud: Data Export — Reporting for Branch Office Simulator](Project_016324/README.md) |
+| 016325 | [Google Cloud: Data Export — Usability Improvement for Branch Office Simulator](Project_016325/README.md) |
+| 016326 | [Google Cloud: Data Export — Baseline Setup for Offline Classroom](Project_016326/README.md) |
+| 016327 | [Google Cloud: Data Export — Automation for Offline Classroom](Project_016327/README.md) |
+| 016328 | [Google Cloud: Data Export — Recovery for Offline Classroom](Project_016328/README.md) |
+| 016329 | [Google Cloud: Data Export — Reporting for Offline Classroom](Project_016329/README.md) |
+| 016330 | [Google Cloud: Data Export — Usability Improvement for Offline Classroom](Project_016330/README.md) |
+| 016331 | [Google Cloud: Data Export — Baseline Setup for Single-Host Lab](Project_016331/README.md) |
+| 016332 | [Google Cloud: Data Export — Automation for Single-Host Lab](Project_016332/README.md) |
+| 016333 | [Google Cloud: Data Export — Recovery for Single-Host Lab](Project_016333/README.md) |
+| 016334 | [Google Cloud: Data Export — Reporting for Single-Host Lab](Project_016334/README.md) |
+| 016335 | [Google Cloud: Data Export — Usability Improvement for Single-Host Lab](Project_016335/README.md) |
+| 016336 | [Google Cloud: Data Export — Baseline Setup for Two-Node Lab](Project_016336/README.md) |
+| 016337 | [Google Cloud: Data Export — Automation for Two-Node Lab](Project_016337/README.md) |
+| 016338 | [Google Cloud: Data Export — Recovery for Two-Node Lab](Project_016338/README.md) |
+| 016339 | [Google Cloud: Data Export — Reporting for Two-Node Lab](Project_016339/README.md) |
+| 016340 | [Google Cloud: Data Export — Usability Improvement for Two-Node Lab](Project_016340/README.md) |
 
 [Back to the portfolio home](../README.md)
