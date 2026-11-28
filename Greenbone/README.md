@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031498 | [Greenbone: Scheduled Reporting — Recovery for Portfolio Demo](Project_031498/README.md) |
 | 031499 | [Greenbone: Scheduled Reporting — Reporting for Portfolio Demo](Project_031499/README.md) |
 | 031500 | [Greenbone: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_031500/README.md) |
+| 031501 | [Greenbone: Access Review — Baseline Setup for School Lab](Project_031501/README.md) |
+| 031502 | [Greenbone: Access Review — Automation for School Lab](Project_031502/README.md) |
+| 031503 | [Greenbone: Access Review — Recovery for School Lab](Project_031503/README.md) |
+| 031504 | [Greenbone: Access Review — Reporting for School Lab](Project_031504/README.md) |
+| 031505 | [Greenbone: Access Review — Usability Improvement for School Lab](Project_031505/README.md) |
+| 031506 | [Greenbone: Access Review — Baseline Setup for Small Business](Project_031506/README.md) |
+| 031507 | [Greenbone: Access Review — Automation for Small Business](Project_031507/README.md) |
+| 031508 | [Greenbone: Access Review — Recovery for Small Business](Project_031508/README.md) |
+| 031509 | [Greenbone: Access Review — Reporting for Small Business](Project_031509/README.md) |
+| 031510 | [Greenbone: Access Review — Usability Improvement for Small Business](Project_031510/README.md) |
+| 031511 | [Greenbone: Access Review — Baseline Setup for Home Development](Project_031511/README.md) |
+| 031512 | [Greenbone: Access Review — Automation for Home Development](Project_031512/README.md) |
+| 031513 | [Greenbone: Access Review — Recovery for Home Development](Project_031513/README.md) |
+| 031514 | [Greenbone: Access Review — Reporting for Home Development](Project_031514/README.md) |
+| 031515 | [Greenbone: Access Review — Usability Improvement for Home Development](Project_031515/README.md) |
+| 031516 | [Greenbone: Access Review — Baseline Setup for Public Dataset](Project_031516/README.md) |
+| 031517 | [Greenbone: Access Review — Automation for Public Dataset](Project_031517/README.md) |
+| 031518 | [Greenbone: Access Review — Recovery for Public Dataset](Project_031518/README.md) |
+| 031519 | [Greenbone: Access Review — Reporting for Public Dataset](Project_031519/README.md) |
+| 031520 | [Greenbone: Access Review — Usability Improvement for Public Dataset](Project_031520/README.md) |
 
 [Back to the portfolio home](../README.md)
