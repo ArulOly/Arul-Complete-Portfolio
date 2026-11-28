@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044178 | [Prometheus: Log Analysis — Recovery for Offline Classroom](Project_044178/README.md) |
 | 044179 | [Prometheus: Log Analysis — Reporting for Offline Classroom](Project_044179/README.md) |
 | 044180 | [Prometheus: Log Analysis — Usability Improvement for Offline Classroom](Project_044180/README.md) |
+| 044181 | [Prometheus: Log Analysis — Baseline Setup for Single-Host Lab](Project_044181/README.md) |
+| 044182 | [Prometheus: Log Analysis — Automation for Single-Host Lab](Project_044182/README.md) |
+| 044183 | [Prometheus: Log Analysis — Recovery for Single-Host Lab](Project_044183/README.md) |
+| 044184 | [Prometheus: Log Analysis — Reporting for Single-Host Lab](Project_044184/README.md) |
+| 044185 | [Prometheus: Log Analysis — Usability Improvement for Single-Host Lab](Project_044185/README.md) |
+| 044186 | [Prometheus: Log Analysis — Baseline Setup for Two-Node Lab](Project_044186/README.md) |
+| 044187 | [Prometheus: Log Analysis — Automation for Two-Node Lab](Project_044187/README.md) |
+| 044188 | [Prometheus: Log Analysis — Recovery for Two-Node Lab](Project_044188/README.md) |
+| 044189 | [Prometheus: Log Analysis — Reporting for Two-Node Lab](Project_044189/README.md) |
+| 044190 | [Prometheus: Log Analysis — Usability Improvement for Two-Node Lab](Project_044190/README.md) |
+| 044191 | [Prometheus: Log Analysis — Baseline Setup for Help Desk](Project_044191/README.md) |
+| 044192 | [Prometheus: Log Analysis — Automation for Help Desk](Project_044192/README.md) |
+| 044193 | [Prometheus: Log Analysis — Recovery for Help Desk](Project_044193/README.md) |
+| 044194 | [Prometheus: Log Analysis — Reporting for Help Desk](Project_044194/README.md) |
+| 044195 | [Prometheus: Log Analysis — Usability Improvement for Help Desk](Project_044195/README.md) |
+| 044196 | [Prometheus: Log Analysis — Baseline Setup for Portfolio Demo](Project_044196/README.md) |
+| 044197 | [Prometheus: Log Analysis — Automation for Portfolio Demo](Project_044197/README.md) |
+| 044198 | [Prometheus: Log Analysis — Recovery for Portfolio Demo](Project_044198/README.md) |
+| 044199 | [Prometheus: Log Analysis — Reporting for Portfolio Demo](Project_044199/README.md) |
+| 044200 | [Prometheus: Log Analysis — Usability Improvement for Portfolio Demo](Project_044200/README.md) |
 
 [Back to the portfolio home](../README.md)
