@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039338 | [Bash: Data Export — Recovery for Two-Node Lab](Project_039338/README.md) |
 | 039339 | [Bash: Data Export — Reporting for Two-Node Lab](Project_039339/README.md) |
 | 039340 | [Bash: Data Export — Usability Improvement for Two-Node Lab](Project_039340/README.md) |
+| 039341 | [Bash: Data Export — Baseline Setup for Help Desk](Project_039341/README.md) |
+| 039342 | [Bash: Data Export — Automation for Help Desk](Project_039342/README.md) |
+| 039343 | [Bash: Data Export — Recovery for Help Desk](Project_039343/README.md) |
+| 039344 | [Bash: Data Export — Reporting for Help Desk](Project_039344/README.md) |
+| 039345 | [Bash: Data Export — Usability Improvement for Help Desk](Project_039345/README.md) |
+| 039346 | [Bash: Data Export — Baseline Setup for Portfolio Demo](Project_039346/README.md) |
+| 039347 | [Bash: Data Export — Automation for Portfolio Demo](Project_039347/README.md) |
+| 039348 | [Bash: Data Export — Recovery for Portfolio Demo](Project_039348/README.md) |
+| 039349 | [Bash: Data Export — Reporting for Portfolio Demo](Project_039349/README.md) |
+| 039350 | [Bash: Data Export — Usability Improvement for Portfolio Demo](Project_039350/README.md) |
+| 039351 | [Bash: Dashboard — Baseline Setup for School Lab](Project_039351/README.md) |
+| 039352 | [Bash: Dashboard — Automation for School Lab](Project_039352/README.md) |
+| 039353 | [Bash: Dashboard — Recovery for School Lab](Project_039353/README.md) |
+| 039354 | [Bash: Dashboard — Reporting for School Lab](Project_039354/README.md) |
+| 039355 | [Bash: Dashboard — Usability Improvement for School Lab](Project_039355/README.md) |
+| 039356 | [Bash: Dashboard — Baseline Setup for Small Business](Project_039356/README.md) |
+| 039357 | [Bash: Dashboard — Automation for Small Business](Project_039357/README.md) |
+| 039358 | [Bash: Dashboard — Recovery for Small Business](Project_039358/README.md) |
+| 039359 | [Bash: Dashboard — Reporting for Small Business](Project_039359/README.md) |
+| 039360 | [Bash: Dashboard — Usability Improvement for Small Business](Project_039360/README.md) |
 
 [Back to the portfolio home](../README.md)
