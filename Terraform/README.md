@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046538 | [Terraform: Access Review — Recovery for Two-Node Lab](Project_046538/README.md) |
 | 046539 | [Terraform: Access Review — Reporting for Two-Node Lab](Project_046539/README.md) |
 | 046540 | [Terraform: Access Review — Usability Improvement for Two-Node Lab](Project_046540/README.md) |
+| 046541 | [Terraform: Access Review — Baseline Setup for Help Desk](Project_046541/README.md) |
+| 046542 | [Terraform: Access Review — Automation for Help Desk](Project_046542/README.md) |
+| 046543 | [Terraform: Access Review — Recovery for Help Desk](Project_046543/README.md) |
+| 046544 | [Terraform: Access Review — Reporting for Help Desk](Project_046544/README.md) |
+| 046545 | [Terraform: Access Review — Usability Improvement for Help Desk](Project_046545/README.md) |
+| 046546 | [Terraform: Access Review — Baseline Setup for Portfolio Demo](Project_046546/README.md) |
+| 046547 | [Terraform: Access Review — Automation for Portfolio Demo](Project_046547/README.md) |
+| 046548 | [Terraform: Access Review — Recovery for Portfolio Demo](Project_046548/README.md) |
+| 046549 | [Terraform: Access Review — Reporting for Portfolio Demo](Project_046549/README.md) |
+| 046550 | [Terraform: Access Review — Usability Improvement for Portfolio Demo](Project_046550/README.md) |
+| 046551 | [Terraform: Performance Baseline — Baseline Setup for School Lab](Project_046551/README.md) |
+| 046552 | [Terraform: Performance Baseline — Automation for School Lab](Project_046552/README.md) |
+| 046553 | [Terraform: Performance Baseline — Recovery for School Lab](Project_046553/README.md) |
+| 046554 | [Terraform: Performance Baseline — Reporting for School Lab](Project_046554/README.md) |
+| 046555 | [Terraform: Performance Baseline — Usability Improvement for School Lab](Project_046555/README.md) |
+| 046556 | [Terraform: Performance Baseline — Baseline Setup for Small Business](Project_046556/README.md) |
+| 046557 | [Terraform: Performance Baseline — Automation for Small Business](Project_046557/README.md) |
+| 046558 | [Terraform: Performance Baseline — Recovery for Small Business](Project_046558/README.md) |
+| 046559 | [Terraform: Performance Baseline — Reporting for Small Business](Project_046559/README.md) |
+| 046560 | [Terraform: Performance Baseline — Usability Improvement for Small Business](Project_046560/README.md) |
 
 [Back to the portfolio home](../README.md)
