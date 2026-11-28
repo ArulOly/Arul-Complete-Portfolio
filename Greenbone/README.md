@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031938 | [Greenbone: Visual Reporting — Recovery for Two-Node Lab](Project_031938/README.md) |
 | 031939 | [Greenbone: Visual Reporting — Reporting for Two-Node Lab](Project_031939/README.md) |
 | 031940 | [Greenbone: Visual Reporting — Usability Improvement for Two-Node Lab](Project_031940/README.md) |
+| 031941 | [Greenbone: Visual Reporting — Baseline Setup for Help Desk](Project_031941/README.md) |
+| 031942 | [Greenbone: Visual Reporting — Automation for Help Desk](Project_031942/README.md) |
+| 031943 | [Greenbone: Visual Reporting — Recovery for Help Desk](Project_031943/README.md) |
+| 031944 | [Greenbone: Visual Reporting — Reporting for Help Desk](Project_031944/README.md) |
+| 031945 | [Greenbone: Visual Reporting — Usability Improvement for Help Desk](Project_031945/README.md) |
+| 031946 | [Greenbone: Visual Reporting — Baseline Setup for Portfolio Demo](Project_031946/README.md) |
+| 031947 | [Greenbone: Visual Reporting — Automation for Portfolio Demo](Project_031947/README.md) |
+| 031948 | [Greenbone: Visual Reporting — Recovery for Portfolio Demo](Project_031948/README.md) |
+| 031949 | [Greenbone: Visual Reporting — Reporting for Portfolio Demo](Project_031949/README.md) |
+| 031950 | [Greenbone: Visual Reporting — Usability Improvement for Portfolio Demo](Project_031950/README.md) |
+| 031951 | [Greenbone: Recovery Test — Baseline Setup for School Lab](Project_031951/README.md) |
+| 031952 | [Greenbone: Recovery Test — Automation for School Lab](Project_031952/README.md) |
+| 031953 | [Greenbone: Recovery Test — Recovery for School Lab](Project_031953/README.md) |
+| 031954 | [Greenbone: Recovery Test — Reporting for School Lab](Project_031954/README.md) |
+| 031955 | [Greenbone: Recovery Test — Usability Improvement for School Lab](Project_031955/README.md) |
+| 031956 | [Greenbone: Recovery Test — Baseline Setup for Small Business](Project_031956/README.md) |
+| 031957 | [Greenbone: Recovery Test — Automation for Small Business](Project_031957/README.md) |
+| 031958 | [Greenbone: Recovery Test — Recovery for Small Business](Project_031958/README.md) |
+| 031959 | [Greenbone: Recovery Test — Reporting for Small Business](Project_031959/README.md) |
+| 031960 | [Greenbone: Recovery Test — Usability Improvement for Small Business](Project_031960/README.md) |
 
 [Back to the portfolio home](../README.md)
