@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014258 | [AWS: Data Import — Recovery for Small Business](Project_014258/README.md) |
 | 014259 | [AWS: Data Import — Reporting for Small Business](Project_014259/README.md) |
 | 014260 | [AWS: Data Import — Usability Improvement for Small Business](Project_014260/README.md) |
+| 014261 | [AWS: Data Import — Baseline Setup for Home Development](Project_014261/README.md) |
+| 014262 | [AWS: Data Import — Automation for Home Development](Project_014262/README.md) |
+| 014263 | [AWS: Data Import — Recovery for Home Development](Project_014263/README.md) |
+| 014264 | [AWS: Data Import — Reporting for Home Development](Project_014264/README.md) |
+| 014265 | [AWS: Data Import — Usability Improvement for Home Development](Project_014265/README.md) |
+| 014266 | [AWS: Data Import — Baseline Setup for Public Dataset](Project_014266/README.md) |
+| 014267 | [AWS: Data Import — Automation for Public Dataset](Project_014267/README.md) |
+| 014268 | [AWS: Data Import — Recovery for Public Dataset](Project_014268/README.md) |
+| 014269 | [AWS: Data Import — Reporting for Public Dataset](Project_014269/README.md) |
+| 014270 | [AWS: Data Import — Usability Improvement for Public Dataset](Project_014270/README.md) |
+| 014271 | [AWS: Data Import — Baseline Setup for Branch Office Simulator](Project_014271/README.md) |
+| 014272 | [AWS: Data Import — Automation for Branch Office Simulator](Project_014272/README.md) |
+| 014273 | [AWS: Data Import — Recovery for Branch Office Simulator](Project_014273/README.md) |
+| 014274 | [AWS: Data Import — Reporting for Branch Office Simulator](Project_014274/README.md) |
+| 014275 | [AWS: Data Import — Usability Improvement for Branch Office Simulator](Project_014275/README.md) |
+| 014276 | [AWS: Data Import — Baseline Setup for Offline Classroom](Project_014276/README.md) |
+| 014277 | [AWS: Data Import — Automation for Offline Classroom](Project_014277/README.md) |
+| 014278 | [AWS: Data Import — Recovery for Offline Classroom](Project_014278/README.md) |
+| 014279 | [AWS: Data Import — Reporting for Offline Classroom](Project_014279/README.md) |
+| 014280 | [AWS: Data Import — Usability Improvement for Offline Classroom](Project_014280/README.md) |
 
 [Back to the portfolio home](../README.md)
