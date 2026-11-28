@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043518 | [Grafana: Access Review — Recovery for Public Dataset](Project_043518/README.md) |
 | 043519 | [Grafana: Access Review — Reporting for Public Dataset](Project_043519/README.md) |
 | 043520 | [Grafana: Access Review — Usability Improvement for Public Dataset](Project_043520/README.md) |
+| 043521 | [Grafana: Access Review — Baseline Setup for Branch Office Simulator](Project_043521/README.md) |
+| 043522 | [Grafana: Access Review — Automation for Branch Office Simulator](Project_043522/README.md) |
+| 043523 | [Grafana: Access Review — Recovery for Branch Office Simulator](Project_043523/README.md) |
+| 043524 | [Grafana: Access Review — Reporting for Branch Office Simulator](Project_043524/README.md) |
+| 043525 | [Grafana: Access Review — Usability Improvement for Branch Office Simulator](Project_043525/README.md) |
+| 043526 | [Grafana: Access Review — Baseline Setup for Offline Classroom](Project_043526/README.md) |
+| 043527 | [Grafana: Access Review — Automation for Offline Classroom](Project_043527/README.md) |
+| 043528 | [Grafana: Access Review — Recovery for Offline Classroom](Project_043528/README.md) |
+| 043529 | [Grafana: Access Review — Reporting for Offline Classroom](Project_043529/README.md) |
+| 043530 | [Grafana: Access Review — Usability Improvement for Offline Classroom](Project_043530/README.md) |
+| 043531 | [Grafana: Access Review — Baseline Setup for Single-Host Lab](Project_043531/README.md) |
+| 043532 | [Grafana: Access Review — Automation for Single-Host Lab](Project_043532/README.md) |
+| 043533 | [Grafana: Access Review — Recovery for Single-Host Lab](Project_043533/README.md) |
+| 043534 | [Grafana: Access Review — Reporting for Single-Host Lab](Project_043534/README.md) |
+| 043535 | [Grafana: Access Review — Usability Improvement for Single-Host Lab](Project_043535/README.md) |
+| 043536 | [Grafana: Access Review — Baseline Setup for Two-Node Lab](Project_043536/README.md) |
+| 043537 | [Grafana: Access Review — Automation for Two-Node Lab](Project_043537/README.md) |
+| 043538 | [Grafana: Access Review — Recovery for Two-Node Lab](Project_043538/README.md) |
+| 043539 | [Grafana: Access Review — Reporting for Two-Node Lab](Project_043539/README.md) |
+| 043540 | [Grafana: Access Review — Usability Improvement for Two-Node Lab](Project_043540/README.md) |
 
 [Back to the portfolio home](../README.md)
