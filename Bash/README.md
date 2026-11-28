@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039758 | [Bash: Data Validation — Recovery for Small Business](Project_039758/README.md) |
 | 039759 | [Bash: Data Validation — Reporting for Small Business](Project_039759/README.md) |
 | 039760 | [Bash: Data Validation — Usability Improvement for Small Business](Project_039760/README.md) |
+| 039761 | [Bash: Data Validation — Baseline Setup for Home Development](Project_039761/README.md) |
+| 039762 | [Bash: Data Validation — Automation for Home Development](Project_039762/README.md) |
+| 039763 | [Bash: Data Validation — Recovery for Home Development](Project_039763/README.md) |
+| 039764 | [Bash: Data Validation — Reporting for Home Development](Project_039764/README.md) |
+| 039765 | [Bash: Data Validation — Usability Improvement for Home Development](Project_039765/README.md) |
+| 039766 | [Bash: Data Validation — Baseline Setup for Public Dataset](Project_039766/README.md) |
+| 039767 | [Bash: Data Validation — Automation for Public Dataset](Project_039767/README.md) |
+| 039768 | [Bash: Data Validation — Recovery for Public Dataset](Project_039768/README.md) |
+| 039769 | [Bash: Data Validation — Reporting for Public Dataset](Project_039769/README.md) |
+| 039770 | [Bash: Data Validation — Usability Improvement for Public Dataset](Project_039770/README.md) |
+| 039771 | [Bash: Data Validation — Baseline Setup for Branch Office Simulator](Project_039771/README.md) |
+| 039772 | [Bash: Data Validation — Automation for Branch Office Simulator](Project_039772/README.md) |
+| 039773 | [Bash: Data Validation — Recovery for Branch Office Simulator](Project_039773/README.md) |
+| 039774 | [Bash: Data Validation — Reporting for Branch Office Simulator](Project_039774/README.md) |
+| 039775 | [Bash: Data Validation — Usability Improvement for Branch Office Simulator](Project_039775/README.md) |
+| 039776 | [Bash: Data Validation — Baseline Setup for Offline Classroom](Project_039776/README.md) |
+| 039777 | [Bash: Data Validation — Automation for Offline Classroom](Project_039777/README.md) |
+| 039778 | [Bash: Data Validation — Recovery for Offline Classroom](Project_039778/README.md) |
+| 039779 | [Bash: Data Validation — Reporting for Offline Classroom](Project_039779/README.md) |
+| 039780 | [Bash: Data Validation — Usability Improvement for Offline Classroom](Project_039780/README.md) |
 
 [Back to the portfolio home](../README.md)
