@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018218 | [Kubernetes: Backup Verification — Recovery for Public Dataset](Project_018218/README.md) |
 | 018219 | [Kubernetes: Backup Verification — Reporting for Public Dataset](Project_018219/README.md) |
 | 018220 | [Kubernetes: Backup Verification — Usability Improvement for Public Dataset](Project_018220/README.md) |
+| 018221 | [Kubernetes: Backup Verification — Baseline Setup for Branch Office Simulator](Project_018221/README.md) |
+| 018222 | [Kubernetes: Backup Verification — Automation for Branch Office Simulator](Project_018222/README.md) |
+| 018223 | [Kubernetes: Backup Verification — Recovery for Branch Office Simulator](Project_018223/README.md) |
+| 018224 | [Kubernetes: Backup Verification — Reporting for Branch Office Simulator](Project_018224/README.md) |
+| 018225 | [Kubernetes: Backup Verification — Usability Improvement for Branch Office Simulator](Project_018225/README.md) |
+| 018226 | [Kubernetes: Backup Verification — Baseline Setup for Offline Classroom](Project_018226/README.md) |
+| 018227 | [Kubernetes: Backup Verification — Automation for Offline Classroom](Project_018227/README.md) |
+| 018228 | [Kubernetes: Backup Verification — Recovery for Offline Classroom](Project_018228/README.md) |
+| 018229 | [Kubernetes: Backup Verification — Reporting for Offline Classroom](Project_018229/README.md) |
+| 018230 | [Kubernetes: Backup Verification — Usability Improvement for Offline Classroom](Project_018230/README.md) |
+| 018231 | [Kubernetes: Backup Verification — Baseline Setup for Single-Host Lab](Project_018231/README.md) |
+| 018232 | [Kubernetes: Backup Verification — Automation for Single-Host Lab](Project_018232/README.md) |
+| 018233 | [Kubernetes: Backup Verification — Recovery for Single-Host Lab](Project_018233/README.md) |
+| 018234 | [Kubernetes: Backup Verification — Reporting for Single-Host Lab](Project_018234/README.md) |
+| 018235 | [Kubernetes: Backup Verification — Usability Improvement for Single-Host Lab](Project_018235/README.md) |
+| 018236 | [Kubernetes: Backup Verification — Baseline Setup for Two-Node Lab](Project_018236/README.md) |
+| 018237 | [Kubernetes: Backup Verification — Automation for Two-Node Lab](Project_018237/README.md) |
+| 018238 | [Kubernetes: Backup Verification — Recovery for Two-Node Lab](Project_018238/README.md) |
+| 018239 | [Kubernetes: Backup Verification — Reporting for Two-Node Lab](Project_018239/README.md) |
+| 018240 | [Kubernetes: Backup Verification — Usability Improvement for Two-Node Lab](Project_018240/README.md) |
 
 [Back to the portfolio home](../README.md)
