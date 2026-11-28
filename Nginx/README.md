@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041578 | [Nginx: Performance Baseline — Recovery for Offline Classroom](Project_041578/README.md) |
 | 041579 | [Nginx: Performance Baseline — Reporting for Offline Classroom](Project_041579/README.md) |
 | 041580 | [Nginx: Performance Baseline — Usability Improvement for Offline Classroom](Project_041580/README.md) |
+| 041581 | [Nginx: Performance Baseline — Baseline Setup for Single-Host Lab](Project_041581/README.md) |
+| 041582 | [Nginx: Performance Baseline — Automation for Single-Host Lab](Project_041582/README.md) |
+| 041583 | [Nginx: Performance Baseline — Recovery for Single-Host Lab](Project_041583/README.md) |
+| 041584 | [Nginx: Performance Baseline — Reporting for Single-Host Lab](Project_041584/README.md) |
+| 041585 | [Nginx: Performance Baseline — Usability Improvement for Single-Host Lab](Project_041585/README.md) |
+| 041586 | [Nginx: Performance Baseline — Baseline Setup for Two-Node Lab](Project_041586/README.md) |
+| 041587 | [Nginx: Performance Baseline — Automation for Two-Node Lab](Project_041587/README.md) |
+| 041588 | [Nginx: Performance Baseline — Recovery for Two-Node Lab](Project_041588/README.md) |
+| 041589 | [Nginx: Performance Baseline — Reporting for Two-Node Lab](Project_041589/README.md) |
+| 041590 | [Nginx: Performance Baseline — Usability Improvement for Two-Node Lab](Project_041590/README.md) |
+| 041591 | [Nginx: Performance Baseline — Baseline Setup for Help Desk](Project_041591/README.md) |
+| 041592 | [Nginx: Performance Baseline — Automation for Help Desk](Project_041592/README.md) |
+| 041593 | [Nginx: Performance Baseline — Recovery for Help Desk](Project_041593/README.md) |
+| 041594 | [Nginx: Performance Baseline — Reporting for Help Desk](Project_041594/README.md) |
+| 041595 | [Nginx: Performance Baseline — Usability Improvement for Help Desk](Project_041595/README.md) |
+| 041596 | [Nginx: Performance Baseline — Baseline Setup for Portfolio Demo](Project_041596/README.md) |
+| 041597 | [Nginx: Performance Baseline — Automation for Portfolio Demo](Project_041597/README.md) |
+| 041598 | [Nginx: Performance Baseline — Recovery for Portfolio Demo](Project_041598/README.md) |
+| 041599 | [Nginx: Performance Baseline — Reporting for Portfolio Demo](Project_041599/README.md) |
+| 041600 | [Nginx: Performance Baseline — Usability Improvement for Portfolio Demo](Project_041600/README.md) |
 
 [Back to the portfolio home](../README.md)
