@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040518 | [PowerShell: Access Review — Recovery for Public Dataset](Project_040518/README.md) |
 | 040519 | [PowerShell: Access Review — Reporting for Public Dataset](Project_040519/README.md) |
 | 040520 | [PowerShell: Access Review — Usability Improvement for Public Dataset](Project_040520/README.md) |
+| 040521 | [PowerShell: Access Review — Baseline Setup for Branch Office Simulator](Project_040521/README.md) |
+| 040522 | [PowerShell: Access Review — Automation for Branch Office Simulator](Project_040522/README.md) |
+| 040523 | [PowerShell: Access Review — Recovery for Branch Office Simulator](Project_040523/README.md) |
+| 040524 | [PowerShell: Access Review — Reporting for Branch Office Simulator](Project_040524/README.md) |
+| 040525 | [PowerShell: Access Review — Usability Improvement for Branch Office Simulator](Project_040525/README.md) |
+| 040526 | [PowerShell: Access Review — Baseline Setup for Offline Classroom](Project_040526/README.md) |
+| 040527 | [PowerShell: Access Review — Automation for Offline Classroom](Project_040527/README.md) |
+| 040528 | [PowerShell: Access Review — Recovery for Offline Classroom](Project_040528/README.md) |
+| 040529 | [PowerShell: Access Review — Reporting for Offline Classroom](Project_040529/README.md) |
+| 040530 | [PowerShell: Access Review — Usability Improvement for Offline Classroom](Project_040530/README.md) |
+| 040531 | [PowerShell: Access Review — Baseline Setup for Single-Host Lab](Project_040531/README.md) |
+| 040532 | [PowerShell: Access Review — Automation for Single-Host Lab](Project_040532/README.md) |
+| 040533 | [PowerShell: Access Review — Recovery for Single-Host Lab](Project_040533/README.md) |
+| 040534 | [PowerShell: Access Review — Reporting for Single-Host Lab](Project_040534/README.md) |
+| 040535 | [PowerShell: Access Review — Usability Improvement for Single-Host Lab](Project_040535/README.md) |
+| 040536 | [PowerShell: Access Review — Baseline Setup for Two-Node Lab](Project_040536/README.md) |
+| 040537 | [PowerShell: Access Review — Automation for Two-Node Lab](Project_040537/README.md) |
+| 040538 | [PowerShell: Access Review — Recovery for Two-Node Lab](Project_040538/README.md) |
+| 040539 | [PowerShell: Access Review — Reporting for Two-Node Lab](Project_040539/README.md) |
+| 040540 | [PowerShell: Access Review — Usability Improvement for Two-Node Lab](Project_040540/README.md) |
 
 [Back to the portfolio home](../README.md)
