@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015718 | [Azure: Error Handling — Recovery for Public Dataset](Project_015718/README.md) |
 | 015719 | [Azure: Error Handling — Reporting for Public Dataset](Project_015719/README.md) |
 | 015720 | [Azure: Error Handling — Usability Improvement for Public Dataset](Project_015720/README.md) |
+| 015721 | [Azure: Error Handling — Baseline Setup for Branch Office Simulator](Project_015721/README.md) |
+| 015722 | [Azure: Error Handling — Automation for Branch Office Simulator](Project_015722/README.md) |
+| 015723 | [Azure: Error Handling — Recovery for Branch Office Simulator](Project_015723/README.md) |
+| 015724 | [Azure: Error Handling — Reporting for Branch Office Simulator](Project_015724/README.md) |
+| 015725 | [Azure: Error Handling — Usability Improvement for Branch Office Simulator](Project_015725/README.md) |
+| 015726 | [Azure: Error Handling — Baseline Setup for Offline Classroom](Project_015726/README.md) |
+| 015727 | [Azure: Error Handling — Automation for Offline Classroom](Project_015727/README.md) |
+| 015728 | [Azure: Error Handling — Recovery for Offline Classroom](Project_015728/README.md) |
+| 015729 | [Azure: Error Handling — Reporting for Offline Classroom](Project_015729/README.md) |
+| 015730 | [Azure: Error Handling — Usability Improvement for Offline Classroom](Project_015730/README.md) |
+| 015731 | [Azure: Error Handling — Baseline Setup for Single-Host Lab](Project_015731/README.md) |
+| 015732 | [Azure: Error Handling — Automation for Single-Host Lab](Project_015732/README.md) |
+| 015733 | [Azure: Error Handling — Recovery for Single-Host Lab](Project_015733/README.md) |
+| 015734 | [Azure: Error Handling — Reporting for Single-Host Lab](Project_015734/README.md) |
+| 015735 | [Azure: Error Handling — Usability Improvement for Single-Host Lab](Project_015735/README.md) |
+| 015736 | [Azure: Error Handling — Baseline Setup for Two-Node Lab](Project_015736/README.md) |
+| 015737 | [Azure: Error Handling — Automation for Two-Node Lab](Project_015737/README.md) |
+| 015738 | [Azure: Error Handling — Recovery for Two-Node Lab](Project_015738/README.md) |
+| 015739 | [Azure: Error Handling — Reporting for Two-Node Lab](Project_015739/README.md) |
+| 015740 | [Azure: Error Handling — Usability Improvement for Two-Node Lab](Project_015740/README.md) |
 
 [Back to the portfolio home](../README.md)
