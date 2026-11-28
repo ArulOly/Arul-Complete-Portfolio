@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018398 | [Kubernetes: Dashboard — Recovery for Portfolio Demo](Project_018398/README.md) |
 | 018399 | [Kubernetes: Dashboard — Reporting for Portfolio Demo](Project_018399/README.md) |
 | 018400 | [Kubernetes: Dashboard — Usability Improvement for Portfolio Demo](Project_018400/README.md) |
+| 018401 | [Kubernetes: Alerting — Baseline Setup for School Lab](Project_018401/README.md) |
+| 018402 | [Kubernetes: Alerting — Automation for School Lab](Project_018402/README.md) |
+| 018403 | [Kubernetes: Alerting — Recovery for School Lab](Project_018403/README.md) |
+| 018404 | [Kubernetes: Alerting — Reporting for School Lab](Project_018404/README.md) |
+| 018405 | [Kubernetes: Alerting — Usability Improvement for School Lab](Project_018405/README.md) |
+| 018406 | [Kubernetes: Alerting — Baseline Setup for Small Business](Project_018406/README.md) |
+| 018407 | [Kubernetes: Alerting — Automation for Small Business](Project_018407/README.md) |
+| 018408 | [Kubernetes: Alerting — Recovery for Small Business](Project_018408/README.md) |
+| 018409 | [Kubernetes: Alerting — Reporting for Small Business](Project_018409/README.md) |
+| 018410 | [Kubernetes: Alerting — Usability Improvement for Small Business](Project_018410/README.md) |
+| 018411 | [Kubernetes: Alerting — Baseline Setup for Home Development](Project_018411/README.md) |
+| 018412 | [Kubernetes: Alerting — Automation for Home Development](Project_018412/README.md) |
+| 018413 | [Kubernetes: Alerting — Recovery for Home Development](Project_018413/README.md) |
+| 018414 | [Kubernetes: Alerting — Reporting for Home Development](Project_018414/README.md) |
+| 018415 | [Kubernetes: Alerting — Usability Improvement for Home Development](Project_018415/README.md) |
+| 018416 | [Kubernetes: Alerting — Baseline Setup for Public Dataset](Project_018416/README.md) |
+| 018417 | [Kubernetes: Alerting — Automation for Public Dataset](Project_018417/README.md) |
+| 018418 | [Kubernetes: Alerting — Recovery for Public Dataset](Project_018418/README.md) |
+| 018419 | [Kubernetes: Alerting — Reporting for Public Dataset](Project_018419/README.md) |
+| 018420 | [Kubernetes: Alerting — Usability Improvement for Public Dataset](Project_018420/README.md) |
 
 [Back to the portfolio home](../README.md)
