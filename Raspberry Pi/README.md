@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035478 | [Raspberry Pi: Scheduled Reporting — Recovery for Offline Classroom](Project_035478/README.md) |
 | 035479 | [Raspberry Pi: Scheduled Reporting — Reporting for Offline Classroom](Project_035479/README.md) |
 | 035480 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_035480/README.md) |
+| 035481 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_035481/README.md) |
+| 035482 | [Raspberry Pi: Scheduled Reporting — Automation for Single-Host Lab](Project_035482/README.md) |
+| 035483 | [Raspberry Pi: Scheduled Reporting — Recovery for Single-Host Lab](Project_035483/README.md) |
+| 035484 | [Raspberry Pi: Scheduled Reporting — Reporting for Single-Host Lab](Project_035484/README.md) |
+| 035485 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_035485/README.md) |
+| 035486 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_035486/README.md) |
+| 035487 | [Raspberry Pi: Scheduled Reporting — Automation for Two-Node Lab](Project_035487/README.md) |
+| 035488 | [Raspberry Pi: Scheduled Reporting — Recovery for Two-Node Lab](Project_035488/README.md) |
+| 035489 | [Raspberry Pi: Scheduled Reporting — Reporting for Two-Node Lab](Project_035489/README.md) |
+| 035490 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_035490/README.md) |
+| 035491 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Help Desk](Project_035491/README.md) |
+| 035492 | [Raspberry Pi: Scheduled Reporting — Automation for Help Desk](Project_035492/README.md) |
+| 035493 | [Raspberry Pi: Scheduled Reporting — Recovery for Help Desk](Project_035493/README.md) |
+| 035494 | [Raspberry Pi: Scheduled Reporting — Reporting for Help Desk](Project_035494/README.md) |
+| 035495 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Help Desk](Project_035495/README.md) |
+| 035496 | [Raspberry Pi: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_035496/README.md) |
+| 035497 | [Raspberry Pi: Scheduled Reporting — Automation for Portfolio Demo](Project_035497/README.md) |
+| 035498 | [Raspberry Pi: Scheduled Reporting — Recovery for Portfolio Demo](Project_035498/README.md) |
+| 035499 | [Raspberry Pi: Scheduled Reporting — Reporting for Portfolio Demo](Project_035499/README.md) |
+| 035500 | [Raspberry Pi: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_035500/README.md) |
 
 [Back to the portfolio home](../README.md)
