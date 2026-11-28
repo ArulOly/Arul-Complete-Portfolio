@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040678 | [PowerShell: Configuration Comparison — Recovery for Offline Classroom](Project_040678/README.md) |
 | 040679 | [PowerShell: Configuration Comparison — Reporting for Offline Classroom](Project_040679/README.md) |
 | 040680 | [PowerShell: Configuration Comparison — Usability Improvement for Offline Classroom](Project_040680/README.md) |
+| 040681 | [PowerShell: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_040681/README.md) |
+| 040682 | [PowerShell: Configuration Comparison — Automation for Single-Host Lab](Project_040682/README.md) |
+| 040683 | [PowerShell: Configuration Comparison — Recovery for Single-Host Lab](Project_040683/README.md) |
+| 040684 | [PowerShell: Configuration Comparison — Reporting for Single-Host Lab](Project_040684/README.md) |
+| 040685 | [PowerShell: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_040685/README.md) |
+| 040686 | [PowerShell: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_040686/README.md) |
+| 040687 | [PowerShell: Configuration Comparison — Automation for Two-Node Lab](Project_040687/README.md) |
+| 040688 | [PowerShell: Configuration Comparison — Recovery for Two-Node Lab](Project_040688/README.md) |
+| 040689 | [PowerShell: Configuration Comparison — Reporting for Two-Node Lab](Project_040689/README.md) |
+| 040690 | [PowerShell: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_040690/README.md) |
+| 040691 | [PowerShell: Configuration Comparison — Baseline Setup for Help Desk](Project_040691/README.md) |
+| 040692 | [PowerShell: Configuration Comparison — Automation for Help Desk](Project_040692/README.md) |
+| 040693 | [PowerShell: Configuration Comparison — Recovery for Help Desk](Project_040693/README.md) |
+| 040694 | [PowerShell: Configuration Comparison — Reporting for Help Desk](Project_040694/README.md) |
+| 040695 | [PowerShell: Configuration Comparison — Usability Improvement for Help Desk](Project_040695/README.md) |
+| 040696 | [PowerShell: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_040696/README.md) |
+| 040697 | [PowerShell: Configuration Comparison — Automation for Portfolio Demo](Project_040697/README.md) |
+| 040698 | [PowerShell: Configuration Comparison — Recovery for Portfolio Demo](Project_040698/README.md) |
+| 040699 | [PowerShell: Configuration Comparison — Reporting for Portfolio Demo](Project_040699/README.md) |
+| 040700 | [PowerShell: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_040700/README.md) |
 
 [Back to the portfolio home](../README.md)
