@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046258 | [Terraform: Data Import — Recovery for Small Business](Project_046258/README.md) |
 | 046259 | [Terraform: Data Import — Reporting for Small Business](Project_046259/README.md) |
 | 046260 | [Terraform: Data Import — Usability Improvement for Small Business](Project_046260/README.md) |
+| 046261 | [Terraform: Data Import — Baseline Setup for Home Development](Project_046261/README.md) |
+| 046262 | [Terraform: Data Import — Automation for Home Development](Project_046262/README.md) |
+| 046263 | [Terraform: Data Import — Recovery for Home Development](Project_046263/README.md) |
+| 046264 | [Terraform: Data Import — Reporting for Home Development](Project_046264/README.md) |
+| 046265 | [Terraform: Data Import — Usability Improvement for Home Development](Project_046265/README.md) |
+| 046266 | [Terraform: Data Import — Baseline Setup for Public Dataset](Project_046266/README.md) |
+| 046267 | [Terraform: Data Import — Automation for Public Dataset](Project_046267/README.md) |
+| 046268 | [Terraform: Data Import — Recovery for Public Dataset](Project_046268/README.md) |
+| 046269 | [Terraform: Data Import — Reporting for Public Dataset](Project_046269/README.md) |
+| 046270 | [Terraform: Data Import — Usability Improvement for Public Dataset](Project_046270/README.md) |
+| 046271 | [Terraform: Data Import — Baseline Setup for Branch Office Simulator](Project_046271/README.md) |
+| 046272 | [Terraform: Data Import — Automation for Branch Office Simulator](Project_046272/README.md) |
+| 046273 | [Terraform: Data Import — Recovery for Branch Office Simulator](Project_046273/README.md) |
+| 046274 | [Terraform: Data Import — Reporting for Branch Office Simulator](Project_046274/README.md) |
+| 046275 | [Terraform: Data Import — Usability Improvement for Branch Office Simulator](Project_046275/README.md) |
+| 046276 | [Terraform: Data Import — Baseline Setup for Offline Classroom](Project_046276/README.md) |
+| 046277 | [Terraform: Data Import — Automation for Offline Classroom](Project_046277/README.md) |
+| 046278 | [Terraform: Data Import — Recovery for Offline Classroom](Project_046278/README.md) |
+| 046279 | [Terraform: Data Import — Reporting for Offline Classroom](Project_046279/README.md) |
+| 046280 | [Terraform: Data Import — Usability Improvement for Offline Classroom](Project_046280/README.md) |
 
 [Back to the portfolio home](../README.md)
