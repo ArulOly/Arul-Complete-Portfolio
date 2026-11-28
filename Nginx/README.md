@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041838 | [Nginx: Documentation Generation — Recovery for Two-Node Lab](Project_041838/README.md) |
 | 041839 | [Nginx: Documentation Generation — Reporting for Two-Node Lab](Project_041839/README.md) |
 | 041840 | [Nginx: Documentation Generation — Usability Improvement for Two-Node Lab](Project_041840/README.md) |
+| 041841 | [Nginx: Documentation Generation — Baseline Setup for Help Desk](Project_041841/README.md) |
+| 041842 | [Nginx: Documentation Generation — Automation for Help Desk](Project_041842/README.md) |
+| 041843 | [Nginx: Documentation Generation — Recovery for Help Desk](Project_041843/README.md) |
+| 041844 | [Nginx: Documentation Generation — Reporting for Help Desk](Project_041844/README.md) |
+| 041845 | [Nginx: Documentation Generation — Usability Improvement for Help Desk](Project_041845/README.md) |
+| 041846 | [Nginx: Documentation Generation — Baseline Setup for Portfolio Demo](Project_041846/README.md) |
+| 041847 | [Nginx: Documentation Generation — Automation for Portfolio Demo](Project_041847/README.md) |
+| 041848 | [Nginx: Documentation Generation — Recovery for Portfolio Demo](Project_041848/README.md) |
+| 041849 | [Nginx: Documentation Generation — Reporting for Portfolio Demo](Project_041849/README.md) |
+| 041850 | [Nginx: Documentation Generation — Usability Improvement for Portfolio Demo](Project_041850/README.md) |
+| 041851 | [Nginx: Automation — Baseline Setup for School Lab](Project_041851/README.md) |
+| 041852 | [Nginx: Automation — Automation for School Lab](Project_041852/README.md) |
+| 041853 | [Nginx: Automation — Recovery for School Lab](Project_041853/README.md) |
+| 041854 | [Nginx: Automation — Reporting for School Lab](Project_041854/README.md) |
+| 041855 | [Nginx: Automation — Usability Improvement for School Lab](Project_041855/README.md) |
+| 041856 | [Nginx: Automation — Baseline Setup for Small Business](Project_041856/README.md) |
+| 041857 | [Nginx: Automation — Automation for Small Business](Project_041857/README.md) |
+| 041858 | [Nginx: Automation — Recovery for Small Business](Project_041858/README.md) |
+| 041859 | [Nginx: Automation — Reporting for Small Business](Project_041859/README.md) |
+| 041860 | [Nginx: Automation — Usability Improvement for Small Business](Project_041860/README.md) |
 
 [Back to the portfolio home](../README.md)
