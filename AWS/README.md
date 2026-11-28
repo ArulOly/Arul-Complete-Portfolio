@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014318 | [AWS: Data Export — Recovery for Public Dataset](Project_014318/README.md) |
 | 014319 | [AWS: Data Export — Reporting for Public Dataset](Project_014319/README.md) |
 | 014320 | [AWS: Data Export — Usability Improvement for Public Dataset](Project_014320/README.md) |
+| 014321 | [AWS: Data Export — Baseline Setup for Branch Office Simulator](Project_014321/README.md) |
+| 014322 | [AWS: Data Export — Automation for Branch Office Simulator](Project_014322/README.md) |
+| 014323 | [AWS: Data Export — Recovery for Branch Office Simulator](Project_014323/README.md) |
+| 014324 | [AWS: Data Export — Reporting for Branch Office Simulator](Project_014324/README.md) |
+| 014325 | [AWS: Data Export — Usability Improvement for Branch Office Simulator](Project_014325/README.md) |
+| 014326 | [AWS: Data Export — Baseline Setup for Offline Classroom](Project_014326/README.md) |
+| 014327 | [AWS: Data Export — Automation for Offline Classroom](Project_014327/README.md) |
+| 014328 | [AWS: Data Export — Recovery for Offline Classroom](Project_014328/README.md) |
+| 014329 | [AWS: Data Export — Reporting for Offline Classroom](Project_014329/README.md) |
+| 014330 | [AWS: Data Export — Usability Improvement for Offline Classroom](Project_014330/README.md) |
+| 014331 | [AWS: Data Export — Baseline Setup for Single-Host Lab](Project_014331/README.md) |
+| 014332 | [AWS: Data Export — Automation for Single-Host Lab](Project_014332/README.md) |
+| 014333 | [AWS: Data Export — Recovery for Single-Host Lab](Project_014333/README.md) |
+| 014334 | [AWS: Data Export — Reporting for Single-Host Lab](Project_014334/README.md) |
+| 014335 | [AWS: Data Export — Usability Improvement for Single-Host Lab](Project_014335/README.md) |
+| 014336 | [AWS: Data Export — Baseline Setup for Two-Node Lab](Project_014336/README.md) |
+| 014337 | [AWS: Data Export — Automation for Two-Node Lab](Project_014337/README.md) |
+| 014338 | [AWS: Data Export — Recovery for Two-Node Lab](Project_014338/README.md) |
+| 014339 | [AWS: Data Export — Reporting for Two-Node Lab](Project_014339/README.md) |
+| 014340 | [AWS: Data Export — Usability Improvement for Two-Node Lab](Project_014340/README.md) |
 
 [Back to the portfolio home](../README.md)
