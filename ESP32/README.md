@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036738 | [ESP32: Error Handling — Recovery for Two-Node Lab](Project_036738/README.md) |
 | 036739 | [ESP32: Error Handling — Reporting for Two-Node Lab](Project_036739/README.md) |
 | 036740 | [ESP32: Error Handling — Usability Improvement for Two-Node Lab](Project_036740/README.md) |
+| 036741 | [ESP32: Error Handling — Baseline Setup for Help Desk](Project_036741/README.md) |
+| 036742 | [ESP32: Error Handling — Automation for Help Desk](Project_036742/README.md) |
+| 036743 | [ESP32: Error Handling — Recovery for Help Desk](Project_036743/README.md) |
+| 036744 | [ESP32: Error Handling — Reporting for Help Desk](Project_036744/README.md) |
+| 036745 | [ESP32: Error Handling — Usability Improvement for Help Desk](Project_036745/README.md) |
+| 036746 | [ESP32: Error Handling — Baseline Setup for Portfolio Demo](Project_036746/README.md) |
+| 036747 | [ESP32: Error Handling — Automation for Portfolio Demo](Project_036747/README.md) |
+| 036748 | [ESP32: Error Handling — Recovery for Portfolio Demo](Project_036748/README.md) |
+| 036749 | [ESP32: Error Handling — Reporting for Portfolio Demo](Project_036749/README.md) |
+| 036750 | [ESP32: Error Handling — Usability Improvement for Portfolio Demo](Project_036750/README.md) |
+| 036751 | [ESP32: Data Validation — Baseline Setup for School Lab](Project_036751/README.md) |
+| 036752 | [ESP32: Data Validation — Automation for School Lab](Project_036752/README.md) |
+| 036753 | [ESP32: Data Validation — Recovery for School Lab](Project_036753/README.md) |
+| 036754 | [ESP32: Data Validation — Reporting for School Lab](Project_036754/README.md) |
+| 036755 | [ESP32: Data Validation — Usability Improvement for School Lab](Project_036755/README.md) |
+| 036756 | [ESP32: Data Validation — Baseline Setup for Small Business](Project_036756/README.md) |
+| 036757 | [ESP32: Data Validation — Automation for Small Business](Project_036757/README.md) |
+| 036758 | [ESP32: Data Validation — Recovery for Small Business](Project_036758/README.md) |
+| 036759 | [ESP32: Data Validation — Reporting for Small Business](Project_036759/README.md) |
+| 036760 | [ESP32: Data Validation — Usability Improvement for Small Business](Project_036760/README.md) |
 
 [Back to the portfolio home](../README.md)
