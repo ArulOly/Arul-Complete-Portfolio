@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035838 | [Raspberry Pi: Documentation Generation — Recovery for Two-Node Lab](Project_035838/README.md) |
 | 035839 | [Raspberry Pi: Documentation Generation — Reporting for Two-Node Lab](Project_035839/README.md) |
 | 035840 | [Raspberry Pi: Documentation Generation — Usability Improvement for Two-Node Lab](Project_035840/README.md) |
+| 035841 | [Raspberry Pi: Documentation Generation — Baseline Setup for Help Desk](Project_035841/README.md) |
+| 035842 | [Raspberry Pi: Documentation Generation — Automation for Help Desk](Project_035842/README.md) |
+| 035843 | [Raspberry Pi: Documentation Generation — Recovery for Help Desk](Project_035843/README.md) |
+| 035844 | [Raspberry Pi: Documentation Generation — Reporting for Help Desk](Project_035844/README.md) |
+| 035845 | [Raspberry Pi: Documentation Generation — Usability Improvement for Help Desk](Project_035845/README.md) |
+| 035846 | [Raspberry Pi: Documentation Generation — Baseline Setup for Portfolio Demo](Project_035846/README.md) |
+| 035847 | [Raspberry Pi: Documentation Generation — Automation for Portfolio Demo](Project_035847/README.md) |
+| 035848 | [Raspberry Pi: Documentation Generation — Recovery for Portfolio Demo](Project_035848/README.md) |
+| 035849 | [Raspberry Pi: Documentation Generation — Reporting for Portfolio Demo](Project_035849/README.md) |
+| 035850 | [Raspberry Pi: Documentation Generation — Usability Improvement for Portfolio Demo](Project_035850/README.md) |
+| 035851 | [Raspberry Pi: Automation — Baseline Setup for School Lab](Project_035851/README.md) |
+| 035852 | [Raspberry Pi: Automation — Automation for School Lab](Project_035852/README.md) |
+| 035853 | [Raspberry Pi: Automation — Recovery for School Lab](Project_035853/README.md) |
+| 035854 | [Raspberry Pi: Automation — Reporting for School Lab](Project_035854/README.md) |
+| 035855 | [Raspberry Pi: Automation — Usability Improvement for School Lab](Project_035855/README.md) |
+| 035856 | [Raspberry Pi: Automation — Baseline Setup for Small Business](Project_035856/README.md) |
+| 035857 | [Raspberry Pi: Automation — Automation for Small Business](Project_035857/README.md) |
+| 035858 | [Raspberry Pi: Automation — Recovery for Small Business](Project_035858/README.md) |
+| 035859 | [Raspberry Pi: Automation — Reporting for Small Business](Project_035859/README.md) |
+| 035860 | [Raspberry Pi: Automation — Usability Improvement for Small Business](Project_035860/README.md) |
 
 [Back to the portfolio home](../README.md)
