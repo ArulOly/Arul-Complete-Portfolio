@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038658 | [Git: Configuration Comparison — Recovery for Small Business](Project_038658/README.md) |
 | 038659 | [Git: Configuration Comparison — Reporting for Small Business](Project_038659/README.md) |
 | 038660 | [Git: Configuration Comparison — Usability Improvement for Small Business](Project_038660/README.md) |
+| 038661 | [Git: Configuration Comparison — Baseline Setup for Home Development](Project_038661/README.md) |
+| 038662 | [Git: Configuration Comparison — Automation for Home Development](Project_038662/README.md) |
+| 038663 | [Git: Configuration Comparison — Recovery for Home Development](Project_038663/README.md) |
+| 038664 | [Git: Configuration Comparison — Reporting for Home Development](Project_038664/README.md) |
+| 038665 | [Git: Configuration Comparison — Usability Improvement for Home Development](Project_038665/README.md) |
+| 038666 | [Git: Configuration Comparison — Baseline Setup for Public Dataset](Project_038666/README.md) |
+| 038667 | [Git: Configuration Comparison — Automation for Public Dataset](Project_038667/README.md) |
+| 038668 | [Git: Configuration Comparison — Recovery for Public Dataset](Project_038668/README.md) |
+| 038669 | [Git: Configuration Comparison — Reporting for Public Dataset](Project_038669/README.md) |
+| 038670 | [Git: Configuration Comparison — Usability Improvement for Public Dataset](Project_038670/README.md) |
+| 038671 | [Git: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_038671/README.md) |
+| 038672 | [Git: Configuration Comparison — Automation for Branch Office Simulator](Project_038672/README.md) |
+| 038673 | [Git: Configuration Comparison — Recovery for Branch Office Simulator](Project_038673/README.md) |
+| 038674 | [Git: Configuration Comparison — Reporting for Branch Office Simulator](Project_038674/README.md) |
+| 038675 | [Git: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_038675/README.md) |
+| 038676 | [Git: Configuration Comparison — Baseline Setup for Offline Classroom](Project_038676/README.md) |
+| 038677 | [Git: Configuration Comparison — Automation for Offline Classroom](Project_038677/README.md) |
+| 038678 | [Git: Configuration Comparison — Recovery for Offline Classroom](Project_038678/README.md) |
+| 038679 | [Git: Configuration Comparison — Reporting for Offline Classroom](Project_038679/README.md) |
+| 038680 | [Git: Configuration Comparison — Usability Improvement for Offline Classroom](Project_038680/README.md) |
 
 [Back to the portfolio home](../README.md)
