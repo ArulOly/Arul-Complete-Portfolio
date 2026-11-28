@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014138 | [AWS: Audit — Recovery for Two-Node Lab](Project_014138/README.md) |
 | 014139 | [AWS: Audit — Reporting for Two-Node Lab](Project_014139/README.md) |
 | 014140 | [AWS: Audit — Usability Improvement for Two-Node Lab](Project_014140/README.md) |
+| 014141 | [AWS: Audit — Baseline Setup for Help Desk](Project_014141/README.md) |
+| 014142 | [AWS: Audit — Automation for Help Desk](Project_014142/README.md) |
+| 014143 | [AWS: Audit — Recovery for Help Desk](Project_014143/README.md) |
+| 014144 | [AWS: Audit — Reporting for Help Desk](Project_014144/README.md) |
+| 014145 | [AWS: Audit — Usability Improvement for Help Desk](Project_014145/README.md) |
+| 014146 | [AWS: Audit — Baseline Setup for Portfolio Demo](Project_014146/README.md) |
+| 014147 | [AWS: Audit — Automation for Portfolio Demo](Project_014147/README.md) |
+| 014148 | [AWS: Audit — Recovery for Portfolio Demo](Project_014148/README.md) |
+| 014149 | [AWS: Audit — Reporting for Portfolio Demo](Project_014149/README.md) |
+| 014150 | [AWS: Audit — Usability Improvement for Portfolio Demo](Project_014150/README.md) |
+| 014151 | [AWS: Log Analysis — Baseline Setup for School Lab](Project_014151/README.md) |
+| 014152 | [AWS: Log Analysis — Automation for School Lab](Project_014152/README.md) |
+| 014153 | [AWS: Log Analysis — Recovery for School Lab](Project_014153/README.md) |
+| 014154 | [AWS: Log Analysis — Reporting for School Lab](Project_014154/README.md) |
+| 014155 | [AWS: Log Analysis — Usability Improvement for School Lab](Project_014155/README.md) |
+| 014156 | [AWS: Log Analysis — Baseline Setup for Small Business](Project_014156/README.md) |
+| 014157 | [AWS: Log Analysis — Automation for Small Business](Project_014157/README.md) |
+| 014158 | [AWS: Log Analysis — Recovery for Small Business](Project_014158/README.md) |
+| 014159 | [AWS: Log Analysis — Reporting for Small Business](Project_014159/README.md) |
+| 014160 | [AWS: Log Analysis — Usability Improvement for Small Business](Project_014160/README.md) |
 
 [Back to the portfolio home](../README.md)
