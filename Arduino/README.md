@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037898 | [Arduino: Automation — Recovery for Portfolio Demo](Project_037898/README.md) |
 | 037899 | [Arduino: Automation — Reporting for Portfolio Demo](Project_037899/README.md) |
 | 037900 | [Arduino: Automation — Usability Improvement for Portfolio Demo](Project_037900/README.md) |
+| 037901 | [Arduino: Visual Reporting — Baseline Setup for School Lab](Project_037901/README.md) |
+| 037902 | [Arduino: Visual Reporting — Automation for School Lab](Project_037902/README.md) |
+| 037903 | [Arduino: Visual Reporting — Recovery for School Lab](Project_037903/README.md) |
+| 037904 | [Arduino: Visual Reporting — Reporting for School Lab](Project_037904/README.md) |
+| 037905 | [Arduino: Visual Reporting — Usability Improvement for School Lab](Project_037905/README.md) |
+| 037906 | [Arduino: Visual Reporting — Baseline Setup for Small Business](Project_037906/README.md) |
+| 037907 | [Arduino: Visual Reporting — Automation for Small Business](Project_037907/README.md) |
+| 037908 | [Arduino: Visual Reporting — Recovery for Small Business](Project_037908/README.md) |
+| 037909 | [Arduino: Visual Reporting — Reporting for Small Business](Project_037909/README.md) |
+| 037910 | [Arduino: Visual Reporting — Usability Improvement for Small Business](Project_037910/README.md) |
+| 037911 | [Arduino: Visual Reporting — Baseline Setup for Home Development](Project_037911/README.md) |
+| 037912 | [Arduino: Visual Reporting — Automation for Home Development](Project_037912/README.md) |
+| 037913 | [Arduino: Visual Reporting — Recovery for Home Development](Project_037913/README.md) |
+| 037914 | [Arduino: Visual Reporting — Reporting for Home Development](Project_037914/README.md) |
+| 037915 | [Arduino: Visual Reporting — Usability Improvement for Home Development](Project_037915/README.md) |
+| 037916 | [Arduino: Visual Reporting — Baseline Setup for Public Dataset](Project_037916/README.md) |
+| 037917 | [Arduino: Visual Reporting — Automation for Public Dataset](Project_037917/README.md) |
+| 037918 | [Arduino: Visual Reporting — Recovery for Public Dataset](Project_037918/README.md) |
+| 037919 | [Arduino: Visual Reporting — Reporting for Public Dataset](Project_037919/README.md) |
+| 037920 | [Arduino: Visual Reporting — Usability Improvement for Public Dataset](Project_037920/README.md) |
 
 [Back to the portfolio home](../README.md)
