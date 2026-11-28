@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040098 | [PowerShell: Monitoring — Recovery for Portfolio Demo](Project_040098/README.md) |
 | 040099 | [PowerShell: Monitoring — Reporting for Portfolio Demo](Project_040099/README.md) |
 | 040100 | [PowerShell: Monitoring — Usability Improvement for Portfolio Demo](Project_040100/README.md) |
+| 040101 | [PowerShell: Audit — Baseline Setup for School Lab](Project_040101/README.md) |
+| 040102 | [PowerShell: Audit — Automation for School Lab](Project_040102/README.md) |
+| 040103 | [PowerShell: Audit — Recovery for School Lab](Project_040103/README.md) |
+| 040104 | [PowerShell: Audit — Reporting for School Lab](Project_040104/README.md) |
+| 040105 | [PowerShell: Audit — Usability Improvement for School Lab](Project_040105/README.md) |
+| 040106 | [PowerShell: Audit — Baseline Setup for Small Business](Project_040106/README.md) |
+| 040107 | [PowerShell: Audit — Automation for Small Business](Project_040107/README.md) |
+| 040108 | [PowerShell: Audit — Recovery for Small Business](Project_040108/README.md) |
+| 040109 | [PowerShell: Audit — Reporting for Small Business](Project_040109/README.md) |
+| 040110 | [PowerShell: Audit — Usability Improvement for Small Business](Project_040110/README.md) |
+| 040111 | [PowerShell: Audit — Baseline Setup for Home Development](Project_040111/README.md) |
+| 040112 | [PowerShell: Audit — Automation for Home Development](Project_040112/README.md) |
+| 040113 | [PowerShell: Audit — Recovery for Home Development](Project_040113/README.md) |
+| 040114 | [PowerShell: Audit — Reporting for Home Development](Project_040114/README.md) |
+| 040115 | [PowerShell: Audit — Usability Improvement for Home Development](Project_040115/README.md) |
+| 040116 | [PowerShell: Audit — Baseline Setup for Public Dataset](Project_040116/README.md) |
+| 040117 | [PowerShell: Audit — Automation for Public Dataset](Project_040117/README.md) |
+| 040118 | [PowerShell: Audit — Recovery for Public Dataset](Project_040118/README.md) |
+| 040119 | [PowerShell: Audit — Reporting for Public Dataset](Project_040119/README.md) |
+| 040120 | [PowerShell: Audit — Usability Improvement for Public Dataset](Project_040120/README.md) |
 
 [Back to the portfolio home](../README.md)
