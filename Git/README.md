@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038838 | [Git: Documentation Generation — Recovery for Two-Node Lab](Project_038838/README.md) |
 | 038839 | [Git: Documentation Generation — Reporting for Two-Node Lab](Project_038839/README.md) |
 | 038840 | [Git: Documentation Generation — Usability Improvement for Two-Node Lab](Project_038840/README.md) |
+| 038841 | [Git: Documentation Generation — Baseline Setup for Help Desk](Project_038841/README.md) |
+| 038842 | [Git: Documentation Generation — Automation for Help Desk](Project_038842/README.md) |
+| 038843 | [Git: Documentation Generation — Recovery for Help Desk](Project_038843/README.md) |
+| 038844 | [Git: Documentation Generation — Reporting for Help Desk](Project_038844/README.md) |
+| 038845 | [Git: Documentation Generation — Usability Improvement for Help Desk](Project_038845/README.md) |
+| 038846 | [Git: Documentation Generation — Baseline Setup for Portfolio Demo](Project_038846/README.md) |
+| 038847 | [Git: Documentation Generation — Automation for Portfolio Demo](Project_038847/README.md) |
+| 038848 | [Git: Documentation Generation — Recovery for Portfolio Demo](Project_038848/README.md) |
+| 038849 | [Git: Documentation Generation — Reporting for Portfolio Demo](Project_038849/README.md) |
+| 038850 | [Git: Documentation Generation — Usability Improvement for Portfolio Demo](Project_038850/README.md) |
+| 038851 | [Git: Automation — Baseline Setup for School Lab](Project_038851/README.md) |
+| 038852 | [Git: Automation — Automation for School Lab](Project_038852/README.md) |
+| 038853 | [Git: Automation — Recovery for School Lab](Project_038853/README.md) |
+| 038854 | [Git: Automation — Reporting for School Lab](Project_038854/README.md) |
+| 038855 | [Git: Automation — Usability Improvement for School Lab](Project_038855/README.md) |
+| 038856 | [Git: Automation — Baseline Setup for Small Business](Project_038856/README.md) |
+| 038857 | [Git: Automation — Automation for Small Business](Project_038857/README.md) |
+| 038858 | [Git: Automation — Recovery for Small Business](Project_038858/README.md) |
+| 038859 | [Git: Automation — Reporting for Small Business](Project_038859/README.md) |
+| 038860 | [Git: Automation — Usability Improvement for Small Business](Project_038860/README.md) |
 
 [Back to the portfolio home](../README.md)
