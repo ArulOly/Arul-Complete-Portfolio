@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036498 | [ESP32: Scheduled Reporting — Recovery for Portfolio Demo](Project_036498/README.md) |
 | 036499 | [ESP32: Scheduled Reporting — Reporting for Portfolio Demo](Project_036499/README.md) |
 | 036500 | [ESP32: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_036500/README.md) |
+| 036501 | [ESP32: Access Review — Baseline Setup for School Lab](Project_036501/README.md) |
+| 036502 | [ESP32: Access Review — Automation for School Lab](Project_036502/README.md) |
+| 036503 | [ESP32: Access Review — Recovery for School Lab](Project_036503/README.md) |
+| 036504 | [ESP32: Access Review — Reporting for School Lab](Project_036504/README.md) |
+| 036505 | [ESP32: Access Review — Usability Improvement for School Lab](Project_036505/README.md) |
+| 036506 | [ESP32: Access Review — Baseline Setup for Small Business](Project_036506/README.md) |
+| 036507 | [ESP32: Access Review — Automation for Small Business](Project_036507/README.md) |
+| 036508 | [ESP32: Access Review — Recovery for Small Business](Project_036508/README.md) |
+| 036509 | [ESP32: Access Review — Reporting for Small Business](Project_036509/README.md) |
+| 036510 | [ESP32: Access Review — Usability Improvement for Small Business](Project_036510/README.md) |
+| 036511 | [ESP32: Access Review — Baseline Setup for Home Development](Project_036511/README.md) |
+| 036512 | [ESP32: Access Review — Automation for Home Development](Project_036512/README.md) |
+| 036513 | [ESP32: Access Review — Recovery for Home Development](Project_036513/README.md) |
+| 036514 | [ESP32: Access Review — Reporting for Home Development](Project_036514/README.md) |
+| 036515 | [ESP32: Access Review — Usability Improvement for Home Development](Project_036515/README.md) |
+| 036516 | [ESP32: Access Review — Baseline Setup for Public Dataset](Project_036516/README.md) |
+| 036517 | [ESP32: Access Review — Automation for Public Dataset](Project_036517/README.md) |
+| 036518 | [ESP32: Access Review — Recovery for Public Dataset](Project_036518/README.md) |
+| 036519 | [ESP32: Access Review — Reporting for Public Dataset](Project_036519/README.md) |
+| 036520 | [ESP32: Access Review — Usability Improvement for Public Dataset](Project_036520/README.md) |
 
 [Back to the portfolio home](../README.md)
