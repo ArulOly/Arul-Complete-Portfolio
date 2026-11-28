@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044638 | [Prometheus: Service Check — Recovery for Two-Node Lab](Project_044638/README.md) |
 | 044639 | [Prometheus: Service Check — Reporting for Two-Node Lab](Project_044639/README.md) |
 | 044640 | [Prometheus: Service Check — Usability Improvement for Two-Node Lab](Project_044640/README.md) |
+| 044641 | [Prometheus: Service Check — Baseline Setup for Help Desk](Project_044641/README.md) |
+| 044642 | [Prometheus: Service Check — Automation for Help Desk](Project_044642/README.md) |
+| 044643 | [Prometheus: Service Check — Recovery for Help Desk](Project_044643/README.md) |
+| 044644 | [Prometheus: Service Check — Reporting for Help Desk](Project_044644/README.md) |
+| 044645 | [Prometheus: Service Check — Usability Improvement for Help Desk](Project_044645/README.md) |
+| 044646 | [Prometheus: Service Check — Baseline Setup for Portfolio Demo](Project_044646/README.md) |
+| 044647 | [Prometheus: Service Check — Automation for Portfolio Demo](Project_044647/README.md) |
+| 044648 | [Prometheus: Service Check — Recovery for Portfolio Demo](Project_044648/README.md) |
+| 044649 | [Prometheus: Service Check — Reporting for Portfolio Demo](Project_044649/README.md) |
+| 044650 | [Prometheus: Service Check — Usability Improvement for Portfolio Demo](Project_044650/README.md) |
+| 044651 | [Prometheus: Configuration Comparison — Baseline Setup for School Lab](Project_044651/README.md) |
+| 044652 | [Prometheus: Configuration Comparison — Automation for School Lab](Project_044652/README.md) |
+| 044653 | [Prometheus: Configuration Comparison — Recovery for School Lab](Project_044653/README.md) |
+| 044654 | [Prometheus: Configuration Comparison — Reporting for School Lab](Project_044654/README.md) |
+| 044655 | [Prometheus: Configuration Comparison — Usability Improvement for School Lab](Project_044655/README.md) |
+| 044656 | [Prometheus: Configuration Comparison — Baseline Setup for Small Business](Project_044656/README.md) |
+| 044657 | [Prometheus: Configuration Comparison — Automation for Small Business](Project_044657/README.md) |
+| 044658 | [Prometheus: Configuration Comparison — Recovery for Small Business](Project_044658/README.md) |
+| 044659 | [Prometheus: Configuration Comparison — Reporting for Small Business](Project_044659/README.md) |
+| 044660 | [Prometheus: Configuration Comparison — Usability Improvement for Small Business](Project_044660/README.md) |
 
 [Back to the portfolio home](../README.md)
