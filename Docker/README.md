@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017418 | [Docker: Alerting — Recovery for Public Dataset](Project_017418/README.md) |
 | 017419 | [Docker: Alerting — Reporting for Public Dataset](Project_017419/README.md) |
 | 017420 | [Docker: Alerting — Usability Improvement for Public Dataset](Project_017420/README.md) |
+| 017421 | [Docker: Alerting — Baseline Setup for Branch Office Simulator](Project_017421/README.md) |
+| 017422 | [Docker: Alerting — Automation for Branch Office Simulator](Project_017422/README.md) |
+| 017423 | [Docker: Alerting — Recovery for Branch Office Simulator](Project_017423/README.md) |
+| 017424 | [Docker: Alerting — Reporting for Branch Office Simulator](Project_017424/README.md) |
+| 017425 | [Docker: Alerting — Usability Improvement for Branch Office Simulator](Project_017425/README.md) |
+| 017426 | [Docker: Alerting — Baseline Setup for Offline Classroom](Project_017426/README.md) |
+| 017427 | [Docker: Alerting — Automation for Offline Classroom](Project_017427/README.md) |
+| 017428 | [Docker: Alerting — Recovery for Offline Classroom](Project_017428/README.md) |
+| 017429 | [Docker: Alerting — Reporting for Offline Classroom](Project_017429/README.md) |
+| 017430 | [Docker: Alerting — Usability Improvement for Offline Classroom](Project_017430/README.md) |
+| 017431 | [Docker: Alerting — Baseline Setup for Single-Host Lab](Project_017431/README.md) |
+| 017432 | [Docker: Alerting — Automation for Single-Host Lab](Project_017432/README.md) |
+| 017433 | [Docker: Alerting — Recovery for Single-Host Lab](Project_017433/README.md) |
+| 017434 | [Docker: Alerting — Reporting for Single-Host Lab](Project_017434/README.md) |
+| 017435 | [Docker: Alerting — Usability Improvement for Single-Host Lab](Project_017435/README.md) |
+| 017436 | [Docker: Alerting — Baseline Setup for Two-Node Lab](Project_017436/README.md) |
+| 017437 | [Docker: Alerting — Automation for Two-Node Lab](Project_017437/README.md) |
+| 017438 | [Docker: Alerting — Recovery for Two-Node Lab](Project_017438/README.md) |
+| 017439 | [Docker: Alerting — Reporting for Two-Node Lab](Project_017439/README.md) |
+| 017440 | [Docker: Alerting — Usability Improvement for Two-Node Lab](Project_017440/README.md) |
 
 [Back to the portfolio home](../README.md)
