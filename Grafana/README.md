@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043818 | [Grafana: Documentation Generation — Recovery for Public Dataset](Project_043818/README.md) |
 | 043819 | [Grafana: Documentation Generation — Reporting for Public Dataset](Project_043819/README.md) |
 | 043820 | [Grafana: Documentation Generation — Usability Improvement for Public Dataset](Project_043820/README.md) |
+| 043821 | [Grafana: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_043821/README.md) |
+| 043822 | [Grafana: Documentation Generation — Automation for Branch Office Simulator](Project_043822/README.md) |
+| 043823 | [Grafana: Documentation Generation — Recovery for Branch Office Simulator](Project_043823/README.md) |
+| 043824 | [Grafana: Documentation Generation — Reporting for Branch Office Simulator](Project_043824/README.md) |
+| 043825 | [Grafana: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_043825/README.md) |
+| 043826 | [Grafana: Documentation Generation — Baseline Setup for Offline Classroom](Project_043826/README.md) |
+| 043827 | [Grafana: Documentation Generation — Automation for Offline Classroom](Project_043827/README.md) |
+| 043828 | [Grafana: Documentation Generation — Recovery for Offline Classroom](Project_043828/README.md) |
+| 043829 | [Grafana: Documentation Generation — Reporting for Offline Classroom](Project_043829/README.md) |
+| 043830 | [Grafana: Documentation Generation — Usability Improvement for Offline Classroom](Project_043830/README.md) |
+| 043831 | [Grafana: Documentation Generation — Baseline Setup for Single-Host Lab](Project_043831/README.md) |
+| 043832 | [Grafana: Documentation Generation — Automation for Single-Host Lab](Project_043832/README.md) |
+| 043833 | [Grafana: Documentation Generation — Recovery for Single-Host Lab](Project_043833/README.md) |
+| 043834 | [Grafana: Documentation Generation — Reporting for Single-Host Lab](Project_043834/README.md) |
+| 043835 | [Grafana: Documentation Generation — Usability Improvement for Single-Host Lab](Project_043835/README.md) |
+| 043836 | [Grafana: Documentation Generation — Baseline Setup for Two-Node Lab](Project_043836/README.md) |
+| 043837 | [Grafana: Documentation Generation — Automation for Two-Node Lab](Project_043837/README.md) |
+| 043838 | [Grafana: Documentation Generation — Recovery for Two-Node Lab](Project_043838/README.md) |
+| 043839 | [Grafana: Documentation Generation — Reporting for Two-Node Lab](Project_043839/README.md) |
+| 043840 | [Grafana: Documentation Generation — Usability Improvement for Two-Node Lab](Project_043840/README.md) |
 
 [Back to the portfolio home](../README.md)
