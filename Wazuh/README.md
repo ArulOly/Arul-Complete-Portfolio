@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030478 | [Wazuh: Scheduled Reporting — Recovery for Offline Classroom](Project_030478/README.md) |
 | 030479 | [Wazuh: Scheduled Reporting — Reporting for Offline Classroom](Project_030479/README.md) |
 | 030480 | [Wazuh: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_030480/README.md) |
+| 030481 | [Wazuh: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_030481/README.md) |
+| 030482 | [Wazuh: Scheduled Reporting — Automation for Single-Host Lab](Project_030482/README.md) |
+| 030483 | [Wazuh: Scheduled Reporting — Recovery for Single-Host Lab](Project_030483/README.md) |
+| 030484 | [Wazuh: Scheduled Reporting — Reporting for Single-Host Lab](Project_030484/README.md) |
+| 030485 | [Wazuh: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_030485/README.md) |
+| 030486 | [Wazuh: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_030486/README.md) |
+| 030487 | [Wazuh: Scheduled Reporting — Automation for Two-Node Lab](Project_030487/README.md) |
+| 030488 | [Wazuh: Scheduled Reporting — Recovery for Two-Node Lab](Project_030488/README.md) |
+| 030489 | [Wazuh: Scheduled Reporting — Reporting for Two-Node Lab](Project_030489/README.md) |
+| 030490 | [Wazuh: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_030490/README.md) |
+| 030491 | [Wazuh: Scheduled Reporting — Baseline Setup for Help Desk](Project_030491/README.md) |
+| 030492 | [Wazuh: Scheduled Reporting — Automation for Help Desk](Project_030492/README.md) |
+| 030493 | [Wazuh: Scheduled Reporting — Recovery for Help Desk](Project_030493/README.md) |
+| 030494 | [Wazuh: Scheduled Reporting — Reporting for Help Desk](Project_030494/README.md) |
+| 030495 | [Wazuh: Scheduled Reporting — Usability Improvement for Help Desk](Project_030495/README.md) |
+| 030496 | [Wazuh: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_030496/README.md) |
+| 030497 | [Wazuh: Scheduled Reporting — Automation for Portfolio Demo](Project_030497/README.md) |
+| 030498 | [Wazuh: Scheduled Reporting — Recovery for Portfolio Demo](Project_030498/README.md) |
+| 030499 | [Wazuh: Scheduled Reporting — Reporting for Portfolio Demo](Project_030499/README.md) |
+| 030500 | [Wazuh: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_030500/README.md) |
 
 [Back to the portfolio home](../README.md)
