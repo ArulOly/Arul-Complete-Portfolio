@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047438 | [Ansible: Alerting — Recovery for Two-Node Lab](Project_047438/README.md) |
 | 047439 | [Ansible: Alerting — Reporting for Two-Node Lab](Project_047439/README.md) |
 | 047440 | [Ansible: Alerting — Usability Improvement for Two-Node Lab](Project_047440/README.md) |
+| 047441 | [Ansible: Alerting — Baseline Setup for Help Desk](Project_047441/README.md) |
+| 047442 | [Ansible: Alerting — Automation for Help Desk](Project_047442/README.md) |
+| 047443 | [Ansible: Alerting — Recovery for Help Desk](Project_047443/README.md) |
+| 047444 | [Ansible: Alerting — Reporting for Help Desk](Project_047444/README.md) |
+| 047445 | [Ansible: Alerting — Usability Improvement for Help Desk](Project_047445/README.md) |
+| 047446 | [Ansible: Alerting — Baseline Setup for Portfolio Demo](Project_047446/README.md) |
+| 047447 | [Ansible: Alerting — Automation for Portfolio Demo](Project_047447/README.md) |
+| 047448 | [Ansible: Alerting — Recovery for Portfolio Demo](Project_047448/README.md) |
+| 047449 | [Ansible: Alerting — Reporting for Portfolio Demo](Project_047449/README.md) |
+| 047450 | [Ansible: Alerting — Usability Improvement for Portfolio Demo](Project_047450/README.md) |
+| 047451 | [Ansible: Scheduled Reporting — Baseline Setup for School Lab](Project_047451/README.md) |
+| 047452 | [Ansible: Scheduled Reporting — Automation for School Lab](Project_047452/README.md) |
+| 047453 | [Ansible: Scheduled Reporting — Recovery for School Lab](Project_047453/README.md) |
+| 047454 | [Ansible: Scheduled Reporting — Reporting for School Lab](Project_047454/README.md) |
+| 047455 | [Ansible: Scheduled Reporting — Usability Improvement for School Lab](Project_047455/README.md) |
+| 047456 | [Ansible: Scheduled Reporting — Baseline Setup for Small Business](Project_047456/README.md) |
+| 047457 | [Ansible: Scheduled Reporting — Automation for Small Business](Project_047457/README.md) |
+| 047458 | [Ansible: Scheduled Reporting — Recovery for Small Business](Project_047458/README.md) |
+| 047459 | [Ansible: Scheduled Reporting — Reporting for Small Business](Project_047459/README.md) |
+| 047460 | [Ansible: Scheduled Reporting — Usability Improvement for Small Business](Project_047460/README.md) |
 
 [Back to the portfolio home](../README.md)
