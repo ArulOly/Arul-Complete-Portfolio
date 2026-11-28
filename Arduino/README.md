@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037218 | [Arduino: Backup Verification — Recovery for Public Dataset](Project_037218/README.md) |
 | 037219 | [Arduino: Backup Verification — Reporting for Public Dataset](Project_037219/README.md) |
 | 037220 | [Arduino: Backup Verification — Usability Improvement for Public Dataset](Project_037220/README.md) |
+| 037221 | [Arduino: Backup Verification — Baseline Setup for Branch Office Simulator](Project_037221/README.md) |
+| 037222 | [Arduino: Backup Verification — Automation for Branch Office Simulator](Project_037222/README.md) |
+| 037223 | [Arduino: Backup Verification — Recovery for Branch Office Simulator](Project_037223/README.md) |
+| 037224 | [Arduino: Backup Verification — Reporting for Branch Office Simulator](Project_037224/README.md) |
+| 037225 | [Arduino: Backup Verification — Usability Improvement for Branch Office Simulator](Project_037225/README.md) |
+| 037226 | [Arduino: Backup Verification — Baseline Setup for Offline Classroom](Project_037226/README.md) |
+| 037227 | [Arduino: Backup Verification — Automation for Offline Classroom](Project_037227/README.md) |
+| 037228 | [Arduino: Backup Verification — Recovery for Offline Classroom](Project_037228/README.md) |
+| 037229 | [Arduino: Backup Verification — Reporting for Offline Classroom](Project_037229/README.md) |
+| 037230 | [Arduino: Backup Verification — Usability Improvement for Offline Classroom](Project_037230/README.md) |
+| 037231 | [Arduino: Backup Verification — Baseline Setup for Single-Host Lab](Project_037231/README.md) |
+| 037232 | [Arduino: Backup Verification — Automation for Single-Host Lab](Project_037232/README.md) |
+| 037233 | [Arduino: Backup Verification — Recovery for Single-Host Lab](Project_037233/README.md) |
+| 037234 | [Arduino: Backup Verification — Reporting for Single-Host Lab](Project_037234/README.md) |
+| 037235 | [Arduino: Backup Verification — Usability Improvement for Single-Host Lab](Project_037235/README.md) |
+| 037236 | [Arduino: Backup Verification — Baseline Setup for Two-Node Lab](Project_037236/README.md) |
+| 037237 | [Arduino: Backup Verification — Automation for Two-Node Lab](Project_037237/README.md) |
+| 037238 | [Arduino: Backup Verification — Recovery for Two-Node Lab](Project_037238/README.md) |
+| 037239 | [Arduino: Backup Verification — Reporting for Two-Node Lab](Project_037239/README.md) |
+| 037240 | [Arduino: Backup Verification — Usability Improvement for Two-Node Lab](Project_037240/README.md) |
 
 [Back to the portfolio home](../README.md)
