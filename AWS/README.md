@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014218 | [AWS: Backup Verification — Recovery for Public Dataset](Project_014218/README.md) |
 | 014219 | [AWS: Backup Verification — Reporting for Public Dataset](Project_014219/README.md) |
 | 014220 | [AWS: Backup Verification — Usability Improvement for Public Dataset](Project_014220/README.md) |
+| 014221 | [AWS: Backup Verification — Baseline Setup for Branch Office Simulator](Project_014221/README.md) |
+| 014222 | [AWS: Backup Verification — Automation for Branch Office Simulator](Project_014222/README.md) |
+| 014223 | [AWS: Backup Verification — Recovery for Branch Office Simulator](Project_014223/README.md) |
+| 014224 | [AWS: Backup Verification — Reporting for Branch Office Simulator](Project_014224/README.md) |
+| 014225 | [AWS: Backup Verification — Usability Improvement for Branch Office Simulator](Project_014225/README.md) |
+| 014226 | [AWS: Backup Verification — Baseline Setup for Offline Classroom](Project_014226/README.md) |
+| 014227 | [AWS: Backup Verification — Automation for Offline Classroom](Project_014227/README.md) |
+| 014228 | [AWS: Backup Verification — Recovery for Offline Classroom](Project_014228/README.md) |
+| 014229 | [AWS: Backup Verification — Reporting for Offline Classroom](Project_014229/README.md) |
+| 014230 | [AWS: Backup Verification — Usability Improvement for Offline Classroom](Project_014230/README.md) |
+| 014231 | [AWS: Backup Verification — Baseline Setup for Single-Host Lab](Project_014231/README.md) |
+| 014232 | [AWS: Backup Verification — Automation for Single-Host Lab](Project_014232/README.md) |
+| 014233 | [AWS: Backup Verification — Recovery for Single-Host Lab](Project_014233/README.md) |
+| 014234 | [AWS: Backup Verification — Reporting for Single-Host Lab](Project_014234/README.md) |
+| 014235 | [AWS: Backup Verification — Usability Improvement for Single-Host Lab](Project_014235/README.md) |
+| 014236 | [AWS: Backup Verification — Baseline Setup for Two-Node Lab](Project_014236/README.md) |
+| 014237 | [AWS: Backup Verification — Automation for Two-Node Lab](Project_014237/README.md) |
+| 014238 | [AWS: Backup Verification — Recovery for Two-Node Lab](Project_014238/README.md) |
+| 014239 | [AWS: Backup Verification — Reporting for Two-Node Lab](Project_014239/README.md) |
+| 014240 | [AWS: Backup Verification — Usability Improvement for Two-Node Lab](Project_014240/README.md) |
 
 [Back to the portfolio home](../README.md)
