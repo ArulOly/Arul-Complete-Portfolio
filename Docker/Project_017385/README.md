@@ -11,7 +11,7 @@ One simulated lab host needs a repeatable check for active tickets.
 ## Project objectives
 
 - Review active tickets and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Docker CLI and POSIX shell with BusyBox awk.
 ## Features
 
 - Review active tickets and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -72,7 +72,7 @@ PORTFOLIO
 
 ## Implementation explanation
 
-The comparison is gt with limit 12. A flagged row means queue above capacity. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 12. A flagged row means queue above capacity. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

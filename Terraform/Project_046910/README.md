@@ -11,7 +11,7 @@ Local shop operations needs a repeatable check for summary categories.
 ## Project objectives
 
 - Review summary categories and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Terraform HCL, local values, input validation, and outputs.
 ## Features
 
 - Review summary categories and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -88,7 +88,7 @@ output "report" {
 
 ## Implementation explanation
 
-The comparison is gt with limit 5. A flagged row means chart needs a larger display. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 5. A flagged row means chart needs a larger display. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

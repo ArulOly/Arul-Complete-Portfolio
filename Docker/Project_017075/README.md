@@ -11,7 +11,7 @@ A simulated branch office needs a repeatable check for peak utilization percent.
 ## Project objectives
 
 - Review peak utilization percent and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Docker CLI and POSIX shell with BusyBox awk.
 ## Features
 
 - Review peak utilization percent and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -72,7 +72,7 @@ PORTFOLIO
 
 ## Implementation explanation
 
-The comparison is gt with limit 80. A flagged row means utilization above budget. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 80. A flagged row means utilization above budget. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

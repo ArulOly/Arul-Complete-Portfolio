@@ -11,7 +11,7 @@ A synthetic public-data exercise needs a repeatable check for invalid input rows
 ## Project objectives
 
 - Review invalid input rows and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Terraform HCL, local values, input validation, and outputs.
 ## Features
 
 - Review invalid input rows and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -88,7 +88,7 @@ output "report" {
 
 ## Implementation explanation
 
-The comparison is gt with limit 0. A flagged row means validation failed. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 0. A flagged row means validation failed. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

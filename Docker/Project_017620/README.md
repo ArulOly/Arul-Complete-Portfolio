@@ -11,7 +11,7 @@ A synthetic public-data exercise needs a repeatable check for healthy service ch
 ## Project objectives
 
 - Review healthy service checks and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Docker CLI and POSIX shell with BusyBox awk.
 ## Features
 
 - Review healthy service checks and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -72,7 +72,7 @@ PORTFOLIO
 
 ## Implementation explanation
 
-The comparison is lt with limit 3. A flagged row means health checks failed. Use a concise result that labels the metric and its flagged count.
+The comparison is lt with limit 3. A flagged row means health checks failed. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

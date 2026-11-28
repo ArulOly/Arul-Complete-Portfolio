@@ -11,7 +11,7 @@ A two-node lab simulation needs a repeatable check for failed scheduled tasks.
 ## Project objectives
 
 - Review failed scheduled tasks and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Terraform HCL, local values, input validation, and outputs.
 ## Features
 
 - Review failed scheduled tasks and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -88,7 +88,7 @@ output "report" {
 
 ## Implementation explanation
 
-The comparison is gt with limit 0. A flagged row means scheduled tasks need attention. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 0. A flagged row means scheduled tasks need attention. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

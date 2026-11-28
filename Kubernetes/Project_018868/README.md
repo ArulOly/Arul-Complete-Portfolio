@@ -39,21 +39,39 @@ kind: ConfigMap
 metadata:
   name: portfolio-018868
 data:
-  report.sh: "#!/bin/sh\nset -eu\nprimary=${PRIMARY-''}\nfallback=${FALLBACK-'2 0'}\n\
-    threshold=${THRESHOLD-0}\ncomparison=gt\nmode=recovery\nmetric='failed scheduled\
-    \ tasks'\n\nsource=primary\nvalues=$primary\nif [ -z \"$values\" ] && [ \"$mode\"\
-    \ = recovery ]; then\n    source=fallback\n    values=$fallback\nfi\n\nprintf\
-    \ '%s\\n' \"$values\" | awk -v limit=\"$threshold\" -v op=\"$comparison\" \\\n\
-    \    -v source=\"$source\" -v mode=\"$mode\" -v metric=\"$metric\" '\n    BEGIN\
-    \ { if (limit !~ /^[0-9]+$/ || limit > 1000000000) exit 2 }\n    {\n        if\
-    \ (NF == 0) exit 2\n        for (i = 1; i <= NF; i++) {\n            if ($i !~\
-    \ /^[0-9]+$/ || $i > 1000000000) exit 2\n            n = $i + 0\n            flagged\
-    \ += (op == \"lt\" && n < limit) || (op == \"gt\" && n > limit) || (op == \"ge\"\
-    \ && n >= limit)\n            detail = detail (i == 1 ? \"\" : \",\") n\n    \
-    \    }\n        printf \"{\\\"source\\\":\\\"%s\\\",\\\"readings\\\":%d,\\\"flagged\\\
-    \":%d\", source, NF, flagged\n        if (mode == \"baseline\" || mode == \"report\"\
-    ) printf \",\\\"values\\\":[%s]\", detail\n        printf \"}\\n\"\n    }\n' ||\
-    \ { printf '%s\\n' \"Invalid $metric input\" >&2; exit 2; }\n"
+  report.sh: |
+    #!/bin/sh
+    set -eu
+    primary=${PRIMARY-''}
+    fallback=${FALLBACK-'2 0'}
+    threshold=${THRESHOLD-0}
+    comparison=gt
+    mode=recovery
+    metric='failed scheduled tasks'
+
+    source=primary
+    values=$primary
+    if [ -z "$values" ] && [ "$mode" = recovery ]; then
+        source=fallback
+        values=$fallback
+    fi
+
+    printf '%s\n' "$values" | awk -v limit="$threshold" -v op="$comparison" \
+        -v source="$source" -v mode="$mode" -v metric="$metric" '
+        BEGIN { if (limit !~ /^[0-9]+$/ || limit > 1000000000) exit 2 }
+        {
+            if (NF == 0) exit 2
+            for (i = 1; i <= NF; i++) {
+                if ($i !~ /^[0-9]+$/ || $i > 1000000000) exit 2
+                n = $i + 0
+                flagged += (op == "lt" && n < limit) || (op == "gt" && n > limit) || (op == "ge" && n >= limit)
+                detail = detail (i == 1 ? "" : ",") n
+            }
+            printf "{\"source\":\"%s\",\"readings\":%d,\"flagged\":%d", source, NF, flagged
+            if (mode == "baseline" || mode == "report") printf ",\"values\":[%s]", detail
+            printf "}\n"
+        }
+    ' || { printf '%s\n' "Invalid $metric input" >&2; exit 2; }
 ---
 apiVersion: batch/v1
 kind: Job

@@ -31,6 +31,10 @@ This repository contains a collection of practical information technology projec
 | [AWS](./AWS/) | Offline Amazon S3 event and object-storage workflows |
 | [Azure](./Azure/) | Offline Blob Storage and Event Grid workflows |
 | [Google Cloud](./Google%20Cloud/) | Offline Cloud Storage event workflows |
+| [Docker](./Docker/) | Isolated container commands and reproducible checks |
+| [Kubernetes](./Kubernetes/) | Practice Jobs and ConfigMaps with resource limits |
+| [Ansible](./Ansible/) | Local playbooks with input validation and reports |
+| [Terraform](./Terraform/) | Provider-free plans and validated outputs |
 
 Read the [native examples and category audit](./Native_Examples.md) to see which projects use platform-native tools and what was verified.
 
@@ -65,6 +69,10 @@ Each project is documented in an individual README.md file containing its object
 - AWS
 - Azure
 - Google Cloud
+- Docker
+- Kubernetes
+- Ansible
+- Terraform
 - Markdown
 
 ## Purpose

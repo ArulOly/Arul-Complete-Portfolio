@@ -11,7 +11,7 @@ A repeatable portfolio demonstration needs a repeatable check for files with mis
 ## Project objectives
 
 - Review files with mismatched checksums and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Kubernetes ConfigMap, Job, and Pod resource limits.
 ## Features
 
 - Review files with mismatched checksums and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -39,22 +39,39 @@ kind: ConfigMap
 metadata:
   name: portfolio-018250
 data:
-  report.sh: "#!/bin/sh\nset -eu\nprimary=${PRIMARY-1}\nfallback=${FALLBACK-''}\n\
-    threshold=${THRESHOLD-0}\ncomparison=gt\nmode=summary\nmetric='files with mismatched\
-    \ checksums'\n\nsource=primary\nvalues=$primary\nif [ -z \"$values\" ] && [ \"\
-    $mode\" = recovery ]; then\n    source=fallback\n    values=$fallback\nfi\n\n\
-    printf '%s\\n' \"$values\" | awk -v limit=\"$threshold\" -v op=\"$comparison\"\
-    \ \\\n    -v source=\"$source\" -v mode=\"$mode\" -v metric=\"$metric\" '\n  \
-    \  BEGIN { if (limit !~ /^[0-9]+$/ || limit > 1000000000) exit 2 }\n    {\n  \
-    \      if (NF == 0) exit 2\n        for (i = 1; i <= NF; i++) {\n            if\
-    \ ($i !~ /^[0-9]+$/ || $i > 1000000000) exit 2\n            n = $i + 0\n     \
-    \       flagged += (op == \"lt\" && n < limit) || (op == \"gt\" && n > limit)\
-    \ || (op == \"ge\" && n >= limit)\n            detail = detail (i == 1 ? \"\"\
-    \ : \",\") n\n        }\n        printf \"{\\\"source\\\":\\\"%s\\\",\\\"readings\\\
-    \":%d,\\\"flagged\\\":%d\", source, NF, flagged\n        if (mode == \"baseline\"\
-    \ || mode == \"report\") printf \",\\\"values\\\":[%s]\", detail\n        printf\
-    \ \"}\\n\"\n    }\n' || { printf '%s\\n' \"Invalid $metric input\" >&2; exit 2;\
-    \ }\n"
+  report.sh: |
+    #!/bin/sh
+    set -eu
+    primary=${PRIMARY-1}
+    fallback=${FALLBACK-''}
+    threshold=${THRESHOLD-0}
+    comparison=gt
+    mode=summary
+    metric='files with mismatched checksums'
+
+    source=primary
+    values=$primary
+    if [ -z "$values" ] && [ "$mode" = recovery ]; then
+        source=fallback
+        values=$fallback
+    fi
+
+    printf '%s\n' "$values" | awk -v limit="$threshold" -v op="$comparison" \
+        -v source="$source" -v mode="$mode" -v metric="$metric" '
+        BEGIN { if (limit !~ /^[0-9]+$/ || limit > 1000000000) exit 2 }
+        {
+            if (NF == 0) exit 2
+            for (i = 1; i <= NF; i++) {
+                if ($i !~ /^[0-9]+$/ || $i > 1000000000) exit 2
+                n = $i + 0
+                flagged += (op == "lt" && n < limit) || (op == "gt" && n > limit) || (op == "ge" && n >= limit)
+                detail = detail (i == 1 ? "" : ",") n
+            }
+            printf "{\"source\":\"%s\",\"readings\":%d,\"flagged\":%d", source, NF, flagged
+            if (mode == "baseline" || mode == "report") printf ",\"values\":[%s]", detail
+            printf "}\n"
+        }
+    ' || { printf '%s\n' "Invalid $metric input" >&2; exit 2; }
 ---
 apiVersion: batch/v1
 kind: Job
@@ -104,7 +121,7 @@ spec:
 
 ## Implementation explanation
 
-The comparison is gt with limit 0. A flagged row means backup mismatch. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 0. A flagged row means backup mismatch. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

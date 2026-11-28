@@ -11,7 +11,7 @@ A home development workspace needs a repeatable check for units in stock.
 ## Project objectives
 
 - Review units in stock and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Ansible YAML, assertions, and Jinja filters.
 ## Features
 
 - Review units in stock and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -80,7 +80,7 @@ Use ansible-core and its supported Python runtime. Use a text editor and a local
 
 ## Implementation explanation
 
-The comparison is lt with limit 4. A flagged row means reorder required. Use a concise result that labels the metric and its flagged count.
+The comparison is lt with limit 4. A flagged row means reorder required. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 

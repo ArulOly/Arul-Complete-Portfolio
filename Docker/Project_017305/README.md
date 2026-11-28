@@ -11,7 +11,7 @@ Shared classroom equipment needs a repeatable check for exported rows.
 ## Project objectives
 
 - Review exported rows and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 - Reproduce the sample result and inspect how the project handles its documented edge case.
 
 ## Technologies used
@@ -25,7 +25,7 @@ Docker CLI and POSIX shell with BusyBox awk.
 ## Features
 
 - Review exported rows and flag readings that meet the cutoff rule.
-- Use a concise result that labels the metric and its flagged count.
+- Show the input source and flagged count in a concise result.
 
 ## Prerequisites
 
@@ -72,7 +72,7 @@ PORTFOLIO
 
 ## Implementation explanation
 
-The comparison is gt with limit 50. A flagged row means unexpected exported rows. Use a concise result that labels the metric and its flagged count.
+The comparison is gt with limit 50. A flagged row means unexpected exported rows. Show the input source and flagged count in a concise result.
 
 ## Sample input data
 
