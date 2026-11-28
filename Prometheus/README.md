@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044438 | [Prometheus: Alerting — Recovery for Two-Node Lab](Project_044438/README.md) |
 | 044439 | [Prometheus: Alerting — Reporting for Two-Node Lab](Project_044439/README.md) |
 | 044440 | [Prometheus: Alerting — Usability Improvement for Two-Node Lab](Project_044440/README.md) |
+| 044441 | [Prometheus: Alerting — Baseline Setup for Help Desk](Project_044441/README.md) |
+| 044442 | [Prometheus: Alerting — Automation for Help Desk](Project_044442/README.md) |
+| 044443 | [Prometheus: Alerting — Recovery for Help Desk](Project_044443/README.md) |
+| 044444 | [Prometheus: Alerting — Reporting for Help Desk](Project_044444/README.md) |
+| 044445 | [Prometheus: Alerting — Usability Improvement for Help Desk](Project_044445/README.md) |
+| 044446 | [Prometheus: Alerting — Baseline Setup for Portfolio Demo](Project_044446/README.md) |
+| 044447 | [Prometheus: Alerting — Automation for Portfolio Demo](Project_044447/README.md) |
+| 044448 | [Prometheus: Alerting — Recovery for Portfolio Demo](Project_044448/README.md) |
+| 044449 | [Prometheus: Alerting — Reporting for Portfolio Demo](Project_044449/README.md) |
+| 044450 | [Prometheus: Alerting — Usability Improvement for Portfolio Demo](Project_044450/README.md) |
+| 044451 | [Prometheus: Scheduled Reporting — Baseline Setup for School Lab](Project_044451/README.md) |
+| 044452 | [Prometheus: Scheduled Reporting — Automation for School Lab](Project_044452/README.md) |
+| 044453 | [Prometheus: Scheduled Reporting — Recovery for School Lab](Project_044453/README.md) |
+| 044454 | [Prometheus: Scheduled Reporting — Reporting for School Lab](Project_044454/README.md) |
+| 044455 | [Prometheus: Scheduled Reporting — Usability Improvement for School Lab](Project_044455/README.md) |
+| 044456 | [Prometheus: Scheduled Reporting — Baseline Setup for Small Business](Project_044456/README.md) |
+| 044457 | [Prometheus: Scheduled Reporting — Automation for Small Business](Project_044457/README.md) |
+| 044458 | [Prometheus: Scheduled Reporting — Recovery for Small Business](Project_044458/README.md) |
+| 044459 | [Prometheus: Scheduled Reporting — Reporting for Small Business](Project_044459/README.md) |
+| 044460 | [Prometheus: Scheduled Reporting — Usability Improvement for Small Business](Project_044460/README.md) |
 
 [Back to the portfolio home](../README.md)
