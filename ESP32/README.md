@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036378 | [ESP32: Dashboard — Recovery for Offline Classroom](Project_036378/README.md) |
 | 036379 | [ESP32: Dashboard — Reporting for Offline Classroom](Project_036379/README.md) |
 | 036380 | [ESP32: Dashboard — Usability Improvement for Offline Classroom](Project_036380/README.md) |
+| 036381 | [ESP32: Dashboard — Baseline Setup for Single-Host Lab](Project_036381/README.md) |
+| 036382 | [ESP32: Dashboard — Automation for Single-Host Lab](Project_036382/README.md) |
+| 036383 | [ESP32: Dashboard — Recovery for Single-Host Lab](Project_036383/README.md) |
+| 036384 | [ESP32: Dashboard — Reporting for Single-Host Lab](Project_036384/README.md) |
+| 036385 | [ESP32: Dashboard — Usability Improvement for Single-Host Lab](Project_036385/README.md) |
+| 036386 | [ESP32: Dashboard — Baseline Setup for Two-Node Lab](Project_036386/README.md) |
+| 036387 | [ESP32: Dashboard — Automation for Two-Node Lab](Project_036387/README.md) |
+| 036388 | [ESP32: Dashboard — Recovery for Two-Node Lab](Project_036388/README.md) |
+| 036389 | [ESP32: Dashboard — Reporting for Two-Node Lab](Project_036389/README.md) |
+| 036390 | [ESP32: Dashboard — Usability Improvement for Two-Node Lab](Project_036390/README.md) |
+| 036391 | [ESP32: Dashboard — Baseline Setup for Help Desk](Project_036391/README.md) |
+| 036392 | [ESP32: Dashboard — Automation for Help Desk](Project_036392/README.md) |
+| 036393 | [ESP32: Dashboard — Recovery for Help Desk](Project_036393/README.md) |
+| 036394 | [ESP32: Dashboard — Reporting for Help Desk](Project_036394/README.md) |
+| 036395 | [ESP32: Dashboard — Usability Improvement for Help Desk](Project_036395/README.md) |
+| 036396 | [ESP32: Dashboard — Baseline Setup for Portfolio Demo](Project_036396/README.md) |
+| 036397 | [ESP32: Dashboard — Automation for Portfolio Demo](Project_036397/README.md) |
+| 036398 | [ESP32: Dashboard — Recovery for Portfolio Demo](Project_036398/README.md) |
+| 036399 | [ESP32: Dashboard — Reporting for Portfolio Demo](Project_036399/README.md) |
+| 036400 | [ESP32: Dashboard — Usability Improvement for Portfolio Demo](Project_036400/README.md) |
 
 [Back to the portfolio home](../README.md)
