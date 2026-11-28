@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040818 | [PowerShell: Documentation Generation — Recovery for Public Dataset](Project_040818/README.md) |
 | 040819 | [PowerShell: Documentation Generation — Reporting for Public Dataset](Project_040819/README.md) |
 | 040820 | [PowerShell: Documentation Generation — Usability Improvement for Public Dataset](Project_040820/README.md) |
+| 040821 | [PowerShell: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_040821/README.md) |
+| 040822 | [PowerShell: Documentation Generation — Automation for Branch Office Simulator](Project_040822/README.md) |
+| 040823 | [PowerShell: Documentation Generation — Recovery for Branch Office Simulator](Project_040823/README.md) |
+| 040824 | [PowerShell: Documentation Generation — Reporting for Branch Office Simulator](Project_040824/README.md) |
+| 040825 | [PowerShell: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_040825/README.md) |
+| 040826 | [PowerShell: Documentation Generation — Baseline Setup for Offline Classroom](Project_040826/README.md) |
+| 040827 | [PowerShell: Documentation Generation — Automation for Offline Classroom](Project_040827/README.md) |
+| 040828 | [PowerShell: Documentation Generation — Recovery for Offline Classroom](Project_040828/README.md) |
+| 040829 | [PowerShell: Documentation Generation — Reporting for Offline Classroom](Project_040829/README.md) |
+| 040830 | [PowerShell: Documentation Generation — Usability Improvement for Offline Classroom](Project_040830/README.md) |
+| 040831 | [PowerShell: Documentation Generation — Baseline Setup for Single-Host Lab](Project_040831/README.md) |
+| 040832 | [PowerShell: Documentation Generation — Automation for Single-Host Lab](Project_040832/README.md) |
+| 040833 | [PowerShell: Documentation Generation — Recovery for Single-Host Lab](Project_040833/README.md) |
+| 040834 | [PowerShell: Documentation Generation — Reporting for Single-Host Lab](Project_040834/README.md) |
+| 040835 | [PowerShell: Documentation Generation — Usability Improvement for Single-Host Lab](Project_040835/README.md) |
+| 040836 | [PowerShell: Documentation Generation — Baseline Setup for Two-Node Lab](Project_040836/README.md) |
+| 040837 | [PowerShell: Documentation Generation — Automation for Two-Node Lab](Project_040837/README.md) |
+| 040838 | [PowerShell: Documentation Generation — Recovery for Two-Node Lab](Project_040838/README.md) |
+| 040839 | [PowerShell: Documentation Generation — Reporting for Two-Node Lab](Project_040839/README.md) |
+| 040840 | [PowerShell: Documentation Generation — Usability Improvement for Two-Node Lab](Project_040840/README.md) |
 
 [Back to the portfolio home](../README.md)
