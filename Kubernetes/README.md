@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018498 | [Kubernetes: Scheduled Reporting — Recovery for Portfolio Demo](Project_018498/README.md) |
 | 018499 | [Kubernetes: Scheduled Reporting — Reporting for Portfolio Demo](Project_018499/README.md) |
 | 018500 | [Kubernetes: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_018500/README.md) |
+| 018501 | [Kubernetes: Access Review — Baseline Setup for School Lab](Project_018501/README.md) |
+| 018502 | [Kubernetes: Access Review — Automation for School Lab](Project_018502/README.md) |
+| 018503 | [Kubernetes: Access Review — Recovery for School Lab](Project_018503/README.md) |
+| 018504 | [Kubernetes: Access Review — Reporting for School Lab](Project_018504/README.md) |
+| 018505 | [Kubernetes: Access Review — Usability Improvement for School Lab](Project_018505/README.md) |
+| 018506 | [Kubernetes: Access Review — Baseline Setup for Small Business](Project_018506/README.md) |
+| 018507 | [Kubernetes: Access Review — Automation for Small Business](Project_018507/README.md) |
+| 018508 | [Kubernetes: Access Review — Recovery for Small Business](Project_018508/README.md) |
+| 018509 | [Kubernetes: Access Review — Reporting for Small Business](Project_018509/README.md) |
+| 018510 | [Kubernetes: Access Review — Usability Improvement for Small Business](Project_018510/README.md) |
+| 018511 | [Kubernetes: Access Review — Baseline Setup for Home Development](Project_018511/README.md) |
+| 018512 | [Kubernetes: Access Review — Automation for Home Development](Project_018512/README.md) |
+| 018513 | [Kubernetes: Access Review — Recovery for Home Development](Project_018513/README.md) |
+| 018514 | [Kubernetes: Access Review — Reporting for Home Development](Project_018514/README.md) |
+| 018515 | [Kubernetes: Access Review — Usability Improvement for Home Development](Project_018515/README.md) |
+| 018516 | [Kubernetes: Access Review — Baseline Setup for Public Dataset](Project_018516/README.md) |
+| 018517 | [Kubernetes: Access Review — Automation for Public Dataset](Project_018517/README.md) |
+| 018518 | [Kubernetes: Access Review — Recovery for Public Dataset](Project_018518/README.md) |
+| 018519 | [Kubernetes: Access Review — Reporting for Public Dataset](Project_018519/README.md) |
+| 018520 | [Kubernetes: Access Review — Usability Improvement for Public Dataset](Project_018520/README.md) |
 
 [Back to the portfolio home](../README.md)
