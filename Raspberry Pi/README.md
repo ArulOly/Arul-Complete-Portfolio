@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035698 | [Raspberry Pi: Configuration Comparison — Recovery for Portfolio Demo](Project_035698/README.md) |
 | 035699 | [Raspberry Pi: Configuration Comparison — Reporting for Portfolio Demo](Project_035699/README.md) |
 | 035700 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_035700/README.md) |
+| 035701 | [Raspberry Pi: Error Handling — Baseline Setup for School Lab](Project_035701/README.md) |
+| 035702 | [Raspberry Pi: Error Handling — Automation for School Lab](Project_035702/README.md) |
+| 035703 | [Raspberry Pi: Error Handling — Recovery for School Lab](Project_035703/README.md) |
+| 035704 | [Raspberry Pi: Error Handling — Reporting for School Lab](Project_035704/README.md) |
+| 035705 | [Raspberry Pi: Error Handling — Usability Improvement for School Lab](Project_035705/README.md) |
+| 035706 | [Raspberry Pi: Error Handling — Baseline Setup for Small Business](Project_035706/README.md) |
+| 035707 | [Raspberry Pi: Error Handling — Automation for Small Business](Project_035707/README.md) |
+| 035708 | [Raspberry Pi: Error Handling — Recovery for Small Business](Project_035708/README.md) |
+| 035709 | [Raspberry Pi: Error Handling — Reporting for Small Business](Project_035709/README.md) |
+| 035710 | [Raspberry Pi: Error Handling — Usability Improvement for Small Business](Project_035710/README.md) |
+| 035711 | [Raspberry Pi: Error Handling — Baseline Setup for Home Development](Project_035711/README.md) |
+| 035712 | [Raspberry Pi: Error Handling — Automation for Home Development](Project_035712/README.md) |
+| 035713 | [Raspberry Pi: Error Handling — Recovery for Home Development](Project_035713/README.md) |
+| 035714 | [Raspberry Pi: Error Handling — Reporting for Home Development](Project_035714/README.md) |
+| 035715 | [Raspberry Pi: Error Handling — Usability Improvement for Home Development](Project_035715/README.md) |
+| 035716 | [Raspberry Pi: Error Handling — Baseline Setup for Public Dataset](Project_035716/README.md) |
+| 035717 | [Raspberry Pi: Error Handling — Automation for Public Dataset](Project_035717/README.md) |
+| 035718 | [Raspberry Pi: Error Handling — Recovery for Public Dataset](Project_035718/README.md) |
+| 035719 | [Raspberry Pi: Error Handling — Reporting for Public Dataset](Project_035719/README.md) |
+| 035720 | [Raspberry Pi: Error Handling — Usability Improvement for Public Dataset](Project_035720/README.md) |
 
 [Back to the portfolio home](../README.md)
