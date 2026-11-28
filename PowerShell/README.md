@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040138 | [PowerShell: Audit — Recovery for Two-Node Lab](Project_040138/README.md) |
 | 040139 | [PowerShell: Audit — Reporting for Two-Node Lab](Project_040139/README.md) |
 | 040140 | [PowerShell: Audit — Usability Improvement for Two-Node Lab](Project_040140/README.md) |
+| 040141 | [PowerShell: Audit — Baseline Setup for Help Desk](Project_040141/README.md) |
+| 040142 | [PowerShell: Audit — Automation for Help Desk](Project_040142/README.md) |
+| 040143 | [PowerShell: Audit — Recovery for Help Desk](Project_040143/README.md) |
+| 040144 | [PowerShell: Audit — Reporting for Help Desk](Project_040144/README.md) |
+| 040145 | [PowerShell: Audit — Usability Improvement for Help Desk](Project_040145/README.md) |
+| 040146 | [PowerShell: Audit — Baseline Setup for Portfolio Demo](Project_040146/README.md) |
+| 040147 | [PowerShell: Audit — Automation for Portfolio Demo](Project_040147/README.md) |
+| 040148 | [PowerShell: Audit — Recovery for Portfolio Demo](Project_040148/README.md) |
+| 040149 | [PowerShell: Audit — Reporting for Portfolio Demo](Project_040149/README.md) |
+| 040150 | [PowerShell: Audit — Usability Improvement for Portfolio Demo](Project_040150/README.md) |
+| 040151 | [PowerShell: Log Analysis — Baseline Setup for School Lab](Project_040151/README.md) |
+| 040152 | [PowerShell: Log Analysis — Automation for School Lab](Project_040152/README.md) |
+| 040153 | [PowerShell: Log Analysis — Recovery for School Lab](Project_040153/README.md) |
+| 040154 | [PowerShell: Log Analysis — Reporting for School Lab](Project_040154/README.md) |
+| 040155 | [PowerShell: Log Analysis — Usability Improvement for School Lab](Project_040155/README.md) |
+| 040156 | [PowerShell: Log Analysis — Baseline Setup for Small Business](Project_040156/README.md) |
+| 040157 | [PowerShell: Log Analysis — Automation for Small Business](Project_040157/README.md) |
+| 040158 | [PowerShell: Log Analysis — Recovery for Small Business](Project_040158/README.md) |
+| 040159 | [PowerShell: Log Analysis — Reporting for Small Business](Project_040159/README.md) |
+| 040160 | [PowerShell: Log Analysis — Usability Improvement for Small Business](Project_040160/README.md) |
 
 [Back to the portfolio home](../README.md)
