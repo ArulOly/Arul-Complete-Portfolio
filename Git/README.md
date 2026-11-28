@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038938 | [Git: Visual Reporting — Recovery for Two-Node Lab](Project_038938/README.md) |
 | 038939 | [Git: Visual Reporting — Reporting for Two-Node Lab](Project_038939/README.md) |
 | 038940 | [Git: Visual Reporting — Usability Improvement for Two-Node Lab](Project_038940/README.md) |
+| 038941 | [Git: Visual Reporting — Baseline Setup for Help Desk](Project_038941/README.md) |
+| 038942 | [Git: Visual Reporting — Automation for Help Desk](Project_038942/README.md) |
+| 038943 | [Git: Visual Reporting — Recovery for Help Desk](Project_038943/README.md) |
+| 038944 | [Git: Visual Reporting — Reporting for Help Desk](Project_038944/README.md) |
+| 038945 | [Git: Visual Reporting — Usability Improvement for Help Desk](Project_038945/README.md) |
+| 038946 | [Git: Visual Reporting — Baseline Setup for Portfolio Demo](Project_038946/README.md) |
+| 038947 | [Git: Visual Reporting — Automation for Portfolio Demo](Project_038947/README.md) |
+| 038948 | [Git: Visual Reporting — Recovery for Portfolio Demo](Project_038948/README.md) |
+| 038949 | [Git: Visual Reporting — Reporting for Portfolio Demo](Project_038949/README.md) |
+| 038950 | [Git: Visual Reporting — Usability Improvement for Portfolio Demo](Project_038950/README.md) |
+| 038951 | [Git: Recovery Test — Baseline Setup for School Lab](Project_038951/README.md) |
+| 038952 | [Git: Recovery Test — Automation for School Lab](Project_038952/README.md) |
+| 038953 | [Git: Recovery Test — Recovery for School Lab](Project_038953/README.md) |
+| 038954 | [Git: Recovery Test — Reporting for School Lab](Project_038954/README.md) |
+| 038955 | [Git: Recovery Test — Usability Improvement for School Lab](Project_038955/README.md) |
+| 038956 | [Git: Recovery Test — Baseline Setup for Small Business](Project_038956/README.md) |
+| 038957 | [Git: Recovery Test — Automation for Small Business](Project_038957/README.md) |
+| 038958 | [Git: Recovery Test — Recovery for Small Business](Project_038958/README.md) |
+| 038959 | [Git: Recovery Test — Reporting for Small Business](Project_038959/README.md) |
+| 038960 | [Git: Recovery Test — Usability Improvement for Small Business](Project_038960/README.md) |
 
 [Back to the portfolio home](../README.md)
