@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031718 | [Greenbone: Error Handling — Recovery for Public Dataset](Project_031718/README.md) |
 | 031719 | [Greenbone: Error Handling — Reporting for Public Dataset](Project_031719/README.md) |
 | 031720 | [Greenbone: Error Handling — Usability Improvement for Public Dataset](Project_031720/README.md) |
+| 031721 | [Greenbone: Error Handling — Baseline Setup for Branch Office Simulator](Project_031721/README.md) |
+| 031722 | [Greenbone: Error Handling — Automation for Branch Office Simulator](Project_031722/README.md) |
+| 031723 | [Greenbone: Error Handling — Recovery for Branch Office Simulator](Project_031723/README.md) |
+| 031724 | [Greenbone: Error Handling — Reporting for Branch Office Simulator](Project_031724/README.md) |
+| 031725 | [Greenbone: Error Handling — Usability Improvement for Branch Office Simulator](Project_031725/README.md) |
+| 031726 | [Greenbone: Error Handling — Baseline Setup for Offline Classroom](Project_031726/README.md) |
+| 031727 | [Greenbone: Error Handling — Automation for Offline Classroom](Project_031727/README.md) |
+| 031728 | [Greenbone: Error Handling — Recovery for Offline Classroom](Project_031728/README.md) |
+| 031729 | [Greenbone: Error Handling — Reporting for Offline Classroom](Project_031729/README.md) |
+| 031730 | [Greenbone: Error Handling — Usability Improvement for Offline Classroom](Project_031730/README.md) |
+| 031731 | [Greenbone: Error Handling — Baseline Setup for Single-Host Lab](Project_031731/README.md) |
+| 031732 | [Greenbone: Error Handling — Automation for Single-Host Lab](Project_031732/README.md) |
+| 031733 | [Greenbone: Error Handling — Recovery for Single-Host Lab](Project_031733/README.md) |
+| 031734 | [Greenbone: Error Handling — Reporting for Single-Host Lab](Project_031734/README.md) |
+| 031735 | [Greenbone: Error Handling — Usability Improvement for Single-Host Lab](Project_031735/README.md) |
+| 031736 | [Greenbone: Error Handling — Baseline Setup for Two-Node Lab](Project_031736/README.md) |
+| 031737 | [Greenbone: Error Handling — Automation for Two-Node Lab](Project_031737/README.md) |
+| 031738 | [Greenbone: Error Handling — Recovery for Two-Node Lab](Project_031738/README.md) |
+| 031739 | [Greenbone: Error Handling — Reporting for Two-Node Lab](Project_031739/README.md) |
+| 031740 | [Greenbone: Error Handling — Usability Improvement for Two-Node Lab](Project_031740/README.md) |
 
 [Back to the portfolio home](../README.md)
