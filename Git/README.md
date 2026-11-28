@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038478 | [Git: Scheduled Reporting — Recovery for Offline Classroom](Project_038478/README.md) |
 | 038479 | [Git: Scheduled Reporting — Reporting for Offline Classroom](Project_038479/README.md) |
 | 038480 | [Git: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_038480/README.md) |
+| 038481 | [Git: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_038481/README.md) |
+| 038482 | [Git: Scheduled Reporting — Automation for Single-Host Lab](Project_038482/README.md) |
+| 038483 | [Git: Scheduled Reporting — Recovery for Single-Host Lab](Project_038483/README.md) |
+| 038484 | [Git: Scheduled Reporting — Reporting for Single-Host Lab](Project_038484/README.md) |
+| 038485 | [Git: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_038485/README.md) |
+| 038486 | [Git: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_038486/README.md) |
+| 038487 | [Git: Scheduled Reporting — Automation for Two-Node Lab](Project_038487/README.md) |
+| 038488 | [Git: Scheduled Reporting — Recovery for Two-Node Lab](Project_038488/README.md) |
+| 038489 | [Git: Scheduled Reporting — Reporting for Two-Node Lab](Project_038489/README.md) |
+| 038490 | [Git: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_038490/README.md) |
+| 038491 | [Git: Scheduled Reporting — Baseline Setup for Help Desk](Project_038491/README.md) |
+| 038492 | [Git: Scheduled Reporting — Automation for Help Desk](Project_038492/README.md) |
+| 038493 | [Git: Scheduled Reporting — Recovery for Help Desk](Project_038493/README.md) |
+| 038494 | [Git: Scheduled Reporting — Reporting for Help Desk](Project_038494/README.md) |
+| 038495 | [Git: Scheduled Reporting — Usability Improvement for Help Desk](Project_038495/README.md) |
+| 038496 | [Git: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_038496/README.md) |
+| 038497 | [Git: Scheduled Reporting — Automation for Portfolio Demo](Project_038497/README.md) |
+| 038498 | [Git: Scheduled Reporting — Recovery for Portfolio Demo](Project_038498/README.md) |
+| 038499 | [Git: Scheduled Reporting — Reporting for Portfolio Demo](Project_038499/README.md) |
+| 038500 | [Git: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_038500/README.md) |
 
 [Back to the portfolio home](../README.md)
