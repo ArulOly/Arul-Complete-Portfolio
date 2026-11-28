@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029658 | [Wireshark: Configuration Comparison — Recovery for Small Business](Project_029658/README.md) |
 | 029659 | [Wireshark: Configuration Comparison — Reporting for Small Business](Project_029659/README.md) |
 | 029660 | [Wireshark: Configuration Comparison — Usability Improvement for Small Business](Project_029660/README.md) |
+| 029661 | [Wireshark: Configuration Comparison — Baseline Setup for Home Development](Project_029661/README.md) |
+| 029662 | [Wireshark: Configuration Comparison — Automation for Home Development](Project_029662/README.md) |
+| 029663 | [Wireshark: Configuration Comparison — Recovery for Home Development](Project_029663/README.md) |
+| 029664 | [Wireshark: Configuration Comparison — Reporting for Home Development](Project_029664/README.md) |
+| 029665 | [Wireshark: Configuration Comparison — Usability Improvement for Home Development](Project_029665/README.md) |
+| 029666 | [Wireshark: Configuration Comparison — Baseline Setup for Public Dataset](Project_029666/README.md) |
+| 029667 | [Wireshark: Configuration Comparison — Automation for Public Dataset](Project_029667/README.md) |
+| 029668 | [Wireshark: Configuration Comparison — Recovery for Public Dataset](Project_029668/README.md) |
+| 029669 | [Wireshark: Configuration Comparison — Reporting for Public Dataset](Project_029669/README.md) |
+| 029670 | [Wireshark: Configuration Comparison — Usability Improvement for Public Dataset](Project_029670/README.md) |
+| 029671 | [Wireshark: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_029671/README.md) |
+| 029672 | [Wireshark: Configuration Comparison — Automation for Branch Office Simulator](Project_029672/README.md) |
+| 029673 | [Wireshark: Configuration Comparison — Recovery for Branch Office Simulator](Project_029673/README.md) |
+| 029674 | [Wireshark: Configuration Comparison — Reporting for Branch Office Simulator](Project_029674/README.md) |
+| 029675 | [Wireshark: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_029675/README.md) |
+| 029676 | [Wireshark: Configuration Comparison — Baseline Setup for Offline Classroom](Project_029676/README.md) |
+| 029677 | [Wireshark: Configuration Comparison — Automation for Offline Classroom](Project_029677/README.md) |
+| 029678 | [Wireshark: Configuration Comparison — Recovery for Offline Classroom](Project_029678/README.md) |
+| 029679 | [Wireshark: Configuration Comparison — Reporting for Offline Classroom](Project_029679/README.md) |
+| 029680 | [Wireshark: Configuration Comparison — Usability Improvement for Offline Classroom](Project_029680/README.md) |
 
 [Back to the portfolio home](../README.md)
