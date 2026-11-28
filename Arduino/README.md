@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037658 | [Arduino: Configuration Comparison — Recovery for Small Business](Project_037658/README.md) |
 | 037659 | [Arduino: Configuration Comparison — Reporting for Small Business](Project_037659/README.md) |
 | 037660 | [Arduino: Configuration Comparison — Usability Improvement for Small Business](Project_037660/README.md) |
+| 037661 | [Arduino: Configuration Comparison — Baseline Setup for Home Development](Project_037661/README.md) |
+| 037662 | [Arduino: Configuration Comparison — Automation for Home Development](Project_037662/README.md) |
+| 037663 | [Arduino: Configuration Comparison — Recovery for Home Development](Project_037663/README.md) |
+| 037664 | [Arduino: Configuration Comparison — Reporting for Home Development](Project_037664/README.md) |
+| 037665 | [Arduino: Configuration Comparison — Usability Improvement for Home Development](Project_037665/README.md) |
+| 037666 | [Arduino: Configuration Comparison — Baseline Setup for Public Dataset](Project_037666/README.md) |
+| 037667 | [Arduino: Configuration Comparison — Automation for Public Dataset](Project_037667/README.md) |
+| 037668 | [Arduino: Configuration Comparison — Recovery for Public Dataset](Project_037668/README.md) |
+| 037669 | [Arduino: Configuration Comparison — Reporting for Public Dataset](Project_037669/README.md) |
+| 037670 | [Arduino: Configuration Comparison — Usability Improvement for Public Dataset](Project_037670/README.md) |
+| 037671 | [Arduino: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_037671/README.md) |
+| 037672 | [Arduino: Configuration Comparison — Automation for Branch Office Simulator](Project_037672/README.md) |
+| 037673 | [Arduino: Configuration Comparison — Recovery for Branch Office Simulator](Project_037673/README.md) |
+| 037674 | [Arduino: Configuration Comparison — Reporting for Branch Office Simulator](Project_037674/README.md) |
+| 037675 | [Arduino: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_037675/README.md) |
+| 037676 | [Arduino: Configuration Comparison — Baseline Setup for Offline Classroom](Project_037676/README.md) |
+| 037677 | [Arduino: Configuration Comparison — Automation for Offline Classroom](Project_037677/README.md) |
+| 037678 | [Arduino: Configuration Comparison — Recovery for Offline Classroom](Project_037678/README.md) |
+| 037679 | [Arduino: Configuration Comparison — Reporting for Offline Classroom](Project_037679/README.md) |
+| 037680 | [Arduino: Configuration Comparison — Usability Improvement for Offline Classroom](Project_037680/README.md) |
 
 [Back to the portfolio home](../README.md)
