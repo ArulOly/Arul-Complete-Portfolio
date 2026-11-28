@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036198 | [ESP32: Log Analysis — Recovery for Portfolio Demo](Project_036198/README.md) |
 | 036199 | [ESP32: Log Analysis — Reporting for Portfolio Demo](Project_036199/README.md) |
 | 036200 | [ESP32: Log Analysis — Usability Improvement for Portfolio Demo](Project_036200/README.md) |
+| 036201 | [ESP32: Backup Verification — Baseline Setup for School Lab](Project_036201/README.md) |
+| 036202 | [ESP32: Backup Verification — Automation for School Lab](Project_036202/README.md) |
+| 036203 | [ESP32: Backup Verification — Recovery for School Lab](Project_036203/README.md) |
+| 036204 | [ESP32: Backup Verification — Reporting for School Lab](Project_036204/README.md) |
+| 036205 | [ESP32: Backup Verification — Usability Improvement for School Lab](Project_036205/README.md) |
+| 036206 | [ESP32: Backup Verification — Baseline Setup for Small Business](Project_036206/README.md) |
+| 036207 | [ESP32: Backup Verification — Automation for Small Business](Project_036207/README.md) |
+| 036208 | [ESP32: Backup Verification — Recovery for Small Business](Project_036208/README.md) |
+| 036209 | [ESP32: Backup Verification — Reporting for Small Business](Project_036209/README.md) |
+| 036210 | [ESP32: Backup Verification — Usability Improvement for Small Business](Project_036210/README.md) |
+| 036211 | [ESP32: Backup Verification — Baseline Setup for Home Development](Project_036211/README.md) |
+| 036212 | [ESP32: Backup Verification — Automation for Home Development](Project_036212/README.md) |
+| 036213 | [ESP32: Backup Verification — Recovery for Home Development](Project_036213/README.md) |
+| 036214 | [ESP32: Backup Verification — Reporting for Home Development](Project_036214/README.md) |
+| 036215 | [ESP32: Backup Verification — Usability Improvement for Home Development](Project_036215/README.md) |
+| 036216 | [ESP32: Backup Verification — Baseline Setup for Public Dataset](Project_036216/README.md) |
+| 036217 | [ESP32: Backup Verification — Automation for Public Dataset](Project_036217/README.md) |
+| 036218 | [ESP32: Backup Verification — Recovery for Public Dataset](Project_036218/README.md) |
+| 036219 | [ESP32: Backup Verification — Reporting for Public Dataset](Project_036219/README.md) |
+| 036220 | [ESP32: Backup Verification — Usability Improvement for Public Dataset](Project_036220/README.md) |
 
 [Back to the portfolio home](../README.md)
