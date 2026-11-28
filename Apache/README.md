@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042258 | [Apache: Data Import — Recovery for Small Business](Project_042258/README.md) |
 | 042259 | [Apache: Data Import — Reporting for Small Business](Project_042259/README.md) |
 | 042260 | [Apache: Data Import — Usability Improvement for Small Business](Project_042260/README.md) |
+| 042261 | [Apache: Data Import — Baseline Setup for Home Development](Project_042261/README.md) |
+| 042262 | [Apache: Data Import — Automation for Home Development](Project_042262/README.md) |
+| 042263 | [Apache: Data Import — Recovery for Home Development](Project_042263/README.md) |
+| 042264 | [Apache: Data Import — Reporting for Home Development](Project_042264/README.md) |
+| 042265 | [Apache: Data Import — Usability Improvement for Home Development](Project_042265/README.md) |
+| 042266 | [Apache: Data Import — Baseline Setup for Public Dataset](Project_042266/README.md) |
+| 042267 | [Apache: Data Import — Automation for Public Dataset](Project_042267/README.md) |
+| 042268 | [Apache: Data Import — Recovery for Public Dataset](Project_042268/README.md) |
+| 042269 | [Apache: Data Import — Reporting for Public Dataset](Project_042269/README.md) |
+| 042270 | [Apache: Data Import — Usability Improvement for Public Dataset](Project_042270/README.md) |
+| 042271 | [Apache: Data Import — Baseline Setup for Branch Office Simulator](Project_042271/README.md) |
+| 042272 | [Apache: Data Import — Automation for Branch Office Simulator](Project_042272/README.md) |
+| 042273 | [Apache: Data Import — Recovery for Branch Office Simulator](Project_042273/README.md) |
+| 042274 | [Apache: Data Import — Reporting for Branch Office Simulator](Project_042274/README.md) |
+| 042275 | [Apache: Data Import — Usability Improvement for Branch Office Simulator](Project_042275/README.md) |
+| 042276 | [Apache: Data Import — Baseline Setup for Offline Classroom](Project_042276/README.md) |
+| 042277 | [Apache: Data Import — Automation for Offline Classroom](Project_042277/README.md) |
+| 042278 | [Apache: Data Import — Recovery for Offline Classroom](Project_042278/README.md) |
+| 042279 | [Apache: Data Import — Reporting for Offline Classroom](Project_042279/README.md) |
+| 042280 | [Apache: Data Import — Usability Improvement for Offline Classroom](Project_042280/README.md) |
 
 [Back to the portfolio home](../README.md)
