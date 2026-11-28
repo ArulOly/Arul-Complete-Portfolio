@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040598 | [PowerShell: Performance Baseline — Recovery for Portfolio Demo](Project_040598/README.md) |
 | 040599 | [PowerShell: Performance Baseline — Reporting for Portfolio Demo](Project_040599/README.md) |
 | 040600 | [PowerShell: Performance Baseline — Usability Improvement for Portfolio Demo](Project_040600/README.md) |
+| 040601 | [PowerShell: Service Check — Baseline Setup for School Lab](Project_040601/README.md) |
+| 040602 | [PowerShell: Service Check — Automation for School Lab](Project_040602/README.md) |
+| 040603 | [PowerShell: Service Check — Recovery for School Lab](Project_040603/README.md) |
+| 040604 | [PowerShell: Service Check — Reporting for School Lab](Project_040604/README.md) |
+| 040605 | [PowerShell: Service Check — Usability Improvement for School Lab](Project_040605/README.md) |
+| 040606 | [PowerShell: Service Check — Baseline Setup for Small Business](Project_040606/README.md) |
+| 040607 | [PowerShell: Service Check — Automation for Small Business](Project_040607/README.md) |
+| 040608 | [PowerShell: Service Check — Recovery for Small Business](Project_040608/README.md) |
+| 040609 | [PowerShell: Service Check — Reporting for Small Business](Project_040609/README.md) |
+| 040610 | [PowerShell: Service Check — Usability Improvement for Small Business](Project_040610/README.md) |
+| 040611 | [PowerShell: Service Check — Baseline Setup for Home Development](Project_040611/README.md) |
+| 040612 | [PowerShell: Service Check — Automation for Home Development](Project_040612/README.md) |
+| 040613 | [PowerShell: Service Check — Recovery for Home Development](Project_040613/README.md) |
+| 040614 | [PowerShell: Service Check — Reporting for Home Development](Project_040614/README.md) |
+| 040615 | [PowerShell: Service Check — Usability Improvement for Home Development](Project_040615/README.md) |
+| 040616 | [PowerShell: Service Check — Baseline Setup for Public Dataset](Project_040616/README.md) |
+| 040617 | [PowerShell: Service Check — Automation for Public Dataset](Project_040617/README.md) |
+| 040618 | [PowerShell: Service Check — Recovery for Public Dataset](Project_040618/README.md) |
+| 040619 | [PowerShell: Service Check — Reporting for Public Dataset](Project_040619/README.md) |
+| 040620 | [PowerShell: Service Check — Usability Improvement for Public Dataset](Project_040620/README.md) |
 
 [Back to the portfolio home](../README.md)
