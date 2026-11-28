@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038738 | [Git: Error Handling — Recovery for Two-Node Lab](Project_038738/README.md) |
 | 038739 | [Git: Error Handling — Reporting for Two-Node Lab](Project_038739/README.md) |
 | 038740 | [Git: Error Handling — Usability Improvement for Two-Node Lab](Project_038740/README.md) |
+| 038741 | [Git: Error Handling — Baseline Setup for Help Desk](Project_038741/README.md) |
+| 038742 | [Git: Error Handling — Automation for Help Desk](Project_038742/README.md) |
+| 038743 | [Git: Error Handling — Recovery for Help Desk](Project_038743/README.md) |
+| 038744 | [Git: Error Handling — Reporting for Help Desk](Project_038744/README.md) |
+| 038745 | [Git: Error Handling — Usability Improvement for Help Desk](Project_038745/README.md) |
+| 038746 | [Git: Error Handling — Baseline Setup for Portfolio Demo](Project_038746/README.md) |
+| 038747 | [Git: Error Handling — Automation for Portfolio Demo](Project_038747/README.md) |
+| 038748 | [Git: Error Handling — Recovery for Portfolio Demo](Project_038748/README.md) |
+| 038749 | [Git: Error Handling — Reporting for Portfolio Demo](Project_038749/README.md) |
+| 038750 | [Git: Error Handling — Usability Improvement for Portfolio Demo](Project_038750/README.md) |
+| 038751 | [Git: Data Validation — Baseline Setup for School Lab](Project_038751/README.md) |
+| 038752 | [Git: Data Validation — Automation for School Lab](Project_038752/README.md) |
+| 038753 | [Git: Data Validation — Recovery for School Lab](Project_038753/README.md) |
+| 038754 | [Git: Data Validation — Reporting for School Lab](Project_038754/README.md) |
+| 038755 | [Git: Data Validation — Usability Improvement for School Lab](Project_038755/README.md) |
+| 038756 | [Git: Data Validation — Baseline Setup for Small Business](Project_038756/README.md) |
+| 038757 | [Git: Data Validation — Automation for Small Business](Project_038757/README.md) |
+| 038758 | [Git: Data Validation — Recovery for Small Business](Project_038758/README.md) |
+| 038759 | [Git: Data Validation — Reporting for Small Business](Project_038759/README.md) |
+| 038760 | [Git: Data Validation — Usability Improvement for Small Business](Project_038760/README.md) |
 
 [Back to the portfolio home](../README.md)
