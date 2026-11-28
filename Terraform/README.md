@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046558 | [Terraform: Performance Baseline — Recovery for Small Business](Project_046558/README.md) |
 | 046559 | [Terraform: Performance Baseline — Reporting for Small Business](Project_046559/README.md) |
 | 046560 | [Terraform: Performance Baseline — Usability Improvement for Small Business](Project_046560/README.md) |
+| 046561 | [Terraform: Performance Baseline — Baseline Setup for Home Development](Project_046561/README.md) |
+| 046562 | [Terraform: Performance Baseline — Automation for Home Development](Project_046562/README.md) |
+| 046563 | [Terraform: Performance Baseline — Recovery for Home Development](Project_046563/README.md) |
+| 046564 | [Terraform: Performance Baseline — Reporting for Home Development](Project_046564/README.md) |
+| 046565 | [Terraform: Performance Baseline — Usability Improvement for Home Development](Project_046565/README.md) |
+| 046566 | [Terraform: Performance Baseline — Baseline Setup for Public Dataset](Project_046566/README.md) |
+| 046567 | [Terraform: Performance Baseline — Automation for Public Dataset](Project_046567/README.md) |
+| 046568 | [Terraform: Performance Baseline — Recovery for Public Dataset](Project_046568/README.md) |
+| 046569 | [Terraform: Performance Baseline — Reporting for Public Dataset](Project_046569/README.md) |
+| 046570 | [Terraform: Performance Baseline — Usability Improvement for Public Dataset](Project_046570/README.md) |
+| 046571 | [Terraform: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_046571/README.md) |
+| 046572 | [Terraform: Performance Baseline — Automation for Branch Office Simulator](Project_046572/README.md) |
+| 046573 | [Terraform: Performance Baseline — Recovery for Branch Office Simulator](Project_046573/README.md) |
+| 046574 | [Terraform: Performance Baseline — Reporting for Branch Office Simulator](Project_046574/README.md) |
+| 046575 | [Terraform: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_046575/README.md) |
+| 046576 | [Terraform: Performance Baseline — Baseline Setup for Offline Classroom](Project_046576/README.md) |
+| 046577 | [Terraform: Performance Baseline — Automation for Offline Classroom](Project_046577/README.md) |
+| 046578 | [Terraform: Performance Baseline — Recovery for Offline Classroom](Project_046578/README.md) |
+| 046579 | [Terraform: Performance Baseline — Reporting for Offline Classroom](Project_046579/README.md) |
+| 046580 | [Terraform: Performance Baseline — Usability Improvement for Offline Classroom](Project_046580/README.md) |
 
 [Back to the portfolio home](../README.md)
