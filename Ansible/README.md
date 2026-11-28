@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047358 | [Ansible: Dashboard — Recovery for Small Business](Project_047358/README.md) |
 | 047359 | [Ansible: Dashboard — Reporting for Small Business](Project_047359/README.md) |
 | 047360 | [Ansible: Dashboard — Usability Improvement for Small Business](Project_047360/README.md) |
+| 047361 | [Ansible: Dashboard — Baseline Setup for Home Development](Project_047361/README.md) |
+| 047362 | [Ansible: Dashboard — Automation for Home Development](Project_047362/README.md) |
+| 047363 | [Ansible: Dashboard — Recovery for Home Development](Project_047363/README.md) |
+| 047364 | [Ansible: Dashboard — Reporting for Home Development](Project_047364/README.md) |
+| 047365 | [Ansible: Dashboard — Usability Improvement for Home Development](Project_047365/README.md) |
+| 047366 | [Ansible: Dashboard — Baseline Setup for Public Dataset](Project_047366/README.md) |
+| 047367 | [Ansible: Dashboard — Automation for Public Dataset](Project_047367/README.md) |
+| 047368 | [Ansible: Dashboard — Recovery for Public Dataset](Project_047368/README.md) |
+| 047369 | [Ansible: Dashboard — Reporting for Public Dataset](Project_047369/README.md) |
+| 047370 | [Ansible: Dashboard — Usability Improvement for Public Dataset](Project_047370/README.md) |
+| 047371 | [Ansible: Dashboard — Baseline Setup for Branch Office Simulator](Project_047371/README.md) |
+| 047372 | [Ansible: Dashboard — Automation for Branch Office Simulator](Project_047372/README.md) |
+| 047373 | [Ansible: Dashboard — Recovery for Branch Office Simulator](Project_047373/README.md) |
+| 047374 | [Ansible: Dashboard — Reporting for Branch Office Simulator](Project_047374/README.md) |
+| 047375 | [Ansible: Dashboard — Usability Improvement for Branch Office Simulator](Project_047375/README.md) |
+| 047376 | [Ansible: Dashboard — Baseline Setup for Offline Classroom](Project_047376/README.md) |
+| 047377 | [Ansible: Dashboard — Automation for Offline Classroom](Project_047377/README.md) |
+| 047378 | [Ansible: Dashboard — Recovery for Offline Classroom](Project_047378/README.md) |
+| 047379 | [Ansible: Dashboard — Reporting for Offline Classroom](Project_047379/README.md) |
+| 047380 | [Ansible: Dashboard — Usability Improvement for Offline Classroom](Project_047380/README.md) |
 
 [Back to the portfolio home](../README.md)
