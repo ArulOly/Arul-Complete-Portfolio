@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031198 | [Greenbone: Log Analysis — Recovery for Portfolio Demo](Project_031198/README.md) |
 | 031199 | [Greenbone: Log Analysis — Reporting for Portfolio Demo](Project_031199/README.md) |
 | 031200 | [Greenbone: Log Analysis — Usability Improvement for Portfolio Demo](Project_031200/README.md) |
+| 031201 | [Greenbone: Backup Verification — Baseline Setup for School Lab](Project_031201/README.md) |
+| 031202 | [Greenbone: Backup Verification — Automation for School Lab](Project_031202/README.md) |
+| 031203 | [Greenbone: Backup Verification — Recovery for School Lab](Project_031203/README.md) |
+| 031204 | [Greenbone: Backup Verification — Reporting for School Lab](Project_031204/README.md) |
+| 031205 | [Greenbone: Backup Verification — Usability Improvement for School Lab](Project_031205/README.md) |
+| 031206 | [Greenbone: Backup Verification — Baseline Setup for Small Business](Project_031206/README.md) |
+| 031207 | [Greenbone: Backup Verification — Automation for Small Business](Project_031207/README.md) |
+| 031208 | [Greenbone: Backup Verification — Recovery for Small Business](Project_031208/README.md) |
+| 031209 | [Greenbone: Backup Verification — Reporting for Small Business](Project_031209/README.md) |
+| 031210 | [Greenbone: Backup Verification — Usability Improvement for Small Business](Project_031210/README.md) |
+| 031211 | [Greenbone: Backup Verification — Baseline Setup for Home Development](Project_031211/README.md) |
+| 031212 | [Greenbone: Backup Verification — Automation for Home Development](Project_031212/README.md) |
+| 031213 | [Greenbone: Backup Verification — Recovery for Home Development](Project_031213/README.md) |
+| 031214 | [Greenbone: Backup Verification — Reporting for Home Development](Project_031214/README.md) |
+| 031215 | [Greenbone: Backup Verification — Usability Improvement for Home Development](Project_031215/README.md) |
+| 031216 | [Greenbone: Backup Verification — Baseline Setup for Public Dataset](Project_031216/README.md) |
+| 031217 | [Greenbone: Backup Verification — Automation for Public Dataset](Project_031217/README.md) |
+| 031218 | [Greenbone: Backup Verification — Recovery for Public Dataset](Project_031218/README.md) |
+| 031219 | [Greenbone: Backup Verification — Reporting for Public Dataset](Project_031219/README.md) |
+| 031220 | [Greenbone: Backup Verification — Usability Improvement for Public Dataset](Project_031220/README.md) |
 
 [Back to the portfolio home](../README.md)
