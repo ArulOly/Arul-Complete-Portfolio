@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014438 | [AWS: Alerting — Recovery for Two-Node Lab](Project_014438/README.md) |
 | 014439 | [AWS: Alerting — Reporting for Two-Node Lab](Project_014439/README.md) |
 | 014440 | [AWS: Alerting — Usability Improvement for Two-Node Lab](Project_014440/README.md) |
+| 014441 | [AWS: Alerting — Baseline Setup for Help Desk](Project_014441/README.md) |
+| 014442 | [AWS: Alerting — Automation for Help Desk](Project_014442/README.md) |
+| 014443 | [AWS: Alerting — Recovery for Help Desk](Project_014443/README.md) |
+| 014444 | [AWS: Alerting — Reporting for Help Desk](Project_014444/README.md) |
+| 014445 | [AWS: Alerting — Usability Improvement for Help Desk](Project_014445/README.md) |
+| 014446 | [AWS: Alerting — Baseline Setup for Portfolio Demo](Project_014446/README.md) |
+| 014447 | [AWS: Alerting — Automation for Portfolio Demo](Project_014447/README.md) |
+| 014448 | [AWS: Alerting — Recovery for Portfolio Demo](Project_014448/README.md) |
+| 014449 | [AWS: Alerting — Reporting for Portfolio Demo](Project_014449/README.md) |
+| 014450 | [AWS: Alerting — Usability Improvement for Portfolio Demo](Project_014450/README.md) |
+| 014451 | [AWS: Scheduled Reporting — Baseline Setup for School Lab](Project_014451/README.md) |
+| 014452 | [AWS: Scheduled Reporting — Automation for School Lab](Project_014452/README.md) |
+| 014453 | [AWS: Scheduled Reporting — Recovery for School Lab](Project_014453/README.md) |
+| 014454 | [AWS: Scheduled Reporting — Reporting for School Lab](Project_014454/README.md) |
+| 014455 | [AWS: Scheduled Reporting — Usability Improvement for School Lab](Project_014455/README.md) |
+| 014456 | [AWS: Scheduled Reporting — Baseline Setup for Small Business](Project_014456/README.md) |
+| 014457 | [AWS: Scheduled Reporting — Automation for Small Business](Project_014457/README.md) |
+| 014458 | [AWS: Scheduled Reporting — Recovery for Small Business](Project_014458/README.md) |
+| 014459 | [AWS: Scheduled Reporting — Reporting for Small Business](Project_014459/README.md) |
+| 014460 | [AWS: Scheduled Reporting — Usability Improvement for Small Business](Project_014460/README.md) |
 
 [Back to the portfolio home](../README.md)
