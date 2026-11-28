@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017318 | [Docker: Data Export — Recovery for Public Dataset](Project_017318/README.md) |
 | 017319 | [Docker: Data Export — Reporting for Public Dataset](Project_017319/README.md) |
 | 017320 | [Docker: Data Export — Usability Improvement for Public Dataset](Project_017320/README.md) |
+| 017321 | [Docker: Data Export — Baseline Setup for Branch Office Simulator](Project_017321/README.md) |
+| 017322 | [Docker: Data Export — Automation for Branch Office Simulator](Project_017322/README.md) |
+| 017323 | [Docker: Data Export — Recovery for Branch Office Simulator](Project_017323/README.md) |
+| 017324 | [Docker: Data Export — Reporting for Branch Office Simulator](Project_017324/README.md) |
+| 017325 | [Docker: Data Export — Usability Improvement for Branch Office Simulator](Project_017325/README.md) |
+| 017326 | [Docker: Data Export — Baseline Setup for Offline Classroom](Project_017326/README.md) |
+| 017327 | [Docker: Data Export — Automation for Offline Classroom](Project_017327/README.md) |
+| 017328 | [Docker: Data Export — Recovery for Offline Classroom](Project_017328/README.md) |
+| 017329 | [Docker: Data Export — Reporting for Offline Classroom](Project_017329/README.md) |
+| 017330 | [Docker: Data Export — Usability Improvement for Offline Classroom](Project_017330/README.md) |
+| 017331 | [Docker: Data Export — Baseline Setup for Single-Host Lab](Project_017331/README.md) |
+| 017332 | [Docker: Data Export — Automation for Single-Host Lab](Project_017332/README.md) |
+| 017333 | [Docker: Data Export — Recovery for Single-Host Lab](Project_017333/README.md) |
+| 017334 | [Docker: Data Export — Reporting for Single-Host Lab](Project_017334/README.md) |
+| 017335 | [Docker: Data Export — Usability Improvement for Single-Host Lab](Project_017335/README.md) |
+| 017336 | [Docker: Data Export — Baseline Setup for Two-Node Lab](Project_017336/README.md) |
+| 017337 | [Docker: Data Export — Automation for Two-Node Lab](Project_017337/README.md) |
+| 017338 | [Docker: Data Export — Recovery for Two-Node Lab](Project_017338/README.md) |
+| 017339 | [Docker: Data Export — Reporting for Two-Node Lab](Project_017339/README.md) |
+| 017340 | [Docker: Data Export — Usability Improvement for Two-Node Lab](Project_017340/README.md) |
 
 [Back to the portfolio home](../README.md)
