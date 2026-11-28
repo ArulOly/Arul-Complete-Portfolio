@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017078 | [Docker: Monitoring — Recovery for Offline Classroom](Project_017078/README.md) |
 | 017079 | [Docker: Monitoring — Reporting for Offline Classroom](Project_017079/README.md) |
 | 017080 | [Docker: Monitoring — Usability Improvement for Offline Classroom](Project_017080/README.md) |
+| 017081 | [Docker: Monitoring — Baseline Setup for Single-Host Lab](Project_017081/README.md) |
+| 017082 | [Docker: Monitoring — Automation for Single-Host Lab](Project_017082/README.md) |
+| 017083 | [Docker: Monitoring — Recovery for Single-Host Lab](Project_017083/README.md) |
+| 017084 | [Docker: Monitoring — Reporting for Single-Host Lab](Project_017084/README.md) |
+| 017085 | [Docker: Monitoring — Usability Improvement for Single-Host Lab](Project_017085/README.md) |
+| 017086 | [Docker: Monitoring — Baseline Setup for Two-Node Lab](Project_017086/README.md) |
+| 017087 | [Docker: Monitoring — Automation for Two-Node Lab](Project_017087/README.md) |
+| 017088 | [Docker: Monitoring — Recovery for Two-Node Lab](Project_017088/README.md) |
+| 017089 | [Docker: Monitoring — Reporting for Two-Node Lab](Project_017089/README.md) |
+| 017090 | [Docker: Monitoring — Usability Improvement for Two-Node Lab](Project_017090/README.md) |
+| 017091 | [Docker: Monitoring — Baseline Setup for Help Desk](Project_017091/README.md) |
+| 017092 | [Docker: Monitoring — Automation for Help Desk](Project_017092/README.md) |
+| 017093 | [Docker: Monitoring — Recovery for Help Desk](Project_017093/README.md) |
+| 017094 | [Docker: Monitoring — Reporting for Help Desk](Project_017094/README.md) |
+| 017095 | [Docker: Monitoring — Usability Improvement for Help Desk](Project_017095/README.md) |
+| 017096 | [Docker: Monitoring — Baseline Setup for Portfolio Demo](Project_017096/README.md) |
+| 017097 | [Docker: Monitoring — Automation for Portfolio Demo](Project_017097/README.md) |
+| 017098 | [Docker: Monitoring — Recovery for Portfolio Demo](Project_017098/README.md) |
+| 017099 | [Docker: Monitoring — Reporting for Portfolio Demo](Project_017099/README.md) |
+| 017100 | [Docker: Monitoring — Usability Improvement for Portfolio Demo](Project_017100/README.md) |
 
 [Back to the portfolio home](../README.md)
