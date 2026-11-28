@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031798 | [Greenbone: Data Validation — Recovery for Portfolio Demo](Project_031798/README.md) |
 | 031799 | [Greenbone: Data Validation — Reporting for Portfolio Demo](Project_031799/README.md) |
 | 031800 | [Greenbone: Data Validation — Usability Improvement for Portfolio Demo](Project_031800/README.md) |
+| 031801 | [Greenbone: Documentation Generation — Baseline Setup for School Lab](Project_031801/README.md) |
+| 031802 | [Greenbone: Documentation Generation — Automation for School Lab](Project_031802/README.md) |
+| 031803 | [Greenbone: Documentation Generation — Recovery for School Lab](Project_031803/README.md) |
+| 031804 | [Greenbone: Documentation Generation — Reporting for School Lab](Project_031804/README.md) |
+| 031805 | [Greenbone: Documentation Generation — Usability Improvement for School Lab](Project_031805/README.md) |
+| 031806 | [Greenbone: Documentation Generation — Baseline Setup for Small Business](Project_031806/README.md) |
+| 031807 | [Greenbone: Documentation Generation — Automation for Small Business](Project_031807/README.md) |
+| 031808 | [Greenbone: Documentation Generation — Recovery for Small Business](Project_031808/README.md) |
+| 031809 | [Greenbone: Documentation Generation — Reporting for Small Business](Project_031809/README.md) |
+| 031810 | [Greenbone: Documentation Generation — Usability Improvement for Small Business](Project_031810/README.md) |
+| 031811 | [Greenbone: Documentation Generation — Baseline Setup for Home Development](Project_031811/README.md) |
+| 031812 | [Greenbone: Documentation Generation — Automation for Home Development](Project_031812/README.md) |
+| 031813 | [Greenbone: Documentation Generation — Recovery for Home Development](Project_031813/README.md) |
+| 031814 | [Greenbone: Documentation Generation — Reporting for Home Development](Project_031814/README.md) |
+| 031815 | [Greenbone: Documentation Generation — Usability Improvement for Home Development](Project_031815/README.md) |
+| 031816 | [Greenbone: Documentation Generation — Baseline Setup for Public Dataset](Project_031816/README.md) |
+| 031817 | [Greenbone: Documentation Generation — Automation for Public Dataset](Project_031817/README.md) |
+| 031818 | [Greenbone: Documentation Generation — Recovery for Public Dataset](Project_031818/README.md) |
+| 031819 | [Greenbone: Documentation Generation — Reporting for Public Dataset](Project_031819/README.md) |
+| 031820 | [Greenbone: Documentation Generation — Usability Improvement for Public Dataset](Project_031820/README.md) |
 
 [Back to the portfolio home](../README.md)
