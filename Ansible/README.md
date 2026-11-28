@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047818 | [Ansible: Documentation Generation — Recovery for Public Dataset](Project_047818/README.md) |
 | 047819 | [Ansible: Documentation Generation — Reporting for Public Dataset](Project_047819/README.md) |
 | 047820 | [Ansible: Documentation Generation — Usability Improvement for Public Dataset](Project_047820/README.md) |
+| 047821 | [Ansible: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_047821/README.md) |
+| 047822 | [Ansible: Documentation Generation — Automation for Branch Office Simulator](Project_047822/README.md) |
+| 047823 | [Ansible: Documentation Generation — Recovery for Branch Office Simulator](Project_047823/README.md) |
+| 047824 | [Ansible: Documentation Generation — Reporting for Branch Office Simulator](Project_047824/README.md) |
+| 047825 | [Ansible: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_047825/README.md) |
+| 047826 | [Ansible: Documentation Generation — Baseline Setup for Offline Classroom](Project_047826/README.md) |
+| 047827 | [Ansible: Documentation Generation — Automation for Offline Classroom](Project_047827/README.md) |
+| 047828 | [Ansible: Documentation Generation — Recovery for Offline Classroom](Project_047828/README.md) |
+| 047829 | [Ansible: Documentation Generation — Reporting for Offline Classroom](Project_047829/README.md) |
+| 047830 | [Ansible: Documentation Generation — Usability Improvement for Offline Classroom](Project_047830/README.md) |
+| 047831 | [Ansible: Documentation Generation — Baseline Setup for Single-Host Lab](Project_047831/README.md) |
+| 047832 | [Ansible: Documentation Generation — Automation for Single-Host Lab](Project_047832/README.md) |
+| 047833 | [Ansible: Documentation Generation — Recovery for Single-Host Lab](Project_047833/README.md) |
+| 047834 | [Ansible: Documentation Generation — Reporting for Single-Host Lab](Project_047834/README.md) |
+| 047835 | [Ansible: Documentation Generation — Usability Improvement for Single-Host Lab](Project_047835/README.md) |
+| 047836 | [Ansible: Documentation Generation — Baseline Setup for Two-Node Lab](Project_047836/README.md) |
+| 047837 | [Ansible: Documentation Generation — Automation for Two-Node Lab](Project_047837/README.md) |
+| 047838 | [Ansible: Documentation Generation — Recovery for Two-Node Lab](Project_047838/README.md) |
+| 047839 | [Ansible: Documentation Generation — Reporting for Two-Node Lab](Project_047839/README.md) |
+| 047840 | [Ansible: Documentation Generation — Usability Improvement for Two-Node Lab](Project_047840/README.md) |
 
 [Back to the portfolio home](../README.md)
