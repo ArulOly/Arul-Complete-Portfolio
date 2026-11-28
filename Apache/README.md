@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042578 | [Apache: Performance Baseline — Recovery for Offline Classroom](Project_042578/README.md) |
 | 042579 | [Apache: Performance Baseline — Reporting for Offline Classroom](Project_042579/README.md) |
 | 042580 | [Apache: Performance Baseline — Usability Improvement for Offline Classroom](Project_042580/README.md) |
+| 042581 | [Apache: Performance Baseline — Baseline Setup for Single-Host Lab](Project_042581/README.md) |
+| 042582 | [Apache: Performance Baseline — Automation for Single-Host Lab](Project_042582/README.md) |
+| 042583 | [Apache: Performance Baseline — Recovery for Single-Host Lab](Project_042583/README.md) |
+| 042584 | [Apache: Performance Baseline — Reporting for Single-Host Lab](Project_042584/README.md) |
+| 042585 | [Apache: Performance Baseline — Usability Improvement for Single-Host Lab](Project_042585/README.md) |
+| 042586 | [Apache: Performance Baseline — Baseline Setup for Two-Node Lab](Project_042586/README.md) |
+| 042587 | [Apache: Performance Baseline — Automation for Two-Node Lab](Project_042587/README.md) |
+| 042588 | [Apache: Performance Baseline — Recovery for Two-Node Lab](Project_042588/README.md) |
+| 042589 | [Apache: Performance Baseline — Reporting for Two-Node Lab](Project_042589/README.md) |
+| 042590 | [Apache: Performance Baseline — Usability Improvement for Two-Node Lab](Project_042590/README.md) |
+| 042591 | [Apache: Performance Baseline — Baseline Setup for Help Desk](Project_042591/README.md) |
+| 042592 | [Apache: Performance Baseline — Automation for Help Desk](Project_042592/README.md) |
+| 042593 | [Apache: Performance Baseline — Recovery for Help Desk](Project_042593/README.md) |
+| 042594 | [Apache: Performance Baseline — Reporting for Help Desk](Project_042594/README.md) |
+| 042595 | [Apache: Performance Baseline — Usability Improvement for Help Desk](Project_042595/README.md) |
+| 042596 | [Apache: Performance Baseline — Baseline Setup for Portfolio Demo](Project_042596/README.md) |
+| 042597 | [Apache: Performance Baseline — Automation for Portfolio Demo](Project_042597/README.md) |
+| 042598 | [Apache: Performance Baseline — Recovery for Portfolio Demo](Project_042598/README.md) |
+| 042599 | [Apache: Performance Baseline — Reporting for Portfolio Demo](Project_042599/README.md) |
+| 042600 | [Apache: Performance Baseline — Usability Improvement for Portfolio Demo](Project_042600/README.md) |
 
 [Back to the portfolio home](../README.md)
