@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038918 | [Git: Visual Reporting — Recovery for Public Dataset](Project_038918/README.md) |
 | 038919 | [Git: Visual Reporting — Reporting for Public Dataset](Project_038919/README.md) |
 | 038920 | [Git: Visual Reporting — Usability Improvement for Public Dataset](Project_038920/README.md) |
+| 038921 | [Git: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_038921/README.md) |
+| 038922 | [Git: Visual Reporting — Automation for Branch Office Simulator](Project_038922/README.md) |
+| 038923 | [Git: Visual Reporting — Recovery for Branch Office Simulator](Project_038923/README.md) |
+| 038924 | [Git: Visual Reporting — Reporting for Branch Office Simulator](Project_038924/README.md) |
+| 038925 | [Git: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_038925/README.md) |
+| 038926 | [Git: Visual Reporting — Baseline Setup for Offline Classroom](Project_038926/README.md) |
+| 038927 | [Git: Visual Reporting — Automation for Offline Classroom](Project_038927/README.md) |
+| 038928 | [Git: Visual Reporting — Recovery for Offline Classroom](Project_038928/README.md) |
+| 038929 | [Git: Visual Reporting — Reporting for Offline Classroom](Project_038929/README.md) |
+| 038930 | [Git: Visual Reporting — Usability Improvement for Offline Classroom](Project_038930/README.md) |
+| 038931 | [Git: Visual Reporting — Baseline Setup for Single-Host Lab](Project_038931/README.md) |
+| 038932 | [Git: Visual Reporting — Automation for Single-Host Lab](Project_038932/README.md) |
+| 038933 | [Git: Visual Reporting — Recovery for Single-Host Lab](Project_038933/README.md) |
+| 038934 | [Git: Visual Reporting — Reporting for Single-Host Lab](Project_038934/README.md) |
+| 038935 | [Git: Visual Reporting — Usability Improvement for Single-Host Lab](Project_038935/README.md) |
+| 038936 | [Git: Visual Reporting — Baseline Setup for Two-Node Lab](Project_038936/README.md) |
+| 038937 | [Git: Visual Reporting — Automation for Two-Node Lab](Project_038937/README.md) |
+| 038938 | [Git: Visual Reporting — Recovery for Two-Node Lab](Project_038938/README.md) |
+| 038939 | [Git: Visual Reporting — Reporting for Two-Node Lab](Project_038939/README.md) |
+| 038940 | [Git: Visual Reporting — Usability Improvement for Two-Node Lab](Project_038940/README.md) |
 
 [Back to the portfolio home](../README.md)
