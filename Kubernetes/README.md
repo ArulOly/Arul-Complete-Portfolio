@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018658 | [Kubernetes: Configuration Comparison — Recovery for Small Business](Project_018658/README.md) |
 | 018659 | [Kubernetes: Configuration Comparison — Reporting for Small Business](Project_018659/README.md) |
 | 018660 | [Kubernetes: Configuration Comparison — Usability Improvement for Small Business](Project_018660/README.md) |
+| 018661 | [Kubernetes: Configuration Comparison — Baseline Setup for Home Development](Project_018661/README.md) |
+| 018662 | [Kubernetes: Configuration Comparison — Automation for Home Development](Project_018662/README.md) |
+| 018663 | [Kubernetes: Configuration Comparison — Recovery for Home Development](Project_018663/README.md) |
+| 018664 | [Kubernetes: Configuration Comparison — Reporting for Home Development](Project_018664/README.md) |
+| 018665 | [Kubernetes: Configuration Comparison — Usability Improvement for Home Development](Project_018665/README.md) |
+| 018666 | [Kubernetes: Configuration Comparison — Baseline Setup for Public Dataset](Project_018666/README.md) |
+| 018667 | [Kubernetes: Configuration Comparison — Automation for Public Dataset](Project_018667/README.md) |
+| 018668 | [Kubernetes: Configuration Comparison — Recovery for Public Dataset](Project_018668/README.md) |
+| 018669 | [Kubernetes: Configuration Comparison — Reporting for Public Dataset](Project_018669/README.md) |
+| 018670 | [Kubernetes: Configuration Comparison — Usability Improvement for Public Dataset](Project_018670/README.md) |
+| 018671 | [Kubernetes: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_018671/README.md) |
+| 018672 | [Kubernetes: Configuration Comparison — Automation for Branch Office Simulator](Project_018672/README.md) |
+| 018673 | [Kubernetes: Configuration Comparison — Recovery for Branch Office Simulator](Project_018673/README.md) |
+| 018674 | [Kubernetes: Configuration Comparison — Reporting for Branch Office Simulator](Project_018674/README.md) |
+| 018675 | [Kubernetes: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_018675/README.md) |
+| 018676 | [Kubernetes: Configuration Comparison — Baseline Setup for Offline Classroom](Project_018676/README.md) |
+| 018677 | [Kubernetes: Configuration Comparison — Automation for Offline Classroom](Project_018677/README.md) |
+| 018678 | [Kubernetes: Configuration Comparison — Recovery for Offline Classroom](Project_018678/README.md) |
+| 018679 | [Kubernetes: Configuration Comparison — Reporting for Offline Classroom](Project_018679/README.md) |
+| 018680 | [Kubernetes: Configuration Comparison — Usability Improvement for Offline Classroom](Project_018680/README.md) |
 
 [Back to the portfolio home](../README.md)
