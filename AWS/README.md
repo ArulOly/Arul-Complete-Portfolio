@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014598 | [AWS: Performance Baseline — Recovery for Portfolio Demo](Project_014598/README.md) |
 | 014599 | [AWS: Performance Baseline — Reporting for Portfolio Demo](Project_014599/README.md) |
 | 014600 | [AWS: Performance Baseline — Usability Improvement for Portfolio Demo](Project_014600/README.md) |
+| 014601 | [AWS: Service Check — Baseline Setup for School Lab](Project_014601/README.md) |
+| 014602 | [AWS: Service Check — Automation for School Lab](Project_014602/README.md) |
+| 014603 | [AWS: Service Check — Recovery for School Lab](Project_014603/README.md) |
+| 014604 | [AWS: Service Check — Reporting for School Lab](Project_014604/README.md) |
+| 014605 | [AWS: Service Check — Usability Improvement for School Lab](Project_014605/README.md) |
+| 014606 | [AWS: Service Check — Baseline Setup for Small Business](Project_014606/README.md) |
+| 014607 | [AWS: Service Check — Automation for Small Business](Project_014607/README.md) |
+| 014608 | [AWS: Service Check — Recovery for Small Business](Project_014608/README.md) |
+| 014609 | [AWS: Service Check — Reporting for Small Business](Project_014609/README.md) |
+| 014610 | [AWS: Service Check — Usability Improvement for Small Business](Project_014610/README.md) |
+| 014611 | [AWS: Service Check — Baseline Setup for Home Development](Project_014611/README.md) |
+| 014612 | [AWS: Service Check — Automation for Home Development](Project_014612/README.md) |
+| 014613 | [AWS: Service Check — Recovery for Home Development](Project_014613/README.md) |
+| 014614 | [AWS: Service Check — Reporting for Home Development](Project_014614/README.md) |
+| 014615 | [AWS: Service Check — Usability Improvement for Home Development](Project_014615/README.md) |
+| 014616 | [AWS: Service Check — Baseline Setup for Public Dataset](Project_014616/README.md) |
+| 014617 | [AWS: Service Check — Automation for Public Dataset](Project_014617/README.md) |
+| 014618 | [AWS: Service Check — Recovery for Public Dataset](Project_014618/README.md) |
+| 014619 | [AWS: Service Check — Reporting for Public Dataset](Project_014619/README.md) |
+| 014620 | [AWS: Service Check — Usability Improvement for Public Dataset](Project_014620/README.md) |
 
 [Back to the portfolio home](../README.md)
