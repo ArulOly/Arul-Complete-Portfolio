@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040318 | [PowerShell: Data Export — Recovery for Public Dataset](Project_040318/README.md) |
 | 040319 | [PowerShell: Data Export — Reporting for Public Dataset](Project_040319/README.md) |
 | 040320 | [PowerShell: Data Export — Usability Improvement for Public Dataset](Project_040320/README.md) |
+| 040321 | [PowerShell: Data Export — Baseline Setup for Branch Office Simulator](Project_040321/README.md) |
+| 040322 | [PowerShell: Data Export — Automation for Branch Office Simulator](Project_040322/README.md) |
+| 040323 | [PowerShell: Data Export — Recovery for Branch Office Simulator](Project_040323/README.md) |
+| 040324 | [PowerShell: Data Export — Reporting for Branch Office Simulator](Project_040324/README.md) |
+| 040325 | [PowerShell: Data Export — Usability Improvement for Branch Office Simulator](Project_040325/README.md) |
+| 040326 | [PowerShell: Data Export — Baseline Setup for Offline Classroom](Project_040326/README.md) |
+| 040327 | [PowerShell: Data Export — Automation for Offline Classroom](Project_040327/README.md) |
+| 040328 | [PowerShell: Data Export — Recovery for Offline Classroom](Project_040328/README.md) |
+| 040329 | [PowerShell: Data Export — Reporting for Offline Classroom](Project_040329/README.md) |
+| 040330 | [PowerShell: Data Export — Usability Improvement for Offline Classroom](Project_040330/README.md) |
+| 040331 | [PowerShell: Data Export — Baseline Setup for Single-Host Lab](Project_040331/README.md) |
+| 040332 | [PowerShell: Data Export — Automation for Single-Host Lab](Project_040332/README.md) |
+| 040333 | [PowerShell: Data Export — Recovery for Single-Host Lab](Project_040333/README.md) |
+| 040334 | [PowerShell: Data Export — Reporting for Single-Host Lab](Project_040334/README.md) |
+| 040335 | [PowerShell: Data Export — Usability Improvement for Single-Host Lab](Project_040335/README.md) |
+| 040336 | [PowerShell: Data Export — Baseline Setup for Two-Node Lab](Project_040336/README.md) |
+| 040337 | [PowerShell: Data Export — Automation for Two-Node Lab](Project_040337/README.md) |
+| 040338 | [PowerShell: Data Export — Recovery for Two-Node Lab](Project_040338/README.md) |
+| 040339 | [PowerShell: Data Export — Reporting for Two-Node Lab](Project_040339/README.md) |
+| 040340 | [PowerShell: Data Export — Usability Improvement for Two-Node Lab](Project_040340/README.md) |
 
 [Back to the portfolio home](../README.md)
