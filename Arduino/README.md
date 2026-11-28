@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037798 | [Arduino: Data Validation — Recovery for Portfolio Demo](Project_037798/README.md) |
 | 037799 | [Arduino: Data Validation — Reporting for Portfolio Demo](Project_037799/README.md) |
 | 037800 | [Arduino: Data Validation — Usability Improvement for Portfolio Demo](Project_037800/README.md) |
+| 037801 | [Arduino: Documentation Generation — Baseline Setup for School Lab](Project_037801/README.md) |
+| 037802 | [Arduino: Documentation Generation — Automation for School Lab](Project_037802/README.md) |
+| 037803 | [Arduino: Documentation Generation — Recovery for School Lab](Project_037803/README.md) |
+| 037804 | [Arduino: Documentation Generation — Reporting for School Lab](Project_037804/README.md) |
+| 037805 | [Arduino: Documentation Generation — Usability Improvement for School Lab](Project_037805/README.md) |
+| 037806 | [Arduino: Documentation Generation — Baseline Setup for Small Business](Project_037806/README.md) |
+| 037807 | [Arduino: Documentation Generation — Automation for Small Business](Project_037807/README.md) |
+| 037808 | [Arduino: Documentation Generation — Recovery for Small Business](Project_037808/README.md) |
+| 037809 | [Arduino: Documentation Generation — Reporting for Small Business](Project_037809/README.md) |
+| 037810 | [Arduino: Documentation Generation — Usability Improvement for Small Business](Project_037810/README.md) |
+| 037811 | [Arduino: Documentation Generation — Baseline Setup for Home Development](Project_037811/README.md) |
+| 037812 | [Arduino: Documentation Generation — Automation for Home Development](Project_037812/README.md) |
+| 037813 | [Arduino: Documentation Generation — Recovery for Home Development](Project_037813/README.md) |
+| 037814 | [Arduino: Documentation Generation — Reporting for Home Development](Project_037814/README.md) |
+| 037815 | [Arduino: Documentation Generation — Usability Improvement for Home Development](Project_037815/README.md) |
+| 037816 | [Arduino: Documentation Generation — Baseline Setup for Public Dataset](Project_037816/README.md) |
+| 037817 | [Arduino: Documentation Generation — Automation for Public Dataset](Project_037817/README.md) |
+| 037818 | [Arduino: Documentation Generation — Recovery for Public Dataset](Project_037818/README.md) |
+| 037819 | [Arduino: Documentation Generation — Reporting for Public Dataset](Project_037819/README.md) |
+| 037820 | [Arduino: Documentation Generation — Usability Improvement for Public Dataset](Project_037820/README.md) |
 
 [Back to the portfolio home](../README.md)
