@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029058 | [Wireshark: Monitoring — Recovery for Small Business](Project_029058/README.md) |
 | 029059 | [Wireshark: Monitoring — Reporting for Small Business](Project_029059/README.md) |
 | 029060 | [Wireshark: Monitoring — Usability Improvement for Small Business](Project_029060/README.md) |
+| 029061 | [Wireshark: Monitoring — Baseline Setup for Home Development](Project_029061/README.md) |
+| 029062 | [Wireshark: Monitoring — Automation for Home Development](Project_029062/README.md) |
+| 029063 | [Wireshark: Monitoring — Recovery for Home Development](Project_029063/README.md) |
+| 029064 | [Wireshark: Monitoring — Reporting for Home Development](Project_029064/README.md) |
+| 029065 | [Wireshark: Monitoring — Usability Improvement for Home Development](Project_029065/README.md) |
+| 029066 | [Wireshark: Monitoring — Baseline Setup for Public Dataset](Project_029066/README.md) |
+| 029067 | [Wireshark: Monitoring — Automation for Public Dataset](Project_029067/README.md) |
+| 029068 | [Wireshark: Monitoring — Recovery for Public Dataset](Project_029068/README.md) |
+| 029069 | [Wireshark: Monitoring — Reporting for Public Dataset](Project_029069/README.md) |
+| 029070 | [Wireshark: Monitoring — Usability Improvement for Public Dataset](Project_029070/README.md) |
+| 029071 | [Wireshark: Monitoring — Baseline Setup for Branch Office Simulator](Project_029071/README.md) |
+| 029072 | [Wireshark: Monitoring — Automation for Branch Office Simulator](Project_029072/README.md) |
+| 029073 | [Wireshark: Monitoring — Recovery for Branch Office Simulator](Project_029073/README.md) |
+| 029074 | [Wireshark: Monitoring — Reporting for Branch Office Simulator](Project_029074/README.md) |
+| 029075 | [Wireshark: Monitoring — Usability Improvement for Branch Office Simulator](Project_029075/README.md) |
+| 029076 | [Wireshark: Monitoring — Baseline Setup for Offline Classroom](Project_029076/README.md) |
+| 029077 | [Wireshark: Monitoring — Automation for Offline Classroom](Project_029077/README.md) |
+| 029078 | [Wireshark: Monitoring — Recovery for Offline Classroom](Project_029078/README.md) |
+| 029079 | [Wireshark: Monitoring — Reporting for Offline Classroom](Project_029079/README.md) |
+| 029080 | [Wireshark: Monitoring — Usability Improvement for Offline Classroom](Project_029080/README.md) |
 
 [Back to the portfolio home](../README.md)
