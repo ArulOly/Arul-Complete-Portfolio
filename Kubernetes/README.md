@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018958 | [Kubernetes: Recovery Test — Recovery for Small Business](Project_018958/README.md) |
 | 018959 | [Kubernetes: Recovery Test — Reporting for Small Business](Project_018959/README.md) |
 | 018960 | [Kubernetes: Recovery Test — Usability Improvement for Small Business](Project_018960/README.md) |
+| 018961 | [Kubernetes: Recovery Test — Baseline Setup for Home Development](Project_018961/README.md) |
+| 018962 | [Kubernetes: Recovery Test — Automation for Home Development](Project_018962/README.md) |
+| 018963 | [Kubernetes: Recovery Test — Recovery for Home Development](Project_018963/README.md) |
+| 018964 | [Kubernetes: Recovery Test — Reporting for Home Development](Project_018964/README.md) |
+| 018965 | [Kubernetes: Recovery Test — Usability Improvement for Home Development](Project_018965/README.md) |
+| 018966 | [Kubernetes: Recovery Test — Baseline Setup for Public Dataset](Project_018966/README.md) |
+| 018967 | [Kubernetes: Recovery Test — Automation for Public Dataset](Project_018967/README.md) |
+| 018968 | [Kubernetes: Recovery Test — Recovery for Public Dataset](Project_018968/README.md) |
+| 018969 | [Kubernetes: Recovery Test — Reporting for Public Dataset](Project_018969/README.md) |
+| 018970 | [Kubernetes: Recovery Test — Usability Improvement for Public Dataset](Project_018970/README.md) |
+| 018971 | [Kubernetes: Recovery Test — Baseline Setup for Branch Office Simulator](Project_018971/README.md) |
+| 018972 | [Kubernetes: Recovery Test — Automation for Branch Office Simulator](Project_018972/README.md) |
+| 018973 | [Kubernetes: Recovery Test — Recovery for Branch Office Simulator](Project_018973/README.md) |
+| 018974 | [Kubernetes: Recovery Test — Reporting for Branch Office Simulator](Project_018974/README.md) |
+| 018975 | [Kubernetes: Recovery Test — Usability Improvement for Branch Office Simulator](Project_018975/README.md) |
+| 018976 | [Kubernetes: Recovery Test — Baseline Setup for Offline Classroom](Project_018976/README.md) |
+| 018977 | [Kubernetes: Recovery Test — Automation for Offline Classroom](Project_018977/README.md) |
+| 018978 | [Kubernetes: Recovery Test — Recovery for Offline Classroom](Project_018978/README.md) |
+| 018979 | [Kubernetes: Recovery Test — Reporting for Offline Classroom](Project_018979/README.md) |
+| 018980 | [Kubernetes: Recovery Test — Usability Improvement for Offline Classroom](Project_018980/README.md) |
 
 [Back to the portfolio home](../README.md)
