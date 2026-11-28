@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016038 | [Google Cloud: Inventory — Recovery for Two-Node Lab](Project_016038/README.md) |
 | 016039 | [Google Cloud: Inventory — Reporting for Two-Node Lab](Project_016039/README.md) |
 | 016040 | [Google Cloud: Inventory — Usability Improvement for Two-Node Lab](Project_016040/README.md) |
+| 016041 | [Google Cloud: Inventory — Baseline Setup for Help Desk](Project_016041/README.md) |
+| 016042 | [Google Cloud: Inventory — Automation for Help Desk](Project_016042/README.md) |
+| 016043 | [Google Cloud: Inventory — Recovery for Help Desk](Project_016043/README.md) |
+| 016044 | [Google Cloud: Inventory — Reporting for Help Desk](Project_016044/README.md) |
+| 016045 | [Google Cloud: Inventory — Usability Improvement for Help Desk](Project_016045/README.md) |
+| 016046 | [Google Cloud: Inventory — Baseline Setup for Portfolio Demo](Project_016046/README.md) |
+| 016047 | [Google Cloud: Inventory — Automation for Portfolio Demo](Project_016047/README.md) |
+| 016048 | [Google Cloud: Inventory — Recovery for Portfolio Demo](Project_016048/README.md) |
+| 016049 | [Google Cloud: Inventory — Reporting for Portfolio Demo](Project_016049/README.md) |
+| 016050 | [Google Cloud: Inventory — Usability Improvement for Portfolio Demo](Project_016050/README.md) |
+| 016051 | [Google Cloud: Monitoring — Baseline Setup for School Lab](Project_016051/README.md) |
+| 016052 | [Google Cloud: Monitoring — Automation for School Lab](Project_016052/README.md) |
+| 016053 | [Google Cloud: Monitoring — Recovery for School Lab](Project_016053/README.md) |
+| 016054 | [Google Cloud: Monitoring — Reporting for School Lab](Project_016054/README.md) |
+| 016055 | [Google Cloud: Monitoring — Usability Improvement for School Lab](Project_016055/README.md) |
+| 016056 | [Google Cloud: Monitoring — Baseline Setup for Small Business](Project_016056/README.md) |
+| 016057 | [Google Cloud: Monitoring — Automation for Small Business](Project_016057/README.md) |
+| 016058 | [Google Cloud: Monitoring — Recovery for Small Business](Project_016058/README.md) |
+| 016059 | [Google Cloud: Monitoring — Reporting for Small Business](Project_016059/README.md) |
+| 016060 | [Google Cloud: Monitoring — Usability Improvement for Small Business](Project_016060/README.md) |
 
 [Back to the portfolio home](../README.md)
