@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016558 | [Google Cloud: Performance Baseline — Recovery for Small Business](Project_016558/README.md) |
 | 016559 | [Google Cloud: Performance Baseline — Reporting for Small Business](Project_016559/README.md) |
 | 016560 | [Google Cloud: Performance Baseline — Usability Improvement for Small Business](Project_016560/README.md) |
+| 016561 | [Google Cloud: Performance Baseline — Baseline Setup for Home Development](Project_016561/README.md) |
+| 016562 | [Google Cloud: Performance Baseline — Automation for Home Development](Project_016562/README.md) |
+| 016563 | [Google Cloud: Performance Baseline — Recovery for Home Development](Project_016563/README.md) |
+| 016564 | [Google Cloud: Performance Baseline — Reporting for Home Development](Project_016564/README.md) |
+| 016565 | [Google Cloud: Performance Baseline — Usability Improvement for Home Development](Project_016565/README.md) |
+| 016566 | [Google Cloud: Performance Baseline — Baseline Setup for Public Dataset](Project_016566/README.md) |
+| 016567 | [Google Cloud: Performance Baseline — Automation for Public Dataset](Project_016567/README.md) |
+| 016568 | [Google Cloud: Performance Baseline — Recovery for Public Dataset](Project_016568/README.md) |
+| 016569 | [Google Cloud: Performance Baseline — Reporting for Public Dataset](Project_016569/README.md) |
+| 016570 | [Google Cloud: Performance Baseline — Usability Improvement for Public Dataset](Project_016570/README.md) |
+| 016571 | [Google Cloud: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_016571/README.md) |
+| 016572 | [Google Cloud: Performance Baseline — Automation for Branch Office Simulator](Project_016572/README.md) |
+| 016573 | [Google Cloud: Performance Baseline — Recovery for Branch Office Simulator](Project_016573/README.md) |
+| 016574 | [Google Cloud: Performance Baseline — Reporting for Branch Office Simulator](Project_016574/README.md) |
+| 016575 | [Google Cloud: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_016575/README.md) |
+| 016576 | [Google Cloud: Performance Baseline — Baseline Setup for Offline Classroom](Project_016576/README.md) |
+| 016577 | [Google Cloud: Performance Baseline — Automation for Offline Classroom](Project_016577/README.md) |
+| 016578 | [Google Cloud: Performance Baseline — Recovery for Offline Classroom](Project_016578/README.md) |
+| 016579 | [Google Cloud: Performance Baseline — Reporting for Offline Classroom](Project_016579/README.md) |
+| 016580 | [Google Cloud: Performance Baseline — Usability Improvement for Offline Classroom](Project_016580/README.md) |
 
 [Back to the portfolio home](../README.md)
