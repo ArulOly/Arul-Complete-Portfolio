@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017338 | [Docker: Data Export — Recovery for Two-Node Lab](Project_017338/README.md) |
 | 017339 | [Docker: Data Export — Reporting for Two-Node Lab](Project_017339/README.md) |
 | 017340 | [Docker: Data Export — Usability Improvement for Two-Node Lab](Project_017340/README.md) |
+| 017341 | [Docker: Data Export — Baseline Setup for Help Desk](Project_017341/README.md) |
+| 017342 | [Docker: Data Export — Automation for Help Desk](Project_017342/README.md) |
+| 017343 | [Docker: Data Export — Recovery for Help Desk](Project_017343/README.md) |
+| 017344 | [Docker: Data Export — Reporting for Help Desk](Project_017344/README.md) |
+| 017345 | [Docker: Data Export — Usability Improvement for Help Desk](Project_017345/README.md) |
+| 017346 | [Docker: Data Export — Baseline Setup for Portfolio Demo](Project_017346/README.md) |
+| 017347 | [Docker: Data Export — Automation for Portfolio Demo](Project_017347/README.md) |
+| 017348 | [Docker: Data Export — Recovery for Portfolio Demo](Project_017348/README.md) |
+| 017349 | [Docker: Data Export — Reporting for Portfolio Demo](Project_017349/README.md) |
+| 017350 | [Docker: Data Export — Usability Improvement for Portfolio Demo](Project_017350/README.md) |
+| 017351 | [Docker: Dashboard — Baseline Setup for School Lab](Project_017351/README.md) |
+| 017352 | [Docker: Dashboard — Automation for School Lab](Project_017352/README.md) |
+| 017353 | [Docker: Dashboard — Recovery for School Lab](Project_017353/README.md) |
+| 017354 | [Docker: Dashboard — Reporting for School Lab](Project_017354/README.md) |
+| 017355 | [Docker: Dashboard — Usability Improvement for School Lab](Project_017355/README.md) |
+| 017356 | [Docker: Dashboard — Baseline Setup for Small Business](Project_017356/README.md) |
+| 017357 | [Docker: Dashboard — Automation for Small Business](Project_017357/README.md) |
+| 017358 | [Docker: Dashboard — Recovery for Small Business](Project_017358/README.md) |
+| 017359 | [Docker: Dashboard — Reporting for Small Business](Project_017359/README.md) |
+| 017360 | [Docker: Dashboard — Usability Improvement for Small Business](Project_017360/README.md) |
 
 [Back to the portfolio home](../README.md)
