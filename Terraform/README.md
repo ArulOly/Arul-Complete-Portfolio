@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046158 | [Terraform: Log Analysis — Recovery for Small Business](Project_046158/README.md) |
 | 046159 | [Terraform: Log Analysis — Reporting for Small Business](Project_046159/README.md) |
 | 046160 | [Terraform: Log Analysis — Usability Improvement for Small Business](Project_046160/README.md) |
+| 046161 | [Terraform: Log Analysis — Baseline Setup for Home Development](Project_046161/README.md) |
+| 046162 | [Terraform: Log Analysis — Automation for Home Development](Project_046162/README.md) |
+| 046163 | [Terraform: Log Analysis — Recovery for Home Development](Project_046163/README.md) |
+| 046164 | [Terraform: Log Analysis — Reporting for Home Development](Project_046164/README.md) |
+| 046165 | [Terraform: Log Analysis — Usability Improvement for Home Development](Project_046165/README.md) |
+| 046166 | [Terraform: Log Analysis — Baseline Setup for Public Dataset](Project_046166/README.md) |
+| 046167 | [Terraform: Log Analysis — Automation for Public Dataset](Project_046167/README.md) |
+| 046168 | [Terraform: Log Analysis — Recovery for Public Dataset](Project_046168/README.md) |
+| 046169 | [Terraform: Log Analysis — Reporting for Public Dataset](Project_046169/README.md) |
+| 046170 | [Terraform: Log Analysis — Usability Improvement for Public Dataset](Project_046170/README.md) |
+| 046171 | [Terraform: Log Analysis — Baseline Setup for Branch Office Simulator](Project_046171/README.md) |
+| 046172 | [Terraform: Log Analysis — Automation for Branch Office Simulator](Project_046172/README.md) |
+| 046173 | [Terraform: Log Analysis — Recovery for Branch Office Simulator](Project_046173/README.md) |
+| 046174 | [Terraform: Log Analysis — Reporting for Branch Office Simulator](Project_046174/README.md) |
+| 046175 | [Terraform: Log Analysis — Usability Improvement for Branch Office Simulator](Project_046175/README.md) |
+| 046176 | [Terraform: Log Analysis — Baseline Setup for Offline Classroom](Project_046176/README.md) |
+| 046177 | [Terraform: Log Analysis — Automation for Offline Classroom](Project_046177/README.md) |
+| 046178 | [Terraform: Log Analysis — Recovery for Offline Classroom](Project_046178/README.md) |
+| 046179 | [Terraform: Log Analysis — Reporting for Offline Classroom](Project_046179/README.md) |
+| 046180 | [Terraform: Log Analysis — Usability Improvement for Offline Classroom](Project_046180/README.md) |
 
 [Back to the portfolio home](../README.md)
