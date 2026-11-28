@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030778 | [Wazuh: Data Validation — Recovery for Offline Classroom](Project_030778/README.md) |
 | 030779 | [Wazuh: Data Validation — Reporting for Offline Classroom](Project_030779/README.md) |
 | 030780 | [Wazuh: Data Validation — Usability Improvement for Offline Classroom](Project_030780/README.md) |
+| 030781 | [Wazuh: Data Validation — Baseline Setup for Single-Host Lab](Project_030781/README.md) |
+| 030782 | [Wazuh: Data Validation — Automation for Single-Host Lab](Project_030782/README.md) |
+| 030783 | [Wazuh: Data Validation — Recovery for Single-Host Lab](Project_030783/README.md) |
+| 030784 | [Wazuh: Data Validation — Reporting for Single-Host Lab](Project_030784/README.md) |
+| 030785 | [Wazuh: Data Validation — Usability Improvement for Single-Host Lab](Project_030785/README.md) |
+| 030786 | [Wazuh: Data Validation — Baseline Setup for Two-Node Lab](Project_030786/README.md) |
+| 030787 | [Wazuh: Data Validation — Automation for Two-Node Lab](Project_030787/README.md) |
+| 030788 | [Wazuh: Data Validation — Recovery for Two-Node Lab](Project_030788/README.md) |
+| 030789 | [Wazuh: Data Validation — Reporting for Two-Node Lab](Project_030789/README.md) |
+| 030790 | [Wazuh: Data Validation — Usability Improvement for Two-Node Lab](Project_030790/README.md) |
+| 030791 | [Wazuh: Data Validation — Baseline Setup for Help Desk](Project_030791/README.md) |
+| 030792 | [Wazuh: Data Validation — Automation for Help Desk](Project_030792/README.md) |
+| 030793 | [Wazuh: Data Validation — Recovery for Help Desk](Project_030793/README.md) |
+| 030794 | [Wazuh: Data Validation — Reporting for Help Desk](Project_030794/README.md) |
+| 030795 | [Wazuh: Data Validation — Usability Improvement for Help Desk](Project_030795/README.md) |
+| 030796 | [Wazuh: Data Validation — Baseline Setup for Portfolio Demo](Project_030796/README.md) |
+| 030797 | [Wazuh: Data Validation — Automation for Portfolio Demo](Project_030797/README.md) |
+| 030798 | [Wazuh: Data Validation — Recovery for Portfolio Demo](Project_030798/README.md) |
+| 030799 | [Wazuh: Data Validation — Reporting for Portfolio Demo](Project_030799/README.md) |
+| 030800 | [Wazuh: Data Validation — Usability Improvement for Portfolio Demo](Project_030800/README.md) |
 
 [Back to the portfolio home](../README.md)
