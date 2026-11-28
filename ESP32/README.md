@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036418 | [ESP32: Alerting — Recovery for Public Dataset](Project_036418/README.md) |
 | 036419 | [ESP32: Alerting — Reporting for Public Dataset](Project_036419/README.md) |
 | 036420 | [ESP32: Alerting — Usability Improvement for Public Dataset](Project_036420/README.md) |
+| 036421 | [ESP32: Alerting — Baseline Setup for Branch Office Simulator](Project_036421/README.md) |
+| 036422 | [ESP32: Alerting — Automation for Branch Office Simulator](Project_036422/README.md) |
+| 036423 | [ESP32: Alerting — Recovery for Branch Office Simulator](Project_036423/README.md) |
+| 036424 | [ESP32: Alerting — Reporting for Branch Office Simulator](Project_036424/README.md) |
+| 036425 | [ESP32: Alerting — Usability Improvement for Branch Office Simulator](Project_036425/README.md) |
+| 036426 | [ESP32: Alerting — Baseline Setup for Offline Classroom](Project_036426/README.md) |
+| 036427 | [ESP32: Alerting — Automation for Offline Classroom](Project_036427/README.md) |
+| 036428 | [ESP32: Alerting — Recovery for Offline Classroom](Project_036428/README.md) |
+| 036429 | [ESP32: Alerting — Reporting for Offline Classroom](Project_036429/README.md) |
+| 036430 | [ESP32: Alerting — Usability Improvement for Offline Classroom](Project_036430/README.md) |
+| 036431 | [ESP32: Alerting — Baseline Setup for Single-Host Lab](Project_036431/README.md) |
+| 036432 | [ESP32: Alerting — Automation for Single-Host Lab](Project_036432/README.md) |
+| 036433 | [ESP32: Alerting — Recovery for Single-Host Lab](Project_036433/README.md) |
+| 036434 | [ESP32: Alerting — Reporting for Single-Host Lab](Project_036434/README.md) |
+| 036435 | [ESP32: Alerting — Usability Improvement for Single-Host Lab](Project_036435/README.md) |
+| 036436 | [ESP32: Alerting — Baseline Setup for Two-Node Lab](Project_036436/README.md) |
+| 036437 | [ESP32: Alerting — Automation for Two-Node Lab](Project_036437/README.md) |
+| 036438 | [ESP32: Alerting — Recovery for Two-Node Lab](Project_036438/README.md) |
+| 036439 | [ESP32: Alerting — Reporting for Two-Node Lab](Project_036439/README.md) |
+| 036440 | [ESP32: Alerting — Usability Improvement for Two-Node Lab](Project_036440/README.md) |
 
 [Back to the portfolio home](../README.md)
