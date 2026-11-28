@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016978 | [Google Cloud: Recovery Test — Recovery for Offline Classroom](Project_016978/README.md) |
 | 016979 | [Google Cloud: Recovery Test — Reporting for Offline Classroom](Project_016979/README.md) |
 | 016980 | [Google Cloud: Recovery Test — Usability Improvement for Offline Classroom](Project_016980/README.md) |
+| 016981 | [Google Cloud: Recovery Test — Baseline Setup for Single-Host Lab](Project_016981/README.md) |
+| 016982 | [Google Cloud: Recovery Test — Automation for Single-Host Lab](Project_016982/README.md) |
+| 016983 | [Google Cloud: Recovery Test — Recovery for Single-Host Lab](Project_016983/README.md) |
+| 016984 | [Google Cloud: Recovery Test — Reporting for Single-Host Lab](Project_016984/README.md) |
+| 016985 | [Google Cloud: Recovery Test — Usability Improvement for Single-Host Lab](Project_016985/README.md) |
+| 016986 | [Google Cloud: Recovery Test — Baseline Setup for Two-Node Lab](Project_016986/README.md) |
+| 016987 | [Google Cloud: Recovery Test — Automation for Two-Node Lab](Project_016987/README.md) |
+| 016988 | [Google Cloud: Recovery Test — Recovery for Two-Node Lab](Project_016988/README.md) |
+| 016989 | [Google Cloud: Recovery Test — Reporting for Two-Node Lab](Project_016989/README.md) |
+| 016990 | [Google Cloud: Recovery Test — Usability Improvement for Two-Node Lab](Project_016990/README.md) |
+| 016991 | [Google Cloud: Recovery Test — Baseline Setup for Help Desk](Project_016991/README.md) |
+| 016992 | [Google Cloud: Recovery Test — Automation for Help Desk](Project_016992/README.md) |
+| 016993 | [Google Cloud: Recovery Test — Recovery for Help Desk](Project_016993/README.md) |
+| 016994 | [Google Cloud: Recovery Test — Reporting for Help Desk](Project_016994/README.md) |
+| 016995 | [Google Cloud: Recovery Test — Usability Improvement for Help Desk](Project_016995/README.md) |
+| 016996 | [Google Cloud: Recovery Test — Baseline Setup for Portfolio Demo](Project_016996/README.md) |
+| 016997 | [Google Cloud: Recovery Test — Automation for Portfolio Demo](Project_016997/README.md) |
+| 016998 | [Google Cloud: Recovery Test — Recovery for Portfolio Demo](Project_016998/README.md) |
+| 016999 | [Google Cloud: Recovery Test — Reporting for Portfolio Demo](Project_016999/README.md) |
+| 017000 | [Google Cloud: Recovery Test — Usability Improvement for Portfolio Demo](Project_017000/README.md) |
 
 [Back to the portfolio home](../README.md)
