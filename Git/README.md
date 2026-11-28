@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038418 | [Git: Alerting — Recovery for Public Dataset](Project_038418/README.md) |
 | 038419 | [Git: Alerting — Reporting for Public Dataset](Project_038419/README.md) |
 | 038420 | [Git: Alerting — Usability Improvement for Public Dataset](Project_038420/README.md) |
+| 038421 | [Git: Alerting — Baseline Setup for Branch Office Simulator](Project_038421/README.md) |
+| 038422 | [Git: Alerting — Automation for Branch Office Simulator](Project_038422/README.md) |
+| 038423 | [Git: Alerting — Recovery for Branch Office Simulator](Project_038423/README.md) |
+| 038424 | [Git: Alerting — Reporting for Branch Office Simulator](Project_038424/README.md) |
+| 038425 | [Git: Alerting — Usability Improvement for Branch Office Simulator](Project_038425/README.md) |
+| 038426 | [Git: Alerting — Baseline Setup for Offline Classroom](Project_038426/README.md) |
+| 038427 | [Git: Alerting — Automation for Offline Classroom](Project_038427/README.md) |
+| 038428 | [Git: Alerting — Recovery for Offline Classroom](Project_038428/README.md) |
+| 038429 | [Git: Alerting — Reporting for Offline Classroom](Project_038429/README.md) |
+| 038430 | [Git: Alerting — Usability Improvement for Offline Classroom](Project_038430/README.md) |
+| 038431 | [Git: Alerting — Baseline Setup for Single-Host Lab](Project_038431/README.md) |
+| 038432 | [Git: Alerting — Automation for Single-Host Lab](Project_038432/README.md) |
+| 038433 | [Git: Alerting — Recovery for Single-Host Lab](Project_038433/README.md) |
+| 038434 | [Git: Alerting — Reporting for Single-Host Lab](Project_038434/README.md) |
+| 038435 | [Git: Alerting — Usability Improvement for Single-Host Lab](Project_038435/README.md) |
+| 038436 | [Git: Alerting — Baseline Setup for Two-Node Lab](Project_038436/README.md) |
+| 038437 | [Git: Alerting — Automation for Two-Node Lab](Project_038437/README.md) |
+| 038438 | [Git: Alerting — Recovery for Two-Node Lab](Project_038438/README.md) |
+| 038439 | [Git: Alerting — Reporting for Two-Node Lab](Project_038439/README.md) |
+| 038440 | [Git: Alerting — Usability Improvement for Two-Node Lab](Project_038440/README.md) |
 
 [Back to the portfolio home](../README.md)
