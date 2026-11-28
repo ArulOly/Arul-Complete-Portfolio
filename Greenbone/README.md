@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031518 | [Greenbone: Access Review — Recovery for Public Dataset](Project_031518/README.md) |
 | 031519 | [Greenbone: Access Review — Reporting for Public Dataset](Project_031519/README.md) |
 | 031520 | [Greenbone: Access Review — Usability Improvement for Public Dataset](Project_031520/README.md) |
+| 031521 | [Greenbone: Access Review — Baseline Setup for Branch Office Simulator](Project_031521/README.md) |
+| 031522 | [Greenbone: Access Review — Automation for Branch Office Simulator](Project_031522/README.md) |
+| 031523 | [Greenbone: Access Review — Recovery for Branch Office Simulator](Project_031523/README.md) |
+| 031524 | [Greenbone: Access Review — Reporting for Branch Office Simulator](Project_031524/README.md) |
+| 031525 | [Greenbone: Access Review — Usability Improvement for Branch Office Simulator](Project_031525/README.md) |
+| 031526 | [Greenbone: Access Review — Baseline Setup for Offline Classroom](Project_031526/README.md) |
+| 031527 | [Greenbone: Access Review — Automation for Offline Classroom](Project_031527/README.md) |
+| 031528 | [Greenbone: Access Review — Recovery for Offline Classroom](Project_031528/README.md) |
+| 031529 | [Greenbone: Access Review — Reporting for Offline Classroom](Project_031529/README.md) |
+| 031530 | [Greenbone: Access Review — Usability Improvement for Offline Classroom](Project_031530/README.md) |
+| 031531 | [Greenbone: Access Review — Baseline Setup for Single-Host Lab](Project_031531/README.md) |
+| 031532 | [Greenbone: Access Review — Automation for Single-Host Lab](Project_031532/README.md) |
+| 031533 | [Greenbone: Access Review — Recovery for Single-Host Lab](Project_031533/README.md) |
+| 031534 | [Greenbone: Access Review — Reporting for Single-Host Lab](Project_031534/README.md) |
+| 031535 | [Greenbone: Access Review — Usability Improvement for Single-Host Lab](Project_031535/README.md) |
+| 031536 | [Greenbone: Access Review — Baseline Setup for Two-Node Lab](Project_031536/README.md) |
+| 031537 | [Greenbone: Access Review — Automation for Two-Node Lab](Project_031537/README.md) |
+| 031538 | [Greenbone: Access Review — Recovery for Two-Node Lab](Project_031538/README.md) |
+| 031539 | [Greenbone: Access Review — Reporting for Two-Node Lab](Project_031539/README.md) |
+| 031540 | [Greenbone: Access Review — Usability Improvement for Two-Node Lab](Project_031540/README.md) |
 
 [Back to the portfolio home](../README.md)
