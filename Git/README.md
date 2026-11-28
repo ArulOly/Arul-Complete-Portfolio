@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038898 | [Git: Automation — Recovery for Portfolio Demo](Project_038898/README.md) |
 | 038899 | [Git: Automation — Reporting for Portfolio Demo](Project_038899/README.md) |
 | 038900 | [Git: Automation — Usability Improvement for Portfolio Demo](Project_038900/README.md) |
+| 038901 | [Git: Visual Reporting — Baseline Setup for School Lab](Project_038901/README.md) |
+| 038902 | [Git: Visual Reporting — Automation for School Lab](Project_038902/README.md) |
+| 038903 | [Git: Visual Reporting — Recovery for School Lab](Project_038903/README.md) |
+| 038904 | [Git: Visual Reporting — Reporting for School Lab](Project_038904/README.md) |
+| 038905 | [Git: Visual Reporting — Usability Improvement for School Lab](Project_038905/README.md) |
+| 038906 | [Git: Visual Reporting — Baseline Setup for Small Business](Project_038906/README.md) |
+| 038907 | [Git: Visual Reporting — Automation for Small Business](Project_038907/README.md) |
+| 038908 | [Git: Visual Reporting — Recovery for Small Business](Project_038908/README.md) |
+| 038909 | [Git: Visual Reporting — Reporting for Small Business](Project_038909/README.md) |
+| 038910 | [Git: Visual Reporting — Usability Improvement for Small Business](Project_038910/README.md) |
+| 038911 | [Git: Visual Reporting — Baseline Setup for Home Development](Project_038911/README.md) |
+| 038912 | [Git: Visual Reporting — Automation for Home Development](Project_038912/README.md) |
+| 038913 | [Git: Visual Reporting — Recovery for Home Development](Project_038913/README.md) |
+| 038914 | [Git: Visual Reporting — Reporting for Home Development](Project_038914/README.md) |
+| 038915 | [Git: Visual Reporting — Usability Improvement for Home Development](Project_038915/README.md) |
+| 038916 | [Git: Visual Reporting — Baseline Setup for Public Dataset](Project_038916/README.md) |
+| 038917 | [Git: Visual Reporting — Automation for Public Dataset](Project_038917/README.md) |
+| 038918 | [Git: Visual Reporting — Recovery for Public Dataset](Project_038918/README.md) |
+| 038919 | [Git: Visual Reporting — Reporting for Public Dataset](Project_038919/README.md) |
+| 038920 | [Git: Visual Reporting — Usability Improvement for Public Dataset](Project_038920/README.md) |
 
 [Back to the portfolio home](../README.md)
