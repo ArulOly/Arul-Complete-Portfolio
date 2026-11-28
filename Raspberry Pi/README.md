@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035358 | [Raspberry Pi: Dashboard — Recovery for Small Business](Project_035358/README.md) |
 | 035359 | [Raspberry Pi: Dashboard — Reporting for Small Business](Project_035359/README.md) |
 | 035360 | [Raspberry Pi: Dashboard — Usability Improvement for Small Business](Project_035360/README.md) |
+| 035361 | [Raspberry Pi: Dashboard — Baseline Setup for Home Development](Project_035361/README.md) |
+| 035362 | [Raspberry Pi: Dashboard — Automation for Home Development](Project_035362/README.md) |
+| 035363 | [Raspberry Pi: Dashboard — Recovery for Home Development](Project_035363/README.md) |
+| 035364 | [Raspberry Pi: Dashboard — Reporting for Home Development](Project_035364/README.md) |
+| 035365 | [Raspberry Pi: Dashboard — Usability Improvement for Home Development](Project_035365/README.md) |
+| 035366 | [Raspberry Pi: Dashboard — Baseline Setup for Public Dataset](Project_035366/README.md) |
+| 035367 | [Raspberry Pi: Dashboard — Automation for Public Dataset](Project_035367/README.md) |
+| 035368 | [Raspberry Pi: Dashboard — Recovery for Public Dataset](Project_035368/README.md) |
+| 035369 | [Raspberry Pi: Dashboard — Reporting for Public Dataset](Project_035369/README.md) |
+| 035370 | [Raspberry Pi: Dashboard — Usability Improvement for Public Dataset](Project_035370/README.md) |
+| 035371 | [Raspberry Pi: Dashboard — Baseline Setup for Branch Office Simulator](Project_035371/README.md) |
+| 035372 | [Raspberry Pi: Dashboard — Automation for Branch Office Simulator](Project_035372/README.md) |
+| 035373 | [Raspberry Pi: Dashboard — Recovery for Branch Office Simulator](Project_035373/README.md) |
+| 035374 | [Raspberry Pi: Dashboard — Reporting for Branch Office Simulator](Project_035374/README.md) |
+| 035375 | [Raspberry Pi: Dashboard — Usability Improvement for Branch Office Simulator](Project_035375/README.md) |
+| 035376 | [Raspberry Pi: Dashboard — Baseline Setup for Offline Classroom](Project_035376/README.md) |
+| 035377 | [Raspberry Pi: Dashboard — Automation for Offline Classroom](Project_035377/README.md) |
+| 035378 | [Raspberry Pi: Dashboard — Recovery for Offline Classroom](Project_035378/README.md) |
+| 035379 | [Raspberry Pi: Dashboard — Reporting for Offline Classroom](Project_035379/README.md) |
+| 035380 | [Raspberry Pi: Dashboard — Usability Improvement for Offline Classroom](Project_035380/README.md) |
 
 [Back to the portfolio home](../README.md)
