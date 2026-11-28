@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029678 | [Wireshark: Configuration Comparison — Recovery for Offline Classroom](Project_029678/README.md) |
 | 029679 | [Wireshark: Configuration Comparison — Reporting for Offline Classroom](Project_029679/README.md) |
 | 029680 | [Wireshark: Configuration Comparison — Usability Improvement for Offline Classroom](Project_029680/README.md) |
+| 029681 | [Wireshark: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_029681/README.md) |
+| 029682 | [Wireshark: Configuration Comparison — Automation for Single-Host Lab](Project_029682/README.md) |
+| 029683 | [Wireshark: Configuration Comparison — Recovery for Single-Host Lab](Project_029683/README.md) |
+| 029684 | [Wireshark: Configuration Comparison — Reporting for Single-Host Lab](Project_029684/README.md) |
+| 029685 | [Wireshark: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_029685/README.md) |
+| 029686 | [Wireshark: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_029686/README.md) |
+| 029687 | [Wireshark: Configuration Comparison — Automation for Two-Node Lab](Project_029687/README.md) |
+| 029688 | [Wireshark: Configuration Comparison — Recovery for Two-Node Lab](Project_029688/README.md) |
+| 029689 | [Wireshark: Configuration Comparison — Reporting for Two-Node Lab](Project_029689/README.md) |
+| 029690 | [Wireshark: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_029690/README.md) |
+| 029691 | [Wireshark: Configuration Comparison — Baseline Setup for Help Desk](Project_029691/README.md) |
+| 029692 | [Wireshark: Configuration Comparison — Automation for Help Desk](Project_029692/README.md) |
+| 029693 | [Wireshark: Configuration Comparison — Recovery for Help Desk](Project_029693/README.md) |
+| 029694 | [Wireshark: Configuration Comparison — Reporting for Help Desk](Project_029694/README.md) |
+| 029695 | [Wireshark: Configuration Comparison — Usability Improvement for Help Desk](Project_029695/README.md) |
+| 029696 | [Wireshark: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_029696/README.md) |
+| 029697 | [Wireshark: Configuration Comparison — Automation for Portfolio Demo](Project_029697/README.md) |
+| 029698 | [Wireshark: Configuration Comparison — Recovery for Portfolio Demo](Project_029698/README.md) |
+| 029699 | [Wireshark: Configuration Comparison — Reporting for Portfolio Demo](Project_029699/README.md) |
+| 029700 | [Wireshark: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_029700/README.md) |
 
 [Back to the portfolio home](../README.md)
