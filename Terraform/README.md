@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046198 | [Terraform: Log Analysis — Recovery for Portfolio Demo](Project_046198/README.md) |
 | 046199 | [Terraform: Log Analysis — Reporting for Portfolio Demo](Project_046199/README.md) |
 | 046200 | [Terraform: Log Analysis — Usability Improvement for Portfolio Demo](Project_046200/README.md) |
+| 046201 | [Terraform: Backup Verification — Baseline Setup for School Lab](Project_046201/README.md) |
+| 046202 | [Terraform: Backup Verification — Automation for School Lab](Project_046202/README.md) |
+| 046203 | [Terraform: Backup Verification — Recovery for School Lab](Project_046203/README.md) |
+| 046204 | [Terraform: Backup Verification — Reporting for School Lab](Project_046204/README.md) |
+| 046205 | [Terraform: Backup Verification — Usability Improvement for School Lab](Project_046205/README.md) |
+| 046206 | [Terraform: Backup Verification — Baseline Setup for Small Business](Project_046206/README.md) |
+| 046207 | [Terraform: Backup Verification — Automation for Small Business](Project_046207/README.md) |
+| 046208 | [Terraform: Backup Verification — Recovery for Small Business](Project_046208/README.md) |
+| 046209 | [Terraform: Backup Verification — Reporting for Small Business](Project_046209/README.md) |
+| 046210 | [Terraform: Backup Verification — Usability Improvement for Small Business](Project_046210/README.md) |
+| 046211 | [Terraform: Backup Verification — Baseline Setup for Home Development](Project_046211/README.md) |
+| 046212 | [Terraform: Backup Verification — Automation for Home Development](Project_046212/README.md) |
+| 046213 | [Terraform: Backup Verification — Recovery for Home Development](Project_046213/README.md) |
+| 046214 | [Terraform: Backup Verification — Reporting for Home Development](Project_046214/README.md) |
+| 046215 | [Terraform: Backup Verification — Usability Improvement for Home Development](Project_046215/README.md) |
+| 046216 | [Terraform: Backup Verification — Baseline Setup for Public Dataset](Project_046216/README.md) |
+| 046217 | [Terraform: Backup Verification — Automation for Public Dataset](Project_046217/README.md) |
+| 046218 | [Terraform: Backup Verification — Recovery for Public Dataset](Project_046218/README.md) |
+| 046219 | [Terraform: Backup Verification — Reporting for Public Dataset](Project_046219/README.md) |
+| 046220 | [Terraform: Backup Verification — Usability Improvement for Public Dataset](Project_046220/README.md) |
 
 [Back to the portfolio home](../README.md)
