@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014358 | [AWS: Dashboard — Recovery for Small Business](Project_014358/README.md) |
 | 014359 | [AWS: Dashboard — Reporting for Small Business](Project_014359/README.md) |
 | 014360 | [AWS: Dashboard — Usability Improvement for Small Business](Project_014360/README.md) |
+| 014361 | [AWS: Dashboard — Baseline Setup for Home Development](Project_014361/README.md) |
+| 014362 | [AWS: Dashboard — Automation for Home Development](Project_014362/README.md) |
+| 014363 | [AWS: Dashboard — Recovery for Home Development](Project_014363/README.md) |
+| 014364 | [AWS: Dashboard — Reporting for Home Development](Project_014364/README.md) |
+| 014365 | [AWS: Dashboard — Usability Improvement for Home Development](Project_014365/README.md) |
+| 014366 | [AWS: Dashboard — Baseline Setup for Public Dataset](Project_014366/README.md) |
+| 014367 | [AWS: Dashboard — Automation for Public Dataset](Project_014367/README.md) |
+| 014368 | [AWS: Dashboard — Recovery for Public Dataset](Project_014368/README.md) |
+| 014369 | [AWS: Dashboard — Reporting for Public Dataset](Project_014369/README.md) |
+| 014370 | [AWS: Dashboard — Usability Improvement for Public Dataset](Project_014370/README.md) |
+| 014371 | [AWS: Dashboard — Baseline Setup for Branch Office Simulator](Project_014371/README.md) |
+| 014372 | [AWS: Dashboard — Automation for Branch Office Simulator](Project_014372/README.md) |
+| 014373 | [AWS: Dashboard — Recovery for Branch Office Simulator](Project_014373/README.md) |
+| 014374 | [AWS: Dashboard — Reporting for Branch Office Simulator](Project_014374/README.md) |
+| 014375 | [AWS: Dashboard — Usability Improvement for Branch Office Simulator](Project_014375/README.md) |
+| 014376 | [AWS: Dashboard — Baseline Setup for Offline Classroom](Project_014376/README.md) |
+| 014377 | [AWS: Dashboard — Automation for Offline Classroom](Project_014377/README.md) |
+| 014378 | [AWS: Dashboard — Recovery for Offline Classroom](Project_014378/README.md) |
+| 014379 | [AWS: Dashboard — Reporting for Offline Classroom](Project_014379/README.md) |
+| 014380 | [AWS: Dashboard — Usability Improvement for Offline Classroom](Project_014380/README.md) |
 
 [Back to the portfolio home](../README.md)
