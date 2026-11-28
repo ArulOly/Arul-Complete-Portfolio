@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039218 | [Bash: Backup Verification — Recovery for Public Dataset](Project_039218/README.md) |
 | 039219 | [Bash: Backup Verification — Reporting for Public Dataset](Project_039219/README.md) |
 | 039220 | [Bash: Backup Verification — Usability Improvement for Public Dataset](Project_039220/README.md) |
+| 039221 | [Bash: Backup Verification — Baseline Setup for Branch Office Simulator](Project_039221/README.md) |
+| 039222 | [Bash: Backup Verification — Automation for Branch Office Simulator](Project_039222/README.md) |
+| 039223 | [Bash: Backup Verification — Recovery for Branch Office Simulator](Project_039223/README.md) |
+| 039224 | [Bash: Backup Verification — Reporting for Branch Office Simulator](Project_039224/README.md) |
+| 039225 | [Bash: Backup Verification — Usability Improvement for Branch Office Simulator](Project_039225/README.md) |
+| 039226 | [Bash: Backup Verification — Baseline Setup for Offline Classroom](Project_039226/README.md) |
+| 039227 | [Bash: Backup Verification — Automation for Offline Classroom](Project_039227/README.md) |
+| 039228 | [Bash: Backup Verification — Recovery for Offline Classroom](Project_039228/README.md) |
+| 039229 | [Bash: Backup Verification — Reporting for Offline Classroom](Project_039229/README.md) |
+| 039230 | [Bash: Backup Verification — Usability Improvement for Offline Classroom](Project_039230/README.md) |
+| 039231 | [Bash: Backup Verification — Baseline Setup for Single-Host Lab](Project_039231/README.md) |
+| 039232 | [Bash: Backup Verification — Automation for Single-Host Lab](Project_039232/README.md) |
+| 039233 | [Bash: Backup Verification — Recovery for Single-Host Lab](Project_039233/README.md) |
+| 039234 | [Bash: Backup Verification — Reporting for Single-Host Lab](Project_039234/README.md) |
+| 039235 | [Bash: Backup Verification — Usability Improvement for Single-Host Lab](Project_039235/README.md) |
+| 039236 | [Bash: Backup Verification — Baseline Setup for Two-Node Lab](Project_039236/README.md) |
+| 039237 | [Bash: Backup Verification — Automation for Two-Node Lab](Project_039237/README.md) |
+| 039238 | [Bash: Backup Verification — Recovery for Two-Node Lab](Project_039238/README.md) |
+| 039239 | [Bash: Backup Verification — Reporting for Two-Node Lab](Project_039239/README.md) |
+| 039240 | [Bash: Backup Verification — Usability Improvement for Two-Node Lab](Project_039240/README.md) |
 
 [Back to the portfolio home](../README.md)
