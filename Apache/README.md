@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042978 | [Apache: Recovery Test — Recovery for Offline Classroom](Project_042978/README.md) |
 | 042979 | [Apache: Recovery Test — Reporting for Offline Classroom](Project_042979/README.md) |
 | 042980 | [Apache: Recovery Test — Usability Improvement for Offline Classroom](Project_042980/README.md) |
+| 042981 | [Apache: Recovery Test — Baseline Setup for Single-Host Lab](Project_042981/README.md) |
+| 042982 | [Apache: Recovery Test — Automation for Single-Host Lab](Project_042982/README.md) |
+| 042983 | [Apache: Recovery Test — Recovery for Single-Host Lab](Project_042983/README.md) |
+| 042984 | [Apache: Recovery Test — Reporting for Single-Host Lab](Project_042984/README.md) |
+| 042985 | [Apache: Recovery Test — Usability Improvement for Single-Host Lab](Project_042985/README.md) |
+| 042986 | [Apache: Recovery Test — Baseline Setup for Two-Node Lab](Project_042986/README.md) |
+| 042987 | [Apache: Recovery Test — Automation for Two-Node Lab](Project_042987/README.md) |
+| 042988 | [Apache: Recovery Test — Recovery for Two-Node Lab](Project_042988/README.md) |
+| 042989 | [Apache: Recovery Test — Reporting for Two-Node Lab](Project_042989/README.md) |
+| 042990 | [Apache: Recovery Test — Usability Improvement for Two-Node Lab](Project_042990/README.md) |
+| 042991 | [Apache: Recovery Test — Baseline Setup for Help Desk](Project_042991/README.md) |
+| 042992 | [Apache: Recovery Test — Automation for Help Desk](Project_042992/README.md) |
+| 042993 | [Apache: Recovery Test — Recovery for Help Desk](Project_042993/README.md) |
+| 042994 | [Apache: Recovery Test — Reporting for Help Desk](Project_042994/README.md) |
+| 042995 | [Apache: Recovery Test — Usability Improvement for Help Desk](Project_042995/README.md) |
+| 042996 | [Apache: Recovery Test — Baseline Setup for Portfolio Demo](Project_042996/README.md) |
+| 042997 | [Apache: Recovery Test — Automation for Portfolio Demo](Project_042997/README.md) |
+| 042998 | [Apache: Recovery Test — Recovery for Portfolio Demo](Project_042998/README.md) |
+| 042999 | [Apache: Recovery Test — Reporting for Portfolio Demo](Project_042999/README.md) |
+| 043000 | [Apache: Recovery Test — Usability Improvement for Portfolio Demo](Project_043000/README.md) |
 
 [Back to the portfolio home](../README.md)
