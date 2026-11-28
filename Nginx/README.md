@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041678 | [Nginx: Configuration Comparison — Recovery for Offline Classroom](Project_041678/README.md) |
 | 041679 | [Nginx: Configuration Comparison — Reporting for Offline Classroom](Project_041679/README.md) |
 | 041680 | [Nginx: Configuration Comparison — Usability Improvement for Offline Classroom](Project_041680/README.md) |
+| 041681 | [Nginx: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_041681/README.md) |
+| 041682 | [Nginx: Configuration Comparison — Automation for Single-Host Lab](Project_041682/README.md) |
+| 041683 | [Nginx: Configuration Comparison — Recovery for Single-Host Lab](Project_041683/README.md) |
+| 041684 | [Nginx: Configuration Comparison — Reporting for Single-Host Lab](Project_041684/README.md) |
+| 041685 | [Nginx: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_041685/README.md) |
+| 041686 | [Nginx: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_041686/README.md) |
+| 041687 | [Nginx: Configuration Comparison — Automation for Two-Node Lab](Project_041687/README.md) |
+| 041688 | [Nginx: Configuration Comparison — Recovery for Two-Node Lab](Project_041688/README.md) |
+| 041689 | [Nginx: Configuration Comparison — Reporting for Two-Node Lab](Project_041689/README.md) |
+| 041690 | [Nginx: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_041690/README.md) |
+| 041691 | [Nginx: Configuration Comparison — Baseline Setup for Help Desk](Project_041691/README.md) |
+| 041692 | [Nginx: Configuration Comparison — Automation for Help Desk](Project_041692/README.md) |
+| 041693 | [Nginx: Configuration Comparison — Recovery for Help Desk](Project_041693/README.md) |
+| 041694 | [Nginx: Configuration Comparison — Reporting for Help Desk](Project_041694/README.md) |
+| 041695 | [Nginx: Configuration Comparison — Usability Improvement for Help Desk](Project_041695/README.md) |
+| 041696 | [Nginx: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_041696/README.md) |
+| 041697 | [Nginx: Configuration Comparison — Automation for Portfolio Demo](Project_041697/README.md) |
+| 041698 | [Nginx: Configuration Comparison — Recovery for Portfolio Demo](Project_041698/README.md) |
+| 041699 | [Nginx: Configuration Comparison — Reporting for Portfolio Demo](Project_041699/README.md) |
+| 041700 | [Nginx: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_041700/README.md) |
 
 [Back to the portfolio home](../README.md)
