@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029698 | [Wireshark: Configuration Comparison — Recovery for Portfolio Demo](Project_029698/README.md) |
 | 029699 | [Wireshark: Configuration Comparison — Reporting for Portfolio Demo](Project_029699/README.md) |
 | 029700 | [Wireshark: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_029700/README.md) |
+| 029701 | [Wireshark: Error Handling — Baseline Setup for School Lab](Project_029701/README.md) |
+| 029702 | [Wireshark: Error Handling — Automation for School Lab](Project_029702/README.md) |
+| 029703 | [Wireshark: Error Handling — Recovery for School Lab](Project_029703/README.md) |
+| 029704 | [Wireshark: Error Handling — Reporting for School Lab](Project_029704/README.md) |
+| 029705 | [Wireshark: Error Handling — Usability Improvement for School Lab](Project_029705/README.md) |
+| 029706 | [Wireshark: Error Handling — Baseline Setup for Small Business](Project_029706/README.md) |
+| 029707 | [Wireshark: Error Handling — Automation for Small Business](Project_029707/README.md) |
+| 029708 | [Wireshark: Error Handling — Recovery for Small Business](Project_029708/README.md) |
+| 029709 | [Wireshark: Error Handling — Reporting for Small Business](Project_029709/README.md) |
+| 029710 | [Wireshark: Error Handling — Usability Improvement for Small Business](Project_029710/README.md) |
+| 029711 | [Wireshark: Error Handling — Baseline Setup for Home Development](Project_029711/README.md) |
+| 029712 | [Wireshark: Error Handling — Automation for Home Development](Project_029712/README.md) |
+| 029713 | [Wireshark: Error Handling — Recovery for Home Development](Project_029713/README.md) |
+| 029714 | [Wireshark: Error Handling — Reporting for Home Development](Project_029714/README.md) |
+| 029715 | [Wireshark: Error Handling — Usability Improvement for Home Development](Project_029715/README.md) |
+| 029716 | [Wireshark: Error Handling — Baseline Setup for Public Dataset](Project_029716/README.md) |
+| 029717 | [Wireshark: Error Handling — Automation for Public Dataset](Project_029717/README.md) |
+| 029718 | [Wireshark: Error Handling — Recovery for Public Dataset](Project_029718/README.md) |
+| 029719 | [Wireshark: Error Handling — Reporting for Public Dataset](Project_029719/README.md) |
+| 029720 | [Wireshark: Error Handling — Usability Improvement for Public Dataset](Project_029720/README.md) |
 
 [Back to the portfolio home](../README.md)
