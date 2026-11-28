@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037158 | [Arduino: Log Analysis — Recovery for Small Business](Project_037158/README.md) |
 | 037159 | [Arduino: Log Analysis — Reporting for Small Business](Project_037159/README.md) |
 | 037160 | [Arduino: Log Analysis — Usability Improvement for Small Business](Project_037160/README.md) |
+| 037161 | [Arduino: Log Analysis — Baseline Setup for Home Development](Project_037161/README.md) |
+| 037162 | [Arduino: Log Analysis — Automation for Home Development](Project_037162/README.md) |
+| 037163 | [Arduino: Log Analysis — Recovery for Home Development](Project_037163/README.md) |
+| 037164 | [Arduino: Log Analysis — Reporting for Home Development](Project_037164/README.md) |
+| 037165 | [Arduino: Log Analysis — Usability Improvement for Home Development](Project_037165/README.md) |
+| 037166 | [Arduino: Log Analysis — Baseline Setup for Public Dataset](Project_037166/README.md) |
+| 037167 | [Arduino: Log Analysis — Automation for Public Dataset](Project_037167/README.md) |
+| 037168 | [Arduino: Log Analysis — Recovery for Public Dataset](Project_037168/README.md) |
+| 037169 | [Arduino: Log Analysis — Reporting for Public Dataset](Project_037169/README.md) |
+| 037170 | [Arduino: Log Analysis — Usability Improvement for Public Dataset](Project_037170/README.md) |
+| 037171 | [Arduino: Log Analysis — Baseline Setup for Branch Office Simulator](Project_037171/README.md) |
+| 037172 | [Arduino: Log Analysis — Automation for Branch Office Simulator](Project_037172/README.md) |
+| 037173 | [Arduino: Log Analysis — Recovery for Branch Office Simulator](Project_037173/README.md) |
+| 037174 | [Arduino: Log Analysis — Reporting for Branch Office Simulator](Project_037174/README.md) |
+| 037175 | [Arduino: Log Analysis — Usability Improvement for Branch Office Simulator](Project_037175/README.md) |
+| 037176 | [Arduino: Log Analysis — Baseline Setup for Offline Classroom](Project_037176/README.md) |
+| 037177 | [Arduino: Log Analysis — Automation for Offline Classroom](Project_037177/README.md) |
+| 037178 | [Arduino: Log Analysis — Recovery for Offline Classroom](Project_037178/README.md) |
+| 037179 | [Arduino: Log Analysis — Reporting for Offline Classroom](Project_037179/README.md) |
+| 037180 | [Arduino: Log Analysis — Usability Improvement for Offline Classroom](Project_037180/README.md) |
 
 [Back to the portfolio home](../README.md)
