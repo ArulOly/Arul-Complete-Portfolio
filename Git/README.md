@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038078 | [Git: Monitoring — Recovery for Offline Classroom](Project_038078/README.md) |
 | 038079 | [Git: Monitoring — Reporting for Offline Classroom](Project_038079/README.md) |
 | 038080 | [Git: Monitoring — Usability Improvement for Offline Classroom](Project_038080/README.md) |
+| 038081 | [Git: Monitoring — Baseline Setup for Single-Host Lab](Project_038081/README.md) |
+| 038082 | [Git: Monitoring — Automation for Single-Host Lab](Project_038082/README.md) |
+| 038083 | [Git: Monitoring — Recovery for Single-Host Lab](Project_038083/README.md) |
+| 038084 | [Git: Monitoring — Reporting for Single-Host Lab](Project_038084/README.md) |
+| 038085 | [Git: Monitoring — Usability Improvement for Single-Host Lab](Project_038085/README.md) |
+| 038086 | [Git: Monitoring — Baseline Setup for Two-Node Lab](Project_038086/README.md) |
+| 038087 | [Git: Monitoring — Automation for Two-Node Lab](Project_038087/README.md) |
+| 038088 | [Git: Monitoring — Recovery for Two-Node Lab](Project_038088/README.md) |
+| 038089 | [Git: Monitoring — Reporting for Two-Node Lab](Project_038089/README.md) |
+| 038090 | [Git: Monitoring — Usability Improvement for Two-Node Lab](Project_038090/README.md) |
+| 038091 | [Git: Monitoring — Baseline Setup for Help Desk](Project_038091/README.md) |
+| 038092 | [Git: Monitoring — Automation for Help Desk](Project_038092/README.md) |
+| 038093 | [Git: Monitoring — Recovery for Help Desk](Project_038093/README.md) |
+| 038094 | [Git: Monitoring — Reporting for Help Desk](Project_038094/README.md) |
+| 038095 | [Git: Monitoring — Usability Improvement for Help Desk](Project_038095/README.md) |
+| 038096 | [Git: Monitoring — Baseline Setup for Portfolio Demo](Project_038096/README.md) |
+| 038097 | [Git: Monitoring — Automation for Portfolio Demo](Project_038097/README.md) |
+| 038098 | [Git: Monitoring — Recovery for Portfolio Demo](Project_038098/README.md) |
+| 038099 | [Git: Monitoring — Reporting for Portfolio Demo](Project_038099/README.md) |
+| 038100 | [Git: Monitoring — Usability Improvement for Portfolio Demo](Project_038100/README.md) |
 
 [Back to the portfolio home](../README.md)
