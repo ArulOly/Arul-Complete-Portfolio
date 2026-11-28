@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017298 | [Docker: Data Import — Recovery for Portfolio Demo](Project_017298/README.md) |
 | 017299 | [Docker: Data Import — Reporting for Portfolio Demo](Project_017299/README.md) |
 | 017300 | [Docker: Data Import — Usability Improvement for Portfolio Demo](Project_017300/README.md) |
+| 017301 | [Docker: Data Export — Baseline Setup for School Lab](Project_017301/README.md) |
+| 017302 | [Docker: Data Export — Automation for School Lab](Project_017302/README.md) |
+| 017303 | [Docker: Data Export — Recovery for School Lab](Project_017303/README.md) |
+| 017304 | [Docker: Data Export — Reporting for School Lab](Project_017304/README.md) |
+| 017305 | [Docker: Data Export — Usability Improvement for School Lab](Project_017305/README.md) |
+| 017306 | [Docker: Data Export — Baseline Setup for Small Business](Project_017306/README.md) |
+| 017307 | [Docker: Data Export — Automation for Small Business](Project_017307/README.md) |
+| 017308 | [Docker: Data Export — Recovery for Small Business](Project_017308/README.md) |
+| 017309 | [Docker: Data Export — Reporting for Small Business](Project_017309/README.md) |
+| 017310 | [Docker: Data Export — Usability Improvement for Small Business](Project_017310/README.md) |
+| 017311 | [Docker: Data Export — Baseline Setup for Home Development](Project_017311/README.md) |
+| 017312 | [Docker: Data Export — Automation for Home Development](Project_017312/README.md) |
+| 017313 | [Docker: Data Export — Recovery for Home Development](Project_017313/README.md) |
+| 017314 | [Docker: Data Export — Reporting for Home Development](Project_017314/README.md) |
+| 017315 | [Docker: Data Export — Usability Improvement for Home Development](Project_017315/README.md) |
+| 017316 | [Docker: Data Export — Baseline Setup for Public Dataset](Project_017316/README.md) |
+| 017317 | [Docker: Data Export — Automation for Public Dataset](Project_017317/README.md) |
+| 017318 | [Docker: Data Export — Recovery for Public Dataset](Project_017318/README.md) |
+| 017319 | [Docker: Data Export — Reporting for Public Dataset](Project_017319/README.md) |
+| 017320 | [Docker: Data Export — Usability Improvement for Public Dataset](Project_017320/README.md) |
 
 [Back to the portfolio home](../README.md)
