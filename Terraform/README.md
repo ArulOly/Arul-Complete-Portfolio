@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046878 | [Terraform: Automation — Recovery for Offline Classroom](Project_046878/README.md) |
 | 046879 | [Terraform: Automation — Reporting for Offline Classroom](Project_046879/README.md) |
 | 046880 | [Terraform: Automation — Usability Improvement for Offline Classroom](Project_046880/README.md) |
+| 046881 | [Terraform: Automation — Baseline Setup for Single-Host Lab](Project_046881/README.md) |
+| 046882 | [Terraform: Automation — Automation for Single-Host Lab](Project_046882/README.md) |
+| 046883 | [Terraform: Automation — Recovery for Single-Host Lab](Project_046883/README.md) |
+| 046884 | [Terraform: Automation — Reporting for Single-Host Lab](Project_046884/README.md) |
+| 046885 | [Terraform: Automation — Usability Improvement for Single-Host Lab](Project_046885/README.md) |
+| 046886 | [Terraform: Automation — Baseline Setup for Two-Node Lab](Project_046886/README.md) |
+| 046887 | [Terraform: Automation — Automation for Two-Node Lab](Project_046887/README.md) |
+| 046888 | [Terraform: Automation — Recovery for Two-Node Lab](Project_046888/README.md) |
+| 046889 | [Terraform: Automation — Reporting for Two-Node Lab](Project_046889/README.md) |
+| 046890 | [Terraform: Automation — Usability Improvement for Two-Node Lab](Project_046890/README.md) |
+| 046891 | [Terraform: Automation — Baseline Setup for Help Desk](Project_046891/README.md) |
+| 046892 | [Terraform: Automation — Automation for Help Desk](Project_046892/README.md) |
+| 046893 | [Terraform: Automation — Recovery for Help Desk](Project_046893/README.md) |
+| 046894 | [Terraform: Automation — Reporting for Help Desk](Project_046894/README.md) |
+| 046895 | [Terraform: Automation — Usability Improvement for Help Desk](Project_046895/README.md) |
+| 046896 | [Terraform: Automation — Baseline Setup for Portfolio Demo](Project_046896/README.md) |
+| 046897 | [Terraform: Automation — Automation for Portfolio Demo](Project_046897/README.md) |
+| 046898 | [Terraform: Automation — Recovery for Portfolio Demo](Project_046898/README.md) |
+| 046899 | [Terraform: Automation — Reporting for Portfolio Demo](Project_046899/README.md) |
+| 046900 | [Terraform: Automation — Usability Improvement for Portfolio Demo](Project_046900/README.md) |
 
 [Back to the portfolio home](../README.md)
