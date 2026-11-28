@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044238 | [Prometheus: Backup Verification — Recovery for Two-Node Lab](Project_044238/README.md) |
 | 044239 | [Prometheus: Backup Verification — Reporting for Two-Node Lab](Project_044239/README.md) |
 | 044240 | [Prometheus: Backup Verification — Usability Improvement for Two-Node Lab](Project_044240/README.md) |
+| 044241 | [Prometheus: Backup Verification — Baseline Setup for Help Desk](Project_044241/README.md) |
+| 044242 | [Prometheus: Backup Verification — Automation for Help Desk](Project_044242/README.md) |
+| 044243 | [Prometheus: Backup Verification — Recovery for Help Desk](Project_044243/README.md) |
+| 044244 | [Prometheus: Backup Verification — Reporting for Help Desk](Project_044244/README.md) |
+| 044245 | [Prometheus: Backup Verification — Usability Improvement for Help Desk](Project_044245/README.md) |
+| 044246 | [Prometheus: Backup Verification — Baseline Setup for Portfolio Demo](Project_044246/README.md) |
+| 044247 | [Prometheus: Backup Verification — Automation for Portfolio Demo](Project_044247/README.md) |
+| 044248 | [Prometheus: Backup Verification — Recovery for Portfolio Demo](Project_044248/README.md) |
+| 044249 | [Prometheus: Backup Verification — Reporting for Portfolio Demo](Project_044249/README.md) |
+| 044250 | [Prometheus: Backup Verification — Usability Improvement for Portfolio Demo](Project_044250/README.md) |
+| 044251 | [Prometheus: Data Import — Baseline Setup for School Lab](Project_044251/README.md) |
+| 044252 | [Prometheus: Data Import — Automation for School Lab](Project_044252/README.md) |
+| 044253 | [Prometheus: Data Import — Recovery for School Lab](Project_044253/README.md) |
+| 044254 | [Prometheus: Data Import — Reporting for School Lab](Project_044254/README.md) |
+| 044255 | [Prometheus: Data Import — Usability Improvement for School Lab](Project_044255/README.md) |
+| 044256 | [Prometheus: Data Import — Baseline Setup for Small Business](Project_044256/README.md) |
+| 044257 | [Prometheus: Data Import — Automation for Small Business](Project_044257/README.md) |
+| 044258 | [Prometheus: Data Import — Recovery for Small Business](Project_044258/README.md) |
+| 044259 | [Prometheus: Data Import — Reporting for Small Business](Project_044259/README.md) |
+| 044260 | [Prometheus: Data Import — Usability Improvement for Small Business](Project_044260/README.md) |
 
 [Back to the portfolio home](../README.md)
