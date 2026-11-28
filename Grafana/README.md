@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043918 | [Grafana: Visual Reporting — Recovery for Public Dataset](Project_043918/README.md) |
 | 043919 | [Grafana: Visual Reporting — Reporting for Public Dataset](Project_043919/README.md) |
 | 043920 | [Grafana: Visual Reporting — Usability Improvement for Public Dataset](Project_043920/README.md) |
+| 043921 | [Grafana: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_043921/README.md) |
+| 043922 | [Grafana: Visual Reporting — Automation for Branch Office Simulator](Project_043922/README.md) |
+| 043923 | [Grafana: Visual Reporting — Recovery for Branch Office Simulator](Project_043923/README.md) |
+| 043924 | [Grafana: Visual Reporting — Reporting for Branch Office Simulator](Project_043924/README.md) |
+| 043925 | [Grafana: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_043925/README.md) |
+| 043926 | [Grafana: Visual Reporting — Baseline Setup for Offline Classroom](Project_043926/README.md) |
+| 043927 | [Grafana: Visual Reporting — Automation for Offline Classroom](Project_043927/README.md) |
+| 043928 | [Grafana: Visual Reporting — Recovery for Offline Classroom](Project_043928/README.md) |
+| 043929 | [Grafana: Visual Reporting — Reporting for Offline Classroom](Project_043929/README.md) |
+| 043930 | [Grafana: Visual Reporting — Usability Improvement for Offline Classroom](Project_043930/README.md) |
+| 043931 | [Grafana: Visual Reporting — Baseline Setup for Single-Host Lab](Project_043931/README.md) |
+| 043932 | [Grafana: Visual Reporting — Automation for Single-Host Lab](Project_043932/README.md) |
+| 043933 | [Grafana: Visual Reporting — Recovery for Single-Host Lab](Project_043933/README.md) |
+| 043934 | [Grafana: Visual Reporting — Reporting for Single-Host Lab](Project_043934/README.md) |
+| 043935 | [Grafana: Visual Reporting — Usability Improvement for Single-Host Lab](Project_043935/README.md) |
+| 043936 | [Grafana: Visual Reporting — Baseline Setup for Two-Node Lab](Project_043936/README.md) |
+| 043937 | [Grafana: Visual Reporting — Automation for Two-Node Lab](Project_043937/README.md) |
+| 043938 | [Grafana: Visual Reporting — Recovery for Two-Node Lab](Project_043938/README.md) |
+| 043939 | [Grafana: Visual Reporting — Reporting for Two-Node Lab](Project_043939/README.md) |
+| 043940 | [Grafana: Visual Reporting — Usability Improvement for Two-Node Lab](Project_043940/README.md) |
 
 [Back to the portfolio home](../README.md)
