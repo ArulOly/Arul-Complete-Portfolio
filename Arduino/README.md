@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037498 | [Arduino: Scheduled Reporting — Recovery for Portfolio Demo](Project_037498/README.md) |
 | 037499 | [Arduino: Scheduled Reporting — Reporting for Portfolio Demo](Project_037499/README.md) |
 | 037500 | [Arduino: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_037500/README.md) |
+| 037501 | [Arduino: Access Review — Baseline Setup for School Lab](Project_037501/README.md) |
+| 037502 | [Arduino: Access Review — Automation for School Lab](Project_037502/README.md) |
+| 037503 | [Arduino: Access Review — Recovery for School Lab](Project_037503/README.md) |
+| 037504 | [Arduino: Access Review — Reporting for School Lab](Project_037504/README.md) |
+| 037505 | [Arduino: Access Review — Usability Improvement for School Lab](Project_037505/README.md) |
+| 037506 | [Arduino: Access Review — Baseline Setup for Small Business](Project_037506/README.md) |
+| 037507 | [Arduino: Access Review — Automation for Small Business](Project_037507/README.md) |
+| 037508 | [Arduino: Access Review — Recovery for Small Business](Project_037508/README.md) |
+| 037509 | [Arduino: Access Review — Reporting for Small Business](Project_037509/README.md) |
+| 037510 | [Arduino: Access Review — Usability Improvement for Small Business](Project_037510/README.md) |
+| 037511 | [Arduino: Access Review — Baseline Setup for Home Development](Project_037511/README.md) |
+| 037512 | [Arduino: Access Review — Automation for Home Development](Project_037512/README.md) |
+| 037513 | [Arduino: Access Review — Recovery for Home Development](Project_037513/README.md) |
+| 037514 | [Arduino: Access Review — Reporting for Home Development](Project_037514/README.md) |
+| 037515 | [Arduino: Access Review — Usability Improvement for Home Development](Project_037515/README.md) |
+| 037516 | [Arduino: Access Review — Baseline Setup for Public Dataset](Project_037516/README.md) |
+| 037517 | [Arduino: Access Review — Automation for Public Dataset](Project_037517/README.md) |
+| 037518 | [Arduino: Access Review — Recovery for Public Dataset](Project_037518/README.md) |
+| 037519 | [Arduino: Access Review — Reporting for Public Dataset](Project_037519/README.md) |
+| 037520 | [Arduino: Access Review — Usability Improvement for Public Dataset](Project_037520/README.md) |
 
 [Back to the portfolio home](../README.md)
