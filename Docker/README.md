@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017898 | [Docker: Automation — Recovery for Portfolio Demo](Project_017898/README.md) |
 | 017899 | [Docker: Automation — Reporting for Portfolio Demo](Project_017899/README.md) |
 | 017900 | [Docker: Automation — Usability Improvement for Portfolio Demo](Project_017900/README.md) |
+| 017901 | [Docker: Visual Reporting — Baseline Setup for School Lab](Project_017901/README.md) |
+| 017902 | [Docker: Visual Reporting — Automation for School Lab](Project_017902/README.md) |
+| 017903 | [Docker: Visual Reporting — Recovery for School Lab](Project_017903/README.md) |
+| 017904 | [Docker: Visual Reporting — Reporting for School Lab](Project_017904/README.md) |
+| 017905 | [Docker: Visual Reporting — Usability Improvement for School Lab](Project_017905/README.md) |
+| 017906 | [Docker: Visual Reporting — Baseline Setup for Small Business](Project_017906/README.md) |
+| 017907 | [Docker: Visual Reporting — Automation for Small Business](Project_017907/README.md) |
+| 017908 | [Docker: Visual Reporting — Recovery for Small Business](Project_017908/README.md) |
+| 017909 | [Docker: Visual Reporting — Reporting for Small Business](Project_017909/README.md) |
+| 017910 | [Docker: Visual Reporting — Usability Improvement for Small Business](Project_017910/README.md) |
+| 017911 | [Docker: Visual Reporting — Baseline Setup for Home Development](Project_017911/README.md) |
+| 017912 | [Docker: Visual Reporting — Automation for Home Development](Project_017912/README.md) |
+| 017913 | [Docker: Visual Reporting — Recovery for Home Development](Project_017913/README.md) |
+| 017914 | [Docker: Visual Reporting — Reporting for Home Development](Project_017914/README.md) |
+| 017915 | [Docker: Visual Reporting — Usability Improvement for Home Development](Project_017915/README.md) |
+| 017916 | [Docker: Visual Reporting — Baseline Setup for Public Dataset](Project_017916/README.md) |
+| 017917 | [Docker: Visual Reporting — Automation for Public Dataset](Project_017917/README.md) |
+| 017918 | [Docker: Visual Reporting — Recovery for Public Dataset](Project_017918/README.md) |
+| 017919 | [Docker: Visual Reporting — Reporting for Public Dataset](Project_017919/README.md) |
+| 017920 | [Docker: Visual Reporting — Usability Improvement for Public Dataset](Project_017920/README.md) |
 
 [Back to the portfolio home](../README.md)
