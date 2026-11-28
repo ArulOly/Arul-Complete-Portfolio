@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029778 | [Wireshark: Data Validation — Recovery for Offline Classroom](Project_029778/README.md) |
 | 029779 | [Wireshark: Data Validation — Reporting for Offline Classroom](Project_029779/README.md) |
 | 029780 | [Wireshark: Data Validation — Usability Improvement for Offline Classroom](Project_029780/README.md) |
+| 029781 | [Wireshark: Data Validation — Baseline Setup for Single-Host Lab](Project_029781/README.md) |
+| 029782 | [Wireshark: Data Validation — Automation for Single-Host Lab](Project_029782/README.md) |
+| 029783 | [Wireshark: Data Validation — Recovery for Single-Host Lab](Project_029783/README.md) |
+| 029784 | [Wireshark: Data Validation — Reporting for Single-Host Lab](Project_029784/README.md) |
+| 029785 | [Wireshark: Data Validation — Usability Improvement for Single-Host Lab](Project_029785/README.md) |
+| 029786 | [Wireshark: Data Validation — Baseline Setup for Two-Node Lab](Project_029786/README.md) |
+| 029787 | [Wireshark: Data Validation — Automation for Two-Node Lab](Project_029787/README.md) |
+| 029788 | [Wireshark: Data Validation — Recovery for Two-Node Lab](Project_029788/README.md) |
+| 029789 | [Wireshark: Data Validation — Reporting for Two-Node Lab](Project_029789/README.md) |
+| 029790 | [Wireshark: Data Validation — Usability Improvement for Two-Node Lab](Project_029790/README.md) |
+| 029791 | [Wireshark: Data Validation — Baseline Setup for Help Desk](Project_029791/README.md) |
+| 029792 | [Wireshark: Data Validation — Automation for Help Desk](Project_029792/README.md) |
+| 029793 | [Wireshark: Data Validation — Recovery for Help Desk](Project_029793/README.md) |
+| 029794 | [Wireshark: Data Validation — Reporting for Help Desk](Project_029794/README.md) |
+| 029795 | [Wireshark: Data Validation — Usability Improvement for Help Desk](Project_029795/README.md) |
+| 029796 | [Wireshark: Data Validation — Baseline Setup for Portfolio Demo](Project_029796/README.md) |
+| 029797 | [Wireshark: Data Validation — Automation for Portfolio Demo](Project_029797/README.md) |
+| 029798 | [Wireshark: Data Validation — Recovery for Portfolio Demo](Project_029798/README.md) |
+| 029799 | [Wireshark: Data Validation — Reporting for Portfolio Demo](Project_029799/README.md) |
+| 029800 | [Wireshark: Data Validation — Usability Improvement for Portfolio Demo](Project_029800/README.md) |
 
 [Back to the portfolio home](../README.md)
