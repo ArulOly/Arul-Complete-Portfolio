@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031738 | [Greenbone: Error Handling — Recovery for Two-Node Lab](Project_031738/README.md) |
 | 031739 | [Greenbone: Error Handling — Reporting for Two-Node Lab](Project_031739/README.md) |
 | 031740 | [Greenbone: Error Handling — Usability Improvement for Two-Node Lab](Project_031740/README.md) |
+| 031741 | [Greenbone: Error Handling — Baseline Setup for Help Desk](Project_031741/README.md) |
+| 031742 | [Greenbone: Error Handling — Automation for Help Desk](Project_031742/README.md) |
+| 031743 | [Greenbone: Error Handling — Recovery for Help Desk](Project_031743/README.md) |
+| 031744 | [Greenbone: Error Handling — Reporting for Help Desk](Project_031744/README.md) |
+| 031745 | [Greenbone: Error Handling — Usability Improvement for Help Desk](Project_031745/README.md) |
+| 031746 | [Greenbone: Error Handling — Baseline Setup for Portfolio Demo](Project_031746/README.md) |
+| 031747 | [Greenbone: Error Handling — Automation for Portfolio Demo](Project_031747/README.md) |
+| 031748 | [Greenbone: Error Handling — Recovery for Portfolio Demo](Project_031748/README.md) |
+| 031749 | [Greenbone: Error Handling — Reporting for Portfolio Demo](Project_031749/README.md) |
+| 031750 | [Greenbone: Error Handling — Usability Improvement for Portfolio Demo](Project_031750/README.md) |
+| 031751 | [Greenbone: Data Validation — Baseline Setup for School Lab](Project_031751/README.md) |
+| 031752 | [Greenbone: Data Validation — Automation for School Lab](Project_031752/README.md) |
+| 031753 | [Greenbone: Data Validation — Recovery for School Lab](Project_031753/README.md) |
+| 031754 | [Greenbone: Data Validation — Reporting for School Lab](Project_031754/README.md) |
+| 031755 | [Greenbone: Data Validation — Usability Improvement for School Lab](Project_031755/README.md) |
+| 031756 | [Greenbone: Data Validation — Baseline Setup for Small Business](Project_031756/README.md) |
+| 031757 | [Greenbone: Data Validation — Automation for Small Business](Project_031757/README.md) |
+| 031758 | [Greenbone: Data Validation — Recovery for Small Business](Project_031758/README.md) |
+| 031759 | [Greenbone: Data Validation — Reporting for Small Business](Project_031759/README.md) |
+| 031760 | [Greenbone: Data Validation — Usability Improvement for Small Business](Project_031760/README.md) |
 
 [Back to the portfolio home](../README.md)
