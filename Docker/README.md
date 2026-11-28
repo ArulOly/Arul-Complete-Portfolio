@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017178 | [Docker: Log Analysis — Recovery for Offline Classroom](Project_017178/README.md) |
 | 017179 | [Docker: Log Analysis — Reporting for Offline Classroom](Project_017179/README.md) |
 | 017180 | [Docker: Log Analysis — Usability Improvement for Offline Classroom](Project_017180/README.md) |
+| 017181 | [Docker: Log Analysis — Baseline Setup for Single-Host Lab](Project_017181/README.md) |
+| 017182 | [Docker: Log Analysis — Automation for Single-Host Lab](Project_017182/README.md) |
+| 017183 | [Docker: Log Analysis — Recovery for Single-Host Lab](Project_017183/README.md) |
+| 017184 | [Docker: Log Analysis — Reporting for Single-Host Lab](Project_017184/README.md) |
+| 017185 | [Docker: Log Analysis — Usability Improvement for Single-Host Lab](Project_017185/README.md) |
+| 017186 | [Docker: Log Analysis — Baseline Setup for Two-Node Lab](Project_017186/README.md) |
+| 017187 | [Docker: Log Analysis — Automation for Two-Node Lab](Project_017187/README.md) |
+| 017188 | [Docker: Log Analysis — Recovery for Two-Node Lab](Project_017188/README.md) |
+| 017189 | [Docker: Log Analysis — Reporting for Two-Node Lab](Project_017189/README.md) |
+| 017190 | [Docker: Log Analysis — Usability Improvement for Two-Node Lab](Project_017190/README.md) |
+| 017191 | [Docker: Log Analysis — Baseline Setup for Help Desk](Project_017191/README.md) |
+| 017192 | [Docker: Log Analysis — Automation for Help Desk](Project_017192/README.md) |
+| 017193 | [Docker: Log Analysis — Recovery for Help Desk](Project_017193/README.md) |
+| 017194 | [Docker: Log Analysis — Reporting for Help Desk](Project_017194/README.md) |
+| 017195 | [Docker: Log Analysis — Usability Improvement for Help Desk](Project_017195/README.md) |
+| 017196 | [Docker: Log Analysis — Baseline Setup for Portfolio Demo](Project_017196/README.md) |
+| 017197 | [Docker: Log Analysis — Automation for Portfolio Demo](Project_017197/README.md) |
+| 017198 | [Docker: Log Analysis — Recovery for Portfolio Demo](Project_017198/README.md) |
+| 017199 | [Docker: Log Analysis — Reporting for Portfolio Demo](Project_017199/README.md) |
+| 017200 | [Docker: Log Analysis — Usability Improvement for Portfolio Demo](Project_017200/README.md) |
 
 [Back to the portfolio home](../README.md)
