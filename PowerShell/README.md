@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040918 | [PowerShell: Visual Reporting — Recovery for Public Dataset](Project_040918/README.md) |
 | 040919 | [PowerShell: Visual Reporting — Reporting for Public Dataset](Project_040919/README.md) |
 | 040920 | [PowerShell: Visual Reporting — Usability Improvement for Public Dataset](Project_040920/README.md) |
+| 040921 | [PowerShell: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_040921/README.md) |
+| 040922 | [PowerShell: Visual Reporting — Automation for Branch Office Simulator](Project_040922/README.md) |
+| 040923 | [PowerShell: Visual Reporting — Recovery for Branch Office Simulator](Project_040923/README.md) |
+| 040924 | [PowerShell: Visual Reporting — Reporting for Branch Office Simulator](Project_040924/README.md) |
+| 040925 | [PowerShell: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_040925/README.md) |
+| 040926 | [PowerShell: Visual Reporting — Baseline Setup for Offline Classroom](Project_040926/README.md) |
+| 040927 | [PowerShell: Visual Reporting — Automation for Offline Classroom](Project_040927/README.md) |
+| 040928 | [PowerShell: Visual Reporting — Recovery for Offline Classroom](Project_040928/README.md) |
+| 040929 | [PowerShell: Visual Reporting — Reporting for Offline Classroom](Project_040929/README.md) |
+| 040930 | [PowerShell: Visual Reporting — Usability Improvement for Offline Classroom](Project_040930/README.md) |
+| 040931 | [PowerShell: Visual Reporting — Baseline Setup for Single-Host Lab](Project_040931/README.md) |
+| 040932 | [PowerShell: Visual Reporting — Automation for Single-Host Lab](Project_040932/README.md) |
+| 040933 | [PowerShell: Visual Reporting — Recovery for Single-Host Lab](Project_040933/README.md) |
+| 040934 | [PowerShell: Visual Reporting — Reporting for Single-Host Lab](Project_040934/README.md) |
+| 040935 | [PowerShell: Visual Reporting — Usability Improvement for Single-Host Lab](Project_040935/README.md) |
+| 040936 | [PowerShell: Visual Reporting — Baseline Setup for Two-Node Lab](Project_040936/README.md) |
+| 040937 | [PowerShell: Visual Reporting — Automation for Two-Node Lab](Project_040937/README.md) |
+| 040938 | [PowerShell: Visual Reporting — Recovery for Two-Node Lab](Project_040938/README.md) |
+| 040939 | [PowerShell: Visual Reporting — Reporting for Two-Node Lab](Project_040939/README.md) |
+| 040940 | [PowerShell: Visual Reporting — Usability Improvement for Two-Node Lab](Project_040940/README.md) |
 
 [Back to the portfolio home](../README.md)
