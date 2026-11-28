@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017458 | [Docker: Scheduled Reporting — Recovery for Small Business](Project_017458/README.md) |
 | 017459 | [Docker: Scheduled Reporting — Reporting for Small Business](Project_017459/README.md) |
 | 017460 | [Docker: Scheduled Reporting — Usability Improvement for Small Business](Project_017460/README.md) |
+| 017461 | [Docker: Scheduled Reporting — Baseline Setup for Home Development](Project_017461/README.md) |
+| 017462 | [Docker: Scheduled Reporting — Automation for Home Development](Project_017462/README.md) |
+| 017463 | [Docker: Scheduled Reporting — Recovery for Home Development](Project_017463/README.md) |
+| 017464 | [Docker: Scheduled Reporting — Reporting for Home Development](Project_017464/README.md) |
+| 017465 | [Docker: Scheduled Reporting — Usability Improvement for Home Development](Project_017465/README.md) |
+| 017466 | [Docker: Scheduled Reporting — Baseline Setup for Public Dataset](Project_017466/README.md) |
+| 017467 | [Docker: Scheduled Reporting — Automation for Public Dataset](Project_017467/README.md) |
+| 017468 | [Docker: Scheduled Reporting — Recovery for Public Dataset](Project_017468/README.md) |
+| 017469 | [Docker: Scheduled Reporting — Reporting for Public Dataset](Project_017469/README.md) |
+| 017470 | [Docker: Scheduled Reporting — Usability Improvement for Public Dataset](Project_017470/README.md) |
+| 017471 | [Docker: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_017471/README.md) |
+| 017472 | [Docker: Scheduled Reporting — Automation for Branch Office Simulator](Project_017472/README.md) |
+| 017473 | [Docker: Scheduled Reporting — Recovery for Branch Office Simulator](Project_017473/README.md) |
+| 017474 | [Docker: Scheduled Reporting — Reporting for Branch Office Simulator](Project_017474/README.md) |
+| 017475 | [Docker: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_017475/README.md) |
+| 017476 | [Docker: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_017476/README.md) |
+| 017477 | [Docker: Scheduled Reporting — Automation for Offline Classroom](Project_017477/README.md) |
+| 017478 | [Docker: Scheduled Reporting — Recovery for Offline Classroom](Project_017478/README.md) |
+| 017479 | [Docker: Scheduled Reporting — Reporting for Offline Classroom](Project_017479/README.md) |
+| 017480 | [Docker: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_017480/README.md) |
 
 [Back to the portfolio home](../README.md)
