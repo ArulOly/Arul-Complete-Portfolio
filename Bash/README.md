@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039438 | [Bash: Alerting — Recovery for Two-Node Lab](Project_039438/README.md) |
 | 039439 | [Bash: Alerting — Reporting for Two-Node Lab](Project_039439/README.md) |
 | 039440 | [Bash: Alerting — Usability Improvement for Two-Node Lab](Project_039440/README.md) |
+| 039441 | [Bash: Alerting — Baseline Setup for Help Desk](Project_039441/README.md) |
+| 039442 | [Bash: Alerting — Automation for Help Desk](Project_039442/README.md) |
+| 039443 | [Bash: Alerting — Recovery for Help Desk](Project_039443/README.md) |
+| 039444 | [Bash: Alerting — Reporting for Help Desk](Project_039444/README.md) |
+| 039445 | [Bash: Alerting — Usability Improvement for Help Desk](Project_039445/README.md) |
+| 039446 | [Bash: Alerting — Baseline Setup for Portfolio Demo](Project_039446/README.md) |
+| 039447 | [Bash: Alerting — Automation for Portfolio Demo](Project_039447/README.md) |
+| 039448 | [Bash: Alerting — Recovery for Portfolio Demo](Project_039448/README.md) |
+| 039449 | [Bash: Alerting — Reporting for Portfolio Demo](Project_039449/README.md) |
+| 039450 | [Bash: Alerting — Usability Improvement for Portfolio Demo](Project_039450/README.md) |
+| 039451 | [Bash: Scheduled Reporting — Baseline Setup for School Lab](Project_039451/README.md) |
+| 039452 | [Bash: Scheduled Reporting — Automation for School Lab](Project_039452/README.md) |
+| 039453 | [Bash: Scheduled Reporting — Recovery for School Lab](Project_039453/README.md) |
+| 039454 | [Bash: Scheduled Reporting — Reporting for School Lab](Project_039454/README.md) |
+| 039455 | [Bash: Scheduled Reporting — Usability Improvement for School Lab](Project_039455/README.md) |
+| 039456 | [Bash: Scheduled Reporting — Baseline Setup for Small Business](Project_039456/README.md) |
+| 039457 | [Bash: Scheduled Reporting — Automation for Small Business](Project_039457/README.md) |
+| 039458 | [Bash: Scheduled Reporting — Recovery for Small Business](Project_039458/README.md) |
+| 039459 | [Bash: Scheduled Reporting — Reporting for Small Business](Project_039459/README.md) |
+| 039460 | [Bash: Scheduled Reporting — Usability Improvement for Small Business](Project_039460/README.md) |
 
 [Back to the portfolio home](../README.md)
