@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039258 | [Bash: Data Import — Recovery for Small Business](Project_039258/README.md) |
 | 039259 | [Bash: Data Import — Reporting for Small Business](Project_039259/README.md) |
 | 039260 | [Bash: Data Import — Usability Improvement for Small Business](Project_039260/README.md) |
+| 039261 | [Bash: Data Import — Baseline Setup for Home Development](Project_039261/README.md) |
+| 039262 | [Bash: Data Import — Automation for Home Development](Project_039262/README.md) |
+| 039263 | [Bash: Data Import — Recovery for Home Development](Project_039263/README.md) |
+| 039264 | [Bash: Data Import — Reporting for Home Development](Project_039264/README.md) |
+| 039265 | [Bash: Data Import — Usability Improvement for Home Development](Project_039265/README.md) |
+| 039266 | [Bash: Data Import — Baseline Setup for Public Dataset](Project_039266/README.md) |
+| 039267 | [Bash: Data Import — Automation for Public Dataset](Project_039267/README.md) |
+| 039268 | [Bash: Data Import — Recovery for Public Dataset](Project_039268/README.md) |
+| 039269 | [Bash: Data Import — Reporting for Public Dataset](Project_039269/README.md) |
+| 039270 | [Bash: Data Import — Usability Improvement for Public Dataset](Project_039270/README.md) |
+| 039271 | [Bash: Data Import — Baseline Setup for Branch Office Simulator](Project_039271/README.md) |
+| 039272 | [Bash: Data Import — Automation for Branch Office Simulator](Project_039272/README.md) |
+| 039273 | [Bash: Data Import — Recovery for Branch Office Simulator](Project_039273/README.md) |
+| 039274 | [Bash: Data Import — Reporting for Branch Office Simulator](Project_039274/README.md) |
+| 039275 | [Bash: Data Import — Usability Improvement for Branch Office Simulator](Project_039275/README.md) |
+| 039276 | [Bash: Data Import — Baseline Setup for Offline Classroom](Project_039276/README.md) |
+| 039277 | [Bash: Data Import — Automation for Offline Classroom](Project_039277/README.md) |
+| 039278 | [Bash: Data Import — Recovery for Offline Classroom](Project_039278/README.md) |
+| 039279 | [Bash: Data Import — Reporting for Offline Classroom](Project_039279/README.md) |
+| 039280 | [Bash: Data Import — Usability Improvement for Offline Classroom](Project_039280/README.md) |
 
 [Back to the portfolio home](../README.md)
