@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036898 | [ESP32: Automation — Recovery for Portfolio Demo](Project_036898/README.md) |
 | 036899 | [ESP32: Automation — Reporting for Portfolio Demo](Project_036899/README.md) |
 | 036900 | [ESP32: Automation — Usability Improvement for Portfolio Demo](Project_036900/README.md) |
+| 036901 | [ESP32: Visual Reporting — Baseline Setup for School Lab](Project_036901/README.md) |
+| 036902 | [ESP32: Visual Reporting — Automation for School Lab](Project_036902/README.md) |
+| 036903 | [ESP32: Visual Reporting — Recovery for School Lab](Project_036903/README.md) |
+| 036904 | [ESP32: Visual Reporting — Reporting for School Lab](Project_036904/README.md) |
+| 036905 | [ESP32: Visual Reporting — Usability Improvement for School Lab](Project_036905/README.md) |
+| 036906 | [ESP32: Visual Reporting — Baseline Setup for Small Business](Project_036906/README.md) |
+| 036907 | [ESP32: Visual Reporting — Automation for Small Business](Project_036907/README.md) |
+| 036908 | [ESP32: Visual Reporting — Recovery for Small Business](Project_036908/README.md) |
+| 036909 | [ESP32: Visual Reporting — Reporting for Small Business](Project_036909/README.md) |
+| 036910 | [ESP32: Visual Reporting — Usability Improvement for Small Business](Project_036910/README.md) |
+| 036911 | [ESP32: Visual Reporting — Baseline Setup for Home Development](Project_036911/README.md) |
+| 036912 | [ESP32: Visual Reporting — Automation for Home Development](Project_036912/README.md) |
+| 036913 | [ESP32: Visual Reporting — Recovery for Home Development](Project_036913/README.md) |
+| 036914 | [ESP32: Visual Reporting — Reporting for Home Development](Project_036914/README.md) |
+| 036915 | [ESP32: Visual Reporting — Usability Improvement for Home Development](Project_036915/README.md) |
+| 036916 | [ESP32: Visual Reporting — Baseline Setup for Public Dataset](Project_036916/README.md) |
+| 036917 | [ESP32: Visual Reporting — Automation for Public Dataset](Project_036917/README.md) |
+| 036918 | [ESP32: Visual Reporting — Recovery for Public Dataset](Project_036918/README.md) |
+| 036919 | [ESP32: Visual Reporting — Reporting for Public Dataset](Project_036919/README.md) |
+| 036920 | [ESP32: Visual Reporting — Usability Improvement for Public Dataset](Project_036920/README.md) |
 
 [Back to the portfolio home](../README.md)
