@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031218 | [Greenbone: Backup Verification — Recovery for Public Dataset](Project_031218/README.md) |
 | 031219 | [Greenbone: Backup Verification — Reporting for Public Dataset](Project_031219/README.md) |
 | 031220 | [Greenbone: Backup Verification — Usability Improvement for Public Dataset](Project_031220/README.md) |
+| 031221 | [Greenbone: Backup Verification — Baseline Setup for Branch Office Simulator](Project_031221/README.md) |
+| 031222 | [Greenbone: Backup Verification — Automation for Branch Office Simulator](Project_031222/README.md) |
+| 031223 | [Greenbone: Backup Verification — Recovery for Branch Office Simulator](Project_031223/README.md) |
+| 031224 | [Greenbone: Backup Verification — Reporting for Branch Office Simulator](Project_031224/README.md) |
+| 031225 | [Greenbone: Backup Verification — Usability Improvement for Branch Office Simulator](Project_031225/README.md) |
+| 031226 | [Greenbone: Backup Verification — Baseline Setup for Offline Classroom](Project_031226/README.md) |
+| 031227 | [Greenbone: Backup Verification — Automation for Offline Classroom](Project_031227/README.md) |
+| 031228 | [Greenbone: Backup Verification — Recovery for Offline Classroom](Project_031228/README.md) |
+| 031229 | [Greenbone: Backup Verification — Reporting for Offline Classroom](Project_031229/README.md) |
+| 031230 | [Greenbone: Backup Verification — Usability Improvement for Offline Classroom](Project_031230/README.md) |
+| 031231 | [Greenbone: Backup Verification — Baseline Setup for Single-Host Lab](Project_031231/README.md) |
+| 031232 | [Greenbone: Backup Verification — Automation for Single-Host Lab](Project_031232/README.md) |
+| 031233 | [Greenbone: Backup Verification — Recovery for Single-Host Lab](Project_031233/README.md) |
+| 031234 | [Greenbone: Backup Verification — Reporting for Single-Host Lab](Project_031234/README.md) |
+| 031235 | [Greenbone: Backup Verification — Usability Improvement for Single-Host Lab](Project_031235/README.md) |
+| 031236 | [Greenbone: Backup Verification — Baseline Setup for Two-Node Lab](Project_031236/README.md) |
+| 031237 | [Greenbone: Backup Verification — Automation for Two-Node Lab](Project_031237/README.md) |
+| 031238 | [Greenbone: Backup Verification — Recovery for Two-Node Lab](Project_031238/README.md) |
+| 031239 | [Greenbone: Backup Verification — Reporting for Two-Node Lab](Project_031239/README.md) |
+| 031240 | [Greenbone: Backup Verification — Usability Improvement for Two-Node Lab](Project_031240/README.md) |
 
 [Back to the portfolio home](../README.md)
