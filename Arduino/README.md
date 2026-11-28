@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037638 | [Arduino: Service Check — Recovery for Two-Node Lab](Project_037638/README.md) |
 | 037639 | [Arduino: Service Check — Reporting for Two-Node Lab](Project_037639/README.md) |
 | 037640 | [Arduino: Service Check — Usability Improvement for Two-Node Lab](Project_037640/README.md) |
+| 037641 | [Arduino: Service Check — Baseline Setup for Help Desk](Project_037641/README.md) |
+| 037642 | [Arduino: Service Check — Automation for Help Desk](Project_037642/README.md) |
+| 037643 | [Arduino: Service Check — Recovery for Help Desk](Project_037643/README.md) |
+| 037644 | [Arduino: Service Check — Reporting for Help Desk](Project_037644/README.md) |
+| 037645 | [Arduino: Service Check — Usability Improvement for Help Desk](Project_037645/README.md) |
+| 037646 | [Arduino: Service Check — Baseline Setup for Portfolio Demo](Project_037646/README.md) |
+| 037647 | [Arduino: Service Check — Automation for Portfolio Demo](Project_037647/README.md) |
+| 037648 | [Arduino: Service Check — Recovery for Portfolio Demo](Project_037648/README.md) |
+| 037649 | [Arduino: Service Check — Reporting for Portfolio Demo](Project_037649/README.md) |
+| 037650 | [Arduino: Service Check — Usability Improvement for Portfolio Demo](Project_037650/README.md) |
+| 037651 | [Arduino: Configuration Comparison — Baseline Setup for School Lab](Project_037651/README.md) |
+| 037652 | [Arduino: Configuration Comparison — Automation for School Lab](Project_037652/README.md) |
+| 037653 | [Arduino: Configuration Comparison — Recovery for School Lab](Project_037653/README.md) |
+| 037654 | [Arduino: Configuration Comparison — Reporting for School Lab](Project_037654/README.md) |
+| 037655 | [Arduino: Configuration Comparison — Usability Improvement for School Lab](Project_037655/README.md) |
+| 037656 | [Arduino: Configuration Comparison — Baseline Setup for Small Business](Project_037656/README.md) |
+| 037657 | [Arduino: Configuration Comparison — Automation for Small Business](Project_037657/README.md) |
+| 037658 | [Arduino: Configuration Comparison — Recovery for Small Business](Project_037658/README.md) |
+| 037659 | [Arduino: Configuration Comparison — Reporting for Small Business](Project_037659/README.md) |
+| 037660 | [Arduino: Configuration Comparison — Usability Improvement for Small Business](Project_037660/README.md) |
 
 [Back to the portfolio home](../README.md)
