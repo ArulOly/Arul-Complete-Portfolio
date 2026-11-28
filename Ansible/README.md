@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047598 | [Ansible: Performance Baseline — Recovery for Portfolio Demo](Project_047598/README.md) |
 | 047599 | [Ansible: Performance Baseline — Reporting for Portfolio Demo](Project_047599/README.md) |
 | 047600 | [Ansible: Performance Baseline — Usability Improvement for Portfolio Demo](Project_047600/README.md) |
+| 047601 | [Ansible: Service Check — Baseline Setup for School Lab](Project_047601/README.md) |
+| 047602 | [Ansible: Service Check — Automation for School Lab](Project_047602/README.md) |
+| 047603 | [Ansible: Service Check — Recovery for School Lab](Project_047603/README.md) |
+| 047604 | [Ansible: Service Check — Reporting for School Lab](Project_047604/README.md) |
+| 047605 | [Ansible: Service Check — Usability Improvement for School Lab](Project_047605/README.md) |
+| 047606 | [Ansible: Service Check — Baseline Setup for Small Business](Project_047606/README.md) |
+| 047607 | [Ansible: Service Check — Automation for Small Business](Project_047607/README.md) |
+| 047608 | [Ansible: Service Check — Recovery for Small Business](Project_047608/README.md) |
+| 047609 | [Ansible: Service Check — Reporting for Small Business](Project_047609/README.md) |
+| 047610 | [Ansible: Service Check — Usability Improvement for Small Business](Project_047610/README.md) |
+| 047611 | [Ansible: Service Check — Baseline Setup for Home Development](Project_047611/README.md) |
+| 047612 | [Ansible: Service Check — Automation for Home Development](Project_047612/README.md) |
+| 047613 | [Ansible: Service Check — Recovery for Home Development](Project_047613/README.md) |
+| 047614 | [Ansible: Service Check — Reporting for Home Development](Project_047614/README.md) |
+| 047615 | [Ansible: Service Check — Usability Improvement for Home Development](Project_047615/README.md) |
+| 047616 | [Ansible: Service Check — Baseline Setup for Public Dataset](Project_047616/README.md) |
+| 047617 | [Ansible: Service Check — Automation for Public Dataset](Project_047617/README.md) |
+| 047618 | [Ansible: Service Check — Recovery for Public Dataset](Project_047618/README.md) |
+| 047619 | [Ansible: Service Check — Reporting for Public Dataset](Project_047619/README.md) |
+| 047620 | [Ansible: Service Check — Usability Improvement for Public Dataset](Project_047620/README.md) |
 
 [Back to the portfolio home](../README.md)
