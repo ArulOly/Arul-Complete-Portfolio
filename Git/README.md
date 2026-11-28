@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038438 | [Git: Alerting — Recovery for Two-Node Lab](Project_038438/README.md) |
 | 038439 | [Git: Alerting — Reporting for Two-Node Lab](Project_038439/README.md) |
 | 038440 | [Git: Alerting — Usability Improvement for Two-Node Lab](Project_038440/README.md) |
+| 038441 | [Git: Alerting — Baseline Setup for Help Desk](Project_038441/README.md) |
+| 038442 | [Git: Alerting — Automation for Help Desk](Project_038442/README.md) |
+| 038443 | [Git: Alerting — Recovery for Help Desk](Project_038443/README.md) |
+| 038444 | [Git: Alerting — Reporting for Help Desk](Project_038444/README.md) |
+| 038445 | [Git: Alerting — Usability Improvement for Help Desk](Project_038445/README.md) |
+| 038446 | [Git: Alerting — Baseline Setup for Portfolio Demo](Project_038446/README.md) |
+| 038447 | [Git: Alerting — Automation for Portfolio Demo](Project_038447/README.md) |
+| 038448 | [Git: Alerting — Recovery for Portfolio Demo](Project_038448/README.md) |
+| 038449 | [Git: Alerting — Reporting for Portfolio Demo](Project_038449/README.md) |
+| 038450 | [Git: Alerting — Usability Improvement for Portfolio Demo](Project_038450/README.md) |
+| 038451 | [Git: Scheduled Reporting — Baseline Setup for School Lab](Project_038451/README.md) |
+| 038452 | [Git: Scheduled Reporting — Automation for School Lab](Project_038452/README.md) |
+| 038453 | [Git: Scheduled Reporting — Recovery for School Lab](Project_038453/README.md) |
+| 038454 | [Git: Scheduled Reporting — Reporting for School Lab](Project_038454/README.md) |
+| 038455 | [Git: Scheduled Reporting — Usability Improvement for School Lab](Project_038455/README.md) |
+| 038456 | [Git: Scheduled Reporting — Baseline Setup for Small Business](Project_038456/README.md) |
+| 038457 | [Git: Scheduled Reporting — Automation for Small Business](Project_038457/README.md) |
+| 038458 | [Git: Scheduled Reporting — Recovery for Small Business](Project_038458/README.md) |
+| 038459 | [Git: Scheduled Reporting — Reporting for Small Business](Project_038459/README.md) |
+| 038460 | [Git: Scheduled Reporting — Usability Improvement for Small Business](Project_038460/README.md) |
 
 [Back to the portfolio home](../README.md)
