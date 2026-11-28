@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040038 | [PowerShell: Inventory — Recovery for Two-Node Lab](Project_040038/README.md) |
 | 040039 | [PowerShell: Inventory — Reporting for Two-Node Lab](Project_040039/README.md) |
 | 040040 | [PowerShell: Inventory — Usability Improvement for Two-Node Lab](Project_040040/README.md) |
+| 040041 | [PowerShell: Inventory — Baseline Setup for Help Desk](Project_040041/README.md) |
+| 040042 | [PowerShell: Inventory — Automation for Help Desk](Project_040042/README.md) |
+| 040043 | [PowerShell: Inventory — Recovery for Help Desk](Project_040043/README.md) |
+| 040044 | [PowerShell: Inventory — Reporting for Help Desk](Project_040044/README.md) |
+| 040045 | [PowerShell: Inventory — Usability Improvement for Help Desk](Project_040045/README.md) |
+| 040046 | [PowerShell: Inventory — Baseline Setup for Portfolio Demo](Project_040046/README.md) |
+| 040047 | [PowerShell: Inventory — Automation for Portfolio Demo](Project_040047/README.md) |
+| 040048 | [PowerShell: Inventory — Recovery for Portfolio Demo](Project_040048/README.md) |
+| 040049 | [PowerShell: Inventory — Reporting for Portfolio Demo](Project_040049/README.md) |
+| 040050 | [PowerShell: Inventory — Usability Improvement for Portfolio Demo](Project_040050/README.md) |
+| 040051 | [PowerShell: Monitoring — Baseline Setup for School Lab](Project_040051/README.md) |
+| 040052 | [PowerShell: Monitoring — Automation for School Lab](Project_040052/README.md) |
+| 040053 | [PowerShell: Monitoring — Recovery for School Lab](Project_040053/README.md) |
+| 040054 | [PowerShell: Monitoring — Reporting for School Lab](Project_040054/README.md) |
+| 040055 | [PowerShell: Monitoring — Usability Improvement for School Lab](Project_040055/README.md) |
+| 040056 | [PowerShell: Monitoring — Baseline Setup for Small Business](Project_040056/README.md) |
+| 040057 | [PowerShell: Monitoring — Automation for Small Business](Project_040057/README.md) |
+| 040058 | [PowerShell: Monitoring — Recovery for Small Business](Project_040058/README.md) |
+| 040059 | [PowerShell: Monitoring — Reporting for Small Business](Project_040059/README.md) |
+| 040060 | [PowerShell: Monitoring — Usability Improvement for Small Business](Project_040060/README.md) |
 
 [Back to the portfolio home](../README.md)
