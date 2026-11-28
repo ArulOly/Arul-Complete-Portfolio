@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038338 | [Git: Data Export — Recovery for Two-Node Lab](Project_038338/README.md) |
 | 038339 | [Git: Data Export — Reporting for Two-Node Lab](Project_038339/README.md) |
 | 038340 | [Git: Data Export — Usability Improvement for Two-Node Lab](Project_038340/README.md) |
+| 038341 | [Git: Data Export — Baseline Setup for Help Desk](Project_038341/README.md) |
+| 038342 | [Git: Data Export — Automation for Help Desk](Project_038342/README.md) |
+| 038343 | [Git: Data Export — Recovery for Help Desk](Project_038343/README.md) |
+| 038344 | [Git: Data Export — Reporting for Help Desk](Project_038344/README.md) |
+| 038345 | [Git: Data Export — Usability Improvement for Help Desk](Project_038345/README.md) |
+| 038346 | [Git: Data Export — Baseline Setup for Portfolio Demo](Project_038346/README.md) |
+| 038347 | [Git: Data Export — Automation for Portfolio Demo](Project_038347/README.md) |
+| 038348 | [Git: Data Export — Recovery for Portfolio Demo](Project_038348/README.md) |
+| 038349 | [Git: Data Export — Reporting for Portfolio Demo](Project_038349/README.md) |
+| 038350 | [Git: Data Export — Usability Improvement for Portfolio Demo](Project_038350/README.md) |
+| 038351 | [Git: Dashboard — Baseline Setup for School Lab](Project_038351/README.md) |
+| 038352 | [Git: Dashboard — Automation for School Lab](Project_038352/README.md) |
+| 038353 | [Git: Dashboard — Recovery for School Lab](Project_038353/README.md) |
+| 038354 | [Git: Dashboard — Reporting for School Lab](Project_038354/README.md) |
+| 038355 | [Git: Dashboard — Usability Improvement for School Lab](Project_038355/README.md) |
+| 038356 | [Git: Dashboard — Baseline Setup for Small Business](Project_038356/README.md) |
+| 038357 | [Git: Dashboard — Automation for Small Business](Project_038357/README.md) |
+| 038358 | [Git: Dashboard — Recovery for Small Business](Project_038358/README.md) |
+| 038359 | [Git: Dashboard — Reporting for Small Business](Project_038359/README.md) |
+| 038360 | [Git: Dashboard — Usability Improvement for Small Business](Project_038360/README.md) |
 
 [Back to the portfolio home](../README.md)
