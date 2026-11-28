@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037718 | [Arduino: Error Handling — Recovery for Public Dataset](Project_037718/README.md) |
 | 037719 | [Arduino: Error Handling — Reporting for Public Dataset](Project_037719/README.md) |
 | 037720 | [Arduino: Error Handling — Usability Improvement for Public Dataset](Project_037720/README.md) |
+| 037721 | [Arduino: Error Handling — Baseline Setup for Branch Office Simulator](Project_037721/README.md) |
+| 037722 | [Arduino: Error Handling — Automation for Branch Office Simulator](Project_037722/README.md) |
+| 037723 | [Arduino: Error Handling — Recovery for Branch Office Simulator](Project_037723/README.md) |
+| 037724 | [Arduino: Error Handling — Reporting for Branch Office Simulator](Project_037724/README.md) |
+| 037725 | [Arduino: Error Handling — Usability Improvement for Branch Office Simulator](Project_037725/README.md) |
+| 037726 | [Arduino: Error Handling — Baseline Setup for Offline Classroom](Project_037726/README.md) |
+| 037727 | [Arduino: Error Handling — Automation for Offline Classroom](Project_037727/README.md) |
+| 037728 | [Arduino: Error Handling — Recovery for Offline Classroom](Project_037728/README.md) |
+| 037729 | [Arduino: Error Handling — Reporting for Offline Classroom](Project_037729/README.md) |
+| 037730 | [Arduino: Error Handling — Usability Improvement for Offline Classroom](Project_037730/README.md) |
+| 037731 | [Arduino: Error Handling — Baseline Setup for Single-Host Lab](Project_037731/README.md) |
+| 037732 | [Arduino: Error Handling — Automation for Single-Host Lab](Project_037732/README.md) |
+| 037733 | [Arduino: Error Handling — Recovery for Single-Host Lab](Project_037733/README.md) |
+| 037734 | [Arduino: Error Handling — Reporting for Single-Host Lab](Project_037734/README.md) |
+| 037735 | [Arduino: Error Handling — Usability Improvement for Single-Host Lab](Project_037735/README.md) |
+| 037736 | [Arduino: Error Handling — Baseline Setup for Two-Node Lab](Project_037736/README.md) |
+| 037737 | [Arduino: Error Handling — Automation for Two-Node Lab](Project_037737/README.md) |
+| 037738 | [Arduino: Error Handling — Recovery for Two-Node Lab](Project_037738/README.md) |
+| 037739 | [Arduino: Error Handling — Reporting for Two-Node Lab](Project_037739/README.md) |
+| 037740 | [Arduino: Error Handling — Usability Improvement for Two-Node Lab](Project_037740/README.md) |
 
 [Back to the portfolio home](../README.md)
