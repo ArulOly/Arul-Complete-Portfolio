@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044678 | [Prometheus: Configuration Comparison — Recovery for Offline Classroom](Project_044678/README.md) |
 | 044679 | [Prometheus: Configuration Comparison — Reporting for Offline Classroom](Project_044679/README.md) |
 | 044680 | [Prometheus: Configuration Comparison — Usability Improvement for Offline Classroom](Project_044680/README.md) |
+| 044681 | [Prometheus: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_044681/README.md) |
+| 044682 | [Prometheus: Configuration Comparison — Automation for Single-Host Lab](Project_044682/README.md) |
+| 044683 | [Prometheus: Configuration Comparison — Recovery for Single-Host Lab](Project_044683/README.md) |
+| 044684 | [Prometheus: Configuration Comparison — Reporting for Single-Host Lab](Project_044684/README.md) |
+| 044685 | [Prometheus: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_044685/README.md) |
+| 044686 | [Prometheus: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_044686/README.md) |
+| 044687 | [Prometheus: Configuration Comparison — Automation for Two-Node Lab](Project_044687/README.md) |
+| 044688 | [Prometheus: Configuration Comparison — Recovery for Two-Node Lab](Project_044688/README.md) |
+| 044689 | [Prometheus: Configuration Comparison — Reporting for Two-Node Lab](Project_044689/README.md) |
+| 044690 | [Prometheus: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_044690/README.md) |
+| 044691 | [Prometheus: Configuration Comparison — Baseline Setup for Help Desk](Project_044691/README.md) |
+| 044692 | [Prometheus: Configuration Comparison — Automation for Help Desk](Project_044692/README.md) |
+| 044693 | [Prometheus: Configuration Comparison — Recovery for Help Desk](Project_044693/README.md) |
+| 044694 | [Prometheus: Configuration Comparison — Reporting for Help Desk](Project_044694/README.md) |
+| 044695 | [Prometheus: Configuration Comparison — Usability Improvement for Help Desk](Project_044695/README.md) |
+| 044696 | [Prometheus: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_044696/README.md) |
+| 044697 | [Prometheus: Configuration Comparison — Automation for Portfolio Demo](Project_044697/README.md) |
+| 044698 | [Prometheus: Configuration Comparison — Recovery for Portfolio Demo](Project_044698/README.md) |
+| 044699 | [Prometheus: Configuration Comparison — Reporting for Portfolio Demo](Project_044699/README.md) |
+| 044700 | [Prometheus: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_044700/README.md) |
 
 [Back to the portfolio home](../README.md)
