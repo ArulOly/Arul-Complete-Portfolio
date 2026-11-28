@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040958 | [PowerShell: Recovery Test — Recovery for Small Business](Project_040958/README.md) |
 | 040959 | [PowerShell: Recovery Test — Reporting for Small Business](Project_040959/README.md) |
 | 040960 | [PowerShell: Recovery Test — Usability Improvement for Small Business](Project_040960/README.md) |
+| 040961 | [PowerShell: Recovery Test — Baseline Setup for Home Development](Project_040961/README.md) |
+| 040962 | [PowerShell: Recovery Test — Automation for Home Development](Project_040962/README.md) |
+| 040963 | [PowerShell: Recovery Test — Recovery for Home Development](Project_040963/README.md) |
+| 040964 | [PowerShell: Recovery Test — Reporting for Home Development](Project_040964/README.md) |
+| 040965 | [PowerShell: Recovery Test — Usability Improvement for Home Development](Project_040965/README.md) |
+| 040966 | [PowerShell: Recovery Test — Baseline Setup for Public Dataset](Project_040966/README.md) |
+| 040967 | [PowerShell: Recovery Test — Automation for Public Dataset](Project_040967/README.md) |
+| 040968 | [PowerShell: Recovery Test — Recovery for Public Dataset](Project_040968/README.md) |
+| 040969 | [PowerShell: Recovery Test — Reporting for Public Dataset](Project_040969/README.md) |
+| 040970 | [PowerShell: Recovery Test — Usability Improvement for Public Dataset](Project_040970/README.md) |
+| 040971 | [PowerShell: Recovery Test — Baseline Setup for Branch Office Simulator](Project_040971/README.md) |
+| 040972 | [PowerShell: Recovery Test — Automation for Branch Office Simulator](Project_040972/README.md) |
+| 040973 | [PowerShell: Recovery Test — Recovery for Branch Office Simulator](Project_040973/README.md) |
+| 040974 | [PowerShell: Recovery Test — Reporting for Branch Office Simulator](Project_040974/README.md) |
+| 040975 | [PowerShell: Recovery Test — Usability Improvement for Branch Office Simulator](Project_040975/README.md) |
+| 040976 | [PowerShell: Recovery Test — Baseline Setup for Offline Classroom](Project_040976/README.md) |
+| 040977 | [PowerShell: Recovery Test — Automation for Offline Classroom](Project_040977/README.md) |
+| 040978 | [PowerShell: Recovery Test — Recovery for Offline Classroom](Project_040978/README.md) |
+| 040979 | [PowerShell: Recovery Test — Reporting for Offline Classroom](Project_040979/README.md) |
+| 040980 | [PowerShell: Recovery Test — Usability Improvement for Offline Classroom](Project_040980/README.md) |
 
 [Back to the portfolio home](../README.md)
