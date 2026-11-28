@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042878 | [Apache: Automation — Recovery for Offline Classroom](Project_042878/README.md) |
 | 042879 | [Apache: Automation — Reporting for Offline Classroom](Project_042879/README.md) |
 | 042880 | [Apache: Automation — Usability Improvement for Offline Classroom](Project_042880/README.md) |
+| 042881 | [Apache: Automation — Baseline Setup for Single-Host Lab](Project_042881/README.md) |
+| 042882 | [Apache: Automation — Automation for Single-Host Lab](Project_042882/README.md) |
+| 042883 | [Apache: Automation — Recovery for Single-Host Lab](Project_042883/README.md) |
+| 042884 | [Apache: Automation — Reporting for Single-Host Lab](Project_042884/README.md) |
+| 042885 | [Apache: Automation — Usability Improvement for Single-Host Lab](Project_042885/README.md) |
+| 042886 | [Apache: Automation — Baseline Setup for Two-Node Lab](Project_042886/README.md) |
+| 042887 | [Apache: Automation — Automation for Two-Node Lab](Project_042887/README.md) |
+| 042888 | [Apache: Automation — Recovery for Two-Node Lab](Project_042888/README.md) |
+| 042889 | [Apache: Automation — Reporting for Two-Node Lab](Project_042889/README.md) |
+| 042890 | [Apache: Automation — Usability Improvement for Two-Node Lab](Project_042890/README.md) |
+| 042891 | [Apache: Automation — Baseline Setup for Help Desk](Project_042891/README.md) |
+| 042892 | [Apache: Automation — Automation for Help Desk](Project_042892/README.md) |
+| 042893 | [Apache: Automation — Recovery for Help Desk](Project_042893/README.md) |
+| 042894 | [Apache: Automation — Reporting for Help Desk](Project_042894/README.md) |
+| 042895 | [Apache: Automation — Usability Improvement for Help Desk](Project_042895/README.md) |
+| 042896 | [Apache: Automation — Baseline Setup for Portfolio Demo](Project_042896/README.md) |
+| 042897 | [Apache: Automation — Automation for Portfolio Demo](Project_042897/README.md) |
+| 042898 | [Apache: Automation — Recovery for Portfolio Demo](Project_042898/README.md) |
+| 042899 | [Apache: Automation — Reporting for Portfolio Demo](Project_042899/README.md) |
+| 042900 | [Apache: Automation — Usability Improvement for Portfolio Demo](Project_042900/README.md) |
 
 [Back to the portfolio home](../README.md)
