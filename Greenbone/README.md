@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031138 | [Greenbone: Audit — Recovery for Two-Node Lab](Project_031138/README.md) |
 | 031139 | [Greenbone: Audit — Reporting for Two-Node Lab](Project_031139/README.md) |
 | 031140 | [Greenbone: Audit — Usability Improvement for Two-Node Lab](Project_031140/README.md) |
+| 031141 | [Greenbone: Audit — Baseline Setup for Help Desk](Project_031141/README.md) |
+| 031142 | [Greenbone: Audit — Automation for Help Desk](Project_031142/README.md) |
+| 031143 | [Greenbone: Audit — Recovery for Help Desk](Project_031143/README.md) |
+| 031144 | [Greenbone: Audit — Reporting for Help Desk](Project_031144/README.md) |
+| 031145 | [Greenbone: Audit — Usability Improvement for Help Desk](Project_031145/README.md) |
+| 031146 | [Greenbone: Audit — Baseline Setup for Portfolio Demo](Project_031146/README.md) |
+| 031147 | [Greenbone: Audit — Automation for Portfolio Demo](Project_031147/README.md) |
+| 031148 | [Greenbone: Audit — Recovery for Portfolio Demo](Project_031148/README.md) |
+| 031149 | [Greenbone: Audit — Reporting for Portfolio Demo](Project_031149/README.md) |
+| 031150 | [Greenbone: Audit — Usability Improvement for Portfolio Demo](Project_031150/README.md) |
+| 031151 | [Greenbone: Log Analysis — Baseline Setup for School Lab](Project_031151/README.md) |
+| 031152 | [Greenbone: Log Analysis — Automation for School Lab](Project_031152/README.md) |
+| 031153 | [Greenbone: Log Analysis — Recovery for School Lab](Project_031153/README.md) |
+| 031154 | [Greenbone: Log Analysis — Reporting for School Lab](Project_031154/README.md) |
+| 031155 | [Greenbone: Log Analysis — Usability Improvement for School Lab](Project_031155/README.md) |
+| 031156 | [Greenbone: Log Analysis — Baseline Setup for Small Business](Project_031156/README.md) |
+| 031157 | [Greenbone: Log Analysis — Automation for Small Business](Project_031157/README.md) |
+| 031158 | [Greenbone: Log Analysis — Recovery for Small Business](Project_031158/README.md) |
+| 031159 | [Greenbone: Log Analysis — Reporting for Small Business](Project_031159/README.md) |
+| 031160 | [Greenbone: Log Analysis — Usability Improvement for Small Business](Project_031160/README.md) |
 
 [Back to the portfolio home](../README.md)
