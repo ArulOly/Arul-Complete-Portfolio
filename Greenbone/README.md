@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031178 | [Greenbone: Log Analysis — Recovery for Offline Classroom](Project_031178/README.md) |
 | 031179 | [Greenbone: Log Analysis — Reporting for Offline Classroom](Project_031179/README.md) |
 | 031180 | [Greenbone: Log Analysis — Usability Improvement for Offline Classroom](Project_031180/README.md) |
+| 031181 | [Greenbone: Log Analysis — Baseline Setup for Single-Host Lab](Project_031181/README.md) |
+| 031182 | [Greenbone: Log Analysis — Automation for Single-Host Lab](Project_031182/README.md) |
+| 031183 | [Greenbone: Log Analysis — Recovery for Single-Host Lab](Project_031183/README.md) |
+| 031184 | [Greenbone: Log Analysis — Reporting for Single-Host Lab](Project_031184/README.md) |
+| 031185 | [Greenbone: Log Analysis — Usability Improvement for Single-Host Lab](Project_031185/README.md) |
+| 031186 | [Greenbone: Log Analysis — Baseline Setup for Two-Node Lab](Project_031186/README.md) |
+| 031187 | [Greenbone: Log Analysis — Automation for Two-Node Lab](Project_031187/README.md) |
+| 031188 | [Greenbone: Log Analysis — Recovery for Two-Node Lab](Project_031188/README.md) |
+| 031189 | [Greenbone: Log Analysis — Reporting for Two-Node Lab](Project_031189/README.md) |
+| 031190 | [Greenbone: Log Analysis — Usability Improvement for Two-Node Lab](Project_031190/README.md) |
+| 031191 | [Greenbone: Log Analysis — Baseline Setup for Help Desk](Project_031191/README.md) |
+| 031192 | [Greenbone: Log Analysis — Automation for Help Desk](Project_031192/README.md) |
+| 031193 | [Greenbone: Log Analysis — Recovery for Help Desk](Project_031193/README.md) |
+| 031194 | [Greenbone: Log Analysis — Reporting for Help Desk](Project_031194/README.md) |
+| 031195 | [Greenbone: Log Analysis — Usability Improvement for Help Desk](Project_031195/README.md) |
+| 031196 | [Greenbone: Log Analysis — Baseline Setup for Portfolio Demo](Project_031196/README.md) |
+| 031197 | [Greenbone: Log Analysis — Automation for Portfolio Demo](Project_031197/README.md) |
+| 031198 | [Greenbone: Log Analysis — Recovery for Portfolio Demo](Project_031198/README.md) |
+| 031199 | [Greenbone: Log Analysis — Reporting for Portfolio Demo](Project_031199/README.md) |
+| 031200 | [Greenbone: Log Analysis — Usability Improvement for Portfolio Demo](Project_031200/README.md) |
 
 [Back to the portfolio home](../README.md)
