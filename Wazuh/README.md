@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030038 | [Wazuh: Inventory — Recovery for Two-Node Lab](Project_030038/README.md) |
 | 030039 | [Wazuh: Inventory — Reporting for Two-Node Lab](Project_030039/README.md) |
 | 030040 | [Wazuh: Inventory — Usability Improvement for Two-Node Lab](Project_030040/README.md) |
+| 030041 | [Wazuh: Inventory — Baseline Setup for Help Desk](Project_030041/README.md) |
+| 030042 | [Wazuh: Inventory — Automation for Help Desk](Project_030042/README.md) |
+| 030043 | [Wazuh: Inventory — Recovery for Help Desk](Project_030043/README.md) |
+| 030044 | [Wazuh: Inventory — Reporting for Help Desk](Project_030044/README.md) |
+| 030045 | [Wazuh: Inventory — Usability Improvement for Help Desk](Project_030045/README.md) |
+| 030046 | [Wazuh: Inventory — Baseline Setup for Portfolio Demo](Project_030046/README.md) |
+| 030047 | [Wazuh: Inventory — Automation for Portfolio Demo](Project_030047/README.md) |
+| 030048 | [Wazuh: Inventory — Recovery for Portfolio Demo](Project_030048/README.md) |
+| 030049 | [Wazuh: Inventory — Reporting for Portfolio Demo](Project_030049/README.md) |
+| 030050 | [Wazuh: Inventory — Usability Improvement for Portfolio Demo](Project_030050/README.md) |
+| 030051 | [Wazuh: Monitoring — Baseline Setup for School Lab](Project_030051/README.md) |
+| 030052 | [Wazuh: Monitoring — Automation for School Lab](Project_030052/README.md) |
+| 030053 | [Wazuh: Monitoring — Recovery for School Lab](Project_030053/README.md) |
+| 030054 | [Wazuh: Monitoring — Reporting for School Lab](Project_030054/README.md) |
+| 030055 | [Wazuh: Monitoring — Usability Improvement for School Lab](Project_030055/README.md) |
+| 030056 | [Wazuh: Monitoring — Baseline Setup for Small Business](Project_030056/README.md) |
+| 030057 | [Wazuh: Monitoring — Automation for Small Business](Project_030057/README.md) |
+| 030058 | [Wazuh: Monitoring — Recovery for Small Business](Project_030058/README.md) |
+| 030059 | [Wazuh: Monitoring — Reporting for Small Business](Project_030059/README.md) |
+| 030060 | [Wazuh: Monitoring — Usability Improvement for Small Business](Project_030060/README.md) |
 
 [Back to the portfolio home](../README.md)
