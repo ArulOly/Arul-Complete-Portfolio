@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039678 | [Bash: Configuration Comparison — Recovery for Offline Classroom](Project_039678/README.md) |
 | 039679 | [Bash: Configuration Comparison — Reporting for Offline Classroom](Project_039679/README.md) |
 | 039680 | [Bash: Configuration Comparison — Usability Improvement for Offline Classroom](Project_039680/README.md) |
+| 039681 | [Bash: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_039681/README.md) |
+| 039682 | [Bash: Configuration Comparison — Automation for Single-Host Lab](Project_039682/README.md) |
+| 039683 | [Bash: Configuration Comparison — Recovery for Single-Host Lab](Project_039683/README.md) |
+| 039684 | [Bash: Configuration Comparison — Reporting for Single-Host Lab](Project_039684/README.md) |
+| 039685 | [Bash: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_039685/README.md) |
+| 039686 | [Bash: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_039686/README.md) |
+| 039687 | [Bash: Configuration Comparison — Automation for Two-Node Lab](Project_039687/README.md) |
+| 039688 | [Bash: Configuration Comparison — Recovery for Two-Node Lab](Project_039688/README.md) |
+| 039689 | [Bash: Configuration Comparison — Reporting for Two-Node Lab](Project_039689/README.md) |
+| 039690 | [Bash: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_039690/README.md) |
+| 039691 | [Bash: Configuration Comparison — Baseline Setup for Help Desk](Project_039691/README.md) |
+| 039692 | [Bash: Configuration Comparison — Automation for Help Desk](Project_039692/README.md) |
+| 039693 | [Bash: Configuration Comparison — Recovery for Help Desk](Project_039693/README.md) |
+| 039694 | [Bash: Configuration Comparison — Reporting for Help Desk](Project_039694/README.md) |
+| 039695 | [Bash: Configuration Comparison — Usability Improvement for Help Desk](Project_039695/README.md) |
+| 039696 | [Bash: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_039696/README.md) |
+| 039697 | [Bash: Configuration Comparison — Automation for Portfolio Demo](Project_039697/README.md) |
+| 039698 | [Bash: Configuration Comparison — Recovery for Portfolio Demo](Project_039698/README.md) |
+| 039699 | [Bash: Configuration Comparison — Reporting for Portfolio Demo](Project_039699/README.md) |
+| 039700 | [Bash: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_039700/README.md) |
 
 [Back to the portfolio home](../README.md)
