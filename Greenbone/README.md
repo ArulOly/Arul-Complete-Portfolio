@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031918 | [Greenbone: Visual Reporting — Recovery for Public Dataset](Project_031918/README.md) |
 | 031919 | [Greenbone: Visual Reporting — Reporting for Public Dataset](Project_031919/README.md) |
 | 031920 | [Greenbone: Visual Reporting — Usability Improvement for Public Dataset](Project_031920/README.md) |
+| 031921 | [Greenbone: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_031921/README.md) |
+| 031922 | [Greenbone: Visual Reporting — Automation for Branch Office Simulator](Project_031922/README.md) |
+| 031923 | [Greenbone: Visual Reporting — Recovery for Branch Office Simulator](Project_031923/README.md) |
+| 031924 | [Greenbone: Visual Reporting — Reporting for Branch Office Simulator](Project_031924/README.md) |
+| 031925 | [Greenbone: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_031925/README.md) |
+| 031926 | [Greenbone: Visual Reporting — Baseline Setup for Offline Classroom](Project_031926/README.md) |
+| 031927 | [Greenbone: Visual Reporting — Automation for Offline Classroom](Project_031927/README.md) |
+| 031928 | [Greenbone: Visual Reporting — Recovery for Offline Classroom](Project_031928/README.md) |
+| 031929 | [Greenbone: Visual Reporting — Reporting for Offline Classroom](Project_031929/README.md) |
+| 031930 | [Greenbone: Visual Reporting — Usability Improvement for Offline Classroom](Project_031930/README.md) |
+| 031931 | [Greenbone: Visual Reporting — Baseline Setup for Single-Host Lab](Project_031931/README.md) |
+| 031932 | [Greenbone: Visual Reporting — Automation for Single-Host Lab](Project_031932/README.md) |
+| 031933 | [Greenbone: Visual Reporting — Recovery for Single-Host Lab](Project_031933/README.md) |
+| 031934 | [Greenbone: Visual Reporting — Reporting for Single-Host Lab](Project_031934/README.md) |
+| 031935 | [Greenbone: Visual Reporting — Usability Improvement for Single-Host Lab](Project_031935/README.md) |
+| 031936 | [Greenbone: Visual Reporting — Baseline Setup for Two-Node Lab](Project_031936/README.md) |
+| 031937 | [Greenbone: Visual Reporting — Automation for Two-Node Lab](Project_031937/README.md) |
+| 031938 | [Greenbone: Visual Reporting — Recovery for Two-Node Lab](Project_031938/README.md) |
+| 031939 | [Greenbone: Visual Reporting — Reporting for Two-Node Lab](Project_031939/README.md) |
+| 031940 | [Greenbone: Visual Reporting — Usability Improvement for Two-Node Lab](Project_031940/README.md) |
 
 [Back to the portfolio home](../README.md)
