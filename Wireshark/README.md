@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029238 | [Wireshark: Backup Verification — Recovery for Two-Node Lab](Project_029238/README.md) |
 | 029239 | [Wireshark: Backup Verification — Reporting for Two-Node Lab](Project_029239/README.md) |
 | 029240 | [Wireshark: Backup Verification — Usability Improvement for Two-Node Lab](Project_029240/README.md) |
+| 029241 | [Wireshark: Backup Verification — Baseline Setup for Help Desk](Project_029241/README.md) |
+| 029242 | [Wireshark: Backup Verification — Automation for Help Desk](Project_029242/README.md) |
+| 029243 | [Wireshark: Backup Verification — Recovery for Help Desk](Project_029243/README.md) |
+| 029244 | [Wireshark: Backup Verification — Reporting for Help Desk](Project_029244/README.md) |
+| 029245 | [Wireshark: Backup Verification — Usability Improvement for Help Desk](Project_029245/README.md) |
+| 029246 | [Wireshark: Backup Verification — Baseline Setup for Portfolio Demo](Project_029246/README.md) |
+| 029247 | [Wireshark: Backup Verification — Automation for Portfolio Demo](Project_029247/README.md) |
+| 029248 | [Wireshark: Backup Verification — Recovery for Portfolio Demo](Project_029248/README.md) |
+| 029249 | [Wireshark: Backup Verification — Reporting for Portfolio Demo](Project_029249/README.md) |
+| 029250 | [Wireshark: Backup Verification — Usability Improvement for Portfolio Demo](Project_029250/README.md) |
+| 029251 | [Wireshark: Data Import — Baseline Setup for School Lab](Project_029251/README.md) |
+| 029252 | [Wireshark: Data Import — Automation for School Lab](Project_029252/README.md) |
+| 029253 | [Wireshark: Data Import — Recovery for School Lab](Project_029253/README.md) |
+| 029254 | [Wireshark: Data Import — Reporting for School Lab](Project_029254/README.md) |
+| 029255 | [Wireshark: Data Import — Usability Improvement for School Lab](Project_029255/README.md) |
+| 029256 | [Wireshark: Data Import — Baseline Setup for Small Business](Project_029256/README.md) |
+| 029257 | [Wireshark: Data Import — Automation for Small Business](Project_029257/README.md) |
+| 029258 | [Wireshark: Data Import — Recovery for Small Business](Project_029258/README.md) |
+| 029259 | [Wireshark: Data Import — Reporting for Small Business](Project_029259/README.md) |
+| 029260 | [Wireshark: Data Import — Usability Improvement for Small Business](Project_029260/README.md) |
 
 [Back to the portfolio home](../README.md)
