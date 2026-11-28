@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038138 | [Git: Audit — Recovery for Two-Node Lab](Project_038138/README.md) |
 | 038139 | [Git: Audit — Reporting for Two-Node Lab](Project_038139/README.md) |
 | 038140 | [Git: Audit — Usability Improvement for Two-Node Lab](Project_038140/README.md) |
+| 038141 | [Git: Audit — Baseline Setup for Help Desk](Project_038141/README.md) |
+| 038142 | [Git: Audit — Automation for Help Desk](Project_038142/README.md) |
+| 038143 | [Git: Audit — Recovery for Help Desk](Project_038143/README.md) |
+| 038144 | [Git: Audit — Reporting for Help Desk](Project_038144/README.md) |
+| 038145 | [Git: Audit — Usability Improvement for Help Desk](Project_038145/README.md) |
+| 038146 | [Git: Audit — Baseline Setup for Portfolio Demo](Project_038146/README.md) |
+| 038147 | [Git: Audit — Automation for Portfolio Demo](Project_038147/README.md) |
+| 038148 | [Git: Audit — Recovery for Portfolio Demo](Project_038148/README.md) |
+| 038149 | [Git: Audit — Reporting for Portfolio Demo](Project_038149/README.md) |
+| 038150 | [Git: Audit — Usability Improvement for Portfolio Demo](Project_038150/README.md) |
+| 038151 | [Git: Log Analysis — Baseline Setup for School Lab](Project_038151/README.md) |
+| 038152 | [Git: Log Analysis — Automation for School Lab](Project_038152/README.md) |
+| 038153 | [Git: Log Analysis — Recovery for School Lab](Project_038153/README.md) |
+| 038154 | [Git: Log Analysis — Reporting for School Lab](Project_038154/README.md) |
+| 038155 | [Git: Log Analysis — Usability Improvement for School Lab](Project_038155/README.md) |
+| 038156 | [Git: Log Analysis — Baseline Setup for Small Business](Project_038156/README.md) |
+| 038157 | [Git: Log Analysis — Automation for Small Business](Project_038157/README.md) |
+| 038158 | [Git: Log Analysis — Recovery for Small Business](Project_038158/README.md) |
+| 038159 | [Git: Log Analysis — Reporting for Small Business](Project_038159/README.md) |
+| 038160 | [Git: Log Analysis — Usability Improvement for Small Business](Project_038160/README.md) |
 
 [Back to the portfolio home](../README.md)
