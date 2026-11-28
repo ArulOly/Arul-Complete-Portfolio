@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029558 | [Wireshark: Performance Baseline — Recovery for Small Business](Project_029558/README.md) |
 | 029559 | [Wireshark: Performance Baseline — Reporting for Small Business](Project_029559/README.md) |
 | 029560 | [Wireshark: Performance Baseline — Usability Improvement for Small Business](Project_029560/README.md) |
+| 029561 | [Wireshark: Performance Baseline — Baseline Setup for Home Development](Project_029561/README.md) |
+| 029562 | [Wireshark: Performance Baseline — Automation for Home Development](Project_029562/README.md) |
+| 029563 | [Wireshark: Performance Baseline — Recovery for Home Development](Project_029563/README.md) |
+| 029564 | [Wireshark: Performance Baseline — Reporting for Home Development](Project_029564/README.md) |
+| 029565 | [Wireshark: Performance Baseline — Usability Improvement for Home Development](Project_029565/README.md) |
+| 029566 | [Wireshark: Performance Baseline — Baseline Setup for Public Dataset](Project_029566/README.md) |
+| 029567 | [Wireshark: Performance Baseline — Automation for Public Dataset](Project_029567/README.md) |
+| 029568 | [Wireshark: Performance Baseline — Recovery for Public Dataset](Project_029568/README.md) |
+| 029569 | [Wireshark: Performance Baseline — Reporting for Public Dataset](Project_029569/README.md) |
+| 029570 | [Wireshark: Performance Baseline — Usability Improvement for Public Dataset](Project_029570/README.md) |
+| 029571 | [Wireshark: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_029571/README.md) |
+| 029572 | [Wireshark: Performance Baseline — Automation for Branch Office Simulator](Project_029572/README.md) |
+| 029573 | [Wireshark: Performance Baseline — Recovery for Branch Office Simulator](Project_029573/README.md) |
+| 029574 | [Wireshark: Performance Baseline — Reporting for Branch Office Simulator](Project_029574/README.md) |
+| 029575 | [Wireshark: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_029575/README.md) |
+| 029576 | [Wireshark: Performance Baseline — Baseline Setup for Offline Classroom](Project_029576/README.md) |
+| 029577 | [Wireshark: Performance Baseline — Automation for Offline Classroom](Project_029577/README.md) |
+| 029578 | [Wireshark: Performance Baseline — Recovery for Offline Classroom](Project_029578/README.md) |
+| 029579 | [Wireshark: Performance Baseline — Reporting for Offline Classroom](Project_029579/README.md) |
+| 029580 | [Wireshark: Performance Baseline — Usability Improvement for Offline Classroom](Project_029580/README.md) |
 
 [Back to the portfolio home](../README.md)
