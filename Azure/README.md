@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015758 | [Azure: Data Validation — Recovery for Small Business](Project_015758/README.md) |
 | 015759 | [Azure: Data Validation — Reporting for Small Business](Project_015759/README.md) |
 | 015760 | [Azure: Data Validation — Usability Improvement for Small Business](Project_015760/README.md) |
+| 015761 | [Azure: Data Validation — Baseline Setup for Home Development](Project_015761/README.md) |
+| 015762 | [Azure: Data Validation — Automation for Home Development](Project_015762/README.md) |
+| 015763 | [Azure: Data Validation — Recovery for Home Development](Project_015763/README.md) |
+| 015764 | [Azure: Data Validation — Reporting for Home Development](Project_015764/README.md) |
+| 015765 | [Azure: Data Validation — Usability Improvement for Home Development](Project_015765/README.md) |
+| 015766 | [Azure: Data Validation — Baseline Setup for Public Dataset](Project_015766/README.md) |
+| 015767 | [Azure: Data Validation — Automation for Public Dataset](Project_015767/README.md) |
+| 015768 | [Azure: Data Validation — Recovery for Public Dataset](Project_015768/README.md) |
+| 015769 | [Azure: Data Validation — Reporting for Public Dataset](Project_015769/README.md) |
+| 015770 | [Azure: Data Validation — Usability Improvement for Public Dataset](Project_015770/README.md) |
+| 015771 | [Azure: Data Validation — Baseline Setup for Branch Office Simulator](Project_015771/README.md) |
+| 015772 | [Azure: Data Validation — Automation for Branch Office Simulator](Project_015772/README.md) |
+| 015773 | [Azure: Data Validation — Recovery for Branch Office Simulator](Project_015773/README.md) |
+| 015774 | [Azure: Data Validation — Reporting for Branch Office Simulator](Project_015774/README.md) |
+| 015775 | [Azure: Data Validation — Usability Improvement for Branch Office Simulator](Project_015775/README.md) |
+| 015776 | [Azure: Data Validation — Baseline Setup for Offline Classroom](Project_015776/README.md) |
+| 015777 | [Azure: Data Validation — Automation for Offline Classroom](Project_015777/README.md) |
+| 015778 | [Azure: Data Validation — Recovery for Offline Classroom](Project_015778/README.md) |
+| 015779 | [Azure: Data Validation — Reporting for Offline Classroom](Project_015779/README.md) |
+| 015780 | [Azure: Data Validation — Usability Improvement for Offline Classroom](Project_015780/README.md) |
 
 [Back to the portfolio home](../README.md)
