@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030118 | [Wazuh: Audit — Recovery for Public Dataset](Project_030118/README.md) |
 | 030119 | [Wazuh: Audit — Reporting for Public Dataset](Project_030119/README.md) |
 | 030120 | [Wazuh: Audit — Usability Improvement for Public Dataset](Project_030120/README.md) |
+| 030121 | [Wazuh: Audit — Baseline Setup for Branch Office Simulator](Project_030121/README.md) |
+| 030122 | [Wazuh: Audit — Automation for Branch Office Simulator](Project_030122/README.md) |
+| 030123 | [Wazuh: Audit — Recovery for Branch Office Simulator](Project_030123/README.md) |
+| 030124 | [Wazuh: Audit — Reporting for Branch Office Simulator](Project_030124/README.md) |
+| 030125 | [Wazuh: Audit — Usability Improvement for Branch Office Simulator](Project_030125/README.md) |
+| 030126 | [Wazuh: Audit — Baseline Setup for Offline Classroom](Project_030126/README.md) |
+| 030127 | [Wazuh: Audit — Automation for Offline Classroom](Project_030127/README.md) |
+| 030128 | [Wazuh: Audit — Recovery for Offline Classroom](Project_030128/README.md) |
+| 030129 | [Wazuh: Audit — Reporting for Offline Classroom](Project_030129/README.md) |
+| 030130 | [Wazuh: Audit — Usability Improvement for Offline Classroom](Project_030130/README.md) |
+| 030131 | [Wazuh: Audit — Baseline Setup for Single-Host Lab](Project_030131/README.md) |
+| 030132 | [Wazuh: Audit — Automation for Single-Host Lab](Project_030132/README.md) |
+| 030133 | [Wazuh: Audit — Recovery for Single-Host Lab](Project_030133/README.md) |
+| 030134 | [Wazuh: Audit — Reporting for Single-Host Lab](Project_030134/README.md) |
+| 030135 | [Wazuh: Audit — Usability Improvement for Single-Host Lab](Project_030135/README.md) |
+| 030136 | [Wazuh: Audit — Baseline Setup for Two-Node Lab](Project_030136/README.md) |
+| 030137 | [Wazuh: Audit — Automation for Two-Node Lab](Project_030137/README.md) |
+| 030138 | [Wazuh: Audit — Recovery for Two-Node Lab](Project_030138/README.md) |
+| 030139 | [Wazuh: Audit — Reporting for Two-Node Lab](Project_030139/README.md) |
+| 030140 | [Wazuh: Audit — Usability Improvement for Two-Node Lab](Project_030140/README.md) |
 
 [Back to the portfolio home](../README.md)
