@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014778 | [AWS: Data Validation — Recovery for Offline Classroom](Project_014778/README.md) |
 | 014779 | [AWS: Data Validation — Reporting for Offline Classroom](Project_014779/README.md) |
 | 014780 | [AWS: Data Validation — Usability Improvement for Offline Classroom](Project_014780/README.md) |
+| 014781 | [AWS: Data Validation — Baseline Setup for Single-Host Lab](Project_014781/README.md) |
+| 014782 | [AWS: Data Validation — Automation for Single-Host Lab](Project_014782/README.md) |
+| 014783 | [AWS: Data Validation — Recovery for Single-Host Lab](Project_014783/README.md) |
+| 014784 | [AWS: Data Validation — Reporting for Single-Host Lab](Project_014784/README.md) |
+| 014785 | [AWS: Data Validation — Usability Improvement for Single-Host Lab](Project_014785/README.md) |
+| 014786 | [AWS: Data Validation — Baseline Setup for Two-Node Lab](Project_014786/README.md) |
+| 014787 | [AWS: Data Validation — Automation for Two-Node Lab](Project_014787/README.md) |
+| 014788 | [AWS: Data Validation — Recovery for Two-Node Lab](Project_014788/README.md) |
+| 014789 | [AWS: Data Validation — Reporting for Two-Node Lab](Project_014789/README.md) |
+| 014790 | [AWS: Data Validation — Usability Improvement for Two-Node Lab](Project_014790/README.md) |
+| 014791 | [AWS: Data Validation — Baseline Setup for Help Desk](Project_014791/README.md) |
+| 014792 | [AWS: Data Validation — Automation for Help Desk](Project_014792/README.md) |
+| 014793 | [AWS: Data Validation — Recovery for Help Desk](Project_014793/README.md) |
+| 014794 | [AWS: Data Validation — Reporting for Help Desk](Project_014794/README.md) |
+| 014795 | [AWS: Data Validation — Usability Improvement for Help Desk](Project_014795/README.md) |
+| 014796 | [AWS: Data Validation — Baseline Setup for Portfolio Demo](Project_014796/README.md) |
+| 014797 | [AWS: Data Validation — Automation for Portfolio Demo](Project_014797/README.md) |
+| 014798 | [AWS: Data Validation — Recovery for Portfolio Demo](Project_014798/README.md) |
+| 014799 | [AWS: Data Validation — Reporting for Portfolio Demo](Project_014799/README.md) |
+| 014800 | [AWS: Data Validation — Usability Improvement for Portfolio Demo](Project_014800/README.md) |
 
 [Back to the portfolio home](../README.md)
