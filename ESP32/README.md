@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036698 | [ESP32: Configuration Comparison — Recovery for Portfolio Demo](Project_036698/README.md) |
 | 036699 | [ESP32: Configuration Comparison — Reporting for Portfolio Demo](Project_036699/README.md) |
 | 036700 | [ESP32: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_036700/README.md) |
+| 036701 | [ESP32: Error Handling — Baseline Setup for School Lab](Project_036701/README.md) |
+| 036702 | [ESP32: Error Handling — Automation for School Lab](Project_036702/README.md) |
+| 036703 | [ESP32: Error Handling — Recovery for School Lab](Project_036703/README.md) |
+| 036704 | [ESP32: Error Handling — Reporting for School Lab](Project_036704/README.md) |
+| 036705 | [ESP32: Error Handling — Usability Improvement for School Lab](Project_036705/README.md) |
+| 036706 | [ESP32: Error Handling — Baseline Setup for Small Business](Project_036706/README.md) |
+| 036707 | [ESP32: Error Handling — Automation for Small Business](Project_036707/README.md) |
+| 036708 | [ESP32: Error Handling — Recovery for Small Business](Project_036708/README.md) |
+| 036709 | [ESP32: Error Handling — Reporting for Small Business](Project_036709/README.md) |
+| 036710 | [ESP32: Error Handling — Usability Improvement for Small Business](Project_036710/README.md) |
+| 036711 | [ESP32: Error Handling — Baseline Setup for Home Development](Project_036711/README.md) |
+| 036712 | [ESP32: Error Handling — Automation for Home Development](Project_036712/README.md) |
+| 036713 | [ESP32: Error Handling — Recovery for Home Development](Project_036713/README.md) |
+| 036714 | [ESP32: Error Handling — Reporting for Home Development](Project_036714/README.md) |
+| 036715 | [ESP32: Error Handling — Usability Improvement for Home Development](Project_036715/README.md) |
+| 036716 | [ESP32: Error Handling — Baseline Setup for Public Dataset](Project_036716/README.md) |
+| 036717 | [ESP32: Error Handling — Automation for Public Dataset](Project_036717/README.md) |
+| 036718 | [ESP32: Error Handling — Recovery for Public Dataset](Project_036718/README.md) |
+| 036719 | [ESP32: Error Handling — Reporting for Public Dataset](Project_036719/README.md) |
+| 036720 | [ESP32: Error Handling — Usability Improvement for Public Dataset](Project_036720/README.md) |
 
 [Back to the portfolio home](../README.md)
