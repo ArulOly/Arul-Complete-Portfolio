@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035658 | [Raspberry Pi: Configuration Comparison — Recovery for Small Business](Project_035658/README.md) |
 | 035659 | [Raspberry Pi: Configuration Comparison — Reporting for Small Business](Project_035659/README.md) |
 | 035660 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Small Business](Project_035660/README.md) |
+| 035661 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Home Development](Project_035661/README.md) |
+| 035662 | [Raspberry Pi: Configuration Comparison — Automation for Home Development](Project_035662/README.md) |
+| 035663 | [Raspberry Pi: Configuration Comparison — Recovery for Home Development](Project_035663/README.md) |
+| 035664 | [Raspberry Pi: Configuration Comparison — Reporting for Home Development](Project_035664/README.md) |
+| 035665 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Home Development](Project_035665/README.md) |
+| 035666 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Public Dataset](Project_035666/README.md) |
+| 035667 | [Raspberry Pi: Configuration Comparison — Automation for Public Dataset](Project_035667/README.md) |
+| 035668 | [Raspberry Pi: Configuration Comparison — Recovery for Public Dataset](Project_035668/README.md) |
+| 035669 | [Raspberry Pi: Configuration Comparison — Reporting for Public Dataset](Project_035669/README.md) |
+| 035670 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Public Dataset](Project_035670/README.md) |
+| 035671 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_035671/README.md) |
+| 035672 | [Raspberry Pi: Configuration Comparison — Automation for Branch Office Simulator](Project_035672/README.md) |
+| 035673 | [Raspberry Pi: Configuration Comparison — Recovery for Branch Office Simulator](Project_035673/README.md) |
+| 035674 | [Raspberry Pi: Configuration Comparison — Reporting for Branch Office Simulator](Project_035674/README.md) |
+| 035675 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_035675/README.md) |
+| 035676 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Offline Classroom](Project_035676/README.md) |
+| 035677 | [Raspberry Pi: Configuration Comparison — Automation for Offline Classroom](Project_035677/README.md) |
+| 035678 | [Raspberry Pi: Configuration Comparison — Recovery for Offline Classroom](Project_035678/README.md) |
+| 035679 | [Raspberry Pi: Configuration Comparison — Reporting for Offline Classroom](Project_035679/README.md) |
+| 035680 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Offline Classroom](Project_035680/README.md) |
 
 [Back to the portfolio home](../README.md)
