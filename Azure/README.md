@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015158 | [Azure: Log Analysis — Recovery for Small Business](Project_015158/README.md) |
 | 015159 | [Azure: Log Analysis — Reporting for Small Business](Project_015159/README.md) |
 | 015160 | [Azure: Log Analysis — Usability Improvement for Small Business](Project_015160/README.md) |
+| 015161 | [Azure: Log Analysis — Baseline Setup for Home Development](Project_015161/README.md) |
+| 015162 | [Azure: Log Analysis — Automation for Home Development](Project_015162/README.md) |
+| 015163 | [Azure: Log Analysis — Recovery for Home Development](Project_015163/README.md) |
+| 015164 | [Azure: Log Analysis — Reporting for Home Development](Project_015164/README.md) |
+| 015165 | [Azure: Log Analysis — Usability Improvement for Home Development](Project_015165/README.md) |
+| 015166 | [Azure: Log Analysis — Baseline Setup for Public Dataset](Project_015166/README.md) |
+| 015167 | [Azure: Log Analysis — Automation for Public Dataset](Project_015167/README.md) |
+| 015168 | [Azure: Log Analysis — Recovery for Public Dataset](Project_015168/README.md) |
+| 015169 | [Azure: Log Analysis — Reporting for Public Dataset](Project_015169/README.md) |
+| 015170 | [Azure: Log Analysis — Usability Improvement for Public Dataset](Project_015170/README.md) |
+| 015171 | [Azure: Log Analysis — Baseline Setup for Branch Office Simulator](Project_015171/README.md) |
+| 015172 | [Azure: Log Analysis — Automation for Branch Office Simulator](Project_015172/README.md) |
+| 015173 | [Azure: Log Analysis — Recovery for Branch Office Simulator](Project_015173/README.md) |
+| 015174 | [Azure: Log Analysis — Reporting for Branch Office Simulator](Project_015174/README.md) |
+| 015175 | [Azure: Log Analysis — Usability Improvement for Branch Office Simulator](Project_015175/README.md) |
+| 015176 | [Azure: Log Analysis — Baseline Setup for Offline Classroom](Project_015176/README.md) |
+| 015177 | [Azure: Log Analysis — Automation for Offline Classroom](Project_015177/README.md) |
+| 015178 | [Azure: Log Analysis — Recovery for Offline Classroom](Project_015178/README.md) |
+| 015179 | [Azure: Log Analysis — Reporting for Offline Classroom](Project_015179/README.md) |
+| 015180 | [Azure: Log Analysis — Usability Improvement for Offline Classroom](Project_015180/README.md) |
 
 [Back to the portfolio home](../README.md)
