@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038698 | [Git: Configuration Comparison — Recovery for Portfolio Demo](Project_038698/README.md) |
 | 038699 | [Git: Configuration Comparison — Reporting for Portfolio Demo](Project_038699/README.md) |
 | 038700 | [Git: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_038700/README.md) |
+| 038701 | [Git: Error Handling — Baseline Setup for School Lab](Project_038701/README.md) |
+| 038702 | [Git: Error Handling — Automation for School Lab](Project_038702/README.md) |
+| 038703 | [Git: Error Handling — Recovery for School Lab](Project_038703/README.md) |
+| 038704 | [Git: Error Handling — Reporting for School Lab](Project_038704/README.md) |
+| 038705 | [Git: Error Handling — Usability Improvement for School Lab](Project_038705/README.md) |
+| 038706 | [Git: Error Handling — Baseline Setup for Small Business](Project_038706/README.md) |
+| 038707 | [Git: Error Handling — Automation for Small Business](Project_038707/README.md) |
+| 038708 | [Git: Error Handling — Recovery for Small Business](Project_038708/README.md) |
+| 038709 | [Git: Error Handling — Reporting for Small Business](Project_038709/README.md) |
+| 038710 | [Git: Error Handling — Usability Improvement for Small Business](Project_038710/README.md) |
+| 038711 | [Git: Error Handling — Baseline Setup for Home Development](Project_038711/README.md) |
+| 038712 | [Git: Error Handling — Automation for Home Development](Project_038712/README.md) |
+| 038713 | [Git: Error Handling — Recovery for Home Development](Project_038713/README.md) |
+| 038714 | [Git: Error Handling — Reporting for Home Development](Project_038714/README.md) |
+| 038715 | [Git: Error Handling — Usability Improvement for Home Development](Project_038715/README.md) |
+| 038716 | [Git: Error Handling — Baseline Setup for Public Dataset](Project_038716/README.md) |
+| 038717 | [Git: Error Handling — Automation for Public Dataset](Project_038717/README.md) |
+| 038718 | [Git: Error Handling — Recovery for Public Dataset](Project_038718/README.md) |
+| 038719 | [Git: Error Handling — Reporting for Public Dataset](Project_038719/README.md) |
+| 038720 | [Git: Error Handling — Usability Improvement for Public Dataset](Project_038720/README.md) |
 
 [Back to the portfolio home](../README.md)
