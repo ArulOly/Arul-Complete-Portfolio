@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014018 | [AWS: Inventory — Recovery for Public Dataset](Project_014018/README.md) |
 | 014019 | [AWS: Inventory — Reporting for Public Dataset](Project_014019/README.md) |
 | 014020 | [AWS: Inventory — Usability Improvement for Public Dataset](Project_014020/README.md) |
+| 014021 | [AWS: Inventory — Baseline Setup for Branch Office Simulator](Project_014021/README.md) |
+| 014022 | [AWS: Inventory — Automation for Branch Office Simulator](Project_014022/README.md) |
+| 014023 | [AWS: Inventory — Recovery for Branch Office Simulator](Project_014023/README.md) |
+| 014024 | [AWS: Inventory — Reporting for Branch Office Simulator](Project_014024/README.md) |
+| 014025 | [AWS: Inventory — Usability Improvement for Branch Office Simulator](Project_014025/README.md) |
+| 014026 | [AWS: Inventory — Baseline Setup for Offline Classroom](Project_014026/README.md) |
+| 014027 | [AWS: Inventory — Automation for Offline Classroom](Project_014027/README.md) |
+| 014028 | [AWS: Inventory — Recovery for Offline Classroom](Project_014028/README.md) |
+| 014029 | [AWS: Inventory — Reporting for Offline Classroom](Project_014029/README.md) |
+| 014030 | [AWS: Inventory — Usability Improvement for Offline Classroom](Project_014030/README.md) |
+| 014031 | [AWS: Inventory — Baseline Setup for Single-Host Lab](Project_014031/README.md) |
+| 014032 | [AWS: Inventory — Automation for Single-Host Lab](Project_014032/README.md) |
+| 014033 | [AWS: Inventory — Recovery for Single-Host Lab](Project_014033/README.md) |
+| 014034 | [AWS: Inventory — Reporting for Single-Host Lab](Project_014034/README.md) |
+| 014035 | [AWS: Inventory — Usability Improvement for Single-Host Lab](Project_014035/README.md) |
+| 014036 | [AWS: Inventory — Baseline Setup for Two-Node Lab](Project_014036/README.md) |
+| 014037 | [AWS: Inventory — Automation for Two-Node Lab](Project_014037/README.md) |
+| 014038 | [AWS: Inventory — Recovery for Two-Node Lab](Project_014038/README.md) |
+| 014039 | [AWS: Inventory — Reporting for Two-Node Lab](Project_014039/README.md) |
+| 014040 | [AWS: Inventory — Usability Improvement for Two-Node Lab](Project_014040/README.md) |
 
 [Back to the portfolio home](../README.md)
