@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041058 | [Nginx: Monitoring — Recovery for Small Business](Project_041058/README.md) |
 | 041059 | [Nginx: Monitoring — Reporting for Small Business](Project_041059/README.md) |
 | 041060 | [Nginx: Monitoring — Usability Improvement for Small Business](Project_041060/README.md) |
+| 041061 | [Nginx: Monitoring — Baseline Setup for Home Development](Project_041061/README.md) |
+| 041062 | [Nginx: Monitoring — Automation for Home Development](Project_041062/README.md) |
+| 041063 | [Nginx: Monitoring — Recovery for Home Development](Project_041063/README.md) |
+| 041064 | [Nginx: Monitoring — Reporting for Home Development](Project_041064/README.md) |
+| 041065 | [Nginx: Monitoring — Usability Improvement for Home Development](Project_041065/README.md) |
+| 041066 | [Nginx: Monitoring — Baseline Setup for Public Dataset](Project_041066/README.md) |
+| 041067 | [Nginx: Monitoring — Automation for Public Dataset](Project_041067/README.md) |
+| 041068 | [Nginx: Monitoring — Recovery for Public Dataset](Project_041068/README.md) |
+| 041069 | [Nginx: Monitoring — Reporting for Public Dataset](Project_041069/README.md) |
+| 041070 | [Nginx: Monitoring — Usability Improvement for Public Dataset](Project_041070/README.md) |
+| 041071 | [Nginx: Monitoring — Baseline Setup for Branch Office Simulator](Project_041071/README.md) |
+| 041072 | [Nginx: Monitoring — Automation for Branch Office Simulator](Project_041072/README.md) |
+| 041073 | [Nginx: Monitoring — Recovery for Branch Office Simulator](Project_041073/README.md) |
+| 041074 | [Nginx: Monitoring — Reporting for Branch Office Simulator](Project_041074/README.md) |
+| 041075 | [Nginx: Monitoring — Usability Improvement for Branch Office Simulator](Project_041075/README.md) |
+| 041076 | [Nginx: Monitoring — Baseline Setup for Offline Classroom](Project_041076/README.md) |
+| 041077 | [Nginx: Monitoring — Automation for Offline Classroom](Project_041077/README.md) |
+| 041078 | [Nginx: Monitoring — Recovery for Offline Classroom](Project_041078/README.md) |
+| 041079 | [Nginx: Monitoring — Reporting for Offline Classroom](Project_041079/README.md) |
+| 041080 | [Nginx: Monitoring — Usability Improvement for Offline Classroom](Project_041080/README.md) |
 
 [Back to the portfolio home](../README.md)
