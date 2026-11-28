@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040838 | [PowerShell: Documentation Generation — Recovery for Two-Node Lab](Project_040838/README.md) |
 | 040839 | [PowerShell: Documentation Generation — Reporting for Two-Node Lab](Project_040839/README.md) |
 | 040840 | [PowerShell: Documentation Generation — Usability Improvement for Two-Node Lab](Project_040840/README.md) |
+| 040841 | [PowerShell: Documentation Generation — Baseline Setup for Help Desk](Project_040841/README.md) |
+| 040842 | [PowerShell: Documentation Generation — Automation for Help Desk](Project_040842/README.md) |
+| 040843 | [PowerShell: Documentation Generation — Recovery for Help Desk](Project_040843/README.md) |
+| 040844 | [PowerShell: Documentation Generation — Reporting for Help Desk](Project_040844/README.md) |
+| 040845 | [PowerShell: Documentation Generation — Usability Improvement for Help Desk](Project_040845/README.md) |
+| 040846 | [PowerShell: Documentation Generation — Baseline Setup for Portfolio Demo](Project_040846/README.md) |
+| 040847 | [PowerShell: Documentation Generation — Automation for Portfolio Demo](Project_040847/README.md) |
+| 040848 | [PowerShell: Documentation Generation — Recovery for Portfolio Demo](Project_040848/README.md) |
+| 040849 | [PowerShell: Documentation Generation — Reporting for Portfolio Demo](Project_040849/README.md) |
+| 040850 | [PowerShell: Documentation Generation — Usability Improvement for Portfolio Demo](Project_040850/README.md) |
+| 040851 | [PowerShell: Automation — Baseline Setup for School Lab](Project_040851/README.md) |
+| 040852 | [PowerShell: Automation — Automation for School Lab](Project_040852/README.md) |
+| 040853 | [PowerShell: Automation — Recovery for School Lab](Project_040853/README.md) |
+| 040854 | [PowerShell: Automation — Reporting for School Lab](Project_040854/README.md) |
+| 040855 | [PowerShell: Automation — Usability Improvement for School Lab](Project_040855/README.md) |
+| 040856 | [PowerShell: Automation — Baseline Setup for Small Business](Project_040856/README.md) |
+| 040857 | [PowerShell: Automation — Automation for Small Business](Project_040857/README.md) |
+| 040858 | [PowerShell: Automation — Recovery for Small Business](Project_040858/README.md) |
+| 040859 | [PowerShell: Automation — Reporting for Small Business](Project_040859/README.md) |
+| 040860 | [PowerShell: Automation — Usability Improvement for Small Business](Project_040860/README.md) |
 
 [Back to the portfolio home](../README.md)
