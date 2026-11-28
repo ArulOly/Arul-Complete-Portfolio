@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016158 | [Google Cloud: Log Analysis — Recovery for Small Business](Project_016158/README.md) |
 | 016159 | [Google Cloud: Log Analysis — Reporting for Small Business](Project_016159/README.md) |
 | 016160 | [Google Cloud: Log Analysis — Usability Improvement for Small Business](Project_016160/README.md) |
+| 016161 | [Google Cloud: Log Analysis — Baseline Setup for Home Development](Project_016161/README.md) |
+| 016162 | [Google Cloud: Log Analysis — Automation for Home Development](Project_016162/README.md) |
+| 016163 | [Google Cloud: Log Analysis — Recovery for Home Development](Project_016163/README.md) |
+| 016164 | [Google Cloud: Log Analysis — Reporting for Home Development](Project_016164/README.md) |
+| 016165 | [Google Cloud: Log Analysis — Usability Improvement for Home Development](Project_016165/README.md) |
+| 016166 | [Google Cloud: Log Analysis — Baseline Setup for Public Dataset](Project_016166/README.md) |
+| 016167 | [Google Cloud: Log Analysis — Automation for Public Dataset](Project_016167/README.md) |
+| 016168 | [Google Cloud: Log Analysis — Recovery for Public Dataset](Project_016168/README.md) |
+| 016169 | [Google Cloud: Log Analysis — Reporting for Public Dataset](Project_016169/README.md) |
+| 016170 | [Google Cloud: Log Analysis — Usability Improvement for Public Dataset](Project_016170/README.md) |
+| 016171 | [Google Cloud: Log Analysis — Baseline Setup for Branch Office Simulator](Project_016171/README.md) |
+| 016172 | [Google Cloud: Log Analysis — Automation for Branch Office Simulator](Project_016172/README.md) |
+| 016173 | [Google Cloud: Log Analysis — Recovery for Branch Office Simulator](Project_016173/README.md) |
+| 016174 | [Google Cloud: Log Analysis — Reporting for Branch Office Simulator](Project_016174/README.md) |
+| 016175 | [Google Cloud: Log Analysis — Usability Improvement for Branch Office Simulator](Project_016175/README.md) |
+| 016176 | [Google Cloud: Log Analysis — Baseline Setup for Offline Classroom](Project_016176/README.md) |
+| 016177 | [Google Cloud: Log Analysis — Automation for Offline Classroom](Project_016177/README.md) |
+| 016178 | [Google Cloud: Log Analysis — Recovery for Offline Classroom](Project_016178/README.md) |
+| 016179 | [Google Cloud: Log Analysis — Reporting for Offline Classroom](Project_016179/README.md) |
+| 016180 | [Google Cloud: Log Analysis — Usability Improvement for Offline Classroom](Project_016180/README.md) |
 
 [Back to the portfolio home](../README.md)
