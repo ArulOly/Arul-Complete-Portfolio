@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043358 | [Grafana: Dashboard — Recovery for Small Business](Project_043358/README.md) |
 | 043359 | [Grafana: Dashboard — Reporting for Small Business](Project_043359/README.md) |
 | 043360 | [Grafana: Dashboard — Usability Improvement for Small Business](Project_043360/README.md) |
+| 043361 | [Grafana: Dashboard — Baseline Setup for Home Development](Project_043361/README.md) |
+| 043362 | [Grafana: Dashboard — Automation for Home Development](Project_043362/README.md) |
+| 043363 | [Grafana: Dashboard — Recovery for Home Development](Project_043363/README.md) |
+| 043364 | [Grafana: Dashboard — Reporting for Home Development](Project_043364/README.md) |
+| 043365 | [Grafana: Dashboard — Usability Improvement for Home Development](Project_043365/README.md) |
+| 043366 | [Grafana: Dashboard — Baseline Setup for Public Dataset](Project_043366/README.md) |
+| 043367 | [Grafana: Dashboard — Automation for Public Dataset](Project_043367/README.md) |
+| 043368 | [Grafana: Dashboard — Recovery for Public Dataset](Project_043368/README.md) |
+| 043369 | [Grafana: Dashboard — Reporting for Public Dataset](Project_043369/README.md) |
+| 043370 | [Grafana: Dashboard — Usability Improvement for Public Dataset](Project_043370/README.md) |
+| 043371 | [Grafana: Dashboard — Baseline Setup for Branch Office Simulator](Project_043371/README.md) |
+| 043372 | [Grafana: Dashboard — Automation for Branch Office Simulator](Project_043372/README.md) |
+| 043373 | [Grafana: Dashboard — Recovery for Branch Office Simulator](Project_043373/README.md) |
+| 043374 | [Grafana: Dashboard — Reporting for Branch Office Simulator](Project_043374/README.md) |
+| 043375 | [Grafana: Dashboard — Usability Improvement for Branch Office Simulator](Project_043375/README.md) |
+| 043376 | [Grafana: Dashboard — Baseline Setup for Offline Classroom](Project_043376/README.md) |
+| 043377 | [Grafana: Dashboard — Automation for Offline Classroom](Project_043377/README.md) |
+| 043378 | [Grafana: Dashboard — Recovery for Offline Classroom](Project_043378/README.md) |
+| 043379 | [Grafana: Dashboard — Reporting for Offline Classroom](Project_043379/README.md) |
+| 043380 | [Grafana: Dashboard — Usability Improvement for Offline Classroom](Project_043380/README.md) |
 
 [Back to the portfolio home](../README.md)
