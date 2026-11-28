@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014838 | [AWS: Documentation Generation — Recovery for Two-Node Lab](Project_014838/README.md) |
 | 014839 | [AWS: Documentation Generation — Reporting for Two-Node Lab](Project_014839/README.md) |
 | 014840 | [AWS: Documentation Generation — Usability Improvement for Two-Node Lab](Project_014840/README.md) |
+| 014841 | [AWS: Documentation Generation — Baseline Setup for Help Desk](Project_014841/README.md) |
+| 014842 | [AWS: Documentation Generation — Automation for Help Desk](Project_014842/README.md) |
+| 014843 | [AWS: Documentation Generation — Recovery for Help Desk](Project_014843/README.md) |
+| 014844 | [AWS: Documentation Generation — Reporting for Help Desk](Project_014844/README.md) |
+| 014845 | [AWS: Documentation Generation — Usability Improvement for Help Desk](Project_014845/README.md) |
+| 014846 | [AWS: Documentation Generation — Baseline Setup for Portfolio Demo](Project_014846/README.md) |
+| 014847 | [AWS: Documentation Generation — Automation for Portfolio Demo](Project_014847/README.md) |
+| 014848 | [AWS: Documentation Generation — Recovery for Portfolio Demo](Project_014848/README.md) |
+| 014849 | [AWS: Documentation Generation — Reporting for Portfolio Demo](Project_014849/README.md) |
+| 014850 | [AWS: Documentation Generation — Usability Improvement for Portfolio Demo](Project_014850/README.md) |
+| 014851 | [AWS: Automation — Baseline Setup for School Lab](Project_014851/README.md) |
+| 014852 | [AWS: Automation — Automation for School Lab](Project_014852/README.md) |
+| 014853 | [AWS: Automation — Recovery for School Lab](Project_014853/README.md) |
+| 014854 | [AWS: Automation — Reporting for School Lab](Project_014854/README.md) |
+| 014855 | [AWS: Automation — Usability Improvement for School Lab](Project_014855/README.md) |
+| 014856 | [AWS: Automation — Baseline Setup for Small Business](Project_014856/README.md) |
+| 014857 | [AWS: Automation — Automation for Small Business](Project_014857/README.md) |
+| 014858 | [AWS: Automation — Recovery for Small Business](Project_014858/README.md) |
+| 014859 | [AWS: Automation — Reporting for Small Business](Project_014859/README.md) |
+| 014860 | [AWS: Automation — Usability Improvement for Small Business](Project_014860/README.md) |
 
 [Back to the portfolio home](../README.md)
