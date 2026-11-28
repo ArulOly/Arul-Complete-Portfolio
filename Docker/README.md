@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017978 | [Docker: Recovery Test — Recovery for Offline Classroom](Project_017978/README.md) |
 | 017979 | [Docker: Recovery Test — Reporting for Offline Classroom](Project_017979/README.md) |
 | 017980 | [Docker: Recovery Test — Usability Improvement for Offline Classroom](Project_017980/README.md) |
+| 017981 | [Docker: Recovery Test — Baseline Setup for Single-Host Lab](Project_017981/README.md) |
+| 017982 | [Docker: Recovery Test — Automation for Single-Host Lab](Project_017982/README.md) |
+| 017983 | [Docker: Recovery Test — Recovery for Single-Host Lab](Project_017983/README.md) |
+| 017984 | [Docker: Recovery Test — Reporting for Single-Host Lab](Project_017984/README.md) |
+| 017985 | [Docker: Recovery Test — Usability Improvement for Single-Host Lab](Project_017985/README.md) |
+| 017986 | [Docker: Recovery Test — Baseline Setup for Two-Node Lab](Project_017986/README.md) |
+| 017987 | [Docker: Recovery Test — Automation for Two-Node Lab](Project_017987/README.md) |
+| 017988 | [Docker: Recovery Test — Recovery for Two-Node Lab](Project_017988/README.md) |
+| 017989 | [Docker: Recovery Test — Reporting for Two-Node Lab](Project_017989/README.md) |
+| 017990 | [Docker: Recovery Test — Usability Improvement for Two-Node Lab](Project_017990/README.md) |
+| 017991 | [Docker: Recovery Test — Baseline Setup for Help Desk](Project_017991/README.md) |
+| 017992 | [Docker: Recovery Test — Automation for Help Desk](Project_017992/README.md) |
+| 017993 | [Docker: Recovery Test — Recovery for Help Desk](Project_017993/README.md) |
+| 017994 | [Docker: Recovery Test — Reporting for Help Desk](Project_017994/README.md) |
+| 017995 | [Docker: Recovery Test — Usability Improvement for Help Desk](Project_017995/README.md) |
+| 017996 | [Docker: Recovery Test — Baseline Setup for Portfolio Demo](Project_017996/README.md) |
+| 017997 | [Docker: Recovery Test — Automation for Portfolio Demo](Project_017997/README.md) |
+| 017998 | [Docker: Recovery Test — Recovery for Portfolio Demo](Project_017998/README.md) |
+| 017999 | [Docker: Recovery Test — Reporting for Portfolio Demo](Project_017999/README.md) |
+| 018000 | [Docker: Recovery Test — Usability Improvement for Portfolio Demo](Project_018000/README.md) |
 
 [Back to the portfolio home](../README.md)
