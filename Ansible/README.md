@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047178 | [Ansible: Log Analysis — Recovery for Offline Classroom](Project_047178/README.md) |
 | 047179 | [Ansible: Log Analysis — Reporting for Offline Classroom](Project_047179/README.md) |
 | 047180 | [Ansible: Log Analysis — Usability Improvement for Offline Classroom](Project_047180/README.md) |
+| 047181 | [Ansible: Log Analysis — Baseline Setup for Single-Host Lab](Project_047181/README.md) |
+| 047182 | [Ansible: Log Analysis — Automation for Single-Host Lab](Project_047182/README.md) |
+| 047183 | [Ansible: Log Analysis — Recovery for Single-Host Lab](Project_047183/README.md) |
+| 047184 | [Ansible: Log Analysis — Reporting for Single-Host Lab](Project_047184/README.md) |
+| 047185 | [Ansible: Log Analysis — Usability Improvement for Single-Host Lab](Project_047185/README.md) |
+| 047186 | [Ansible: Log Analysis — Baseline Setup for Two-Node Lab](Project_047186/README.md) |
+| 047187 | [Ansible: Log Analysis — Automation for Two-Node Lab](Project_047187/README.md) |
+| 047188 | [Ansible: Log Analysis — Recovery for Two-Node Lab](Project_047188/README.md) |
+| 047189 | [Ansible: Log Analysis — Reporting for Two-Node Lab](Project_047189/README.md) |
+| 047190 | [Ansible: Log Analysis — Usability Improvement for Two-Node Lab](Project_047190/README.md) |
+| 047191 | [Ansible: Log Analysis — Baseline Setup for Help Desk](Project_047191/README.md) |
+| 047192 | [Ansible: Log Analysis — Automation for Help Desk](Project_047192/README.md) |
+| 047193 | [Ansible: Log Analysis — Recovery for Help Desk](Project_047193/README.md) |
+| 047194 | [Ansible: Log Analysis — Reporting for Help Desk](Project_047194/README.md) |
+| 047195 | [Ansible: Log Analysis — Usability Improvement for Help Desk](Project_047195/README.md) |
+| 047196 | [Ansible: Log Analysis — Baseline Setup for Portfolio Demo](Project_047196/README.md) |
+| 047197 | [Ansible: Log Analysis — Automation for Portfolio Demo](Project_047197/README.md) |
+| 047198 | [Ansible: Log Analysis — Recovery for Portfolio Demo](Project_047198/README.md) |
+| 047199 | [Ansible: Log Analysis — Reporting for Portfolio Demo](Project_047199/README.md) |
+| 047200 | [Ansible: Log Analysis — Usability Improvement for Portfolio Demo](Project_047200/README.md) |
 
 [Back to the portfolio home](../README.md)
