@@ -28,6 +28,9 @@ This repository contains a collection of practical information technology projec
 | [Debian](./Debian/) | Synthetic operations workflows tested on Debian 12 |
 | [Fedora](./Fedora/) | Synthetic operations workflows tested on Fedora 43 |
 | [FreeBSD](./FreeBSD/) | Synthetic operations workflows for FreeBSD |
+| [AWS](./AWS/) | Offline Amazon S3 event and object-storage workflows |
+| [Azure](./Azure/) | Offline Blob Storage and Event Grid workflows |
+| [Google Cloud](./Google%20Cloud/) | Offline Cloud Storage event workflows |
 
 ## Repository Structure
 
@@ -57,6 +60,9 @@ Each project is documented in an individual README.md file containing its object
 - Debian
 - Fedora
 - FreeBSD
+- AWS
+- Azure
+- Google Cloud
 - Markdown
 
 ## Purpose
