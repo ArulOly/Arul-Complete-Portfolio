@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046818 | [Terraform: Documentation Generation — Recovery for Public Dataset](Project_046818/README.md) |
 | 046819 | [Terraform: Documentation Generation — Reporting for Public Dataset](Project_046819/README.md) |
 | 046820 | [Terraform: Documentation Generation — Usability Improvement for Public Dataset](Project_046820/README.md) |
+| 046821 | [Terraform: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_046821/README.md) |
+| 046822 | [Terraform: Documentation Generation — Automation for Branch Office Simulator](Project_046822/README.md) |
+| 046823 | [Terraform: Documentation Generation — Recovery for Branch Office Simulator](Project_046823/README.md) |
+| 046824 | [Terraform: Documentation Generation — Reporting for Branch Office Simulator](Project_046824/README.md) |
+| 046825 | [Terraform: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_046825/README.md) |
+| 046826 | [Terraform: Documentation Generation — Baseline Setup for Offline Classroom](Project_046826/README.md) |
+| 046827 | [Terraform: Documentation Generation — Automation for Offline Classroom](Project_046827/README.md) |
+| 046828 | [Terraform: Documentation Generation — Recovery for Offline Classroom](Project_046828/README.md) |
+| 046829 | [Terraform: Documentation Generation — Reporting for Offline Classroom](Project_046829/README.md) |
+| 046830 | [Terraform: Documentation Generation — Usability Improvement for Offline Classroom](Project_046830/README.md) |
+| 046831 | [Terraform: Documentation Generation — Baseline Setup for Single-Host Lab](Project_046831/README.md) |
+| 046832 | [Terraform: Documentation Generation — Automation for Single-Host Lab](Project_046832/README.md) |
+| 046833 | [Terraform: Documentation Generation — Recovery for Single-Host Lab](Project_046833/README.md) |
+| 046834 | [Terraform: Documentation Generation — Reporting for Single-Host Lab](Project_046834/README.md) |
+| 046835 | [Terraform: Documentation Generation — Usability Improvement for Single-Host Lab](Project_046835/README.md) |
+| 046836 | [Terraform: Documentation Generation — Baseline Setup for Two-Node Lab](Project_046836/README.md) |
+| 046837 | [Terraform: Documentation Generation — Automation for Two-Node Lab](Project_046837/README.md) |
+| 046838 | [Terraform: Documentation Generation — Recovery for Two-Node Lab](Project_046838/README.md) |
+| 046839 | [Terraform: Documentation Generation — Reporting for Two-Node Lab](Project_046839/README.md) |
+| 046840 | [Terraform: Documentation Generation — Usability Improvement for Two-Node Lab](Project_046840/README.md) |
 
 [Back to the portfolio home](../README.md)
