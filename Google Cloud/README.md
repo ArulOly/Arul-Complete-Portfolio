@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016418 | [Google Cloud: Alerting — Recovery for Public Dataset](Project_016418/README.md) |
 | 016419 | [Google Cloud: Alerting — Reporting for Public Dataset](Project_016419/README.md) |
 | 016420 | [Google Cloud: Alerting — Usability Improvement for Public Dataset](Project_016420/README.md) |
+| 016421 | [Google Cloud: Alerting — Baseline Setup for Branch Office Simulator](Project_016421/README.md) |
+| 016422 | [Google Cloud: Alerting — Automation for Branch Office Simulator](Project_016422/README.md) |
+| 016423 | [Google Cloud: Alerting — Recovery for Branch Office Simulator](Project_016423/README.md) |
+| 016424 | [Google Cloud: Alerting — Reporting for Branch Office Simulator](Project_016424/README.md) |
+| 016425 | [Google Cloud: Alerting — Usability Improvement for Branch Office Simulator](Project_016425/README.md) |
+| 016426 | [Google Cloud: Alerting — Baseline Setup for Offline Classroom](Project_016426/README.md) |
+| 016427 | [Google Cloud: Alerting — Automation for Offline Classroom](Project_016427/README.md) |
+| 016428 | [Google Cloud: Alerting — Recovery for Offline Classroom](Project_016428/README.md) |
+| 016429 | [Google Cloud: Alerting — Reporting for Offline Classroom](Project_016429/README.md) |
+| 016430 | [Google Cloud: Alerting — Usability Improvement for Offline Classroom](Project_016430/README.md) |
+| 016431 | [Google Cloud: Alerting — Baseline Setup for Single-Host Lab](Project_016431/README.md) |
+| 016432 | [Google Cloud: Alerting — Automation for Single-Host Lab](Project_016432/README.md) |
+| 016433 | [Google Cloud: Alerting — Recovery for Single-Host Lab](Project_016433/README.md) |
+| 016434 | [Google Cloud: Alerting — Reporting for Single-Host Lab](Project_016434/README.md) |
+| 016435 | [Google Cloud: Alerting — Usability Improvement for Single-Host Lab](Project_016435/README.md) |
+| 016436 | [Google Cloud: Alerting — Baseline Setup for Two-Node Lab](Project_016436/README.md) |
+| 016437 | [Google Cloud: Alerting — Automation for Two-Node Lab](Project_016437/README.md) |
+| 016438 | [Google Cloud: Alerting — Recovery for Two-Node Lab](Project_016438/README.md) |
+| 016439 | [Google Cloud: Alerting — Reporting for Two-Node Lab](Project_016439/README.md) |
+| 016440 | [Google Cloud: Alerting — Usability Improvement for Two-Node Lab](Project_016440/README.md) |
 
 [Back to the portfolio home](../README.md)
