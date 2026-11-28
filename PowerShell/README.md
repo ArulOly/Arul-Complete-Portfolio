@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 460
+**Projects documented** 480
 
 ## Project categories
 
@@ -501,5 +501,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040458 | [PowerShell: Scheduled Reporting — Recovery for Small Business](Project_040458/README.md) |
 | 040459 | [PowerShell: Scheduled Reporting — Reporting for Small Business](Project_040459/README.md) |
 | 040460 | [PowerShell: Scheduled Reporting — Usability Improvement for Small Business](Project_040460/README.md) |
+| 040461 | [PowerShell: Scheduled Reporting — Baseline Setup for Home Development](Project_040461/README.md) |
+| 040462 | [PowerShell: Scheduled Reporting — Automation for Home Development](Project_040462/README.md) |
+| 040463 | [PowerShell: Scheduled Reporting — Recovery for Home Development](Project_040463/README.md) |
+| 040464 | [PowerShell: Scheduled Reporting — Reporting for Home Development](Project_040464/README.md) |
+| 040465 | [PowerShell: Scheduled Reporting — Usability Improvement for Home Development](Project_040465/README.md) |
+| 040466 | [PowerShell: Scheduled Reporting — Baseline Setup for Public Dataset](Project_040466/README.md) |
+| 040467 | [PowerShell: Scheduled Reporting — Automation for Public Dataset](Project_040467/README.md) |
+| 040468 | [PowerShell: Scheduled Reporting — Recovery for Public Dataset](Project_040468/README.md) |
+| 040469 | [PowerShell: Scheduled Reporting — Reporting for Public Dataset](Project_040469/README.md) |
+| 040470 | [PowerShell: Scheduled Reporting — Usability Improvement for Public Dataset](Project_040470/README.md) |
+| 040471 | [PowerShell: Scheduled Reporting — Baseline Setup for Branch Office Simulator](Project_040471/README.md) |
+| 040472 | [PowerShell: Scheduled Reporting — Automation for Branch Office Simulator](Project_040472/README.md) |
+| 040473 | [PowerShell: Scheduled Reporting — Recovery for Branch Office Simulator](Project_040473/README.md) |
+| 040474 | [PowerShell: Scheduled Reporting — Reporting for Branch Office Simulator](Project_040474/README.md) |
+| 040475 | [PowerShell: Scheduled Reporting — Usability Improvement for Branch Office Simulator](Project_040475/README.md) |
+| 040476 | [PowerShell: Scheduled Reporting — Baseline Setup for Offline Classroom](Project_040476/README.md) |
+| 040477 | [PowerShell: Scheduled Reporting — Automation for Offline Classroom](Project_040477/README.md) |
+| 040478 | [PowerShell: Scheduled Reporting — Recovery for Offline Classroom](Project_040478/README.md) |
+| 040479 | [PowerShell: Scheduled Reporting — Reporting for Offline Classroom](Project_040479/README.md) |
+| 040480 | [PowerShell: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_040480/README.md) |
 
 [Back to the portfolio home](../README.md)
