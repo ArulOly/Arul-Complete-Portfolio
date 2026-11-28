@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017498 | [Docker: Scheduled Reporting — Recovery for Portfolio Demo](Project_017498/README.md) |
 | 017499 | [Docker: Scheduled Reporting — Reporting for Portfolio Demo](Project_017499/README.md) |
 | 017500 | [Docker: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_017500/README.md) |
+| 017501 | [Docker: Access Review — Baseline Setup for School Lab](Project_017501/README.md) |
+| 017502 | [Docker: Access Review — Automation for School Lab](Project_017502/README.md) |
+| 017503 | [Docker: Access Review — Recovery for School Lab](Project_017503/README.md) |
+| 017504 | [Docker: Access Review — Reporting for School Lab](Project_017504/README.md) |
+| 017505 | [Docker: Access Review — Usability Improvement for School Lab](Project_017505/README.md) |
+| 017506 | [Docker: Access Review — Baseline Setup for Small Business](Project_017506/README.md) |
+| 017507 | [Docker: Access Review — Automation for Small Business](Project_017507/README.md) |
+| 017508 | [Docker: Access Review — Recovery for Small Business](Project_017508/README.md) |
+| 017509 | [Docker: Access Review — Reporting for Small Business](Project_017509/README.md) |
+| 017510 | [Docker: Access Review — Usability Improvement for Small Business](Project_017510/README.md) |
+| 017511 | [Docker: Access Review — Baseline Setup for Home Development](Project_017511/README.md) |
+| 017512 | [Docker: Access Review — Automation for Home Development](Project_017512/README.md) |
+| 017513 | [Docker: Access Review — Recovery for Home Development](Project_017513/README.md) |
+| 017514 | [Docker: Access Review — Reporting for Home Development](Project_017514/README.md) |
+| 017515 | [Docker: Access Review — Usability Improvement for Home Development](Project_017515/README.md) |
+| 017516 | [Docker: Access Review — Baseline Setup for Public Dataset](Project_017516/README.md) |
+| 017517 | [Docker: Access Review — Automation for Public Dataset](Project_017517/README.md) |
+| 017518 | [Docker: Access Review — Recovery for Public Dataset](Project_017518/README.md) |
+| 017519 | [Docker: Access Review — Reporting for Public Dataset](Project_017519/README.md) |
+| 017520 | [Docker: Access Review — Usability Improvement for Public Dataset](Project_017520/README.md) |
 
 [Back to the portfolio home](../README.md)
