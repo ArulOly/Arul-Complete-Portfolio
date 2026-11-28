@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037558 | [Arduino: Performance Baseline — Recovery for Small Business](Project_037558/README.md) |
 | 037559 | [Arduino: Performance Baseline — Reporting for Small Business](Project_037559/README.md) |
 | 037560 | [Arduino: Performance Baseline — Usability Improvement for Small Business](Project_037560/README.md) |
+| 037561 | [Arduino: Performance Baseline — Baseline Setup for Home Development](Project_037561/README.md) |
+| 037562 | [Arduino: Performance Baseline — Automation for Home Development](Project_037562/README.md) |
+| 037563 | [Arduino: Performance Baseline — Recovery for Home Development](Project_037563/README.md) |
+| 037564 | [Arduino: Performance Baseline — Reporting for Home Development](Project_037564/README.md) |
+| 037565 | [Arduino: Performance Baseline — Usability Improvement for Home Development](Project_037565/README.md) |
+| 037566 | [Arduino: Performance Baseline — Baseline Setup for Public Dataset](Project_037566/README.md) |
+| 037567 | [Arduino: Performance Baseline — Automation for Public Dataset](Project_037567/README.md) |
+| 037568 | [Arduino: Performance Baseline — Recovery for Public Dataset](Project_037568/README.md) |
+| 037569 | [Arduino: Performance Baseline — Reporting for Public Dataset](Project_037569/README.md) |
+| 037570 | [Arduino: Performance Baseline — Usability Improvement for Public Dataset](Project_037570/README.md) |
+| 037571 | [Arduino: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_037571/README.md) |
+| 037572 | [Arduino: Performance Baseline — Automation for Branch Office Simulator](Project_037572/README.md) |
+| 037573 | [Arduino: Performance Baseline — Recovery for Branch Office Simulator](Project_037573/README.md) |
+| 037574 | [Arduino: Performance Baseline — Reporting for Branch Office Simulator](Project_037574/README.md) |
+| 037575 | [Arduino: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_037575/README.md) |
+| 037576 | [Arduino: Performance Baseline — Baseline Setup for Offline Classroom](Project_037576/README.md) |
+| 037577 | [Arduino: Performance Baseline — Automation for Offline Classroom](Project_037577/README.md) |
+| 037578 | [Arduino: Performance Baseline — Recovery for Offline Classroom](Project_037578/README.md) |
+| 037579 | [Arduino: Performance Baseline — Reporting for Offline Classroom](Project_037579/README.md) |
+| 037580 | [Arduino: Performance Baseline — Usability Improvement for Offline Classroom](Project_037580/README.md) |
 
 [Back to the portfolio home](../README.md)
