@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043698 | [Grafana: Configuration Comparison — Recovery for Portfolio Demo](Project_043698/README.md) |
 | 043699 | [Grafana: Configuration Comparison — Reporting for Portfolio Demo](Project_043699/README.md) |
 | 043700 | [Grafana: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_043700/README.md) |
+| 043701 | [Grafana: Error Handling — Baseline Setup for School Lab](Project_043701/README.md) |
+| 043702 | [Grafana: Error Handling — Automation for School Lab](Project_043702/README.md) |
+| 043703 | [Grafana: Error Handling — Recovery for School Lab](Project_043703/README.md) |
+| 043704 | [Grafana: Error Handling — Reporting for School Lab](Project_043704/README.md) |
+| 043705 | [Grafana: Error Handling — Usability Improvement for School Lab](Project_043705/README.md) |
+| 043706 | [Grafana: Error Handling — Baseline Setup for Small Business](Project_043706/README.md) |
+| 043707 | [Grafana: Error Handling — Automation for Small Business](Project_043707/README.md) |
+| 043708 | [Grafana: Error Handling — Recovery for Small Business](Project_043708/README.md) |
+| 043709 | [Grafana: Error Handling — Reporting for Small Business](Project_043709/README.md) |
+| 043710 | [Grafana: Error Handling — Usability Improvement for Small Business](Project_043710/README.md) |
+| 043711 | [Grafana: Error Handling — Baseline Setup for Home Development](Project_043711/README.md) |
+| 043712 | [Grafana: Error Handling — Automation for Home Development](Project_043712/README.md) |
+| 043713 | [Grafana: Error Handling — Recovery for Home Development](Project_043713/README.md) |
+| 043714 | [Grafana: Error Handling — Reporting for Home Development](Project_043714/README.md) |
+| 043715 | [Grafana: Error Handling — Usability Improvement for Home Development](Project_043715/README.md) |
+| 043716 | [Grafana: Error Handling — Baseline Setup for Public Dataset](Project_043716/README.md) |
+| 043717 | [Grafana: Error Handling — Automation for Public Dataset](Project_043717/README.md) |
+| 043718 | [Grafana: Error Handling — Recovery for Public Dataset](Project_043718/README.md) |
+| 043719 | [Grafana: Error Handling — Reporting for Public Dataset](Project_043719/README.md) |
+| 043720 | [Grafana: Error Handling — Usability Improvement for Public Dataset](Project_043720/README.md) |
 
 [Back to the portfolio home](../README.md)
