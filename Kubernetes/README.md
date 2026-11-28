@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018238 | [Kubernetes: Backup Verification — Recovery for Two-Node Lab](Project_018238/README.md) |
 | 018239 | [Kubernetes: Backup Verification — Reporting for Two-Node Lab](Project_018239/README.md) |
 | 018240 | [Kubernetes: Backup Verification — Usability Improvement for Two-Node Lab](Project_018240/README.md) |
+| 018241 | [Kubernetes: Backup Verification — Baseline Setup for Help Desk](Project_018241/README.md) |
+| 018242 | [Kubernetes: Backup Verification — Automation for Help Desk](Project_018242/README.md) |
+| 018243 | [Kubernetes: Backup Verification — Recovery for Help Desk](Project_018243/README.md) |
+| 018244 | [Kubernetes: Backup Verification — Reporting for Help Desk](Project_018244/README.md) |
+| 018245 | [Kubernetes: Backup Verification — Usability Improvement for Help Desk](Project_018245/README.md) |
+| 018246 | [Kubernetes: Backup Verification — Baseline Setup for Portfolio Demo](Project_018246/README.md) |
+| 018247 | [Kubernetes: Backup Verification — Automation for Portfolio Demo](Project_018247/README.md) |
+| 018248 | [Kubernetes: Backup Verification — Recovery for Portfolio Demo](Project_018248/README.md) |
+| 018249 | [Kubernetes: Backup Verification — Reporting for Portfolio Demo](Project_018249/README.md) |
+| 018250 | [Kubernetes: Backup Verification — Usability Improvement for Portfolio Demo](Project_018250/README.md) |
+| 018251 | [Kubernetes: Data Import — Baseline Setup for School Lab](Project_018251/README.md) |
+| 018252 | [Kubernetes: Data Import — Automation for School Lab](Project_018252/README.md) |
+| 018253 | [Kubernetes: Data Import — Recovery for School Lab](Project_018253/README.md) |
+| 018254 | [Kubernetes: Data Import — Reporting for School Lab](Project_018254/README.md) |
+| 018255 | [Kubernetes: Data Import — Usability Improvement for School Lab](Project_018255/README.md) |
+| 018256 | [Kubernetes: Data Import — Baseline Setup for Small Business](Project_018256/README.md) |
+| 018257 | [Kubernetes: Data Import — Automation for Small Business](Project_018257/README.md) |
+| 018258 | [Kubernetes: Data Import — Recovery for Small Business](Project_018258/README.md) |
+| 018259 | [Kubernetes: Data Import — Reporting for Small Business](Project_018259/README.md) |
+| 018260 | [Kubernetes: Data Import — Usability Improvement for Small Business](Project_018260/README.md) |
 
 [Back to the portfolio home](../README.md)
