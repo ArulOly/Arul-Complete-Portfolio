@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039038 | [Bash: Inventory — Recovery for Two-Node Lab](Project_039038/README.md) |
 | 039039 | [Bash: Inventory — Reporting for Two-Node Lab](Project_039039/README.md) |
 | 039040 | [Bash: Inventory — Usability Improvement for Two-Node Lab](Project_039040/README.md) |
+| 039041 | [Bash: Inventory — Baseline Setup for Help Desk](Project_039041/README.md) |
+| 039042 | [Bash: Inventory — Automation for Help Desk](Project_039042/README.md) |
+| 039043 | [Bash: Inventory — Recovery for Help Desk](Project_039043/README.md) |
+| 039044 | [Bash: Inventory — Reporting for Help Desk](Project_039044/README.md) |
+| 039045 | [Bash: Inventory — Usability Improvement for Help Desk](Project_039045/README.md) |
+| 039046 | [Bash: Inventory — Baseline Setup for Portfolio Demo](Project_039046/README.md) |
+| 039047 | [Bash: Inventory — Automation for Portfolio Demo](Project_039047/README.md) |
+| 039048 | [Bash: Inventory — Recovery for Portfolio Demo](Project_039048/README.md) |
+| 039049 | [Bash: Inventory — Reporting for Portfolio Demo](Project_039049/README.md) |
+| 039050 | [Bash: Inventory — Usability Improvement for Portfolio Demo](Project_039050/README.md) |
+| 039051 | [Bash: Monitoring — Baseline Setup for School Lab](Project_039051/README.md) |
+| 039052 | [Bash: Monitoring — Automation for School Lab](Project_039052/README.md) |
+| 039053 | [Bash: Monitoring — Recovery for School Lab](Project_039053/README.md) |
+| 039054 | [Bash: Monitoring — Reporting for School Lab](Project_039054/README.md) |
+| 039055 | [Bash: Monitoring — Usability Improvement for School Lab](Project_039055/README.md) |
+| 039056 | [Bash: Monitoring — Baseline Setup for Small Business](Project_039056/README.md) |
+| 039057 | [Bash: Monitoring — Automation for Small Business](Project_039057/README.md) |
+| 039058 | [Bash: Monitoring — Recovery for Small Business](Project_039058/README.md) |
+| 039059 | [Bash: Monitoring — Reporting for Small Business](Project_039059/README.md) |
+| 039060 | [Bash: Monitoring — Usability Improvement for Small Business](Project_039060/README.md) |
 
 [Back to the portfolio home](../README.md)
