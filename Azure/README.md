@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015258 | [Azure: Data Import — Recovery for Small Business](Project_015258/README.md) |
 | 015259 | [Azure: Data Import — Reporting for Small Business](Project_015259/README.md) |
 | 015260 | [Azure: Data Import — Usability Improvement for Small Business](Project_015260/README.md) |
+| 015261 | [Azure: Data Import — Baseline Setup for Home Development](Project_015261/README.md) |
+| 015262 | [Azure: Data Import — Automation for Home Development](Project_015262/README.md) |
+| 015263 | [Azure: Data Import — Recovery for Home Development](Project_015263/README.md) |
+| 015264 | [Azure: Data Import — Reporting for Home Development](Project_015264/README.md) |
+| 015265 | [Azure: Data Import — Usability Improvement for Home Development](Project_015265/README.md) |
+| 015266 | [Azure: Data Import — Baseline Setup for Public Dataset](Project_015266/README.md) |
+| 015267 | [Azure: Data Import — Automation for Public Dataset](Project_015267/README.md) |
+| 015268 | [Azure: Data Import — Recovery for Public Dataset](Project_015268/README.md) |
+| 015269 | [Azure: Data Import — Reporting for Public Dataset](Project_015269/README.md) |
+| 015270 | [Azure: Data Import — Usability Improvement for Public Dataset](Project_015270/README.md) |
+| 015271 | [Azure: Data Import — Baseline Setup for Branch Office Simulator](Project_015271/README.md) |
+| 015272 | [Azure: Data Import — Automation for Branch Office Simulator](Project_015272/README.md) |
+| 015273 | [Azure: Data Import — Recovery for Branch Office Simulator](Project_015273/README.md) |
+| 015274 | [Azure: Data Import — Reporting for Branch Office Simulator](Project_015274/README.md) |
+| 015275 | [Azure: Data Import — Usability Improvement for Branch Office Simulator](Project_015275/README.md) |
+| 015276 | [Azure: Data Import — Baseline Setup for Offline Classroom](Project_015276/README.md) |
+| 015277 | [Azure: Data Import — Automation for Offline Classroom](Project_015277/README.md) |
+| 015278 | [Azure: Data Import — Recovery for Offline Classroom](Project_015278/README.md) |
+| 015279 | [Azure: Data Import — Reporting for Offline Classroom](Project_015279/README.md) |
+| 015280 | [Azure: Data Import — Usability Improvement for Offline Classroom](Project_015280/README.md) |
 
 [Back to the portfolio home](../README.md)
