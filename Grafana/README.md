@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043658 | [Grafana: Configuration Comparison — Recovery for Small Business](Project_043658/README.md) |
 | 043659 | [Grafana: Configuration Comparison — Reporting for Small Business](Project_043659/README.md) |
 | 043660 | [Grafana: Configuration Comparison — Usability Improvement for Small Business](Project_043660/README.md) |
+| 043661 | [Grafana: Configuration Comparison — Baseline Setup for Home Development](Project_043661/README.md) |
+| 043662 | [Grafana: Configuration Comparison — Automation for Home Development](Project_043662/README.md) |
+| 043663 | [Grafana: Configuration Comparison — Recovery for Home Development](Project_043663/README.md) |
+| 043664 | [Grafana: Configuration Comparison — Reporting for Home Development](Project_043664/README.md) |
+| 043665 | [Grafana: Configuration Comparison — Usability Improvement for Home Development](Project_043665/README.md) |
+| 043666 | [Grafana: Configuration Comparison — Baseline Setup for Public Dataset](Project_043666/README.md) |
+| 043667 | [Grafana: Configuration Comparison — Automation for Public Dataset](Project_043667/README.md) |
+| 043668 | [Grafana: Configuration Comparison — Recovery for Public Dataset](Project_043668/README.md) |
+| 043669 | [Grafana: Configuration Comparison — Reporting for Public Dataset](Project_043669/README.md) |
+| 043670 | [Grafana: Configuration Comparison — Usability Improvement for Public Dataset](Project_043670/README.md) |
+| 043671 | [Grafana: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_043671/README.md) |
+| 043672 | [Grafana: Configuration Comparison — Automation for Branch Office Simulator](Project_043672/README.md) |
+| 043673 | [Grafana: Configuration Comparison — Recovery for Branch Office Simulator](Project_043673/README.md) |
+| 043674 | [Grafana: Configuration Comparison — Reporting for Branch Office Simulator](Project_043674/README.md) |
+| 043675 | [Grafana: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_043675/README.md) |
+| 043676 | [Grafana: Configuration Comparison — Baseline Setup for Offline Classroom](Project_043676/README.md) |
+| 043677 | [Grafana: Configuration Comparison — Automation for Offline Classroom](Project_043677/README.md) |
+| 043678 | [Grafana: Configuration Comparison — Recovery for Offline Classroom](Project_043678/README.md) |
+| 043679 | [Grafana: Configuration Comparison — Reporting for Offline Classroom](Project_043679/README.md) |
+| 043680 | [Grafana: Configuration Comparison — Usability Improvement for Offline Classroom](Project_043680/README.md) |
 
 [Back to the portfolio home](../README.md)
