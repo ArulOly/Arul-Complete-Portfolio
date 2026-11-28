@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040898 | [PowerShell: Automation — Recovery for Portfolio Demo](Project_040898/README.md) |
 | 040899 | [PowerShell: Automation — Reporting for Portfolio Demo](Project_040899/README.md) |
 | 040900 | [PowerShell: Automation — Usability Improvement for Portfolio Demo](Project_040900/README.md) |
+| 040901 | [PowerShell: Visual Reporting — Baseline Setup for School Lab](Project_040901/README.md) |
+| 040902 | [PowerShell: Visual Reporting — Automation for School Lab](Project_040902/README.md) |
+| 040903 | [PowerShell: Visual Reporting — Recovery for School Lab](Project_040903/README.md) |
+| 040904 | [PowerShell: Visual Reporting — Reporting for School Lab](Project_040904/README.md) |
+| 040905 | [PowerShell: Visual Reporting — Usability Improvement for School Lab](Project_040905/README.md) |
+| 040906 | [PowerShell: Visual Reporting — Baseline Setup for Small Business](Project_040906/README.md) |
+| 040907 | [PowerShell: Visual Reporting — Automation for Small Business](Project_040907/README.md) |
+| 040908 | [PowerShell: Visual Reporting — Recovery for Small Business](Project_040908/README.md) |
+| 040909 | [PowerShell: Visual Reporting — Reporting for Small Business](Project_040909/README.md) |
+| 040910 | [PowerShell: Visual Reporting — Usability Improvement for Small Business](Project_040910/README.md) |
+| 040911 | [PowerShell: Visual Reporting — Baseline Setup for Home Development](Project_040911/README.md) |
+| 040912 | [PowerShell: Visual Reporting — Automation for Home Development](Project_040912/README.md) |
+| 040913 | [PowerShell: Visual Reporting — Recovery for Home Development](Project_040913/README.md) |
+| 040914 | [PowerShell: Visual Reporting — Reporting for Home Development](Project_040914/README.md) |
+| 040915 | [PowerShell: Visual Reporting — Usability Improvement for Home Development](Project_040915/README.md) |
+| 040916 | [PowerShell: Visual Reporting — Baseline Setup for Public Dataset](Project_040916/README.md) |
+| 040917 | [PowerShell: Visual Reporting — Automation for Public Dataset](Project_040917/README.md) |
+| 040918 | [PowerShell: Visual Reporting — Recovery for Public Dataset](Project_040918/README.md) |
+| 040919 | [PowerShell: Visual Reporting — Reporting for Public Dataset](Project_040919/README.md) |
+| 040920 | [PowerShell: Visual Reporting — Usability Improvement for Public Dataset](Project_040920/README.md) |
 
 [Back to the portfolio home](../README.md)
