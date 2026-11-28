@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047878 | [Ansible: Automation — Recovery for Offline Classroom](Project_047878/README.md) |
 | 047879 | [Ansible: Automation — Reporting for Offline Classroom](Project_047879/README.md) |
 | 047880 | [Ansible: Automation — Usability Improvement for Offline Classroom](Project_047880/README.md) |
+| 047881 | [Ansible: Automation — Baseline Setup for Single-Host Lab](Project_047881/README.md) |
+| 047882 | [Ansible: Automation — Automation for Single-Host Lab](Project_047882/README.md) |
+| 047883 | [Ansible: Automation — Recovery for Single-Host Lab](Project_047883/README.md) |
+| 047884 | [Ansible: Automation — Reporting for Single-Host Lab](Project_047884/README.md) |
+| 047885 | [Ansible: Automation — Usability Improvement for Single-Host Lab](Project_047885/README.md) |
+| 047886 | [Ansible: Automation — Baseline Setup for Two-Node Lab](Project_047886/README.md) |
+| 047887 | [Ansible: Automation — Automation for Two-Node Lab](Project_047887/README.md) |
+| 047888 | [Ansible: Automation — Recovery for Two-Node Lab](Project_047888/README.md) |
+| 047889 | [Ansible: Automation — Reporting for Two-Node Lab](Project_047889/README.md) |
+| 047890 | [Ansible: Automation — Usability Improvement for Two-Node Lab](Project_047890/README.md) |
+| 047891 | [Ansible: Automation — Baseline Setup for Help Desk](Project_047891/README.md) |
+| 047892 | [Ansible: Automation — Automation for Help Desk](Project_047892/README.md) |
+| 047893 | [Ansible: Automation — Recovery for Help Desk](Project_047893/README.md) |
+| 047894 | [Ansible: Automation — Reporting for Help Desk](Project_047894/README.md) |
+| 047895 | [Ansible: Automation — Usability Improvement for Help Desk](Project_047895/README.md) |
+| 047896 | [Ansible: Automation — Baseline Setup for Portfolio Demo](Project_047896/README.md) |
+| 047897 | [Ansible: Automation — Automation for Portfolio Demo](Project_047897/README.md) |
+| 047898 | [Ansible: Automation — Recovery for Portfolio Demo](Project_047898/README.md) |
+| 047899 | [Ansible: Automation — Reporting for Portfolio Demo](Project_047899/README.md) |
+| 047900 | [Ansible: Automation — Usability Improvement for Portfolio Demo](Project_047900/README.md) |
 
 [Back to the portfolio home](../README.md)
