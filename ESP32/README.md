@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036078 | [ESP32: Monitoring — Recovery for Offline Classroom](Project_036078/README.md) |
 | 036079 | [ESP32: Monitoring — Reporting for Offline Classroom](Project_036079/README.md) |
 | 036080 | [ESP32: Monitoring — Usability Improvement for Offline Classroom](Project_036080/README.md) |
+| 036081 | [ESP32: Monitoring — Baseline Setup for Single-Host Lab](Project_036081/README.md) |
+| 036082 | [ESP32: Monitoring — Automation for Single-Host Lab](Project_036082/README.md) |
+| 036083 | [ESP32: Monitoring — Recovery for Single-Host Lab](Project_036083/README.md) |
+| 036084 | [ESP32: Monitoring — Reporting for Single-Host Lab](Project_036084/README.md) |
+| 036085 | [ESP32: Monitoring — Usability Improvement for Single-Host Lab](Project_036085/README.md) |
+| 036086 | [ESP32: Monitoring — Baseline Setup for Two-Node Lab](Project_036086/README.md) |
+| 036087 | [ESP32: Monitoring — Automation for Two-Node Lab](Project_036087/README.md) |
+| 036088 | [ESP32: Monitoring — Recovery for Two-Node Lab](Project_036088/README.md) |
+| 036089 | [ESP32: Monitoring — Reporting for Two-Node Lab](Project_036089/README.md) |
+| 036090 | [ESP32: Monitoring — Usability Improvement for Two-Node Lab](Project_036090/README.md) |
+| 036091 | [ESP32: Monitoring — Baseline Setup for Help Desk](Project_036091/README.md) |
+| 036092 | [ESP32: Monitoring — Automation for Help Desk](Project_036092/README.md) |
+| 036093 | [ESP32: Monitoring — Recovery for Help Desk](Project_036093/README.md) |
+| 036094 | [ESP32: Monitoring — Reporting for Help Desk](Project_036094/README.md) |
+| 036095 | [ESP32: Monitoring — Usability Improvement for Help Desk](Project_036095/README.md) |
+| 036096 | [ESP32: Monitoring — Baseline Setup for Portfolio Demo](Project_036096/README.md) |
+| 036097 | [ESP32: Monitoring — Automation for Portfolio Demo](Project_036097/README.md) |
+| 036098 | [ESP32: Monitoring — Recovery for Portfolio Demo](Project_036098/README.md) |
+| 036099 | [ESP32: Monitoring — Reporting for Portfolio Demo](Project_036099/README.md) |
+| 036100 | [ESP32: Monitoring — Usability Improvement for Portfolio Demo](Project_036100/README.md) |
 
 [Back to the portfolio home](../README.md)
