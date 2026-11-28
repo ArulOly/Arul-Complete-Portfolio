@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047018 | [Ansible: Inventory — Recovery for Public Dataset](Project_047018/README.md) |
 | 047019 | [Ansible: Inventory — Reporting for Public Dataset](Project_047019/README.md) |
 | 047020 | [Ansible: Inventory — Usability Improvement for Public Dataset](Project_047020/README.md) |
+| 047021 | [Ansible: Inventory — Baseline Setup for Branch Office Simulator](Project_047021/README.md) |
+| 047022 | [Ansible: Inventory — Automation for Branch Office Simulator](Project_047022/README.md) |
+| 047023 | [Ansible: Inventory — Recovery for Branch Office Simulator](Project_047023/README.md) |
+| 047024 | [Ansible: Inventory — Reporting for Branch Office Simulator](Project_047024/README.md) |
+| 047025 | [Ansible: Inventory — Usability Improvement for Branch Office Simulator](Project_047025/README.md) |
+| 047026 | [Ansible: Inventory — Baseline Setup for Offline Classroom](Project_047026/README.md) |
+| 047027 | [Ansible: Inventory — Automation for Offline Classroom](Project_047027/README.md) |
+| 047028 | [Ansible: Inventory — Recovery for Offline Classroom](Project_047028/README.md) |
+| 047029 | [Ansible: Inventory — Reporting for Offline Classroom](Project_047029/README.md) |
+| 047030 | [Ansible: Inventory — Usability Improvement for Offline Classroom](Project_047030/README.md) |
+| 047031 | [Ansible: Inventory — Baseline Setup for Single-Host Lab](Project_047031/README.md) |
+| 047032 | [Ansible: Inventory — Automation for Single-Host Lab](Project_047032/README.md) |
+| 047033 | [Ansible: Inventory — Recovery for Single-Host Lab](Project_047033/README.md) |
+| 047034 | [Ansible: Inventory — Reporting for Single-Host Lab](Project_047034/README.md) |
+| 047035 | [Ansible: Inventory — Usability Improvement for Single-Host Lab](Project_047035/README.md) |
+| 047036 | [Ansible: Inventory — Baseline Setup for Two-Node Lab](Project_047036/README.md) |
+| 047037 | [Ansible: Inventory — Automation for Two-Node Lab](Project_047037/README.md) |
+| 047038 | [Ansible: Inventory — Recovery for Two-Node Lab](Project_047038/README.md) |
+| 047039 | [Ansible: Inventory — Reporting for Two-Node Lab](Project_047039/README.md) |
+| 047040 | [Ansible: Inventory — Usability Improvement for Two-Node Lab](Project_047040/README.md) |
 
 [Back to the portfolio home](../README.md)
