@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017818 | [Docker: Documentation Generation — Recovery for Public Dataset](Project_017818/README.md) |
 | 017819 | [Docker: Documentation Generation — Reporting for Public Dataset](Project_017819/README.md) |
 | 017820 | [Docker: Documentation Generation — Usability Improvement for Public Dataset](Project_017820/README.md) |
+| 017821 | [Docker: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_017821/README.md) |
+| 017822 | [Docker: Documentation Generation — Automation for Branch Office Simulator](Project_017822/README.md) |
+| 017823 | [Docker: Documentation Generation — Recovery for Branch Office Simulator](Project_017823/README.md) |
+| 017824 | [Docker: Documentation Generation — Reporting for Branch Office Simulator](Project_017824/README.md) |
+| 017825 | [Docker: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_017825/README.md) |
+| 017826 | [Docker: Documentation Generation — Baseline Setup for Offline Classroom](Project_017826/README.md) |
+| 017827 | [Docker: Documentation Generation — Automation for Offline Classroom](Project_017827/README.md) |
+| 017828 | [Docker: Documentation Generation — Recovery for Offline Classroom](Project_017828/README.md) |
+| 017829 | [Docker: Documentation Generation — Reporting for Offline Classroom](Project_017829/README.md) |
+| 017830 | [Docker: Documentation Generation — Usability Improvement for Offline Classroom](Project_017830/README.md) |
+| 017831 | [Docker: Documentation Generation — Baseline Setup for Single-Host Lab](Project_017831/README.md) |
+| 017832 | [Docker: Documentation Generation — Automation for Single-Host Lab](Project_017832/README.md) |
+| 017833 | [Docker: Documentation Generation — Recovery for Single-Host Lab](Project_017833/README.md) |
+| 017834 | [Docker: Documentation Generation — Reporting for Single-Host Lab](Project_017834/README.md) |
+| 017835 | [Docker: Documentation Generation — Usability Improvement for Single-Host Lab](Project_017835/README.md) |
+| 017836 | [Docker: Documentation Generation — Baseline Setup for Two-Node Lab](Project_017836/README.md) |
+| 017837 | [Docker: Documentation Generation — Automation for Two-Node Lab](Project_017837/README.md) |
+| 017838 | [Docker: Documentation Generation — Recovery for Two-Node Lab](Project_017838/README.md) |
+| 017839 | [Docker: Documentation Generation — Reporting for Two-Node Lab](Project_017839/README.md) |
+| 017840 | [Docker: Documentation Generation — Usability Improvement for Two-Node Lab](Project_017840/README.md) |
 
 [Back to the portfolio home](../README.md)
