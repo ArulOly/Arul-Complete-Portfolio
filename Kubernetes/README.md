@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018518 | [Kubernetes: Access Review — Recovery for Public Dataset](Project_018518/README.md) |
 | 018519 | [Kubernetes: Access Review — Reporting for Public Dataset](Project_018519/README.md) |
 | 018520 | [Kubernetes: Access Review — Usability Improvement for Public Dataset](Project_018520/README.md) |
+| 018521 | [Kubernetes: Access Review — Baseline Setup for Branch Office Simulator](Project_018521/README.md) |
+| 018522 | [Kubernetes: Access Review — Automation for Branch Office Simulator](Project_018522/README.md) |
+| 018523 | [Kubernetes: Access Review — Recovery for Branch Office Simulator](Project_018523/README.md) |
+| 018524 | [Kubernetes: Access Review — Reporting for Branch Office Simulator](Project_018524/README.md) |
+| 018525 | [Kubernetes: Access Review — Usability Improvement for Branch Office Simulator](Project_018525/README.md) |
+| 018526 | [Kubernetes: Access Review — Baseline Setup for Offline Classroom](Project_018526/README.md) |
+| 018527 | [Kubernetes: Access Review — Automation for Offline Classroom](Project_018527/README.md) |
+| 018528 | [Kubernetes: Access Review — Recovery for Offline Classroom](Project_018528/README.md) |
+| 018529 | [Kubernetes: Access Review — Reporting for Offline Classroom](Project_018529/README.md) |
+| 018530 | [Kubernetes: Access Review — Usability Improvement for Offline Classroom](Project_018530/README.md) |
+| 018531 | [Kubernetes: Access Review — Baseline Setup for Single-Host Lab](Project_018531/README.md) |
+| 018532 | [Kubernetes: Access Review — Automation for Single-Host Lab](Project_018532/README.md) |
+| 018533 | [Kubernetes: Access Review — Recovery for Single-Host Lab](Project_018533/README.md) |
+| 018534 | [Kubernetes: Access Review — Reporting for Single-Host Lab](Project_018534/README.md) |
+| 018535 | [Kubernetes: Access Review — Usability Improvement for Single-Host Lab](Project_018535/README.md) |
+| 018536 | [Kubernetes: Access Review — Baseline Setup for Two-Node Lab](Project_018536/README.md) |
+| 018537 | [Kubernetes: Access Review — Automation for Two-Node Lab](Project_018537/README.md) |
+| 018538 | [Kubernetes: Access Review — Recovery for Two-Node Lab](Project_018538/README.md) |
+| 018539 | [Kubernetes: Access Review — Reporting for Two-Node Lab](Project_018539/README.md) |
+| 018540 | [Kubernetes: Access Review — Usability Improvement for Two-Node Lab](Project_018540/README.md) |
 
 [Back to the portfolio home](../README.md)
