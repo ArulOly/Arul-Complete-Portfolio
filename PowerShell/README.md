@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040158 | [PowerShell: Log Analysis — Recovery for Small Business](Project_040158/README.md) |
 | 040159 | [PowerShell: Log Analysis — Reporting for Small Business](Project_040159/README.md) |
 | 040160 | [PowerShell: Log Analysis — Usability Improvement for Small Business](Project_040160/README.md) |
+| 040161 | [PowerShell: Log Analysis — Baseline Setup for Home Development](Project_040161/README.md) |
+| 040162 | [PowerShell: Log Analysis — Automation for Home Development](Project_040162/README.md) |
+| 040163 | [PowerShell: Log Analysis — Recovery for Home Development](Project_040163/README.md) |
+| 040164 | [PowerShell: Log Analysis — Reporting for Home Development](Project_040164/README.md) |
+| 040165 | [PowerShell: Log Analysis — Usability Improvement for Home Development](Project_040165/README.md) |
+| 040166 | [PowerShell: Log Analysis — Baseline Setup for Public Dataset](Project_040166/README.md) |
+| 040167 | [PowerShell: Log Analysis — Automation for Public Dataset](Project_040167/README.md) |
+| 040168 | [PowerShell: Log Analysis — Recovery for Public Dataset](Project_040168/README.md) |
+| 040169 | [PowerShell: Log Analysis — Reporting for Public Dataset](Project_040169/README.md) |
+| 040170 | [PowerShell: Log Analysis — Usability Improvement for Public Dataset](Project_040170/README.md) |
+| 040171 | [PowerShell: Log Analysis — Baseline Setup for Branch Office Simulator](Project_040171/README.md) |
+| 040172 | [PowerShell: Log Analysis — Automation for Branch Office Simulator](Project_040172/README.md) |
+| 040173 | [PowerShell: Log Analysis — Recovery for Branch Office Simulator](Project_040173/README.md) |
+| 040174 | [PowerShell: Log Analysis — Reporting for Branch Office Simulator](Project_040174/README.md) |
+| 040175 | [PowerShell: Log Analysis — Usability Improvement for Branch Office Simulator](Project_040175/README.md) |
+| 040176 | [PowerShell: Log Analysis — Baseline Setup for Offline Classroom](Project_040176/README.md) |
+| 040177 | [PowerShell: Log Analysis — Automation for Offline Classroom](Project_040177/README.md) |
+| 040178 | [PowerShell: Log Analysis — Recovery for Offline Classroom](Project_040178/README.md) |
+| 040179 | [PowerShell: Log Analysis — Reporting for Offline Classroom](Project_040179/README.md) |
+| 040180 | [PowerShell: Log Analysis — Usability Improvement for Offline Classroom](Project_040180/README.md) |
 
 [Back to the portfolio home](../README.md)
