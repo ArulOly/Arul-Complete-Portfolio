@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041218 | [Nginx: Backup Verification — Recovery for Public Dataset](Project_041218/README.md) |
 | 041219 | [Nginx: Backup Verification — Reporting for Public Dataset](Project_041219/README.md) |
 | 041220 | [Nginx: Backup Verification — Usability Improvement for Public Dataset](Project_041220/README.md) |
+| 041221 | [Nginx: Backup Verification — Baseline Setup for Branch Office Simulator](Project_041221/README.md) |
+| 041222 | [Nginx: Backup Verification — Automation for Branch Office Simulator](Project_041222/README.md) |
+| 041223 | [Nginx: Backup Verification — Recovery for Branch Office Simulator](Project_041223/README.md) |
+| 041224 | [Nginx: Backup Verification — Reporting for Branch Office Simulator](Project_041224/README.md) |
+| 041225 | [Nginx: Backup Verification — Usability Improvement for Branch Office Simulator](Project_041225/README.md) |
+| 041226 | [Nginx: Backup Verification — Baseline Setup for Offline Classroom](Project_041226/README.md) |
+| 041227 | [Nginx: Backup Verification — Automation for Offline Classroom](Project_041227/README.md) |
+| 041228 | [Nginx: Backup Verification — Recovery for Offline Classroom](Project_041228/README.md) |
+| 041229 | [Nginx: Backup Verification — Reporting for Offline Classroom](Project_041229/README.md) |
+| 041230 | [Nginx: Backup Verification — Usability Improvement for Offline Classroom](Project_041230/README.md) |
+| 041231 | [Nginx: Backup Verification — Baseline Setup for Single-Host Lab](Project_041231/README.md) |
+| 041232 | [Nginx: Backup Verification — Automation for Single-Host Lab](Project_041232/README.md) |
+| 041233 | [Nginx: Backup Verification — Recovery for Single-Host Lab](Project_041233/README.md) |
+| 041234 | [Nginx: Backup Verification — Reporting for Single-Host Lab](Project_041234/README.md) |
+| 041235 | [Nginx: Backup Verification — Usability Improvement for Single-Host Lab](Project_041235/README.md) |
+| 041236 | [Nginx: Backup Verification — Baseline Setup for Two-Node Lab](Project_041236/README.md) |
+| 041237 | [Nginx: Backup Verification — Automation for Two-Node Lab](Project_041237/README.md) |
+| 041238 | [Nginx: Backup Verification — Recovery for Two-Node Lab](Project_041238/README.md) |
+| 041239 | [Nginx: Backup Verification — Reporting for Two-Node Lab](Project_041239/README.md) |
+| 041240 | [Nginx: Backup Verification — Usability Improvement for Two-Node Lab](Project_041240/README.md) |
 
 [Back to the portfolio home](../README.md)
