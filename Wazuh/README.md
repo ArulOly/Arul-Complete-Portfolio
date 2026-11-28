@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030718 | [Wazuh: Error Handling — Recovery for Public Dataset](Project_030718/README.md) |
 | 030719 | [Wazuh: Error Handling — Reporting for Public Dataset](Project_030719/README.md) |
 | 030720 | [Wazuh: Error Handling — Usability Improvement for Public Dataset](Project_030720/README.md) |
+| 030721 | [Wazuh: Error Handling — Baseline Setup for Branch Office Simulator](Project_030721/README.md) |
+| 030722 | [Wazuh: Error Handling — Automation for Branch Office Simulator](Project_030722/README.md) |
+| 030723 | [Wazuh: Error Handling — Recovery for Branch Office Simulator](Project_030723/README.md) |
+| 030724 | [Wazuh: Error Handling — Reporting for Branch Office Simulator](Project_030724/README.md) |
+| 030725 | [Wazuh: Error Handling — Usability Improvement for Branch Office Simulator](Project_030725/README.md) |
+| 030726 | [Wazuh: Error Handling — Baseline Setup for Offline Classroom](Project_030726/README.md) |
+| 030727 | [Wazuh: Error Handling — Automation for Offline Classroom](Project_030727/README.md) |
+| 030728 | [Wazuh: Error Handling — Recovery for Offline Classroom](Project_030728/README.md) |
+| 030729 | [Wazuh: Error Handling — Reporting for Offline Classroom](Project_030729/README.md) |
+| 030730 | [Wazuh: Error Handling — Usability Improvement for Offline Classroom](Project_030730/README.md) |
+| 030731 | [Wazuh: Error Handling — Baseline Setup for Single-Host Lab](Project_030731/README.md) |
+| 030732 | [Wazuh: Error Handling — Automation for Single-Host Lab](Project_030732/README.md) |
+| 030733 | [Wazuh: Error Handling — Recovery for Single-Host Lab](Project_030733/README.md) |
+| 030734 | [Wazuh: Error Handling — Reporting for Single-Host Lab](Project_030734/README.md) |
+| 030735 | [Wazuh: Error Handling — Usability Improvement for Single-Host Lab](Project_030735/README.md) |
+| 030736 | [Wazuh: Error Handling — Baseline Setup for Two-Node Lab](Project_030736/README.md) |
+| 030737 | [Wazuh: Error Handling — Automation for Two-Node Lab](Project_030737/README.md) |
+| 030738 | [Wazuh: Error Handling — Recovery for Two-Node Lab](Project_030738/README.md) |
+| 030739 | [Wazuh: Error Handling — Reporting for Two-Node Lab](Project_030739/README.md) |
+| 030740 | [Wazuh: Error Handling — Usability Improvement for Two-Node Lab](Project_030740/README.md) |
 
 [Back to the portfolio home](../README.md)
