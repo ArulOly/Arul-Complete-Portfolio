@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039558 | [Bash: Performance Baseline — Recovery for Small Business](Project_039558/README.md) |
 | 039559 | [Bash: Performance Baseline — Reporting for Small Business](Project_039559/README.md) |
 | 039560 | [Bash: Performance Baseline — Usability Improvement for Small Business](Project_039560/README.md) |
+| 039561 | [Bash: Performance Baseline — Baseline Setup for Home Development](Project_039561/README.md) |
+| 039562 | [Bash: Performance Baseline — Automation for Home Development](Project_039562/README.md) |
+| 039563 | [Bash: Performance Baseline — Recovery for Home Development](Project_039563/README.md) |
+| 039564 | [Bash: Performance Baseline — Reporting for Home Development](Project_039564/README.md) |
+| 039565 | [Bash: Performance Baseline — Usability Improvement for Home Development](Project_039565/README.md) |
+| 039566 | [Bash: Performance Baseline — Baseline Setup for Public Dataset](Project_039566/README.md) |
+| 039567 | [Bash: Performance Baseline — Automation for Public Dataset](Project_039567/README.md) |
+| 039568 | [Bash: Performance Baseline — Recovery for Public Dataset](Project_039568/README.md) |
+| 039569 | [Bash: Performance Baseline — Reporting for Public Dataset](Project_039569/README.md) |
+| 039570 | [Bash: Performance Baseline — Usability Improvement for Public Dataset](Project_039570/README.md) |
+| 039571 | [Bash: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_039571/README.md) |
+| 039572 | [Bash: Performance Baseline — Automation for Branch Office Simulator](Project_039572/README.md) |
+| 039573 | [Bash: Performance Baseline — Recovery for Branch Office Simulator](Project_039573/README.md) |
+| 039574 | [Bash: Performance Baseline — Reporting for Branch Office Simulator](Project_039574/README.md) |
+| 039575 | [Bash: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_039575/README.md) |
+| 039576 | [Bash: Performance Baseline — Baseline Setup for Offline Classroom](Project_039576/README.md) |
+| 039577 | [Bash: Performance Baseline — Automation for Offline Classroom](Project_039577/README.md) |
+| 039578 | [Bash: Performance Baseline — Recovery for Offline Classroom](Project_039578/README.md) |
+| 039579 | [Bash: Performance Baseline — Reporting for Offline Classroom](Project_039579/README.md) |
+| 039580 | [Bash: Performance Baseline — Usability Improvement for Offline Classroom](Project_039580/README.md) |
 
 [Back to the portfolio home](../README.md)
