@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043338 | [Grafana: Data Export — Recovery for Two-Node Lab](Project_043338/README.md) |
 | 043339 | [Grafana: Data Export — Reporting for Two-Node Lab](Project_043339/README.md) |
 | 043340 | [Grafana: Data Export — Usability Improvement for Two-Node Lab](Project_043340/README.md) |
+| 043341 | [Grafana: Data Export — Baseline Setup for Help Desk](Project_043341/README.md) |
+| 043342 | [Grafana: Data Export — Automation for Help Desk](Project_043342/README.md) |
+| 043343 | [Grafana: Data Export — Recovery for Help Desk](Project_043343/README.md) |
+| 043344 | [Grafana: Data Export — Reporting for Help Desk](Project_043344/README.md) |
+| 043345 | [Grafana: Data Export — Usability Improvement for Help Desk](Project_043345/README.md) |
+| 043346 | [Grafana: Data Export — Baseline Setup for Portfolio Demo](Project_043346/README.md) |
+| 043347 | [Grafana: Data Export — Automation for Portfolio Demo](Project_043347/README.md) |
+| 043348 | [Grafana: Data Export — Recovery for Portfolio Demo](Project_043348/README.md) |
+| 043349 | [Grafana: Data Export — Reporting for Portfolio Demo](Project_043349/README.md) |
+| 043350 | [Grafana: Data Export — Usability Improvement for Portfolio Demo](Project_043350/README.md) |
+| 043351 | [Grafana: Dashboard — Baseline Setup for School Lab](Project_043351/README.md) |
+| 043352 | [Grafana: Dashboard — Automation for School Lab](Project_043352/README.md) |
+| 043353 | [Grafana: Dashboard — Recovery for School Lab](Project_043353/README.md) |
+| 043354 | [Grafana: Dashboard — Reporting for School Lab](Project_043354/README.md) |
+| 043355 | [Grafana: Dashboard — Usability Improvement for School Lab](Project_043355/README.md) |
+| 043356 | [Grafana: Dashboard — Baseline Setup for Small Business](Project_043356/README.md) |
+| 043357 | [Grafana: Dashboard — Automation for Small Business](Project_043357/README.md) |
+| 043358 | [Grafana: Dashboard — Recovery for Small Business](Project_043358/README.md) |
+| 043359 | [Grafana: Dashboard — Reporting for Small Business](Project_043359/README.md) |
+| 043360 | [Grafana: Dashboard — Usability Improvement for Small Business](Project_043360/README.md) |
 
 [Back to the portfolio home](../README.md)
