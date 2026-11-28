@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043958 | [Grafana: Recovery Test — Recovery for Small Business](Project_043958/README.md) |
 | 043959 | [Grafana: Recovery Test — Reporting for Small Business](Project_043959/README.md) |
 | 043960 | [Grafana: Recovery Test — Usability Improvement for Small Business](Project_043960/README.md) |
+| 043961 | [Grafana: Recovery Test — Baseline Setup for Home Development](Project_043961/README.md) |
+| 043962 | [Grafana: Recovery Test — Automation for Home Development](Project_043962/README.md) |
+| 043963 | [Grafana: Recovery Test — Recovery for Home Development](Project_043963/README.md) |
+| 043964 | [Grafana: Recovery Test — Reporting for Home Development](Project_043964/README.md) |
+| 043965 | [Grafana: Recovery Test — Usability Improvement for Home Development](Project_043965/README.md) |
+| 043966 | [Grafana: Recovery Test — Baseline Setup for Public Dataset](Project_043966/README.md) |
+| 043967 | [Grafana: Recovery Test — Automation for Public Dataset](Project_043967/README.md) |
+| 043968 | [Grafana: Recovery Test — Recovery for Public Dataset](Project_043968/README.md) |
+| 043969 | [Grafana: Recovery Test — Reporting for Public Dataset](Project_043969/README.md) |
+| 043970 | [Grafana: Recovery Test — Usability Improvement for Public Dataset](Project_043970/README.md) |
+| 043971 | [Grafana: Recovery Test — Baseline Setup for Branch Office Simulator](Project_043971/README.md) |
+| 043972 | [Grafana: Recovery Test — Automation for Branch Office Simulator](Project_043972/README.md) |
+| 043973 | [Grafana: Recovery Test — Recovery for Branch Office Simulator](Project_043973/README.md) |
+| 043974 | [Grafana: Recovery Test — Reporting for Branch Office Simulator](Project_043974/README.md) |
+| 043975 | [Grafana: Recovery Test — Usability Improvement for Branch Office Simulator](Project_043975/README.md) |
+| 043976 | [Grafana: Recovery Test — Baseline Setup for Offline Classroom](Project_043976/README.md) |
+| 043977 | [Grafana: Recovery Test — Automation for Offline Classroom](Project_043977/README.md) |
+| 043978 | [Grafana: Recovery Test — Recovery for Offline Classroom](Project_043978/README.md) |
+| 043979 | [Grafana: Recovery Test — Reporting for Offline Classroom](Project_043979/README.md) |
+| 043980 | [Grafana: Recovery Test — Usability Improvement for Offline Classroom](Project_043980/README.md) |
 
 [Back to the portfolio home](../README.md)
