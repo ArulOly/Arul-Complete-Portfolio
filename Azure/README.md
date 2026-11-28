@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015278 | [Azure: Data Import — Recovery for Offline Classroom](Project_015278/README.md) |
 | 015279 | [Azure: Data Import — Reporting for Offline Classroom](Project_015279/README.md) |
 | 015280 | [Azure: Data Import — Usability Improvement for Offline Classroom](Project_015280/README.md) |
+| 015281 | [Azure: Data Import — Baseline Setup for Single-Host Lab](Project_015281/README.md) |
+| 015282 | [Azure: Data Import — Automation for Single-Host Lab](Project_015282/README.md) |
+| 015283 | [Azure: Data Import — Recovery for Single-Host Lab](Project_015283/README.md) |
+| 015284 | [Azure: Data Import — Reporting for Single-Host Lab](Project_015284/README.md) |
+| 015285 | [Azure: Data Import — Usability Improvement for Single-Host Lab](Project_015285/README.md) |
+| 015286 | [Azure: Data Import — Baseline Setup for Two-Node Lab](Project_015286/README.md) |
+| 015287 | [Azure: Data Import — Automation for Two-Node Lab](Project_015287/README.md) |
+| 015288 | [Azure: Data Import — Recovery for Two-Node Lab](Project_015288/README.md) |
+| 015289 | [Azure: Data Import — Reporting for Two-Node Lab](Project_015289/README.md) |
+| 015290 | [Azure: Data Import — Usability Improvement for Two-Node Lab](Project_015290/README.md) |
+| 015291 | [Azure: Data Import — Baseline Setup for Help Desk](Project_015291/README.md) |
+| 015292 | [Azure: Data Import — Automation for Help Desk](Project_015292/README.md) |
+| 015293 | [Azure: Data Import — Recovery for Help Desk](Project_015293/README.md) |
+| 015294 | [Azure: Data Import — Reporting for Help Desk](Project_015294/README.md) |
+| 015295 | [Azure: Data Import — Usability Improvement for Help Desk](Project_015295/README.md) |
+| 015296 | [Azure: Data Import — Baseline Setup for Portfolio Demo](Project_015296/README.md) |
+| 015297 | [Azure: Data Import — Automation for Portfolio Demo](Project_015297/README.md) |
+| 015298 | [Azure: Data Import — Recovery for Portfolio Demo](Project_015298/README.md) |
+| 015299 | [Azure: Data Import — Reporting for Portfolio Demo](Project_015299/README.md) |
+| 015300 | [Azure: Data Import — Usability Improvement for Portfolio Demo](Project_015300/README.md) |
 
 [Back to the portfolio home](../README.md)
