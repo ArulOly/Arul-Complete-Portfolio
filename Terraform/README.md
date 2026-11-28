@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046318 | [Terraform: Data Export — Recovery for Public Dataset](Project_046318/README.md) |
 | 046319 | [Terraform: Data Export — Reporting for Public Dataset](Project_046319/README.md) |
 | 046320 | [Terraform: Data Export — Usability Improvement for Public Dataset](Project_046320/README.md) |
+| 046321 | [Terraform: Data Export — Baseline Setup for Branch Office Simulator](Project_046321/README.md) |
+| 046322 | [Terraform: Data Export — Automation for Branch Office Simulator](Project_046322/README.md) |
+| 046323 | [Terraform: Data Export — Recovery for Branch Office Simulator](Project_046323/README.md) |
+| 046324 | [Terraform: Data Export — Reporting for Branch Office Simulator](Project_046324/README.md) |
+| 046325 | [Terraform: Data Export — Usability Improvement for Branch Office Simulator](Project_046325/README.md) |
+| 046326 | [Terraform: Data Export — Baseline Setup for Offline Classroom](Project_046326/README.md) |
+| 046327 | [Terraform: Data Export — Automation for Offline Classroom](Project_046327/README.md) |
+| 046328 | [Terraform: Data Export — Recovery for Offline Classroom](Project_046328/README.md) |
+| 046329 | [Terraform: Data Export — Reporting for Offline Classroom](Project_046329/README.md) |
+| 046330 | [Terraform: Data Export — Usability Improvement for Offline Classroom](Project_046330/README.md) |
+| 046331 | [Terraform: Data Export — Baseline Setup for Single-Host Lab](Project_046331/README.md) |
+| 046332 | [Terraform: Data Export — Automation for Single-Host Lab](Project_046332/README.md) |
+| 046333 | [Terraform: Data Export — Recovery for Single-Host Lab](Project_046333/README.md) |
+| 046334 | [Terraform: Data Export — Reporting for Single-Host Lab](Project_046334/README.md) |
+| 046335 | [Terraform: Data Export — Usability Improvement for Single-Host Lab](Project_046335/README.md) |
+| 046336 | [Terraform: Data Export — Baseline Setup for Two-Node Lab](Project_046336/README.md) |
+| 046337 | [Terraform: Data Export — Automation for Two-Node Lab](Project_046337/README.md) |
+| 046338 | [Terraform: Data Export — Recovery for Two-Node Lab](Project_046338/README.md) |
+| 046339 | [Terraform: Data Export — Reporting for Two-Node Lab](Project_046339/README.md) |
+| 046340 | [Terraform: Data Export — Usability Improvement for Two-Node Lab](Project_046340/README.md) |
 
 [Back to the portfolio home](../README.md)
