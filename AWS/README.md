@@ -37,18 +37,6 @@ Amazon S3 event format, Python, JSON, and offline fixture-based testing.
 
 Save the embedded Python block and JSON sample, then run the documented command locally. The provider event and object storage are simulated.
 
-## Test screenshots
-
-These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
-
-![Selected local AWS event simulation](Evidence/project-014001-baseline.png)
-
-- [Project 014001 · Inventory baseline](Project_014001/README.md) · [Screenshot](Evidence/project-014001-baseline.png)
-- [Project 014152 · Log analysis with one rejected batch row](Project_014152/README.md) · [Screenshot](Evidence/project-014152-automation.png)
-- [Project 014953 · Recovery Test using the saved fallback](Project_014953/README.md) · [Screenshot](Evidence/project-014953-recovery.png)
-- [Project 014554 · Performance baseline report](Project_014554/README.md) · [Screenshot](Evidence/project-014554-reporting.png)
-- [Project 014905 · Readable visual report](Project_014905/README.md) · [Screenshot](Evidence/project-014905-usability.png)
-
 ## Project index
 
 | Project ID | Project title |

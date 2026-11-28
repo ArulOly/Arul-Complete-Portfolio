@@ -179,10 +179,6 @@ Actual tests ran on a FreeBSD 14.2 virtual machine. The platform command returne
 }
 ```
 
-Captured terminal run on FreeBSD 14.2 virtual machine using the synthetic fixture shown above.
-
-![Recovery Test using the saved fallback on FreeBSD](../Evidence/project-005953-recovery.png)
-
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.
