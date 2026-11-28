@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036838 | [ESP32: Documentation Generation — Recovery for Two-Node Lab](Project_036838/README.md) |
 | 036839 | [ESP32: Documentation Generation — Reporting for Two-Node Lab](Project_036839/README.md) |
 | 036840 | [ESP32: Documentation Generation — Usability Improvement for Two-Node Lab](Project_036840/README.md) |
+| 036841 | [ESP32: Documentation Generation — Baseline Setup for Help Desk](Project_036841/README.md) |
+| 036842 | [ESP32: Documentation Generation — Automation for Help Desk](Project_036842/README.md) |
+| 036843 | [ESP32: Documentation Generation — Recovery for Help Desk](Project_036843/README.md) |
+| 036844 | [ESP32: Documentation Generation — Reporting for Help Desk](Project_036844/README.md) |
+| 036845 | [ESP32: Documentation Generation — Usability Improvement for Help Desk](Project_036845/README.md) |
+| 036846 | [ESP32: Documentation Generation — Baseline Setup for Portfolio Demo](Project_036846/README.md) |
+| 036847 | [ESP32: Documentation Generation — Automation for Portfolio Demo](Project_036847/README.md) |
+| 036848 | [ESP32: Documentation Generation — Recovery for Portfolio Demo](Project_036848/README.md) |
+| 036849 | [ESP32: Documentation Generation — Reporting for Portfolio Demo](Project_036849/README.md) |
+| 036850 | [ESP32: Documentation Generation — Usability Improvement for Portfolio Demo](Project_036850/README.md) |
+| 036851 | [ESP32: Automation — Baseline Setup for School Lab](Project_036851/README.md) |
+| 036852 | [ESP32: Automation — Automation for School Lab](Project_036852/README.md) |
+| 036853 | [ESP32: Automation — Recovery for School Lab](Project_036853/README.md) |
+| 036854 | [ESP32: Automation — Reporting for School Lab](Project_036854/README.md) |
+| 036855 | [ESP32: Automation — Usability Improvement for School Lab](Project_036855/README.md) |
+| 036856 | [ESP32: Automation — Baseline Setup for Small Business](Project_036856/README.md) |
+| 036857 | [ESP32: Automation — Automation for Small Business](Project_036857/README.md) |
+| 036858 | [ESP32: Automation — Recovery for Small Business](Project_036858/README.md) |
+| 036859 | [ESP32: Automation — Reporting for Small Business](Project_036859/README.md) |
+| 036860 | [ESP32: Automation — Usability Improvement for Small Business](Project_036860/README.md) |
 
 [Back to the portfolio home](../README.md)
