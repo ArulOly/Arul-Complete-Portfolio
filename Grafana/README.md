@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043378 | [Grafana: Dashboard — Recovery for Offline Classroom](Project_043378/README.md) |
 | 043379 | [Grafana: Dashboard — Reporting for Offline Classroom](Project_043379/README.md) |
 | 043380 | [Grafana: Dashboard — Usability Improvement for Offline Classroom](Project_043380/README.md) |
+| 043381 | [Grafana: Dashboard — Baseline Setup for Single-Host Lab](Project_043381/README.md) |
+| 043382 | [Grafana: Dashboard — Automation for Single-Host Lab](Project_043382/README.md) |
+| 043383 | [Grafana: Dashboard — Recovery for Single-Host Lab](Project_043383/README.md) |
+| 043384 | [Grafana: Dashboard — Reporting for Single-Host Lab](Project_043384/README.md) |
+| 043385 | [Grafana: Dashboard — Usability Improvement for Single-Host Lab](Project_043385/README.md) |
+| 043386 | [Grafana: Dashboard — Baseline Setup for Two-Node Lab](Project_043386/README.md) |
+| 043387 | [Grafana: Dashboard — Automation for Two-Node Lab](Project_043387/README.md) |
+| 043388 | [Grafana: Dashboard — Recovery for Two-Node Lab](Project_043388/README.md) |
+| 043389 | [Grafana: Dashboard — Reporting for Two-Node Lab](Project_043389/README.md) |
+| 043390 | [Grafana: Dashboard — Usability Improvement for Two-Node Lab](Project_043390/README.md) |
+| 043391 | [Grafana: Dashboard — Baseline Setup for Help Desk](Project_043391/README.md) |
+| 043392 | [Grafana: Dashboard — Automation for Help Desk](Project_043392/README.md) |
+| 043393 | [Grafana: Dashboard — Recovery for Help Desk](Project_043393/README.md) |
+| 043394 | [Grafana: Dashboard — Reporting for Help Desk](Project_043394/README.md) |
+| 043395 | [Grafana: Dashboard — Usability Improvement for Help Desk](Project_043395/README.md) |
+| 043396 | [Grafana: Dashboard — Baseline Setup for Portfolio Demo](Project_043396/README.md) |
+| 043397 | [Grafana: Dashboard — Automation for Portfolio Demo](Project_043397/README.md) |
+| 043398 | [Grafana: Dashboard — Recovery for Portfolio Demo](Project_043398/README.md) |
+| 043399 | [Grafana: Dashboard — Reporting for Portfolio Demo](Project_043399/README.md) |
+| 043400 | [Grafana: Dashboard — Usability Improvement for Portfolio Demo](Project_043400/README.md) |
 
 [Back to the portfolio home](../README.md)
