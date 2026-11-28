@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046398 | [Terraform: Dashboard — Recovery for Portfolio Demo](Project_046398/README.md) |
 | 046399 | [Terraform: Dashboard — Reporting for Portfolio Demo](Project_046399/README.md) |
 | 046400 | [Terraform: Dashboard — Usability Improvement for Portfolio Demo](Project_046400/README.md) |
+| 046401 | [Terraform: Alerting — Baseline Setup for School Lab](Project_046401/README.md) |
+| 046402 | [Terraform: Alerting — Automation for School Lab](Project_046402/README.md) |
+| 046403 | [Terraform: Alerting — Recovery for School Lab](Project_046403/README.md) |
+| 046404 | [Terraform: Alerting — Reporting for School Lab](Project_046404/README.md) |
+| 046405 | [Terraform: Alerting — Usability Improvement for School Lab](Project_046405/README.md) |
+| 046406 | [Terraform: Alerting — Baseline Setup for Small Business](Project_046406/README.md) |
+| 046407 | [Terraform: Alerting — Automation for Small Business](Project_046407/README.md) |
+| 046408 | [Terraform: Alerting — Recovery for Small Business](Project_046408/README.md) |
+| 046409 | [Terraform: Alerting — Reporting for Small Business](Project_046409/README.md) |
+| 046410 | [Terraform: Alerting — Usability Improvement for Small Business](Project_046410/README.md) |
+| 046411 | [Terraform: Alerting — Baseline Setup for Home Development](Project_046411/README.md) |
+| 046412 | [Terraform: Alerting — Automation for Home Development](Project_046412/README.md) |
+| 046413 | [Terraform: Alerting — Recovery for Home Development](Project_046413/README.md) |
+| 046414 | [Terraform: Alerting — Reporting for Home Development](Project_046414/README.md) |
+| 046415 | [Terraform: Alerting — Usability Improvement for Home Development](Project_046415/README.md) |
+| 046416 | [Terraform: Alerting — Baseline Setup for Public Dataset](Project_046416/README.md) |
+| 046417 | [Terraform: Alerting — Automation for Public Dataset](Project_046417/README.md) |
+| 046418 | [Terraform: Alerting — Recovery for Public Dataset](Project_046418/README.md) |
+| 046419 | [Terraform: Alerting — Reporting for Public Dataset](Project_046419/README.md) |
+| 046420 | [Terraform: Alerting — Usability Improvement for Public Dataset](Project_046420/README.md) |
 
 [Back to the portfolio home](../README.md)
