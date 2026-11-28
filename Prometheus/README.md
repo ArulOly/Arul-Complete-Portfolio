@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044258 | [Prometheus: Data Import — Recovery for Small Business](Project_044258/README.md) |
 | 044259 | [Prometheus: Data Import — Reporting for Small Business](Project_044259/README.md) |
 | 044260 | [Prometheus: Data Import — Usability Improvement for Small Business](Project_044260/README.md) |
+| 044261 | [Prometheus: Data Import — Baseline Setup for Home Development](Project_044261/README.md) |
+| 044262 | [Prometheus: Data Import — Automation for Home Development](Project_044262/README.md) |
+| 044263 | [Prometheus: Data Import — Recovery for Home Development](Project_044263/README.md) |
+| 044264 | [Prometheus: Data Import — Reporting for Home Development](Project_044264/README.md) |
+| 044265 | [Prometheus: Data Import — Usability Improvement for Home Development](Project_044265/README.md) |
+| 044266 | [Prometheus: Data Import — Baseline Setup for Public Dataset](Project_044266/README.md) |
+| 044267 | [Prometheus: Data Import — Automation for Public Dataset](Project_044267/README.md) |
+| 044268 | [Prometheus: Data Import — Recovery for Public Dataset](Project_044268/README.md) |
+| 044269 | [Prometheus: Data Import — Reporting for Public Dataset](Project_044269/README.md) |
+| 044270 | [Prometheus: Data Import — Usability Improvement for Public Dataset](Project_044270/README.md) |
+| 044271 | [Prometheus: Data Import — Baseline Setup for Branch Office Simulator](Project_044271/README.md) |
+| 044272 | [Prometheus: Data Import — Automation for Branch Office Simulator](Project_044272/README.md) |
+| 044273 | [Prometheus: Data Import — Recovery for Branch Office Simulator](Project_044273/README.md) |
+| 044274 | [Prometheus: Data Import — Reporting for Branch Office Simulator](Project_044274/README.md) |
+| 044275 | [Prometheus: Data Import — Usability Improvement for Branch Office Simulator](Project_044275/README.md) |
+| 044276 | [Prometheus: Data Import — Baseline Setup for Offline Classroom](Project_044276/README.md) |
+| 044277 | [Prometheus: Data Import — Automation for Offline Classroom](Project_044277/README.md) |
+| 044278 | [Prometheus: Data Import — Recovery for Offline Classroom](Project_044278/README.md) |
+| 044279 | [Prometheus: Data Import — Reporting for Offline Classroom](Project_044279/README.md) |
+| 044280 | [Prometheus: Data Import — Usability Improvement for Offline Classroom](Project_044280/README.md) |
 
 [Back to the portfolio home](../README.md)
