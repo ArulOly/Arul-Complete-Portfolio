@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014198 | [AWS: Log Analysis — Recovery for Portfolio Demo](Project_014198/README.md) |
 | 014199 | [AWS: Log Analysis — Reporting for Portfolio Demo](Project_014199/README.md) |
 | 014200 | [AWS: Log Analysis — Usability Improvement for Portfolio Demo](Project_014200/README.md) |
+| 014201 | [AWS: Backup Verification — Baseline Setup for School Lab](Project_014201/README.md) |
+| 014202 | [AWS: Backup Verification — Automation for School Lab](Project_014202/README.md) |
+| 014203 | [AWS: Backup Verification — Recovery for School Lab](Project_014203/README.md) |
+| 014204 | [AWS: Backup Verification — Reporting for School Lab](Project_014204/README.md) |
+| 014205 | [AWS: Backup Verification — Usability Improvement for School Lab](Project_014205/README.md) |
+| 014206 | [AWS: Backup Verification — Baseline Setup for Small Business](Project_014206/README.md) |
+| 014207 | [AWS: Backup Verification — Automation for Small Business](Project_014207/README.md) |
+| 014208 | [AWS: Backup Verification — Recovery for Small Business](Project_014208/README.md) |
+| 014209 | [AWS: Backup Verification — Reporting for Small Business](Project_014209/README.md) |
+| 014210 | [AWS: Backup Verification — Usability Improvement for Small Business](Project_014210/README.md) |
+| 014211 | [AWS: Backup Verification — Baseline Setup for Home Development](Project_014211/README.md) |
+| 014212 | [AWS: Backup Verification — Automation for Home Development](Project_014212/README.md) |
+| 014213 | [AWS: Backup Verification — Recovery for Home Development](Project_014213/README.md) |
+| 014214 | [AWS: Backup Verification — Reporting for Home Development](Project_014214/README.md) |
+| 014215 | [AWS: Backup Verification — Usability Improvement for Home Development](Project_014215/README.md) |
+| 014216 | [AWS: Backup Verification — Baseline Setup for Public Dataset](Project_014216/README.md) |
+| 014217 | [AWS: Backup Verification — Automation for Public Dataset](Project_014217/README.md) |
+| 014218 | [AWS: Backup Verification — Recovery for Public Dataset](Project_014218/README.md) |
+| 014219 | [AWS: Backup Verification — Reporting for Public Dataset](Project_014219/README.md) |
+| 014220 | [AWS: Backup Verification — Usability Improvement for Public Dataset](Project_014220/README.md) |
 
 [Back to the portfolio home](../README.md)
