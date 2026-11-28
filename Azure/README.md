@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015938 | [Azure: Visual Reporting — Recovery for Two-Node Lab](Project_015938/README.md) |
 | 015939 | [Azure: Visual Reporting — Reporting for Two-Node Lab](Project_015939/README.md) |
 | 015940 | [Azure: Visual Reporting — Usability Improvement for Two-Node Lab](Project_015940/README.md) |
+| 015941 | [Azure: Visual Reporting — Baseline Setup for Help Desk](Project_015941/README.md) |
+| 015942 | [Azure: Visual Reporting — Automation for Help Desk](Project_015942/README.md) |
+| 015943 | [Azure: Visual Reporting — Recovery for Help Desk](Project_015943/README.md) |
+| 015944 | [Azure: Visual Reporting — Reporting for Help Desk](Project_015944/README.md) |
+| 015945 | [Azure: Visual Reporting — Usability Improvement for Help Desk](Project_015945/README.md) |
+| 015946 | [Azure: Visual Reporting — Baseline Setup for Portfolio Demo](Project_015946/README.md) |
+| 015947 | [Azure: Visual Reporting — Automation for Portfolio Demo](Project_015947/README.md) |
+| 015948 | [Azure: Visual Reporting — Recovery for Portfolio Demo](Project_015948/README.md) |
+| 015949 | [Azure: Visual Reporting — Reporting for Portfolio Demo](Project_015949/README.md) |
+| 015950 | [Azure: Visual Reporting — Usability Improvement for Portfolio Demo](Project_015950/README.md) |
+| 015951 | [Azure: Recovery Test — Baseline Setup for School Lab](Project_015951/README.md) |
+| 015952 | [Azure: Recovery Test — Automation for School Lab](Project_015952/README.md) |
+| 015953 | [Azure: Recovery Test — Recovery for School Lab](Project_015953/README.md) |
+| 015954 | [Azure: Recovery Test — Reporting for School Lab](Project_015954/README.md) |
+| 015955 | [Azure: Recovery Test — Usability Improvement for School Lab](Project_015955/README.md) |
+| 015956 | [Azure: Recovery Test — Baseline Setup for Small Business](Project_015956/README.md) |
+| 015957 | [Azure: Recovery Test — Automation for Small Business](Project_015957/README.md) |
+| 015958 | [Azure: Recovery Test — Recovery for Small Business](Project_015958/README.md) |
+| 015959 | [Azure: Recovery Test — Reporting for Small Business](Project_015959/README.md) |
+| 015960 | [Azure: Recovery Test — Usability Improvement for Small Business](Project_015960/README.md) |
 
 [Back to the portfolio home](../README.md)
