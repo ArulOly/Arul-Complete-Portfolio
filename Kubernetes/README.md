@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018178 | [Kubernetes: Log Analysis — Recovery for Offline Classroom](Project_018178/README.md) |
 | 018179 | [Kubernetes: Log Analysis — Reporting for Offline Classroom](Project_018179/README.md) |
 | 018180 | [Kubernetes: Log Analysis — Usability Improvement for Offline Classroom](Project_018180/README.md) |
+| 018181 | [Kubernetes: Log Analysis — Baseline Setup for Single-Host Lab](Project_018181/README.md) |
+| 018182 | [Kubernetes: Log Analysis — Automation for Single-Host Lab](Project_018182/README.md) |
+| 018183 | [Kubernetes: Log Analysis — Recovery for Single-Host Lab](Project_018183/README.md) |
+| 018184 | [Kubernetes: Log Analysis — Reporting for Single-Host Lab](Project_018184/README.md) |
+| 018185 | [Kubernetes: Log Analysis — Usability Improvement for Single-Host Lab](Project_018185/README.md) |
+| 018186 | [Kubernetes: Log Analysis — Baseline Setup for Two-Node Lab](Project_018186/README.md) |
+| 018187 | [Kubernetes: Log Analysis — Automation for Two-Node Lab](Project_018187/README.md) |
+| 018188 | [Kubernetes: Log Analysis — Recovery for Two-Node Lab](Project_018188/README.md) |
+| 018189 | [Kubernetes: Log Analysis — Reporting for Two-Node Lab](Project_018189/README.md) |
+| 018190 | [Kubernetes: Log Analysis — Usability Improvement for Two-Node Lab](Project_018190/README.md) |
+| 018191 | [Kubernetes: Log Analysis — Baseline Setup for Help Desk](Project_018191/README.md) |
+| 018192 | [Kubernetes: Log Analysis — Automation for Help Desk](Project_018192/README.md) |
+| 018193 | [Kubernetes: Log Analysis — Recovery for Help Desk](Project_018193/README.md) |
+| 018194 | [Kubernetes: Log Analysis — Reporting for Help Desk](Project_018194/README.md) |
+| 018195 | [Kubernetes: Log Analysis — Usability Improvement for Help Desk](Project_018195/README.md) |
+| 018196 | [Kubernetes: Log Analysis — Baseline Setup for Portfolio Demo](Project_018196/README.md) |
+| 018197 | [Kubernetes: Log Analysis — Automation for Portfolio Demo](Project_018197/README.md) |
+| 018198 | [Kubernetes: Log Analysis — Recovery for Portfolio Demo](Project_018198/README.md) |
+| 018199 | [Kubernetes: Log Analysis — Reporting for Portfolio Demo](Project_018199/README.md) |
+| 018200 | [Kubernetes: Log Analysis — Usability Improvement for Portfolio Demo](Project_018200/README.md) |
 
 [Back to the portfolio home](../README.md)
