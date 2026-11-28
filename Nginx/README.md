@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041478 | [Nginx: Scheduled Reporting — Recovery for Offline Classroom](Project_041478/README.md) |
 | 041479 | [Nginx: Scheduled Reporting — Reporting for Offline Classroom](Project_041479/README.md) |
 | 041480 | [Nginx: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_041480/README.md) |
+| 041481 | [Nginx: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_041481/README.md) |
+| 041482 | [Nginx: Scheduled Reporting — Automation for Single-Host Lab](Project_041482/README.md) |
+| 041483 | [Nginx: Scheduled Reporting — Recovery for Single-Host Lab](Project_041483/README.md) |
+| 041484 | [Nginx: Scheduled Reporting — Reporting for Single-Host Lab](Project_041484/README.md) |
+| 041485 | [Nginx: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_041485/README.md) |
+| 041486 | [Nginx: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_041486/README.md) |
+| 041487 | [Nginx: Scheduled Reporting — Automation for Two-Node Lab](Project_041487/README.md) |
+| 041488 | [Nginx: Scheduled Reporting — Recovery for Two-Node Lab](Project_041488/README.md) |
+| 041489 | [Nginx: Scheduled Reporting — Reporting for Two-Node Lab](Project_041489/README.md) |
+| 041490 | [Nginx: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_041490/README.md) |
+| 041491 | [Nginx: Scheduled Reporting — Baseline Setup for Help Desk](Project_041491/README.md) |
+| 041492 | [Nginx: Scheduled Reporting — Automation for Help Desk](Project_041492/README.md) |
+| 041493 | [Nginx: Scheduled Reporting — Recovery for Help Desk](Project_041493/README.md) |
+| 041494 | [Nginx: Scheduled Reporting — Reporting for Help Desk](Project_041494/README.md) |
+| 041495 | [Nginx: Scheduled Reporting — Usability Improvement for Help Desk](Project_041495/README.md) |
+| 041496 | [Nginx: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_041496/README.md) |
+| 041497 | [Nginx: Scheduled Reporting — Automation for Portfolio Demo](Project_041497/README.md) |
+| 041498 | [Nginx: Scheduled Reporting — Recovery for Portfolio Demo](Project_041498/README.md) |
+| 041499 | [Nginx: Scheduled Reporting — Reporting for Portfolio Demo](Project_041499/README.md) |
+| 041500 | [Nginx: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_041500/README.md) |
 
 [Back to the portfolio home](../README.md)
