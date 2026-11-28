@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043638 | [Grafana: Service Check — Recovery for Two-Node Lab](Project_043638/README.md) |
 | 043639 | [Grafana: Service Check — Reporting for Two-Node Lab](Project_043639/README.md) |
 | 043640 | [Grafana: Service Check — Usability Improvement for Two-Node Lab](Project_043640/README.md) |
+| 043641 | [Grafana: Service Check — Baseline Setup for Help Desk](Project_043641/README.md) |
+| 043642 | [Grafana: Service Check — Automation for Help Desk](Project_043642/README.md) |
+| 043643 | [Grafana: Service Check — Recovery for Help Desk](Project_043643/README.md) |
+| 043644 | [Grafana: Service Check — Reporting for Help Desk](Project_043644/README.md) |
+| 043645 | [Grafana: Service Check — Usability Improvement for Help Desk](Project_043645/README.md) |
+| 043646 | [Grafana: Service Check — Baseline Setup for Portfolio Demo](Project_043646/README.md) |
+| 043647 | [Grafana: Service Check — Automation for Portfolio Demo](Project_043647/README.md) |
+| 043648 | [Grafana: Service Check — Recovery for Portfolio Demo](Project_043648/README.md) |
+| 043649 | [Grafana: Service Check — Reporting for Portfolio Demo](Project_043649/README.md) |
+| 043650 | [Grafana: Service Check — Usability Improvement for Portfolio Demo](Project_043650/README.md) |
+| 043651 | [Grafana: Configuration Comparison — Baseline Setup for School Lab](Project_043651/README.md) |
+| 043652 | [Grafana: Configuration Comparison — Automation for School Lab](Project_043652/README.md) |
+| 043653 | [Grafana: Configuration Comparison — Recovery for School Lab](Project_043653/README.md) |
+| 043654 | [Grafana: Configuration Comparison — Reporting for School Lab](Project_043654/README.md) |
+| 043655 | [Grafana: Configuration Comparison — Usability Improvement for School Lab](Project_043655/README.md) |
+| 043656 | [Grafana: Configuration Comparison — Baseline Setup for Small Business](Project_043656/README.md) |
+| 043657 | [Grafana: Configuration Comparison — Automation for Small Business](Project_043657/README.md) |
+| 043658 | [Grafana: Configuration Comparison — Recovery for Small Business](Project_043658/README.md) |
+| 043659 | [Grafana: Configuration Comparison — Reporting for Small Business](Project_043659/README.md) |
+| 043660 | [Grafana: Configuration Comparison — Usability Improvement for Small Business](Project_043660/README.md) |
 
 [Back to the portfolio home](../README.md)
