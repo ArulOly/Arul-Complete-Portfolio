@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035718 | [Raspberry Pi: Error Handling — Recovery for Public Dataset](Project_035718/README.md) |
 | 035719 | [Raspberry Pi: Error Handling — Reporting for Public Dataset](Project_035719/README.md) |
 | 035720 | [Raspberry Pi: Error Handling — Usability Improvement for Public Dataset](Project_035720/README.md) |
+| 035721 | [Raspberry Pi: Error Handling — Baseline Setup for Branch Office Simulator](Project_035721/README.md) |
+| 035722 | [Raspberry Pi: Error Handling — Automation for Branch Office Simulator](Project_035722/README.md) |
+| 035723 | [Raspberry Pi: Error Handling — Recovery for Branch Office Simulator](Project_035723/README.md) |
+| 035724 | [Raspberry Pi: Error Handling — Reporting for Branch Office Simulator](Project_035724/README.md) |
+| 035725 | [Raspberry Pi: Error Handling — Usability Improvement for Branch Office Simulator](Project_035725/README.md) |
+| 035726 | [Raspberry Pi: Error Handling — Baseline Setup for Offline Classroom](Project_035726/README.md) |
+| 035727 | [Raspberry Pi: Error Handling — Automation for Offline Classroom](Project_035727/README.md) |
+| 035728 | [Raspberry Pi: Error Handling — Recovery for Offline Classroom](Project_035728/README.md) |
+| 035729 | [Raspberry Pi: Error Handling — Reporting for Offline Classroom](Project_035729/README.md) |
+| 035730 | [Raspberry Pi: Error Handling — Usability Improvement for Offline Classroom](Project_035730/README.md) |
+| 035731 | [Raspberry Pi: Error Handling — Baseline Setup for Single-Host Lab](Project_035731/README.md) |
+| 035732 | [Raspberry Pi: Error Handling — Automation for Single-Host Lab](Project_035732/README.md) |
+| 035733 | [Raspberry Pi: Error Handling — Recovery for Single-Host Lab](Project_035733/README.md) |
+| 035734 | [Raspberry Pi: Error Handling — Reporting for Single-Host Lab](Project_035734/README.md) |
+| 035735 | [Raspberry Pi: Error Handling — Usability Improvement for Single-Host Lab](Project_035735/README.md) |
+| 035736 | [Raspberry Pi: Error Handling — Baseline Setup for Two-Node Lab](Project_035736/README.md) |
+| 035737 | [Raspberry Pi: Error Handling — Automation for Two-Node Lab](Project_035737/README.md) |
+| 035738 | [Raspberry Pi: Error Handling — Recovery for Two-Node Lab](Project_035738/README.md) |
+| 035739 | [Raspberry Pi: Error Handling — Reporting for Two-Node Lab](Project_035739/README.md) |
+| 035740 | [Raspberry Pi: Error Handling — Usability Improvement for Two-Node Lab](Project_035740/README.md) |
 
 [Back to the portfolio home](../README.md)
