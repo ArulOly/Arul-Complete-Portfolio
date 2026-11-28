@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015338 | [Azure: Data Export — Recovery for Two-Node Lab](Project_015338/README.md) |
 | 015339 | [Azure: Data Export — Reporting for Two-Node Lab](Project_015339/README.md) |
 | 015340 | [Azure: Data Export — Usability Improvement for Two-Node Lab](Project_015340/README.md) |
+| 015341 | [Azure: Data Export — Baseline Setup for Help Desk](Project_015341/README.md) |
+| 015342 | [Azure: Data Export — Automation for Help Desk](Project_015342/README.md) |
+| 015343 | [Azure: Data Export — Recovery for Help Desk](Project_015343/README.md) |
+| 015344 | [Azure: Data Export — Reporting for Help Desk](Project_015344/README.md) |
+| 015345 | [Azure: Data Export — Usability Improvement for Help Desk](Project_015345/README.md) |
+| 015346 | [Azure: Data Export — Baseline Setup for Portfolio Demo](Project_015346/README.md) |
+| 015347 | [Azure: Data Export — Automation for Portfolio Demo](Project_015347/README.md) |
+| 015348 | [Azure: Data Export — Recovery for Portfolio Demo](Project_015348/README.md) |
+| 015349 | [Azure: Data Export — Reporting for Portfolio Demo](Project_015349/README.md) |
+| 015350 | [Azure: Data Export — Usability Improvement for Portfolio Demo](Project_015350/README.md) |
+| 015351 | [Azure: Dashboard — Baseline Setup for School Lab](Project_015351/README.md) |
+| 015352 | [Azure: Dashboard — Automation for School Lab](Project_015352/README.md) |
+| 015353 | [Azure: Dashboard — Recovery for School Lab](Project_015353/README.md) |
+| 015354 | [Azure: Dashboard — Reporting for School Lab](Project_015354/README.md) |
+| 015355 | [Azure: Dashboard — Usability Improvement for School Lab](Project_015355/README.md) |
+| 015356 | [Azure: Dashboard — Baseline Setup for Small Business](Project_015356/README.md) |
+| 015357 | [Azure: Dashboard — Automation for Small Business](Project_015357/README.md) |
+| 015358 | [Azure: Dashboard — Recovery for Small Business](Project_015358/README.md) |
+| 015359 | [Azure: Dashboard — Reporting for Small Business](Project_015359/README.md) |
+| 015360 | [Azure: Dashboard — Usability Improvement for Small Business](Project_015360/README.md) |
 
 [Back to the portfolio home](../README.md)
