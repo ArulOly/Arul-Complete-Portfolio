@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035638 | [Raspberry Pi: Service Check — Recovery for Two-Node Lab](Project_035638/README.md) |
 | 035639 | [Raspberry Pi: Service Check — Reporting for Two-Node Lab](Project_035639/README.md) |
 | 035640 | [Raspberry Pi: Service Check — Usability Improvement for Two-Node Lab](Project_035640/README.md) |
+| 035641 | [Raspberry Pi: Service Check — Baseline Setup for Help Desk](Project_035641/README.md) |
+| 035642 | [Raspberry Pi: Service Check — Automation for Help Desk](Project_035642/README.md) |
+| 035643 | [Raspberry Pi: Service Check — Recovery for Help Desk](Project_035643/README.md) |
+| 035644 | [Raspberry Pi: Service Check — Reporting for Help Desk](Project_035644/README.md) |
+| 035645 | [Raspberry Pi: Service Check — Usability Improvement for Help Desk](Project_035645/README.md) |
+| 035646 | [Raspberry Pi: Service Check — Baseline Setup for Portfolio Demo](Project_035646/README.md) |
+| 035647 | [Raspberry Pi: Service Check — Automation for Portfolio Demo](Project_035647/README.md) |
+| 035648 | [Raspberry Pi: Service Check — Recovery for Portfolio Demo](Project_035648/README.md) |
+| 035649 | [Raspberry Pi: Service Check — Reporting for Portfolio Demo](Project_035649/README.md) |
+| 035650 | [Raspberry Pi: Service Check — Usability Improvement for Portfolio Demo](Project_035650/README.md) |
+| 035651 | [Raspberry Pi: Configuration Comparison — Baseline Setup for School Lab](Project_035651/README.md) |
+| 035652 | [Raspberry Pi: Configuration Comparison — Automation for School Lab](Project_035652/README.md) |
+| 035653 | [Raspberry Pi: Configuration Comparison — Recovery for School Lab](Project_035653/README.md) |
+| 035654 | [Raspberry Pi: Configuration Comparison — Reporting for School Lab](Project_035654/README.md) |
+| 035655 | [Raspberry Pi: Configuration Comparison — Usability Improvement for School Lab](Project_035655/README.md) |
+| 035656 | [Raspberry Pi: Configuration Comparison — Baseline Setup for Small Business](Project_035656/README.md) |
+| 035657 | [Raspberry Pi: Configuration Comparison — Automation for Small Business](Project_035657/README.md) |
+| 035658 | [Raspberry Pi: Configuration Comparison — Recovery for Small Business](Project_035658/README.md) |
+| 035659 | [Raspberry Pi: Configuration Comparison — Reporting for Small Business](Project_035659/README.md) |
+| 035660 | [Raspberry Pi: Configuration Comparison — Usability Improvement for Small Business](Project_035660/README.md) |
 
 [Back to the portfolio home](../README.md)
