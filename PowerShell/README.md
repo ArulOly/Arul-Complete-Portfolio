@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040878 | [PowerShell: Automation — Recovery for Offline Classroom](Project_040878/README.md) |
 | 040879 | [PowerShell: Automation — Reporting for Offline Classroom](Project_040879/README.md) |
 | 040880 | [PowerShell: Automation — Usability Improvement for Offline Classroom](Project_040880/README.md) |
+| 040881 | [PowerShell: Automation — Baseline Setup for Single-Host Lab](Project_040881/README.md) |
+| 040882 | [PowerShell: Automation — Automation for Single-Host Lab](Project_040882/README.md) |
+| 040883 | [PowerShell: Automation — Recovery for Single-Host Lab](Project_040883/README.md) |
+| 040884 | [PowerShell: Automation — Reporting for Single-Host Lab](Project_040884/README.md) |
+| 040885 | [PowerShell: Automation — Usability Improvement for Single-Host Lab](Project_040885/README.md) |
+| 040886 | [PowerShell: Automation — Baseline Setup for Two-Node Lab](Project_040886/README.md) |
+| 040887 | [PowerShell: Automation — Automation for Two-Node Lab](Project_040887/README.md) |
+| 040888 | [PowerShell: Automation — Recovery for Two-Node Lab](Project_040888/README.md) |
+| 040889 | [PowerShell: Automation — Reporting for Two-Node Lab](Project_040889/README.md) |
+| 040890 | [PowerShell: Automation — Usability Improvement for Two-Node Lab](Project_040890/README.md) |
+| 040891 | [PowerShell: Automation — Baseline Setup for Help Desk](Project_040891/README.md) |
+| 040892 | [PowerShell: Automation — Automation for Help Desk](Project_040892/README.md) |
+| 040893 | [PowerShell: Automation — Recovery for Help Desk](Project_040893/README.md) |
+| 040894 | [PowerShell: Automation — Reporting for Help Desk](Project_040894/README.md) |
+| 040895 | [PowerShell: Automation — Usability Improvement for Help Desk](Project_040895/README.md) |
+| 040896 | [PowerShell: Automation — Baseline Setup for Portfolio Demo](Project_040896/README.md) |
+| 040897 | [PowerShell: Automation — Automation for Portfolio Demo](Project_040897/README.md) |
+| 040898 | [PowerShell: Automation — Recovery for Portfolio Demo](Project_040898/README.md) |
+| 040899 | [PowerShell: Automation — Reporting for Portfolio Demo](Project_040899/README.md) |
+| 040900 | [PowerShell: Automation — Usability Improvement for Portfolio Demo](Project_040900/README.md) |
 
 [Back to the portfolio home](../README.md)
