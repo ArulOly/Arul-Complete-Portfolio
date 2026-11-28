@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014758 | [AWS: Data Validation — Recovery for Small Business](Project_014758/README.md) |
 | 014759 | [AWS: Data Validation — Reporting for Small Business](Project_014759/README.md) |
 | 014760 | [AWS: Data Validation — Usability Improvement for Small Business](Project_014760/README.md) |
+| 014761 | [AWS: Data Validation — Baseline Setup for Home Development](Project_014761/README.md) |
+| 014762 | [AWS: Data Validation — Automation for Home Development](Project_014762/README.md) |
+| 014763 | [AWS: Data Validation — Recovery for Home Development](Project_014763/README.md) |
+| 014764 | [AWS: Data Validation — Reporting for Home Development](Project_014764/README.md) |
+| 014765 | [AWS: Data Validation — Usability Improvement for Home Development](Project_014765/README.md) |
+| 014766 | [AWS: Data Validation — Baseline Setup for Public Dataset](Project_014766/README.md) |
+| 014767 | [AWS: Data Validation — Automation for Public Dataset](Project_014767/README.md) |
+| 014768 | [AWS: Data Validation — Recovery for Public Dataset](Project_014768/README.md) |
+| 014769 | [AWS: Data Validation — Reporting for Public Dataset](Project_014769/README.md) |
+| 014770 | [AWS: Data Validation — Usability Improvement for Public Dataset](Project_014770/README.md) |
+| 014771 | [AWS: Data Validation — Baseline Setup for Branch Office Simulator](Project_014771/README.md) |
+| 014772 | [AWS: Data Validation — Automation for Branch Office Simulator](Project_014772/README.md) |
+| 014773 | [AWS: Data Validation — Recovery for Branch Office Simulator](Project_014773/README.md) |
+| 014774 | [AWS: Data Validation — Reporting for Branch Office Simulator](Project_014774/README.md) |
+| 014775 | [AWS: Data Validation — Usability Improvement for Branch Office Simulator](Project_014775/README.md) |
+| 014776 | [AWS: Data Validation — Baseline Setup for Offline Classroom](Project_014776/README.md) |
+| 014777 | [AWS: Data Validation — Automation for Offline Classroom](Project_014777/README.md) |
+| 014778 | [AWS: Data Validation — Recovery for Offline Classroom](Project_014778/README.md) |
+| 014779 | [AWS: Data Validation — Reporting for Offline Classroom](Project_014779/README.md) |
+| 014780 | [AWS: Data Validation — Usability Improvement for Offline Classroom](Project_014780/README.md) |
 
 [Back to the portfolio home](../README.md)
