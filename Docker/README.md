@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017518 | [Docker: Access Review — Recovery for Public Dataset](Project_017518/README.md) |
 | 017519 | [Docker: Access Review — Reporting for Public Dataset](Project_017519/README.md) |
 | 017520 | [Docker: Access Review — Usability Improvement for Public Dataset](Project_017520/README.md) |
+| 017521 | [Docker: Access Review — Baseline Setup for Branch Office Simulator](Project_017521/README.md) |
+| 017522 | [Docker: Access Review — Automation for Branch Office Simulator](Project_017522/README.md) |
+| 017523 | [Docker: Access Review — Recovery for Branch Office Simulator](Project_017523/README.md) |
+| 017524 | [Docker: Access Review — Reporting for Branch Office Simulator](Project_017524/README.md) |
+| 017525 | [Docker: Access Review — Usability Improvement for Branch Office Simulator](Project_017525/README.md) |
+| 017526 | [Docker: Access Review — Baseline Setup for Offline Classroom](Project_017526/README.md) |
+| 017527 | [Docker: Access Review — Automation for Offline Classroom](Project_017527/README.md) |
+| 017528 | [Docker: Access Review — Recovery for Offline Classroom](Project_017528/README.md) |
+| 017529 | [Docker: Access Review — Reporting for Offline Classroom](Project_017529/README.md) |
+| 017530 | [Docker: Access Review — Usability Improvement for Offline Classroom](Project_017530/README.md) |
+| 017531 | [Docker: Access Review — Baseline Setup for Single-Host Lab](Project_017531/README.md) |
+| 017532 | [Docker: Access Review — Automation for Single-Host Lab](Project_017532/README.md) |
+| 017533 | [Docker: Access Review — Recovery for Single-Host Lab](Project_017533/README.md) |
+| 017534 | [Docker: Access Review — Reporting for Single-Host Lab](Project_017534/README.md) |
+| 017535 | [Docker: Access Review — Usability Improvement for Single-Host Lab](Project_017535/README.md) |
+| 017536 | [Docker: Access Review — Baseline Setup for Two-Node Lab](Project_017536/README.md) |
+| 017537 | [Docker: Access Review — Automation for Two-Node Lab](Project_017537/README.md) |
+| 017538 | [Docker: Access Review — Recovery for Two-Node Lab](Project_017538/README.md) |
+| 017539 | [Docker: Access Review — Reporting for Two-Node Lab](Project_017539/README.md) |
+| 017540 | [Docker: Access Review — Usability Improvement for Two-Node Lab](Project_017540/README.md) |
 
 [Back to the portfolio home](../README.md)
