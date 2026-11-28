@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039958 | [Bash: Recovery Test — Recovery for Small Business](Project_039958/README.md) |
 | 039959 | [Bash: Recovery Test — Reporting for Small Business](Project_039959/README.md) |
 | 039960 | [Bash: Recovery Test — Usability Improvement for Small Business](Project_039960/README.md) |
+| 039961 | [Bash: Recovery Test — Baseline Setup for Home Development](Project_039961/README.md) |
+| 039962 | [Bash: Recovery Test — Automation for Home Development](Project_039962/README.md) |
+| 039963 | [Bash: Recovery Test — Recovery for Home Development](Project_039963/README.md) |
+| 039964 | [Bash: Recovery Test — Reporting for Home Development](Project_039964/README.md) |
+| 039965 | [Bash: Recovery Test — Usability Improvement for Home Development](Project_039965/README.md) |
+| 039966 | [Bash: Recovery Test — Baseline Setup for Public Dataset](Project_039966/README.md) |
+| 039967 | [Bash: Recovery Test — Automation for Public Dataset](Project_039967/README.md) |
+| 039968 | [Bash: Recovery Test — Recovery for Public Dataset](Project_039968/README.md) |
+| 039969 | [Bash: Recovery Test — Reporting for Public Dataset](Project_039969/README.md) |
+| 039970 | [Bash: Recovery Test — Usability Improvement for Public Dataset](Project_039970/README.md) |
+| 039971 | [Bash: Recovery Test — Baseline Setup for Branch Office Simulator](Project_039971/README.md) |
+| 039972 | [Bash: Recovery Test — Automation for Branch Office Simulator](Project_039972/README.md) |
+| 039973 | [Bash: Recovery Test — Recovery for Branch Office Simulator](Project_039973/README.md) |
+| 039974 | [Bash: Recovery Test — Reporting for Branch Office Simulator](Project_039974/README.md) |
+| 039975 | [Bash: Recovery Test — Usability Improvement for Branch Office Simulator](Project_039975/README.md) |
+| 039976 | [Bash: Recovery Test — Baseline Setup for Offline Classroom](Project_039976/README.md) |
+| 039977 | [Bash: Recovery Test — Automation for Offline Classroom](Project_039977/README.md) |
+| 039978 | [Bash: Recovery Test — Recovery for Offline Classroom](Project_039978/README.md) |
+| 039979 | [Bash: Recovery Test — Reporting for Offline Classroom](Project_039979/README.md) |
+| 039980 | [Bash: Recovery Test — Usability Improvement for Offline Classroom](Project_039980/README.md) |
 
 [Back to the portfolio home](../README.md)
