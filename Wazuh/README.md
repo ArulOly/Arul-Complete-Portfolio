@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030578 | [Wazuh: Performance Baseline — Recovery for Offline Classroom](Project_030578/README.md) |
 | 030579 | [Wazuh: Performance Baseline — Reporting for Offline Classroom](Project_030579/README.md) |
 | 030580 | [Wazuh: Performance Baseline — Usability Improvement for Offline Classroom](Project_030580/README.md) |
+| 030581 | [Wazuh: Performance Baseline — Baseline Setup for Single-Host Lab](Project_030581/README.md) |
+| 030582 | [Wazuh: Performance Baseline — Automation for Single-Host Lab](Project_030582/README.md) |
+| 030583 | [Wazuh: Performance Baseline — Recovery for Single-Host Lab](Project_030583/README.md) |
+| 030584 | [Wazuh: Performance Baseline — Reporting for Single-Host Lab](Project_030584/README.md) |
+| 030585 | [Wazuh: Performance Baseline — Usability Improvement for Single-Host Lab](Project_030585/README.md) |
+| 030586 | [Wazuh: Performance Baseline — Baseline Setup for Two-Node Lab](Project_030586/README.md) |
+| 030587 | [Wazuh: Performance Baseline — Automation for Two-Node Lab](Project_030587/README.md) |
+| 030588 | [Wazuh: Performance Baseline — Recovery for Two-Node Lab](Project_030588/README.md) |
+| 030589 | [Wazuh: Performance Baseline — Reporting for Two-Node Lab](Project_030589/README.md) |
+| 030590 | [Wazuh: Performance Baseline — Usability Improvement for Two-Node Lab](Project_030590/README.md) |
+| 030591 | [Wazuh: Performance Baseline — Baseline Setup for Help Desk](Project_030591/README.md) |
+| 030592 | [Wazuh: Performance Baseline — Automation for Help Desk](Project_030592/README.md) |
+| 030593 | [Wazuh: Performance Baseline — Recovery for Help Desk](Project_030593/README.md) |
+| 030594 | [Wazuh: Performance Baseline — Reporting for Help Desk](Project_030594/README.md) |
+| 030595 | [Wazuh: Performance Baseline — Usability Improvement for Help Desk](Project_030595/README.md) |
+| 030596 | [Wazuh: Performance Baseline — Baseline Setup for Portfolio Demo](Project_030596/README.md) |
+| 030597 | [Wazuh: Performance Baseline — Automation for Portfolio Demo](Project_030597/README.md) |
+| 030598 | [Wazuh: Performance Baseline — Recovery for Portfolio Demo](Project_030598/README.md) |
+| 030599 | [Wazuh: Performance Baseline — Reporting for Portfolio Demo](Project_030599/README.md) |
+| 030600 | [Wazuh: Performance Baseline — Usability Improvement for Portfolio Demo](Project_030600/README.md) |
 
 [Back to the portfolio home](../README.md)
