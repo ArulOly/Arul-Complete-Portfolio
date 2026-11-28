@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035398 | [Raspberry Pi: Dashboard — Recovery for Portfolio Demo](Project_035398/README.md) |
 | 035399 | [Raspberry Pi: Dashboard — Reporting for Portfolio Demo](Project_035399/README.md) |
 | 035400 | [Raspberry Pi: Dashboard — Usability Improvement for Portfolio Demo](Project_035400/README.md) |
+| 035401 | [Raspberry Pi: Alerting — Baseline Setup for School Lab](Project_035401/README.md) |
+| 035402 | [Raspberry Pi: Alerting — Automation for School Lab](Project_035402/README.md) |
+| 035403 | [Raspberry Pi: Alerting — Recovery for School Lab](Project_035403/README.md) |
+| 035404 | [Raspberry Pi: Alerting — Reporting for School Lab](Project_035404/README.md) |
+| 035405 | [Raspberry Pi: Alerting — Usability Improvement for School Lab](Project_035405/README.md) |
+| 035406 | [Raspberry Pi: Alerting — Baseline Setup for Small Business](Project_035406/README.md) |
+| 035407 | [Raspberry Pi: Alerting — Automation for Small Business](Project_035407/README.md) |
+| 035408 | [Raspberry Pi: Alerting — Recovery for Small Business](Project_035408/README.md) |
+| 035409 | [Raspberry Pi: Alerting — Reporting for Small Business](Project_035409/README.md) |
+| 035410 | [Raspberry Pi: Alerting — Usability Improvement for Small Business](Project_035410/README.md) |
+| 035411 | [Raspberry Pi: Alerting — Baseline Setup for Home Development](Project_035411/README.md) |
+| 035412 | [Raspberry Pi: Alerting — Automation for Home Development](Project_035412/README.md) |
+| 035413 | [Raspberry Pi: Alerting — Recovery for Home Development](Project_035413/README.md) |
+| 035414 | [Raspberry Pi: Alerting — Reporting for Home Development](Project_035414/README.md) |
+| 035415 | [Raspberry Pi: Alerting — Usability Improvement for Home Development](Project_035415/README.md) |
+| 035416 | [Raspberry Pi: Alerting — Baseline Setup for Public Dataset](Project_035416/README.md) |
+| 035417 | [Raspberry Pi: Alerting — Automation for Public Dataset](Project_035417/README.md) |
+| 035418 | [Raspberry Pi: Alerting — Recovery for Public Dataset](Project_035418/README.md) |
+| 035419 | [Raspberry Pi: Alerting — Reporting for Public Dataset](Project_035419/README.md) |
+| 035420 | [Raspberry Pi: Alerting — Usability Improvement for Public Dataset](Project_035420/README.md) |
 
 [Back to the portfolio home](../README.md)
