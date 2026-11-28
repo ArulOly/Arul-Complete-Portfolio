@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031098 | [Greenbone: Monitoring — Recovery for Portfolio Demo](Project_031098/README.md) |
 | 031099 | [Greenbone: Monitoring — Reporting for Portfolio Demo](Project_031099/README.md) |
 | 031100 | [Greenbone: Monitoring — Usability Improvement for Portfolio Demo](Project_031100/README.md) |
+| 031101 | [Greenbone: Audit — Baseline Setup for School Lab](Project_031101/README.md) |
+| 031102 | [Greenbone: Audit — Automation for School Lab](Project_031102/README.md) |
+| 031103 | [Greenbone: Audit — Recovery for School Lab](Project_031103/README.md) |
+| 031104 | [Greenbone: Audit — Reporting for School Lab](Project_031104/README.md) |
+| 031105 | [Greenbone: Audit — Usability Improvement for School Lab](Project_031105/README.md) |
+| 031106 | [Greenbone: Audit — Baseline Setup for Small Business](Project_031106/README.md) |
+| 031107 | [Greenbone: Audit — Automation for Small Business](Project_031107/README.md) |
+| 031108 | [Greenbone: Audit — Recovery for Small Business](Project_031108/README.md) |
+| 031109 | [Greenbone: Audit — Reporting for Small Business](Project_031109/README.md) |
+| 031110 | [Greenbone: Audit — Usability Improvement for Small Business](Project_031110/README.md) |
+| 031111 | [Greenbone: Audit — Baseline Setup for Home Development](Project_031111/README.md) |
+| 031112 | [Greenbone: Audit — Automation for Home Development](Project_031112/README.md) |
+| 031113 | [Greenbone: Audit — Recovery for Home Development](Project_031113/README.md) |
+| 031114 | [Greenbone: Audit — Reporting for Home Development](Project_031114/README.md) |
+| 031115 | [Greenbone: Audit — Usability Improvement for Home Development](Project_031115/README.md) |
+| 031116 | [Greenbone: Audit — Baseline Setup for Public Dataset](Project_031116/README.md) |
+| 031117 | [Greenbone: Audit — Automation for Public Dataset](Project_031117/README.md) |
+| 031118 | [Greenbone: Audit — Recovery for Public Dataset](Project_031118/README.md) |
+| 031119 | [Greenbone: Audit — Reporting for Public Dataset](Project_031119/README.md) |
+| 031120 | [Greenbone: Audit — Usability Improvement for Public Dataset](Project_031120/README.md) |
 
 [Back to the portfolio home](../README.md)
