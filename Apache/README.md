@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042018 | [Apache: Inventory — Recovery for Public Dataset](Project_042018/README.md) |
 | 042019 | [Apache: Inventory — Reporting for Public Dataset](Project_042019/README.md) |
 | 042020 | [Apache: Inventory — Usability Improvement for Public Dataset](Project_042020/README.md) |
+| 042021 | [Apache: Inventory — Baseline Setup for Branch Office Simulator](Project_042021/README.md) |
+| 042022 | [Apache: Inventory — Automation for Branch Office Simulator](Project_042022/README.md) |
+| 042023 | [Apache: Inventory — Recovery for Branch Office Simulator](Project_042023/README.md) |
+| 042024 | [Apache: Inventory — Reporting for Branch Office Simulator](Project_042024/README.md) |
+| 042025 | [Apache: Inventory — Usability Improvement for Branch Office Simulator](Project_042025/README.md) |
+| 042026 | [Apache: Inventory — Baseline Setup for Offline Classroom](Project_042026/README.md) |
+| 042027 | [Apache: Inventory — Automation for Offline Classroom](Project_042027/README.md) |
+| 042028 | [Apache: Inventory — Recovery for Offline Classroom](Project_042028/README.md) |
+| 042029 | [Apache: Inventory — Reporting for Offline Classroom](Project_042029/README.md) |
+| 042030 | [Apache: Inventory — Usability Improvement for Offline Classroom](Project_042030/README.md) |
+| 042031 | [Apache: Inventory — Baseline Setup for Single-Host Lab](Project_042031/README.md) |
+| 042032 | [Apache: Inventory — Automation for Single-Host Lab](Project_042032/README.md) |
+| 042033 | [Apache: Inventory — Recovery for Single-Host Lab](Project_042033/README.md) |
+| 042034 | [Apache: Inventory — Reporting for Single-Host Lab](Project_042034/README.md) |
+| 042035 | [Apache: Inventory — Usability Improvement for Single-Host Lab](Project_042035/README.md) |
+| 042036 | [Apache: Inventory — Baseline Setup for Two-Node Lab](Project_042036/README.md) |
+| 042037 | [Apache: Inventory — Automation for Two-Node Lab](Project_042037/README.md) |
+| 042038 | [Apache: Inventory — Recovery for Two-Node Lab](Project_042038/README.md) |
+| 042039 | [Apache: Inventory — Reporting for Two-Node Lab](Project_042039/README.md) |
+| 042040 | [Apache: Inventory — Usability Improvement for Two-Node Lab](Project_042040/README.md) |
 
 [Back to the portfolio home](../README.md)
