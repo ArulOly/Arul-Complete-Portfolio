@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 500
+**Projects documented** 520
 
 ## Project categories
 
@@ -541,5 +541,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042498 | [Apache: Scheduled Reporting — Recovery for Portfolio Demo](Project_042498/README.md) |
 | 042499 | [Apache: Scheduled Reporting — Reporting for Portfolio Demo](Project_042499/README.md) |
 | 042500 | [Apache: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_042500/README.md) |
+| 042501 | [Apache: Access Review — Baseline Setup for School Lab](Project_042501/README.md) |
+| 042502 | [Apache: Access Review — Automation for School Lab](Project_042502/README.md) |
+| 042503 | [Apache: Access Review — Recovery for School Lab](Project_042503/README.md) |
+| 042504 | [Apache: Access Review — Reporting for School Lab](Project_042504/README.md) |
+| 042505 | [Apache: Access Review — Usability Improvement for School Lab](Project_042505/README.md) |
+| 042506 | [Apache: Access Review — Baseline Setup for Small Business](Project_042506/README.md) |
+| 042507 | [Apache: Access Review — Automation for Small Business](Project_042507/README.md) |
+| 042508 | [Apache: Access Review — Recovery for Small Business](Project_042508/README.md) |
+| 042509 | [Apache: Access Review — Reporting for Small Business](Project_042509/README.md) |
+| 042510 | [Apache: Access Review — Usability Improvement for Small Business](Project_042510/README.md) |
+| 042511 | [Apache: Access Review — Baseline Setup for Home Development](Project_042511/README.md) |
+| 042512 | [Apache: Access Review — Automation for Home Development](Project_042512/README.md) |
+| 042513 | [Apache: Access Review — Recovery for Home Development](Project_042513/README.md) |
+| 042514 | [Apache: Access Review — Reporting for Home Development](Project_042514/README.md) |
+| 042515 | [Apache: Access Review — Usability Improvement for Home Development](Project_042515/README.md) |
+| 042516 | [Apache: Access Review — Baseline Setup for Public Dataset](Project_042516/README.md) |
+| 042517 | [Apache: Access Review — Automation for Public Dataset](Project_042517/README.md) |
+| 042518 | [Apache: Access Review — Recovery for Public Dataset](Project_042518/README.md) |
+| 042519 | [Apache: Access Review — Reporting for Public Dataset](Project_042519/README.md) |
+| 042520 | [Apache: Access Review — Usability Improvement for Public Dataset](Project_042520/README.md) |
 
 [Back to the portfolio home](../README.md)
