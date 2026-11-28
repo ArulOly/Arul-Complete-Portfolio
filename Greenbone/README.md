@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 680
+**Projects documented** 700
 
 ## Project categories
 
@@ -721,5 +721,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031678 | [Greenbone: Configuration Comparison — Recovery for Offline Classroom](Project_031678/README.md) |
 | 031679 | [Greenbone: Configuration Comparison — Reporting for Offline Classroom](Project_031679/README.md) |
 | 031680 | [Greenbone: Configuration Comparison — Usability Improvement for Offline Classroom](Project_031680/README.md) |
+| 031681 | [Greenbone: Configuration Comparison — Baseline Setup for Single-Host Lab](Project_031681/README.md) |
+| 031682 | [Greenbone: Configuration Comparison — Automation for Single-Host Lab](Project_031682/README.md) |
+| 031683 | [Greenbone: Configuration Comparison — Recovery for Single-Host Lab](Project_031683/README.md) |
+| 031684 | [Greenbone: Configuration Comparison — Reporting for Single-Host Lab](Project_031684/README.md) |
+| 031685 | [Greenbone: Configuration Comparison — Usability Improvement for Single-Host Lab](Project_031685/README.md) |
+| 031686 | [Greenbone: Configuration Comparison — Baseline Setup for Two-Node Lab](Project_031686/README.md) |
+| 031687 | [Greenbone: Configuration Comparison — Automation for Two-Node Lab](Project_031687/README.md) |
+| 031688 | [Greenbone: Configuration Comparison — Recovery for Two-Node Lab](Project_031688/README.md) |
+| 031689 | [Greenbone: Configuration Comparison — Reporting for Two-Node Lab](Project_031689/README.md) |
+| 031690 | [Greenbone: Configuration Comparison — Usability Improvement for Two-Node Lab](Project_031690/README.md) |
+| 031691 | [Greenbone: Configuration Comparison — Baseline Setup for Help Desk](Project_031691/README.md) |
+| 031692 | [Greenbone: Configuration Comparison — Automation for Help Desk](Project_031692/README.md) |
+| 031693 | [Greenbone: Configuration Comparison — Recovery for Help Desk](Project_031693/README.md) |
+| 031694 | [Greenbone: Configuration Comparison — Reporting for Help Desk](Project_031694/README.md) |
+| 031695 | [Greenbone: Configuration Comparison — Usability Improvement for Help Desk](Project_031695/README.md) |
+| 031696 | [Greenbone: Configuration Comparison — Baseline Setup for Portfolio Demo](Project_031696/README.md) |
+| 031697 | [Greenbone: Configuration Comparison — Automation for Portfolio Demo](Project_031697/README.md) |
+| 031698 | [Greenbone: Configuration Comparison — Recovery for Portfolio Demo](Project_031698/README.md) |
+| 031699 | [Greenbone: Configuration Comparison — Reporting for Portfolio Demo](Project_031699/README.md) |
+| 031700 | [Greenbone: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_031700/README.md) |
 
 [Back to the portfolio home](../README.md)
