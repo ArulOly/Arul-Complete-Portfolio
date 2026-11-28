@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040718 | [PowerShell: Error Handling — Recovery for Public Dataset](Project_040718/README.md) |
 | 040719 | [PowerShell: Error Handling — Reporting for Public Dataset](Project_040719/README.md) |
 | 040720 | [PowerShell: Error Handling — Usability Improvement for Public Dataset](Project_040720/README.md) |
+| 040721 | [PowerShell: Error Handling — Baseline Setup for Branch Office Simulator](Project_040721/README.md) |
+| 040722 | [PowerShell: Error Handling — Automation for Branch Office Simulator](Project_040722/README.md) |
+| 040723 | [PowerShell: Error Handling — Recovery for Branch Office Simulator](Project_040723/README.md) |
+| 040724 | [PowerShell: Error Handling — Reporting for Branch Office Simulator](Project_040724/README.md) |
+| 040725 | [PowerShell: Error Handling — Usability Improvement for Branch Office Simulator](Project_040725/README.md) |
+| 040726 | [PowerShell: Error Handling — Baseline Setup for Offline Classroom](Project_040726/README.md) |
+| 040727 | [PowerShell: Error Handling — Automation for Offline Classroom](Project_040727/README.md) |
+| 040728 | [PowerShell: Error Handling — Recovery for Offline Classroom](Project_040728/README.md) |
+| 040729 | [PowerShell: Error Handling — Reporting for Offline Classroom](Project_040729/README.md) |
+| 040730 | [PowerShell: Error Handling — Usability Improvement for Offline Classroom](Project_040730/README.md) |
+| 040731 | [PowerShell: Error Handling — Baseline Setup for Single-Host Lab](Project_040731/README.md) |
+| 040732 | [PowerShell: Error Handling — Automation for Single-Host Lab](Project_040732/README.md) |
+| 040733 | [PowerShell: Error Handling — Recovery for Single-Host Lab](Project_040733/README.md) |
+| 040734 | [PowerShell: Error Handling — Reporting for Single-Host Lab](Project_040734/README.md) |
+| 040735 | [PowerShell: Error Handling — Usability Improvement for Single-Host Lab](Project_040735/README.md) |
+| 040736 | [PowerShell: Error Handling — Baseline Setup for Two-Node Lab](Project_040736/README.md) |
+| 040737 | [PowerShell: Error Handling — Automation for Two-Node Lab](Project_040737/README.md) |
+| 040738 | [PowerShell: Error Handling — Recovery for Two-Node Lab](Project_040738/README.md) |
+| 040739 | [PowerShell: Error Handling — Reporting for Two-Node Lab](Project_040739/README.md) |
+| 040740 | [PowerShell: Error Handling — Usability Improvement for Two-Node Lab](Project_040740/README.md) |
 
 [Back to the portfolio home](../README.md)
