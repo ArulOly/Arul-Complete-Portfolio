@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041558 | [Nginx: Performance Baseline — Recovery for Small Business](Project_041558/README.md) |
 | 041559 | [Nginx: Performance Baseline — Reporting for Small Business](Project_041559/README.md) |
 | 041560 | [Nginx: Performance Baseline — Usability Improvement for Small Business](Project_041560/README.md) |
+| 041561 | [Nginx: Performance Baseline — Baseline Setup for Home Development](Project_041561/README.md) |
+| 041562 | [Nginx: Performance Baseline — Automation for Home Development](Project_041562/README.md) |
+| 041563 | [Nginx: Performance Baseline — Recovery for Home Development](Project_041563/README.md) |
+| 041564 | [Nginx: Performance Baseline — Reporting for Home Development](Project_041564/README.md) |
+| 041565 | [Nginx: Performance Baseline — Usability Improvement for Home Development](Project_041565/README.md) |
+| 041566 | [Nginx: Performance Baseline — Baseline Setup for Public Dataset](Project_041566/README.md) |
+| 041567 | [Nginx: Performance Baseline — Automation for Public Dataset](Project_041567/README.md) |
+| 041568 | [Nginx: Performance Baseline — Recovery for Public Dataset](Project_041568/README.md) |
+| 041569 | [Nginx: Performance Baseline — Reporting for Public Dataset](Project_041569/README.md) |
+| 041570 | [Nginx: Performance Baseline — Usability Improvement for Public Dataset](Project_041570/README.md) |
+| 041571 | [Nginx: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_041571/README.md) |
+| 041572 | [Nginx: Performance Baseline — Automation for Branch Office Simulator](Project_041572/README.md) |
+| 041573 | [Nginx: Performance Baseline — Recovery for Branch Office Simulator](Project_041573/README.md) |
+| 041574 | [Nginx: Performance Baseline — Reporting for Branch Office Simulator](Project_041574/README.md) |
+| 041575 | [Nginx: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_041575/README.md) |
+| 041576 | [Nginx: Performance Baseline — Baseline Setup for Offline Classroom](Project_041576/README.md) |
+| 041577 | [Nginx: Performance Baseline — Automation for Offline Classroom](Project_041577/README.md) |
+| 041578 | [Nginx: Performance Baseline — Recovery for Offline Classroom](Project_041578/README.md) |
+| 041579 | [Nginx: Performance Baseline — Reporting for Offline Classroom](Project_041579/README.md) |
+| 041580 | [Nginx: Performance Baseline — Usability Improvement for Offline Classroom](Project_041580/README.md) |
 
 [Back to the portfolio home](../README.md)
