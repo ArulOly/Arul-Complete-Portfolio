@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040758 | [PowerShell: Data Validation — Recovery for Small Business](Project_040758/README.md) |
 | 040759 | [PowerShell: Data Validation — Reporting for Small Business](Project_040759/README.md) |
 | 040760 | [PowerShell: Data Validation — Usability Improvement for Small Business](Project_040760/README.md) |
+| 040761 | [PowerShell: Data Validation — Baseline Setup for Home Development](Project_040761/README.md) |
+| 040762 | [PowerShell: Data Validation — Automation for Home Development](Project_040762/README.md) |
+| 040763 | [PowerShell: Data Validation — Recovery for Home Development](Project_040763/README.md) |
+| 040764 | [PowerShell: Data Validation — Reporting for Home Development](Project_040764/README.md) |
+| 040765 | [PowerShell: Data Validation — Usability Improvement for Home Development](Project_040765/README.md) |
+| 040766 | [PowerShell: Data Validation — Baseline Setup for Public Dataset](Project_040766/README.md) |
+| 040767 | [PowerShell: Data Validation — Automation for Public Dataset](Project_040767/README.md) |
+| 040768 | [PowerShell: Data Validation — Recovery for Public Dataset](Project_040768/README.md) |
+| 040769 | [PowerShell: Data Validation — Reporting for Public Dataset](Project_040769/README.md) |
+| 040770 | [PowerShell: Data Validation — Usability Improvement for Public Dataset](Project_040770/README.md) |
+| 040771 | [PowerShell: Data Validation — Baseline Setup for Branch Office Simulator](Project_040771/README.md) |
+| 040772 | [PowerShell: Data Validation — Automation for Branch Office Simulator](Project_040772/README.md) |
+| 040773 | [PowerShell: Data Validation — Recovery for Branch Office Simulator](Project_040773/README.md) |
+| 040774 | [PowerShell: Data Validation — Reporting for Branch Office Simulator](Project_040774/README.md) |
+| 040775 | [PowerShell: Data Validation — Usability Improvement for Branch Office Simulator](Project_040775/README.md) |
+| 040776 | [PowerShell: Data Validation — Baseline Setup for Offline Classroom](Project_040776/README.md) |
+| 040777 | [PowerShell: Data Validation — Automation for Offline Classroom](Project_040777/README.md) |
+| 040778 | [PowerShell: Data Validation — Recovery for Offline Classroom](Project_040778/README.md) |
+| 040779 | [PowerShell: Data Validation — Reporting for Offline Classroom](Project_040779/README.md) |
+| 040780 | [PowerShell: Data Validation — Usability Improvement for Offline Classroom](Project_040780/README.md) |
 
 [Back to the portfolio home](../README.md)
