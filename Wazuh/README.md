@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030238 | [Wazuh: Backup Verification — Recovery for Two-Node Lab](Project_030238/README.md) |
 | 030239 | [Wazuh: Backup Verification — Reporting for Two-Node Lab](Project_030239/README.md) |
 | 030240 | [Wazuh: Backup Verification — Usability Improvement for Two-Node Lab](Project_030240/README.md) |
+| 030241 | [Wazuh: Backup Verification — Baseline Setup for Help Desk](Project_030241/README.md) |
+| 030242 | [Wazuh: Backup Verification — Automation for Help Desk](Project_030242/README.md) |
+| 030243 | [Wazuh: Backup Verification — Recovery for Help Desk](Project_030243/README.md) |
+| 030244 | [Wazuh: Backup Verification — Reporting for Help Desk](Project_030244/README.md) |
+| 030245 | [Wazuh: Backup Verification — Usability Improvement for Help Desk](Project_030245/README.md) |
+| 030246 | [Wazuh: Backup Verification — Baseline Setup for Portfolio Demo](Project_030246/README.md) |
+| 030247 | [Wazuh: Backup Verification — Automation for Portfolio Demo](Project_030247/README.md) |
+| 030248 | [Wazuh: Backup Verification — Recovery for Portfolio Demo](Project_030248/README.md) |
+| 030249 | [Wazuh: Backup Verification — Reporting for Portfolio Demo](Project_030249/README.md) |
+| 030250 | [Wazuh: Backup Verification — Usability Improvement for Portfolio Demo](Project_030250/README.md) |
+| 030251 | [Wazuh: Data Import — Baseline Setup for School Lab](Project_030251/README.md) |
+| 030252 | [Wazuh: Data Import — Automation for School Lab](Project_030252/README.md) |
+| 030253 | [Wazuh: Data Import — Recovery for School Lab](Project_030253/README.md) |
+| 030254 | [Wazuh: Data Import — Reporting for School Lab](Project_030254/README.md) |
+| 030255 | [Wazuh: Data Import — Usability Improvement for School Lab](Project_030255/README.md) |
+| 030256 | [Wazuh: Data Import — Baseline Setup for Small Business](Project_030256/README.md) |
+| 030257 | [Wazuh: Data Import — Automation for Small Business](Project_030257/README.md) |
+| 030258 | [Wazuh: Data Import — Recovery for Small Business](Project_030258/README.md) |
+| 030259 | [Wazuh: Data Import — Reporting for Small Business](Project_030259/README.md) |
+| 030260 | [Wazuh: Data Import — Usability Improvement for Small Business](Project_030260/README.md) |
 
 [Back to the portfolio home](../README.md)
