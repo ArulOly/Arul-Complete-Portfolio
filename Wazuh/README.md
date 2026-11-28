@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030318 | [Wazuh: Data Export — Recovery for Public Dataset](Project_030318/README.md) |
 | 030319 | [Wazuh: Data Export — Reporting for Public Dataset](Project_030319/README.md) |
 | 030320 | [Wazuh: Data Export — Usability Improvement for Public Dataset](Project_030320/README.md) |
+| 030321 | [Wazuh: Data Export — Baseline Setup for Branch Office Simulator](Project_030321/README.md) |
+| 030322 | [Wazuh: Data Export — Automation for Branch Office Simulator](Project_030322/README.md) |
+| 030323 | [Wazuh: Data Export — Recovery for Branch Office Simulator](Project_030323/README.md) |
+| 030324 | [Wazuh: Data Export — Reporting for Branch Office Simulator](Project_030324/README.md) |
+| 030325 | [Wazuh: Data Export — Usability Improvement for Branch Office Simulator](Project_030325/README.md) |
+| 030326 | [Wazuh: Data Export — Baseline Setup for Offline Classroom](Project_030326/README.md) |
+| 030327 | [Wazuh: Data Export — Automation for Offline Classroom](Project_030327/README.md) |
+| 030328 | [Wazuh: Data Export — Recovery for Offline Classroom](Project_030328/README.md) |
+| 030329 | [Wazuh: Data Export — Reporting for Offline Classroom](Project_030329/README.md) |
+| 030330 | [Wazuh: Data Export — Usability Improvement for Offline Classroom](Project_030330/README.md) |
+| 030331 | [Wazuh: Data Export — Baseline Setup for Single-Host Lab](Project_030331/README.md) |
+| 030332 | [Wazuh: Data Export — Automation for Single-Host Lab](Project_030332/README.md) |
+| 030333 | [Wazuh: Data Export — Recovery for Single-Host Lab](Project_030333/README.md) |
+| 030334 | [Wazuh: Data Export — Reporting for Single-Host Lab](Project_030334/README.md) |
+| 030335 | [Wazuh: Data Export — Usability Improvement for Single-Host Lab](Project_030335/README.md) |
+| 030336 | [Wazuh: Data Export — Baseline Setup for Two-Node Lab](Project_030336/README.md) |
+| 030337 | [Wazuh: Data Export — Automation for Two-Node Lab](Project_030337/README.md) |
+| 030338 | [Wazuh: Data Export — Recovery for Two-Node Lab](Project_030338/README.md) |
+| 030339 | [Wazuh: Data Export — Reporting for Two-Node Lab](Project_030339/README.md) |
+| 030340 | [Wazuh: Data Export — Usability Improvement for Two-Node Lab](Project_030340/README.md) |
 
 [Back to the portfolio home](../README.md)
