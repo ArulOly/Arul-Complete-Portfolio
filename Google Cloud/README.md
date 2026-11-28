@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016898 | [Google Cloud: Automation — Recovery for Portfolio Demo](Project_016898/README.md) |
 | 016899 | [Google Cloud: Automation — Reporting for Portfolio Demo](Project_016899/README.md) |
 | 016900 | [Google Cloud: Automation — Usability Improvement for Portfolio Demo](Project_016900/README.md) |
+| 016901 | [Google Cloud: Visual Reporting — Baseline Setup for School Lab](Project_016901/README.md) |
+| 016902 | [Google Cloud: Visual Reporting — Automation for School Lab](Project_016902/README.md) |
+| 016903 | [Google Cloud: Visual Reporting — Recovery for School Lab](Project_016903/README.md) |
+| 016904 | [Google Cloud: Visual Reporting — Reporting for School Lab](Project_016904/README.md) |
+| 016905 | [Google Cloud: Visual Reporting — Usability Improvement for School Lab](Project_016905/README.md) |
+| 016906 | [Google Cloud: Visual Reporting — Baseline Setup for Small Business](Project_016906/README.md) |
+| 016907 | [Google Cloud: Visual Reporting — Automation for Small Business](Project_016907/README.md) |
+| 016908 | [Google Cloud: Visual Reporting — Recovery for Small Business](Project_016908/README.md) |
+| 016909 | [Google Cloud: Visual Reporting — Reporting for Small Business](Project_016909/README.md) |
+| 016910 | [Google Cloud: Visual Reporting — Usability Improvement for Small Business](Project_016910/README.md) |
+| 016911 | [Google Cloud: Visual Reporting — Baseline Setup for Home Development](Project_016911/README.md) |
+| 016912 | [Google Cloud: Visual Reporting — Automation for Home Development](Project_016912/README.md) |
+| 016913 | [Google Cloud: Visual Reporting — Recovery for Home Development](Project_016913/README.md) |
+| 016914 | [Google Cloud: Visual Reporting — Reporting for Home Development](Project_016914/README.md) |
+| 016915 | [Google Cloud: Visual Reporting — Usability Improvement for Home Development](Project_016915/README.md) |
+| 016916 | [Google Cloud: Visual Reporting — Baseline Setup for Public Dataset](Project_016916/README.md) |
+| 016917 | [Google Cloud: Visual Reporting — Automation for Public Dataset](Project_016917/README.md) |
+| 016918 | [Google Cloud: Visual Reporting — Recovery for Public Dataset](Project_016918/README.md) |
+| 016919 | [Google Cloud: Visual Reporting — Reporting for Public Dataset](Project_016919/README.md) |
+| 016920 | [Google Cloud: Visual Reporting — Usability Improvement for Public Dataset](Project_016920/README.md) |
 
 [Back to the portfolio home](../README.md)
