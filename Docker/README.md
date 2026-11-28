@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017918 | [Docker: Visual Reporting — Recovery for Public Dataset](Project_017918/README.md) |
 | 017919 | [Docker: Visual Reporting — Reporting for Public Dataset](Project_017919/README.md) |
 | 017920 | [Docker: Visual Reporting — Usability Improvement for Public Dataset](Project_017920/README.md) |
+| 017921 | [Docker: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_017921/README.md) |
+| 017922 | [Docker: Visual Reporting — Automation for Branch Office Simulator](Project_017922/README.md) |
+| 017923 | [Docker: Visual Reporting — Recovery for Branch Office Simulator](Project_017923/README.md) |
+| 017924 | [Docker: Visual Reporting — Reporting for Branch Office Simulator](Project_017924/README.md) |
+| 017925 | [Docker: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_017925/README.md) |
+| 017926 | [Docker: Visual Reporting — Baseline Setup for Offline Classroom](Project_017926/README.md) |
+| 017927 | [Docker: Visual Reporting — Automation for Offline Classroom](Project_017927/README.md) |
+| 017928 | [Docker: Visual Reporting — Recovery for Offline Classroom](Project_017928/README.md) |
+| 017929 | [Docker: Visual Reporting — Reporting for Offline Classroom](Project_017929/README.md) |
+| 017930 | [Docker: Visual Reporting — Usability Improvement for Offline Classroom](Project_017930/README.md) |
+| 017931 | [Docker: Visual Reporting — Baseline Setup for Single-Host Lab](Project_017931/README.md) |
+| 017932 | [Docker: Visual Reporting — Automation for Single-Host Lab](Project_017932/README.md) |
+| 017933 | [Docker: Visual Reporting — Recovery for Single-Host Lab](Project_017933/README.md) |
+| 017934 | [Docker: Visual Reporting — Reporting for Single-Host Lab](Project_017934/README.md) |
+| 017935 | [Docker: Visual Reporting — Usability Improvement for Single-Host Lab](Project_017935/README.md) |
+| 017936 | [Docker: Visual Reporting — Baseline Setup for Two-Node Lab](Project_017936/README.md) |
+| 017937 | [Docker: Visual Reporting — Automation for Two-Node Lab](Project_017937/README.md) |
+| 017938 | [Docker: Visual Reporting — Recovery for Two-Node Lab](Project_017938/README.md) |
+| 017939 | [Docker: Visual Reporting — Reporting for Two-Node Lab](Project_017939/README.md) |
+| 017940 | [Docker: Visual Reporting — Usability Improvement for Two-Node Lab](Project_017940/README.md) |
 
 [Back to the portfolio home](../README.md)
