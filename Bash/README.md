@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039698 | [Bash: Configuration Comparison — Recovery for Portfolio Demo](Project_039698/README.md) |
 | 039699 | [Bash: Configuration Comparison — Reporting for Portfolio Demo](Project_039699/README.md) |
 | 039700 | [Bash: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_039700/README.md) |
+| 039701 | [Bash: Error Handling — Baseline Setup for School Lab](Project_039701/README.md) |
+| 039702 | [Bash: Error Handling — Automation for School Lab](Project_039702/README.md) |
+| 039703 | [Bash: Error Handling — Recovery for School Lab](Project_039703/README.md) |
+| 039704 | [Bash: Error Handling — Reporting for School Lab](Project_039704/README.md) |
+| 039705 | [Bash: Error Handling — Usability Improvement for School Lab](Project_039705/README.md) |
+| 039706 | [Bash: Error Handling — Baseline Setup for Small Business](Project_039706/README.md) |
+| 039707 | [Bash: Error Handling — Automation for Small Business](Project_039707/README.md) |
+| 039708 | [Bash: Error Handling — Recovery for Small Business](Project_039708/README.md) |
+| 039709 | [Bash: Error Handling — Reporting for Small Business](Project_039709/README.md) |
+| 039710 | [Bash: Error Handling — Usability Improvement for Small Business](Project_039710/README.md) |
+| 039711 | [Bash: Error Handling — Baseline Setup for Home Development](Project_039711/README.md) |
+| 039712 | [Bash: Error Handling — Automation for Home Development](Project_039712/README.md) |
+| 039713 | [Bash: Error Handling — Recovery for Home Development](Project_039713/README.md) |
+| 039714 | [Bash: Error Handling — Reporting for Home Development](Project_039714/README.md) |
+| 039715 | [Bash: Error Handling — Usability Improvement for Home Development](Project_039715/README.md) |
+| 039716 | [Bash: Error Handling — Baseline Setup for Public Dataset](Project_039716/README.md) |
+| 039717 | [Bash: Error Handling — Automation for Public Dataset](Project_039717/README.md) |
+| 039718 | [Bash: Error Handling — Recovery for Public Dataset](Project_039718/README.md) |
+| 039719 | [Bash: Error Handling — Reporting for Public Dataset](Project_039719/README.md) |
+| 039720 | [Bash: Error Handling — Usability Improvement for Public Dataset](Project_039720/README.md) |
 
 [Back to the portfolio home](../README.md)
