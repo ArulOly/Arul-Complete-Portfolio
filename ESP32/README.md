@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036518 | [ESP32: Access Review — Recovery for Public Dataset](Project_036518/README.md) |
 | 036519 | [ESP32: Access Review — Reporting for Public Dataset](Project_036519/README.md) |
 | 036520 | [ESP32: Access Review — Usability Improvement for Public Dataset](Project_036520/README.md) |
+| 036521 | [ESP32: Access Review — Baseline Setup for Branch Office Simulator](Project_036521/README.md) |
+| 036522 | [ESP32: Access Review — Automation for Branch Office Simulator](Project_036522/README.md) |
+| 036523 | [ESP32: Access Review — Recovery for Branch Office Simulator](Project_036523/README.md) |
+| 036524 | [ESP32: Access Review — Reporting for Branch Office Simulator](Project_036524/README.md) |
+| 036525 | [ESP32: Access Review — Usability Improvement for Branch Office Simulator](Project_036525/README.md) |
+| 036526 | [ESP32: Access Review — Baseline Setup for Offline Classroom](Project_036526/README.md) |
+| 036527 | [ESP32: Access Review — Automation for Offline Classroom](Project_036527/README.md) |
+| 036528 | [ESP32: Access Review — Recovery for Offline Classroom](Project_036528/README.md) |
+| 036529 | [ESP32: Access Review — Reporting for Offline Classroom](Project_036529/README.md) |
+| 036530 | [ESP32: Access Review — Usability Improvement for Offline Classroom](Project_036530/README.md) |
+| 036531 | [ESP32: Access Review — Baseline Setup for Single-Host Lab](Project_036531/README.md) |
+| 036532 | [ESP32: Access Review — Automation for Single-Host Lab](Project_036532/README.md) |
+| 036533 | [ESP32: Access Review — Recovery for Single-Host Lab](Project_036533/README.md) |
+| 036534 | [ESP32: Access Review — Reporting for Single-Host Lab](Project_036534/README.md) |
+| 036535 | [ESP32: Access Review — Usability Improvement for Single-Host Lab](Project_036535/README.md) |
+| 036536 | [ESP32: Access Review — Baseline Setup for Two-Node Lab](Project_036536/README.md) |
+| 036537 | [ESP32: Access Review — Automation for Two-Node Lab](Project_036537/README.md) |
+| 036538 | [ESP32: Access Review — Recovery for Two-Node Lab](Project_036538/README.md) |
+| 036539 | [ESP32: Access Review — Reporting for Two-Node Lab](Project_036539/README.md) |
+| 036540 | [ESP32: Access Review — Usability Improvement for Two-Node Lab](Project_036540/README.md) |
 
 [Back to the portfolio home](../README.md)
