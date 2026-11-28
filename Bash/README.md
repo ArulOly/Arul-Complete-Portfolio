@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 360
+**Projects documented** 380
 
 ## Project categories
 
@@ -401,5 +401,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039358 | [Bash: Dashboard — Recovery for Small Business](Project_039358/README.md) |
 | 039359 | [Bash: Dashboard — Reporting for Small Business](Project_039359/README.md) |
 | 039360 | [Bash: Dashboard — Usability Improvement for Small Business](Project_039360/README.md) |
+| 039361 | [Bash: Dashboard — Baseline Setup for Home Development](Project_039361/README.md) |
+| 039362 | [Bash: Dashboard — Automation for Home Development](Project_039362/README.md) |
+| 039363 | [Bash: Dashboard — Recovery for Home Development](Project_039363/README.md) |
+| 039364 | [Bash: Dashboard — Reporting for Home Development](Project_039364/README.md) |
+| 039365 | [Bash: Dashboard — Usability Improvement for Home Development](Project_039365/README.md) |
+| 039366 | [Bash: Dashboard — Baseline Setup for Public Dataset](Project_039366/README.md) |
+| 039367 | [Bash: Dashboard — Automation for Public Dataset](Project_039367/README.md) |
+| 039368 | [Bash: Dashboard — Recovery for Public Dataset](Project_039368/README.md) |
+| 039369 | [Bash: Dashboard — Reporting for Public Dataset](Project_039369/README.md) |
+| 039370 | [Bash: Dashboard — Usability Improvement for Public Dataset](Project_039370/README.md) |
+| 039371 | [Bash: Dashboard — Baseline Setup for Branch Office Simulator](Project_039371/README.md) |
+| 039372 | [Bash: Dashboard — Automation for Branch Office Simulator](Project_039372/README.md) |
+| 039373 | [Bash: Dashboard — Recovery for Branch Office Simulator](Project_039373/README.md) |
+| 039374 | [Bash: Dashboard — Reporting for Branch Office Simulator](Project_039374/README.md) |
+| 039375 | [Bash: Dashboard — Usability Improvement for Branch Office Simulator](Project_039375/README.md) |
+| 039376 | [Bash: Dashboard — Baseline Setup for Offline Classroom](Project_039376/README.md) |
+| 039377 | [Bash: Dashboard — Automation for Offline Classroom](Project_039377/README.md) |
+| 039378 | [Bash: Dashboard — Recovery for Offline Classroom](Project_039378/README.md) |
+| 039379 | [Bash: Dashboard — Reporting for Offline Classroom](Project_039379/README.md) |
+| 039380 | [Bash: Dashboard — Usability Improvement for Offline Classroom](Project_039380/README.md) |
 
 [Back to the portfolio home](../README.md)
