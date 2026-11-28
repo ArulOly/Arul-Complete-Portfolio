@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047518 | [Ansible: Access Review — Recovery for Public Dataset](Project_047518/README.md) |
 | 047519 | [Ansible: Access Review — Reporting for Public Dataset](Project_047519/README.md) |
 | 047520 | [Ansible: Access Review — Usability Improvement for Public Dataset](Project_047520/README.md) |
+| 047521 | [Ansible: Access Review — Baseline Setup for Branch Office Simulator](Project_047521/README.md) |
+| 047522 | [Ansible: Access Review — Automation for Branch Office Simulator](Project_047522/README.md) |
+| 047523 | [Ansible: Access Review — Recovery for Branch Office Simulator](Project_047523/README.md) |
+| 047524 | [Ansible: Access Review — Reporting for Branch Office Simulator](Project_047524/README.md) |
+| 047525 | [Ansible: Access Review — Usability Improvement for Branch Office Simulator](Project_047525/README.md) |
+| 047526 | [Ansible: Access Review — Baseline Setup for Offline Classroom](Project_047526/README.md) |
+| 047527 | [Ansible: Access Review — Automation for Offline Classroom](Project_047527/README.md) |
+| 047528 | [Ansible: Access Review — Recovery for Offline Classroom](Project_047528/README.md) |
+| 047529 | [Ansible: Access Review — Reporting for Offline Classroom](Project_047529/README.md) |
+| 047530 | [Ansible: Access Review — Usability Improvement for Offline Classroom](Project_047530/README.md) |
+| 047531 | [Ansible: Access Review — Baseline Setup for Single-Host Lab](Project_047531/README.md) |
+| 047532 | [Ansible: Access Review — Automation for Single-Host Lab](Project_047532/README.md) |
+| 047533 | [Ansible: Access Review — Recovery for Single-Host Lab](Project_047533/README.md) |
+| 047534 | [Ansible: Access Review — Reporting for Single-Host Lab](Project_047534/README.md) |
+| 047535 | [Ansible: Access Review — Usability Improvement for Single-Host Lab](Project_047535/README.md) |
+| 047536 | [Ansible: Access Review — Baseline Setup for Two-Node Lab](Project_047536/README.md) |
+| 047537 | [Ansible: Access Review — Automation for Two-Node Lab](Project_047537/README.md) |
+| 047538 | [Ansible: Access Review — Recovery for Two-Node Lab](Project_047538/README.md) |
+| 047539 | [Ansible: Access Review — Reporting for Two-Node Lab](Project_047539/README.md) |
+| 047540 | [Ansible: Access Review — Usability Improvement for Two-Node Lab](Project_047540/README.md) |
 
 [Back to the portfolio home](../README.md)
