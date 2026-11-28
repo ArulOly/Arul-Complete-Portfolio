@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046618 | [Terraform: Service Check — Recovery for Public Dataset](Project_046618/README.md) |
 | 046619 | [Terraform: Service Check — Reporting for Public Dataset](Project_046619/README.md) |
 | 046620 | [Terraform: Service Check — Usability Improvement for Public Dataset](Project_046620/README.md) |
+| 046621 | [Terraform: Service Check — Baseline Setup for Branch Office Simulator](Project_046621/README.md) |
+| 046622 | [Terraform: Service Check — Automation for Branch Office Simulator](Project_046622/README.md) |
+| 046623 | [Terraform: Service Check — Recovery for Branch Office Simulator](Project_046623/README.md) |
+| 046624 | [Terraform: Service Check — Reporting for Branch Office Simulator](Project_046624/README.md) |
+| 046625 | [Terraform: Service Check — Usability Improvement for Branch Office Simulator](Project_046625/README.md) |
+| 046626 | [Terraform: Service Check — Baseline Setup for Offline Classroom](Project_046626/README.md) |
+| 046627 | [Terraform: Service Check — Automation for Offline Classroom](Project_046627/README.md) |
+| 046628 | [Terraform: Service Check — Recovery for Offline Classroom](Project_046628/README.md) |
+| 046629 | [Terraform: Service Check — Reporting for Offline Classroom](Project_046629/README.md) |
+| 046630 | [Terraform: Service Check — Usability Improvement for Offline Classroom](Project_046630/README.md) |
+| 046631 | [Terraform: Service Check — Baseline Setup for Single-Host Lab](Project_046631/README.md) |
+| 046632 | [Terraform: Service Check — Automation for Single-Host Lab](Project_046632/README.md) |
+| 046633 | [Terraform: Service Check — Recovery for Single-Host Lab](Project_046633/README.md) |
+| 046634 | [Terraform: Service Check — Reporting for Single-Host Lab](Project_046634/README.md) |
+| 046635 | [Terraform: Service Check — Usability Improvement for Single-Host Lab](Project_046635/README.md) |
+| 046636 | [Terraform: Service Check — Baseline Setup for Two-Node Lab](Project_046636/README.md) |
+| 046637 | [Terraform: Service Check — Automation for Two-Node Lab](Project_046637/README.md) |
+| 046638 | [Terraform: Service Check — Recovery for Two-Node Lab](Project_046638/README.md) |
+| 046639 | [Terraform: Service Check — Reporting for Two-Node Lab](Project_046639/README.md) |
+| 046640 | [Terraform: Service Check — Usability Improvement for Two-Node Lab](Project_046640/README.md) |
 
 [Back to the portfolio home](../README.md)
