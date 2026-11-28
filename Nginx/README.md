@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041378 | [Nginx: Dashboard — Recovery for Offline Classroom](Project_041378/README.md) |
 | 041379 | [Nginx: Dashboard — Reporting for Offline Classroom](Project_041379/README.md) |
 | 041380 | [Nginx: Dashboard — Usability Improvement for Offline Classroom](Project_041380/README.md) |
+| 041381 | [Nginx: Dashboard — Baseline Setup for Single-Host Lab](Project_041381/README.md) |
+| 041382 | [Nginx: Dashboard — Automation for Single-Host Lab](Project_041382/README.md) |
+| 041383 | [Nginx: Dashboard — Recovery for Single-Host Lab](Project_041383/README.md) |
+| 041384 | [Nginx: Dashboard — Reporting for Single-Host Lab](Project_041384/README.md) |
+| 041385 | [Nginx: Dashboard — Usability Improvement for Single-Host Lab](Project_041385/README.md) |
+| 041386 | [Nginx: Dashboard — Baseline Setup for Two-Node Lab](Project_041386/README.md) |
+| 041387 | [Nginx: Dashboard — Automation for Two-Node Lab](Project_041387/README.md) |
+| 041388 | [Nginx: Dashboard — Recovery for Two-Node Lab](Project_041388/README.md) |
+| 041389 | [Nginx: Dashboard — Reporting for Two-Node Lab](Project_041389/README.md) |
+| 041390 | [Nginx: Dashboard — Usability Improvement for Two-Node Lab](Project_041390/README.md) |
+| 041391 | [Nginx: Dashboard — Baseline Setup for Help Desk](Project_041391/README.md) |
+| 041392 | [Nginx: Dashboard — Automation for Help Desk](Project_041392/README.md) |
+| 041393 | [Nginx: Dashboard — Recovery for Help Desk](Project_041393/README.md) |
+| 041394 | [Nginx: Dashboard — Reporting for Help Desk](Project_041394/README.md) |
+| 041395 | [Nginx: Dashboard — Usability Improvement for Help Desk](Project_041395/README.md) |
+| 041396 | [Nginx: Dashboard — Baseline Setup for Portfolio Demo](Project_041396/README.md) |
+| 041397 | [Nginx: Dashboard — Automation for Portfolio Demo](Project_041397/README.md) |
+| 041398 | [Nginx: Dashboard — Recovery for Portfolio Demo](Project_041398/README.md) |
+| 041399 | [Nginx: Dashboard — Reporting for Portfolio Demo](Project_041399/README.md) |
+| 041400 | [Nginx: Dashboard — Usability Improvement for Portfolio Demo](Project_041400/README.md) |
 
 [Back to the portfolio home](../README.md)
