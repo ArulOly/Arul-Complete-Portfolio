@@ -4,7 +4,7 @@ This collection contains guide-based ESP32 exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 980
+**Projects documented** 1000
 
 ## Project categories
 
@@ -1021,5 +1021,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 036978 | [ESP32: Recovery Test — Recovery for Offline Classroom](Project_036978/README.md) |
 | 036979 | [ESP32: Recovery Test — Reporting for Offline Classroom](Project_036979/README.md) |
 | 036980 | [ESP32: Recovery Test — Usability Improvement for Offline Classroom](Project_036980/README.md) |
+| 036981 | [ESP32: Recovery Test — Baseline Setup for Single-Host Lab](Project_036981/README.md) |
+| 036982 | [ESP32: Recovery Test — Automation for Single-Host Lab](Project_036982/README.md) |
+| 036983 | [ESP32: Recovery Test — Recovery for Single-Host Lab](Project_036983/README.md) |
+| 036984 | [ESP32: Recovery Test — Reporting for Single-Host Lab](Project_036984/README.md) |
+| 036985 | [ESP32: Recovery Test — Usability Improvement for Single-Host Lab](Project_036985/README.md) |
+| 036986 | [ESP32: Recovery Test — Baseline Setup for Two-Node Lab](Project_036986/README.md) |
+| 036987 | [ESP32: Recovery Test — Automation for Two-Node Lab](Project_036987/README.md) |
+| 036988 | [ESP32: Recovery Test — Recovery for Two-Node Lab](Project_036988/README.md) |
+| 036989 | [ESP32: Recovery Test — Reporting for Two-Node Lab](Project_036989/README.md) |
+| 036990 | [ESP32: Recovery Test — Usability Improvement for Two-Node Lab](Project_036990/README.md) |
+| 036991 | [ESP32: Recovery Test — Baseline Setup for Help Desk](Project_036991/README.md) |
+| 036992 | [ESP32: Recovery Test — Automation for Help Desk](Project_036992/README.md) |
+| 036993 | [ESP32: Recovery Test — Recovery for Help Desk](Project_036993/README.md) |
+| 036994 | [ESP32: Recovery Test — Reporting for Help Desk](Project_036994/README.md) |
+| 036995 | [ESP32: Recovery Test — Usability Improvement for Help Desk](Project_036995/README.md) |
+| 036996 | [ESP32: Recovery Test — Baseline Setup for Portfolio Demo](Project_036996/README.md) |
+| 036997 | [ESP32: Recovery Test — Automation for Portfolio Demo](Project_036997/README.md) |
+| 036998 | [ESP32: Recovery Test — Recovery for Portfolio Demo](Project_036998/README.md) |
+| 036999 | [ESP32: Recovery Test — Reporting for Portfolio Demo](Project_036999/README.md) |
+| 037000 | [ESP32: Recovery Test — Usability Improvement for Portfolio Demo](Project_037000/README.md) |
 
 [Back to the portfolio home](../README.md)
