@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041758 | [Nginx: Data Validation — Recovery for Small Business](Project_041758/README.md) |
 | 041759 | [Nginx: Data Validation — Reporting for Small Business](Project_041759/README.md) |
 | 041760 | [Nginx: Data Validation — Usability Improvement for Small Business](Project_041760/README.md) |
+| 041761 | [Nginx: Data Validation — Baseline Setup for Home Development](Project_041761/README.md) |
+| 041762 | [Nginx: Data Validation — Automation for Home Development](Project_041762/README.md) |
+| 041763 | [Nginx: Data Validation — Recovery for Home Development](Project_041763/README.md) |
+| 041764 | [Nginx: Data Validation — Reporting for Home Development](Project_041764/README.md) |
+| 041765 | [Nginx: Data Validation — Usability Improvement for Home Development](Project_041765/README.md) |
+| 041766 | [Nginx: Data Validation — Baseline Setup for Public Dataset](Project_041766/README.md) |
+| 041767 | [Nginx: Data Validation — Automation for Public Dataset](Project_041767/README.md) |
+| 041768 | [Nginx: Data Validation — Recovery for Public Dataset](Project_041768/README.md) |
+| 041769 | [Nginx: Data Validation — Reporting for Public Dataset](Project_041769/README.md) |
+| 041770 | [Nginx: Data Validation — Usability Improvement for Public Dataset](Project_041770/README.md) |
+| 041771 | [Nginx: Data Validation — Baseline Setup for Branch Office Simulator](Project_041771/README.md) |
+| 041772 | [Nginx: Data Validation — Automation for Branch Office Simulator](Project_041772/README.md) |
+| 041773 | [Nginx: Data Validation — Recovery for Branch Office Simulator](Project_041773/README.md) |
+| 041774 | [Nginx: Data Validation — Reporting for Branch Office Simulator](Project_041774/README.md) |
+| 041775 | [Nginx: Data Validation — Usability Improvement for Branch Office Simulator](Project_041775/README.md) |
+| 041776 | [Nginx: Data Validation — Baseline Setup for Offline Classroom](Project_041776/README.md) |
+| 041777 | [Nginx: Data Validation — Automation for Offline Classroom](Project_041777/README.md) |
+| 041778 | [Nginx: Data Validation — Recovery for Offline Classroom](Project_041778/README.md) |
+| 041779 | [Nginx: Data Validation — Reporting for Offline Classroom](Project_041779/README.md) |
+| 041780 | [Nginx: Data Validation — Usability Improvement for Offline Classroom](Project_041780/README.md) |
 
 [Back to the portfolio home](../README.md)
