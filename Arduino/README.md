@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037178 | [Arduino: Log Analysis — Recovery for Offline Classroom](Project_037178/README.md) |
 | 037179 | [Arduino: Log Analysis — Reporting for Offline Classroom](Project_037179/README.md) |
 | 037180 | [Arduino: Log Analysis — Usability Improvement for Offline Classroom](Project_037180/README.md) |
+| 037181 | [Arduino: Log Analysis — Baseline Setup for Single-Host Lab](Project_037181/README.md) |
+| 037182 | [Arduino: Log Analysis — Automation for Single-Host Lab](Project_037182/README.md) |
+| 037183 | [Arduino: Log Analysis — Recovery for Single-Host Lab](Project_037183/README.md) |
+| 037184 | [Arduino: Log Analysis — Reporting for Single-Host Lab](Project_037184/README.md) |
+| 037185 | [Arduino: Log Analysis — Usability Improvement for Single-Host Lab](Project_037185/README.md) |
+| 037186 | [Arduino: Log Analysis — Baseline Setup for Two-Node Lab](Project_037186/README.md) |
+| 037187 | [Arduino: Log Analysis — Automation for Two-Node Lab](Project_037187/README.md) |
+| 037188 | [Arduino: Log Analysis — Recovery for Two-Node Lab](Project_037188/README.md) |
+| 037189 | [Arduino: Log Analysis — Reporting for Two-Node Lab](Project_037189/README.md) |
+| 037190 | [Arduino: Log Analysis — Usability Improvement for Two-Node Lab](Project_037190/README.md) |
+| 037191 | [Arduino: Log Analysis — Baseline Setup for Help Desk](Project_037191/README.md) |
+| 037192 | [Arduino: Log Analysis — Automation for Help Desk](Project_037192/README.md) |
+| 037193 | [Arduino: Log Analysis — Recovery for Help Desk](Project_037193/README.md) |
+| 037194 | [Arduino: Log Analysis — Reporting for Help Desk](Project_037194/README.md) |
+| 037195 | [Arduino: Log Analysis — Usability Improvement for Help Desk](Project_037195/README.md) |
+| 037196 | [Arduino: Log Analysis — Baseline Setup for Portfolio Demo](Project_037196/README.md) |
+| 037197 | [Arduino: Log Analysis — Automation for Portfolio Demo](Project_037197/README.md) |
+| 037198 | [Arduino: Log Analysis — Recovery for Portfolio Demo](Project_037198/README.md) |
+| 037199 | [Arduino: Log Analysis — Reporting for Portfolio Demo](Project_037199/README.md) |
+| 037200 | [Arduino: Log Analysis — Usability Improvement for Portfolio Demo](Project_037200/README.md) |
 
 [Back to the portfolio home](../README.md)
