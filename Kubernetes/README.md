@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018338 | [Kubernetes: Data Export — Recovery for Two-Node Lab](Project_018338/README.md) |
 | 018339 | [Kubernetes: Data Export — Reporting for Two-Node Lab](Project_018339/README.md) |
 | 018340 | [Kubernetes: Data Export — Usability Improvement for Two-Node Lab](Project_018340/README.md) |
+| 018341 | [Kubernetes: Data Export — Baseline Setup for Help Desk](Project_018341/README.md) |
+| 018342 | [Kubernetes: Data Export — Automation for Help Desk](Project_018342/README.md) |
+| 018343 | [Kubernetes: Data Export — Recovery for Help Desk](Project_018343/README.md) |
+| 018344 | [Kubernetes: Data Export — Reporting for Help Desk](Project_018344/README.md) |
+| 018345 | [Kubernetes: Data Export — Usability Improvement for Help Desk](Project_018345/README.md) |
+| 018346 | [Kubernetes: Data Export — Baseline Setup for Portfolio Demo](Project_018346/README.md) |
+| 018347 | [Kubernetes: Data Export — Automation for Portfolio Demo](Project_018347/README.md) |
+| 018348 | [Kubernetes: Data Export — Recovery for Portfolio Demo](Project_018348/README.md) |
+| 018349 | [Kubernetes: Data Export — Reporting for Portfolio Demo](Project_018349/README.md) |
+| 018350 | [Kubernetes: Data Export — Usability Improvement for Portfolio Demo](Project_018350/README.md) |
+| 018351 | [Kubernetes: Dashboard — Baseline Setup for School Lab](Project_018351/README.md) |
+| 018352 | [Kubernetes: Dashboard — Automation for School Lab](Project_018352/README.md) |
+| 018353 | [Kubernetes: Dashboard — Recovery for School Lab](Project_018353/README.md) |
+| 018354 | [Kubernetes: Dashboard — Reporting for School Lab](Project_018354/README.md) |
+| 018355 | [Kubernetes: Dashboard — Usability Improvement for School Lab](Project_018355/README.md) |
+| 018356 | [Kubernetes: Dashboard — Baseline Setup for Small Business](Project_018356/README.md) |
+| 018357 | [Kubernetes: Dashboard — Automation for Small Business](Project_018357/README.md) |
+| 018358 | [Kubernetes: Dashboard — Recovery for Small Business](Project_018358/README.md) |
+| 018359 | [Kubernetes: Dashboard — Reporting for Small Business](Project_018359/README.md) |
+| 018360 | [Kubernetes: Dashboard — Usability Improvement for Small Business](Project_018360/README.md) |
 
 [Back to the portfolio home](../README.md)
