@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014578 | [AWS: Performance Baseline — Recovery for Offline Classroom](Project_014578/README.md) |
 | 014579 | [AWS: Performance Baseline — Reporting for Offline Classroom](Project_014579/README.md) |
 | 014580 | [AWS: Performance Baseline — Usability Improvement for Offline Classroom](Project_014580/README.md) |
+| 014581 | [AWS: Performance Baseline — Baseline Setup for Single-Host Lab](Project_014581/README.md) |
+| 014582 | [AWS: Performance Baseline — Automation for Single-Host Lab](Project_014582/README.md) |
+| 014583 | [AWS: Performance Baseline — Recovery for Single-Host Lab](Project_014583/README.md) |
+| 014584 | [AWS: Performance Baseline — Reporting for Single-Host Lab](Project_014584/README.md) |
+| 014585 | [AWS: Performance Baseline — Usability Improvement for Single-Host Lab](Project_014585/README.md) |
+| 014586 | [AWS: Performance Baseline — Baseline Setup for Two-Node Lab](Project_014586/README.md) |
+| 014587 | [AWS: Performance Baseline — Automation for Two-Node Lab](Project_014587/README.md) |
+| 014588 | [AWS: Performance Baseline — Recovery for Two-Node Lab](Project_014588/README.md) |
+| 014589 | [AWS: Performance Baseline — Reporting for Two-Node Lab](Project_014589/README.md) |
+| 014590 | [AWS: Performance Baseline — Usability Improvement for Two-Node Lab](Project_014590/README.md) |
+| 014591 | [AWS: Performance Baseline — Baseline Setup for Help Desk](Project_014591/README.md) |
+| 014592 | [AWS: Performance Baseline — Automation for Help Desk](Project_014592/README.md) |
+| 014593 | [AWS: Performance Baseline — Recovery for Help Desk](Project_014593/README.md) |
+| 014594 | [AWS: Performance Baseline — Reporting for Help Desk](Project_014594/README.md) |
+| 014595 | [AWS: Performance Baseline — Usability Improvement for Help Desk](Project_014595/README.md) |
+| 014596 | [AWS: Performance Baseline — Baseline Setup for Portfolio Demo](Project_014596/README.md) |
+| 014597 | [AWS: Performance Baseline — Automation for Portfolio Demo](Project_014597/README.md) |
+| 014598 | [AWS: Performance Baseline — Recovery for Portfolio Demo](Project_014598/README.md) |
+| 014599 | [AWS: Performance Baseline — Reporting for Portfolio Demo](Project_014599/README.md) |
+| 014600 | [AWS: Performance Baseline — Usability Improvement for Portfolio Demo](Project_014600/README.md) |
 
 [Back to the portfolio home](../README.md)
