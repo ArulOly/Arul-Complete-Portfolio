@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044558 | [Prometheus: Performance Baseline — Recovery for Small Business](Project_044558/README.md) |
 | 044559 | [Prometheus: Performance Baseline — Reporting for Small Business](Project_044559/README.md) |
 | 044560 | [Prometheus: Performance Baseline — Usability Improvement for Small Business](Project_044560/README.md) |
+| 044561 | [Prometheus: Performance Baseline — Baseline Setup for Home Development](Project_044561/README.md) |
+| 044562 | [Prometheus: Performance Baseline — Automation for Home Development](Project_044562/README.md) |
+| 044563 | [Prometheus: Performance Baseline — Recovery for Home Development](Project_044563/README.md) |
+| 044564 | [Prometheus: Performance Baseline — Reporting for Home Development](Project_044564/README.md) |
+| 044565 | [Prometheus: Performance Baseline — Usability Improvement for Home Development](Project_044565/README.md) |
+| 044566 | [Prometheus: Performance Baseline — Baseline Setup for Public Dataset](Project_044566/README.md) |
+| 044567 | [Prometheus: Performance Baseline — Automation for Public Dataset](Project_044567/README.md) |
+| 044568 | [Prometheus: Performance Baseline — Recovery for Public Dataset](Project_044568/README.md) |
+| 044569 | [Prometheus: Performance Baseline — Reporting for Public Dataset](Project_044569/README.md) |
+| 044570 | [Prometheus: Performance Baseline — Usability Improvement for Public Dataset](Project_044570/README.md) |
+| 044571 | [Prometheus: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_044571/README.md) |
+| 044572 | [Prometheus: Performance Baseline — Automation for Branch Office Simulator](Project_044572/README.md) |
+| 044573 | [Prometheus: Performance Baseline — Recovery for Branch Office Simulator](Project_044573/README.md) |
+| 044574 | [Prometheus: Performance Baseline — Reporting for Branch Office Simulator](Project_044574/README.md) |
+| 044575 | [Prometheus: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_044575/README.md) |
+| 044576 | [Prometheus: Performance Baseline — Baseline Setup for Offline Classroom](Project_044576/README.md) |
+| 044577 | [Prometheus: Performance Baseline — Automation for Offline Classroom](Project_044577/README.md) |
+| 044578 | [Prometheus: Performance Baseline — Recovery for Offline Classroom](Project_044578/README.md) |
+| 044579 | [Prometheus: Performance Baseline — Reporting for Offline Classroom](Project_044579/README.md) |
+| 044580 | [Prometheus: Performance Baseline — Usability Improvement for Offline Classroom](Project_044580/README.md) |
 
 [Back to the portfolio home](../README.md)
