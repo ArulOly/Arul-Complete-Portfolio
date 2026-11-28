@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042538 | [Apache: Access Review — Recovery for Two-Node Lab](Project_042538/README.md) |
 | 042539 | [Apache: Access Review — Reporting for Two-Node Lab](Project_042539/README.md) |
 | 042540 | [Apache: Access Review — Usability Improvement for Two-Node Lab](Project_042540/README.md) |
+| 042541 | [Apache: Access Review — Baseline Setup for Help Desk](Project_042541/README.md) |
+| 042542 | [Apache: Access Review — Automation for Help Desk](Project_042542/README.md) |
+| 042543 | [Apache: Access Review — Recovery for Help Desk](Project_042543/README.md) |
+| 042544 | [Apache: Access Review — Reporting for Help Desk](Project_042544/README.md) |
+| 042545 | [Apache: Access Review — Usability Improvement for Help Desk](Project_042545/README.md) |
+| 042546 | [Apache: Access Review — Baseline Setup for Portfolio Demo](Project_042546/README.md) |
+| 042547 | [Apache: Access Review — Automation for Portfolio Demo](Project_042547/README.md) |
+| 042548 | [Apache: Access Review — Recovery for Portfolio Demo](Project_042548/README.md) |
+| 042549 | [Apache: Access Review — Reporting for Portfolio Demo](Project_042549/README.md) |
+| 042550 | [Apache: Access Review — Usability Improvement for Portfolio Demo](Project_042550/README.md) |
+| 042551 | [Apache: Performance Baseline — Baseline Setup for School Lab](Project_042551/README.md) |
+| 042552 | [Apache: Performance Baseline — Automation for School Lab](Project_042552/README.md) |
+| 042553 | [Apache: Performance Baseline — Recovery for School Lab](Project_042553/README.md) |
+| 042554 | [Apache: Performance Baseline — Reporting for School Lab](Project_042554/README.md) |
+| 042555 | [Apache: Performance Baseline — Usability Improvement for School Lab](Project_042555/README.md) |
+| 042556 | [Apache: Performance Baseline — Baseline Setup for Small Business](Project_042556/README.md) |
+| 042557 | [Apache: Performance Baseline — Automation for Small Business](Project_042557/README.md) |
+| 042558 | [Apache: Performance Baseline — Recovery for Small Business](Project_042558/README.md) |
+| 042559 | [Apache: Performance Baseline — Reporting for Small Business](Project_042559/README.md) |
+| 042560 | [Apache: Performance Baseline — Usability Improvement for Small Business](Project_042560/README.md) |
 
 [Back to the portfolio home](../README.md)
