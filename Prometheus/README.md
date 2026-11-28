@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044318 | [Prometheus: Data Export — Recovery for Public Dataset](Project_044318/README.md) |
 | 044319 | [Prometheus: Data Export — Reporting for Public Dataset](Project_044319/README.md) |
 | 044320 | [Prometheus: Data Export — Usability Improvement for Public Dataset](Project_044320/README.md) |
+| 044321 | [Prometheus: Data Export — Baseline Setup for Branch Office Simulator](Project_044321/README.md) |
+| 044322 | [Prometheus: Data Export — Automation for Branch Office Simulator](Project_044322/README.md) |
+| 044323 | [Prometheus: Data Export — Recovery for Branch Office Simulator](Project_044323/README.md) |
+| 044324 | [Prometheus: Data Export — Reporting for Branch Office Simulator](Project_044324/README.md) |
+| 044325 | [Prometheus: Data Export — Usability Improvement for Branch Office Simulator](Project_044325/README.md) |
+| 044326 | [Prometheus: Data Export — Baseline Setup for Offline Classroom](Project_044326/README.md) |
+| 044327 | [Prometheus: Data Export — Automation for Offline Classroom](Project_044327/README.md) |
+| 044328 | [Prometheus: Data Export — Recovery for Offline Classroom](Project_044328/README.md) |
+| 044329 | [Prometheus: Data Export — Reporting for Offline Classroom](Project_044329/README.md) |
+| 044330 | [Prometheus: Data Export — Usability Improvement for Offline Classroom](Project_044330/README.md) |
+| 044331 | [Prometheus: Data Export — Baseline Setup for Single-Host Lab](Project_044331/README.md) |
+| 044332 | [Prometheus: Data Export — Automation for Single-Host Lab](Project_044332/README.md) |
+| 044333 | [Prometheus: Data Export — Recovery for Single-Host Lab](Project_044333/README.md) |
+| 044334 | [Prometheus: Data Export — Reporting for Single-Host Lab](Project_044334/README.md) |
+| 044335 | [Prometheus: Data Export — Usability Improvement for Single-Host Lab](Project_044335/README.md) |
+| 044336 | [Prometheus: Data Export — Baseline Setup for Two-Node Lab](Project_044336/README.md) |
+| 044337 | [Prometheus: Data Export — Automation for Two-Node Lab](Project_044337/README.md) |
+| 044338 | [Prometheus: Data Export — Recovery for Two-Node Lab](Project_044338/README.md) |
+| 044339 | [Prometheus: Data Export — Reporting for Two-Node Lab](Project_044339/README.md) |
+| 044340 | [Prometheus: Data Export — Usability Improvement for Two-Node Lab](Project_044340/README.md) |
 
 [Back to the portfolio home](../README.md)
