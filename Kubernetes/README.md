@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018318 | [Kubernetes: Data Export — Recovery for Public Dataset](Project_018318/README.md) |
 | 018319 | [Kubernetes: Data Export — Reporting for Public Dataset](Project_018319/README.md) |
 | 018320 | [Kubernetes: Data Export — Usability Improvement for Public Dataset](Project_018320/README.md) |
+| 018321 | [Kubernetes: Data Export — Baseline Setup for Branch Office Simulator](Project_018321/README.md) |
+| 018322 | [Kubernetes: Data Export — Automation for Branch Office Simulator](Project_018322/README.md) |
+| 018323 | [Kubernetes: Data Export — Recovery for Branch Office Simulator](Project_018323/README.md) |
+| 018324 | [Kubernetes: Data Export — Reporting for Branch Office Simulator](Project_018324/README.md) |
+| 018325 | [Kubernetes: Data Export — Usability Improvement for Branch Office Simulator](Project_018325/README.md) |
+| 018326 | [Kubernetes: Data Export — Baseline Setup for Offline Classroom](Project_018326/README.md) |
+| 018327 | [Kubernetes: Data Export — Automation for Offline Classroom](Project_018327/README.md) |
+| 018328 | [Kubernetes: Data Export — Recovery for Offline Classroom](Project_018328/README.md) |
+| 018329 | [Kubernetes: Data Export — Reporting for Offline Classroom](Project_018329/README.md) |
+| 018330 | [Kubernetes: Data Export — Usability Improvement for Offline Classroom](Project_018330/README.md) |
+| 018331 | [Kubernetes: Data Export — Baseline Setup for Single-Host Lab](Project_018331/README.md) |
+| 018332 | [Kubernetes: Data Export — Automation for Single-Host Lab](Project_018332/README.md) |
+| 018333 | [Kubernetes: Data Export — Recovery for Single-Host Lab](Project_018333/README.md) |
+| 018334 | [Kubernetes: Data Export — Reporting for Single-Host Lab](Project_018334/README.md) |
+| 018335 | [Kubernetes: Data Export — Usability Improvement for Single-Host Lab](Project_018335/README.md) |
+| 018336 | [Kubernetes: Data Export — Baseline Setup for Two-Node Lab](Project_018336/README.md) |
+| 018337 | [Kubernetes: Data Export — Automation for Two-Node Lab](Project_018337/README.md) |
+| 018338 | [Kubernetes: Data Export — Recovery for Two-Node Lab](Project_018338/README.md) |
+| 018339 | [Kubernetes: Data Export — Reporting for Two-Node Lab](Project_018339/README.md) |
+| 018340 | [Kubernetes: Data Export — Usability Improvement for Two-Node Lab](Project_018340/README.md) |
 
 [Back to the portfolio home](../README.md)
