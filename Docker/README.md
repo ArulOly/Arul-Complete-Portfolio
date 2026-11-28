@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017218 | [Docker: Backup Verification — Recovery for Public Dataset](Project_017218/README.md) |
 | 017219 | [Docker: Backup Verification — Reporting for Public Dataset](Project_017219/README.md) |
 | 017220 | [Docker: Backup Verification — Usability Improvement for Public Dataset](Project_017220/README.md) |
+| 017221 | [Docker: Backup Verification — Baseline Setup for Branch Office Simulator](Project_017221/README.md) |
+| 017222 | [Docker: Backup Verification — Automation for Branch Office Simulator](Project_017222/README.md) |
+| 017223 | [Docker: Backup Verification — Recovery for Branch Office Simulator](Project_017223/README.md) |
+| 017224 | [Docker: Backup Verification — Reporting for Branch Office Simulator](Project_017224/README.md) |
+| 017225 | [Docker: Backup Verification — Usability Improvement for Branch Office Simulator](Project_017225/README.md) |
+| 017226 | [Docker: Backup Verification — Baseline Setup for Offline Classroom](Project_017226/README.md) |
+| 017227 | [Docker: Backup Verification — Automation for Offline Classroom](Project_017227/README.md) |
+| 017228 | [Docker: Backup Verification — Recovery for Offline Classroom](Project_017228/README.md) |
+| 017229 | [Docker: Backup Verification — Reporting for Offline Classroom](Project_017229/README.md) |
+| 017230 | [Docker: Backup Verification — Usability Improvement for Offline Classroom](Project_017230/README.md) |
+| 017231 | [Docker: Backup Verification — Baseline Setup for Single-Host Lab](Project_017231/README.md) |
+| 017232 | [Docker: Backup Verification — Automation for Single-Host Lab](Project_017232/README.md) |
+| 017233 | [Docker: Backup Verification — Recovery for Single-Host Lab](Project_017233/README.md) |
+| 017234 | [Docker: Backup Verification — Reporting for Single-Host Lab](Project_017234/README.md) |
+| 017235 | [Docker: Backup Verification — Usability Improvement for Single-Host Lab](Project_017235/README.md) |
+| 017236 | [Docker: Backup Verification — Baseline Setup for Two-Node Lab](Project_017236/README.md) |
+| 017237 | [Docker: Backup Verification — Automation for Two-Node Lab](Project_017237/README.md) |
+| 017238 | [Docker: Backup Verification — Recovery for Two-Node Lab](Project_017238/README.md) |
+| 017239 | [Docker: Backup Verification — Reporting for Two-Node Lab](Project_017239/README.md) |
+| 017240 | [Docker: Backup Verification — Usability Improvement for Two-Node Lab](Project_017240/README.md) |
 
 [Back to the portfolio home](../README.md)
