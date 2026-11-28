@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037438 | [Arduino: Alerting — Recovery for Two-Node Lab](Project_037438/README.md) |
 | 037439 | [Arduino: Alerting — Reporting for Two-Node Lab](Project_037439/README.md) |
 | 037440 | [Arduino: Alerting — Usability Improvement for Two-Node Lab](Project_037440/README.md) |
+| 037441 | [Arduino: Alerting — Baseline Setup for Help Desk](Project_037441/README.md) |
+| 037442 | [Arduino: Alerting — Automation for Help Desk](Project_037442/README.md) |
+| 037443 | [Arduino: Alerting — Recovery for Help Desk](Project_037443/README.md) |
+| 037444 | [Arduino: Alerting — Reporting for Help Desk](Project_037444/README.md) |
+| 037445 | [Arduino: Alerting — Usability Improvement for Help Desk](Project_037445/README.md) |
+| 037446 | [Arduino: Alerting — Baseline Setup for Portfolio Demo](Project_037446/README.md) |
+| 037447 | [Arduino: Alerting — Automation for Portfolio Demo](Project_037447/README.md) |
+| 037448 | [Arduino: Alerting — Recovery for Portfolio Demo](Project_037448/README.md) |
+| 037449 | [Arduino: Alerting — Reporting for Portfolio Demo](Project_037449/README.md) |
+| 037450 | [Arduino: Alerting — Usability Improvement for Portfolio Demo](Project_037450/README.md) |
+| 037451 | [Arduino: Scheduled Reporting — Baseline Setup for School Lab](Project_037451/README.md) |
+| 037452 | [Arduino: Scheduled Reporting — Automation for School Lab](Project_037452/README.md) |
+| 037453 | [Arduino: Scheduled Reporting — Recovery for School Lab](Project_037453/README.md) |
+| 037454 | [Arduino: Scheduled Reporting — Reporting for School Lab](Project_037454/README.md) |
+| 037455 | [Arduino: Scheduled Reporting — Usability Improvement for School Lab](Project_037455/README.md) |
+| 037456 | [Arduino: Scheduled Reporting — Baseline Setup for Small Business](Project_037456/README.md) |
+| 037457 | [Arduino: Scheduled Reporting — Automation for Small Business](Project_037457/README.md) |
+| 037458 | [Arduino: Scheduled Reporting — Recovery for Small Business](Project_037458/README.md) |
+| 037459 | [Arduino: Scheduled Reporting — Reporting for Small Business](Project_037459/README.md) |
+| 037460 | [Arduino: Scheduled Reporting — Usability Improvement for Small Business](Project_037460/README.md) |
 
 [Back to the portfolio home](../README.md)
