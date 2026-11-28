@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016838 | [Google Cloud: Documentation Generation — Recovery for Two-Node Lab](Project_016838/README.md) |
 | 016839 | [Google Cloud: Documentation Generation — Reporting for Two-Node Lab](Project_016839/README.md) |
 | 016840 | [Google Cloud: Documentation Generation — Usability Improvement for Two-Node Lab](Project_016840/README.md) |
+| 016841 | [Google Cloud: Documentation Generation — Baseline Setup for Help Desk](Project_016841/README.md) |
+| 016842 | [Google Cloud: Documentation Generation — Automation for Help Desk](Project_016842/README.md) |
+| 016843 | [Google Cloud: Documentation Generation — Recovery for Help Desk](Project_016843/README.md) |
+| 016844 | [Google Cloud: Documentation Generation — Reporting for Help Desk](Project_016844/README.md) |
+| 016845 | [Google Cloud: Documentation Generation — Usability Improvement for Help Desk](Project_016845/README.md) |
+| 016846 | [Google Cloud: Documentation Generation — Baseline Setup for Portfolio Demo](Project_016846/README.md) |
+| 016847 | [Google Cloud: Documentation Generation — Automation for Portfolio Demo](Project_016847/README.md) |
+| 016848 | [Google Cloud: Documentation Generation — Recovery for Portfolio Demo](Project_016848/README.md) |
+| 016849 | [Google Cloud: Documentation Generation — Reporting for Portfolio Demo](Project_016849/README.md) |
+| 016850 | [Google Cloud: Documentation Generation — Usability Improvement for Portfolio Demo](Project_016850/README.md) |
+| 016851 | [Google Cloud: Automation — Baseline Setup for School Lab](Project_016851/README.md) |
+| 016852 | [Google Cloud: Automation — Automation for School Lab](Project_016852/README.md) |
+| 016853 | [Google Cloud: Automation — Recovery for School Lab](Project_016853/README.md) |
+| 016854 | [Google Cloud: Automation — Reporting for School Lab](Project_016854/README.md) |
+| 016855 | [Google Cloud: Automation — Usability Improvement for School Lab](Project_016855/README.md) |
+| 016856 | [Google Cloud: Automation — Baseline Setup for Small Business](Project_016856/README.md) |
+| 016857 | [Google Cloud: Automation — Automation for Small Business](Project_016857/README.md) |
+| 016858 | [Google Cloud: Automation — Recovery for Small Business](Project_016858/README.md) |
+| 016859 | [Google Cloud: Automation — Reporting for Small Business](Project_016859/README.md) |
+| 016860 | [Google Cloud: Automation — Usability Improvement for Small Business](Project_016860/README.md) |
 
 [Back to the portfolio home](../README.md)
