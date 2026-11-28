@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046138 | [Terraform: Audit — Recovery for Two-Node Lab](Project_046138/README.md) |
 | 046139 | [Terraform: Audit — Reporting for Two-Node Lab](Project_046139/README.md) |
 | 046140 | [Terraform: Audit — Usability Improvement for Two-Node Lab](Project_046140/README.md) |
+| 046141 | [Terraform: Audit — Baseline Setup for Help Desk](Project_046141/README.md) |
+| 046142 | [Terraform: Audit — Automation for Help Desk](Project_046142/README.md) |
+| 046143 | [Terraform: Audit — Recovery for Help Desk](Project_046143/README.md) |
+| 046144 | [Terraform: Audit — Reporting for Help Desk](Project_046144/README.md) |
+| 046145 | [Terraform: Audit — Usability Improvement for Help Desk](Project_046145/README.md) |
+| 046146 | [Terraform: Audit — Baseline Setup for Portfolio Demo](Project_046146/README.md) |
+| 046147 | [Terraform: Audit — Automation for Portfolio Demo](Project_046147/README.md) |
+| 046148 | [Terraform: Audit — Recovery for Portfolio Demo](Project_046148/README.md) |
+| 046149 | [Terraform: Audit — Reporting for Portfolio Demo](Project_046149/README.md) |
+| 046150 | [Terraform: Audit — Usability Improvement for Portfolio Demo](Project_046150/README.md) |
+| 046151 | [Terraform: Log Analysis — Baseline Setup for School Lab](Project_046151/README.md) |
+| 046152 | [Terraform: Log Analysis — Automation for School Lab](Project_046152/README.md) |
+| 046153 | [Terraform: Log Analysis — Recovery for School Lab](Project_046153/README.md) |
+| 046154 | [Terraform: Log Analysis — Reporting for School Lab](Project_046154/README.md) |
+| 046155 | [Terraform: Log Analysis — Usability Improvement for School Lab](Project_046155/README.md) |
+| 046156 | [Terraform: Log Analysis — Baseline Setup for Small Business](Project_046156/README.md) |
+| 046157 | [Terraform: Log Analysis — Automation for Small Business](Project_046157/README.md) |
+| 046158 | [Terraform: Log Analysis — Recovery for Small Business](Project_046158/README.md) |
+| 046159 | [Terraform: Log Analysis — Reporting for Small Business](Project_046159/README.md) |
+| 046160 | [Terraform: Log Analysis — Usability Improvement for Small Business](Project_046160/README.md) |
 
 [Back to the portfolio home](../README.md)
