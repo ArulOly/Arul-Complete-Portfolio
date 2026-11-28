@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035898 | [Raspberry Pi: Automation — Recovery for Portfolio Demo](Project_035898/README.md) |
 | 035899 | [Raspberry Pi: Automation — Reporting for Portfolio Demo](Project_035899/README.md) |
 | 035900 | [Raspberry Pi: Automation — Usability Improvement for Portfolio Demo](Project_035900/README.md) |
+| 035901 | [Raspberry Pi: Visual Reporting — Baseline Setup for School Lab](Project_035901/README.md) |
+| 035902 | [Raspberry Pi: Visual Reporting — Automation for School Lab](Project_035902/README.md) |
+| 035903 | [Raspberry Pi: Visual Reporting — Recovery for School Lab](Project_035903/README.md) |
+| 035904 | [Raspberry Pi: Visual Reporting — Reporting for School Lab](Project_035904/README.md) |
+| 035905 | [Raspberry Pi: Visual Reporting — Usability Improvement for School Lab](Project_035905/README.md) |
+| 035906 | [Raspberry Pi: Visual Reporting — Baseline Setup for Small Business](Project_035906/README.md) |
+| 035907 | [Raspberry Pi: Visual Reporting — Automation for Small Business](Project_035907/README.md) |
+| 035908 | [Raspberry Pi: Visual Reporting — Recovery for Small Business](Project_035908/README.md) |
+| 035909 | [Raspberry Pi: Visual Reporting — Reporting for Small Business](Project_035909/README.md) |
+| 035910 | [Raspberry Pi: Visual Reporting — Usability Improvement for Small Business](Project_035910/README.md) |
+| 035911 | [Raspberry Pi: Visual Reporting — Baseline Setup for Home Development](Project_035911/README.md) |
+| 035912 | [Raspberry Pi: Visual Reporting — Automation for Home Development](Project_035912/README.md) |
+| 035913 | [Raspberry Pi: Visual Reporting — Recovery for Home Development](Project_035913/README.md) |
+| 035914 | [Raspberry Pi: Visual Reporting — Reporting for Home Development](Project_035914/README.md) |
+| 035915 | [Raspberry Pi: Visual Reporting — Usability Improvement for Home Development](Project_035915/README.md) |
+| 035916 | [Raspberry Pi: Visual Reporting — Baseline Setup for Public Dataset](Project_035916/README.md) |
+| 035917 | [Raspberry Pi: Visual Reporting — Automation for Public Dataset](Project_035917/README.md) |
+| 035918 | [Raspberry Pi: Visual Reporting — Recovery for Public Dataset](Project_035918/README.md) |
+| 035919 | [Raspberry Pi: Visual Reporting — Reporting for Public Dataset](Project_035919/README.md) |
+| 035920 | [Raspberry Pi: Visual Reporting — Usability Improvement for Public Dataset](Project_035920/README.md) |
 
 [Back to the portfolio home](../README.md)
