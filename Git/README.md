@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038218 | [Git: Backup Verification — Recovery for Public Dataset](Project_038218/README.md) |
 | 038219 | [Git: Backup Verification — Reporting for Public Dataset](Project_038219/README.md) |
 | 038220 | [Git: Backup Verification — Usability Improvement for Public Dataset](Project_038220/README.md) |
+| 038221 | [Git: Backup Verification — Baseline Setup for Branch Office Simulator](Project_038221/README.md) |
+| 038222 | [Git: Backup Verification — Automation for Branch Office Simulator](Project_038222/README.md) |
+| 038223 | [Git: Backup Verification — Recovery for Branch Office Simulator](Project_038223/README.md) |
+| 038224 | [Git: Backup Verification — Reporting for Branch Office Simulator](Project_038224/README.md) |
+| 038225 | [Git: Backup Verification — Usability Improvement for Branch Office Simulator](Project_038225/README.md) |
+| 038226 | [Git: Backup Verification — Baseline Setup for Offline Classroom](Project_038226/README.md) |
+| 038227 | [Git: Backup Verification — Automation for Offline Classroom](Project_038227/README.md) |
+| 038228 | [Git: Backup Verification — Recovery for Offline Classroom](Project_038228/README.md) |
+| 038229 | [Git: Backup Verification — Reporting for Offline Classroom](Project_038229/README.md) |
+| 038230 | [Git: Backup Verification — Usability Improvement for Offline Classroom](Project_038230/README.md) |
+| 038231 | [Git: Backup Verification — Baseline Setup for Single-Host Lab](Project_038231/README.md) |
+| 038232 | [Git: Backup Verification — Automation for Single-Host Lab](Project_038232/README.md) |
+| 038233 | [Git: Backup Verification — Recovery for Single-Host Lab](Project_038233/README.md) |
+| 038234 | [Git: Backup Verification — Reporting for Single-Host Lab](Project_038234/README.md) |
+| 038235 | [Git: Backup Verification — Usability Improvement for Single-Host Lab](Project_038235/README.md) |
+| 038236 | [Git: Backup Verification — Baseline Setup for Two-Node Lab](Project_038236/README.md) |
+| 038237 | [Git: Backup Verification — Automation for Two-Node Lab](Project_038237/README.md) |
+| 038238 | [Git: Backup Verification — Recovery for Two-Node Lab](Project_038238/README.md) |
+| 038239 | [Git: Backup Verification — Reporting for Two-Node Lab](Project_038239/README.md) |
+| 038240 | [Git: Backup Verification — Usability Improvement for Two-Node Lab](Project_038240/README.md) |
 
 [Back to the portfolio home](../README.md)
