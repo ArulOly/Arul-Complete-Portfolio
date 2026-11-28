@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046018 | [Terraform: Inventory — Recovery for Public Dataset](Project_046018/README.md) |
 | 046019 | [Terraform: Inventory — Reporting for Public Dataset](Project_046019/README.md) |
 | 046020 | [Terraform: Inventory — Usability Improvement for Public Dataset](Project_046020/README.md) |
+| 046021 | [Terraform: Inventory — Baseline Setup for Branch Office Simulator](Project_046021/README.md) |
+| 046022 | [Terraform: Inventory — Automation for Branch Office Simulator](Project_046022/README.md) |
+| 046023 | [Terraform: Inventory — Recovery for Branch Office Simulator](Project_046023/README.md) |
+| 046024 | [Terraform: Inventory — Reporting for Branch Office Simulator](Project_046024/README.md) |
+| 046025 | [Terraform: Inventory — Usability Improvement for Branch Office Simulator](Project_046025/README.md) |
+| 046026 | [Terraform: Inventory — Baseline Setup for Offline Classroom](Project_046026/README.md) |
+| 046027 | [Terraform: Inventory — Automation for Offline Classroom](Project_046027/README.md) |
+| 046028 | [Terraform: Inventory — Recovery for Offline Classroom](Project_046028/README.md) |
+| 046029 | [Terraform: Inventory — Reporting for Offline Classroom](Project_046029/README.md) |
+| 046030 | [Terraform: Inventory — Usability Improvement for Offline Classroom](Project_046030/README.md) |
+| 046031 | [Terraform: Inventory — Baseline Setup for Single-Host Lab](Project_046031/README.md) |
+| 046032 | [Terraform: Inventory — Automation for Single-Host Lab](Project_046032/README.md) |
+| 046033 | [Terraform: Inventory — Recovery for Single-Host Lab](Project_046033/README.md) |
+| 046034 | [Terraform: Inventory — Reporting for Single-Host Lab](Project_046034/README.md) |
+| 046035 | [Terraform: Inventory — Usability Improvement for Single-Host Lab](Project_046035/README.md) |
+| 046036 | [Terraform: Inventory — Baseline Setup for Two-Node Lab](Project_046036/README.md) |
+| 046037 | [Terraform: Inventory — Automation for Two-Node Lab](Project_046037/README.md) |
+| 046038 | [Terraform: Inventory — Recovery for Two-Node Lab](Project_046038/README.md) |
+| 046039 | [Terraform: Inventory — Reporting for Two-Node Lab](Project_046039/README.md) |
+| 046040 | [Terraform: Inventory — Usability Improvement for Two-Node Lab](Project_046040/README.md) |
 
 [Back to the portfolio home](../README.md)
