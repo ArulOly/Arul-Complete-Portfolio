@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029738 | [Wireshark: Error Handling — Recovery for Two-Node Lab](Project_029738/README.md) |
 | 029739 | [Wireshark: Error Handling — Reporting for Two-Node Lab](Project_029739/README.md) |
 | 029740 | [Wireshark: Error Handling — Usability Improvement for Two-Node Lab](Project_029740/README.md) |
+| 029741 | [Wireshark: Error Handling — Baseline Setup for Help Desk](Project_029741/README.md) |
+| 029742 | [Wireshark: Error Handling — Automation for Help Desk](Project_029742/README.md) |
+| 029743 | [Wireshark: Error Handling — Recovery for Help Desk](Project_029743/README.md) |
+| 029744 | [Wireshark: Error Handling — Reporting for Help Desk](Project_029744/README.md) |
+| 029745 | [Wireshark: Error Handling — Usability Improvement for Help Desk](Project_029745/README.md) |
+| 029746 | [Wireshark: Error Handling — Baseline Setup for Portfolio Demo](Project_029746/README.md) |
+| 029747 | [Wireshark: Error Handling — Automation for Portfolio Demo](Project_029747/README.md) |
+| 029748 | [Wireshark: Error Handling — Recovery for Portfolio Demo](Project_029748/README.md) |
+| 029749 | [Wireshark: Error Handling — Reporting for Portfolio Demo](Project_029749/README.md) |
+| 029750 | [Wireshark: Error Handling — Usability Improvement for Portfolio Demo](Project_029750/README.md) |
+| 029751 | [Wireshark: Data Validation — Baseline Setup for School Lab](Project_029751/README.md) |
+| 029752 | [Wireshark: Data Validation — Automation for School Lab](Project_029752/README.md) |
+| 029753 | [Wireshark: Data Validation — Recovery for School Lab](Project_029753/README.md) |
+| 029754 | [Wireshark: Data Validation — Reporting for School Lab](Project_029754/README.md) |
+| 029755 | [Wireshark: Data Validation — Usability Improvement for School Lab](Project_029755/README.md) |
+| 029756 | [Wireshark: Data Validation — Baseline Setup for Small Business](Project_029756/README.md) |
+| 029757 | [Wireshark: Data Validation — Automation for Small Business](Project_029757/README.md) |
+| 029758 | [Wireshark: Data Validation — Recovery for Small Business](Project_029758/README.md) |
+| 029759 | [Wireshark: Data Validation — Reporting for Small Business](Project_029759/README.md) |
+| 029760 | [Wireshark: Data Validation — Usability Improvement for Small Business](Project_029760/README.md) |
 
 [Back to the portfolio home](../README.md)
