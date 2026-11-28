@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015078 | [Azure: Monitoring — Recovery for Offline Classroom](Project_015078/README.md) |
 | 015079 | [Azure: Monitoring — Reporting for Offline Classroom](Project_015079/README.md) |
 | 015080 | [Azure: Monitoring — Usability Improvement for Offline Classroom](Project_015080/README.md) |
+| 015081 | [Azure: Monitoring — Baseline Setup for Single-Host Lab](Project_015081/README.md) |
+| 015082 | [Azure: Monitoring — Automation for Single-Host Lab](Project_015082/README.md) |
+| 015083 | [Azure: Monitoring — Recovery for Single-Host Lab](Project_015083/README.md) |
+| 015084 | [Azure: Monitoring — Reporting for Single-Host Lab](Project_015084/README.md) |
+| 015085 | [Azure: Monitoring — Usability Improvement for Single-Host Lab](Project_015085/README.md) |
+| 015086 | [Azure: Monitoring — Baseline Setup for Two-Node Lab](Project_015086/README.md) |
+| 015087 | [Azure: Monitoring — Automation for Two-Node Lab](Project_015087/README.md) |
+| 015088 | [Azure: Monitoring — Recovery for Two-Node Lab](Project_015088/README.md) |
+| 015089 | [Azure: Monitoring — Reporting for Two-Node Lab](Project_015089/README.md) |
+| 015090 | [Azure: Monitoring — Usability Improvement for Two-Node Lab](Project_015090/README.md) |
+| 015091 | [Azure: Monitoring — Baseline Setup for Help Desk](Project_015091/README.md) |
+| 015092 | [Azure: Monitoring — Automation for Help Desk](Project_015092/README.md) |
+| 015093 | [Azure: Monitoring — Recovery for Help Desk](Project_015093/README.md) |
+| 015094 | [Azure: Monitoring — Reporting for Help Desk](Project_015094/README.md) |
+| 015095 | [Azure: Monitoring — Usability Improvement for Help Desk](Project_015095/README.md) |
+| 015096 | [Azure: Monitoring — Baseline Setup for Portfolio Demo](Project_015096/README.md) |
+| 015097 | [Azure: Monitoring — Automation for Portfolio Demo](Project_015097/README.md) |
+| 015098 | [Azure: Monitoring — Recovery for Portfolio Demo](Project_015098/README.md) |
+| 015099 | [Azure: Monitoring — Reporting for Portfolio Demo](Project_015099/README.md) |
+| 015100 | [Azure: Monitoring — Usability Improvement for Portfolio Demo](Project_015100/README.md) |
 
 [Back to the portfolio home](../README.md)
