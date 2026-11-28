@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040558 | [PowerShell: Performance Baseline — Recovery for Small Business](Project_040558/README.md) |
 | 040559 | [PowerShell: Performance Baseline — Reporting for Small Business](Project_040559/README.md) |
 | 040560 | [PowerShell: Performance Baseline — Usability Improvement for Small Business](Project_040560/README.md) |
+| 040561 | [PowerShell: Performance Baseline — Baseline Setup for Home Development](Project_040561/README.md) |
+| 040562 | [PowerShell: Performance Baseline — Automation for Home Development](Project_040562/README.md) |
+| 040563 | [PowerShell: Performance Baseline — Recovery for Home Development](Project_040563/README.md) |
+| 040564 | [PowerShell: Performance Baseline — Reporting for Home Development](Project_040564/README.md) |
+| 040565 | [PowerShell: Performance Baseline — Usability Improvement for Home Development](Project_040565/README.md) |
+| 040566 | [PowerShell: Performance Baseline — Baseline Setup for Public Dataset](Project_040566/README.md) |
+| 040567 | [PowerShell: Performance Baseline — Automation for Public Dataset](Project_040567/README.md) |
+| 040568 | [PowerShell: Performance Baseline — Recovery for Public Dataset](Project_040568/README.md) |
+| 040569 | [PowerShell: Performance Baseline — Reporting for Public Dataset](Project_040569/README.md) |
+| 040570 | [PowerShell: Performance Baseline — Usability Improvement for Public Dataset](Project_040570/README.md) |
+| 040571 | [PowerShell: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_040571/README.md) |
+| 040572 | [PowerShell: Performance Baseline — Automation for Branch Office Simulator](Project_040572/README.md) |
+| 040573 | [PowerShell: Performance Baseline — Recovery for Branch Office Simulator](Project_040573/README.md) |
+| 040574 | [PowerShell: Performance Baseline — Reporting for Branch Office Simulator](Project_040574/README.md) |
+| 040575 | [PowerShell: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_040575/README.md) |
+| 040576 | [PowerShell: Performance Baseline — Baseline Setup for Offline Classroom](Project_040576/README.md) |
+| 040577 | [PowerShell: Performance Baseline — Automation for Offline Classroom](Project_040577/README.md) |
+| 040578 | [PowerShell: Performance Baseline — Recovery for Offline Classroom](Project_040578/README.md) |
+| 040579 | [PowerShell: Performance Baseline — Reporting for Offline Classroom](Project_040579/README.md) |
+| 040580 | [PowerShell: Performance Baseline — Usability Improvement for Offline Classroom](Project_040580/README.md) |
 
 [Back to the portfolio home](../README.md)
