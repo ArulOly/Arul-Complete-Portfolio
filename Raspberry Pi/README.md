@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035938 | [Raspberry Pi: Visual Reporting — Recovery for Two-Node Lab](Project_035938/README.md) |
 | 035939 | [Raspberry Pi: Visual Reporting — Reporting for Two-Node Lab](Project_035939/README.md) |
 | 035940 | [Raspberry Pi: Visual Reporting — Usability Improvement for Two-Node Lab](Project_035940/README.md) |
+| 035941 | [Raspberry Pi: Visual Reporting — Baseline Setup for Help Desk](Project_035941/README.md) |
+| 035942 | [Raspberry Pi: Visual Reporting — Automation for Help Desk](Project_035942/README.md) |
+| 035943 | [Raspberry Pi: Visual Reporting — Recovery for Help Desk](Project_035943/README.md) |
+| 035944 | [Raspberry Pi: Visual Reporting — Reporting for Help Desk](Project_035944/README.md) |
+| 035945 | [Raspberry Pi: Visual Reporting — Usability Improvement for Help Desk](Project_035945/README.md) |
+| 035946 | [Raspberry Pi: Visual Reporting — Baseline Setup for Portfolio Demo](Project_035946/README.md) |
+| 035947 | [Raspberry Pi: Visual Reporting — Automation for Portfolio Demo](Project_035947/README.md) |
+| 035948 | [Raspberry Pi: Visual Reporting — Recovery for Portfolio Demo](Project_035948/README.md) |
+| 035949 | [Raspberry Pi: Visual Reporting — Reporting for Portfolio Demo](Project_035949/README.md) |
+| 035950 | [Raspberry Pi: Visual Reporting — Usability Improvement for Portfolio Demo](Project_035950/README.md) |
+| 035951 | [Raspberry Pi: Recovery Test — Baseline Setup for School Lab](Project_035951/README.md) |
+| 035952 | [Raspberry Pi: Recovery Test — Automation for School Lab](Project_035952/README.md) |
+| 035953 | [Raspberry Pi: Recovery Test — Recovery for School Lab](Project_035953/README.md) |
+| 035954 | [Raspberry Pi: Recovery Test — Reporting for School Lab](Project_035954/README.md) |
+| 035955 | [Raspberry Pi: Recovery Test — Usability Improvement for School Lab](Project_035955/README.md) |
+| 035956 | [Raspberry Pi: Recovery Test — Baseline Setup for Small Business](Project_035956/README.md) |
+| 035957 | [Raspberry Pi: Recovery Test — Automation for Small Business](Project_035957/README.md) |
+| 035958 | [Raspberry Pi: Recovery Test — Recovery for Small Business](Project_035958/README.md) |
+| 035959 | [Raspberry Pi: Recovery Test — Reporting for Small Business](Project_035959/README.md) |
+| 035960 | [Raspberry Pi: Recovery Test — Usability Improvement for Small Business](Project_035960/README.md) |
 
 [Back to the portfolio home](../README.md)
