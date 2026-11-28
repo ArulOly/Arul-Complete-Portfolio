@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 920
+**Projects documented** 940
 
 ## Project categories
 
@@ -961,5 +961,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018918 | [Kubernetes: Visual Reporting — Recovery for Public Dataset](Project_018918/README.md) |
 | 018919 | [Kubernetes: Visual Reporting — Reporting for Public Dataset](Project_018919/README.md) |
 | 018920 | [Kubernetes: Visual Reporting — Usability Improvement for Public Dataset](Project_018920/README.md) |
+| 018921 | [Kubernetes: Visual Reporting — Baseline Setup for Branch Office Simulator](Project_018921/README.md) |
+| 018922 | [Kubernetes: Visual Reporting — Automation for Branch Office Simulator](Project_018922/README.md) |
+| 018923 | [Kubernetes: Visual Reporting — Recovery for Branch Office Simulator](Project_018923/README.md) |
+| 018924 | [Kubernetes: Visual Reporting — Reporting for Branch Office Simulator](Project_018924/README.md) |
+| 018925 | [Kubernetes: Visual Reporting — Usability Improvement for Branch Office Simulator](Project_018925/README.md) |
+| 018926 | [Kubernetes: Visual Reporting — Baseline Setup for Offline Classroom](Project_018926/README.md) |
+| 018927 | [Kubernetes: Visual Reporting — Automation for Offline Classroom](Project_018927/README.md) |
+| 018928 | [Kubernetes: Visual Reporting — Recovery for Offline Classroom](Project_018928/README.md) |
+| 018929 | [Kubernetes: Visual Reporting — Reporting for Offline Classroom](Project_018929/README.md) |
+| 018930 | [Kubernetes: Visual Reporting — Usability Improvement for Offline Classroom](Project_018930/README.md) |
+| 018931 | [Kubernetes: Visual Reporting — Baseline Setup for Single-Host Lab](Project_018931/README.md) |
+| 018932 | [Kubernetes: Visual Reporting — Automation for Single-Host Lab](Project_018932/README.md) |
+| 018933 | [Kubernetes: Visual Reporting — Recovery for Single-Host Lab](Project_018933/README.md) |
+| 018934 | [Kubernetes: Visual Reporting — Reporting for Single-Host Lab](Project_018934/README.md) |
+| 018935 | [Kubernetes: Visual Reporting — Usability Improvement for Single-Host Lab](Project_018935/README.md) |
+| 018936 | [Kubernetes: Visual Reporting — Baseline Setup for Two-Node Lab](Project_018936/README.md) |
+| 018937 | [Kubernetes: Visual Reporting — Automation for Two-Node Lab](Project_018937/README.md) |
+| 018938 | [Kubernetes: Visual Reporting — Recovery for Two-Node Lab](Project_018938/README.md) |
+| 018939 | [Kubernetes: Visual Reporting — Reporting for Two-Node Lab](Project_018939/README.md) |
+| 018940 | [Kubernetes: Visual Reporting — Usability Improvement for Two-Node Lab](Project_018940/README.md) |
 
 [Back to the portfolio home](../README.md)
