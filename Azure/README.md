@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015558 | [Azure: Performance Baseline — Recovery for Small Business](Project_015558/README.md) |
 | 015559 | [Azure: Performance Baseline — Reporting for Small Business](Project_015559/README.md) |
 | 015560 | [Azure: Performance Baseline — Usability Improvement for Small Business](Project_015560/README.md) |
+| 015561 | [Azure: Performance Baseline — Baseline Setup for Home Development](Project_015561/README.md) |
+| 015562 | [Azure: Performance Baseline — Automation for Home Development](Project_015562/README.md) |
+| 015563 | [Azure: Performance Baseline — Recovery for Home Development](Project_015563/README.md) |
+| 015564 | [Azure: Performance Baseline — Reporting for Home Development](Project_015564/README.md) |
+| 015565 | [Azure: Performance Baseline — Usability Improvement for Home Development](Project_015565/README.md) |
+| 015566 | [Azure: Performance Baseline — Baseline Setup for Public Dataset](Project_015566/README.md) |
+| 015567 | [Azure: Performance Baseline — Automation for Public Dataset](Project_015567/README.md) |
+| 015568 | [Azure: Performance Baseline — Recovery for Public Dataset](Project_015568/README.md) |
+| 015569 | [Azure: Performance Baseline — Reporting for Public Dataset](Project_015569/README.md) |
+| 015570 | [Azure: Performance Baseline — Usability Improvement for Public Dataset](Project_015570/README.md) |
+| 015571 | [Azure: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_015571/README.md) |
+| 015572 | [Azure: Performance Baseline — Automation for Branch Office Simulator](Project_015572/README.md) |
+| 015573 | [Azure: Performance Baseline — Recovery for Branch Office Simulator](Project_015573/README.md) |
+| 015574 | [Azure: Performance Baseline — Reporting for Branch Office Simulator](Project_015574/README.md) |
+| 015575 | [Azure: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_015575/README.md) |
+| 015576 | [Azure: Performance Baseline — Baseline Setup for Offline Classroom](Project_015576/README.md) |
+| 015577 | [Azure: Performance Baseline — Automation for Offline Classroom](Project_015577/README.md) |
+| 015578 | [Azure: Performance Baseline — Recovery for Offline Classroom](Project_015578/README.md) |
+| 015579 | [Azure: Performance Baseline — Reporting for Offline Classroom](Project_015579/README.md) |
+| 015580 | [Azure: Performance Baseline — Usability Improvement for Offline Classroom](Project_015580/README.md) |
 
 [Back to the portfolio home](../README.md)
