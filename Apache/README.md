@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042938 | [Apache: Visual Reporting — Recovery for Two-Node Lab](Project_042938/README.md) |
 | 042939 | [Apache: Visual Reporting — Reporting for Two-Node Lab](Project_042939/README.md) |
 | 042940 | [Apache: Visual Reporting — Usability Improvement for Two-Node Lab](Project_042940/README.md) |
+| 042941 | [Apache: Visual Reporting — Baseline Setup for Help Desk](Project_042941/README.md) |
+| 042942 | [Apache: Visual Reporting — Automation for Help Desk](Project_042942/README.md) |
+| 042943 | [Apache: Visual Reporting — Recovery for Help Desk](Project_042943/README.md) |
+| 042944 | [Apache: Visual Reporting — Reporting for Help Desk](Project_042944/README.md) |
+| 042945 | [Apache: Visual Reporting — Usability Improvement for Help Desk](Project_042945/README.md) |
+| 042946 | [Apache: Visual Reporting — Baseline Setup for Portfolio Demo](Project_042946/README.md) |
+| 042947 | [Apache: Visual Reporting — Automation for Portfolio Demo](Project_042947/README.md) |
+| 042948 | [Apache: Visual Reporting — Recovery for Portfolio Demo](Project_042948/README.md) |
+| 042949 | [Apache: Visual Reporting — Reporting for Portfolio Demo](Project_042949/README.md) |
+| 042950 | [Apache: Visual Reporting — Usability Improvement for Portfolio Demo](Project_042950/README.md) |
+| 042951 | [Apache: Recovery Test — Baseline Setup for School Lab](Project_042951/README.md) |
+| 042952 | [Apache: Recovery Test — Automation for School Lab](Project_042952/README.md) |
+| 042953 | [Apache: Recovery Test — Recovery for School Lab](Project_042953/README.md) |
+| 042954 | [Apache: Recovery Test — Reporting for School Lab](Project_042954/README.md) |
+| 042955 | [Apache: Recovery Test — Usability Improvement for School Lab](Project_042955/README.md) |
+| 042956 | [Apache: Recovery Test — Baseline Setup for Small Business](Project_042956/README.md) |
+| 042957 | [Apache: Recovery Test — Automation for Small Business](Project_042957/README.md) |
+| 042958 | [Apache: Recovery Test — Recovery for Small Business](Project_042958/README.md) |
+| 042959 | [Apache: Recovery Test — Reporting for Small Business](Project_042959/README.md) |
+| 042960 | [Apache: Recovery Test — Usability Improvement for Small Business](Project_042960/README.md) |
 
 [Back to the portfolio home](../README.md)
