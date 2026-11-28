@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 960
+**Projects documented** 980
 
 ## Project categories
 
@@ -1001,5 +1001,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030958 | [Wazuh: Recovery Test — Recovery for Small Business](Project_030958/README.md) |
 | 030959 | [Wazuh: Recovery Test — Reporting for Small Business](Project_030959/README.md) |
 | 030960 | [Wazuh: Recovery Test — Usability Improvement for Small Business](Project_030960/README.md) |
+| 030961 | [Wazuh: Recovery Test — Baseline Setup for Home Development](Project_030961/README.md) |
+| 030962 | [Wazuh: Recovery Test — Automation for Home Development](Project_030962/README.md) |
+| 030963 | [Wazuh: Recovery Test — Recovery for Home Development](Project_030963/README.md) |
+| 030964 | [Wazuh: Recovery Test — Reporting for Home Development](Project_030964/README.md) |
+| 030965 | [Wazuh: Recovery Test — Usability Improvement for Home Development](Project_030965/README.md) |
+| 030966 | [Wazuh: Recovery Test — Baseline Setup for Public Dataset](Project_030966/README.md) |
+| 030967 | [Wazuh: Recovery Test — Automation for Public Dataset](Project_030967/README.md) |
+| 030968 | [Wazuh: Recovery Test — Recovery for Public Dataset](Project_030968/README.md) |
+| 030969 | [Wazuh: Recovery Test — Reporting for Public Dataset](Project_030969/README.md) |
+| 030970 | [Wazuh: Recovery Test — Usability Improvement for Public Dataset](Project_030970/README.md) |
+| 030971 | [Wazuh: Recovery Test — Baseline Setup for Branch Office Simulator](Project_030971/README.md) |
+| 030972 | [Wazuh: Recovery Test — Automation for Branch Office Simulator](Project_030972/README.md) |
+| 030973 | [Wazuh: Recovery Test — Recovery for Branch Office Simulator](Project_030973/README.md) |
+| 030974 | [Wazuh: Recovery Test — Reporting for Branch Office Simulator](Project_030974/README.md) |
+| 030975 | [Wazuh: Recovery Test — Usability Improvement for Branch Office Simulator](Project_030975/README.md) |
+| 030976 | [Wazuh: Recovery Test — Baseline Setup for Offline Classroom](Project_030976/README.md) |
+| 030977 | [Wazuh: Recovery Test — Automation for Offline Classroom](Project_030977/README.md) |
+| 030978 | [Wazuh: Recovery Test — Recovery for Offline Classroom](Project_030978/README.md) |
+| 030979 | [Wazuh: Recovery Test — Reporting for Offline Classroom](Project_030979/README.md) |
+| 030980 | [Wazuh: Recovery Test — Usability Improvement for Offline Classroom](Project_030980/README.md) |
 
 [Back to the portfolio home](../README.md)
