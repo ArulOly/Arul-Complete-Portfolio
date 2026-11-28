@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017758 | [Docker: Data Validation — Recovery for Small Business](Project_017758/README.md) |
 | 017759 | [Docker: Data Validation — Reporting for Small Business](Project_017759/README.md) |
 | 017760 | [Docker: Data Validation — Usability Improvement for Small Business](Project_017760/README.md) |
+| 017761 | [Docker: Data Validation — Baseline Setup for Home Development](Project_017761/README.md) |
+| 017762 | [Docker: Data Validation — Automation for Home Development](Project_017762/README.md) |
+| 017763 | [Docker: Data Validation — Recovery for Home Development](Project_017763/README.md) |
+| 017764 | [Docker: Data Validation — Reporting for Home Development](Project_017764/README.md) |
+| 017765 | [Docker: Data Validation — Usability Improvement for Home Development](Project_017765/README.md) |
+| 017766 | [Docker: Data Validation — Baseline Setup for Public Dataset](Project_017766/README.md) |
+| 017767 | [Docker: Data Validation — Automation for Public Dataset](Project_017767/README.md) |
+| 017768 | [Docker: Data Validation — Recovery for Public Dataset](Project_017768/README.md) |
+| 017769 | [Docker: Data Validation — Reporting for Public Dataset](Project_017769/README.md) |
+| 017770 | [Docker: Data Validation — Usability Improvement for Public Dataset](Project_017770/README.md) |
+| 017771 | [Docker: Data Validation — Baseline Setup for Branch Office Simulator](Project_017771/README.md) |
+| 017772 | [Docker: Data Validation — Automation for Branch Office Simulator](Project_017772/README.md) |
+| 017773 | [Docker: Data Validation — Recovery for Branch Office Simulator](Project_017773/README.md) |
+| 017774 | [Docker: Data Validation — Reporting for Branch Office Simulator](Project_017774/README.md) |
+| 017775 | [Docker: Data Validation — Usability Improvement for Branch Office Simulator](Project_017775/README.md) |
+| 017776 | [Docker: Data Validation — Baseline Setup for Offline Classroom](Project_017776/README.md) |
+| 017777 | [Docker: Data Validation — Automation for Offline Classroom](Project_017777/README.md) |
+| 017778 | [Docker: Data Validation — Recovery for Offline Classroom](Project_017778/README.md) |
+| 017779 | [Docker: Data Validation — Reporting for Offline Classroom](Project_017779/README.md) |
+| 017780 | [Docker: Data Validation — Usability Improvement for Offline Classroom](Project_017780/README.md) |
 
 [Back to the portfolio home](../README.md)
