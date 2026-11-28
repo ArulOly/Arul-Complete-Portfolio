@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018838 | [Kubernetes: Documentation Generation — Recovery for Two-Node Lab](Project_018838/README.md) |
 | 018839 | [Kubernetes: Documentation Generation — Reporting for Two-Node Lab](Project_018839/README.md) |
 | 018840 | [Kubernetes: Documentation Generation — Usability Improvement for Two-Node Lab](Project_018840/README.md) |
+| 018841 | [Kubernetes: Documentation Generation — Baseline Setup for Help Desk](Project_018841/README.md) |
+| 018842 | [Kubernetes: Documentation Generation — Automation for Help Desk](Project_018842/README.md) |
+| 018843 | [Kubernetes: Documentation Generation — Recovery for Help Desk](Project_018843/README.md) |
+| 018844 | [Kubernetes: Documentation Generation — Reporting for Help Desk](Project_018844/README.md) |
+| 018845 | [Kubernetes: Documentation Generation — Usability Improvement for Help Desk](Project_018845/README.md) |
+| 018846 | [Kubernetes: Documentation Generation — Baseline Setup for Portfolio Demo](Project_018846/README.md) |
+| 018847 | [Kubernetes: Documentation Generation — Automation for Portfolio Demo](Project_018847/README.md) |
+| 018848 | [Kubernetes: Documentation Generation — Recovery for Portfolio Demo](Project_018848/README.md) |
+| 018849 | [Kubernetes: Documentation Generation — Reporting for Portfolio Demo](Project_018849/README.md) |
+| 018850 | [Kubernetes: Documentation Generation — Usability Improvement for Portfolio Demo](Project_018850/README.md) |
+| 018851 | [Kubernetes: Automation — Baseline Setup for School Lab](Project_018851/README.md) |
+| 018852 | [Kubernetes: Automation — Automation for School Lab](Project_018852/README.md) |
+| 018853 | [Kubernetes: Automation — Recovery for School Lab](Project_018853/README.md) |
+| 018854 | [Kubernetes: Automation — Reporting for School Lab](Project_018854/README.md) |
+| 018855 | [Kubernetes: Automation — Usability Improvement for School Lab](Project_018855/README.md) |
+| 018856 | [Kubernetes: Automation — Baseline Setup for Small Business](Project_018856/README.md) |
+| 018857 | [Kubernetes: Automation — Automation for Small Business](Project_018857/README.md) |
+| 018858 | [Kubernetes: Automation — Recovery for Small Business](Project_018858/README.md) |
+| 018859 | [Kubernetes: Automation — Reporting for Small Business](Project_018859/README.md) |
+| 018860 | [Kubernetes: Automation — Usability Improvement for Small Business](Project_018860/README.md) |
 
 [Back to the portfolio home](../README.md)
