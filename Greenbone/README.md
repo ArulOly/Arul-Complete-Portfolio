@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031778 | [Greenbone: Data Validation — Recovery for Offline Classroom](Project_031778/README.md) |
 | 031779 | [Greenbone: Data Validation — Reporting for Offline Classroom](Project_031779/README.md) |
 | 031780 | [Greenbone: Data Validation — Usability Improvement for Offline Classroom](Project_031780/README.md) |
+| 031781 | [Greenbone: Data Validation — Baseline Setup for Single-Host Lab](Project_031781/README.md) |
+| 031782 | [Greenbone: Data Validation — Automation for Single-Host Lab](Project_031782/README.md) |
+| 031783 | [Greenbone: Data Validation — Recovery for Single-Host Lab](Project_031783/README.md) |
+| 031784 | [Greenbone: Data Validation — Reporting for Single-Host Lab](Project_031784/README.md) |
+| 031785 | [Greenbone: Data Validation — Usability Improvement for Single-Host Lab](Project_031785/README.md) |
+| 031786 | [Greenbone: Data Validation — Baseline Setup for Two-Node Lab](Project_031786/README.md) |
+| 031787 | [Greenbone: Data Validation — Automation for Two-Node Lab](Project_031787/README.md) |
+| 031788 | [Greenbone: Data Validation — Recovery for Two-Node Lab](Project_031788/README.md) |
+| 031789 | [Greenbone: Data Validation — Reporting for Two-Node Lab](Project_031789/README.md) |
+| 031790 | [Greenbone: Data Validation — Usability Improvement for Two-Node Lab](Project_031790/README.md) |
+| 031791 | [Greenbone: Data Validation — Baseline Setup for Help Desk](Project_031791/README.md) |
+| 031792 | [Greenbone: Data Validation — Automation for Help Desk](Project_031792/README.md) |
+| 031793 | [Greenbone: Data Validation — Recovery for Help Desk](Project_031793/README.md) |
+| 031794 | [Greenbone: Data Validation — Reporting for Help Desk](Project_031794/README.md) |
+| 031795 | [Greenbone: Data Validation — Usability Improvement for Help Desk](Project_031795/README.md) |
+| 031796 | [Greenbone: Data Validation — Baseline Setup for Portfolio Demo](Project_031796/README.md) |
+| 031797 | [Greenbone: Data Validation — Automation for Portfolio Demo](Project_031797/README.md) |
+| 031798 | [Greenbone: Data Validation — Recovery for Portfolio Demo](Project_031798/README.md) |
+| 031799 | [Greenbone: Data Validation — Reporting for Portfolio Demo](Project_031799/README.md) |
+| 031800 | [Greenbone: Data Validation — Usability Improvement for Portfolio Demo](Project_031800/README.md) |
 
 [Back to the portfolio home](../README.md)
