@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031318 | [Greenbone: Data Export — Recovery for Public Dataset](Project_031318/README.md) |
 | 031319 | [Greenbone: Data Export — Reporting for Public Dataset](Project_031319/README.md) |
 | 031320 | [Greenbone: Data Export — Usability Improvement for Public Dataset](Project_031320/README.md) |
+| 031321 | [Greenbone: Data Export — Baseline Setup for Branch Office Simulator](Project_031321/README.md) |
+| 031322 | [Greenbone: Data Export — Automation for Branch Office Simulator](Project_031322/README.md) |
+| 031323 | [Greenbone: Data Export — Recovery for Branch Office Simulator](Project_031323/README.md) |
+| 031324 | [Greenbone: Data Export — Reporting for Branch Office Simulator](Project_031324/README.md) |
+| 031325 | [Greenbone: Data Export — Usability Improvement for Branch Office Simulator](Project_031325/README.md) |
+| 031326 | [Greenbone: Data Export — Baseline Setup for Offline Classroom](Project_031326/README.md) |
+| 031327 | [Greenbone: Data Export — Automation for Offline Classroom](Project_031327/README.md) |
+| 031328 | [Greenbone: Data Export — Recovery for Offline Classroom](Project_031328/README.md) |
+| 031329 | [Greenbone: Data Export — Reporting for Offline Classroom](Project_031329/README.md) |
+| 031330 | [Greenbone: Data Export — Usability Improvement for Offline Classroom](Project_031330/README.md) |
+| 031331 | [Greenbone: Data Export — Baseline Setup for Single-Host Lab](Project_031331/README.md) |
+| 031332 | [Greenbone: Data Export — Automation for Single-Host Lab](Project_031332/README.md) |
+| 031333 | [Greenbone: Data Export — Recovery for Single-Host Lab](Project_031333/README.md) |
+| 031334 | [Greenbone: Data Export — Reporting for Single-Host Lab](Project_031334/README.md) |
+| 031335 | [Greenbone: Data Export — Usability Improvement for Single-Host Lab](Project_031335/README.md) |
+| 031336 | [Greenbone: Data Export — Baseline Setup for Two-Node Lab](Project_031336/README.md) |
+| 031337 | [Greenbone: Data Export — Automation for Two-Node Lab](Project_031337/README.md) |
+| 031338 | [Greenbone: Data Export — Recovery for Two-Node Lab](Project_031338/README.md) |
+| 031339 | [Greenbone: Data Export — Reporting for Two-Node Lab](Project_031339/README.md) |
+| 031340 | [Greenbone: Data Export — Usability Improvement for Two-Node Lab](Project_031340/README.md) |
 
 [Back to the portfolio home](../README.md)
