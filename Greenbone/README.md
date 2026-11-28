@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031638 | [Greenbone: Service Check — Recovery for Two-Node Lab](Project_031638/README.md) |
 | 031639 | [Greenbone: Service Check — Reporting for Two-Node Lab](Project_031639/README.md) |
 | 031640 | [Greenbone: Service Check — Usability Improvement for Two-Node Lab](Project_031640/README.md) |
+| 031641 | [Greenbone: Service Check — Baseline Setup for Help Desk](Project_031641/README.md) |
+| 031642 | [Greenbone: Service Check — Automation for Help Desk](Project_031642/README.md) |
+| 031643 | [Greenbone: Service Check — Recovery for Help Desk](Project_031643/README.md) |
+| 031644 | [Greenbone: Service Check — Reporting for Help Desk](Project_031644/README.md) |
+| 031645 | [Greenbone: Service Check — Usability Improvement for Help Desk](Project_031645/README.md) |
+| 031646 | [Greenbone: Service Check — Baseline Setup for Portfolio Demo](Project_031646/README.md) |
+| 031647 | [Greenbone: Service Check — Automation for Portfolio Demo](Project_031647/README.md) |
+| 031648 | [Greenbone: Service Check — Recovery for Portfolio Demo](Project_031648/README.md) |
+| 031649 | [Greenbone: Service Check — Reporting for Portfolio Demo](Project_031649/README.md) |
+| 031650 | [Greenbone: Service Check — Usability Improvement for Portfolio Demo](Project_031650/README.md) |
+| 031651 | [Greenbone: Configuration Comparison — Baseline Setup for School Lab](Project_031651/README.md) |
+| 031652 | [Greenbone: Configuration Comparison — Automation for School Lab](Project_031652/README.md) |
+| 031653 | [Greenbone: Configuration Comparison — Recovery for School Lab](Project_031653/README.md) |
+| 031654 | [Greenbone: Configuration Comparison — Reporting for School Lab](Project_031654/README.md) |
+| 031655 | [Greenbone: Configuration Comparison — Usability Improvement for School Lab](Project_031655/README.md) |
+| 031656 | [Greenbone: Configuration Comparison — Baseline Setup for Small Business](Project_031656/README.md) |
+| 031657 | [Greenbone: Configuration Comparison — Automation for Small Business](Project_031657/README.md) |
+| 031658 | [Greenbone: Configuration Comparison — Recovery for Small Business](Project_031658/README.md) |
+| 031659 | [Greenbone: Configuration Comparison — Reporting for Small Business](Project_031659/README.md) |
+| 031660 | [Greenbone: Configuration Comparison — Usability Improvement for Small Business](Project_031660/README.md) |
 
 [Back to the portfolio home](../README.md)
