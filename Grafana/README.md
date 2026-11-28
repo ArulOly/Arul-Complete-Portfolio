@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043618 | [Grafana: Service Check — Recovery for Public Dataset](Project_043618/README.md) |
 | 043619 | [Grafana: Service Check — Reporting for Public Dataset](Project_043619/README.md) |
 | 043620 | [Grafana: Service Check — Usability Improvement for Public Dataset](Project_043620/README.md) |
+| 043621 | [Grafana: Service Check — Baseline Setup for Branch Office Simulator](Project_043621/README.md) |
+| 043622 | [Grafana: Service Check — Automation for Branch Office Simulator](Project_043622/README.md) |
+| 043623 | [Grafana: Service Check — Recovery for Branch Office Simulator](Project_043623/README.md) |
+| 043624 | [Grafana: Service Check — Reporting for Branch Office Simulator](Project_043624/README.md) |
+| 043625 | [Grafana: Service Check — Usability Improvement for Branch Office Simulator](Project_043625/README.md) |
+| 043626 | [Grafana: Service Check — Baseline Setup for Offline Classroom](Project_043626/README.md) |
+| 043627 | [Grafana: Service Check — Automation for Offline Classroom](Project_043627/README.md) |
+| 043628 | [Grafana: Service Check — Recovery for Offline Classroom](Project_043628/README.md) |
+| 043629 | [Grafana: Service Check — Reporting for Offline Classroom](Project_043629/README.md) |
+| 043630 | [Grafana: Service Check — Usability Improvement for Offline Classroom](Project_043630/README.md) |
+| 043631 | [Grafana: Service Check — Baseline Setup for Single-Host Lab](Project_043631/README.md) |
+| 043632 | [Grafana: Service Check — Automation for Single-Host Lab](Project_043632/README.md) |
+| 043633 | [Grafana: Service Check — Recovery for Single-Host Lab](Project_043633/README.md) |
+| 043634 | [Grafana: Service Check — Reporting for Single-Host Lab](Project_043634/README.md) |
+| 043635 | [Grafana: Service Check — Usability Improvement for Single-Host Lab](Project_043635/README.md) |
+| 043636 | [Grafana: Service Check — Baseline Setup for Two-Node Lab](Project_043636/README.md) |
+| 043637 | [Grafana: Service Check — Automation for Two-Node Lab](Project_043637/README.md) |
+| 043638 | [Grafana: Service Check — Recovery for Two-Node Lab](Project_043638/README.md) |
+| 043639 | [Grafana: Service Check — Reporting for Two-Node Lab](Project_043639/README.md) |
+| 043640 | [Grafana: Service Check — Usability Improvement for Two-Node Lab](Project_043640/README.md) |
 
 [Back to the portfolio home](../README.md)
