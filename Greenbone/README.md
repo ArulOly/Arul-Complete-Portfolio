@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031878 | [Greenbone: Automation — Recovery for Offline Classroom](Project_031878/README.md) |
 | 031879 | [Greenbone: Automation — Reporting for Offline Classroom](Project_031879/README.md) |
 | 031880 | [Greenbone: Automation — Usability Improvement for Offline Classroom](Project_031880/README.md) |
+| 031881 | [Greenbone: Automation — Baseline Setup for Single-Host Lab](Project_031881/README.md) |
+| 031882 | [Greenbone: Automation — Automation for Single-Host Lab](Project_031882/README.md) |
+| 031883 | [Greenbone: Automation — Recovery for Single-Host Lab](Project_031883/README.md) |
+| 031884 | [Greenbone: Automation — Reporting for Single-Host Lab](Project_031884/README.md) |
+| 031885 | [Greenbone: Automation — Usability Improvement for Single-Host Lab](Project_031885/README.md) |
+| 031886 | [Greenbone: Automation — Baseline Setup for Two-Node Lab](Project_031886/README.md) |
+| 031887 | [Greenbone: Automation — Automation for Two-Node Lab](Project_031887/README.md) |
+| 031888 | [Greenbone: Automation — Recovery for Two-Node Lab](Project_031888/README.md) |
+| 031889 | [Greenbone: Automation — Reporting for Two-Node Lab](Project_031889/README.md) |
+| 031890 | [Greenbone: Automation — Usability Improvement for Two-Node Lab](Project_031890/README.md) |
+| 031891 | [Greenbone: Automation — Baseline Setup for Help Desk](Project_031891/README.md) |
+| 031892 | [Greenbone: Automation — Automation for Help Desk](Project_031892/README.md) |
+| 031893 | [Greenbone: Automation — Recovery for Help Desk](Project_031893/README.md) |
+| 031894 | [Greenbone: Automation — Reporting for Help Desk](Project_031894/README.md) |
+| 031895 | [Greenbone: Automation — Usability Improvement for Help Desk](Project_031895/README.md) |
+| 031896 | [Greenbone: Automation — Baseline Setup for Portfolio Demo](Project_031896/README.md) |
+| 031897 | [Greenbone: Automation — Automation for Portfolio Demo](Project_031897/README.md) |
+| 031898 | [Greenbone: Automation — Recovery for Portfolio Demo](Project_031898/README.md) |
+| 031899 | [Greenbone: Automation — Reporting for Portfolio Demo](Project_031899/README.md) |
+| 031900 | [Greenbone: Automation — Usability Improvement for Portfolio Demo](Project_031900/README.md) |
 
 [Back to the portfolio home](../README.md)
