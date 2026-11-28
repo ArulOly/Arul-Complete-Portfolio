@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044898 | [Prometheus: Automation — Recovery for Portfolio Demo](Project_044898/README.md) |
 | 044899 | [Prometheus: Automation — Reporting for Portfolio Demo](Project_044899/README.md) |
 | 044900 | [Prometheus: Automation — Usability Improvement for Portfolio Demo](Project_044900/README.md) |
+| 044901 | [Prometheus: Visual Reporting — Baseline Setup for School Lab](Project_044901/README.md) |
+| 044902 | [Prometheus: Visual Reporting — Automation for School Lab](Project_044902/README.md) |
+| 044903 | [Prometheus: Visual Reporting — Recovery for School Lab](Project_044903/README.md) |
+| 044904 | [Prometheus: Visual Reporting — Reporting for School Lab](Project_044904/README.md) |
+| 044905 | [Prometheus: Visual Reporting — Usability Improvement for School Lab](Project_044905/README.md) |
+| 044906 | [Prometheus: Visual Reporting — Baseline Setup for Small Business](Project_044906/README.md) |
+| 044907 | [Prometheus: Visual Reporting — Automation for Small Business](Project_044907/README.md) |
+| 044908 | [Prometheus: Visual Reporting — Recovery for Small Business](Project_044908/README.md) |
+| 044909 | [Prometheus: Visual Reporting — Reporting for Small Business](Project_044909/README.md) |
+| 044910 | [Prometheus: Visual Reporting — Usability Improvement for Small Business](Project_044910/README.md) |
+| 044911 | [Prometheus: Visual Reporting — Baseline Setup for Home Development](Project_044911/README.md) |
+| 044912 | [Prometheus: Visual Reporting — Automation for Home Development](Project_044912/README.md) |
+| 044913 | [Prometheus: Visual Reporting — Recovery for Home Development](Project_044913/README.md) |
+| 044914 | [Prometheus: Visual Reporting — Reporting for Home Development](Project_044914/README.md) |
+| 044915 | [Prometheus: Visual Reporting — Usability Improvement for Home Development](Project_044915/README.md) |
+| 044916 | [Prometheus: Visual Reporting — Baseline Setup for Public Dataset](Project_044916/README.md) |
+| 044917 | [Prometheus: Visual Reporting — Automation for Public Dataset](Project_044917/README.md) |
+| 044918 | [Prometheus: Visual Reporting — Recovery for Public Dataset](Project_044918/README.md) |
+| 044919 | [Prometheus: Visual Reporting — Reporting for Public Dataset](Project_044919/README.md) |
+| 044920 | [Prometheus: Visual Reporting — Usability Improvement for Public Dataset](Project_044920/README.md) |
 
 [Back to the portfolio home](../README.md)
