@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 800
+**Projects documented** 820
 
 ## Project categories
 
@@ -841,5 +841,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047798 | [Ansible: Data Validation — Recovery for Portfolio Demo](Project_047798/README.md) |
 | 047799 | [Ansible: Data Validation — Reporting for Portfolio Demo](Project_047799/README.md) |
 | 047800 | [Ansible: Data Validation — Usability Improvement for Portfolio Demo](Project_047800/README.md) |
+| 047801 | [Ansible: Documentation Generation — Baseline Setup for School Lab](Project_047801/README.md) |
+| 047802 | [Ansible: Documentation Generation — Automation for School Lab](Project_047802/README.md) |
+| 047803 | [Ansible: Documentation Generation — Recovery for School Lab](Project_047803/README.md) |
+| 047804 | [Ansible: Documentation Generation — Reporting for School Lab](Project_047804/README.md) |
+| 047805 | [Ansible: Documentation Generation — Usability Improvement for School Lab](Project_047805/README.md) |
+| 047806 | [Ansible: Documentation Generation — Baseline Setup for Small Business](Project_047806/README.md) |
+| 047807 | [Ansible: Documentation Generation — Automation for Small Business](Project_047807/README.md) |
+| 047808 | [Ansible: Documentation Generation — Recovery for Small Business](Project_047808/README.md) |
+| 047809 | [Ansible: Documentation Generation — Reporting for Small Business](Project_047809/README.md) |
+| 047810 | [Ansible: Documentation Generation — Usability Improvement for Small Business](Project_047810/README.md) |
+| 047811 | [Ansible: Documentation Generation — Baseline Setup for Home Development](Project_047811/README.md) |
+| 047812 | [Ansible: Documentation Generation — Automation for Home Development](Project_047812/README.md) |
+| 047813 | [Ansible: Documentation Generation — Recovery for Home Development](Project_047813/README.md) |
+| 047814 | [Ansible: Documentation Generation — Reporting for Home Development](Project_047814/README.md) |
+| 047815 | [Ansible: Documentation Generation — Usability Improvement for Home Development](Project_047815/README.md) |
+| 047816 | [Ansible: Documentation Generation — Baseline Setup for Public Dataset](Project_047816/README.md) |
+| 047817 | [Ansible: Documentation Generation — Automation for Public Dataset](Project_047817/README.md) |
+| 047818 | [Ansible: Documentation Generation — Recovery for Public Dataset](Project_047818/README.md) |
+| 047819 | [Ansible: Documentation Generation — Reporting for Public Dataset](Project_047819/README.md) |
+| 047820 | [Ansible: Documentation Generation — Usability Improvement for Public Dataset](Project_047820/README.md) |
 
 [Back to the portfolio home](../README.md)
