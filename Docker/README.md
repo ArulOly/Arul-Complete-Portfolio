@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017938 | [Docker: Visual Reporting — Recovery for Two-Node Lab](Project_017938/README.md) |
 | 017939 | [Docker: Visual Reporting — Reporting for Two-Node Lab](Project_017939/README.md) |
 | 017940 | [Docker: Visual Reporting — Usability Improvement for Two-Node Lab](Project_017940/README.md) |
+| 017941 | [Docker: Visual Reporting — Baseline Setup for Help Desk](Project_017941/README.md) |
+| 017942 | [Docker: Visual Reporting — Automation for Help Desk](Project_017942/README.md) |
+| 017943 | [Docker: Visual Reporting — Recovery for Help Desk](Project_017943/README.md) |
+| 017944 | [Docker: Visual Reporting — Reporting for Help Desk](Project_017944/README.md) |
+| 017945 | [Docker: Visual Reporting — Usability Improvement for Help Desk](Project_017945/README.md) |
+| 017946 | [Docker: Visual Reporting — Baseline Setup for Portfolio Demo](Project_017946/README.md) |
+| 017947 | [Docker: Visual Reporting — Automation for Portfolio Demo](Project_017947/README.md) |
+| 017948 | [Docker: Visual Reporting — Recovery for Portfolio Demo](Project_017948/README.md) |
+| 017949 | [Docker: Visual Reporting — Reporting for Portfolio Demo](Project_017949/README.md) |
+| 017950 | [Docker: Visual Reporting — Usability Improvement for Portfolio Demo](Project_017950/README.md) |
+| 017951 | [Docker: Recovery Test — Baseline Setup for School Lab](Project_017951/README.md) |
+| 017952 | [Docker: Recovery Test — Automation for School Lab](Project_017952/README.md) |
+| 017953 | [Docker: Recovery Test — Recovery for School Lab](Project_017953/README.md) |
+| 017954 | [Docker: Recovery Test — Reporting for School Lab](Project_017954/README.md) |
+| 017955 | [Docker: Recovery Test — Usability Improvement for School Lab](Project_017955/README.md) |
+| 017956 | [Docker: Recovery Test — Baseline Setup for Small Business](Project_017956/README.md) |
+| 017957 | [Docker: Recovery Test — Automation for Small Business](Project_017957/README.md) |
+| 017958 | [Docker: Recovery Test — Recovery for Small Business](Project_017958/README.md) |
+| 017959 | [Docker: Recovery Test — Reporting for Small Business](Project_017959/README.md) |
+| 017960 | [Docker: Recovery Test — Usability Improvement for Small Business](Project_017960/README.md) |
 
 [Back to the portfolio home](../README.md)
