@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 300
+**Projects documented** 320
 
 ## Project categories
 
@@ -341,5 +341,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043298 | [Grafana: Data Import — Recovery for Portfolio Demo](Project_043298/README.md) |
 | 043299 | [Grafana: Data Import — Reporting for Portfolio Demo](Project_043299/README.md) |
 | 043300 | [Grafana: Data Import — Usability Improvement for Portfolio Demo](Project_043300/README.md) |
+| 043301 | [Grafana: Data Export — Baseline Setup for School Lab](Project_043301/README.md) |
+| 043302 | [Grafana: Data Export — Automation for School Lab](Project_043302/README.md) |
+| 043303 | [Grafana: Data Export — Recovery for School Lab](Project_043303/README.md) |
+| 043304 | [Grafana: Data Export — Reporting for School Lab](Project_043304/README.md) |
+| 043305 | [Grafana: Data Export — Usability Improvement for School Lab](Project_043305/README.md) |
+| 043306 | [Grafana: Data Export — Baseline Setup for Small Business](Project_043306/README.md) |
+| 043307 | [Grafana: Data Export — Automation for Small Business](Project_043307/README.md) |
+| 043308 | [Grafana: Data Export — Recovery for Small Business](Project_043308/README.md) |
+| 043309 | [Grafana: Data Export — Reporting for Small Business](Project_043309/README.md) |
+| 043310 | [Grafana: Data Export — Usability Improvement for Small Business](Project_043310/README.md) |
+| 043311 | [Grafana: Data Export — Baseline Setup for Home Development](Project_043311/README.md) |
+| 043312 | [Grafana: Data Export — Automation for Home Development](Project_043312/README.md) |
+| 043313 | [Grafana: Data Export — Recovery for Home Development](Project_043313/README.md) |
+| 043314 | [Grafana: Data Export — Reporting for Home Development](Project_043314/README.md) |
+| 043315 | [Grafana: Data Export — Usability Improvement for Home Development](Project_043315/README.md) |
+| 043316 | [Grafana: Data Export — Baseline Setup for Public Dataset](Project_043316/README.md) |
+| 043317 | [Grafana: Data Export — Automation for Public Dataset](Project_043317/README.md) |
+| 043318 | [Grafana: Data Export — Recovery for Public Dataset](Project_043318/README.md) |
+| 043319 | [Grafana: Data Export — Reporting for Public Dataset](Project_043319/README.md) |
+| 043320 | [Grafana: Data Export — Usability Improvement for Public Dataset](Project_043320/README.md) |
 
 [Back to the portfolio home](../README.md)
