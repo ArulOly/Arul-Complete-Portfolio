@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 540
+**Projects documented** 560
 
 ## Project categories
 
@@ -581,5 +581,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047538 | [Ansible: Access Review — Recovery for Two-Node Lab](Project_047538/README.md) |
 | 047539 | [Ansible: Access Review — Reporting for Two-Node Lab](Project_047539/README.md) |
 | 047540 | [Ansible: Access Review — Usability Improvement for Two-Node Lab](Project_047540/README.md) |
+| 047541 | [Ansible: Access Review — Baseline Setup for Help Desk](Project_047541/README.md) |
+| 047542 | [Ansible: Access Review — Automation for Help Desk](Project_047542/README.md) |
+| 047543 | [Ansible: Access Review — Recovery for Help Desk](Project_047543/README.md) |
+| 047544 | [Ansible: Access Review — Reporting for Help Desk](Project_047544/README.md) |
+| 047545 | [Ansible: Access Review — Usability Improvement for Help Desk](Project_047545/README.md) |
+| 047546 | [Ansible: Access Review — Baseline Setup for Portfolio Demo](Project_047546/README.md) |
+| 047547 | [Ansible: Access Review — Automation for Portfolio Demo](Project_047547/README.md) |
+| 047548 | [Ansible: Access Review — Recovery for Portfolio Demo](Project_047548/README.md) |
+| 047549 | [Ansible: Access Review — Reporting for Portfolio Demo](Project_047549/README.md) |
+| 047550 | [Ansible: Access Review — Usability Improvement for Portfolio Demo](Project_047550/README.md) |
+| 047551 | [Ansible: Performance Baseline — Baseline Setup for School Lab](Project_047551/README.md) |
+| 047552 | [Ansible: Performance Baseline — Automation for School Lab](Project_047552/README.md) |
+| 047553 | [Ansible: Performance Baseline — Recovery for School Lab](Project_047553/README.md) |
+| 047554 | [Ansible: Performance Baseline — Reporting for School Lab](Project_047554/README.md) |
+| 047555 | [Ansible: Performance Baseline — Usability Improvement for School Lab](Project_047555/README.md) |
+| 047556 | [Ansible: Performance Baseline — Baseline Setup for Small Business](Project_047556/README.md) |
+| 047557 | [Ansible: Performance Baseline — Automation for Small Business](Project_047557/README.md) |
+| 047558 | [Ansible: Performance Baseline — Recovery for Small Business](Project_047558/README.md) |
+| 047559 | [Ansible: Performance Baseline — Reporting for Small Business](Project_047559/README.md) |
+| 047560 | [Ansible: Performance Baseline — Usability Improvement for Small Business](Project_047560/README.md) |
 
 [Back to the portfolio home](../README.md)
