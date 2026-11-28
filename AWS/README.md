@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014618 | [AWS: Service Check — Recovery for Public Dataset](Project_014618/README.md) |
 | 014619 | [AWS: Service Check — Reporting for Public Dataset](Project_014619/README.md) |
 | 014620 | [AWS: Service Check — Usability Improvement for Public Dataset](Project_014620/README.md) |
+| 014621 | [AWS: Service Check — Baseline Setup for Branch Office Simulator](Project_014621/README.md) |
+| 014622 | [AWS: Service Check — Automation for Branch Office Simulator](Project_014622/README.md) |
+| 014623 | [AWS: Service Check — Recovery for Branch Office Simulator](Project_014623/README.md) |
+| 014624 | [AWS: Service Check — Reporting for Branch Office Simulator](Project_014624/README.md) |
+| 014625 | [AWS: Service Check — Usability Improvement for Branch Office Simulator](Project_014625/README.md) |
+| 014626 | [AWS: Service Check — Baseline Setup for Offline Classroom](Project_014626/README.md) |
+| 014627 | [AWS: Service Check — Automation for Offline Classroom](Project_014627/README.md) |
+| 014628 | [AWS: Service Check — Recovery for Offline Classroom](Project_014628/README.md) |
+| 014629 | [AWS: Service Check — Reporting for Offline Classroom](Project_014629/README.md) |
+| 014630 | [AWS: Service Check — Usability Improvement for Offline Classroom](Project_014630/README.md) |
+| 014631 | [AWS: Service Check — Baseline Setup for Single-Host Lab](Project_014631/README.md) |
+| 014632 | [AWS: Service Check — Automation for Single-Host Lab](Project_014632/README.md) |
+| 014633 | [AWS: Service Check — Recovery for Single-Host Lab](Project_014633/README.md) |
+| 014634 | [AWS: Service Check — Reporting for Single-Host Lab](Project_014634/README.md) |
+| 014635 | [AWS: Service Check — Usability Improvement for Single-Host Lab](Project_014635/README.md) |
+| 014636 | [AWS: Service Check — Baseline Setup for Two-Node Lab](Project_014636/README.md) |
+| 014637 | [AWS: Service Check — Automation for Two-Node Lab](Project_014637/README.md) |
+| 014638 | [AWS: Service Check — Recovery for Two-Node Lab](Project_014638/README.md) |
+| 014639 | [AWS: Service Check — Reporting for Two-Node Lab](Project_014639/README.md) |
+| 014640 | [AWS: Service Check — Usability Improvement for Two-Node Lab](Project_014640/README.md) |
 
 [Back to the portfolio home](../README.md)
