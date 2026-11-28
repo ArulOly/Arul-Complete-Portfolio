@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 640
+**Projects documented** 660
 
 ## Project categories
 
@@ -681,5 +681,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039638 | [Bash: Service Check — Recovery for Two-Node Lab](Project_039638/README.md) |
 | 039639 | [Bash: Service Check — Reporting for Two-Node Lab](Project_039639/README.md) |
 | 039640 | [Bash: Service Check — Usability Improvement for Two-Node Lab](Project_039640/README.md) |
+| 039641 | [Bash: Service Check — Baseline Setup for Help Desk](Project_039641/README.md) |
+| 039642 | [Bash: Service Check — Automation for Help Desk](Project_039642/README.md) |
+| 039643 | [Bash: Service Check — Recovery for Help Desk](Project_039643/README.md) |
+| 039644 | [Bash: Service Check — Reporting for Help Desk](Project_039644/README.md) |
+| 039645 | [Bash: Service Check — Usability Improvement for Help Desk](Project_039645/README.md) |
+| 039646 | [Bash: Service Check — Baseline Setup for Portfolio Demo](Project_039646/README.md) |
+| 039647 | [Bash: Service Check — Automation for Portfolio Demo](Project_039647/README.md) |
+| 039648 | [Bash: Service Check — Recovery for Portfolio Demo](Project_039648/README.md) |
+| 039649 | [Bash: Service Check — Reporting for Portfolio Demo](Project_039649/README.md) |
+| 039650 | [Bash: Service Check — Usability Improvement for Portfolio Demo](Project_039650/README.md) |
+| 039651 | [Bash: Configuration Comparison — Baseline Setup for School Lab](Project_039651/README.md) |
+| 039652 | [Bash: Configuration Comparison — Automation for School Lab](Project_039652/README.md) |
+| 039653 | [Bash: Configuration Comparison — Recovery for School Lab](Project_039653/README.md) |
+| 039654 | [Bash: Configuration Comparison — Reporting for School Lab](Project_039654/README.md) |
+| 039655 | [Bash: Configuration Comparison — Usability Improvement for School Lab](Project_039655/README.md) |
+| 039656 | [Bash: Configuration Comparison — Baseline Setup for Small Business](Project_039656/README.md) |
+| 039657 | [Bash: Configuration Comparison — Automation for Small Business](Project_039657/README.md) |
+| 039658 | [Bash: Configuration Comparison — Recovery for Small Business](Project_039658/README.md) |
+| 039659 | [Bash: Configuration Comparison — Reporting for Small Business](Project_039659/README.md) |
+| 039660 | [Bash: Configuration Comparison — Usability Improvement for Small Business](Project_039660/README.md) |
 
 [Back to the portfolio home](../README.md)
