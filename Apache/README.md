@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 180
+**Projects documented** 200
 
 ## Project categories
 
@@ -221,5 +221,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042178 | [Apache: Log Analysis — Recovery for Offline Classroom](Project_042178/README.md) |
 | 042179 | [Apache: Log Analysis — Reporting for Offline Classroom](Project_042179/README.md) |
 | 042180 | [Apache: Log Analysis — Usability Improvement for Offline Classroom](Project_042180/README.md) |
+| 042181 | [Apache: Log Analysis — Baseline Setup for Single-Host Lab](Project_042181/README.md) |
+| 042182 | [Apache: Log Analysis — Automation for Single-Host Lab](Project_042182/README.md) |
+| 042183 | [Apache: Log Analysis — Recovery for Single-Host Lab](Project_042183/README.md) |
+| 042184 | [Apache: Log Analysis — Reporting for Single-Host Lab](Project_042184/README.md) |
+| 042185 | [Apache: Log Analysis — Usability Improvement for Single-Host Lab](Project_042185/README.md) |
+| 042186 | [Apache: Log Analysis — Baseline Setup for Two-Node Lab](Project_042186/README.md) |
+| 042187 | [Apache: Log Analysis — Automation for Two-Node Lab](Project_042187/README.md) |
+| 042188 | [Apache: Log Analysis — Recovery for Two-Node Lab](Project_042188/README.md) |
+| 042189 | [Apache: Log Analysis — Reporting for Two-Node Lab](Project_042189/README.md) |
+| 042190 | [Apache: Log Analysis — Usability Improvement for Two-Node Lab](Project_042190/README.md) |
+| 042191 | [Apache: Log Analysis — Baseline Setup for Help Desk](Project_042191/README.md) |
+| 042192 | [Apache: Log Analysis — Automation for Help Desk](Project_042192/README.md) |
+| 042193 | [Apache: Log Analysis — Recovery for Help Desk](Project_042193/README.md) |
+| 042194 | [Apache: Log Analysis — Reporting for Help Desk](Project_042194/README.md) |
+| 042195 | [Apache: Log Analysis — Usability Improvement for Help Desk](Project_042195/README.md) |
+| 042196 | [Apache: Log Analysis — Baseline Setup for Portfolio Demo](Project_042196/README.md) |
+| 042197 | [Apache: Log Analysis — Automation for Portfolio Demo](Project_042197/README.md) |
+| 042198 | [Apache: Log Analysis — Recovery for Portfolio Demo](Project_042198/README.md) |
+| 042199 | [Apache: Log Analysis — Reporting for Portfolio Demo](Project_042199/README.md) |
+| 042200 | [Apache: Log Analysis — Usability Improvement for Portfolio Demo](Project_042200/README.md) |
 
 [Back to the portfolio home](../README.md)
