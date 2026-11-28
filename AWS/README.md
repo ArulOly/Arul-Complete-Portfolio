@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014818 | [AWS: Documentation Generation — Recovery for Public Dataset](Project_014818/README.md) |
 | 014819 | [AWS: Documentation Generation — Reporting for Public Dataset](Project_014819/README.md) |
 | 014820 | [AWS: Documentation Generation — Usability Improvement for Public Dataset](Project_014820/README.md) |
+| 014821 | [AWS: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_014821/README.md) |
+| 014822 | [AWS: Documentation Generation — Automation for Branch Office Simulator](Project_014822/README.md) |
+| 014823 | [AWS: Documentation Generation — Recovery for Branch Office Simulator](Project_014823/README.md) |
+| 014824 | [AWS: Documentation Generation — Reporting for Branch Office Simulator](Project_014824/README.md) |
+| 014825 | [AWS: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_014825/README.md) |
+| 014826 | [AWS: Documentation Generation — Baseline Setup for Offline Classroom](Project_014826/README.md) |
+| 014827 | [AWS: Documentation Generation — Automation for Offline Classroom](Project_014827/README.md) |
+| 014828 | [AWS: Documentation Generation — Recovery for Offline Classroom](Project_014828/README.md) |
+| 014829 | [AWS: Documentation Generation — Reporting for Offline Classroom](Project_014829/README.md) |
+| 014830 | [AWS: Documentation Generation — Usability Improvement for Offline Classroom](Project_014830/README.md) |
+| 014831 | [AWS: Documentation Generation — Baseline Setup for Single-Host Lab](Project_014831/README.md) |
+| 014832 | [AWS: Documentation Generation — Automation for Single-Host Lab](Project_014832/README.md) |
+| 014833 | [AWS: Documentation Generation — Recovery for Single-Host Lab](Project_014833/README.md) |
+| 014834 | [AWS: Documentation Generation — Reporting for Single-Host Lab](Project_014834/README.md) |
+| 014835 | [AWS: Documentation Generation — Usability Improvement for Single-Host Lab](Project_014835/README.md) |
+| 014836 | [AWS: Documentation Generation — Baseline Setup for Two-Node Lab](Project_014836/README.md) |
+| 014837 | [AWS: Documentation Generation — Automation for Two-Node Lab](Project_014837/README.md) |
+| 014838 | [AWS: Documentation Generation — Recovery for Two-Node Lab](Project_014838/README.md) |
+| 014839 | [AWS: Documentation Generation — Reporting for Two-Node Lab](Project_014839/README.md) |
+| 014840 | [AWS: Documentation Generation — Usability Improvement for Two-Node Lab](Project_014840/README.md) |
 
 [Back to the portfolio home](../README.md)
