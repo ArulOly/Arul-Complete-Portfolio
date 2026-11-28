@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043778 | [Grafana: Data Validation — Recovery for Offline Classroom](Project_043778/README.md) |
 | 043779 | [Grafana: Data Validation — Reporting for Offline Classroom](Project_043779/README.md) |
 | 043780 | [Grafana: Data Validation — Usability Improvement for Offline Classroom](Project_043780/README.md) |
+| 043781 | [Grafana: Data Validation — Baseline Setup for Single-Host Lab](Project_043781/README.md) |
+| 043782 | [Grafana: Data Validation — Automation for Single-Host Lab](Project_043782/README.md) |
+| 043783 | [Grafana: Data Validation — Recovery for Single-Host Lab](Project_043783/README.md) |
+| 043784 | [Grafana: Data Validation — Reporting for Single-Host Lab](Project_043784/README.md) |
+| 043785 | [Grafana: Data Validation — Usability Improvement for Single-Host Lab](Project_043785/README.md) |
+| 043786 | [Grafana: Data Validation — Baseline Setup for Two-Node Lab](Project_043786/README.md) |
+| 043787 | [Grafana: Data Validation — Automation for Two-Node Lab](Project_043787/README.md) |
+| 043788 | [Grafana: Data Validation — Recovery for Two-Node Lab](Project_043788/README.md) |
+| 043789 | [Grafana: Data Validation — Reporting for Two-Node Lab](Project_043789/README.md) |
+| 043790 | [Grafana: Data Validation — Usability Improvement for Two-Node Lab](Project_043790/README.md) |
+| 043791 | [Grafana: Data Validation — Baseline Setup for Help Desk](Project_043791/README.md) |
+| 043792 | [Grafana: Data Validation — Automation for Help Desk](Project_043792/README.md) |
+| 043793 | [Grafana: Data Validation — Recovery for Help Desk](Project_043793/README.md) |
+| 043794 | [Grafana: Data Validation — Reporting for Help Desk](Project_043794/README.md) |
+| 043795 | [Grafana: Data Validation — Usability Improvement for Help Desk](Project_043795/README.md) |
+| 043796 | [Grafana: Data Validation — Baseline Setup for Portfolio Demo](Project_043796/README.md) |
+| 043797 | [Grafana: Data Validation — Automation for Portfolio Demo](Project_043797/README.md) |
+| 043798 | [Grafana: Data Validation — Recovery for Portfolio Demo](Project_043798/README.md) |
+| 043799 | [Grafana: Data Validation — Reporting for Portfolio Demo](Project_043799/README.md) |
+| 043800 | [Grafana: Data Validation — Usability Improvement for Portfolio Demo](Project_043800/README.md) |
 
 [Back to the portfolio home](../README.md)
