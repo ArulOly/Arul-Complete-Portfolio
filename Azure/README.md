@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 320
+**Projects documented** 340
 
 ## Project categories
 
@@ -361,5 +361,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015318 | [Azure: Data Export — Recovery for Public Dataset](Project_015318/README.md) |
 | 015319 | [Azure: Data Export — Reporting for Public Dataset](Project_015319/README.md) |
 | 015320 | [Azure: Data Export — Usability Improvement for Public Dataset](Project_015320/README.md) |
+| 015321 | [Azure: Data Export — Baseline Setup for Branch Office Simulator](Project_015321/README.md) |
+| 015322 | [Azure: Data Export — Automation for Branch Office Simulator](Project_015322/README.md) |
+| 015323 | [Azure: Data Export — Recovery for Branch Office Simulator](Project_015323/README.md) |
+| 015324 | [Azure: Data Export — Reporting for Branch Office Simulator](Project_015324/README.md) |
+| 015325 | [Azure: Data Export — Usability Improvement for Branch Office Simulator](Project_015325/README.md) |
+| 015326 | [Azure: Data Export — Baseline Setup for Offline Classroom](Project_015326/README.md) |
+| 015327 | [Azure: Data Export — Automation for Offline Classroom](Project_015327/README.md) |
+| 015328 | [Azure: Data Export — Recovery for Offline Classroom](Project_015328/README.md) |
+| 015329 | [Azure: Data Export — Reporting for Offline Classroom](Project_015329/README.md) |
+| 015330 | [Azure: Data Export — Usability Improvement for Offline Classroom](Project_015330/README.md) |
+| 015331 | [Azure: Data Export — Baseline Setup for Single-Host Lab](Project_015331/README.md) |
+| 015332 | [Azure: Data Export — Automation for Single-Host Lab](Project_015332/README.md) |
+| 015333 | [Azure: Data Export — Recovery for Single-Host Lab](Project_015333/README.md) |
+| 015334 | [Azure: Data Export — Reporting for Single-Host Lab](Project_015334/README.md) |
+| 015335 | [Azure: Data Export — Usability Improvement for Single-Host Lab](Project_015335/README.md) |
+| 015336 | [Azure: Data Export — Baseline Setup for Two-Node Lab](Project_015336/README.md) |
+| 015337 | [Azure: Data Export — Automation for Two-Node Lab](Project_015337/README.md) |
+| 015338 | [Azure: Data Export — Recovery for Two-Node Lab](Project_015338/README.md) |
+| 015339 | [Azure: Data Export — Reporting for Two-Node Lab](Project_015339/README.md) |
+| 015340 | [Azure: Data Export — Usability Improvement for Two-Node Lab](Project_015340/README.md) |
 
 [Back to the portfolio home](../README.md)
