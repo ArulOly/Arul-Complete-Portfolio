@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 720
+**Projects documented** 740
 
 ## Project categories
 
@@ -761,5 +761,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018718 | [Kubernetes: Error Handling — Recovery for Public Dataset](Project_018718/README.md) |
 | 018719 | [Kubernetes: Error Handling — Reporting for Public Dataset](Project_018719/README.md) |
 | 018720 | [Kubernetes: Error Handling — Usability Improvement for Public Dataset](Project_018720/README.md) |
+| 018721 | [Kubernetes: Error Handling — Baseline Setup for Branch Office Simulator](Project_018721/README.md) |
+| 018722 | [Kubernetes: Error Handling — Automation for Branch Office Simulator](Project_018722/README.md) |
+| 018723 | [Kubernetes: Error Handling — Recovery for Branch Office Simulator](Project_018723/README.md) |
+| 018724 | [Kubernetes: Error Handling — Reporting for Branch Office Simulator](Project_018724/README.md) |
+| 018725 | [Kubernetes: Error Handling — Usability Improvement for Branch Office Simulator](Project_018725/README.md) |
+| 018726 | [Kubernetes: Error Handling — Baseline Setup for Offline Classroom](Project_018726/README.md) |
+| 018727 | [Kubernetes: Error Handling — Automation for Offline Classroom](Project_018727/README.md) |
+| 018728 | [Kubernetes: Error Handling — Recovery for Offline Classroom](Project_018728/README.md) |
+| 018729 | [Kubernetes: Error Handling — Reporting for Offline Classroom](Project_018729/README.md) |
+| 018730 | [Kubernetes: Error Handling — Usability Improvement for Offline Classroom](Project_018730/README.md) |
+| 018731 | [Kubernetes: Error Handling — Baseline Setup for Single-Host Lab](Project_018731/README.md) |
+| 018732 | [Kubernetes: Error Handling — Automation for Single-Host Lab](Project_018732/README.md) |
+| 018733 | [Kubernetes: Error Handling — Recovery for Single-Host Lab](Project_018733/README.md) |
+| 018734 | [Kubernetes: Error Handling — Reporting for Single-Host Lab](Project_018734/README.md) |
+| 018735 | [Kubernetes: Error Handling — Usability Improvement for Single-Host Lab](Project_018735/README.md) |
+| 018736 | [Kubernetes: Error Handling — Baseline Setup for Two-Node Lab](Project_018736/README.md) |
+| 018737 | [Kubernetes: Error Handling — Automation for Two-Node Lab](Project_018737/README.md) |
+| 018738 | [Kubernetes: Error Handling — Recovery for Two-Node Lab](Project_018738/README.md) |
+| 018739 | [Kubernetes: Error Handling — Reporting for Two-Node Lab](Project_018739/README.md) |
+| 018740 | [Kubernetes: Error Handling — Usability Improvement for Two-Node Lab](Project_018740/README.md) |
 
 [Back to the portfolio home](../README.md)
