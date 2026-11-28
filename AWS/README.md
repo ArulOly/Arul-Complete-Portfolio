@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 560
+**Projects documented** 580
 
 ## Project categories
 
@@ -601,5 +601,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014558 | [AWS: Performance Baseline — Recovery for Small Business](Project_014558/README.md) |
 | 014559 | [AWS: Performance Baseline — Reporting for Small Business](Project_014559/README.md) |
 | 014560 | [AWS: Performance Baseline — Usability Improvement for Small Business](Project_014560/README.md) |
+| 014561 | [AWS: Performance Baseline — Baseline Setup for Home Development](Project_014561/README.md) |
+| 014562 | [AWS: Performance Baseline — Automation for Home Development](Project_014562/README.md) |
+| 014563 | [AWS: Performance Baseline — Recovery for Home Development](Project_014563/README.md) |
+| 014564 | [AWS: Performance Baseline — Reporting for Home Development](Project_014564/README.md) |
+| 014565 | [AWS: Performance Baseline — Usability Improvement for Home Development](Project_014565/README.md) |
+| 014566 | [AWS: Performance Baseline — Baseline Setup for Public Dataset](Project_014566/README.md) |
+| 014567 | [AWS: Performance Baseline — Automation for Public Dataset](Project_014567/README.md) |
+| 014568 | [AWS: Performance Baseline — Recovery for Public Dataset](Project_014568/README.md) |
+| 014569 | [AWS: Performance Baseline — Reporting for Public Dataset](Project_014569/README.md) |
+| 014570 | [AWS: Performance Baseline — Usability Improvement for Public Dataset](Project_014570/README.md) |
+| 014571 | [AWS: Performance Baseline — Baseline Setup for Branch Office Simulator](Project_014571/README.md) |
+| 014572 | [AWS: Performance Baseline — Automation for Branch Office Simulator](Project_014572/README.md) |
+| 014573 | [AWS: Performance Baseline — Recovery for Branch Office Simulator](Project_014573/README.md) |
+| 014574 | [AWS: Performance Baseline — Reporting for Branch Office Simulator](Project_014574/README.md) |
+| 014575 | [AWS: Performance Baseline — Usability Improvement for Branch Office Simulator](Project_014575/README.md) |
+| 014576 | [AWS: Performance Baseline — Baseline Setup for Offline Classroom](Project_014576/README.md) |
+| 014577 | [AWS: Performance Baseline — Automation for Offline Classroom](Project_014577/README.md) |
+| 014578 | [AWS: Performance Baseline — Recovery for Offline Classroom](Project_014578/README.md) |
+| 014579 | [AWS: Performance Baseline — Reporting for Offline Classroom](Project_014579/README.md) |
+| 014580 | [AWS: Performance Baseline — Usability Improvement for Offline Classroom](Project_014580/README.md) |
 
 [Back to the portfolio home](../README.md)
