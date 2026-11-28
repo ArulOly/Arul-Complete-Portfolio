@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 160
+**Projects documented** 180
 
 ## Project categories
 
@@ -201,5 +201,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038158 | [Git: Log Analysis — Recovery for Small Business](Project_038158/README.md) |
 | 038159 | [Git: Log Analysis — Reporting for Small Business](Project_038159/README.md) |
 | 038160 | [Git: Log Analysis — Usability Improvement for Small Business](Project_038160/README.md) |
+| 038161 | [Git: Log Analysis — Baseline Setup for Home Development](Project_038161/README.md) |
+| 038162 | [Git: Log Analysis — Automation for Home Development](Project_038162/README.md) |
+| 038163 | [Git: Log Analysis — Recovery for Home Development](Project_038163/README.md) |
+| 038164 | [Git: Log Analysis — Reporting for Home Development](Project_038164/README.md) |
+| 038165 | [Git: Log Analysis — Usability Improvement for Home Development](Project_038165/README.md) |
+| 038166 | [Git: Log Analysis — Baseline Setup for Public Dataset](Project_038166/README.md) |
+| 038167 | [Git: Log Analysis — Automation for Public Dataset](Project_038167/README.md) |
+| 038168 | [Git: Log Analysis — Recovery for Public Dataset](Project_038168/README.md) |
+| 038169 | [Git: Log Analysis — Reporting for Public Dataset](Project_038169/README.md) |
+| 038170 | [Git: Log Analysis — Usability Improvement for Public Dataset](Project_038170/README.md) |
+| 038171 | [Git: Log Analysis — Baseline Setup for Branch Office Simulator](Project_038171/README.md) |
+| 038172 | [Git: Log Analysis — Automation for Branch Office Simulator](Project_038172/README.md) |
+| 038173 | [Git: Log Analysis — Recovery for Branch Office Simulator](Project_038173/README.md) |
+| 038174 | [Git: Log Analysis — Reporting for Branch Office Simulator](Project_038174/README.md) |
+| 038175 | [Git: Log Analysis — Usability Improvement for Branch Office Simulator](Project_038175/README.md) |
+| 038176 | [Git: Log Analysis — Baseline Setup for Offline Classroom](Project_038176/README.md) |
+| 038177 | [Git: Log Analysis — Automation for Offline Classroom](Project_038177/README.md) |
+| 038178 | [Git: Log Analysis — Recovery for Offline Classroom](Project_038178/README.md) |
+| 038179 | [Git: Log Analysis — Reporting for Offline Classroom](Project_038179/README.md) |
+| 038180 | [Git: Log Analysis — Usability Improvement for Offline Classroom](Project_038180/README.md) |
 
 [Back to the portfolio home](../README.md)
