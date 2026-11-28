@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035578 | [Raspberry Pi: Performance Baseline — Recovery for Offline Classroom](Project_035578/README.md) |
 | 035579 | [Raspberry Pi: Performance Baseline — Reporting for Offline Classroom](Project_035579/README.md) |
 | 035580 | [Raspberry Pi: Performance Baseline — Usability Improvement for Offline Classroom](Project_035580/README.md) |
+| 035581 | [Raspberry Pi: Performance Baseline — Baseline Setup for Single-Host Lab](Project_035581/README.md) |
+| 035582 | [Raspberry Pi: Performance Baseline — Automation for Single-Host Lab](Project_035582/README.md) |
+| 035583 | [Raspberry Pi: Performance Baseline — Recovery for Single-Host Lab](Project_035583/README.md) |
+| 035584 | [Raspberry Pi: Performance Baseline — Reporting for Single-Host Lab](Project_035584/README.md) |
+| 035585 | [Raspberry Pi: Performance Baseline — Usability Improvement for Single-Host Lab](Project_035585/README.md) |
+| 035586 | [Raspberry Pi: Performance Baseline — Baseline Setup for Two-Node Lab](Project_035586/README.md) |
+| 035587 | [Raspberry Pi: Performance Baseline — Automation for Two-Node Lab](Project_035587/README.md) |
+| 035588 | [Raspberry Pi: Performance Baseline — Recovery for Two-Node Lab](Project_035588/README.md) |
+| 035589 | [Raspberry Pi: Performance Baseline — Reporting for Two-Node Lab](Project_035589/README.md) |
+| 035590 | [Raspberry Pi: Performance Baseline — Usability Improvement for Two-Node Lab](Project_035590/README.md) |
+| 035591 | [Raspberry Pi: Performance Baseline — Baseline Setup for Help Desk](Project_035591/README.md) |
+| 035592 | [Raspberry Pi: Performance Baseline — Automation for Help Desk](Project_035592/README.md) |
+| 035593 | [Raspberry Pi: Performance Baseline — Recovery for Help Desk](Project_035593/README.md) |
+| 035594 | [Raspberry Pi: Performance Baseline — Reporting for Help Desk](Project_035594/README.md) |
+| 035595 | [Raspberry Pi: Performance Baseline — Usability Improvement for Help Desk](Project_035595/README.md) |
+| 035596 | [Raspberry Pi: Performance Baseline — Baseline Setup for Portfolio Demo](Project_035596/README.md) |
+| 035597 | [Raspberry Pi: Performance Baseline — Automation for Portfolio Demo](Project_035597/README.md) |
+| 035598 | [Raspberry Pi: Performance Baseline — Recovery for Portfolio Demo](Project_035598/README.md) |
+| 035599 | [Raspberry Pi: Performance Baseline — Reporting for Portfolio Demo](Project_035599/README.md) |
+| 035600 | [Raspberry Pi: Performance Baseline — Usability Improvement for Portfolio Demo](Project_035600/README.md) |
 
 [Back to the portfolio home](../README.md)
