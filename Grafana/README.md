@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043198 | [Grafana: Log Analysis — Recovery for Portfolio Demo](Project_043198/README.md) |
 | 043199 | [Grafana: Log Analysis — Reporting for Portfolio Demo](Project_043199/README.md) |
 | 043200 | [Grafana: Log Analysis — Usability Improvement for Portfolio Demo](Project_043200/README.md) |
+| 043201 | [Grafana: Backup Verification — Baseline Setup for School Lab](Project_043201/README.md) |
+| 043202 | [Grafana: Backup Verification — Automation for School Lab](Project_043202/README.md) |
+| 043203 | [Grafana: Backup Verification — Recovery for School Lab](Project_043203/README.md) |
+| 043204 | [Grafana: Backup Verification — Reporting for School Lab](Project_043204/README.md) |
+| 043205 | [Grafana: Backup Verification — Usability Improvement for School Lab](Project_043205/README.md) |
+| 043206 | [Grafana: Backup Verification — Baseline Setup for Small Business](Project_043206/README.md) |
+| 043207 | [Grafana: Backup Verification — Automation for Small Business](Project_043207/README.md) |
+| 043208 | [Grafana: Backup Verification — Recovery for Small Business](Project_043208/README.md) |
+| 043209 | [Grafana: Backup Verification — Reporting for Small Business](Project_043209/README.md) |
+| 043210 | [Grafana: Backup Verification — Usability Improvement for Small Business](Project_043210/README.md) |
+| 043211 | [Grafana: Backup Verification — Baseline Setup for Home Development](Project_043211/README.md) |
+| 043212 | [Grafana: Backup Verification — Automation for Home Development](Project_043212/README.md) |
+| 043213 | [Grafana: Backup Verification — Recovery for Home Development](Project_043213/README.md) |
+| 043214 | [Grafana: Backup Verification — Reporting for Home Development](Project_043214/README.md) |
+| 043215 | [Grafana: Backup Verification — Usability Improvement for Home Development](Project_043215/README.md) |
+| 043216 | [Grafana: Backup Verification — Baseline Setup for Public Dataset](Project_043216/README.md) |
+| 043217 | [Grafana: Backup Verification — Automation for Public Dataset](Project_043217/README.md) |
+| 043218 | [Grafana: Backup Verification — Recovery for Public Dataset](Project_043218/README.md) |
+| 043219 | [Grafana: Backup Verification — Reporting for Public Dataset](Project_043219/README.md) |
+| 043220 | [Grafana: Backup Verification — Usability Improvement for Public Dataset](Project_043220/README.md) |
 
 [Back to the portfolio home](../README.md)
