@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 120
+**Projects documented** 140
 
 ## Project categories
 
@@ -161,5 +161,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029118 | [Wireshark: Audit — Recovery for Public Dataset](Project_029118/README.md) |
 | 029119 | [Wireshark: Audit — Reporting for Public Dataset](Project_029119/README.md) |
 | 029120 | [Wireshark: Audit — Usability Improvement for Public Dataset](Project_029120/README.md) |
+| 029121 | [Wireshark: Audit — Baseline Setup for Branch Office Simulator](Project_029121/README.md) |
+| 029122 | [Wireshark: Audit — Automation for Branch Office Simulator](Project_029122/README.md) |
+| 029123 | [Wireshark: Audit — Recovery for Branch Office Simulator](Project_029123/README.md) |
+| 029124 | [Wireshark: Audit — Reporting for Branch Office Simulator](Project_029124/README.md) |
+| 029125 | [Wireshark: Audit — Usability Improvement for Branch Office Simulator](Project_029125/README.md) |
+| 029126 | [Wireshark: Audit — Baseline Setup for Offline Classroom](Project_029126/README.md) |
+| 029127 | [Wireshark: Audit — Automation for Offline Classroom](Project_029127/README.md) |
+| 029128 | [Wireshark: Audit — Recovery for Offline Classroom](Project_029128/README.md) |
+| 029129 | [Wireshark: Audit — Reporting for Offline Classroom](Project_029129/README.md) |
+| 029130 | [Wireshark: Audit — Usability Improvement for Offline Classroom](Project_029130/README.md) |
+| 029131 | [Wireshark: Audit — Baseline Setup for Single-Host Lab](Project_029131/README.md) |
+| 029132 | [Wireshark: Audit — Automation for Single-Host Lab](Project_029132/README.md) |
+| 029133 | [Wireshark: Audit — Recovery for Single-Host Lab](Project_029133/README.md) |
+| 029134 | [Wireshark: Audit — Reporting for Single-Host Lab](Project_029134/README.md) |
+| 029135 | [Wireshark: Audit — Usability Improvement for Single-Host Lab](Project_029135/README.md) |
+| 029136 | [Wireshark: Audit — Baseline Setup for Two-Node Lab](Project_029136/README.md) |
+| 029137 | [Wireshark: Audit — Automation for Two-Node Lab](Project_029137/README.md) |
+| 029138 | [Wireshark: Audit — Recovery for Two-Node Lab](Project_029138/README.md) |
+| 029139 | [Wireshark: Audit — Reporting for Two-Node Lab](Project_029139/README.md) |
+| 029140 | [Wireshark: Audit — Usability Improvement for Two-Node Lab](Project_029140/README.md) |
 
 [Back to the portfolio home](../README.md)
