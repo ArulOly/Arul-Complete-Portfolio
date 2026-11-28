@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 600
+**Projects documented** 620
 
 ## Project categories
 
@@ -641,5 +641,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039598 | [Bash: Performance Baseline — Recovery for Portfolio Demo](Project_039598/README.md) |
 | 039599 | [Bash: Performance Baseline — Reporting for Portfolio Demo](Project_039599/README.md) |
 | 039600 | [Bash: Performance Baseline — Usability Improvement for Portfolio Demo](Project_039600/README.md) |
+| 039601 | [Bash: Service Check — Baseline Setup for School Lab](Project_039601/README.md) |
+| 039602 | [Bash: Service Check — Automation for School Lab](Project_039602/README.md) |
+| 039603 | [Bash: Service Check — Recovery for School Lab](Project_039603/README.md) |
+| 039604 | [Bash: Service Check — Reporting for School Lab](Project_039604/README.md) |
+| 039605 | [Bash: Service Check — Usability Improvement for School Lab](Project_039605/README.md) |
+| 039606 | [Bash: Service Check — Baseline Setup for Small Business](Project_039606/README.md) |
+| 039607 | [Bash: Service Check — Automation for Small Business](Project_039607/README.md) |
+| 039608 | [Bash: Service Check — Recovery for Small Business](Project_039608/README.md) |
+| 039609 | [Bash: Service Check — Reporting for Small Business](Project_039609/README.md) |
+| 039610 | [Bash: Service Check — Usability Improvement for Small Business](Project_039610/README.md) |
+| 039611 | [Bash: Service Check — Baseline Setup for Home Development](Project_039611/README.md) |
+| 039612 | [Bash: Service Check — Automation for Home Development](Project_039612/README.md) |
+| 039613 | [Bash: Service Check — Recovery for Home Development](Project_039613/README.md) |
+| 039614 | [Bash: Service Check — Reporting for Home Development](Project_039614/README.md) |
+| 039615 | [Bash: Service Check — Usability Improvement for Home Development](Project_039615/README.md) |
+| 039616 | [Bash: Service Check — Baseline Setup for Public Dataset](Project_039616/README.md) |
+| 039617 | [Bash: Service Check — Automation for Public Dataset](Project_039617/README.md) |
+| 039618 | [Bash: Service Check — Recovery for Public Dataset](Project_039618/README.md) |
+| 039619 | [Bash: Service Check — Reporting for Public Dataset](Project_039619/README.md) |
+| 039620 | [Bash: Service Check — Usability Improvement for Public Dataset](Project_039620/README.md) |
 
 [Back to the portfolio home](../README.md)
