@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041858 | [Nginx: Automation — Recovery for Small Business](Project_041858/README.md) |
 | 041859 | [Nginx: Automation — Reporting for Small Business](Project_041859/README.md) |
 | 041860 | [Nginx: Automation — Usability Improvement for Small Business](Project_041860/README.md) |
+| 041861 | [Nginx: Automation — Baseline Setup for Home Development](Project_041861/README.md) |
+| 041862 | [Nginx: Automation — Automation for Home Development](Project_041862/README.md) |
+| 041863 | [Nginx: Automation — Recovery for Home Development](Project_041863/README.md) |
+| 041864 | [Nginx: Automation — Reporting for Home Development](Project_041864/README.md) |
+| 041865 | [Nginx: Automation — Usability Improvement for Home Development](Project_041865/README.md) |
+| 041866 | [Nginx: Automation — Baseline Setup for Public Dataset](Project_041866/README.md) |
+| 041867 | [Nginx: Automation — Automation for Public Dataset](Project_041867/README.md) |
+| 041868 | [Nginx: Automation — Recovery for Public Dataset](Project_041868/README.md) |
+| 041869 | [Nginx: Automation — Reporting for Public Dataset](Project_041869/README.md) |
+| 041870 | [Nginx: Automation — Usability Improvement for Public Dataset](Project_041870/README.md) |
+| 041871 | [Nginx: Automation — Baseline Setup for Branch Office Simulator](Project_041871/README.md) |
+| 041872 | [Nginx: Automation — Automation for Branch Office Simulator](Project_041872/README.md) |
+| 041873 | [Nginx: Automation — Recovery for Branch Office Simulator](Project_041873/README.md) |
+| 041874 | [Nginx: Automation — Reporting for Branch Office Simulator](Project_041874/README.md) |
+| 041875 | [Nginx: Automation — Usability Improvement for Branch Office Simulator](Project_041875/README.md) |
+| 041876 | [Nginx: Automation — Baseline Setup for Offline Classroom](Project_041876/README.md) |
+| 041877 | [Nginx: Automation — Automation for Offline Classroom](Project_041877/README.md) |
+| 041878 | [Nginx: Automation — Recovery for Offline Classroom](Project_041878/README.md) |
+| 041879 | [Nginx: Automation — Reporting for Offline Classroom](Project_041879/README.md) |
+| 041880 | [Nginx: Automation — Usability Improvement for Offline Classroom](Project_041880/README.md) |
 
 [Back to the portfolio home](../README.md)
