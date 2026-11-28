@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 860
+**Projects documented** 880
 
 ## Project categories
 
@@ -901,5 +901,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035858 | [Raspberry Pi: Automation — Recovery for Small Business](Project_035858/README.md) |
 | 035859 | [Raspberry Pi: Automation — Reporting for Small Business](Project_035859/README.md) |
 | 035860 | [Raspberry Pi: Automation — Usability Improvement for Small Business](Project_035860/README.md) |
+| 035861 | [Raspberry Pi: Automation — Baseline Setup for Home Development](Project_035861/README.md) |
+| 035862 | [Raspberry Pi: Automation — Automation for Home Development](Project_035862/README.md) |
+| 035863 | [Raspberry Pi: Automation — Recovery for Home Development](Project_035863/README.md) |
+| 035864 | [Raspberry Pi: Automation — Reporting for Home Development](Project_035864/README.md) |
+| 035865 | [Raspberry Pi: Automation — Usability Improvement for Home Development](Project_035865/README.md) |
+| 035866 | [Raspberry Pi: Automation — Baseline Setup for Public Dataset](Project_035866/README.md) |
+| 035867 | [Raspberry Pi: Automation — Automation for Public Dataset](Project_035867/README.md) |
+| 035868 | [Raspberry Pi: Automation — Recovery for Public Dataset](Project_035868/README.md) |
+| 035869 | [Raspberry Pi: Automation — Reporting for Public Dataset](Project_035869/README.md) |
+| 035870 | [Raspberry Pi: Automation — Usability Improvement for Public Dataset](Project_035870/README.md) |
+| 035871 | [Raspberry Pi: Automation — Baseline Setup for Branch Office Simulator](Project_035871/README.md) |
+| 035872 | [Raspberry Pi: Automation — Automation for Branch Office Simulator](Project_035872/README.md) |
+| 035873 | [Raspberry Pi: Automation — Recovery for Branch Office Simulator](Project_035873/README.md) |
+| 035874 | [Raspberry Pi: Automation — Reporting for Branch Office Simulator](Project_035874/README.md) |
+| 035875 | [Raspberry Pi: Automation — Usability Improvement for Branch Office Simulator](Project_035875/README.md) |
+| 035876 | [Raspberry Pi: Automation — Baseline Setup for Offline Classroom](Project_035876/README.md) |
+| 035877 | [Raspberry Pi: Automation — Automation for Offline Classroom](Project_035877/README.md) |
+| 035878 | [Raspberry Pi: Automation — Recovery for Offline Classroom](Project_035878/README.md) |
+| 035879 | [Raspberry Pi: Automation — Reporting for Offline Classroom](Project_035879/README.md) |
+| 035880 | [Raspberry Pi: Automation — Usability Improvement for Offline Classroom](Project_035880/README.md) |
 
 [Back to the portfolio home](../README.md)
