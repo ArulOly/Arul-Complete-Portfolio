@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016618 | [Google Cloud: Service Check — Recovery for Public Dataset](Project_016618/README.md) |
 | 016619 | [Google Cloud: Service Check — Reporting for Public Dataset](Project_016619/README.md) |
 | 016620 | [Google Cloud: Service Check — Usability Improvement for Public Dataset](Project_016620/README.md) |
+| 016621 | [Google Cloud: Service Check — Baseline Setup for Branch Office Simulator](Project_016621/README.md) |
+| 016622 | [Google Cloud: Service Check — Automation for Branch Office Simulator](Project_016622/README.md) |
+| 016623 | [Google Cloud: Service Check — Recovery for Branch Office Simulator](Project_016623/README.md) |
+| 016624 | [Google Cloud: Service Check — Reporting for Branch Office Simulator](Project_016624/README.md) |
+| 016625 | [Google Cloud: Service Check — Usability Improvement for Branch Office Simulator](Project_016625/README.md) |
+| 016626 | [Google Cloud: Service Check — Baseline Setup for Offline Classroom](Project_016626/README.md) |
+| 016627 | [Google Cloud: Service Check — Automation for Offline Classroom](Project_016627/README.md) |
+| 016628 | [Google Cloud: Service Check — Recovery for Offline Classroom](Project_016628/README.md) |
+| 016629 | [Google Cloud: Service Check — Reporting for Offline Classroom](Project_016629/README.md) |
+| 016630 | [Google Cloud: Service Check — Usability Improvement for Offline Classroom](Project_016630/README.md) |
+| 016631 | [Google Cloud: Service Check — Baseline Setup for Single-Host Lab](Project_016631/README.md) |
+| 016632 | [Google Cloud: Service Check — Automation for Single-Host Lab](Project_016632/README.md) |
+| 016633 | [Google Cloud: Service Check — Recovery for Single-Host Lab](Project_016633/README.md) |
+| 016634 | [Google Cloud: Service Check — Reporting for Single-Host Lab](Project_016634/README.md) |
+| 016635 | [Google Cloud: Service Check — Usability Improvement for Single-Host Lab](Project_016635/README.md) |
+| 016636 | [Google Cloud: Service Check — Baseline Setup for Two-Node Lab](Project_016636/README.md) |
+| 016637 | [Google Cloud: Service Check — Automation for Two-Node Lab](Project_016637/README.md) |
+| 016638 | [Google Cloud: Service Check — Recovery for Two-Node Lab](Project_016638/README.md) |
+| 016639 | [Google Cloud: Service Check — Reporting for Two-Node Lab](Project_016639/README.md) |
+| 016640 | [Google Cloud: Service Check — Usability Improvement for Two-Node Lab](Project_016640/README.md) |
 
 [Back to the portfolio home](../README.md)
