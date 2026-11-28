@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 100
+**Projects documented** 120
 
 ## Project categories
 
@@ -141,5 +141,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041098 | [Nginx: Monitoring — Recovery for Portfolio Demo](Project_041098/README.md) |
 | 041099 | [Nginx: Monitoring — Reporting for Portfolio Demo](Project_041099/README.md) |
 | 041100 | [Nginx: Monitoring — Usability Improvement for Portfolio Demo](Project_041100/README.md) |
+| 041101 | [Nginx: Audit — Baseline Setup for School Lab](Project_041101/README.md) |
+| 041102 | [Nginx: Audit — Automation for School Lab](Project_041102/README.md) |
+| 041103 | [Nginx: Audit — Recovery for School Lab](Project_041103/README.md) |
+| 041104 | [Nginx: Audit — Reporting for School Lab](Project_041104/README.md) |
+| 041105 | [Nginx: Audit — Usability Improvement for School Lab](Project_041105/README.md) |
+| 041106 | [Nginx: Audit — Baseline Setup for Small Business](Project_041106/README.md) |
+| 041107 | [Nginx: Audit — Automation for Small Business](Project_041107/README.md) |
+| 041108 | [Nginx: Audit — Recovery for Small Business](Project_041108/README.md) |
+| 041109 | [Nginx: Audit — Reporting for Small Business](Project_041109/README.md) |
+| 041110 | [Nginx: Audit — Usability Improvement for Small Business](Project_041110/README.md) |
+| 041111 | [Nginx: Audit — Baseline Setup for Home Development](Project_041111/README.md) |
+| 041112 | [Nginx: Audit — Automation for Home Development](Project_041112/README.md) |
+| 041113 | [Nginx: Audit — Recovery for Home Development](Project_041113/README.md) |
+| 041114 | [Nginx: Audit — Reporting for Home Development](Project_041114/README.md) |
+| 041115 | [Nginx: Audit — Usability Improvement for Home Development](Project_041115/README.md) |
+| 041116 | [Nginx: Audit — Baseline Setup for Public Dataset](Project_041116/README.md) |
+| 041117 | [Nginx: Audit — Automation for Public Dataset](Project_041117/README.md) |
+| 041118 | [Nginx: Audit — Recovery for Public Dataset](Project_041118/README.md) |
+| 041119 | [Nginx: Audit — Reporting for Public Dataset](Project_041119/README.md) |
+| 041120 | [Nginx: Audit — Usability Improvement for Public Dataset](Project_041120/README.md) |
 
 [Back to the portfolio home](../README.md)
