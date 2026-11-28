@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017058 | [Docker: Monitoring — Recovery for Small Business](Project_017058/README.md) |
 | 017059 | [Docker: Monitoring — Reporting for Small Business](Project_017059/README.md) |
 | 017060 | [Docker: Monitoring — Usability Improvement for Small Business](Project_017060/README.md) |
+| 017061 | [Docker: Monitoring — Baseline Setup for Home Development](Project_017061/README.md) |
+| 017062 | [Docker: Monitoring — Automation for Home Development](Project_017062/README.md) |
+| 017063 | [Docker: Monitoring — Recovery for Home Development](Project_017063/README.md) |
+| 017064 | [Docker: Monitoring — Reporting for Home Development](Project_017064/README.md) |
+| 017065 | [Docker: Monitoring — Usability Improvement for Home Development](Project_017065/README.md) |
+| 017066 | [Docker: Monitoring — Baseline Setup for Public Dataset](Project_017066/README.md) |
+| 017067 | [Docker: Monitoring — Automation for Public Dataset](Project_017067/README.md) |
+| 017068 | [Docker: Monitoring — Recovery for Public Dataset](Project_017068/README.md) |
+| 017069 | [Docker: Monitoring — Reporting for Public Dataset](Project_017069/README.md) |
+| 017070 | [Docker: Monitoring — Usability Improvement for Public Dataset](Project_017070/README.md) |
+| 017071 | [Docker: Monitoring — Baseline Setup for Branch Office Simulator](Project_017071/README.md) |
+| 017072 | [Docker: Monitoring — Automation for Branch Office Simulator](Project_017072/README.md) |
+| 017073 | [Docker: Monitoring — Recovery for Branch Office Simulator](Project_017073/README.md) |
+| 017074 | [Docker: Monitoring — Reporting for Branch Office Simulator](Project_017074/README.md) |
+| 017075 | [Docker: Monitoring — Usability Improvement for Branch Office Simulator](Project_017075/README.md) |
+| 017076 | [Docker: Monitoring — Baseline Setup for Offline Classroom](Project_017076/README.md) |
+| 017077 | [Docker: Monitoring — Automation for Offline Classroom](Project_017077/README.md) |
+| 017078 | [Docker: Monitoring — Recovery for Offline Classroom](Project_017078/README.md) |
+| 017079 | [Docker: Monitoring — Reporting for Offline Classroom](Project_017079/README.md) |
+| 017080 | [Docker: Monitoring — Usability Improvement for Offline Classroom](Project_017080/README.md) |
 
 [Back to the portfolio home](../README.md)
