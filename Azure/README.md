@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 520
+**Projects documented** 540
 
 ## Project categories
 
@@ -561,5 +561,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015518 | [Azure: Access Review — Recovery for Public Dataset](Project_015518/README.md) |
 | 015519 | [Azure: Access Review — Reporting for Public Dataset](Project_015519/README.md) |
 | 015520 | [Azure: Access Review — Usability Improvement for Public Dataset](Project_015520/README.md) |
+| 015521 | [Azure: Access Review — Baseline Setup for Branch Office Simulator](Project_015521/README.md) |
+| 015522 | [Azure: Access Review — Automation for Branch Office Simulator](Project_015522/README.md) |
+| 015523 | [Azure: Access Review — Recovery for Branch Office Simulator](Project_015523/README.md) |
+| 015524 | [Azure: Access Review — Reporting for Branch Office Simulator](Project_015524/README.md) |
+| 015525 | [Azure: Access Review — Usability Improvement for Branch Office Simulator](Project_015525/README.md) |
+| 015526 | [Azure: Access Review — Baseline Setup for Offline Classroom](Project_015526/README.md) |
+| 015527 | [Azure: Access Review — Automation for Offline Classroom](Project_015527/README.md) |
+| 015528 | [Azure: Access Review — Recovery for Offline Classroom](Project_015528/README.md) |
+| 015529 | [Azure: Access Review — Reporting for Offline Classroom](Project_015529/README.md) |
+| 015530 | [Azure: Access Review — Usability Improvement for Offline Classroom](Project_015530/README.md) |
+| 015531 | [Azure: Access Review — Baseline Setup for Single-Host Lab](Project_015531/README.md) |
+| 015532 | [Azure: Access Review — Automation for Single-Host Lab](Project_015532/README.md) |
+| 015533 | [Azure: Access Review — Recovery for Single-Host Lab](Project_015533/README.md) |
+| 015534 | [Azure: Access Review — Reporting for Single-Host Lab](Project_015534/README.md) |
+| 015535 | [Azure: Access Review — Usability Improvement for Single-Host Lab](Project_015535/README.md) |
+| 015536 | [Azure: Access Review — Baseline Setup for Two-Node Lab](Project_015536/README.md) |
+| 015537 | [Azure: Access Review — Automation for Two-Node Lab](Project_015537/README.md) |
+| 015538 | [Azure: Access Review — Recovery for Two-Node Lab](Project_015538/README.md) |
+| 015539 | [Azure: Access Review — Reporting for Two-Node Lab](Project_015539/README.md) |
+| 015540 | [Azure: Access Review — Usability Improvement for Two-Node Lab](Project_015540/README.md) |
 
 [Back to the portfolio home](../README.md)
