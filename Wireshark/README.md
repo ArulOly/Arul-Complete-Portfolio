@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029938 | [Wireshark: Visual Reporting — Recovery for Two-Node Lab](Project_029938/README.md) |
 | 029939 | [Wireshark: Visual Reporting — Reporting for Two-Node Lab](Project_029939/README.md) |
 | 029940 | [Wireshark: Visual Reporting — Usability Improvement for Two-Node Lab](Project_029940/README.md) |
+| 029941 | [Wireshark: Visual Reporting — Baseline Setup for Help Desk](Project_029941/README.md) |
+| 029942 | [Wireshark: Visual Reporting — Automation for Help Desk](Project_029942/README.md) |
+| 029943 | [Wireshark: Visual Reporting — Recovery for Help Desk](Project_029943/README.md) |
+| 029944 | [Wireshark: Visual Reporting — Reporting for Help Desk](Project_029944/README.md) |
+| 029945 | [Wireshark: Visual Reporting — Usability Improvement for Help Desk](Project_029945/README.md) |
+| 029946 | [Wireshark: Visual Reporting — Baseline Setup for Portfolio Demo](Project_029946/README.md) |
+| 029947 | [Wireshark: Visual Reporting — Automation for Portfolio Demo](Project_029947/README.md) |
+| 029948 | [Wireshark: Visual Reporting — Recovery for Portfolio Demo](Project_029948/README.md) |
+| 029949 | [Wireshark: Visual Reporting — Reporting for Portfolio Demo](Project_029949/README.md) |
+| 029950 | [Wireshark: Visual Reporting — Usability Improvement for Portfolio Demo](Project_029950/README.md) |
+| 029951 | [Wireshark: Recovery Test — Baseline Setup for School Lab](Project_029951/README.md) |
+| 029952 | [Wireshark: Recovery Test — Automation for School Lab](Project_029952/README.md) |
+| 029953 | [Wireshark: Recovery Test — Recovery for School Lab](Project_029953/README.md) |
+| 029954 | [Wireshark: Recovery Test — Reporting for School Lab](Project_029954/README.md) |
+| 029955 | [Wireshark: Recovery Test — Usability Improvement for School Lab](Project_029955/README.md) |
+| 029956 | [Wireshark: Recovery Test — Baseline Setup for Small Business](Project_029956/README.md) |
+| 029957 | [Wireshark: Recovery Test — Automation for Small Business](Project_029957/README.md) |
+| 029958 | [Wireshark: Recovery Test — Recovery for Small Business](Project_029958/README.md) |
+| 029959 | [Wireshark: Recovery Test — Reporting for Small Business](Project_029959/README.md) |
+| 029960 | [Wireshark: Recovery Test — Usability Improvement for Small Business](Project_029960/README.md) |
 
 [Back to the portfolio home](../README.md)
