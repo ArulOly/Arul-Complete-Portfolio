@@ -4,7 +4,7 @@ This collection contains guide-based Wireshark exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the source as `practice.sh` and run `sh practice.sh`. The script generates 
 | 029138 | [Wireshark: Audit — Recovery for Two-Node Lab](Project_029138/README.md) |
 | 029139 | [Wireshark: Audit — Reporting for Two-Node Lab](Project_029139/README.md) |
 | 029140 | [Wireshark: Audit — Usability Improvement for Two-Node Lab](Project_029140/README.md) |
+| 029141 | [Wireshark: Audit — Baseline Setup for Help Desk](Project_029141/README.md) |
+| 029142 | [Wireshark: Audit — Automation for Help Desk](Project_029142/README.md) |
+| 029143 | [Wireshark: Audit — Recovery for Help Desk](Project_029143/README.md) |
+| 029144 | [Wireshark: Audit — Reporting for Help Desk](Project_029144/README.md) |
+| 029145 | [Wireshark: Audit — Usability Improvement for Help Desk](Project_029145/README.md) |
+| 029146 | [Wireshark: Audit — Baseline Setup for Portfolio Demo](Project_029146/README.md) |
+| 029147 | [Wireshark: Audit — Automation for Portfolio Demo](Project_029147/README.md) |
+| 029148 | [Wireshark: Audit — Recovery for Portfolio Demo](Project_029148/README.md) |
+| 029149 | [Wireshark: Audit — Reporting for Portfolio Demo](Project_029149/README.md) |
+| 029150 | [Wireshark: Audit — Usability Improvement for Portfolio Demo](Project_029150/README.md) |
+| 029151 | [Wireshark: Log Analysis — Baseline Setup for School Lab](Project_029151/README.md) |
+| 029152 | [Wireshark: Log Analysis — Automation for School Lab](Project_029152/README.md) |
+| 029153 | [Wireshark: Log Analysis — Recovery for School Lab](Project_029153/README.md) |
+| 029154 | [Wireshark: Log Analysis — Reporting for School Lab](Project_029154/README.md) |
+| 029155 | [Wireshark: Log Analysis — Usability Improvement for School Lab](Project_029155/README.md) |
+| 029156 | [Wireshark: Log Analysis — Baseline Setup for Small Business](Project_029156/README.md) |
+| 029157 | [Wireshark: Log Analysis — Automation for Small Business](Project_029157/README.md) |
+| 029158 | [Wireshark: Log Analysis — Recovery for Small Business](Project_029158/README.md) |
+| 029159 | [Wireshark: Log Analysis — Reporting for Small Business](Project_029159/README.md) |
+| 029160 | [Wireshark: Log Analysis — Usability Improvement for Small Business](Project_029160/README.md) |
 
 [Back to the portfolio home](../README.md)
