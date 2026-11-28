@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044818 | [Prometheus: Documentation Generation — Recovery for Public Dataset](Project_044818/README.md) |
 | 044819 | [Prometheus: Documentation Generation — Reporting for Public Dataset](Project_044819/README.md) |
 | 044820 | [Prometheus: Documentation Generation — Usability Improvement for Public Dataset](Project_044820/README.md) |
+| 044821 | [Prometheus: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_044821/README.md) |
+| 044822 | [Prometheus: Documentation Generation — Automation for Branch Office Simulator](Project_044822/README.md) |
+| 044823 | [Prometheus: Documentation Generation — Recovery for Branch Office Simulator](Project_044823/README.md) |
+| 044824 | [Prometheus: Documentation Generation — Reporting for Branch Office Simulator](Project_044824/README.md) |
+| 044825 | [Prometheus: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_044825/README.md) |
+| 044826 | [Prometheus: Documentation Generation — Baseline Setup for Offline Classroom](Project_044826/README.md) |
+| 044827 | [Prometheus: Documentation Generation — Automation for Offline Classroom](Project_044827/README.md) |
+| 044828 | [Prometheus: Documentation Generation — Recovery for Offline Classroom](Project_044828/README.md) |
+| 044829 | [Prometheus: Documentation Generation — Reporting for Offline Classroom](Project_044829/README.md) |
+| 044830 | [Prometheus: Documentation Generation — Usability Improvement for Offline Classroom](Project_044830/README.md) |
+| 044831 | [Prometheus: Documentation Generation — Baseline Setup for Single-Host Lab](Project_044831/README.md) |
+| 044832 | [Prometheus: Documentation Generation — Automation for Single-Host Lab](Project_044832/README.md) |
+| 044833 | [Prometheus: Documentation Generation — Recovery for Single-Host Lab](Project_044833/README.md) |
+| 044834 | [Prometheus: Documentation Generation — Reporting for Single-Host Lab](Project_044834/README.md) |
+| 044835 | [Prometheus: Documentation Generation — Usability Improvement for Single-Host Lab](Project_044835/README.md) |
+| 044836 | [Prometheus: Documentation Generation — Baseline Setup for Two-Node Lab](Project_044836/README.md) |
+| 044837 | [Prometheus: Documentation Generation — Automation for Two-Node Lab](Project_044837/README.md) |
+| 044838 | [Prometheus: Documentation Generation — Recovery for Two-Node Lab](Project_044838/README.md) |
+| 044839 | [Prometheus: Documentation Generation — Reporting for Two-Node Lab](Project_044839/README.md) |
+| 044840 | [Prometheus: Documentation Generation — Usability Improvement for Two-Node Lab](Project_044840/README.md) |
 
 [Back to the portfolio home](../README.md)
