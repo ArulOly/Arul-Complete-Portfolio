@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042758 | [Apache: Data Validation — Recovery for Small Business](Project_042758/README.md) |
 | 042759 | [Apache: Data Validation — Reporting for Small Business](Project_042759/README.md) |
 | 042760 | [Apache: Data Validation — Usability Improvement for Small Business](Project_042760/README.md) |
+| 042761 | [Apache: Data Validation — Baseline Setup for Home Development](Project_042761/README.md) |
+| 042762 | [Apache: Data Validation — Automation for Home Development](Project_042762/README.md) |
+| 042763 | [Apache: Data Validation — Recovery for Home Development](Project_042763/README.md) |
+| 042764 | [Apache: Data Validation — Reporting for Home Development](Project_042764/README.md) |
+| 042765 | [Apache: Data Validation — Usability Improvement for Home Development](Project_042765/README.md) |
+| 042766 | [Apache: Data Validation — Baseline Setup for Public Dataset](Project_042766/README.md) |
+| 042767 | [Apache: Data Validation — Automation for Public Dataset](Project_042767/README.md) |
+| 042768 | [Apache: Data Validation — Recovery for Public Dataset](Project_042768/README.md) |
+| 042769 | [Apache: Data Validation — Reporting for Public Dataset](Project_042769/README.md) |
+| 042770 | [Apache: Data Validation — Usability Improvement for Public Dataset](Project_042770/README.md) |
+| 042771 | [Apache: Data Validation — Baseline Setup for Branch Office Simulator](Project_042771/README.md) |
+| 042772 | [Apache: Data Validation — Automation for Branch Office Simulator](Project_042772/README.md) |
+| 042773 | [Apache: Data Validation — Recovery for Branch Office Simulator](Project_042773/README.md) |
+| 042774 | [Apache: Data Validation — Reporting for Branch Office Simulator](Project_042774/README.md) |
+| 042775 | [Apache: Data Validation — Usability Improvement for Branch Office Simulator](Project_042775/README.md) |
+| 042776 | [Apache: Data Validation — Baseline Setup for Offline Classroom](Project_042776/README.md) |
+| 042777 | [Apache: Data Validation — Automation for Offline Classroom](Project_042777/README.md) |
+| 042778 | [Apache: Data Validation — Recovery for Offline Classroom](Project_042778/README.md) |
+| 042779 | [Apache: Data Validation — Reporting for Offline Classroom](Project_042779/README.md) |
+| 042780 | [Apache: Data Validation — Usability Improvement for Offline Classroom](Project_042780/README.md) |
 
 [Back to the portfolio home](../README.md)
