@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 220
+**Projects documented** 240
 
 ## Project categories
 
@@ -261,5 +261,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040218 | [PowerShell: Backup Verification — Recovery for Public Dataset](Project_040218/README.md) |
 | 040219 | [PowerShell: Backup Verification — Reporting for Public Dataset](Project_040219/README.md) |
 | 040220 | [PowerShell: Backup Verification — Usability Improvement for Public Dataset](Project_040220/README.md) |
+| 040221 | [PowerShell: Backup Verification — Baseline Setup for Branch Office Simulator](Project_040221/README.md) |
+| 040222 | [PowerShell: Backup Verification — Automation for Branch Office Simulator](Project_040222/README.md) |
+| 040223 | [PowerShell: Backup Verification — Recovery for Branch Office Simulator](Project_040223/README.md) |
+| 040224 | [PowerShell: Backup Verification — Reporting for Branch Office Simulator](Project_040224/README.md) |
+| 040225 | [PowerShell: Backup Verification — Usability Improvement for Branch Office Simulator](Project_040225/README.md) |
+| 040226 | [PowerShell: Backup Verification — Baseline Setup for Offline Classroom](Project_040226/README.md) |
+| 040227 | [PowerShell: Backup Verification — Automation for Offline Classroom](Project_040227/README.md) |
+| 040228 | [PowerShell: Backup Verification — Recovery for Offline Classroom](Project_040228/README.md) |
+| 040229 | [PowerShell: Backup Verification — Reporting for Offline Classroom](Project_040229/README.md) |
+| 040230 | [PowerShell: Backup Verification — Usability Improvement for Offline Classroom](Project_040230/README.md) |
+| 040231 | [PowerShell: Backup Verification — Baseline Setup for Single-Host Lab](Project_040231/README.md) |
+| 040232 | [PowerShell: Backup Verification — Automation for Single-Host Lab](Project_040232/README.md) |
+| 040233 | [PowerShell: Backup Verification — Recovery for Single-Host Lab](Project_040233/README.md) |
+| 040234 | [PowerShell: Backup Verification — Reporting for Single-Host Lab](Project_040234/README.md) |
+| 040235 | [PowerShell: Backup Verification — Usability Improvement for Single-Host Lab](Project_040235/README.md) |
+| 040236 | [PowerShell: Backup Verification — Baseline Setup for Two-Node Lab](Project_040236/README.md) |
+| 040237 | [PowerShell: Backup Verification — Automation for Two-Node Lab](Project_040237/README.md) |
+| 040238 | [PowerShell: Backup Verification — Recovery for Two-Node Lab](Project_040238/README.md) |
+| 040239 | [PowerShell: Backup Verification — Reporting for Two-Node Lab](Project_040239/README.md) |
+| 040240 | [PowerShell: Backup Verification — Usability Improvement for Two-Node Lab](Project_040240/README.md) |
 
 [Back to the portfolio home](../README.md)
