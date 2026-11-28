@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018758 | [Kubernetes: Data Validation — Recovery for Small Business](Project_018758/README.md) |
 | 018759 | [Kubernetes: Data Validation — Reporting for Small Business](Project_018759/README.md) |
 | 018760 | [Kubernetes: Data Validation — Usability Improvement for Small Business](Project_018760/README.md) |
+| 018761 | [Kubernetes: Data Validation — Baseline Setup for Home Development](Project_018761/README.md) |
+| 018762 | [Kubernetes: Data Validation — Automation for Home Development](Project_018762/README.md) |
+| 018763 | [Kubernetes: Data Validation — Recovery for Home Development](Project_018763/README.md) |
+| 018764 | [Kubernetes: Data Validation — Reporting for Home Development](Project_018764/README.md) |
+| 018765 | [Kubernetes: Data Validation — Usability Improvement for Home Development](Project_018765/README.md) |
+| 018766 | [Kubernetes: Data Validation — Baseline Setup for Public Dataset](Project_018766/README.md) |
+| 018767 | [Kubernetes: Data Validation — Automation for Public Dataset](Project_018767/README.md) |
+| 018768 | [Kubernetes: Data Validation — Recovery for Public Dataset](Project_018768/README.md) |
+| 018769 | [Kubernetes: Data Validation — Reporting for Public Dataset](Project_018769/README.md) |
+| 018770 | [Kubernetes: Data Validation — Usability Improvement for Public Dataset](Project_018770/README.md) |
+| 018771 | [Kubernetes: Data Validation — Baseline Setup for Branch Office Simulator](Project_018771/README.md) |
+| 018772 | [Kubernetes: Data Validation — Automation for Branch Office Simulator](Project_018772/README.md) |
+| 018773 | [Kubernetes: Data Validation — Recovery for Branch Office Simulator](Project_018773/README.md) |
+| 018774 | [Kubernetes: Data Validation — Reporting for Branch Office Simulator](Project_018774/README.md) |
+| 018775 | [Kubernetes: Data Validation — Usability Improvement for Branch Office Simulator](Project_018775/README.md) |
+| 018776 | [Kubernetes: Data Validation — Baseline Setup for Offline Classroom](Project_018776/README.md) |
+| 018777 | [Kubernetes: Data Validation — Automation for Offline Classroom](Project_018777/README.md) |
+| 018778 | [Kubernetes: Data Validation — Recovery for Offline Classroom](Project_018778/README.md) |
+| 018779 | [Kubernetes: Data Validation — Reporting for Offline Classroom](Project_018779/README.md) |
+| 018780 | [Kubernetes: Data Validation — Usability Improvement for Offline Classroom](Project_018780/README.md) |
 
 [Back to the portfolio home](../README.md)
