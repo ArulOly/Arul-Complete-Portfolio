@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 900
+**Projects documented** 920
 
 ## Project categories
 
@@ -941,5 +941,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031898 | [Greenbone: Automation — Recovery for Portfolio Demo](Project_031898/README.md) |
 | 031899 | [Greenbone: Automation — Reporting for Portfolio Demo](Project_031899/README.md) |
 | 031900 | [Greenbone: Automation — Usability Improvement for Portfolio Demo](Project_031900/README.md) |
+| 031901 | [Greenbone: Visual Reporting — Baseline Setup for School Lab](Project_031901/README.md) |
+| 031902 | [Greenbone: Visual Reporting — Automation for School Lab](Project_031902/README.md) |
+| 031903 | [Greenbone: Visual Reporting — Recovery for School Lab](Project_031903/README.md) |
+| 031904 | [Greenbone: Visual Reporting — Reporting for School Lab](Project_031904/README.md) |
+| 031905 | [Greenbone: Visual Reporting — Usability Improvement for School Lab](Project_031905/README.md) |
+| 031906 | [Greenbone: Visual Reporting — Baseline Setup for Small Business](Project_031906/README.md) |
+| 031907 | [Greenbone: Visual Reporting — Automation for Small Business](Project_031907/README.md) |
+| 031908 | [Greenbone: Visual Reporting — Recovery for Small Business](Project_031908/README.md) |
+| 031909 | [Greenbone: Visual Reporting — Reporting for Small Business](Project_031909/README.md) |
+| 031910 | [Greenbone: Visual Reporting — Usability Improvement for Small Business](Project_031910/README.md) |
+| 031911 | [Greenbone: Visual Reporting — Baseline Setup for Home Development](Project_031911/README.md) |
+| 031912 | [Greenbone: Visual Reporting — Automation for Home Development](Project_031912/README.md) |
+| 031913 | [Greenbone: Visual Reporting — Recovery for Home Development](Project_031913/README.md) |
+| 031914 | [Greenbone: Visual Reporting — Reporting for Home Development](Project_031914/README.md) |
+| 031915 | [Greenbone: Visual Reporting — Usability Improvement for Home Development](Project_031915/README.md) |
+| 031916 | [Greenbone: Visual Reporting — Baseline Setup for Public Dataset](Project_031916/README.md) |
+| 031917 | [Greenbone: Visual Reporting — Automation for Public Dataset](Project_031917/README.md) |
+| 031918 | [Greenbone: Visual Reporting — Recovery for Public Dataset](Project_031918/README.md) |
+| 031919 | [Greenbone: Visual Reporting — Reporting for Public Dataset](Project_031919/README.md) |
+| 031920 | [Greenbone: Visual Reporting — Usability Improvement for Public Dataset](Project_031920/README.md) |
 
 [Back to the portfolio home](../README.md)
