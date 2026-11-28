@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040738 | [PowerShell: Error Handling — Recovery for Two-Node Lab](Project_040738/README.md) |
 | 040739 | [PowerShell: Error Handling — Reporting for Two-Node Lab](Project_040739/README.md) |
 | 040740 | [PowerShell: Error Handling — Usability Improvement for Two-Node Lab](Project_040740/README.md) |
+| 040741 | [PowerShell: Error Handling — Baseline Setup for Help Desk](Project_040741/README.md) |
+| 040742 | [PowerShell: Error Handling — Automation for Help Desk](Project_040742/README.md) |
+| 040743 | [PowerShell: Error Handling — Recovery for Help Desk](Project_040743/README.md) |
+| 040744 | [PowerShell: Error Handling — Reporting for Help Desk](Project_040744/README.md) |
+| 040745 | [PowerShell: Error Handling — Usability Improvement for Help Desk](Project_040745/README.md) |
+| 040746 | [PowerShell: Error Handling — Baseline Setup for Portfolio Demo](Project_040746/README.md) |
+| 040747 | [PowerShell: Error Handling — Automation for Portfolio Demo](Project_040747/README.md) |
+| 040748 | [PowerShell: Error Handling — Recovery for Portfolio Demo](Project_040748/README.md) |
+| 040749 | [PowerShell: Error Handling — Reporting for Portfolio Demo](Project_040749/README.md) |
+| 040750 | [PowerShell: Error Handling — Usability Improvement for Portfolio Demo](Project_040750/README.md) |
+| 040751 | [PowerShell: Data Validation — Baseline Setup for School Lab](Project_040751/README.md) |
+| 040752 | [PowerShell: Data Validation — Automation for School Lab](Project_040752/README.md) |
+| 040753 | [PowerShell: Data Validation — Recovery for School Lab](Project_040753/README.md) |
+| 040754 | [PowerShell: Data Validation — Reporting for School Lab](Project_040754/README.md) |
+| 040755 | [PowerShell: Data Validation — Usability Improvement for School Lab](Project_040755/README.md) |
+| 040756 | [PowerShell: Data Validation — Baseline Setup for Small Business](Project_040756/README.md) |
+| 040757 | [PowerShell: Data Validation — Automation for Small Business](Project_040757/README.md) |
+| 040758 | [PowerShell: Data Validation — Recovery for Small Business](Project_040758/README.md) |
+| 040759 | [PowerShell: Data Validation — Reporting for Small Business](Project_040759/README.md) |
+| 040760 | [PowerShell: Data Validation — Usability Improvement for Small Business](Project_040760/README.md) |
 
 [Back to the portfolio home](../README.md)
