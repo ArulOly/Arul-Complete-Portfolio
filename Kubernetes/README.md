@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 80
+**Projects documented** 100
 
 ## Project categories
 
@@ -121,5 +121,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018078 | [Kubernetes: Monitoring — Recovery for Offline Classroom](Project_018078/README.md) |
 | 018079 | [Kubernetes: Monitoring — Reporting for Offline Classroom](Project_018079/README.md) |
 | 018080 | [Kubernetes: Monitoring — Usability Improvement for Offline Classroom](Project_018080/README.md) |
+| 018081 | [Kubernetes: Monitoring — Baseline Setup for Single-Host Lab](Project_018081/README.md) |
+| 018082 | [Kubernetes: Monitoring — Automation for Single-Host Lab](Project_018082/README.md) |
+| 018083 | [Kubernetes: Monitoring — Recovery for Single-Host Lab](Project_018083/README.md) |
+| 018084 | [Kubernetes: Monitoring — Reporting for Single-Host Lab](Project_018084/README.md) |
+| 018085 | [Kubernetes: Monitoring — Usability Improvement for Single-Host Lab](Project_018085/README.md) |
+| 018086 | [Kubernetes: Monitoring — Baseline Setup for Two-Node Lab](Project_018086/README.md) |
+| 018087 | [Kubernetes: Monitoring — Automation for Two-Node Lab](Project_018087/README.md) |
+| 018088 | [Kubernetes: Monitoring — Recovery for Two-Node Lab](Project_018088/README.md) |
+| 018089 | [Kubernetes: Monitoring — Reporting for Two-Node Lab](Project_018089/README.md) |
+| 018090 | [Kubernetes: Monitoring — Usability Improvement for Two-Node Lab](Project_018090/README.md) |
+| 018091 | [Kubernetes: Monitoring — Baseline Setup for Help Desk](Project_018091/README.md) |
+| 018092 | [Kubernetes: Monitoring — Automation for Help Desk](Project_018092/README.md) |
+| 018093 | [Kubernetes: Monitoring — Recovery for Help Desk](Project_018093/README.md) |
+| 018094 | [Kubernetes: Monitoring — Reporting for Help Desk](Project_018094/README.md) |
+| 018095 | [Kubernetes: Monitoring — Usability Improvement for Help Desk](Project_018095/README.md) |
+| 018096 | [Kubernetes: Monitoring — Baseline Setup for Portfolio Demo](Project_018096/README.md) |
+| 018097 | [Kubernetes: Monitoring — Automation for Portfolio Demo](Project_018097/README.md) |
+| 018098 | [Kubernetes: Monitoring — Recovery for Portfolio Demo](Project_018098/README.md) |
+| 018099 | [Kubernetes: Monitoring — Reporting for Portfolio Demo](Project_018099/README.md) |
+| 018100 | [Kubernetes: Monitoring — Usability Improvement for Portfolio Demo](Project_018100/README.md) |
 
 [Back to the portfolio home](../README.md)
