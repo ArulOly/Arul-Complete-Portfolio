@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031418 | [Greenbone: Alerting — Recovery for Public Dataset](Project_031418/README.md) |
 | 031419 | [Greenbone: Alerting — Reporting for Public Dataset](Project_031419/README.md) |
 | 031420 | [Greenbone: Alerting — Usability Improvement for Public Dataset](Project_031420/README.md) |
+| 031421 | [Greenbone: Alerting — Baseline Setup for Branch Office Simulator](Project_031421/README.md) |
+| 031422 | [Greenbone: Alerting — Automation for Branch Office Simulator](Project_031422/README.md) |
+| 031423 | [Greenbone: Alerting — Recovery for Branch Office Simulator](Project_031423/README.md) |
+| 031424 | [Greenbone: Alerting — Reporting for Branch Office Simulator](Project_031424/README.md) |
+| 031425 | [Greenbone: Alerting — Usability Improvement for Branch Office Simulator](Project_031425/README.md) |
+| 031426 | [Greenbone: Alerting — Baseline Setup for Offline Classroom](Project_031426/README.md) |
+| 031427 | [Greenbone: Alerting — Automation for Offline Classroom](Project_031427/README.md) |
+| 031428 | [Greenbone: Alerting — Recovery for Offline Classroom](Project_031428/README.md) |
+| 031429 | [Greenbone: Alerting — Reporting for Offline Classroom](Project_031429/README.md) |
+| 031430 | [Greenbone: Alerting — Usability Improvement for Offline Classroom](Project_031430/README.md) |
+| 031431 | [Greenbone: Alerting — Baseline Setup for Single-Host Lab](Project_031431/README.md) |
+| 031432 | [Greenbone: Alerting — Automation for Single-Host Lab](Project_031432/README.md) |
+| 031433 | [Greenbone: Alerting — Recovery for Single-Host Lab](Project_031433/README.md) |
+| 031434 | [Greenbone: Alerting — Reporting for Single-Host Lab](Project_031434/README.md) |
+| 031435 | [Greenbone: Alerting — Usability Improvement for Single-Host Lab](Project_031435/README.md) |
+| 031436 | [Greenbone: Alerting — Baseline Setup for Two-Node Lab](Project_031436/README.md) |
+| 031437 | [Greenbone: Alerting — Automation for Two-Node Lab](Project_031437/README.md) |
+| 031438 | [Greenbone: Alerting — Recovery for Two-Node Lab](Project_031438/README.md) |
+| 031439 | [Greenbone: Alerting — Reporting for Two-Node Lab](Project_031439/README.md) |
+| 031440 | [Greenbone: Alerting — Usability Improvement for Two-Node Lab](Project_031440/README.md) |
 
 [Back to the portfolio home](../README.md)
