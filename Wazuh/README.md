@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 200
+**Projects documented** 220
 
 ## Project categories
 
@@ -241,5 +241,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030198 | [Wazuh: Log Analysis — Recovery for Portfolio Demo](Project_030198/README.md) |
 | 030199 | [Wazuh: Log Analysis — Reporting for Portfolio Demo](Project_030199/README.md) |
 | 030200 | [Wazuh: Log Analysis — Usability Improvement for Portfolio Demo](Project_030200/README.md) |
+| 030201 | [Wazuh: Backup Verification — Baseline Setup for School Lab](Project_030201/README.md) |
+| 030202 | [Wazuh: Backup Verification — Automation for School Lab](Project_030202/README.md) |
+| 030203 | [Wazuh: Backup Verification — Recovery for School Lab](Project_030203/README.md) |
+| 030204 | [Wazuh: Backup Verification — Reporting for School Lab](Project_030204/README.md) |
+| 030205 | [Wazuh: Backup Verification — Usability Improvement for School Lab](Project_030205/README.md) |
+| 030206 | [Wazuh: Backup Verification — Baseline Setup for Small Business](Project_030206/README.md) |
+| 030207 | [Wazuh: Backup Verification — Automation for Small Business](Project_030207/README.md) |
+| 030208 | [Wazuh: Backup Verification — Recovery for Small Business](Project_030208/README.md) |
+| 030209 | [Wazuh: Backup Verification — Reporting for Small Business](Project_030209/README.md) |
+| 030210 | [Wazuh: Backup Verification — Usability Improvement for Small Business](Project_030210/README.md) |
+| 030211 | [Wazuh: Backup Verification — Baseline Setup for Home Development](Project_030211/README.md) |
+| 030212 | [Wazuh: Backup Verification — Automation for Home Development](Project_030212/README.md) |
+| 030213 | [Wazuh: Backup Verification — Recovery for Home Development](Project_030213/README.md) |
+| 030214 | [Wazuh: Backup Verification — Reporting for Home Development](Project_030214/README.md) |
+| 030215 | [Wazuh: Backup Verification — Usability Improvement for Home Development](Project_030215/README.md) |
+| 030216 | [Wazuh: Backup Verification — Baseline Setup for Public Dataset](Project_030216/README.md) |
+| 030217 | [Wazuh: Backup Verification — Automation for Public Dataset](Project_030217/README.md) |
+| 030218 | [Wazuh: Backup Verification — Recovery for Public Dataset](Project_030218/README.md) |
+| 030219 | [Wazuh: Backup Verification — Reporting for Public Dataset](Project_030219/README.md) |
+| 030220 | [Wazuh: Backup Verification — Usability Improvement for Public Dataset](Project_030220/README.md) |
 
 [Back to the portfolio home](../README.md)
