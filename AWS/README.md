@@ -4,7 +4,7 @@ This collection contains guide-based AWS exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 014058 | [AWS: Monitoring — Recovery for Small Business](Project_014058/README.md) |
 | 014059 | [AWS: Monitoring — Reporting for Small Business](Project_014059/README.md) |
 | 014060 | [AWS: Monitoring — Usability Improvement for Small Business](Project_014060/README.md) |
+| 014061 | [AWS: Monitoring — Baseline Setup for Home Development](Project_014061/README.md) |
+| 014062 | [AWS: Monitoring — Automation for Home Development](Project_014062/README.md) |
+| 014063 | [AWS: Monitoring — Recovery for Home Development](Project_014063/README.md) |
+| 014064 | [AWS: Monitoring — Reporting for Home Development](Project_014064/README.md) |
+| 014065 | [AWS: Monitoring — Usability Improvement for Home Development](Project_014065/README.md) |
+| 014066 | [AWS: Monitoring — Baseline Setup for Public Dataset](Project_014066/README.md) |
+| 014067 | [AWS: Monitoring — Automation for Public Dataset](Project_014067/README.md) |
+| 014068 | [AWS: Monitoring — Recovery for Public Dataset](Project_014068/README.md) |
+| 014069 | [AWS: Monitoring — Reporting for Public Dataset](Project_014069/README.md) |
+| 014070 | [AWS: Monitoring — Usability Improvement for Public Dataset](Project_014070/README.md) |
+| 014071 | [AWS: Monitoring — Baseline Setup for Branch Office Simulator](Project_014071/README.md) |
+| 014072 | [AWS: Monitoring — Automation for Branch Office Simulator](Project_014072/README.md) |
+| 014073 | [AWS: Monitoring — Recovery for Branch Office Simulator](Project_014073/README.md) |
+| 014074 | [AWS: Monitoring — Reporting for Branch Office Simulator](Project_014074/README.md) |
+| 014075 | [AWS: Monitoring — Usability Improvement for Branch Office Simulator](Project_014075/README.md) |
+| 014076 | [AWS: Monitoring — Baseline Setup for Offline Classroom](Project_014076/README.md) |
+| 014077 | [AWS: Monitoring — Automation for Offline Classroom](Project_014077/README.md) |
+| 014078 | [AWS: Monitoring — Recovery for Offline Classroom](Project_014078/README.md) |
+| 014079 | [AWS: Monitoring — Reporting for Offline Classroom](Project_014079/README.md) |
+| 014080 | [AWS: Monitoring — Usability Improvement for Offline Classroom](Project_014080/README.md) |
 
 [Back to the portfolio home](../README.md)
