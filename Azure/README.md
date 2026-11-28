@@ -4,7 +4,7 @@ This collection contains guide-based Azure exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 015038 | [Azure: Inventory — Recovery for Two-Node Lab](Project_015038/README.md) |
 | 015039 | [Azure: Inventory — Reporting for Two-Node Lab](Project_015039/README.md) |
 | 015040 | [Azure: Inventory — Usability Improvement for Two-Node Lab](Project_015040/README.md) |
+| 015041 | [Azure: Inventory — Baseline Setup for Help Desk](Project_015041/README.md) |
+| 015042 | [Azure: Inventory — Automation for Help Desk](Project_015042/README.md) |
+| 015043 | [Azure: Inventory — Recovery for Help Desk](Project_015043/README.md) |
+| 015044 | [Azure: Inventory — Reporting for Help Desk](Project_015044/README.md) |
+| 015045 | [Azure: Inventory — Usability Improvement for Help Desk](Project_015045/README.md) |
+| 015046 | [Azure: Inventory — Baseline Setup for Portfolio Demo](Project_015046/README.md) |
+| 015047 | [Azure: Inventory — Automation for Portfolio Demo](Project_015047/README.md) |
+| 015048 | [Azure: Inventory — Recovery for Portfolio Demo](Project_015048/README.md) |
+| 015049 | [Azure: Inventory — Reporting for Portfolio Demo](Project_015049/README.md) |
+| 015050 | [Azure: Inventory — Usability Improvement for Portfolio Demo](Project_015050/README.md) |
+| 015051 | [Azure: Monitoring — Baseline Setup for School Lab](Project_015051/README.md) |
+| 015052 | [Azure: Monitoring — Automation for School Lab](Project_015052/README.md) |
+| 015053 | [Azure: Monitoring — Recovery for School Lab](Project_015053/README.md) |
+| 015054 | [Azure: Monitoring — Reporting for School Lab](Project_015054/README.md) |
+| 015055 | [Azure: Monitoring — Usability Improvement for School Lab](Project_015055/README.md) |
+| 015056 | [Azure: Monitoring — Baseline Setup for Small Business](Project_015056/README.md) |
+| 015057 | [Azure: Monitoring — Automation for Small Business](Project_015057/README.md) |
+| 015058 | [Azure: Monitoring — Recovery for Small Business](Project_015058/README.md) |
+| 015059 | [Azure: Monitoring — Reporting for Small Business](Project_015059/README.md) |
+| 015060 | [Azure: Monitoring — Usability Improvement for Small Business](Project_015060/README.md) |
 
 [Back to the portfolio home](../README.md)
