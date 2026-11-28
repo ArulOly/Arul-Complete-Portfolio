@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044038 | [Prometheus: Inventory — Recovery for Two-Node Lab](Project_044038/README.md) |
 | 044039 | [Prometheus: Inventory — Reporting for Two-Node Lab](Project_044039/README.md) |
 | 044040 | [Prometheus: Inventory — Usability Improvement for Two-Node Lab](Project_044040/README.md) |
+| 044041 | [Prometheus: Inventory — Baseline Setup for Help Desk](Project_044041/README.md) |
+| 044042 | [Prometheus: Inventory — Automation for Help Desk](Project_044042/README.md) |
+| 044043 | [Prometheus: Inventory — Recovery for Help Desk](Project_044043/README.md) |
+| 044044 | [Prometheus: Inventory — Reporting for Help Desk](Project_044044/README.md) |
+| 044045 | [Prometheus: Inventory — Usability Improvement for Help Desk](Project_044045/README.md) |
+| 044046 | [Prometheus: Inventory — Baseline Setup for Portfolio Demo](Project_044046/README.md) |
+| 044047 | [Prometheus: Inventory — Automation for Portfolio Demo](Project_044047/README.md) |
+| 044048 | [Prometheus: Inventory — Recovery for Portfolio Demo](Project_044048/README.md) |
+| 044049 | [Prometheus: Inventory — Reporting for Portfolio Demo](Project_044049/README.md) |
+| 044050 | [Prometheus: Inventory — Usability Improvement for Portfolio Demo](Project_044050/README.md) |
+| 044051 | [Prometheus: Monitoring — Baseline Setup for School Lab](Project_044051/README.md) |
+| 044052 | [Prometheus: Monitoring — Automation for School Lab](Project_044052/README.md) |
+| 044053 | [Prometheus: Monitoring — Recovery for School Lab](Project_044053/README.md) |
+| 044054 | [Prometheus: Monitoring — Reporting for School Lab](Project_044054/README.md) |
+| 044055 | [Prometheus: Monitoring — Usability Improvement for School Lab](Project_044055/README.md) |
+| 044056 | [Prometheus: Monitoring — Baseline Setup for Small Business](Project_044056/README.md) |
+| 044057 | [Prometheus: Monitoring — Automation for Small Business](Project_044057/README.md) |
+| 044058 | [Prometheus: Monitoring — Recovery for Small Business](Project_044058/README.md) |
+| 044059 | [Prometheus: Monitoring — Reporting for Small Business](Project_044059/README.md) |
+| 044060 | [Prometheus: Monitoring — Usability Improvement for Small Business](Project_044060/README.md) |
 
 [Back to the portfolio home](../README.md)
