@@ -37,18 +37,6 @@ Debian, dpkg-query, Python, JSON, and local command-line reporting.
 
 Run the embedded Python on Debian. Save the project code and synthetic input locally and use the command in the README.
 
-## Test screenshots
-
-These terminal captures show one tested project for each implementation focus. Every project has its own written validation result.
-
-![Inventory baseline valid and invalid terminal runs on Debian](Evidence/project-003001-baseline.png)
-
-- [Project 003001 · Inventory baseline](Project_003001/README.md) · [Screenshot](Evidence/project-003001-baseline.png)
-- [Project 003152 · Log analysis with one rejected batch row](Project_003152/README.md) · [Screenshot](Evidence/project-003152-automation.png)
-- [Project 003953 · Recovery Test using the saved fallback](Project_003953/README.md) · [Screenshot](Evidence/project-003953-recovery.png)
-- [Project 003554 · Performance baseline report](Project_003554/README.md) · [Screenshot](Evidence/project-003554-reporting.png)
-- [Project 003905 · Readable visual report](Project_003905/README.md) · [Screenshot](Evidence/project-003905-usability.png)
-
 ## Project index
 
 | Project ID | Project title |

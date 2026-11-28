@@ -182,10 +182,6 @@ Actual tests ran on a Fedora 43 container. The platform command returned the obs
 }
 ```
 
-Captured terminal run on Fedora 43 container using the synthetic fixture shown above.
-
-![Recovery Test using the saved fallback on Fedora](../Evidence/project-004953-recovery.png)
-
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.

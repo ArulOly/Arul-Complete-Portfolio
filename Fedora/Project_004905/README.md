@@ -187,10 +187,6 @@ Actual tests ran on a Fedora 43 container. The platform command returned the obs
 }
 ```
 
-Captured terminal run on Fedora 43 container using the synthetic fixture shown above.
-
-![Readable visual report on Fedora](../Evidence/project-004905-usability.png)
-
 ## Error handling
 
 The CLI reports invalid input, missing files, and failed platform checks. Batch and recovery modes include row or fallback details.
