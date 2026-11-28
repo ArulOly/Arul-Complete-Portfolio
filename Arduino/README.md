@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037238 | [Arduino: Backup Verification — Recovery for Two-Node Lab](Project_037238/README.md) |
 | 037239 | [Arduino: Backup Verification — Reporting for Two-Node Lab](Project_037239/README.md) |
 | 037240 | [Arduino: Backup Verification — Usability Improvement for Two-Node Lab](Project_037240/README.md) |
+| 037241 | [Arduino: Backup Verification — Baseline Setup for Help Desk](Project_037241/README.md) |
+| 037242 | [Arduino: Backup Verification — Automation for Help Desk](Project_037242/README.md) |
+| 037243 | [Arduino: Backup Verification — Recovery for Help Desk](Project_037243/README.md) |
+| 037244 | [Arduino: Backup Verification — Reporting for Help Desk](Project_037244/README.md) |
+| 037245 | [Arduino: Backup Verification — Usability Improvement for Help Desk](Project_037245/README.md) |
+| 037246 | [Arduino: Backup Verification — Baseline Setup for Portfolio Demo](Project_037246/README.md) |
+| 037247 | [Arduino: Backup Verification — Automation for Portfolio Demo](Project_037247/README.md) |
+| 037248 | [Arduino: Backup Verification — Recovery for Portfolio Demo](Project_037248/README.md) |
+| 037249 | [Arduino: Backup Verification — Reporting for Portfolio Demo](Project_037249/README.md) |
+| 037250 | [Arduino: Backup Verification — Usability Improvement for Portfolio Demo](Project_037250/README.md) |
+| 037251 | [Arduino: Data Import — Baseline Setup for School Lab](Project_037251/README.md) |
+| 037252 | [Arduino: Data Import — Automation for School Lab](Project_037252/README.md) |
+| 037253 | [Arduino: Data Import — Recovery for School Lab](Project_037253/README.md) |
+| 037254 | [Arduino: Data Import — Reporting for School Lab](Project_037254/README.md) |
+| 037255 | [Arduino: Data Import — Usability Improvement for School Lab](Project_037255/README.md) |
+| 037256 | [Arduino: Data Import — Baseline Setup for Small Business](Project_037256/README.md) |
+| 037257 | [Arduino: Data Import — Automation for Small Business](Project_037257/README.md) |
+| 037258 | [Arduino: Data Import — Recovery for Small Business](Project_037258/README.md) |
+| 037259 | [Arduino: Data Import — Reporting for Small Business](Project_037259/README.md) |
+| 037260 | [Arduino: Data Import — Usability Improvement for Small Business](Project_037260/README.md) |
 
 [Back to the portfolio home](../README.md)
