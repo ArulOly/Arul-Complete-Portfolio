@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018878 | [Kubernetes: Automation — Recovery for Offline Classroom](Project_018878/README.md) |
 | 018879 | [Kubernetes: Automation — Reporting for Offline Classroom](Project_018879/README.md) |
 | 018880 | [Kubernetes: Automation — Usability Improvement for Offline Classroom](Project_018880/README.md) |
+| 018881 | [Kubernetes: Automation — Baseline Setup for Single-Host Lab](Project_018881/README.md) |
+| 018882 | [Kubernetes: Automation — Automation for Single-Host Lab](Project_018882/README.md) |
+| 018883 | [Kubernetes: Automation — Recovery for Single-Host Lab](Project_018883/README.md) |
+| 018884 | [Kubernetes: Automation — Reporting for Single-Host Lab](Project_018884/README.md) |
+| 018885 | [Kubernetes: Automation — Usability Improvement for Single-Host Lab](Project_018885/README.md) |
+| 018886 | [Kubernetes: Automation — Baseline Setup for Two-Node Lab](Project_018886/README.md) |
+| 018887 | [Kubernetes: Automation — Automation for Two-Node Lab](Project_018887/README.md) |
+| 018888 | [Kubernetes: Automation — Recovery for Two-Node Lab](Project_018888/README.md) |
+| 018889 | [Kubernetes: Automation — Reporting for Two-Node Lab](Project_018889/README.md) |
+| 018890 | [Kubernetes: Automation — Usability Improvement for Two-Node Lab](Project_018890/README.md) |
+| 018891 | [Kubernetes: Automation — Baseline Setup for Help Desk](Project_018891/README.md) |
+| 018892 | [Kubernetes: Automation — Automation for Help Desk](Project_018892/README.md) |
+| 018893 | [Kubernetes: Automation — Recovery for Help Desk](Project_018893/README.md) |
+| 018894 | [Kubernetes: Automation — Reporting for Help Desk](Project_018894/README.md) |
+| 018895 | [Kubernetes: Automation — Usability Improvement for Help Desk](Project_018895/README.md) |
+| 018896 | [Kubernetes: Automation — Baseline Setup for Portfolio Demo](Project_018896/README.md) |
+| 018897 | [Kubernetes: Automation — Automation for Portfolio Demo](Project_018897/README.md) |
+| 018898 | [Kubernetes: Automation — Recovery for Portfolio Demo](Project_018898/README.md) |
+| 018899 | [Kubernetes: Automation — Reporting for Portfolio Demo](Project_018899/README.md) |
+| 018900 | [Kubernetes: Automation — Usability Improvement for Portfolio Demo](Project_018900/README.md) |
 
 [Back to the portfolio home](../README.md)
