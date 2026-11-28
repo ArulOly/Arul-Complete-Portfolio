@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017038 | [Docker: Inventory — Recovery for Two-Node Lab](Project_017038/README.md) |
 | 017039 | [Docker: Inventory — Reporting for Two-Node Lab](Project_017039/README.md) |
 | 017040 | [Docker: Inventory — Usability Improvement for Two-Node Lab](Project_017040/README.md) |
+| 017041 | [Docker: Inventory — Baseline Setup for Help Desk](Project_017041/README.md) |
+| 017042 | [Docker: Inventory — Automation for Help Desk](Project_017042/README.md) |
+| 017043 | [Docker: Inventory — Recovery for Help Desk](Project_017043/README.md) |
+| 017044 | [Docker: Inventory — Reporting for Help Desk](Project_017044/README.md) |
+| 017045 | [Docker: Inventory — Usability Improvement for Help Desk](Project_017045/README.md) |
+| 017046 | [Docker: Inventory — Baseline Setup for Portfolio Demo](Project_017046/README.md) |
+| 017047 | [Docker: Inventory — Automation for Portfolio Demo](Project_017047/README.md) |
+| 017048 | [Docker: Inventory — Recovery for Portfolio Demo](Project_017048/README.md) |
+| 017049 | [Docker: Inventory — Reporting for Portfolio Demo](Project_017049/README.md) |
+| 017050 | [Docker: Inventory — Usability Improvement for Portfolio Demo](Project_017050/README.md) |
+| 017051 | [Docker: Monitoring — Baseline Setup for School Lab](Project_017051/README.md) |
+| 017052 | [Docker: Monitoring — Automation for School Lab](Project_017052/README.md) |
+| 017053 | [Docker: Monitoring — Recovery for School Lab](Project_017053/README.md) |
+| 017054 | [Docker: Monitoring — Reporting for School Lab](Project_017054/README.md) |
+| 017055 | [Docker: Monitoring — Usability Improvement for School Lab](Project_017055/README.md) |
+| 017056 | [Docker: Monitoring — Baseline Setup for Small Business](Project_017056/README.md) |
+| 017057 | [Docker: Monitoring — Automation for Small Business](Project_017057/README.md) |
+| 017058 | [Docker: Monitoring — Recovery for Small Business](Project_017058/README.md) |
+| 017059 | [Docker: Monitoring — Reporting for Small Business](Project_017059/README.md) |
+| 017060 | [Docker: Monitoring — Usability Improvement for Small Business](Project_017060/README.md) |
 
 [Back to the portfolio home](../README.md)
