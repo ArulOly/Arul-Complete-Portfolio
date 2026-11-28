@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040338 | [PowerShell: Data Export — Recovery for Two-Node Lab](Project_040338/README.md) |
 | 040339 | [PowerShell: Data Export — Reporting for Two-Node Lab](Project_040339/README.md) |
 | 040340 | [PowerShell: Data Export — Usability Improvement for Two-Node Lab](Project_040340/README.md) |
+| 040341 | [PowerShell: Data Export — Baseline Setup for Help Desk](Project_040341/README.md) |
+| 040342 | [PowerShell: Data Export — Automation for Help Desk](Project_040342/README.md) |
+| 040343 | [PowerShell: Data Export — Recovery for Help Desk](Project_040343/README.md) |
+| 040344 | [PowerShell: Data Export — Reporting for Help Desk](Project_040344/README.md) |
+| 040345 | [PowerShell: Data Export — Usability Improvement for Help Desk](Project_040345/README.md) |
+| 040346 | [PowerShell: Data Export — Baseline Setup for Portfolio Demo](Project_040346/README.md) |
+| 040347 | [PowerShell: Data Export — Automation for Portfolio Demo](Project_040347/README.md) |
+| 040348 | [PowerShell: Data Export — Recovery for Portfolio Demo](Project_040348/README.md) |
+| 040349 | [PowerShell: Data Export — Reporting for Portfolio Demo](Project_040349/README.md) |
+| 040350 | [PowerShell: Data Export — Usability Improvement for Portfolio Demo](Project_040350/README.md) |
+| 040351 | [PowerShell: Dashboard — Baseline Setup for School Lab](Project_040351/README.md) |
+| 040352 | [PowerShell: Dashboard — Automation for School Lab](Project_040352/README.md) |
+| 040353 | [PowerShell: Dashboard — Recovery for School Lab](Project_040353/README.md) |
+| 040354 | [PowerShell: Dashboard — Reporting for School Lab](Project_040354/README.md) |
+| 040355 | [PowerShell: Dashboard — Usability Improvement for School Lab](Project_040355/README.md) |
+| 040356 | [PowerShell: Dashboard — Baseline Setup for Small Business](Project_040356/README.md) |
+| 040357 | [PowerShell: Dashboard — Automation for Small Business](Project_040357/README.md) |
+| 040358 | [PowerShell: Dashboard — Recovery for Small Business](Project_040358/README.md) |
+| 040359 | [PowerShell: Dashboard — Reporting for Small Business](Project_040359/README.md) |
+| 040360 | [PowerShell: Dashboard — Usability Improvement for Small Business](Project_040360/README.md) |
 
 [Back to the portfolio home](../README.md)
