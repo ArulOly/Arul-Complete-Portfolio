@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031398 | [Greenbone: Dashboard — Recovery for Portfolio Demo](Project_031398/README.md) |
 | 031399 | [Greenbone: Dashboard — Reporting for Portfolio Demo](Project_031399/README.md) |
 | 031400 | [Greenbone: Dashboard — Usability Improvement for Portfolio Demo](Project_031400/README.md) |
+| 031401 | [Greenbone: Alerting — Baseline Setup for School Lab](Project_031401/README.md) |
+| 031402 | [Greenbone: Alerting — Automation for School Lab](Project_031402/README.md) |
+| 031403 | [Greenbone: Alerting — Recovery for School Lab](Project_031403/README.md) |
+| 031404 | [Greenbone: Alerting — Reporting for School Lab](Project_031404/README.md) |
+| 031405 | [Greenbone: Alerting — Usability Improvement for School Lab](Project_031405/README.md) |
+| 031406 | [Greenbone: Alerting — Baseline Setup for Small Business](Project_031406/README.md) |
+| 031407 | [Greenbone: Alerting — Automation for Small Business](Project_031407/README.md) |
+| 031408 | [Greenbone: Alerting — Recovery for Small Business](Project_031408/README.md) |
+| 031409 | [Greenbone: Alerting — Reporting for Small Business](Project_031409/README.md) |
+| 031410 | [Greenbone: Alerting — Usability Improvement for Small Business](Project_031410/README.md) |
+| 031411 | [Greenbone: Alerting — Baseline Setup for Home Development](Project_031411/README.md) |
+| 031412 | [Greenbone: Alerting — Automation for Home Development](Project_031412/README.md) |
+| 031413 | [Greenbone: Alerting — Recovery for Home Development](Project_031413/README.md) |
+| 031414 | [Greenbone: Alerting — Reporting for Home Development](Project_031414/README.md) |
+| 031415 | [Greenbone: Alerting — Usability Improvement for Home Development](Project_031415/README.md) |
+| 031416 | [Greenbone: Alerting — Baseline Setup for Public Dataset](Project_031416/README.md) |
+| 031417 | [Greenbone: Alerting — Automation for Public Dataset](Project_031417/README.md) |
+| 031418 | [Greenbone: Alerting — Recovery for Public Dataset](Project_031418/README.md) |
+| 031419 | [Greenbone: Alerting — Reporting for Public Dataset](Project_031419/README.md) |
+| 031420 | [Greenbone: Alerting — Usability Improvement for Public Dataset](Project_031420/README.md) |
 
 [Back to the portfolio home](../README.md)
