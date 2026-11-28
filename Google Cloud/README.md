@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016238 | [Google Cloud: Backup Verification — Recovery for Two-Node Lab](Project_016238/README.md) |
 | 016239 | [Google Cloud: Backup Verification — Reporting for Two-Node Lab](Project_016239/README.md) |
 | 016240 | [Google Cloud: Backup Verification — Usability Improvement for Two-Node Lab](Project_016240/README.md) |
+| 016241 | [Google Cloud: Backup Verification — Baseline Setup for Help Desk](Project_016241/README.md) |
+| 016242 | [Google Cloud: Backup Verification — Automation for Help Desk](Project_016242/README.md) |
+| 016243 | [Google Cloud: Backup Verification — Recovery for Help Desk](Project_016243/README.md) |
+| 016244 | [Google Cloud: Backup Verification — Reporting for Help Desk](Project_016244/README.md) |
+| 016245 | [Google Cloud: Backup Verification — Usability Improvement for Help Desk](Project_016245/README.md) |
+| 016246 | [Google Cloud: Backup Verification — Baseline Setup for Portfolio Demo](Project_016246/README.md) |
+| 016247 | [Google Cloud: Backup Verification — Automation for Portfolio Demo](Project_016247/README.md) |
+| 016248 | [Google Cloud: Backup Verification — Recovery for Portfolio Demo](Project_016248/README.md) |
+| 016249 | [Google Cloud: Backup Verification — Reporting for Portfolio Demo](Project_016249/README.md) |
+| 016250 | [Google Cloud: Backup Verification — Usability Improvement for Portfolio Demo](Project_016250/README.md) |
+| 016251 | [Google Cloud: Data Import — Baseline Setup for School Lab](Project_016251/README.md) |
+| 016252 | [Google Cloud: Data Import — Automation for School Lab](Project_016252/README.md) |
+| 016253 | [Google Cloud: Data Import — Recovery for School Lab](Project_016253/README.md) |
+| 016254 | [Google Cloud: Data Import — Reporting for School Lab](Project_016254/README.md) |
+| 016255 | [Google Cloud: Data Import — Usability Improvement for School Lab](Project_016255/README.md) |
+| 016256 | [Google Cloud: Data Import — Baseline Setup for Small Business](Project_016256/README.md) |
+| 016257 | [Google Cloud: Data Import — Automation for Small Business](Project_016257/README.md) |
+| 016258 | [Google Cloud: Data Import — Recovery for Small Business](Project_016258/README.md) |
+| 016259 | [Google Cloud: Data Import — Reporting for Small Business](Project_016259/README.md) |
+| 016260 | [Google Cloud: Data Import — Usability Improvement for Small Business](Project_016260/README.md) |
 
 [Back to the portfolio home](../README.md)
