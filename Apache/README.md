@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 660
+**Projects documented** 680
 
 ## Project categories
 
@@ -701,5 +701,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042658 | [Apache: Configuration Comparison — Recovery for Small Business](Project_042658/README.md) |
 | 042659 | [Apache: Configuration Comparison — Reporting for Small Business](Project_042659/README.md) |
 | 042660 | [Apache: Configuration Comparison — Usability Improvement for Small Business](Project_042660/README.md) |
+| 042661 | [Apache: Configuration Comparison — Baseline Setup for Home Development](Project_042661/README.md) |
+| 042662 | [Apache: Configuration Comparison — Automation for Home Development](Project_042662/README.md) |
+| 042663 | [Apache: Configuration Comparison — Recovery for Home Development](Project_042663/README.md) |
+| 042664 | [Apache: Configuration Comparison — Reporting for Home Development](Project_042664/README.md) |
+| 042665 | [Apache: Configuration Comparison — Usability Improvement for Home Development](Project_042665/README.md) |
+| 042666 | [Apache: Configuration Comparison — Baseline Setup for Public Dataset](Project_042666/README.md) |
+| 042667 | [Apache: Configuration Comparison — Automation for Public Dataset](Project_042667/README.md) |
+| 042668 | [Apache: Configuration Comparison — Recovery for Public Dataset](Project_042668/README.md) |
+| 042669 | [Apache: Configuration Comparison — Reporting for Public Dataset](Project_042669/README.md) |
+| 042670 | [Apache: Configuration Comparison — Usability Improvement for Public Dataset](Project_042670/README.md) |
+| 042671 | [Apache: Configuration Comparison — Baseline Setup for Branch Office Simulator](Project_042671/README.md) |
+| 042672 | [Apache: Configuration Comparison — Automation for Branch Office Simulator](Project_042672/README.md) |
+| 042673 | [Apache: Configuration Comparison — Recovery for Branch Office Simulator](Project_042673/README.md) |
+| 042674 | [Apache: Configuration Comparison — Reporting for Branch Office Simulator](Project_042674/README.md) |
+| 042675 | [Apache: Configuration Comparison — Usability Improvement for Branch Office Simulator](Project_042675/README.md) |
+| 042676 | [Apache: Configuration Comparison — Baseline Setup for Offline Classroom](Project_042676/README.md) |
+| 042677 | [Apache: Configuration Comparison — Automation for Offline Classroom](Project_042677/README.md) |
+| 042678 | [Apache: Configuration Comparison — Recovery for Offline Classroom](Project_042678/README.md) |
+| 042679 | [Apache: Configuration Comparison — Reporting for Offline Classroom](Project_042679/README.md) |
+| 042680 | [Apache: Configuration Comparison — Usability Improvement for Offline Classroom](Project_042680/README.md) |
 
 [Back to the portfolio home](../README.md)
