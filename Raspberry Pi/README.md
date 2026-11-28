@@ -4,7 +4,7 @@ This collection contains guide-based Raspberry Pi exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 035238 | [Raspberry Pi: Backup Verification — Recovery for Two-Node Lab](Project_035238/README.md) |
 | 035239 | [Raspberry Pi: Backup Verification — Reporting for Two-Node Lab](Project_035239/README.md) |
 | 035240 | [Raspberry Pi: Backup Verification — Usability Improvement for Two-Node Lab](Project_035240/README.md) |
+| 035241 | [Raspberry Pi: Backup Verification — Baseline Setup for Help Desk](Project_035241/README.md) |
+| 035242 | [Raspberry Pi: Backup Verification — Automation for Help Desk](Project_035242/README.md) |
+| 035243 | [Raspberry Pi: Backup Verification — Recovery for Help Desk](Project_035243/README.md) |
+| 035244 | [Raspberry Pi: Backup Verification — Reporting for Help Desk](Project_035244/README.md) |
+| 035245 | [Raspberry Pi: Backup Verification — Usability Improvement for Help Desk](Project_035245/README.md) |
+| 035246 | [Raspberry Pi: Backup Verification — Baseline Setup for Portfolio Demo](Project_035246/README.md) |
+| 035247 | [Raspberry Pi: Backup Verification — Automation for Portfolio Demo](Project_035247/README.md) |
+| 035248 | [Raspberry Pi: Backup Verification — Recovery for Portfolio Demo](Project_035248/README.md) |
+| 035249 | [Raspberry Pi: Backup Verification — Reporting for Portfolio Demo](Project_035249/README.md) |
+| 035250 | [Raspberry Pi: Backup Verification — Usability Improvement for Portfolio Demo](Project_035250/README.md) |
+| 035251 | [Raspberry Pi: Data Import — Baseline Setup for School Lab](Project_035251/README.md) |
+| 035252 | [Raspberry Pi: Data Import — Automation for School Lab](Project_035252/README.md) |
+| 035253 | [Raspberry Pi: Data Import — Recovery for School Lab](Project_035253/README.md) |
+| 035254 | [Raspberry Pi: Data Import — Reporting for School Lab](Project_035254/README.md) |
+| 035255 | [Raspberry Pi: Data Import — Usability Improvement for School Lab](Project_035255/README.md) |
+| 035256 | [Raspberry Pi: Data Import — Baseline Setup for Small Business](Project_035256/README.md) |
+| 035257 | [Raspberry Pi: Data Import — Automation for Small Business](Project_035257/README.md) |
+| 035258 | [Raspberry Pi: Data Import — Recovery for Small Business](Project_035258/README.md) |
+| 035259 | [Raspberry Pi: Data Import — Reporting for Small Business](Project_035259/README.md) |
+| 035260 | [Raspberry Pi: Data Import — Usability Improvement for Small Business](Project_035260/README.md) |
 
 [Back to the portfolio home](../README.md)
