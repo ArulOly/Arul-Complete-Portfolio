@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 60
+**Projects documented** 80
 
 ## Project categories
 
@@ -101,5 +101,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018058 | [Kubernetes: Monitoring — Recovery for Small Business](Project_018058/README.md) |
 | 018059 | [Kubernetes: Monitoring — Reporting for Small Business](Project_018059/README.md) |
 | 018060 | [Kubernetes: Monitoring — Usability Improvement for Small Business](Project_018060/README.md) |
+| 018061 | [Kubernetes: Monitoring — Baseline Setup for Home Development](Project_018061/README.md) |
+| 018062 | [Kubernetes: Monitoring — Automation for Home Development](Project_018062/README.md) |
+| 018063 | [Kubernetes: Monitoring — Recovery for Home Development](Project_018063/README.md) |
+| 018064 | [Kubernetes: Monitoring — Reporting for Home Development](Project_018064/README.md) |
+| 018065 | [Kubernetes: Monitoring — Usability Improvement for Home Development](Project_018065/README.md) |
+| 018066 | [Kubernetes: Monitoring — Baseline Setup for Public Dataset](Project_018066/README.md) |
+| 018067 | [Kubernetes: Monitoring — Automation for Public Dataset](Project_018067/README.md) |
+| 018068 | [Kubernetes: Monitoring — Recovery for Public Dataset](Project_018068/README.md) |
+| 018069 | [Kubernetes: Monitoring — Reporting for Public Dataset](Project_018069/README.md) |
+| 018070 | [Kubernetes: Monitoring — Usability Improvement for Public Dataset](Project_018070/README.md) |
+| 018071 | [Kubernetes: Monitoring — Baseline Setup for Branch Office Simulator](Project_018071/README.md) |
+| 018072 | [Kubernetes: Monitoring — Automation for Branch Office Simulator](Project_018072/README.md) |
+| 018073 | [Kubernetes: Monitoring — Recovery for Branch Office Simulator](Project_018073/README.md) |
+| 018074 | [Kubernetes: Monitoring — Reporting for Branch Office Simulator](Project_018074/README.md) |
+| 018075 | [Kubernetes: Monitoring — Usability Improvement for Branch Office Simulator](Project_018075/README.md) |
+| 018076 | [Kubernetes: Monitoring — Baseline Setup for Offline Classroom](Project_018076/README.md) |
+| 018077 | [Kubernetes: Monitoring — Automation for Offline Classroom](Project_018077/README.md) |
+| 018078 | [Kubernetes: Monitoring — Recovery for Offline Classroom](Project_018078/README.md) |
+| 018079 | [Kubernetes: Monitoring — Reporting for Offline Classroom](Project_018079/README.md) |
+| 018080 | [Kubernetes: Monitoring — Usability Improvement for Offline Classroom](Project_018080/README.md) |
 
 [Back to the portfolio home](../README.md)
