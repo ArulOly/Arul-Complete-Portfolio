@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017578 | [Docker: Performance Baseline — Recovery for Offline Classroom](Project_017578/README.md) |
 | 017579 | [Docker: Performance Baseline — Reporting for Offline Classroom](Project_017579/README.md) |
 | 017580 | [Docker: Performance Baseline — Usability Improvement for Offline Classroom](Project_017580/README.md) |
+| 017581 | [Docker: Performance Baseline — Baseline Setup for Single-Host Lab](Project_017581/README.md) |
+| 017582 | [Docker: Performance Baseline — Automation for Single-Host Lab](Project_017582/README.md) |
+| 017583 | [Docker: Performance Baseline — Recovery for Single-Host Lab](Project_017583/README.md) |
+| 017584 | [Docker: Performance Baseline — Reporting for Single-Host Lab](Project_017584/README.md) |
+| 017585 | [Docker: Performance Baseline — Usability Improvement for Single-Host Lab](Project_017585/README.md) |
+| 017586 | [Docker: Performance Baseline — Baseline Setup for Two-Node Lab](Project_017586/README.md) |
+| 017587 | [Docker: Performance Baseline — Automation for Two-Node Lab](Project_017587/README.md) |
+| 017588 | [Docker: Performance Baseline — Recovery for Two-Node Lab](Project_017588/README.md) |
+| 017589 | [Docker: Performance Baseline — Reporting for Two-Node Lab](Project_017589/README.md) |
+| 017590 | [Docker: Performance Baseline — Usability Improvement for Two-Node Lab](Project_017590/README.md) |
+| 017591 | [Docker: Performance Baseline — Baseline Setup for Help Desk](Project_017591/README.md) |
+| 017592 | [Docker: Performance Baseline — Automation for Help Desk](Project_017592/README.md) |
+| 017593 | [Docker: Performance Baseline — Recovery for Help Desk](Project_017593/README.md) |
+| 017594 | [Docker: Performance Baseline — Reporting for Help Desk](Project_017594/README.md) |
+| 017595 | [Docker: Performance Baseline — Usability Improvement for Help Desk](Project_017595/README.md) |
+| 017596 | [Docker: Performance Baseline — Baseline Setup for Portfolio Demo](Project_017596/README.md) |
+| 017597 | [Docker: Performance Baseline — Automation for Portfolio Demo](Project_017597/README.md) |
+| 017598 | [Docker: Performance Baseline — Recovery for Portfolio Demo](Project_017598/README.md) |
+| 017599 | [Docker: Performance Baseline — Reporting for Portfolio Demo](Project_017599/README.md) |
+| 017600 | [Docker: Performance Baseline — Usability Improvement for Portfolio Demo](Project_017600/README.md) |
 
 [Back to the portfolio home](../README.md)
