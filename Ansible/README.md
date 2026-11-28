@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047378 | [Ansible: Dashboard — Recovery for Offline Classroom](Project_047378/README.md) |
 | 047379 | [Ansible: Dashboard — Reporting for Offline Classroom](Project_047379/README.md) |
 | 047380 | [Ansible: Dashboard — Usability Improvement for Offline Classroom](Project_047380/README.md) |
+| 047381 | [Ansible: Dashboard — Baseline Setup for Single-Host Lab](Project_047381/README.md) |
+| 047382 | [Ansible: Dashboard — Automation for Single-Host Lab](Project_047382/README.md) |
+| 047383 | [Ansible: Dashboard — Recovery for Single-Host Lab](Project_047383/README.md) |
+| 047384 | [Ansible: Dashboard — Reporting for Single-Host Lab](Project_047384/README.md) |
+| 047385 | [Ansible: Dashboard — Usability Improvement for Single-Host Lab](Project_047385/README.md) |
+| 047386 | [Ansible: Dashboard — Baseline Setup for Two-Node Lab](Project_047386/README.md) |
+| 047387 | [Ansible: Dashboard — Automation for Two-Node Lab](Project_047387/README.md) |
+| 047388 | [Ansible: Dashboard — Recovery for Two-Node Lab](Project_047388/README.md) |
+| 047389 | [Ansible: Dashboard — Reporting for Two-Node Lab](Project_047389/README.md) |
+| 047390 | [Ansible: Dashboard — Usability Improvement for Two-Node Lab](Project_047390/README.md) |
+| 047391 | [Ansible: Dashboard — Baseline Setup for Help Desk](Project_047391/README.md) |
+| 047392 | [Ansible: Dashboard — Automation for Help Desk](Project_047392/README.md) |
+| 047393 | [Ansible: Dashboard — Recovery for Help Desk](Project_047393/README.md) |
+| 047394 | [Ansible: Dashboard — Reporting for Help Desk](Project_047394/README.md) |
+| 047395 | [Ansible: Dashboard — Usability Improvement for Help Desk](Project_047395/README.md) |
+| 047396 | [Ansible: Dashboard — Baseline Setup for Portfolio Demo](Project_047396/README.md) |
+| 047397 | [Ansible: Dashboard — Automation for Portfolio Demo](Project_047397/README.md) |
+| 047398 | [Ansible: Dashboard — Recovery for Portfolio Demo](Project_047398/README.md) |
+| 047399 | [Ansible: Dashboard — Reporting for Portfolio Demo](Project_047399/README.md) |
+| 047400 | [Ansible: Dashboard — Usability Improvement for Portfolio Demo](Project_047400/README.md) |
 
 [Back to the portfolio home](../README.md)
