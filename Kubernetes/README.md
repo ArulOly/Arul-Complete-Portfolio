@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018618 | [Kubernetes: Service Check — Recovery for Public Dataset](Project_018618/README.md) |
 | 018619 | [Kubernetes: Service Check — Reporting for Public Dataset](Project_018619/README.md) |
 | 018620 | [Kubernetes: Service Check — Usability Improvement for Public Dataset](Project_018620/README.md) |
+| 018621 | [Kubernetes: Service Check — Baseline Setup for Branch Office Simulator](Project_018621/README.md) |
+| 018622 | [Kubernetes: Service Check — Automation for Branch Office Simulator](Project_018622/README.md) |
+| 018623 | [Kubernetes: Service Check — Recovery for Branch Office Simulator](Project_018623/README.md) |
+| 018624 | [Kubernetes: Service Check — Reporting for Branch Office Simulator](Project_018624/README.md) |
+| 018625 | [Kubernetes: Service Check — Usability Improvement for Branch Office Simulator](Project_018625/README.md) |
+| 018626 | [Kubernetes: Service Check — Baseline Setup for Offline Classroom](Project_018626/README.md) |
+| 018627 | [Kubernetes: Service Check — Automation for Offline Classroom](Project_018627/README.md) |
+| 018628 | [Kubernetes: Service Check — Recovery for Offline Classroom](Project_018628/README.md) |
+| 018629 | [Kubernetes: Service Check — Reporting for Offline Classroom](Project_018629/README.md) |
+| 018630 | [Kubernetes: Service Check — Usability Improvement for Offline Classroom](Project_018630/README.md) |
+| 018631 | [Kubernetes: Service Check — Baseline Setup for Single-Host Lab](Project_018631/README.md) |
+| 018632 | [Kubernetes: Service Check — Automation for Single-Host Lab](Project_018632/README.md) |
+| 018633 | [Kubernetes: Service Check — Recovery for Single-Host Lab](Project_018633/README.md) |
+| 018634 | [Kubernetes: Service Check — Reporting for Single-Host Lab](Project_018634/README.md) |
+| 018635 | [Kubernetes: Service Check — Usability Improvement for Single-Host Lab](Project_018635/README.md) |
+| 018636 | [Kubernetes: Service Check — Baseline Setup for Two-Node Lab](Project_018636/README.md) |
+| 018637 | [Kubernetes: Service Check — Automation for Two-Node Lab](Project_018637/README.md) |
+| 018638 | [Kubernetes: Service Check — Recovery for Two-Node Lab](Project_018638/README.md) |
+| 018639 | [Kubernetes: Service Check — Reporting for Two-Node Lab](Project_018639/README.md) |
+| 018640 | [Kubernetes: Service Check — Usability Improvement for Two-Node Lab](Project_018640/README.md) |
 
 [Back to the portfolio home](../README.md)
