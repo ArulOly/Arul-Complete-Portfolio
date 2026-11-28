@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043398 | [Grafana: Dashboard — Recovery for Portfolio Demo](Project_043398/README.md) |
 | 043399 | [Grafana: Dashboard — Reporting for Portfolio Demo](Project_043399/README.md) |
 | 043400 | [Grafana: Dashboard — Usability Improvement for Portfolio Demo](Project_043400/README.md) |
+| 043401 | [Grafana: Alerting — Baseline Setup for School Lab](Project_043401/README.md) |
+| 043402 | [Grafana: Alerting — Automation for School Lab](Project_043402/README.md) |
+| 043403 | [Grafana: Alerting — Recovery for School Lab](Project_043403/README.md) |
+| 043404 | [Grafana: Alerting — Reporting for School Lab](Project_043404/README.md) |
+| 043405 | [Grafana: Alerting — Usability Improvement for School Lab](Project_043405/README.md) |
+| 043406 | [Grafana: Alerting — Baseline Setup for Small Business](Project_043406/README.md) |
+| 043407 | [Grafana: Alerting — Automation for Small Business](Project_043407/README.md) |
+| 043408 | [Grafana: Alerting — Recovery for Small Business](Project_043408/README.md) |
+| 043409 | [Grafana: Alerting — Reporting for Small Business](Project_043409/README.md) |
+| 043410 | [Grafana: Alerting — Usability Improvement for Small Business](Project_043410/README.md) |
+| 043411 | [Grafana: Alerting — Baseline Setup for Home Development](Project_043411/README.md) |
+| 043412 | [Grafana: Alerting — Automation for Home Development](Project_043412/README.md) |
+| 043413 | [Grafana: Alerting — Recovery for Home Development](Project_043413/README.md) |
+| 043414 | [Grafana: Alerting — Reporting for Home Development](Project_043414/README.md) |
+| 043415 | [Grafana: Alerting — Usability Improvement for Home Development](Project_043415/README.md) |
+| 043416 | [Grafana: Alerting — Baseline Setup for Public Dataset](Project_043416/README.md) |
+| 043417 | [Grafana: Alerting — Automation for Public Dataset](Project_043417/README.md) |
+| 043418 | [Grafana: Alerting — Recovery for Public Dataset](Project_043418/README.md) |
+| 043419 | [Grafana: Alerting — Reporting for Public Dataset](Project_043419/README.md) |
+| 043420 | [Grafana: Alerting — Usability Improvement for Public Dataset](Project_043420/README.md) |
 
 [Back to the portfolio home](../README.md)
