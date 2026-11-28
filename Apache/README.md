@@ -4,7 +4,7 @@ This collection contains guide-based Apache exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 340
+**Projects documented** 360
 
 ## Project categories
 
@@ -381,5 +381,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 042338 | [Apache: Data Export — Recovery for Two-Node Lab](Project_042338/README.md) |
 | 042339 | [Apache: Data Export — Reporting for Two-Node Lab](Project_042339/README.md) |
 | 042340 | [Apache: Data Export — Usability Improvement for Two-Node Lab](Project_042340/README.md) |
+| 042341 | [Apache: Data Export — Baseline Setup for Help Desk](Project_042341/README.md) |
+| 042342 | [Apache: Data Export — Automation for Help Desk](Project_042342/README.md) |
+| 042343 | [Apache: Data Export — Recovery for Help Desk](Project_042343/README.md) |
+| 042344 | [Apache: Data Export — Reporting for Help Desk](Project_042344/README.md) |
+| 042345 | [Apache: Data Export — Usability Improvement for Help Desk](Project_042345/README.md) |
+| 042346 | [Apache: Data Export — Baseline Setup for Portfolio Demo](Project_042346/README.md) |
+| 042347 | [Apache: Data Export — Automation for Portfolio Demo](Project_042347/README.md) |
+| 042348 | [Apache: Data Export — Recovery for Portfolio Demo](Project_042348/README.md) |
+| 042349 | [Apache: Data Export — Reporting for Portfolio Demo](Project_042349/README.md) |
+| 042350 | [Apache: Data Export — Usability Improvement for Portfolio Demo](Project_042350/README.md) |
+| 042351 | [Apache: Dashboard — Baseline Setup for School Lab](Project_042351/README.md) |
+| 042352 | [Apache: Dashboard — Automation for School Lab](Project_042352/README.md) |
+| 042353 | [Apache: Dashboard — Recovery for School Lab](Project_042353/README.md) |
+| 042354 | [Apache: Dashboard — Reporting for School Lab](Project_042354/README.md) |
+| 042355 | [Apache: Dashboard — Usability Improvement for School Lab](Project_042355/README.md) |
+| 042356 | [Apache: Dashboard — Baseline Setup for Small Business](Project_042356/README.md) |
+| 042357 | [Apache: Dashboard — Automation for Small Business](Project_042357/README.md) |
+| 042358 | [Apache: Dashboard — Recovery for Small Business](Project_042358/README.md) |
+| 042359 | [Apache: Dashboard — Reporting for Small Business](Project_042359/README.md) |
+| 042360 | [Apache: Dashboard — Usability Improvement for Small Business](Project_042360/README.md) |
 
 [Back to the portfolio home](../README.md)
