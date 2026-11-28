@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 740
+**Projects documented** 760
 
 ## Project categories
 
@@ -781,5 +781,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044738 | [Prometheus: Error Handling — Recovery for Two-Node Lab](Project_044738/README.md) |
 | 044739 | [Prometheus: Error Handling — Reporting for Two-Node Lab](Project_044739/README.md) |
 | 044740 | [Prometheus: Error Handling — Usability Improvement for Two-Node Lab](Project_044740/README.md) |
+| 044741 | [Prometheus: Error Handling — Baseline Setup for Help Desk](Project_044741/README.md) |
+| 044742 | [Prometheus: Error Handling — Automation for Help Desk](Project_044742/README.md) |
+| 044743 | [Prometheus: Error Handling — Recovery for Help Desk](Project_044743/README.md) |
+| 044744 | [Prometheus: Error Handling — Reporting for Help Desk](Project_044744/README.md) |
+| 044745 | [Prometheus: Error Handling — Usability Improvement for Help Desk](Project_044745/README.md) |
+| 044746 | [Prometheus: Error Handling — Baseline Setup for Portfolio Demo](Project_044746/README.md) |
+| 044747 | [Prometheus: Error Handling — Automation for Portfolio Demo](Project_044747/README.md) |
+| 044748 | [Prometheus: Error Handling — Recovery for Portfolio Demo](Project_044748/README.md) |
+| 044749 | [Prometheus: Error Handling — Reporting for Portfolio Demo](Project_044749/README.md) |
+| 044750 | [Prometheus: Error Handling — Usability Improvement for Portfolio Demo](Project_044750/README.md) |
+| 044751 | [Prometheus: Data Validation — Baseline Setup for School Lab](Project_044751/README.md) |
+| 044752 | [Prometheus: Data Validation — Automation for School Lab](Project_044752/README.md) |
+| 044753 | [Prometheus: Data Validation — Recovery for School Lab](Project_044753/README.md) |
+| 044754 | [Prometheus: Data Validation — Reporting for School Lab](Project_044754/README.md) |
+| 044755 | [Prometheus: Data Validation — Usability Improvement for School Lab](Project_044755/README.md) |
+| 044756 | [Prometheus: Data Validation — Baseline Setup for Small Business](Project_044756/README.md) |
+| 044757 | [Prometheus: Data Validation — Automation for Small Business](Project_044757/README.md) |
+| 044758 | [Prometheus: Data Validation — Recovery for Small Business](Project_044758/README.md) |
+| 044759 | [Prometheus: Data Validation — Reporting for Small Business](Project_044759/README.md) |
+| 044760 | [Prometheus: Data Validation — Usability Improvement for Small Business](Project_044760/README.md) |
 
 [Back to the portfolio home](../README.md)
