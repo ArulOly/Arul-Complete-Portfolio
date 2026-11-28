@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 440
+**Projects documented** 460
 
 ## Project categories
 
@@ -481,5 +481,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016438 | [Google Cloud: Alerting — Recovery for Two-Node Lab](Project_016438/README.md) |
 | 016439 | [Google Cloud: Alerting — Reporting for Two-Node Lab](Project_016439/README.md) |
 | 016440 | [Google Cloud: Alerting — Usability Improvement for Two-Node Lab](Project_016440/README.md) |
+| 016441 | [Google Cloud: Alerting — Baseline Setup for Help Desk](Project_016441/README.md) |
+| 016442 | [Google Cloud: Alerting — Automation for Help Desk](Project_016442/README.md) |
+| 016443 | [Google Cloud: Alerting — Recovery for Help Desk](Project_016443/README.md) |
+| 016444 | [Google Cloud: Alerting — Reporting for Help Desk](Project_016444/README.md) |
+| 016445 | [Google Cloud: Alerting — Usability Improvement for Help Desk](Project_016445/README.md) |
+| 016446 | [Google Cloud: Alerting — Baseline Setup for Portfolio Demo](Project_016446/README.md) |
+| 016447 | [Google Cloud: Alerting — Automation for Portfolio Demo](Project_016447/README.md) |
+| 016448 | [Google Cloud: Alerting — Recovery for Portfolio Demo](Project_016448/README.md) |
+| 016449 | [Google Cloud: Alerting — Reporting for Portfolio Demo](Project_016449/README.md) |
+| 016450 | [Google Cloud: Alerting — Usability Improvement for Portfolio Demo](Project_016450/README.md) |
+| 016451 | [Google Cloud: Scheduled Reporting — Baseline Setup for School Lab](Project_016451/README.md) |
+| 016452 | [Google Cloud: Scheduled Reporting — Automation for School Lab](Project_016452/README.md) |
+| 016453 | [Google Cloud: Scheduled Reporting — Recovery for School Lab](Project_016453/README.md) |
+| 016454 | [Google Cloud: Scheduled Reporting — Reporting for School Lab](Project_016454/README.md) |
+| 016455 | [Google Cloud: Scheduled Reporting — Usability Improvement for School Lab](Project_016455/README.md) |
+| 016456 | [Google Cloud: Scheduled Reporting — Baseline Setup for Small Business](Project_016456/README.md) |
+| 016457 | [Google Cloud: Scheduled Reporting — Automation for Small Business](Project_016457/README.md) |
+| 016458 | [Google Cloud: Scheduled Reporting — Recovery for Small Business](Project_016458/README.md) |
+| 016459 | [Google Cloud: Scheduled Reporting — Reporting for Small Business](Project_016459/README.md) |
+| 016460 | [Google Cloud: Scheduled Reporting — Usability Improvement for Small Business](Project_016460/README.md) |
 
 [Back to the portfolio home](../README.md)
