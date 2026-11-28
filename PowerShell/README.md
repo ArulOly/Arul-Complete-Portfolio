@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 280
+**Projects documented** 300
 
 ## Project categories
 
@@ -321,5 +321,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040278 | [PowerShell: Data Import — Recovery for Offline Classroom](Project_040278/README.md) |
 | 040279 | [PowerShell: Data Import — Reporting for Offline Classroom](Project_040279/README.md) |
 | 040280 | [PowerShell: Data Import — Usability Improvement for Offline Classroom](Project_040280/README.md) |
+| 040281 | [PowerShell: Data Import — Baseline Setup for Single-Host Lab](Project_040281/README.md) |
+| 040282 | [PowerShell: Data Import — Automation for Single-Host Lab](Project_040282/README.md) |
+| 040283 | [PowerShell: Data Import — Recovery for Single-Host Lab](Project_040283/README.md) |
+| 040284 | [PowerShell: Data Import — Reporting for Single-Host Lab](Project_040284/README.md) |
+| 040285 | [PowerShell: Data Import — Usability Improvement for Single-Host Lab](Project_040285/README.md) |
+| 040286 | [PowerShell: Data Import — Baseline Setup for Two-Node Lab](Project_040286/README.md) |
+| 040287 | [PowerShell: Data Import — Automation for Two-Node Lab](Project_040287/README.md) |
+| 040288 | [PowerShell: Data Import — Recovery for Two-Node Lab](Project_040288/README.md) |
+| 040289 | [PowerShell: Data Import — Reporting for Two-Node Lab](Project_040289/README.md) |
+| 040290 | [PowerShell: Data Import — Usability Improvement for Two-Node Lab](Project_040290/README.md) |
+| 040291 | [PowerShell: Data Import — Baseline Setup for Help Desk](Project_040291/README.md) |
+| 040292 | [PowerShell: Data Import — Automation for Help Desk](Project_040292/README.md) |
+| 040293 | [PowerShell: Data Import — Recovery for Help Desk](Project_040293/README.md) |
+| 040294 | [PowerShell: Data Import — Reporting for Help Desk](Project_040294/README.md) |
+| 040295 | [PowerShell: Data Import — Usability Improvement for Help Desk](Project_040295/README.md) |
+| 040296 | [PowerShell: Data Import — Baseline Setup for Portfolio Demo](Project_040296/README.md) |
+| 040297 | [PowerShell: Data Import — Automation for Portfolio Demo](Project_040297/README.md) |
+| 040298 | [PowerShell: Data Import — Recovery for Portfolio Demo](Project_040298/README.md) |
+| 040299 | [PowerShell: Data Import — Reporting for Portfolio Demo](Project_040299/README.md) |
+| 040300 | [PowerShell: Data Import — Usability Improvement for Portfolio Demo](Project_040300/README.md) |
 
 [Back to the portfolio home](../README.md)
