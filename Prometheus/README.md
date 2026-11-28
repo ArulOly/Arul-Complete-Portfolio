@@ -4,7 +4,7 @@ This collection contains guide-based Prometheus exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Save the source as `rules.yml`. Save the fixture below as `test.yml` in the same
 | 044138 | [Prometheus: Audit — Recovery for Two-Node Lab](Project_044138/README.md) |
 | 044139 | [Prometheus: Audit — Reporting for Two-Node Lab](Project_044139/README.md) |
 | 044140 | [Prometheus: Audit — Usability Improvement for Two-Node Lab](Project_044140/README.md) |
+| 044141 | [Prometheus: Audit — Baseline Setup for Help Desk](Project_044141/README.md) |
+| 044142 | [Prometheus: Audit — Automation for Help Desk](Project_044142/README.md) |
+| 044143 | [Prometheus: Audit — Recovery for Help Desk](Project_044143/README.md) |
+| 044144 | [Prometheus: Audit — Reporting for Help Desk](Project_044144/README.md) |
+| 044145 | [Prometheus: Audit — Usability Improvement for Help Desk](Project_044145/README.md) |
+| 044146 | [Prometheus: Audit — Baseline Setup for Portfolio Demo](Project_044146/README.md) |
+| 044147 | [Prometheus: Audit — Automation for Portfolio Demo](Project_044147/README.md) |
+| 044148 | [Prometheus: Audit — Recovery for Portfolio Demo](Project_044148/README.md) |
+| 044149 | [Prometheus: Audit — Reporting for Portfolio Demo](Project_044149/README.md) |
+| 044150 | [Prometheus: Audit — Usability Improvement for Portfolio Demo](Project_044150/README.md) |
+| 044151 | [Prometheus: Log Analysis — Baseline Setup for School Lab](Project_044151/README.md) |
+| 044152 | [Prometheus: Log Analysis — Automation for School Lab](Project_044152/README.md) |
+| 044153 | [Prometheus: Log Analysis — Recovery for School Lab](Project_044153/README.md) |
+| 044154 | [Prometheus: Log Analysis — Reporting for School Lab](Project_044154/README.md) |
+| 044155 | [Prometheus: Log Analysis — Usability Improvement for School Lab](Project_044155/README.md) |
+| 044156 | [Prometheus: Log Analysis — Baseline Setup for Small Business](Project_044156/README.md) |
+| 044157 | [Prometheus: Log Analysis — Automation for Small Business](Project_044157/README.md) |
+| 044158 | [Prometheus: Log Analysis — Recovery for Small Business](Project_044158/README.md) |
+| 044159 | [Prometheus: Log Analysis — Reporting for Small Business](Project_044159/README.md) |
+| 044160 | [Prometheus: Log Analysis — Usability Improvement for Small Business](Project_044160/README.md) |
 
 [Back to the portfolio home](../README.md)
