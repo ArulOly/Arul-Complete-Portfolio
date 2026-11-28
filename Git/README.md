@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 40
+**Projects documented** 60
 
 ## Project categories
 
@@ -81,5 +81,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038038 | [Git: Inventory — Recovery for Two-Node Lab](Project_038038/README.md) |
 | 038039 | [Git: Inventory — Reporting for Two-Node Lab](Project_038039/README.md) |
 | 038040 | [Git: Inventory — Usability Improvement for Two-Node Lab](Project_038040/README.md) |
+| 038041 | [Git: Inventory — Baseline Setup for Help Desk](Project_038041/README.md) |
+| 038042 | [Git: Inventory — Automation for Help Desk](Project_038042/README.md) |
+| 038043 | [Git: Inventory — Recovery for Help Desk](Project_038043/README.md) |
+| 038044 | [Git: Inventory — Reporting for Help Desk](Project_038044/README.md) |
+| 038045 | [Git: Inventory — Usability Improvement for Help Desk](Project_038045/README.md) |
+| 038046 | [Git: Inventory — Baseline Setup for Portfolio Demo](Project_038046/README.md) |
+| 038047 | [Git: Inventory — Automation for Portfolio Demo](Project_038047/README.md) |
+| 038048 | [Git: Inventory — Recovery for Portfolio Demo](Project_038048/README.md) |
+| 038049 | [Git: Inventory — Reporting for Portfolio Demo](Project_038049/README.md) |
+| 038050 | [Git: Inventory — Usability Improvement for Portfolio Demo](Project_038050/README.md) |
+| 038051 | [Git: Monitoring — Baseline Setup for School Lab](Project_038051/README.md) |
+| 038052 | [Git: Monitoring — Automation for School Lab](Project_038052/README.md) |
+| 038053 | [Git: Monitoring — Recovery for School Lab](Project_038053/README.md) |
+| 038054 | [Git: Monitoring — Reporting for School Lab](Project_038054/README.md) |
+| 038055 | [Git: Monitoring — Usability Improvement for School Lab](Project_038055/README.md) |
+| 038056 | [Git: Monitoring — Baseline Setup for Small Business](Project_038056/README.md) |
+| 038057 | [Git: Monitoring — Automation for Small Business](Project_038057/README.md) |
+| 038058 | [Git: Monitoring — Recovery for Small Business](Project_038058/README.md) |
+| 038059 | [Git: Monitoring — Reporting for Small Business](Project_038059/README.md) |
+| 038060 | [Git: Monitoring — Usability Improvement for Small Business](Project_038060/README.md) |
 
 [Back to the portfolio home](../README.md)
