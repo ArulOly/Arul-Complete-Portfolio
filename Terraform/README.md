@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 580
+**Projects documented** 600
 
 ## Project categories
 
@@ -621,5 +621,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046578 | [Terraform: Performance Baseline — Recovery for Offline Classroom](Project_046578/README.md) |
 | 046579 | [Terraform: Performance Baseline — Reporting for Offline Classroom](Project_046579/README.md) |
 | 046580 | [Terraform: Performance Baseline — Usability Improvement for Offline Classroom](Project_046580/README.md) |
+| 046581 | [Terraform: Performance Baseline — Baseline Setup for Single-Host Lab](Project_046581/README.md) |
+| 046582 | [Terraform: Performance Baseline — Automation for Single-Host Lab](Project_046582/README.md) |
+| 046583 | [Terraform: Performance Baseline — Recovery for Single-Host Lab](Project_046583/README.md) |
+| 046584 | [Terraform: Performance Baseline — Reporting for Single-Host Lab](Project_046584/README.md) |
+| 046585 | [Terraform: Performance Baseline — Usability Improvement for Single-Host Lab](Project_046585/README.md) |
+| 046586 | [Terraform: Performance Baseline — Baseline Setup for Two-Node Lab](Project_046586/README.md) |
+| 046587 | [Terraform: Performance Baseline — Automation for Two-Node Lab](Project_046587/README.md) |
+| 046588 | [Terraform: Performance Baseline — Recovery for Two-Node Lab](Project_046588/README.md) |
+| 046589 | [Terraform: Performance Baseline — Reporting for Two-Node Lab](Project_046589/README.md) |
+| 046590 | [Terraform: Performance Baseline — Usability Improvement for Two-Node Lab](Project_046590/README.md) |
+| 046591 | [Terraform: Performance Baseline — Baseline Setup for Help Desk](Project_046591/README.md) |
+| 046592 | [Terraform: Performance Baseline — Automation for Help Desk](Project_046592/README.md) |
+| 046593 | [Terraform: Performance Baseline — Recovery for Help Desk](Project_046593/README.md) |
+| 046594 | [Terraform: Performance Baseline — Reporting for Help Desk](Project_046594/README.md) |
+| 046595 | [Terraform: Performance Baseline — Usability Improvement for Help Desk](Project_046595/README.md) |
+| 046596 | [Terraform: Performance Baseline — Baseline Setup for Portfolio Demo](Project_046596/README.md) |
+| 046597 | [Terraform: Performance Baseline — Automation for Portfolio Demo](Project_046597/README.md) |
+| 046598 | [Terraform: Performance Baseline — Recovery for Portfolio Demo](Project_046598/README.md) |
+| 046599 | [Terraform: Performance Baseline — Reporting for Portfolio Demo](Project_046599/README.md) |
+| 046600 | [Terraform: Performance Baseline — Usability Improvement for Portfolio Demo](Project_046600/README.md) |
 
 [Back to the portfolio home](../README.md)
