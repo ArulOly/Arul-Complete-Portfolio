@@ -4,7 +4,7 @@ This collection contains guide-based PowerShell exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 380
+**Projects documented** 400
 
 ## Project categories
 
@@ -421,5 +421,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 040378 | [PowerShell: Dashboard — Recovery for Offline Classroom](Project_040378/README.md) |
 | 040379 | [PowerShell: Dashboard — Reporting for Offline Classroom](Project_040379/README.md) |
 | 040380 | [PowerShell: Dashboard — Usability Improvement for Offline Classroom](Project_040380/README.md) |
+| 040381 | [PowerShell: Dashboard — Baseline Setup for Single-Host Lab](Project_040381/README.md) |
+| 040382 | [PowerShell: Dashboard — Automation for Single-Host Lab](Project_040382/README.md) |
+| 040383 | [PowerShell: Dashboard — Recovery for Single-Host Lab](Project_040383/README.md) |
+| 040384 | [PowerShell: Dashboard — Reporting for Single-Host Lab](Project_040384/README.md) |
+| 040385 | [PowerShell: Dashboard — Usability Improvement for Single-Host Lab](Project_040385/README.md) |
+| 040386 | [PowerShell: Dashboard — Baseline Setup for Two-Node Lab](Project_040386/README.md) |
+| 040387 | [PowerShell: Dashboard — Automation for Two-Node Lab](Project_040387/README.md) |
+| 040388 | [PowerShell: Dashboard — Recovery for Two-Node Lab](Project_040388/README.md) |
+| 040389 | [PowerShell: Dashboard — Reporting for Two-Node Lab](Project_040389/README.md) |
+| 040390 | [PowerShell: Dashboard — Usability Improvement for Two-Node Lab](Project_040390/README.md) |
+| 040391 | [PowerShell: Dashboard — Baseline Setup for Help Desk](Project_040391/README.md) |
+| 040392 | [PowerShell: Dashboard — Automation for Help Desk](Project_040392/README.md) |
+| 040393 | [PowerShell: Dashboard — Recovery for Help Desk](Project_040393/README.md) |
+| 040394 | [PowerShell: Dashboard — Reporting for Help Desk](Project_040394/README.md) |
+| 040395 | [PowerShell: Dashboard — Usability Improvement for Help Desk](Project_040395/README.md) |
+| 040396 | [PowerShell: Dashboard — Baseline Setup for Portfolio Demo](Project_040396/README.md) |
+| 040397 | [PowerShell: Dashboard — Automation for Portfolio Demo](Project_040397/README.md) |
+| 040398 | [PowerShell: Dashboard — Recovery for Portfolio Demo](Project_040398/README.md) |
+| 040399 | [PowerShell: Dashboard — Reporting for Portfolio Demo](Project_040399/README.md) |
+| 040400 | [PowerShell: Dashboard — Usability Improvement for Portfolio Demo](Project_040400/README.md) |
 
 [Back to the portfolio home](../README.md)
