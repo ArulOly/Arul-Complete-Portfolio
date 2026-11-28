@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 940
+**Projects documented** 960
 
 ## Project categories
 
@@ -981,5 +981,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016938 | [Google Cloud: Visual Reporting — Recovery for Two-Node Lab](Project_016938/README.md) |
 | 016939 | [Google Cloud: Visual Reporting — Reporting for Two-Node Lab](Project_016939/README.md) |
 | 016940 | [Google Cloud: Visual Reporting — Usability Improvement for Two-Node Lab](Project_016940/README.md) |
+| 016941 | [Google Cloud: Visual Reporting — Baseline Setup for Help Desk](Project_016941/README.md) |
+| 016942 | [Google Cloud: Visual Reporting — Automation for Help Desk](Project_016942/README.md) |
+| 016943 | [Google Cloud: Visual Reporting — Recovery for Help Desk](Project_016943/README.md) |
+| 016944 | [Google Cloud: Visual Reporting — Reporting for Help Desk](Project_016944/README.md) |
+| 016945 | [Google Cloud: Visual Reporting — Usability Improvement for Help Desk](Project_016945/README.md) |
+| 016946 | [Google Cloud: Visual Reporting — Baseline Setup for Portfolio Demo](Project_016946/README.md) |
+| 016947 | [Google Cloud: Visual Reporting — Automation for Portfolio Demo](Project_016947/README.md) |
+| 016948 | [Google Cloud: Visual Reporting — Recovery for Portfolio Demo](Project_016948/README.md) |
+| 016949 | [Google Cloud: Visual Reporting — Reporting for Portfolio Demo](Project_016949/README.md) |
+| 016950 | [Google Cloud: Visual Reporting — Usability Improvement for Portfolio Demo](Project_016950/README.md) |
+| 016951 | [Google Cloud: Recovery Test — Baseline Setup for School Lab](Project_016951/README.md) |
+| 016952 | [Google Cloud: Recovery Test — Automation for School Lab](Project_016952/README.md) |
+| 016953 | [Google Cloud: Recovery Test — Recovery for School Lab](Project_016953/README.md) |
+| 016954 | [Google Cloud: Recovery Test — Reporting for School Lab](Project_016954/README.md) |
+| 016955 | [Google Cloud: Recovery Test — Usability Improvement for School Lab](Project_016955/README.md) |
+| 016956 | [Google Cloud: Recovery Test — Baseline Setup for Small Business](Project_016956/README.md) |
+| 016957 | [Google Cloud: Recovery Test — Automation for Small Business](Project_016957/README.md) |
+| 016958 | [Google Cloud: Recovery Test — Recovery for Small Business](Project_016958/README.md) |
+| 016959 | [Google Cloud: Recovery Test — Reporting for Small Business](Project_016959/README.md) |
+| 016960 | [Google Cloud: Recovery Test — Usability Improvement for Small Business](Project_016960/README.md) |
 
 [Back to the portfolio home](../README.md)
