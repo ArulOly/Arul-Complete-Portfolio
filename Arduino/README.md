@@ -4,7 +4,7 @@ This collection contains guide-based Arduino exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 037818 | [Arduino: Documentation Generation — Recovery for Public Dataset](Project_037818/README.md) |
 | 037819 | [Arduino: Documentation Generation — Reporting for Public Dataset](Project_037819/README.md) |
 | 037820 | [Arduino: Documentation Generation — Usability Improvement for Public Dataset](Project_037820/README.md) |
+| 037821 | [Arduino: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_037821/README.md) |
+| 037822 | [Arduino: Documentation Generation — Automation for Branch Office Simulator](Project_037822/README.md) |
+| 037823 | [Arduino: Documentation Generation — Recovery for Branch Office Simulator](Project_037823/README.md) |
+| 037824 | [Arduino: Documentation Generation — Reporting for Branch Office Simulator](Project_037824/README.md) |
+| 037825 | [Arduino: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_037825/README.md) |
+| 037826 | [Arduino: Documentation Generation — Baseline Setup for Offline Classroom](Project_037826/README.md) |
+| 037827 | [Arduino: Documentation Generation — Automation for Offline Classroom](Project_037827/README.md) |
+| 037828 | [Arduino: Documentation Generation — Recovery for Offline Classroom](Project_037828/README.md) |
+| 037829 | [Arduino: Documentation Generation — Reporting for Offline Classroom](Project_037829/README.md) |
+| 037830 | [Arduino: Documentation Generation — Usability Improvement for Offline Classroom](Project_037830/README.md) |
+| 037831 | [Arduino: Documentation Generation — Baseline Setup for Single-Host Lab](Project_037831/README.md) |
+| 037832 | [Arduino: Documentation Generation — Automation for Single-Host Lab](Project_037832/README.md) |
+| 037833 | [Arduino: Documentation Generation — Recovery for Single-Host Lab](Project_037833/README.md) |
+| 037834 | [Arduino: Documentation Generation — Reporting for Single-Host Lab](Project_037834/README.md) |
+| 037835 | [Arduino: Documentation Generation — Usability Improvement for Single-Host Lab](Project_037835/README.md) |
+| 037836 | [Arduino: Documentation Generation — Baseline Setup for Two-Node Lab](Project_037836/README.md) |
+| 037837 | [Arduino: Documentation Generation — Automation for Two-Node Lab](Project_037837/README.md) |
+| 037838 | [Arduino: Documentation Generation — Recovery for Two-Node Lab](Project_037838/README.md) |
+| 037839 | [Arduino: Documentation Generation — Reporting for Two-Node Lab](Project_037839/README.md) |
+| 037840 | [Arduino: Documentation Generation — Usability Improvement for Two-Node Lab](Project_037840/README.md) |
 
 [Back to the portfolio home](../README.md)
