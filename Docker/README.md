@@ -4,7 +4,7 @@ This collection contains guide-based Docker exercises covering local data proces
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ Copy an embedded container command to a local practice directory and follow the 
 | 017018 | [Docker: Inventory — Recovery for Public Dataset](Project_017018/README.md) |
 | 017019 | [Docker: Inventory — Reporting for Public Dataset](Project_017019/README.md) |
 | 017020 | [Docker: Inventory — Usability Improvement for Public Dataset](Project_017020/README.md) |
+| 017021 | [Docker: Inventory — Baseline Setup for Branch Office Simulator](Project_017021/README.md) |
+| 017022 | [Docker: Inventory — Automation for Branch Office Simulator](Project_017022/README.md) |
+| 017023 | [Docker: Inventory — Recovery for Branch Office Simulator](Project_017023/README.md) |
+| 017024 | [Docker: Inventory — Reporting for Branch Office Simulator](Project_017024/README.md) |
+| 017025 | [Docker: Inventory — Usability Improvement for Branch Office Simulator](Project_017025/README.md) |
+| 017026 | [Docker: Inventory — Baseline Setup for Offline Classroom](Project_017026/README.md) |
+| 017027 | [Docker: Inventory — Automation for Offline Classroom](Project_017027/README.md) |
+| 017028 | [Docker: Inventory — Recovery for Offline Classroom](Project_017028/README.md) |
+| 017029 | [Docker: Inventory — Reporting for Offline Classroom](Project_017029/README.md) |
+| 017030 | [Docker: Inventory — Usability Improvement for Offline Classroom](Project_017030/README.md) |
+| 017031 | [Docker: Inventory — Baseline Setup for Single-Host Lab](Project_017031/README.md) |
+| 017032 | [Docker: Inventory — Automation for Single-Host Lab](Project_017032/README.md) |
+| 017033 | [Docker: Inventory — Recovery for Single-Host Lab](Project_017033/README.md) |
+| 017034 | [Docker: Inventory — Reporting for Single-Host Lab](Project_017034/README.md) |
+| 017035 | [Docker: Inventory — Usability Improvement for Single-Host Lab](Project_017035/README.md) |
+| 017036 | [Docker: Inventory — Baseline Setup for Two-Node Lab](Project_017036/README.md) |
+| 017037 | [Docker: Inventory — Automation for Two-Node Lab](Project_017037/README.md) |
+| 017038 | [Docker: Inventory — Recovery for Two-Node Lab](Project_017038/README.md) |
+| 017039 | [Docker: Inventory — Reporting for Two-Node Lab](Project_017039/README.md) |
+| 017040 | [Docker: Inventory — Usability Improvement for Two-Node Lab](Project_017040/README.md) |
 
 [Back to the portfolio home](../README.md)
