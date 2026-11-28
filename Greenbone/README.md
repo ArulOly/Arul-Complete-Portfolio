@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 760
+**Projects documented** 780
 
 ## Project categories
 
@@ -801,5 +801,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031758 | [Greenbone: Data Validation — Recovery for Small Business](Project_031758/README.md) |
 | 031759 | [Greenbone: Data Validation — Reporting for Small Business](Project_031759/README.md) |
 | 031760 | [Greenbone: Data Validation — Usability Improvement for Small Business](Project_031760/README.md) |
+| 031761 | [Greenbone: Data Validation — Baseline Setup for Home Development](Project_031761/README.md) |
+| 031762 | [Greenbone: Data Validation — Automation for Home Development](Project_031762/README.md) |
+| 031763 | [Greenbone: Data Validation — Recovery for Home Development](Project_031763/README.md) |
+| 031764 | [Greenbone: Data Validation — Reporting for Home Development](Project_031764/README.md) |
+| 031765 | [Greenbone: Data Validation — Usability Improvement for Home Development](Project_031765/README.md) |
+| 031766 | [Greenbone: Data Validation — Baseline Setup for Public Dataset](Project_031766/README.md) |
+| 031767 | [Greenbone: Data Validation — Automation for Public Dataset](Project_031767/README.md) |
+| 031768 | [Greenbone: Data Validation — Recovery for Public Dataset](Project_031768/README.md) |
+| 031769 | [Greenbone: Data Validation — Reporting for Public Dataset](Project_031769/README.md) |
+| 031770 | [Greenbone: Data Validation — Usability Improvement for Public Dataset](Project_031770/README.md) |
+| 031771 | [Greenbone: Data Validation — Baseline Setup for Branch Office Simulator](Project_031771/README.md) |
+| 031772 | [Greenbone: Data Validation — Automation for Branch Office Simulator](Project_031772/README.md) |
+| 031773 | [Greenbone: Data Validation — Recovery for Branch Office Simulator](Project_031773/README.md) |
+| 031774 | [Greenbone: Data Validation — Reporting for Branch Office Simulator](Project_031774/README.md) |
+| 031775 | [Greenbone: Data Validation — Usability Improvement for Branch Office Simulator](Project_031775/README.md) |
+| 031776 | [Greenbone: Data Validation — Baseline Setup for Offline Classroom](Project_031776/README.md) |
+| 031777 | [Greenbone: Data Validation — Automation for Offline Classroom](Project_031777/README.md) |
+| 031778 | [Greenbone: Data Validation — Recovery for Offline Classroom](Project_031778/README.md) |
+| 031779 | [Greenbone: Data Validation — Reporting for Offline Classroom](Project_031779/README.md) |
+| 031780 | [Greenbone: Data Validation — Usability Improvement for Offline Classroom](Project_031780/README.md) |
 
 [Back to the portfolio home](../README.md)
