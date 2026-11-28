@@ -4,7 +4,7 @@ This collection contains guide-based Bash exercises covering local data processi
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 039138 | [Bash: Audit — Recovery for Two-Node Lab](Project_039138/README.md) |
 | 039139 | [Bash: Audit — Reporting for Two-Node Lab](Project_039139/README.md) |
 | 039140 | [Bash: Audit — Usability Improvement for Two-Node Lab](Project_039140/README.md) |
+| 039141 | [Bash: Audit — Baseline Setup for Help Desk](Project_039141/README.md) |
+| 039142 | [Bash: Audit — Automation for Help Desk](Project_039142/README.md) |
+| 039143 | [Bash: Audit — Recovery for Help Desk](Project_039143/README.md) |
+| 039144 | [Bash: Audit — Reporting for Help Desk](Project_039144/README.md) |
+| 039145 | [Bash: Audit — Usability Improvement for Help Desk](Project_039145/README.md) |
+| 039146 | [Bash: Audit — Baseline Setup for Portfolio Demo](Project_039146/README.md) |
+| 039147 | [Bash: Audit — Automation for Portfolio Demo](Project_039147/README.md) |
+| 039148 | [Bash: Audit — Recovery for Portfolio Demo](Project_039148/README.md) |
+| 039149 | [Bash: Audit — Reporting for Portfolio Demo](Project_039149/README.md) |
+| 039150 | [Bash: Audit — Usability Improvement for Portfolio Demo](Project_039150/README.md) |
+| 039151 | [Bash: Log Analysis — Baseline Setup for School Lab](Project_039151/README.md) |
+| 039152 | [Bash: Log Analysis — Automation for School Lab](Project_039152/README.md) |
+| 039153 | [Bash: Log Analysis — Recovery for School Lab](Project_039153/README.md) |
+| 039154 | [Bash: Log Analysis — Reporting for School Lab](Project_039154/README.md) |
+| 039155 | [Bash: Log Analysis — Usability Improvement for School Lab](Project_039155/README.md) |
+| 039156 | [Bash: Log Analysis — Baseline Setup for Small Business](Project_039156/README.md) |
+| 039157 | [Bash: Log Analysis — Automation for Small Business](Project_039157/README.md) |
+| 039158 | [Bash: Log Analysis — Recovery for Small Business](Project_039158/README.md) |
+| 039159 | [Bash: Log Analysis — Reporting for Small Business](Project_039159/README.md) |
+| 039160 | [Bash: Log Analysis — Usability Improvement for Small Business](Project_039160/README.md) |
 
 [Back to the portfolio home](../README.md)
