@@ -4,7 +4,7 @@ This collection contains guide-based Kubernetes exercises covering local data pr
 
 **Guides discovered** 1000
 
-**Projects documented** 140
+**Projects documented** 160
 
 ## Project categories
 
@@ -181,5 +181,25 @@ Copy an embedded Job manifest to a local practice directory and follow the proje
 | 018138 | [Kubernetes: Audit — Recovery for Two-Node Lab](Project_018138/README.md) |
 | 018139 | [Kubernetes: Audit — Reporting for Two-Node Lab](Project_018139/README.md) |
 | 018140 | [Kubernetes: Audit — Usability Improvement for Two-Node Lab](Project_018140/README.md) |
+| 018141 | [Kubernetes: Audit — Baseline Setup for Help Desk](Project_018141/README.md) |
+| 018142 | [Kubernetes: Audit — Automation for Help Desk](Project_018142/README.md) |
+| 018143 | [Kubernetes: Audit — Recovery for Help Desk](Project_018143/README.md) |
+| 018144 | [Kubernetes: Audit — Reporting for Help Desk](Project_018144/README.md) |
+| 018145 | [Kubernetes: Audit — Usability Improvement for Help Desk](Project_018145/README.md) |
+| 018146 | [Kubernetes: Audit — Baseline Setup for Portfolio Demo](Project_018146/README.md) |
+| 018147 | [Kubernetes: Audit — Automation for Portfolio Demo](Project_018147/README.md) |
+| 018148 | [Kubernetes: Audit — Recovery for Portfolio Demo](Project_018148/README.md) |
+| 018149 | [Kubernetes: Audit — Reporting for Portfolio Demo](Project_018149/README.md) |
+| 018150 | [Kubernetes: Audit — Usability Improvement for Portfolio Demo](Project_018150/README.md) |
+| 018151 | [Kubernetes: Log Analysis — Baseline Setup for School Lab](Project_018151/README.md) |
+| 018152 | [Kubernetes: Log Analysis — Automation for School Lab](Project_018152/README.md) |
+| 018153 | [Kubernetes: Log Analysis — Recovery for School Lab](Project_018153/README.md) |
+| 018154 | [Kubernetes: Log Analysis — Reporting for School Lab](Project_018154/README.md) |
+| 018155 | [Kubernetes: Log Analysis — Usability Improvement for School Lab](Project_018155/README.md) |
+| 018156 | [Kubernetes: Log Analysis — Baseline Setup for Small Business](Project_018156/README.md) |
+| 018157 | [Kubernetes: Log Analysis — Automation for Small Business](Project_018157/README.md) |
+| 018158 | [Kubernetes: Log Analysis — Recovery for Small Business](Project_018158/README.md) |
+| 018159 | [Kubernetes: Log Analysis — Reporting for Small Business](Project_018159/README.md) |
+| 018160 | [Kubernetes: Log Analysis — Usability Improvement for Small Business](Project_018160/README.md) |
 
 [Back to the portfolio home](../README.md)
