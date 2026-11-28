@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 20
+**Projects documented** 40
 
 ## Project categories
 
@@ -61,5 +61,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030018 | [Wazuh: Inventory — Recovery for Public Dataset](Project_030018/README.md) |
 | 030019 | [Wazuh: Inventory — Reporting for Public Dataset](Project_030019/README.md) |
 | 030020 | [Wazuh: Inventory — Usability Improvement for Public Dataset](Project_030020/README.md) |
+| 030021 | [Wazuh: Inventory — Baseline Setup for Branch Office Simulator](Project_030021/README.md) |
+| 030022 | [Wazuh: Inventory — Automation for Branch Office Simulator](Project_030022/README.md) |
+| 030023 | [Wazuh: Inventory — Recovery for Branch Office Simulator](Project_030023/README.md) |
+| 030024 | [Wazuh: Inventory — Reporting for Branch Office Simulator](Project_030024/README.md) |
+| 030025 | [Wazuh: Inventory — Usability Improvement for Branch Office Simulator](Project_030025/README.md) |
+| 030026 | [Wazuh: Inventory — Baseline Setup for Offline Classroom](Project_030026/README.md) |
+| 030027 | [Wazuh: Inventory — Automation for Offline Classroom](Project_030027/README.md) |
+| 030028 | [Wazuh: Inventory — Recovery for Offline Classroom](Project_030028/README.md) |
+| 030029 | [Wazuh: Inventory — Reporting for Offline Classroom](Project_030029/README.md) |
+| 030030 | [Wazuh: Inventory — Usability Improvement for Offline Classroom](Project_030030/README.md) |
+| 030031 | [Wazuh: Inventory — Baseline Setup for Single-Host Lab](Project_030031/README.md) |
+| 030032 | [Wazuh: Inventory — Automation for Single-Host Lab](Project_030032/README.md) |
+| 030033 | [Wazuh: Inventory — Recovery for Single-Host Lab](Project_030033/README.md) |
+| 030034 | [Wazuh: Inventory — Reporting for Single-Host Lab](Project_030034/README.md) |
+| 030035 | [Wazuh: Inventory — Usability Improvement for Single-Host Lab](Project_030035/README.md) |
+| 030036 | [Wazuh: Inventory — Baseline Setup for Two-Node Lab](Project_030036/README.md) |
+| 030037 | [Wazuh: Inventory — Automation for Two-Node Lab](Project_030037/README.md) |
+| 030038 | [Wazuh: Inventory — Recovery for Two-Node Lab](Project_030038/README.md) |
+| 030039 | [Wazuh: Inventory — Reporting for Two-Node Lab](Project_030039/README.md) |
+| 030040 | [Wazuh: Inventory — Usability Improvement for Two-Node Lab](Project_030040/README.md) |
 
 [Back to the portfolio home](../README.md)
