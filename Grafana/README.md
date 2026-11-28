@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 260
+**Projects documented** 280
 
 ## Project categories
 
@@ -301,5 +301,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043258 | [Grafana: Data Import — Recovery for Small Business](Project_043258/README.md) |
 | 043259 | [Grafana: Data Import — Reporting for Small Business](Project_043259/README.md) |
 | 043260 | [Grafana: Data Import — Usability Improvement for Small Business](Project_043260/README.md) |
+| 043261 | [Grafana: Data Import — Baseline Setup for Home Development](Project_043261/README.md) |
+| 043262 | [Grafana: Data Import — Automation for Home Development](Project_043262/README.md) |
+| 043263 | [Grafana: Data Import — Recovery for Home Development](Project_043263/README.md) |
+| 043264 | [Grafana: Data Import — Reporting for Home Development](Project_043264/README.md) |
+| 043265 | [Grafana: Data Import — Usability Improvement for Home Development](Project_043265/README.md) |
+| 043266 | [Grafana: Data Import — Baseline Setup for Public Dataset](Project_043266/README.md) |
+| 043267 | [Grafana: Data Import — Automation for Public Dataset](Project_043267/README.md) |
+| 043268 | [Grafana: Data Import — Recovery for Public Dataset](Project_043268/README.md) |
+| 043269 | [Grafana: Data Import — Reporting for Public Dataset](Project_043269/README.md) |
+| 043270 | [Grafana: Data Import — Usability Improvement for Public Dataset](Project_043270/README.md) |
+| 043271 | [Grafana: Data Import — Baseline Setup for Branch Office Simulator](Project_043271/README.md) |
+| 043272 | [Grafana: Data Import — Automation for Branch Office Simulator](Project_043272/README.md) |
+| 043273 | [Grafana: Data Import — Recovery for Branch Office Simulator](Project_043273/README.md) |
+| 043274 | [Grafana: Data Import — Reporting for Branch Office Simulator](Project_043274/README.md) |
+| 043275 | [Grafana: Data Import — Usability Improvement for Branch Office Simulator](Project_043275/README.md) |
+| 043276 | [Grafana: Data Import — Baseline Setup for Offline Classroom](Project_043276/README.md) |
+| 043277 | [Grafana: Data Import — Automation for Offline Classroom](Project_043277/README.md) |
+| 043278 | [Grafana: Data Import — Recovery for Offline Classroom](Project_043278/README.md) |
+| 043279 | [Grafana: Data Import — Reporting for Offline Classroom](Project_043279/README.md) |
+| 043280 | [Grafana: Data Import — Usability Improvement for Offline Classroom](Project_043280/README.md) |
 
 [Back to the portfolio home](../README.md)
