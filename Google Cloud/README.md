@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016818 | [Google Cloud: Documentation Generation — Recovery for Public Dataset](Project_016818/README.md) |
 | 016819 | [Google Cloud: Documentation Generation — Reporting for Public Dataset](Project_016819/README.md) |
 | 016820 | [Google Cloud: Documentation Generation — Usability Improvement for Public Dataset](Project_016820/README.md) |
+| 016821 | [Google Cloud: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_016821/README.md) |
+| 016822 | [Google Cloud: Documentation Generation — Automation for Branch Office Simulator](Project_016822/README.md) |
+| 016823 | [Google Cloud: Documentation Generation — Recovery for Branch Office Simulator](Project_016823/README.md) |
+| 016824 | [Google Cloud: Documentation Generation — Reporting for Branch Office Simulator](Project_016824/README.md) |
+| 016825 | [Google Cloud: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_016825/README.md) |
+| 016826 | [Google Cloud: Documentation Generation — Baseline Setup for Offline Classroom](Project_016826/README.md) |
+| 016827 | [Google Cloud: Documentation Generation — Automation for Offline Classroom](Project_016827/README.md) |
+| 016828 | [Google Cloud: Documentation Generation — Recovery for Offline Classroom](Project_016828/README.md) |
+| 016829 | [Google Cloud: Documentation Generation — Reporting for Offline Classroom](Project_016829/README.md) |
+| 016830 | [Google Cloud: Documentation Generation — Usability Improvement for Offline Classroom](Project_016830/README.md) |
+| 016831 | [Google Cloud: Documentation Generation — Baseline Setup for Single-Host Lab](Project_016831/README.md) |
+| 016832 | [Google Cloud: Documentation Generation — Automation for Single-Host Lab](Project_016832/README.md) |
+| 016833 | [Google Cloud: Documentation Generation — Recovery for Single-Host Lab](Project_016833/README.md) |
+| 016834 | [Google Cloud: Documentation Generation — Reporting for Single-Host Lab](Project_016834/README.md) |
+| 016835 | [Google Cloud: Documentation Generation — Usability Improvement for Single-Host Lab](Project_016835/README.md) |
+| 016836 | [Google Cloud: Documentation Generation — Baseline Setup for Two-Node Lab](Project_016836/README.md) |
+| 016837 | [Google Cloud: Documentation Generation — Automation for Two-Node Lab](Project_016837/README.md) |
+| 016838 | [Google Cloud: Documentation Generation — Recovery for Two-Node Lab](Project_016838/README.md) |
+| 016839 | [Google Cloud: Documentation Generation — Reporting for Two-Node Lab](Project_016839/README.md) |
+| 016840 | [Google Cloud: Documentation Generation — Usability Improvement for Two-Node Lab](Project_016840/README.md) |
 
 [Back to the portfolio home](../README.md)
