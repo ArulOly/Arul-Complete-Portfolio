@@ -4,7 +4,7 @@ This collection contains guide-based Grafana exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 880
+**Projects documented** 900
 
 ## Project categories
 
@@ -921,5 +921,25 @@ Add a **TestData** data source to your local Grafana instance. Save the source a
 | 043878 | [Grafana: Automation — Recovery for Offline Classroom](Project_043878/README.md) |
 | 043879 | [Grafana: Automation — Reporting for Offline Classroom](Project_043879/README.md) |
 | 043880 | [Grafana: Automation — Usability Improvement for Offline Classroom](Project_043880/README.md) |
+| 043881 | [Grafana: Automation — Baseline Setup for Single-Host Lab](Project_043881/README.md) |
+| 043882 | [Grafana: Automation — Automation for Single-Host Lab](Project_043882/README.md) |
+| 043883 | [Grafana: Automation — Recovery for Single-Host Lab](Project_043883/README.md) |
+| 043884 | [Grafana: Automation — Reporting for Single-Host Lab](Project_043884/README.md) |
+| 043885 | [Grafana: Automation — Usability Improvement for Single-Host Lab](Project_043885/README.md) |
+| 043886 | [Grafana: Automation — Baseline Setup for Two-Node Lab](Project_043886/README.md) |
+| 043887 | [Grafana: Automation — Automation for Two-Node Lab](Project_043887/README.md) |
+| 043888 | [Grafana: Automation — Recovery for Two-Node Lab](Project_043888/README.md) |
+| 043889 | [Grafana: Automation — Reporting for Two-Node Lab](Project_043889/README.md) |
+| 043890 | [Grafana: Automation — Usability Improvement for Two-Node Lab](Project_043890/README.md) |
+| 043891 | [Grafana: Automation — Baseline Setup for Help Desk](Project_043891/README.md) |
+| 043892 | [Grafana: Automation — Automation for Help Desk](Project_043892/README.md) |
+| 043893 | [Grafana: Automation — Recovery for Help Desk](Project_043893/README.md) |
+| 043894 | [Grafana: Automation — Reporting for Help Desk](Project_043894/README.md) |
+| 043895 | [Grafana: Automation — Usability Improvement for Help Desk](Project_043895/README.md) |
+| 043896 | [Grafana: Automation — Baseline Setup for Portfolio Demo](Project_043896/README.md) |
+| 043897 | [Grafana: Automation — Automation for Portfolio Demo](Project_043897/README.md) |
+| 043898 | [Grafana: Automation — Recovery for Portfolio Demo](Project_043898/README.md) |
+| 043899 | [Grafana: Automation — Reporting for Portfolio Demo](Project_043899/README.md) |
+| 043900 | [Grafana: Automation — Usability Improvement for Portfolio Demo](Project_043900/README.md) |
 
 [Back to the portfolio home](../README.md)
