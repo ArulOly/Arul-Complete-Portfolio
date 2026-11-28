@@ -4,7 +4,7 @@ This collection contains guide-based Ansible exercises covering local data proce
 
 **Guides discovered** 1000
 
-**Projects documented** 700
+**Projects documented** 720
 
 ## Project categories
 
@@ -741,5 +741,25 @@ Copy an embedded playbook to a local practice directory and follow the project c
 | 047698 | [Ansible: Configuration Comparison — Recovery for Portfolio Demo](Project_047698/README.md) |
 | 047699 | [Ansible: Configuration Comparison — Reporting for Portfolio Demo](Project_047699/README.md) |
 | 047700 | [Ansible: Configuration Comparison — Usability Improvement for Portfolio Demo](Project_047700/README.md) |
+| 047701 | [Ansible: Error Handling — Baseline Setup for School Lab](Project_047701/README.md) |
+| 047702 | [Ansible: Error Handling — Automation for School Lab](Project_047702/README.md) |
+| 047703 | [Ansible: Error Handling — Recovery for School Lab](Project_047703/README.md) |
+| 047704 | [Ansible: Error Handling — Reporting for School Lab](Project_047704/README.md) |
+| 047705 | [Ansible: Error Handling — Usability Improvement for School Lab](Project_047705/README.md) |
+| 047706 | [Ansible: Error Handling — Baseline Setup for Small Business](Project_047706/README.md) |
+| 047707 | [Ansible: Error Handling — Automation for Small Business](Project_047707/README.md) |
+| 047708 | [Ansible: Error Handling — Recovery for Small Business](Project_047708/README.md) |
+| 047709 | [Ansible: Error Handling — Reporting for Small Business](Project_047709/README.md) |
+| 047710 | [Ansible: Error Handling — Usability Improvement for Small Business](Project_047710/README.md) |
+| 047711 | [Ansible: Error Handling — Baseline Setup for Home Development](Project_047711/README.md) |
+| 047712 | [Ansible: Error Handling — Automation for Home Development](Project_047712/README.md) |
+| 047713 | [Ansible: Error Handling — Recovery for Home Development](Project_047713/README.md) |
+| 047714 | [Ansible: Error Handling — Reporting for Home Development](Project_047714/README.md) |
+| 047715 | [Ansible: Error Handling — Usability Improvement for Home Development](Project_047715/README.md) |
+| 047716 | [Ansible: Error Handling — Baseline Setup for Public Dataset](Project_047716/README.md) |
+| 047717 | [Ansible: Error Handling — Automation for Public Dataset](Project_047717/README.md) |
+| 047718 | [Ansible: Error Handling — Recovery for Public Dataset](Project_047718/README.md) |
+| 047719 | [Ansible: Error Handling — Reporting for Public Dataset](Project_047719/README.md) |
+| 047720 | [Ansible: Error Handling — Usability Improvement for Public Dataset](Project_047720/README.md) |
 
 [Back to the portfolio home](../README.md)
