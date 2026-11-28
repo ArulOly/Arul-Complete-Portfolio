@@ -4,7 +4,7 @@ This collection contains guide-based Nginx exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 780
+**Projects documented** 800
 
 ## Project categories
 
@@ -821,5 +821,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 041778 | [Nginx: Data Validation — Recovery for Offline Classroom](Project_041778/README.md) |
 | 041779 | [Nginx: Data Validation — Reporting for Offline Classroom](Project_041779/README.md) |
 | 041780 | [Nginx: Data Validation — Usability Improvement for Offline Classroom](Project_041780/README.md) |
+| 041781 | [Nginx: Data Validation — Baseline Setup for Single-Host Lab](Project_041781/README.md) |
+| 041782 | [Nginx: Data Validation — Automation for Single-Host Lab](Project_041782/README.md) |
+| 041783 | [Nginx: Data Validation — Recovery for Single-Host Lab](Project_041783/README.md) |
+| 041784 | [Nginx: Data Validation — Reporting for Single-Host Lab](Project_041784/README.md) |
+| 041785 | [Nginx: Data Validation — Usability Improvement for Single-Host Lab](Project_041785/README.md) |
+| 041786 | [Nginx: Data Validation — Baseline Setup for Two-Node Lab](Project_041786/README.md) |
+| 041787 | [Nginx: Data Validation — Automation for Two-Node Lab](Project_041787/README.md) |
+| 041788 | [Nginx: Data Validation — Recovery for Two-Node Lab](Project_041788/README.md) |
+| 041789 | [Nginx: Data Validation — Reporting for Two-Node Lab](Project_041789/README.md) |
+| 041790 | [Nginx: Data Validation — Usability Improvement for Two-Node Lab](Project_041790/README.md) |
+| 041791 | [Nginx: Data Validation — Baseline Setup for Help Desk](Project_041791/README.md) |
+| 041792 | [Nginx: Data Validation — Automation for Help Desk](Project_041792/README.md) |
+| 041793 | [Nginx: Data Validation — Recovery for Help Desk](Project_041793/README.md) |
+| 041794 | [Nginx: Data Validation — Reporting for Help Desk](Project_041794/README.md) |
+| 041795 | [Nginx: Data Validation — Usability Improvement for Help Desk](Project_041795/README.md) |
+| 041796 | [Nginx: Data Validation — Baseline Setup for Portfolio Demo](Project_041796/README.md) |
+| 041797 | [Nginx: Data Validation — Automation for Portfolio Demo](Project_041797/README.md) |
+| 041798 | [Nginx: Data Validation — Recovery for Portfolio Demo](Project_041798/README.md) |
+| 041799 | [Nginx: Data Validation — Reporting for Portfolio Demo](Project_041799/README.md) |
+| 041800 | [Nginx: Data Validation — Usability Improvement for Portfolio Demo](Project_041800/README.md) |
 
 [Back to the portfolio home](../README.md)
