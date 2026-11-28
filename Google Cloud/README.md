@@ -4,7 +4,7 @@ This collection contains guide-based Google Cloud exercises covering local data 
 
 **Guides discovered** 1000
 
-**Projects documented** 480
+**Projects documented** 500
 
 ## Project categories
 
@@ -521,5 +521,25 @@ Save the embedded Python block and JSON sample, then run the documented command 
 | 016478 | [Google Cloud: Scheduled Reporting — Recovery for Offline Classroom](Project_016478/README.md) |
 | 016479 | [Google Cloud: Scheduled Reporting — Reporting for Offline Classroom](Project_016479/README.md) |
 | 016480 | [Google Cloud: Scheduled Reporting — Usability Improvement for Offline Classroom](Project_016480/README.md) |
+| 016481 | [Google Cloud: Scheduled Reporting — Baseline Setup for Single-Host Lab](Project_016481/README.md) |
+| 016482 | [Google Cloud: Scheduled Reporting — Automation for Single-Host Lab](Project_016482/README.md) |
+| 016483 | [Google Cloud: Scheduled Reporting — Recovery for Single-Host Lab](Project_016483/README.md) |
+| 016484 | [Google Cloud: Scheduled Reporting — Reporting for Single-Host Lab](Project_016484/README.md) |
+| 016485 | [Google Cloud: Scheduled Reporting — Usability Improvement for Single-Host Lab](Project_016485/README.md) |
+| 016486 | [Google Cloud: Scheduled Reporting — Baseline Setup for Two-Node Lab](Project_016486/README.md) |
+| 016487 | [Google Cloud: Scheduled Reporting — Automation for Two-Node Lab](Project_016487/README.md) |
+| 016488 | [Google Cloud: Scheduled Reporting — Recovery for Two-Node Lab](Project_016488/README.md) |
+| 016489 | [Google Cloud: Scheduled Reporting — Reporting for Two-Node Lab](Project_016489/README.md) |
+| 016490 | [Google Cloud: Scheduled Reporting — Usability Improvement for Two-Node Lab](Project_016490/README.md) |
+| 016491 | [Google Cloud: Scheduled Reporting — Baseline Setup for Help Desk](Project_016491/README.md) |
+| 016492 | [Google Cloud: Scheduled Reporting — Automation for Help Desk](Project_016492/README.md) |
+| 016493 | [Google Cloud: Scheduled Reporting — Recovery for Help Desk](Project_016493/README.md) |
+| 016494 | [Google Cloud: Scheduled Reporting — Reporting for Help Desk](Project_016494/README.md) |
+| 016495 | [Google Cloud: Scheduled Reporting — Usability Improvement for Help Desk](Project_016495/README.md) |
+| 016496 | [Google Cloud: Scheduled Reporting — Baseline Setup for Portfolio Demo](Project_016496/README.md) |
+| 016497 | [Google Cloud: Scheduled Reporting — Automation for Portfolio Demo](Project_016497/README.md) |
+| 016498 | [Google Cloud: Scheduled Reporting — Recovery for Portfolio Demo](Project_016498/README.md) |
+| 016499 | [Google Cloud: Scheduled Reporting — Reporting for Portfolio Demo](Project_016499/README.md) |
+| 016500 | [Google Cloud: Scheduled Reporting — Usability Improvement for Portfolio Demo](Project_016500/README.md) |
 
 [Back to the portfolio home](../README.md)
