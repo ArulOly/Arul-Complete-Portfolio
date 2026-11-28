@@ -4,7 +4,7 @@ This collection contains guide-based Greenbone exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 240
+**Projects documented** 260
 
 ## Project categories
 
@@ -281,5 +281,25 @@ Save the source as `report.xsl` and the fixture below as `report.xml`. Run `xslt
 | 031238 | [Greenbone: Backup Verification — Recovery for Two-Node Lab](Project_031238/README.md) |
 | 031239 | [Greenbone: Backup Verification — Reporting for Two-Node Lab](Project_031239/README.md) |
 | 031240 | [Greenbone: Backup Verification — Usability Improvement for Two-Node Lab](Project_031240/README.md) |
+| 031241 | [Greenbone: Backup Verification — Baseline Setup for Help Desk](Project_031241/README.md) |
+| 031242 | [Greenbone: Backup Verification — Automation for Help Desk](Project_031242/README.md) |
+| 031243 | [Greenbone: Backup Verification — Recovery for Help Desk](Project_031243/README.md) |
+| 031244 | [Greenbone: Backup Verification — Reporting for Help Desk](Project_031244/README.md) |
+| 031245 | [Greenbone: Backup Verification — Usability Improvement for Help Desk](Project_031245/README.md) |
+| 031246 | [Greenbone: Backup Verification — Baseline Setup for Portfolio Demo](Project_031246/README.md) |
+| 031247 | [Greenbone: Backup Verification — Automation for Portfolio Demo](Project_031247/README.md) |
+| 031248 | [Greenbone: Backup Verification — Recovery for Portfolio Demo](Project_031248/README.md) |
+| 031249 | [Greenbone: Backup Verification — Reporting for Portfolio Demo](Project_031249/README.md) |
+| 031250 | [Greenbone: Backup Verification — Usability Improvement for Portfolio Demo](Project_031250/README.md) |
+| 031251 | [Greenbone: Data Import — Baseline Setup for School Lab](Project_031251/README.md) |
+| 031252 | [Greenbone: Data Import — Automation for School Lab](Project_031252/README.md) |
+| 031253 | [Greenbone: Data Import — Recovery for School Lab](Project_031253/README.md) |
+| 031254 | [Greenbone: Data Import — Reporting for School Lab](Project_031254/README.md) |
+| 031255 | [Greenbone: Data Import — Usability Improvement for School Lab](Project_031255/README.md) |
+| 031256 | [Greenbone: Data Import — Baseline Setup for Small Business](Project_031256/README.md) |
+| 031257 | [Greenbone: Data Import — Automation for Small Business](Project_031257/README.md) |
+| 031258 | [Greenbone: Data Import — Recovery for Small Business](Project_031258/README.md) |
+| 031259 | [Greenbone: Data Import — Reporting for Small Business](Project_031259/README.md) |
+| 031260 | [Greenbone: Data Import — Usability Improvement for Small Business](Project_031260/README.md) |
 
 [Back to the portfolio home](../README.md)
