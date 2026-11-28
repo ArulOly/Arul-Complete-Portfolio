@@ -4,7 +4,7 @@ This collection contains guide-based Terraform exercises covering local data pro
 
 **Guides discovered** 1000
 
-**Projects documented** 840
+**Projects documented** 860
 
 ## Project categories
 
@@ -881,5 +881,25 @@ Copy an embedded configuration to a local practice directory and follow the proj
 | 046838 | [Terraform: Documentation Generation — Recovery for Two-Node Lab](Project_046838/README.md) |
 | 046839 | [Terraform: Documentation Generation — Reporting for Two-Node Lab](Project_046839/README.md) |
 | 046840 | [Terraform: Documentation Generation — Usability Improvement for Two-Node Lab](Project_046840/README.md) |
+| 046841 | [Terraform: Documentation Generation — Baseline Setup for Help Desk](Project_046841/README.md) |
+| 046842 | [Terraform: Documentation Generation — Automation for Help Desk](Project_046842/README.md) |
+| 046843 | [Terraform: Documentation Generation — Recovery for Help Desk](Project_046843/README.md) |
+| 046844 | [Terraform: Documentation Generation — Reporting for Help Desk](Project_046844/README.md) |
+| 046845 | [Terraform: Documentation Generation — Usability Improvement for Help Desk](Project_046845/README.md) |
+| 046846 | [Terraform: Documentation Generation — Baseline Setup for Portfolio Demo](Project_046846/README.md) |
+| 046847 | [Terraform: Documentation Generation — Automation for Portfolio Demo](Project_046847/README.md) |
+| 046848 | [Terraform: Documentation Generation — Recovery for Portfolio Demo](Project_046848/README.md) |
+| 046849 | [Terraform: Documentation Generation — Reporting for Portfolio Demo](Project_046849/README.md) |
+| 046850 | [Terraform: Documentation Generation — Usability Improvement for Portfolio Demo](Project_046850/README.md) |
+| 046851 | [Terraform: Automation — Baseline Setup for School Lab](Project_046851/README.md) |
+| 046852 | [Terraform: Automation — Automation for School Lab](Project_046852/README.md) |
+| 046853 | [Terraform: Automation — Recovery for School Lab](Project_046853/README.md) |
+| 046854 | [Terraform: Automation — Reporting for School Lab](Project_046854/README.md) |
+| 046855 | [Terraform: Automation — Usability Improvement for School Lab](Project_046855/README.md) |
+| 046856 | [Terraform: Automation — Baseline Setup for Small Business](Project_046856/README.md) |
+| 046857 | [Terraform: Automation — Automation for Small Business](Project_046857/README.md) |
+| 046858 | [Terraform: Automation — Recovery for Small Business](Project_046858/README.md) |
+| 046859 | [Terraform: Automation — Reporting for Small Business](Project_046859/README.md) |
+| 046860 | [Terraform: Automation — Usability Improvement for Small Business](Project_046860/README.md) |
 
 [Back to the portfolio home](../README.md)
