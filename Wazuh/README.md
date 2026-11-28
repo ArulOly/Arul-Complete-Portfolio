@@ -4,7 +4,7 @@ This collection contains guide-based Wazuh exercises covering local data process
 
 **Guides discovered** 1000
 
-**Projects documented** 420
+**Projects documented** 440
 
 ## Project categories
 
@@ -461,5 +461,25 @@ In a disposable Wazuh manager, store the XML as a local custom rule in the manag
 | 030418 | [Wazuh: Alerting — Recovery for Public Dataset](Project_030418/README.md) |
 | 030419 | [Wazuh: Alerting — Reporting for Public Dataset](Project_030419/README.md) |
 | 030420 | [Wazuh: Alerting — Usability Improvement for Public Dataset](Project_030420/README.md) |
+| 030421 | [Wazuh: Alerting — Baseline Setup for Branch Office Simulator](Project_030421/README.md) |
+| 030422 | [Wazuh: Alerting — Automation for Branch Office Simulator](Project_030422/README.md) |
+| 030423 | [Wazuh: Alerting — Recovery for Branch Office Simulator](Project_030423/README.md) |
+| 030424 | [Wazuh: Alerting — Reporting for Branch Office Simulator](Project_030424/README.md) |
+| 030425 | [Wazuh: Alerting — Usability Improvement for Branch Office Simulator](Project_030425/README.md) |
+| 030426 | [Wazuh: Alerting — Baseline Setup for Offline Classroom](Project_030426/README.md) |
+| 030427 | [Wazuh: Alerting — Automation for Offline Classroom](Project_030427/README.md) |
+| 030428 | [Wazuh: Alerting — Recovery for Offline Classroom](Project_030428/README.md) |
+| 030429 | [Wazuh: Alerting — Reporting for Offline Classroom](Project_030429/README.md) |
+| 030430 | [Wazuh: Alerting — Usability Improvement for Offline Classroom](Project_030430/README.md) |
+| 030431 | [Wazuh: Alerting — Baseline Setup for Single-Host Lab](Project_030431/README.md) |
+| 030432 | [Wazuh: Alerting — Automation for Single-Host Lab](Project_030432/README.md) |
+| 030433 | [Wazuh: Alerting — Recovery for Single-Host Lab](Project_030433/README.md) |
+| 030434 | [Wazuh: Alerting — Reporting for Single-Host Lab](Project_030434/README.md) |
+| 030435 | [Wazuh: Alerting — Usability Improvement for Single-Host Lab](Project_030435/README.md) |
+| 030436 | [Wazuh: Alerting — Baseline Setup for Two-Node Lab](Project_030436/README.md) |
+| 030437 | [Wazuh: Alerting — Automation for Two-Node Lab](Project_030437/README.md) |
+| 030438 | [Wazuh: Alerting — Recovery for Two-Node Lab](Project_030438/README.md) |
+| 030439 | [Wazuh: Alerting — Reporting for Two-Node Lab](Project_030439/README.md) |
+| 030440 | [Wazuh: Alerting — Usability Improvement for Two-Node Lab](Project_030440/README.md) |
 
 [Back to the portfolio home](../README.md)
