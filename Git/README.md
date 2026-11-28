@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 620
+**Projects documented** 640
 
 ## Project categories
 
@@ -661,5 +661,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038618 | [Git: Service Check — Recovery for Public Dataset](Project_038618/README.md) |
 | 038619 | [Git: Service Check — Reporting for Public Dataset](Project_038619/README.md) |
 | 038620 | [Git: Service Check — Usability Improvement for Public Dataset](Project_038620/README.md) |
+| 038621 | [Git: Service Check — Baseline Setup for Branch Office Simulator](Project_038621/README.md) |
+| 038622 | [Git: Service Check — Automation for Branch Office Simulator](Project_038622/README.md) |
+| 038623 | [Git: Service Check — Recovery for Branch Office Simulator](Project_038623/README.md) |
+| 038624 | [Git: Service Check — Reporting for Branch Office Simulator](Project_038624/README.md) |
+| 038625 | [Git: Service Check — Usability Improvement for Branch Office Simulator](Project_038625/README.md) |
+| 038626 | [Git: Service Check — Baseline Setup for Offline Classroom](Project_038626/README.md) |
+| 038627 | [Git: Service Check — Automation for Offline Classroom](Project_038627/README.md) |
+| 038628 | [Git: Service Check — Recovery for Offline Classroom](Project_038628/README.md) |
+| 038629 | [Git: Service Check — Reporting for Offline Classroom](Project_038629/README.md) |
+| 038630 | [Git: Service Check — Usability Improvement for Offline Classroom](Project_038630/README.md) |
+| 038631 | [Git: Service Check — Baseline Setup for Single-Host Lab](Project_038631/README.md) |
+| 038632 | [Git: Service Check — Automation for Single-Host Lab](Project_038632/README.md) |
+| 038633 | [Git: Service Check — Recovery for Single-Host Lab](Project_038633/README.md) |
+| 038634 | [Git: Service Check — Reporting for Single-Host Lab](Project_038634/README.md) |
+| 038635 | [Git: Service Check — Usability Improvement for Single-Host Lab](Project_038635/README.md) |
+| 038636 | [Git: Service Check — Baseline Setup for Two-Node Lab](Project_038636/README.md) |
+| 038637 | [Git: Service Check — Automation for Two-Node Lab](Project_038637/README.md) |
+| 038638 | [Git: Service Check — Recovery for Two-Node Lab](Project_038638/README.md) |
+| 038639 | [Git: Service Check — Reporting for Two-Node Lab](Project_038639/README.md) |
+| 038640 | [Git: Service Check — Usability Improvement for Two-Node Lab](Project_038640/README.md) |
 
 [Back to the portfolio home](../README.md)
