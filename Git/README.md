@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 820
+**Projects documented** 840
 
 ## Project categories
 
@@ -861,5 +861,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038818 | [Git: Documentation Generation — Recovery for Public Dataset](Project_038818/README.md) |
 | 038819 | [Git: Documentation Generation — Reporting for Public Dataset](Project_038819/README.md) |
 | 038820 | [Git: Documentation Generation — Usability Improvement for Public Dataset](Project_038820/README.md) |
+| 038821 | [Git: Documentation Generation — Baseline Setup for Branch Office Simulator](Project_038821/README.md) |
+| 038822 | [Git: Documentation Generation — Automation for Branch Office Simulator](Project_038822/README.md) |
+| 038823 | [Git: Documentation Generation — Recovery for Branch Office Simulator](Project_038823/README.md) |
+| 038824 | [Git: Documentation Generation — Reporting for Branch Office Simulator](Project_038824/README.md) |
+| 038825 | [Git: Documentation Generation — Usability Improvement for Branch Office Simulator](Project_038825/README.md) |
+| 038826 | [Git: Documentation Generation — Baseline Setup for Offline Classroom](Project_038826/README.md) |
+| 038827 | [Git: Documentation Generation — Automation for Offline Classroom](Project_038827/README.md) |
+| 038828 | [Git: Documentation Generation — Recovery for Offline Classroom](Project_038828/README.md) |
+| 038829 | [Git: Documentation Generation — Reporting for Offline Classroom](Project_038829/README.md) |
+| 038830 | [Git: Documentation Generation — Usability Improvement for Offline Classroom](Project_038830/README.md) |
+| 038831 | [Git: Documentation Generation — Baseline Setup for Single-Host Lab](Project_038831/README.md) |
+| 038832 | [Git: Documentation Generation — Automation for Single-Host Lab](Project_038832/README.md) |
+| 038833 | [Git: Documentation Generation — Recovery for Single-Host Lab](Project_038833/README.md) |
+| 038834 | [Git: Documentation Generation — Reporting for Single-Host Lab](Project_038834/README.md) |
+| 038835 | [Git: Documentation Generation — Usability Improvement for Single-Host Lab](Project_038835/README.md) |
+| 038836 | [Git: Documentation Generation — Baseline Setup for Two-Node Lab](Project_038836/README.md) |
+| 038837 | [Git: Documentation Generation — Automation for Two-Node Lab](Project_038837/README.md) |
+| 038838 | [Git: Documentation Generation — Recovery for Two-Node Lab](Project_038838/README.md) |
+| 038839 | [Git: Documentation Generation — Reporting for Two-Node Lab](Project_038839/README.md) |
+| 038840 | [Git: Documentation Generation — Usability Improvement for Two-Node Lab](Project_038840/README.md) |
 
 [Back to the portfolio home](../README.md)
