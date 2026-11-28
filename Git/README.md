@@ -4,7 +4,7 @@ This collection contains guide-based Git exercises covering local data processin
 
 **Guides discovered** 1000
 
-**Projects documented** 400
+**Projects documented** 420
 
 ## Project categories
 
@@ -441,5 +441,25 @@ Open a project, save its embedded source, and use the documented run command.
 | 038398 | [Git: Dashboard — Recovery for Portfolio Demo](Project_038398/README.md) |
 | 038399 | [Git: Dashboard — Reporting for Portfolio Demo](Project_038399/README.md) |
 | 038400 | [Git: Dashboard — Usability Improvement for Portfolio Demo](Project_038400/README.md) |
+| 038401 | [Git: Alerting — Baseline Setup for School Lab](Project_038401/README.md) |
+| 038402 | [Git: Alerting — Automation for School Lab](Project_038402/README.md) |
+| 038403 | [Git: Alerting — Recovery for School Lab](Project_038403/README.md) |
+| 038404 | [Git: Alerting — Reporting for School Lab](Project_038404/README.md) |
+| 038405 | [Git: Alerting — Usability Improvement for School Lab](Project_038405/README.md) |
+| 038406 | [Git: Alerting — Baseline Setup for Small Business](Project_038406/README.md) |
+| 038407 | [Git: Alerting — Automation for Small Business](Project_038407/README.md) |
+| 038408 | [Git: Alerting — Recovery for Small Business](Project_038408/README.md) |
+| 038409 | [Git: Alerting — Reporting for Small Business](Project_038409/README.md) |
+| 038410 | [Git: Alerting — Usability Improvement for Small Business](Project_038410/README.md) |
+| 038411 | [Git: Alerting — Baseline Setup for Home Development](Project_038411/README.md) |
+| 038412 | [Git: Alerting — Automation for Home Development](Project_038412/README.md) |
+| 038413 | [Git: Alerting — Recovery for Home Development](Project_038413/README.md) |
+| 038414 | [Git: Alerting — Reporting for Home Development](Project_038414/README.md) |
+| 038415 | [Git: Alerting — Usability Improvement for Home Development](Project_038415/README.md) |
+| 038416 | [Git: Alerting — Baseline Setup for Public Dataset](Project_038416/README.md) |
+| 038417 | [Git: Alerting — Automation for Public Dataset](Project_038417/README.md) |
+| 038418 | [Git: Alerting — Recovery for Public Dataset](Project_038418/README.md) |
+| 038419 | [Git: Alerting — Reporting for Public Dataset](Project_038419/README.md) |
+| 038420 | [Git: Alerting — Usability Improvement for Public Dataset](Project_038420/README.md) |
 
 [Back to the portfolio home](../README.md)
